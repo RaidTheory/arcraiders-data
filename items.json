@@ -1230,7 +1230,7 @@
         "itemId": "rubber_parts"
       },
       {
-        "amount": 9,
+        "amount": 8,
         "itemName": "Plastic Parts",
         "itemId": "plastic_parts"
       }
@@ -1392,8 +1392,19 @@
     "agility": 60,
     "stealth": 14,
     "imageFilename": "https://cdn.arctracker.io/items/arpeggio_i.png",
-    "craftable": false,
-    "craftableUsing": [],
+    "craftable": true,
+    "craftableUsing": [
+      {
+        "amount": 1,
+        "itemName": "Mechanical Components",
+        "itemId": "mechanical_components"
+      },
+      {
+        "amount": 3,
+        "itemName": "Magnet",
+        "itemId": "magnet"
+      }
+    ],
     "recyclesInto": [],
     "usedForCrafting": []
   },
@@ -1411,8 +1422,19 @@
     "stealth": 12,
     "stationLevelRequired": 2,
     "imageFilename": "https://cdn.arctracker.io/items/venator_i.png",
-    "craftable": false,
-    "craftableUsing": [],
+    "craftable": true,
+    "craftableUsing": [
+      {
+        "amount": 2,
+        "itemName": "Advanced Mechanical Components",
+        "itemId": "advanced_mechanical_components"
+      },
+      {
+        "amount": 4,
+        "itemName": "Magnet",
+        "itemId": "magnet"
+      }
+    ],
     "recyclesInto": [],
     "usedForCrafting": []
   },
@@ -1433,8 +1455,19 @@
     "reducedDurabilityBurnRate": 23,
     "stationLevelRequired": 3,
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-    "craftable": false,
-    "craftableUsing": [],
+    "craftable": true,
+    "craftableUsing": [
+      {
+        "amount": 3,
+        "itemName": "Advanced Mechanical Components",
+        "itemId": "advanced_mechanical_components"
+      },
+      {
+        "amount": 4,
+        "itemName": "Canister",
+        "itemId": "canister"
+      }
+    ],
     "recyclesInto": [],
     "usedForCrafting": []
   },
@@ -1454,8 +1487,19 @@
     "reducedReloadTime": 26,
     "reducedDurabilityBurnRate": 46,
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-    "craftable": false,
-    "craftableUsing": [],
+    "craftable": true,
+    "craftableUsing": [
+      {
+        "amount": 1,
+        "itemName": "Mechanical Components",
+        "itemId": "mechanical_components"
+      },
+      {
+        "amount": 3,
+        "itemName": "Simple Gun Parts",
+        "itemId": "simple_gun_parts"
+      }
+    ],
     "recyclesInto": [],
     "usedForCrafting": []
   },
@@ -1475,8 +1519,19 @@
     "reducedReloadTime": 16,
     "reducedDurabilityBurnRate": 23,
     "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-    "craftable": false,
-    "craftableUsing": [],
+    "craftable": true,
+    "craftableUsing": [
+      {
+        "amount": 1,
+        "itemName": "Mechanical Components",
+        "itemId": "mechanical_components"
+      },
+      {
+        "amount": 3,
+        "itemName": "Simple Gun Parts",
+        "itemId": "simple_gun_parts"
+      }
+    ],
     "recyclesInto": [],
     "usedForCrafting": []
   },
@@ -1517,8 +1572,19 @@
     "reducedReloadTime": 50,
     "reducedDurabilityBurnRate": 70,
     "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
-    "craftable": false,
-    "craftableUsing": [],
+    "craftable": true,
+    "craftableUsing": [
+      {
+        "amount": 1,
+        "itemName": "Mechanical Components",
+        "itemId": "mechanical_components"
+      },
+      {
+        "amount": 2,
+        "itemName": "Medium Gun Parts",
+        "itemId": "medium_gun_parts"
+      }
+    ],
     "recyclesInto": [],
     "usedForCrafting": []
   },
@@ -1559,8 +1625,19 @@
     "increasedFireRate": 45,
     "reducedDurabilityBurnRate": 62,
     "imageFilename": "https://cdn.arctracker.io/items/anvil.png",
-    "craftable": false,
-    "craftableUsing": [],
+    "craftable": true,
+    "craftableUsing": [
+      {
+        "amount": 1,
+        "itemName": "Mechanical Components",
+        "itemId": "mechanical_components"
+      },
+      {
+        "amount": 2,
+        "itemName": "Heavy Gun Parts",
+        "itemId": "heavy_gun_parts"
+      }
+    ],
     "recyclesInto": [],
     "usedForCrafting": []
   },
