@@ -757,6 +757,10 @@
     "stability": 82.4,
     "agility": 60,
     "stealth": 14,
+    "crafting": {
+      "mechanical_components": 1,
+      "magnet": 3
+    },
     "imageFilename": "https://cdn.arctracker.io/items/arpeggio_i.png"
   },
   {
@@ -771,6 +775,10 @@
     "stability": 71.2,
     "agility": 77.6,
     "stealth": 12,
+    "crafting": {
+      "advanced_mechanical_components": 2,
+      "magnet": 4
+    },
     "stationLevelRequired": 2,
     "imageFilename": "https://cdn.arctracker.io/items/venator_i.png"
   },
@@ -789,6 +797,10 @@
     "increasedFireRate": 10,
     "reducedReloadTime": 13,
     "reducedDurabilityBurnRate": 23,
+    "crafting": {
+      "advanced_mechanical_components": 3,
+      "canister": 4
+    },
     "stationLevelRequired": 3,
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png"
   },
@@ -807,6 +819,10 @@
     "increasedFireRate": 20,
     "reducedReloadTime": 26,
     "reducedDurabilityBurnRate": 46,
+    "crafting": {
+      "mechanical_components": 1,
+      "simple_gun_parts": 3
+    },
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png"
   },
   {
@@ -824,6 +840,10 @@
     "increasedFireRate": 22,
     "reducedReloadTime": 16,
     "reducedDurabilityBurnRate": 23,
+    "crafting": {
+      "mechanical_components": 1,
+      "simple_gun_parts": 3
+    },
     "imageFilename": "https://cdn.arctracker.io/items/venator.png"
   },
   {
@@ -841,6 +861,10 @@
     "increasedFireRate": 40,
     "reducedReloadTime": 25,
     "reducedDurabilityBurnRate": 46,
+    "crafting": {
+      "mechanical_components": 1,
+      "medium_gun_parts": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png"
   },
   {
@@ -892,6 +916,10 @@
     "reducedDispersionRecoveryTime": 45,
     "increasedFireRate": 45,
     "reducedDurabilityBurnRate": 62,
+    "crafting": {
+      "mechanical_components": 1,
+      "heavy_gun_parts": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/anvil.png"
   },
   {
