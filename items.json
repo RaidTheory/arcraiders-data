@@ -882,6 +882,10 @@
     "increasedFireRate": 60,
     "reducedReloadTime": 50,
     "reducedDurabilityBurnRate": 70,
+    "crafting": {
+      "mechanical_components": 1,
+      "medium_gun_parts": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png"
   },
   {
