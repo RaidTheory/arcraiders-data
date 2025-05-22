@@ -2260,32 +2260,144 @@
     "id": "binoculars",
     "name": "Binoculars",
     "description": "Optical instrument for viewing distant objects.",
-    "type": "Gear",
-    "craftable": true,
-    "craftableUsing": [
-      {
-        "amount": 8,
-        "itemName": "Plastic Parts",
-        "itemId": "plastic_parts"
-      },
-      {
-        "amount": 4,
-        "itemName": "Rubber Parts",
-        "itemId": "rubber_parts"
-      }
-    ],
-    "recyclesInto": [
-      {
-        "amount": 8,
-        "itemName": "Plastic Parts",
-        "itemId": "plastic_parts"
-      },
-      {
-        "amount": 4,
-        "itemName": "Rubber Parts",
-        "itemId": "rubber_parts"
-      }
-    ],
-    "usedForCrafting": []
+    "type": "Gear"
+  },
+  {
+    "id": "silencer_i",
+    "name": "Silencer I",
+    "description": "A standard silencer attachment.",
+    "type": "Weapon Mod"
+  },
+  {
+    "id": "silencer_i_recipe",
+    "name": "Silencer I Recipe",
+    "description": "A recipe to craft the Silencer I.",
+    "type": "Recipe"
+  },
+  {
+    "id": "vita_shot",
+    "name": "Vita Shot",
+    "description": "A medical stimulant.",
+    "type": "Consumable"
+  },
+  {
+    "id": "vita_spray",
+    "name": "Vita Spray",
+    "description": "A healing spray.",
+    "type": "Consumable"
+  },
+  {
+    "id": "jolt_mine",
+    "name": "Jolt Mine",
+    "description": "An electrifying trap.",
+    "type": "Gear"
+  },
+  {
+    "id": "dam_staff_room_key",
+    "name": "Dam Staff Room Key",
+    "description": "A key to the staff room in The Dam.",
+    "type": "Key"
+  },
+  {
+    "id": "buried_city_residential_master_key",
+    "name": "Buried City Residential Master Key",
+    "description": "A master key for residential areas in Buried City.",
+    "type": "Key"
+  },
+  {
+    "id": "barricade_kit",
+    "name": "Barricade Kit",
+    "description": "A kit to deploy a temporary barricade.",
+    "type": "Gear"
+  },
+  {
+    "id": "defibrillator",
+    "name": "Defibrillator",
+    "description": "A device to revive incapacitated individuals.",
+    "type": "Gear"
+  },
+  {
+    "id": "buried_city_town_hall_key",
+    "name": "Buried City Town Hall Key",
+    "description": "A key to the Town Hall in Buried City.",
+    "type": "Key"
+  },
+  {
+    "id": "trigger_nade",
+    "name": "Trigger Nade",
+    "description": "A remotely detonated explosive.",
+    "type": "Gear"
+  },
+  {
+    "id": "spaceport_container_storage_key",
+    "name": "Spaceport Container Storage Key",
+    "description": "A key for container storage at the Spaceport.",
+    "type": "Key"
+  },
+  {
+    "id": "burletta_i",
+    "name": "Burletta I",
+    "description": "A Tier 1 Burletta weapon.",
+    "type": "Weapon"
+  },
+  {
+    "id": "spaceport_warehouse_key",
+    "name": "Spaceport Warehouse Key",
+    "description": "A key to a warehouse in the Spaceport.",
+    "type": "Key"
+  },
+  {
+    "id": "osprey_i",
+    "name": "Osprey I",
+    "description": "A Tier 1 Osprey weapon.",
+    "type": "Weapon"
+  },
+  {
+    "id": "buried_city_hospital_key",
+    "name": "Buried City Hospital Key",
+    "description": "A key to areas within the Buried City Hospital.",
+    "type": "Key"
+  },
+  {
+    "id": "padded_stock",
+    "name": "Padded Stock",
+    "description": "A padded stock weapon modification.",
+    "type": "Weapon Mod"
+  },
+  {
+    "id": "padded_stock_recipe",
+    "name": "Padded Stock Recipe",
+    "description": "A recipe to craft the Padded Stock.",
+    "type": "Recipe"
+  },
+  {
+    "id": "adrenaline_shot",
+    "name": "Adrenaline Shot",
+    "description": "Provides a temporary boost.",
+    "type": "Consumable"
+  },
+  {
+    "id": "gas_grenades",
+    "name": "Gas Grenades",
+    "description": "Grenades that release a cloud of debilitating gas.",
+    "type": "Gear"
+  },
+  {
+    "id": "torrente_i",
+    "name": "Torrente I",
+    "description": "A Tier 1 Torrente weapon.",
+    "type": "Weapon"
+  },
+  {
+    "id": "dam_utility_key",
+    "name": "Dam Utility Key",
+    "description": "A key for utility access in The Dam.",
+    "type": "Key"
+  },
+  {
+    "id": "tempest_i",
+    "name": "Tempest I",
+    "description": "A Tier 1 Tempest weapon.",
+    "type": "Weapon"
   }
 ]

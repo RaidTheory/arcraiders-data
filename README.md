@@ -33,6 +33,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 All game content, including but not limited to game mechanics, items, names, and imagery, is copyright © Embark Studios AB. This repository is a community resource and is not affiliated with or endorsed by Embark Studios AB.
 
+## Attribution
+
+If you use this data in your project, please include attribution by linking to this repository:
+```
+https://github.com/RaidTheory/arcraiders-data
+```
+
 ## Community
 
 Join our Discord community to discuss ARC Raiders, tools, and connect with other community developers:
