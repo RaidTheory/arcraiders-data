@@ -4,20 +4,14 @@
     "name": "Fabric",
     "description": "A common crafting material.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/fabric.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/fabric.png"
   },
   {
     "id": "tick_pod",
     "name": "Tick Pod",
     "description": "The explosive pod from a Tick.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/tick_pod.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/tick_pod.png"
   },
   {
     "id": "explosive_mixture",
@@ -39,8 +33,6 @@
     "name": "Dog Collar",
     "description": "A worn dog collar.",
     "type": "Quest Item",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "fabric": 8,
       "metal_parts": 1
@@ -51,8 +43,6 @@
     "name": "Torn Blanket",
     "description": "A tattered piece of cloth.",
     "type": "Material",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "fabric": 12
     }
@@ -61,19 +51,13 @@
     "id": "lemon",
     "name": "Lemon",
     "description": "A sour citrus fruit.",
-    "type": "Consumable",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Consumable"
   },
   {
     "id": "apricot",
     "name": "Apricot",
     "description": "A sweet, orange fruit.",
-    "type": "Consumable",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Consumable"
   },
   {
     "id": "metal_parts",
@@ -83,40 +67,28 @@
     "rarity": "Common",
     "value": 75,
     "weightKg": 0.15,
-    "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png"
   },
   {
     "id": "rubber_parts",
     "name": "Rubber Parts",
     "description": "Scrap rubber pieces for crafting.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/rubber_parts.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/rubber_parts.png"
   },
   {
     "id": "plastic_parts",
     "name": "Plastic Parts",
     "description": "Scrap plastic pieces for crafting.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png"
   },
   {
     "id": "voltage_converter",
     "name": "Voltage Converter",
     "description": "A device that adjusts electrical voltage for various crafting purposes.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/voltage_converter.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/voltage_converter.png"
   },
   {
     "id": "arc_motion_core",
@@ -154,8 +126,6 @@
     "description": "Advanced circuitry used in ARC technology.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/arc_circuitry.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "arc_alloys": 2
     }
@@ -166,8 +136,6 @@
     "description": "A small electric motor, useful for various devices.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/motor.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "oil": 2,
       "mechanical_components": 1
@@ -178,10 +146,7 @@
     "name": "Queen Part",
     "description": "A rare part salvaged from a Queen unit.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/queen_part.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/queen_part.png"
   },
   {
     "id": "wires",
@@ -189,8 +154,6 @@
     "description": "A bundle of conductive wires for crafting.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/wires.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "rubber_parts": 2
     }
@@ -201,8 +164,6 @@
     "description": "A control module used to operate Hornet drones or vehicles.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/hornet_driver.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "arc_alloys": 1
     }
@@ -213,8 +174,6 @@
     "description": "A damaged motherboard, useful for salvage.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/fried_motherboard.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "plastic_parts": 5,
       "electrical_components": 1
@@ -226,8 +185,6 @@
     "description": "A set of tools, rusted but still usable for crafting.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/rusted_tools.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "metal_parts": 14,
       "steel_springs": 1
@@ -239,8 +196,6 @@
     "description": "A control module used to operate Wasp drones or vehicles.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "arc_alloys": 2
     }
@@ -250,30 +205,21 @@
     "name": "Rusted Gear",
     "description": "A gear covered in rust, but still functional.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/rusted_gear.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/rusted_gear.png"
   },
   {
     "id": "sentinel_part",
     "name": "Sentinel Part",
     "description": "A salvaged component from a Sentinel unit.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/sentinel_part.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/sentinel_part.png"
   },
   {
     "id": "rollbot_part",
     "name": "Rollbot Part",
     "description": "A salvaged component from a Rollbot unit.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/rollbot_part.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/rollbot_part.png"
   },
   {
     "id": "synthesized_fuel",
@@ -281,8 +227,6 @@
     "description": "A canister of synthetic fuel blend.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "oil": 1,
       "chemicals": 14
@@ -294,8 +238,6 @@
     "description": "A burner module from a Fireball unit.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/fireball_burner.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "arc_alloys": 1,
       "chemicals": 1
@@ -306,10 +248,7 @@
     "name": "Laboratory Reagents",
     "description": "A set of chemical reagents used in laboratory experiments.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png"
   },
   {
     "id": "syringe",
@@ -347,10 +286,7 @@
     "name": "Snitch Scanner",
     "description": "A handheld scanner for detecting hidden transmitters.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/snitch_scanner.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/snitch_scanner.png"
   },
   {
     "id": "rusted_shut_medical_kit",
@@ -358,8 +294,6 @@
     "description": "A medical kit rusted shut, its contents unknown.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/rusted_shut_medical_kit.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "syringe": 2,
       "antiseptic": 1
@@ -371,8 +305,6 @@
     "description": "A salvaged component from a Bastion unit.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/bastion_part.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "arc_motion_core": 1,
       "arc_alloys": 2
@@ -383,39 +315,27 @@
     "name": "Spring",
     "description": "A tightly wound coil of metal, useful for crafting mechanisms.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/spring.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/spring.png"
   },
   {
     "id": "heavy_gun_parts",
     "name": "Heavy Gun Parts",
     "description": "Specialized components salvaged from heavy firearms, used in advanced weapon crafting.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts.png"
   },
   {
     "id": "arc_alloy",
     "name": "ARC Alloy",
     "description": "Specialized alloys from ARC technology.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/arc_alloy.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/arc_alloy.png"
   },
   {
     "id": "ferro_i",
     "name": "Ferro I",
     "description": "A basic Ferro rifle.",
-    "type": "Weapon",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Weapon"
   },
   {
     "id": "light_ammo",
@@ -429,10 +349,7 @@
       "Hairpin",
       "Bobcat",
       "Stitcher"
-    ],
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    ]
   },
   {
     "id": "heavy_ammo",
@@ -441,10 +358,7 @@
     "type": "Ammo",
     "compatibleWith": [
       "Anvil"
-    ],
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    ]
   },
   {
     "id": "medium_ammo",
@@ -453,19 +367,13 @@
     "type": "Ammo",
     "compatibleWith": [
       "Arpeggio"
-    ],
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    ]
   },
   {
     "id": "herbal_bandages",
     "name": "Herbal Bandages",
     "description": "Bandages infused with healing herbs.",
-    "type": "Consumable",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Consumable"
   },
   {
     "id": "sterilized_bandage",
@@ -477,44 +385,31 @@
     "crafting": {
       "fabric": 12,
       "antiseptic": 1
-    },
-    "recyclesInto": {}
+    }
   },
   {
     "id": "lure_grenade",
     "name": "Lure Grenade",
     "description": "A grenade that attracts attention.",
-    "type": "Gear",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Gear"
   },
   {
     "id": "jump_mines",
     "name": "Jump Mines",
     "description": "Proximity mines that launch into the air.",
-    "type": "Gear",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Gear"
   },
   {
     "id": "ferro_iv",
     "name": "Ferro IV",
     "description": "An advanced Ferro device.",
-    "type": "Weapon",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Weapon"
   },
   {
     "id": "blaze_grenades",
     "name": "Blaze Grenades",
     "description": "Incendiary grenades.",
-    "type": "Gear",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Gear"
   },
   {
     "id": "apreggio_i",
@@ -539,10 +434,7 @@
       "stealth": 20
     },
     "weightKg": 5.8,
-    "value": 2000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 2000
   },
   {
     "id": "apreggio_iv",
@@ -576,54 +468,37 @@
       "70% Reduced Durability Burn Rate"
     ],
     "weightKg": 6,
-    "value": 7000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 7000
   },
   {
     "id": "rubber_duck",
     "name": "Rubber Duck",
     "description": "A squeaky yellow rubber duck.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "faded_photograph",
     "name": "Faded Photograph",
     "description": "An old, faded photograph.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "arc_powercell",
     "name": "ARC Powercell",
     "description": "A powerful energy cell used in ARC technology.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "water_filter",
     "name": "Water Filter",
     "description": "A portable filtration device for purifying water.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "water_pump",
     "name": "Water Pump",
     "description": "A small electric pump used to move water.",
     "type": "Misc",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "metal_parts": 6,
       "oil": 3
@@ -633,10 +508,7 @@
     "id": "sensor",
     "name": "Sensor",
     "description": "A sensitive electronic sensor used for environmental monitoring.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "advanced_electrical_components",
@@ -657,18 +529,13 @@
     "id": "deflated_football",
     "name": "Deflated Football",
     "description": "A worn, deflated football. Needs air but still has sentimental value.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "duct_tape",
     "name": "Duct Tape",
     "description": "A roll of strong, multipurpose adhesive tape. Useful for all kinds of repairs.",
     "type": "Misc",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "fabric": 3
     }
@@ -678,8 +545,6 @@
     "name": "Flute",
     "description": "A simple musical instrument, lightweight and portable.",
     "type": "Misc",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "plastic_parts": 10
     }
@@ -688,10 +553,7 @@
     "id": "empty_wine_bottle",
     "name": "Empty Wine Bottle",
     "description": "A glass bottle once filled with wine, now empty.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "light_impact_grenade",
@@ -713,8 +575,6 @@
     "name": "Oil",
     "description": "A small container of multipurpose oil, useful for maintenance and crafting.",
     "type": "Misc",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "chemicals": 3
     }
@@ -723,64 +583,44 @@
     "id": "snap_hook",
     "name": "Snap Hook",
     "description": "A sturdy metal hook with a spring-loaded gate, used for fast attachment.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "esr_analyzer",
     "name": "ESR Analyzer",
     "description": "A specialized medical device for analyzing erythrocyte sedimentation rates.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "rocketeer_part",
     "name": "Rocketeer Part",
     "description": "A salvaged component from a Rocketeer unit.",
     "type": "Misc",
-    "imageFilename": "https://cdn.arctracker.io/items/rocketeer_part.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/rocketeer_part.png"
   },
   {
     "id": "wolfpack",
     "name": "WolfPack",
     "description": "A compact bundle of high-explosive charges, commonly used by Raiders.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "bison_driver",
     "name": "Bison Driver",
     "description": "A critical control component from a Bison vehicle.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "equalizer",
     "name": "Equalizer",
     "description": "A powerful, rare weapon or device used to level the playing field.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "camera_lens",
     "name": "Camera Lens",
     "description": "A precision optical lens for cameras, fragile but valuable.",
     "type": "Misc",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "plastic_parts": 8
     }
@@ -789,10 +629,7 @@
     "id": "film_reel",
     "name": "Film Reel",
     "description": "A reel of photographic film, used for recording images.",
-    "type": "Misc",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Misc"
   },
   {
     "id": "electrical_components",
@@ -829,8 +666,7 @@
     "crafting": {
       "rubber_parts": 12,
       "plastic_parts": 9
-    },
-    "recyclesInto": {}
+    }
   },
   {
     "id": "raider_augment_ii",
@@ -852,8 +688,7 @@
     "crafting": {
       "rubber_parts": 20,
       "processor": 2
-    },
-    "recyclesInto": {}
+    }
   },
   {
     "id": "canister",
@@ -861,8 +696,6 @@
     "description": "A metal container used for storing pressurized gas or fuel, essential for certain advanced weapons and devices.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/canister.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "plastic_parts": 3
     }
@@ -892,8 +725,6 @@
     "description": "Basic components salvaged from common firearms, used in weapon crafting.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/simple_gun_parts.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "metal_parts": 3
     }
@@ -926,10 +757,7 @@
     "stability": 82.4,
     "agility": 60,
     "stealth": 14,
-    "imageFilename": "https://cdn.arctracker.io/items/arpeggio_i.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/arpeggio_i.png"
   },
   {
     "id": "venator_i",
@@ -944,10 +772,7 @@
     "agility": 77.6,
     "stealth": 12,
     "stationLevelRequired": 2,
-    "imageFilename": "https://cdn.arctracker.io/items/venator_i.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/venator_i.png"
   },
   {
     "id": "vulcano_i",
@@ -965,10 +790,7 @@
     "reducedReloadTime": 13,
     "reducedDurabilityBurnRate": 23,
     "stationLevelRequired": 3,
-    "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/vulcano.png"
   },
   {
     "id": "vulcano_ii",
@@ -985,10 +807,7 @@
     "increasedFireRate": 20,
     "reducedReloadTime": 26,
     "reducedDurabilityBurnRate": 46,
-    "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/vulcano.png"
   },
   {
     "id": "venator_ii",
@@ -1005,10 +824,7 @@
     "increasedFireRate": 22,
     "reducedReloadTime": 16,
     "reducedDurabilityBurnRate": 23,
-    "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/venator.png"
   },
   {
     "id": "arpeggio_iii",
@@ -1025,10 +841,7 @@
     "increasedFireRate": 40,
     "reducedReloadTime": 25,
     "reducedDurabilityBurnRate": 46,
-    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png"
   },
   {
     "id": "arpeggio_iv",
@@ -1045,10 +858,7 @@
     "increasedFireRate": 60,
     "reducedReloadTime": 50,
     "reducedDurabilityBurnRate": 70,
-    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png"
   },
   {
     "id": "anvil_iii",
@@ -1065,10 +875,7 @@
     "reducedDispersionRecoveryTime": 30,
     "increasedFireRate": 30,
     "reducedDurabilityBurnRate": 46,
-    "imageFilename": "https://cdn.arctracker.io/items/anvil.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/anvil.png"
   },
   {
     "id": "anvil_iv",
@@ -1085,10 +892,7 @@
     "reducedDispersionRecoveryTime": 45,
     "increasedFireRate": 45,
     "reducedDurabilityBurnRate": 62,
-    "imageFilename": "https://cdn.arctracker.io/items/anvil.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/anvil.png"
   },
   {
     "id": "raider_augment_iii",
@@ -1112,8 +916,7 @@
     "crafting": {
       "electrical_components": 1,
       "processor": 2
-    },
-    "recyclesInto": {}
+    }
   },
   {
     "id": "raider_augment_iv",
@@ -1137,18 +940,14 @@
     "crafting": {
       "power_rod": 1,
       "processor": 4
-    },
-    "recyclesInto": {}
+    }
   },
   {
     "id": "medium_gun_parts",
     "name": "Medium Gun Parts",
     "description": "Components salvaged from medium firearms, used in weapon crafting.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts.png"
   },
   {
     "id": "chemicals",
@@ -1158,10 +957,7 @@
     "rarity": "Common",
     "value": 50,
     "weightKg": 0.15,
-    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
   },
   {
     "id": "power_rod",
@@ -1187,10 +983,7 @@
     "name": "Industrial Battery",
     "description": "A large, high-capacity battery for industrial equipment.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/industrial_battery.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/industrial_battery.png"
   },
   {
     "id": "advanced_electrical_components",
@@ -1213,250 +1006,175 @@
     "name": "Power Cable",
     "description": "A heavy-duty cable used for transmitting electrical power.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/power_cable.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/power_cable.png"
   },
   {
     "id": "faded_photograph",
     "name": "Faded Photograph",
     "description": "A photograph whose details have faded with time.",
     "type": "Valuable",
-    "value": 640,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 640
   },
   {
     "id": "portable_television",
     "name": "Portable Television",
     "description": "A small, outdated portable TV.",
     "type": "Valuable",
-    "value": 1000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 1000
   },
   {
     "id": "deflated_football",
     "name": "Deflated Football",
     "description": "A football that has seen better days.",
     "type": "Valuable",
-    "value": 1000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 1000
   },
   {
     "id": "empty_wine_bottle",
     "name": "Empty Wine Bottle",
     "description": "An empty bottle that once held fine wine.",
     "type": "Valuable",
-    "value": 1000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 1000
   },
   {
     "id": "rubber_ducky",
     "name": "Rubber Ducky",
     "description": "A classic yellow rubber ducky.",
     "type": "Valuable",
-    "value": 1000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 1000
   },
   {
     "id": "cat_bed",
     "name": "Cat Bed",
     "description": "A cozy bed for a beloved feline.",
     "type": "Valuable",
-    "value": 1000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 1000
   },
   {
     "id": "bloated_tuna_can",
     "name": "Bloated Tuna Can",
     "description": "A can of tuna, suspiciously bloated.",
     "type": "Valuable",
-    "value": 1000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 1000
   },
   {
     "id": "coffee_pot",
     "name": "Coffee Pot",
     "description": "A well-used coffee pot.",
     "type": "Valuable",
-    "value": 1000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 1000
   },
   {
     "id": "very_comfortable_pillow",
     "name": "Very Comfortable Pillow",
     "description": "A pillow that's softer than most.",
     "type": "Valuable",
-    "value": 2000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 2000
   },
   {
     "id": "pottery",
     "name": "Pottery",
     "description": "A piece of hand-crafted pottery.",
     "type": "Valuable",
-    "value": 2000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 2000
   },
   {
     "id": "film_reel",
     "name": "Film Reel",
     "description": "A reel of old film, possibly containing memories.",
     "type": "Valuable",
-    "value": 2000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 2000
   },
   {
     "id": "air_freshener",
     "name": "Air Freshener",
     "description": "A scented air freshener, barely fragrant.",
     "type": "Valuable",
-    "value": 2000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 2000
   },
   {
     "id": "poster_natural_wonder",
     "name": "Poster of Natural Wonder",
     "description": "A poster depicting a breathtaking natural scene.",
     "type": "Valuable",
-    "value": 2000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 2000
   },
   {
     "id": "light_bulb",
     "name": "Light Bulb",
     "description": "A fragile glass bulb for lighting.",
     "type": "Valuable",
-    "value": 2000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 2000
   },
   {
     "id": "statuette",
     "name": "Statuette",
     "description": "A small decorative statuette.",
     "type": "Valuable",
-    "value": 3000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 3000
   },
   {
     "id": "silver_teaspoon_set",
     "name": "Silver Teaspoon Set",
     "description": "A set of ornate silver teaspoons.",
     "type": "Valuable",
-    "value": 3000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 3000
   },
   {
     "id": "music_album",
     "name": "Music Album",
     "description": "A classic music album, still in its sleeve.",
     "type": "Valuable",
-    "value": 3000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 3000
   },
   {
     "id": "watch",
     "name": "Watch",
     "description": "A wristwatch that has stopped ticking.",
     "type": "Valuable",
-    "value": 3000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 3000
   },
   {
     "id": "vase",
     "name": "Vase",
     "description": "A decorative vase, possibly valuable.",
     "type": "Valuable",
-    "value": 3000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 3000
   },
   {
     "id": "music_box",
     "name": "Music Box",
     "description": "A music box that plays a haunting tune.",
     "type": "Valuable",
-    "value": 5000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 5000
   },
   {
     "id": "red_coral_jewelry",
     "name": "Red Coral Jewelry",
     "description": "A piece of jewelry made from red coral.",
     "type": "Valuable",
-    "value": 5000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 5000
   },
   {
     "id": "playing_cards",
     "name": "Playing Cards",
     "description": "A deck of playing cards, some missing.",
     "type": "Valuable",
-    "value": 5000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 5000
   },
   {
     "id": "snow_globe",
     "name": "Snow Globe",
     "description": "A globe containing a snowy scene.",
     "type": "Valuable",
-    "value": 7000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 7000
   },
   {
     "id": "lances_mixtape_5th_edition",
     "name": "Lance’s Mixtape (5th Edition)",
     "description": "A rare mixtape, highly sought after by collectors.",
     "type": "Valuable",
-    "value": 10000,
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "value": 10000
   },
   {
     "id": "raider_hatch_key",
@@ -1464,10 +1182,7 @@
     "type": "Key",
     "description": "Unlocks a Raider Hatch.",
     "rarity": "Rare",
-    "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png"
   },
   {
     "id": "medium_shield",
@@ -1486,8 +1201,7 @@
     "crafting": {
       "arc_alloy": 4,
       "voltage_converter": 2
-    },
-    "recyclesInto": {}
+    }
   },
   {
     "id": "zipline",
@@ -1498,10 +1212,7 @@
     "rangeMeters": 60,
     "weight": 0.8,
     "value": 2000,
-    "imageFilename": "https://cdn.arctracker.io/items/zipline.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/zipline.png"
   },
   {
     "id": "arc_flex_rubber",
@@ -1511,10 +1222,7 @@
     "description": "Obtained from ARC enemies or activities. Can be recycled into rubber.",
     "weightKg": 1,
     "value": 1000,
-    "imageFilename": "https://cdn.arctracker.io/items/arc_flex_rubber.png",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "imageFilename": "https://cdn.arctracker.io/items/arc_flex_rubber.png"
   },
   {
     "id": "damaged_heat_sink",
@@ -1525,8 +1233,6 @@
     "weightKg": 2,
     "value": 640,
     "imageFilename": "https://cdn.arctracker.io/items/damaged_heat_sink.png",
-    "craftable": false,
-    "crafting": {},
     "recyclesInto": {
       "metal_parts": 7,
       "wires": 4
@@ -1536,46 +1242,31 @@
     "id": "snap_grenade",
     "name": "Snap Grenade",
     "description": "A grenade that disorients targets.",
-    "type": "Gear",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Gear"
   },
   {
     "id": "heavy_fuse_grenade",
     "name": "Heavy Fuse Grenade",
     "description": "A powerful explosive with a timed fuse.",
-    "type": "Gear",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Gear"
   },
   {
     "id": "showstopper",
     "name": "Showstopper",
     "description": "Unknown",
-    "type": "Gear",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Gear"
   },
   {
     "id": "photoelectric_cloak",
     "name": "Photoelectric Cloak",
     "description": "A cloak that hides your from ARC",
-    "type": "Gear",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Gear"
   },
   {
     "id": "burletta_recipe",
     "name": "Burletta Recipe",
     "description": "A recipe to craft the Burletta weapon.",
-    "type": "Recipe",
-    "craftable": false,
-    "crafting": {},
-    "recyclesInto": {}
+    "type": "Recipe"
   },
   {
     "id": "binoculars",
@@ -1736,5 +1427,4 @@
     "description": "A Tier 1 Tempest weapon.",
     "type": "Weapon"
   }
-
 ]
