@@ -18,19 +18,34 @@
     "name": "Explosive Mixture",
     "description": "A volatile crafting component.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/explosive_mixture.png"
+    "imageFilename": "https://cdn.arctracker.io/items/explosive_mixture.png",
+    "craftable": true,
+    "crafting": {
+      "oil": 1,
+      "chemicals": 14
+    },
+    "recyclesInto": {
+      "chemicals": 10
+    }
   },
   {
     "id": "dog_collar",
     "name": "Dog Collar",
     "description": "A worn dog collar.",
-    "type": "Quest Item"
+    "type": "Quest Item",
+    "recyclesInto": {
+      "fabric": 8,
+      "metal_parts": 1
+    }
   },
   {
     "id": "torn_blanket",
     "name": "Torn Blanket",
     "description": "A tattered piece of cloth.",
-    "type": "Material"
+    "type": "Material",
+    "recyclesInto": {
+      "fabric": 12
+    }
   },
   {
     "id": "lemon",
@@ -80,28 +95,51 @@
     "name": "ARC Motion Core",
     "description": "A powerful core used in ARC machinery.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/arc_motion_core.png"
+    "imageFilename": "https://cdn.arctracker.io/items/arc_motion_core.png",
+    "craftable": true,
+    "crafting": {
+      "arc_alloy": 5
+    },
+    "recyclesInto": {
+      "arc_alloys": 2
+    }
   },
   {
     "id": "toaster",
     "name": "Toaster",
     "description": "A salvaged toaster, repurposed for crafting.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/toaster.png"
+    "imageFilename": "https://cdn.arctracker.io/items/toaster.png",
+    "craftable": true,
+    "crafting": {
+      "plastic_parts": 5,
+      "wires": 5
+    },
+    "recyclesInto": {
+      "plastic_parts": 5,
+      "wires": 5
+    }
   },
   {
     "id": "arc_circuitry",
     "name": "ARC Circuitry",
     "description": "Advanced circuitry used in ARC technology.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/arc_circuitry.png"
+    "imageFilename": "https://cdn.arctracker.io/items/arc_circuitry.png",
+    "recyclesInto": {
+      "arc_alloys": 2
+    }
   },
   {
     "id": "motor",
     "name": "Motor",
     "description": "A small electric motor, useful for various devices.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/motor.png"
+    "imageFilename": "https://cdn.arctracker.io/items/motor.png",
+    "recyclesInto": {
+      "oil": 2,
+      "mechanical_components": 1
+    }
   },
   {
     "id": "queen_part",
@@ -115,35 +153,52 @@
     "name": "Wires",
     "description": "A bundle of conductive wires for crafting.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/wires.png"
+    "imageFilename": "https://cdn.arctracker.io/items/wires.png",
+    "recyclesInto": {
+      "rubber_parts": 2
+    }
   },
   {
     "id": "hornet_driver",
     "name": "Hornet Driver",
     "description": "A control module used to operate Hornet drones or vehicles.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/hornet_driver.png"
+    "imageFilename": "https://cdn.arctracker.io/items/hornet_driver.png",
+    "recyclesInto": {
+      "arc_alloys": 1
+    }
   },
   {
     "id": "fried_motherboard",
     "name": "Fried Motherboard",
     "description": "A damaged motherboard, useful for salvage.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/fried_motherboard.png"
+    "imageFilename": "https://cdn.arctracker.io/items/fried_motherboard.png",
+    "recyclesInto": {
+      "plastic_parts": 5,
+      "electrical_components": 1
+    }
   },
   {
     "id": "rusted_tools",
     "name": "Rusted Tools",
     "description": "A set of tools, rusted but still usable for crafting.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/rusted_tools.png"
+    "imageFilename": "https://cdn.arctracker.io/items/rusted_tools.png",
+    "recyclesInto": {
+      "metal_parts": 14,
+      "steel_springs": 1
+    }
   },
   {
     "id": "wasp_driver",
     "name": "Wasp Driver",
     "description": "A control module used to operate Wasp drones or vehicles.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png"
+    "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png",
+    "recyclesInto": {
+      "arc_alloys": 2
+    }
   },
   {
     "id": "rusted_gear",
@@ -171,14 +226,22 @@
     "name": "Synthesized Fuel",
     "description": "A canister of synthetic fuel blend.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png"
+    "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png",
+    "recyclesInto": {
+      "oil": 1,
+      "chemicals": 14
+    }
   },
   {
     "id": "fireball_burner",
     "name": "Fireball Burner",
     "description": "A burner module from a Fireball unit.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/fireball_burner.png"
+    "imageFilename": "https://cdn.arctracker.io/items/fireball_burner.png",
+    "recyclesInto": {
+      "arc_alloys": 1,
+      "chemicals": 1
+    }
   },
   {
     "id": "laboratory_reagents",
@@ -192,14 +255,31 @@
     "name": "Syringe",
     "description": "A sterile syringe for medical use.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/syringe.png"
+    "imageFilename": "https://cdn.arctracker.io/items/syringe.png",
+    "craftable": true,
+    "crafting": {
+      "plastic_parts": 3,
+      "chemicals": 2
+    },
+    "recyclesInto": {
+      "plastic_parts": 3,
+      "chemicals": 2
+    }
   },
   {
     "id": "antiseptic",
     "name": "Antiseptic",
     "description": "A bottle of antiseptic liquid for cleaning wounds.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/antiseptic.png"
+    "imageFilename": "https://cdn.arctracker.io/items/antiseptic.png",
+    "craftable": true,
+    "crafting": {
+      "chemicals": 14,
+      "torch_ginger": 1
+    },
+    "recyclesInto": {
+      "chemicals": 10
+    }
   },
   {
     "id": "snitch_scanner",
@@ -213,14 +293,22 @@
     "name": "Rusted Shut Medical Kit",
     "description": "A medical kit rusted shut, its contents unknown.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/rusted_shut_medical_kit.png"
+    "imageFilename": "https://cdn.arctracker.io/items/rusted_shut_medical_kit.png",
+    "recyclesInto": {
+      "syringe": 2,
+      "antiseptic": 1
+    }
   },
   {
     "id": "bastion_part",
     "name": "Bastion Part",
     "description": "A salvaged component from a Bastion unit.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/bastion_part.png"
+    "imageFilename": "https://cdn.arctracker.io/items/bastion_part.png",
+    "recyclesInto": {
+      "arc_motion_core": 1,
+      "arc_alloys": 2
+    }
   },
   {
     "id": "spring",
@@ -255,21 +343,31 @@
     "description": "Light bullets used mainly with SMGs and light handguns.",
     "type": "Ammo",
     "imageFilename": "https://cdn.arctracker.io/items/light_ammo.png",
-    "compatibleWith": ["Kettle", "Burletta", "Hairpin", "Bobcat", "Stitcher"]
+    "compatibleWith": [
+      "Kettle",
+      "Burletta",
+      "Hairpin",
+      "Bobcat",
+      "Stitcher"
+    ]
   },
   {
     "id": "heavy_ammo",
     "name": "Heavy Ammo",
     "description": "Heavy bullets used mainly with large-caliber weapons.",
     "type": "Ammo",
-    "compatibleWith": ["Anvil"]
+    "compatibleWith": [
+      "Anvil"
+    ]
   },
   {
     "id": "medium_ammo",
     "name": "Medium Ammo",
     "description": "Medium bullets used mainly with medium-caliber weapons.",
     "type": "Ammo",
-    "compatibleWith": ["Arpeggio"]
+    "compatibleWith": [
+      "Arpeggio"
+    ]
   },
   {
     "id": "herbal_bandages",
@@ -282,7 +380,12 @@
     "name": "Sterilized Bandage",
     "description": "A sterile bandage for treating wounds.",
     "type": "Consumable",
-    "imageFilename": "https://cdn.arctracker.io/items/sterilized_bandage.png"
+    "imageFilename": "https://cdn.arctracker.io/items/sterilized_bandage.png",
+    "craftable": true,
+    "crafting": {
+      "fabric": 12,
+      "antiseptic": 1
+    }
   },
   {
     "id": "lure_grenade",
@@ -317,9 +420,19 @@
     "type": "Assault Rifle",
     "rarity": "Common",
     "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
-    "tags": ["Assault Rifle", "Burst"],
+    "tags": [
+      "Assault Rifle",
+      "Burst"
+    ],
     "ammoType": "Medium Ammo",
-    "statBars": { "damage": 10, "fireRate": 60, "range": 30, "stability": 70, "agility": 35, "stealth": 20 },
+    "statBars": {
+      "damage": 10,
+      "fireRate": 60,
+      "range": 30,
+      "stability": 70,
+      "agility": 35,
+      "stealth": 20
+    },
     "weightKg": 5.8,
     "value": 2000
   },
@@ -331,20 +444,23 @@
     "description": "A 3-round burst assault rifle with decent damage output and accuracy.",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
-    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png", 
-    "tags": ["Assault Rifle", "Burst"],
+    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
+    "tags": [
+      "Assault Rifle",
+      "Burst"
+    ],
     "flavorText": "Somewhat effective against ARC armor plating",
     "ammoType": "Medium Ammo",
     "magazineSize": 24,
     "magazineCurrent": 24,
     "modsEquippedMax": 4,
-    "statBars": { 
-      "damage": 20, 
-      "fireRate": 70, 
-      "range": 40, 
-      "stability": 85, 
-      "agility": 30, 
-      "stealth": 25 
+    "statBars": {
+      "damage": 20,
+      "fireRate": 70,
+      "range": 40,
+      "stability": 85,
+      "agility": 30,
+      "stealth": 25
     },
     "bonuses": [
       "60% Increased Fire Rate",
@@ -382,7 +498,11 @@
     "id": "water_pump",
     "name": "Water Pump",
     "description": "A small electric pump used to move water.",
-    "type": "Misc"
+    "type": "Misc",
+    "recyclesInto": {
+      "metal_parts": 6,
+      "oil": 3
+    }
   },
   {
     "id": "sensor",
@@ -394,7 +514,16 @@
     "id": "advanced_electrical_components",
     "name": "Advanced Electrical Components",
     "description": "Specialized electrical parts required for advanced repairs and upgrades.",
-    "type": "Misc"
+    "type": "Misc",
+    "craftable": true,
+    "crafting": {
+      "arc_circuitry": 1,
+      "electrical_components": 1
+    },
+    "recyclesInto": {
+      "wires": 4,
+      "arc_alloy": 3
+    }
   },
   {
     "id": "deflated_football",
@@ -406,13 +535,19 @@
     "id": "duct_tape",
     "name": "Duct Tape",
     "description": "A roll of strong, multipurpose adhesive tape. Useful for all kinds of repairs.",
-    "type": "Misc"
+    "type": "Misc",
+    "recyclesInto": {
+      "fabric": 3
+    }
   },
   {
     "id": "flute",
     "name": "Flute",
     "description": "A simple musical instrument, lightweight and portable.",
-    "type": "Misc"
+    "type": "Misc",
+    "recyclesInto": {
+      "plastic_parts": 10
+    }
   },
   {
     "id": "empty_wine_bottle",
@@ -424,13 +559,25 @@
     "id": "light_impact_grenade",
     "name": "Light Impact Grenade",
     "description": "A small grenade designed for light impact and crowd control.",
-    "type": "Misc"
+    "type": "Misc",
+    "craftable": true,
+    "crafting": {
+      "plastic_parts": 1,
+      "chemicals": 3
+    },
+    "recyclesInto": {
+      "plastic_parts": 1,
+      "chemicals": 3
+    }
   },
   {
     "id": "oil",
     "name": "Oil",
     "description": "A small container of multipurpose oil, useful for maintenance and crafting.",
-    "type": "Misc"
+    "type": "Misc",
+    "recyclesInto": {
+      "chemicals": 3
+    }
   },
   {
     "id": "snap_hook",
@@ -473,7 +620,10 @@
     "id": "camera_lens",
     "name": "Camera Lens",
     "description": "A precision optical lens for cameras, fragile but valuable.",
-    "type": "Misc"
+    "type": "Misc",
+    "recyclesInto": {
+      "plastic_parts": 8
+    }
   },
   {
     "id": "film_reel",
@@ -485,7 +635,16 @@
     "id": "electrical_components",
     "name": "Electrical Components",
     "description": "A collection of wires, chips, and connectors for electrical repairs.",
-    "type": "Misc"
+    "type": "Misc",
+    "craftable": true,
+    "crafting": {
+      "plastic_parts": 20,
+      "wires": 4
+    },
+    "recyclesInto": {
+      "plastic_parts": 8,
+      "wires": 3
+    }
   },
   {
     "id": "raider_augment_i",
@@ -498,12 +657,16 @@
     "weaponSlots": 2,
     "quickUseSlots": 6,
     "safePocketSlots": 2,
-    "shieldCompatibility": ["Light", "Medium"],
+    "shieldCompatibility": [
+      "Light",
+      "Medium"
+    ],
+    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_i.png",
+    "craftable": true,
     "crafting": {
       "rubber_parts": 12,
-      "plastic_parts": 8
-    },
-    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_i.png"
+      "plastic_parts": 9
+    }
   },
   {
     "id": "raider_augment_ii",
@@ -516,19 +679,26 @@
     "weaponSlots": 2,
     "quickUseSlots": 6,
     "safePocketSlots": 2,
-    "shieldCompatibility": ["Light", "Medium"],
+    "shieldCompatibility": [
+      "Light",
+      "Medium"
+    ],
+    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_ii.png",
+    "craftable": true,
     "crafting": {
       "rubber_parts": 20,
       "processor": 2
-    },
-    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_ii.png"
+    }
   },
   {
     "id": "canister",
     "name": "Canister",
     "description": "A metal container used for storing pressurized gas or fuel, essential for certain advanced weapons and devices.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/canister.png"
+    "imageFilename": "https://cdn.arctracker.io/items/canister.png",
+    "recyclesInto": {
+      "plastic_parts": 3
+    }
   },
   {
     "id": "advanced_mechanical_components",
@@ -538,21 +708,42 @@
     "rarity": "Epic",
     "value": 3000,
     "weightKg": 1,
-    "imageFilename": "https://cdn.arctracker.io/items/advanced_mechanical_components.png"
+    "imageFilename": "https://cdn.arctracker.io/items/advanced_mechanical_components.png",
+    "craftable": true,
+    "crafting": {
+      "arc_motion_core": 1,
+      "mechanical_components": 1
+    },
+    "recyclesInto": {
+      "steel_springs": 4,
+      "arc_alloys": 3
+    }
   },
   {
     "id": "simple_gun_parts",
     "name": "Simple Gun Parts",
     "description": "Basic components salvaged from common firearms, used in weapon crafting.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/simple_gun_parts.png"
+    "imageFilename": "https://cdn.arctracker.io/items/simple_gun_parts.png",
+    "recyclesInto": {
+      "metal_parts": 3
+    }
   },
   {
     "id": "mechanical_components",
     "name": "Mechanical Components",
     "description": "A set of gears, springs, and metal parts used in weapon and device crafting.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/mechanical_components.png"
+    "imageFilename": "https://cdn.arctracker.io/items/mechanical_components.png",
+    "craftable": true,
+    "crafting": {
+      "metal_parts": 15,
+      "steel_spring": 3
+    },
+    "recyclesInto": {
+      "metal_parts": 8,
+      "steel_springs": 2
+    }
   },
   {
     "id": "arpeggio_i",
@@ -670,6 +861,10 @@
     "increasedFireRate": 40,
     "reducedReloadTime": 25,
     "reducedDurabilityBurnRate": 46,
+    "crafting": {
+      "mechanical_components": 1,
+      "medium_gun_parts": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png"
   },
   {
@@ -742,13 +937,18 @@
     "weaponSlots": 2,
     "quickUseSlots": 6,
     "safePocketSlots": 2,
-    "shieldCompatibility": ["Light", "Medium", "Heavy"],
+    "shieldCompatibility": [
+      "Light",
+      "Medium",
+      "Heavy"
+    ],
+    "stationLevelRequired": 2,
+    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_iii.png",
+    "craftable": true,
     "crafting": {
       "electrical_components": 1,
       "processor": 2
-    },
-    "stationLevelRequired": 2,
-    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_iii.png"
+    }
   },
   {
     "id": "raider_augment_iv",
@@ -761,13 +961,18 @@
     "weaponSlots": 2,
     "quickUseSlots": 8,
     "safePocketSlots": 3,
-    "shieldCompatibility": ["Light", "Medium", "Heavy"],
+    "shieldCompatibility": [
+      "Light",
+      "Medium",
+      "Heavy"
+    ],
+    "stationLevelRequired": 3,
+    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_iv.png",
+    "craftable": true,
     "crafting": {
       "power_rod": 1,
       "processor": 4
-    },
-    "stationLevelRequired": 3,
-    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_iv.png"
+    }
   },
   {
     "id": "medium_gun_parts",
@@ -794,7 +999,16 @@
     "rarity": "Epic",
     "value": 3000,
     "weightKg": 1,
-    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
+    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png",
+    "craftable": true,
+    "crafting": {
+      "arc_circuitry": 1,
+      "electrical_components": 1
+    },
+    "recyclesInto": {
+      "wires": 4,
+      "arc_alloy": 3
+    }
   },
   {
     "id": "industrial_battery",
@@ -808,7 +1022,16 @@
     "name": "Advanced Electrical Components",
     "description": "A set of high-grade components for advanced electronics and repairs.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/advanced_electrical_components.png"
+    "imageFilename": "https://cdn.arctracker.io/items/advanced_electrical_components.png",
+    "craftable": true,
+    "crafting": {
+      "arc_circuitry": 1,
+      "electrical_components": 1
+    },
+    "recyclesInto": {
+      "wires": 4,
+      "arc_alloy": 3
+    }
   },
   {
     "id": "power_cable",
@@ -1005,7 +1228,12 @@
     "movementSpeedModifier": -5,
     "weight": 7,
     "value": 2000,
-    "imageFilename": "https://cdn.arctracker.io/items/medium_shield.png"
+    "imageFilename": "https://cdn.arctracker.io/items/medium_shield.png",
+    "craftable": true,
+    "crafting": {
+      "arc_alloy": 4,
+      "voltage_converter": 2
+    }
   },
   {
     "id": "zipline",
@@ -1036,7 +1264,11 @@
     "description": "Can be recycled into crafting materials.",
     "weightKg": 2,
     "value": 640,
-    "imageFilename": "https://cdn.arctracker.io/items/damaged_heat_sink.png"
+    "imageFilename": "https://cdn.arctracker.io/items/damaged_heat_sink.png",
+    "recyclesInto": {
+      "metal_parts": 7,
+      "wires": 4
+    }
   },
   {
     "id": "snap_grenade",
@@ -1067,6 +1299,21 @@
     "name": "Burletta Recipe",
     "description": "A recipe to craft the Burletta weapon.",
     "type": "Recipe"
+  },
+  {
+    "id": "binoculars",
+    "name": "Binoculars",
+    "description": "Optical instrument for viewing distant objects.",
+    "type": "Gear",
+    "craftable": true,
+    "crafting": {
+      "plastic_parts": 8,
+      "rubber_parts": 4
+    },
+    "recyclesInto": {
+      "plastic_parts": 8,
+      "rubber_parts": 4
+    }
   },
   {
     "id": "binoculars",
