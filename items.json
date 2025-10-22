@@ -2,10 +2,48 @@
   {
     "id": "fabric",
     "name": "Fabric",
-    "description": "A common crafting material.",
-    "type": "Material",
+    "description": "Used to craft medical supplies and shields.",
+    "type": "Basic Material",
+    "healingPerSec": 0.4,
+    "durationSec": 25,
+    "useTimeSec": 1,
     "imageFilename": "https://cdn.arctracker.io/items/fabric.png"
   },
+  {
+    "id": "metal_parts",
+    "name": "Metal Parts",
+    "description": "Used to craft a wide range of items.",
+    "type": "Basic Material",
+    "rarity": "Common",
+    "weightKg": 0.15,
+    "value": 75,
+    "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png"
+  },
+  {
+    "id": "plastic_parts",
+    "name": "Plastic Parts",
+    "description": "Used to craft a wide range of items.",
+    "type": "Basic Material",
+    "rarity": "Common",
+    "value": 60,
+    "weightKg": 0.15,
+    "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png"
+  },
+  {
+    "id": "chemicals",
+    "name": "Chemicals",
+    "description": "Used to craft medical supplies, explosives, and utility items.",
+    "type": "Basic Material",
+    "rarity": "Common",
+    "value": 50,
+    "weightKg": 0.15,
+    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
+  },
+
+
+
+
+
   {
     "id": "tick_pod",
     "name": "Tick Pod",
@@ -44,30 +82,18 @@
     "description": "A sweet, orange fruit.",
     "type": "Consumable"
   },
-  {
-    "id": "metal_parts",
-    "name": "Metal Parts",
-    "description": "Used to craft a wide range of items.",
-    "type": "Material",
-    "rarity": "Common",
-    "value": 75,
-    "weightKg": 0.15,
-    "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png"
-  },
+
   {
     "id": "rubber_parts",
     "name": "Rubber Parts",
-    "description": "Scrap rubber pieces for crafting.",
+    "description": "Used to craft a wide range of items.",
     "type": "Material",
+    "rarity": "Common",
+    "weightKg": 0.15,
+    "value": 50,
     "imageFilename": "https://cdn.arctracker.io/items/rubber_parts.png"
   },
-  {
-    "id": "plastic_parts",
-    "name": "Plastic Parts",
-    "description": "Scrap plastic pieces for crafting.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png"
-  },
+
   {
     "id": "voltage_converter",
     "name": "Voltage Converter",
@@ -113,8 +139,11 @@
   {
     "id": "wires",
     "name": "Wires",
-    "description": "A bundle of conductive wires for crafting.",
-    "type": "Material",
+    "description": "Used to craft a wide range of items. Can be recycled into scrap metal",
+    "type": "Topside Material",
+    "rarity":"Uncommon",
+    "weightKg": 0.25,
+    "value": 200,
     "imageFilename": "https://cdn.arctracker.io/items/wires.png"
   },
   {
@@ -230,6 +259,15 @@
     "imageFilename": "https://cdn.arctracker.io/items/spring.png"
   },
   {
+    "id": "steel_spring",
+    "name": "Steel Spring",
+    "description": "Used to craft a wide range of items. Can be recycled into scrap metal",
+    "type": "Topside Material",
+    "rarity":"Uncommon",
+    "weightKg": 0.25,
+    "value": 300
+  },
+  {
     "id": "heavy_gun_parts",
     "name": "Heavy Gun Parts",
     "description": "Specialized components salvaged from heavy firearms, used in advanced weapon crafting.",
@@ -246,8 +284,40 @@
   {
     "id": "ferro_i",
     "name": "Ferro I",
-    "description": "A basic Ferro rifle.",
-    "type": "Weapon"
+    "description": "Packs a punch, but must be reloaded between every shot.",
+    "type": "Battle Rifle",
+    "rarity":"Common",
+    "ammoType": "Heavy Ammo",
+    "magazineSize": 1,
+    "firingMode": "Break-Action",
+    "arcArmorPen": "Strong",
+    "weightKg": 8,
+    "value": 475
+  },
+  {
+    "id": "hairpin_i",
+    "name": "Hairpin I",
+    "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
+    "type": "Pistol",
+    "rarity":"Common",
+    "ammoType": "Light Ammo",
+    "magazineSize": 8,
+    "firingMode": "Slide-Action",
+    "arcArmorPen": "Very Weak",
+    "specialTrait": "Integrated Silencer",
+    "weightKg": 3,
+    "value": 450
+  },
+  {
+    "id": "kettle_i",
+    "name": "Kettle I",
+    "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
+    "ammoType":"Light Ammo",
+    "magazineSize": 20,
+    "firingMode": "Semi-Automatic",
+    "arcArmorPen":"Very Weak",
+    "weightKg": 7,
+    "value": 840
   },
   {
     "id": "light_ammo",
@@ -405,8 +475,10 @@
   {
     "id": "duct_tape",
     "name": "Duct Tape",
-    "description": "A roll of strong, multipurpose adhesive tape. Useful for all kinds of repairs.",
-    "type": "Misc"
+    "description": "Used to craft weapons and weapon mods. Can be recycled into plastic.",
+    "type": "Topside Material",
+    "weightKg": 0.25,
+    "value": 300
   },
   {
     "id": "flute",
@@ -423,14 +495,22 @@
   {
     "id": "light_impact_grenade",
     "name": "Light Impact Grenade",
-    "description": "A small grenade designed for light impact and crowd control.",
-    "type": "Misc"
+    "description": "A grenade that detonates on impact, dealing explosive damage in a small radius.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "damage": 30,
+    "radius": 2.5,
+    "weightKg": 0.5,
+    "value": 1350
   },
   {
     "id": "oil",
     "name": "Oil",
-    "description": "A small container of multipurpose oil, useful for maintenance and crafting.",
-    "type": "Misc"
+    "description": "Used to craft weapons and explosives. Can be recycled into chemicals.",
+    "type": "Topside Material",
+    "rarity":"Uncommon",
+    "weightKg": 0.25,
+    "value": 300
   },
   {
     "id": "snap_hook",
@@ -526,9 +606,18 @@
   {
     "id": "canister",
     "name": "Canister",
-    "description": "A metal container used for storing pressurized gas or fuel, essential for certain advanced weapons and devices.",
-    "type": "Material",
+    "description": "Used to craft a wide range of items. Can be recycled into plastic",
+    "type": "Topside Material",
     "imageFilename": "https://cdn.arctracker.io/items/canister.png"
+  },
+  {
+    "id": "magnet",
+    "name": "Magnet",
+    "description": "Fun thing to put on a fridgerator",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 300
   },
   {
     "id": "advanced_mechanical_components",
@@ -543,8 +632,11 @@
   {
     "id": "simple_gun_parts",
     "name": "Simple Gun Parts",
-    "description": "Basic components salvaged from common firearms, used in weapon crafting.",
-    "type": "Material",
+    "description": "Used to craft weapons. Can be recycled into scrap metal.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.3,
+    "value": 330,
     "imageFilename": "https://cdn.arctracker.io/items/simple_gun_parts.png"
   },
   {
@@ -777,14 +869,13 @@
     "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts.png"
   },
   {
-    "id": "chemicals",
-    "name": "Chemicals",
-    "description": "Used to craft medical supplies, explosives, and utility items.",
-    "type": "Basic Material",
-    "rarity": "Common",
-    "value": 50,
-    "weightKg": 0.15,
-    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
+    "id": "great_mullein",
+    "name": "Great Mullein",
+    "description": "Used to craft medical supplies. Can be recycled into chemicals.",
+    "type":"Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 300
   },
   {
     "id": "power_rod",
@@ -795,6 +886,15 @@
     "value": 3000,
     "weightKg": 1,
     "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
+  },
+  {
+    "id": "battery",
+    "name": "Battery",
+    "description": "Used to craft a wide range of items. Can be recycled into scrap metal",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 250
   },
   {
     "id": "industrial_battery",
@@ -991,6 +1091,8 @@
     "type": "Key",
     "description": "Unlocks a Raider Hatch.",
     "rarity": "Rare",
+    "weight": 0.01,
+    "value": 1000,
     "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png"
   },
   {
@@ -998,10 +1100,10 @@
     "name": "Medium Shield",
     "type": "Shield",
     "rarity": "Rare",
-    "description": "A standard shield that offers fair protection at a moderate cost to mobility.",
+    "description": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
     "durability": 100,
-    "shieldCharge": 80,
-    "damageMitigation": 45,
+    "shieldCharge": 70,
+    "damageMitigation": 42.5,
     "movementSpeedModifier": -5,
     "weight": 7,
     "value": 2000,
@@ -1014,7 +1116,7 @@
     "rarity": "Uncommon",
     "description": "A deployable zipline that allows you to quickly move between two locations.",
     "rangeMeters": 60,
-    "weight": 0.8,
+    "weightKg": 0.8,
     "value": 2000,
     "imageFilename": "https://cdn.arctracker.io/items/zipline.png"
   },
@@ -1071,8 +1173,11 @@
   {
     "id": "binoculars",
     "name": "Binoculars",
-    "description": "Optical instrument for viewing distant objects.",
-    "type": "Gear"
+    "description": "A basic pair of binoculars with two levels of magnification.",
+    "type": "Quick Use",
+    "rarity":"Common",
+    "weightKg": 0.5,
+    "value": 640
   },
   {
     "id": "silencer_i",
@@ -1211,5 +1316,94 @@
     "name": "Tempest I",
     "description": "A Tier 1 Tempest weapon.",
     "type": "Weapon"
+  },
+  {
+    "id": "remote_raider_flare",
+    "name": "Remote Raider Flare",
+    "description": "A deployable device that, when manually triggered, launches a Raider Distress Flare.",
+    "type": "Quick Use",
+    "rarity": "Common"
+  },
+  {
+    "id": "black_hiker_color_backpack",
+    "name": "Black (Hiker Color)",
+    "description": "A new cosmetic variant will be added to your collection",
+    "type": "Backpack"
+  },
+  {
+    "id": "cans",
+    "name": "Cans",
+    "description": "A new cosmetic will be added to your collection",
+    "type": "Backpack Attachment"
+  },
+  {
+    "id": "junior",
+    "name": "Junior",
+    "description": "A new cosmetic will be added to your collection",
+    "type": "Outfit"
+  },
+  {
+    "id": "stitcher_i",
+    "name": "STITCHER I",
+    "description": "Deals good damage, but has quite low fire-rate and can be hard to control",
+    "type": "Weapon",
+    "rarity": "Common",
+    "crafting": {
+      "metal_parts": 8,
+      "rubber_parts": 4
+    },
+    "imageFilename": ""
+  },
+  {
+    "id": "stitcher_ii",
+    "name": "STITCHER II",
+    "description": "Deals good damage, but has quite low fire-rate and can be hard to control",
+    "type": "Weapon",
+    "rarity": "Common"
+  },
+  {
+    "id": "extended_light_mag_i",
+    "name": "Extended Light Mag I",
+    "description": "Slightly extends the ammo capacity of compatible weapons that use light ammo",
+    "type": "Weapon Mod",
+    "rarity": "Common",
+    "compatibleWith": ["Kettle", "Hairpin", "Stitcher", "Burletta", "Bobcat"]
+  },
+  {
+    "id": "combat_mk_i",
+    "name": "Combat Mk.1",
+    "description": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
+    "type": "Augment",
+    "rarity": "Uncommon",
+    "backpackSlots": 16,
+    "weightLimitKg": 45,
+    "weaponSlots": 2,
+    "quickUseSlots": 4,
+    "safePocketSlots": 1,
+    "shieldCompatibility": ["Light", "Medium"],
+    "crafting": {},
+    "imageFilename": ""
+  },
+  {
+    "id": "snap_blast_grenade",
+    "name": "Snap Blast Grenade",
+    "description": "A grenade that sticks to surfaces, dealing explosive damage after a short delay.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "damage": 70,
+    "radius": 7.5,
+    "weightKg": 0.6,
+    "value": 2400
+  },
+  {
+    "id": "shrapnel_grenade",
+    "name": "Shrapnel Grenade",
+    "description": "A makeshift fuse grenade that bursts into razor-sharp fragments upon detonation.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "damage": 60,
+    "radius": 6,
+    "weightKg": 0.45,
+    "value": 2400
   }
 ]

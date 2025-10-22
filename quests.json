@@ -65,9 +65,16 @@
     "id": "m8",
     "name": "Safe Passage",
     "trader": "Apollo",
-    "objectives": ["Destroy a Turret using Light Impact Grenades"],
-    "rewardItemIds": [{ "itemId": "snap_grenade", "quantity": 2 }],
-    "xp": 7000
+    "objectives": ["Destroy 2 ARC enemies using any explosive grenade"],
+    "grantedItemIds": [
+      {"itemId": "light_impact_grenade", "quantity": 5},
+      {"itemId": "snap_blast_grenade", "quantity": 3}
+    ],
+    "rewardItemIds": [
+      { "itemId": "cans", "quantity": 1 },
+      {"itemId": "junior", "quantity": 1},
+      {"itemId": "shrapnel_grenade", "quantity": 3}
+    ]
   },
   {
     "id": "m9",
@@ -495,5 +502,39 @@
     "requiredItemIds": [{ "itemId": "bison_driver", "quantity": 1 }],
     "rewardItemIds": [{ "itemId": "equalizer", "quantity": 1 }],
     "xp": 34000
+  },
+  {
+    "id": "m47",
+    "name": "Off The Radar",
+    "trader": "Shani",
+    "objectives": ["Visit a Field Depot", "Repair the antenna on the roof of the Field Depot"],
+    "grantedItemIds": [{"itemId": "remote_raider_flare", "quantity": 2}],
+    "rewardItemIds": [{"itemId": "black_hiker_color_backpack", "quantity": 1}]
+  },
+  {
+    "id": "m48",
+    "name": "The Right Tool",
+    "trader": "Tian Wen",
+    "objectives": ["Destroy a Fireball", "Destroy a Hornet", "Destroy a Turret"],
+    "grantedItemIds": [
+      {"itemId": "ferro_iv", "quantity:": 1}, 
+      {"itemId": "heavy_ammo", "quantity": 20}
+    ],
+    "rewardItemIds": [
+      {"itemId": "stitcher_ii", "quantity": 1},
+      {"itemId": "extended_light_mag_i", "quantity": 1}
+    ]
+  },
+  {
+    "id": "m49",
+    "name": "Down To Earth",
+    "trader": "Shani",
+    "objectives": ["Visit a Field Depot", "Deliver a Field Crate to a Supply Station", "Collect the reward"],
+    "roundScoped": true,
+    "grantedItemIds": [{"itemId": "binoculars", "quantity": 1}],
+    "rewardItemIds": [
+      {"itemId": "combat_mk_i", "quantity": 1},
+      {"itemId": "medium_shield", "quantity": 1}
+    ]
   }
 ]

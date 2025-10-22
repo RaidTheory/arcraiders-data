@@ -1,0 +1,40 @@
+[
+  {
+	"id": "f1",
+	"name": "Complete 3 Feats",
+	"rewardCurrencyIds": [{"currencyId": "cred", "quantity": 30 }]
+  },
+	{
+		"id": "f2",
+		"name": "Complete 5 Feats",
+		"rewardCurrencyIds": [{"currencyId": "cred", "quantity": 40 }]
+	},
+	{
+		"id": "f3",
+		"name": "Knocked-out Raiders searched",
+		"rewardCurrencyIds": [{"currencyId": "cred", "quantity": 10 }]
+		},
+	{
+		"id": "f4",
+		"name": "Supply Drops Requested",
+		"objectives": ["1"],
+		"rewardCurrencyIds": [{"currencyId": "cred", "quantity": 10 }]
+	},
+	{
+		"id": "f5",
+		"name": "Damage dealt to Turrets",
+		"rewardCurrencyIds": [{"currencyId": "cred", "quantity": 10 }]
+	},
+	{
+		"id": "f6",
+		"name":"Damage dealt to ARC enemies or Raiders",
+		"objectives": ["1000"],
+		"rewardCurrencyIds": [{"currencyId": "cred", "quantity": 10 }]
+	},
+		{
+		"id": "f7",
+		"name": "Damage dealt to ARC enemies using Medium Ammo weapons",
+		"objectives": ["600"],
+		"rewardCurrencyIds": [{"currencyId": "cred", "quantity": 10 }]
+	}
+]
