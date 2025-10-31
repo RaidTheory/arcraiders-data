@@ -2,8 +2,14 @@
   {
     "id": "fabric",
     "name": "Fabric",
-    "description": "A common crafting material.",
-    "type": "Material",
+    "description": "Used to craft medical supplies and shields. Can be used to slowly restore small amounts of health.",
+    "type": "Basic Material",
+    "rarity": "Common",
+    "weightKg": 0.1,
+    "value": 50,
+    "healingPerSec": 0.4,
+    "durationSec": 25,
+    "useTimeSec": 1,
     "imageFilename": "https://cdn.arctracker.io/items/fabric.png"
   },
   {
@@ -29,8 +35,26 @@
   {
     "id": "torn_blanket",
     "name": "Torn Blanket",
-    "description": "A tattered piece of cloth.",
-    "type": "Material"
+    "description": "Can be recycled into fabric.",
+    "type": "Recyclable",
+    "rarity": "Rare"
+  },
+  {
+    "id": "torn_book",
+    "name": "Torn Book",
+    "description": "What pages remain speak of chosen heroes, vampires, and lots of longing glances.",
+    "type": "Trinket",
+    "rarity": "Common",
+    "weightKg": 0.3,
+    "value": 1000
+  },
+  {
+    "id": "volcanic_rock",
+    "name": "Volcanic Rock",
+    "type": "Misc",
+    "rarity": "Common",
+    "weightKg": 0.5,
+    "value": 270
   },
   {
     "id": "lemon",
@@ -48,24 +72,30 @@
     "id": "metal_parts",
     "name": "Metal Parts",
     "description": "Used to craft a wide range of items.",
-    "type": "Material",
+    "type": "Basic Material",
     "rarity": "Common",
     "value": 75,
-    "weightKg": 0.15,
+    "weightKg": 0.1,
     "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png"
   },
   {
     "id": "rubber_parts",
     "name": "Rubber Parts",
-    "description": "Scrap rubber pieces for crafting.",
-    "type": "Material",
+    "description": "Used to craft a wide range of items.",
+    "type": "Basic Material",
+    "rarity": "Common",
+    "weightKg": 0.1,
+    "value": 50,
     "imageFilename": "https://cdn.arctracker.io/items/rubber_parts.png"
   },
   {
     "id": "plastic_parts",
     "name": "Plastic Parts",
-    "description": "Scrap plastic pieces for crafting.",
-    "type": "Material",
+    "description": "Used to craft a wide range of items.",
+    "type": "Basic Material",
+    "rarity": "Common",
+    "weightKg": 0.1,
+    "value": 60,
     "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png"
   },
   {
@@ -113,8 +143,11 @@
   {
     "id": "wires",
     "name": "Wires",
-    "description": "A bundle of conductive wires for crafting.",
-    "type": "Material",
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 200,
     "imageFilename": "https://cdn.arctracker.io/items/wires.png"
   },
   {
@@ -141,8 +174,13 @@
   {
     "id": "wasp_driver",
     "name": "Wasp Driver",
-    "description": "A control module used to operate Wasp drones or vehicles.",
-    "type": "Material",
+    "description": "Can be recycled into ARC Alloy. Can be thrown, and will explode if shot.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "weightKg": 0.6,
+    "value": 1000,
+    "damage": 80,
+    "radiusM": 5,
     "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png"
   },
   {
@@ -176,8 +214,14 @@
   {
     "id": "fireball_burner",
     "name": "Fireball Burner",
-    "description": "A burner module from a Fireball unit.",
-    "type": "Material",
+    "description": "Can be recycled into ARC Alloy. Can be thrown to create small fires.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "weightKg": 0.5,
+    "value": 640,
+    "damagePerSec": 5,
+    "durationSec": 10,
+    "radiusM": 2,
     "imageFilename": "https://cdn.arctracker.io/items/fireball_burner.png"
   },
   {
@@ -188,18 +232,44 @@
     "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png"
   },
   {
+    "id": "great_mullein",
+    "name": "Great Mullein",
+    "description": "Used to craft medical supplies.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 300
+  },
+  {
     "id": "syringe",
     "name": "Syringe",
-    "description": "A sterile syringe for medical use.",
-    "type": "Material",
+    "description": "Used to craft medical supplies. Can be recycled into plastic.",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "weightKg": 0.3,
+    "value": 500,
     "imageFilename": "https://cdn.arctracker.io/items/syringe.png"
   },
   {
     "id": "antiseptic",
     "name": "Antiseptic",
-    "description": "A bottle of antiseptic liquid for cleaning wounds.",
-    "type": "Material",
+    "description": "Used to craft medical supplies. Can be recycled into chemicals.",
+    "type": "Refined Material",
+    "rarity":"Rare",
+    "weightKg": 1.0,
+    "value": 1000,
     "imageFilename": "https://cdn.arctracker.io/items/antiseptic.png"
+  },
+  {
+    "id": "crude_explosives",
+    "name": "Crude Explosives",
+    "description": "Used to craft explosives. Can be recycled into crafting materials. Can be thrown to create a loud noise.",
+    "type": "Refined Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.5,
+    "value": 270,
+    "damage": 15,
+    "radiusM": 1.5
   },
   {
     "id": "snitch_scanner",
@@ -239,8 +309,11 @@
   {
     "id": "arc_alloy",
     "name": "ARC Alloy",
-    "description": "Specialized alloys from ARC technology.",
-    "type": "Material",
+    "description": "Obtained from ARC enemies or activities, or by recycling certain ARC parts. Used to craft components.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 200,
     "imageFilename": "https://cdn.arctracker.io/items/arc_alloy.png"
   },
   {
@@ -272,6 +345,18 @@
     "compatibleWith": ["Arpeggio"]
   },
   {
+    "id": "bandage",
+    "name": "Bandage",
+    "description": "A medical item that gradually restores health over time.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "weightKg": 0.1,
+    "value": 250,
+    "healingPerSec": 2,
+    "durationSec": 10,
+    "useTimeSec": 1.5
+  },
+  {
     "id": "herbal_bandages",
     "name": "Herbal Bandages",
     "description": "Bandages infused with healing herbs.",
@@ -280,15 +365,21 @@
   {
     "id": "sterilized_bandage",
     "name": "Sterilized Bandage",
-    "description": "A sterile bandage for treating wounds.",
-    "type": "Consumable",
+    "description": "A medical item that gradually restores a large amount of health over time.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "value": 2000,
     "imageFilename": "https://cdn.arctracker.io/items/sterilized_bandage.png"
   },
   {
     "id": "lure_grenade",
     "name": "Lure Grenade",
-    "description": "A grenade that attracts attention.",
-    "type": "Gear"
+    "description": "A noisy device that sticks to surfaces, distracting nearby ARC machines and drawing their fire.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "weightKg": 0.4,
+    "value": 1000
   },
   {
     "id": "jump_mines",
@@ -363,14 +454,23 @@
   {
     "id": "faded_photograph",
     "name": "Faded Photograph",
-    "description": "An old, faded photograph.",
-    "type": "Misc"
+    "description": "A snapshot of the world before, faded by sunlight and time.",
+    "type": "Trinket",
+    "rarity": "Common",
+    "weightKg": 0.3,
+    "value": 640
   },
   {
     "id": "arc_powercell",
     "name": "ARC Powercell",
-    "description": "A powerful energy cell used in ARC technology.",
-    "type": "Misc"
+    "description": "Valuable resource that drops from all ARC enemies. Can be used to repair shields.",
+    "type": "Topside Material",
+    "rarity": "Common",
+    "weightKg": 0.5,
+    "value": 640,
+    "rechargePerSec": 2,
+    "durationSec": 10,
+    "useTimeSec": 3
   },
   {
     "id": "water_filter",
@@ -399,14 +499,29 @@
   {
     "id": "deflated_football",
     "name": "Deflated Football",
-    "description": "A worn, deflated football. Needs air but still has sentimental value.",
-    "type": "Misc"
+    "description": "Just by looking at this, you too start to feel slightly deflated.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "weightKg": 0.8,
+    "value": 1000
+  },
+  {
+    "id": "pop_trigger",
+    "name": "Pop Trigger",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Common",
+    "weightKg": 0.5,
+    "value": 640
   },
   {
     "id": "duct_tape",
     "name": "Duct Tape",
-    "description": "A roll of strong, multipurpose adhesive tape. Useful for all kinds of repairs.",
-    "type": "Misc"
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 300
   },
   {
     "id": "flute",
@@ -423,8 +538,13 @@
   {
     "id": "light_impact_grenade",
     "name": "Light Impact Grenade",
-    "description": "A small grenade designed for light impact and crowd control.",
-    "type": "Misc"
+    "description": "A grenade that detonates on impact, dealing explosive damage in a small radius.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "weightKg": 0.1,
+    "value": 270,
+    "damage": 30,
+    "radiusM": 2.5
   },
   {
     "id": "oil",
@@ -450,6 +570,15 @@
     "description": "A salvaged component from a Rocketeer unit.",
     "type": "Misc",
     "imageFilename": "https://cdn.arctracker.io/items/rocketeer_part.png"
+  },
+  {
+    "id": "damaged_rocketeer_driver",
+    "name": "Damaged Rocketeer Driver",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Common",
+    "weightKg": 0.25,
+    "value": 2000
   },
   {
     "id": "wolfpack",
@@ -484,8 +613,11 @@
   {
     "id": "electrical_components",
     "name": "Electrical Components",
-    "description": "A collection of wires, chips, and connectors for electrical repairs.",
-    "type": "Misc"
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
+    "type": "Refined Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.5,
+    "value": 640
   },
   {
     "id": "raider_augment_i",
@@ -526,8 +658,11 @@
   {
     "id": "canister",
     "name": "Canister",
-    "description": "A metal container used for storing pressurized gas or fuel, essential for certain advanced weapons and devices.",
-    "type": "Material",
+    "description": "Used to craft a wide range of items. Can be recycled into plastic.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 300,
     "imageFilename": "https://cdn.arctracker.io/items/canister.png"
   },
   {
@@ -543,8 +678,11 @@
   {
     "id": "simple_gun_parts",
     "name": "Simple Gun Parts",
-    "description": "Basic components salvaged from common firearms, used in weapon crafting.",
-    "type": "Material",
+    "description": "Used to craft weapons",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.3,
+    "value": 330,
     "imageFilename": "https://cdn.arctracker.io/items/simple_gun_parts.png"
   },
   {
@@ -783,7 +921,7 @@
     "type": "Basic Material",
     "rarity": "Common",
     "value": 50,
-    "weightKg": 0.15,
+    "weightKg": 0.1,
     "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
   },
   {
@@ -795,6 +933,15 @@
     "value": 3000,
     "weightKg": 1,
     "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
+  },
+  {
+    "id": "battery",
+    "name": "Battery",
+    "description": "Used to craft a wide range of items. Can be recycled into scrap metal.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 250
   },
   {
     "id": "industrial_battery",
@@ -813,8 +960,9 @@
   {
     "id": "power_cable",
     "name": "Power Cable",
-    "description": "A heavy-duty cable used for transmitting electrical power.",
-    "type": "Material",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Rare",
     "imageFilename": "https://cdn.arctracker.io/items/power_cable.png"
   },
   {
@@ -836,6 +984,7 @@
     "name": "Deflated Football",
     "description": "A football that has seen better days.",
     "type": "Valuable",
+    "weightKg": 0.8,
     "value": 1000
   },
   {
@@ -862,9 +1011,13 @@
   {
     "id": "bloated_tuna_can",
     "name": "Bloated Tuna Can",
-    "description": "A can of tuna, suspiciously bloated.",
-    "type": "Valuable",
-    "value": 1000
+    "description": "Something tells you that you don't want to open this... Can (reluctantly) be consumed to restore small amounts of stamina.",
+    "type": "Trinket",
+    "rarity": "Common",
+    "weightKg": 0.2,
+    "value": 1000,
+    "stamina": 25,
+    "useTimeSec": 1
   },
   {
     "id": "coffee_pot",
@@ -994,6 +1147,15 @@
     "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png"
   },
   {
+    "id": "blue_gate_village_key",
+    "name": "Blue Gate Village Key",
+    "description": "Unlocks a door to one of the old Village buildings near the Blue Gate.",
+    "type": "Key",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 100
+  },
+  {
     "id": "medium_shield",
     "name": "Medium Shield",
     "type": "Shield",
@@ -1045,10 +1207,46 @@
     "type": "Gear"
   },
   {
+    "id": "snap_blast_grenade",
+    "name": "Snap Blast Grenade",
+    "description": "A grenade that sticks to surfaces, dealing explosive damage after a short delay.",
+    "type":"Quick Use",
+    "rarity": "Uncommon",
+    "weightKg": 0.2,
+    "value": 800,
+    "damage": 70,
+    "radiusM": 7.5
+  },
+  {
     "id": "heavy_fuse_grenade",
     "name": "Heavy Fuse Grenade",
-    "description": "A powerful explosive with a timed fuse.",
-    "type": "Gear"
+    "description": "A grenade that detonates after a delay, dealing explosive damage in its radius.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "value": 1600,
+    "damage": 80,
+    "radiusM": 7.5
+  },
+  {
+    "id": "smoke_grenade",
+    "name": "Smoke Grenade",
+    "description": "A grenade that creates a lingering smoke cloud on impact, blocking visibility from ARC and other Raiders.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "value": 1000
+  },
+  {
+    "id": "tagging_grenade",
+    "name": "Tagging Greenade",
+    "description": "A grenade that detonates after a delay, tagging Raiders and ARC enemies in an area, allowing you to briefly track their location.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "weightKg": 0.4,
+    "value": 1000,
+    "durationSec": 30,
+    "radiusM": 6
   },
   {
     "id": "showstopper",
@@ -1071,8 +1269,11 @@
   {
     "id": "binoculars",
     "name": "Binoculars",
-    "description": "Optical instrument for viewing distant objects.",
-    "type": "Gear"
+    "description": "A basic pair of binoculars with two levels of magnification.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "weightKg": 0.5,
+    "value": 640
   },
   {
     "id": "silencer_i",
@@ -1089,8 +1290,13 @@
   {
     "id": "vita_shot",
     "name": "Vita Shot",
-    "description": "A medical stimulant.",
-    "type": "Consumable"
+    "description": "A medical item that restores a large amount of health.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "weightKg": 0.4,
+    "value": 2000,
+    "healing": 50,
+    "useTimeSec": 4
   },
   {
     "id": "vita_spray",
@@ -1119,8 +1325,21 @@
   {
     "id": "barricade_kit",
     "name": "Barricade Kit",
-    "description": "A kit to deploy a temporary barricade.",
-    "type": "Gear"
+    "description": "A deployable cover that can block incoming damage until it breaks.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "weightKg": 0.4,
+    "value": 640,
+    "health": 500
+  },
+  {
+    "id": "door_blocker",
+    "name": "Door Blocker",
+    "description": "A locking mechanism that can be placed on large metal doors to limit access.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "weightKg": 0.2,
+    "value": 270
   },
   {
     "id": "defibrillator",
@@ -1211,5 +1430,102 @@
     "name": "Tempest I",
     "description": "A Tier 1 Tempest weapon.",
     "type": "Weapon"
+  },
+  {
+    "id": "alarm_clock",
+    "name": "Alarm Clock",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity":"Rare"
+  },
+  {
+    "id": "broken_flashlight",
+    "name": "Broken Flashlight",
+    "type": "Recyclable",
+    "rarity": "Rare"
+  },
+  {
+    "id": "frying_pan",
+    "name": "Frying Pan",
+    "type": "Recyclable",
+    "rarity": "Rare"
+  },
+  {
+    "id": "headphones",
+    "name": "Headphones",
+    "type": "Recyclable",
+    "rarity":"Rare"
+  },
+  {
+   "id": "humidifier",
+   "name": "Humidifier",
+   "description": "Can be recycled into crafting materials.",
+   "type": "Recyclable",
+   "rarity": "Rare"
+  },
+  {
+    "id": "processor",
+    "name": "Processor",
+    "description": "Used in crafting.",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "value": 500 
+  },
+  {
+    "id": "speaker_component",
+    "name": "Speaker Component",
+    "description": "Used in crafting.",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "weightKg": 0.3,
+    "value": 500
+  },
+  {
+    "id": "durable_cloth",
+    "name": "Durable Cloth",
+    "description": "Used to craft medical supplies.",
+    "type": "Refined Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 640
+  },
+  {
+    "id": "ice_cream_scooper",
+    "name": "Ice Cream Scooper",
+    "description": "It is theorized that scooping things was a favorite pastime in the world before.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "weightKg": 0.8,
+    "value": 640
+  },
+  {
+    "id": "magnet",
+    "name": "Magnet",
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 300
+  },
+  {
+    "id": "assorted_seeds",
+    "name": "Assorted Seeds",
+    "type": "Nature",
+    "rarity": "Common",
+    "weightKg": 0.05,
+    "value": 100
+  },
+  {
+    "id": "shield_recharger",
+    "name": "Shield Recharger",
+    "description": "A handheld kit that gradually recharges shield over time",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "weightKg": 0.15,
+    "value": 520,
+    "rechargePerSec": 4,
+    "durationSec": 40,
+    "useTimeSec": 2
   }
-]
+]  
