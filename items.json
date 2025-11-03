@@ -193,16 +193,22 @@
   {
     "id": "toaster",
     "name": "Toaster",
-    "description": "A salvaged toaster, repurposed for crafting.",
+    "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
     "rarity": "Rare",
-    "value": 640,
+    "value": 1000,
     "recyclesInto": {
       "plastic_parts": 5,
-      "wires": 5
+      "wires": 3
     },
+    "salvagesInto": {
+      "wires": 3
+    },
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "foundIn": "Residential",
     "imageFilename": "https://cdn.arctracker.io/items/toaster.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "arc_circuitry",
@@ -1362,8 +1368,11 @@
     "rarity": "Rare",
     "value": 1000,
     "recyclesInto": {
-        "chemicals": 7,
-        "battery": 2
+      "chemicals": 7,
+      "battery": 2
+    },
+    "salvagesInto": {
+      "battery": 2
     },
     "weightKg": 2.0,
     "stackSize": 3,
@@ -2006,9 +2015,12 @@
     "name": "Remote Control",
     "rarity": "Rare",
     "type": "Recyclable",
-    "value": 270,
+    "value": 1000,
     "recyclesInto": {
-      "plastic_parts": 2,
+      "plastic_parts": 7,
+      "sensors": 1
+    },
+    "salvagesInto": {
       "sensors": 1
     },
     "description": "Can be recycled into crafting materials.",
@@ -2016,7 +2028,7 @@
     "stackSize": 3,
     "foundIn": "Residential",
     "imageFilename": "https://cdn.arctracker.io/items/remote_control.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "rope",
@@ -3618,11 +3630,19 @@
     "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
     "rarity": "Rare",
+    "value": 1000,
+    "recyclesInto": {
+      "plastic_parts": 6,
+      "processor": 1
+    },
+    "salvagesInto": {
+      "processor": 1
+    },
     "foundIn": "Residential",
     "stackSize": 3,
     "weightKg": 2.0,
     "imageFilename": "https://cdn.arctracker.io/items/alarm_clock.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "fine_wristwatch",
@@ -5072,6 +5092,19 @@
       "Firing Mode": "Fully-Automatic",
       "ARC Armor Penetration": "Moderate"
     },
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "painted_box",
+    "name": "Painted Box",
+    "description": "May be worth a few coins.",
+    "type": "Trinket",
+    "rarity": "Uncommon",
+    "value": 2000,
+    "recyclesInto": {},
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Old World",
     "updatedAt": "11/03/2025"
   }
 ]
