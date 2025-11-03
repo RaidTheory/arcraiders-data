@@ -759,12 +759,15 @@
   {
     "id": "rubber_duck",
     "name": "Rubber Duck",
-    "description": "Always there to lend an ear, should you need it.",
+    "description": "Always there to lend an ear, should you need it. Can be thrown to create noise.",
     "type": "Trinket",
+    "rarity": "Common",
     "value": 1000,
     "recyclesInto": {},
+    "weightKg": 0.3,
+    "stackSize": 15,
     "imageFilename": "https://cdn.arctracker.io/items/rubber_duck.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "arc_powercell",
@@ -2403,11 +2406,15 @@
   {
     "id": "faded_photograph",
     "name": "Faded Photograph",
-    "description": "A photograph whose details have faded with time.",
+    "description": "A snapshot of the world before, faded by sunlight and time.",
     "type": "Trinket",
+    "rarity": "Common",
     "value": 640,
     "recyclesInto": {},
-    "updatedAt": "10/30/2025"
+    "weightKg": 0.3,
+    "stackSize": 15,
+    "foundIn": "Residential",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "portable_television",
@@ -2648,8 +2655,8 @@
     "rarity": "Rare",
     "description": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
     "durability": 100,
-    "shieldCharge": 80,
-    "damageMitigation": 45,
+    "shieldCharge": 70,
+    "damageMitigation": 42.5,
     "movementSpeedModifier": -5,
     "weightKg": 7.0,
     "value": 2000,
@@ -2663,7 +2670,7 @@
     "recyclesInto": {
       "arc_circuitry": 1
     },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "light_shield",
@@ -3472,7 +3479,8 @@
     "imageFilename": "https://cdn.arctracker.io/items/breathtaking_snow_globe.png",
     "rarity": "Epic",
     "weightKg": 0.2,
-    "updatedAt": "11/01/2025"
+    "stackSize": 1,
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "expired_pasta",
@@ -5096,6 +5104,19 @@
     "weightKg": 0.3,
     "stackSize": 3,
     "foundIn": "Old World",
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "music_box",
+    "name": "Music Box",
+    "description": "Worth a small fortune.",
+    "type": "Trinket",
+    "rarity": "Rare",
+    "value": 5000,
+    "recyclesInto": {},
+    "weightKg": 0.4,
+    "stackSize": 3,
+    "foundIn": "Old World, Residential, Commercial",
     "updatedAt": "11/03/2025"
   }
 ]
