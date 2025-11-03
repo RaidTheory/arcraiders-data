@@ -247,7 +247,7 @@
     ],
     "xp": 0,
     "previousQuestIds": ["ss6"],
-    "nextQuestIds": []
+    "nextQuestIds": ["ss10b"]
   },
   {
     "id": "ss10",
@@ -293,9 +293,9 @@
   },
   {
     "id": "ss10b",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "11/2/2025",
     "name": "Dormant Barons",
-    "trader": "Tian Wen",
+    "trader": "Shani",
     "description": "During the First Wave, the Barons did more damage than all the other machines combined. Now they're mere husks; fixed in place where they once fell... Still, their internals might hold the answer to keeping ARC at bay. So open one up, and bring me whatever is inside.",
     "objectives": [
       "Loot a Baron husk"
@@ -305,7 +305,7 @@
       { "itemId": "lil_smoke_grenade", "quantity": 3 }
     ],
     "xp": 0,
-    "previousQuestIds": ["ss10a"],
+    "previousQuestIds": ["ss10a", "ss9"],
     "nextQuestIds": ["ss10d", "ss10e"]
   },
   {
@@ -953,8 +953,8 @@
       { "itemId": "steel_spring", "quantity": 3 }
     ],
     "xp": 0,
-    "previousQuestIds": ["ss10x3"],
-    "nextQuestIds": ["ss10x5", "ss10x6"]
+    "previousQuestIds": ["ss10x3", "ss10x3"],
+    "nextQuestIds": ["ss10x6"]
   },
   {
     "id": "ss10x5",
@@ -1053,7 +1053,7 @@
       { "itemId": "tactical_mk3_healing", "quantity": 1 }
     ],
     "xp": 0,
-    "previousQuestIds": ["ss10x8"],
+    "previousQuestIds": ["ss11b2"],
     "nextQuestIds": ["ss10x10"]
   },
   {
