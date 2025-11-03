@@ -2,64 +2,63 @@
   {
     "id": "scrappy",
     "name": "Scrappy",
-    "maxLevel": 6,
+    "maxLevel": 5,
     "levels": [
       { "level": 1, "requirementItemIds": [] },
-      { "level": 2, "requirementItemIds": [{ "itemId": "dog_collar", "quantity": 1 }, { "itemId": "torn_blanket", "quantity": 1 }] },
-      { "level": 3, "requirementItemIds": [{ "itemId": "lemon", "quantity": 5 }, { "itemId": "apricot", "quantity": 5 }] },
-      { "level": 4, "requirementItemIds": [{ "itemId": "prickly_pear", "quantity": 8 }, { "itemId": "olives", "quantity": 8 }, { "itemId": "cat_bed", "quantity": 1 }] },
-      { "level": 5, "requirementItemIds": [{ "itemId": "apricots", "quantity": 12 }, { "itemId": "mushrooms", "quantity": 12 }, { "itemId": "very_comfortable_pillow", "quantity": 3 }] },
-      { "level": 6, "requirementItemIds": [{ "itemId": "unknown_item", "quantity": 99 }] , "prerequisites": ["Unknown at this time"] }
+      { "level": 2, "requirementItemIds": [{ "itemId": "dog_collar", "quantity": 1 }] },
+      { "level": 3, "requirementItemIds": [{ "itemId": "lemon", "quantity": 3 }, { "itemId": "apricot", "quantity": 3 }] },
+      { "level": 4, "requirementItemIds": [{ "itemId": "prickly_pear", "quantity": 6 }, { "itemId": "olives", "quantity": 6 }, { "itemId": "cat_bed", "quantity": 1 }] },
+      { "level": 5, "requirementItemIds": [{ "itemId": "mushroom", "quantity": 12 }, { "itemId": "apricot", "quantity": 12 }, { "itemId": "very_comfortable_pillow", "quantity": 3 }] }
     ]
   },
   {
     "id": "weapon_bench",
-    "name": "Weapon Bench",
+    "name": "Gunsmith",
     "maxLevel": 3,
     "levels": [
       { "level": 1, "requirementItemIds": [{ "itemId": "metal_parts", "quantity": 20 }, { "itemId": "rubber_parts", "quantity": 30 }], "otherRequirements": ["3x Raids"] },
-      { "level": 2, "requirementItemIds": [{ "itemId": "rusted_tools", "quantity": 3 }, { "itemId": "mechanical_components", "quantity": 3 }, { "itemId": "wasp_driver", "quantity": 8 }] },
-      { "level": 3, "requirementItemIds": [{ "itemId": "rusted_gear", "quantity": 5 }, { "itemId": "advanced_mechanical_components", "quantity": 3 }, { "itemId": "sentinel_core", "quantity": 3 }] }
+      { "level": 2, "requirementItemIds": [{ "itemId": "rusted_tools", "quantity": 3 }, { "itemId": "mechanical_components", "quantity": 5 }, { "itemId": "wasp_driver", "quantity": 8 }] },
+      { "level": 3, "requirementItemIds": [{ "itemId": "rusted_gear", "quantity": 3 }, { "itemId": "advanced_mechanical_components", "quantity": 5 }, { "itemId": "sentinel_firing_core", "quantity": 4 }] }
     ]
   },
   {
     "id": "equipment_bench",
-    "name": "Equipment Bench",
+    "name": "Gear Bench",
     "maxLevel": 3,
     "levels": [
-      { "level": 1, "requirementItemIds": [{ "itemId": "plastic_parts", "quantity": 30 }, { "itemId": "fabric", "quantity": 40 }], "otherRequirements": ["3x Raids"] },
-      { "level": 2, "requirementItemIds": [{ "itemId": "power_cable", "quantity": 3 }, { "itemId": "electrical_components", "quantity": 3 }, { "itemId": "tick_pod", "quantity": 8 }] },
-      { "level": 3, "requirementItemIds": [{ "itemId": "industrial_battery", "quantity": 5 }, { "itemId": "advanced_electrical_components", "quantity": 3 }, { "itemId": "rollbot_part", "quantity": 3 }] }
+      { "level": 1, "requirementItemIds": [{ "itemId": "plastic_parts", "quantity": 25 }, { "itemId": "fabric", "quantity": 30 }], "otherRequirements": ["3x Raids"] },
+      { "level": 2, "requirementItemIds": [{ "itemId": "power_cable", "quantity": 3 }, { "itemId": "electrical_components", "quantity": 5 }, { "itemId": "hornet_driver", "quantity": 5 }] },
+      { "level": 3, "requirementItemIds": [{ "itemId": "industrial_battery", "quantity": 3 }, { "itemId": "advanced_electrical_components", "quantity": 5 }, { "itemId": "bastion_cell", "quantity": 6 }] }
     ]
   },
   {
     "id": "med_station",
-    "name": "Med Station",
+    "name": "Medical Lab",
     "maxLevel": 3,
     "levels": [
       { "level": 1, "requirementItemIds": [{ "itemId": "fabric", "quantity": 50 }, { "itemId": "arc_alloy", "quantity": 6 }], "otherRequirements": ["6x Raids"] },
-      { "level": 2, "requirementItemIds": [{ "itemId": "syringe", "quantity": 8 }, { "itemId": "antiseptic", "quantity": 5 }, { "itemId": "snitch_scanner", "quantity": 3 }] },
-      { "level": 3, "requirementItemIds": [{ "itemId": "rusted_shut_medical_kit", "quantity": 5 }, { "itemId": "antiseptic", "quantity": 10 }, { "itemId": "bastion_part", "quantity": 3 }] }
+      { "level": 2, "requirementItemIds": [{ "itemId": "cracked_bioscanner", "quantity": 2 }, { "itemId": "durable_cloth", "quantity": 5 }, { "itemId": "tick_pod", "quantity": 8 }] },
+      { "level": 3, "requirementItemIds": [{ "itemId": "rusted_shut_medical_kit", "quantity": 3 }, { "itemId": "antiseptic", "quantity": 8 }, { "itemId": "surveyor_vault", "quantity": 5 }] }
     ]
   },
   {
     "id": "explosives_bench",
-    "name": "Explosives Bench",
+    "name": "Explosives Station",
     "maxLevel": 3,
     "levels": [
       { "level": 1, "requirementItemIds": [{ "itemId": "rubber_parts", "quantity": 50 }, { "itemId": "arc_alloy", "quantity": 6 }], "otherRequirements": ["6x Raids"] },
-      { "level": 2, "requirementItemIds": [{ "itemId": "synthesized_fuel", "quantity": 5 }, { "itemId": "explosive_mixture", "quantity": 5 }, { "itemId": "fireball_burner", "quantity": 8 }] },
-      { "level": 3, "requirementItemIds": [{ "itemId": "laboratory_reagents", "quantity": 5 }, { "itemId": "explosive_mixture", "quantity": 10 }, { "itemId": "rocketeer_core", "quantity": 3 }] }
+      { "level": 2, "requirementItemIds": [{ "itemId": "synthesized_fuel", "quantity": 3 }, { "itemId": "crude_explosives", "quantity": 5 }, { "itemId": "pop_trigger", "quantity": 5 }] },
+      { "level": 3, "requirementItemIds": [{ "itemId": "laboratory_reagents", "quantity": 3 }, { "itemId": "explosive_compound", "quantity": 5 }, { "itemId": "rocketeer_driver", "quantity": 3 }] }
     ]
   },
   {
     "id": "utility_bench",
-    "name": "Utility Bench",
+    "name": "Utility Station",
     "maxLevel": 3,
     "levels": [
       { "level": 1, "requirementItemIds": [{ "itemId": "plastic_parts", "quantity": 50 }, { "itemId": "arc_alloy", "quantity": 6 }], "otherRequirements": ["6x Raids"] },
-      { "level": 2, "requirementItemIds": [{ "itemId": "wires", "quantity": 16 }, { "itemId": "electrical_components", "quantity": 3 }, { "itemId": "hornet_driver", "quantity": 6 }] },
-      { "level": 3, "requirementItemIds": [{ "itemId": "fried_motherboard", "quantity": 5 }, { "itemId": "advanced_electrical_components", "quantity": 3 }, { "itemId": "bison_driver", "quantity": 3 }] }
+      { "level": 2, "requirementItemIds": [{ "itemId": "damaged_heat_sink", "quantity": 2 }, { "itemId": "electrical_components", "quantity": 5 }, { "itemId": "snitch_scanner", "quantity": 6 }] },
+      { "level": 3, "requirementItemIds": [{ "itemId": "fried_motherboard", "quantity": 3 }, { "itemId": "advanced_electrical_components", "quantity": 5 }, { "itemId": "leaper_pulse_unit", "quantity": 4 }] }
     ]
   },
   {
@@ -67,9 +66,9 @@
     "name": "Refiner",
     "maxLevel": 3,
     "levels": [
-      { "level": 1, "requirementItemIds": [{ "itemId": "metal_parts", "quantity": 75 }, { "itemId": "arc_motion_core", "quantity": 3 }], "otherRequirements": ["10x Raids"] },
-      { "level": 2, "requirementItemIds": [{ "itemId": "toasters", "quantity": 3 }, { "itemId": "arc_circuitry", "quantity": 8 }, { "itemId": "fireball_burner", "quantity": 10 }] },
-      { "level": 3, "requirementItemIds": [{ "itemId": "motor", "quantity": 5 }, { "itemId": "arc_motion_core", "quantity": 20 }, { "itemId": "queen_part", "quantity": 1 }] }
+      { "level": 1, "requirementItemIds": [{ "itemId": "metal_parts", "quantity": 60 }, { "itemId": "arc_powercell", "quantity": 5 }], "otherRequirements": ["10x Raids"] },
+      { "level": 2, "requirementItemIds": [{ "itemId": "toaster", "quantity": 3 }, { "itemId": "arc_motion_core", "quantity": 5 }, { "itemId": "fireball_burner", "quantity": 8 }] },
+      { "level": 3, "requirementItemIds": [{ "itemId": "motor", "quantity": 3 }, { "itemId": "arc_circuitry", "quantity": 10 }, { "itemId": "bombardier_cell", "quantity": 6 }] }
     ]
   }
 ]

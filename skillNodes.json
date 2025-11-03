@@ -7,7 +7,7 @@
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 5,
-    "iconName": "skill_shield.png",
+    "iconName": "used_to_the_weight.png",
     "isMajor": true,
     "position": {
       "x": 25,
@@ -23,7 +23,7 @@
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 5,
-    "iconName": "skill_hearing.png",
+    "iconName": "blast_born.png",
     "isMajor": false,
     "position": {
       "x": 20,
@@ -41,7 +41,7 @@
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 5,
-    "iconName": "skill_pickaxe.png",
+    "iconName": "gentle_pressure.png",
     "isMajor": false,
     "position": {
       "x": 30,
@@ -59,7 +59,7 @@
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 5,
-    "iconName": "skill_running.png",
+    "iconName": "fight_or_flight.png",
     "isMajor": false,
     "position": {
       "x": 20,
@@ -77,7 +77,7 @@
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 5,
-    "iconName": "skill_pickaxe.png",
+    "iconName": "proficient_pryer.png",
     "isMajor": false,
     "position": {
       "x": 30,
@@ -90,12 +90,12 @@
   {
     "id": "cond_4l",
     "name": "Survivor's Stamina",
-    "description": "When you're critical hurt, your stamina regenerates faster.",
+    "description": "When you're critically hurt, your stamina regenerates faster.",
     "impactedSkill": "Stamina Regeneration",
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 1,
-    "iconName": "skill_heart.png",
+    "iconName": "survivors_stamina.png",
     "isMajor": true,
     "position": {
       "x": 20,
@@ -113,7 +113,7 @@
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 1,
-    "iconName": "skill_vaulting.png",
+    "iconName": "unburdened_roll.png",
     "isMajor": true,
     "position": {
       "x": 30,
@@ -130,8 +130,8 @@
     "impactedSkill": "Resource Generation",
     "knownValue": [],
     "category": "CONDITIONING",
-    "maxPoints": 5,
-    "iconName": "skill_pickaxe.png",
+    "maxPoints": 1,
+    "iconName": "a_little_extra.png",
     "isMajor": false,
     "position": {
       "x": 25,
@@ -150,7 +150,7 @@
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 5,
-    "iconName": "skill_heart.png",
+    "iconName": "downed_but_determined.png",
     "isMajor": false,
     "position": {
       "x": 20,
@@ -168,7 +168,7 @@
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 5,
-    "iconName": "skill_pickaxe.png",
+    "iconName": "effortless_swing.png",
     "isMajor": false,
     "position": {
       "x": 30,
@@ -185,8 +185,8 @@
     "impactedSkill": "Encumbrance Reduction",
     "knownValue": [],
     "category": "CONDITIONING",
-    "maxPoints": 5,
-    "iconName": "skill_weight.png",
+    "maxPoints": 1,
+    "iconName": "loaded_arms.png",
     "isMajor": false,
     "position": {
       "x": 25,
@@ -202,8 +202,8 @@
     "description": "While downed, you take less damage.",
     "impactedSkill": "Downed Damage Reduction",
     "category": "CONDITIONING",
-    "maxPoints": 1,
-    "iconName": "skill_heart.png",
+    "maxPoints": 5,
+    "iconName": "turtle_crawl.png",
     "isMajor": false,
     "position": {
       "x": 20,
@@ -221,7 +221,7 @@
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 5,
-    "iconName": "skill_pickaxe.png",
+    "iconName": "sky_clearing_swing.png",
     "isMajor": false,
     "position": {
       "x": 30,
@@ -239,7 +239,7 @@
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 1,
-    "iconName": "skill_heart.png",
+    "iconName": "back_on_your_feet.png",
     "isMajor": true,
     "position": {
       "x": 20,
@@ -258,7 +258,7 @@
     "knownValue": [],
     "category": "CONDITIONING",
     "maxPoints": 1,
-    "iconName": "skill_pickaxe.png",
+    "iconName": "flyswatter.png",
     "isMajor": true,
     "position": {
       "x": 30,
@@ -277,7 +277,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 5,
-    "iconName": "skill_climbing.png",
+    "iconName": "nimble_climber.png",
     "isMajor": true,
     "position": {
       "x": 50,
@@ -293,7 +293,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 5,
-    "iconName": "skill_running.png",
+    "iconName": "marathon_runner.png",
     "isMajor": false,
     "position": {
       "x": 45,
@@ -311,7 +311,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 5,
-    "iconName": "skill_running.png",
+    "iconName": "slip_and_slide.png",
     "isMajor": false,
     "position": {
       "x": 55,
@@ -329,7 +329,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 5,
-    "iconName": "skill_heart.png",
+    "iconName": "youthful_lungs.png",
     "isMajor": false,
     "position": {
       "x": 45,
@@ -347,7 +347,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 5,
-    "iconName": "skill_roll.png",
+    "iconName": "sturdy_ankles.png",
     "isMajor": false,
     "position": {
       "x": 55,
@@ -365,7 +365,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 1,
-    "iconName": "skill_running.png",
+    "iconName": "carry_the_momentum.png",
     "isMajor": true,
     "position": {
       "x": 45,
@@ -383,7 +383,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 1,
-    "iconName": "skill_running.png",
+    "iconName": "calming_stroll.png",
     "isMajor": true,
     "position": {
       "x": 55,
@@ -401,7 +401,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 5,
-    "iconName": "skill_heartpulse.png",
+    "iconName": "crawl_before_you_walk.png",
     "isMajor": false,
     "position": {
       "x": 50,
@@ -420,7 +420,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 5,
-    "iconName": "skill_vaulting.png",
+    "iconName": "effortless_roll.png",
     "isMajor": false,
     "position": {
       "x": 45,
@@ -438,7 +438,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 5,
-    "iconName": "skill_vaulting.png",
+    "iconName": "off_the_wall.png",
     "isMajor": false,
     "position": {
       "x": 55,
@@ -456,7 +456,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 1,
-    "iconName": "skill_heartpulse.png",
+    "iconName": "vigorous_vaulter.png",
     "isMajor": false,
     "position": {
       "x": 50,
@@ -474,7 +474,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 5,
-    "iconName": "skill_vaulting.png",
+    "iconName": "heroic_leap.png",
     "isMajor": false,
     "position": {
       "x": 45,
@@ -492,7 +492,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 5,
-    "iconName": "skill_vaulting.png",
+    "iconName": "ready_to_roll.png",
     "isMajor": false,
     "position": {
       "x": 55,
@@ -510,7 +510,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 1,
-    "iconName": "skill_vaulting.png",
+    "iconName": "vaults_on_vaults_on_vaults.png",
     "isMajor": true,
     "position": {
       "x": 45,
@@ -529,7 +529,7 @@
     "knownValue": [],
     "category": "MOBILITY",
     "maxPoints": 1,
-    "iconName": "skill_vaulting.png",
+    "iconName": "vault_spring.png",
     "isMajor": true,
     "position": {
       "x": 55,
@@ -548,7 +548,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 5,
-    "iconName": "skill_crouching.png",
+    "iconName": "agile_croucher.png",
     "isMajor": true,
     "position": {
       "x": 75,
@@ -564,7 +564,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 5,
-    "iconName": "skill_crate.png",
+    "iconName": "looters_instincts.png",
     "isMajor": false,
     "position": {
       "x": 70,
@@ -582,7 +582,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 5,
-    "iconName": "skill_pulse.png",
+    "iconName": "revitalizing_squat.png",
     "isMajor": false,
     "position": {
       "x": 80,
@@ -600,7 +600,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 5,
-    "iconName": "skill_pulse.png",
+    "iconName": "silent_scavenger.png",
     "isMajor": false,
     "position": {
       "x": 70,
@@ -618,7 +618,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 1,
-    "iconName": "skill_repair.png",
+    "iconName": "in_round_crafting.png",
     "isMajor": false,
     "position": {
       "x": 80,
@@ -636,7 +636,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 1,
-    "iconName": "skill_pulse.png",
+    "iconName": "suffer_in_silence.png",
     "isMajor": true,
     "position": {
       "x": 70,
@@ -654,7 +654,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 1,
-    "iconName": "skill_pulse.png",
+    "iconName": "good_as_new.png",
     "isMajor": true,
     "position": {
       "x": 80,
@@ -671,7 +671,7 @@
     "impactedSkill": "Field Crafting",
     "category": "SURVIVAL",
     "maxPoints": 1,
-    "iconName": "skill_repair.png",
+    "iconName": "traveling_tinkerer.png",
     "isMajor": false,
     "position": {
       "x": 75,
@@ -690,7 +690,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 5,
-    "iconName": "skill_crate.png",
+    "iconName": "broad_shoulders.png",
     "isMajor": false,
     "position": {
       "x": 70,
@@ -708,7 +708,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 5,
-    "iconName": "skill_weight.png",
+    "iconName": "stubborn_mule.png",
     "isMajor": false,
     "position": {
       "x": 80,
@@ -726,7 +726,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 5,
-    "iconName": "skill_crate.png",
+    "iconName": "one_raiders_scraps.png",
     "isMajor": false,
     "position": {
       "x": 75,
@@ -743,8 +743,8 @@
     "impactedSkill": "Loot Search Speed",
     "knownValue": [],
     "category": "SURVIVAL",
-    "maxPoints": 1,
-    "iconName": "skill_crate.png",
+    "maxPoints": 5,
+    "iconName": "looters_luck.png",
     "isMajor": false,
     "position": {
       "x": 70,
@@ -762,7 +762,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 5,
-    "iconName": "skill_heart.png",
+    "iconName": "three_deep_breaths.png",
     "isMajor": false,
     "position": {
       "x": 80,
@@ -780,7 +780,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 1,
-    "iconName": "skill_pickaxe.png",
+    "iconName": "security_breach.png",
     "isMajor": true,
     "position": {
       "x": 70,
@@ -799,7 +799,7 @@
     "knownValue": [],
     "category": "SURVIVAL",
     "maxPoints": 1,
-    "iconName": "skill_target.png",
+    "iconName": "minesweeper.png",
     "isMajor": true,
     "position": {
       "x": 80,

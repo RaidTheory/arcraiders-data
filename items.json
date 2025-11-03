@@ -2,252 +2,546 @@
   {
     "id": "fabric",
     "name": "Fabric",
-    "description": "A common crafting material.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/fabric.png"
+    "description": "Used to craft medical supplies and shields. Can be used to slowly restore small amounts of health.",
+    "type": "Basic Material",
+    "rarity": "Common",
+    "value": 50,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/fabric.png",
+    "weightKg": 0.1,
+    "stackSize": 50,
+    "foundIn": "Commercial, Medical, Residential",
+    "effects": {
+      "Healing": "0.4/s",
+      "Duration": "25s",
+      "Use Time": "1s"
+    },
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "tick_pod",
     "name": "Tick Pod",
     "description": "The explosive pod from a Tick.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/tick_pod.png"
+    "value": 640,
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "imageFilename": "https://cdn.arctracker.io/items/tick_pod.png",
+    "recyclesInto": {
+      "arc_alloy": 1,
+      "metal_parts": 1
+    },
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "explosive_mixture",
     "name": "Explosive Mixture",
     "description": "A volatile crafting component.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/explosive_mixture.png"
+    "imageFilename": "https://cdn.arctracker.io/items/explosive_mixture.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "dog_collar",
     "name": "Dog Collar",
-    "description": "A worn dog collar.",
-    "type": "Quest Item"
+    "description": "After all this time, you can still smell the goodness.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 640,
+    "recyclesInto": {
+      "fabric": 8,
+      "metal_parts": 1
+    },
+    "salvagesInto": {
+      "fabric": 5
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/dog_collar.png",
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Residential",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "torn_blanket",
     "name": "Torn Blanket",
-    "description": "A tattered piece of cloth.",
-    "type": "Material"
+    "description": "Can be recycled into fabric.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 640,
+    "recyclesInto": {
+      "fabric": 12
+    },
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "foundIn": "Residential, Medical",
+    "imageFilename": "https://cdn.arctracker.io/items/torn_blanket.png",
+    "updatedAt": "11/01/2025"
   },
   {
     "id": "lemon",
     "name": "Lemon",
-    "description": "A sour citrus fruit.",
-    "type": "Consumable"
+    "description": "Can be consumed for a small amount of stamina.",
+    "type": "Nature",
+    "rarity": "Uncommon",
+    "value": 640,
+    "recyclesInto": {},
+    "weightKg": 0.2,
+    "stackSize": 10,
+    "foundIn": "Nature",
+    "effects": {
+      "Stamina": 20,
+      "Use Time": "1s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/lemon.png",
+    "updatedAt": "11/01/2025"
   },
   {
     "id": "apricot",
     "name": "Apricot",
-    "description": "A sweet, orange fruit.",
-    "type": "Consumable"
+    "description": "A sun ripe apricot. Can be consumed for a small amount of stamina.",
+    "type": "Nature",
+    "rarity": "Uncommon",
+    "value": 640,
+    "recyclesInto": {},
+    "weightKg": 0.2,
+    "stackSize": 10,
+    "foundIn": "Nature",
+    "effects": {
+      "Stamina": 20,
+      "Use Time": "1s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/apricot.png",
+    "updatedAt": "10/31/2025"
   },
   {
     "id": "metal_parts",
     "name": "Metal Parts",
     "description": "Used to craft a wide range of items.",
-    "type": "Material",
+    "type": "Basic Material",
     "rarity": "Common",
     "value": 75,
+    "recyclesInto": {},
     "weightKg": 0.15,
-    "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png"
+    "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "rubber_parts",
     "name": "Rubber Parts",
     "description": "Scrap rubber pieces for crafting.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/rubber_parts.png"
+    "type": "Basic Material",
+    "rarity": "Common",
+    "value": 50,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/rubber_parts.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "plastic_parts",
     "name": "Plastic Parts",
     "description": "Scrap plastic pieces for crafting.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png"
+    "type": "Basic Material",
+    "rarity": "Common",
+    "value": 60,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "voltage_converter",
     "name": "Voltage Converter",
-    "description": "A device that adjusts electrical voltage for various crafting purposes.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/voltage_converter.png"
+    "description": "Used in crafting. Used to craft: Heavy Shield, Showstopper",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "value": 500,
+    "imageFilename": "https://cdn.arctracker.io/items/voltage_converter.png",
+    "updatedAt": "11/01/2025",
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "foundIn": "Electrical",
+    "recyclesInto": {
+      "wires": 1,
+      "rubber_parts": 1
+    }
   },
   {
     "id": "arc_motion_core",
     "name": "ARC Motion Core",
     "description": "A powerful core used in ARC machinery.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/arc_motion_core.png"
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "value": 1000,
+    "recyclesInto": {
+      "arc_alloy": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/arc_motion_core.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "toaster",
     "name": "Toaster",
     "description": "A salvaged toaster, repurposed for crafting.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/toaster.png"
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 640,
+    "recyclesInto": {
+      "plastic_parts": 5,
+      "wires": 5
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/toaster.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "arc_circuitry",
     "name": "ARC Circuitry",
-    "description": "Advanced circuitry used in ARC technology.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/arc_circuitry.png"
+    "description": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy.",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "value": 1000,
+    "recyclesInto": {
+      "arc_alloy": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/arc_circuitry.png",
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "foundIn": "ARC",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "motor",
     "name": "Motor",
     "description": "A small electric motor, useful for various devices.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/motor.png"
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 1000,
+    "recyclesInto": {
+      "oil": 2,
+      "mechanical_components": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/motor.png",
+    "updatedAt": "10/30/2025"
   },
   {
-    "id": "queen_part",
-    "name": "Queen Part",
-    "description": "A rare part salvaged from a Queen unit.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/queen_part.png"
+    "id": "queen_reactor",
+    "tip": "The Queen Reactor is a legendary item only acquired by defeating The Queen that can be recycled into crafting materials.",
+    "name": "Queen Reactor",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Legendary",
+    "value": 13000,
+    "recyclesInto": {
+      "power_rod": 1,
+      "magnetic_accelerator": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/queen_part.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "wires",
     "name": "Wires",
-    "description": "A bundle of conductive wires for crafting.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/wires.png"
+    "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials.",
+    "description": "Used to craft a wide range of items. Can be recycled into scrap metal.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "value": 200,
+    "recyclesInto": {
+      "rubber_parts": 2
+    },
+    "salvagesInto": {
+      "rubber_parts": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/wires.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "hornet_driver",
     "name": "Hornet Driver",
-    "description": "A control module used to operate Hornet drones or vehicles.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/hornet_driver.png"
+    "tip": "The Hornet Driver is a rare item is dropped by Hornets that can be recycled into crafting materials.",
+    "description": "Can be thrown and will briefly stun nearby targets",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 2000,
+    "recyclesInto": {
+      "arc_alloy": 1
+    },
+    "salvagesInto": {
+      "electrical_components": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/hornet_driver.png",
+    "effects": {
+      "ARC Stun Duration": "10s",
+      "Raider Stun Duration": "0.5s",
+      "Radius": "6m"
+    },
+    "foundIn": "ARC",
+    "weightKg": 0.75,
+    "stackSize": 3,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "fried_motherboard",
     "name": "Fried Motherboard",
-    "description": "A damaged motherboard, useful for salvage.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/fried_motherboard.png"
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 1000,
+    "recyclesInto": {
+      "plastic_parts": 5,
+      "electrical_components": 1
+    },
+    "salvagesInto": {
+      "wires": 5
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/fried_motherboard.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "rusted_tools",
     "name": "Rusted Tools",
     "description": "A set of tools, rusted but still usable for crafting.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/rusted_tools.png"
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 1000,
+    "recyclesInto": {
+      "metal_parts": 8,
+      "steel_spring": 1
+    },
+    "salvagesInto": {
+      "metal_parts": 7
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/rusted_tools.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "wasp_driver",
     "name": "Wasp Driver",
-    "description": "A control module used to operate Wasp drones or vehicles.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png"
+    "tip": "The Wasp Driver is a rare item is dropped by Wasps that can be recycled into crafting materials.",
+    "description": "Can be recycled into ARC Alloy. Can be thrown, and will explode if shot.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 1000,
+    "recyclesInto": {
+      "arc_alloy": 2
+    },
+    "salvagesInto": {
+      "electrical_components": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png",
+    "weightKg": 0.6,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "effects": {
+      "Damage": 80,
+      "Radius": "5m"
+    },
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "rusted_gear",
     "name": "Rusted Gear",
-    "description": "A gear covered in rust, but still functional.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/rusted_gear.png"
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 2000,
+    "recyclesInto": {
+      "metal_parts": 4,
+      "mechanical_components": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/rusted_gear.png",
+    "foundIn": "Industrial",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "sentinel_part",
     "name": "Sentinel Part",
     "description": "A salvaged component from a Sentinel unit.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/sentinel_part.png"
-  },
-  {
-    "id": "rollbot_part",
-    "name": "Rollbot Part",
-    "description": "A salvaged component from a Rollbot unit.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/rollbot_part.png"
+    "_note": "not_in_serverslam",
+    "imageFilename": "https://cdn.arctracker.io/items/sentinel_part.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "synthesized_fuel",
     "name": "Synthesized Fuel",
     "description": "A canister of synthetic fuel blend.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png"
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "value": 700,
+    "recyclesInto": {
+      "oil": 1,
+      "plastic_parts": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "fireball_burner",
     "name": "Fireball Burner",
-    "description": "A burner module from a Fireball unit.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/fireball_burner.png"
+    "description": "Can be recycled into ARC Alloy. Can be thrown to create small fires.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "value": 640,
+    "recyclesInto": {
+      "arc_alloy": 1,
+      "chemicals": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/fireball_burner.png",
+    "weightKg": 0.5,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "effects": {
+      "Damage": "5/s",
+      "Duration": "10s",
+      "Radius": "2m"
+    },
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "laboratory_reagents",
     "name": "Laboratory Reagents",
     "description": "A set of chemical reagents used in laboratory experiments.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png"
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 2000,
+    "recyclesInto": {
+      "chemicals": 2,
+      "crude_explosives": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "syringe",
     "name": "Syringe",
     "description": "A sterile syringe for medical use.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/syringe.png"
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "value": 500,
+    "recyclesInto": {
+      "plastic_parts": 3,
+      "chemicals": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/syringe.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "antiseptic",
     "name": "Antiseptic",
-    "description": "A bottle of antiseptic liquid for cleaning wounds.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/antiseptic.png"
+    "description": "Used to craft medical supplies. Can be recycled into chemicals. Used to craft: Sterilized Bandage, Vita Spray, Vita Shot",
+    "type": "Refined Material",
+    "rarity": "Rare",
+    "recyclesInto": {
+      "chemicals": 10
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/antiseptic.png",
+    "foundIn": "Medical",
+    "weightKg": 1.0,
+    "stackSize": 5,
+    "value": 1000,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "snitch_scanner",
     "name": "Snitch Scanner",
-    "description": "A handheld scanner for detecting hidden transmitters.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/snitch_scanner.png"
+    "description": "Can be recycled into ARC Alloy. Can be thrown to call in ARC.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "value": 2000,
+    "recyclesInto": {
+      "arc_alloy": 4
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/snitch_scanner.png",
+    "updatedAt": "10/31/2025",
+    "weightKg": 0.75,
+    "stackSize": 3,
+    "foundIn": "ARC"
   },
   {
     "id": "rusted_shut_medical_kit",
     "name": "Rusted Shut Medical Kit",
     "description": "A medical kit rusted shut, its contents unknown.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/rusted_shut_medical_kit.png"
-  },
-  {
-    "id": "bastion_part",
-    "name": "Bastion Part",
-    "description": "A salvaged component from a Bastion unit.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/bastion_part.png"
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 1000,
+    "recyclesInto": {
+      "syringe": 2,
+      "antiseptic": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/rusted_shut_medical_kit.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "spring",
     "name": "Spring",
     "description": "A tightly wound coil of metal, useful for crafting mechanisms.",
     "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/spring.png"
+    "_note": "not_in_serverslam",
+    "imageFilename": "https://cdn.arctracker.io/items/spring.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "heavy_gun_parts",
     "name": "Heavy Gun Parts",
-    "description": "Specialized components salvaged from heavy firearms, used in advanced weapon crafting.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts.png"
+    "description": "Used to craft weapons. Used to craft: Vulcano, Hullcracker, Bettina, Complex Gun Parts",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "value": 700,
+    "recyclesInto": {
+      "simple_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts.png",
+    "weightKg": 0.5,
+    "stackSize": 5,
+    "foundIn": "Security, Raider",
+    "updatedAt": "11/02/2025"
   },
   {
     "id": "arc_alloy",
     "name": "ARC Alloy",
-    "description": "Specialized alloys from ARC technology.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/arc_alloy.png"
+    "description": "Obtained from ARC enemies or activities, or by recycling certain ARC parts. Used to craft components.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "value": 200,
+    "recyclesInto": {
+      "metal_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/arc_alloy.png",
+    "weightKg": 0.25,
+    "stackSize": 15,
+    "foundIn": "ARC",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "ferro_i",
     "name": "Ferro I",
-    "description": "A basic Ferro rifle.",
-    "type": "Weapon"
+    "description": "Packs a punch, but must be reloaded between every shot.",
+    "type": "Weapon",
+    "rarity": "Common",
+    "value": 475,
+    "recyleInto": {
+      "metal_parts": 2,
+      "rubber_parts": 1
+    },
+    "craftMaterials": {
+      "metal_parts": 5,
+      "rubber_parts": 2
+    },
+    "repairMaterials": {
+      "durability_increase": 50,
+      "materials": null
+    },
+    "salvagesInto": {
+      "metal_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
+    "updatedAt": "10/31/2025",
+    "weightKg": 8.0,
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Heavy Ammo",
+      "Magazine Size": 1,
+      "Firing Mode": "Break-Action",
+      "ARC Armor Penetration": "Strong"
+    }
   },
   {
     "id": "light_ammo",
@@ -255,73 +549,139 @@
     "description": "Light bullets used mainly with SMGs and light handguns.",
     "type": "Ammo",
     "imageFilename": "https://cdn.arctracker.io/items/light_ammo.png",
-    "compatibleWith": ["Kettle", "Burletta", "Hairpin", "Bobcat", "Stitcher"]
+    "compatibleWith": [
+      "Kettle",
+      "Burletta",
+      "Hairpin",
+      "Bobcat",
+      "Stitcher"
+    ],
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "heavy_ammo",
     "name": "Heavy Ammo",
-    "description": "Heavy bullets used mainly with large-caliber weapons.",
-    "type": "Ammo",
-    "compatibleWith": ["Anvil"]
+    "description": "Compatible with: Ferro, Anvil, Bettina",
+    "type": "Ammunition",
+    "compatibleWith": [
+      "Anvil"
+    ],
+    "updatedAt": "11/02/2025",
+    "value": 12,
+    "weightKg": 2.0,
+    "stackSize": 40,
+    "imageFilename": "https://cdn.arctracker.io/items/heavy_ammo.png",
+    "rarity": "Common"
   },
   {
     "id": "medium_ammo",
     "name": "Medium Ammo",
-    "description": "Medium bullets used mainly with medium-caliber weapons.",
-    "type": "Ammo",
-    "compatibleWith": ["Arpeggio"]
-  },
-  {
-    "id": "herbal_bandages",
-    "name": "Herbal Bandages",
-    "description": "Bandages infused with healing herbs.",
-    "type": "Consumable"
+    "description": "Compatible with: Arpeggio, Renegade, Venator, Tempest, Rattler",
+    "type": "Ammunition",
+    "compatibleWith": [
+      "Arpeggio"
+    ],
+    "imageFilename": "https://cdn.arctracker.io/items/medium_ammo.png",
+    "crafting": {
+      "metal_parts": 4,
+      "chemicals": 2
+    },
+    "value": 6,
+    "weightKg": 0.025,
+    "stackSize": 80,
+    "rarity": "Common",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "sterilized_bandage",
     "name": "Sterilized Bandage",
-    "description": "A sterile bandage for treating wounds.",
+    "description": "A medical item that gradually restores a large amount health over time.",
     "type": "Consumable",
-    "imageFilename": "https://cdn.arctracker.io/items/sterilized_bandage.png"
+    "imageFilename": "https://cdn.arctracker.io/items/sterilized_bandage.png",
+    "value": 2000,
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "effects": {
+      "Healing": "5/s",
+      "Duration": "10s",
+      "Use Time": "1.5s"
+    },
+    "updatedAt": "11/01/2025",
+    "stackSize": 3
   },
   {
     "id": "lure_grenade",
     "name": "Lure Grenade",
-    "description": "A grenade that attracts attention.",
-    "type": "Gear"
+    "description": "A noise device that sticks to surfaces, distracting nearby ARC machines and drawing their fire.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "value": 1000,
+    "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
+    "updatedAt": "10/30/2025"
   },
   {
-    "id": "jump_mines",
-    "name": "Jump Mines",
-    "description": "Proximity mines that launch into the air.",
-    "type": "Gear"
+    "id": "jump_mine",
+    "name": "Jump Mine",
+    "description": "A proximity triggered mine that pops up and explodes, dealing damage to anything within its radius.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "value": 1000,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "ferro_iv",
     "name": "Ferro IV",
-    "description": "An advanced Ferro device.",
-    "type": "Weapon"
-  },
-  {
-    "id": "blaze_grenades",
-    "name": "Blaze Grenades",
-    "description": "Incendiary grenades.",
-    "type": "Gear"
-  },
-  {
-    "id": "apreggio_i",
-    "name": "Apreggio I",
-    "baseItemId": "apreggio_rifle",
-    "tier": 1,
-    "description": "A 3-round burst assault rifle.",
-    "type": "Assault Rifle",
+    "description": "Packs a punch, but must be reloaded between every shot.",
+    "type": "Weapon",
     "rarity": "Common",
-    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
-    "tags": ["Assault Rifle", "Burst"],
-    "ammoType": "Medium Ammo",
-    "statBars": { "damage": 10, "fireRate": 60, "range": 30, "stability": 70, "agility": 35, "stealth": 20 },
-    "weightKg": 5.8,
-    "value": 2000
+    "value": 944,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "simple_gun_parts": 2
+    },
+    "craftMaterials": {
+      "metal_parts": 5,
+      "rubber_parts": 2
+    },
+    "repairMaterials": {
+      "durability_increase": 50,
+      "materials": null
+    },
+    "salvagesInto": {
+      "metal_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
+    "updatedAt": "10/31/2025",
+    "weightKg": 8.0,
+    "effects": {
+      "Durability": "43/130",
+      "Ammo Type": "Heavy Ammo",
+      "Magazine Size": 1,
+      "Firing Mode": "Break-Action",
+      "ARC Armor Penetration": "Strong",
+      "Upgrade Modifiers": "39% Reduced Reload Time"
+    }
+  },
+  {
+    "id": "blaze_grenade",
+    "name": "Blaze Grenade",
+    "description": "A grenade that detonates on impact, covering an area in fire that deals damage over time.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "value": 1600,
+    "imageFilename": "https://cdn.arctracker.io/items/blaze_grenade.png",
+    "recyclesInto": {
+      "oil": 2,
+      "metal_parts": 4
+    },
+    "weightKg": 0.2,
+    "stackSize": 5,
+    "effects": {
+      "Damage": "5/s",
+      "Duration": "10s",
+      "Radius": "10m"
+    },
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "apreggio_iv",
@@ -331,20 +691,23 @@
     "description": "A 3-round burst assault rifle with decent damage output and accuracy.",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
-    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png", 
-    "tags": ["Assault Rifle", "Burst"],
+    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
+    "tags": [
+      "Assault Rifle",
+      "Burst"
+    ],
     "flavorText": "Somewhat effective against ARC armor plating",
     "ammoType": "Medium Ammo",
     "magazineSize": 24,
     "magazineCurrent": 24,
     "modsEquippedMax": 4,
-    "statBars": { 
-      "damage": 20, 
-      "fireRate": 70, 
-      "range": 40, 
-      "stability": 85, 
-      "agility": 30, 
-      "stealth": 25 
+    "statBars": {
+      "damage": 20,
+      "fireRate": 70,
+      "range": 40,
+      "stability": 85,
+      "agility": 30,
+      "stealth": 25
     },
     "bonuses": [
       "60% Increased Fire Rate",
@@ -352,211 +715,358 @@
       "70% Reduced Durability Burn Rate"
     ],
     "weightKg": 6,
-    "value": 7000
+    "value": 7000,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "rubber_duck",
     "name": "Rubber Duck",
-    "description": "A squeaky yellow rubber duck.",
-    "type": "Misc"
-  },
-  {
-    "id": "faded_photograph",
-    "name": "Faded Photograph",
-    "description": "An old, faded photograph.",
-    "type": "Misc"
+    "description": "Always there to lend an ear, should you need it.",
+    "type": "Trinket",
+    "value": 1000,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/rubber_duck.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "arc_powercell",
     "name": "ARC Powercell",
-    "description": "A powerful energy cell used in ARC technology.",
-    "type": "Misc"
+    "description": "Valuable resource that drops from all ARC enemies.",
+    "type": "Topside Material",
+    "rarity": "Common",
+    "value": 640,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/arc_powercell.png",
+    "weightKg": 0.5,
+    "stackSize": 5,
+    "foundIn": "ARC",
+    "effects": {
+      "Recharge": "2/s",
+      "Duration": "10s",
+      "Use Time": "3s"
+    },
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "water_filter",
     "name": "Water Filter",
     "description": "A portable filtration device for purifying water.",
-    "type": "Misc"
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 1000,
+    "weightKg": 2,
+    "stackSize": 3,
+    "foundIn": "Industrial",
+    "recyclesInto": {
+      "rubber_parts": 2,
+      "canister": 3
+    },
+    "salvagesInto": {
+      "canister": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/water_filter.png",
+    "updatedAt": "11/1/2025"
   },
   {
     "id": "water_pump",
     "name": "Water Pump",
     "description": "A small electric pump used to move water.",
-    "type": "Misc"
-  },
-  {
-    "id": "sensor",
-    "name": "Sensor",
-    "description": "A sensitive electronic sensor used for environmental monitoring.",
-    "type": "Misc"
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "stackSize": 3,
+    "weightKg": 2,
+    "value": 1000,
+    "recyclesInto": {
+      "metal_parts": 4,
+      "oil": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/water_pump.png",
+    "salvagesInto": {
+      "oil": 2
+    },
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "advanced_electrical_components",
     "name": "Advanced Electrical Components",
-    "description": "Specialized electrical parts required for advanced repairs and upgrades.",
-    "type": "Misc"
+    "description": "Used to craft utility items and shield mods. Can be recycled into crafting materials.",
+    "type": "Refined Material",
+    "rarity": "Rare",
+    "value": 1750,
+    "recyclesInto": {
+      "electrical_components": 1,
+      "wires": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/advanced_electrical_components.png",
+    "salvagesInto": {
+      "electrical_components": 1
+    },
+    "foundIn": "Electrical",
+    "weightKg": 1.0,
+    "stackSize": 5,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "deflated_football",
     "name": "Deflated Football",
-    "description": "A worn, deflated football. Needs air but still has sentimental value.",
-    "type": "Misc"
+    "description": "Just by looking at this, you too start to feel slightly deflated.",
+    "type": "Recyclable",
+    "recyclesInto": {
+      "rubber_parts": 15
+    },
+    "salvagesInto": {
+      "rubber_parts": 9
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/deflated_football.png",
+    "rarity": "Uncommon",
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Residential",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "duct_tape",
     "name": "Duct Tape",
-    "description": "A roll of strong, multipurpose adhesive tape. Useful for all kinds of repairs.",
-    "type": "Misc"
+    "imageFilename": "https://cdn.arctracker.io/items/duct_tape.png",
+    "value": 300,
+    "recyclesInto": {
+      "fabric": 3
+    },
+    "description": "Used to craft weapons and weapon mods. Can be recycled into plastic.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "foundIn": "Residential, Commercial",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "flute",
     "name": "Flute",
     "description": "A simple musical instrument, lightweight and portable.",
-    "type": "Misc"
+    "type": "Misc",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "empty_wine_bottle",
     "name": "Empty Wine Bottle",
-    "description": "A glass bottle once filled with wine, now empty.",
-    "type": "Misc"
+    "description": "Yes, it really is empty.",
+    "type": "Trinket",
+    "value": 1000,
+    "weightKg": 0.2,
+    "stackSize": 5,
+    "foundIn": "Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/empty_wine_bottle.png",
+    "rarity": "Common",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "light_impact_grenade",
     "name": "Light Impact Grenade",
-    "description": "A small grenade designed for light impact and crowd control.",
-    "type": "Misc"
+    "description": "A grenade that detonates on impact, dealing explosive damage in a small radius.",
+    "type": "Consumable",
+    "rarity": "Common",
+    "value": 270,
+    "imageFilename": "https://cdn.arctracker.io/items/light_impact_grenade.png",
+    "recyclesInto": {
+      "chemicals": 1
+    },
+    "salvagesInto": {
+      "chemicals": 1
+    },
+    "weightKg": 0.1,
+    "stackSize": 5,
+    "effects": {
+      "Damage": 30,
+      "Radius": "2.5m"
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "shrapnel_grenade",
+    "name": "Shrapnel Grenade",
+    "description": "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "value": 800,
+    "recyclesInto": {},
+    "salvagesInto": {},
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "oil",
     "name": "Oil",
-    "description": "A small container of multipurpose oil, useful for maintenance and crafting.",
-    "type": "Misc"
+    "description": "Used to craft weapons and explosives. Can be recycled into chemicals. Used to craft: Renegade, Explosive Compound, Blaze Grenade",
+    "imageFilename": "https://cdn.arctracker.io/items/oil.png",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "value": 300,
+    "recyclesInto": {
+      "oil": 1,
+      "rubber_parts": 2
+    },
+    "updatedAt": "10/31/2025",
+    "weightKg": 0.25,
+    "stackSize": 15,
+    "foundIn": "Mechanical"
   },
   {
     "id": "snap_hook",
     "name": "Snap Hook",
-    "description": "A sturdy metal hook with a spring-loaded gate, used for fast attachment.",
-    "type": "Misc"
+    "description": "A gadget that allows the user to scale structures and cover large distances.",
+    "type": "Quick Use",
+    "rarity": "Legendary",
+    "value": 14000,
+    "imageFilename": "https://cdn.arctracker.io/items/snap_hook.png",
+    "weightKg": 5.0,
+    "effects": {
+      "Durability": "100/100",
+      "Range": "20m"
+    },
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "esr_analyzer",
     "name": "ESR Analyzer",
     "description": "A specialized medical device for analyzing erythrocyte sedimentation rates.",
-    "type": "Misc"
-  },
-  {
-    "id": "rocketeer_part",
-    "name": "Rocketeer Part",
-    "description": "A salvaged component from a Rocketeer unit.",
     "type": "Misc",
-    "imageFilename": "https://cdn.arctracker.io/items/rocketeer_part.png"
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "wolfpack",
-    "name": "WolfPack",
-    "description": "A compact bundle of high-explosive charges, commonly used by Raiders.",
-    "type": "Misc"
-  },
-  {
-    "id": "bison_driver",
-    "name": "Bison Driver",
-    "description": "A critical control component from a Bison vehicle.",
-    "type": "Misc"
-  },
-  {
-    "id": "equalizer",
-    "name": "Equalizer",
-    "description": "A powerful, rare weapon or device used to level the playing field.",
-    "type": "Misc"
+    "name": "Wolfpack",
+    "description": "A grenade that scatters into multiple homing missiles, each one targeting ARC and dealing explosive damage on impact.",
+    "type": "Quick Use",
+    "rarity": "Epic",
+    "weightKg": 1.0,
+    "effects": {
+      "Damage": "166 x12",
+      "Homing Range": "100m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/wolfpack.png",
+    "updatedAt": "10/30/2025",
+    "recyclesInto": {
+      "crude_explosives": 2,
+      "synthesized_fuel": 2
+    }
   },
   {
     "id": "camera_lens",
     "name": "Camera Lens",
-    "description": "A precision optical lens for cameras, fragile but valuable.",
-    "type": "Misc"
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "value": 270,
+    "recyclesInto": {
+      "plastic_parts": 8
+    },
+    "weightKg": 0.8,
+    "stackSize": 5,
+    "foundIn": "Security",
+    "imageFilename": "https://cdn.arctracker.io/items/camera_lens.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "film_reel",
     "name": "Film Reel",
-    "description": "A reel of photographic film, used for recording images.",
-    "type": "Misc"
+    "description": "May be worth a few coins.",
+    "type": "Trinket",
+    "value": 2000,
+    "recyclesInto": {},
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "stackSize": 3,
+    "foundIn": "Old World, Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/film_reel.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "electrical_components",
     "name": "Electrical Components",
-    "description": "A collection of wires, chips, and connectors for electrical repairs.",
-    "type": "Misc"
-  },
-  {
-    "id": "raider_augment_i",
-    "name": "Raider Augment I",
-    "description": "Can be equipped to gain more loadout space and carry capacity. Allows you to equip better shields as well.",
-    "type": "Augment",
+    "description": "Used to craft components, utility items, shields, and shield mods. Can be recycled into crafting materials.",
+    "type": "Refined Material",
+    "value": 640,
+    "recyclesInto": {
+      "plastic_parts": 8,
+      "wires": 3
+    },
+    "salvagesInto": {
+      "plastic_parts": 3
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/electrical_components.png",
     "rarity": "Uncommon",
-    "backpackSlots": 16,
-    "weightLimitKg": 50,
-    "weaponSlots": 2,
-    "quickUseSlots": 6,
-    "safePocketSlots": 2,
-    "shieldCompatibility": ["Light", "Medium"],
-    "crafting": {
-      "rubber_parts": 12,
-      "plastic_parts": 8
-    },
-    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_i.png"
-  },
-  {
-    "id": "raider_augment_ii",
-    "name": "Raider Augment II",
-    "description": "Can be equipped to gain more loadout space and carry capacity. Allows you to equip better shields as well.",
-    "type": "Augment",
-    "rarity": "Rare",
-    "backpackSlots": 18,
-    "weightLimitKg": 55,
-    "weaponSlots": 2,
-    "quickUseSlots": 6,
-    "safePocketSlots": 2,
-    "shieldCompatibility": ["Light", "Medium"],
-    "crafting": {
-      "rubber_parts": 20,
-      "processor": 2
-    },
-    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_ii.png"
+    "weightKg": 0.5,
+    "stackSize": 10,
+    "foundIn": "Electrical",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "canister",
     "name": "Canister",
-    "description": "A metal container used for storing pressurized gas or fuel, essential for certain advanced weapons and devices.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/canister.png"
+    "description": "Used to craft a wide range of items. Can be recycled into plastic.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "value": 300,
+    "recyclesInto": {
+      "plastic_parts": 3
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/canister.png",
+    "weightKg": 0.25,
+    "stackSize": 15,
+    "foundIn": "Commercial",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "advanced_mechanical_components",
     "name": "Advanced Mechanical Components",
-    "description": "Mostly used to craft advanced weapons. Can be recycled into crafting materials.",
-    "type": "Advanced Material",
-    "rarity": "Epic",
-    "value": 3000,
-    "weightKg": 1,
-    "imageFilename": "https://cdn.arctracker.io/items/advanced_mechanical_components.png"
+    "description": "Used to craft advanced weapons. Can be recycled into crafting materials.",
+    "type": "Refined Material",
+    "rarity": "Rare",
+    "value": 350,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "wires": 1
+    },
+    "weightKg": 0.2,
+    "imageFilename": "https://cdn.arctracker.io/items/advanced_mechanical_components.png",
+    "foundIn": "Mechanical",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "simple_gun_parts",
     "name": "Simple Gun Parts",
-    "description": "Basic components salvaged from common firearms, used in weapon crafting.",
-    "type": "Material",
+    "description": "Used to craft weapons. Used to craft: Il Toro, Burletta, Anvil, Arpeggio, Heavy Gun Parts",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "value": 330,
+    "recyclesInto": {
+      "metal_parts": 2
+    },
+    "updatedAt": "10/31/2025",
+    "weightKg": 0.3,
+    "stackSize": 10,
+    "foundIn": "Raider, Security",
     "imageFilename": "https://cdn.arctracker.io/items/simple_gun_parts.png"
   },
   {
     "id": "mechanical_components",
     "name": "Mechanical Components",
-    "description": "A set of gears, springs, and metal parts used in weapon and device crafting.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/mechanical_components.png"
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Il Toro, Burletta, Anvil, Muzzle Brake II, Extended Medium Mag II",
+    "type": "Refined Material",
+    "rarity": "Uncommon",
+    "value": 640,
+    "recyclesInto": {
+      "metal_parts": 8,
+      "steel_spring": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/mechanical_components.png",
+    "updatedAt": "10/31/2025",
+    "weightKg": 0.5,
+    "stackSize": 10,
+    "foundIn": "Mechanical"
   },
   {
     "id": "arpeggio_i",
-    "name": "ARPEGGIO I",
+    "name": "Arpeggio I",
     "description": "A 3-round burst assault rifle with decent damage output and accuracy.",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
@@ -570,14 +1080,16 @@
       "mechanical_components": 1,
       "magnet": 3
     },
-    "imageFilename": "https://cdn.arctracker.io/items/arpeggio_i.png"
+    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "venator_i",
-    "name": "VENATOR I",
+    "name": "Venator I",
     "description": "Semi-automatic pistol. Fires two shots at a time.",
     "type": "Pistol",
     "rarity": "Rare",
+    "_note": "not_in_serverslam",
     "damage": 18,
     "fireRate": 21.7,
     "range": 48.4,
@@ -589,14 +1101,16 @@
       "magnet": 4
     },
     "stationLevelRequired": 2,
-    "imageFilename": "https://cdn.arctracker.io/items/venator_i.png"
+    "imageFilename": "https://cdn.arctracker.io/items/venator.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "vulcano_i",
-    "name": "VULCANO I",
+    "name": "Vulcano I",
     "description": "Semi-automatic shotgun with good bullet spread but sharp falloff.",
     "type": "Shotgun",
     "rarity": "Epic",
+    "_note": "not_in_serverslam",
     "damage": 58.5,
     "fireRate": 8.3,
     "range": 22.1,
@@ -611,14 +1125,16 @@
       "canister": 4
     },
     "stationLevelRequired": 3,
-    "imageFilename": "https://cdn.arctracker.io/items/vulcano.png"
+    "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "vulcano_ii",
-    "name": "VULCANO II",
-    "description": "Semi-automatic shotgun with good bullet spread but sharp falloff.",
-    "type": "Shotgun",
+    "name": "Vulcano II",
+    "description": "Has good bullet spread but sharp falloff.",
+    "type": "Weapon",
     "rarity": "Epic",
+    "_note": "not_in_serverslam",
     "damage": 58.5,
     "fireRate": 14.3,
     "range": 22.1,
@@ -632,14 +1148,26 @@
       "mechanical_components": 1,
       "simple_gun_parts": 3
     },
-    "imageFilename": "https://cdn.arctracker.io/items/vulcano.png"
+    "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
+    "updatedAt": "11/01/2025",
+    "value": 16800,
+    "weightKg": 9.25,
+    "stackSize": 1,
+    "effects": {
+      "Durability": "67/110",
+      "Ammo Type": "Shotgun Ammo",
+      "Magazine Size": 10,
+      "Firing Mode": "Semi-Automatic",
+      "ARC Armor Penetration": "Weak"
+    }
   },
   {
     "id": "venator_ii",
-    "name": "VENATOR II",
+    "name": "Venator II",
     "description": "Semi-automatic pistol. Fires two shots at a time.",
     "type": "Pistol",
     "rarity": "Rare",
+    "_note": "not_in_serverslam",
     "damage": 18,
     "fireRate": 26.7,
     "range": 48.4,
@@ -653,14 +1181,16 @@
       "mechanical_components": 1,
       "simple_gun_parts": 3
     },
-    "imageFilename": "https://cdn.arctracker.io/items/venator.png"
+    "imageFilename": "https://cdn.arctracker.io/items/venator.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "arpeggio_iii",
-    "name": "ARPEGGIO III",
+    "name": "Arpeggio III",
     "description": "A 3-round burst assault rifle with decent damage output and accuracy.",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
+    "_note": "not_in_serverslam",
     "damage": 11,
     "fireRate": 18.3,
     "range": 53.7,
@@ -670,14 +1200,16 @@
     "increasedFireRate": 40,
     "reducedReloadTime": 25,
     "reducedDurabilityBurnRate": 46,
-    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png"
+    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "arpeggio_iv",
-    "name": "ARPEGGIO IV",
+    "name": "Arpeggio IV",
     "description": "A 3-round burst assault rifle with decent damage output and accuracy.",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
+    "_note": "not_in_serverslam",
     "damage": 11,
     "fireRate": 23.3,
     "range": 53.7,
@@ -691,14 +1223,16 @@
       "mechanical_components": 1,
       "medium_gun_parts": 2
     },
-    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png"
+    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "anvil_iii",
-    "name": "ANVIL III",
+    "name": "Anvil III",
     "description": "Single-action hand cannon with high damage output and headshot damage, but slow handling.",
     "type": "Hand Cannon",
     "rarity": "Uncommon",
+    "_note": "not_in_serverslam",
     "damage": 40,
     "fireRate": 14.7,
     "range": 51.3,
@@ -708,14 +1242,16 @@
     "reducedDispersionRecoveryTime": 30,
     "increasedFireRate": 30,
     "reducedDurabilityBurnRate": 46,
-    "imageFilename": "https://cdn.arctracker.io/items/anvil.png"
+    "imageFilename": "https://cdn.arctracker.io/items/anvil.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "anvil_iv",
-    "name": "ANVIL IV",
+    "name": "Anvil IV",
     "description": "Single-action hand cannon with high damage output and headshot damage, but slow handling.",
     "type": "Hand Cannon",
     "rarity": "Uncommon",
+    "_note": "not_in_serverslam",
     "damage": 40,
     "fireRate": 20.7,
     "range": 51.3,
@@ -729,52 +1265,24 @@
       "mechanical_components": 1,
       "heavy_gun_parts": 2
     },
-    "imageFilename": "https://cdn.arctracker.io/items/anvil.png"
-  },
-  {
-    "id": "raider_augment_iii",
-    "name": "Raider Augment III",
-    "description": "Can be equipped to gain more loadout space and carry capacity. Allows you to equip better shields as well.",
-    "type": "Augment",
-    "rarity": "Epic",
-    "backpackSlots": 20,
-    "weightLimitKg": 55,
-    "weaponSlots": 2,
-    "quickUseSlots": 6,
-    "safePocketSlots": 2,
-    "shieldCompatibility": ["Light", "Medium", "Heavy"],
-    "crafting": {
-      "electrical_components": 1,
-      "processor": 2
-    },
-    "stationLevelRequired": 2,
-    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_iii.png"
-  },
-  {
-    "id": "raider_augment_iv",
-    "name": "Raider Augment IV",
-    "description": "Can be equipped to gain more loadout space and carry capacity. Allows you to equip better shields as well.",
-    "type": "Augment",
-    "rarity": "Legendary",
-    "backpackSlots": 24,
-    "weightLimitKg": 60,
-    "weaponSlots": 2,
-    "quickUseSlots": 8,
-    "safePocketSlots": 3,
-    "shieldCompatibility": ["Light", "Medium", "Heavy"],
-    "crafting": {
-      "power_rod": 1,
-      "processor": 4
-    },
-    "stationLevelRequired": 3,
-    "imageFilename": "https://cdn.arctracker.io/items/raider_augment_iv.png"
+    "imageFilename": "https://cdn.arctracker.io/items/anvil.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "medium_gun_parts",
     "name": "Medium Gun Parts",
-    "description": "Components salvaged from medium firearms, used in weapon crafting.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts.png"
+    "description": "Assorted spare parts used for rifles. Used to craft: Torrente, Venator, Osprey, Renegade, Tempest",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "value": 280,
+    "recyclesInto": {
+      "simple_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts.png",
+    "foundIn": "Raider, Security",
+    "stackSize": 5,
+    "weightKg": 0.4,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "chemicals",
@@ -784,7 +1292,8 @@
     "rarity": "Common",
     "value": 50,
     "weightKg": 0.15,
-    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
+    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "power_rod",
@@ -792,198 +1301,1261 @@
     "description": "Used to craft shields. Can be recycled into crafting materials.",
     "type": "Advanced Material",
     "rarity": "Epic",
-    "value": 3000,
     "weightKg": 1,
-    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
+    "value": 5500,
+    "recyclesInto": {
+      "advanced_electrical_components": 1,
+      "arc_circuitry": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "industrial_battery",
     "name": "Industrial Battery",
     "description": "A large, high-capacity battery for industrial equipment.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/industrial_battery.png"
-  },
-  {
-    "id": "advanced_electrical_components",
-    "name": "Advanced Electrical Components",
-    "description": "A set of high-grade components for advanced electronics and repairs.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/advanced_electrical_components.png"
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 1000,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/industrial_battery.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "power_cable",
     "name": "Power Cable",
     "description": "A heavy-duty cable used for transmitting electrical power.",
-    "type": "Material",
-    "imageFilename": "https://cdn.arctracker.io/items/power_cable.png"
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 1000,
+    "recyclesInto": {
+      "wires": 4
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/power_cable.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "processor",
+    "name": "Processor",
+    "description": "Used in crafting. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "value": 500,
+    "recyclesInto": {
+      "wires": 1,
+      "plastic_parts": 1
+    },
+    "weightKg": 0.2,
+    "stackSize": 5,
+    "foundIn": "Technological",
+    "imageFilename": "https://cdn.arctracker.io/items/processor.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "battery",
+    "name": "Battery",
+    "description": "Used to craft a wide range of items. Can be recycled into scrap metal.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "imageFilename": "https://cdn.arctracker.io/items/battery.png",
+    "value": 250,
+    "recyclesInto": {
+      "metal_parts": 2
+    },
+    "foundIn": "Technological, Electrical",
+    "stackSize": 15,
+    "weightKg": 0.25,
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "sensors",
+    "name": "Sensors",
+    "description": "Used to craft utility items and explosives. Can be recycled into scrap metal.",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "value": 500,
+    "recyclesInto": {
+      "wires": 1,
+      "metal_parts": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/sensors.png",
+    "salvagesInto": {
+      "wires": 1
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "steel_spring",
+    "name": "Steel Spring",
+    "description": "Used to craft a wide range of items. Can be recycled into scrap metal.",
+    "imageFilename": "https://cdn.arctracker.io/items/steel_spring.png",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "value": 300,
+    "recyclesInto": {
+      "metal_parts": 3
+    },
+    "salvagesInto": {
+      "metal_parts": 2
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "speaker_component",
+    "name": "Speaker Component",
+    "description": "Used in crafting. Used to craft: Lure Grenade, Photoelectric Cloak",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "value": 500,
+    "recyclesInto": {
+      "plastic_parts": 2,
+      "rubber_parts": 2
+    },
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "foundIn": "Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/speaker_component.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "magnet",
+    "name": "Magnet",
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "value": 300,
+    "recyclesInto": {
+      "metal_parts": 3
+    },
+    "updatedAt": "10/31/2025",
+    "weightKg": 0.25,
+    "stackSize": 15,
+    "foundIn": "Exodus",
+    "imageFilename": "https://cdn.arctracker.io/items/magnet.png"
+  },
+  {
+    "id": "advanced_arc_powercell",
+    "name": "Advanced ARC Powercell",
+    "description": "Very valuable resource that drops from certain ARC enemies.",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "imageFilename": "https://cdn.arctracker.io/items/advanced_arc_powercell.png",
+    "value": 640,
+    "weightKg": 0.5,
+    "stackSize": 5,
+    "foundIn": "ARC",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "arc_coolant",
+    "name": "ARC Coolant",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "chemicals": 16
+    },
+    "description": "Obtained from ARC enemies or activities. Can be recycled into chemicals.",
+    "weightKg": 1.0,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/arc_coolant.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "arc_performance_steel",
+    "name": "ARC Performance Steel",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "metal_parts": 12
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 1.0,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/arc_performance_steel.png",
+    "updatedAt": "11/01/2025",
+    "stackSize": 3
+  },
+  {
+    "id": "arc_synthetic_resin",
+    "name": "ARC Synthetic Resin",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "plastic_parts": 14
+    },
+    "description": "Obtained from ARC enemies or activities. Can be recycled into plastic.",
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/arc_synthetic_resin.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "arc_thermo_lining",
+    "name": "ARC Thermo Lining",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "fabric": 16
+    },
+    "description": "Obtained from ARC enemies or activities. Can be recycled into fabric.",
+    "weightKg": 1.0,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/arc_thermo_lining.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "bastion_cell",
+    "name": "Bastion Cell",
+    "rarity": "Epic",
+    "type": "Recyclable",
+    "value": 5000,
+    "recyclesInto": {
+      "arc_alloy": 2,
+      "advanced_mechanical_components": 2
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 1.0,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/bastion_cell.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "bicycle_pump",
+    "name": "Bicycle Pump",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 2000,
+    "recyclesInto": {
+      "canister": 4,
+      "metal_parts": 10
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 3.0,
+    "foundIn": "Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/bicycle_pump.png",
+    "updatedAt": "11/01/2025",
+    "stackSize": 3
+  },
+  {
+    "id": "broken_flashlight",
+    "name": "Broken Flashlight",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": null,
+    "recyclesInto": {
+      "battery": 3,
+      "metal_parts": 7
+    },
+    "description": "Can be recycled into crafting materials.",
+    "foundIn": "Security",
+    "weightKg": 0.67,
+    "stackSize": 3,
+    "imageFilename": "https://cdn.arctracker.io/items/broken_flashlight.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "broken_handheld_radio",
+    "name": "Broken Handheld Radio",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 2000,
+    "recyclesInto": {
+      "sensors": 3,
+      "wires": 2
+    },
+    "updatedAt": "11/02/2025",
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 3.0,
+    "stackSize": 3,
+    "foundIn": "Security",
+    "imageFilename": "https://cdn.arctracker.io/items/broken_handheld_radio.png"
+  },
+  {
+    "id": "broken_riot_shield",
+    "name": "Broken Riot Shield",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": null,
+    "recyclesInto": {
+      "plastic_parts": 12
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "broken_taser",
+    "name": "Broken Taser",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "battery": 2,
+      "wires": 2
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "cooling_coil",
+    "name": "Cooling Coil",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "chemicals": 6,
+      "steel_spring": 2
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 2.0,
+    "foundIn": "Industrial",
+    "imageFilename": "https://cdn.arctracker.io/items/cooling_coil.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "cooling_fan",
+    "name": "Cooling Fan",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 2000,
+    "recyclesInto": {
+      "plastic_parts": 14,
+      "battery": 4
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 1.0,
+    "foundIn": "Technological",
+    "imageFilename": "https://cdn.arctracker.io/items/cooling_fan.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "cracked_bioscanner",
+    "name": "Cracked Bioscanner",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 640,
+    "recyclesInto": {
+      "rubber_parts": 3,
+      "battery": 5
+    },
+    "description": "Can be recycled into crafting materials.",
+    "foundIn": "Medical",
+    "imageFilename": "https://cdn.arctracker.io/items/cracked_bioscanner.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "crude_explosives",
+    "name": "Crude Explosives",
+    "description": "Used to craft explosives. Can be recycled into crafting materials. Used to craft: Launcher Ammo, Explosive Compound, Snap Blast Grenade, Shrapnel Grenade, Trigger 'Nade",
+    "rarity": "Uncommon",
+    "type": "Refined Material",
+    "value": 270,
+    "recyclesInto": {
+      "chemicals": 3
+    },
+    "salvagesInto": {
+      "chemicals": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/crude_explosives.png",
+    "effects": {
+      "Damage": 15,
+      "Radius": "1.5m"
+    },
+    "foundIn": "Industrial, Security",
+    "weightKg": 0.5,
+    "updatedAt": "11/01/2025",
+    "stackSize": 10
+  },
+  {
+    "id": "crumpled_plastic_bottle",
+    "name": "Crumpled Plastic Bottle",
+    "rarity": "Uncommon",
+    "type": "Recyclable",
+    "value": 80,
+    "recyclesInto": {
+      "plastic_parts": 3
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "garlic_press",
+    "name": "Garlic Press",
+    "description": "It'll press garlic, olives, and probably many other things.",
+    "rarity": "Uncommon",
+    "type": "Recyclable",
+    "value": 1000,
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "recyclesInto": {
+      "metal_parts": 12
+    },
+    "salvagesInto": {
+      "metal_parts": 7
+    },
+    "updatedAt": "11/1/2025",
+    "foundIn": "Residential, Commercial"
+  },
+  {
+    "id": "great_mullein",
+    "name": "Great Mullein",
+    "rarity": "Uncommon",
+    "type": "Topside Material",
+    "value": 300,
+    "recyclesInto": {
+      "assorted_seeds": 2
+    },
+    "updatedAt": "10/31/2025",
+    "description": "Used to craft medical supplies. Used to craft: Herbal Bandage, Antiseptic",
+    "weightKg": 0.25,
+    "foundIn": "Nature",
+    "stackSize": 15,
+    "imageFilename": "https://cdn.arctracker.io/items/great_mullein.png"
+  },
+  {
+    "id": "headphones",
+    "name": "Headphones",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "rubber_parts": 6,
+      "speaker_component": 2
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "foundIn": "Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/headphones.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "household_cleaner",
+    "name": "Household Cleaner",
+    "rarity": "Uncommon",
+    "type": "Recyclable",
+    "value": 640,
+    "recyclesInto": {
+      "chemicals": 13
+    },
+    "description": "Can be recycled into chemicals.",
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/household_cleaner.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "humidifier",
+    "name": "Humidifier",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "canister": 3,
+      "wires": 2
+    },
+    "description": "Can be recycled into crafting materials.",
+    "foundIn": "Residential",
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "imageFilename": "https://cdn.arctracker.io/items/humidifier.png",
+    "updatedAt": "11/02/2025"
+  },
+  {
+    "id": "ice_cream_scooper",
+    "name": "Ice Cream Scooper",
+    "rarity": "Uncommon",
+    "type": "Recyclable",
+    "value": 640,
+    "recyclesInto": {
+      "metal_parts": 7
+    },
+    "salvagesInto": {
+      "metal_parts": 3
+    },
+    "description": "It is theorized that scooping things was a favorite pastime in the world before.",
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/ice_cream_scooper.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "impure_arc_coolant",
+    "name": "Impure Arc Coolant",
+    "rarity": "Uncommon",
+    "type": "Recyclable",
+    "value": null,
+    "recyclesInto": {
+      "chemicals": 13
+    },
+    "description": "Can be recycled into crafting materials.",
+    "foundIn": "Arc",
+    "weightKg": 0.33,
+    "stackSize": 3,
+    "imageFilename": "https://cdn.arctracker.io/items/impure_arc_coolant.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "industrial_charger",
+    "name": "Industrial Charger",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "metal_parts": 5,
+      "voltage_converter": 1
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "foundIn": "Industrial",
+    "imageFilename": "https://cdn.arctracker.io/items/industrial_charger.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "industrial_magnet",
+    "name": "Industrial Magnet",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 333.33,
+    "recyclesInto": {
+      "magnet": 2,
+      "metal_parts": 4
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 0.67,
+    "foundIn": "Industrial",
+    "imageFilename": "https://cdn.arctracker.io/items/industrial_magnet.png",
+    "stackSize": 3,
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "light_gun_parts",
+    "name": "Light Gun Parts",
+    "rarity": "Rare",
+    "type": "Topside Material",
+    "value": 700,
+    "recyclesInto": {
+      "simple_gun_parts": 2
+    },
+    "description": "Assorted spare parts used for pistols and SMGs.",
+    "foundIn": "Raider, Security",
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts.png",
+    "updatedAt": "11/02/2025"
+  },
+  {
+    "id": "magnetic_accelerator",
+    "name": "Magnetic Accelerator",
+    "rarity": "Epic",
+    "type": "Refined Material",
+    "value": 5500,
+    "recyclesInto": {
+      "advanced_mechanical_components": 1,
+      "arc_motion_core": 1
+    },
+    "description": "Used to craft advanced weapons. Used to craft: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "weightKg": 1.0,
+    "stackSize": 3,
+    "foundIn": "Exodus",
+    "imageFilename": "https://cdn.arctracker.io/items/magnetic_accelerator.png",
+    "updatedAt": "11/02/2025"
+  },
+  {
+    "id": "number_plate",
+    "name": "Number Plate",
+    "rarity": "Uncommon",
+    "type": "Recyclable",
+    "value": 80,
+    "recyclesInto": {
+      "metal_parts": 3
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "power_bank",
+    "name": "Power Bank",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "battery": 2,
+      "wires": 2
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "foundIn": "Electrical, Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/power_bank.png",
+    "updatedAt": "11/02/2025"
+  },
+  {
+    "id": "projector",
+    "name": "Projector",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 333.33,
+    "recyclesInto": {
+      "rubber_parts": 6,
+      "processor": 2
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 0.67,
+    "stackSize": 3,
+    "foundIn": "Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/projector.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "radio",
+    "name": "Radio",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "speaker_component": 1,
+      "sensors": 1
+    },
+    "updatedAt": "11/01/2025",
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "foundIn": "Commercial, Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/radio.png"
+  },
+  {
+    "id": "recorder",
+    "name": "Recorder",
+    "rarity": "Common",
+    "type": "Trinket",
+    "value": 1000,
+    "recyclesInto": {
+      "plastic_parts": 10
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "remote_control",
+    "name": "Remote Control",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 270,
+    "recyclesInto": {
+      "plastic_parts": 2,
+      "sensors": 1
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/remote_control.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "rope",
+    "name": "Rope",
+    "rarity": "Rare",
+    "type": "Topside Material",
+    "value": 500,
+    "recyclesInto": {
+      "fabric": 5
+    },
+    "updatedAt": "10/31/2025",
+    "description": "Used in crafting. Used to craft: Zipline, Snap Hook",
+    "foundIn": "Residential, Commercial",
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "imageFilename": "https://cdn.arctracker.io/items/rope.png"
+  },
+  {
+    "id": "rubber_pad",
+    "name": "Rubber Pad",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 0,
+    "recyclesInto": {
+      "rubber_parts": 22
+    },
+    "description": "Can be recycled into rubber parts.",
+    "foundIn": "Electrical",
+    "weightKg": 0.67,
+    "imageFilename": "https://cdn.arctracker.io/items/rubber_pad.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "rusted_bolts",
+    "name": "Rusted Bolts",
+    "rarity": "Uncommon",
+    "type": "Recyclable",
+    "value": 640,
+    "recyclesInto": {
+      "metal_parts": 8
+    },
+    "updatedAt": "11/01/2025",
+    "description": "Can be recycled into metal parts.",
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Industrial, Mechanical",
+    "imageFilename": "https://cdn.arctracker.io/items/rusted_bolts.png"
+  },
+  {
+    "id": "spring_cushion",
+    "name": "Spring Cushion",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "durable_cloth": 2,
+      "steel_spring": 2
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "foundIn": "Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/spring_cushion.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "spotter_relay",
+    "name": "Spotter Relay",
+    "rarity": "Uncommon",
+    "type": "Recyclable",
+    "value": 5000,
+    "recyclesInto": {
+      "electrical_components": 2,
+      "arc_alloy": 1
+    },
+    "updatedAt": "10/31/2025",
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 1.0,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/spotter_relay.png"
+  },
+  {
+    "id": "surveyor_vault",
+    "name": "Surveyor Vault",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 666.67,
+    "recyclesInto": {
+      "mechanical_components": 2,
+      "arc_alloy": 2
+    },
+    "description": "Can be recycled into crafting materials.",
+    "foundIn": "ARC",
+    "weightKg": 0.33,
+    "stackSize": 3,
+    "imageFilename": "https://cdn.arctracker.io/items/surveyor_vault.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "tattered_clothes",
+    "name": "Tattered Clothes",
+    "rarity": "Uncommon",
+    "type": "Recyclable",
+    "value": 270,
+    "recyclesInto": {
+      "fabric": 11
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "thermostat",
+    "name": "Thermostat",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 640,
+    "recyclesInto": {
+      "rubber_parts": 6,
+      "sensors": 2
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "rocketeer_driver",
+    "name": "Rocketeer Driver",
+    "rarity": "Epic",
+    "type": "Recyclable",
+    "value": 5000,
+    "recyclesInto": {
+      "advanced_electrical_components": 2,
+      "arc_alloy": 3
+    },
+    "updatedAt": "11/2/2025",
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 1.0,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/rocketeer_driver.png"
+  },
+  {
+    "id": "leaper_pulse_unit",
+    "name": "Leaper Pulse Unit",
+    "rarity": "Epic",
+    "type": "Recyclable",
+    "value": 5000,
+    "recyclesInto": {
+      "advanced_mechanical_components": 2,
+      "arc_alloy": 3
+    },
+    "updatedAt": "11/2/2025",
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 1.0,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png"
+  },
+  {
+    "id": "sentinel_firing_core",
+    "name": "Sentinel Firing Core",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 3000,
+    "recyclesInto": {
+      "arc_alloy": 2,
+      "mechanical_components": 3
+    },
+    "description": "Can be recycled into crafting materials.",
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/sentinel_firing_core.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "bombardier_cell",
+    "name": "Bombardier Cell",
+    "rarity": "Epic",
+    "type": "Recyclable",
+    "value": 5000,
+    "recyclesInto": {
+      "advanced_mechanical_components": 2,
+      "arc_alloy": 2
+    },
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 1.0,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/bombardier_cell.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "agave",
+    "name": "Agave",
+    "description": "A piece of an agave leaf. Can be used to regain a small amount of health.",
+    "type": "Nature",
+    "value": 2000,
+    "weightKg": 0.4,
+    "foundIn": "Nature",
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/agave.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "assorted_seeds",
+    "name": "Assorted Seeds",
+    "description": "A handful of seeds. Celeste might be looking for these.",
+    "imageFilename": "https://cdn.arctracker.io/items/assorted_seeds.png",
+    "rarity": "Common",
+    "type": "Nature",
+    "value": 100,
+    "recyclesInto": {},
+    "weightKg": 0.05,
+    "stackSize": 100,
+    "foundIn": "Nature",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "prickly_pear",
+    "name": "Prickly Pear",
+    "rarity": "Common",
+    "description": "Can be consumed for a small amount of stamina.",
+    "imageFilename": "https://cdn.arctracker.io/items/prickly_pear.png",
+    "type": "Nature",
+    "value": 640,
+    "recyclesInto": {},
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "resin",
+    "name": "Resin",
+    "rarity": "Common",
+    "type": "Nature",
+    "value": null,
+    "recyclesInto": {},
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "roots",
+    "name": "Roots",
+    "rarity": "Uncommon",
+    "description": "May be worth a few coins.",
+    "imageFilename": "https://cdn.arctracker.io/items/roots.png",
+    "type": "Nature",
+    "value": 640,
+    "recyclesInto": {
+      "assorted_seeds": 1
+    },
+    "updatedAt": "10/31/2025",
+    "weightKg": 0.2,
+    "stackSize": 10,
+    "foundIn": "Nature"
+  },
+  {
+    "id": "olives",
+    "name": "Olives",
+    "rarity": "Uncommon",
+    "type": "Nature",
+    "value": 640,
+    "recyclesInto": {},
+    "updatedAt": "10/31/2025",
+    "description": "Can be consumed for a small amount of stamina.",
+    "weightKg": 0.2,
+    "stackSize": 10,
+    "foundIn": "Nature",
+    "effects": {
+      "Stamina": 20,
+      "Use Time": "1s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/olives.png"
+  },
+  {
+    "id": "mushroom",
+    "name": "Mushroom",
+    "rarity": "Uncommon",
+    "type": "Nature",
+    "value": 1000,
+    "recyclesInto": {},
+    "updatedAt": "10/31/2025",
+    "description": "Can be consumed to regain a small amount of health.",
+    "weightKg": 0.2,
+    "foundIn": "Nature",
+    "effects": {
+      "Healing": 15,
+      "Use Time": "1s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/mushroom.png"
+  },
+  {
+    "id": "polluted_air_filter",
+    "name": "Polluted Air Filter",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 640,
+    "recyclesInto": {
+      "fabric": 8,
+      "oil": 3
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "coolant",
+    "name": "Coolant",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {
+      "chemicals": 5,
+      "oil": 2
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "frying_pan",
+    "name": "Frying Pan",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 213,
+    "recyclesInto": {},
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 0.67,
+    "foundIn": "Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/frying_pan.png",
+    "stackSize": 3,
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "pop_trigger",
+    "name": "Pop Trigger",
+    "rarity": "Common",
+    "type": "Recyclable",
+    "value": 640,
+    "recyclesInto": {
+      "crude_explosives": 1,
+      "arc_alloy": 1
+    },
+    "updatedAt": "11/01/2025",
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 0.5,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/pop_trigger.png"
+  },
+  {
+    "id": "portable_tv",
+    "name": "Portable TV",
+    "rarity": "Rare",
+    "type": "Recyclable",
+    "value": 1000,
+    "recyclesInto": {},
+    "description": "Can be recycled into crafting materials.",
+    "foundIn": "Residential",
+    "weightKg": 3.0,
+    "imageFilename": "https://cdn.arctracker.io/items/portable_tv.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "volcanic_rock",
+    "name": "Volcanic Rock",
+    "rarity": "Common",
+    "type": "Misc",
+    "value": 0.5,
+    "recyclesInto": {},
+    "description": "Can be thrown.",
+    "foundIn": "Nature",
+    "weightKg": 0.5,
+    "stackSize": 5,
+    "effects": {
+      "Damage": 10
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/volcanic_rock.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "faded_photograph",
     "name": "Faded Photograph",
     "description": "A photograph whose details have faded with time.",
-    "type": "Valuable",
-    "value": 640
+    "type": "Trinket",
+    "value": 640,
+    "recyclesInto": {},
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "portable_television",
     "name": "Portable Television",
     "description": "A small, outdated portable TV.",
-    "type": "Valuable",
-    "value": 1000
-  },
-  {
-    "id": "deflated_football",
-    "name": "Deflated Football",
-    "description": "A football that has seen better days.",
-    "type": "Valuable",
-    "value": 1000
+    "type": "Trinket",
+    "value": 1000,
+    "recyclesInto": {},
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "empty_wine_bottle",
     "name": "Empty Wine Bottle",
     "description": "An empty bottle that once held fine wine.",
-    "type": "Valuable",
-    "value": 1000
-  },
-  {
-    "id": "rubber_ducky",
-    "name": "Rubber Ducky",
-    "description": "A classic yellow rubber ducky.",
-    "type": "Valuable",
-    "value": 1000
+    "type": "Trinket",
+    "value": 1000,
+    "recyclesInto": {},
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "cat_bed",
     "name": "Cat Bed",
-    "description": "A cozy bed for a beloved feline.",
-    "type": "Valuable",
-    "value": 1000
+    "description": "At least a tiny bit more comfortable than your face.",
+    "type": "Trinket",
+    "value": 1000,
+    "weightKg": 0.5,
+    "stackSize": 3,
+    "foundIn": "Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/cat_bed.png",
+    "rarity": "Uncommon",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "bloated_tuna_can",
     "name": "Bloated Tuna Can",
-    "description": "A can of tuna, suspiciously bloated.",
-    "type": "Valuable",
-    "value": 1000
+    "description": "Something tells you that you don't want to open this...",
+    "type": "Trinket",
+    "value": 1000,
+    "effects": {
+      "Stamina": 25,
+      "Use Time": "1s"
+    },
+    "foundIn": "Residential, Commercial",
+    "stackSize": 15,
+    "weightKg": 0.2,
+    "imageFilename": "https://cdn.arctracker.io/items/bloated_tuna_can.png",
+    "rarity": "Common",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "coffee_pot",
     "name": "Coffee Pot",
-    "description": "A well-used coffee pot.",
-    "type": "Valuable",
-    "value": 1000
+    "description": "The power to face a new day, one drip at a time.",
+    "type": "Trinket",
+    "value": 1000,
+    "recyclesInto": {},
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Residential",
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/coffee_pot.png",
+    "updatedAt": "11/01/2025"
   },
   {
     "id": "very_comfortable_pillow",
     "name": "Very Comfortable Pillow",
-    "description": "A pillow that's softer than most.",
-    "type": "Valuable",
-    "value": 2000
+    "description": "The envy of every Raider. Like sleeping on an especially ergonomic cloud.",
+    "type": "Trinket",
+    "value": 2000,
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/very_comfortable_pillow.png",
+    "rarity": "Uncommon",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "pottery",
     "name": "Pottery",
     "description": "A piece of hand-crafted pottery.",
-    "type": "Valuable",
-    "value": 2000
-  },
-  {
-    "id": "film_reel",
-    "name": "Film Reel",
-    "description": "A reel of old film, possibly containing memories.",
-    "type": "Valuable",
-    "value": 2000
+    "type": "Trinket",
+    "value": 2000,
+    "recyclesInto": {},
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "air_freshener",
     "name": "Air Freshener",
-    "description": "A scented air freshener, barely fragrant.",
-    "type": "Valuable",
-    "value": 2000
+    "description": "May be worth a few coins.",
+    "type": "Trinket",
+    "imageFilename": "https://cdn.arctracker.io/items/air_freshener.png",
+    "foundIn": "Mechanical",
+    "rarity": "Uncommon",
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "poster_natural_wonder",
     "name": "Poster of Natural Wonder",
     "description": "A poster depicting a breathtaking natural scene.",
     "type": "Valuable",
-    "value": 2000
+    "value": 2000,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "light_bulb",
     "name": "Light Bulb",
-    "description": "A fragile glass bulb for lighting.",
-    "type": "Valuable",
-    "value": 2000
+    "description": "Without light, life underground would be impossible.",
+    "type": "Trinket",
+    "value": 2000,
+    "updatedAt": "11/01/2025",
+    "rarity": "Uncommon",
+    "weightKg": 0.2,
+    "stackSize": 3,
+    "foundIn": "Electrical",
+    "imageFilename": "https://cdn.arctracker.io/items/light_bulb.png"
   },
   {
     "id": "statuette",
     "name": "Statuette",
-    "description": "A small decorative statuette.",
-    "type": "Valuable",
-    "value": 3000
+    "description": "Worth a small fortune.",
+    "type": "Trinket",
+    "value": 3000,
+    "recyclesInto": {},
+    "rarity": "Rare",
+    "foundIn": "Old World, Residential",
+    "stackSize": 3,
+    "weightKg": 0.3,
+    "imageFilename": "https://cdn.arctracker.io/items/statuette.png",
+    "updatedAt": "11/01/2025"
   },
   {
     "id": "silver_teaspoon_set",
     "name": "Silver Teaspoon Set",
     "description": "A set of ornate silver teaspoons.",
-    "type": "Valuable",
-    "value": 3000
+    "type": "Trinket",
+    "value": 3000,
+    "recyclesInto": {},
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "music_album",
     "name": "Music Album",
-    "description": "A classic music album, still in its sleeve.",
-    "type": "Valuable",
-    "value": 3000
+    "description": "Perfect for relaxing nights at home, casual get-togethers, and private air guitar concerts.",
+    "type": "Trinket",
+    "value": 3000,
+    "recyclesInto": {},
+    "updatedAt": "11/01/2025",
+    "rarity": "Rare",
+    "foundIn": "Residential, Commercial",
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "imageFilename": "https://cdn.arctracker.io/items/music_album.png"
   },
   {
     "id": "watch",
     "name": "Watch",
     "description": "A wristwatch that has stopped ticking.",
     "type": "Valuable",
-    "value": 3000
+    "value": 3000,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "vase",
     "name": "Vase",
-    "description": "A decorative vase, possibly valuable.",
-    "type": "Valuable",
-    "value": 3000
+    "description": "Worth a small fortune.",
+    "type": "Trinket",
+    "value": 3000,
+    "recyclesInto": {},
+    "updatedAt": "11/01/2025",
+    "rarity": "Rare",
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Old World, Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/vase.png"
   },
   {
     "id": "music_box",
     "name": "Music Box",
     "description": "A music box that plays a haunting tune.",
-    "type": "Valuable",
-    "value": 5000
+    "type": "Trinket",
+    "value": 5000,
+    "recyclesInto": {},
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "red_coral_jewelry",
     "name": "Red Coral Jewelry",
     "description": "A piece of jewelry made from red coral.",
-    "type": "Valuable",
-    "value": 5000
+    "type": "Trinket",
+    "value": 5000,
+    "recyclesInto": {},
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "playing_cards",
     "name": "Playing Cards",
-    "description": "A deck of playing cards, some missing.",
-    "type": "Valuable",
-    "value": 5000
+    "description": "Speranzans love to see who can build the tallest tower - before the tremors knock them down.",
+    "type": "Trinket",
+    "value": 5000,
+    "recyclesInto": {},
+    "updatedAt": "11/01/2025",
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "stackSize": 3,
+    "foundIn": "Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/playing_cards.png"
   },
   {
     "id": "snow_globe",
     "name": "Snow Globe",
     "description": "A globe containing a snowy scene.",
     "type": "Valuable",
-    "value": 7000
+    "value": 7000,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "lances_mixtape_5th_edition",
     "name": "Lance’s Mixtape (5th Edition)",
     "description": "A rare mixtape, highly sought after by collectors.",
     "type": "Valuable",
-    "value": 10000
+    "value": 10000,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "raider_hatch_key",
@@ -991,21 +2563,70 @@
     "type": "Key",
     "description": "Unlocks a Raider Hatch.",
     "rarity": "Rare",
-    "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png"
+    "value": 1000,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "medium_shield",
     "name": "Medium Shield",
     "type": "Shield",
     "rarity": "Rare",
-    "description": "A standard shield that offers fair protection at a moderate cost to mobility.",
+    "description": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
     "durability": 100,
     "shieldCharge": 80,
     "damageMitigation": 45,
     "movementSpeedModifier": -5,
-    "weight": 7,
+    "weightKg": 7.0,
     "value": 2000,
-    "imageFilename": "https://cdn.arctracker.io/items/medium_shield.png"
+    "imageFilename": "https://cdn.arctracker.io/items/medium_shield.png",
+    "effects": {
+      "Durability": "100/100",
+      "Charge": 70,
+      "Damage Reduction": "42.5%",
+      "Reduced Movement Speed": "5%"
+    },
+    "recyclesInto": {
+      "arc_circuitry": 1
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "light_shield",
+    "name": "Light Shield",
+    "type": "Shield",
+    "rarity": "Uncommon",
+    "description": "A lightweight shield offering basic protection with minimal mobility penalty.",
+    "durability": 60,
+    "shieldCharge": 50,
+    "damageMitigation": 25,
+    "movementSpeedModifier": 0,
+    "weightKg": 4,
+    "value": 1200,
+    "imageFilename": "https://cdn.arctracker.io/items/light_shield.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "heavy_shield",
+    "name": "Heavy Shield",
+    "type": "Shield",
+    "rarity": "Epic",
+    "description": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility.",
+    "durability": 140,
+    "shieldCharge": 120,
+    "damageMitigation": 65,
+    "movementSpeedModifier": -15,
+    "weightKg": 9.0,
+    "value": 5500,
+    "effects": {
+      "Durability": "100/100",
+      "Charge": 80,
+      "Damage Reduction": "52.5%",
+      "Reduced Movement Speed": "15%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/heavy_shield.png",
+    "updatedAt": "11/01/2025"
   },
   {
     "id": "zipline",
@@ -1016,17 +2637,28 @@
     "rangeMeters": 60,
     "weight": 0.8,
     "value": 2000,
-    "imageFilename": "https://cdn.arctracker.io/items/zipline.png"
+    "imageFilename": "https://cdn.arctracker.io/items/zipline.png",
+    "updatedAt": "10/30/2025",
+    "recyclesInto": {
+      "rope": 1,
+      "metal_parts": 1
+    }
   },
   {
     "id": "arc_flex_rubber",
-    "name": "ARC Flex Rubber",
+    "name": "Arc Flex Rubber",
     "type": "Recyclable",
     "rarity": "Rare",
-    "description": "Obtained from ARC enemies or activities. Can be recycled into rubber.",
-    "weightKg": 1,
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 1.0,
     "value": 1000,
-    "imageFilename": "https://cdn.arctracker.io/items/arc_flex_rubber.png"
+    "recyclesInto": {
+      "rubber_parts": 16
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/arc_flex_rubber.png",
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "updatedAt": "11/01/2025"
   },
   {
     "id": "damaged_heat_sink",
@@ -1034,182 +2666,2107 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "description": "Can be recycled into crafting materials.",
-    "weightKg": 2,
-    "value": 640,
-    "imageFilename": "https://cdn.arctracker.io/items/damaged_heat_sink.png"
-  },
-  {
-    "id": "snap_grenade",
-    "name": "Snap Grenade",
-    "description": "A grenade that disorients targets.",
-    "type": "Gear"
-  },
-  {
-    "id": "heavy_fuse_grenade",
-    "name": "Heavy Fuse Grenade",
-    "description": "A powerful explosive with a timed fuse.",
-    "type": "Gear"
+    "weightKg": 0.67,
+    "value": 333.33,
+    "imageFilename": "https://cdn.arctracker.io/items/damaged_heat_sink.png",
+    "foundIn": "Technological",
+    "stackSize": 3,
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "showstopper",
     "name": "Showstopper",
-    "description": "Unknown",
-    "type": "Gear"
+    "description": "A grenade that detonates after a delay, stunning enemies within its radius.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "value": 2200,
+    "weightKg": 0.4,
+    "stackSize": 5,
+    "effects": {
+      "ARC Stun Duration": "10s",
+      "Raider Stun Duration": "2s",
+      "Radius": "6m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/showstopper.png",
+    "updatedAt": "10/30/2025",
+    "recyclesInto": {
+      "electrical_components": 1,
+      "battery": 2
+    }
   },
   {
     "id": "photoelectric_cloak",
     "name": "Photoelectric Cloak",
-    "description": "A cloak that hides your from ARC",
-    "type": "Gear"
+    "description": "A gadget that allows the user to conceal themselves from ARC.",
+    "type": "Quick Use",
+    "rarity": "Epic",
+    "value": 5000,
+    "weightKg": 1.0,
+    "effects": {
+      "Durability": "100/100"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/photoelectric_cloak.png",
+    "updatedAt": "11/01/2025"
   },
   {
     "id": "burletta_recipe",
     "name": "Burletta Recipe",
     "description": "A recipe to craft the Burletta weapon.",
-    "type": "Recipe"
+    "type": "Recipe",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "binoculars",
     "name": "Binoculars",
-    "description": "Optical instrument for viewing distant objects.",
-    "type": "Gear"
+    "description": "A basic pair of binoculars with two levels of magnification.",
+    "type": "Quick Use",
+    "updatedAt": "10/31/2025",
+    "rarity": "Common",
+    "value": 640,
+    "weightKg": 0.5,
+    "effects": {
+      "Durability": "100/100"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/binoculars.png"
   },
   {
     "id": "silencer_i",
     "name": "Silencer I",
-    "description": "A standard silencer attachment.",
-    "type": "Weapon Mod"
+    "description": "Slightly reduces the amount of noise produced when firing.",
+    "type": "Modification",
+    "updatedAt": "10/30/2025",
+    "rarity": "Uncommon",
+    "effects": {
+      "Noise Reduction": "20%"
+    },
+    "value": 2000,
+    "weightKg": 0.25,
+    "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png"
+  },
+  {
+    "id": "extended_light_mag_i",
+    "name": "Extended Light Mag I",
+    "description": "Slightly extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
+    "type": "Modification",
+    "rarity": "Common",
+    "value": 640,
+    "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_i.png",
+    "compatibleWith": [
+      "Hairpin",
+      "Kettle",
+      "Stitcher",
+      "Burletta",
+      "Bobcat"
+    ],
+    "crafting": {
+      "plastic_parts": 6,
+      "steel_spring": 1
+    },
+    "recyclesInto": {
+      "plastic_parts": 6
+    },
+    "salvagesInto": {
+      "plastic_parts": 3
+    },
+    "weightKg": 0.25,
+    "effects": {
+      "Magazine Size": "+5"
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "compensator_i",
+    "name": "Compensator I",
+    "description": "Slightly reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "type": "Modification",
+    "rarity": "Common",
+    "value": 640,
+    "imageFilename": "https://cdn.arctracker.io/items/compensator_i.png",
+    "compatibleWith": [
+      "Ferro",
+      "Kettle",
+      "Rattler",
+      "Stitcher",
+      "Anvil",
+      "Arpeggio",
+      "Burletta",
+      "Osprey",
+      "Renegade",
+      "Torrente",
+      "Venator",
+      "Bobcat",
+      "Tempest"
+    ],
+    "crafting": {
+      "metal_parts": 6,
+      "wires": 1
+    },
+    "recyclesInto": {
+      "metal_parts": 5
+    },
+    "salvagesInto": {
+      "metal_parts": 3
+    },
+    "weightKg": 0.25,
+    "effects": {
+      "Reduced Per-Shot Dispersion": "20%",
+      "Reduced Max Shot Dispersion": "10%"
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "stable_stock_i",
+    "name": "Stable Stock I",
+    "description": "Slightly improves dispersion & recoil recovery time.",
+    "type": "Modification",
+    "rarity": "Common",
+    "value": 640,
+    "imageFilename": "https://cdn.arctracker.io/items/stable_stock_i.png",
+    "compatibleWith": [
+      "Ferro",
+      "Kettle",
+      "Rattler",
+      "Stitcher",
+      "Arpeggio",
+      "Il Toro",
+      "Osprey",
+      "Renegade",
+      "Torrente",
+      "Bobcat",
+      "Tempest",
+      "Vulcano"
+    ],
+    "crafting": {
+      "rubber_parts": 6,
+      "duct_tape": 1
+    },
+    "recyclesInto": {
+      "rubber_parts": 6
+    },
+    "salvagesInto": {
+      "rubber_parts": 3
+    },
+    "weightKg": 0.25,
+    "effects": {
+      "Compatible With": "Arpeggio, Ferro, Renegade, Il Toro, Stitcher",
+      "20% Reduced Recoil Recovery Time": "",
+      "20% Reduced Dispersion Recovery Time": ""
+    },
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "silencer_i_recipe",
     "name": "Silencer I Recipe",
     "description": "A recipe to craft the Silencer I.",
-    "type": "Recipe"
+    "type": "Recipe",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "vita_shot",
     "name": "Vita Shot",
-    "description": "A medical stimulant.",
-    "type": "Consumable"
+    "description": "A medical item that restores a large amount of health.",
+    "type": "Consumable",
+    "value": 2000,
+    "rarity": "Rare",
+    "weightKg": 0.4,
+    "stackSize": 3,
+    "effects": {
+      "Healing": 50,
+      "Use Time": "4s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/vita_shot.png",
+    "recyclesInto": {
+      "chemicals": 8,
+      "syringe": 2
+    },
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "vita_spray",
     "name": "Vita Spray",
-    "description": "A healing spray.",
-    "type": "Consumable"
+    "description": "A medical item that continuously restores health during use. Can be used on yourself or your allies.",
+    "type": "Consumable",
+    "rarity": "Epic",
+    "value": 3000,
+    "weightKg": 1.0,
+    "effects": {
+      "Durability": "100/100",
+      "Healing": "10/s",
+      "Heal Capacity": 150
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",
+    "updatedAt": "10/30/2025",
+    "recyclesInto": {
+      "antiseptic": 1,
+      "canister": 2
+    }
   },
   {
     "id": "jolt_mine",
     "name": "Jolt Mine",
-    "description": "An electrifying trap.",
-    "type": "Gear"
+    "description": "A proximity-triggered mine that pops up and stuns anything within its radius.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "value": 850,
+    "weightKg": 0.2,
+    "effects": {
+      "ARC Stun Duration": "10s",
+      "Raider Stun Duration": "4s",
+      "Radius": "5m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
+    "updatedAt": "10/30/2025",
+    "recyclesInto": {
+      "battery": 1,
+      "plastic_parts": 2
+    }
   },
   {
     "id": "dam_staff_room_key",
     "name": "Dam Staff Room Key",
     "description": "A key to the staff room in The Dam.",
-    "type": "Key"
+    "type": "Key",
+    "_note": "not_in_serverslam",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "buried_city_residential_master_key",
     "name": "Buried City Residential Master Key",
     "description": "A master key for residential areas in Buried City.",
-    "type": "Key"
+    "type": "Key",
+    "_note": "not_in_serverslam",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "barricade_kit",
     "name": "Barricade Kit",
-    "description": "A kit to deploy a temporary barricade.",
-    "type": "Gear"
+    "description": "A deployable cover that can block incoming damage until it breaks.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "value": 640,
+    "weightKg": 0.4,
+    "stackSize": 3,
+    "effects": {
+      "Health": 500
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/barricade_kit.png",
+    "updatedAt": "11/02/2025"
   },
   {
     "id": "defibrillator",
     "name": "Defibrillator",
-    "description": "A device to revive incapacitated individuals.",
-    "type": "Gear"
+    "description": "An injection that quickly revives downed raiders and restores some health.",
+    "type": "Consumable",
+    "rarity": "Rare",
+    "value": 1000,
+    "weightKg": 0.75,
+    "stackSize": 3,
+    "effects": {
+      "Healing": 50,
+      "Use Time": "1.5s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/defibrillator.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "buried_city_town_hall_key",
     "name": "Buried City Town Hall Key",
-    "description": "A key to the Town Hall in Buried City.",
-    "type": "Key"
+    "description": "Unlocks the door to the Town Hall in Buried City",
+    "type": "Key",
+    "rarity": "Epic",
+    "value": 100,
+    "recyclesInto": {},
+    "weightKg": 0.25,
+    "imageFilename": "https://cdn.arctracker.io/items/buried_city_town_hall_key.png",
+    "updatedAt": "10/31/2025"
   },
   {
     "id": "trigger_nade",
-    "name": "Trigger Nade",
-    "description": "A remotely detonated explosive.",
-    "type": "Gear"
+    "name": "Trigger 'Nade",
+    "description": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "value": 1000,
+    "weightKg": 0.4,
+    "stackSize": 3,
+    "effects": {
+      "Damage": 90,
+      "Radius": "7.5m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/trigger_nade.png",
+    "updatedAt": "11/01/2025",
+    "recyclesInto": {
+      "chemicals": 1,
+      "processor": 1
+    }
   },
   {
     "id": "spaceport_container_storage_key",
     "name": "Spaceport Container Storage Key",
     "description": "A key for container storage at the Spaceport.",
-    "type": "Key"
+    "type": "Key",
+    "_note": "not_in_serverslam",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "burletta_i",
     "name": "Burletta I",
     "description": "A Tier 1 Burletta weapon.",
-    "type": "Weapon"
+    "type": "Weapon",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "spaceport_warehouse_key",
     "name": "Spaceport Warehouse Key",
     "description": "A key to a warehouse in the Spaceport.",
-    "type": "Key"
+    "type": "Key",
+    "_note": "not_in_serverslam",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "osprey_i",
     "name": "Osprey I",
-    "description": "A Tier 1 Osprey weapon.",
-    "type": "Weapon"
+    "description": "Has reliable damage output and accuracy.",
+    "type": "Weapon",
+    "updatedAt": "10/31/2025",
+    "value": 3859,
+    "rarity": "Rare",
+    "weightKg": 7.0,
+    "effects": {
+      "Durability": "56/100",
+      "Ammo Type": "Medium Ammo",
+      "Magazine Size": 8,
+      "Firing Mode": "Bolt-Action",
+      "ARC Armor Penetration": "Moderate",
+      "Special Trait": "Scoped"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/osprey.png"
   },
   {
     "id": "buried_city_hospital_key",
     "name": "Buried City Hospital Key",
     "description": "A key to areas within the Buried City Hospital.",
-    "type": "Key"
-  },
-  {
-    "id": "padded_stock",
-    "name": "Padded Stock",
-    "description": "A padded stock weapon modification.",
-    "type": "Weapon Mod"
-  },
-  {
-    "id": "padded_stock_recipe",
-    "name": "Padded Stock Recipe",
-    "description": "A recipe to craft the Padded Stock.",
-    "type": "Recipe"
+    "type": "Key",
+    "rarity": "Uncommon",
+    "value": 100,
+    "recyclesInto": {},
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "adrenaline_shot",
     "name": "Adrenaline Shot",
-    "description": "Provides a temporary boost.",
-    "type": "Consumable"
+    "description": "A serum that fully restores stamina and temporarily increases stamina regeneration.",
+    "type": "Consumable",
+    "value": 300,
+    "rarity": "Common",
+    "weightKg": 0.2,
+    "stackSize": 5,
+    "effects": {
+      "Stamina Regeneration": "5/s",
+      "Duration": "10s",
+      "Use Time": "1s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/adrenaline_shot.png",
+    "updatedAt": "11/02/2025"
   },
   {
-    "id": "gas_grenades",
-    "name": "Gas Grenades",
-    "description": "Grenades that release a cloud of debilitating gas.",
-    "type": "Gear"
+    "id": "gas_grenade",
+    "name": "Gas Grenade",
+    "description": "A grenade that emits a lingering toxic cloud on impact, draining the stamina of any Raiders within its area of effect.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "value": 270,
+    "weightKg": 0.2,
+    "stackSize": 3,
+    "effects": {
+      "Stamina Drain": "25/s",
+      "Duration": "20s",
+      "Radius": "7.5m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/gas_grenade.png",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "torrente_i",
     "name": "Torrente I",
     "description": "A Tier 1 Torrente weapon.",
-    "type": "Weapon"
+    "type": "Weapon",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "dam_utility_key",
     "name": "Dam Utility Key",
     "description": "A key for utility access in The Dam.",
-    "type": "Key"
+    "type": "Key",
+    "_note": "not_in_serverslam",
+    "updatedAt": "10/30/2025"
   },
   {
     "id": "tempest_i",
     "name": "Tempest I",
     "description": "A Tier 1 Tempest weapon.",
-    "type": "Weapon"
+    "type": "Weapon",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "tactical_mk1",
+    "name": "Tactical MK1",
+    "description": "Basic tactical augment. More Quick Use slots for more tactical choice, but limited survivability and slightly lower looting potential.",
+    "type": "Augment",
+    "rarity": "Uncommon",
+    "value": 640,
+    "recyclesInto": {
+      "plastic_parts": 3,
+      "rubber_parts": 3
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "tactical_mk2",
+    "name": "Tactical MK2",
+    "description": "Add more backpack space and an extra utility item slot.",
+    "type": "Augment",
+    "rarity": "Rare",
+    "value": 2000,
+    "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "combat_mk1",
+    "name": "Combat MK1",
+    "description": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
+    "type": "Augment",
+    "rarity": "Uncommon",
+    "value": 640,
+    "recyclesInto": {
+      "plastic_parts": 3,
+      "rubber_parts": 3
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "combat_mk2",
+    "name": "Combat MK1",
+    "description": "A Combat augment more focused on manouverability than absording damage.",
+    "type": "Augment",
+    "rarity": "Rare",
+    "value": 2000,
+    "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "kettle_i",
+    "name": "Kettle I",
+    "description": "Semi-automatic assault rifle. Quick and accurate, but has low bullet velocity and takes a long time reload.",
+    "type": "Weapon",
+    "rarity": "Common",
+    "value": 840,
+    "recyclesInto": {
+      "plastic_parts": 3,
+      "rubber_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "kettle_ii",
+    "name": "Kettle II",
+    "description": "Semi-automatic assault rifle. Quick and accurate, but has low bullet velocity and takes a long time reload.",
+    "type": "Weapon",
+    "rarity": "Common",
+    "value": 840,
+    "recyclesInto": {
+      "plastic_parts": 6,
+      "rubber_parts": 6
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "stitcher_i",
+    "name": "Stitcher I",
+    "description": "Full automatic SMG. Deals good damage, but has quite a low fire-rate and can be hard to control.",
+    "type": "Weapon",
+    "rarity": "Common",
+    "value": 840,
+    "recyclesInto": {
+      "metal_parts": 3,
+      "rubber_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "stitcher_ii",
+    "name": "Stitcher II",
+    "description": "Deals good damage, but has quite a low fire-rate and can be hard to control.",
+    "type": "Weapon",
+    "rarity": "Common",
+    "value": 2000,
+    "recyclesInto": {
+      "metal_parts": 6,
+      "rubber_parts": 6
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
+    "updatedAt": "10/31/2025",
+    "weightKg": 5.0,
+    "effects": {
+      "Durability": "110/110",
+      "Ammo Type": "Light Ammo",
+      "Magazine Size": 20,
+      "Firing Mode": "Fully-Automatic",
+      "ARC Armor Penetration": "Very Weak",
+      "Upgrade Modifiers": [
+        "16.6% Reduced Horizontal Recoil",
+        "13% Reduced Reload Time"
+      ]
+    }
+  },
+  {
+    "id": "stitcher_iii",
+    "name": "Stitcher III",
+    "description": "Full automatic SMG. Deals good damage, but has quite a low fire-rate and can be hard to control.",
+    "type": "Weapon",
+    "rarity": "Uncommon",
+    "value": 840,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "stitcher_iv",
+    "name": "Stitcher IV",
+    "description": "Full automatic SMG. Deals good damage, but has quite a low fire-rate and can be hard to control.",
+    "type": "Weapon",
+    "rarity": "Uncommon",
+    "value": 5000,
+    "recyclesInto": {
+      "mechanical_components": 2,
+      "simple_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "burletta_i",
+    "name": "Burletta I",
+    "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
+    "type": "Weapon",
+    "rarity": "Uncommon",
+    "value": 2900,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "simple_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "burletta_ii",
+    "name": "Burletta II",
+    "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
+    "type": "Weapon",
+    "rarity": "Uncommon",
+    "value": 5000,
+    "recyclesInto": {
+      "mechanical_components": 2,
+      "simple_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "burletta_iii",
+    "name": "Burletta III",
+    "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
+    "type": "Weapon",
+    "rarity": "Uncommon",
+    "value": 7000,
+    "recyclesInto": {
+      "mechanical_components": 3,
+      "simple_gun_parts": 3
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "burletta_iv",
+    "name": "Burletta IV",
+    "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
+    "type": "Weapon",
+    "rarity": "Uncommon",
+    "value": 9000,
+    "recyclesInto": {
+      "mechanical_components": 4,
+      "simple_gun_parts": 4
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "remote_raider_flare",
+    "name": "Remote Raider Flare",
+    "description": "A deployable device that, when manually triggered, launches a Raider Distress Flare.",
+    "type": "Consumable",
+    "rarity": "Common",
+    "value": 270,
+    "recyclesInto": {
+      "chemicals": 1,
+      "rubber_parts": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/remote_raider_flare.png",
+    "weightKg": 0.2,
+    "stackSize": 3,
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "backpack_black_hiker_color",
+    "name": "Backpack (Black Hiker Color)",
+    "description": "Cosmetic Backpack",
+    "type": "Cosmetic",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "junior_outfit",
+    "name": "Junior Outfit",
+    "description": "Cosmetic Outfit",
+    "type": "Cosmetic",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "cans_backpack_attachment",
+    "name": "Cans Backpack Attachment",
+    "description": "Cosmetic Backpack Attachment",
+    "type": "Cosmetic",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "ruined_baton",
+    "name": "Ruined Baton",
+    "description": "Can be recyled into crafting materials",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/ruined_baton.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "breathtaking_snow_globe",
+    "name": "Breathtaking Snow Globe",
+    "description": "The envy of every Speranzan. Proof that this world was once thriving and magical.",
+    "type": "Trinket",
+    "value": 7000,
+    "foundIn": "Residential, Old World, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/breathtaking_snow_globe.png",
+    "rarity": "Epic",
+    "weightKg": 0.2,
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "expired_pasta",
+    "name": "Expired Pasta",
+    "description": "Way pasta its prime.",
+    "type": "Trinket",
+    "value": 1000,
+    "weightKg": 0.1,
+    "stackSize": 15,
+    "foundIn": "Commercial, Residential",
+    "effects": {
+      "Healing": 15,
+      "Use Time": "1s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/expired_pasta.png",
+    "rarity": "Common",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "exodus_modules",
+    "name": "Exodus Modules",
+    "description": "Used to craft a wide range of items. Used to craft: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+    "type": "Topside Material",
+    "rarity": "Epic",
+    "weightKg": 1.0,
+    "stackSize": 3,
+    "foundIn": "Exodus",
+    "imageFilename": "https://cdn.arctracker.io/items/exodus_modules.png",
+    "value": 2750,
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "durable_cloth",
+    "name": "Durable Cloth",
+    "description": "Used to craft medical supplies. Used to craft: Herbal Bandage, Sterilized Bandage",
+    "type": "Refined Material",
+    "rarity": "Uncommon",
+    "foundIn": "Medical, Commercial",
+    "stackSize": 10,
+    "weightKg": 0.25,
+    "imageFilename": "https://cdn.arctracker.io/items/durable_cloth.png",
+    "updatedAt": "10/31/2025",
+    "value": 640,
+    "recyclesInto": {
+      "fabric": 6
+    }
+  },
+  {
+    "id": "diving_goggles",
+    "name": "Diving Goggles",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "foundIn": "Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/diving_goggles.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "dried_out_arc_resin",
+    "name": "Dried-Out ARC Resin",
+    "description": "Obtained from ARC enemies or activities. Can be recycled into plastic.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "weightKg": 1.0,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/dried_out_arc_resin.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "degraded_arc_rubber",
+    "name": "Degraded Arc Rubber",
+    "description": "Obtained from ARC enemies or activities. Can be recycled into rubber.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "weightKg": 1.0,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/degraded_arc_rubber.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "broken_guidance_system",
+    "name": "Broken Guidance System",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "foundIn": "Exodus",
+    "weightKg": 3.0,
+    "stackSize": 3,
+    "imageFilename": "https://cdn.arctracker.io/items/broken_guidance_system.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "burned_arc_circuitry",
+    "name": "Burned Arc Circuitry",
+    "description": "Can be recycled into ARC Alloy.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "weightKg": 1.0,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/burned_arc_circuitry.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "candle_holder",
+    "name": "Candle Holder",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "weightKg": 2.0,
+    "foundIn": "Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/candle_holder.png",
+    "value": 640,
+    "stackSize": 3,
+    "updatedAt": "11/01/2025",
+    "recyclesInto": {
+      "metal_parts": 8
+    }
+  },
+  {
+    "id": "complex_gun_parts",
+    "name": "Complex Gun Parts",
+    "description": "Used to craft advanced weapons.",
+    "type": "Topside Material",
+    "rarity": "Epic",
+    "weightKg": 1.0,
+    "stackSize": 3,
+    "foundIn": "Security",
+    "imageFilename": "https://cdn.arctracker.io/items/complex_gun_parts.png",
+    "value": 2000,
+    "effects": {
+      "Used to Craft": "Equalizer, Jupiter"
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "alarm_clock",
+    "name": "Alarm Clock",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "foundIn": "Residential",
+    "stackSize": 3,
+    "weightKg": 2.0,
+    "imageFilename": "https://cdn.arctracker.io/items/alarm_clock.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "fine_wristwatch",
+    "name": "Fine Wristwatch",
+    "description": "Perfect for telling the time, and showcasing that you're an exceedingly dignified person.",
+    "type": "Trinket",
+    "weightKg": 0.2,
+    "stackSize": 3,
+    "foundIn": "Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/fine_wristwatch.png",
+    "rarity": "Rare",
+    "updatedAt": "11/01/2025",
+    "value": 3000
+  },
+  {
+    "id": "hullcracker_i",
+    "name": "Hullcracker I",
+    "description": "Fires explosive projectiles that only detonate when hitting ARC.",
+    "type": "Special",
+    "rarity": "Epic",
+    "value": 9169,
+    "stackSize": 1,
+    "effects": {
+      "Durability": "92/100",
+      "Ammo Type": "Launcher Ammo",
+      "Magazine Size": 5,
+      "Firing Mode": "Pump-Action",
+      "ARC Armor Penetration": "Very Strong"
+    },
+    "weightKg": 7.0,
+    "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "rattler_iii",
+    "name": "Rattler III",
+    "description": "A cheap offensive option, but has to be reloaded 2 bullets at a time.",
+    "type": "Weapon",
+    "rarity": "Common",
+    "effects": {
+      "Durability": "120/120",
+      "Ammo Type": "Medium Ammo",
+      "Magazine Size": 18,
+      "Firing Mode": "Fully-Automatic",
+      "ARC Armor Penetration": "Moderate",
+      "Upgrade Modifiers": "+8 Magazine Size"
+    },
+    "weightKg": 6.0,
+    "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "snap_blast_grenade",
+    "name": "Snap Blast Grenade",
+    "description": "A grenade that sticks to surfaces, dealing explosive damage after a short delay.",
+    "type": "Consumable",
+    "value": 800,
+    "rarity": "Uncommon",
+    "weightKg": 0.2,
+    "stackSize": 3,
+    "effects": {
+      "Damage": 70,
+      "Radius": "7.5m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/snap_blast_grenade.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "shield_recharger",
+    "name": "Shield Recharger",
+    "description": "A handheld kit that gradually recharges shield over time.",
+    "type": "Consumable",
+    "value": 520,
+    "rarity": "Uncommon",
+    "weightKg": 0.15,
+    "stackSize": 5,
+    "effects": {
+      "Recharge": "4/s",
+      "Duration": "10s",
+      "Use Time": "2s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/shield_recharger.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "lil_smoke_grenade",
+    "name": "Li'l Smoke Grenade",
+    "description": "A grenade that pops a thick but small smoke cloud on impact, blocking visibility from ARC and other Raiders.",
+    "type": "Consumable",
+    "value": 300,
+    "rarity": "Common",
+    "weightKg": 0.15,
+    "stackSize": 5,
+    "effects": {
+      "Duration": "6s",
+      "Radius": "2.5m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/lil_smoke_grenade.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "red_light_stick",
+    "name": "Red Light Stick",
+    "description": "A throwable chemical light that illuminates the area around it.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "value": 150,
+    "weightKg": 0.15,
+    "stackSize": 5,
+    "effects": {
+      "Illumination Radius": "7m",
+      "Duration": "40s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/red_light_stick.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "cans_cosmetic",
+    "name": "Cans",
+    "description": "A new cosmetic will be added to your collection.",
+    "type": "Backpack Attachment",
+    "imageFilename": "https://cdn.arctracker.io/items/cans.png",
+    "rarity": "Common",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "noisemaker",
+    "name": "Noisemaker",
+    "description": "A deployable proximity sensor that sounds an alarm when enemy raiders are detected.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "value": 640,
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "effects": {
+      "Trigger Radius": "8m",
+      "Duration": "4s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/noisemaker.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "dam_control_tower_key",
+    "name": "Dam Control Tower Key",
+    "description": "Unlocks a door to the Control Tower on Dam Battlegrounds.",
+    "type": "Key",
+    "rarity": "Epic",
+    "weightKg": 0.25,
+    "value": 100,
+    "imageFilename": "https://cdn.arctracker.io/items/dam_control_tower_key.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "expired_respirator",
+    "name": "Expired Respirator",
+    "description": "The filters are clogged with sand and noxious fumes. Long past its lifespan.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "weightKg": 0.67,
+    "foundIn": "Medical",
+    "imageFilename": "https://cdn.arctracker.io/items/expired_respirator.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "dart_board",
+    "name": "Dart Board",
+    "description": "Some Raiders use it to practice dexterity. Others just like throwing things at other things.",
+    "type": "Trinket",
+    "rarity": "Uncommon",
+    "weightKg": 0.33,
+    "stackSize": 3,
+    "foundIn": "Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/dart_board.png",
+    "value": 666.67,
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "muzzle_brake_ii",
+    "name": "Muzzle Brake II",
+    "description": "Moderately reduces both vertical recoil & horizontal recoil. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "type": "Modification",
+    "rarity": "Uncommon",
+    "value": 2000,
+    "weightKg": 0.5,
+    "effects": {
+      "Reduced Vertical Recoil": "20%",
+      "Reduced Horizontal Recoil": "20%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "trigger_nade_blueprint",
+    "name": "Trigger Nade Blueprint",
+    "description": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/trigger_nade_blueprint.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "lure_grenade_blueprint",
+    "name": "Lure Grenade Blueprint",
+    "description": "A noisy device that sticks to surfaces, distracting nearby ARC machines and drawing their fire.",
+    "type": "Blueprint",
+    "value": 5000,
+    "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_blueprint.png",
+    "rarity": "Common",
+    "recyclesInto": {
+      "utility_station_ii": 9,
+      "speaker_component": 1,
+      "electrical_components": 1
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "dam_surveillance_key",
+    "name": "Dam Surveillance Key",
+    "description": "Unlocks a door in the Water Treatment Control building on Dam Battlegrounds.",
+    "type": "Key",
+    "value": 200,
+    "rarity": "Uncommon",
+    "weightKg": 0.5,
+    "imageFilename": "https://cdn.arctracker.io/items/dam_surveillance_key.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "bettina_blueprint",
+    "name": "Bettina Blueprint",
+    "description": "Has slow fire rate and high damage output.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "imageFilename": "https://cdn.arctracker.io/items/bettina_blueprint.png",
+    "rarity": "Common",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "blue_gate_confiscation_room_key",
+    "name": "Blue Gate Confiscation Room Key",
+    "description": "Unlocks a door to the confiscated goods area within the Blue Gate tunnels",
+    "type": "Key",
+    "rarity": "Epic",
+    "weightKg": 0.25,
+    "imageFilename": "https://cdn.arctracker.io/items/blue_gate_confiscation_room_key.png",
+    "value": 100,
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "heavy_fuze_grenade",
+    "name": "Heavy Fuze Grenade",
+    "description": "A grenade that detonates after a delay, dealing explosive damage in its radius.",
+    "type": "Consumable",
+    "value": 1600,
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "stackSize": 3,
+    "effects": {
+      "Damage": 80,
+      "Radius": "7.5m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/heavy_fuze_grenade.png",
+    "updatedAt": "11/01/2025",
+    "recyclesInto": {
+      "oil": 3
+    }
+  },
+  {
+    "id": "blue_light_stick",
+    "name": "Blue Light Stick",
+    "description": "A throwable chemical light that illuminates the area around it.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "value": 750,
+    "weightKg": 0.75,
+    "stackSize": 5,
+    "effects": {
+      "Illumination Radius": "7m",
+      "Duration": "40s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/blue_light_stick.png",
+    "updatedAt": "11/01/2025",
+    "recyclesInto": {
+      "chemicals": 1
+    }
+  },
+  {
+    "id": "green_light_stick",
+    "name": "Green Light Stick",
+    "description": "A throwable chemical light that illuminates the area around it.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "value": 150,
+    "weightKg": 0.15,
+    "stackSize": 5,
+    "effects": {
+      "Illumination Radius": "7m",
+      "Duration": "40s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/green_light_stick.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "surge_shield_recharger",
+    "name": "Surge Shield Recharger",
+    "description": "A handheld kit that recharges a shield on use.",
+    "type": "Consumable",
+    "value": 240,
+    "rarity": "Rare",
+    "weightKg": 0.04,
+    "stackSize": 5,
+    "effects": {
+      "Recharge": 50,
+      "Use Time": "5s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/surge_shield_recharger.png",
+    "updatedAt": "10/30/2025",
+    "recyclesInto": {
+      "electrical_components": 1
+    }
+  },
+  {
+    "id": "vertical_grip_ii",
+    "name": "Vertical Grip II",
+    "description": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "type": "Modification",
+    "rarity": "Uncommon",
+    "value": 2000,
+    "weightKg": 0.5,
+    "effects": {
+      "Reduced Vertical Recoil": "30%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "stable_stock_ii",
+    "name": "Stable Stock II",
+    "description": "Moderately improves dispersion & recoil recovery time.",
+    "type": "Modification",
+    "rarity": "Uncommon",
+    "value": 2000,
+    "weightKg": 0.5,
+    "effects": {
+      "Compatible with": "Arpeggio, Ferro, Renegade, Il Toro, Stitcher",
+      "Reduced Recoil Recovery Time": "35%",
+      "Reduced Dispersion Recovery Time": "35%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/stable_stock_ii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "looting_mk_2",
+    "name": "Looting Mk. 2",
+    "description": "Significantly increases looting potential; adds slots for trinkets. Automatically throws off attached Ticks after 1s.",
+    "type": "Augment",
+    "rarity": "Rare",
+    "effects": {
+      "Durability": "100/100",
+      "Max Loadout Weight": 60.0,
+      "Shield Compatibility": "Light"
+    },
+    "weightKg": 1.0,
+    "value": 1000,
+    "imageFilename": "https://cdn.arctracker.io/items/looting_mk_2.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "banana",
+    "name": "Banana",
+    "description": "A new cosmetic will be added to your collection.",
+    "type": "Backpack Charm",
+    "imageFilename": "https://cdn.arctracker.io/items/banana.png",
+    "rarity": "Common",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "flame_spray",
+    "name": "Flame Spray",
+    "description": "A classic makeshift weapon, sure to leave scorch marks.",
+    "type": "Weapon",
+    "rarity": "Uncommon",
+    "value": 640,
+    "weightKg": 1.0,
+    "effects": {
+      "Durability": "100/100",
+      "Damage": "10/s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/flame_spray.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "blaze_grenade_trap",
+    "name": "Blaze Grenade Trap",
+    "description": "A laser trip wire that detonates a Blaze Grenade.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "value": 1000,
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "effects": {
+      "Damage": "5/s",
+      "Duration": "10s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/blaze_grenade_trap.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "gas_grenade_trap",
+    "name": "Gas Grenade Trap",
+    "description": "A laser trip wire that detonates a Gas Grenade.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "value": 300,
+    "weightKg": 0.25,
+    "effects": {
+      "Stamina Drain": "25/s",
+      "Duration": "20s",
+      "Radius": "7.5m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/gas_grenade_trap.png",
+    "stackSize": 3,
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "ruined_accordion",
+    "name": "Ruined Accordion",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "foundIn": "Residential",
+    "weightKg": 3.0,
+    "value": 2000,
+    "imageFilename": "https://cdn.arctracker.io/items/ruined_accordion.png",
+    "updatedAt": "11/02/2025",
+    "stackSize": 3,
+    "recyclesInto": {
+      "rubber_parts": 18,
+      "steel_spring": 3
+    }
+  },
+  {
+    "id": "damaged_tick_pod",
+    "name": "Damaged Tick Pod",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Common",
+    "value": 90,
+    "weightKg": 0.083,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/damaged_tick_pod.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "tactical_mk3_healing",
+    "name": "Tactical Mk. 3 (Healing)",
+    "description": "A healing-focused augment which adds extra slots for healing items. When revived from being downed, releases a healing cloud that restores 20 health over 10 seconds. Has a 30-second cooldown.",
+    "type": "Augment",
+    "rarity": "Epic",
+    "effects": {
+      "Durability": "100/100",
+      "Max Loadout Weight": 55.0,
+      "Shield Compatibility": "Light, Medium"
+    },
+    "weightKg": 4.0,
+    "value": 5000,
+    "imageFilename": "https://cdn.arctracker.io/items/tactical_mk_3_healing.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "jolt_mine_blueprint",
+    "name": "Jolt Mine Blueprint",
+    "description": "A proximity-triggered mine that pops up and stuns anything within its radius.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "recyclesInto": {
+      "explosives_station_ii": 1,
+      "electrical_components": 1,
+      "battery": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/jolt_mine_blueprint.png",
+    "rarity": "Common",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "ruined_handcuffs",
+    "name": "Ruined Handcuffs",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Security",
+    "imageFilename": "https://cdn.arctracker.io/items/ruined_handcuffs.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "shotgun_choke_ii",
+    "name": "Shotgun Choke II",
+    "description": "Moderately reduces base dispersion. Compatible with: Il Toro, Vulcano",
+    "type": "Modification",
+    "rarity": "Uncommon",
+    "value": 2000,
+    "weightKg": 0.5,
+    "effects": {
+      "Reduced Base Dispersion": "20%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_ii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "angled_grip_ii",
+    "name": "Angled Grip II",
+    "description": "Moderately reduces horizontal recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "type": "Modification",
+    "value": 2000,
+    "rarity": "Uncommon",
+    "weightKg": 0.5,
+    "effects": {
+      "Reduced Horizontal Recoil": "30%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/angled_grip_ii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "kinetic_converter",
+    "name": "Kinetic Converter",
+    "description": "Moderately increases fire rate. Compatible with: Arpeggio, Rattler, Kettle, Ferro, Renegade",
+    "type": "Modification",
+    "rarity": "Legendary",
+    "weightKg": 0.75,
+    "effects": {
+      "15% Increased Fire Rate": null,
+      "20% Increased Vertical Recoil": null,
+      "20% Increased Horizontal Recoil": null
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/kinetic_converter.png",
+    "value": 7000,
+    "recyclesInto": {
+      "mod_components": 1,
+      "duct_tape": 2
+    },
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "dam_testing_annex_key",
+    "name": "Dam Testing Annex Key",
+    "description": "Unlocks a door in the Testing Annex on Dam Battlegrounds.",
+    "type": "Key",
+    "rarity": "Rare",
+    "value": 100,
+    "weightKg": 0.25,
+    "imageFilename": "https://cdn.arctracker.io/items/dam_testing_annex_key.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "extended_light_mag_iii",
+    "name": "Extended Light Mag III",
+    "description": "Significantly extends the ammo capacity of compatible weapons that use light ammo.",
+    "type": "Modification",
+    "rarity": "Rare",
+    "weightKg": 0.75,
+    "effects": {
+      "Magazine Size": "+15"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_iii.png",
+    "value": 5000,
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "anvil_ii",
+    "name": "Anvil II",
+    "description": "Has high damage output and headshot damage, but slow handling.",
+    "type": "Weapon",
+    "value": 4704,
+    "rarity": "Uncommon",
+    "weightKg": 5.0,
+    "effects": {
+      "Durability": "74/110",
+      "Ammo Type": "Heavy Ammo",
+      "Magazine Size": 6,
+      "Firing Mode": "Single-Action",
+      "ARC Armor Penetration": "Strong",
+      "Upgrade Modifiers": [
+        "6.25% Reduced Dispersion Recovery Time",
+        "25% Increased Fire Rate"
+      ]
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/anvil.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "hullcracker_blueprint",
+    "name": "Hullcracker Blueprint",
+    "description": "Anti-ARC payloads used mainly by the Hullcracker.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "imageFilename": "https://cdn.arctracker.io/items/hullcracker_blueprint.png",
+    "rarity": "Common",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "medium_gun_parts_blueprint",
+    "name": "Medium Gun Parts Blueprint",
+    "description": "Assorted spare parts used for rifles.",
+    "type": "Blueprint",
+    "recyclesInto": {
+      "refiner_ii": 1,
+      "simple_gun_parts": 37
+    },
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts_blueprint.png",
+    "rarity": "Common",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "anvil_splitter",
+    "name": "Anvil Splitter",
+    "description": "Tech mod for the Anvil that replaces its bullets with ones that split into 4 weaker projectiles.",
+    "type": "Modification",
+    "rarity": "Legendary",
+    "weightKg": 0.5,
+    "effects": {
+      "Projectiles Per Shot": "+3",
+      "Reduced Projectile Damage": "70%"
+    },
+    "value": 7000,
+    "recyclesInto": {
+      "mod_components": 1,
+      "processor": 1
+    },
+    "updatedAt": "11/01/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/anvil_splitter.png"
+  },
+  {
+    "id": "door_blocker",
+    "name": "Door Blocker",
+    "description": "A locking mechanism that can be placed on large metal doors to limit access.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "value": 270,
+    "weightKg": 0.2,
+    "stackSize": 3,
+    "imageFilename": "https://cdn.arctracker.io/items/door_blocker.png",
+    "updatedAt": "10/30/2025",
+    "recyclesInto": {
+      "metal_parts": 2
+    }
+  },
+  {
+    "id": "renegade_i",
+    "name": "Renegade I",
+    "description": "Has high damage output, accuracy, and headshot damage.",
+    "type": "Weapon",
+    "rarity": "Rare",
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Medium Ammo",
+      "Magazine Size": 8,
+      "Firing Mode": "Lever-Action",
+      "ARC Armor Penetration": "Moderate"
+    },
+    "value": 7000,
+    "weightKg": 10.0,
+    "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "stable_stock_iii",
+    "name": "Stable Stock III",
+    "description": "Significantly improves dispersion & recoil recovery time.",
+    "type": "Modification",
+    "rarity": "Rare",
+    "value": 5000,
+    "weightKg": 0.75,
+    "effects": {
+      "50% Reduced Recoil Recovery Time": "",
+      "50% Reduced Dispersion Recovery Time": "",
+      "20% Increased Equip Time": "",
+      "20% Increased Unequip Time": ""
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/stable_stock_iii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "extended_medium_mag_iii",
+    "name": "Extended Medium Mag III",
+    "description": "Significantly extends the ammo capacity of compatible weapons that use medium ammo. Compatible with: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "type": "Modification",
+    "value": 5000,
+    "rarity": "Rare",
+    "weightKg": 0.75,
+    "effects": {
+      "Magazine Size": "+12"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_iii.png",
+    "updatedAt": "10/30/2025",
+    "recyclesInto": {
+      "mod_components": 1,
+      "steel_spring": 2
+    }
+  },
+  {
+    "id": "muzzle_brake_iii",
+    "name": "Muzzle Brake III",
+    "description": "Significantly reduces both vertical recoil & horizontal recoil. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "type": "Modification",
+    "value": 5000,
+    "rarity": "Rare",
+    "weightKg": 0.75,
+    "effects": {
+      "Reduced Vertical Recoil": "25%",
+      "Reduced Horizontal Recoil": "25%",
+      "Increased Durability Burn Rate": "20%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_iii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "shotgun_choke_iii",
+    "name": "Shotgun Choke III",
+    "description": "Significantly reduces base dispersion.",
+    "type": "Modification",
+    "rarity": "Rare",
+    "value": 5000,
+    "weightKg": 0.75,
+    "effects": {
+      "Compatible With": "Il Toro, Vulcano",
+      "Reduced Base Dispersion": "30%",
+      "Increased Durability Burn Rate": "20%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_iii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "silencer_ii",
+    "name": "Silencer II",
+    "description": "Moderately reduces the amount of noise produced when firing. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "type": "Modification",
+    "rarity": "Rare",
+    "value": 5000,
+    "weightKg": 0.5,
+    "effects": {
+      "Reduced Noise": "40%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/silencer_ii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "angled_grip_iii",
+    "name": "Angled Grip III",
+    "description": "Significantly reduces horizontal recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "type": "Modification",
+    "value": 5000,
+    "rarity": "Rare",
+    "weightKg": 0.75,
+    "effects": {
+      "Reduced Horizontal Recoil": "40%",
+      "Reduced ADS Speed": "30%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/angled_grip_iii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "compensator_ii",
+    "name": "Compensator II",
+    "description": "Moderately reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "type": "Modification",
+    "value": 2000,
+    "rarity": "Uncommon",
+    "weightKg": 0.5,
+    "effects": {
+      "Reduced Per-Shot Dispersion": "40%",
+      "Reduced Max Shot Dispersion": "20%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/compensator_ii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "extended_light_mag_ii",
+    "name": "Extended Light Mag II",
+    "description": "Moderately extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
+    "type": "Modification",
+    "rarity": "Uncommon",
+    "value": 2000,
+    "weightKg": 0.5,
+    "effects": {
+      "Magazine Size": "+10"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_ii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "extended_medium_mag_ii",
+    "name": "Extended Medium Mag II",
+    "description": "Moderately extends the ammo capacity of compatible weapons that use medium ammo. Compatible with: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "type": "Modification",
+    "rarity": "Uncommon",
+    "value": 2000,
+    "weightKg": 0.5,
+    "effects": {
+      "Magazine Size": "+8"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_ii.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "extended_shotgun_mag_ii",
+    "name": "Extended Shotgun Mag II",
+    "description": "Moderately extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
+    "type": "Modification",
+    "value": 2000,
+    "rarity": "Uncommon",
+    "weightKg": 0.5,
+    "effects": {
+      "Magazine Size": "+4"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_ii.png",
+    "updatedAt": "11/02/2025"
+  },
+  {
+    "id": "il_toro_i",
+    "name": "Il Toro I",
+    "description": "Has a large bullet spread, sharp falloff, and high damage output.",
+    "type": "Weapon",
+    "rarity": "Uncommon",
+    "value": 5000,
+    "weightKg": 8.0,
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Shotgun Ammo",
+      "Magazine Size": 5,
+      "Firing Mode": "Pump-Action",
+      "ARC Armor Penetration": "Weak"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
+    "updatedAt": "10/31/2025"
+  },
+  {
+    "id": "ferro_ii",
+    "name": "Ferro II",
+    "description": "Packs a punch, but must be reloaded between every shot.",
+    "type": "Battle Rifle",
+    "rarity": "Common",
+    "value": 1000,
+    "weightKg": 8.0,
+    "effects": {
+      "Durability": "110/110",
+      "Ammo Type": "Heavy Ammo",
+      "Magazine Size": 1,
+      "Firing Mode": "Break-Action",
+      "ARC Armor Penetration": "Strong"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
+    "updatedAt": "10/31/2025"
+  },
+  {
+    "id": "ferro_iii",
+    "name": "Ferro III",
+    "description": "Packs a punch, but must be reloaded between every shot.",
+    "type": "Weapon",
+    "rarity": "Common",
+    "value": 2000,
+    "weightKg": 8.0,
+    "effects": {
+      "Durability": "120/120",
+      "Ammo Type": "Heavy Ammo",
+      "Magazine Size": 1,
+      "Firing Mode": "Break-Action",
+      "ARC Armor Penetration": "Strong",
+      "Upgrade Modifiers": "26% Reduced Reload Time"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
+    "updatedAt": "10/31/2025"
+  },
+  {
+    "id": "heavy_gun_parts_blueprint",
+    "name": "Heavy Gun Parts Blueprint",
+    "description": "Used to craft weapons.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts_blueprint.png",
+    "rarity": "Common",
+    "updatedAt": "10/31/2025"
+  },
+  {
+    "id": "herbal_bandage",
+    "name": "Herbal Bandage",
+    "description": "An improvised medical item that gradually restores health over time.",
+    "type": "Consumable",
+    "value": 128,
+    "rarity": "Uncommon",
+    "weightKg": 0.03,
+    "stackSize": 5,
+    "effects": {
+      "Healing": "3.5/s",
+      "Duration": "10s",
+      "Use Time": "1.5s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/herbal_bandage.png",
+    "updatedAt": "10/31/2025"
+  },
+  {
+    "id": "kettle_iv",
+    "name": "Kettle IV",
+    "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
+    "type": "Weapon",
+    "rarity": "Common",
+    "value": 5000,
+    "weightKg": 7.0,
+    "effects": {
+      "Durability": "130/130",
+      "Ammo Type": "Light Ammo",
+      "Magazine Size": 20,
+      "Firing Mode": "Semi-Automatic",
+      "ARC Armor Penetration": "Very Weak"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
+    "updatedAt": "10/31/2025"
+  },
+  {
+    "id": "kettle_iii",
+    "name": "Kettle III",
+    "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
+    "type": "Weapon",
+    "rarity": "Common",
+    "value": 3000,
+    "weightKg": 7.0,
+    "effects": {
+      "Durability": "120/120",
+      "Ammo Type": "Light Ammo",
+      "Magazine Size": 20,
+      "Firing Mode": "Semi-Automatic",
+      "ARC Armor Penetration": "Very Weak",
+      "Upgrade Modifiers": [
+        "50% Increased Bullet Velocity",
+        "26% Reduced Reload Time"
+      ]
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
+    "updatedAt": "10/31/2025"
+  },
+  {
+    "id": "torrente_ii",
+    "name": "Torrente II",
+    "description": "Has a large ammo capacity, but is only accurate while crouched.",
+    "type": "Weapon",
+    "value": 4476,
+    "rarity": "Rare",
+    "effects": {
+      "Durability": "50/110",
+      "Ammo Type": "Medium Ammo",
+      "Magazine Size": 70,
+      "Firing Mode": "Fully-Automatic",
+      "ARC Armor Penetration": "Moderate",
+      "Upgrade Modifiers": "+10 Magazine Size, 15% Reduced Reload Time"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/torrente.png",
+    "updatedAt": "10/31/2025",
+    "weightKg": 12.0
+  },
+  {
+    "id": "yellow_light_stick",
+    "name": "Yellow Light Stick",
+    "description": "A throwable chemical light that illuminates the area around it.",
+    "type": "Quick Use",
+    "value": 150,
+    "rarity": "Common",
+    "weightKg": 0.15,
+    "stackSize": 5,
+    "recyclesInto": {
+      "chemicals": 1
+    },
+    "effects": {
+      "Illumination Radius": "7m",
+      "Duration": "40s"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/yellow_light_stick.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "mod_components",
+    "name": "Mod Components",
+    "description": "Used to craft weapon mods. Can be recycled into crafting materials. Used to craft: Lightweight Stock, Shotgun Choke III, Extended Shotgun Mag III, Padded Stock, Compensator III",
+    "type": "Refined Material",
+    "rarity": "Rare",
+    "value": 1750,
+    "weightKg": 1.0,
+    "stackSize": 5,
+    "foundIn": "Security",
+    "imageFilename": "https://cdn.arctracker.io/items/mod_components.png",
+    "updatedAt": "11/01/2025",
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "steel_spring": 1
+    }
+  },
+  {
+    "id": "ruined_riot_shield",
+    "name": "Ruined Riot Shield",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 333,
+    "weightKg": 0.67,
+    "foundIn": "Security",
+    "imageFilename": "https://cdn.arctracker.io/items/ruined_riot_shield.png",
+    "updatedAt": "11/01/2025",
+    "recyclesInto": {
+      "plastic_parts": 10,
+      "rubber_parts": 6
+    }
+  },
+  {
+    "id": "smoke_grenade",
+    "name": "Smoke Grenade",
+    "description": "A grenade that creates a lingering smoke cloud on impact, blocking visibility from ARC and other Raiders.",
+    "type": "Quick Use",
+    "value": 1000,
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "stackSize": 5,
+    "effects": {
+      "Duration": "20s",
+      "Radius": "7.5m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/smoke_grenade.png",
+    "updatedAt": "11/01/2025",
+    "recyclesInto": {
+      "chemicals": 2,
+      "canister": 1
+    }
+  },
+  {
+    "id": "lure_grenade_trap",
+    "name": "Lure Grenade Trap",
+    "description": "A laser trip wire that detonates a Lure Grenade.",
+    "type": "Quick Use",
+    "value": 1000,
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "stackSize": 3,
+    "effects": {
+      "Duration": "15s",
+      "Radius": "50m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_trap.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "radio_renegade",
+    "name": "Radio Renegade",
+    "description": "A new cosmetic will be added to your collection.",
+    "type": "Outfit",
+    "imageFilename": "https://cdn.arctracker.io/items/radio_renegade.png",
+    "rarity": "Common",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "burgerboy",
+    "name": "Burgerboy",
+    "description": "A new cosmetic will be added to your collection.",
+    "type": "Backpack Charm",
+    "imageFilename": "https://cdn.arctracker.io/items/burgerboy.png",
+    "rarity": "Common",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "vulcano_iii",
+    "name": "Vulcano III",
+    "description": "Has good bullet spread but sharp falloff.",
+    "type": "Weapon",
+    "rarity": "Epic",
+    "value": 17000,
+    "weightKg": 8.0,
+    "effects": {
+      "Durability": "120/120",
+      "Ammo Type": "Shotgun Ammo",
+      "Magazine Size": 6,
+      "Firing Mode": "Semi-Automatic",
+      "ARC Armor Penetration": "Weak",
+      "20% Increased Fire Rate": true,
+      "26% Reduced Reload Time": true
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "rocket_thruster",
+    "name": "Rocket Thruster",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 2000,
+    "weightKg": 3.0,
+    "stackSize": 3,
+    "foundIn": "Exodus",
+    "imageFilename": "https://cdn.arctracker.io/items/rocket_thruster.png",
+    "updatedAt": "11/01/2025",
+    "recyclesInto": {
+      "synthesized_fuel": 2,
+      "metal_parts": 6
+    }
+  },
+  {
+    "id": "poster_of_natural_wonders",
+    "name": "Poster of Natural Wonders",
+    "description": "If you stand close and squint your eyes, it's like the world never came crumbling down.",
+    "type": "Trinket",
+    "rarity": "Uncommon",
+    "value": 2000,
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/poster_of_natural_wonders.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "il_toro_blueprint",
+    "name": "Il Toro Blueprint",
+    "description": "Has a large bullet spread, sharp falloff, and high damage output.",
+    "type": "Blueprint",
+    "value": 5000,
+    "imageFilename": "https://cdn.arctracker.io/items/il_toro_blueprint.png",
+    "rarity": "Common",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "compensator_ii_blueprint",
+    "name": "Compensator II Blueprint",
+    "description": "Moderately reduces per-shot dispersion.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "recyclesInto": {
+      "mechanical_components": 7,
+      "wires": 15
+    },
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/compensator_ii_blueprint.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "light_gun_parts_blueprint",
+    "name": "Light Gun Parts Blueprint",
+    "description": "Assorted spare parts used for pistols and SMGs.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "recyclesInto": {
+      "refiner_ii": 1,
+      "simple_gun_parts": 4
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts_blueprint.png",
+    "rarity": "Common",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "smoke_grenade_trap",
+    "name": "Smoke Grenade Trap",
+    "description": "A laser trip wire that detonates a Smoke Grenade.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "effects": {
+      "Duration": "20s",
+      "Radius": "7.5m"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/smoke_grenade_trap.png",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "complex_gun_parts_blueprint",
+    "name": "Complex Gun Parts Blueprint",
+    "description": "Used to craft advanced weapons.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/complex_gun_parts_blueprint.png",
+    "rarity": "Common",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "lightweight_stock_blueprint",
+    "name": "Lightweight Stock Blueprint",
+    "description": "Moderately improves ADS & draw speed.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "imageFilename": "https://cdn.arctracker.io/items/lightweight_stock_blueprint.png",
+    "rarity": "Common",
+    "updatedAt": "11/01/2025"
+  },
+  {
+    "id": "explosive_compound",
+    "name": "Explosive Compound",
+    "description": "Used to craft explosives. Used to craft: Wolfpack, Explosive Mine, Blaze Grenade, Heavy Fuze Grenade",
+    "type": "Refined Material",
+    "rarity": "Rare",
+    "value": 1000,
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "foundIn": "Industrial, Security",
+    "imageFilename": "https://cdn.arctracker.io/items/explosive_compound.png",
+    "updatedAt": "11/02/2025"
+  },
+  {
+    "id": "shotgun_silencer",
+    "name": "Shotgun Silencer",
+    "description": "Moderately reduces the amount of noise produced when firing.",
+    "type": "Modification",
+    "value": 5000,
+    "rarity": "Epic",
+    "weightKg": 0.5,
+    "effects": {
+      "Reduced Noise": "50%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/shotgun_silencer.png",
+    "updatedAt": "11/02/2025"
+  },
+  {
+    "id": "il_toro_ii",
+    "name": "Il Toro II",
+    "description": "Has a large bullet spread, sharp falloff, and high damage output.",
+    "type": "Weapon",
+    "rarity": "Uncommon",
+    "effects": {
+      "Durability": 110,
+      "Ammo Type": "Shotgun Ammo",
+      "Magazine Size": 6,
+      "Firing Mode": "Pump-Action",
+      "ARC Armor Penetration": "Weak"
+    },
+    "weightKg": 8.0,
+    "value": 7000,
+    "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
+    "updatedAt": "11/02/2025"
+  },
+  {
+    "id": "green_light_stick_blueprint",
+    "name": "Green Light Stick Blueprint",
+    "description": "A throwable chemical light that illuminates the area around it.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "imageFilename": "https://cdn.arctracker.io/items/green_light_stick_blueprint.png",
+    "rarity": "Common",
+    "updatedAt": "11/02/2025"
   }
 ]

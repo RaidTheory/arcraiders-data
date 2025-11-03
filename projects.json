@@ -1,0 +1,69 @@
+[
+  {
+    "id": "expedition_project",
+    "name": "Expedition Project",
+    "description": "Embark on a dangerous expedition beyond the Rust Belt. Expeditions are perilous. Your Raider will carry all their possessions into the unknown beyond the Rust Belt. In return, your next Raider gains a unique edge that lasts until the next Expedition departs.",
+    "phases": [
+      {
+        "phase": 1,
+        "name": "Foundation",
+        "requirementItemIds": [
+          { "itemId": "metal_parts", "quantity": 150 },
+          { "itemId": "rubber_parts", "quantity": 200 },
+          { "itemId": "arc_alloy", "quantity": 80 },
+          { "itemId": "steel_spring", "quantity": 15 }
+        ]
+      },
+      {
+        "phase": 2,
+        "name": "Core Systems",
+        "description": "Connecting wiring, ventilation, and essential power systems",
+        "requirementItemIds": [
+          { "itemId": "durable_cloth", "quantity": 35 },
+          { "itemId": "wires", "quantity": 30 },
+          { "itemId": "electrical_components", "quantity": 30 },
+          { "itemId": "cooling_fan", "quantity": 5 }
+        ]
+      },
+      {
+        "phase": 3,
+        "name": "Framework",
+        "description": "Building the walls and roof, installing core systems and defining the interior layout",
+        "requirementItemIds": [
+          { "itemId": "light_bulb", "quantity": 5 },
+          { "itemId": "battery", "quantity": 30 },
+          { "itemId": "sensors", "quantity": 20 },
+          { "itemId": "exodus_modules", "quantity": 1 }
+        ]
+      },
+      {
+        "phase": 4,
+        "name": "Outfitting",
+        "description": "Adding storage, workbenches, utilities, and personal touches",
+        "requirementItemIds": [
+          { "itemId": "humidifier", "quantity": 5 },
+          { "itemId": "advanced_electrical_components", "quantity": 5 },
+          { "itemId": "magnetic_accelerator", "quantity": 3 },
+          { "itemId": "leaper_pulse_unit", "quantity": 3 }
+        ]
+      },
+      {
+        "phase": 5,
+        "name": "Load Stage",
+        "description": "Loading the caravan with vital supplies. Combat gear, survival equipment, provisions, and repair materials are needed to fully prepare for the Expedition. You need to submit the coin value of items to each category.",
+        "requirementItemIds": [],
+        "requirementCategories": [
+          { "category": "Combat Items", "valueRequired": 250000 },
+          { "category": "Survival Items", "valueRequired": 100000 },
+          { "category": "Provisions", "valueRequired": 180000 },
+          { "category": "Materials", "valueRequired": 300000 }
+        ]
+      },
+      {
+        "phase": 6,
+        "name": "Unknown",
+        "requirementItemIds": []
+      }
+    ]
+  }
+]
