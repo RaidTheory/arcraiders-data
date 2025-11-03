@@ -1010,6 +1010,9 @@
     "recyclesInto": {
       "plastic_parts": 8
     },
+    "salvagesInto": {
+      "plastic_parts": 4
+    },
     "weightKg": 0.8,
     "stackSize": 5,
     "foundIn": "Security",
