@@ -3091,7 +3091,7 @@
     "description": "Has decent damage output and accuracy.",
     "type": "Weapon",
     "rarity": "Uncommon",
-    "Durability": 100,
+    "durability": 100,
     "value": 1681,
     "recyclesInto": {
       "mechanical_components": 1,
@@ -4879,7 +4879,7 @@
     "type": "Weapon",
     "rarity": "Uncommon",
     "effects": {
-      "Durability": 110,
+      "Durability": "110/110",
       "Ammo Type": "Shotgun Ammo",
       "Magazine Size": 6,
       "Firing Mode": "Pump-Action",
