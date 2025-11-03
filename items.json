@@ -1795,15 +1795,15 @@
     "type": "Recyclable",
     "value": 1000,
     "recyclesInto": {
-      "rubber_parts": 6,
-      "speaker_component": 2
+      "rubber_parts": 7,
+      "speaker_component": 1
     },
     "description": "Can be recycled into crafting materials.",
     "weightKg": 2.0,
     "stackSize": 3,
     "foundIn": "Residential, Commercial",
     "imageFilename": "https://cdn.arctracker.io/items/headphones.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "household_cleaner",
@@ -2182,12 +2182,16 @@
       "advanced_mechanical_components": 2,
       "arc_alloy": 3
     },
-    "updatedAt": "11/2/2025",
-    "description": "Can be recycled into crafting materials.",
+    "description": "Can be recycled into crafting materials. Can be thrown to create a violent singularity.",
+    "effects": {
+      "Damage": 100,
+      "Radius": "10m"
+    },
     "weightKg": 1.0,
     "stackSize": 3,
     "foundIn": "ARC",
-    "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png"
+    "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "sentinel_firing_core",
@@ -2378,13 +2382,16 @@
     "name": "Portable TV",
     "rarity": "Rare",
     "type": "Recyclable",
-    "value": 1000,
-    "recyclesInto": {},
+    "value": 2000,
+    "recyclesInto": {
+      "battery": 2,
+      "wires": 6
+    },
     "description": "Can be recycled into crafting materials.",
     "foundIn": "Residential",
     "weightKg": 3.0,
     "imageFilename": "https://cdn.arctracker.io/items/portable_tv.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "volcanic_rock",
@@ -3613,14 +3620,14 @@
     "description": "Used to craft advanced weapons. Used to craft: Equalizer, Jupiter",
     "type": "Topside Material",
     "rarity": "Epic",
-    "value": 2000,
-    "recyclesInto": {
-      "simple_gun_parts": 3
-    },
     "weightKg": 1.0,
     "stackSize": 3,
     "foundIn": "Security",
     "imageFilename": "https://cdn.arctracker.io/items/complex_gun_parts.png",
+    "value": 2000,
+    "recyclesInto": {
+      "simple_gun_parts": 3
+    },
     "updatedAt": "11/03/2025"
   },
   {
