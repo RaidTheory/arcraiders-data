@@ -11,6 +11,13 @@
       { "level": 5, "requirementItemIds": [{ "itemId": "mushroom", "quantity": 12 }, { "itemId": "apricot", "quantity": 12 }, { "itemId": "very_comfortable_pillow", "quantity": 3 }] }
     ]
   },
+    {
+    "id": "workbench",
+    "name": "Workbench",
+    "maxLevel": 0,
+    "levels": [
+    ]
+  },
   {
     "id": "weapon_bench",
     "name": "Gunsmith",
