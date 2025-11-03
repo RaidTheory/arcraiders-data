@@ -21,7 +21,7 @@
   {
     "id": "tick_pod",
     "name": "Tick Pod",
-    "description": "The explosive pod from a Tick.",
+    "description": "Can be recycled into crafting materials.",
     "value": 640,
     "type": "Recyclable",
     "rarity": "Uncommon",
@@ -30,7 +30,10 @@
       "arc_alloy": 1,
       "metal_parts": 1
     },
-    "updatedAt": "10/30/2025"
+    "weightKg": 0.5,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "explosive_mixture",
@@ -115,36 +118,44 @@
   {
     "id": "metal_parts",
     "name": "Metal Parts",
-    "description": "Used to craft a wide range of items.",
+    "description": "Used to craft a wide range of items. Used to craft: Launcher Ammo, Hairpin, Heavy Ammo, Ferro, Kettle",
     "type": "Basic Material",
     "rarity": "Common",
     "value": 75,
     "recyclesInto": {},
     "weightKg": 0.15,
+    "stackSize": 50,
+    "foundIn": "Mechanical, Industrial, Electrical, Technological",
     "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "rubber_parts",
     "name": "Rubber Parts",
-    "description": "Scrap rubber pieces for crafting.",
+    "description": "Scrap rubber pieces for crafting. Used to craft: Ferro, Kettle, Looting Mk. 1, Shield Recharger, Stitcher",
     "type": "Basic Material",
     "rarity": "Common",
     "value": 50,
     "recyclesInto": {},
+    "weightKg": 0.1,
+    "stackSize": 50,
+    "foundIn": "Mechanical, Industrial, Electrical",
     "imageFilename": "https://cdn.arctracker.io/items/rubber_parts.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "plastic_parts",
     "name": "Plastic Parts",
-    "description": "Scrap plastic pieces for crafting.",
+    "description": "Scrap plastic pieces for crafting. Used to craft: Hairpin, Light Shield, Looting Mk. 1, Light Impact Grenade, Extended Shotgun Mag I",
     "type": "Basic Material",
     "rarity": "Common",
     "value": 60,
     "recyclesInto": {},
+    "weightKg": 0.1,
+    "stackSize": 50,
+    "foundIn": "Commercial, Residential, Technological",
     "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "voltage_converter",
@@ -166,15 +177,18 @@
   {
     "id": "arc_motion_core",
     "name": "ARC Motion Core",
-    "description": "A powerful core used in ARC machinery.",
+    "description": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy. Used to craft: Magnetic Accelerator",
     "type": "Topside Material",
     "rarity": "Rare",
     "value": 1000,
     "recyclesInto": {
       "arc_alloy": 2
     },
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "foundIn": "ARC",
     "imageFilename": "https://cdn.arctracker.io/items/arc_motion_core.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "toaster",
@@ -193,7 +207,7 @@
   {
     "id": "arc_circuitry",
     "name": "ARC Circuitry",
-    "description": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy.",
+    "description": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy. Used to craft: Medium Shield, Power Rod",
     "type": "Topside Material",
     "rarity": "Rare",
     "value": 1000,
@@ -204,7 +218,7 @@
     "weightKg": 0.3,
     "stackSize": 5,
     "foundIn": "ARC",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "motor",
@@ -239,7 +253,7 @@
     "id": "wires",
     "name": "Wires",
     "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials.",
-    "description": "Used to craft a wide range of items. Can be recycled into scrap metal.",
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Blaze Grenade Trap, Smoke Grenade Trap, Lure Grenade Trap, Gas Grenade Trap, Muzzle Brake I",
     "type": "Topside Material",
     "rarity": "Uncommon",
     "value": 200,
@@ -250,7 +264,10 @@
       "rubber_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/wires.png",
-    "updatedAt": "10/30/2025"
+    "weightKg": 0.25,
+    "stackSize": 15,
+    "foundIn": "Electrical, Technological",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "hornet_driver",
@@ -261,7 +278,8 @@
     "rarity": "Rare",
     "value": 2000,
     "recyclesInto": {
-      "arc_alloy": 1
+      "arc_alloy": 2,
+      "electrical_components": 2
     },
     "salvagesInto": {
       "electrical_components": 2
@@ -275,7 +293,7 @@
     "foundIn": "ARC",
     "weightKg": 0.75,
     "stackSize": 3,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "fried_motherboard",
@@ -320,7 +338,8 @@
     "rarity": "Rare",
     "value": 1000,
     "recyclesInto": {
-      "arc_alloy": 2
+      "arc_alloy": 1,
+      "electrical_components": 1
     },
     "salvagesInto": {
       "electrical_components": 1
@@ -333,7 +352,7 @@
       "Damage": 80,
       "Radius": "5m"
     },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "rusted_gear",
@@ -382,7 +401,7 @@
     "value": 640,
     "recyclesInto": {
       "arc_alloy": 1,
-      "chemicals": 1
+      "crude_explosives": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/fireball_burner.png",
     "weightKg": 0.5,
@@ -393,7 +412,7 @@
       "Duration": "10s",
       "Radius": "2m"
     },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "laboratory_reagents",
@@ -412,7 +431,7 @@
   {
     "id": "syringe",
     "name": "Syringe",
-    "description": "A sterile syringe for medical use.",
+    "description": "Used to craft medical supplies. Can be recycled into plastic. Used to craft: Vita Shot",
     "type": "Topside Material",
     "rarity": "Rare",
     "value": 500,
@@ -420,8 +439,11 @@
       "plastic_parts": 3,
       "chemicals": 2
     },
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "foundIn": "Medical",
     "imageFilename": "https://cdn.arctracker.io/items/syringe.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "antiseptic",
@@ -497,7 +519,7 @@
   {
     "id": "arc_alloy",
     "name": "ARC Alloy",
-    "description": "Obtained from ARC enemies or activities, or by recycling certain ARC parts. Used to craft components.",
+    "description": "Obtained from ARC enemies or activities, or by recycling certain ARC parts. Used to craft components. Used to craft: Light Shield, ARC Motion Core, ARC Circuitry",
     "type": "Topside Material",
     "rarity": "Uncommon",
     "value": 200,
@@ -508,7 +530,7 @@
     "weightKg": 0.25,
     "stackSize": 15,
     "foundIn": "ARC",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "ferro_i",
@@ -546,7 +568,7 @@
   {
     "id": "light_ammo",
     "name": "Light Ammo",
-    "description": "Light bullets used mainly with SMGs and light handguns.",
+    "description": "Light bullets used mainly with SMGs and light handguns. Compatible with: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
     "type": "Ammo",
     "imageFilename": "https://cdn.arctracker.io/items/light_ammo.png",
     "compatibleWith": [
@@ -556,19 +578,24 @@
       "Bobcat",
       "Stitcher"
     ],
-    "updatedAt": "10/30/2025"
+    "value": 0.76,
+    "weightKg": 0.00323,
+    "stackSize": 100,
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "heavy_ammo",
     "name": "Heavy Ammo",
-    "description": "Compatible with: Ferro, Anvil, Bettina",
+    "description": "Compatible with: Ferro, Bettina, Anvil",
     "type": "Ammunition",
     "compatibleWith": [
-      "Anvil"
+      "Anvil",
+      "Ferro",
+      "Bettina"
     ],
-    "updatedAt": "11/02/2025",
+    "updatedAt": "11/03/2025",
     "value": 12,
-    "weightKg": 2.0,
+    "weightKg": 0.05,
     "stackSize": 40,
     "imageFilename": "https://cdn.arctracker.io/items/heavy_ammo.png",
     "rarity": "Common"
@@ -576,10 +603,14 @@
   {
     "id": "medium_ammo",
     "name": "Medium Ammo",
-    "description": "Compatible with: Arpeggio, Renegade, Venator, Tempest, Rattler",
+    "description": "Compatible with: Rattler, Tempest, Arpeggio, Renegade, Torrente",
     "type": "Ammunition",
     "compatibleWith": [
-      "Arpeggio"
+      "Arpeggio",
+      "Rattler",
+      "Tempest",
+      "Renegade",
+      "Torrente"
     ],
     "imageFilename": "https://cdn.arctracker.io/items/medium_ammo.png",
     "crafting": {
@@ -590,7 +621,7 @@
     "weightKg": 0.025,
     "stackSize": 80,
     "rarity": "Common",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "sterilized_bandage",
@@ -632,9 +663,10 @@
     "id": "ferro_iv",
     "name": "Ferro IV",
     "description": "Packs a punch, but must be reloaded between every shot.",
-    "type": "Weapon",
+    "type": "Battle Rifle",
     "rarity": "Common",
-    "value": 944,
+    "value": 2900,
+    "durability": 130,
     "recyclesInto": {
       "mechanical_components": 1,
       "simple_gun_parts": 2
@@ -651,10 +683,10 @@
       "metal_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-    "updatedAt": "10/31/2025",
+    "updatedAt": "11/03/2025",
     "weightKg": 8.0,
     "effects": {
-      "Durability": "43/130",
+      "Durability": "130/130",
       "Ammo Type": "Heavy Ammo",
       "Magazine Size": 1,
       "Firing Mode": "Break-Action",
@@ -731,7 +763,7 @@
   {
     "id": "arc_powercell",
     "name": "ARC Powercell",
-    "description": "Valuable resource that drops from all ARC enemies.",
+    "description": "Valuable resource that drops from all ARC enemies. Used to craft: Shield Recharger. Can be used to repair shields.",
     "type": "Topside Material",
     "rarity": "Common",
     "value": 640,
@@ -745,7 +777,7 @@
       "Duration": "10s",
       "Use Time": "3s"
     },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "water_filter",
@@ -770,21 +802,22 @@
   {
     "id": "water_pump",
     "name": "Water Pump",
-    "description": "A small electric pump used to move water.",
+    "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
     "rarity": "Rare",
     "stackSize": 3,
-    "weightKg": 2,
+    "weightKg": 2.0,
     "value": 1000,
     "recyclesInto": {
       "metal_parts": 4,
       "oil": 2
     },
-    "imageFilename": "https://cdn.arctracker.io/items/water_pump.png",
     "salvagesInto": {
       "oil": 2
     },
-    "updatedAt": "10/30/2025"
+    "foundIn": "Mechanical, Industrial",
+    "imageFilename": "https://cdn.arctracker.io/items/water_pump.png",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "advanced_electrical_components",
@@ -832,12 +865,13 @@
     "recyclesInto": {
       "fabric": 3
     },
-    "description": "Used to craft weapons and weapon mods. Can be recycled into plastic.",
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Stable Stock I, Vertical Grip I, Angled Grip I, Vertical Grip II, Angled Grip II",
     "type": "Topside Material",
     "rarity": "Uncommon",
     "weightKg": 0.25,
+    "stackSize": 15,
     "foundIn": "Residential, Commercial",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "flute",
@@ -868,7 +902,8 @@
     "value": 270,
     "imageFilename": "https://cdn.arctracker.io/items/light_impact_grenade.png",
     "recyclesInto": {
-      "chemicals": 1
+      "chemicals": 1,
+      "plastic_parts": 1
     },
     "salvagesInto": {
       "chemicals": 1
@@ -879,18 +914,26 @@
       "Damage": 30,
       "Radius": "2.5m"
     },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "shrapnel_grenade",
     "name": "Shrapnel Grenade",
-    "description": "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation.",
+    "description": "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation. Weak against ARC armor plating.",
     "type": "Quick Use",
     "rarity": "Uncommon",
     "value": 800,
-    "recyclesInto": {},
-    "salvagesInto": {},
-    "updatedAt": "10/30/2025"
+    "recyclesInto": {
+      "crude_explosives": 1,
+      "metal_parts": 1
+    },
+    "effects": {
+      "Damage": 60,
+      "Radius": "6m"
+    },
+    "weightKg": 0.15,
+    "stackSize": 5,
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "oil",
@@ -901,10 +944,9 @@
     "rarity": "Uncommon",
     "value": 300,
     "recyclesInto": {
-      "oil": 1,
-      "rubber_parts": 2
+      "chemicals": 3
     },
-    "updatedAt": "10/31/2025",
+    "updatedAt": "11/03/2025",
     "weightKg": 0.25,
     "stackSize": 15,
     "foundIn": "Mechanical"
@@ -955,7 +997,7 @@
     "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
     "rarity": "Uncommon",
-    "value": 270,
+    "value": 640,
     "recyclesInto": {
       "plastic_parts": 8
     },
@@ -963,7 +1005,7 @@
     "stackSize": 5,
     "foundIn": "Security",
     "imageFilename": "https://cdn.arctracker.io/items/camera_lens.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "film_reel",
@@ -982,12 +1024,12 @@
   {
     "id": "electrical_components",
     "name": "Electrical Components",
-    "description": "Used to craft components, utility items, shields, and shield mods. Can be recycled into crafting materials.",
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Surge Shield Recharger, Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Advanced Electrical Components",
     "type": "Refined Material",
     "value": 640,
     "recyclesInto": {
-      "plastic_parts": 8,
-      "wires": 3
+      "plastic_parts": 3,
+      "rubber_parts": 3
     },
     "salvagesInto": {
       "plastic_parts": 3
@@ -997,12 +1039,12 @@
     "weightKg": 0.5,
     "stackSize": 10,
     "foundIn": "Electrical",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "canister",
     "name": "Canister",
-    "description": "Used to craft a wide range of items. Can be recycled into plastic.",
+    "description": "Used to craft a wide range of items. Can be recycled into plastic. Used to craft: Bettina, Vita Spray, Heavy Fuze Grenade, Smoke Grenade",
     "type": "Topside Material",
     "rarity": "Uncommon",
     "value": 300,
@@ -1013,7 +1055,7 @@
     "weightKg": 0.25,
     "stackSize": 15,
     "foundIn": "Commercial",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "advanced_mechanical_components",
@@ -1274,7 +1316,7 @@
     "description": "Assorted spare parts used for rifles. Used to craft: Torrente, Venator, Osprey, Renegade, Tempest",
     "type": "Topside Material",
     "rarity": "Rare",
-    "value": 280,
+    "value": 700,
     "recyclesInto": {
       "simple_gun_parts": 2
     },
@@ -1282,18 +1324,20 @@
     "foundIn": "Raider, Security",
     "stackSize": 5,
     "weightKg": 0.4,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "chemicals",
     "name": "Chemicals",
-    "description": "Used to craft medical supplies, explosives, and utility items.",
+    "description": "Used to craft medical supplies, explosives, and utility items. Used to craft: Heavy Ammo, Medium Ammo, Shotgun Ammo, Light Ammo, Light Impact Grenade",
     "type": "Basic Material",
     "rarity": "Common",
     "value": 50,
     "weightKg": 0.15,
+    "stackSize": 50,
+    "foundIn": "Medical, Residential, Mechanical",
     "imageFilename": "https://cdn.arctracker.io/items/power_rod.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "power_rod",
@@ -1317,9 +1361,15 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "value": 1000,
-    "recyclesInto": {},
+    "recyclesInto": {
+        "chemicals": 7,
+        "battery": 2
+    },
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "foundIn": "Industrial",
     "imageFilename": "https://cdn.arctracker.io/items/industrial_battery.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "power_cable",
@@ -1331,8 +1381,11 @@
     "recyclesInto": {
       "wires": 4
     },
+    "stackSize": 3,
+    "weightKg": 2.0,
+    "foundIn": "Electrical, Residential, Commercial",
     "imageFilename": "https://cdn.arctracker.io/items/power_cable.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "processor",
@@ -1354,7 +1407,7 @@
   {
     "id": "battery",
     "name": "Battery",
-    "description": "Used to craft a wide range of items. Can be recycled into scrap metal.",
+    "description": "Used to craft a wide range of items. Can be recycled into scrap metal. Used to craft: Energy Clip, Medium Shield, Jolt Mine",
     "type": "Topside Material",
     "rarity": "Uncommon",
     "imageFilename": "https://cdn.arctracker.io/items/battery.png",
@@ -1365,12 +1418,12 @@
     "foundIn": "Technological, Electrical",
     "stackSize": 15,
     "weightKg": 0.25,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "sensors",
     "name": "Sensors",
-    "description": "Used to craft utility items and explosives. Can be recycled into scrap metal.",
+    "description": "Used in crafting. Used to craft: Wolfpack, Explosive Mine, Raider Hatch Key, Tagging Grenade",
     "type": "Topside Material",
     "rarity": "Rare",
     "value": 500,
@@ -1378,16 +1431,19 @@
       "wires": 1,
       "metal_parts": 1
     },
-    "imageFilename": "https://cdn.arctracker.io/items/sensors.png",
     "salvagesInto": {
       "wires": 1
     },
-    "updatedAt": "10/30/2025"
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "foundIn": "Security, Technological",
+    "imageFilename": "https://cdn.arctracker.io/items/sensors.png",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "steel_spring",
     "name": "Steel Spring",
-    "description": "Used to craft a wide range of items. Can be recycled into scrap metal.",
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Extended Shotgun Mag I, Extended Medium Mag I, Extended Light Mag I, Torrente, Extended Medium Mag II",
     "imageFilename": "https://cdn.arctracker.io/items/steel_spring.png",
     "type": "Topside Material",
     "rarity": "Uncommon",
@@ -1398,7 +1454,10 @@
     "salvagesInto": {
       "metal_parts": 2
     },
-    "updatedAt": "10/30/2025"
+    "weightKg": 0.25,
+    "stackSize": 15,
+    "foundIn": "Industrial",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "speaker_component",
@@ -1409,13 +1468,13 @@
     "value": 500,
     "recyclesInto": {
       "plastic_parts": 2,
-      "rubber_parts": 2
+      "rubber_parts": 3
     },
     "weightKg": 0.3,
     "stackSize": 5,
     "foundIn": "Commercial",
     "imageFilename": "https://cdn.arctracker.io/items/speaker_component.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "magnet",
@@ -1503,9 +1562,10 @@
     },
     "description": "Obtained from ARC enemies or activities. Can be recycled into fabric.",
     "weightKg": 1.0,
+    "stackSize": 3,
     "foundIn": "ARC",
     "imageFilename": "https://cdn.arctracker.io/items/arc_thermo_lining.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "bastion_cell",
@@ -1596,7 +1656,10 @@
       "battery": 2,
       "wires": 2
     },
-    "updatedAt": "10/30/2025"
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "foundIn": "Security",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "cooling_coil",
@@ -1648,7 +1711,7 @@
   {
     "id": "crude_explosives",
     "name": "Crude Explosives",
-    "description": "Used to craft explosives. Can be recycled into crafting materials. Used to craft: Launcher Ammo, Explosive Compound, Snap Blast Grenade, Shrapnel Grenade, Trigger 'Nade",
+    "description": "Used to craft explosives. Can be recycled into crafting materials. Used to craft: Launcher Ammo, Explosive Compound, Snap Blast Grenade, Shrapnel Grenade, Trigger 'Nade. Can be thrown to create a loud noise.",
     "rarity": "Uncommon",
     "type": "Refined Material",
     "value": 270,
@@ -1665,7 +1728,7 @@
     },
     "foundIn": "Industrial, Security",
     "weightKg": 0.5,
-    "updatedAt": "11/01/2025",
+    "updatedAt": "11/03/2025",
     "stackSize": 10
   },
   {
@@ -1737,14 +1800,14 @@
     "type": "Recyclable",
     "value": 640,
     "recyclesInto": {
-      "chemicals": 13
+      "chemicals": 11
     },
     "description": "Can be recycled into chemicals.",
     "weightKg": 0.8,
     "stackSize": 3,
     "foundIn": "Residential",
     "imageFilename": "https://cdn.arctracker.io/items/household_cleaner.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "humidifier",
@@ -1841,12 +1904,12 @@
     "recyclesInto": {
       "simple_gun_parts": 2
     },
-    "description": "Assorted spare parts used for pistols and SMGs.",
+    "description": "Assorted spare parts used for pistols and SMGs. Used to craft: Bobcat, Complex Gun Parts",
     "foundIn": "Raider, Security",
     "weightKg": 0.3,
     "stackSize": 5,
     "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts.png",
-    "updatedAt": "11/02/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "magnetic_accelerator",
@@ -1976,15 +2039,16 @@
     "name": "Rubber Pad",
     "rarity": "Rare",
     "type": "Recyclable",
-    "value": 0,
+    "value": 1000,
     "recyclesInto": {
-      "rubber_parts": 22
+      "rubber_parts": 18
     },
     "description": "Can be recycled into rubber parts.",
     "foundIn": "Electrical",
-    "weightKg": 0.67,
+    "weightKg": 2.0,
+    "stackSize": 3,
     "imageFilename": "https://cdn.arctracker.io/items/rubber_pad.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "rusted_bolts",
@@ -2411,23 +2475,28 @@
   {
     "id": "pottery",
     "name": "Pottery",
-    "description": "A piece of hand-crafted pottery.",
+    "description": "May be worth a few coins.",
     "type": "Trinket",
+    "rarity": "Uncommon",
     "value": 2000,
     "recyclesInto": {},
-    "updatedAt": "10/30/2025"
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Old World, Residential",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "air_freshener",
     "name": "Air Freshener",
     "description": "May be worth a few coins.",
     "type": "Trinket",
+    "value": 2000,
     "imageFilename": "https://cdn.arctracker.io/items/air_freshener.png",
     "foundIn": "Mechanical",
     "rarity": "Uncommon",
     "weightKg": 0.3,
     "stackSize": 5,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "poster_natural_wonder",
@@ -2565,8 +2634,9 @@
     "rarity": "Rare",
     "value": 1000,
     "recyclesInto": {},
+    "weightKg": 0.01,
     "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "medium_shield",
@@ -2598,14 +2668,18 @@
     "type": "Shield",
     "rarity": "Uncommon",
     "description": "A lightweight shield offering basic protection with minimal mobility penalty.",
-    "durability": 60,
-    "shieldCharge": 50,
-    "damageMitigation": 25,
-    "movementSpeedModifier": 0,
-    "weightKg": 4,
-    "value": 1200,
+    "recyclesInto": {
+      "plastic_parts": 4
+    },
+    "weightKg": 5.0,
+    "value": 640,
+    "effects": {
+      "Durability": "100/100",
+      "Charge": 40,
+      "Damage Reduction": "40%"
+    },
     "imageFilename": "https://cdn.arctracker.io/items/light_shield.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "heavy_shield",
@@ -2720,9 +2794,13 @@
     "name": "Binoculars",
     "description": "A basic pair of binoculars with two levels of magnification.",
     "type": "Quick Use",
-    "updatedAt": "10/31/2025",
+    "updatedAt": "11/03/2025",
     "rarity": "Common",
     "value": 640,
+    "recyclesInto": {
+      "rubber_parts": 2,
+      "plastic_parts": 4
+    },
     "weightKg": 0.5,
     "effects": {
       "Durability": "100/100"
@@ -2823,18 +2901,11 @@
     "value": 640,
     "imageFilename": "https://cdn.arctracker.io/items/stable_stock_i.png",
     "compatibleWith": [
-      "Ferro",
-      "Kettle",
       "Rattler",
+      "Ferro",
       "Stitcher",
       "Arpeggio",
-      "Il Toro",
-      "Osprey",
-      "Renegade",
-      "Torrente",
-      "Bobcat",
-      "Tempest",
-      "Vulcano"
+      "Bettina"
     ],
     "crafting": {
       "rubber_parts": 6,
@@ -2848,11 +2919,10 @@
     },
     "weightKg": 0.25,
     "effects": {
-      "Compatible With": "Arpeggio, Ferro, Renegade, Il Toro, Stitcher",
-      "20% Reduced Recoil Recovery Time": "",
-      "20% Reduced Dispersion Recovery Time": ""
+      "Reduced Recoil Recovery Time": "20%",
+      "Reduced Dispersion Recovery Time": "20%"
     },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "silencer_i_recipe",
@@ -2876,10 +2946,10 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/vita_shot.png",
     "recyclesInto": {
-      "chemicals": 8,
-      "syringe": 2
+      "chemicals": 4,
+      "syringe": 1
     },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "vita_spray",
@@ -2944,13 +3014,16 @@
     "type": "Quick Use",
     "rarity": "Uncommon",
     "value": 640,
+    "recyclesInto": {
+      "metal_parts": 4
+    },
     "weightKg": 0.4,
     "stackSize": 3,
     "effects": {
       "Health": 500
     },
     "imageFilename": "https://cdn.arctracker.io/items/barricade_kit.png",
-    "updatedAt": "11/02/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "defibrillator",
@@ -2959,6 +3032,10 @@
     "type": "Consumable",
     "rarity": "Rare",
     "value": 1000,
+    "recyclesInto": {
+      "plastic_parts": 1,
+      "moss": 1
+    },
     "weightKg": 0.75,
     "stackSize": 3,
     "effects": {
@@ -2966,7 +3043,7 @@
       "Use Time": "1.5s"
     },
     "imageFilename": "https://cdn.arctracker.io/items/defibrillator.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "buried_city_town_hall_key",
@@ -3011,9 +3088,25 @@
   {
     "id": "burletta_i",
     "name": "Burletta I",
-    "description": "A Tier 1 Burletta weapon.",
+    "description": "Has decent damage output and accuracy.",
     "type": "Weapon",
-    "updatedAt": "10/30/2025"
+    "rarity": "Uncommon",
+    "Durability": 100,
+    "value": 1681,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "simple_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
+    "updatedAt": "11/03/2025",
+    "weightKg": 4.0,
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Light Ammo",
+      "Magazine Size": 12,
+      "Firing Mode": "Semi-Automatic",
+      "ARC Armor Penetration": "Very Weak"
+    }
   },
   {
     "id": "spaceport_warehouse_key",
@@ -3059,6 +3152,10 @@
     "type": "Consumable",
     "value": 300,
     "rarity": "Common",
+    "recyclesInto": {
+      "chemicals": 1,
+      "plastic_parts": 1
+    },
     "weightKg": 0.2,
     "stackSize": 5,
     "effects": {
@@ -3067,7 +3164,7 @@
       "Use Time": "1s"
     },
     "imageFilename": "https://cdn.arctracker.io/items/adrenaline_shot.png",
-    "updatedAt": "11/02/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "gas_grenade",
@@ -3076,6 +3173,10 @@
     "type": "Quick Use",
     "rarity": "Common",
     "value": 270,
+    "recyclesInto": {
+      "chemicals": 1,
+      "rubber_parts": 1
+    },
     "weightKg": 0.2,
     "stackSize": 3,
     "effects": {
@@ -3084,7 +3185,7 @@
       "Radius": "7.5m"
     },
     "imageFilename": "https://cdn.arctracker.io/items/gas_grenade.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "torrente_i",
@@ -3119,8 +3220,14 @@
       "plastic_parts": 3,
       "rubber_parts": 3
     },
+    "weightKg": 2.0,
+    "effects": {
+      "Durability": "100/100",
+      "Max Loadout Weight": 40.0,
+      "Shield Compatibility": "Light, Medium"
+    },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "tactical_mk2",
@@ -3309,7 +3416,7 @@
     "id": "remote_raider_flare",
     "name": "Remote Raider Flare",
     "description": "A deployable device that, when manually triggered, launches a Raider Distress Flare.",
-    "type": "Consumable",
+    "type": "Quick Use",
     "rarity": "Common",
     "value": 270,
     "recyclesInto": {
@@ -3319,7 +3426,7 @@
     "imageFilename": "https://cdn.arctracker.io/items/remote_raider_flare.png",
     "weightKg": 0.2,
     "stackSize": 3,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "backpack_black_hiker_color",
@@ -3460,14 +3567,18 @@
   {
     "id": "burned_arc_circuitry",
     "name": "Burned Arc Circuitry",
-    "description": "Can be recycled into ARC Alloy.",
+    "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
     "rarity": "Uncommon",
+    "value": 640,
+    "recyclesInto": {
+      "arc_alloy": 2
+    },
     "weightKg": 1.0,
     "stackSize": 3,
     "foundIn": "ARC",
     "imageFilename": "https://cdn.arctracker.io/items/burned_arc_circuitry.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "candle_holder",
@@ -3488,18 +3599,18 @@
   {
     "id": "complex_gun_parts",
     "name": "Complex Gun Parts",
-    "description": "Used to craft advanced weapons.",
+    "description": "Used to craft advanced weapons. Used to craft: Equalizer, Jupiter",
     "type": "Topside Material",
     "rarity": "Epic",
+    "value": 2000,
+    "recyclesInto": {
+      "simple_gun_parts": 3
+    },
     "weightKg": 1.0,
     "stackSize": 3,
     "foundIn": "Security",
     "imageFilename": "https://cdn.arctracker.io/items/complex_gun_parts.png",
-    "value": 2000,
-    "effects": {
-      "Used to Craft": "Equalizer, Jupiter"
-    },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "alarm_clock",
@@ -3570,6 +3681,10 @@
     "type": "Consumable",
     "value": 800,
     "rarity": "Uncommon",
+    "recyclesInto": {
+      "chemicals": 1,
+      "magnet": 1
+    },
     "weightKg": 0.2,
     "stackSize": 3,
     "effects": {
@@ -3577,7 +3692,7 @@
       "Radius": "7.5m"
     },
     "imageFilename": "https://cdn.arctracker.io/items/snap_blast_grenade.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "shield_recharger",
@@ -3603,6 +3718,10 @@
     "type": "Consumable",
     "value": 300,
     "rarity": "Common",
+    "recyclesInto": {
+      "chemicals": 1,
+      "plastic_parts": 1
+    },
     "weightKg": 0.15,
     "stackSize": 5,
     "effects": {
@@ -3610,7 +3729,7 @@
       "Radius": "2.5m"
     },
     "imageFilename": "https://cdn.arctracker.io/items/lil_smoke_grenade.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "red_light_stick",
@@ -3619,6 +3738,9 @@
     "type": "Quick Use",
     "rarity": "Common",
     "value": 150,
+    "recyclesInto": {
+      "chemicals": 1
+    },
     "weightKg": 0.15,
     "stackSize": 5,
     "effects": {
@@ -3626,7 +3748,7 @@
       "Duration": "40s"
     },
     "imageFilename": "https://cdn.arctracker.io/items/red_light_stick.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "cans_cosmetic",
@@ -3670,10 +3792,16 @@
     "description": "The filters are clogged with sand and noxious fumes. Long past its lifespan.",
     "type": "Recyclable",
     "rarity": "Rare",
-    "weightKg": 0.67,
+    "value": 640,
+    "recyclesInto": {
+        "rubber_parts": 8,
+        "fabric": 4
+    },
+    "weightKg": 2.0,
+    "stackSize": 3,
     "foundIn": "Medical",
     "imageFilename": "https://cdn.arctracker.io/items/expired_respirator.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "dart_board",
@@ -3691,17 +3819,21 @@
   {
     "id": "muzzle_brake_ii",
     "name": "Muzzle Brake II",
-    "description": "Moderately reduces both vertical recoil & horizontal recoil. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "description": "Moderately reduces both vertical recoil & horizontal recoil. Compatible with: Rattler, Ferro, Burletta, Stitcher, Tempest",
     "type": "Modification",
     "rarity": "Uncommon",
     "value": 2000,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "wires": 1
+    },
     "weightKg": 0.5,
     "effects": {
       "Reduced Vertical Recoil": "20%",
       "Reduced Horizontal Recoil": "20%"
     },
     "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "trigger_nade_blueprint",
@@ -3734,11 +3866,11 @@
     "name": "Dam Surveillance Key",
     "description": "Unlocks a door in the Water Treatment Control building on Dam Battlegrounds.",
     "type": "Key",
-    "value": 200,
+    "value": 100,
     "rarity": "Uncommon",
-    "weightKg": 0.5,
+    "weightKg": 0.25,
     "imageFilename": "https://cdn.arctracker.io/items/dam_surveillance_key.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "bettina_blueprint",
@@ -4539,18 +4671,18 @@
     "type": "Quick Use",
     "value": 1000,
     "rarity": "Rare",
+    "recyclesInto": {
+      "chemicals": 2,
+      "canister": 1
+    },
     "weightKg": 0.2,
-    "stackSize": 5,
+    "stackSize": 3,
     "effects": {
       "Duration": "20s",
       "Radius": "7.5m"
     },
     "imageFilename": "https://cdn.arctracker.io/items/smoke_grenade.png",
-    "updatedAt": "11/01/2025",
-    "recyclesInto": {
-      "chemicals": 2,
-      "canister": 1
-    }
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "lure_grenade_trap",
@@ -4768,5 +4900,178 @@
     "imageFilename": "https://cdn.arctracker.io/items/green_light_stick_blueprint.png",
     "rarity": "Common",
     "updatedAt": "11/02/2025"
+  },
+  {
+    "id": "torn_book",
+    "name": "Torn Book",
+    "description": "What pages remain speak of chosen heroes, vampires, and lots of longing glances.",
+    "type": "Trinket",
+    "rarity": "Common",
+    "value": 1000,
+    "recyclesInto": {},
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "foundIn": "Residential, Old World",
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "fertilizer",
+    "name": "Fertilizer",
+    "description": "May be worth a few coins.",
+    "type": "Nature",
+    "rarity": "Uncommon",
+    "value": 1000,
+    "recyclesInto": {
+      "assorted_seeds": 2
+    },
+    "weightKg": 0.4,
+    "stackSize": 5,
+    "foundIn": "Nature",
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "damaged_rocketeer_driver",
+    "name": "Damaged Rocketeer Driver",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Common",
+    "value": 2000,
+    "recyclesInto": {
+      "arc_alloy": 3
+    },
+    "weightKg": 0.25,
+    "stackSize": 3,
+    "foundIn": "ARC",
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "turbo_pump",
+    "name": "Turbo Pump",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "value": 2000,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "oil": 3
+    },
+    "weightKg": 3.0,
+    "stackSize": 3,
+    "foundIn": "Exodus",
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "moss",
+    "name": "Moss",
+    "description": "Can be used to regain a small amount of health. Used to craft: Defibrillator",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "value": 500,
+    "recyclesInto": {
+      "assorted_seeds": 3
+    },
+    "weightKg": 0.3,
+    "stackSize": 10,
+    "foundIn": "Nature",
+    "effects": {
+      "Healing": "1/s",
+      "Duration": "10s",
+      "Use Time": "1s"
+    },
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "bandage",
+    "name": "Bandage",
+    "description": "A medical item that gradually restores health over time.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "value": 250,
+    "recyclesInto": {
+      "fabric": 2
+    },
+    "weightKg": 0.1,
+    "stackSize": 5,
+    "effects": {
+      "Healing": "2/s",
+      "Duration": "10s",
+      "Use Time": "1.5s"
+    },
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "tagging_grenade",
+    "name": "Tagging Grenade",
+    "description": "A grenade that detonates after a delay, tagging Raiders and ARC enemies in an area, allowing you to briefly track their location.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "value": 1000,
+    "recyclesInto": {
+      "plastic_parts": 1,
+      "sensors": 1
+    },
+    "weightKg": 0.4,
+    "stackSize": 3,
+    "effects": {
+      "Duration": "30s",
+      "Radius": "6m"
+    },
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "looting_mk1",
+    "name": "Looting MK. 1",
+    "description": "Basic looting augment. More backpack slots and weight capacity, but low defensive and tactical capability.",
+    "type": "Augment",
+    "rarity": "Uncommon",
+    "value": 640,
+    "recyclesInto": {
+      "rubber_parts": 3,
+      "plastic_parts": 3
+    },
+    "weightKg": 1.0,
+    "effects": {
+      "Durability": "100/100",
+      "Max Loadout Weight": 50.0,
+      "Shield Compatibility": "Light"
+    },
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "muzzle_brake_i",
+    "name": "Muzzle Brake I",
+    "description": "Slightly reduces both vertical recoil & horizontal recoil. Compatible with: Rattler, Ferro, Burletta, Stitcher, Tempest",
+    "type": "Modification",
+    "rarity": "Common",
+    "value": 640,
+    "recyclesInto": {
+      "metal_parts": 5
+    },
+    "weightKg": 0.25,
+    "effects": {
+      "Reduced Vertical Recoil": "15%",
+      "Reduced Horizontal Recoil": "15%"
+    },
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "rattler_i",
+    "name": "Rattler I",
+    "description": "A cheap offensive option, but has to be reloaded 2 bullets at a time.",
+    "type": "Assault Rifle",
+    "rarity": "Common",
+    "value": 1750,
+    "recyclesInto": {
+      "metal_parts": 8
+    },
+    "weightKg": 6.0,
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Medium Ammo",
+      "Magazine Size": 10,
+      "Firing Mode": "Fully-Automatic",
+      "ARC Armor Penetration": "Moderate"
+    },
+    "updatedAt": "11/03/2025"
   }
 ]
