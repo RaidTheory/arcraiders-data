@@ -247,7 +247,7 @@
     ],
     "xp": 0,
     "previousQuestIds": ["ss6"],
-    "nextQuestIds": []
+    "nextQuestIds": ["ss10b"]
   },
   {
     "id": "ss10",
@@ -305,7 +305,7 @@
       { "itemId": "lil_smoke_grenade", "quantity": 3 }
     ],
     "xp": 0,
-    "previousQuestIds": ["ss10a"],
+    "previousQuestIds": ["ss10a", "ss9"],
     "nextQuestIds": ["ss10d", "ss10e"]
   },
   {

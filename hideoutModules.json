@@ -70,5 +70,22 @@
       { "level": 2, "requirementItemIds": [{ "itemId": "toaster", "quantity": 3 }, { "itemId": "arc_motion_core", "quantity": 5 }, { "itemId": "fireball_burner", "quantity": 8 }] },
       { "level": 3, "requirementItemIds": [{ "itemId": "motor", "quantity": 3 }, { "itemId": "arc_circuitry", "quantity": 10 }, { "itemId": "bombardier_cell", "quantity": 6 }] }
     ]
+  },
+  {
+    "id": "stash",
+    "name": "Stash",
+    "maxLevel": 10,
+    "levels": [
+      { "level": 1, "requirementItemIds": [], "description": "64 slots" },
+      { "level": 2, "requirementItemIds": [], "otherRequirements": ["5000 Coins"], "description": "+24 slots (88 total)" },
+      { "level": 3, "requirementItemIds": [], "otherRequirements": ["10000 Coins"], "description": "+24 slots (112 total)" },
+      { "level": 4, "requirementItemIds": [], "otherRequirements": ["15000 Coins"], "description": "+24 slots (136 total)" },
+      { "level": 5, "requirementItemIds": [], "otherRequirements": ["25000 Coins"], "description": "+24 slots (160 total)" },
+      { "level": 6, "requirementItemIds": [], "otherRequirements": ["40000 Coins"], "description": "+24 slots (184 total)" },
+      { "level": 7, "requirementItemIds": [], "otherRequirements": ["60000 Coins"], "description": "+24 slots (208 total)" },
+      { "level": 8, "requirementItemIds": [], "otherRequirements": ["90000 Coins"], "description": "+24 slots (232 total)" },
+      { "level": 9, "requirementItemIds": [], "otherRequirements": ["130000 Coins"], "description": "+24 slots (256 total)" },
+      { "level": 10, "requirementItemIds": [], "otherRequirements": ["200000 Coins"], "description": "+24 slots (280 total)" }
+    ]
   }
 ]
