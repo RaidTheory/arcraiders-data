@@ -980,8 +980,8 @@
     },
     "updatedAt": "11/03/2025",
     "recipe": {
-      "plastic_parts": 2,
-      "chemicals": 3
+      "chemicals": 3,
+      "plastic_parts": 2
     },
     "craftBench": [
       "workbench",
@@ -2797,7 +2797,12 @@
     "recyclesInto": {
       "arc_circuitry": 1
     },
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "arc_circuitry": 1,
+      "battery": 4
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "light_shield",
@@ -2821,7 +2826,10 @@
       "arc_alloy": 2,
       "plastic_parts": 4
     },
-    "craftBench": "workbench"
+    "craftBench": [
+      "workbench",
+      "equipment_bench"
+    ]
   },
   {
     "id": "heavy_shield",
@@ -2842,7 +2850,12 @@
       "15% Reduced Movement Speed": ""
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_shield.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "power_rod": 1,
+      "voltage_converter": 2
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "zipline",
@@ -3425,7 +3438,12 @@
       "Shield Compatibility": "Light, Medium"
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "plastic_parts": 6,
+      "rubber_parts": 6
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "tactical_mk2",
@@ -3441,7 +3459,12 @@
       "Max Loadout Weight": 45.0,
       "Shield Compatibility": "Light, Medium"
     },
-    "weightKg": 2.0
+    "weightKg": 2.0,
+    "recipe": {
+      "electrical_components": 2,
+      "magnet": 3
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "combat_mk1",
@@ -3461,7 +3484,12 @@
       "Durability": "100/100",
       "Max Loadout Weight": 45.0,
       "Shield Compatibility": "Light, Medium"
-    }
+    },
+    "recipe": {
+      "plastic_parts": 6,
+      "rubber_parts": 6
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "combat_mk2",
@@ -3478,7 +3506,12 @@
       "Durability": "100/100",
       "Max Loadout Weight": 55.0,
       "Shield Compatibility": "Light, Medium, Heavy"
-    }
+    },
+    "recipe": {
+      "electrical_components": 2,
+      "magnet": 3
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "kettle_i",
@@ -4551,13 +4584,13 @@
     "updatedAt": "10/30/2025"
   },
   {
-    "id": "hullcracker_blueprint",
-    "name": "Hullcracker Blueprint",
+    "id": "launcher_ammo_blueprint",
+    "name": "Launcher Ammo (Hullcracker) Blueprint",
     "description": "Anti-ARC payloads used mainly by the Hullcracker.",
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0.0,
-    "imageFilename": "https://cdn.arctracker.io/items/hullcracker_blueprint.png",
+    "imageFilename": "https://cdn.arctracker.io/items/launcher_ammo_blueprint.png",
     "rarity": "Common",
     "updatedAt": "10/30/2025"
   },
@@ -5395,7 +5428,11 @@
       "plastic_parts": 6,
       "rubber_parts": 6
     },
-    "imageFilename": "https://cdn.arctracker.io/items/looting_mk1.png"
+    "imageFilename": "https://cdn.arctracker.io/items/looting_mk1.png",
+    "craftBench": [
+      "equipment_bench",
+      "workbench"
+    ]
   },
   {
     "id": "muzzle_brake_i",
@@ -5513,7 +5550,12 @@
     "weightKg": 2.0,
     "value": 2000,
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk2.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "electrical_components": 2,
+      "magnet": 3
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "looting_mk3_cautious",
@@ -5529,7 +5571,12 @@
       "Shield Compatibility": "Light"
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_cautious.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "advanced_electrical_components": 2,
+      "processor": 3
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "angled_grip_i",
@@ -5653,5 +5700,39 @@
       "canister": 3
     },
     "craftBench": "weapon_bench"
+  },
+  {
+    "id": "launcher_ammo",
+    "name": "Launcher Ammo",
+    "description": "Anti-ARC payloads used mainly by the Hullcracker. Compatible with: Hullcracker",
+    "type": "Ammunition",
+    "value": 10,
+    "rarity": "Rare",
+    "weightKg": 0.1,
+    "stackSize": 24,
+    "imageFilename": "https://cdn.arctracker.io/items/launcher_ammo.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "metal_parts": 5,
+      "crude_explosives": 1
+    },
+    "craftBench": "workbench"
+  },
+  {
+    "id": "shotgun_ammo",
+    "name": "Shotgun Ammo",
+    "description": "Compatible with: Il Toro, Vulcano",
+    "type": "Ammunition",
+    "value": 20,
+    "weightKg": 0.085,
+    "stackSize": 20,
+    "imageFilename": "https://cdn.arctracker.io/items/shotgun_ammo.png",
+    "rarity": "Common",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "metal_parts": 3,
+      "chemicals": 2
+    },
+    "craftBench": "workbench"
   }
 ]
