@@ -9,6 +9,7 @@ The repository includes structured JSON data for:
 - Items
 - Skill Nodes
 - Hideout Modules
+- Projects
 
 Item images in this repository are AI-upscaled versions created from in-game screenshots to provide higher quality assets for community tools.
 
@@ -39,6 +40,8 @@ If you use this data in your project, please include attribution by linking to t
 ```
 https://github.com/RaidTheory/arcraiders-data
 ```
+
+Consider also adding a link to https://arctracker.io
 
 ## Community
 
