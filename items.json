@@ -3871,14 +3871,15 @@
     "description": "A noisy device that sticks to surfaces, distracting nearby ARC machines and drawing their fire.",
     "type": "Blueprint",
     "value": 5000,
-    "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_blueprint.png",
+    "weightKg": 0.0,
     "rarity": "Common",
-    "recyclesInto": {
-      "utility_station_ii": 9,
-      "speaker_component": 1,
-      "electrical_components": 1
+    "station": "Utility Station II",
+    "crafting": {
+      "speaker_component": 5,
+      "electrical_components": 9
     },
-    "updatedAt": "10/30/2025"
+    "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_blueprint.png",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "dam_surveillance_key",
