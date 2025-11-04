@@ -822,7 +822,7 @@
   {
     "id": "arc_powercell",
     "name": "ARC Powercell",
-    "description": "Valuable resource that drops from all ARC enemies. Used to craft: Shield Recharger. Can be used to repair shields.",
+    "description": "Valuable resource that drops from all ARC enemies. Used to craft: Shield Recharger Can be used to repair shields.",
     "type": "Topside Material",
     "rarity": "Common",
     "value": 640,
@@ -1088,7 +1088,7 @@
   {
     "id": "film_reel",
     "name": "Film Reel",
-    "description": "May be worth a few coins.",
+    "description": "May be worth a few coins. Can be found in Old World, Residential",
     "type": "Trinket",
     "value": 2000,
     "recyclesInto": {},
@@ -1096,8 +1096,8 @@
     "weightKg": 0.2,
     "stackSize": 3,
     "foundIn": "Old World, Residential",
-    "imageFilename": "https://cdn.arctracker.io/items/film_reel.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/film_reel.png"
   },
   {
     "id": "electrical_components",
@@ -1250,6 +1250,12 @@
       "advanced_mechanical_components": 2,
       "magnet": 4
     },
+    "recipe": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 3,
+      "magnet": 5
+    },
+    "craftBench": "weapon_bench",
     "stationLevelRequired": 2,
     "imageFilename": "https://cdn.arctracker.io/items/venator.png",
     "updatedAt": "10/30/2025"
@@ -2528,7 +2534,7 @@
   {
     "id": "faded_photograph",
     "name": "Faded Photograph",
-    "description": "A snapshot of the world before, faded by sunlight and time.",
+    "description": "A snapshot of the world before, faded by sunlight and time. Can be found in Residential",
     "type": "Trinket",
     "rarity": "Common",
     "value": 640,
@@ -2536,7 +2542,8 @@
     "weightKg": 0.3,
     "stackSize": 15,
     "foundIn": "Residential",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/faded_photograph.png"
   },
   {
     "id": "portable_television",
@@ -2607,7 +2614,7 @@
   {
     "id": "pottery",
     "name": "Pottery",
-    "description": "May be worth a few coins.",
+    "description": "May be worth a few coins. Can be found in Old World, Residential",
     "type": "Trinket",
     "rarity": "Uncommon",
     "value": 2000,
@@ -2615,7 +2622,8 @@
     "weightKg": 0.3,
     "stackSize": 3,
     "foundIn": "Old World, Residential",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/pottery.png"
   },
   {
     "id": "air_freshener",
@@ -2668,11 +2676,16 @@
   {
     "id": "silver_teaspoon_set",
     "name": "Silver Teaspoon Set",
-    "description": "A set of ornate silver teaspoons.",
+    "description": "A shining, shimmering set of refinement and elegance. Can be found in Residential, Old World, Commercial",
     "type": "Trinket",
     "value": 3000,
     "recyclesInto": {},
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "rarity": "Rare",
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Residential, Old World, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/silver_teaspoon_set.png"
   },
   {
     "id": "music_album",
@@ -3334,7 +3347,13 @@
       "ARC Armor Penetration": "Moderate",
       "Special Trait": "Scoped"
     },
-    "imageFilename": "https://cdn.arctracker.io/items/osprey.png"
+    "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
+    "recipe": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 3,
+      "wires": 7
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "buried_city_hospital_key",
@@ -3403,7 +3422,13 @@
     "name": "Torrente I",
     "description": "A Tier 1 Torrente weapon.",
     "type": "Weapon",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "10/30/2025",
+    "recipe": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 3,
+      "steel_spring": 6
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "dam_utility_key",
@@ -4157,6 +4182,11 @@
       "mechanical_components": 1,
       "wires": 1
     },
+    "recipe": {
+      "mechanical_components": 2,
+      "wires": 4
+    },
+    "craftBench": "weapon_bench",
     "weightKg": 0.5,
     "effects": {
       "Reduced Vertical Recoil": "20%",
@@ -4467,11 +4497,6 @@
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0.0,
-    "recyclesInto": {
-      "explosives_station_ii": 1,
-      "electrical_components": 1,
-      "battery": 1
-    },
     "imageFilename": "https://cdn.arctracker.io/items/jolt_mine_blueprint.png",
     "rarity": "Common",
     "updatedAt": "10/30/2025"
@@ -4599,10 +4624,6 @@
     "name": "Medium Gun Parts Blueprint",
     "description": "Assorted spare parts used for rifles.",
     "type": "Blueprint",
-    "recyclesInto": {
-      "refiner_ii": 1,
-      "simple_gun_parts": 37
-    },
     "value": 5000,
     "weightKg": 0,
     "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts_blueprint.png",
@@ -4705,7 +4726,12 @@
     "recyclesInto": {
       "mod_components": 1,
       "steel_spring": 2
-    }
+    },
+    "recipe": {
+      "mod_components": 2,
+      "steel_spring": 5
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "muzzle_brake_iii",
@@ -5312,7 +5338,7 @@
   {
     "id": "damaged_rocketeer_driver",
     "name": "Damaged Rocketeer Driver",
-    "description": "Can be recycled into crafting materials.",
+    "description": "Can be recycled into crafting materials. Can be found in ARC",
     "type": "Recyclable",
     "rarity": "Common",
     "value": 2000,
@@ -5322,7 +5348,8 @@
     "weightKg": 0.25,
     "stackSize": 3,
     "foundIn": "ARC",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/damaged_rocketeer_driver.png"
   },
   {
     "id": "turbo_pump",
@@ -5734,5 +5761,98 @@
       "chemicals": 2
     },
     "craftBench": "workbench"
+  },
+  {
+    "id": "torrente_blueprint",
+    "name": "Torrente Blueprint",
+    "description": "Has a large ammo capacity, but is only accurate while crouched.",
+    "type": "Blueprint",
+    "weightKg": 0.0,
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/torrente_blueprint.png",
+    "updatedAt": "11/03/2025",
+    "value": 5000
+  },
+  {
+    "id": "anvil_blueprint",
+    "name": "Anvil Blueprint",
+    "description": "Has high damage output and headshot damage, but slow handling.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/anvil_blueprint.png",
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "anvil_i",
+    "name": "Anvil I",
+    "description": "Has high damage output and headshot damage, but slow handling.",
+    "type": "Weapon",
+    "rarity": "Uncommon",
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Heavy Ammo",
+      "Magazine Size": 6,
+      "Firing Mode": "Single-Action",
+      "ARC Armor Penetration": "Strong"
+    },
+    "weightKg": 5.0,
+    "value": 5000,
+    "imageFilename": "https://cdn.arctracker.io/items/anvil.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "mechanical_components": 5,
+      "simple_gun_parts": 6
+    },
+    "craftBench": "weapon_bench"
+  },
+  {
+    "id": "osprey_blueprint",
+    "name": "Osprey Blueprint",
+    "description": "Has reliable damage output and accuracy.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/osprey_blueprint.png",
+    "updatedAt": "11/03/2025"
+  },
+  {
+  "id": "venator_blueprint",
+  "name": "Venator Blueprint",
+  "description": "Fires two shots at a time.  ",
+  "type": "Blueprint",
+  "value": 5000,
+  "imageFilename": "https://cdn.arctracker.io/items/venator.png",
+  "rarity": "Common",
+  "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "extended_medium_mag_iii_blueprint",
+    "name": "Extended Medium Mag III Blueprint",
+    "description": "Significantly extends the ammo capacity of compataible weapons that use medium ammo.",
+    "type": "Blueprint",
+    "effects": {
+      "Magazine Size": "+12"
+    },
+    "value": 5000,
+    "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_iii.png",
+    "rarity": "Common",
+    "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "muzzle_brake_ii_blueprint",
+    "name": "Muzzle Brake II Blueprint",
+    "description": "Moderately reduces both vertical recoil & horizontal recoil.",
+    "effects": {
+      "Reduced Vertical Recoil": "20%",
+      "Reduced Horizontal Recoil": "20%"
+    },
+    "type": "Blueprint",
+    "value": 5000,
+    "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
+    "rarity": "Common",
+    "updatedAt": "11/04/2025"
   }
 ]
