@@ -188,7 +188,11 @@
     "stackSize": 5,
     "foundIn": "ARC",
     "imageFilename": "https://cdn.arctracker.io/items/arc_motion_core.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "arc_alloy": 6
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "toaster",
@@ -224,7 +228,11 @@
     "weightKg": 0.3,
     "stackSize": 5,
     "foundIn": "ARC",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "arc_alloy": 6
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "motor",
@@ -465,7 +473,12 @@
     "weightKg": 1.0,
     "stackSize": 5,
     "value": 1000,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "chemicals": 10,
+      "great_mullein": 2
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "snitch_scanner",
@@ -520,7 +533,11 @@
     "weightKg": 0.5,
     "stackSize": 5,
     "foundIn": "Security, Raider",
-    "updatedAt": "11/02/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "simple_gun_parts": 4
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "arc_alloy",
@@ -542,7 +559,7 @@
     "id": "ferro_i",
     "name": "Ferro I",
     "description": "Packs a punch, but must be reloaded between every shot.",
-    "type": "Weapon",
+    "type": "Battle Rifle",
     "rarity": "Common",
     "value": 475,
     "recyleInto": {
@@ -561,7 +578,7 @@
       "metal_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-    "updatedAt": "10/31/2025",
+    "updatedAt": "11/03/2025",
     "weightKg": 8.0,
     "effects": {
       "Durability": "100/100",
@@ -569,7 +586,15 @@
       "Magazine Size": 1,
       "Firing Mode": "Break-Action",
       "ARC Armor Penetration": "Strong"
-    }
+    },
+    "recipe": {
+      "metal_parts": 5,
+      "rubber_parts": 2
+    },
+    "craftBench": [
+      "workbench",
+      "weapon_bench"
+    ]
   },
   {
     "id": "light_ammo",
@@ -587,12 +612,17 @@
     "value": 0.76,
     "weightKg": 0.00323,
     "stackSize": 100,
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "metal_parts": 3,
+      "chemicals": 2
+    },
+    "craftBench": "workbench"
   },
   {
     "id": "heavy_ammo",
     "name": "Heavy Ammo",
-    "description": "Compatible with: Ferro, Bettina, Anvil",
+    "description": "Compatible with: Ferro, Anvil, Bettina",
     "type": "Ammunition",
     "compatibleWith": [
       "Anvil",
@@ -604,7 +634,12 @@
     "weightKg": 0.05,
     "stackSize": 40,
     "imageFilename": "https://cdn.arctracker.io/items/heavy_ammo.png",
-    "rarity": "Common"
+    "rarity": "Common",
+    "recipe": {
+      "metal_parts": 3,
+      "chemicals": 2
+    },
+    "craftBench": "workbench"
   },
   {
     "id": "medium_ammo",
@@ -627,13 +662,18 @@
     "weightKg": 0.025,
     "stackSize": 80,
     "rarity": "Common",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "metal_parts": 3,
+      "chemicals": 2
+    },
+    "craftBench": "workbench"
   },
   {
     "id": "sterilized_bandage",
     "name": "Sterilized Bandage",
-    "description": "A medical item that gradually restores a large amount health over time.",
-    "type": "Consumable",
+    "description": "A medical item that gradually restores a large amount of health over time.",
+    "type": "Quick Use",
     "imageFilename": "https://cdn.arctracker.io/items/sterilized_bandage.png",
     "value": 2000,
     "rarity": "Rare",
@@ -643,8 +683,13 @@
       "Duration": "10s",
       "Use Time": "1.5s"
     },
-    "updatedAt": "11/01/2025",
-    "stackSize": 3
+    "updatedAt": "11/03/2025",
+    "stackSize": 3,
+    "recipe": {
+      "antiseptic": 1,
+      "durable_cloth": 2
+    },
+    "craftBench": "med_station"
   },
   {
     "id": "lure_grenade",
@@ -654,7 +699,12 @@
     "rarity": "Uncommon",
     "value": 1000,
     "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "10/30/2025",
+    "recipe": {
+      "speaker_component": 1,
+      "electrical_components": 1
+    },
+    "craftBench": "utility_bench"
   },
   {
     "id": "jump_mine",
@@ -772,7 +822,7 @@
   {
     "id": "arc_powercell",
     "name": "ARC Powercell",
-    "description": "Valuable resource that drops from all ARC enemies. Used to craft: Shield Recharger. Can be used to repair shields.",
+    "description": "Valuable resource that drops from all ARC enemies. Used to craft: Shield Recharger Can be used to repair shields.",
     "type": "Topside Material",
     "rarity": "Common",
     "value": 640,
@@ -831,7 +881,7 @@
   {
     "id": "advanced_electrical_components",
     "name": "Advanced Electrical Components",
-    "description": "Used to craft utility items and shield mods. Can be recycled into crafting materials.",
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
     "type": "Refined Material",
     "rarity": "Rare",
     "value": 1750,
@@ -846,7 +896,12 @@
     "foundIn": "Electrical",
     "weightKg": 1.0,
     "stackSize": 5,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "wires": 3,
+      "electrical_components": 2
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "deflated_football",
@@ -906,7 +961,7 @@
     "id": "light_impact_grenade",
     "name": "Light Impact Grenade",
     "description": "A grenade that detonates on impact, dealing explosive damage in a small radius.",
-    "type": "Consumable",
+    "type": "Quick Use",
     "rarity": "Common",
     "value": 270,
     "imageFilename": "https://cdn.arctracker.io/items/light_impact_grenade.png",
@@ -923,12 +978,20 @@
       "Damage": 30,
       "Radius": "2.5m"
     },
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "chemicals": 3,
+      "plastic_parts": 2
+    },
+    "craftBench": [
+      "workbench",
+      "explosives_bench"
+    ]
   },
   {
     "id": "shrapnel_grenade",
     "name": "Shrapnel Grenade",
-    "description": "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation. Weak against ARC armor plating.",
+    "description": "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation. Weak against ARC armor plating",
     "type": "Quick Use",
     "rarity": "Uncommon",
     "value": 800,
@@ -942,7 +1005,13 @@
     },
     "weightKg": 0.15,
     "stackSize": 5,
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "crude_explosives": 1,
+      "steel_spring": 2
+    },
+    "craftBench": "explosives_bench",
+    "imageFilename": "https://cdn.arctracker.io/items/shrapnel_grenade.png"
   },
   {
     "id": "oil",
@@ -1022,7 +1091,7 @@
   {
     "id": "film_reel",
     "name": "Film Reel",
-    "description": "May be worth a few coins.",
+    "description": "May be worth a few coins. Can be found in Old World, Residential",
     "type": "Trinket",
     "value": 2000,
     "recyclesInto": {},
@@ -1030,13 +1099,13 @@
     "weightKg": 0.2,
     "stackSize": 3,
     "foundIn": "Old World, Residential",
-    "imageFilename": "https://cdn.arctracker.io/items/film_reel.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/film_reel.png"
   },
   {
     "id": "electrical_components",
     "name": "Electrical Components",
-    "description": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Surge Shield Recharger, Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Advanced Electrical Components",
+    "description": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Shield Recharger, Lure Grenade",
     "type": "Refined Material",
     "value": 640,
     "recyclesInto": {
@@ -1051,7 +1120,12 @@
     "weightKg": 0.5,
     "stackSize": 10,
     "foundIn": "Electrical",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "plastic_parts": 8,
+      "rubber_parts": 4
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "canister",
@@ -1072,18 +1146,24 @@
   {
     "id": "advanced_mechanical_components",
     "name": "Advanced Mechanical Components",
-    "description": "Used to craft advanced weapons. Can be recycled into crafting materials.",
+    "description": "Used to craft advanced weapons. Can be recycled into crafting materials. Used to craft: Torrente, Venator, Osprey, Renegade, Bettina",
     "type": "Refined Material",
     "rarity": "Rare",
-    "value": 350,
+    "value": 1750,
     "recyclesInto": {
       "mechanical_components": 1,
       "wires": 1
     },
-    "weightKg": 0.2,
+    "weightKg": 1.0,
     "imageFilename": "https://cdn.arctracker.io/items/advanced_mechanical_components.png",
     "foundIn": "Mechanical",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "stackSize": 5,
+    "recipe": {
+      "steel_spring": 2,
+      "mechanical_components": 2
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "simple_gun_parts",
@@ -1113,16 +1193,21 @@
       "steel_spring": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/mechanical_components.png",
-    "updatedAt": "10/31/2025",
+    "updatedAt": "11/03/2025",
     "weightKg": 0.5,
     "stackSize": 10,
-    "foundIn": "Mechanical"
+    "foundIn": "Mechanical",
+    "recipe": {
+      "metal_parts": 7,
+      "rubber_parts": 3
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "arpeggio_i",
     "name": "Arpeggio I",
-    "description": "A 3-round burst assault rifle with decent damage output and accuracy.",
-    "type": "Assault Rifle",
+    "description": "Has decent damage output and accuracy.",
+    "type": "Weapon",
     "rarity": "Uncommon",
     "damage": 11,
     "fireRate": 18.3,
@@ -1135,7 +1220,21 @@
       "magnet": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "value": 5500,
+    "weightKg": 6.0,
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Medium Ammo",
+      "Magazine Size": 24,
+      "Firing Mode": "3-Round Burst",
+      "ARC Armor Penetration": "Moderate"
+    },
+    "recipe": {
+      "mechanical_components": 6,
+      "simple_gun_parts": 6
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "venator_i",
@@ -1154,6 +1253,12 @@
       "advanced_mechanical_components": 2,
       "magnet": 4
     },
+    "recipe": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 3,
+      "magnet": 5
+    },
+    "craftBench": "weapon_bench",
     "stationLevelRequired": 2,
     "imageFilename": "https://cdn.arctracker.io/items/venator.png",
     "updatedAt": "10/30/2025"
@@ -1336,7 +1441,11 @@
     "foundIn": "Raider, Security",
     "stackSize": 5,
     "weightKg": 0.4,
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "simple_gun_parts": 4
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "chemicals",
@@ -1354,17 +1463,23 @@
   {
     "id": "power_rod",
     "name": "Power Rod",
-    "description": "Used to craft shields. Can be recycled into crafting materials.",
-    "type": "Advanced Material",
+    "description": "Used in crafting. Used to craft: Heavy Shield, Snap Hook",
+    "type": "Refined Material",
     "rarity": "Epic",
-    "weightKg": 1,
+    "weightKg": 2.0,
     "value": 5500,
     "recyclesInto": {
       "advanced_electrical_components": 1,
       "arc_circuitry": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/power_rod.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "foundIn": "Exodus",
+    "recipe": {
+      "advanced_electrical_components": 2,
+      "arc_circuitry": 2
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "industrial_battery",
@@ -1726,7 +1841,7 @@
   {
     "id": "crude_explosives",
     "name": "Crude Explosives",
-    "description": "Used to craft explosives. Can be recycled into crafting materials. Used to craft: Launcher Ammo, Explosive Compound, Snap Blast Grenade, Shrapnel Grenade, Trigger 'Nade. Can be thrown to create a loud noise.",
+    "description": "Used to craft explosives. Can be recycled into crafting materials. Used to craft: Launcher Ammo, Explosive Compound, Snap Blast Grenade, Shrapnel Grenade, Trigger 'Nade",
     "rarity": "Uncommon",
     "type": "Refined Material",
     "value": 270,
@@ -1744,7 +1859,11 @@
     "foundIn": "Industrial, Security",
     "weightKg": 0.5,
     "updatedAt": "11/03/2025",
-    "stackSize": 10
+    "stackSize": 10,
+    "recipe": {
+      "chemicals": 6
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "crumpled_plastic_bottle",
@@ -1924,7 +2043,11 @@
     "weightKg": 0.3,
     "stackSize": 5,
     "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "simple_gun_parts": 4
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "magnetic_accelerator",
@@ -1941,7 +2064,12 @@
     "stackSize": 3,
     "foundIn": "Exodus",
     "imageFilename": "https://cdn.arctracker.io/items/magnetic_accelerator.png",
-    "updatedAt": "11/02/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "advanced_mechanical_components": 2,
+      "arc_motion_core": 2
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "number_plate",
@@ -2416,7 +2544,7 @@
   {
     "id": "faded_photograph",
     "name": "Faded Photograph",
-    "description": "A snapshot of the world before, faded by sunlight and time.",
+    "description": "A snapshot of the world before, faded by sunlight and time. Can be found in Residential",
     "type": "Trinket",
     "rarity": "Common",
     "value": 640,
@@ -2424,7 +2552,8 @@
     "weightKg": 0.3,
     "stackSize": 15,
     "foundIn": "Residential",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/faded_photograph.png"
   },
   {
     "id": "portable_television",
@@ -2495,7 +2624,7 @@
   {
     "id": "pottery",
     "name": "Pottery",
-    "description": "May be worth a few coins.",
+    "description": "May be worth a few coins. Can be found in Old World, Residential",
     "type": "Trinket",
     "rarity": "Uncommon",
     "value": 2000,
@@ -2503,7 +2632,8 @@
     "weightKg": 0.3,
     "stackSize": 3,
     "foundIn": "Old World, Residential",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/pottery.png"
   },
   {
     "id": "air_freshener",
@@ -2556,11 +2686,16 @@
   {
     "id": "silver_teaspoon_set",
     "name": "Silver Teaspoon Set",
-    "description": "A set of ornate silver teaspoons.",
+    "description": "A shining, shimmering set of refinement and elegance. Can be found in Residential, Old World, Commercial",
     "type": "Trinket",
     "value": 3000,
     "recyclesInto": {},
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "rarity": "Rare",
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Residential, Old World, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/silver_teaspoon_set.png"
   },
   {
     "id": "music_album",
@@ -2656,7 +2791,12 @@
     "recyclesInto": {},
     "weightKg": 0.01,
     "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "advanced_electrical_components": 1,
+      "sensors": 3
+    },
+    "craftBench": "utility_bench"
   },
   {
     "id": "medium_shield",
@@ -2680,14 +2820,19 @@
     "recyclesInto": {
       "arc_circuitry": 1
     },
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "arc_circuitry": 1,
+      "battery": 4
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "light_shield",
     "name": "Light Shield",
     "type": "Shield",
     "rarity": "Uncommon",
-    "description": "A lightweight shield offering basic protection with minimal mobility penalty.",
+    "description": "A lightweight shield that blocks a small portion of incoming damage without impacting mobility.",
     "recyclesInto": {
       "plastic_parts": 4
     },
@@ -2699,7 +2844,15 @@
       "Damage Reduction": "40%"
     },
     "imageFilename": "https://cdn.arctracker.io/items/light_shield.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "arc_alloy": 2,
+      "plastic_parts": 4
+    },
+    "craftBench": [
+      "workbench",
+      "equipment_bench"
+    ]
   },
   {
     "id": "heavy_shield",
@@ -2717,10 +2870,15 @@
       "Durability": "100/100",
       "Charge": 80,
       "Damage Reduction": "52.5%",
-      "Reduced Movement Speed": "15%"
+      "15% Reduced Movement Speed": ""
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_shield.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "power_rod": 1,
+      "voltage_converter": 2
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "zipline",
@@ -2736,7 +2894,12 @@
     "recyclesInto": {
       "rope": 1,
       "metal_parts": 1
-    }
+    },
+    "recipe": {
+      "rope": 12,
+      "mechanical_components": 16
+    },
+    "craftBench": "utility_bench"
   },
   {
     "id": "arc_flex_rubber",
@@ -2800,7 +2963,12 @@
       "Durability": "100/100"
     },
     "imageFilename": "https://cdn.arctracker.io/items/photoelectric_cloak.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/01/2025",
+    "recipe": {
+      "advanced_electrical_components": 2,
+      "speaker_component": 4
+    },
+    "craftBench": "utility_bench"
   },
   {
     "id": "burletta_recipe",
@@ -2825,7 +2993,12 @@
     "effects": {
       "Durability": "100/100"
     },
-    "imageFilename": "https://cdn.arctracker.io/items/binoculars.png"
+    "imageFilename": "https://cdn.arctracker.io/items/binoculars.png",
+    "recipe": {
+      "plastic_parts": 8,
+      "rubber_parts": 4
+    },
+    "craftBench": "utility_bench"
   },
   {
     "id": "silencer_i",
@@ -2844,7 +3017,7 @@
   {
     "id": "extended_light_mag_i",
     "name": "Extended Light Mag I",
-    "description": "Slightly extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
+    "description": "Slightly extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Kettle, Burletta, Hairpin, Bobcat, Stitcher",
     "type": "Modification",
     "rarity": "Common",
     "value": 640,
@@ -2870,7 +3043,12 @@
     "effects": {
       "Magazine Size": "+5"
     },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "plastic_parts": 6,
+      "steel_spring": 1
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "compensator_i",
@@ -2910,7 +3088,12 @@
       "Reduced Per-Shot Dispersion": "20%",
       "Reduced Max Shot Dispersion": "10%"
     },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "10/30/2025",
+    "recipe": {
+      "metal_parts": 6,
+      "wires": 1
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "stable_stock_i",
@@ -2942,7 +3125,12 @@
       "Reduced Recoil Recovery Time": "20%",
       "Reduced Dispersion Recovery Time": "20%"
     },
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "rubber_parts": 7,
+      "duct_tape": 1
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "silencer_i_recipe",
@@ -3005,11 +3193,17 @@
       "Radius": "5m"
     },
     "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "11/03/2025",
     "recyclesInto": {
       "battery": 1,
       "plastic_parts": 2
-    }
+    },
+    "stackSize": 3,
+    "recipe": {
+      "electrical_components": 1,
+      "battery": 1
+    },
+    "craftBench": "explosives_bench"
   },
   {
     "id": "dam_staff_room_key",
@@ -3091,11 +3285,16 @@
       "Radius": "7.5m"
     },
     "imageFilename": "https://cdn.arctracker.io/items/trigger_nade.png",
-    "updatedAt": "11/01/2025",
+    "updatedAt": "11/03/2025",
     "recyclesInto": {
       "chemicals": 1,
       "processor": 1
-    }
+    },
+    "recipe": {
+      "crude_explosives": 2,
+      "processor": 1
+    },
+    "craftBench": "explosives_bench"
   },
   {
     "id": "spaceport_container_storage_key",
@@ -3109,10 +3308,10 @@
     "id": "burletta_i",
     "name": "Burletta I",
     "description": "Has decent damage output and accuracy.",
-    "type": "Weapon",
+    "type": "Pistol",
     "rarity": "Uncommon",
     "durability": 100,
-    "value": 1681,
+    "value": 2900,
     "recyclesInto": {
       "mechanical_components": 1,
       "simple_gun_parts": 2
@@ -3126,7 +3325,12 @@
       "Magazine Size": 12,
       "Firing Mode": "Semi-Automatic",
       "ARC Armor Penetration": "Very Weak"
-    }
+    },
+    "recipe": {
+      "mechanical_components": 3,
+      "simple_gun_parts": 3
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "spaceport_warehouse_key",
@@ -3153,7 +3357,13 @@
       "ARC Armor Penetration": "Moderate",
       "Special Trait": "Scoped"
     },
-    "imageFilename": "https://cdn.arctracker.io/items/osprey.png"
+    "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
+    "recipe": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 3,
+      "wires": 7
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "buried_city_hospital_key",
@@ -3169,7 +3379,7 @@
     "id": "adrenaline_shot",
     "name": "Adrenaline Shot",
     "description": "A serum that fully restores stamina and temporarily increases stamina regeneration.",
-    "type": "Consumable",
+    "type": "Quick Use",
     "value": 300,
     "rarity": "Common",
     "recyclesInto": {
@@ -3184,7 +3394,12 @@
       "Use Time": "1s"
     },
     "imageFilename": "https://cdn.arctracker.io/items/adrenaline_shot.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "chemicals": 3,
+      "plastic_parts": 3
+    },
+    "craftBench": "med_station"
   },
   {
     "id": "gas_grenade",
@@ -3205,14 +3420,25 @@
       "Radius": "7.5m"
     },
     "imageFilename": "https://cdn.arctracker.io/items/gas_grenade.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "chemicals": 4,
+      "rubber_parts": 2
+    },
+    "craftBench": "explosives_bench"
   },
   {
     "id": "torrente_i",
     "name": "Torrente I",
     "description": "A Tier 1 Torrente weapon.",
     "type": "Weapon",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "10/30/2025",
+    "recipe": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 3,
+      "steel_spring": 6
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "dam_utility_key",
@@ -3231,7 +3457,7 @@
   },
   {
     "id": "tactical_mk1",
-    "name": "Tactical MK1",
+    "name": "Tactical Mk. 1",
     "description": "Basic tactical augment. More Quick Use slots for more tactical choice, but limited survivability and slightly lower looting potential.",
     "type": "Augment",
     "rarity": "Uncommon",
@@ -3247,21 +3473,37 @@
       "Shield Compatibility": "Light, Medium"
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "plastic_parts": 6,
+      "rubber_parts": 6
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "tactical_mk2",
-    "name": "Tactical MK2",
-    "description": "Add more backpack space and an extra utility item slot.",
+    "name": "Tactical Mk. 2",
+    "description": "Adds more backpack space and an extra utility item slot.",
     "type": "Augment",
     "rarity": "Rare",
     "value": 2000,
     "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "effects": {
+      "Durability": "100/100",
+      "Max Loadout Weight": 45.0,
+      "Shield Compatibility": "Light, Medium"
+    },
+    "weightKg": 2.0,
+    "recipe": {
+      "electrical_components": 2,
+      "magnet": 3
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "combat_mk1",
-    "name": "Combat MK1",
+    "name": "Combat Mk. 1",
     "description": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
     "type": "Augment",
     "rarity": "Uncommon",
@@ -3271,23 +3513,46 @@
       "rubber_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "weightKg": 2.0,
+    "effects": {
+      "Durability": "100/100",
+      "Max Loadout Weight": 45.0,
+      "Shield Compatibility": "Light, Medium"
+    },
+    "recipe": {
+      "plastic_parts": 6,
+      "rubber_parts": 6
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "combat_mk2",
-    "name": "Combat MK1",
-    "description": "A Combat augment more focused on manouverability than absording damage.",
+    "name": "Combat Mk. 2",
+    "description": "A Combat augment more focused on maneuverability than absorbing damage.",
     "type": "Augment",
     "rarity": "Rare",
     "value": 2000,
     "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "weightKg": 3.0,
+    "effects": {
+      "Restores": "1 health every 5 seconds. When damage is taken, the effect is paused for 30 seconds.",
+      "Durability": "100/100",
+      "Max Loadout Weight": 55.0,
+      "Shield Compatibility": "Light, Medium, Heavy"
+    },
+    "recipe": {
+      "electrical_components": 2,
+      "magnet": 3
+    },
+    "craftBench": "equipment_bench"
   },
   {
     "id": "kettle_i",
     "name": "Kettle I",
-    "description": "Semi-automatic assault rifle. Quick and accurate, but has low bullet velocity and takes a long time reload.",
-    "type": "Weapon",
+    "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
+    "type": "Assault Rifle",
     "rarity": "Common",
     "value": 840,
     "recyclesInto": {
@@ -3295,7 +3560,23 @@
       "rubber_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "metal_parts": 6,
+      "rubber_parts": 8
+    },
+    "craftBench": [
+      "workbench",
+      "weapon_bench"
+    ],
+    "weightKg": 7.0,
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Light Ammo",
+      "Magazine Size": 20,
+      "Firing Mode": "Semi-Automatic",
+      "ARC Armor Penetration": "Very Weak"
+    }
   },
   {
     "id": "kettle_ii",
@@ -3314,16 +3595,32 @@
   {
     "id": "stitcher_i",
     "name": "Stitcher I",
-    "description": "Full automatic SMG. Deals good damage, but has quite a low fire-rate and can be hard to control.",
+    "description": "Deals good damage, but has quite a low fire-rate and can be hard to control.",
     "type": "Weapon",
     "rarity": "Common",
-    "value": 840,
+    "value": 800,
     "recyclesInto": {
       "metal_parts": 3,
       "rubber_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "metal_parts": 8,
+      "rubber_parts": 4
+    },
+    "craftBench": [
+      "workbench",
+      "weapon_bench"
+    ],
+    "weightKg": 5.0,
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Light Ammo",
+      "Magazine Size": 20,
+      "Firing Mode": "Fully-Automatic",
+      "ARC Armor Penetration": "Very Weak"
+    }
   },
   {
     "id": "stitcher_ii",
@@ -3446,7 +3743,12 @@
     "imageFilename": "https://cdn.arctracker.io/items/remote_raider_flare.png",
     "weightKg": 0.2,
     "stackSize": 3,
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "chemicals": 2,
+      "rubber_parts": 4
+    },
+    "craftBench": "utility_bench"
   },
   {
     "id": "backpack_black_hiker_color",
@@ -3532,11 +3834,15 @@
     "stackSize": 10,
     "weightKg": 0.25,
     "imageFilename": "https://cdn.arctracker.io/items/durable_cloth.png",
-    "updatedAt": "10/31/2025",
+    "updatedAt": "11/03/2025",
     "value": 640,
     "recyclesInto": {
       "fabric": 6
-    }
+    },
+    "recipe": {
+      "fabric": 14
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "diving_goggles",
@@ -3635,6 +3941,12 @@
       "simple_gun_parts": 3
     },
     "updatedAt": "11/03/2025"
+    "recipe": {
+      "light_gun_parts": 2,
+      "medium_gun_parts": 2,
+      "heavy_gun_parts": 2
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "alarm_clock",
@@ -3673,12 +3985,12 @@
     "id": "hullcracker_i",
     "name": "Hullcracker I",
     "description": "Fires explosive projectiles that only detonate when hitting ARC.",
-    "type": "Special",
+    "type": "Weapon",
     "rarity": "Epic",
-    "value": 9169,
+    "value": 10000,
     "stackSize": 1,
     "effects": {
-      "Durability": "92/100",
+      "Durability": "100/100",
       "Ammo Type": "Launcher Ammo",
       "Magazine Size": 5,
       "Firing Mode": "Pump-Action",
@@ -3686,7 +3998,13 @@
     },
     "weightKg": 7.0,
     "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "magnetic_accelerator": 1,
+      "heavy_gun_parts": 3,
+      "exodus_modules": 1
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "rattler_iii",
@@ -3710,7 +4028,7 @@
     "id": "snap_blast_grenade",
     "name": "Snap Blast Grenade",
     "description": "A grenade that sticks to surfaces, dealing explosive damage after a short delay.",
-    "type": "Consumable",
+    "type": "Quick Use",
     "value": 800,
     "rarity": "Uncommon",
     "recyclesInto": {
@@ -3724,13 +4042,18 @@
       "Radius": "7.5m"
     },
     "imageFilename": "https://cdn.arctracker.io/items/snap_blast_grenade.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "crude_explosives": 2,
+      "magnet": 1
+    },
+    "craftBench": "explosives_bench"
   },
   {
     "id": "shield_recharger",
     "name": "Shield Recharger",
     "description": "A handheld kit that gradually recharges shield over time.",
-    "type": "Consumable",
+    "type": "Quick Use",
     "value": 520,
     "rarity": "Uncommon",
     "weightKg": 0.15,
@@ -3741,7 +4064,15 @@
       "Use Time": "2s"
     },
     "imageFilename": "https://cdn.arctracker.io/items/shield_recharger.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "rubber_parts": 5,
+      "arc_powercell": 1
+    },
+    "craftBench": [
+      "workbench",
+      "med_station"
+    ]
   },
   {
     "id": "lil_smoke_grenade",
@@ -3761,7 +4092,12 @@
       "Radius": "2.5m"
     },
     "imageFilename": "https://cdn.arctracker.io/items/lil_smoke_grenade.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "chemicals": 5,
+      "plastic_parts": 1
+    },
+    "craftBench": "utility_bench"
   },
   {
     "id": "red_light_stick",
@@ -3826,8 +4162,8 @@
     "rarity": "Rare",
     "value": 640,
     "recyclesInto": {
-        "rubber_parts": 8,
-        "fabric": 4
+      "rubber_parts": 8,
+      "fabric": 4
     },
     "weightKg": 2.0,
     "stackSize": 3,
@@ -3851,7 +4187,7 @@
   {
     "id": "muzzle_brake_ii",
     "name": "Muzzle Brake II",
-    "description": "Moderately reduces both vertical recoil & horizontal recoil. Compatible with: Rattler, Ferro, Burletta, Stitcher, Tempest",
+    "description": "Moderately reduces both vertical recoil & horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Renegade",
     "type": "Modification",
     "rarity": "Uncommon",
     "value": 2000,
@@ -3859,6 +4195,11 @@
       "mechanical_components": 1,
       "wires": 1
     },
+    "recipe": {
+      "mechanical_components": 2,
+      "wires": 4
+    },
+    "craftBench": "weapon_bench",
     "weightKg": 0.5,
     "effects": {
       "Reduced Vertical Recoil": "20%",
@@ -3931,7 +4272,7 @@
     "id": "heavy_fuze_grenade",
     "name": "Heavy Fuze Grenade",
     "description": "A grenade that detonates after a delay, dealing explosive damage in its radius.",
-    "type": "Consumable",
+    "type": "Quick Use",
     "value": 1600,
     "rarity": "Rare",
     "weightKg": 0.2,
@@ -3941,10 +4282,15 @@
       "Radius": "7.5m"
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_fuze_grenade.png",
-    "updatedAt": "11/01/2025",
+    "updatedAt": "11/03/2025",
     "recyclesInto": {
       "oil": 3
-    }
+    },
+    "recipe": {
+      "explosive_compound": 1,
+      "canister": 2
+    },
+    "craftBench": "explosives_bench"
   },
   {
     "id": "blue_light_stick",
@@ -3979,26 +4325,35 @@
       "Duration": "40s"
     },
     "imageFilename": "https://cdn.arctracker.io/items/green_light_stick.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "10/30/2025",
+    "recipe": {
+      "chemicals": 3
+    },
+    "craftBench": "utility_bench"
   },
   {
     "id": "surge_shield_recharger",
     "name": "Surge Shield Recharger",
     "description": "A handheld kit that recharges a shield on use.",
-    "type": "Consumable",
-    "value": 240,
+    "type": "Quick Use",
+    "value": 1200,
     "rarity": "Rare",
-    "weightKg": 0.04,
+    "weightKg": 0.2,
     "stackSize": 5,
     "effects": {
       "Recharge": 50,
       "Use Time": "5s"
     },
     "imageFilename": "https://cdn.arctracker.io/items/surge_shield_recharger.png",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "11/03/2025",
     "recyclesInto": {
       "electrical_components": 1
-    }
+    },
+    "recipe": {
+      "electrical_components": 1,
+      "advanced_arc_powercell": 1
+    },
+    "craftBench": "med_station"
   },
   {
     "id": "vertical_grip_ii",
@@ -4156,11 +4511,6 @@
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0.0,
-    "recyclesInto": {
-      "explosives_station_ii": 1,
-      "electrical_components": 1,
-      "battery": 1
-    },
     "imageFilename": "https://cdn.arctracker.io/items/jolt_mine_blueprint.png",
     "rarity": "Common",
     "updatedAt": "10/30/2025"
@@ -4273,13 +4623,13 @@
     "updatedAt": "10/30/2025"
   },
   {
-    "id": "hullcracker_blueprint",
-    "name": "Hullcracker Blueprint",
+    "id": "launcher_ammo_blueprint",
+    "name": "Launcher Ammo (Hullcracker) Blueprint",
     "description": "Anti-ARC payloads used mainly by the Hullcracker.",
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0.0,
-    "imageFilename": "https://cdn.arctracker.io/items/hullcracker_blueprint.png",
+    "imageFilename": "https://cdn.arctracker.io/items/launcher_ammo_blueprint.png",
     "rarity": "Common",
     "updatedAt": "10/30/2025"
   },
@@ -4288,10 +4638,6 @@
     "name": "Medium Gun Parts Blueprint",
     "description": "Assorted spare parts used for rifles.",
     "type": "Blueprint",
-    "recyclesInto": {
-      "refiner_ii": 1,
-      "simple_gun_parts": 37
-    },
     "value": 5000,
     "weightKg": 0,
     "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts_blueprint.png",
@@ -4330,7 +4676,12 @@
     "updatedAt": "10/30/2025",
     "recyclesInto": {
       "metal_parts": 2
-    }
+    },
+    "recipe": {
+      "metal_parts": 3,
+      "rubber_parts": 3
+    },
+    "craftBench": "utility_bench"
   },
   {
     "id": "renegade_i",
@@ -4348,7 +4699,13 @@
     "value": 7000,
     "weightKg": 10.0,
     "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "10/30/2025",
+    "recipe": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 3,
+      "oil": 5
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "stable_stock_iii",
@@ -4383,7 +4740,12 @@
     "recyclesInto": {
       "mod_components": 1,
       "steel_spring": 2
-    }
+    },
+    "recipe": {
+      "mod_components": 2,
+      "steel_spring": 5
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "muzzle_brake_iii",
@@ -4459,7 +4821,12 @@
       "Reduced Max Shot Dispersion": "20%"
     },
     "imageFilename": "https://cdn.arctracker.io/items/compensator_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "mechanical_components": 2,
+      "wires": 4
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "extended_light_mag_ii",
@@ -4519,7 +4886,12 @@
       "ARC Armor Penetration": "Weak"
     },
     "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-    "updatedAt": "10/31/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "mechanical_components": 5,
+      "simple_gun_parts": 6
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "ferro_ii",
@@ -4574,9 +4946,9 @@
     "name": "Herbal Bandage",
     "description": "An improvised medical item that gradually restores health over time.",
     "type": "Consumable",
-    "value": 128,
+    "value": 640,
     "rarity": "Uncommon",
-    "weightKg": 0.03,
+    "weightKg": 0.15,
     "stackSize": 5,
     "effects": {
       "Healing": "3.5/s",
@@ -4584,7 +4956,12 @@
       "Use Time": "1.5s"
     },
     "imageFilename": "https://cdn.arctracker.io/items/herbal_bandage.png",
-    "updatedAt": "10/31/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "durable_cloth": 1,
+      "great_mullein": 1
+    },
+    "craftBench": "med_station"
   },
   {
     "id": "kettle_iv",
@@ -4675,11 +5052,16 @@
     "stackSize": 5,
     "foundIn": "Security",
     "imageFilename": "https://cdn.arctracker.io/items/mod_components.png",
-    "updatedAt": "11/01/2025",
+    "updatedAt": "11/03/2025",
     "recyclesInto": {
       "mechanical_components": 1,
       "steel_spring": 1
-    }
+    },
+    "recipe": {
+      "steel_spring": 2,
+      "mechanical_components": 2
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "ruined_riot_shield",
@@ -4889,7 +5271,12 @@
     "stackSize": 5,
     "foundIn": "Industrial, Security",
     "imageFilename": "https://cdn.arctracker.io/items/explosive_compound.png",
-    "updatedAt": "11/02/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "crude_explosives": 2,
+      "oil": 2
+    },
+    "craftBench": "refiner"
   },
   {
     "id": "shotgun_silencer",
@@ -4965,7 +5352,7 @@
   {
     "id": "damaged_rocketeer_driver",
     "name": "Damaged Rocketeer Driver",
-    "description": "Can be recycled into crafting materials.",
+    "description": "Can be recycled into crafting materials. Can be found in ARC",
     "type": "Recyclable",
     "rarity": "Common",
     "value": 2000,
@@ -4975,7 +5362,8 @@
     "weightKg": 0.25,
     "stackSize": 3,
     "foundIn": "ARC",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/damaged_rocketeer_driver.png"
   },
   {
     "id": "turbo_pump",
@@ -5030,7 +5418,15 @@
       "Duration": "10s",
       "Use Time": "1.5s"
     },
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/bandage.png",
+    "recipe": {
+      "fabric": 5
+    },
+    "craftBench": [
+      "workbench",
+      "med_station"
+    ]
   },
   {
     "id": "tagging_grenade",
@@ -5053,7 +5449,7 @@
   },
   {
     "id": "looting_mk1",
-    "name": "Looting MK. 1",
+    "name": "Looting Mk. 1",
     "description": "Basic looting augment. More backpack slots and weight capacity, but low defensive and tactical capability.",
     "type": "Augment",
     "rarity": "Uncommon",
@@ -5068,7 +5464,16 @@
       "Max Loadout Weight": 50.0,
       "Shield Compatibility": "Light"
     },
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "plastic_parts": 6,
+      "rubber_parts": 6
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/looting_mk1.png",
+    "craftBench": [
+      "equipment_bench",
+      "workbench"
+    ]
   },
   {
     "id": "muzzle_brake_i",
@@ -5085,7 +5490,12 @@
       "Reduced Vertical Recoil": "15%",
       "Reduced Horizontal Recoil": "15%"
     },
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "metal_parts": 6,
+      "wires": 1
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "rattler_i",
@@ -5105,7 +5515,13 @@
       "Firing Mode": "Fully-Automatic",
       "ARC Armor Penetration": "Moderate"
     },
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/rattler_i.png",
+    "recipe": {
+      "metal_parts": 16,
+      "rubber_parts": 12
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "painted_box",
@@ -5118,7 +5534,8 @@
     "weightKg": 0.3,
     "stackSize": 3,
     "foundIn": "Old World",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/painted_box.png"
   },
   {
     "id": "music_box",
@@ -5132,5 +5549,324 @@
     "stackSize": 3,
     "foundIn": "Old World, Residential, Commercial",
     "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "hairpin_i",
+    "name": "Hairpin I",
+    "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
+    "type": "Pistol",
+    "rarity": "Common",
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Light Ammo",
+      "Magazine Size": 8,
+      "Firing Mode": "Slide-Action",
+      "ARC Armor Penetration": "Very Weak",
+      "Special Trait": "Integrated Silencer"
+    },
+    "weightKg": 3.0,
+    "value": 450,
+    "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "metal_parts": 2,
+      "plastic_parts": 5
+    },
+    "craftBench": [
+      "workbench",
+      "weapon_bench"
+    ]
+  },
+  {
+    "id": "looting_mk2",
+    "name": "Looting Mk. 2",
+    "description": "Significantly increases looting potential; adds slots for trinkets. Automatically throws off attached Ticks after 1s.",
+    "type": "Augment",
+    "rarity": "Rare",
+    "effects": {
+      "Durability": "100/100",
+      "Max Loadout Weight": 60.0,
+      "Shield Compatibility": "Light"
+    },
+    "weightKg": 2.0,
+    "value": 2000,
+    "imageFilename": "https://cdn.arctracker.io/items/looting_mk2.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "electrical_components": 2,
+      "magnet": 3
+    },
+    "craftBench": "equipment_bench"
+  },
+  {
+    "id": "looting_mk3_cautious",
+    "name": "Looting Mk. 3 (Cautious)",
+    "description": "A looting augment that swaps some carry capacity to increase survivability. Upon Shield break, automatically administers a weak Adrenaline Shot. Has a fixed cooldown.",
+    "type": "Augment",
+    "rarity": "Epic",
+    "value": 5000,
+    "weightKg": 3.0,
+    "effects": {
+      "Durability": "100/100",
+      "Max Loadout Weight": 70.0,
+      "Shield Compatibility": "Light"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_cautious.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "advanced_electrical_components": 2,
+      "processor": 3
+    },
+    "craftBench": "equipment_bench"
+  },
+  {
+    "id": "angled_grip_i",
+    "name": "Angled Grip I",
+    "description": "Slightly reduces horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+    "type": "Modification",
+    "rarity": "Common",
+    "weightKg": 0.25,
+    "value": 640,
+    "effects": {
+      "Reduced Horizontal Recoil": "20%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/angled_grip_i.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "plastic_parts": 6,
+      "duct_tape": 1
+    },
+    "craftBench": "weapon_bench"
+  },
+  {
+    "id": "extended_shotgun_mag_i",
+    "name": "Extended Shotgun Mag I",
+    "description": "Slightly extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
+    "type": "Modification",
+    "rarity": "Common",
+    "weightKg": 0.25,
+    "value": 640,
+    "effects": {
+      "Magazine Size": "+2"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_i.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "plastic_parts": 6,
+      "steel_spring": 1
+    },
+    "craftBench": "weapon_bench"
+  },
+  {
+    "id": "shotgun_choke_i",
+    "name": "Shotgun Choke I",
+    "description": "Slightly reduces base dispersion. Compatible with: Il Toro, Vulcano",
+    "type": "Modification",
+    "rarity": "Common",
+    "value": 640,
+    "weightKg": 0.25,
+    "effects": {
+      "Reduced Base Dispersion": "10%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_i.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "metal_parts": 6,
+      "wires": 1
+    },
+    "craftBench": "weapon_bench"
+  },
+  {
+    "id": "vertical_grip_i",
+    "name": "Vertical Grip I",
+    "description": "Slightly reduces vertical recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+    "type": "Modification",
+    "rarity": "Common",
+    "weightKg": 0.25,
+    "value": 640,
+    "effects": {
+      "Reduced Vertical Recoil": "20%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_i.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "plastic_parts": 6,
+      "duct_tape": 1
+    },
+    "craftBench": "weapon_bench"
+  },
+  {
+    "id": "lightweight_stock",
+    "name": "Lightweight Stock",
+    "description": "Moderately improves ADS & draw speed. Compatible with: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
+    "type": "Modification",
+    "value": 5000,
+    "rarity": "Epic",
+    "weightKg": 0.25,
+    "effects": {
+      "Increased ADS Speed": "200%",
+      "Reduced Equip Time": "30%",
+      "Reduced Unequip Time": "30%",
+      "Increased Vertical Recoil": "50%",
+      "Increased Recoil Recovery Time": "50%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/lightweight_stock.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "mod_components": 2,
+      "duct_tape": 5
+    },
+    "craftBench": "weapon_bench"
+  },
+  {
+    "id": "bettina_i",
+    "name": "Bettina I",
+    "description": "Has slow fire rate and high damage output.",
+    "type": "Weapon",
+    "value": 8000,
+    "rarity": "Epic",
+    "weightKg": 11.0,
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Heavy Ammo",
+      "Magazine Size": 20,
+      "Firing Mode": "Fully-Automatic",
+      "ARC Armor Penetration": "Strong"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/bettina.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "advanced_mechanical_components": 3,
+      "heavy_gun_parts": 3,
+      "canister": 3
+    },
+    "craftBench": "weapon_bench"
+  },
+  {
+    "id": "launcher_ammo",
+    "name": "Launcher Ammo",
+    "description": "Anti-ARC payloads used mainly by the Hullcracker. Compatible with: Hullcracker",
+    "type": "Ammunition",
+    "value": 10,
+    "rarity": "Rare",
+    "weightKg": 0.1,
+    "stackSize": 24,
+    "imageFilename": "https://cdn.arctracker.io/items/launcher_ammo.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "metal_parts": 5,
+      "crude_explosives": 1
+    },
+    "craftBench": "workbench"
+  },
+  {
+    "id": "shotgun_ammo",
+    "name": "Shotgun Ammo",
+    "description": "Compatible with: Il Toro, Vulcano",
+    "type": "Ammunition",
+    "value": 20,
+    "weightKg": 0.085,
+    "stackSize": 20,
+    "imageFilename": "https://cdn.arctracker.io/items/shotgun_ammo.png",
+    "rarity": "Common",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "metal_parts": 3,
+      "chemicals": 2
+    },
+    "craftBench": "workbench"
+  },
+  {
+    "id": "torrente_blueprint",
+    "name": "Torrente Blueprint",
+    "description": "Has a large ammo capacity, but is only accurate while crouched.",
+    "type": "Blueprint",
+    "weightKg": 0.0,
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/torrente_blueprint.png",
+    "updatedAt": "11/03/2025",
+    "value": 5000
+  },
+  {
+    "id": "anvil_blueprint",
+    "name": "Anvil Blueprint",
+    "description": "Has high damage output and headshot damage, but slow handling.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/anvil_blueprint.png",
+    "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "anvil_i",
+    "name": "Anvil I",
+    "description": "Has high damage output and headshot damage, but slow handling.",
+    "type": "Weapon",
+    "rarity": "Uncommon",
+    "effects": {
+      "Durability": "100/100",
+      "Ammo Type": "Heavy Ammo",
+      "Magazine Size": 6,
+      "Firing Mode": "Single-Action",
+      "ARC Armor Penetration": "Strong"
+    },
+    "weightKg": 5.0,
+    "value": 5000,
+    "imageFilename": "https://cdn.arctracker.io/items/anvil.png",
+    "updatedAt": "11/03/2025",
+    "recipe": {
+      "mechanical_components": 5,
+      "simple_gun_parts": 6
+    },
+    "craftBench": "weapon_bench"
+  },
+  {
+    "id": "osprey_blueprint",
+    "name": "Osprey Blueprint",
+    "description": "Has reliable damage output and accuracy.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/osprey_blueprint.png",
+    "updatedAt": "11/03/2025"
+  },
+  {
+  "id": "venator_blueprint",
+  "name": "Venator Blueprint",
+  "description": "Fires two shots at a time.  ",
+  "type": "Blueprint",
+  "value": 5000,
+  "imageFilename": "https://cdn.arctracker.io/items/venator.png",
+  "rarity": "Common",
+  "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "extended_medium_mag_iii_blueprint",
+    "name": "Extended Medium Mag III Blueprint",
+    "description": "Significantly extends the ammo capacity of compataible weapons that use medium ammo.",
+    "type": "Blueprint",
+    "effects": {
+      "Magazine Size": "+12"
+    },
+    "value": 5000,
+    "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_iii.png",
+    "rarity": "Common",
+    "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "muzzle_brake_ii_blueprint",
+    "name": "Muzzle Brake II Blueprint",
+    "description": "Moderately reduces both vertical recoil & horizontal recoil.",
+    "effects": {
+      "Reduced Vertical Recoil": "20%",
+      "Reduced Horizontal Recoil": "20%"
+    },
+    "type": "Blueprint",
+    "value": 5000,
+    "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
+    "rarity": "Common",
+    "updatedAt": "11/04/2025"
   }
 ]

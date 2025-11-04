@@ -687,7 +687,7 @@
     "name": "Broad Shoulders",
     "description": "Increases the maximum amount of items you can carry.",
     "impactedSkill": "Max Inventory",
-    "knownValue": [],
+    "knownValue": ["+2 kg per point"],
     "category": "SURVIVAL",
     "maxPoints": 5,
     "iconName": "broad_shoulders.png",
