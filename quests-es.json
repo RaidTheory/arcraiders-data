@@ -1,0 +1,2235 @@
+[
+  {
+    "id": "ss1",
+    "updatedAt": "10/30/2025",
+    "name": "Recogiendo los pedazos",
+    "trader": "Shani",
+    "description": "La tormenta ya se ha calmado, pero gran parte de nuestra infraestructura quedó hecha polvo. Si quieres quedarte con nosotros, necesitaré que arrimes el hombro en las reparaciones.",
+    "objectives": [
+      "Visita cualquier zona del mapa con un icono de categoría de botín",
+      "Saquear 3 contenedores"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "ferro_iii",
+        "quantity": 1
+      },
+      {
+        "itemId": "medium_ammo",
+        "quantity": 80
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [],
+    "nextQuestIds": [
+      "ss2",
+      "ss3"
+    ]
+  },
+  {
+    "id": "ss2",
+    "updatedAt": "10/30/2025",
+    "name": "Cielos despejados",
+    "trader": "Shani",
+    "objectives": [
+      "Destruye 3 enemigos ARC",
+      "Consigue 3 Aleaciones ARC para Shani"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "arc_alloy",
+        "quantity": 3
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "backpack_black_hiker_color",
+        "quantity": 1
+      },
+      {
+        "itemId": "sterilized_bandage",
+        "quantity": 3
+      },
+      {
+        "itemId": "light_shield",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss1"
+    ],
+    "nextQuestIds": [
+      "ss4"
+    ]
+  },
+  {
+    "id": "ss3",
+    "updatedAt": "10/30/2025",
+    "name": "Basura en tesoro",
+    "trader": "Shani",
+    "objectives": [
+      "Obtén 6 cables",
+      "Obtén 1 batería"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "wires",
+        "quantity": 6
+      },
+      {
+        "itemId": "battery",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "tactical_mk1",
+        "quantity": 1
+      },
+      {
+        "itemId": "adrenaline_shot",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss1"
+    ],
+    "nextQuestIds": [
+      "ss4"
+    ]
+  },
+  {
+    "id": "ss4",
+    "updatedAt": "10/30/2025",
+    "name": "Fuera del radar",
+    "trader": "Shani",
+    "objectives": [
+      "Visita un depósito de campaña",
+      "Repara la antena en el techo del depósito de campaña"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "remote_raider_flare",
+        "quantity": 2
+      },
+      {
+        "itemId": "defibrillator",
+        "quantity": 2
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss2",
+      "ss3"
+    ],
+    "nextQuestIds": [
+      "ss5"
+    ]
+  },
+  {
+    "id": "ss5",
+    "updatedAt": "10/30/2025",
+    "name": "Un mal presentimiento",
+    "trader": "Celeste",
+    "objectives": [
+      "Encuentra y registra cualquier Sonda ARC o Mensajero ARC"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "metal_parts",
+        "quantity": 10
+      },
+      {
+        "itemId": "steel_spring",
+        "quantity": 5
+      },
+      {
+        "itemId": "duct_tape",
+        "quantity": 5
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss4"
+    ],
+    "nextQuestIds": [
+      "ss5a",
+      "ss6",
+      "ss7",
+      "ss8"
+    ]
+  },
+  {
+    "id": "ss5a",
+    "updatedAt": "10/30/2025",
+    "name": "Reparaciones de escotilla",
+    "trader": "Shani",
+    "description": "Nuestros exploradores han informado de varias escotillas Raider con fugas en las tuberías hidráulicas. Aún funcionan, pero no por mucho. ¿Podrías arreglar una la próxima vez que salgas?",
+    "objectives": [
+      "Repara las tuberías hidráulicas con fugas junto a una escotilla Raider"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "raider_hatch_key",
+        "quantity": 1
+      },
+      {
+        "itemId": "binoculars",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss5"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss6",
+    "updatedAt": "10/30/2025",
+    "name": "A ras de suelo",
+    "trader": "Shani",
+    "objectives": [
+      "Visita un depósito de campaña",
+      "Entrega una caja de campaña en la estación de suministros",
+      "Cobra la recompensa"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "binoculars",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "combat_mk1",
+        "quantity": 1
+      },
+      {
+        "itemId": "medium_shield",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss5"
+    ],
+    "nextQuestIds": [
+      "ss9"
+    ]
+  },
+  {
+    "id": "ss7",
+    "updatedAt": "10/30/2025",
+    "name": "La herramienta adecuada",
+    "trader": "Tian Wen",
+    "objectives": [
+      "Destruye un Fireball",
+      "Destruye un Avispón",
+      "Destruye una torreta"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "ferro_iv",
+        "quantity": 1
+      },
+      {
+        "itemId": "heavy_ammo",
+        "quantity": 20
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "stitcher_ii",
+        "quantity": 1
+      },
+      {
+        "itemId": "extended_light_mag_i",
+        "quantity": 1
+      },
+      {
+        "itemId": "cheer_emote",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss5"
+    ],
+    "nextQuestIds": [
+      "ss10"
+    ]
+  },
+  {
+    "id": "ss8",
+    "updatedAt": "10/30/2025",
+    "name": "Paso seguro",
+    "trader": "Apollo",
+    "objectives": [
+      "Destruye 2 enemigos ARC usando cualquier granada explosiva"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "light_impact_grenade",
+        "quantity": 10
+      },
+      {
+        "itemId": "snap_blast_grenade",
+        "quantity": 3
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "lil_smoke_grenade",
+        "quantity": 5
+      },
+      {
+        "itemId": "barricade_kit",
+        "quantity": 3
+      },
+      {
+        "itemId": "shrapnel_grenade",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss5"
+    ],
+    "nextQuestIds": [
+      "ss8a"
+    ]
+  },
+  {
+    "id": "ss8a",
+    "updatedAt": "10/30/2025",
+    "name": "Lo que va, vuelve",
+    "trader": "Apollo",
+    "description": "No podemos construir tecnología ARC desde cero, pero con las piezas que recuperas puedo experimentar bastante. Ahora mismo intento reutilizar diferentes piezas ARC. ¿Te importaría hacer unos experimentos por mí?",
+    "objectives": [
+      "Destruye cualquier enemigo ARC usando un Fireball Burner"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "red_light_stick",
+        "quantity": 5
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "cans_cosmetic",
+        "quantity": 1
+      },
+      {
+        "itemId": "blaze_grenade",
+        "quantity": 3
+      },
+      {
+        "itemId": "noisemaker",
+        "quantity": 2
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss8"
+    ],
+    "nextQuestIds": [
+      "ss8b"
+    ]
+  },
+  {
+    "id": "ss8b",
+    "updatedAt": "10/30/2025",
+    "name": "Saltan chispas",
+    "trader": "Apollo",
+    "description": "Esas picaduras de Avispa pueden destrozarte si tienes mala suerte. Y aunque destruyas una, gastas montones de munición. He estado trabajando en una forma más elegante de derribarlas. ¿Te apetece hacer saltar chispas?",
+    "objectives": [
+      "Destruye un Avispón con una Trigger 'Nade o una Snap Blast"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "trigger_nade",
+        "quantity": 6
+      },
+      {
+        "itemId": "snap_blast_grenade",
+        "quantity": 2
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "trigger_nade_blueprint",
+        "quantity": 1
+      },
+      {
+        "itemId": "crude_explosives",
+        "quantity": 4
+      },
+      {
+        "itemId": "processor",
+        "quantity": 2
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss8a"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss9",
+    "updatedAt": "10/30/2025",
+    "name": "La trifecta",
+    "trader": "Shani",
+    "description": "La información está muy bien, pero solo nos lleva hasta cierto punto. Si el ARC de verdad se nos echa encima, necesito que cada Raider demuestre que puede manejar sus drones en combate.",
+    "objectives": [
+      "Destruye 2 Avispas",
+      "Destruye 2 Avispones",
+      "Destruye 2 Soplones",
+      "Consigue 2 Snitch Scanner para Shani",
+      "Consigue 2 Wasp Driver para Shani",
+      "Consigue 2 Hornet Driver para Shani"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "snitch_scanner",
+        "quantity": 2
+      },
+      {
+        "itemId": "wasp_driver",
+        "quantity": 2
+      },
+      {
+        "itemId": "hornet_driver",
+        "quantity": 2
+      }
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "remote_raider_flare",
+        "quantity": 3
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "raider_hatch_key",
+        "quantity": 1
+      },
+      {
+        "itemId": "defibrillator",
+        "quantity": 2
+      },
+      {
+        "itemId": "dam_control_tower_key",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss6"
+    ],
+    "nextQuestIds": [
+      "ss10b"
+    ]
+  },
+  {
+    "id": "ss10",
+    "updatedAt": "10/30/2025",
+    "name": "Un mejor uso",
+    "trader": "Tian Wen",
+    "description": "Nos falta de todo salvo bocas que alimentar, y aun así Celeste lanza suministros valiosos al aire para que los Raiders se los peleen. Ya basta de dejar que lo bueno se desaproveche.",
+    "objectives": [
+      "Solicita un lanzamiento de suministros desde una estación de llamada",
+      "Saquea un lanzamiento de suministros"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "extended_light_mag_i",
+        "quantity": 1
+      },
+      {
+        "itemId": "muzzle_brake_ii",
+        "quantity": 1
+      },
+      {
+        "itemId": "stable_stock_i",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss7"
+    ],
+    "nextQuestIds": [
+      "ss10a"
+    ]
+  },
+  {
+    "id": "ss10a",
+    "updatedAt": "10/30/2025",
+    "name": "Engrasando la palma",
+    "trader": "Celeste",
+    "description": "Últimamente he intentado sin éxito que Tian Wen se una a nuestros proyectos comunitarios. Quizá deba hacer la oferta más atractiva. Ha estado quejándose de la calidad del material recuperado en el mercado; ¿crees que podemos echarle un cable?",
+    "objectives": [
+      "En el Campo de Batalla de la Presa, visita la sala cerrada del edificio de Control de Tratamiento de Agua",
+      "En el Puerto Espacial, examina los propulsores de cohete junto al Ensamblaje de Cohetes",
+      "En Ciudad Enterrada, visita la zona barricada en la planta 6 del Edificio Viaje Espacial"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "dam_surveillance_key",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "lure_grenade_blueprint",
+        "quantity": 1
+      },
+      {
+        "itemId": "speaker_component",
+        "quantity": 3
+      },
+      {
+        "itemId": "electrical_components",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10"
+    ],
+    "nextQuestIds": [
+      "ss10b",
+      "ss10c"
+    ]
+  },
+  {
+    "id": "ss10b",
+    "updatedAt": "11/2/2025",
+    "name": "Barones inactivos",
+    "trader": "Shani",
+    "description": "Durante la Primera Ola, los Barones causaron más daño que el resto de máquinas juntas. Ahora no son más que cascarones, anclados donde cayeron... Aun así, su interior podría contener la clave para mantener al ARC a raya. Ábrelo y tráeme lo que encuentres dentro.",
+    "objectives": [
+      "Saquea un cascarón de Barón"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "door_blocker",
+        "quantity": 3
+      },
+      {
+        "itemId": "lil_smoke_grenade",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10a",
+      "ss9"
+    ],
+    "nextQuestIds": [
+      "ss10d",
+      "ss10e"
+    ]
+  },
+  {
+    "id": "ss10d",
+    "updatedAt": "10/30/2025",
+    "name": "Señales cruzadas",
+    "trader": "Tian Wen",
+    "description": "¿Has visto algún Inspector, de los grandes y redondos? Parece que transmiten datos de vuelta a la órbita, y no puedo evitar pensar que está relacionado con la señal que captamos. ¿Podrías abrir uno para intentar descifrar la información?",
+    "objectives": [
+      "Destruye un Inspector ARC",
+      "Obtén 1 bóveda de Inspector"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "surveyor_vault",
+        "quantity": 1
+      }
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "jolt_mine",
+        "quantity": 3
+      },
+      {
+        "itemId": "showstopper",
+        "quantity": 2
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "photoelectric_cloak",
+        "quantity": 1
+      },
+      {
+        "itemId": "raider_hatch_key",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10b"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss10e",
+    "updatedAt": "10/30/2025",
+    "name": "Lo que dejamos atrás",
+    "trader": "Tian Wen",
+    "description": "Celeste me dijo que tú fuiste quien la ayudó a acosarme para que colaborara más. Lo diré una sola vez: no aprecio la intromisión y tengo mis razones para negarme. Eso sí, agradezco la chatarra. Ya que al parecer se te da bien encontrarla, quizá tenga un encargo para ti.",
+    "objectives": [
+      "En Ciudad Enterrada, registra 2 contenedores en el campamento Raider bajo el estacionamiento",
+      "En el Campo de Batalla de la Presa, busca cualquier cosa importante en el Puesto del Pantano Sur",
+      "En el Puerto Espacial, busca algo importante en el escondite de Bilguun, junto al almacén de contenedores"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "muzzle_brake_ii",
+        "quantity": 1
+      },
+      {
+        "itemId": "vertical_grip_ii",
+        "quantity": 1
+      },
+      {
+        "itemId": "stable_stock_ii",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10b"
+    ],
+    "nextQuestIds": [
+      "ss10h"
+    ]
+  },
+  {
+    "id": "ss10h",
+    "updatedAt": "10/30/2025",
+    "name": "Monumento roto",
+    "trader": "Tian Wen",
+    "description": "Necesito que busques otro lugar especial. Un antiguo campo de batalla de la Primera Ola. Hoy en día los Raiders dejan esos sitios hechos polvo, pese a la importancia que tuvieron. La gente olvida rápido. Demasiado rápido.",
+    "objectives": [
+      "Llega al terreno sagrado junto al Chatarrerío",
+      "Busca una brújula cerca de los vehículos averiados",
+      "Busca la cinta de video junto a los contenedores cilíndricos",
+      "Busca las viejas raciones de campaña en el campamento Raider",
+      "Entrega la cinta de la Primera Ola a Tian Wen",
+      "Entrega la brújula de la Primera Ola a Tian Wen",
+      "Entrega las raciones de la Primera Ola a Tian Wen"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "first_wave_tape",
+        "quantity": 1
+      },
+      {
+        "itemId": "first_wave_compass",
+        "quantity": 1
+      },
+      {
+        "itemId": "first_wave_rations",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "arpeggio_i",
+        "quantity": 1
+      },
+      {
+        "itemId": "compensator_ii",
+        "quantity": 1
+      },
+      {
+        "itemId": "medium_ammo",
+        "quantity": 80
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10e"
+    ],
+    "nextQuestIds": [
+      "ss10i",
+      "ss10j"
+    ]
+  },
+  {
+    "id": "ss10i",
+    "updatedAt": "10/30/2025",
+    "name": "Marcado para morir",
+    "trader": "Tian Wen",
+    "description": "Alguien ha estado robando suministros de mi punto de entrega en Ciudad Enterrada. Coloqué una trampa, pero necesito que alguien la revise por mí.",
+    "objectives": [
+      "Llega a los almacenes Su Durante en las Afueras de Ciudad Enterrada"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "shotgun_choke_ii",
+        "quantity": 1
+      },
+      {
+        "itemId": "angled_grip_ii",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10h"
+    ],
+    "nextQuestIds": [
+      "ss10l"
+    ]
+  },
+  {
+    "id": "ss10l",
+    "updatedAt": "10/30/2025",
+    "name": "Corrección de mercado",
+    "trader": "Tian Wen",
+    "description": "¿Aquel robo? Ya no parece una coincidencia. Parte de la competencia de Toledo está montando su tienda donde no debería. Quiero que sabotees su escondite, preferiblemente antes de que se acomoden demasiado.",
+    "objectives": [
+      "Localiza el escondite cerca de la estación Marano"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "silencer_ii",
+        "quantity": 1
+      },
+      {
+        "itemId": "extended_light_mag_i",
+        "quantity": 1
+      },
+      {
+        "itemId": "compensator_i",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10i"
+    ],
+    "nextQuestIds": [
+      "ss10m"
+    ]
+  },
+  {
+    "id": "ss10m",
+    "updatedAt": "10/30/2025",
+    "name": "La vista en el premio",
+    "trader": "Tian Wen",
+    "description": "Todo ha estado tranquilo en mis puntos de entrega desde que ayudaste, pero eso no significa que dure mucho. Instalé vigilancia en uno de mis lugares más usados en Ciudad Enterrada para evitar futuras manipulaciones. El único problema es que necesita energía para ponerse en marcha.",
+    "objectives": [
+      "Encuentra la terraza aislada al suroeste de la Estación Sur; busca lonas azules",
+      "Vuelve a cablear el panel solar usando 3 cables"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "wire",
+        "quantity": 3
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "extended_shotgun_mag_ii",
+        "quantity": 1
+      },
+      {
+        "itemId": "extended_medium_mag_ii",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10l"
+    ],
+    "nextQuestIds": [
+      "ss10n"
+    ]
+  },
+  {
+    "id": "ss10n",
+    "updatedAt": "10/30/2025",
+    "name": "Espionaje industrial",
+    "trader": "Tian Wen",
+    "description": "Con mis propios escondites asegurados, creo que es hora de vigilar más de cerca a la competencia para que esto no vuelva a pasar.",
+    "objectives": [
+      "Encuentra el escondite de armas de Tian Wen cerca de la gasolinera en las Afueras",
+      "Entrega la Burletta al escondite rival de armas",
+      "Coloca un micrófono en el escondite de armas"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "burletta_i",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "burletta_blueprint",
+        "quantity": 1
+      },
+      {
+        "itemId": "mechanical_components",
+        "quantity": 3
+      },
+      {
+        "itemId": "simple_gun_parts",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10m"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss10j",
+    "updatedAt": "11/2/2025",
+    "name": "Registro impecable",
+    "trader": "Celeste",
+    "description": "En la Primera Ola, mi escuadrón y yo montamos una trampa junto a la presa. Sobrecargamos un generador y lo convertimos en una trampa ARC improvisada. Ahora he oído que los Raiders la usan para cortar comunicaciones y tender emboscadas entre ellos. Necesito que la desactives.",
+    "objectives": [
+      "Llega a la Cresta de la Victoria",
+      "Encuentra la antigua trampa EMP",
+      "Desactiva el primer interruptor",
+      "Desactiva el segundo interruptor",
+      "Desactiva el tercer interruptor",
+      "Desactiva la trampa EMP"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "binoculars",
+        "quantity": 1
+      },
+      {
+        "itemId": "defibrillator",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "medium_gun_parts",
+        "quantity": 5
+      },
+      {
+        "itemId": "advanced_mechanical_components",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10h"
+    ],
+    "nextQuestIds": [
+      "ss10o"
+    ]
+  },
+  {
+    "id": "ss10o",
+    "updatedAt": "10/30/2025",
+    "name": "Mantener la memoria",
+    "trader": "Celeste",
+    "description": "Perdí un poco los estribos cuando te mandé tras esa trampa. No suelo perder la calma, pero la Primera Ola... Pasamos por mucho entonces. Perdimos a mucha gente. Aún es una herida abierta para mí, pero quiero que lo entiendas.",
+    "objectives": [
+      "Llega a los restos en las Colinas Formicai",
+      "Busca el casco perdido",
+      "Devuelve el casco al memorial"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "simple_gun_parts",
+        "quantity": 5
+      },
+      {
+        "itemId": "duct_tape",
+        "quantity": 5
+      },
+      {
+        "itemId": "magnet",
+        "quantity": 5
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10j"
+    ],
+    "nextQuestIds": [
+      "ss10p"
+    ]
+  },
+  {
+    "id": "ss10p",
+    "updatedAt": "10/30/2025",
+    "name": "Ecos de la Cresta de la Victoria",
+    "trader": "Celeste",
+    "description": "¿Sentiste temblores anoche? Yo tampoco. Pero al parecer el suelo se movió en algún momento y desenterró un viejo puesto avanzado de la Primera Ola que estaba bloqueado por escombros. Me gustaría que entres rápido antes de que lo haga alguien más.",
+    "objectives": [
+      "Llega a la Cresta de la Victoria"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "crude_explosives",
+        "quantity": 6
+      },
+      {
+        "itemId": "processor",
+        "quantity": 2
+      },
+      {
+        "itemId": "music_box",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10o"
+    ],
+    "nextQuestIds": [
+      "ss10q"
+    ]
+  },
+  {
+    "id": "ss10q",
+    "updatedAt": "10/30/2025",
+    "name": "Iniciativa inesperada",
+    "trader": "Tian Wen",
+    "description": "Estoy montando un invernadero para impulsar nuestra producción de comida. Solo le estoy haciendo un favor a Celeste, ¿vale? Nada más. Pero basta de hablar de eso. Ya tengo todos los detalles, pero necesito suministros y no pienso cargarlos solo.",
+    "objectives": [
+      "Llega a los Apartamentos Grandioso en Ciudad Enterrada",
+      "Busca fertilizante en la azotea de los Apartamentos Grandioso",
+      "Llega a Piazza Roma en Ciudad Enterrada",
+      "Busca una bomba de agua en los jardines de azotea destrozados de Piazza Roma",
+      "Entrega una bomba de agua a Tian Wen",
+      "Entrega fertilizante a Tian Wen"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "water_pump",
+        "quantity": 1
+      },
+      {
+        "itemId": "fertilizer",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "il_toro_i",
+        "quantity": 1
+      },
+      {
+        "itemId": "shotgun_ammo",
+        "quantity": 40
+      },
+      {
+        "itemId": "shotgun_choke_ii",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10p"
+    ],
+    "nextQuestIds": [
+      "ss10r"
+    ]
+  },
+  {
+    "id": "ss10r",
+    "updatedAt": "10/30/2025",
+    "name": "Un símbolo de unificación",
+    "trader": "Celeste",
+    "description": "Sabes, en su día llegamos a tener una bandera... bueno, más bien un trozo de tela. Aun así, verla significaba que tenías aliados cerca, que estabas en territorio amigo. Así que estaba pensando...",
+    "objectives": [
+      "Llega al puesto Formicai en el Campo de Batalla de la Presa"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "aviator",
+        "quantity": 1
+      },
+      {
+        "itemId": "mod_components",
+        "quantity": 3
+      },
+      {
+        "itemId": "duct_tape",
+        "quantity": 5
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=6Cb6aQWBt8U",
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10q"
+    ],
+    "nextQuestIds": [
+      "ss10t",
+      "ss10u",
+      "ss10v"
+    ]
+  },
+  {
+    "id": "ss10t",
+    "updatedAt": "10/30/2025",
+    "name": "Los diarios de Celeste",
+    "trader": "Celeste",
+    "description": "Vale, esto es incómodo... Perdí dos de mis diarios durante unas inspecciones de puestos la última vez que subí. ¿Podrías ir a buscarlos antes de que alguien más tropiece con ellos?",
+    "objectives": [
+      "Recupera los diarios de Celeste en el puesto del Pantano Sur",
+      "Recupera los diarios de Celeste en el puesto norte que domina los Lagos Rojos",
+      "Entrega 2 diarios a Celeste"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "celeste_journal",
+        "quantity": 2
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "magnetic_accelerator",
+        "quantity": 1
+      },
+      {
+        "itemId": "heavy_gun_parts",
+        "quantity": 3
+      },
+      {
+        "itemId": "exodus_modules",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10r"
+    ],
+    "nextQuestIds": [
+      "ss10w"
+    ]
+  },
+  {
+    "id": "ss10w",
+    "updatedAt": "10/30/2025",
+    "name": "De vuelta a la cima",
+    "trader": "Tian Wen",
+    "description": "¿A que no sabes qué? Shani me pidió ayuda con algo y, por una vez, me alegra hacerlo. ¡Vamos a instalar nuevos puestos avanzados en superficie! Bueno, al menos estamos planeándolo. ¿Te lo puedes creer?",
+    "objectives": [
+      "En el Campo de Batalla de la Presa, marca la Casa Patrón",
+      "En la Puerta Azul, marca la torre de vigilancia blanca al sur del complejo de almacenes",
+      "En el Puerto Espacial, marca la torre de la Trinchera Sur",
+      "En Ciudad Enterrada, marca el edificio con el mural en Propiedades Enterradas"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "renegade_i",
+        "quantity": 1
+      },
+      {
+        "itemId": "stable_stock_iii",
+        "quantity": 1
+      },
+      {
+        "itemId": "medium_ammo",
+        "quantity": 80
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10t"
+    ],
+    "nextQuestIds": [
+      "ss10z"
+    ]
+  },
+  {
+    "id": "ss10z",
+    "updatedAt": "10/31/2025",
+    "name": "Nuestra presencia allá arriba",
+    "trader": "Shani",
+    "videoUrl": "https://youtu.be/FNe2C3gde68",
+    "description": "Puede que el ARC esté cambiando, pero por fin estamos cambiando con él. Terminemos esos puestos avanzados y revolucionemos la manera de seguirlos, flanquearlos y hacerlos trizas.",
+    "objectives": [
+      "Visita la Casa Patrón en la Presa",
+      "Encuentra e interactúa con el interruptor",
+      "Completa la instalación de la antena en la azotea"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "buried_city_town_hall_key",
+        "quantity": 1
+      },
+      {
+        "itemId": "raider_hatch_key",
+        "quantity": 1
+      },
+      {
+        "itemId": "jolt_mine",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10w"
+    ],
+    "nextQuestIds": [
+      "ss11b"
+    ]
+  },
+  {
+    "id": "ss11b",
+    "updatedAt": "11/01/2025",
+    "name": "Perdido en la transmisión",
+    "trader": "Shani",
+    "description": "Tengo equipo instalado en el Puerto Espacial para vigilar los movimientos del ARC. La conexión se acaba de caer; necesito que vayas a las torres de control y me ayudes a recuperar los registros.",
+    "objectives": [
+      "Visita la Torre de Control A6",
+      "Llega a la cima de la Torre de Control A6",
+      "Establece una conexión desde el terminal"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "spaceport_control_tower_key",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "snap_hook",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10z"
+    ],
+    "nextQuestIds": [
+      "ss11b2"
+    ]
+  },
+  {
+    "id": "ss11b2",
+    "updatedAt": "11/01/2025",
+    "name": "Refugio de comunicaciones",
+    "map": "buried_city",
+    "trader": "Shani",
+    "description": "Hemos perdido señal en algunas zonas de Ciudad Enterrada; supongo que nuestro equipo está fallando. Eres bastante habilidoso con las reparaciones, ¿no? ¿Podrías echarle un vistazo?",
+    "objectives": [
+      "Llega a la Torre Roja en el Casco Antiguo",
+      "Encuentra la celda de batería perdida",
+      "Instala la celda de batería en el generador",
+      "Activa la corriente en el generador",
+      "Arranca el terminal de antena cerca de la Torre Roja"
+    ],
+    "tips": [
+      "La batería está en el suelo cerca de un edificio de acero"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "crimson_racer_aviator",
+        "quantity": 1
+      },
+      {
+        "itemId": "anvil_iii",
+        "quantity": 1
+      },
+      {
+        "itemId": "heavy_ammo",
+        "quantity": 40
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10y"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss10u",
+    "updatedAt": "10/30/2025",
+    "name": "El arcón de la Mayor",
+    "trader": "Tian Wen",
+    "description": "Tengo otro trabajo. Es... sobre mi madre. ¿Recuerdas los lugares de la Primera Ola a los que te envié? En realidad esperaba que encontraras algo suyo. Luchó en la resistencia Raider. Era un tiro largo, pero ahora tengo una pista real.",
+    "objectives": [
+      "Busca los recuerdos de la Mayor Aiva en los apartamentos al noroeste de la Presa",
+      "Entrega los recuerdos de la Mayor Aiva a Tian Wen"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "major_aiva_mementos",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "launcher_ammo_blueprint",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10r"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss10v",
+    "updatedAt": "10/30/2025",
+    "name": "Fuera de las sombras",
+    "trader": "Shani",
+    "description": "¿Viste las banderas? Se acabó el tiempo de acobardarse. Por lo que escuché, ya has sido más que probado en combate; ¿crees que puedes enfrentarte a un Cohetero?",
+    "objectives": [
+      "Destruye un Cohetero",
+      "Obtén un Rocketeer Driver"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "rocketeer_driver",
+        "quantity": 1
+      }
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "medium_shield",
+        "quantity": 1
+      },
+      {
+        "itemId": "combat_mk2",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "surge_shield_recharger",
+        "quantity": 3
+      },
+      {
+        "itemId": "wolfpack",
+        "quantity": 2
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10r"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss10c",
+    "updatedAt": "10/30/2025",
+    "name": "Órdenes del doctor",
+    "trader": "Celeste",
+    "description": "Oye, novato: si quieres que te atienda, será mejor que demuestres que esas extremidades valen la pena vendarlas.",
+    "objectives": [
+      "Obtén 2 antisépticos",
+      "Obtén 1 jeringa",
+      "Obtén 1 tela duradera",
+      "Obtén 1 gordolobo"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "antiseptic",
+        "quantity": 2
+      },
+      {
+        "itemId": "syringe",
+        "quantity": 1
+      },
+      {
+        "itemId": "durable_cloth",
+        "quantity": 1
+      },
+      {
+        "itemId": "great_mullein",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "adrenaline_shot",
+        "quantity": 3
+      },
+      {
+        "itemId": "sterilized_bandage",
+        "quantity": 3
+      },
+      {
+        "itemId": "surge_shield_recharger",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10a"
+    ],
+    "nextQuestIds": [
+      "ss10f"
+    ]
+  },
+  {
+    "id": "ss10f",
+    "updatedAt": "10/30/2025",
+    "name": "Mercancía médica",
+    "trader": "Lance",
+    "description": "Se me ha dado bastante bien tejer vendajes con Tela, pero para mi vergüenza aún no domino el tejido de una máquina de rayos X o un pulsioxímetro.",
+    "objectives": [
+      "En el Puerto Espacial, registra 2 contenedores en las salas de exámenes del edificio de salidas",
+      "Registra 3 contenedores en el hospital de Ciudad Enterrada",
+      "En el Campo de Batalla de la Presa, registra 2 contenedores en la sala médica del edificio de Investigación y Administración"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "banana",
+        "quantity": 1
+      },
+      {
+        "itemId": "defibrillator",
+        "quantity": 3
+      },
+      {
+        "itemId": "vita_shot",
+        "quantity": 2
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10c"
+    ],
+    "nextQuestIds": [
+      "ss10g"
+    ]
+  },
+  {
+    "id": "ss10g",
+    "updatedAt": "10/30/2025",
+    "name": "Revelación entre ruinas",
+    "trader": "Lance",
+    "description": "Conseguí un flamante analizador ESR y tenía planeada toda una gran presentación. Un minuto estaba aquí y, al siguiente, ¡puf! ¿Me echas una mano?",
+    "objectives": [
+      "Busca un analizador ESR en cualquier farmacia de Ciudad Enterrada",
+      "Entrega el analizador ESR a Lance"
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "esr_analyzer",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "tactical_mk3_healing",
+        "quantity": 1
+      },
+      {
+        "itemId": "surge_shield_recharger",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10f"
+    ],
+    "nextQuestIds": [
+      "ss10k"
+    ]
+  },
+  {
+    "id": "ss10k",
+    "updatedAt": "10/30/2025",
+    "name": "Reconocimiento del terreno",
+    "trader": "Shani",
+    "videoUrl": "https://youtu.be/pWXjplDChHc",
+    "description": "Esos retumbos lejanos suenan cada vez más cerca. Tengo una pista sobre unos escáneres LiDAR que podrían ayudarnos a vigilar los temblores. Quieres mantener un techo sobre tu cabeza, ¿verdad?",
+    "objectives": [
+      "Llega al almacén Jiangsu",
+      "Encuentra las notas de envío en la oficina del capataz",
+      "Localiza los escáneres en la planta superior de la Torre de Control A6",
+      "Entrega 1 escáner LiDAR a Shani"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "dam_testing_annex_key",
+        "quantity": 1
+      },
+      {
+        "itemId": "zipline",
+        "quantity": 3
+      },
+      {
+        "itemId": "smoke_grenade",
+        "quantity": 2
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10g"
+    ],
+    "nextQuestIds": [
+      "ss10s"
+    ]
+  },
+  {
+    "id": "ss10s",
+    "updatedAt": "10/30/2025",
+    "name": "Ojos en el cielo",
+    "trader": "Shani",
+    "description": "Necesitas una tirolina para subir a lo alto de la torre. Esos escáneres LiDAR que encontraste funcionan mejor en lugares elevados. He identificado unos cuantos puntos buenos alrededor del Cinturón Oxidado; espero que tengas buen equilibrio.",
+    "objectives": [
+      "En el Campo de Batalla de la Presa, instala un escáner LiDAR en lo alto de la torre de control",
+      "En el Puerto Espacial, instala un escáner LiDAR en la torre de comunicaciones",
+      "En Ciudad Enterrada, instala un escáner LiDAR sobre el letrero de la Galería"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "zipline",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "tagging_grenade",
+        "quantity": 3
+      },
+      {
+        "itemId": "vita_spray",
+        "quantity": 1
+      },
+      {
+        "itemId": "yellow_light_stick",
+        "quantity": 5
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10k"
+    ],
+    "nextQuestIds": [
+      "ss10x",
+      "ss10y"
+    ]
+  },
+  {
+    "id": "ss10y",
+    "updatedAt": "10/31/2025",
+    "name": "Tras la lluvia llega...",
+    "trader": "Celeste",
+    "description": "¡Lo sé, lo sé! El sector se quedó sin energía... Oh, oye. Una riada arrasó varios paneles solares en Ciudad Enterrada y los generadores no aguantarán mucho. Haznos un favor cuando estés arriba, ¿vale?",
+    "objectives": [
+      "Encuentra los paneles solares inundados cerca de los Apartamentos Grandioso",
+      "Repara los paneles solares usando 5 cables y 2 baterías"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "zipline",
+        "quantity": 1
+      },
+      {
+        "itemId": "blue_light_stick",
+        "quantity": 5
+      },
+      {
+        "itemId": "antiseptic",
+        "quantity": 3
+      },
+      {
+        "itemId": "durable_cloth",
+        "quantity": 5
+      }
+    ],
+    "rewardItemIds": [],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10s"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss10x",
+    "updatedAt": "10/31/2025",
+    "name": "Una cosecha equilibrada",
+    "trader": "Celeste",
+    "videoUrl": "https://youtu.be/VYI9tJsScmg",
+    "description": "Por fin producimos suficiente comida para cubrir lo básico, pero ahora necesitamos variedad. Tengo una pista sobre investigaciones agrícolas de antes de la Primera Ola. ¿Te apuntas?",
+    "objectives": [
+      "Ve al edificio de Investigación y Administración",
+      "Localiza el Laboratorio 1 en la planta superior sobre la recepción"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "advanced_mechanical_components",
+        "quantity": 3
+      },
+      {
+        "itemId": "medium_gun_parts",
+        "quantity": 3
+      },
+      {
+        "itemId": "steel_spring",
+        "quantity": 10
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10s"
+    ],
+    "nextQuestIds": [
+      "ss10x2"
+    ]
+  },
+  {
+    "id": "ss10x2",
+    "updatedAt": "11/01/2025",
+    "name": "Jardín desatendido",
+    "trader": "Celeste",
+    "description": "Según los archivos que encontraste en el laboratorio, los investigadores de cultivo fueron quienes levantaron los domos hidropónicos del pantano. Suena al lugar más evidente para buscar ahora, ¿no crees?",
+    "objectives": [
+      "Ve al complejo de domos hidropónicos",
+      "Accede al archivo de datos en uno de los domos"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "advanced_mechanical_components",
+        "quantity": 3
+      },
+      {
+        "itemId": "heavy_gun_parts",
+        "quantity": 3
+      },
+      {
+        "itemId": "canister",
+        "quantity": 5
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x"
+    ],
+    "nextQuestIds": [
+      "ss10x3"
+    ]
+  },
+  {
+    "id": "ss10x3",
+    "updatedAt": "11/01/2025",
+    "name": "La raíz del asunto",
+    "trader": "Celeste",
+    "description": "Estamos de suerte. Las notas que encontraste la última vez las escribió la investigadora principal. Cuando el proyecto fracasó, parece que se llevó algunas muestras de semillas y las guardó en un lugar seguro.",
+    "objectives": [
+      "Ve al edificio de Investigación",
+      "Busca la bóveda de semillas en la \"sala con grandes vistas\""
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "succulent",
+        "quantity": 1
+      },
+      {
+        "itemId": "coins",
+        "quantity": 1000
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x2"
+    ],
+    "nextQuestIds": [
+      "ss10x3a",
+      "ss10x4"
+    ]
+  },
+  {
+    "id": "ss10x3a",
+    "updatedAt": "11/01/2025",
+    "name": "Entrega",
+    "trader": "Tian Wan",
+    "description": "Shani me pidió que marcara tu puesto avanzado para que nuestra gente lo vea mejor. Seguramente pasarás por allí en algún momento... Me ayudarás a quitármela de encima, ¿verdad?",
+    "objectives": [
+      "Visita la Casa Patrón en la presa",
+      "Marca el puesto Patrón"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "jolt_mine",
+        "quantity": 2
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x3"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss10x4",
+    "updatedAt": "11/01/2025",
+    "name": "Problemas de agua",
+    "trader": "Celeste",
+    "description": "Si vienes a quejarte del agua, haz fila. Llevo todo el día escuchando quejas. Hay algo raro en ella y necesito ayuda para averiguarlo.",
+    "objectives": [
+      "Localiza el túnel de acceso a inundaciones bajo el balcón del Lago Rojo",
+      "Encuentra la toma de agua del distrito",
+      "Toma una muestra del agua"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "mechanical_components",
+        "quantity": 3
+      },
+      {
+        "itemId": "simple_gun_parts",
+        "quantity": 3
+      },
+      {
+        "itemId": "steel_spring",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x3",
+      "ss10x3"
+    ],
+    "nextQuestIds": [
+      "ss10x6"
+    ]
+  },
+  {
+    "id": "ss10x5",
+    "updatedAt": "11/01/2025",
+    "name": "Al fragor",
+    "trader": "Shani",
+    "description": "Allá arriba solía ser su mundo. Nadie cuestionaba su dominio. Y, aun así, aquí estamos: más puestos, más información, más potencia de fuego. Si no supiera más, diría que todavía nos queda mucha pelea por dar.",
+    "objectives": [
+      "Destruye un Leaper",
+      "Obtén una unidad de pulso de Leaper"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "radio_renegade",
+        "quantity": 1
+      },
+      {
+        "itemId": "burgerboy",
+        "quantity": 1
+      },
+      {
+        "itemId": "vulcano_iii",
+        "quantity": 1
+      },
+      {
+        "itemId": "shotgun_ammo",
+        "quantity": 40
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x4"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss10x6",
+    "updatedAt": "11/01/2025",
+    "name": "Origen de la contaminación",
+    "trader": "Celeste",
+    "description": "No digo que hayan manipulado nuestra agua, pero con tus muestras tampoco puedo descartarlo. ¿Volverías a la presa para ver qué ocurre?",
+    "objectives": [
+      "Llega al edificio de Tratamiento de Agua en la Presa",
+      "Busca la toma de evacuación de crecidas cerca del Pantano",
+      "Investiga cualquier objeto sospechoso"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "steel_spring",
+        "quantity": 5
+      },
+      {
+        "itemId": "duct_tape",
+        "quantity": 5
+      },
+      {
+        "itemId": "mod_components",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x4"
+    ],
+    "nextQuestIds": [
+      "ss10x7"
+    ]
+  },
+  {
+    "id": "ss10x7",
+    "updatedAt": "11/01/2025",
+    "name": "Cambiando el suministro",
+    "trader": "Celeste",
+    "description": "Hay un embalse bajo el Puerto Espacial; si logramos desviar esa agua hasta aquí ganaremos tiempo para lidiar con la contaminación.",
+    "objectives": [
+      "Encuentra los túneles bajo el Puerto Espacial",
+      "Encuentra y gira la válvula en los túneles bajo el Puerto Espacial"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "blue_radio_renegade",
+        "quantity": 1
+      },
+      {
+        "itemId": "spaceport_trench_tower_key",
+        "quantity": 1
+      },
+      {
+        "itemId": "synthesized_fuel",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x6"
+    ],
+    "nextQuestIds": [
+      "ss10x8"
+    ]
+  },
+  {
+    "id": "ss10x8",
+    "updatedAt": "11/01/2025",
+    "name": "Un lugar cálido para descansar",
+    "trader": "Apollo",
+    "description": "Un cliente vio a una familia refugiándose en un viejo campamento de Ciudad Enterrada. Pagaré a quien logre encontrarlos y escoltarlos de vuelta a un lugar seguro.",
+    "objectives": [
+      "Localiza el campamento de la autopista abandonada",
+      "Busca cualquier señal de supervivientes",
+      "Sigue los marcadores rojos",
+      "Inspecciona la tumba"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "goggles_radio_renegade",
+        "quantity": 1
+      },
+      {
+        "itemId": "noisemaker",
+        "quantity": 3
+      },
+      {
+        "itemId": "blue_light_stick",
+        "quantity": 5
+      },
+      {
+        "itemId": "rosary",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x7"
+    ],
+    "nextQuestIds": [
+      "ss10x9"
+    ]
+  },
+  {
+    "id": "ss10x9",
+    "updatedAt": "11/01/2025",
+    "name": "Recetas del pasado",
+    "trader": "Lance",
+    "description": "Hace tiempo que siento curiosidad por el área médica del Puerto Espacial. Algo me dice que allí hay justo lo que necesito para ser el campeón indiscutible de este lugar.",
+    "objectives": [
+      "Visita el edificio de salidas en el Puerto Espacial",
+      "Encuentra la sala de exámenes médicos dentro del edificio de salidas",
+      "Busca los registros"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "heavy_shield",
+        "quantity": 1
+      },
+      {
+        "itemId": "tactical_mk3_healing",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss11b2"
+    ],
+    "nextQuestIds": [
+      "ss10x10"
+    ]
+  },
+  {
+    "id": "ss10x10",
+    "updatedAt": "11/01/2025",
+    "name": "Corte eléctrico",
+    "trader": "Celeste",
+    "description": "Esto va más allá de la mala suerte. Algo, o alguien, ha dejado fuera de combate algunas de nuestras subestaciones eléctricas. El ingeniero que envié a arreglarlo no ha vuelto, así que necesito que todos los Raiders disponibles lo investiguen. Eso te incluye.",
+    "objectives": [
+      "Encuentra la Subestación Eléctrica al sur del Puerto Espacial, junto al control",
+      "Encuentra cualquier rastro del ingeniero desaparecido",
+      "Lleva el fusible/batería de vuelta a la Subestación Eléctrica",
+      "Activa el interruptor en la caja de fusibles"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "bag_radio_renegade",
+        "quantity": 1
+      },
+      {
+        "itemId": "wires",
+        "quantity": 5
+      },
+      {
+        "itemId": "explosive_compound",
+        "quantity": 5
+      },
+      {
+        "itemId": "oil",
+        "quantity": 5
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x9"
+    ],
+    "nextQuestIds": [
+      "ss10x11"
+    ]
+  },
+  {
+    "id": "ss10x11",
+    "updatedAt": "11/01/2025",
+    "name": "Amenaza titilante",
+    "trader": "Celeste",
+    "description": "Mi ingeniero habitual aún se recupera de sus heridas y lleva días aturdido. No podemos permitirnos tener la red a medias hasta que se cure; necesito a alguien que coja su llave inglesa mientras tanto.",
+    "objectives": [
+      "Encuentra la sala del generador",
+      "Repara el generador",
+      "Encuentra el conducto de ventilación",
+      "Activa la corriente mediante el interruptor bajo las escaleras"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "helmet_radio_renegade",
+        "quantity": 1
+      },
+      {
+        "itemId": "medium_gun_parts",
+        "quantity": 5
+      },
+      {
+        "itemId": "advanced_mechanical_components",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x10"
+    ],
+    "nextQuestIds": [
+      "ss10x12"
+    ]
+  },
+  {
+    "id": "ss10x12",
+    "updatedAt": "11/01/2025",
+    "name": "¡Abejas!",
+    "trader": "Celeste",
+    "description": "¡Abejas! ¡Aún quedan abejas! No soy experto, pero el equipo del invernadero las desea con desesperación.",
+    "objectives": [
+      "Llega al Olivar en la Puerta Azul",
+      "Busca colmenas alrededor del Olivar"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "yellow_light_stick",
+        "quantity": 5
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "advanced_electrical_components",
+        "quantity": 1
+      },
+      {
+        "itemId": "sensors",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x11"
+    ],
+    "nextQuestIds": [
+      "ss10x13"
+    ]
+  },
+  {
+    "id": "ss10x13",
+    "updatedAt": "11/01/2025",
+    "name": "Espresso",
+    "trader": "Apollo",
+    "description": "Una Raider entró antes a mi tienda para cambiar unas granadas por una máquina que encontró en Ciudad Enterrada. Dice que hace café, pero parece que le faltan unas piezas. ¿Te apuntas al encargo?",
+    "objectives": [
+      "Encuentra una máquina de espresso para recuperar piezas",
+      "Consigue las piezas de la máquina de espresso para Apollo"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "coffee_pot",
+        "quantity": 1
+      },
+      {
+        "itemId": "adrenaline_shot",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x12"
+    ],
+    "nextQuestIds": [
+      "ss10x14"
+    ]
+  },
+  {
+    "id": "ss10x14",
+    "updatedAt": "11/01/2025",
+    "name": "Vida de un farmacéutico",
+    "trader": "Lance",
+    "description": "Este lugar necesita un lavado de cara, pero no quiero que parezca uno de tus destartalados cubiles Raider. Mira a ver cómo vivían mis colegas médicos de antaño.",
+    "objectives": [
+      "Encuentra la Arbusto Farmacia junto a la autopista derrumbada",
+      "Documenta los pasatiempos del farmacéutico",
+      "Documenta a la familia del farmacéutico",
+      "Documenta los gustos del farmacéutico",
+      "Documenta las habilidades del farmacéutico"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "defibrillator",
+        "quantity": 1
+      },
+      {
+        "itemId": "surge_shield_recharger",
+        "quantity": 1
+      },
+      {
+        "itemId": "sterilized_bandage",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x13"
+    ],
+    "nextQuestIds": [
+      "ss10x15"
+    ]
+  },
+  {
+    "id": "ss10x15",
+    "updatedAt": "11/01/2025",
+    "name": "Tributo a Toledo",
+    "trader": "Celeste",
+    "description": "La llamada Gestión Oficial de Tubos de Toledo exige una de nuestras Varillas de poder para usar \"sus\" tubos Resorte. No te dejes engañar por el nombre; no tienen nada de oficiales, solo son matones con mucha fuerza. ¿Puedes ayudarme con esto?",
+    "objectives": [
+      "Consigue una Varilla de poder para Celeste"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "magnet",
+        "quantity": 5
+      },
+      {
+        "itemId": "advanced_mechanical_components",
+        "quantity": 2
+      },
+      {
+        "itemId": "synthesized_fuel",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x14"
+    ],
+    "nextQuestIds": [
+      "ss10x16"
+    ]
+  },
+  {
+    "id": "ss10x16",
+    "updatedAt": "11/01/2025",
+    "name": "Desenterrando trapos sucios",
+    "trader": "Celeste",
+    "description": "Tuvimos suerte. Uno de nuestros exploradores vio a un miembro de la Gestora de Tubos hacer una entrega secreta en las Casas Santa María de Ciudad Enterrada. Esta podría ser nuestra oportunidad de sacarles algo turbio por una vez. ¿Te apuntas?",
+    "objectives": [
+      "Localiza las Casas Santa María en el Casco Antiguo",
+      "Localiza el punto muerto dentro del patio"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "advanced_electrical_components",
+        "quantity": 2
+      },
+      {
+        "itemId": "speaker_component",
+        "quantity": 4
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x15"
+    ],
+    "nextQuestIds": [
+      "ss10x17",
+      "ss10x18"
+    ]
+  },
+  {
+    "id": "ss10x17",
+    "updatedAt": "11/01/2025",
+    "name": "Punto de inflexión",
+    "trader": "Celeste",
+    "description": "Tengo un plan. Si recuperamos las pruebas contra la OTTM antes de que ellos las consigan, quizá nos los quitemos de encima de una vez por todas.",
+    "objectives": [
+      "Ve a la Torre Trinchera Norte",
+      "Localiza y sube a Celeste los archivos de chantaje"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "spaceport_trench_tower_key",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "heavy_gun_parts",
+        "quantity": 2
+      },
+      {
+        "itemId": "medium_gun_parts",
+        "quantity": 2
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x16"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss10x18",
+    "updatedAt": "11/01/2025",
+    "name": "Construyendo una biblioteca",
+    "trader": "Apollo",
+    "description": "Nuestra biblioteca se ha quedado bastante rancia. ¿Podrías ir a Ciudad Enterrada y encontrar algo nuevo para leer? Asegúrate de traer algo para todos.",
+    "objectives": [
+      "Localiza la biblioteca en el centro de la ciudad",
+      "Encuentra 1 libro de romance",
+      "Encuentra 1 libro de detectives",
+      "Encuentra 1 libro de aventuras",
+      "Entrega 3 libros a Apollo"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "explosive_mine",
+        "quantity": 1
+      },
+      {
+        "itemId": "jolt_mine",
+        "quantity": 1
+      },
+      {
+        "itemId": "heavy_fuze_grenade",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x16"
+    ],
+    "nextQuestIds": [
+      "ss10x19"
+    ]
+  },
+  {
+    "id": "ss10x19",
+    "updatedAt": "11/01/2025",
+    "name": "Un nuevo tipo de planta",
+    "trader": "Lance",
+    "description": "Algunos exploradores han informado de unas plantas extrañas que se están extendiendo por la zona. Eso hace que tu viejo amigo Lance piense que quizá tengan usos interesantes.",
+    "objectives": [
+      "Busca la planta nueva cerca del cascarón de Barón en el viejo campo de batalla",
+      "Entrega la posible planta tóxica a Lance"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "vita_shot",
+        "quantity": 1
+      },
+      {
+        "itemId": "antiseptic",
+        "quantity": 5
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x18"
+    ],
+    "nextQuestIds": [
+      "ss10x20"
+    ]
+  },
+  {
+    "id": "ss10x20",
+    "updatedAt": "11/01/2025",
+    "name": "Transportes blindados",
+    "trader": "Shani",
+    "description": "Desde que ampliamos los túneles hasta la Puerta Azul, han empezado a aparecer piezas raras en el mercado negro.\n\nMientras tanto, yo sigo aquí vendiendo Rattlers maltrechos. Si no encuentro nuevas líneas de suministro, me quedaré atrás.",
+    "objectives": [
+      "Llega al control",
+      "Busca una tarjeta llave de patrulla blindada en las casetas de guardia",
+      "Llega al túnel de tráfico cerca del control de la Puerta Azul",
+      "Encuentra y abre la puerta trasera de un vehículo blindado"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "blue_yellow_aviator",
+        "quantity": 1
+      },
+      {
+        "itemId": "smoke_grenade",
+        "quantity": 3
+      },
+      {
+        "itemId": "defibrillator",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x19"
+    ],
+    "nextQuestIds": []
+  },
+  {
+    "id": "ss11",
+    "updatedAt": "10/30/2025",
+    "name": "Un primer punto de apoyo",
+    "trader": "Shani",
+    "description": "Acabamos de terminar de ampliar la red de Tubos hacia la Puerta Azul y aún seguimos trabajando en el resto. Mi equipo ha estado construyendo nueva infraestructura alrededor del valle para proteger a nuestros Raiders, pero la amenaza constante del ARC dificulta avanzar.",
+    "objectives": [
+      "Estabiliza la plataforma de observación cerca de la Cresta",
+      "Activa el terminal de comunicaciones cerca del Olivar",
+      "Gira las antenas parabólicas del techo de la iglesia, al norte del Búnker de Datos",
+      "Clava las placas del techo en la estructura Raider cerca del Claro del Trampero"
+    ],
+    "otherRequirements": [
+      "18 incursiones"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "noisemaker",
+        "quantity": 2
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "shrapnel_grenade",
+        "quantity": 3
+      },
+      {
+        "itemId": "snap_blast_grenade",
+        "quantity": 3
+      },
+      {
+        "itemId": "heavy_fuze_grenade",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [],
+    "nextQuestIds": [
+      "ss11a"
+    ]
+  },
+  {
+    "id": "ss11a",
+    "updatedAt": "10/30/2025",
+    "name": "Reducido a escombros",
+    "trader": "Shani",
+    "description": "Esa autopista derrumbada me preocupa; parece reciente. Gran parte de la superficie está en ruinas, pero la mayoría lo está desde hace siglos.",
+    "objectives": [
+      "Toma una foto de la autopista derrumbada",
+      "Ve a la Tierra Quebrada",
+      "Sigue la estela de destrucción por la Tierra Quebrada",
+      "Investiga las máquinas ARC desconocidas"
+    ],
+    "grantedItemIds": [
+      {
+        "itemId": "binoculars",
+        "quantity": 1
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "zipline",
+        "quantity": 1
+      },
+      {
+        "itemId": "barricade_kit",
+        "quantity": 3
+      },
+      {
+        "itemId": "door_blocker",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss11"
+    ],
+    "nextQuestIds": [
+      "ss11b"
+    ]
+  },
+  {
+    "id": "ss11b",
+    "updatedAt": "10/30/2025",
+    "name": "Con rastro",
+    "trader": "Shani",
+    "description": "Esa máquina derribada... No fuimos nosotros quienes lo hicimos. Sabemos que hay supervivientes sueltos ahí fuera, pero esto... Esto va mucho más allá de una sola persona.",
+    "objectives": [
+      "Llega al claro yermo",
+      "Encuentra signos de quién derribó las máquinas ARC",
+      "Inspecciona los restos adornados",
+      "Inspecciona el dispositivo de comunicaciones"
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "looting_mk2",
+        "quantity": 1
+      },
+      {
+        "itemId": "medium_shield",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss11a"
+    ],
+    "nextQuestIds": []
+  }
+]

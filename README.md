@@ -13,6 +13,12 @@ The repository includes structured JSON data for:
 
 Item images in this repository are AI-upscaled versions created from in-game screenshots to provide higher quality assets for community tools.
 
+## Localization
+
+- The default `items.json` remains en inglés.
+- Para español, carga los equivalentes `*-es.json` (`items-es.json`, `hideoutModules-es.json`, `projects-es.json`, `quests-es.json`, `skillNodes-es.json`).
+- Si modificas los archivos originales, recuerda actualizar también sus pares en español con tu flujo de trabajo preferido.
+
 ## Purpose
 
 This data repository serves as the backbone for community developers to create tools for ARC Raiders, offering accurate and up-to-date information about ARC Raiders game mechanics, items, and progression systems. The data is structured to be easily consumable by web applications and tools.

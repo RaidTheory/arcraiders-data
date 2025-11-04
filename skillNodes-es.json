@@ -1,0 +1,815 @@
+[
+  {
+    "id": "cond_1",
+    "name": "Acostumbrado al peso",
+    "description": "Llevar un escudo no te ralentiza tanto.",
+    "impactedSkill": "Velocidad de movimiento",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 5,
+    "iconName": "used_to_the_weight.png",
+    "isMajor": true,
+    "position": {
+      "x": 25,
+      "y": 75
+    },
+    "prerequisiteNodeIds": []
+  },
+  {
+    "id": "cond_2l",
+    "name": "Nacido del estruendo",
+    "description": "Tu audición se ve menos afectada por explosiones cercanas.",
+    "impactedSkill": "Mejora de audición",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 5,
+    "iconName": "blast_born.png",
+    "isMajor": false,
+    "position": {
+      "x": 20,
+      "y": 65
+    },
+    "prerequisiteNodeIds": [
+      "cond_1"
+    ]
+  },
+  {
+    "id": "cond_2r",
+    "name": "Presión suave",
+    "description": "Haces menos ruido al forzar.",
+    "impactedSkill": "Reducción de ruido",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 5,
+    "iconName": "gentle_pressure.png",
+    "isMajor": false,
+    "position": {
+      "x": 30,
+      "y": 65
+    },
+    "prerequisiteNodeIds": [
+      "cond_1"
+    ]
+  },
+  {
+    "id": "cond_3l",
+    "name": "Lucha o huye",
+    "description": "Cuando resultas herido en combate, recuperas una cantidad fija de resistencia. Tiene enfriamiento entre usos.",
+    "impactedSkill": "Regeneración de resistencia",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 5,
+    "iconName": "fight_or_flight.png",
+    "isMajor": false,
+    "position": {
+      "x": 20,
+      "y": 55
+    },
+    "prerequisiteNodeIds": [
+      "cond_2l"
+    ]
+  },
+  {
+    "id": "cond_3r",
+    "name": "Palanca experta",
+    "description": "Forzar puertas y contenedores lleva menos tiempo",
+    "impactedSkill": "Reducción del tiempo de irrupción",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 5,
+    "iconName": "proficient_pryer.png",
+    "isMajor": false,
+    "position": {
+      "x": 30,
+      "y": 55
+    },
+    "prerequisiteNodeIds": [
+      "cond_2r"
+    ]
+  },
+  {
+    "id": "cond_4l",
+    "name": "Resistencia del superviviente",
+    "description": "Cuando estás en estado crítico, tu resistencia se regenera más rápido.",
+    "impactedSkill": "Regeneración de resistencia",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 1,
+    "iconName": "survivors_stamina.png",
+    "isMajor": true,
+    "position": {
+      "x": 20,
+      "y": 45
+    },
+    "prerequisiteNodeIds": [
+      "cond_3l"
+    ]
+  },
+  {
+    "id": "cond_4r",
+    "name": "Rodada sin carga",
+    "description": "Si tu escudo se rompe, tu primera rodada de esquiva en unos segundos no consume resistencia.",
+    "impactedSkill": "Regeneración de resistencia",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 1,
+    "iconName": "unburdened_roll.png",
+    "isMajor": true,
+    "position": {
+      "x": 30,
+      "y": 45
+    },
+    "prerequisiteNodeIds": [
+      "cond_3r"
+    ]
+  },
+  {
+    "id": "cond_5c",
+    "name": "Un poco más",
+    "description": "Forzar un objeto genera recursos.",
+    "impactedSkill": "Generación de recursos",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 1,
+    "iconName": "a_little_extra.png",
+    "isMajor": false,
+    "position": {
+      "x": 25,
+      "y": 35
+    },
+    "prerequisiteNodeIds": [
+      "cond_4l",
+      "cond_4r"
+    ]
+  },
+  {
+    "id": "cond_5l",
+    "name": "Derribado pero decidido",
+    "description": "Cuando estás derribado, tarda más antes de que colapses.",
+    "impactedSkill": "Duración derribado",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 5,
+    "iconName": "downed_but_determined.png",
+    "isMajor": false,
+    "position": {
+      "x": 20,
+      "y": 35
+    },
+    "prerequisiteNodeIds": [
+      "cond_4l"
+    ]
+  },
+  {
+    "id": "cond_5r",
+    "name": "Golpe sin esfuerzo",
+    "description": "Las habilidades cuerpo a cuerpo cuestan menos resistencia. ",
+    "impactedSkill": "Reducción de coste de resistencia",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 5,
+    "iconName": "effortless_swing.png",
+    "isMajor": false,
+    "position": {
+      "x": 30,
+      "y": 35
+    },
+    "prerequisiteNodeIds": [
+      "cond_4r"
+    ]
+  },
+  {
+    "id": "cond_6c",
+    "name": "Brazos cargados",
+    "description": "Tu arma equipada tiene menos impacto en tu carga.",
+    "impactedSkill": "Reducción de carga",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 1,
+    "iconName": "loaded_arms.png",
+    "isMajor": false,
+    "position": {
+      "x": 25,
+      "y": 25
+    },
+    "prerequisiteNodeIds": [
+      "cond_5c"
+    ]
+  },
+  {
+    "id": "cond_6l",
+    "name": "Arrastre de tortuga",
+    "description": "Cuando estás derribado, recibes menos daño.",
+    "impactedSkill": "Reducción de daño estando derribado",
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 5,
+    "iconName": "turtle_crawl.png",
+    "isMajor": false,
+    "position": {
+      "x": 20,
+      "y": 25
+    },
+    "prerequisiteNodeIds": [
+      "cond_5l"
+    ]
+  },
+  {
+    "id": "cond_6r",
+    "name": "Golpe despeja-cielos",
+    "description": "Infliges más daño cuerpo a cuerpo a los drones.",
+    "impactedSkill": "Daño cuerpo a cuerpo",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 5,
+    "iconName": "sky_clearing_swing.png",
+    "isMajor": false,
+    "position": {
+      "x": 30,
+      "y": 25
+    },
+    "prerequisiteNodeIds": [
+      "cond_5r"
+    ]
+  },
+  {
+    "id": "cond_7l",
+    "name": "De pie otra vez",
+    "description": "Cuando estás en estado crítico, tu salud se regenera hasta cierto límite.",
+    "impactedSkill": "Regeneración de salud",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 1,
+    "iconName": "back_on_your_feet.png",
+    "isMajor": true,
+    "position": {
+      "x": 20,
+      "y": 15
+    },
+    "prerequisiteNodeIds": [
+      "cond_6l",
+      "cond_6c"
+    ]
+  },
+  {
+    "id": "cond_7r",
+    "name": "Matamoscas",
+    "description": "Un solo ataque cuerpo a cuerpo destruye una Garrapata, un Pop, una Avispa y una Torreta.",
+    "impactedSkill": "Daño cuerpo a cuerpo",
+    "knownValue": [],
+    "category": "CONDICIONAMIENTO",
+    "maxPoints": 1,
+    "iconName": "flyswatter.png",
+    "isMajor": true,
+    "position": {
+      "x": 30,
+      "y": 15
+    },
+    "prerequisiteNodeIds": [
+      "cond_6r",
+      "cond_6c"
+    ]
+  },
+  {
+    "id": "mob_1",
+    "name": "Trepa ágil",
+    "description": "Puedes trepar y saltar obstáculos más rápido.",
+    "impactedSkill": "Velocidad al trepar y saltar",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 5,
+    "iconName": "nimble_climber.png",
+    "isMajor": true,
+    "position": {
+      "x": 50,
+      "y": 75
+    },
+    "prerequisiteNodeIds": []
+  },
+  {
+    "id": "mob_2l",
+    "name": "Corredor de maratón",
+    "description": "Moverse cuesta menos resistencia.",
+    "impactedSkill": "Reducción de coste de resistencia",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 5,
+    "iconName": "marathon_runner.png",
+    "isMajor": false,
+    "position": {
+      "x": 45,
+      "y": 65
+    },
+    "prerequisiteNodeIds": [
+      "mob_1"
+    ]
+  },
+  {
+    "id": "mob_2r",
+    "name": "Deslízate y resbala",
+    "description": "Puedes deslizarte más lejos y más rápido.",
+    "impactedSkill": "Distancia de deslizamiento",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 5,
+    "iconName": "slip_and_slide.png",
+    "isMajor": false,
+    "position": {
+      "x": 55,
+      "y": 65
+    },
+    "prerequisiteNodeIds": [
+      "mob_1"
+    ]
+  },
+  {
+    "id": "mob_3l",
+    "name": "Pulmones juveniles",
+    "description": "Aumenta tu resistencia máxima.",
+    "impactedSkill": "Resistencia máxima",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 5,
+    "iconName": "youthful_lungs.png",
+    "isMajor": false,
+    "position": {
+      "x": 45,
+      "y": 55
+    },
+    "prerequisiteNodeIds": [
+      "mob_2l"
+    ]
+  },
+  {
+    "id": "mob_3r",
+    "name": "Tobillos firmes",
+    "description": "Recibes menos daño al caer desde una altura no letal.",
+    "impactedSkill": "Reducción de daño por caída",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 5,
+    "iconName": "sturdy_ankles.png",
+    "isMajor": false,
+    "position": {
+      "x": 55,
+      "y": 55
+    },
+    "prerequisiteNodeIds": [
+      "mob_2r"
+    ]
+  },
+  {
+    "id": "mob_4l",
+    "name": "Mantén el impulso",
+    "description": "Después de rodar de esquiva mientras corres, esprintar no consume resistencia durante un corto periodo. Tiene enfriamiento entre usos.",
+    "impactedSkill": "Reducción de coste de resistencia",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 1,
+    "iconName": "carry_the_momentum.png",
+    "isMajor": true,
+    "position": {
+      "x": 45,
+      "y": 45
+    },
+    "prerequisiteNodeIds": [
+      "mob_3l"
+    ]
+  },
+  {
+    "id": "mob_4r",
+    "name": "Paseo calmante",
+    "description": "Al caminar, tu resistencia se regenera como si estuvieras quieto.",
+    "impactedSkill": "Regeneración de resistencia",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 1,
+    "iconName": "calming_stroll.png",
+    "isMajor": true,
+    "position": {
+      "x": 55,
+      "y": 45
+    },
+    "prerequisiteNodeIds": [
+      "mob_3r"
+    ]
+  },
+  {
+    "id": "mob_5c",
+    "name": "Arrástrate antes de caminar",
+    "description": "Cuando estás derribado, te arrastras más rápido.",
+    "impactedSkill": "Velocidad de movimiento",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 5,
+    "iconName": "crawl_before_you_walk.png",
+    "isMajor": false,
+    "position": {
+      "x": 50,
+      "y": 35
+    },
+    "prerequisiteNodeIds": [
+      "mob_4l",
+      "mob_4r"
+    ]
+  },
+  {
+    "id": "mob_5l",
+    "name": "Rodada sin esfuerzo",
+    "description": "Rodar de esquiva cuesta menos resistencia.",
+    "impactedSkill": "Reducción de coste de resistencia",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 5,
+    "iconName": "effortless_roll.png",
+    "isMajor": false,
+    "position": {
+      "x": 45,
+      "y": 35
+    },
+    "prerequisiteNodeIds": [
+      "mob_4l"
+    ]
+  },
+  {
+    "id": "mob_5r",
+    "name": "Rebote en pared",
+    "description": "Puedes saltar más lejos desde una pared.",
+    "impactedSkill": "Distancia de salto en pared",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 5,
+    "iconName": "off_the_wall.png",
+    "isMajor": false,
+    "position": {
+      "x": 55,
+      "y": 35
+    },
+    "prerequisiteNodeIds": [
+      "mob_4r"
+    ]
+  },
+  {
+    "id": "mob_6c",
+    "name": "Trepador vigoroso",
+    "description": "Trepar ya no se ralentiza cuando estás exhausto.",
+    "impactedSkill": "Velocidad al trepar y saltar",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 1,
+    "iconName": "vigorous_vaulter.png",
+    "isMajor": false,
+    "position": {
+      "x": 50,
+      "y": 25
+    },
+    "prerequisiteNodeIds": [
+      "mob_5c"
+    ]
+  },
+  {
+    "id": "mob_6l",
+    "name": "Salto heroico",
+    "description": "Puedes rodar de esquiva en carrera más lejos.",
+    "impactedSkill": "Distancia de rodada",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 5,
+    "iconName": "heroic_leap.png",
+    "isMajor": false,
+    "position": {
+      "x": 45,
+      "y": 25
+    },
+    "prerequisiteNodeIds": [
+      "mob_5l"
+    ]
+  },
+  {
+    "id": "mob_6r",
+    "name": "Listo para rodar",
+    "description": "Al caer, aumenta la ventana de tiempo para realizar una rodada de recuperación.",
+    "impactedSkill": "Ventana para rodar de recuperación",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 5,
+    "iconName": "ready_to_roll.png",
+    "isMajor": false,
+    "position": {
+      "x": 55,
+      "y": 25
+    },
+    "prerequisiteNodeIds": [
+      "mob_5r"
+    ]
+  },
+  {
+    "id": "mob_7l",
+    "name": "Trepa tras trepa",
+    "description": "Trepar ya no cuesta resistencia.",
+    "impactedSkill": "Reducción de coste de resistencia",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 1,
+    "iconName": "vaults_on_vaults_on_vaults.png",
+    "isMajor": true,
+    "position": {
+      "x": 45,
+      "y": 15
+    },
+    "prerequisiteNodeIds": [
+      "mob_6l",
+      "mob_6c"
+    ]
+  },
+  {
+    "id": "mob_7r",
+    "name": "Impulso de trepada",
+    "description": "Te permite saltar al final de una trepada.",
+    "impactedSkill": "Salto de trepada",
+    "knownValue": [],
+    "category": "MOVILIDAD",
+    "maxPoints": 1,
+    "iconName": "vault_spring.png",
+    "isMajor": true,
+    "position": {
+      "x": 55,
+      "y": 15
+    },
+    "prerequisiteNodeIds": [
+      "mob_6r",
+      "mob_6c"
+    ]
+  },
+  {
+    "id": "surv_1",
+    "name": "Agachado ágil",
+    "description": "Tu velocidad de movimiento agachado aumenta.",
+    "impactedSkill": "Velocidad de movimiento",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 5,
+    "iconName": "agile_croucher.png",
+    "isMajor": true,
+    "position": {
+      "x": 75,
+      "y": 75
+    },
+    "prerequisiteNodeIds": []
+  },
+  {
+    "id": "surv_2l",
+    "name": "Instintos de saqueador",
+    "description": "Al registrar un contenedor, el botín se revela más rápido.",
+    "impactedSkill": "Velocidad de saqueo",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 5,
+    "iconName": "looters_instincts.png",
+    "isMajor": false,
+    "position": {
+      "x": 70,
+      "y": 65
+    },
+    "prerequisiteNodeIds": [
+      "surv_1"
+    ]
+  },
+  {
+    "id": "surv_2r",
+    "name": "Sentadilla revitalizante",
+    "description": "Aumenta la regeneración de resistencia al estar agachado.",
+    "impactedSkill": "Regeneración de resistencia",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 5,
+    "iconName": "revitalizing_squat.png",
+    "isMajor": false,
+    "position": {
+      "x": 80,
+      "y": 65
+    },
+    "prerequisiteNodeIds": [
+      "surv_1"
+    ]
+  },
+  {
+    "id": "surv_3l",
+    "name": "Recolector silencioso",
+    "description": "Haces menos ruido al saquear",
+    "impactedSkill": "Reducción de ruido",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 5,
+    "iconName": "silent_scavenger.png",
+    "isMajor": false,
+    "position": {
+      "x": 70,
+      "y": 55
+    },
+    "prerequisiteNodeIds": [
+      "surv_2l"
+    ]
+  },
+  {
+    "id": "surv_3r",
+    "name": "Fabricación durante la incursión",
+    "description": "Desbloquea la capacidad de fabricar objetos en el campo mientras estás en superficie.",
+    "impactedSkill": "Fabricación en el campo",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 1,
+    "iconName": "in_round_crafting.png",
+    "isMajor": false,
+    "position": {
+      "x": 80,
+      "y": 55
+    },
+    "prerequisiteNodeIds": [
+      "surv_2r"
+    ]
+  },
+  {
+    "id": "surv_4l",
+    "name": "Sufre en silencio",
+    "description": "Cuando estás en estado crítico, tus movimientos hacen menos ruido.",
+    "impactedSkill": "Reducción de ruido",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 1,
+    "iconName": "suffer_in_silence.png",
+    "isMajor": true,
+    "position": {
+      "x": 70,
+      "y": 45
+    },
+    "prerequisiteNodeIds": [
+      "surv_3l"
+    ]
+  },
+  {
+    "id": "surv_4r",
+    "name": "Como nuevo",
+    "description": "Bajo un efecto de curación, la regeneración de resistencia aumenta.",
+    "impactedSkill": "Regeneración de resistencia",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 1,
+    "iconName": "good_as_new.png",
+    "isMajor": true,
+    "position": {
+      "x": 80,
+      "y": 45
+    },
+    "prerequisiteNodeIds": [
+      "surv_3r"
+    ]
+  },
+  {
+    "id": "surv_5c",
+    "name": "Manitas itinerante",
+    "description": "Desbloquea objetos adicionales para fabricar en el campo.",
+    "impactedSkill": "Fabricación en el campo",
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 1,
+    "iconName": "traveling_tinkerer.png",
+    "isMajor": false,
+    "position": {
+      "x": 75,
+      "y": 35
+    },
+    "prerequisiteNodeIds": [
+      "surv_4l",
+      "surv_4r"
+    ]
+  },
+  {
+    "id": "surv_5l",
+    "name": "Hombros anchos",
+    "description": "Aumenta la cantidad máxima de objetos que puedes cargar.",
+    "impactedSkill": "Inventario máximo",
+    "knownValue": [
+      "+2 kg per point"
+    ],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 5,
+    "iconName": "broad_shoulders.png",
+    "isMajor": false,
+    "position": {
+      "x": 70,
+      "y": 35
+    },
+    "prerequisiteNodeIds": [
+      "surv_4l"
+    ]
+  },
+  {
+    "id": "surv_5r",
+    "name": "Mula terca",
+    "description": "Tu regeneración de resistencia se ve menos afectada por ir sobrecargado.",
+    "impactedSkill": "Regeneración de resistencia",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 5,
+    "iconName": "stubborn_mule.png",
+    "isMajor": false,
+    "position": {
+      "x": 80,
+      "y": 35
+    },
+    "prerequisiteNodeIds": [
+      "surv_4r"
+    ]
+  },
+  {
+    "id": "surv_6c",
+    "name": "Restos útiles",
+    "description": "Al saquear contenedores Raider, tienes una pequeña probabilidad de encontrar objetos adicionales fabricados en el campo.",
+    "impactedSkill": "Probabilidad de botín",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 5,
+    "iconName": "one_raiders_scraps.png",
+    "isMajor": false,
+    "position": {
+      "x": 75,
+      "y": 25
+    },
+    "prerequisiteNodeIds": [
+      "surv_5c"
+    ]
+  },
+  {
+    "id": "surv_6l",
+    "name": "Suerte de saqueador",
+    "description": "Al saquear, existe la posibilidad de revelar el doble de objetos a la vez.",
+    "impactedSkill": "Velocidad de búsqueda",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 5,
+    "iconName": "looters_luck.png",
+    "isMajor": false,
+    "position": {
+      "x": 70,
+      "y": 25
+    },
+    "prerequisiteNodeIds": [
+      "surv_5l"
+    ]
+  },
+  {
+    "id": "surv_6r",
+    "name": "Tres respiraciones profundas",
+    "description": "Tras usar una habilidad que agota tu resistencia, la recuperas más rápido.",
+    "impactedSkill": "Regeneración de resistencia",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 5,
+    "iconName": "three_deep_breaths.png",
+    "isMajor": false,
+    "position": {
+      "x": 80,
+      "y": 25
+    },
+    "prerequisiteNodeIds": [
+      "surv_5r"
+    ]
+  },
+  {
+    "id": "surv_7l",
+    "name": "Violación de seguridad",
+    "description": "Te permite forzar taquillas de seguridad.",
+    "impactedSkill": "Violación de seguridad",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 1,
+    "iconName": "security_breach.png",
+    "isMajor": true,
+    "position": {
+      "x": 70,
+      "y": 15
+    },
+    "prerequisiteNodeIds": [
+      "surv_6l",
+      "surv_6c"
+    ]
+  },
+  {
+    "id": "surv_7r",
+    "name": "Desminador",
+    "description": "Se pueden desactivar minas y desplegables explosivos al estar cerca.",
+    "impactedSkill": "Desarme explosivo",
+    "knownValue": [],
+    "category": "SUPERVIVENCIA",
+    "maxPoints": 1,
+    "iconName": "minesweeper.png",
+    "isMajor": true,
+    "position": {
+      "x": 80,
+      "y": 15
+    },
+    "prerequisiteNodeIds": [
+      "surv_6r",
+      "surv_6c"
+    ]
+  }
+]

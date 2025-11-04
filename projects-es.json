@@ -1,0 +1,129 @@
+[
+  {
+    "id": "expedition_project",
+    "name": "Proyecto Expedición",
+    "description": "Emprende una expedición peligrosa más allá del Cinturón Oxidado. Las expediciones son arriesgadas. Tu Raider llevará todas sus pertenencias hacia lo desconocido fuera del Cinturón Oxidado. A cambio, tu próximo Raider obtendrá una ventaja única que durará hasta que parta la siguiente Expedición.",
+    "phases": [
+      {
+        "phase": 1,
+        "name": "Cimientos",
+        "requirementItemIds": [
+          {
+            "itemId": "metal_parts",
+            "quantity": 150
+          },
+          {
+            "itemId": "rubber_parts",
+            "quantity": 200
+          },
+          {
+            "itemId": "arc_alloy",
+            "quantity": 80
+          },
+          {
+            "itemId": "steel_spring",
+            "quantity": 15
+          }
+        ]
+      },
+      {
+        "phase": 2,
+        "name": "Sistemas centrales",
+        "description": "Conectar cableado, ventilación y sistemas eléctricos esenciales",
+        "requirementItemIds": [
+          {
+            "itemId": "durable_cloth",
+            "quantity": 35
+          },
+          {
+            "itemId": "wires",
+            "quantity": 30
+          },
+          {
+            "itemId": "electrical_components",
+            "quantity": 30
+          },
+          {
+            "itemId": "cooling_fan",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "phase": 3,
+        "name": "Estructura",
+        "description": "Levantar muros y techo, instalar sistemas principales y definir la distribución interior",
+        "requirementItemIds": [
+          {
+            "itemId": "light_bulb",
+            "quantity": 5
+          },
+          {
+            "itemId": "battery",
+            "quantity": 30
+          },
+          {
+            "itemId": "sensors",
+            "quantity": 20
+          },
+          {
+            "itemId": "exodus_modules",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "phase": 4,
+        "name": "Equipamiento",
+        "description": "Añadir almacenamiento, bancos de trabajo, utilidades y toques personales",
+        "requirementItemIds": [
+          {
+            "itemId": "humidifier",
+            "quantity": 5
+          },
+          {
+            "itemId": "advanced_electrical_components",
+            "quantity": 5
+          },
+          {
+            "itemId": "magnetic_accelerator",
+            "quantity": 3
+          },
+          {
+            "itemId": "leaper_pulse_unit",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "phase": 5,
+        "name": "Fase de carga",
+        "description": "Cargar la caravana con suministros vitales. Se necesitan armas, equipo de supervivencia, provisiones y materiales de reparación para preparar por completo la expedición. Debes aportar el valor en monedas de los objetos para cada categoría.",
+        "requirementItemIds": [],
+        "requirementCategories": [
+          {
+            "category": "Combat Items",
+            "valueRequired": 250000
+          },
+          {
+            "category": "Survival Items",
+            "valueRequired": 100000
+          },
+          {
+            "category": "Provisions",
+            "valueRequired": 180000
+          },
+          {
+            "category": "Materials",
+            "valueRequired": 300000
+          }
+        ]
+      },
+      {
+        "phase": 6,
+        "name": "Desconocido",
+        "requirementItemIds": []
+      }
+    ]
+  }
+]
