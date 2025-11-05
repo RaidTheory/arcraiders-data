@@ -1983,7 +1983,7 @@
     "stackSize": 3,
     "foundIn": "Commercial",
     "imageFilename": "https://cdn.arctracker.io/items/ice_cream_scooper.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "impure_arc_coolant",
@@ -2009,6 +2009,9 @@
     "value": 1000,
     "recyclesInto": {
       "metal_parts": 5,
+      "voltage_converter": 1
+    },
+    "salvagesInto": {
       "voltage_converter": 1
     },
     "description": "Can be recycled into crafting materials.",
@@ -2305,12 +2308,17 @@
     "name": "Thermostat",
     "rarity": "Rare",
     "type": "Recyclable",
-    "value": 640,
+    "value": 1000,
     "recyclesInto": {
       "rubber_parts": 6,
       "sensors": 2
     },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/05/2025",
+    "description": "Can be recycled into crafting materials.",
+    "weightKg": 2.0,
+    "stackSize": 3,
+    "foundIn": "Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/thermostat.png"
   },
   {
     "id": "rocketeer_driver",
@@ -3857,7 +3865,7 @@
   {
     "id": "expired_pasta",
     "name": "Expired Pasta",
-    "description": "Way pasta its prime.",
+    "description": "Way pasta its prime. Can (reluctantly) be consumed to restore small amounts of health.",
     "type": "Trinket",
     "value": 1000,
     "weightKg": 0.1,
@@ -4279,7 +4287,7 @@
     "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
     "updatedAt": "11/03/2025"
   },
-  {
+    {
     "id": "wolfpack_blueprint",
     "name": "Wolfpack Blueprint",
     "description": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
@@ -4509,7 +4517,7 @@
       "Damage": "10/s"
     },
     "imageFilename": "https://cdn.arctracker.io/items/flame_spray.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "blaze_grenade_trap",
@@ -4940,7 +4948,12 @@
       "Magazine Size": "+8"
     },
     "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "10/30/2025",
+    "recipe": {
+      "mechanical_components": 2,
+      "steel_spring": 3
+    },
+    "craftBench": "weapon_bench"
   },
   {
     "id": "extended_shotgun_mag_ii",
@@ -5467,7 +5480,8 @@
     "weightKg": 3.0,
     "stackSize": 3,
     "foundIn": "Exodus",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/04/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/turbo_pump.png"
   },
   {
     "id": "moss",
@@ -6059,6 +6073,17 @@
     "rarity": "Rare",
     "weightKg": 0.25,
     "imageFilename": "https://cdn.arctracker.io/items/spaceport_control_tower_key.png",
+    "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "extended_medium_mag_ii_blueprint",
+    "name": "Extended Medium Mag II Blueprint",
+    "description": "Moderately extends the ammo capacity of compatible weapons that use medium ammo.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0.0,
+    "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_ii_blueprint.png",
+    "rarity": "Common",
     "updatedAt": "11/04/2025"
   }
 ]
