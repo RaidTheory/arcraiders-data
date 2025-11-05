@@ -1625,15 +1625,18 @@
   {
     "id": "advanced_arc_powercell",
     "name": "Advanced ARC Powercell",
-    "description": "Very valuable resource that drops from certain ARC enemies.",
+    "description": "Very valuable resource that drops from certain ARC enemies. Used to craft: Energy Clip, Surge Shield Recharger",
     "type": "Topside Material",
     "rarity": "Rare",
+    "recyclesInto": {
+      "arc_powercell": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/advanced_arc_powercell.png",
     "value": 640,
     "weightKg": 0.5,
     "stackSize": 5,
     "foundIn": "ARC",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "arc_coolant",
@@ -3133,11 +3136,20 @@
     "craftBench": "weapon_bench"
   },
   {
-    "id": "silencer_i_recipe",
-    "name": "Silencer I Recipe",
-    "description": "A recipe to craft the Silencer I.",
-    "type": "Recipe",
-    "updatedAt": "10/30/2025"
+    "id": "silencer_i_blueprint",
+    "name": "Silencer I Blueprint",
+    "description": "Slightly reduces the amount of noise produced when firing.",
+    "type": "Blueprint",
+    "station": "Gunsmith II",
+    "crafting": {
+      "mechanical_components": 2,
+      "wires": 4
+    },
+    "value": 5000,
+    "weightKg": 0.0,
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png",
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "vita_shot",
@@ -4205,6 +4217,13 @@
       "Reduced Vertical Recoil": "20%",
       "Reduced Horizontal Recoil": "20%"
     },
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Kettle",
+      "Burletta",
+      "Stitcher"
+    ],
     "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
     "updatedAt": "11/03/2025"
   },
@@ -4216,8 +4235,13 @@
     "value": 5000,
     "weightKg": 0.0,
     "rarity": "Common",
+    "station": "Explosives Station II",
+    "crafting": {
+      "crude_explosives": 15,
+      "processor": 5
+    },
     "imageFilename": "https://cdn.arctracker.io/items/trigger_nade_blueprint.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "lure_grenade_blueprint",
@@ -4358,32 +4382,53 @@
   {
     "id": "vertical_grip_ii",
     "name": "Vertical Grip II",
-    "description": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "description": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Rattler, Kettle, Il Toro, Stitcher",
     "type": "Modification",
     "rarity": "Uncommon",
     "value": 2000,
     "weightKg": 0.5,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "duct_tape": 1
+    },
     "effects": {
       "Reduced Vertical Recoil": "30%"
     },
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Kettle",
+      "Il Toro",
+      "Stitcher"
+    ],
     "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "stable_stock_ii",
     "name": "Stable Stock II",
-    "description": "Moderately improves dispersion & recoil recovery time.",
+    "description": "Moderately improves dispersion & recoil recovery time. Compatible with: Arpeggio, Rattler, Kettle, Il Toro, Stitcher",
     "type": "Modification",
     "rarity": "Uncommon",
     "value": 2000,
     "weightKg": 0.5,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "duct_tape": 1
+    },
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Kettle",
+      "Il Toro",
+      "Stitcher"
+    ],
     "effects": {
-      "Compatible with": "Arpeggio, Ferro, Renegade, Il Toro, Stitcher",
       "Reduced Recoil Recovery Time": "35%",
       "Reduced Dispersion Recovery Time": "35%"
     },
     "imageFilename": "https://cdn.arctracker.io/items/stable_stock_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "looting_mk_2",
@@ -4494,6 +4539,10 @@
     "description": "A healing-focused augment which adds extra slots for healing items. When revived from being downed, releases a healing cloud that restores 20 health over 10 seconds. Has a 30-second cooldown.",
     "type": "Augment",
     "rarity": "Epic",
+    "recyclesInto": {
+      "advanced_electrical_components": 1,
+      "processor": 1
+    },
     "effects": {
       "Durability": "100/100",
       "Max Loadout Weight": 55.0,
@@ -4502,7 +4551,7 @@
     "weightKg": 4.0,
     "value": 5000,
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk_3_healing.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "jolt_mine_blueprint",
@@ -4535,25 +4584,44 @@
     "rarity": "Uncommon",
     "value": 2000,
     "weightKg": 0.5,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "wires": 1
+    },
     "effects": {
       "Reduced Base Dispersion": "20%"
     },
+    "compatibleWith": [
+      "Il Toro",
+      "Vulcano"
+    ],
     "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "angled_grip_ii",
     "name": "Angled Grip II",
-    "description": "Moderately reduces horizontal recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "description": "Moderately reduces horizontal recoil. Compatible with: Arpeggio, Rattler, Kettle, Il Toro, Stitcher",
     "type": "Modification",
     "value": 2000,
     "rarity": "Uncommon",
     "weightKg": 0.5,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "duct_tape": 1
+    },
     "effects": {
       "Reduced Horizontal Recoil": "30%"
     },
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Kettle",
+      "Il Toro",
+      "Stitcher"
+    ],
     "imageFilename": "https://cdn.arctracker.io/items/angled_grip_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "kinetic_converter",
@@ -4820,6 +4888,17 @@
       "Reduced Per-Shot Dispersion": "40%",
       "Reduced Max Shot Dispersion": "20%"
     },
+      "recyclesInto": {
+      "mechanical_components": 1,
+      "wires": 1
+    },
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Kettle",
+      "Burletta",
+      "Stitcher"
+    ],
     "imageFilename": "https://cdn.arctracker.io/items/compensator_ii.png",
     "updatedAt": "11/03/2025",
     "recipe": {
