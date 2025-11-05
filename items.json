@@ -1047,7 +1047,7 @@
       "exodus_modules": 1
     },
     "craftBench": "utility_bench",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "esr_analyzer",
@@ -1641,7 +1641,7 @@
     "weightKg": 0.5,
     "stackSize": 5,
     "foundIn": "ARC",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "arc_coolant",
@@ -2383,7 +2383,7 @@
       "Use Time": "1s"
     },
     "imageFilename": "https://cdn.arctracker.io/items/agave.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "assorted_seeds",
@@ -3170,7 +3170,7 @@
     "weightKg": 0.0,
     "rarity": "Common",
     "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "vita_shot",
@@ -3862,7 +3862,7 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/exodus_modules.png",
     "value": 2750,
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "durable_cloth",
@@ -4265,11 +4265,11 @@
     "rarity": "Common",
     "station": "Explosives Station II",
     "crafting": {
-      "crude_explosives": 15,
-      "processor": 5
+      "crude_explosives": 2,
+      "processor": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/trigger_nade_blueprint.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "lure_grenade_blueprint",
@@ -4430,7 +4430,7 @@
       "Stitcher"
     ],
     "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "stable_stock_ii",
@@ -4456,7 +4456,7 @@
       "Reduced Dispersion Recovery Time": "35%"
     },
     "imageFilename": "https://cdn.arctracker.io/items/stable_stock_ii.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "looting_mk_2",
@@ -4579,7 +4579,7 @@
     "weightKg": 4.0,
     "value": 5000,
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk_3_healing.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "jolt_mine_blueprint",
@@ -4624,7 +4624,7 @@
       "Vulcano"
     ],
     "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_ii.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "angled_grip_ii",
@@ -4649,7 +4649,7 @@
       "Stitcher"
     ],
     "imageFilename": "https://cdn.arctracker.io/items/angled_grip_ii.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "kinetic_converter",
@@ -5972,9 +5972,15 @@
     },
     "type": "Blueprint",
     "value": 5000,
-    "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
+    "weightKg": 0.0,
     "rarity": "Common",
-    "updatedAt": "11/04/2025"
+    "station": "Gunsmith II",
+    "crafting": {
+      "mechanical_components": 2,
+      "wires": 4
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii_blueprint.png",
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "damaged_arc_powercell",
