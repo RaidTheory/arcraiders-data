@@ -3161,7 +3161,8 @@
     "name": "Silencer I Blueprint",
     "description": "Slightly reduces the amount of noise produced when firing.",
     "type": "Blueprint",
-    "station": "Gunsmith II",
+    "station": "weapon_bench",
+    "benchLevel": 2,
     "crafting": {
       "mechanical_components": 2,
       "wires": 4
@@ -4279,7 +4280,8 @@
     "value": 5000,
     "weightKg": 0.0,
     "rarity": "Common",
-    "station": "Utility Station II",
+    "station": "utility_bench",
+    "benchLevel": 2,
     "crafting": {
       "speaker_component": 5,
       "electrical_components": 9
@@ -5974,7 +5976,8 @@
     "value": 5000,
     "weightKg": 0.0,
     "rarity": "Common",
-    "station": "Gunsmith II",
+    "station": "weapon_bench",
+    "benchLevel": 2,
     "crafting": {
       "mechanical_components": 2,
       "wires": 4
@@ -6041,7 +6044,8 @@
     "salvagesInto": {
       "mod_components": 1
     },
-    "craftBench": "Gunsmith 3",
+    "craftBench": "weapon_bench",
+    "benchLevel": 3,
     "updatedAt": "11/05/2025"
   },
   {
