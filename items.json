@@ -1313,7 +1313,7 @@
     "weightKg": 9.25,
     "stackSize": 1,
     "effects": {
-      "Durability": "67/110",
+      "Durability": "110/110",
       "Ammo Type": "Shotgun Ammo",
       "Magazine Size": 10,
       "Firing Mode": "Semi-Automatic",
@@ -3350,7 +3350,7 @@
     "rarity": "Rare",
     "weightKg": 7.0,
     "effects": {
-      "Durability": "56/100",
+      "Durability": "100/100",
       "Ammo Type": "Medium Ammo",
       "Magazine Size": 8,
       "Firing Mode": "Bolt-Action",
@@ -4609,7 +4609,7 @@
     "rarity": "Uncommon",
     "weightKg": 5.0,
     "effects": {
-      "Durability": "74/110",
+      "Durability": "110/110",
       "Ammo Type": "Heavy Ammo",
       "Magazine Size": 6,
       "Firing Mode": "Single-Action",
@@ -5011,7 +5011,7 @@
     "value": 4476,
     "rarity": "Rare",
     "effects": {
-      "Durability": "50/110",
+      "Durability": "110/110",
       "Ammo Type": "Medium Ammo",
       "Magazine Size": 70,
       "Firing Mode": "Fully-Automatic",
