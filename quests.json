@@ -408,7 +408,8 @@
     "trader": "Tian Wen",
     "description": "That theft before? Doesn't look like a coincidence anymore. Some of the competition from Toledo is setting up shop where they don't belong. I want their cache sabotaged, preferably before they get too comfortable.",
     "objectives": [
-      "Locate the cache near Marano Station"
+      "Locate the cache near Marano Station",
+      "Sabotage the cache"
     ],
     "rewardItemIds": [
       { "itemId": "silencer_ii", "quantity": 1 },
@@ -853,13 +854,18 @@
       "Find the flooded solar panels nearby the Grandioso Apartments",
       "Repair the solar panels using 5 Wires and 2 Batteries"
     ],
+    "requiredItemIds": [
+      { "itemId": "wire", "quantity": 5 },
+      { "itemId": "battery", "quantity": 2 }
+    ],
     "grantedItemIds": [
-      { "itemId": "zipline", "quantity": 1 },
+      { "itemId": "zipline", "quantity": 1 }
+    ],
+    "rewardItemIds": [
       { "itemId": "blue_light_stick", "quantity": 5 },
       { "itemId": "antiseptic", "quantity": 3 },
       { "itemId": "durable_cloth", "quantity": 5 }
     ],
-    "rewardItemIds": [],
     "xp": 0,
     "previousQuestIds": ["ss10s"],
     "nextQuestIds": []
