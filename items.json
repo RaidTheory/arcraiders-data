@@ -1042,7 +1042,12 @@
       "Durability": "100/100",
       "Range": "20m"
     },
-    "updatedAt": "10/30/2025"
+    "recipe": {
+      "power_rod": 1,
+      "exodus_modules": 1
+    },
+    "craftBench": "utility_bench",
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "esr_analyzer",
@@ -2208,6 +2213,9 @@
     "recyclesInto": {
       "metal_parts": 8
     },
+    "salvagesInto": {
+      "metal_parts": 4
+    },
     "updatedAt": "11/01/2025",
     "description": "Can be recycled into metal parts.",
     "weightKg": 0.8,
@@ -2364,12 +2372,18 @@
     "name": "Agave",
     "description": "A piece of an agave leaf. Can be used to regain a small amount of health.",
     "type": "Nature",
+    "rarity": "Uncommon",
     "value": 2000,
-    "weightKg": 0.4,
+    "weightKg": 0.2,
+    "stackSize": 10,
     "foundIn": "Nature",
-    "rarity": "Common",
+    "effects": {
+      "Healing": "1/s",
+      "Duration": "10s",
+      "Use Time": "1s"
+    },
     "imageFilename": "https://cdn.arctracker.io/items/agave.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "assorted_seeds",
@@ -2459,14 +2473,21 @@
   {
     "id": "polluted_air_filter",
     "name": "Polluted Air Filter",
-    "rarity": "Rare",
+    "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
-    "value": 640,
+    "rarity": "Rare",
+    "value": 1000,
     "recyclesInto": {
-      "fabric": 8,
-      "oil": 3
+      "fabric": 6,
+      "oil": 2
     },
-    "updatedAt": "10/30/2025"
+    "salvagesInto": {
+      "oil": 2
+    },
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Industrial",
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "coolant",
@@ -3832,9 +3853,16 @@
     "weightKg": 1.0,
     "stackSize": 3,
     "foundIn": "Exodus",
+    "recyclesInto": {
+      "wires": 2,
+      "processor": 2
+    },
+    "salvagesInto": {
+      "processor": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/exodus_modules.png",
     "value": 2750,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "durable_cloth",
@@ -5947,5 +5975,67 @@
     "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
     "rarity": "Common",
     "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "damaged_arc_powercell",
+    "name": "Damaged ARC Powercell",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Common",
+    "value": 293,
+    "recyclesInto": {
+      "arc_alloy": 1
+    },
+    "weightKg": 0.25,
+    "stackSize": 5,
+    "foundIn": "ARC",
+    "updatedAt": "11/05/2025"
+  },
+  {
+    "id": "metal_brackets",
+    "name": "Metal Brackets",
+    "description": "Can be recycled into metal parts.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "value": 640,
+    "recyclesInto": {
+      "metal_parts": 8
+    },
+    "salvagesInto": {
+      "metal_parts": 4
+    },
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Mechanical, Electrical",
+    "updatedAt": "11/05/2025"
+  },
+  {
+    "id": "silencer_iii",
+    "name": "Silencer III",
+    "description": "Significantly reduces the amount of noise produced when firing.",
+    "type": "Modification",
+    "rarity": "Epic",
+    "value": 7000,
+    "weightKg": 0.75,
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Ferro",
+      "Anvil",
+      "Torrente"
+    ],
+    "effects": {
+      "Reduced Noise": "60%",
+      "Increased Durability Burn Rate": "20%"
+    },
+    "recyclesInto": {
+      "mod_components": 1,
+      "wires": 3
+    },
+    "salvagesInto": {
+      "mod_components": 1
+    },
+    "craftBench": "Gunsmith 3",
+    "updatedAt": "11/05/2025"
   }
 ]
