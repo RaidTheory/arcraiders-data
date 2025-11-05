@@ -374,14 +374,16 @@
     "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
     "rarity": "Rare",
-    "value": 2000,
+    "value": 3000,
     "recyclesInto": {
       "metal_parts": 4,
       "mechanical_components": 2
     },
-    "imageFilename": "https://cdn.arctracker.io/items/rusted_gear.png",
     "foundIn": "Industrial",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025",
+    "weightKg": 3.0,
+    "stackSize": 3,
+    "imageFilename": "https://cdn.arctracker.io/items/rusted_gear.png"
   },
   {
     "id": "sentinel_part",
@@ -809,7 +811,7 @@
   {
     "id": "rubber_duck",
     "name": "Rubber Duck",
-    "description": "Always there to lend an ear, should you need it. Can be thrown to create noise.",
+    "description": "Always there to lend an ear when you need it. Can be thrown to create noise.",
     "type": "Trinket",
     "rarity": "Common",
     "value": 1000,
@@ -817,7 +819,7 @@
     "weightKg": 0.3,
     "stackSize": 15,
     "imageFilename": "https://cdn.arctracker.io/items/rubber_duck.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "arc_powercell",
@@ -938,13 +940,6 @@
     "updatedAt": "11/03/2025"
   },
   {
-    "id": "flute",
-    "name": "Flute",
-    "description": "A simple musical instrument, lightweight and portable.",
-    "type": "Misc",
-    "updatedAt": "10/30/2025"
-  },
-  {
     "id": "empty_wine_bottle",
     "name": "Empty Wine Bottle",
     "description": "Yes, it really is empty.",
@@ -955,7 +950,7 @@
     "foundIn": "Residential, Commercial",
     "imageFilename": "https://cdn.arctracker.io/items/empty_wine_bottle.png",
     "rarity": "Common",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "light_impact_grenade",
@@ -1088,7 +1083,7 @@
   {
     "id": "film_reel",
     "name": "Film Reel",
-    "description": "May be worth a few coins. Can be found in Old World, Residential",
+    "description": "May be worth a few coins.",
     "type": "Trinket",
     "value": 2000,
     "recyclesInto": {},
@@ -1721,6 +1716,9 @@
       "canister": 4,
       "metal_parts": 10
     },
+    "salvagesInto": {
+      "canister": 3
+    },
     "description": "Can be recycled into crafting materials.",
     "weightKg": 3.0,
     "foundIn": "Residential",
@@ -1735,15 +1733,18 @@
     "type": "Recyclable",
     "value": null,
     "recyclesInto": {
-      "battery": 3,
+      "battery": 2,
+      "metal_parts": 6
+    },
+    "salvagesInto": {
       "metal_parts": 7
     },
     "description": "Can be recycled into crafting materials.",
     "foundIn": "Security",
-    "weightKg": 0.67,
+    "weightKg": 2.0,
     "stackSize": 3,
     "imageFilename": "https://cdn.arctracker.io/items/broken_flashlight.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "broken_handheld_radio",
@@ -1866,12 +1867,20 @@
     "id": "crumpled_plastic_bottle",
     "name": "Crumpled Plastic Bottle",
     "rarity": "Uncommon",
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/crumpled_plastic_bottle.png",
+    "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
-    "value": 80,
+    "value": 270,
     "recyclesInto": {
-      "plastic_parts": 3
+      "plastic_parts": 4
     },
-    "updatedAt": "10/30/2025"
+    "salvagesInto": {
+      "plastic_parts": 1
+    },
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "garlic_press",
@@ -1888,7 +1897,7 @@
     "salvagesInto": {
       "metal_parts": 7
     },
-    "updatedAt": "11/1/2025",
+    "updatedAt": "11/04/2025",
     "foundIn": "Residential, Commercial"
   },
   {
@@ -1978,7 +1987,7 @@
   },
   {
     "id": "impure_arc_coolant",
-    "name": "Impure Arc Coolant",
+    "name": "Impure ARC Coolant",
     "rarity": "Uncommon",
     "type": "Recyclable",
     "value": null,
@@ -1986,7 +1995,7 @@
       "chemicals": 13
     },
     "description": "Can be recycled into crafting materials.",
-    "foundIn": "Arc",
+    "foundIn": "ARC",
     "weightKg": 0.33,
     "stackSize": 3,
     "imageFilename": "https://cdn.arctracker.io/items/impure_arc_coolant.png",
@@ -2073,11 +2082,19 @@
     "name": "Number Plate",
     "rarity": "Uncommon",
     "type": "Recyclable",
-    "value": 80,
+    "value": 270,
     "recyclesInto": {
       "metal_parts": 3
     },
-    "updatedAt": "10/30/2025"
+    "salvagesInto": {
+      "metal_parts": 1
+    },
+    "updatedAt": "11/04/2025",
+    "description": "Can be recycled into metal parts.",
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Mechanical",
+    "imageFilename": "https://cdn.arctracker.io/items/number_plate.png"
   },
   {
     "id": "power_bank",
@@ -2088,6 +2105,9 @@
     "recyclesInto": {
       "battery": 2,
       "wires": 2
+    },
+    "salvagesInto": {
+      "battery": 2
     },
     "description": "Can be recycled into crafting materials.",
     "weightKg": 2.0,
@@ -2101,17 +2121,17 @@
     "name": "Projector",
     "rarity": "Rare",
     "type": "Recyclable",
-    "value": 333.33,
+    "value": 1000,
     "recyclesInto": {
-      "rubber_parts": 6,
-      "processor": 2
+      "wires": 2,
+      "processor": 1
     },
     "description": "Can be recycled into crafting materials.",
-    "weightKg": 0.67,
+    "weightKg": 2,
     "stackSize": 3,
     "foundIn": "Residential",
     "imageFilename": "https://cdn.arctracker.io/items/projector.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "radio",
@@ -2123,8 +2143,11 @@
       "speaker_component": 1,
       "sensors": 1
     },
-    "updatedAt": "11/01/2025",
-    "description": "Can be recycled into crafting materials.",
+    "salvagesInto": {
+      "speaker_component": 1
+    },
+    "updatedAt": "11/04/2025",
+    "description": "Can be recycled into crafting components.",
     "weightKg": 2.0,
     "stackSize": 3,
     "foundIn": "Commercial, Residential",
@@ -2186,12 +2209,15 @@
     "recyclesInto": {
       "rubber_parts": 18
     },
+    "salvagesInto": {
+      "rubber_parts": 9
+    },
     "description": "Can be recycled into rubber parts.",
     "foundIn": "Electrical",
     "weightKg": 2.0,
     "stackSize": 3,
     "imageFilename": "https://cdn.arctracker.io/items/rubber_pad.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "rusted_bolts",
@@ -2214,9 +2240,12 @@
     "name": "Spring Cushion",
     "rarity": "Rare",
     "type": "Recyclable",
-    "value": 1000,
+    "value": 2000,
     "recyclesInto": {
       "durable_cloth": 2,
+      "steel_spring": 2
+    },
+    "salvagesInto": {
       "steel_spring": 2
     },
     "description": "Can be recycled into crafting materials.",
@@ -2224,7 +2253,7 @@
     "stackSize": 3,
     "foundIn": "Residential, Commercial",
     "imageFilename": "https://cdn.arctracker.io/items/spring_cushion.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "spotter_relay",
@@ -2391,9 +2420,19 @@
     "name": "Resin",
     "rarity": "Common",
     "type": "Nature",
-    "value": null,
+    "description": "Can be used to gradually restore a small amount of health over time.",
+    "value": 1000,
     "recyclesInto": {},
-    "updatedAt": "10/30/2025"
+    "weightKg": 0.4,
+    "stackSize": 10,
+    "effects": {
+      "Healing": "1/s",
+      "Use Time": "1s",
+      "Duration": "10s"
+    },
+    "foundIn": "Nature",
+    "updatedAt": "11/04/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/resin.png"
   },
   {
     "id": "roots",
@@ -2459,30 +2498,23 @@
     "updatedAt": "10/30/2025"
   },
   {
-    "id": "coolant",
-    "name": "Coolant",
-    "rarity": "Rare",
-    "type": "Recyclable",
-    "value": 1000,
-    "recyclesInto": {
-      "chemicals": 5,
-      "oil": 2
-    },
-    "updatedAt": "10/30/2025"
-  },
-  {
     "id": "frying_pan",
     "name": "Frying Pan",
     "rarity": "Rare",
     "type": "Recyclable",
-    "value": 213,
-    "recyclesInto": {},
+    "value": 640,
+    "recyclesInto": {
+      "metal_parts": 8
+    },
+    "salvagesInto": {
+      "metal_parts": 4
+    },
     "description": "Can be recycled into crafting materials.",
-    "weightKg": 0.67,
+    "weightKg": 2,
     "foundIn": "Residential",
     "imageFilename": "https://cdn.arctracker.io/items/frying_pan.png",
     "stackSize": 3,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "pop_trigger",
@@ -2506,8 +2538,11 @@
     "name": "Portable TV",
     "rarity": "Rare",
     "type": "Recyclable",
-    "value": 1000,
-    "recyclesInto": {},
+    "value": 2000,
+    "recyclesInto": {
+      "battery": 2,
+      "wires": 6
+    },
     "description": "Can be recycled into crafting materials.",
     "foundIn": "Residential",
     "weightKg": 3.0,
@@ -2534,7 +2569,7 @@
   {
     "id": "faded_photograph",
     "name": "Faded Photograph",
-    "description": "A snapshot of the world before, faded by sunlight and time. Can be found in Residential",
+    "description": "A snapshot of the world before, faded by sunlight and time.",
     "type": "Trinket",
     "rarity": "Common",
     "value": 640,
@@ -2570,7 +2605,7 @@
   {
     "id": "bloated_tuna_can",
     "name": "Bloated Tuna Can",
-    "description": "Something tells you that you don't want to open this...",
+    "description": "Something tells you that you don't want to open this... Can (reluctantly) be consumed to restore small amounts of stamina.",
     "type": "Trinket",
     "value": 1000,
     "effects": {
@@ -2587,7 +2622,7 @@
   {
     "id": "coffee_pot",
     "name": "Coffee Pot",
-    "description": "The power to face a new day, one drip at a time.",
+    "description": "The power to face a new day, one cup at a time.",
     "type": "Trinket",
     "value": 1000,
     "recyclesInto": {},
@@ -2596,7 +2631,7 @@
     "foundIn": "Residential",
     "rarity": "Common",
     "imageFilename": "https://cdn.arctracker.io/items/coffee_pot.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "very_comfortable_pillow",
@@ -2614,7 +2649,7 @@
   {
     "id": "pottery",
     "name": "Pottery",
-    "description": "May be worth a few coins. Can be found in Old World, Residential",
+    "description": "May be worth a few coins.",
     "type": "Trinket",
     "rarity": "Uncommon",
     "value": 2000,
@@ -2637,14 +2672,6 @@
     "weightKg": 0.3,
     "stackSize": 5,
     "updatedAt": "11/03/2025"
-  },
-  {
-    "id": "poster_natural_wonder",
-    "name": "Poster of Natural Wonder",
-    "description": "A poster depicting a breathtaking natural scene.",
-    "type": "Valuable",
-    "value": 2000,
-    "updatedAt": "10/30/2025"
   },
   {
     "id": "light_bulb",
@@ -2676,7 +2703,7 @@
   {
     "id": "silver_teaspoon_set",
     "name": "Silver Teaspoon Set",
-    "description": "A shining, shimmering set of refinement and elegance. Can be found in Residential, Old World, Commercial",
+    "description": "A shining, shimmering set of refinement and elegance.",
     "type": "Trinket",
     "value": 3000,
     "recyclesInto": {},
@@ -2694,7 +2721,7 @@
     "type": "Trinket",
     "value": 3000,
     "recyclesInto": {},
-    "updatedAt": "11/01/2025",
+    "updatedAt": "11/04/2025",
     "rarity": "Rare",
     "foundIn": "Residential, Commercial",
     "weightKg": 0.3,
@@ -2714,9 +2741,9 @@
     "name": "Vase",
     "description": "Worth a small fortune.",
     "type": "Trinket",
-    "value": 3000,
+    "value": 1,
     "recyclesInto": {},
-    "updatedAt": "11/01/2025",
+    "updatedAt": "11/04/2025",
     "rarity": "Rare",
     "weightKg": 0.3,
     "stackSize": 3,
@@ -2726,20 +2753,30 @@
   {
     "id": "music_box",
     "name": "Music Box",
-    "description": "A music box that plays a haunting tune.",
+    "description": "Worth a small fortune.",
     "type": "Trinket",
     "value": 5000,
     "recyclesInto": {},
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025",
+    "rarity": "Rare",
+    "weightKg": 0.4,
+    "stackSize": 3,
+    "foundIn": "Old World, Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/music_box.png"
   },
   {
     "id": "red_coral_jewelry",
     "name": "Red Coral Jewelry",
-    "description": "A piece of jewelry made from red coral.",
+    "description": "Valued for its fine craftsmanship, and effortless ability to make your eyes pop.",
     "type": "Trinket",
     "value": 5000,
     "recyclesInto": {},
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025",
+    "rarity": "Rare",
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Residential, Old World, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/red_coral_jewelry.png"
   },
   {
     "id": "playing_cards",
@@ -2765,11 +2802,16 @@
   },
   {
     "id": "lances_mixtape_5th_edition",
-    "name": "Lance’s Mixtape (5th Edition)",
-    "description": "A rare mixtape, highly sought after by collectors.",
-    "type": "Valuable",
+    "name": "Lance's Mixtape (5th Edition)",
+    "description": "Lance has personally planted a number of these around the Rust Belt, for some reason.",
+    "type": "Trinket",
     "value": 10000,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/04/2025",
+    "rarity": "Epic",
+    "weightKg": 0.2,
+    "stackSize": 3,
+    "foundIn": "Residential, Commercial",
+    "imageFilename": "https://cdn.arctracker.io/items/lances_mixtape_5th_edition.png"
   },
   {
     "id": "raider_hatch_key",
@@ -2961,11 +3003,12 @@
     "craftBench": "utility_bench"
   },
   {
-    "id": "burletta_recipe",
-    "name": "Burletta Recipe",
-    "description": "A recipe to craft the Burletta weapon.",
-    "type": "Recipe",
-    "updatedAt": "10/30/2025"
+    "id": "burletta_blueprint",
+    "name": "Burletta Blueprint",
+    "description": "A blueprint to craft the Burletta weapon.",
+    "type": "Blueprint",
+    "updatedAt": "11/04/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/burletta.png"
   },
   {
     "id": "binoculars",
@@ -3123,17 +3166,18 @@
     "craftBench": "weapon_bench"
   },
   {
-    "id": "silencer_i_recipe",
-    "name": "Silencer I Recipe",
-    "description": "A recipe to craft the Silencer I.",
-    "type": "Recipe",
-    "updatedAt": "10/30/2025"
+    "id": "silencer_i_blueprint",
+    "name": "Silencer I Blueprint",
+    "description": "A blueprint to craft the Silencer I.",
+    "type": "Blueprint",
+    "updatedAt": "11/04/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png"
   },
   {
     "id": "vita_shot",
     "name": "Vita Shot",
     "description": "A medical item that restores a large amount of health.",
-    "type": "Consumable",
+    "type": "Quick Use",
     "value": 2000,
     "rarity": "Rare",
     "weightKg": 0.4,
@@ -3153,10 +3197,11 @@
     "id": "vita_spray",
     "name": "Vita Spray",
     "description": "A medical item that continuously restores health during use. Can be used on yourself or your allies.",
-    "type": "Consumable",
+    "type": "Quick Use",
     "rarity": "Epic",
     "value": 3000,
     "weightKg": 1.0,
+    "stackSize": 1,
     "effects": {
       "Durability": "100/100",
       "Healing": "10/s",
@@ -3167,7 +3212,15 @@
     "recyclesInto": {
       "antiseptic": 1,
       "canister": 2
-    }
+    },
+    "salvagesInto": {
+      "antiseptic": 1
+    },
+    "recipe": {
+      "antiseptic": 3,
+      "canister": 1
+    },
+    "craftBench": "medical_bench"
   },
   {
     "id": "jolt_mine",
@@ -3233,13 +3286,18 @@
     "id": "defibrillator",
     "name": "Defibrillator",
     "description": "An injection that quickly revives downed raiders and restores some health.",
-    "type": "Consumable",
+    "type": "Quick Use",
     "rarity": "Rare",
     "value": 1000,
     "recyclesInto": {
       "plastic_parts": 1,
       "moss": 1
     },
+    "recipe": {
+      "plastic_parts": 9,
+      "moss": 1
+    },
+    "craftBench": "med_station",
     "weightKg": 0.75,
     "stackSize": 3,
     "effects": {
@@ -3248,6 +3306,18 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/defibrillator.png",
     "updatedAt": "11/03/2025"
+  },
+  {
+    "id": "defibrillator_blueprint",
+    "name": "Defibrillator Blueprint",
+    "description": "An injection that quickly revives downed raiders and restores some health.",
+    "type": "Blueprint",
+    "rarity": "Common",
+    "value": 5000,
+    "weightKg": 0.75,
+    "stackSize": 3,
+    "imageFilename": "https://cdn.arctracker.io/items/defibrillator.png",
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "buried_city_town_hall_key",
@@ -3860,12 +3930,20 @@
   },
   {
     "id": "degraded_arc_rubber",
-    "name": "Degraded Arc Rubber",
+    "name": "Degraded ARC Rubber",
     "description": "Obtained from ARC enemies or activities. Can be recycled into rubber.",
     "type": "Recyclable",
     "rarity": "Uncommon",
     "weightKg": 1.0,
+    "stackSize": 3,
+    "value": 640,
     "foundIn": "ARC",
+    "recyclesInto": {
+      "rubber_parts": 11
+    },
+    "salvagesInto": {
+      "rubber_parts": 5
+    },
     "imageFilename": "https://cdn.arctracker.io/items/degraded_arc_rubber.png",
     "updatedAt": "10/30/2025"
   },
@@ -3891,11 +3969,14 @@
     "recyclesInto": {
       "arc_alloy": 2
     },
+    "salvagesInto": {
+      "arc_alloy": 1
+    },
     "weightKg": 1.0,
     "stackSize": 3,
     "foundIn": "ARC",
     "imageFilename": "https://cdn.arctracker.io/items/burned_arc_circuitry.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "candle_holder",
@@ -3908,9 +3989,12 @@
     "imageFilename": "https://cdn.arctracker.io/items/candle_holder.png",
     "value": 640,
     "stackSize": 3,
-    "updatedAt": "11/01/2025",
+    "updatedAt": "11/04/2025",
     "recyclesInto": {
       "metal_parts": 8
+    },
+    "salvagesInto": {
+      "metal_parts": 4
     }
   },
   {
@@ -4065,7 +4149,7 @@
     "id": "lil_smoke_grenade",
     "name": "Li'l Smoke Grenade",
     "description": "A grenade that pops a thick but small smoke cloud on impact, blocking visibility from ARC and other Raiders.",
-    "type": "Consumable",
+    "type": "Quick Use",
     "value": 300,
     "rarity": "Common",
     "recyclesInto": {
@@ -4931,7 +5015,7 @@
     "id": "herbal_bandage",
     "name": "Herbal Bandage",
     "description": "An improvised medical item that gradually restores health over time.",
-    "type": "Consumable",
+    "type": "Quick Use",
     "value": 640,
     "rarity": "Uncommon",
     "weightKg": 0.15,
@@ -5310,7 +5394,7 @@
   {
     "id": "torn_book",
     "name": "Torn Book",
-    "description": "What pages remain speak of chosen heroes, vampires, and lots of longing glances.",
+    "description": "What pages remain speak of heroes, vampires, and lots of glances.",
     "type": "Trinket",
     "rarity": "Common",
     "value": 1000,
@@ -5318,7 +5402,8 @@
     "weightKg": 0.3,
     "stackSize": 5,
     "foundIn": "Residential, Old World",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/04/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/torn_book.png"
   },
   {
     "id": "fertilizer",
@@ -5333,12 +5418,13 @@
     "weightKg": 0.4,
     "stackSize": 5,
     "foundIn": "Nature",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/04/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/fertilizer.png"
   },
   {
     "id": "damaged_rocketeer_driver",
     "name": "Damaged Rocketeer Driver",
-    "description": "Can be recycled into crafting materials. Can be found in ARC",
+    "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
     "rarity": "Common",
     "value": 2000,
@@ -5370,12 +5456,15 @@
   {
     "id": "moss",
     "name": "Moss",
-    "description": "Can be used to regain a small amount of health. Used to craft: Defibrillator",
+    "description": "Can be used to regain a small amount of health.",
     "type": "Topside Material",
     "rarity": "Rare",
     "value": 500,
     "recyclesInto": {
       "assorted_seeds": 3
+    },
+    "salvagesInto": {
+      "assorted_seeds": 2
     },
     "weightKg": 0.3,
     "stackSize": 10,
@@ -5385,7 +5474,8 @@
       "Duration": "10s",
       "Use Time": "1s"
     },
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/04/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/moss.png"
   },
   {
     "id": "bandage",
@@ -5487,7 +5577,7 @@
     "id": "rattler_i",
     "name": "Rattler I",
     "description": "A cheap offensive option, but has to be reloaded 2 bullets at a time.",
-    "type": "Assault Rifle",
+    "type": "Weapon",
     "rarity": "Common",
     "value": 1750,
     "recyclesInto": {
@@ -5501,7 +5591,7 @@
       "Firing Mode": "Fully-Automatic",
       "ARC Armor Penetration": "Moderate"
     },
-    "updatedAt": "11/03/2025",
+    "updatedAt": "11/04/2025",
     "imageFilename": "https://cdn.arctracker.io/items/rattler_i.png",
     "recipe": {
       "metal_parts": 16,
@@ -5819,14 +5909,14 @@
     "updatedAt": "11/03/2025"
   },
   {
-  "id": "venator_blueprint",
-  "name": "Venator Blueprint",
-  "description": "Fires two shots at a time.  ",
-  "type": "Blueprint",
-  "value": 5000,
-  "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-  "rarity": "Common",
-  "updatedAt": "11/04/2025"
+    "id": "venator_blueprint",
+    "name": "Venator Blueprint",
+    "description": "Fires two shots at a time.  ",
+    "type": "Blueprint",
+    "value": 5000,
+    "imageFilename": "https://cdn.arctracker.io/items/venator.png",
+    "rarity": "Common",
+    "updatedAt": "11/04/2025"
   },
   {
     "id": "extended_medium_mag_iii_blueprint",
@@ -5853,6 +5943,106 @@
     "value": 5000,
     "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
     "rarity": "Common",
+    "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "vita_spray_blueprint",
+    "name": "Vita Spray Blueprint",
+    "description": "A medical item that continuously restores health during use. Can be used on yourself or your allies.",
+    "type": "Blueprint",
+    "value": 5000,
+    "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",
+    "rarity": "Common",
+    "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "rosary",
+    "name": "Rosary",
+    "description": "May be worth a few coins.",
+    "type": "Trinket",
+    "value": 2000,
+    "rarity": "Rare",
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Old World, Residential",
+    "imageFilename": "https://cdn.arctracker.io/items/rosary.png",
+    "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "damaged_wasp_driver",
+    "name": "Damaged Wasp Driver",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Common",
+    "weightKg": 0.25,
+    "value": 270,
+    "foundIn": "ARC",
+    "imageFilename": "https://cdn.arctracker.io/items/damaged_wasp_driver.png",
+    "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "ruined_parachute",
+    "name": "Ruined Parachute",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "value": 640,
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Exodus",
+    "imageFilename": "https://cdn.arctracker.io/items/ruined_parachute.png",
+    "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "extended_shotgun_mag_ii_blueprint",
+    "name": "Extended Shotgun Mag II Blueprint",
+    "description": "Moderately extends the ammo capacity of shotguns.",
+    "type": "Blueprint",
+    "value": 5000,
+    "recyclesInto": {
+      "mechanical_components": 8,
+      "steel_spring": 28
+    },
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_ii_blueprint.png",
+    "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "silencer_iii",
+    "name": "Silencer III",
+    "description": "Significantly reduces the amount of noise produced when firing. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Renegade",
+    "type": "Modification",
+    "value": 7000,
+    "rarity": "Epic",
+    "weightKg": 0.75,
+    "effects": {
+      "Reduced Noise": "60%",
+      "Increased Durability Burn Rate": "20%"
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/silencer_iii.png",
+    "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "blue_light_stick_blueprint",
+    "name": "Blue Light Stick Blueprint",
+    "description": "A throwable chemical light that illuminates the area around it.",
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0,
+    "foundIn": "",
+    "imageFilename": "https://cdn.arctracker.io/items/blue_light_stick_blueprint.png",
+    "rarity": "Common",
+    "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "spaceport_control_tower_key",
+    "name": "Spaceport Control Tower Key",
+    "description": "Unlocks a door in Control Tower A6 in Spaceport",
+    "type": "Key",
+    "value": 100,
+    "rarity": "Rare",
+    "weightKg": 0.25,
+    "imageFilename": "https://cdn.arctracker.io/items/spaceport_control_tower_key.png",
     "updatedAt": "11/04/2025"
   }
 ]

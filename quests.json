@@ -680,7 +680,7 @@
       { "itemId": "heavy_ammo", "quantity": 40 }
     ],
     "xp": 0,
-    "previousQuestIds": ["ss10y"],
+    "previousQuestIds": ["ss10y", "ss11b"],
     "nextQuestIds": []
   },
   {
@@ -846,6 +846,7 @@
     "updatedAt": "10/31/2025",
     "name": "After Rain Comes",
     "trader": "Celeste",
+    "videoUrl": "https://youtu.be/jP__SkIV-9E",
     "description": "I know, I know! The power's down in sector— Oh, hey. A flash flood took out some of our solar panels in Buried City, and the generators only hold on for so long. Do us all a solid when you're up there, OK?",
     "objectives": [
       "Find the flooded solar panels nearby the Grandioso Apartments",
@@ -929,6 +930,7 @@
       "Visit the Pattern House in the Dam",
       "Mark the Pattern Outpost"
     ],
+
     "rewardItemIds": [
       { "itemId": "jolt_mine", "quantity": 2 }
     ],
@@ -953,7 +955,7 @@
       { "itemId": "steel_spring", "quantity": 3 }
     ],
     "xp": 0,
-    "previousQuestIds": ["ss10x3", "ss10x3"],
+    "previousQuestIds": ["ss10x3"],
     "nextQuestIds": ["ss10x6"]
   },
   {
@@ -973,7 +975,7 @@
       { "itemId": "shotgun_ammo", "quantity": 40 }
     ],
     "xp": 0,
-    "previousQuestIds": ["ss10x4"],
+    "previousQuestIds": ["ss10x4", "ss11b2"],
     "nextQuestIds": []
   },
   {
@@ -1325,10 +1327,10 @@
     ],
     "xp": 0,
     "previousQuestIds": ["ss11"],
-    "nextQuestIds": ["ss11b"]
+    "nextQuestIds": ["ss11bx"]
   },
   {
-    "id": "ss11b",
+    "id": "ss11bx",
     "updatedAt": "10/30/2025",
     "name": "With a Trace",
     "trader": "Shani",
