@@ -6043,5 +6043,18 @@
     },
     "craftBench": "Gunsmith 3",
     "updatedAt": "11/05/2025"
+  },
+  {
+    "id": "rosary",
+    "name": "Rosary",
+    "description": "May be worth a few coins.",
+    "type": "Trinket",
+    "rarity": "Rare",
+    "value": 2000,
+    "recyclesInto": {},
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Old World, Residential",
+    "updatedAt": "11/05/2025"
   }
 ]
