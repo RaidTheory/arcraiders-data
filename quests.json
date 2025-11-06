@@ -880,7 +880,8 @@
     "description": "Our food production is finally enough to meet our basic needs, but what we really need now is variety. I have a lead on some agricultural research from before the First Wave. Are you in?",
     "objectives": [
       "Go to the Research & Administration building",
-      "Locate Lab 1 on the upper floor above the reception"
+      "Locate Lab 1 on the upper floor above the reception",
+      "Search for any traces of the agricultural project"
     ],
     "rewardItemIds": [
       { "itemId": "advanced_mechanical_components", "quantity": 3 },
