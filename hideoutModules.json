@@ -1,7 +1,16 @@
 [
   {
     "id": "scrappy",
-    "name": "Scrappy",
+    "name": {
+      "en": "Scrappy",
+      "de": "Scrappy",
+      "fr": "Scrappy",
+      "es": "Scrappy",
+      "pt": "Scrappy",
+      "pl": "Scrappy",
+      "no": "Scrappy",
+      "da": "Scrappy"
+    },
     "maxLevel": 5,
     "levels": [
       { "level": 1, "requirementItemIds": [] },
@@ -13,14 +22,32 @@
   },
     {
     "id": "workbench",
-    "name": "Workbench",
+    "name": {
+      "en": "Workbench",
+      "de": "Werkbank",
+      "fr": "Établi",
+      "es": "Banco de trabajo",
+      "pt": "Bancada de trabalho",
+      "pl": "Stół warsztatowy",
+      "no": "Arbeidsbenk",
+      "da": "Arbejdsbænk"
+    },
     "maxLevel": 0,
     "levels": [
     ]
   },
   {
     "id": "weapon_bench",
-    "name": "Gunsmith",
+    "name": {
+      "en": "Gunsmith",
+      "de": "Waffenschmied",
+      "fr": "Armurier",
+      "es": "Armero",
+      "pt": "Armeiro",
+      "pl": "Rusznikarz",
+      "no": "Våpenmaker",
+      "da": "Våbensmed"
+    },
     "maxLevel": 3,
     "levels": [
       { "level": 1, "requirementItemIds": [{ "itemId": "metal_parts", "quantity": 20 }, { "itemId": "rubber_parts", "quantity": 30 }], "otherRequirements": ["3x Raids"] },
@@ -30,7 +57,16 @@
   },
   {
     "id": "equipment_bench",
-    "name": "Gear Bench",
+    "name": {
+      "en": "Gear Bench",
+      "de": "Ausrüstungsbank",
+      "fr": "Établi d'équipement",
+      "es": "Banco de equipo",
+      "pt": "Bancada de equipamento",
+      "pl": "Stół ekwipunku",
+      "no": "Utstyrsbenk",
+      "da": "Udstyrsbænk"
+    },
     "maxLevel": 3,
     "levels": [
       { "level": 1, "requirementItemIds": [{ "itemId": "plastic_parts", "quantity": 25 }, { "itemId": "fabric", "quantity": 30 }], "otherRequirements": ["3x Raids"] },
@@ -40,7 +76,16 @@
   },
   {
     "id": "med_station",
-    "name": "Medical Lab",
+    "name": {
+      "en": "Medical Lab",
+      "de": "Medizinisches Labor",
+      "fr": "Laboratoire médical",
+      "es": "Laboratorio médico",
+      "pt": "Laboratório médico",
+      "pl": "Laboratorium medyczne",
+      "no": "Medisinsk laboratorium",
+      "da": "Medicinsk laboratorium"
+    },
     "maxLevel": 3,
     "levels": [
       { "level": 1, "requirementItemIds": [{ "itemId": "fabric", "quantity": 50 }, { "itemId": "arc_alloy", "quantity": 6 }], "otherRequirements": ["6x Raids"] },
@@ -50,7 +95,16 @@
   },
   {
     "id": "explosives_bench",
-    "name": "Explosives Station",
+    "name": {
+      "en": "Explosives Station",
+      "de": "Sprengstoffstation",
+      "fr": "Station d'explosifs",
+      "es": "Estación de explosivos",
+      "pt": "Estação de explosivos",
+      "pl": "Stacja materiałów wybuchowych",
+      "no": "Eksplosivstasjon",
+      "da": "Sprængstofstation"
+    },
     "maxLevel": 3,
     "levels": [
       { "level": 1, "requirementItemIds": [{ "itemId": "rubber_parts", "quantity": 50 }, { "itemId": "arc_alloy", "quantity": 6 }], "otherRequirements": ["6x Raids"] },
@@ -60,7 +114,16 @@
   },
   {
     "id": "utility_bench",
-    "name": "Utility Station",
+    "name": {
+      "en": "Utility Station",
+      "de": "Versorgungsstation",
+      "fr": "Station utilitaire",
+      "es": "Estación de utilidad",
+      "pt": "Estação utilitária",
+      "pl": "Stacja użytkowa",
+      "no": "Verktøystasjon",
+      "da": "Værktøjsstation"
+    },
     "maxLevel": 3,
     "levels": [
       { "level": 1, "requirementItemIds": [{ "itemId": "plastic_parts", "quantity": 50 }, { "itemId": "arc_alloy", "quantity": 6 }], "otherRequirements": ["6x Raids"] },
@@ -70,7 +133,16 @@
   },
   {
     "id": "refiner",
-    "name": "Refiner",
+    "name": {
+      "en": "Refiner",
+      "de": "Raffinerie",
+      "fr": "Raffinerie",
+      "es": "Refinería",
+      "pt": "Refinaria",
+      "pl": "Rafineria",
+      "no": "Raffineri",
+      "da": "Raffinaderi"
+    },
     "maxLevel": 3,
     "levels": [
       { "level": 1, "requirementItemIds": [{ "itemId": "metal_parts", "quantity": 60 }, { "itemId": "arc_powercell", "quantity": 5 }], "otherRequirements": ["10x Raids"] },

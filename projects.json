@@ -1,12 +1,39 @@
 [
   {
     "id": "expedition_project",
-    "name": "Expedition Project",
-    "description": "Embark on a dangerous expedition beyond the Rust Belt. Expeditions are perilous. Your Raider will carry all their possessions into the unknown beyond the Rust Belt. In return, your next Raider gains a unique edge that lasts until the next Expedition departs.",
+    "name": {
+      "en": "Expedition Project",
+      "de": "Expeditionsprojekt",
+      "fr": "Projet d'expédition",
+      "es": "Proyecto de expedición",
+      "pt": "Projeto de expedição",
+      "pl": "Projekt ekspedycji",
+      "no": "Ekspedisjonsprosjekt",
+      "da": "Ekspeditionsprojekt"
+    },
+    "description": {
+      "en": "Embark on a dangerous expedition beyond the Rust Belt. Expeditions are perilous. Your Raider will carry all their possessions into the unknown beyond the Rust Belt. In return, your next Raider gains a unique edge that lasts until the next Expedition departs.",
+      "de": "Begib dich auf eine gefährliche Expedition jenseits des Rostgürtels. Expeditionen sind gefährlich. Dein Raider wird all seinen Besitz ins Unbekannte jenseits des Rostgürtels tragen. Im Gegenzug erhält dein nächster Raider einen einzigartigen Vorteil, der bis zur Abreise der nächsten Expedition anhält.",
+      "fr": "Embarquez pour une expédition dangereuse au-delà de la Ceinture de rouille. Les expéditions sont périlleuses. Votre Raider transportera tous ses biens dans l'inconnu au-delà de la Ceinture de rouille. En retour, votre prochain Raider gagne un avantage unique qui dure jusqu'au départ de la prochaine expédition.",
+      "es": "Embárcate en una peligrosa expedición más allá del Cinturón de Óxido. Las expediciones son peligrosas. Tu Raider llevará todas sus posesiones hacia lo desconocido más allá del Cinturón de Óxido. A cambio, tu próximo Raider obtiene una ventaja única que dura hasta que parta la próxima expedición.",
+      "pt": "Embarque em uma expedição perigosa além do Cinturão de Ferrugem. Expedições são perigosas. Seu Raider carregará todos os seus pertences para o desconhecido além do Cinturão de Ferrugem. Em troca, seu próximo Raider ganha uma vantagem única que dura até a partida da próxima expedição.",
+      "pl": "Wyrusz na niebezpieczną ekspedycję poza Pas Rdzy. Ekspedycje są ryzykowne. Twój Raider zabierze wszystkie swoje rzeczy w nieznane poza Pasem Rdzy. W zamian, twój następny Raider zyskuje unikalną przewagę, która trwa do momentu rozpoczęcia następnej ekspedycji.",
+      "no": "Dra på en farlig ekspedisjon utenfor Rustbeltet. Ekspedisjoner er farlige. Din Raider vil bære alle sine eiendeler inn i det ukjente utenfor Rustbeltet. I retur får din neste Raider en unik fordel som varer til neste ekspedisjon drar.",
+      "da": "Begiv dig ud på en farlig ekspedition ud over Rustbæltet. Ekspeditioner er farlige. Din Raider vil bære alle sine ejendele ind i det ukendte ud over Rustbæltet. Til gengæld får din næste Raider en unik fordel, der varer indtil næste ekspedition afrejser."
+    },
     "phases": [
       {
         "phase": 1,
-        "name": "Foundation",
+        "name": {
+          "en": "Foundation",
+          "de": "Fundament",
+          "fr": "Fondation",
+          "es": "Fundación",
+          "pt": "Fundação",
+          "pl": "Fundament",
+          "no": "Grunnlag",
+          "da": "Fundament"
+        },
         "requirementItemIds": [
           { "itemId": "metal_parts", "quantity": 150 },
           { "itemId": "rubber_parts", "quantity": 200 },
@@ -16,8 +43,26 @@
       },
       {
         "phase": 2,
-        "name": "Core Systems",
-        "description": "Connecting wiring, ventilation, and essential power systems",
+        "name": {
+          "en": "Core Systems",
+          "de": "Kernsysteme",
+          "fr": "Systèmes essentiels",
+          "es": "Sistemas centrales",
+          "pt": "Sistemas centrais",
+          "pl": "Główne systemy",
+          "no": "Kjernesystemer",
+          "da": "Kernesystemer"
+        },
+        "description": {
+          "en": "Connecting wiring, ventilation, and essential power systems",
+          "de": "Verkabelung, Belüftung und wesentliche Stromversorgungssysteme verbinden",
+          "fr": "Connexion du câblage, de la ventilation et des systèmes électriques essentiels",
+          "es": "Conectando cableado, ventilación y sistemas de energía esenciales",
+          "pt": "Conectando fiação, ventilação e sistemas de energia essenciais",
+          "pl": "Podłączanie okablowania, wentylacji i podstawowych systemów zasilania",
+          "no": "Koble til ledninger, ventilasjon og essensielle strømsystemer",
+          "da": "Tilslutning af ledninger, ventilation og essentielle strømsystemer"
+        },
         "requirementItemIds": [
           { "itemId": "durable_cloth", "quantity": 35 },
           { "itemId": "wires", "quantity": 30 },
@@ -27,8 +72,26 @@
       },
       {
         "phase": 3,
-        "name": "Framework",
-        "description": "Building the walls and roof, installing core systems and defining the interior layout",
+        "name": {
+          "en": "Framework",
+          "de": "Rahmen",
+          "fr": "Structure",
+          "es": "Marco",
+          "pt": "Estrutura",
+          "pl": "Struktura",
+          "no": "Rammeverk",
+          "da": "Ramme"
+        },
+        "description": {
+          "en": "Building the walls and roof, installing core systems and defining the interior layout",
+          "de": "Wände und Dach bauen, Kernsysteme installieren und Inneneinrichtung definieren",
+          "fr": "Construction des murs et du toit, installation des systèmes essentiels et définition de l'aménagement intérieur",
+          "es": "Construyendo las paredes y el techo, instalando sistemas centrales y definiendo el diseño interior",
+          "pt": "Construindo as paredes e o teto, instalando sistemas centrais e definindo o layout interior",
+          "pl": "Budowanie ścian i dachu, instalowanie głównych systemów i definiowanie układu wnętrza",
+          "no": "Bygge vegger og tak, installere kjernesystemer og definere det indre oppsettet",
+          "da": "Bygning af vægge og tag, installation af kernesystemer og definition af det indvendige layout"
+        },
         "requirementItemIds": [
           { "itemId": "light_bulb", "quantity": 5 },
           { "itemId": "battery", "quantity": 30 },
@@ -38,8 +101,26 @@
       },
       {
         "phase": 4,
-        "name": "Outfitting",
-        "description": "Adding storage, workbenches, utilities, and personal touches",
+        "name": {
+          "en": "Outfitting",
+          "de": "Ausrüstung",
+          "fr": "Équipement",
+          "es": "Equipamiento",
+          "pt": "Equipamento",
+          "pl": "Wyposażenie",
+          "no": "Utstyr",
+          "da": "Udstyr"
+        },
+        "description": {
+          "en": "Adding storage, workbenches, utilities, and personal touches",
+          "de": "Lagerung, Werkbänke, Versorgungseinrichtungen und persönliche Akzente hinzufügen",
+          "fr": "Ajout de rangement, d'établis, d'utilitaires et de touches personnelles",
+          "es": "Añadiendo almacenamiento, bancos de trabajo, utilidades y toques personales",
+          "pt": "Adicionando armazenamento, bancadas de trabalho, utilidades e toques pessoais",
+          "pl": "Dodawanie magazynu, stółów warsztatowych, narzędzi i osobistych akcentów",
+          "no": "Legge til lagring, arbeidsbenker, verktøy og personlige detaljer",
+          "da": "Tilføjelse af opbevaring, arbejdsbænke, værktøj og personlige berøringer"
+        },
         "requirementItemIds": [
           { "itemId": "humidifier", "quantity": 5 },
           { "itemId": "advanced_electrical_components", "quantity": 5 },
@@ -49,8 +130,26 @@
       },
       {
         "phase": 5,
-        "name": "Load Stage",
-        "description": "Loading the caravan with vital supplies. Combat gear, survival equipment, provisions, and repair materials are needed to fully prepare for the Expedition. You need to submit the coin value of items to each category.",
+        "name": {
+          "en": "Load Stage",
+          "de": "Ladephase",
+          "fr": "Étape de chargement",
+          "es": "Fase de carga",
+          "pt": "Fase de carregamento",
+          "pl": "Faza ładowania",
+          "no": "Lastestadium",
+          "da": "Lastefase"
+        },
+        "description": {
+          "en": "Loading the caravan with vital supplies. Combat gear, survival equipment, provisions, and repair materials are needed to fully prepare for the Expedition. You need to submit the coin value of items to each category.",
+          "de": "Beladen der Karawane mit lebenswichtigen Vorräten. Kampfausrüstung, Überlebensausrüstung, Proviant und Reparaturmaterialien werden benötigt, um sich vollständig auf die Expedition vorzubereiten. Sie müssen den Münzwert der Gegenstände für jede Kategorie einreichen.",
+          "fr": "Chargement de la caravane avec des fournitures vitales. Équipement de combat, équipement de survie, provisions et matériaux de réparation sont nécessaires pour préparer complètement l'expédition. Vous devez soumettre la valeur en pièces des objets pour chaque catégorie.",
+          "es": "Cargando la caravana con suministros vitales. Se necesita equipo de combate, equipo de supervivencia, provisiones y materiales de reparación para prepararse completamente para la Expedición. Necesitas enviar el valor en monedas de los objetos a cada categoría.",
+          "pt": "Carregando a caravana com suprimentos vitais. Equipamento de combate, equipamento de sobrevivência, provisões e materiais de reparo são necessários para se preparar totalmente para a Expedição. Você precisa enviar o valor em moedas dos itens para cada categoria.",
+          "pl": "Ładowanie karawany niezbędnymi zapasami. Sprzęt bojowy, sprzęt przetrwania, prowiant i materiały naprawcze są potrzebne do pełnego przygotowania się na ekspedycję. Musisz przesyłać wartość monet przedmiotów do każdej kategorii.",
+          "no": "Laste karavanen med vitale forsyninger. Kamputstyr, overlevingsutstyr, proviant og reparasjonsmaterialer er nødvendig for å forberede seg fullt ut på ekspedisjonen. Du må sende inn mynteverdien av gjenstander til hver kategori.",
+          "da": "Lastning af karavanen med vitale forsyninger. Kampudstyr, overlevelsesudstyr, proviant og reparationsmaterialer er nødvendige for fuldt ud at forberede sig på ekspeditionen. Du skal indsende møntværdien af ​​genstande til hver kategori."
+        },
         "requirementItemIds": [],
         "requirementCategories": [
           { "category": "Combat Items", "valueRequired": 250000 },
@@ -61,7 +160,16 @@
       },
       {
         "phase": 6,
-        "name": "Unknown",
+        "name": {
+          "en": "Unknown",
+          "de": "Unbekannt",
+          "fr": "Inconnu",
+          "es": "Desconocido",
+          "pt": "Desconhecido",
+          "pl": "Nieznany",
+          "no": "Ukjent",
+          "da": "Ukendt"
+        },
         "requirementItemIds": []
       }
     ]
