@@ -2488,8 +2488,10 @@
     "rarity": "Uncommon",
     "type": "Nature",
     "value": 640,
-    "recyclesInto": {},
-    "updatedAt": "10/31/2025",
+    "recyclesInto": {
+      "assorted_seeds": 2
+    },
+    "updatedAt": "11/05/2025",
     "description": "Can be consumed for a small amount of stamina.",
     "weightKg": 0.2,
     "stackSize": 10,
@@ -4408,9 +4410,15 @@
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0.0,
-    "imageFilename": "https://cdn.arctracker.io/items/bettina_blueprint.png",
     "rarity": "Common",
-    "updatedAt": "10/30/2025"
+    "station": "Gunsmith III",
+    "crafting": {
+      "advanced_mechanical_components": 3,
+      "heavy_gun_parts": 3,
+      "canister": 3
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/bettina_blueprint.png",
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "blue_gate_confiscation_room_key",
