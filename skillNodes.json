@@ -10,7 +10,14 @@
       "pl": "Przyzwyczajony do ciężaru",
       "no": "Vant til vekten",
       "da": "Vant til vægten",
-      "it": "Abituato al Peso"
+      "it": "Abituato al Peso",
+      "tr": "Ağırlığa Alışkın",
+      "zh-TW": "習慣重量",
+      "ja": "重さに慣れた",
+      "zh-CN": "习惯重量",
+      "ru": "Привык к весу",
+      "kr": "무게에 익숙함",
+      "uk": "Звик до ваги"
     },
     "description": {
       "en": "Wearing a shield doesn't slow you down as much.",
@@ -21,7 +28,14 @@
       "pl": "Noszenie tarczy nie spowalnia cię tak bardzo.",
       "no": "Å bære et skjold bremser deg ikke like mye.",
       "da": "At bære et skjold gør dig ikke lige så langsom.",
-      "it": "Indossare uno scudo non ti rallenta più di tanto."
+      "it": "Indossare uno scudo non ti rallenta più di tanto.",
+      "tr": "Kalkan taşımak sizi o kadar yavaşlatmaz.",
+      "zh-TW": "裝備盾牌不會讓你減速太多。",
+      "ja": "シールドを装備しても移動速度があまり低下しない。",
+      "zh-CN": "装备盾牌不会让你减速太多。",
+      "ru": "Ношение щита не так сильно замедляет вас.",
+      "kr": "방패를 착용해도 이동 속도가 크게 감소하지 않습니다.",
+      "uk": "Носіння щита не так сильно сповільнює вас."
     },
     "impactedSkill": {
       "en": "Movement Speed",
@@ -32,7 +46,14 @@
       "pl": "Prędkość ruchu",
       "no": "Bevegelseshastighet",
       "da": "Bevægelseshastighed",
-      "it": "Velocità di Movimento"
+      "it": "Velocità di Movimento",
+      "tr": "Hareket Hızı",
+      "zh-TW": "移動速度",
+      "ja": "移動速度",
+      "zh-CN": "移动速度",
+      "ru": "Скорость передвижения",
+      "kr": "이동 속도",
+      "uk": "Швидкість пересування"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -56,7 +77,14 @@
       "pl": "Urodzony z wybuchu",
       "no": "Eksplosjonsfødt",
       "da": "Eksplosionsfødt",
-      "it": "Nato dalle Esplosioni"
+      "it": "Nato dalle Esplosioni",
+      "tr": "Patlamadan Doğan",
+      "zh-TW": "爆炸之子",
+      "ja": "爆音慣れ",
+      "zh-CN": "爆炸之子",
+      "ru": "Рождённый взрывом",
+      "kr": "폭발 태생",
+      "uk": "Народжений вибухом"
     },
     "description": {
       "en": "Your hearing is less affected by nearby explosions.",
@@ -67,7 +95,14 @@
       "pl": "Twój słuch jest mniej dotknięty przez pobliskie eksplozje.",
       "no": "Hørselen din påvirkes mindre av nærliggende eksplosjoner.",
       "da": "Din hørelse påvirkes mindre af nærliggende eksplosioner.",
-      "it": "Il tuo udito è meno influenzato dalle esplosioni vicine."
+      "it": "Il tuo udito è meno influenzato dalle esplosioni vicine.",
+      "tr": "İşitmeniz yakındaki patlamalardan daha az etkilenir.",
+      "zh-TW": "你的聽力較少受到附近爆炸的影響。",
+      "ja": "近くの爆発による聴覚への影響が軽減される。",
+      "zh-CN": "你的听力较少受到附近爆炸的影响。",
+      "ru": "Ваш слух меньше страдает от близких взрывов.",
+      "kr": "근처 폭발로 인한 청력 영향이 감소합니다.",
+      "uk": "Ваш слух менше страждає від близьких вибухів."
     },
     "impactedSkill": {
       "en": "Hearing Enhancement",
@@ -78,7 +113,14 @@
       "pl": "Poprawa słuchu",
       "no": "Hørselforbedring",
       "da": "Hørelseforbedring",
-      "it": "Potenziamento Uditivo"
+      "it": "Potenziamento Uditivo",
+      "tr": "İşitme Geliştirmesi",
+      "zh-TW": "聽力增強",
+      "ja": "聴覚強化",
+      "zh-CN": "听力增强",
+      "ru": "Улучшение слуха",
+      "kr": "청력 향상",
+      "uk": "Покращення слуху"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -104,7 +146,14 @@
       "pl": "Delikatna presja",
       "no": "Forsiktig trykk",
       "da": "Blidt tryk",
-      "it": "Pressione Delicata"
+      "it": "Pressione Delicata",
+      "tr": "Nazik Baskı",
+      "zh-TW": "輕柔施壓",
+      "ja": "静かな圧力",
+      "zh-CN": "轻柔施压",
+      "ru": "Мягкое давление",
+      "kr": "부드러운 압력",
+      "uk": "М'який тиск"
     },
     "description": {
       "en": "You make less noise when breaching.",
@@ -115,7 +164,14 @@
       "pl": "Robisz mniej hałasu podczas włamania.",
       "no": "Du lager mindre støy når du bryter inn.",
       "da": "Du laver mindre støj når du bryder ind.",
-      "it": "Fai meno rumore quando sfondi."
+      "it": "Fai meno rumore quando sfondi.",
+      "tr": "Kırma sırasında daha az ses çıkarırsınız.",
+      "zh-TW": "破門時產生的噪音更少。",
+      "ja": "突破時の騒音が減少する。",
+      "zh-CN": "破门时产生的噪音更少。",
+      "ru": "Вы производите меньше шума при взломе.",
+      "kr": "돌파 시 소음이 감소합니다.",
+      "uk": "Ви створюєте менше шуму при зломі."
     },
     "impactedSkill": {
       "en": "Noise Reduction",
@@ -126,7 +182,14 @@
       "pl": "Redukcja hałasu",
       "no": "Støyreduksjon",
       "da": "Støjreduktion",
-      "it": "Riduzione Rumore"
+      "it": "Riduzione Rumore",
+      "tr": "Gürültü Azaltma",
+      "zh-TW": "噪音減少",
+      "ja": "騒音軽減",
+      "zh-CN": "噪音减少",
+      "ru": "Снижение шума",
+      "kr": "소음 감소",
+      "uk": "Зниження шуму"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -152,7 +215,14 @@
       "pl": "Walka lub ucieczka",
       "no": "Kamp eller flukt",
       "da": "Kamp eller flugt",
-      "it": "Lotta o Fuga"
+      "it": "Lotta o Fuga",
+      "tr": "Savaş Ya Da Kaç",
+      "zh-TW": "戰或逃",
+      "ja": "闘争か逃走か",
+      "zh-CN": "战或逃",
+      "ru": "Бей или беги",
+      "kr": "싸움 또는 도주",
+      "uk": "Бий або тікай"
     },
     "description": {
       "en": "When you're hurt in combat, regain a fixed amount of stamina. Has a cooldown between uses.",
@@ -163,7 +233,14 @@
       "pl": "Kiedy jesteś ranny w walce, odzyskujesz stałą ilość wytrzymałości. Ma czas odnowienia między użyciami.",
       "no": "Når du blir skadet i kamp, får du tilbake en fast mengde utholdenhet. Har en nedkjølingstid mellom bruk.",
       "da": "Når du bliver såret i kamp, genvinder du en fast mængde udholdenhed. Har en afkølingsperiode mellem brug.",
-      "it": "Quando vieni ferito in combattimento, recuperi una quantità fissa di vigore. Ha un tempo di ricarica tra un utilizzo e l'altro."
+      "it": "Quando vieni ferito in combattimento, recuperi una quantità fissa di vigore. Ha un tempo di ricarica tra un utilizzo e l'altro.",
+      "tr": "Savaşta yaralandığınızda sabit miktarda dayanıklılık kazanırsınız. Kullanımlar arasında bekleme süresi vardır.",
+      "zh-TW": "在戰鬥中受傷時，恢復固定數量的耐力。使用之間有冷卻時間。",
+      "ja": "戦闘中にダメージを受けると、一定量のスタミナを回復する。使用間にクールダウンがある。",
+      "zh-CN": "在战斗中受伤时，恢复固定数量的耐力。使用之间有冷却时间。",
+      "ru": "Когда вы получаете урон в бою, восстанавливается фиксированное количество выносливости. Имеет время восстановления между использованиями.",
+      "kr": "전투 중 피해를 입으면 고정된 양의 스태미나를 회복합니다. 사용 간 재사용 대기시간이 있습니다.",
+      "uk": "Коли ви отримуєте пошкодження в бою, відновлюється фіксована кількість витривалості. Має час відновлення між використаннями."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -174,7 +251,14 @@
       "pl": "Regeneracja wytrzymałości",
       "no": "Utholdenhetsregenerering",
       "da": "Udholdenhedsregenerering",
-      "it": "Rigenerazione Vigore"
+      "it": "Rigenerazione Vigore",
+      "tr": "Dayanıklılık Yenilemesi",
+      "zh-TW": "耐力恢復",
+      "ja": "スタミナ回復",
+      "zh-CN": "耐力恢复",
+      "ru": "Восстановление выносливости",
+      "kr": "스태미나 재생",
+      "uk": "Відновлення витривалості"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -200,7 +284,14 @@
       "pl": "Biegły włamywacz",
       "no": "Dyktig bryter",
       "da": "Dygtig bryder",
-      "it": "Scassinatore Esperto"
+      "it": "Scassinatore Esperto",
+      "tr": "Usta Kırıcı",
+      "zh-TW": "熟練撬鎖者",
+      "ja": "熟練の破壊者",
+      "zh-CN": "熟练撬锁者",
+      "ru": "Опытный взломщик",
+      "kr": "숙련된 파괴자",
+      "uk": "Досвідчений зломщик"
     },
     "description": {
       "en": "Breaching doors and containers takes less time",
@@ -211,7 +302,14 @@
       "pl": "Włamywanie się do drzwi i pojemników zajmuje mniej czasu",
       "no": "Å bryte opp dører og containere tar mindre tid",
       "da": "At bryde døre og containere op tager mindre tid",
-      "it": "Sfondare porte e contenitori richiede meno tempo"
+      "it": "Sfondare porte e contenitori richiede meno tempo",
+      "tr": "Kapıları ve konteynerleri kırmak daha az zaman alır",
+      "zh-TW": "破門和破壞容器所需時間更短",
+      "ja": "ドアやコンテナの突破にかかる時間が短縮される",
+      "zh-CN": "破门和破坏容器所需时间更短",
+      "ru": "Взлом дверей и контейнеров занимает меньше времени",
+      "kr": "문과 컨테이너 돌파 시간이 감소합니다",
+      "uk": "Злом дверей та контейнерів займає менше часу"
     },
     "impactedSkill": {
       "en": "Breach Time Reduction",
@@ -222,7 +320,14 @@
       "pl": "Redukcja czasu włamania",
       "no": "Reduksjon av oppbruddstid",
       "da": "Reduktion af opbrydningstid",
-      "it": "Riduzione Tempo Sfondamento"
+      "it": "Riduzione Tempo Sfondamento",
+      "tr": "Kırma Süresi Azaltma",
+      "zh-TW": "破門時間減少",
+      "ja": "突破時間短縮",
+      "zh-CN": "破门时间减少",
+      "ru": "Сокращение времени взлома",
+      "kr": "돌파 시간 감소",
+      "uk": "Скорочення часу злому"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -248,7 +353,14 @@
       "pl": "Wytrzymałość ocalałego",
       "no": "Overlevendes utholdenhet",
       "da": "Overlevendes udholdenhed",
-      "it": "Vigore del Sopravvissuto"
+      "it": "Vigore del Sopravvissuto",
+      "tr": "Hayatta Kalanın Dayanıklılığı",
+      "zh-TW": "倖存者耐力",
+      "ja": "生存者のスタミナ",
+      "zh-CN": "幸存者耐力",
+      "ru": "Выносливость выжившего",
+      "kr": "생존자의 스태미나",
+      "uk": "Витривалість вижившого"
     },
     "description": {
       "en": "When you're critically hurt, your stamina regenerates faster.",
@@ -259,7 +371,14 @@
       "pl": "Kiedy jesteś krytycznie ranny, twoja wytrzymałość regeneruje się szybciej.",
       "no": "Når du er kritisk skadet, regenererer utholdenheten din raskere.",
       "da": "Når du er kritisk såret, regenererer din udholdenhed hurtigere.",
-      "it": "Quando sei gravemente ferito, il tuo vigore si rigenera più velocemente."
+      "it": "Quando sei gravemente ferito, il tuo vigore si rigenera più velocemente.",
+      "tr": "Kritik şekilde yaralandığınızda dayanıklılığınız daha hızlı yenilenir.",
+      "zh-TW": "當你受到重傷時，耐力恢復速度更快。",
+      "ja": "瀕死状態の時、スタミナの回復速度が上昇する。",
+      "zh-CN": "当你受到重伤时，耐力恢复速度更快。",
+      "ru": "Когда вы критически ранены, ваша выносливость восстанавливается быстрее.",
+      "kr": "치명상을 입었을 때 스태미나가 더 빠르게 재생됩니다.",
+      "uk": "Коли ви критично поранені, ваша витривалість відновлюється швидше."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -270,7 +389,14 @@
       "pl": "Regeneracja wytrzymałości",
       "no": "Utholdenhetsregenerering",
       "da": "Udholdenhedsregenerering",
-      "it": "Rigenerazione Vigore"
+      "it": "Rigenerazione Vigore",
+      "tr": "Dayanıklılık Yenilemesi",
+      "zh-TW": "耐力恢復",
+      "ja": "スタミナ回復",
+      "zh-CN": "耐力恢复",
+      "ru": "Восстановление выносливости",
+      "kr": "스태미나 재생",
+      "uk": "Відновлення витривалості"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -296,7 +422,14 @@
       "pl": "Nieobciążony przewrót",
       "no": "Ubyrdet rulle",
       "da": "Ubyrdet rulle",
-      "it": "Rotolata Senza Peso"
+      "it": "Rotolata Senza Peso",
+      "tr": "Yüksüz Yuvarlanma",
+      "zh-TW": "無負擔翻滾",
+      "ja": "身軽な回避",
+      "zh-CN": "无负担翻滚",
+      "ru": "Облегчённый перекат",
+      "kr": "부담 없는 구르기",
+      "uk": "Полегшений перекат"
     },
     "description": {
       "en": "If your shield breaks, your first Dodge Roll within a few seconds does not cost stamina.",
@@ -307,7 +440,14 @@
       "pl": "Jeśli twoja tarcza się złamie, twój pierwszy przewrót unikowy w ciągu kilku sekund nie kosztuje wytrzymałości.",
       "no": "Hvis skjoldet ditt knuser, koster din første unnamanøver innen noen sekunder ikke utholdenhet.",
       "da": "Hvis dit skjold går i stykker, koster din første undvigerulle inden få sekunder ikke udholdenhed.",
-      "it": "Se il tuo scudo si rompe, la tua prima Schivata Rotolante entro pochi secondi non costa vigore."
+      "it": "Se il tuo scudo si rompe, la tua prima Schivata Rotolante entro pochi secondi non costa vigore.",
+      "tr": "Kalkanınız kırılırsa, birkaç saniye içindeki ilk Yuvarlanma Hareketi dayanıklılık harcamaz.",
+      "zh-TW": "如果你的盾牌破碎，幾秒內的第一次閃避翻滾不消耗耐力。",
+      "ja": "シールドが破壊されると、数秒以内の最初の回避ロールはスタミナを消費しない。",
+      "zh-CN": "如果你的盾牌破碎，几秒内的第一次闪避翻滚不消耗耐力。",
+      "ru": "Если ваш щит ломается, первый перекат в течение нескольких секунд не расходует выносливость.",
+      "kr": "방패가 부서지면 몇 초 내의 첫 번째 회피 구르기가 스태미나를 소모하지 않습니다.",
+      "uk": "Якщо ваш щит ламається, перший перекат протягом кількох секунд не витрачає витривалість."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -318,7 +458,14 @@
       "pl": "Regeneracja wytrzymałości",
       "no": "Utholdenhetsregenerering",
       "da": "Udholdenhedsregenerering",
-      "it": "Rigenerazione Vigore"
+      "it": "Rigenerazione Vigore",
+      "tr": "Dayanıklılık Yenilemesi",
+      "zh-TW": "耐力恢復",
+      "ja": "スタミナ回復",
+      "zh-CN": "耐力恢复",
+      "ru": "Восстановление выносливости",
+      "kr": "스태미나 재생",
+      "uk": "Відновлення витривалості"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -344,7 +491,14 @@
       "pl": "Trochę ekstra",
       "no": "Litt ekstra",
       "da": "Lidt ekstra",
-      "it": "Un Piccolo Extra"
+      "it": "Un Piccolo Extra",
+      "tr": "Biraz Ekstra",
+      "zh-TW": "額外收穫",
+      "ja": "ちょっとしたおまけ",
+      "zh-CN": "额外收获",
+      "ru": "Немного дополнительно",
+      "kr": "약간의 추가",
+      "uk": "Трохи додатково"
     },
     "description": {
       "en": "Breaching an object generates resources.",
@@ -355,7 +509,14 @@
       "pl": "Włamanie się do obiektu generuje zasoby.",
       "no": "Å bryte opp et objekt genererer ressurser.",
       "da": "At bryde et objekt op genererer ressourcer.",
-      "it": "Sfondare un oggetto genera risorse."
+      "it": "Sfondare un oggetto genera risorse.",
+      "tr": "Bir nesneyi kırmak kaynak üretir.",
+      "zh-TW": "破壞物體會產生資源。",
+      "ja": "オブジェクトを突破するとリソースが生成される。",
+      "zh-CN": "破坏物体会产生资源。",
+      "ru": "Взлом объекта генерирует ресурсы.",
+      "kr": "물체를 돌파하면 자원이 생성됩니다.",
+      "uk": "Злом об'єкта генерує ресурси."
     },
     "impactedSkill": {
       "en": "Resource Generation",
@@ -366,7 +527,14 @@
       "pl": "Generowanie zasobów",
       "no": "Ressursgenerering",
       "da": "Ressourcegenerering",
-      "it": "Generazione Risorse"
+      "it": "Generazione Risorse",
+      "tr": "Kaynak Üretimi",
+      "zh-TW": "資源生成",
+      "ja": "リソース生成",
+      "zh-CN": "资源生成",
+      "ru": "Генерация ресурсов",
+      "kr": "자원 생성",
+      "uk": "Генерація ресурсів"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -393,7 +561,14 @@
       "pl": "Powalony ale zdeterminowany",
       "no": "Nede men bestemt",
       "da": "Nede men fast besluttet",
-      "it": "A Terra ma Determinato"
+      "it": "A Terra ma Determinato",
+      "tr": "Yere Düşmüş Ama Kararlı",
+      "zh-TW": "倒下但堅定",
+      "ja": "倒れても不屈",
+      "zh-CN": "倒下但坚定",
+      "ru": "Сбит, но полон решимости",
+      "kr": "쓰러졌지만 결연함",
+      "uk": "Збитий, але рішучий"
     },
     "description": {
       "en": "When you're downed, it takes longer before you collapse.",
@@ -404,7 +579,14 @@
       "pl": "Kiedy jesteś powalony, trwa dłużej, zanim się załamiesz.",
       "no": "Når du er nede, tar det lengre tid før du kollapser.",
       "da": "Når du er nede, tager det længere tid, før du kollapser.",
-      "it": "Quando sei a terra, ci vuole più tempo prima che tu collassi."
+      "it": "Quando sei a terra, ci vuole più tempo prima che tu collassi.",
+      "tr": "Yere düştüğünüzde tamamen çökmeden önce daha uzun süre dayanırsınız.",
+      "zh-TW": "當你倒下時，完全倒地前需要更長時間。",
+      "ja": "ダウン状態になった時、完全に倒れるまでの時間が長くなる。",
+      "zh-CN": "当你倒下时，完全倒地前需要更长时间。",
+      "ru": "Когда вас сбивают, до полного падения проходит больше времени.",
+      "kr": "쓰러졌을 때 완전히 무력화되기까지 시간이 더 오래 걸립니다.",
+      "uk": "Коли вас збивають, до повного падіння проходить більше часу."
     },
     "impactedSkill": {
       "en": "Downed Duration",
@@ -415,7 +597,14 @@
       "pl": "Czas powalenia",
       "no": "Nede-varighet",
       "da": "Nede-varighed",
-      "it": "Durata a Terra"
+      "it": "Durata a Terra",
+      "tr": "Yere Düşme Süresi",
+      "zh-TW": "倒地持續時間",
+      "ja": "ダウン持続時間",
+      "zh-CN": "倒地持续时间",
+      "ru": "Длительность состояния сбитого",
+      "kr": "쓰러진 지속시간",
+      "uk": "Тривалість стану збитого"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -441,7 +630,14 @@
       "pl": "Bezwysiłkowy zamach",
       "no": "Uanstrengt sving",
       "da": "Ubesværet sving",
-      "it": "Colpo Senza Sforzo"
+      "it": "Colpo Senza Sforzo",
+      "tr": "Zahmetsiz Sallanış",
+      "zh-TW": "輕鬆揮擊",
+      "ja": "楽々スイング",
+      "zh-CN": "轻松挥击",
+      "ru": "Лёгкий замах",
+      "kr": "수월한 휘두르기",
+      "uk": "Легкий замах"
     },
     "description": {
       "en": "Melee abilities cost less stamina. ",
@@ -452,7 +648,14 @@
       "pl": "Umiejętności walki wręcz kosztują mniej wytrzymałości. ",
       "no": "Nærkampferdigheter koster mindre utholdenhet. ",
       "da": "Nærkampsevner koster mindre udholdenhed. ",
-      "it": "Le abilità da mischia costano meno vigore. "
+      "it": "Le abilità da mischia costano meno vigore. ",
+      "tr": "Yakın dövüş yetenekleri daha az dayanıklılık harcar. ",
+      "zh-TW": "近戰技能消耗更少耐力。 ",
+      "ja": "近接アビリティのスタミナ消費が減少する。 ",
+      "zh-CN": "近战技能消耗更少耐力。 ",
+      "ru": "Способности ближнего боя расходуют меньше выносливости. ",
+      "kr": "근접 능력의 스태미나 소모가 감소합니다. ",
+      "uk": "Здібності ближнього бою витрачають менше витривалості. "
     },
     "impactedSkill": {
       "en": "Stamina Cost Reduction",
@@ -463,7 +666,14 @@
       "pl": "Redukcja kosztu wytrzymałości",
       "no": "Reduksjon av utholdenhets kost",
       "da": "Reduktion af udholdenhedsomkostning",
-      "it": "Riduzione Costo Vigore"
+      "it": "Riduzione Costo Vigore",
+      "tr": "Dayanıklılık Maliyeti Azaltma",
+      "zh-TW": "耐力消耗減少",
+      "ja": "スタミナコスト軽減",
+      "zh-CN": "耐力消耗减少",
+      "ru": "Снижение расхода выносливости",
+      "kr": "스태미나 소모 감소",
+      "uk": "Зниження витрат витривалості"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -489,7 +699,14 @@
       "pl": "Załadowane ramiona",
       "no": "Lastede armer",
       "da": "Lastede arme",
-      "it": "Braccia Cariche"
+      "it": "Braccia Cariche",
+      "tr": "Yüklü Kollar",
+      "zh-TW": "負重武裝",
+      "ja": "武装適応",
+      "zh-CN": "负重武装",
+      "ru": "Привычное оружие",
+      "kr": "무장 적응",
+      "uk": "Звичне озброєння"
     },
     "description": {
       "en": "Your equipped weapon has less impact on your encumbrance.",
@@ -500,7 +717,14 @@
       "pl": "Twoja wyposażona broń ma mniejszy wpływ na twoje obciążenie.",
       "no": "Ditt utstyrte våpen har mindre innvirkning på din belastning.",
       "da": "Dit udstyrede våben har mindre indvirkning på din belastning.",
-      "it": "L'arma equipaggiata ha un impatto minore sul tuo ingombro."
+      "it": "L'arma equipaggiata ha un impatto minore sul tuo ingombro.",
+      "tr": "Kuşandığın silahın yük kapasitene etkisi azalır.",
+      "zh-TW": "你裝備的武器對負重的影響較小。",
+      "ja": "装備している武器が重量負荷に与える影響が減少する。",
+      "zh-CN": "你装备的武器对负重的影响较小。",
+      "ru": "Экипированное оружие меньше влияет на вашу нагрузку.",
+      "kr": "장착한 무기가 무게 부담에 미치는 영향이 감소합니다.",
+      "uk": "Екіпірована зброя менше впливає на ваше навантаження."
     },
     "impactedSkill": {
       "en": "Encumbrance Reduction",
@@ -511,7 +735,14 @@
       "pl": "Redukcja obciążenia",
       "no": "Reduksjon av belastning",
       "da": "Reduktion af belastning",
-      "it": "Riduzione Ingombro"
+      "it": "Riduzione Ingombro",
+      "tr": "Yük Azaltma",
+      "zh-TW": "負重減輕",
+      "ja": "重量負荷軽減",
+      "zh-CN": "负重减轻",
+      "ru": "Снижение нагрузки",
+      "kr": "무게 부담 감소",
+      "uk": "Зниження навантаження"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -537,7 +768,14 @@
       "pl": "Pełzanie żółwia",
       "no": "Skilpaddekryp",
       "da": "Skildpaddekravl",
-      "it": "Corazza di Tartaruga"
+      "it": "Corazza di Tartaruga",
+      "tr": "Kaplumbağa Sürünüşü",
+      "zh-TW": "龜殼爬行",
+      "ja": "タートルクロール",
+      "zh-CN": "龟壳爬行",
+      "ru": "Черепаший панцирь",
+      "kr": "거북이 기어가기",
+      "uk": "Черепаший панцир"
     },
     "description": {
       "en": "While downed, you take less damage.",
@@ -548,7 +786,14 @@
       "pl": "Kiedy jesteś powalony, otrzymujesz mniej obrażeń.",
       "no": "Mens du er nede, tar du mindre skade.",
       "da": "Mens du er nede, tager du mindre skade.",
-      "it": "Mentre sei a terra, subisci meno danni."
+      "it": "Mentre sei a terra, subisci meno danni.",
+      "tr": "Yere düştüğünde daha az hasar alırsın.",
+      "zh-TW": "倒地時受到的傷害減少。",
+      "ja": "ダウン中に受けるダメージが減少する。",
+      "zh-CN": "倒地时受到的伤害减少。",
+      "ru": "В состоянии при смерти вы получаете меньше урона.",
+      "kr": "쓰러진 상태에서 받는 피해가 감소합니다.",
+      "uk": "У стані при смерті ви отримуєте менше пошкоджень."
     },
     "impactedSkill": {
       "en": "Downed Damage Reduction",
@@ -559,7 +804,14 @@
       "pl": "Redukcja obrażeń w powaleniu",
       "no": "Skadereduksjon nede",
       "da": "Skadereduktion nede",
-      "it": "Riduzione Danni a Terra"
+      "it": "Riduzione Danni a Terra",
+      "tr": "Düşme Hasarı Azaltma",
+      "zh-TW": "倒地傷害減免",
+      "ja": "ダウン中ダメージ軽減",
+      "zh-CN": "倒地伤害减免",
+      "ru": "Снижение урона при смерти",
+      "kr": "쓰러짐 피해 감소",
+      "uk": "Зниження пошкоджень при смерті"
     },
     "category": "CONDITIONING",
     "maxPoints": 5,
@@ -584,7 +836,14 @@
       "pl": "Zamach oczyszczający niebo",
       "no": "Himmelklarende sving",
       "da": "Himmelryddende sving",
-      "it": "Colpo Spazzacielo"
+      "it": "Colpo Spazzacielo",
+      "tr": "Gökyüzü Temizleme Vuruşu",
+      "zh-TW": "掃空揮擊",
+      "ja": "天空一掃",
+      "zh-CN": "扫空挥击",
+      "ru": "Удар по небу",
+      "kr": "하늘 쓸어내기",
+      "uk": "Удар по небу"
     },
     "description": {
       "en": "You deal more melee damage to drones.",
@@ -595,7 +854,14 @@
       "pl": "Zadajesz więcej obrażeń wręcz dronom.",
       "no": "Du gjør mer nærkampskade mot droner.",
       "da": "Du gør mere nærkampsskade mod droner.",
-      "it": "Infliggi più danni corpo a corpo ai droni."
+      "it": "Infliggi più danni corpo a corpo ai droni.",
+      "tr": "Drone'lara daha fazla yakın dövüş hasarı verirsin.",
+      "zh-TW": "你對無人機造成更多近戰傷害。",
+      "ja": "ドローンに対する近接ダメージが増加する。",
+      "zh-CN": "你对无人机造成更多近战伤害。",
+      "ru": "Вы наносите больше урона дронам в ближнем бою.",
+      "kr": "드론에게 더 많은 근접 피해를 입힙니다.",
+      "uk": "Ви завдаєте більше пошкоджень дронам у ближньому бою."
     },
     "impactedSkill": {
       "en": "Melee Damage",
@@ -606,7 +872,14 @@
       "pl": "Obrażenia wręcz",
       "no": "Nærkampskade",
       "da": "Nærkampsskade",
-      "it": "Danni Corpo a Corpo"
+      "it": "Danni Corpo a Corpo",
+      "tr": "Yakın Dövüş Hasarı",
+      "zh-TW": "近戰傷害",
+      "ja": "近接ダメージ",
+      "zh-CN": "近战伤害",
+      "ru": "Урон в ближнем бою",
+      "kr": "근접 피해",
+      "uk": "Пошкодження в ближньому бою"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -632,7 +905,14 @@
       "pl": "Z powrotem na nogach",
       "no": "Tilbake på beina",
       "da": "Tilbage på benene",
-      "it": "Di Nuovo in Piedi"
+      "it": "Di Nuovo in Piedi",
+      "tr": "Ayağa Kalk",
+      "zh-TW": "重新站起",
+      "ja": "立ち直り",
+      "zh-CN": "重新站起",
+      "ru": "Снова на ногах",
+      "kr": "다시 일어서기",
+      "uk": "Знову на ногах"
     },
     "description": {
       "en": "When you're critically hurt, your health regenerates until a certain limit.",
@@ -643,7 +923,14 @@
       "pl": "Kiedy jesteś krytycznie ranny, twoje zdrowie regeneruje się do pewnego limitu.",
       "no": "Når du er kritisk skadet, regenererer helsen din til en viss grense.",
       "da": "Når du er kritisk såret, regenererer dit helbred til en vis grænse.",
-      "it": "Quando sei gravemente ferito, la tua salute si rigenera fino a un certo limite."
+      "it": "Quando sei gravemente ferito, la tua salute si rigenera fino a un certo limite.",
+      "tr": "Kritik şekilde yaralandığında, sağlığın belirli bir limite kadar yenilenir.",
+      "zh-TW": "當你受到重傷時，你的生命值會恢復到一定限度。",
+      "ja": "瀕死状態になると、一定の限度まで体力が回復する。",
+      "zh-CN": "当你受到重伤时，你的生命值会恢复到一定限度。",
+      "ru": "Когда вы критически ранены, ваше здоровье восстанавливается до определённого предела.",
+      "kr": "치명상을 입었을 때, 일정 한도까지 체력이 재생됩니다.",
+      "uk": "Коли ви критично поранені, ваше здоров'я відновлюється до певної межі."
     },
     "impactedSkill": {
       "en": "Health Regeneration",
@@ -654,7 +941,14 @@
       "pl": "Regeneracja zdrowia",
       "no": "Helseregenerering",
       "da": "Helbredsregenerering",
-      "it": "Rigenerazione Salute"
+      "it": "Rigenerazione Salute",
+      "tr": "Sağlık Yenilenmesi",
+      "zh-TW": "生命恢復",
+      "ja": "体力回復",
+      "zh-CN": "生命恢复",
+      "ru": "Восстановление здоровья",
+      "kr": "체력 재생",
+      "uk": "Відновлення здоров'я"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -681,7 +975,14 @@
       "pl": "Packa na muchy",
       "no": "Fluesmekker",
       "da": "Fluesmækker",
-      "it": "Ammazzamosche"
+      "it": "Ammazzamosche",
+      "tr": "Sinek Vurucusu",
+      "zh-TW": "蒼蠅拍",
+      "ja": "ハエ叩き",
+      "zh-CN": "苍蝇拍",
+      "ru": "Мухобойка",
+      "kr": "파리채",
+      "uk": "Мухобійка"
     },
     "description": {
       "en": "A single melee attack destroys a Tick, Pop, Wasp and Turret.",
@@ -692,7 +993,14 @@
       "pl": "Jeden atak wręcz niszczy Kleszcza, Popa, Osę i Wieżyczkę.",
       "no": "Et enkelt nærkampangrep ødelegger en Flått, Pop, Veps og Tårn.",
       "da": "Et enkelt nærkampsangreb ødelægger en Flåt, Pop, Hveps og Tårn.",
-      "it": "Un singolo attacco corpo a corpo distrugge Tick, Pop, Vespa e Torretta."
+      "it": "Un singolo attacco corpo a corpo distrugge Tick, Pop, Vespa e Torretta.",
+      "tr": "Tek bir yakın dövüş saldırısı Tick, Pop, Wasp ve Turret'i yok eder.",
+      "zh-TW": "一次近戰攻擊即可摧毀蜱蟲、爆破蟲、黃蜂和砲塔。",
+      "ja": "一度の近接攻撃でティック、ポップ、ワスプ、タレットを破壊する。",
+      "zh-CN": "一次近战攻击即可摧毁蜱虫、爆破虫、黄蜂和炮塔。",
+      "ru": "Одна атака ближнего боя уничтожает клеща, попа, осу и турель.",
+      "kr": "근접 공격 한 번으로 틱, 팝, 와스프, 터렛을 파괴합니다.",
+      "uk": "Одна атака ближнього бою знищує кліща, попа, осу та турель."
     },
     "impactedSkill": {
       "en": "Melee Damage",
@@ -703,7 +1011,14 @@
       "pl": "Obrażenia wręcz",
       "no": "Nærkampskade",
       "da": "Nærkampsskade",
-      "it": "Danni Corpo a Corpo"
+      "it": "Danni Corpo a Corpo",
+      "tr": "Yakın Dövüş Hasarı",
+      "zh-TW": "近戰傷害",
+      "ja": "近接ダメージ",
+      "zh-CN": "近战伤害",
+      "ru": "Урон в ближнем бою",
+      "kr": "근접 피해",
+      "uk": "Пошкодження в ближньому бою"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -730,7 +1045,14 @@
       "pl": "Zwinny wspinacz",
       "no": "Smidig klatrer",
       "da": "Smidig klatrer",
-      "it": "Scalatore Agile"
+      "it": "Scalatore Agile",
+      "tr": "Çevik Tırmanıcı",
+      "zh-TW": "靈活攀爬者",
+      "ja": "敏捷な登攀者",
+      "zh-CN": "灵活攀爬者",
+      "ru": "Ловкий скалолаз",
+      "kr": "민첩한 등반가",
+      "uk": "Спритний скелелаз"
     },
     "description": {
       "en": "You can climb and vault more quickly.",
@@ -741,7 +1063,14 @@
       "pl": "Możesz szybciej wspinać się i przeskakiwać.",
       "no": "Du kan klatre og hoppe over raskere.",
       "da": "Du kan klatre og springe over hurtigere.",
-      "it": "Puoi arrampicarti e scavalcare più velocemente."
+      "it": "Puoi arrampicarti e scavalcare più velocemente.",
+      "tr": "Daha hızlı tırmanabilir ve atlayabilirsin.",
+      "zh-TW": "你可以更快地攀爬和翻越。",
+      "ja": "登攀と飛び越えの速度が上昇する。",
+      "zh-CN": "你可以更快地攀爬和翻越。",
+      "ru": "Вы можете быстрее карабкаться и перепрыгивать.",
+      "kr": "더 빠르게 오르고 넘을 수 있습니다.",
+      "uk": "Ви можете швидше лазити та перестрибувати."
     },
     "impactedSkill": {
       "en": "Climb and Vault Speed",
@@ -752,7 +1081,14 @@
       "pl": "Prędkość wspinania i przeskakiwania",
       "no": "Klatre- og hoppehastighet",
       "da": "Klatre- og springhastighed",
-      "it": "Velocità Arrampicata e Scavalcamento"
+      "it": "Velocità Arrampicata e Scavalcamento",
+      "tr": "Tırmanma ve Atlama Hızı",
+      "zh-TW": "攀爬與翻越速度",
+      "ja": "登攀・飛び越え速度",
+      "zh-CN": "攀爬与翻越速度",
+      "ru": "Скорость лазания и прыжков",
+      "kr": "오르기 및 넘기 속도",
+      "uk": "Швидкість лазіння та перестрибування"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -776,7 +1112,14 @@
       "pl": "Maratończyk",
       "no": "Maratonløper",
       "da": "Maratonløber",
-      "it": "Maratoneta"
+      "it": "Maratoneta",
+      "tr": "Maraton Koşucusu",
+      "zh-TW": "馬拉松跑者",
+      "ja": "マラソンランナー",
+      "zh-CN": "马拉松跑者",
+      "ru": "Марафонец",
+      "kr": "마라톤 주자",
+      "uk": "Марафонець"
     },
     "description": {
       "en": "Moving around costs less stamina.",
@@ -787,7 +1130,14 @@
       "pl": "Poruszanie się kosztuje mniej wytrzymałości.",
       "no": "Bevegelse koster mindre utholdenhet.",
       "da": "Bevægelse koster mindre udholdenhed.",
-      "it": "Muoversi consuma meno resistenza."
+      "it": "Muoversi consuma meno resistenza.",
+      "tr": "Hareket etmek daha az dayanıklılık harcar.",
+      "zh-TW": "移動消耗的耐力減少。",
+      "ja": "移動時のスタミナ消費が減少する。",
+      "zh-CN": "移动消耗的耐力减少。",
+      "ru": "Передвижение требует меньше выносливости.",
+      "kr": "이동 시 소모되는 스태미나가 감소합니다.",
+      "uk": "Пересування вимагає менше витривалості."
     },
     "impactedSkill": {
       "en": "Stamina Cost Reduction",
@@ -798,7 +1148,14 @@
       "pl": "Redukcja kosztu wytrzymałości",
       "no": "Reduksjon av utholdenhets kost",
       "da": "Reduktion af udholdenhedsomkostning",
-      "it": "Riduzione Consumo Resistenza"
+      "it": "Riduzione Consumo Resistenza",
+      "tr": "Dayanıklılık Maliyeti Azaltma",
+      "zh-TW": "耐力消耗減少",
+      "ja": "スタミナ消費軽減",
+      "zh-CN": "耐力消耗减少",
+      "ru": "Снижение затрат выносливости",
+      "kr": "스태미나 소모 감소",
+      "uk": "Зниження витрат витривалості"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -824,7 +1181,14 @@
       "pl": "Poślizg i ślizg",
       "no": "Gli og skli",
       "da": "Glid og skrid",
-      "it": "Scivola e Plana"
+      "it": "Scivola e Plana",
+      "tr": "Kayma ve Sürünme",
+      "zh-TW": "滑行無阻",
+      "ja": "スリップ&スライド",
+      "zh-CN": "滑行无阻",
+      "ru": "Скольжение",
+      "kr": "미끄러지기",
+      "uk": "Ковзання"
     },
     "description": {
       "en": "You can slide further and faster.",
@@ -835,7 +1199,14 @@
       "pl": "Możesz ślizgać się dalej i szybciej.",
       "no": "Du kan gli lengre og raskere.",
       "da": "Du kan glide længere og hurtigere.",
-      "it": "Puoi scivolare più lontano e più velocemente."
+      "it": "Puoi scivolare più lontano e più velocemente.",
+      "tr": "Daha uzağa ve daha hızlı kayabilirsin.",
+      "zh-TW": "你可以滑得更遠更快。",
+      "ja": "スライディングの距離と速度が上昇する。",
+      "zh-CN": "你可以滑得更远更快。",
+      "ru": "Вы можете скользить дальше и быстрее.",
+      "kr": "더 멀리, 더 빠르게 미끄러질 수 있습니다.",
+      "uk": "Ви можете ковзати далі та швидше."
     },
     "impactedSkill": {
       "en": "Slide Distance",
@@ -846,7 +1217,14 @@
       "pl": "Dystans ślizgu",
       "no": "Glideavstand",
       "da": "Glideafstand",
-      "it": "Distanza Scivolata"
+      "it": "Distanza Scivolata",
+      "tr": "Kayma Mesafesi",
+      "zh-TW": "滑行距離",
+      "ja": "スライド距離",
+      "zh-CN": "滑行距离",
+      "ru": "Дальность скольжения",
+      "kr": "미끄러지기 거리",
+      "uk": "Дальність ковзання"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -872,7 +1250,14 @@
       "pl": "Młodzieńcze płuca",
       "no": "Ungdommelige lunger",
       "da": "Ungdommelige lunger",
-      "it": "Polmoni Giovanili"
+      "it": "Polmoni Giovanili",
+      "tr": "Genç Akciğerler",
+      "zh-TW": "年輕肺活量",
+      "ja": "若々しい肺",
+      "zh-CN": "年轻肺活量",
+      "ru": "Молодые лёгкие",
+      "kr": "젊은 폐",
+      "uk": "Молоді легені"
     },
     "description": {
       "en": "Increase your max stamina.",
@@ -883,7 +1268,14 @@
       "pl": "Zwiększ maksymalną wytrzymałość.",
       "no": "Øk din maksimale utholdenhet.",
       "da": "Øg din maksimale udholdenhed.",
-      "it": "Aumenta la tua resistenza massima."
+      "it": "Aumenta la tua resistenza massima.",
+      "tr": "Maksimum dayanıklılığını artır.",
+      "zh-TW": "增加你的最大耐力。",
+      "ja": "最大スタミナが増加する。",
+      "zh-CN": "增加你的最大耐力。",
+      "ru": "Увеличивает максимальную выносливость.",
+      "kr": "최대 스태미나가 증가합니다.",
+      "uk": "Збільшує максимальну витривалість."
     },
     "impactedSkill": {
       "en": "Max Stamina",
@@ -894,7 +1286,14 @@
       "pl": "Maks. wytrzymałość",
       "no": "Maks. utholdenhet",
       "da": "Maks. udholdenhed",
-      "it": "Resistenza Massima"
+      "it": "Resistenza Massima",
+      "tr": "Maksimum Dayanıklılık",
+      "zh-TW": "最大耐力",
+      "ja": "最大スタミナ",
+      "zh-CN": "最大耐力",
+      "ru": "Максимальная выносливость",
+      "kr": "최대 스태미나",
+      "uk": "Максимальна витривалість"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -920,7 +1319,14 @@
       "pl": "Mocne kostki",
       "no": "Sterke ankler",
       "da": "Stærke ankler",
-      "it": "Caviglie Robuste"
+      "it": "Caviglie Robuste",
+      "tr": "Sağlam Ayak Bilekleri",
+      "zh-TW": "強健腳踝",
+      "ja": "頑丈な足首",
+      "zh-CN": "强健脚踝",
+      "ru": "Крепкие лодыжки",
+      "kr": "튼튼한 발목",
+      "uk": "Міцні щиколотки"
     },
     "description": {
       "en": "You take less fall damage when falling from a non-lethal height.",
@@ -931,7 +1337,14 @@
       "pl": "Otrzymujesz mniej obrażeń od upadku, spadając z nieśmiertelnej wysokości.",
       "no": "Du tar mindre fallskade når du faller fra en ikke-drepende høyde.",
       "da": "Du tager mindre faldskade, når du falder fra en ikke-dødelig højde.",
-      "it": "Subisci meno danni da caduta quando cadi da un'altezza non letale."
+      "it": "Subisci meno danni da caduta quando cadi da un'altezza non letale.",
+      "tr": "Ölümcül olmayan bir yükseklikten düştüğünde daha az düşme hasarı alırsın.",
+      "zh-TW": "從非致命高度墜落時受到的傷害減少。",
+      "ja": "致命的でない高さから落下した際のダメージが減少する。",
+      "zh-CN": "从非致命高度坠落时受到的伤害减少。",
+      "ru": "Вы получаете меньше урона от падения с несмертельной высоты.",
+      "kr": "치명적이지 않은 높이에서 떨어질 때 받는 낙하 피해가 감소합니다.",
+      "uk": "Ви отримуєте менше пошкоджень від падіння з несмертельної висоти."
     },
     "impactedSkill": {
       "en": "Fall Damage Reduction",
@@ -942,7 +1355,14 @@
       "pl": "Redukcja obrażeń od upadku",
       "no": "Reduksjon av fallskade",
       "da": "Reduktion af faldskade",
-      "it": "Riduzione Danni da Caduta"
+      "it": "Riduzione Danni da Caduta",
+      "tr": "Düşme Hasarı Azaltma",
+      "zh-TW": "墜落傷害減免",
+      "ja": "落下ダメージ軽減",
+      "zh-CN": "坠落伤害减免",
+      "ru": "Снижение урона от падения",
+      "kr": "낙하 피해 감소",
+      "uk": "Зниження пошкоджень від падіння"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -968,7 +1388,14 @@
       "pl": "Utrzymać pęd",
       "no": "Bær momentumet",
       "da": "Bær momentet",
-      "it": "Mantieni lo Slancio"
+      "it": "Mantieni lo Slancio",
+      "tr": "Momentumu Koru",
+      "zh-TW": "保持動能",
+      "ja": "勢いを保つ",
+      "zh-CN": "保持动能",
+      "ru": "Сохранить импульс",
+      "kr": "기세 유지",
+      "uk": "Зберегти імпульс"
     },
     "description": {
       "en": "After a Sprint Dodge Roll, sprinting does not consume stamina for a short time. Has a cooldown between uses.",
@@ -979,7 +1406,14 @@
       "pl": "Po przewrocie unikowym podczas sprintu, sprint nie zużywa wytrzymałości przez krótki czas. Ma czas odnowienia między użyciami.",
       "no": "Etter en sprint-unnamanøver, bruker ikke sprint utholdenhet i kort tid. Har en nedkjølingstid mellom bruk.",
       "da": "Efter en sprint-undvigerulle, bruger sprint ikke udholdenhed i kort tid. Har en afkølingsperiode mellem brug.",
-      "it": "Dopo una Capriola Schivata in Corsa, correre non consuma vigore per un breve periodo. Ha un tempo di recupero tra un utilizzo e l'altro."
+      "it": "Dopo una Capriola Schivata in Corsa, correre non consuma vigore per un breve periodo. Ha un tempo di recupero tra un utilizzo e l'altro.",
+      "tr": "Koşu Yuvarlanmasından sonra, kısa bir süre koşarken dayanıklılık tüketilmez. Kullanımlar arasında bekleme süresi vardır.",
+      "zh-TW": "在衝刺閃避翻滾後，短時間內衝刺不消耗耐力。使用之間有冷卻時間。",
+      "ja": "スプリント回避ロールの後、短時間スプリント中にスタミナを消費しなくなる。使用間にクールダウンがある。",
+      "zh-CN": "在冲刺闪避翻滚后，短时间内冲刺不消耗耐力。使用之间有冷却时间。",
+      "ru": "После перекатывания в спринте бег не расходует выносливость в течение короткого времени. Имеет время восстановления между использованиями.",
+      "kr": "질주 회피 구르기 후, 짧은 시간 동안 질주 시 스태미나를 소모하지 않습니다. 사용 간 재사용 대기시간이 있습니다.",
+      "uk": "Після перекату в спринті біг не витрачає витривалість протягом короткого часу. Має час відновлення між використаннями."
     },
     "impactedSkill": {
       "en": "Stamina Cost Reduction",
@@ -990,7 +1424,14 @@
       "pl": "Redukcja kosztu wytrzymałości",
       "no": "Reduksjon av utholdenhets kost",
       "da": "Reduktion af udholdenhedsomkostning",
-      "it": "Riduzione Costo Vigore"
+      "it": "Riduzione Costo Vigore",
+      "tr": "Dayanıklılık Maliyeti Azaltma",
+      "zh-TW": "耐力消耗減少",
+      "ja": "スタミナ消費軽減",
+      "zh-CN": "耐力消耗减少",
+      "ru": "Снижение расхода выносливости",
+      "kr": "스태미나 소모 감소",
+      "uk": "Зменшення витрат витривалості"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1016,7 +1457,14 @@
       "pl": "Uspokajający spacer",
       "no": "Beroligende spasertur",
       "da": "Beroligende gåtur",
-      "it": "Passeggiata Rilassante"
+      "it": "Passeggiata Rilassante",
+      "tr": "Sakin Yürüyüş",
+      "zh-TW": "平靜漫步",
+      "ja": "落ち着いた散歩",
+      "zh-CN": "平静漫步",
+      "ru": "Спокойная прогулка",
+      "kr": "차분한 산책",
+      "uk": "Спокійна прогулянка"
     },
     "description": {
       "en": "While walking, your stamina regenerates as if you were standing still.",
@@ -1027,7 +1475,14 @@
       "pl": "Podczas chodzenia twoja wytrzymałość regeneruje się, jakbyś stał w miejscu.",
       "no": "Mens du går, regenererer utholdenheten din som om du sto stille.",
       "da": "Mens du går, regenererer din udholdenhed, som om du stod stille.",
-      "it": "Mentre cammini, il tuo vigore si rigenera come se fossi fermo."
+      "it": "Mentre cammini, il tuo vigore si rigenera come se fossi fermo.",
+      "tr": "Yürürken, dayanıklılığınız ayakta duruyormuşsunuz gibi yenilenir.",
+      "zh-TW": "行走時，你的耐力如同站立不動時一樣恢復。",
+      "ja": "歩行中、スタミナが立ち止まっているかのように回復する。",
+      "zh-CN": "行走时，你的耐力如同站立不动时一样恢复。",
+      "ru": "Во время ходьбы ваша выносливость восстанавливается так же, как при стоянии на месте.",
+      "kr": "걷는 동안 스태미나가 정지 상태처럼 재생됩니다.",
+      "uk": "Під час ходьби ваша витривалість відновлюється так само, як при стоянні на місці."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -1038,7 +1493,14 @@
       "pl": "Regeneracja wytrzymałości",
       "no": "Utholdenhetsregenerering",
       "da": "Udholdenhedsregenerering",
-      "it": "Rigenerazione Vigore"
+      "it": "Rigenerazione Vigore",
+      "tr": "Dayanıklılık Yenilenmesi",
+      "zh-TW": "耐力恢復",
+      "ja": "スタミナ回復",
+      "zh-CN": "耐力恢复",
+      "ru": "Восстановление выносливости",
+      "kr": "스태미나 재생",
+      "uk": "Відновлення витривалості"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1064,7 +1526,14 @@
       "pl": "Pełzać przed chodzeniem",
       "no": "Krype før du går",
       "da": "Kravle før du går",
-      "it": "Prima Striscia, Poi Cammina"
+      "it": "Prima Striscia, Poi Cammina",
+      "tr": "Yürümeden Önce Sürün",
+      "zh-TW": "先爬後走",
+      "ja": "這ってから歩け",
+      "zh-CN": "先爬后走",
+      "ru": "Сначала ползи",
+      "kr": "걷기 전에 기어가기",
+      "uk": "Спочатку повзи"
     },
     "description": {
       "en": "When you're downed, you crawl faster.",
@@ -1075,7 +1544,14 @@
       "pl": "Kiedy jesteś powalony, pełzasz szybciej.",
       "no": "Når du er nede, kryper du raskere.",
       "da": "Når du er nede, kravler du hurtigere.",
-      "it": "Quando sei a terra, strisci più velocemente."
+      "it": "Quando sei a terra, strisci più velocemente.",
+      "tr": "Yere düştüğünüzde, daha hızlı sürünürsünüz.",
+      "zh-TW": "當你倒地時，爬行速度更快。",
+      "ja": "ダウン時、這う速度が速くなる。",
+      "zh-CN": "当你倒地时，爬行速度更快。",
+      "ru": "Когда вы сбиты с ног, вы ползаете быстрее.",
+      "kr": "쓰러졌을 때 더 빠르게 기어갑니다.",
+      "uk": "Коли ви збиті з ніг, ви повзаєте швидше."
     },
     "impactedSkill": {
       "en": "Movement Speed",
@@ -1086,7 +1562,14 @@
       "pl": "Prędkość ruchu",
       "no": "Bevegelseshastighet",
       "da": "Bevægelseshastighed",
-      "it": "Velocità di Movimento"
+      "it": "Velocità di Movimento",
+      "tr": "Hareket Hızı",
+      "zh-TW": "移動速度",
+      "ja": "移動速度",
+      "zh-CN": "移动速度",
+      "ru": "Скорость передвижения",
+      "kr": "이동 속도",
+      "uk": "Швидкість пересування"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1113,7 +1596,14 @@
       "pl": "Bezwysiłkowy przewrót",
       "no": "Uanstrengt rulle",
       "da": "Ubesværet rulle",
-      "it": "Capriola Senza Sforzo"
+      "it": "Capriola Senza Sforzo",
+      "tr": "Zahmetsiz Yuvarlanma",
+      "zh-TW": "輕鬆翻滾",
+      "ja": "楽々ロール",
+      "zh-CN": "轻松翻滚",
+      "ru": "Легкий перекат",
+      "kr": "수월한 구르기",
+      "uk": "Легкий перекат"
     },
     "description": {
       "en": "Dodge Rolls cost less stamina.",
@@ -1124,7 +1614,14 @@
       "pl": "Przewroty unikowe kosztują mniej wytrzymałości.",
       "no": "Unnamanøvrer koster mindre utholdenhet.",
       "da": "Undvigeruller koster mindre udholdenhed.",
-      "it": "Le Capriole Schivate costano meno vigore."
+      "it": "Le Capriole Schivate costano meno vigore.",
+      "tr": "Yuvarlanma daha az dayanıklılık harcar.",
+      "zh-TW": "閃避翻滾消耗更少耐力。",
+      "ja": "回避ロールのスタミナ消費が減少する。",
+      "zh-CN": "闪避翻滚消耗更少耐力。",
+      "ru": "Перекаты расходуют меньше выносливости.",
+      "kr": "회피 구르기의 스태미나 소모가 감소합니다.",
+      "uk": "Перекати витрачають менше витривалості."
     },
     "impactedSkill": {
       "en": "Stamina Cost Reduction",
@@ -1135,7 +1632,14 @@
       "pl": "Redukcja kosztu wytrzymałości",
       "no": "Reduksjon av utholdenhets kost",
       "da": "Reduktion af udholdenhedsomkostning",
-      "it": "Riduzione Costo Vigore"
+      "it": "Riduzione Costo Vigore",
+      "tr": "Dayanıklılık Maliyeti Azaltma",
+      "zh-TW": "耐力消耗減少",
+      "ja": "スタミナ消費軽減",
+      "zh-CN": "耐力消耗减少",
+      "ru": "Снижение расхода выносливости",
+      "kr": "스태미나 소모 감소",
+      "uk": "Зменшення витрат витривалості"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1161,7 +1665,14 @@
       "pl": "Ze ściany",
       "no": "Av veggen",
       "da": "Af væggen",
-      "it": "Rimbalzo dal Muro"
+      "it": "Rimbalzo dal Muro",
+      "tr": "Duvardan Fırlama",
+      "zh-TW": "牆上飛躍",
+      "ja": "壁からの跳躍",
+      "zh-CN": "墙上飞跃",
+      "ru": "От стены",
+      "kr": "벽 도약",
+      "uk": "Від стіни"
     },
     "description": {
       "en": "You can Wall Leap further.",
@@ -1172,7 +1683,14 @@
       "pl": "Możesz skoczyć dalej ze ściany.",
       "no": "Du kan hoppe lengre fra veggen.",
       "da": "Du kan springe længere fra væggen.",
-      "it": "Puoi effettuare Salti dal Muro più lontano."
+      "it": "Puoi effettuare Salti dal Muro più lontano.",
+      "tr": "Duvar Sıçramasını daha uzağa yapabilirsiniz.",
+      "zh-TW": "你可以跳得更遠。",
+      "ja": "壁跳びの距離が伸びる。",
+      "zh-CN": "你可以跳得更远。",
+      "ru": "Вы можете прыгать от стены дальше.",
+      "kr": "벽 도약을 더 멀리 할 수 있습니다.",
+      "uk": "Ви можете стрибати від стіни далі."
     },
     "impactedSkill": {
       "en": "Wall Leap Distance",
@@ -1183,7 +1701,14 @@
       "pl": "Dystans skoku ze ściany",
       "no": "Veggsprangavstand",
       "da": "Vægspringafstand",
-      "it": "Distanza Salto dal Muro"
+      "it": "Distanza Salto dal Muro",
+      "tr": "Duvar Sıçrama Mesafesi",
+      "zh-TW": "牆壁跳躍距離",
+      "ja": "壁跳び距離",
+      "zh-CN": "墙壁跳跃距离",
+      "ru": "Дальность прыжка от стены",
+      "kr": "벽 도약 거리",
+      "uk": "Дальність стрибка від стіни"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1209,7 +1734,14 @@
       "pl": "Energiczny skoczek",
       "no": "Energisk hoppende",
       "da": "Energisk springer",
-      "it": "Scavalcatore Vigoroso"
+      "it": "Scavalcatore Vigoroso",
+      "tr": "Güçlü Atlayıcı",
+      "zh-TW": "活力跳躍者",
+      "ja": "活力ある跳躍者",
+      "zh-CN": "活力跳跃者",
+      "ru": "Энергичный прыгун",
+      "kr": "활기찬 도약자",
+      "uk": "Енергійний стрибун"
     },
     "description": {
       "en": "Vaulting is no longer slowed down while exhausted.",
@@ -1220,7 +1752,14 @@
       "pl": "Przeskakiwanie nie jest już spowolnione, gdy jesteś wyczerpany.",
       "no": "Hopping bremses ikke lenger når du er utmattet.",
       "da": "Spring bremses ikke længere, når du er udtømt.",
-      "it": "Scavalcare non viene più rallentato quando sei esausto."
+      "it": "Scavalcare non viene più rallentato quando sei esausto.",
+      "tr": "Tükenmiş durumdayken atlamak artık yavaşlamaz.",
+      "zh-TW": "疲憊時跳躍不再減速。",
+      "ja": "疲労時でも跳び越えが遅くならなくなる。",
+      "zh-CN": "疲惫时跳跃不再减速。",
+      "ru": "Прыжки через препятствия больше не замедляются при истощении.",
+      "kr": "탈진 상태에서도 넘기 속도가 느려지지 않습니다.",
+      "uk": "Стрибки через перешкоди більше не сповільнюються при виснаженні."
     },
     "impactedSkill": {
       "en": "Climb and Vault Speed",
@@ -1231,7 +1770,14 @@
       "pl": "Prędkość wspinania i przeskakiwania",
       "no": "Klatre- og hoppehastighet",
       "da": "Klatre- og springhastighed",
-      "it": "Velocità di Arrampicata e Scavalcamento"
+      "it": "Velocità di Arrampicata e Scavalcamento",
+      "tr": "Tırmanma ve Atlama Hızı",
+      "zh-TW": "攀爬與跳躍速度",
+      "ja": "登攀と跳び越え速度",
+      "zh-CN": "攀爬与跳跃速度",
+      "ru": "Скорость лазания и прыжков",
+      "kr": "등반 및 넘기 속도",
+      "uk": "Швидкість лазіння та стрибків"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1257,7 +1803,14 @@
       "pl": "Heroiczny skok",
       "no": "Heroisk hopp",
       "da": "Heroisk spring",
-      "it": "Salto Eroico"
+      "it": "Salto Eroico",
+      "tr": "Kahramanca Sıçrayış",
+      "zh-TW": "英勇飛躍",
+      "ja": "英雄的跳躍",
+      "zh-CN": "英勇飞跃",
+      "ru": "Героический прыжок",
+      "kr": "영웅적 도약",
+      "uk": "Героїчний стрибок"
     },
     "description": {
       "en": "You can Sprint Dodge Roll further.",
@@ -1268,7 +1821,14 @@
       "pl": "Możesz wykonywać przewroty unikowe podczas sprintu dalej.",
       "no": "Du kan utføre sprint-unnamanøvrer lengre.",
       "da": "Du kan udføre sprint-undvigeruller længere.",
-      "it": "Puoi effettuare Capriole Schivate in Corsa più lontano."
+      "it": "Puoi effettuare Capriole Schivate in Corsa più lontano.",
+      "tr": "Koşu Yuvarlanmasını daha uzağa yapabilirsiniz.",
+      "zh-TW": "你可以將衝刺閃避翻滾得更遠。",
+      "ja": "スプリント回避ロールの距離が伸びる。",
+      "zh-CN": "你可以将冲刺闪避翻滚得更远。",
+      "ru": "Вы можете перекатываться в спринте дальше.",
+      "kr": "질주 회피 구르기를 더 멀리 할 수 있습니다.",
+      "uk": "Ви можете перекочуватися в спринті далі."
     },
     "impactedSkill": {
       "en": "Roll Distance",
@@ -1279,7 +1839,14 @@
       "pl": "Dystans przewrotu",
       "no": "Rulleavstand",
       "da": "Rulleafstand",
-      "it": "Distanza Capriola"
+      "it": "Distanza Capriola",
+      "tr": "Yuvarlanma Mesafesi",
+      "zh-TW": "翻滾距離",
+      "ja": "ロール距離",
+      "zh-CN": "翻滚距离",
+      "ru": "Дальность переката",
+      "kr": "구르기 거리",
+      "uk": "Дальність перекату"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1305,7 +1872,14 @@
       "pl": "Gotowy do przewrotu",
       "no": "Klar til å rulle",
       "da": "Klar til at rulle",
-      "it": "Pronto a Rotolare"
+      "it": "Pronto a Rotolare",
+      "tr": "Yuvarlanmaya Hazır",
+      "zh-TW": "準備翻滾",
+      "ja": "ロールの準備",
+      "zh-CN": "准备翻滚",
+      "ru": "Готов к перекату",
+      "kr": "구르기 준비",
+      "uk": "Готовий до перекату"
     },
     "description": {
       "en": "When falling, your timing window to perform a Recovery Roll is increased.",
@@ -1316,7 +1890,14 @@
       "pl": "Podczas upadku, twoje okno czasowe na wykonanie przewrotu odzyskującego jest zwiększone.",
       "no": "Når du faller, økes tidsvinduet ditt for å utføre en gjenopprettingsrulle.",
       "da": "Når du falder, øges dit tidsvindue til at udføre en gendannelsesrulle.",
-      "it": "Quando cadi, la finestra temporale per eseguire una Capriola di Recupero è aumentata."
+      "it": "Quando cadi, la finestra temporale per eseguire una Capriola di Recupero è aumentata.",
+      "tr": "Düşerken, Toparlanma Yuvarlanması yapma zamanlamanız artar.",
+      "zh-TW": "墜落時，執行恢復翻滾的時機窗口增加。",
+      "ja": "落下時、受け身ロールを行うタイミングの猶予が増える。",
+      "zh-CN": "坠落时，执行恢复翻滚的时机窗口增加。",
+      "ru": "При падении временное окно для выполнения восстанавливающего переката увеличивается.",
+      "kr": "낙하 시 회복 구르기를 수행할 수 있는 타이밍 여유가 증가합니다.",
+      "uk": "При падінні часове вікно для виконання відновлювального перекату збільшується."
     },
     "impactedSkill": {
       "en": "Recover Roll Window",
@@ -1327,7 +1908,14 @@
       "pl": "Okno przewrotu odzyskującego",
       "no": "Gjenopprettingsrullevindu",
       "da": "Gendannelsesrullevindue",
-      "it": "Finestra Capriola di Recupero"
+      "it": "Finestra Capriola di Recupero",
+      "tr": "Toparlanma Yuvarlanması Penceresi",
+      "zh-TW": "恢復翻滾窗口",
+      "ja": "受け身ロール猶予",
+      "zh-CN": "恢复翻滚窗口",
+      "ru": "Окно восстанавливающего переката",
+      "kr": "회복 구르기 여유",
+      "uk": "Вікно відновлювального перекату"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1353,7 +1941,14 @@
       "pl": "Skoki na skoki na skoki",
       "no": "Hopp på hopp på hopp",
       "da": "Spring på spring på spring",
-      "it": "Scavalcamenti su Scavalcamenti"
+      "it": "Scavalcamenti su Scavalcamenti",
+      "tr": "Atlama Üstüne Atlama",
+      "zh-TW": "跳躍再跳躍",
+      "ja": "跳び越えに跳び越え",
+      "zh-CN": "跳跃再跳跃",
+      "ru": "Прыжок за прыжком",
+      "kr": "넘고 넘고 또 넘기",
+      "uk": "Стрибок за стрибком"
     },
     "description": {
       "en": "Vaulting no longer costs stamina.",
@@ -1364,7 +1959,14 @@
       "pl": "Przeskakiwanie nie kosztuje już wytrzymałości.",
       "no": "Hopping koster ikke lenger utholdenhet.",
       "da": "Spring koster ikke længere udholdenhed.",
-      "it": "Scavalcare non costa più vigore."
+      "it": "Scavalcare non costa più vigore.",
+      "tr": "Atlamak artık dayanıklılık harcamaz.",
+      "zh-TW": "跳躍不再消耗耐力。",
+      "ja": "跳び越えがスタミナを消費しなくなる。",
+      "zh-CN": "跳跃不再消耗耐力。",
+      "ru": "Прыжки через препятствия больше не расходуют выносливость.",
+      "kr": "넘기가 더 이상 스태미나를 소모하지 않습니다.",
+      "uk": "Стрибки через перешкоди більше не витрачають витривалість."
     },
     "impactedSkill": {
       "en": "Stamina Cost Reduction",
@@ -1375,7 +1977,14 @@
       "pl": "Redukcja kosztu wytrzymałości",
       "no": "Reduksjon av utholdenhets kost",
       "da": "Reduktion af udholdenhedsomkostning",
-      "it": "Riduzione Costo Vigore"
+      "it": "Riduzione Costo Vigore",
+      "tr": "Dayanıklılık Maliyeti Azaltma",
+      "zh-TW": "耐力消耗減少",
+      "ja": "スタミナ消費軽減",
+      "zh-CN": "耐力消耗减少",
+      "ru": "Снижение расхода выносливости",
+      "kr": "스태미나 소모 감소",
+      "uk": "Зменшення витрат витривалості"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1402,7 +2011,14 @@
       "pl": "Sprężyna skoku",
       "no": "Hoppfjær",
       "da": "Springfjær",
-      "it": "Scatto da Scavalcamento"
+      "it": "Scatto da Scavalcamento",
+      "tr": "Atlama Sıçraması",
+      "zh-TW": "跳躍彈跳",
+      "ja": "跳び越えジャンプ",
+      "zh-CN": "跳跃弹跳",
+      "ru": "Прыжок с разбега",
+      "kr": "도약 스프링",
+      "uk": "Стрибок з розбігу"
     },
     "description": {
       "en": "Lets you jump at the end of a vault.",
@@ -1413,7 +2029,14 @@
       "pl": "Pozwala skoczyć na końcu przeskoku.",
       "no": "Lar deg hoppe på slutten av et hopp.",
       "da": "Lader dig springe i slutningen af et spring.",
-      "it": "Ti permette di saltare alla fine di uno scavalcamento."
+      "it": "Ti permette di saltare alla fine di uno scavalcamento.",
+      "tr": "Atlama sonunda zıplamanızı sağlar.",
+      "zh-TW": "讓你在跳躍結束時可以跳躍。",
+      "ja": "跳び越えの最後にジャンプできるようになる。",
+      "zh-CN": "让你在跳跃结束时可以跳跃。",
+      "ru": "Позволяет прыгать в конце прыжка через препятствие.",
+      "kr": "넘기 끝에 점프할 수 있게 합니다.",
+      "uk": "Дозволяє стрибати в кінці стрибка через перешкоду."
     },
     "impactedSkill": {
       "en": "Vault Jump",
@@ -1424,7 +2047,14 @@
       "pl": "Skok przeskoku",
       "no": "Hopphopp",
       "da": "Springspring",
-      "it": "Salto da Scavalcamento"
+      "it": "Salto da Scavalcamento",
+      "tr": "Atlama Zıplaması",
+      "zh-TW": "跳躍跳躍",
+      "ja": "跳び越えジャンプ",
+      "zh-CN": "跳跃跳跃",
+      "ru": "Прыжок с препятствия",
+      "kr": "도약 점프",
+      "uk": "Стрибок з перешкоди"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1451,7 +2081,14 @@
       "pl": "Zwinny kucający",
       "no": "Smidig kryper",
       "da": "Smidig krybende",
-      "it": "Accovacciato Agile"
+      "it": "Accovacciato Agile",
+      "tr": "Çevik Çömelen",
+      "zh-TW": "靈活蹲伏者",
+      "ja": "機敏なしゃがみ歩き",
+      "zh-CN": "灵活蹲伏者",
+      "ru": "Проворный ползун",
+      "kr": "민첩한 웅크리기",
+      "uk": "Спритний присідач"
     },
     "description": {
       "en": "Your movement speed while crouching is increased.",
@@ -1462,7 +2099,14 @@
       "pl": "Twoja prędkość ruchu podczas kucania jest zwiększona.",
       "no": "Bevegelseshastigheten din mens du krype er økt.",
       "da": "Din bevægelseshastighed, mens du kryber, er øget.",
-      "it": "La tua velocità di movimento mentre sei accovacciato è aumentata."
+      "it": "La tua velocità di movimento mentre sei accovacciato è aumentata.",
+      "tr": "Çömelirken hareket hızın artar.",
+      "zh-TW": "蹲伏時的移動速度提升。",
+      "ja": "しゃがみ中の移動速度が上昇する。",
+      "zh-CN": "蹲伏时的移动速度提升。",
+      "ru": "Скорость передвижения в присяде увеличена.",
+      "kr": "웅크린 상태에서 이동 속도가 증가합니다.",
+      "uk": "Швидкість пересування навпочіпки збільшена."
     },
     "impactedSkill": {
       "en": "Movement Speed",
@@ -1473,7 +2117,14 @@
       "pl": "Prędkość ruchu",
       "no": "Bevegelseshastighet",
       "da": "Bevægelseshastighed",
-      "it": "Velocità di movimento"
+      "it": "Velocità di movimento",
+      "tr": "Hareket Hızı",
+      "zh-TW": "移動速度",
+      "ja": "移動速度",
+      "zh-CN": "移动速度",
+      "ru": "Скорость передвижения",
+      "kr": "이동 속도",
+      "uk": "Швидкість пересування"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -1497,7 +2148,14 @@
       "pl": "Instynkty szabrownika",
       "no": "Plyndrers instinkter",
       "da": "Plyndrers instinkter",
-      "it": "Istinti del Saccheggiatore"
+      "it": "Istinti del Saccheggiatore",
+      "tr": "Yağmacı İçgüdüsü",
+      "zh-TW": "掠奪者直覺",
+      "ja": "略奪者の本能",
+      "zh-CN": "掠夺者直觉",
+      "ru": "Инстинкты мародёра",
+      "kr": "약탈자의 본능",
+      "uk": "Інстинкти мародера"
     },
     "description": {
       "en": "When searching a container, loot is revealed faster.",
@@ -1508,7 +2166,14 @@
       "pl": "Podczas przeszukiwania pojemnika, łup jest ujawniany szybciej.",
       "no": "Når du søker i en beholder, avsløres byttet raskere.",
       "da": "Når du søger i en beholder, afsløres byttet hurtigere.",
-      "it": "Quando cerchi in un contenitore, il bottino viene rivelato più velocemente."
+      "it": "Quando cerchi in un contenitore, il bottino viene rivelato più velocemente.",
+      "tr": "Bir konteyner ararken ganimet daha hızlı ortaya çıkar.",
+      "zh-TW": "搜索容器時，戰利品顯示速度更快。",
+      "ja": "コンテナを探索する際、アイテムの表示が速くなる。",
+      "zh-CN": "搜索容器时，战利品显示速度更快。",
+      "ru": "При обыске контейнера добыча обнаруживается быстрее.",
+      "kr": "컨테이너를 수색할 때 전리품이 더 빠르게 드러납니다.",
+      "uk": "При обшуку контейнера здобич виявляється швидше."
     },
     "impactedSkill": {
       "en": "Loot Speed",
@@ -1519,7 +2184,14 @@
       "pl": "Prędkość grabieży",
       "no": "Plyndringshastighet",
       "da": "Plyndringshastighed",
-      "it": "Velocità di saccheggio"
+      "it": "Velocità di saccheggio",
+      "tr": "Ganimet Hızı",
+      "zh-TW": "拾取速度",
+      "ja": "ルート速度",
+      "zh-CN": "拾取速度",
+      "ru": "Скорость мародёрства",
+      "kr": "약탈 속도",
+      "uk": "Швидкість мародерства"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -1545,7 +2217,14 @@
       "pl": "Ożywczy przysiad",
       "no": "Revitaliserende knebøy",
       "da": "Revitaliserende knebøjning",
-      "it": "Accovacciamento Rivitalizzante"
+      "it": "Accovacciamento Rivitalizzante",
+      "tr": "Canlandırıcı Çömelme",
+      "zh-TW": "恢復性蹲姿",
+      "ja": "活力のスクワット",
+      "zh-CN": "恢复性蹲姿",
+      "ru": "Восстанавливающий присед",
+      "kr": "활력의 웅크리기",
+      "uk": "Відновлювальний присід"
     },
     "description": {
       "en": "Stamina regeneration while crouched is increased.",
@@ -1556,7 +2235,14 @@
       "pl": "Regeneracja wytrzymałości podczas kucania jest zwiększona.",
       "no": "Utholdenhetsregenerering mens du kryper er økt.",
       "da": "Udholdenhedsregenerering, mens du kryber, er øget.",
-      "it": "La rigenerazione della resistenza mentre sei accovacciato è aumentata."
+      "it": "La rigenerazione della resistenza mentre sei accovacciato è aumentata.",
+      "tr": "Çömelirken dayanıklılık yenilenme hızı artar.",
+      "zh-TW": "蹲伏時的耐力恢復速度提升。",
+      "ja": "しゃがみ中のスタミナ回復速度が上昇する。",
+      "zh-CN": "蹲伏时的耐力恢复速度提升。",
+      "ru": "Восстановление выносливости в присяде увеличено.",
+      "kr": "웅크린 상태에서 스태미나 재생이 증가합니다.",
+      "uk": "Відновлення витривалості навпочіпки збільшене."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -1567,7 +2253,14 @@
       "pl": "Regeneracja wytrzymałości",
       "no": "Utholdenhetsgenerering",
       "da": "Udholdenhedsregenerering",
-      "it": "Rigenerazione resistenza"
+      "it": "Rigenerazione resistenza",
+      "tr": "Dayanıklılık Yenilenmesi",
+      "zh-TW": "耐力恢復",
+      "ja": "スタミナ回復",
+      "zh-CN": "耐力恢复",
+      "ru": "Восстановление выносливости",
+      "kr": "스태미나 재생",
+      "uk": "Відновлення витривалості"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -1593,7 +2286,14 @@
       "pl": "Cichy szabrownik",
       "no": "Stille plyndrer",
       "da": "Stille plyndrer",
-      "it": "Razziatore Silenzioso"
+      "it": "Razziatore Silenzioso",
+      "tr": "Sessiz Çöpçü",
+      "zh-TW": "無聲拾荒者",
+      "ja": "静かなる漁り屋",
+      "zh-CN": "无声拾荒者",
+      "ru": "Тихий падальщик",
+      "kr": "조용한 청소부",
+      "uk": "Тихий падальник"
     },
     "description": {
       "en": "You make less noise when looting",
@@ -1604,7 +2304,14 @@
       "pl": "Robisz mniej hałasu podczas szabrowania",
       "no": "Du lager mindre støy når du plyndrer",
       "da": "Du laver mindre støj, når du plyndrer",
-      "it": "Fai meno rumore quando sacchegghi"
+      "it": "Fai meno rumore quando sacchegghi",
+      "tr": "Ganimet toplarken daha az ses çıkarırsın",
+      "zh-TW": "拾取戰利品時產生的噪音更少",
+      "ja": "ルート中の音が小さくなる",
+      "zh-CN": "拾取战利品时产生的噪音更少",
+      "ru": "Вы производите меньше шума при мародёрстве",
+      "kr": "약탈할 때 소음이 줄어듭니다",
+      "uk": "Ви створюєте менше шуму при мародерстві"
     },
     "impactedSkill": {
       "en": "Noise Reduction",
@@ -1615,7 +2322,14 @@
       "pl": "Redukcja hałasu",
       "no": "Støyreduksjon",
       "da": "Støjreduktion",
-      "it": "Riduzione rumore"
+      "it": "Riduzione rumore",
+      "tr": "Gürültü Azaltma",
+      "zh-TW": "噪音減少",
+      "ja": "騒音軽減",
+      "zh-CN": "噪音减少",
+      "ru": "Снижение шума",
+      "kr": "소음 감소",
+      "uk": "Зменшення шуму"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -1641,7 +2355,14 @@
       "pl": "Rzemiosło w rundzie",
       "no": "Felthandverk",
       "da": "Felthåndværk",
-      "it": "Fabbricazione in Partita"
+      "it": "Fabbricazione in Partita",
+      "tr": "Saha İçi Üretim",
+      "zh-TW": "戰場製作",
+      "ja": "ラウンド内クラフト",
+      "zh-CN": "战场制作",
+      "ru": "Крафт в раунде",
+      "kr": "라운드 내 제작",
+      "uk": "Крафт у раунді"
     },
     "description": {
       "en": "Unlocks the ability to field-craft items while topside.",
@@ -1652,7 +2373,14 @@
       "pl": "Odblokowuje możliwość wytwarzania przedmiotów w terenie.",
       "no": "Låser opp evnen til å lage gjenstander i felten.",
       "da": "Låser op for evnen til at lave genstande i felten.",
-      "it": "Sblocca la capacità di fabbricare oggetti sul campo mentre sei in superficie."
+      "it": "Sblocca la capacità di fabbricare oggetti sul campo mentre sei in superficie.",
+      "tr": "Yüzeydeyken saha üretimi yapabilme yeteneğini açar.",
+      "zh-TW": "解鎖在地表時進行野外製作物品的能力。",
+      "ja": "地上にいる間、フィールドクラフトができるようになる。",
+      "zh-CN": "解锁在地表时进行野外制作物品的能力。",
+      "ru": "Открывает возможность создавать предметы в полевых условиях на поверхности.",
+      "kr": "지상에 있는 동안 현장 제작 능력을 해제합니다.",
+      "uk": "Відкриває можливість створювати предмети в польових умовах на поверхні."
     },
     "impactedSkill": {
       "en": "Field Crafting",
@@ -1663,7 +2391,14 @@
       "pl": "Rzemiosło terenowe",
       "no": "Felthandverk",
       "da": "Felthåndværk",
-      "it": "Fabbricazione sul campo"
+      "it": "Fabbricazione sul campo",
+      "tr": "Saha Üretimi",
+      "zh-TW": "野外製作",
+      "ja": "フィールドクラフト",
+      "zh-CN": "野外制作",
+      "ru": "Полевой крафт",
+      "kr": "현장 제작",
+      "uk": "Польовий крафт"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -1689,7 +2424,14 @@
       "pl": "Cierpić w ciszy",
       "no": "Lide i stillhet",
       "da": "Lide i stilhed",
-      "it": "Soffrire in Silenzio"
+      "it": "Soffrire in Silenzio",
+      "tr": "Sessizce Acı Çek",
+      "zh-TW": "默默承受",
+      "ja": "沈黙の苦痛",
+      "zh-CN": "默默承受",
+      "ru": "Страдать молча",
+      "kr": "침묵 속의 고통",
+      "uk": "Страждати мовчки"
     },
     "description": {
       "en": "While critically hurt, your movement makes less noise.",
@@ -1700,7 +2442,14 @@
       "pl": "Kiedy jesteś krytycznie ranny, twój ruch robi mniej hałasu.",
       "no": "Mens du er kritisk skadet, lager bevegelsen din mindre støy.",
       "da": "Mens du er kritisk såret, laver din bevægelse mindre støj.",
-      "it": "Mentre sei gravemente ferito, i tuoi movimenti fanno meno rumore."
+      "it": "Mentre sei gravemente ferito, i tuoi movimenti fanno meno rumore.",
+      "tr": "Kritik yaralıyken hareketlerin daha az ses çıkarır.",
+      "zh-TW": "在重傷狀態下，你的移動產生的噪音更少。",
+      "ja": "瀕死状態の時、移動音が小さくなる。",
+      "zh-CN": "在重伤状态下，你的移动产生的噪音更少。",
+      "ru": "В критическом состоянии ваши движения производят меньше шума.",
+      "kr": "치명상을 입었을 때 이동 시 소음이 줄어듭니다.",
+      "uk": "У критичному стані ваші рухи створюють менше шуму."
     },
     "impactedSkill": {
       "en": "Noise Reduction",
@@ -1711,7 +2460,14 @@
       "pl": "Redukcja hałasu",
       "no": "Støyreduksjon",
       "da": "Støjreduktion",
-      "it": "Riduzione rumore"
+      "it": "Riduzione rumore",
+      "tr": "Gürültü Azaltma",
+      "zh-TW": "噪音減少",
+      "ja": "騒音軽減",
+      "zh-CN": "噪音减少",
+      "ru": "Снижение шума",
+      "kr": "소음 감소",
+      "uk": "Зменшення шуму"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -1737,7 +2493,14 @@
       "pl": "Jak nowy",
       "no": "Som ny",
       "da": "Som ny",
-      "it": "Come Nuovo"
+      "it": "Come Nuovo",
+      "tr": "Yeni Gibi",
+      "zh-TW": "煥然一新",
+      "ja": "新品同様",
+      "zh-CN": "焕然一新",
+      "ru": "Как новенький",
+      "kr": "새것처럼",
+      "uk": "Як новенький"
     },
     "description": {
       "en": "While under a healing effect, stamina regeneration is increased.",
@@ -1748,7 +2511,14 @@
       "pl": "Podczas efektu leczenia, regeneracja wytrzymałości jest zwiększona.",
       "no": "Mens du er under en helbredelseseffekt, økes utholdenhetsregenerering.",
       "da": "Mens du er under en helbredelseseffekt, øges udholdenhedsregenerering.",
-      "it": "Mentre sei sotto un effetto curativo, la rigenerazione della resistenza è aumentata."
+      "it": "Mentre sei sotto un effetto curativo, la rigenerazione della resistenza è aumentata.",
+      "tr": "İyileşme etkisi altındayken dayanıklılık yenilenmesi artar.",
+      "zh-TW": "在治療效果下，耐力恢復速度提升。",
+      "ja": "治療効果を受けている間、スタミナ回復速度が上昇する。",
+      "zh-CN": "在治疗效果下，耐力恢复速度提升。",
+      "ru": "Под действием лечения восстановление выносливости увеличено.",
+      "kr": "치유 효과를 받는 동안 스태미나 재생이 증가합니다.",
+      "uk": "Під дією лікування відновлення витривалості збільшене."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -1759,7 +2529,14 @@
       "pl": "Regeneracja wytrzymałości",
       "no": "Utholdenhetsregenerering",
       "da": "Udholdenhedsregenerering",
-      "it": "Rigenerazione resistenza"
+      "it": "Rigenerazione resistenza",
+      "tr": "Dayanıklılık Yenilenmesi",
+      "zh-TW": "耐力恢復",
+      "ja": "スタミナ回復",
+      "zh-CN": "耐力恢复",
+      "ru": "Восстановление выносливости",
+      "kr": "스태미나 재생",
+      "uk": "Відновлення витривалості"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -1785,7 +2562,14 @@
       "pl": "Wędrowny majsterkowicz",
       "no": "Reisende tukler",
       "da": "Rejsende piller",
-      "it": "Armeggiatore Itinerante"
+      "it": "Armeggiatore Itinerante",
+      "tr": "Gezgin Tamirci",
+      "zh-TW": "旅行工匠",
+      "ja": "旅する修繕屋",
+      "zh-CN": "旅行工匠",
+      "ru": "Странствующий мастер",
+      "kr": "여행하는 땜장이",
+      "uk": "Мандрівний майстер"
     },
     "description": {
       "en": "Unlocks additional items to field craft.",
@@ -1796,7 +2580,14 @@
       "pl": "Odblokowuje dodatkowe przedmioty do wytwarzania w terenie.",
       "no": "Låser opp flere gjenstander å lage i felten.",
       "da": "Låser op for yderligere genstande at lave i felten.",
-      "it": "Sblocca oggetti aggiuntivi da fabbricare sul campo."
+      "it": "Sblocca oggetti aggiuntivi da fabbricare sul campo.",
+      "tr": "Saha üretimi için ek eşyalar açar.",
+      "zh-TW": "解鎖額外的野外製作物品。",
+      "ja": "フィールドクラフトで作成できるアイテムが追加される。",
+      "zh-CN": "解锁额外的野外制作物品。",
+      "ru": "Открывает дополнительные предметы для полевого крафта.",
+      "kr": "현장 제작할 수 있는 추가 아이템을 해제합니다.",
+      "uk": "Відкриває додаткові предмети для польового крафту."
     },
     "impactedSkill": {
       "en": "Field Crafting",
@@ -1807,7 +2598,14 @@
       "pl": "Rzemiosło terenowe",
       "no": "Felthandverk",
       "da": "Felthåndværk",
-      "it": "Fabbricazione sul campo"
+      "it": "Fabbricazione sul campo",
+      "tr": "Saha Üretimi",
+      "zh-TW": "野外製作",
+      "ja": "フィールドクラフト",
+      "zh-CN": "野外制作",
+      "ru": "Полевой крафт",
+      "kr": "현장 제작",
+      "uk": "Польовий крафт"
     },
     "category": "SURVIVAL",
     "maxPoints": 1,
@@ -1833,7 +2631,14 @@
       "pl": "Szerokie ramiona",
       "no": "Brede skuldre",
       "da": "Brede skuldre",
-      "it": "Spalle Larghe"
+      "it": "Spalle Larghe",
+      "tr": "Geniş Omuzlar",
+      "zh-TW": "寬闊肩膀",
+      "ja": "広い肩幅",
+      "zh-CN": "宽阔肩膀",
+      "ru": "Широкие плечи",
+      "kr": "넓은 어깨",
+      "uk": "Широкі плечі"
     },
     "description": {
       "en": "Increases the maximum amount of items you can carry.",
@@ -1844,7 +2649,14 @@
       "pl": "Zwiększa maksymalną ilość przedmiotów, które możesz nieść.",
       "no": "Øker maksimal mengde gjenstander du kan bære.",
       "da": "Øger den maksimale mængde genstande, du kan bære.",
-      "it": "Aumenta la quantità massima di oggetti che puoi trasportare."
+      "it": "Aumenta la quantità massima di oggetti che puoi trasportare.",
+      "tr": "Taşıyabileceğin maksimum eşya miktarını artırır.",
+      "zh-TW": "增加你能攜帶的物品數量上限。",
+      "ja": "持ち運べるアイテムの最大数が増加する。",
+      "zh-CN": "增加你能携带的物品数量上限。",
+      "ru": "Увеличивает максимальное количество предметов, которые вы можете нести.",
+      "kr": "휴대할 수 있는 최대 아이템 수가 증가합니다.",
+      "uk": "Збільшує максимальну кількість предметів, які ви можете нести."
     },
     "impactedSkill": {
       "en": "Max Inventory",
@@ -1855,7 +2667,14 @@
       "pl": "Maks. ekwipunek",
       "no": "Maks. inventar",
       "da": "Maks. inventar",
-      "it": "Inventario massimo"
+      "it": "Inventario massimo",
+      "tr": "Maksimum Envanter",
+      "zh-TW": "最大背包容量",
+      "ja": "最大インベントリ",
+      "zh-CN": "最大背包容量",
+      "ru": "Макс. инвентарь",
+      "kr": "최대 인벤토리",
+      "uk": "Макс. інвентар"
     },
     "knownValue": [
       "+2 kg per point"
@@ -1883,7 +2702,14 @@
       "pl": "Uparty muł",
       "no": "Sta muldyr",
       "da": "Stædigt muldyr",
-      "it": "Mulo Testardo"
+      "it": "Mulo Testardo",
+      "tr": "İnatçı Katır",
+      "zh-TW": "頑固騾子",
+      "ja": "頑固な騾馬",
+      "zh-CN": "顽固骡子",
+      "ru": "Упрямый мул",
+      "kr": "완고한 노새",
+      "uk": "Впертий мул"
     },
     "description": {
       "en": "Your stamina regeneration is less affected by being over-encumbered.",
@@ -1894,7 +2720,14 @@
       "pl": "Twoja regeneracja wytrzymałości jest mniej dotknięta przez przeciążenie.",
       "no": "Utholdenhetsregenerering påvirkes mindre av å være overbelastet.",
       "da": "Din udholdenhedsregenerering påvirkes mindre af at være overbelastet.",
-      "it": "La tua rigenerazione della resistenza è meno influenzata dall'essere sovraccarico."
+      "it": "La tua rigenerazione della resistenza è meno influenzata dall'essere sovraccarico.",
+      "tr": "Dayanıklılık yenilenmen aşırı yüklenme durumundan daha az etkilenir.",
+      "zh-TW": "你的耐力恢復受超重影響較小。",
+      "ja": "過積載状態でのスタミナ回復への影響が軽減される。",
+      "zh-CN": "你的耐力恢复受超重影响较小。",
+      "ru": "Восстановление выносливости меньше зависит от перегруза.",
+      "kr": "과적 상태에서 스태미나 재생이 덜 영향을 받습니다.",
+      "uk": "Відновлення витривалості менше залежить від перевантаження."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -1905,7 +2738,14 @@
       "pl": "Regeneracja wytrzymałości",
       "no": "Utholdenhetsregenerering",
       "da": "Udholdenhedsregenerering",
-      "it": "Rigenerazione resistenza"
+      "it": "Rigenerazione resistenza",
+      "tr": "Dayanıklılık Yenilenmesi",
+      "zh-TW": "耐力恢復",
+      "ja": "スタミナ回復",
+      "zh-CN": "耐力恢复",
+      "ru": "Восстановление выносливости",
+      "kr": "스태미나 재생",
+      "uk": "Відновлення витривалості"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -1931,7 +2771,14 @@
       "pl": "Resztki jednego najeźdźcy",
       "no": "En raiders rester",
       "da": "En raiders rester",
-      "it": "Scarti di un Razziatore"
+      "it": "Scarti di un Razziatore",
+      "ja": "レイダーの残骸",
+      "kr": "약탈자의 잔해",
+      "ru": "Обрывки рейдера",
+      "tr": "Bir Akıncının Artıkları",
+      "uk": "Обрізки рейдера",
+      "zh-CN": "掠夺者的残渣",
+      "zh-TW": "掠奪者的殘渣"
     },
     "description": {
       "en": "When looting Raider containers, you have a small chance of finding additional field-crafted items.",
@@ -1942,7 +2789,14 @@
       "pl": "Podczas szabrowania pojemników najeźdźców, masz małą szansę na znalezienie dodatkowych przedmiotów wytworzonych w terenie.",
       "no": "Når du plyndrer raider-beholdere, har du en liten sjanse for å finne flere feltlagde gjenstander.",
       "da": "Når du plyndrer raider-beholdere, har du en lille chance for at finde yderligere feltlavede genstande.",
-      "it": "Quando saccheggi contenitori dei Razziatori, hai una piccola probabilità di trovare oggetti artigianali aggiuntivi."
+      "it": "Quando saccheggi contenitori dei Razziatori, hai una piccola probabilità di trovare oggetti artigianali aggiuntivi.",
+      "ja": "レイダーのコンテナを漁る際、追加の野外製作アイテムを発見する小さな確率がある。",
+      "kr": "약탈자 컨테이너를 약탈할 때, 추가 야전 제작 아이템을 발견할 작은 확률이 있습니다.",
+      "ru": "При обыске контейнеров рейдеров у вас есть небольшой шанс найти дополнительные самодельные предметы.",
+      "tr": "Akıncı konteynerlerini yağmalarken, ek saha yapımı eşyalar bulma şansınız vardır.",
+      "uk": "При обшуку контейнерів рейдерів у вас є невеликий шанс знайти додаткові саморобні предмети.",
+      "zh-CN": "搜刮掠夺者容器时，你有小概率找到额外的野外制作物品。",
+      "zh-TW": "搜刮掠奪者容器時，你有小機率找到額外的野外製作物品。"
     },
     "impactedSkill": {
       "en": "Loot Find Chance",
@@ -1953,7 +2807,14 @@
       "pl": "Szansa na znalezienie łupu",
       "no": "Sjanse for å finne bytte",
       "da": "Chance for at finde bytte",
-      "it": "Probabilità di Trovare Bottino"
+      "it": "Probabilità di Trovare Bottino",
+      "ja": "戦利品発見確率",
+      "kr": "전리품 발견 확률",
+      "ru": "Шанс найти добычу",
+      "tr": "Ganimet Bulma Şansı",
+      "uk": "Шанс знайти здобич",
+      "zh-CN": "战利品发现几率",
+      "zh-TW": "戰利品發現機率"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -1979,7 +2840,14 @@
       "pl": "Szczęście szabrownika",
       "no": "Plyndrers hell",
       "da": "Plyndrers held",
-      "it": "Fortuna del Saccheggiatore"
+      "it": "Fortuna del Saccheggiatore",
+      "ja": "略奪者の幸運",
+      "kr": "약탈자의 행운",
+      "ru": "Удача мародёра",
+      "tr": "Yağmacının Şansı",
+      "uk": "Удача мародера",
+      "zh-CN": "拾荒者的幸运",
+      "zh-TW": "拾荒者的幸運"
     },
     "description": {
       "en": "While looting, there's a chance to reveal twice as many items at once.",
@@ -1990,7 +2858,14 @@
       "pl": "Podczas szabrowania, istnieje szansa na ujawnienie dwa razy więcej przedmiotów na raz.",
       "no": "Mens du plyndrer, er det en sjanse for å avsløre dobbelt så mange gjenstander på en gang.",
       "da": "Mens du plyndrer, er der en chance for at afsløre dobbelt så mange genstande på én gang.",
-      "it": "Durante il saccheggio, c'è una probabilità di rivelare il doppio degli oggetti contemporaneamente."
+      "it": "Durante il saccheggio, c'è una probabilità di rivelare il doppio degli oggetti contemporaneamente.",
+      "ja": "略奪中、一度に2倍のアイテムを発見する確率がある。",
+      "kr": "약탈하는 동안, 한 번에 두 배의 아이템을 발견할 확률이 있습니다.",
+      "ru": "Во время обыска есть шанс обнаружить вдвое больше предметов за раз.",
+      "tr": "Yağmalarken, aynı anda iki kat daha fazla eşya bulma şansınız vardır.",
+      "uk": "Під час обшуку є шанс виявити вдвічі більше предметів за раз.",
+      "zh-CN": "搜刮时，有机会一次发现两倍数量的物品。",
+      "zh-TW": "搜刮時，有機會一次發現兩倍數量的物品。"
     },
     "impactedSkill": {
       "en": "Loot Search Speed",
@@ -2001,7 +2876,14 @@
       "pl": "Szybkość przeszukiwania łupu",
       "no": "Byttesøkehastighet",
       "da": "Byttesøgningshastighed",
-      "it": "Velocità di Ricerca Bottino"
+      "it": "Velocità di Ricerca Bottino",
+      "ja": "戦利品検索速度",
+      "kr": "전리품 탐색 속도",
+      "ru": "Скорость обыска",
+      "tr": "Ganimet Arama Hızı",
+      "uk": "Швидкість обшуку",
+      "zh-CN": "战利品搜索速度",
+      "zh-TW": "戰利品搜索速度"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2027,7 +2909,14 @@
       "pl": "Trzy głębokie oddechy",
       "no": "Tre dype pust",
       "da": "Tre dybe vejrtrækninger",
-      "it": "Tre Respiri Profondi"
+      "it": "Tre Respiri Profondi",
+      "ja": "三つの深呼吸",
+      "kr": "세 번의 심호흡",
+      "ru": "Три глубоких вдоха",
+      "tr": "Üç Derin Nefes",
+      "uk": "Три глибокі вдихи",
+      "zh-CN": "三次深呼吸",
+      "zh-TW": "三次深呼吸"
     },
     "description": {
       "en": "After an ability drains your stamina, you recover more quickly.",
@@ -2038,7 +2927,14 @@
       "pl": "Po tym, jak umiejętność wyczerpie twoją wytrzymałość, regenerujesz się szybciej.",
       "no": "Etter at en evne tømmer utholdenheten din, kommer du deg raskere.",
       "da": "Efter en evne tømmer din udholdenhed, kommer du dig hurtigere.",
-      "it": "Dopo che un'abilità prosciuga la tua resistenza, recuperi più velocemente."
+      "it": "Dopo che un'abilità prosciuga la tua resistenza, recuperi più velocemente.",
+      "ja": "スキルでスタミナを消費した後、より早く回復する。",
+      "kr": "능력이 스태미나를 소진한 후, 더 빠르게 회복합니다.",
+      "ru": "После того как способность истощает вашу выносливость, вы восстанавливаетесь быстрее.",
+      "tr": "Bir yetenek dayanıklılığınızı tükettikten sonra, daha hızlı iyileşirsiniz.",
+      "uk": "Після того як здібність виснажує вашу витривалість, ви відновлюєтеся швидше.",
+      "zh-CN": "在技能消耗你的耐力后，你恢复得更快。",
+      "zh-TW": "在技能消耗你的耐力後，你恢復得更快。"
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -2049,7 +2945,14 @@
       "pl": "Regeneracja wytrzymałości",
       "no": "Utholdenhetsregenerering",
       "da": "Udholdenhedsregenerering",
-      "it": "Rigenerazione Resistenza"
+      "it": "Rigenerazione Resistenza",
+      "ja": "スタミナ回復",
+      "kr": "스태미나 재생",
+      "ru": "Восстановление выносливости",
+      "tr": "Dayanıklılık Yenilemesi",
+      "uk": "Відновлення витривалості",
+      "zh-CN": "耐力恢复",
+      "zh-TW": "耐力恢復"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2075,7 +2978,14 @@
       "pl": "Naruszenie bezpieczeństwa",
       "no": "Sikkerhetsbrudd",
       "da": "Sikkerhedsbrud",
-      "it": "Violazione di Sicurezza"
+      "it": "Violazione di Sicurezza",
+      "ja": "セキュリティ突破",
+      "kr": "보안 침해",
+      "ru": "Взлом защиты",
+      "tr": "Güvenlik İhlali",
+      "uk": "Порушення безпеки",
+      "zh-CN": "安全突破",
+      "zh-TW": "安全突破"
     },
     "description": {
       "en": "Lets you breach Security Lockers.",
@@ -2086,7 +2996,14 @@
       "pl": "Pozwala włamać się do szafek bezpieczeństwa.",
       "no": "Lar deg bryte opp sikkerhetskap.",
       "da": "Lader dig bryde sikkerhedsskabe op.",
-      "it": "Ti permette di violare gli Armadietti di Sicurezza."
+      "it": "Ti permette di violare gli Armadietti di Sicurezza.",
+      "ja": "セキュリティロッカーを突破できるようになる。",
+      "kr": "보안 사물함을 침입할 수 있습니다.",
+      "ru": "Позволяет взламывать защищённые шкафчики.",
+      "tr": "Güvenlik Dolaplarını açmanızı sağlar.",
+      "uk": "Дозволяє зламувати захищені шафки.",
+      "zh-CN": "让你能够突破安全储物柜。",
+      "zh-TW": "讓你能夠突破安全儲物櫃。"
     },
     "impactedSkill": {
       "en": "Security Breach",
@@ -2097,7 +3014,14 @@
       "pl": "Naruszenie bezpieczeństwa",
       "no": "Sikkerhetsbrudd",
       "da": "Sikkerhedsbrud",
-      "it": "Violazione di Sicurezza"
+      "it": "Violazione di Sicurezza",
+      "ja": "セキュリティ突破",
+      "kr": "보안 침해",
+      "ru": "Взлом защиты",
+      "tr": "Güvenlik İhlali",
+      "uk": "Порушення безпеки",
+      "zh-CN": "安全突破",
+      "zh-TW": "安全突破"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2124,7 +3048,14 @@
       "pl": "Saper",
       "no": "Minerydder",
       "da": "Minerydder",
-      "it": "Sminatore"
+      "it": "Sminatore",
+      "ja": "地雷除去",
+      "kr": "지뢰 제거",
+      "ru": "Сапёр",
+      "tr": "Mayın Temizleyici",
+      "uk": "Сапер",
+      "zh-CN": "扫雷专家",
+      "zh-TW": "掃雷專家"
     },
     "description": {
       "en": "Mines and explosive deployables can be defused when in close proximity.",
@@ -2135,7 +3066,14 @@
       "pl": "Miny i rozmieszczalne materiały wybuchowe mogą zostać rozbroj one w bliskiej odległości.",
       "no": "Miner og eksplosive utplasseringer kan nøytraliseres når du er i nærheten.",
       "da": "Miner og eksplosive udplaceringer kan desarmeres, når du er tæt på.",
-      "it": "Le mine e gli esplosivi piazzabili possono essere disinnescati quando sei nelle immediate vicinanze."
+      "it": "Le mine e gli esplosivi piazzabili possono essere disinnescati quando sei nelle immediate vicinanze.",
+      "ja": "近接時に地雷や爆発物を解除できる。",
+      "kr": "근접 시 지뢰와 폭발물 설치물을 해체할 수 있습니다.",
+      "ru": "Мины и взрывные устройства можно обезвредить, находясь рядом.",
+      "tr": "Mayınlar ve patlayıcı yerleştirilebilirler yakınken etkisiz hale getirilebilir.",
+      "uk": "Міни та вибухові пристрої можна знешкодити, перебуваючи поруч.",
+      "zh-CN": "靠近时可以拆除地雷和爆炸性部署物。",
+      "zh-TW": "靠近時可以拆除地雷和爆炸性部署物。"
     },
     "impactedSkill": {
       "en": "Explosive Defuse",
@@ -2146,7 +3084,14 @@
       "pl": "Rozbroienie materiałów wybuchowych",
       "no": "Nøytralisering av eksplosiver",
       "da": "Desarmering af eksplosiver",
-      "it": "Disinnesco Esplosivi"
+      "it": "Disinnesco Esplosivi",
+      "ja": "爆発物解除",
+      "kr": "폭발물 해체",
+      "ru": "Обезвреживание взрывчатки",
+      "tr": "Patlayıcı Etkisizleştirme",
+      "uk": "Знешкодження вибухівки",
+      "zh-CN": "爆炸物拆除",
+      "zh-TW": "爆炸物拆除"
     },
     "knownValue": [],
     "category": "SURVIVAL",
