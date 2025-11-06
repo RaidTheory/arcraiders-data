@@ -15,9 +15,9 @@ Item images in this repository are AI-upscaled versions created from in-game scr
 
 ## Localization
 
-- The default `items.json` remains en inglés.
-- Para español, carga los equivalentes `*-es.json` (`items-es.json`, `hideoutModules-es.json`, `projects-es.json`, `quests-es.json`, `skillNodes-es.json`).
-- Si modificas los archivos originales, recuerda actualizar también sus pares en español con tu flujo de trabajo preferido.
+- Each core data file now embeds translations directly. Localized fields are objects keyed by language codes such as `en`, `de`, `fr`, `es`, `pt`, `pl`, `no`, `da`, and `it`.
+- Consumers should read the desired locale from these dictionaries; no separate `*-es.json` files are distributed.
+- When contributing updates, please keep the inline dictionaries in sync for any languages you modify.
 
 ## Purpose
 
