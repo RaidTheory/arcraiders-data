@@ -900,7 +900,8 @@
     "description": "According to the files you found in the lab, the cultivation researchers were actually the ones who set up the hydroponic domes out in the swamp. Sounds like the most obvious place to search next, don't you think?",
     "objectives": [
       "Go to the Hydroponic Dome Complex",
-      "Access the data archive in one of the domes"
+      "Access the data archive in one of the domes",
+      "Upload the data to the computer terminal in any Field Depot"
     ],
     "rewardItemIds": [
       { "itemId": "advanced_mechanical_components", "quantity": 3 },
