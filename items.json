@@ -2980,20 +2980,8 @@
       "da": "Har anstændig skadeeffekt og præcision.",
       "it": "Ha danno e precisione decenti."
     },
-    "type": "Weapon",
+    "type": "Assault Rifle",
     "rarity": "Uncommon",
-    "damage": 11,
-    "fireRate": 18.3,
-    "range": 53.7,
-    "stability": 82.4,
-    "agility": 60,
-    "stealth": 14,
-    "crafting": {
-      "mechanical_components": 1,
-      "magnet": 3
-    },
-    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
-    "updatedAt": "11/03/2025",
     "value": 5500,
     "weightKg": 6.0,
     "effects": {
@@ -3058,11 +3046,12 @@
         "value": "Moderate"
       }
     },
-    "recipe": {
-      "mechanical_components": 6,
-      "simple_gun_parts": 6
+    "recyclesInto": {
+        "mechanical_components": 2,
+        "simple_gun_parts": 2
     },
-    "craftBench": "weapon_bench"
+    "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
+    "updatedAt": "11/06/2025"
   },
   {
     "id": "venator_i",
@@ -8656,24 +8645,88 @@
       "it": "Torrente I"
     },
     "description": {
-      "en": "A Tier 1 Torrente weapon.",
-      "de": "Eine Torrente-Waffe der Stufe 1.",
-      "fr": "Une arme Torrente de niveau 1.",
-      "es": "Un arma Torrente de nivel 1.",
-      "pt": "Uma arma Torrente de nível 1.",
-      "pl": "Broń Torrente poziomu 1.",
-      "no": "Et Torrente-våpen på nivå 1.",
-      "da": "Et Torrente-våben på niveau 1.",
-      "it": "Un'arma Torrente di livello 1."
+      "en": "Has a large ammo capacity, but is only accurate while crouched.",
+      "de": "Hat eine große Munitionskapazität, ist aber nur in der Hocke präzise.",
+      "fr": "A une grande capacité de munitions, mais n'est précis qu'en position accroupie.",
+      "es": "Tiene una gran capacidad de munición, pero solo es preciso agachado.",
+      "pt": "Tem uma grande capacidade de munição, mas só é preciso agachado.",
+      "pl": "Ma dużą pojemność amunicji, ale jest celny tylko w kucnięciu.",
+      "no": "Har stor ammunisjonskapasitet, men er bare nøyaktig når man sitter på huk.",
+      "da": "Har stor ammunitionskapacitet, men er kun præcis når man sidder på hug.",
+      "it": "Ha una grande capacità di munizioni, ma è preciso solo accovacciato."
     },
-    "type": "Weapon",
-    "updatedAt": "10/30/2025",
-    "recipe": {
-      "advanced_mechanical_components": 2,
-      "medium_gun_parts": 3,
-      "steel_spring": 6
+    "type": "LMG",
+    "rarity": "Rare",
+    "value": 7000,
+    "weightKg": 12.0,
+    "effects": {
+      "Durability": {
+        "en": "Durability",
+        "de": "Haltbarkeit",
+        "fr": "Durabilité",
+        "es": "Durabilidad",
+        "pt": "Durabilidade",
+        "pl": "Wytrzymałość",
+        "no": "Holdbarhet",
+        "da": "Holdbarhed",
+        "it": "Durabilità",
+        "value": "100/100"
+      },
+      "Ammo Type": {
+        "en": "Ammo Type",
+        "de": "Munitionstyp",
+        "fr": "Type de munitions",
+        "es": "Tipo de munición",
+        "pt": "Tipo de munição",
+        "pl": "Typ amunicji",
+        "no": "Ammunisjonstype",
+        "da": "Ammunitionstype",
+        "it": "Tipo di munizioni",
+        "value": "Medium Ammo"
+      },
+      "Magazine Size": {
+        "en": "Magazine Size",
+        "de": "Magazingröße",
+        "fr": "Taille du chargeur",
+        "es": "Tamaño del cargador",
+        "pt": "Tamanho do carregador",
+        "pl": "Pojemność magazynka",
+        "no": "Magasinstørrelse",
+        "da": "Magasinstørrelse",
+        "it": "Dimensione caricatore",
+        "value": 60
+      },
+      "Firing Mode": {
+        "en": "Firing Mode",
+        "de": "Feuermodus",
+        "fr": "Mode de tir",
+        "es": "Modo de disparo",
+        "pt": "Modo de disparo",
+        "pl": "Tryb ognia",
+        "no": "Skyttemodus",
+        "da": "Skydningstilstand",
+        "it": "Modalità di fuoco",
+        "value": "Fully-Automatic"
+      },
+      "ARC Armor Penetration": {
+        "en": "ARC Armor Penetration",
+        "de": "ARC-Rüstungsdurchdringung",
+        "fr": "Pénétration d'armure ARC",
+        "es": "Penetración de armadura ARC",
+        "pt": "Penetração de armadura ARC",
+        "pl": "Przebicie pancerza ARC",
+        "no": "ARC-rustningspenetrering",
+        "da": "ARC-rustningspenetrering",
+        "it": "Penetrazione armatura ARC",
+        "value": "Moderate"
+      }
     },
-    "craftBench": "weapon_bench"
+    "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "medium_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/torrente.png",
+    "updatedAt": "11/06/2025"
   },
   {
     "id": "dam_utility_key",
@@ -12963,15 +13016,15 @@
       "it": "Silenziatore II"
     },
     "description": {
-      "en": "Moderately reduces the amount of noise produced when firing. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "de": "Reduziert die beim Schießen erzeugte Geräuschmenge moderat. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "fr": "Réduit modérément la quantité de bruit produite lors du tir. Compatible avec : Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "es": "Reduce moderadamente la cantidad de ruido producido al disparar. Compatible con: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "pt": "Reduz moderadamente a quantidade de ruído produzida ao disparar. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "pl": "Umiarkowanie zmniejsza ilość hałasu wytwarzanego podczas strzału. Kompatybilny z: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "no": "Reduserer moderat mengden støy som produseres ved skyting. Kompatibel med: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "da": "Reducerer moderat mængden af støj produceret ved skydning. Kompatibel med: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "it": "Riduce moderatamente la quantità di rumore prodotto durante lo sparo. Compatibile con: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
+      "en": "Moderately reduces the amount of noise produced when firing. Compatible with: Arpeggio, Rattler, Ferro, Torrente, Burletta",
+      "de": "Reduziert die beim Schießen erzeugte Geräuschmenge moderat. Kompatibel mit: Arpeggio, Rattler, Ferro, Torrente, Burletta",
+      "fr": "Réduit modérément la quantité de bruit produite lors du tir. Compatible avec : Arpeggio, Rattler, Ferro, Torrente, Burletta",
+      "es": "Reduce moderadamente la cantidad de ruido producido al disparar. Compatible con: Arpeggio, Rattler, Ferro, Torrente, Burletta",
+      "pt": "Reduz moderadamente a quantidade de ruído produzida ao disparar. Compatível com: Arpeggio, Rattler, Ferro, Torrente, Burletta",
+      "pl": "Umiarkowanie zmniejsza ilość hałasu wytwarzanego podczas strzału. Kompatybilny z: Arpeggio, Rattler, Ferro, Torrente, Burletta",
+      "no": "Reduserer moderat mengden støy som produseres ved skyting. Kompatibel med: Arpeggio, Rattler, Ferro, Torrente, Burletta",
+      "da": "Reducerer moderat mængden af støj produceret ved skydning. Kompatibel med: Arpeggio, Rattler, Ferro, Torrente, Burletta",
+      "it": "Riduce moderatamente la quantità di rumore prodotto durante lo sparo. Compatibile con: Arpeggio, Rattler, Ferro, Torrente, Burletta"
     },
     "type": "Modification",
     "rarity": "Rare",
@@ -12990,6 +13043,10 @@
         "it": "Rumore ridotto",
         "value": "40%"
       }
+    },
+    "recyclesInto": {
+        "mod_components": 1,
+        "wires": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/silencer_ii.png",
     "updatedAt": "10/30/2025"
@@ -14560,21 +14617,21 @@
       "fr": "Pièces de rechange assorties utilisées pour les pistolets et les mitraillettes.",
       "es": "Piezas de repuesto variadas usadas para pistolas y subfusiles.",
       "pt": "Peças sobressalentes variadas usadas para pistolas e submetralhadoras.",
-      "pl": "Różne części zamienne używane do pistoletów i pistoletów maszynowych.",
+      "pl": "Różne części zamienne do pistoletów i pistoletów maszynowych.",
       "no": "Assorterte reservedeler brukt til pistoler og maskinpistoler.",
       "da": "Assorterede reservedele brugt til pistoler og maskinpistoler.",
-      "it": "Parti di ricambio assortite usate per pistole e mitra."
+      "it": "Parti di ricambio assortite per pistole e mitra."
     },
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0.0,
-    "recyclesInto": {
-      "refiner_ii": 1,
+    "rarity": "Common",
+    "station": "Refiner II",
+    "crafting": {
       "simple_gun_parts": 4
     },
     "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts_blueprint.png",
-    "rarity": "Common",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/06/2025"
   },
   {
     "id": "smoke_grenade_trap",
@@ -15929,13 +15986,11 @@
         "value": "+2"
       }
     },
-    "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_i.png",
-    "updatedAt": "11/03/2025",
-    "recipe": {
-      "plastic_parts": 6,
-      "steel_spring": 1
+    "recyclesInto": {
+        "plastic_parts": 6
     },
-    "craftBench": "weapon_bench"
+    "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_i.png",
+    "updatedAt": "11/06/2025"
   },
   {
     "id": "shotgun_choke_i",
