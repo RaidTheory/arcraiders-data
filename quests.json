@@ -1498,6 +1498,17 @@
         "no": "Finn gjemmestedet nær Marano-stasjonen",
         "da": "Find gemmestedet nær Marano-stationen",
         "it": "Localizza il nascondiglio vicino alla stazione Marano"
+      },
+      {
+        "en": "Sabotage the cache",
+        "de": "Sabotiere den Cache",
+        "fr": "Sabotez la cache",
+        "es": "Sabotea el caché",
+        "pt": "Sabote o cache",
+        "pl": "Sabotuj skrytkę",
+        "no": "Saboter hurtiglageret",
+        "da": "Saboter cachen",
+        "it": "Sabota la cache"
       }
     ],
     "rewardItemIds": [
@@ -3250,25 +3261,18 @@
         "it": "Ripara i pannelli solari usando 5 fili e 2 batterie"
       }
     ],
-    "grantedItemIds": [
-      {
-        "itemId": "zipline",
-        "quantity": 1
-      },
-      {
-        "itemId": "blue_light_stick",
-        "quantity": 5
-      },
-      {
-        "itemId": "antiseptic",
-        "quantity": 3
-      },
-      {
-        "itemId": "durable_cloth",
-        "quantity": 5
-      }
+    "requiredItemIds": [
+      { "itemId": "wire", "quantity": 5 },
+      { "itemId": "battery", "quantity": 2 }
     ],
-    "rewardItemIds": [],
+    "grantedItemIds": [
+      { "itemId": "zipline", "quantity": 1 }
+    ],
+    "rewardItemIds": [
+      { "itemId": "blue_light_stick", "quantity": 5 },
+      { "itemId": "antiseptic", "quantity": 3 },
+      { "itemId": "durable_cloth", "quantity": 5 }
+    ],
     "xp": 0,
     "previousQuestIds": [
       "ss10s"
@@ -3324,7 +3328,18 @@
         "no": "Finn Lab 1 på øverste etasje over resepsjonen",
         "da": "Find Lab 1 på øverste etage over receptionen",
         "it": "Individua il Laboratorio 1 al piano superiore sopra la reception"
-      }
+      },
+      {
+        "en": "Search for any traces of the agricultural project",
+        "de": "Suche nach Spuren des landwirtschaftlichen Projekts",
+        "fr": "Cherchez des traces du projet agricole",
+        "es": "Busca cualquier rastro del proyecto agrícola",
+        "pt": "Procure por quaisquer vestígios do projeto agrícola",
+        "pl": "Szukaj śladów projektu rolniczego",
+        "no": "Let etter spor av landbruksprosjektet",
+        "da": "Søg efter spor af landbrugsprojektet",
+        "it": "Cerca eventuali tracce del progetto agricolo"
+      } 
     ],
     "rewardItemIds": [
       {
@@ -3396,6 +3411,17 @@
         "no": "Få tilgang til dataarkivet i en av kuplene",
         "da": "Få adgang til dataarkivet i en af kuplerne",
         "it": "Accedi all'archivio dati in una delle cupole"
+      },
+      {
+        "en": "Upload the data to the computer terminal in any Field Depot",
+        "de": "Lade die Daten am Computerterminal in einem beliebigen Felddepot hoch",
+        "fr": "Téléchargez les données sur le terminal informatique de n'importe quel dépôt de terrain",
+        "es": "Sube los datos al terminal del ordenador en cualquier depósito de campo",
+        "pt": "Carregue os dados para o terminal de computador em qualquer Depósito de Campo",
+        "pl": "Prześlij dane do terminala komputerowego w dowolnym magazynie polowym",
+        "no": "Last opp dataene til dataterminalen i et hvilket som helst feltdepot",
+        "da": "Upload dataene til computerterminalen i et hvilket som helst feltdepot",
+        "it": "Carica i dati sul terminale del computer in un qualsiasi deposito da campo"
       }
     ],
     "rewardItemIds": [

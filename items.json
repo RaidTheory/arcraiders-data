@@ -2588,7 +2588,12 @@
         "value": "20m"
       }
     },
-    "updatedAt": "10/30/2025"
+    "recipe": {
+      "power_rod": 1,
+      "exodus_modules": 1
+    },
+    "craftBench": "utility_bench",
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "esr_analyzer",
@@ -2706,6 +2711,9 @@
     "value": 640,
     "recyclesInto": {
       "plastic_parts": 8
+    },
+    "salvagesInto": {
+      "plastic_parts": 4
     },
     "weightKg": 0.8,
     "stackSize": 5,
@@ -3203,7 +3211,7 @@
         "no": "Holdbarhet",
         "da": "Holdbarhed",
         "it": "Durabilità",
-        "value": "67/110"
+        "value": "100/110"
       },
       "Ammo Type": {
         "en": "Ammo Type",
@@ -3903,12 +3911,15 @@
     },
     "type": "Topside Material",
     "rarity": "Rare",
+    "recyclesInto": {
+      "arc_powercell": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/advanced_arc_powercell.png",
     "value": 640,
     "weightKg": 0.5,
     "stackSize": 5,
     "foundIn": "ARC",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "arc_coolant",
@@ -4558,8 +4569,8 @@
     "type": "Recyclable",
     "value": 1000,
     "recyclesInto": {
-      "rubber_parts": 6,
-      "speaker_component": 2
+      "rubber_parts": 7,
+      "speaker_component": 1
     },
     "description": {
       "en": "Can be recycled into crafting materials.",
@@ -4576,7 +4587,7 @@
     "stackSize": 3,
     "foundIn": "Residential, Commercial",
     "imageFilename": "https://cdn.arctracker.io/items/headphones.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "household_cleaner",
@@ -5196,6 +5207,9 @@
     "recyclesInto": {
       "metal_parts": 8
     },
+    "salvagesInto": {
+      "metal_parts": 4
+    },
     "updatedAt": "11/01/2025",
     "description": {
       "en": "Can be recycled into metal parts.",
@@ -5442,22 +5456,27 @@
       "advanced_mechanical_components": 2,
       "arc_alloy": 3
     },
+    "effects": {
+      "Damage": 100,
+      "Radius": "10m"
+    },
     "updatedAt": "11/2/2025",
     "description": {
-      "en": "Can be recycled into crafting materials.",
-      "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
-      "es": "Se puede reciclar en materiales de fabricación.",
-      "pt": "Pode ser reciclado em materiais de fabricação.",
-      "pl": "Można przetworzyć na materiały rzemieślnicze.",
-      "no": "Kan resirkuleres til håndverksmateriell.",
-      "da": "Kan genbruges til håndværksmaterialer.",
-      "it": "Può essere riciclato in materiali da costruzione."
+      "en": "Can be recycled into crafting materials. Can be thrown to create a violent singularity.",
+      "de": "Kann zu Handwerksmaterialien recycelt werden. Kann geworfen werden, um eine heftige Singularität zu erzeugen.",
+      "fr": "Peut être recyclé en matériaux de fabrication. Peut être lancé pour créer une singularité violente.",
+      "es": "Se puede reciclar para obtener materiales de fabricación. Se puede lanzar para crear una singularidad violenta.",
+      "pt": "Pode ser reciclado em materiais de fabricação. Pode ser arremessado para criar uma singularidade violenta.",
+      "pl": "Można go poddać recyklingowi na materiały rzemieślnicze. Można nim rzucić, aby stworzyć gwałtowną osobliwość.",
+      "no": "Kan resirkuleres til håndverksmaterialer. Kan kastes for å skape en voldsom singularitet.",
+      "da": "Kan genbruges til håndværksmaterialer. Kan kastes for at skabe en voldsom singularitet.",
+      "it": "Può essere riciclato in materiali per il crafting. Può essere lanciato per creare una violenta singolarità."
     },
     "weightKg": 1.0,
     "stackSize": 3,
     "foundIn": "ARC",
-    "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png"
+    "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "sentinel_firing_core",
@@ -5556,12 +5575,18 @@
       "it": "Un pezzo di foglia di agave. Può essere usato per recuperare una piccola quantità di salute."
     },
     "type": "Nature",
+    "rarity": "Uncommon",
     "value": 2000,
-    "weightKg": 0.4,
+    "weightKg": 0.2,
+    "stackSize": 10,
     "foundIn": "Nature",
-    "rarity": "Common",
+    "effects": {
+      "Healing": "1/s",
+      "Duration": "10s",
+      "Use Time": "1s"
+    },
     "imageFilename": "https://cdn.arctracker.io/items/agave.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "assorted_seeds",
@@ -5752,8 +5777,10 @@
     "rarity": "Uncommon",
     "type": "Nature",
     "value": 640,
-    "recyclesInto": {},
-    "updatedAt": "10/31/2025",
+    "recyclesInto": {
+      "assorted_seeds": 2
+    },
+    "updatedAt": "11/05/2025",
     "description": {
       "en": "Can be consumed for a small amount of stamina.",
       "de": "Kann konsumiert werden, um eine kleine Menge Ausdauer zu erhalten.",
@@ -5870,12 +5897,18 @@
     },
     "rarity": "Rare",
     "type": "Recyclable",
-    "value": 640,
+    "value": 1000,
     "recyclesInto": {
-      "fabric": 8,
-      "oil": 3
+      "fabric": 6,
+      "oil": 2
     },
-    "updatedAt": "10/30/2025"
+    "salvagesInto": {
+      "oil": 2
+    },
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Industrial",
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "frying_pan",
@@ -5987,7 +6020,7 @@
     "foundIn": "Residential",
     "weightKg": 3.0,
     "imageFilename": "https://cdn.arctracker.io/items/portable_tv.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "volcanic_rock",
@@ -7000,7 +7033,7 @@
       "it": "Zipline"
     },
     "type": "Quick Use",
-    "rarity": "Uncommon",
+    "rarity": "Rare",
     "description": {
       "en": "A deployable zipline that allows you to quickly move between two locations.",
       "de": "Eine einsetzbare Seilrutsche, die es Ihnen ermöglicht, sich schnell zwischen zwei Orten zu bewegen.",
@@ -7013,19 +7046,19 @@
       "it": "Una zipline dispiegabile che ti consente di muoverti rapidamente tra due posizioni."
     },
     "rangeMeters": 60,
-    "weight": 0.8,
-    "value": 2000,
+    "weight": 0.4,
+    "value": 1000,
     "imageFilename": "https://cdn.arctracker.io/items/zipline.png",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "11/05/2025",
     "recyclesInto": {
       "rope": 1,
       "metal_parts": 1
     },
-    "recipe": {
-      "rope": 12,
-      "mechanical_components": 16
-    },
-    "craftBench": "utility_bench"
+    "craftBench": "utility_bench",
+    "craftMaterials": {
+      "rope": 1,
+      "mechanical_components": 1
+    }
   },
   {
     "id": "arc_flex_rubber",
@@ -7605,8 +7638,17 @@
       "it": "Un progetto per creare il Silenziatore I."
     },
     "type": "Blueprint",
-    "updatedAt": "11/04/2025",
-    "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png"
+    "station": "weapon_bench",
+    "benchLevel": 2,
+    "crafting": {
+      "mechanical_components": 2,
+      "wires": 4
+    },
+    "value": 5000,
+    "weightKg": 0.0,
+    "rarity": "Common",
+    "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png",
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "vita_shot",
@@ -8333,7 +8375,7 @@
         "no": "Holdbarhet",
         "da": "Holdbarhed",
         "it": "Durabilità",
-        "value": "56/100"
+        "value": "100/100"
       },
       "Ammo Type": {
         "en": "Ammo Type",
@@ -9826,9 +9868,16 @@
     "weightKg": 1.0,
     "stackSize": 3,
     "foundIn": "Exodus",
+    "recyclesInto": {
+      "wires": 2,
+      "processor": 2
+    },
+    "salvagesInto": {
+      "processor": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/exodus_modules.png",
     "value": 2750,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "durable_cloth",
@@ -10109,14 +10158,14 @@
     },
     "type": "Topside Material",
     "rarity": "Epic",
-    "value": 2000,
-    "recyclesInto": {
-      "simple_gun_parts": 3
-    },
     "weightKg": 1.0,
     "stackSize": 3,
     "foundIn": "Security",
     "imageFilename": "https://cdn.arctracker.io/items/complex_gun_parts.png",
+    "value": 2000,
+    "recyclesInto": {
+      "simple_gun_parts": 3
+    },
     "updatedAt": "11/03/2025",
     "recipe": {
       "light_gun_parts": 2,
@@ -10926,6 +10975,13 @@
         "value": "20%"
       }
     },
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Kettle",
+      "Burletta",
+      "Stitcher"
+    ],
     "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
     "updatedAt": "11/03/2025"
   },
@@ -10993,8 +11049,13 @@
     "value": 5000,
     "weightKg": 0.0,
     "rarity": "Common",
+    "station": "Explosives Station II",
+    "crafting": {
+      "crude_explosives": 2,
+      "processor": 1
+    },
     "imageFilename": "https://cdn.arctracker.io/items/trigger_nade_blueprint.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "lure_grenade_blueprint",
@@ -11022,14 +11083,16 @@
     },
     "type": "Blueprint",
     "value": 5000,
-    "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_blueprint.png",
+    "weightKg": 0.0,
     "rarity": "Common",
-    "recyclesInto": {
-      "utility_station_ii": 9,
-      "speaker_component": 1,
-      "electrical_components": 1
+    "station": "utility_bench",
+    "benchLevel": 2,
+    "crafting": {
+      "speaker_component": 5,
+      "electrical_components": 9
     },
-    "updatedAt": "10/30/2025"
+    "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_blueprint.png",
+    "updatedAt": "11/03/2025"
   },
   {
     "id": "dam_surveillance_key",
@@ -11089,9 +11152,15 @@
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0.0,
-    "imageFilename": "https://cdn.arctracker.io/items/bettina_blueprint.png",
     "rarity": "Common",
-    "updatedAt": "10/30/2025"
+    "station": "Gunsmith III",
+    "crafting": {
+      "advanced_mechanical_components": 3,
+      "heavy_gun_parts": 3,
+      "canister": 3
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/bettina_blueprint.png",
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "blue_gate_confiscation_room_key",
@@ -11407,6 +11476,10 @@
     "rarity": "Uncommon",
     "value": 2000,
     "weightKg": 0.5,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "duct_tape": 1
+    },
     "effects": {
       "Reduced Vertical Recoil": {
         "en": "Reduced Vertical Recoil",
@@ -11421,8 +11494,15 @@
         "value": "30%"
       }
     },
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Kettle",
+      "Il Toro",
+      "Stitcher"
+    ],
     "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "stable_stock_ii",
@@ -11452,6 +11532,17 @@
     "rarity": "Uncommon",
     "value": 2000,
     "weightKg": 0.5,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "duct_tape": 1
+    },
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Kettle",
+      "Il Toro",
+      "Stitcher"
+    ],
     "effects": {
       "Compatible with": {
         "en": "Compatible with",
@@ -11491,7 +11582,7 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/stable_stock_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "looting_mk_2",
@@ -11872,6 +11963,10 @@
     },
     "type": "Augment",
     "rarity": "Epic",
+    "recyclesInto": {
+      "advanced_electrical_components": 1,
+      "processor": 1
+    },
     "effects": {
       "Durability": {
         "en": "Durability",
@@ -11913,7 +12008,7 @@
     "weightKg": 4.0,
     "value": 5000,
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk_3_healing.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "jolt_mine_blueprint",
@@ -12006,6 +12101,10 @@
     "rarity": "Uncommon",
     "value": 2000,
     "weightKg": 0.5,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "wires": 1
+    },
     "effects": {
       "Reduced Base Dispersion": {
         "en": "Reduced Base Dispersion",
@@ -12020,8 +12119,12 @@
         "value": "20%"
       }
     },
+    "compatibleWith": [
+      "Il Toro",
+      "Vulcano"
+    ],
     "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "angled_grip_ii",
@@ -12051,6 +12154,10 @@
     "value": 2000,
     "rarity": "Uncommon",
     "weightKg": 0.5,
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "duct_tape": 1
+    },
     "effects": {
       "Reduced Horizontal Recoil": {
         "en": "Reduced Horizontal Recoil",
@@ -12065,8 +12172,15 @@
         "value": "30%"
       }
     },
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Kettle",
+      "Il Toro",
+      "Stitcher"
+    ],
     "imageFilename": "https://cdn.arctracker.io/items/angled_grip_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "kinetic_converter",
@@ -12223,7 +12337,7 @@
         "no": "Holdbarhet",
         "da": "Holdbarhed",
         "it": "Durabilità",
-        "value": "74/110"
+        "value": "110/110"
       },
       "Ammo Type": {
         "en": "Ammo Type",
@@ -12983,6 +13097,17 @@
         "value": "20%"
       }
     },
+      "recyclesInto": {
+      "mechanical_components": 1,
+      "wires": 1
+    },
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Kettle",
+      "Burletta",
+      "Stitcher"
+    ],
     "imageFilename": "https://cdn.arctracker.io/items/compensator_ii.png",
     "updatedAt": "11/03/2025",
     "recipe": {
@@ -13772,7 +13897,7 @@
         "no": "Holdbarhet",
         "da": "Holdbarhed",
         "it": "Durabilità",
-        "value": "50/110"
+        "value": "110/110"
       },
       "Ammo Type": {
         "en": "Ammo Type",
@@ -16492,9 +16617,49 @@
     },
     "type": "Blueprint",
     "value": 5000,
-    "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
+    "weightKg": 0.0,
     "rarity": "Common",
-    "updatedAt": "11/04/2025"
+    "station": "weapon_bench",
+    "benchLevel": 2,
+    "crafting": {
+      "mechanical_components": 2,
+      "wires": 4
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii_blueprint.png",
+    "updatedAt": "11/05/2025"
+  },
+  {
+    "id": "damaged_arc_powercell",
+    "name": "Damaged ARC Powercell",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Common",
+    "value": 293,
+    "recyclesInto": {
+      "arc_alloy": 1
+    },
+    "weightKg": 0.25,
+    "stackSize": 5,
+    "foundIn": "ARC",
+    "updatedAt": "11/05/2025"
+  },
+  {
+    "id": "metal_brackets",
+    "name": "Metal Brackets",
+    "description": "Can be recycled into metal parts.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "value": 640,
+    "recyclesInto": {
+      "metal_parts": 8
+    },
+    "salvagesInto": {
+      "metal_parts": 4
+    },
+    "weightKg": 0.8,
+    "stackSize": 3,
+    "foundIn": "Mechanical, Electrical",
+    "updatedAt": "11/05/2025"
   },
   {
     "id": "vita_spray_blueprint",
@@ -16683,9 +16848,16 @@
       "it": "Riduce significativamente la quantità di rumore prodotto durante lo sparo. Compatibile con: Tempest, Arpeggio, Kettle, Ferro, Renegade"
     },
     "type": "Modification",
-    "value": 7000,
     "rarity": "Epic",
+    "value": 7000,
     "weightKg": 0.75,
+    "compatibleWith": [
+      "Arpeggio",
+      "Rattler",
+      "Ferro",
+      "Anvil",
+      "Torrente"
+    ],
     "effects": {
       "Reduced Noise": {
         "en": "Reduced Noise",
@@ -16712,8 +16884,17 @@
         "value": "20%"
       }
     },
-    "imageFilename": "https://cdn.arctracker.io/items/silencer_iii.png",
-    "updatedAt": "11/04/2025"
+    "recyclesInto": {
+      "mod_components": 1,
+      "wires": 3
+    },
+    "salvagesInto": {
+      "mod_components": 1
+    },
+    "craftBench": "weapon_bench",
+    "benchLevel": 3,
+    "updatedAt": "11/05/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/silencer_iii.png"
   },
   {
     "id": "blue_light_stick_blueprint",
@@ -16808,5 +16989,18 @@
     "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_ii_blueprint.png",
     "rarity": "Common",
     "updatedAt": "11/04/2025"
+  },
+  {
+    "id": "rosary",
+    "name": "Rosary",
+    "description": "May be worth a few coins.",
+    "type": "Trinket",
+    "rarity": "Rare",
+    "value": 2000,
+    "recyclesInto": {},
+    "weightKg": 0.3,
+    "stackSize": 3,
+    "foundIn": "Old World, Residential",
+    "updatedAt": "11/05/2025"
   }
 ]
