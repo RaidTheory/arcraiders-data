@@ -7271,15 +7271,23 @@
       "de": "Eine Blaupause zur Herstellung der Burletta-Waffe.",
       "fr": "Un plan pour fabriquer l'arme Burletta.",
       "es": "Un plano para fabricar el arma Burletta.",
-      "pt": "Um projeto para fabricar a arma Burletta.",
+      "pt": "Um projeto para fabricar la arma Burletta.",
       "pl": "Projekt do wytworzenia broni Burletta.",
       "no": "En tegning for å lage Burletta-våpenet.",
       "da": "En tegning til at fremstille Burletta-våbnet.",
       "it": "Un progetto per creare l'arma Burletta."
     },
     "type": "Blueprint",
-    "updatedAt": "11/04/2025",
-    "imageFilename": "https://cdn.arctracker.io/items/burletta.png"
+    "value": 5000,
+    "weightKg": 0.0,
+    "rarity": "Common",
+    "station": "Gunsmith I",
+    "crafting": {
+      "mechanical_components": 3,
+      "simple_gun_parts": 3
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
+    "updatedAt": "11/06/2025"
   },
   {
     "id": "binoculars",
