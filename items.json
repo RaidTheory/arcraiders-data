@@ -4538,6 +4538,7 @@
       "sr": "Ima pristojnu štetu i preciznost."
     },
     "type": "Assault Rifle",
+    "type": "Assault Rifle",
     "rarity": "Uncommon",
     "value": 5500,
     "weightKg": 6.0,
@@ -13364,7 +13365,11 @@
       "medium_gun_parts": 3,
       "steel_spring": 6
     },
-    "craftBench": "weapon_bench"
+    "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "medium_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/torrente.png"
   },
   {
     "id": "dam_utility_key",
