@@ -4513,12 +4513,6 @@
         "hr": "Dostavite ESR analizator Lanceu"
       }
     ],
-    "requiredItemIds": [
-      {
-        "itemId": "esr_analyzer",
-        "quantity": 1
-      }
-    ],
     "rewardItemIds": [
       {
         "itemId": "tactical_mk3_healing",
@@ -5213,7 +5207,16 @@
       "pl": "Sedno sprawy",
       "no": "Roten til problemet",
       "da": "Sagens kerne",
-      "it": "La radice del problema"
+      "it": "La radice del problema",
+      "zh-TW": "問題的根源",
+      "kr": "문제의 근원",
+      "hr": "Korijen problema",
+      "uk": "Корінь проблеми",
+      "ru": "Корень проблемы",
+      "tr": "Meselenin Özü",
+      "ja": "問題の根源",
+      "zh-CN": "问题的根源",
+      "sr": "Корен проблема"
     },
     "trader": "Celeste",
     "description": {
@@ -5225,7 +5228,16 @@
       "pl": "Mamy szczęście. Notatki, które znalazłeś ostatnim razem, zostały napisane przez główną badaczkę. Kiedy projekt upadł, wygląda na to, że zabrała część próbek nasion i zapieczętowała je w bezpiecznym miejscu.",
       "no": "Vi har flaks. Notatene du fant sist gang ble skrevet av hovedforskeren. Da prosjektet gikk under, ser det ut til at hun tok noen av frøprøvene og forseglet dem på et sikkert sted.",
       "da": "Vi er heldige. Noterne du fandt sidst blev skrevet af hovedforskeren. Da projektet gik under, ser det ud til, at hun tog nogle af frøprøverne og forseglede dem på et sikkert sted.",
-      "it": "Siamo fortunati. Le note che hai trovato l'ultima volta sono state scritte dalla ricercatrice principale. Quando il progetto è andato a rotoli, sembra che abbia preso alcuni campioni di semi e li abbia sigillati in un luogo sicuro."
+      "it": "Siamo fortunati. Le note che hai trovato l'ultima volta sono state scritte dalla ricercatrice principale. Quando il progetto è andato a rotoli, sembra che abbia preso alcuni campioni di semi e li abbia sigillati in un luogo sicuro.",
+      "zh-TW": "我們很幸運。你上次找到的筆記是首席研究員寫的。當專案終止時，她似乎帶走了一些種子樣本，並將它們封存在一個安全的地方。",
+      "kr": "운이 좋군요. 지난번에 찾은 메모는 수석 연구원이 작성한 것입니다. 프로젝트가 중단되었을 때, 그녀는 일부 종자 샘플을 가져가 안전한 장소에 봉인한 것 같습니다.",
+      "hr": "Imamo sreće. Bilješke koje ste pronašli prošli put napisala je glavna istraživačica. Kada je projekt propao, čini se da je uzela neke uzorke sjemena i zapečatila ih na sigurnom mjestu.",
+      "uk": "Нам пощастило. Записи, які ви знайшли минулого разу, були написані головним дослідником. Коли проект закрили, схоже, вона взяла деякі зразки насіння і запечатала їх у безпечному місці.",
+      "ru": "Нам повезло. Записи, которые вы нашли в прошлый раз, были написаны главным исследователем. Когда проект закрыли, похоже, она взяла несколько образцов семян и запечатала их в безопасном месте.",
+      "tr": "Şanslıyız. Geçen sefer bulduğunuz notlar baş araştırmacı tarafından yazılmış. Proje iptal edildiğinde, tohum örneklerinden bazılarını alıp güvenli bir yere mühürlemiş gibi görünüyor.",
+      "ja": "運が良かった。前回見つけたメモは主任研究員が書いたものだ。プロジェクトが中止になったとき、彼女は種子サンプルのいくつかを持ち出し、安全な場所に封印したようだ。",
+      "zh-CN": "我们很幸运。你上次找到的笔记是首席研究员写的。当项目终止时，她似乎带走了一些种子样本，并将它们封存在一个安全的地方。",
+      "sr": "Имамо среће. Белешке које сте пронашли прошли put написала је главна истраживачица. Када је пројекат пропао, изгледа да је узела неке узорке семена и запечатила их на сигурном месту."
     },
     "objectives": [
       {
@@ -5237,7 +5249,16 @@
         "pl": "Udaj się do Budynku Badawczego",
         "no": "Gå til Forskningsbygningen",
         "da": "Gå til Forskningsbygningen",
-        "it": "Vai all'Edificio di Ricerca"
+        "it": "Vai all'Edificio di Ricerca",
+        "zh-TW": "前往研究大樓",
+        "kr": "연구동으로 가기",
+        "hr": "Idite do Istraživačke zgrade",
+        "uk": "Йдіть до Дослідницької будівлі",
+        "ru": "Отправляйтесь в Исследовательское здание",
+        "tr": "Araştırma Binasına git",
+        "ja": "研究棟に向かう",
+        "zh-CN": "前往研究大楼",
+        "sr": "Идите до Истраживачке зграде"
       },
       {
         "en": "Search for the seed vault in the \"room with a great view\"",
@@ -5248,7 +5269,16 @@
         "pl": "Poszukaj skarbca nasion w \"pokoju ze wspaniałym widokiem\"",
         "no": "Søk etter frøhvelvet i \"rommet med flott utsikt\"",
         "da": "Søg efter frøhvælvingen i \"rummet med en fantastisk udsigt\"",
-        "it": "Cerca il caveau dei semi nella \"stanza con una bella vista\""
+        "it": "Cerca il caveau dei semi nella \"stanza con una bella vista\"",
+        "zh-TW": "在「景觀絕佳的房間」中尋找種子庫",
+        "kr": "\"멋진 전망이 있는 방\"에서 종자 보관소 찾기",
+        "hr": "Potražite trezor sa sjemenom u \"sobi s prekrasnim pogledom\"",
+        "uk": "Шукайте сховище насіння в \"кімнаті з чудовим виглядом\"",
+        "ru": "Ищите хранилище семян в \"комнате с прекрасным видом\"",
+        "tr": "\"Harika manzaralı odada\" tohum kasasını ara",
+        "ja": "「素晴らしい景色の部屋」で種子保管庫を探す",
+        "zh-CN": "在「景观绝佳的房间」中寻找种子库",
+        "sr": "Потражите трезор са семеном у \"соби са прелепим погледом\""
       }
     ],
     "rewardItemIds": [
@@ -5282,7 +5312,16 @@
       "pl": "Przekazanie",
       "no": "Overlevering",
       "da": "Overdragelse",
-      "it": "Consegna"
+      "it": "Consegna",
+      "zh-TW": "交接",
+      "kr": "인계",
+      "hr": "Predaja",
+      "uk": "Передача",
+      "ru": "Передача",
+      "tr": "Devir",
+      "ja": "引き継ぎ",
+      "zh-CN": "交接",
+      "sr": "Predaja"
     },
     "trader": "Tian Wan",
     "description": {
@@ -5294,7 +5333,16 @@
       "pl": "Shani poprosiła mnie o oznaczenie twojej placówki, żeby była bardziej widoczna dla naszych ludzi. Prawdopodobnie kiedyś tam przejdziesz - pomożesz mi się jej pozbyć, prawda?",
       "no": "Shani ba meg om å markere utposten din, for å gjøre den mer synlig for våre folk. Du kommer sannsynligvis forbi den på et tidspunkt - du hjelper meg å få henne av ryggen min, ikke sant?",
       "da": "Shani bad mig om at markere din forpost, for at gøre den mere synlig for vores folk. Du kommer sandsynligvis forbi den på et tidspunkt - du hjælper mig med at få hende af min ryg, ikke?",
-      "it": "Shani mi ha chiesto di contrassegnare il tuo avamposto, per renderlo più visibile per la nostra gente. Probabilmente ci passerai davanti ad un certo punto - mi aiuterai a togliermela di dosso, vero?"
+      "it": "Shani mi ha chiesto di contrassegnare il tuo avamposto, per renderlo più visibile per la nostra gente. Probabilmente ci passerai davanti ad un certo punto - mi aiuterai a togliermela di dosso, vero?",
+      "zh-TW": "夏妮要我標記你的前哨站，好讓我們的人更容易注意到它。你可能會在某個時候經過那裡——你會幫我擺脫她的糾纏，對吧？",
+      "kr": "샤니가 우리 사람들이 더 잘 알아볼 수 있도록 당신의 전초기지를 표시해 달라고 했어요. 언젠가 그곳을 지나갈 텐데, 그녀가 저를 좀 그만 괴롭히게 도와주시겠어요?",
+      "hr": "Shani me zamolila da označim tvoju ispostavu, kako bi bila uočljivija za naše ljude. Vjerojatno ćeš proći pored nje u nekom trenutku - pomoći ćeš mi da je se riješim, zar ne?",
+      "uk": "Шані попросила мене позначити ваш аванпост, щоб зробити його помітнішим для наших людей. Ти, напевно, колись проходитимеш повз нього — допоможеш мені позбутися її нагадувань, так?",
+      "ru": "Шани попросила меня отметить ваш аванпост, чтобы сделать его заметнее для наших людей. Ты, наверное, когда-нибудь будешь проходить мимо — поможешь мне от неё отвязаться, да?",
+      "tr": "Shani, halkımızın daha kolay fark etmesi için karakolunu işaretlememi istedi. Muhtemelen bir ara oradan geçersin - onu başımdan savmama yardım edersin, değil mi?",
+      "ja": "シャニが、あなたの前哨基地を目立つように印をつけてほしいと頼んできたんだ。いずれそこを通りかかるだろう——彼女をなだめるのを手伝ってくれるよね？",
+      "zh-CN": "夏妮要我标记你的前哨站，好让我们的人更容易注意到它。你可能会在某个时候经过那里——你会帮我摆脱她的纠缠，对吧？",
+      "sr": "Shani me je zamolila da označim tvoju ispostavu, kako bi bila uočljivija za naše ljude. Verovatno ćeš proći pored nje u nekom trenutku - pomoći ćeš mi da je se rešim, zar ne?"
     },
     "objectives": [
       {
@@ -5306,7 +5354,16 @@
         "pl": "Odwiedź Dom Wzorów w Tamie",
         "no": "Besøk Mønsterhuset i Demningen",
         "da": "Besøg Mønsterhuset i Dæmningen",
-        "it": "Visita la Casa dei Motivi nella Diga"
+        "it": "Visita la Casa dei Motivi nella Diga",
+        "zh-TW": "拜訪大壩中的紋樣之屋",
+        "kr": "댐에 있는 패턴 하우스 방문",
+        "hr": "Posjeti Kuću uzoraka u Brani",
+        "uk": "Відвідайте Будинок Патернів на Дамбі",
+        "ru": "Посетите Дом Паттернов на Дамбе",
+        "tr": "Barajdaki Desen Evi'ni ziyaret et",
+        "ja": "ダムにあるパターン・ハウスを訪れる",
+        "zh-CN": "拜访大坝中的纹样之屋",
+        "sr": "Poseti Kuću uzoraka u Brani"
       },
       {
         "en": "Mark the Pattern Outpost",
@@ -5317,7 +5374,16 @@
         "pl": "Oznacz Placówkę Wzorów",
         "no": "Marker Mønsterutposten",
         "da": "Marker Mønsterforposten",
-        "it": "Contrassegna l'Avamposto dei Motivi"
+        "it": "Contrassegna l'Avamposto dei Motivi",
+        "zh-TW": "標記紋樣前哨站",
+        "kr": "패턴 전초기지 표시",
+        "hr": "Označi Ispostavu uzoraka",
+        "uk": "Позначте Аванпост Патернів",
+        "ru": "Отметьте Аванпост Паттернов",
+        "tr": "Desen Karakolu'nu işaretle",
+        "ja": "パターン前哨基地に印をつける",
+        "zh-CN": "标记纹样前哨站",
+        "sr": "Označi Ispostavu uzoraka"
       }
     ],
     "rewardItemIds": [
@@ -5344,7 +5410,16 @@
       "pl": "Kłopoty z wodą",
       "no": "Vannproblemer",
       "da": "Vandproblemer",
-      "it": "Problemi d'acqua"
+      "it": "Problemi d'acqua",
+      "zh-TW": "水源問題",
+      "kr": "물 문제",
+      "hr": "Problemi s vodom",
+      "uk": "Проблеми з водою",
+      "ru": "Проблемы с водой",
+      "tr": "Su Sorunları",
+      "ja": "水のトラブル",
+      "zh-CN": "水源问题",
+      "sr": "Проблеми са водом"
     },
     "trader": "Celeste",
     "description": {
@@ -5356,7 +5431,16 @@
       "pl": "Jeśli jesteś tu, żeby narzekać na wodę, dołącz do klubu. Cały dzień przyjmuję skargi. Coś z nią zdecydowanie jest nie tak i potrzebuję pomocy, żeby to wyjaśnić.",
       "no": "Hvis du er her for å klage på vannet, bli med i klubben. Jeg har mottatt klager hele dagen. Det er definitivt noe galt med det, og jeg trenger hjelp til å ordne det.",
       "da": "Hvis du er her for at klage over vandet, så velkommen i klubben. Jeg har modtaget klager hele dagen. Der er helt sikkert noget galt med det, og jeg har brug for hjælp til at løse det.",
-      "it": "Se sei qui per lamentarti dell'acqua, unisciti al club. Ho ricevuto lamentele tutto il giorno. C'è decisamente qualcosa che non va, e ho bisogno di aiuto per sistemare la cosa."
+      "it": "Se sei qui per lamentarti dell'acqua, unisciti al club. Ho ricevuto lamentele tutto il giorno. C'è decisamente qualcosa che non va, e ho bisogno di aiuto per sistemare la cosa.",
+      "zh-TW": "如果你是來抱怨水的問題，那你來對地方了。我整天都在處理投訴。水源肯定出了問題，我需要一些幫助來解決這個問題。",
+      "kr": "물에 대해 불평하러 오셨다면, 저도 마찬가지입니다. 하루 종일 불만을 접수하고 있었어요. 분명히 뭔가 문제가 있는데, 해결하려면 도움이 필요합니다.",
+      "hr": "Ako si ovdje da se žališ na vodu, dobrodošao u klub. Cijeli dan primam pritužbe. Nešto definitivno nije u redu s njom, i trebam pomoć da to riješim.",
+      "uk": "Якщо ви тут, щоб поскаржитися на воду, приєднуйтесь до клубу. Я весь день приймаю скарги. З нею точно щось не так, і мені потрібна допомога, щоб це з'ясувати.",
+      "ru": "Если вы здесь, чтобы пожаловаться на воду, добро пожаловать в клуб. Я весь день принимаю жалобы. С ней определённо что-то не так, и мне нужна помощь, чтобы разобраться.",
+      "tr": "Su hakkında şikayet etmek için geldiyseniz, kulübe hoş geldiniz. Bütün gün şikayetlerle uğraşıyorum. Kesinlikle bir sorun var ve bunu çözmek için yardıma ihtiyacım var.",
+      "ja": "水について文句を言いに来たなら、仲間に入ってくれ。一日中苦情を受け付けてるんだ。確実に何かがおかしいんだが、解決するには助けが必要なんだ。",
+      "zh-CN": "如果你是来抱怨水的问题，那你来对地方了。我整天都在处理投诉。水源肯定出了问题，我需要一些帮助来解决这个问题。",
+      "sr": "Ако си овде да се жалиш на воду, добродошао у клуб. Цео дан примам притужбе. Нешто дефинитивно није у реду са њом, и требам помоћ да то решим."
     },
     "objectives": [
       {
@@ -5368,7 +5452,16 @@
         "pl": "Zlokalizuj Tunel Dostępu Powodziowego pod Balkonem Czerwonego Jeziora",
         "no": "Finn Flomtilgangstunnelen under Rødsjøbalkongen",
         "da": "Find Oversvømmelsesadgangstunnelen under Rødsjøbalkonen",
-        "it": "Individua il Tunnel di Accesso alle Inondazioni sotto il Balcone del Lago Rosso"
+        "it": "Individua il Tunnel di Accesso alle Inondazioni sotto il Balcone del Lago Rosso",
+        "zh-TW": "找到紅湖陽台下方的洪水通道",
+        "kr": "레드 레이크 발코니 아래의 홍수 접근 터널을 찾으세요",
+        "hr": "Pronađi pristupni tunel za poplave ispod Balkona Crvenog jezera",
+        "uk": "Знайдіть тунель доступу до повені під балконом Червоного озера",
+        "ru": "Найдите туннель доступа к затоплению под балконом Красного озера",
+        "tr": "Kızıl Göl Balkonu altındaki Sel Erişim Tünelini bul",
+        "ja": "レッドレイク・バルコニーの下にある洪水アクセストンネルを見つける",
+        "zh-CN": "找到红湖阳台下方的洪水通道",
+        "sr": "Пронађи приступни тунел за поплаве испод Балкона Црвеног језера"
       },
       {
         "en": "Find the intake to the District's Water Supply",
@@ -5379,7 +5472,16 @@
         "pl": "Znajdź ujęcie do Zaopatrzenia w Wodę Dzielnicy",
         "no": "Finn inntaket til Distriktets Vannforsyning",
         "da": "Find indtagelsen til Distriktets Vandforsyning",
-        "it": "Trova l'ingresso della Fornitura Idrica del Distretto"
+        "it": "Trova l'ingresso della Fornitura Idrica del Distretto",
+        "zh-TW": "找到區域供水系統的進水口",
+        "kr": "지구 급수 시설의 취수구를 찾으세요",
+        "hr": "Pronađi dovod za vodoopskrbu Distrikta",
+        "uk": "Знайдіть водозабір системи водопостачання Округу",
+        "ru": "Найдите водозабор системы водоснабжения Района",
+        "tr": "Bölgenin Su Kaynağına giden girişi bul",
+        "ja": "地区の給水口を見つける",
+        "zh-CN": "找到区域供水系统的进水口",
+        "sr": "Пронађи довод за водоснабдевање Дистрикта"
       },
       {
         "en": "Sample the water",
@@ -5390,7 +5492,16 @@
         "pl": "Pobierz próbkę wody",
         "no": "Ta en vannprøve",
         "da": "Tag en vandprøve",
-        "it": "Preleva un campione d'acqua"
+        "it": "Preleva un campione d'acqua",
+        "zh-TW": "採集水樣",
+        "kr": "물 샘플을 채취하세요",
+        "hr": "Uzmi uzorak vode",
+        "uk": "Візьміть пробу води",
+        "ru": "Возьмите образец воды",
+        "tr": "Sudan numune al",
+        "ja": "水のサンプルを採取する",
+        "zh-CN": "采集水样",
+        "sr": "Узми узорак воде"
       }
     ],
     "rewardItemIds": [
@@ -5499,6 +5610,12 @@
         "zh-TW": "獲得跳躍者脈衝裝置",
         "sr": "Pribavi Pulsnu Jedinicu Skakača",
         "hr": "Pribavi Pulsnu Jedinicu Skakača"
+      }
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "leaper_pulse_unit",
+        "quantity": 1
       }
     ],
     "rewardItemIds": [
@@ -6784,6 +6901,12 @@
         "zh-TW": "為塞萊斯特獲取一根能量棒",
         "sr": "Nabavi Power Rod za Celeste",
         "hr": "Nabavi Power Rod za Celeste"
+      }
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "power_rod",
+        "quantity": 1
       }
     ],
     "rewardItemIds": [
