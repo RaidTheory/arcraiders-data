@@ -2890,6 +2890,46 @@
         "zh-TW": "到達勝利山脊",
         "sr": "Stigni do Pobedničkog grebena",
         "hr": "Stigni do Pobjedničkog grebena"
+      },
+      {
+        "en": "Retrieve the battle plans from the hideout under the broken highway",
+        "de": "Hole die Kampfpläne aus dem Versteck unter der kaputten Autobahn",
+        "fr": "Récupère les plans de bataille dans la cachette sous l'autoroute cassée",
+        "es": "Recupera los planes de batalla del escondite bajo la autopista rota",
+        "pt": "Recupera os planos de batalha do esconderijo sob a autoestrada quebrada",
+        "pl": "Odzyskaj plany bitwy z kryjówki pod zepsutą autostradą",
+        "no": "Hent kampplanene fra skjulestedet under den ødelagte motorveien",
+        "da": "Hent kampplanerne fra skjulestedet under den ødelagte motorvej",
+        "it": "Recupera i piani di battaglia dal nascondiglio sotto l'autostrada rotta",
+        "uk": "Витягніть бойові плани зі схованки під зламаною автострадою",
+        "kr": "부서진 고속도로 아래 은신처에서 전투 계획을 회수하세요",
+        "ru": "Заберите боевые планы из укрытия под разрушенной автострадой",
+        "zh-CN": "从破损高速公路下的藏身处取回作战计划",
+        "ja": "壊れた高速道路の下の隠れ家から戦闘計画を回収する",
+        "tr": "Kırık otoyolun altındaki saklanma yerinden savaş planlarını al",
+        "zh-TW": "從破損高速公路下的藏身處取回作戰計劃",
+        "sr": "Preuzmi planove bitke iz skrovišta ispod slomljenog autoputa",
+        "hr": "Preuzmi planove bitke iz skrovišta ispod slomljenog autoputa"
+      },
+      {
+        "en": "Deliver Major Alva's Patch to Celeste",
+        "de": "Liefere Major Alvas Abzeichen an Celeste",
+        "fr": "Livre l'insigne du Major Alva à Celeste",
+        "es": "Entrega el parche del Mayor Alva a Celeste",
+        "pt": "Entrega o distintivo do Major Alva a Celeste",
+        "pl": "Dostarcz naszywkę Majora Alvy do Celeste",
+        "no": "Lever Major Alvas merke til Celeste",
+        "da": "Lever Major Alvas mærke til Celeste",
+        "it": "Consegna la toppa del Maggiore Alva a Celeste",
+        "uk": "Доставте нашивку майора Альви до Селести",
+        "kr": "알바 소령의 패치를 셀레스트에게 전달하세요",
+        "ru": "Доставьте нашивку майора Альвы Селесте",
+        "zh-CN": "将阿尔瓦少校的徽章交给塞莱斯特",
+        "ja": "アルヴァ少佐のパッチをセレステに届ける",
+        "tr": "Binbaşı Alva'nın Yamasını Celeste'e teslim et",
+        "zh-TW": "將阿爾瓦少校的徽章交給塞萊斯特",
+        "sr": "Dostavi zakrpu Majora Alve Celeste",
+        "hr": "Dostavi zakrpu Majora Alve Celeste"
       }
     ],
     "rewardItemIds": [
@@ -3106,7 +3146,7 @@
     ],
     "xp": 0,
     "previousQuestIds": [
-      "ss10p"
+      "ss10p", "ss10n"
     ],
     "nextQuestIds": [
       "ss10r"
@@ -3176,6 +3216,46 @@
         "zh-TW": "到達大壩戰場的福米凱前哨站",
         "sr": "Stigni do Formicai ispostave u Ratištu brane",
         "hr": "Stigni do Formicai ispostave u Ratištu brane"
+      },
+      {
+        "en": "Locate the flag at the Formicai Outpost",
+        "de": "Finde die Flagge am Formicai-Außenposten",
+        "fr": "Localiser le drapeau à l'avant-poste Formicai",
+        "es": "Localiza la bandera en el puesto avanzado Formicai",
+        "pt": "Localiza a bandeira no posto avançado Formicai",
+        "pl": "Zlokalizuj flagę na placówce Formicai",
+        "no": "Finn flagget ved Formicai-utposten",
+        "da": "Find flaget ved Formicai-udposten",
+        "it": "Individua la bandiera all'avamposto Formicai",
+        "uk": "Знайдіть прапор на Аванпості Формікай",
+        "kr": "포르미카이 전초기지에서 깃발을 찾으세요",
+        "ru": "Найдите флаг на Аванпосте Формикай",
+        "zh-CN": "在福米凯前哨站找到旗帜",
+        "ja": "フォルミカイ前哨基地で旗を見つける",
+        "tr": "Formicai Karakolu'ndaki bayrağı bul",
+        "zh-TW": "在福米凱前哨站找到旗幟",
+        "sr": "Pronađi zastavu na Formicai ispostavi",
+        "hr": "Pronađi zastavu na Formicai ispostavi"
+      },
+      {
+        "en": "Hoist the flag on the small platform overlooking the Red Lake",
+        "de": "Hisse die Flagge auf der kleinen Plattform mit Blick auf den Roten See",
+        "fr": "Hisser le drapeau sur la petite plateforme surplombant le Lac Rouge",
+        "es": "Iza la bandera en la pequeña plataforma con vista al Lago Rojo",
+        "pt": "Içar a bandeira na pequena plataforma com vista para o Lago Vermelho",
+        "pl": "Podnieś flagę na małej platformie z widokiem na Czerwone Jezioro",
+        "no": "Heis flagget på den lille plattformen med utsikt over Rødsjøen",
+        "da": "Hejs flaget på den lille platform med udsigt over Rødsjøen",
+        "it": "Issa la bandiera sulla piccola piattaforma che domina il Lago Rosso",
+        "uk": "Підніміть прапор на малій платформі з видом на Червоне озеро",
+        "kr": "레드 레이크가 내려다보이는 작은 플랫폼에 깃발을 게양하세요",
+        "ru": "Поднимите флаг на небольшой платформе с видом на Красное озеро",
+        "zh-CN": "在俯瞰红湖的小平台上升起旗帜",
+        "ja": "レッドレイクを見下ろす小さなプラットフォームに旗を掲げる",
+        "tr": "Kızıl Göl'e bakan küçük platformda bayrağı çek",
+        "zh-TW": "在俯瞰紅湖的小平台上升起旗幟",
+        "sr": "Podigni zastavu na maloj platformi sa pogledom na Crveno jezero",
+        "hr": "Podigni zastavu na maloj platformi s pogledom na Crveno jezero"
       }
     ],
     "rewardItemIds": [
@@ -5279,6 +5359,26 @@
         "ja": "「素晴らしい景色の部屋」で種子保管庫を探す",
         "zh-CN": "在「景观绝佳的房间」中寻找种子库",
         "sr": "Потражите трезор са семеном у \"соби са прелепим погледом\""
+      },
+      {
+        "en": "Deliver the Experimental Seed Sample to Celeste",
+        "de": "Liefere die experimentelle Samenprobe an Celeste",
+        "fr": "Livre l'échantillon de graines expérimental à Celeste",
+        "es": "Entrega la muestra de semillas experimental a Celeste",
+        "pt": "Entrega a amostra de sementes experimental a Celeste",
+        "pl": "Dostarcz eksperymentalną próbkę nasion do Celeste",
+        "no": "Lever den eksperimentelle frøprøven til Celeste",
+        "da": "Lever den eksperimentelle frøprøve til Celeste",
+        "it": "Consegna il campione di semi sperimentale a Celeste",
+        "zh-TW": "將實驗種子樣本交給塞萊斯特",
+        "kr": "실험용 종자 샘플을 셀레스트에게 전달하세요",
+        "hr": "Dostavite eksperimentalni uzorak sjemena Celeste",
+        "uk": "Доставте експериментальний зразок насіння Селесті",
+        "ru": "Доставьте экспериментальный образец семян Селесте",
+        "tr": "Deneysel Tohum Örneğini Celeste'e teslim et",
+        "ja": "実験用種子サンプルをセレステに届ける",
+        "zh-CN": "将实验种子样本交给塞莱斯特",
+        "sr": "Доставите експериментални узорак семена Celeste"
       }
     ],
     "rewardItemIds": [
@@ -5296,107 +5396,8 @@
       "ss10x2"
     ],
     "nextQuestIds": [
-      "ss10x3a",
       "ss10x4"
     ]
-  },
-  {
-    "id": "ss10x3a",
-    "updatedAt": "11/06/2025",
-    "name": {
-      "en": "Handover",
-      "de": "Übergabe",
-      "fr": "Remise",
-      "es": "Entrega",
-      "pt": "Entrega",
-      "pl": "Przekazanie",
-      "no": "Overlevering",
-      "da": "Overdragelse",
-      "it": "Consegna",
-      "zh-TW": "交接",
-      "kr": "인계",
-      "hr": "Predaja",
-      "uk": "Передача",
-      "ru": "Передача",
-      "tr": "Devir",
-      "ja": "引き継ぎ",
-      "zh-CN": "交接",
-      "sr": "Predaja"
-    },
-    "trader": "Tian Wan",
-    "description": {
-      "en": "Shani asked me to mark your outpost, to make it more noticeable for our people. You'll probably pass by it at some point-you'll help get her off my back, right?",
-      "de": "Shani hat mich gebeten, deinen Außenposten zu markieren, um ihn für unsere Leute besser sichtbar zu machen. Du kommst wahrscheinlich irgendwann dort vorbei - du hilfst mir, sie loszuwerden, oder?",
-      "fr": "Shani m'a demandé de marquer ton avant-poste, pour le rendre plus visible pour nos gens. Tu passeras probablement par là à un moment donné - tu m'aideras à ce qu'elle me lâche, pas vrai ?",
-      "es": "Shani me pidió que marcara tu puesto avanzado, para hacerlo más visible para nuestra gente. Probablemente pasarás por allí en algún momento, ¿me ayudarás a quitármela de encima, verdad?",
-      "pt": "A Shani pediu-me para marcar o teu posto avançado, para o tornar mais visível para a nossa gente. Provavelmente vais passar por lá em algum momento - vais ajudar-me a tirá-la das minhas costas, certo?",
-      "pl": "Shani poprosiła mnie o oznaczenie twojej placówki, żeby była bardziej widoczna dla naszych ludzi. Prawdopodobnie kiedyś tam przejdziesz - pomożesz mi się jej pozbyć, prawda?",
-      "no": "Shani ba meg om å markere utposten din, for å gjøre den mer synlig for våre folk. Du kommer sannsynligvis forbi den på et tidspunkt - du hjelper meg å få henne av ryggen min, ikke sant?",
-      "da": "Shani bad mig om at markere din forpost, for at gøre den mere synlig for vores folk. Du kommer sandsynligvis forbi den på et tidspunkt - du hjælper mig med at få hende af min ryg, ikke?",
-      "it": "Shani mi ha chiesto di contrassegnare il tuo avamposto, per renderlo più visibile per la nostra gente. Probabilmente ci passerai davanti ad un certo punto - mi aiuterai a togliermela di dosso, vero?",
-      "zh-TW": "夏妮要我標記你的前哨站，好讓我們的人更容易注意到它。你可能會在某個時候經過那裡——你會幫我擺脫她的糾纏，對吧？",
-      "kr": "샤니가 우리 사람들이 더 잘 알아볼 수 있도록 당신의 전초기지를 표시해 달라고 했어요. 언젠가 그곳을 지나갈 텐데, 그녀가 저를 좀 그만 괴롭히게 도와주시겠어요?",
-      "hr": "Shani me zamolila da označim tvoju ispostavu, kako bi bila uočljivija za naše ljude. Vjerojatno ćeš proći pored nje u nekom trenutku - pomoći ćeš mi da je se riješim, zar ne?",
-      "uk": "Шані попросила мене позначити ваш аванпост, щоб зробити його помітнішим для наших людей. Ти, напевно, колись проходитимеш повз нього — допоможеш мені позбутися її нагадувань, так?",
-      "ru": "Шани попросила меня отметить ваш аванпост, чтобы сделать его заметнее для наших людей. Ты, наверное, когда-нибудь будешь проходить мимо — поможешь мне от неё отвязаться, да?",
-      "tr": "Shani, halkımızın daha kolay fark etmesi için karakolunu işaretlememi istedi. Muhtemelen bir ara oradan geçersin - onu başımdan savmama yardım edersin, değil mi?",
-      "ja": "シャニが、あなたの前哨基地を目立つように印をつけてほしいと頼んできたんだ。いずれそこを通りかかるだろう——彼女をなだめるのを手伝ってくれるよね？",
-      "zh-CN": "夏妮要我标记你的前哨站，好让我们的人更容易注意到它。你可能会在某个时候经过那里——你会帮我摆脱她的纠缠，对吧？",
-      "sr": "Shani me je zamolila da označim tvoju ispostavu, kako bi bila uočljivija za naše ljude. Verovatno ćeš proći pored nje u nekom trenutku - pomoći ćeš mi da je se rešim, zar ne?"
-    },
-    "objectives": [
-      {
-        "en": "Visit the Pattern House in the Dam",
-        "de": "Besuche das Musterhaus im Damm",
-        "fr": "Visiter la Maison des Motifs dans le Barrage",
-        "es": "Visita la Casa de Patrones en la Presa",
-        "pt": "Visita a Casa de Padrões na Barragem",
-        "pl": "Odwiedź Dom Wzorów w Tamie",
-        "no": "Besøk Mønsterhuset i Demningen",
-        "da": "Besøg Mønsterhuset i Dæmningen",
-        "it": "Visita la Casa dei Motivi nella Diga",
-        "zh-TW": "拜訪大壩中的紋樣之屋",
-        "kr": "댐에 있는 패턴 하우스 방문",
-        "hr": "Posjeti Kuću uzoraka u Brani",
-        "uk": "Відвідайте Будинок Патернів на Дамбі",
-        "ru": "Посетите Дом Паттернов на Дамбе",
-        "tr": "Barajdaki Desen Evi'ni ziyaret et",
-        "ja": "ダムにあるパターン・ハウスを訪れる",
-        "zh-CN": "拜访大坝中的纹样之屋",
-        "sr": "Poseti Kuću uzoraka u Brani"
-      },
-      {
-        "en": "Mark the Pattern Outpost",
-        "de": "Markiere den Muster-Außenposten",
-        "fr": "Marquer l'Avant-poste des Motifs",
-        "es": "Marca el Puesto Avanzado de Patrones",
-        "pt": "Marca o Posto Avançado de Padrões",
-        "pl": "Oznacz Placówkę Wzorów",
-        "no": "Marker Mønsterutposten",
-        "da": "Marker Mønsterforposten",
-        "it": "Contrassegna l'Avamposto dei Motivi",
-        "zh-TW": "標記紋樣前哨站",
-        "kr": "패턴 전초기지 표시",
-        "hr": "Označi Ispostavu uzoraka",
-        "uk": "Позначте Аванпост Патернів",
-        "ru": "Отметьте Аванпост Паттернов",
-        "tr": "Desen Karakolu'nu işaretle",
-        "ja": "パターン前哨基地に印をつける",
-        "zh-CN": "标记纹样前哨站",
-        "sr": "Označi Ispostavu uzoraka"
-      }
-    ],
-    "rewardItemIds": [
-      {
-        "itemId": "jolt_mine",
-        "quantity": 2
-      }
-    ],
-    "xp": 0,
-    "previousQuestIds": [
-      "ss10x3"
-    ],
-    "nextQuestIds": []
   },
   {
     "id": "ss10x4",
