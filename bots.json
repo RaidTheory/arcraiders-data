@@ -2,7 +2,7 @@
   {
     "id": "arc_surveyor",
     "name": "ARC SURVEYOR",
-    "image": "./bots/ARC_Surveyor.png",
+    "image": "https://cdn.arctracker.io/bots/ARC_Surveyor.png",
     "type": "Reconnaissance",
     "threat": "Low",
     "description": "The largest of the rolling ARC. It stops periodically to transmit signals. Rarely attacks, usually runs away from Raiders. Breaks into many pieces as damage is taken.",
@@ -19,7 +19,7 @@
   {
     "id": "bastion",
     "name": "BASTION",
-    "image": "./bots/ARC_Bastion.png",
+    "image": "https://cdn.arctracker.io/bots/ARC_Bastion.png",
     "type": "Heavy Assault",
     "threat": "Critical",
     "description": "Massive, crab-like machines that are slow but devastating. They're capable of shredding shields and dealing massive damage with heavy attacks.",
@@ -36,7 +36,7 @@
   {
     "id": "bombardier",
     "name": "BOMBARDIER",
-    "image": "./bots/Bombardier.png",
+    "image": "https://cdn.arctracker.io/bots/Bombardier.png",
     "type": "Heavy Artillery",
     "threat": "Critical",
     "description": "A massive artillery unit designed for long-range bombardment. Equipped with devastating explosive capabilities and heavy armor, it can rain destruction from great distances.",
@@ -52,7 +52,7 @@
   {
     "id": "fireball",
     "name": "FIREBALL",
-    "image": "./bots/ARC_Fireball.png",
+    "image": "https://cdn.arctracker.io/bots/ARC_Fireball.png",
     "type": "Area Denial",
     "threat": "High",
     "description": "Small armored rolling ARC that spits flame. Opens front panel when near Raiders to burn them alive, exposing its soft core.",
@@ -67,7 +67,7 @@
   {
     "id": "hornet",
     "name": "HORNET",
-    "image": "./bots/Hornet.webp",
+    "image": "https://cdn.arctracker.io/bots/Hornet.webp",
     "type": "Medium Drone",
     "threat": "High",
     "description": "Medium-class drone with armored rotors. It fires focused, high-speed projectiles with a brief red laser warning. Designed to shred shields and light armor.",
@@ -84,7 +84,7 @@
   {
     "id": "leaper",
     "name": "LEAPER",
-    "image": "./bots/ARC_Bison.png",
+    "image": "https://cdn.arctracker.io/bots/ARC_Bison.png",
     "type": "Siege Engine",
     "threat": "Critical",
     "description": "Massive, arachnid-like siege engine with heavy armor and gravity-defying leap ability. Can clear impossible gaps and reach high vantage points.",
@@ -102,7 +102,7 @@
   {
     "id": "pop",
     "name": "POP",
-    "image": "./bots/ARC_Pop.png",
+    "image": "https://cdn.arctracker.io/bots/ARC_Pop.png",
     "type": "Explosive",
     "threat": "Moderate",
     "description": "Small explosive ARC that detonates when approached. Quick elimination required to prevent area damage.",
@@ -119,7 +119,7 @@
   {
     "id": "rocketeer",
     "name": "ROCKETEER",
-    "image": "./bots/ARC_Rocketeer.png",
+    "image": "https://cdn.arctracker.io/bots/ARC_Rocketeer.png",
     "type": "Flying Artillery",
     "threat": "Critical",
     "description": "A formidable flying ARC that dominates airspace with powerful rocket attacks and devastating area-of-effect damage. Designed to saturate areas with explosions.",
@@ -139,7 +139,7 @@
   {
     "id": "sentinel",
     "name": "SENTINEL",
-    "image": "./bots/ARC_Sentinel.webp",
+    "image": "https://cdn.arctracker.io/bots/ARC_Sentinel.webp",
     "type": "Sniper Turret",
     "threat": "High",
     "description": "Stationary but deadly turrets that perch on high vantage points. They scan for targets with long-range precision and lock onto players from a distance.",
@@ -159,7 +159,7 @@
   {
     "id": "snitch",
     "name": "SNITCH",
-    "image": "./bots/Snitch.webp",
+    "image": "https://cdn.arctracker.io/bots/Snitch.webp",
     "type": "Scout Drone",
     "threat": "Moderate",
     "description": "A swift, unarmored scout drone with three rotors. While fragile, it acts as an aerial alarm system, calling in reinforcements when it spots Raiders.",
@@ -176,7 +176,7 @@
   {
     "id": "spotter",
     "name": "SPOTTER",
-    "image": "./bots/ARC_Spotter.webp",
+    "image": "https://cdn.arctracker.io/bots/ARC_Spotter.webp",
     "type": "Scout Drone",
     "threat": "High",
     "description": "Spotters are flying support drones for the Bombardier. They will point a laser at any Raider in line-of-sight so the Bombardier can accurately target them. If both Spotters are destroyed a new pair will respawn. When the Bombardier is destroyed the Spotters will fly away.",
@@ -192,7 +192,7 @@
   {
     "id": "the_queen",
     "name": "THE QUEEN",
-    "image": "./bots/ARC_The_Queen.png",
+    "image": "https://cdn.arctracker.io/bots/ARC_The_Queen.png",
     "type": "Boss",
     "threat": "Extreme",
     "description": "A colossal machine deployed during Harvester Events. It's the Goliath of the ARC forces with incredible durability and lethal arsenal. Requires full squad coordination.",
@@ -218,7 +218,7 @@
   {
     "id": "tick",
     "name": "TICK",
-    "image": "./bots/Tick.webp",
+    "image": "https://cdn.arctracker.io/bots/Tick.webp",
     "type": "Ambush Predator",
     "threat": "Moderate",
     "description": "Small, spider-like robots that leap onto players, attaching themselves to your head. They're fast and disorienting, designed to punish careless Raiders.",
@@ -232,7 +232,7 @@
   {
     "id": "turret",
     "name": "TURRET",
-    "image": "./bots/ARC_Turret.png",
+    "image": "https://cdn.arctracker.io/bots/ARC_Turret.png",
     "type": "Defense System",
     "threat": "Moderate",
     "description": "Small, unarmored turret providing close-quarters defense. Mounted on interior walls, it scans for movement and unleashes rapid fire when it spots Raiders.",
@@ -247,7 +247,7 @@
   {
     "id": "wasp",
     "name": "WASP",
-    "image": "./bots/ARC_wasp.webp",
+    "image": "https://cdn.arctracker.io/bots/ARC_wasp.webp",
     "type": "Flying Drone",
     "threat": "Moderate",
     "description": "Flying, drone-like robots equipped with powerful machine guns. They operate in swarms, are fast, agile, and relentless. Their buzzing and screeching audio cues are your first warning.",
