@@ -4434,11 +4434,11 @@
     "rarity": "Uncommon",
     "value": 640,
     "recyclesInto": {
-      "metal_parts": 8,
-      "steel_spring": 2
+      "metal_parts": 3,
+      "rubber_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/mechanical_components.png",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "11/09/2025",
     "weightKg": 0.5,
     "stackSize": 10,
     "foundIn": "Mechanical",
@@ -14158,11 +14158,11 @@
       "sr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolisati."
     },
     "type": "Weapon",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "value": 840,
     "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/09/2025"
   },
   {
     "id": "stitcher_iv",
@@ -14207,14 +14207,14 @@
       "sr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolisati."
     },
     "type": "Weapon",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "value": 5000,
     "recyclesInto": {
       "mechanical_components": 2,
       "simple_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "11/09/2025"
   },
   {
     "id": "burletta_ii",
@@ -19761,12 +19761,16 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_ii.png",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "11/09/2025",
     "recipe": {
       "mechanical_components": 2,
       "steel_spring": 3
     },
     "craftBench": "weapon_bench"
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "steel_spring": 1
+    },
   },
   {
     "id": "extended_shotgun_mag_ii",
