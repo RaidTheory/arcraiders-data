@@ -9,11 +9,11 @@
     "destroyXp": 200,
     "lootXp": 300,
     "drops": [
-      "ARC Alloy",
-      "ARC Powercell",
-      "ARC Motion Core",
-      "ARC Circuitry",
-      "Surveyor Vault"
+      "arc_alloy",
+      "arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "surveyor_vault"
     ]
   },
   {
@@ -26,11 +26,11 @@
     "destroyXp": 500,
     "lootXp": 250,
     "drops": [
-      "ARC Alloy",
-      "ARC Powercell",
-      "ARC Motion Core",
-      "ARC Circuitry",
-      "Bastion Part"
+      "arc_alloy",
+      "arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "bastion_part"
     ]
   },
   {
@@ -43,10 +43,10 @@
     "destroyXp": 500,
     "lootXp": 500,
     "drops": [
-      "ARC Alloy",
-      "Advanced ARC Powercell",
-      "Bombardier Cell",
-      "Launcher Ammo"
+      "arc_alloy",
+      "advanced_arc_powercell",
+      "bombardier_cell",
+      "launcher_ammo"
     ]
   },
   {
@@ -59,9 +59,9 @@
     "destroyXp": 100,
     "lootXp": 100,
     "drops": [
-      "ARC Alloy",
-      "ARC Powercell",
-      "Fireball Burner"
+      "arc_alloy",
+      "arc_powercell",
+      "fireball_burner"
     ]
   },
   {
@@ -74,11 +74,11 @@
     "destroyXp": 150,
     "lootXp": 250,
     "drops": [
-      "ARC Alloy",
-      "ARC Powercell",
-      "Hornet Driver",
-      "Simple Gun Parts",
-      "Medium Ammo"
+      "arc_alloy",
+      "arc_powercell",
+      "hornet_driver",
+      "simple_gun_parts",
+      "medium_ammo"
     ]
   },
   {
@@ -91,12 +91,12 @@
     "destroyXp": 500,
     "lootXp": 600,
     "drops": [
-      "ARC Alloy",
-      "ARC Powercell",
-      "ARC Motion Core",
-      "ARC Circuitry",
-      "Leaper Driver",
-      "Energy Ammo"
+      "arc_alloy",
+      "arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "leaper_driver",
+      "energy_ammo"
     ]
   },
   {
@@ -109,11 +109,11 @@
     "destroyXp": 50,
     "lootXp": 100,
     "drops": [
-      "ARC Alloy",
-      "ARC Powercell",
-      "ARC Thermo Lining",
-      "Crude Explosives",
-      "Pop Trigger"
+      "arc_alloy",
+      "arc_powercell",
+      "arc_thermo_lining",
+      "crude_explosives",
+      "pop_trigger"
     ]
   },
   {
@@ -126,14 +126,14 @@
     "destroyXp": 500,
     "lootXp": 200,
     "drops": [
-      "ARC Alloy",
-      "ARC Powercell",
-      "ARC Motion Core",
-      "ARC Circuitry",
-      "Advanced ARC Powercell",
-      "Heavy Gun Parts",
-      "Rocketeer Driver",
-      "Heavy Ammo"
+      "arc_alloy",
+      "arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "advanced_arc_powercell",
+      "heavy_gun_parts",
+      "rocketeer_driver",
+      "heavy_ammo"
     ]
   },
   {
@@ -146,14 +146,14 @@
     "destroyXp": 200,
     "lootXp": 300,
     "drops": [
-      "ARC Alloy",
-      "ARC Powercell",
-      "ARC Coolant",
-      "ARC Synthetic Resin",
-      "ARC Thermo Lining",
-      "ARC Motion Core",
-      "Sentinel Part",
-      "Heavy Ammo"
+      "arc_alloy",
+      "arc_powercell",
+      "arc_coolant",
+      "arc_synthetic_resin",
+      "arc_thermo_lining",
+      "arc_motion_core",
+      "sentinel_part",
+      "heavy_ammo"
     ]
   },
   {
@@ -166,11 +166,11 @@
     "destroyXp": 100,
     "lootXp": 200,
     "drops": [
-      "ARC Alloy",
-      "ARC Powercell",
-      "ARC Synthetic Resin",
-      "Sensors",
-      "Snitch Scanner"
+      "arc_alloy",
+      "arc_powercell",
+      "arc_synthetic_resin",
+      "sensors",
+      "snitch_scanner"
     ]
   },
   {
@@ -183,10 +183,10 @@
     "destroyXp": 100,
     "lootXp": 200,
     "drops": [
-      "Spotter Relay",
-      "ARC Alloy",
-      "ARC Powercell",
-      "Sensors"
+      "spotter_relay",
+      "arc_alloy",
+      "arc_powercell",
+      "sensors"
     ]
   },
   {
@@ -199,20 +199,20 @@
     "destroyXp": 1000,
     "lootXp": 1000,
     "drops": [
-      "ARC Alloy",
-      "Advanced ARC Powercell",
-      "ARC Motion Core",
-      "ARC Circuitry",
-      "ARC Coolant",
-      "ARC Flex Rubber",
-      "ARC Thermo Lining",
-      "ARC Synthetic Resin",
-      "ARC Performance Steel",
-      "Advanced Mechanical Components",
-      "Advanced Electrical Components",
-      "Complex Gun Parts",
-      "Magnetic Accelerator",
-      "Queen Reactor"
+      "arc_alloy",
+      "advanced_arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "arc_coolant",
+      "arc_flex_rubber",
+      "arc_thermo_lining",
+      "arc_synthetic_resin",
+      "arc_performance_steel",
+      "advanced_mechanical_components",
+      "advanced_electrical_components",
+      "complex_gun_parts",
+      "magnetic_accelerator",
+      "queen_reactor"
     ]
   },
   {
@@ -225,8 +225,8 @@
     "destroyXp": 50,
     "lootXp": 100,
     "drops": [
-      "ARC Alloy",
-      "Tick Pod"
+      "arc_alloy",
+      "tick_pod"
     ]
   },
   {
@@ -239,9 +239,9 @@
     "destroyXp": 100,
     "lootXp": 200,
     "drops": [
-      "ARC Alloy",
-      "Light Ammo",
-      "Simple Gun Parts"
+      "arc_alloy",
+      "light_ammo",
+      "simple_gun_parts"
     ]
   },
   {
@@ -254,10 +254,10 @@
     "destroyXp": 100,
     "lootXp": 200,
     "drops": [
-      "ARC Alloy",
-      "ARC Powercell",
-      "Wasp Driver",
-      "Light Ammo"
+      "arc_alloy",
+      "arc_powercell",
+      "wasp_driver",
+      "light_ammo"
     ]
   }
 ]
