@@ -97,10 +97,7 @@
     ],
     "xp": 0,
     "previousQuestIds": [],
-    "nextQuestIds": [
-      "ss2",
-      "ss3"
-    ]
+    "nextQuestIds": ["ss2", "ss3"]
   },
   {
     "id": "ss2",
@@ -189,12 +186,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss1"
-    ],
-    "nextQuestIds": [
-      "ss4"
-    ]
+    "previousQuestIds": ["ss1"],
+    "nextQuestIds": ["ss4"]
   },
   {
     "id": "ss3",
@@ -283,12 +276,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss1"
-    ],
-    "nextQuestIds": [
-      "ss4"
-    ]
+    "previousQuestIds": ["ss1"],
+    "nextQuestIds": ["ss4"]
   },
   {
     "id": "ss4",
@@ -367,13 +356,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss2",
-      "ss3"
-    ],
-    "nextQuestIds": [
-      "ss5"
-    ]
+    "previousQuestIds": ["ss2", "ss3"],
+    "nextQuestIds": ["ss5"]
   },
   {
     "id": "ss5",
@@ -436,15 +420,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss4"
-    ],
-    "nextQuestIds": [
-      "ss5a",
-      "ss6",
-      "ss7",
-      "ss8"
-    ]
+    "previousQuestIds": ["ss4"],
+    "nextQuestIds": ["ss5a", "ss6", "ss7", "ss8"]
   },
   {
     "id": "ss5a",
@@ -523,9 +500,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss5"
-    ],
+    "previousQuestIds": ["ss5"],
     "nextQuestIds": []
   },
   {
@@ -631,12 +606,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss5"
-    ],
-    "nextQuestIds": [
-      "ss9"
-    ]
+    "previousQuestIds": ["ss5"],
+    "nextQuestIds": ["ss9"]
   },
   {
     "id": "ss7",
@@ -749,12 +720,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss5"
-    ],
-    "nextQuestIds": [
-      "ss10"
-    ]
+    "previousQuestIds": ["ss5"],
+    "nextQuestIds": ["ss10"]
   },
   {
     "id": "ss8",
@@ -827,12 +794,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss5"
-    ],
-    "nextQuestIds": [
-      "ss8a"
-    ]
+    "previousQuestIds": ["ss5"],
+    "nextQuestIds": ["ss8a"]
   },
   {
     "id": "ss8a",
@@ -921,12 +884,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss8"
-    ],
-    "nextQuestIds": [
-      "ss8b"
-    ]
+    "previousQuestIds": ["ss8"],
+    "nextQuestIds": ["ss8b"]
   },
   {
     "id": "ss8b",
@@ -1019,9 +978,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss8a"
-    ],
+    "previousQuestIds": ["ss8a"],
     "nextQuestIds": []
   },
   {
@@ -1225,12 +1182,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss6"
-    ],
-    "nextQuestIds": [
-      "ss10b"
-    ]
+    "previousQuestIds": ["ss6"],
+    "nextQuestIds": ["ss10b"]
   },
   {
     "id": "ss10",
@@ -1333,12 +1286,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss7"
-    ],
-    "nextQuestIds": [
-      "ss10a"
-    ]
+    "previousQuestIds": ["ss7"],
+    "nextQuestIds": ["ss10a"]
   },
   {
     "id": "ss10a",
@@ -1467,13 +1416,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10"
-    ],
-    "nextQuestIds": [
-      "ss10b",
-      "ss10c"
-    ]
+    "previousQuestIds": ["ss10"],
+    "nextQuestIds": ["ss10b", "ss10c"]
   },
   {
     "id": "ss10b",
@@ -1552,14 +1496,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10a",
-      "ss9"
-    ],
-    "nextQuestIds": [
-      "ss10d",
-      "ss10e"
-    ]
+    "previousQuestIds": ["ss10a", "ss9"],
+    "nextQuestIds": ["ss10d", "ss10e"]
   },
   {
     "id": "ss10d",
@@ -1674,9 +1612,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10b"
-    ],
+    "previousQuestIds": ["ss10b"],
     "nextQuestIds": []
   },
   {
@@ -1800,12 +1736,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10b"
-    ],
-    "nextQuestIds": [
-      "ss10h"
-    ]
+    "previousQuestIds": ["ss10b"],
+    "nextQuestIds": ["ss10h"]
   },
   {
     "id": "ss10h",
@@ -2022,13 +1954,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10e"
-    ],
-    "nextQuestIds": [
-      "ss10i",
-      "ss10j"
-    ]
+    "previousQuestIds": ["ss10e"],
+    "nextQuestIds": ["ss10i", "ss10j"]
   },
   {
     "id": "ss10i",
@@ -2147,12 +2074,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10h"
-    ],
-    "nextQuestIds": [
-      "ss10l"
-    ]
+    "previousQuestIds": ["ss10h"],
+    "nextQuestIds": ["ss10l"]
   },
   {
     "id": "ss10l",
@@ -2255,12 +2178,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10i"
-    ],
-    "nextQuestIds": [
-      "ss10m"
-    ]
+    "previousQuestIds": ["ss10i"],
+    "nextQuestIds": ["ss10m"]
   },
   {
     "id": "ss10m",
@@ -2365,12 +2284,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10l"
-    ],
-    "nextQuestIds": [
-      "ss10n"
-    ]
+    "previousQuestIds": ["ss10l"],
+    "nextQuestIds": ["ss10n"]
   },
   {
     "id": "ss10n",
@@ -2499,9 +2414,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10m"
-    ],
+    "previousQuestIds": ["ss10m"],
     "nextQuestIds": []
   },
   {
@@ -2691,12 +2604,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10h"
-    ],
-    "nextQuestIds": [
-      "ss10o"
-    ]
+    "previousQuestIds": ["ss10h"],
+    "nextQuestIds": ["ss10o"]
   },
   {
     "id": "ss10o",
@@ -2819,12 +2728,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10j"
-    ],
-    "nextQuestIds": [
-      "ss10p"
-    ]
+    "previousQuestIds": ["ss10j"],
+    "nextQuestIds": ["ss10p"]
   },
   {
     "id": "ss10p",
@@ -2947,12 +2852,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10o"
-    ],
-    "nextQuestIds": [
-      "ss10q"
-    ]
+    "previousQuestIds": ["ss10o"],
+    "nextQuestIds": ["ss10q"]
   },
   {
     "id": "ss10q",
@@ -3145,12 +3046,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10p", "ss10n"
-    ],
-    "nextQuestIds": [
-      "ss10r"
-    ]
+    "previousQuestIds": ["ss10p", "ss10n"],
+    "nextQuestIds": ["ss10r"]
   },
   {
     "id": "ss10r",
@@ -3274,14 +3171,8 @@
     ],
     "videoUrl": "https://www.youtube.com/watch?v=6Cb6aQWBt8U",
     "xp": 0,
-    "previousQuestIds": [
-      "ss10q"
-    ],
-    "nextQuestIds": [
-      "ss10t",
-      "ss10u",
-      "ss10v"
-    ]
+    "previousQuestIds": ["ss10q"],
+    "nextQuestIds": ["ss10t", "ss10u", "ss10v"]
   },
   {
     "id": "ss10t",
@@ -3410,12 +3301,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10r"
-    ],
-    "nextQuestIds": [
-      "ss10w"
-    ]
+    "previousQuestIds": ["ss10r"],
+    "nextQuestIds": ["ss10w"]
   },
   {
     "id": "ss10w",
@@ -3558,12 +3445,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10t"
-    ],
-    "nextQuestIds": [
-      "ss10z"
-    ]
+    "previousQuestIds": ["ss10t"],
+    "nextQuestIds": ["ss10z"]
   },
   {
     "id": "ss10z",
@@ -3687,12 +3570,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10w"
-    ],
-    "nextQuestIds": [
-      "ss11b"
-    ]
+    "previousQuestIds": ["ss10w"],
+    "nextQuestIds": ["ss11b"]
   },
   {
     "id": "ss11b",
@@ -3813,12 +3692,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10z"
-    ],
-    "nextQuestIds": [
-      "ss11b2"
-    ]
+    "previousQuestIds": ["ss10z"],
+    "nextQuestIds": ["ss11b2"]
   },
   {
     "id": "ss11b2",
@@ -3967,9 +3842,7 @@
         "hr": "Pokreni antenski terminal blizu Crvenog tornja"
       }
     ],
-    "tips": [
-      "The Battery is on the ground near a steel building"
-    ],
+    "tips": ["The Battery is on the ground near a steel building"],
     "rewardItemIds": [
       {
         "itemId": "crimson_racer_aviator",
@@ -3985,10 +3858,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10y",
-      "ss11b"
-    ],
+    "previousQuestIds": ["ss10y", "ss11b"],
     "nextQuestIds": []
   },
   {
@@ -4090,9 +3960,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10r"
-    ],
+    "previousQuestIds": ["ss10r"],
     "nextQuestIds": []
   },
   {
@@ -4208,9 +4076,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10r"
-    ],
+    "previousQuestIds": ["ss10r"],
     "nextQuestIds": []
   },
   {
@@ -4301,7 +4167,7 @@
       {
         "en": "Obtain 1 Durable Cloth",
         "de": "Erhalte 1 strapazierfähiges Tuch",
-        "fr": "Obtenir 1 tissu durable",
+        "fr": "Obtenir 1 tissu résistant",
         "es": "Obtén 1 tela duradera",
         "pt": "Obtenha 1 tecido durável",
         "pl": "Zdobądź 1 wytrzymałą tkaninę",
@@ -4372,12 +4238,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10a"
-    ],
-    "nextQuestIds": [
-      "ss10f"
-    ]
+    "previousQuestIds": ["ss10a"],
+    "nextQuestIds": ["ss10f"]
   },
   {
     "id": "ss10f",
@@ -4500,12 +4362,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10c"
-    ],
-    "nextQuestIds": [
-      "ss10g"
-    ]
+    "previousQuestIds": ["ss10c"],
+    "nextQuestIds": ["ss10g"]
   },
   {
     "id": "ss10g",
@@ -4604,12 +4462,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10f"
-    ],
-    "nextQuestIds": [
-      "ss10k"
-    ]
+    "previousQuestIds": ["ss10f"],
+    "nextQuestIds": ["ss10k"]
   },
   {
     "id": "ss10k",
@@ -4753,12 +4607,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10g"
-    ],
-    "nextQuestIds": [
-      "ss10s"
-    ]
+    "previousQuestIds": ["ss10g"],
+    "nextQuestIds": ["ss10s"]
   },
   {
     "id": "ss10s",
@@ -4887,13 +4737,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10k"
-    ],
-    "nextQuestIds": [
-      "ss10x",
-      "ss10y"
-    ]
+    "previousQuestIds": ["ss10k"],
+    "nextQuestIds": ["ss10x", "ss10y"]
   },
   {
     "id": "ss10y",
@@ -5013,9 +4858,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10s"
-    ],
+    "previousQuestIds": ["ss10s"],
     "nextQuestIds": []
   },
   {
@@ -5140,12 +4983,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10s"
-    ],
-    "nextQuestIds": [
-      "ss10x2"
-    ]
+    "previousQuestIds": ["ss10s"],
+    "nextQuestIds": ["ss10x2"]
   },
   {
     "id": "ss10x2",
@@ -5268,12 +5107,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x"
-    ],
-    "nextQuestIds": [
-      "ss10x3"
-    ]
+    "previousQuestIds": ["ss10x"],
+    "nextQuestIds": ["ss10x3"]
   },
   {
     "id": "ss10x3",
@@ -5392,12 +5227,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x2"
-    ],
-    "nextQuestIds": [
-      "ss10x4"
-    ]
+    "previousQuestIds": ["ss10x2"],
+    "nextQuestIds": ["ss10x4"]
   },
   {
     "id": "ss10x4",
@@ -5520,12 +5351,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x3"
-    ],
-    "nextQuestIds": [
-      "ss10x6"
-    ]
+    "previousQuestIds": ["ss10x3"],
+    "nextQuestIds": ["ss10x6"]
   },
   {
     "id": "ss10x5",
@@ -5638,10 +5465,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x4",
-      "ss11b2"
-    ],
+    "previousQuestIds": ["ss10x4", "ss11b2"],
     "nextQuestIds": []
   },
   {
@@ -5765,12 +5589,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x4"
-    ],
-    "nextQuestIds": [
-      "ss10x7"
-    ]
+    "previousQuestIds": ["ss10x4"],
+    "nextQuestIds": ["ss10x7"]
   },
   {
     "id": "ss10x7",
@@ -5873,12 +5693,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x6"
-    ],
-    "nextQuestIds": [
-      "ss10x8"
-    ]
+    "previousQuestIds": ["ss10x6"],
+    "nextQuestIds": ["ss10x8"]
   },
   {
     "id": "ss10x8",
@@ -6025,12 +5841,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x7"
-    ],
-    "nextQuestIds": [
-      "ss10x9"
-    ]
+    "previousQuestIds": ["ss10x7"],
+    "nextQuestIds": ["ss10x9"]
   },
   {
     "id": "ss10x9",
@@ -6149,12 +5961,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss11b2"
-    ],
-    "nextQuestIds": [
-      "ss10x10"
-    ]
+    "previousQuestIds": ["ss11b2"],
+    "nextQuestIds": ["ss10x10"]
   },
   {
     "id": "ss10x10",
@@ -6301,12 +6109,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x9"
-    ],
-    "nextQuestIds": [
-      "ss10x11"
-    ]
+    "previousQuestIds": ["ss10x9"],
+    "nextQuestIds": ["ss10x11"]
   },
   {
     "id": "ss10x11",
@@ -6449,12 +6253,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x10"
-    ],
-    "nextQuestIds": [
-      "ss10x12"
-    ]
+    "previousQuestIds": ["ss10x10"],
+    "nextQuestIds": ["ss10x12"]
   },
   {
     "id": "ss10x12",
@@ -6559,12 +6359,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x11"
-    ],
-    "nextQuestIds": [
-      "ss10x13"
-    ]
+    "previousQuestIds": ["ss10x11"],
+    "nextQuestIds": ["ss10x13"]
   },
   {
     "id": "ss10x13",
@@ -6663,12 +6459,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x12"
-    ],
-    "nextQuestIds": [
-      "ss10x14"
-    ]
+    "previousQuestIds": ["ss10x12"],
+    "nextQuestIds": ["ss10x14"]
   },
   {
     "id": "ss10x14",
@@ -6831,12 +6623,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x13"
-    ],
-    "nextQuestIds": [
-      "ss10x15"
-    ]
+    "previousQuestIds": ["ss10x13"],
+    "nextQuestIds": ["ss10x15"]
   },
   {
     "id": "ss10x15",
@@ -6925,12 +6713,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x14"
-    ],
-    "nextQuestIds": [
-      "ss10x16"
-    ]
+    "previousQuestIds": ["ss10x14"],
+    "nextQuestIds": ["ss10x16"]
   },
   {
     "id": "ss10x16",
@@ -7029,13 +6813,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x15"
-    ],
-    "nextQuestIds": [
-      "ss10x17",
-      "ss10x18"
-    ]
+    "previousQuestIds": ["ss10x15"],
+    "nextQuestIds": ["ss10x17", "ss10x18"]
   },
   {
     "id": "ss10x17",
@@ -7140,9 +6919,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x16"
-    ],
+    "previousQuestIds": ["ss10x16"],
     "nextQuestIds": []
   },
   {
@@ -7306,12 +7083,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x16"
-    ],
-    "nextQuestIds": [
-      "ss10x19"
-    ]
+    "previousQuestIds": ["ss10x16"],
+    "nextQuestIds": ["ss10x19"]
   },
   {
     "id": "ss10x19",
@@ -7410,12 +7183,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x18"
-    ],
-    "nextQuestIds": [
-      "ss10x20"
-    ]
+    "previousQuestIds": ["ss10x18"],
+    "nextQuestIds": ["ss10x20"]
   },
   {
     "id": "ss10x20",
@@ -7444,7 +7213,7 @@
     "description": {
       "en": "Ever since we expanded the tunnels to the Blue Gate, some rare pieces have started appearing on the black market.\n\nMeanwhile, I'm stuck here peddling battered old Rattlers. If I don't find new supply lines, I'll be left in the dust.",
       "de": "Seit wir die Tunnel zum Blauen Tor erweitert haben, tauchen einige seltene Stücke auf dem Schwarzmarkt auf.\n\nIn der Zwischenzeit sitze ich hier fest und verhökere alte, ramponierte Rattlers. Wenn ich keine neuen Versorgungslinien finde, werde ich abgehängt.",
-      "fr": "Depuis que nous avons élargi les tunnels vers la Porte Bleue, des pièces rares ont commencé à apparaître sur le marché noir.\n\nPendant ce temps, je suis coincé ici à vendre de vieux Rattlers cabossés. Si je ne trouve pas de nouvelles lignes d'approvisionnement, je vais être laissé pour compte.",
+      "fr": "Depuis que nous avons élargi les tunnels vers la Porte Bleue, des pièces rares ont commencé à apparaître sur le marché noir.\n\nPendant ce temps, je suis coincé ici à vendre de vieux Crotales cabossés. Si je ne trouve pas de nouvelles lignes d'approvisionnement, je vais être laissé pour compte.",
       "es": "Desde que expandimos los túneles hacia la Puerta Azul, algunas piezas raras han comenzado a aparecer en el mercado negro.\n\nMientras tanto, estoy atrapado aquí vendiendo viejos Rattlers maltrechos. Si no encuentro nuevas líneas de suministro, me quedaré atrás.",
       "pt": "Desde que expandimos os túneis para o Portão Azul, algumas peças raras começaram a aparecer no mercado negro.\n\nEnquanto isso, estou preso aqui vendendo velhos Rattlers surrados. Se eu não encontrar novas linhas de suprimento, vou ficar para trás.",
       "pl": "Odkąd rozszerzyliśmy tunele do Niebieskiej Bramy, na czarnym rynku zaczęły pojawiać się rzadkie przedmioty.\n\nTymczasem ja tkwię tutaj, sprzedając znoszone stare Rattlery. Jeśli nie znajdę nowych linii zaopatrzenia, zostanę w tyle.",
@@ -7558,9 +7327,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss10x19"
-    ],
+    "previousQuestIds": ["ss10x19"],
     "nextQuestIds": []
   },
   {
@@ -7689,9 +7456,7 @@
         "hr": "Zakucaj krovne ploče na Rejder strukturi blizu Traperovog Proplanka"
       }
     ],
-    "otherRequirements": [
-      "18x Raids"
-    ],
+    "otherRequirements": ["18x Raids"],
     "grantedItemIds": [
       {
         "itemId": "noisemaker",
@@ -7714,9 +7479,7 @@
     ],
     "xp": 0,
     "previousQuestIds": [],
-    "nextQuestIds": [
-      "ss11a"
-    ]
+    "nextQuestIds": ["ss11a"]
   },
   {
     "id": "ss11a",
@@ -7865,12 +7628,8 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss11"
-    ],
-    "nextQuestIds": [
-      "ss11bx"
-    ]
+    "previousQuestIds": ["ss11"],
+    "nextQuestIds": ["ss11bx"]
   },
   {
     "id": "ss11bx",
@@ -8009,9 +7768,7 @@
       }
     ],
     "xp": 0,
-    "previousQuestIds": [
-      "ss11a"
-    ],
+    "previousQuestIds": ["ss11a"],
     "nextQuestIds": []
   }
 ]

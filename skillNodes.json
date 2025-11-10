@@ -143,9 +143,7 @@
       "x": 20,
       "y": 65
     },
-    "prerequisiteNodeIds": [
-      "cond_1"
-    ]
+    "prerequisiteNodeIds": ["cond_1"]
   },
   {
     "id": "cond_2r",
@@ -218,9 +216,7 @@
       "x": 30,
       "y": 65
     },
-    "prerequisiteNodeIds": [
-      "cond_1"
-    ]
+    "prerequisiteNodeIds": ["cond_1"]
   },
   {
     "id": "cond_3l",
@@ -293,9 +289,7 @@
       "x": 20,
       "y": 55
     },
-    "prerequisiteNodeIds": [
-      "cond_2l"
-    ]
+    "prerequisiteNodeIds": ["cond_2l"]
   },
   {
     "id": "cond_3r",
@@ -368,9 +362,7 @@
       "x": 30,
       "y": 55
     },
-    "prerequisiteNodeIds": [
-      "cond_2r"
-    ]
+    "prerequisiteNodeIds": ["cond_2r"]
   },
   {
     "id": "cond_4l",
@@ -443,9 +435,7 @@
       "x": 20,
       "y": 45
     },
-    "prerequisiteNodeIds": [
-      "cond_3l"
-    ]
+    "prerequisiteNodeIds": ["cond_3l"]
   },
   {
     "id": "cond_4r",
@@ -518,9 +508,7 @@
       "x": 30,
       "y": 45
     },
-    "prerequisiteNodeIds": [
-      "cond_3r"
-    ]
+    "prerequisiteNodeIds": ["cond_3r"]
   },
   {
     "id": "cond_5c",
@@ -593,10 +581,7 @@
       "x": 25,
       "y": 35
     },
-    "prerequisiteNodeIds": [
-      "cond_4l",
-      "cond_4r"
-    ]
+    "prerequisiteNodeIds": ["cond_4l", "cond_4r"]
   },
   {
     "id": "cond_5l",
@@ -669,9 +654,7 @@
       "x": 20,
       "y": 35
     },
-    "prerequisiteNodeIds": [
-      "cond_4l"
-    ]
+    "prerequisiteNodeIds": ["cond_4l"]
   },
   {
     "id": "cond_5r",
@@ -744,9 +727,7 @@
       "x": 30,
       "y": 35
     },
-    "prerequisiteNodeIds": [
-      "cond_4r"
-    ]
+    "prerequisiteNodeIds": ["cond_4r"]
   },
   {
     "id": "cond_6c",
@@ -819,9 +800,7 @@
       "x": 25,
       "y": 25
     },
-    "prerequisiteNodeIds": [
-      "cond_5c"
-    ]
+    "prerequisiteNodeIds": ["cond_5c"]
   },
   {
     "id": "cond_6l",
@@ -893,9 +872,7 @@
       "x": 20,
       "y": 25
     },
-    "prerequisiteNodeIds": [
-      "cond_5l"
-    ]
+    "prerequisiteNodeIds": ["cond_5l"]
   },
   {
     "id": "cond_6r",
@@ -968,9 +945,7 @@
       "x": 30,
       "y": 25
     },
-    "prerequisiteNodeIds": [
-      "cond_5r"
-    ]
+    "prerequisiteNodeIds": ["cond_5r"]
   },
   {
     "id": "cond_7l",
@@ -1043,10 +1018,7 @@
       "x": 20,
       "y": 15
     },
-    "prerequisiteNodeIds": [
-      "cond_6l",
-      "cond_6c"
-    ]
+    "prerequisiteNodeIds": ["cond_6l", "cond_6c"]
   },
   {
     "id": "cond_7r",
@@ -1119,10 +1091,7 @@
       "x": 30,
       "y": 15
     },
-    "prerequisiteNodeIds": [
-      "cond_6r",
-      "cond_6c"
-    ]
+    "prerequisiteNodeIds": ["cond_6r", "cond_6c"]
   },
   {
     "id": "mob_1",
@@ -1268,9 +1237,7 @@
       "x": 45,
       "y": 65
     },
-    "prerequisiteNodeIds": [
-      "mob_1"
-    ]
+    "prerequisiteNodeIds": ["mob_1"]
   },
   {
     "id": "mob_2r",
@@ -1343,9 +1310,7 @@
       "x": 55,
       "y": 65
     },
-    "prerequisiteNodeIds": [
-      "mob_1"
-    ]
+    "prerequisiteNodeIds": ["mob_1"]
   },
   {
     "id": "mob_3l",
@@ -1418,9 +1383,7 @@
       "x": 45,
       "y": 55
     },
-    "prerequisiteNodeIds": [
-      "mob_2l"
-    ]
+    "prerequisiteNodeIds": ["mob_2l"]
   },
   {
     "id": "mob_3r",
@@ -1493,9 +1456,7 @@
       "x": 55,
       "y": 55
     },
-    "prerequisiteNodeIds": [
-      "mob_2r"
-    ]
+    "prerequisiteNodeIds": ["mob_2r"]
   },
   {
     "id": "mob_4l",
@@ -1568,9 +1529,7 @@
       "x": 45,
       "y": 45
     },
-    "prerequisiteNodeIds": [
-      "mob_3l"
-    ]
+    "prerequisiteNodeIds": ["mob_3l"]
   },
   {
     "id": "mob_4r",
@@ -1643,9 +1602,7 @@
       "x": 55,
       "y": 45
     },
-    "prerequisiteNodeIds": [
-      "mob_3r"
-    ]
+    "prerequisiteNodeIds": ["mob_3r"]
   },
   {
     "id": "mob_5c",
@@ -1718,10 +1675,7 @@
       "x": 50,
       "y": 35
     },
-    "prerequisiteNodeIds": [
-      "mob_4l",
-      "mob_4r"
-    ]
+    "prerequisiteNodeIds": ["mob_4l", "mob_4r"]
   },
   {
     "id": "mob_5l",
@@ -1794,9 +1748,7 @@
       "x": 45,
       "y": 35
     },
-    "prerequisiteNodeIds": [
-      "mob_4l"
-    ]
+    "prerequisiteNodeIds": ["mob_4l"]
   },
   {
     "id": "mob_5r",
@@ -1869,9 +1821,7 @@
       "x": 55,
       "y": 35
     },
-    "prerequisiteNodeIds": [
-      "mob_4r"
-    ]
+    "prerequisiteNodeIds": ["mob_4r"]
   },
   {
     "id": "mob_6c",
@@ -1944,9 +1894,7 @@
       "x": 50,
       "y": 25
     },
-    "prerequisiteNodeIds": [
-      "mob_5c"
-    ]
+    "prerequisiteNodeIds": ["mob_5c"]
   },
   {
     "id": "mob_6l",
@@ -2019,9 +1967,7 @@
       "x": 45,
       "y": 25
     },
-    "prerequisiteNodeIds": [
-      "mob_5l"
-    ]
+    "prerequisiteNodeIds": ["mob_5l"]
   },
   {
     "id": "mob_6r",
@@ -2094,9 +2040,7 @@
       "x": 55,
       "y": 25
     },
-    "prerequisiteNodeIds": [
-      "mob_5r"
-    ]
+    "prerequisiteNodeIds": ["mob_5r"]
   },
   {
     "id": "mob_7l",
@@ -2169,10 +2113,7 @@
       "x": 45,
       "y": 15
     },
-    "prerequisiteNodeIds": [
-      "mob_6l",
-      "mob_6c"
-    ]
+    "prerequisiteNodeIds": ["mob_6l", "mob_6c"]
   },
   {
     "id": "mob_7r",
@@ -2245,10 +2186,7 @@
       "x": 55,
       "y": 15
     },
-    "prerequisiteNodeIds": [
-      "mob_6r",
-      "mob_6c"
-    ]
+    "prerequisiteNodeIds": ["mob_6r", "mob_6c"]
   },
   {
     "id": "surv_1",
@@ -2328,7 +2266,7 @@
     "name": {
       "en": "Looter's Instincts",
       "de": "Plündererinstinkte",
-      "fr": "Instintcs de pillards",
+      "fr": "Instintcs de Raiders",
       "es": "Instintos de saqueador",
       "pt": "Instintos de saqueador",
       "pl": "Instynkty szabrownika",
@@ -2394,9 +2332,7 @@
       "x": 70,
       "y": 65
     },
-    "prerequisiteNodeIds": [
-      "surv_1"
-    ]
+    "prerequisiteNodeIds": ["surv_1"]
   },
   {
     "id": "surv_2r",
@@ -2469,9 +2405,7 @@
       "x": 80,
       "y": 65
     },
-    "prerequisiteNodeIds": [
-      "surv_1"
-    ]
+    "prerequisiteNodeIds": ["surv_1"]
   },
   {
     "id": "surv_3l",
@@ -2544,9 +2478,7 @@
       "x": 70,
       "y": 55
     },
-    "prerequisiteNodeIds": [
-      "surv_2l"
-    ]
+    "prerequisiteNodeIds": ["surv_2l"]
   },
   {
     "id": "surv_3r",
@@ -2619,9 +2551,7 @@
       "x": 80,
       "y": 55
     },
-    "prerequisiteNodeIds": [
-      "surv_2r"
-    ]
+    "prerequisiteNodeIds": ["surv_2r"]
   },
   {
     "id": "surv_4l",
@@ -2694,9 +2624,7 @@
       "x": 70,
       "y": 45
     },
-    "prerequisiteNodeIds": [
-      "surv_3l"
-    ]
+    "prerequisiteNodeIds": ["surv_3l"]
   },
   {
     "id": "surv_4r",
@@ -2769,9 +2697,7 @@
       "x": 80,
       "y": 45
     },
-    "prerequisiteNodeIds": [
-      "surv_3r"
-    ]
+    "prerequisiteNodeIds": ["surv_3r"]
   },
   {
     "id": "surv_5c",
@@ -2843,10 +2769,7 @@
       "x": 75,
       "y": 35
     },
-    "prerequisiteNodeIds": [
-      "surv_4l",
-      "surv_4r"
-    ]
+    "prerequisiteNodeIds": ["surv_4l", "surv_4r"]
   },
   {
     "id": "surv_5l",
@@ -2910,9 +2833,7 @@
       "hr": "Maksimalni Inventar",
       "sr": "Maksimalni Inventar"
     },
-    "knownValue": [
-      "+2 kg per point"
-    ],
+    "knownValue": ["+2 kg per point"],
     "category": "SURVIVAL",
     "maxPoints": 5,
     "iconName": "broad_shoulders.png",
@@ -2921,9 +2842,7 @@
       "x": 70,
       "y": 35
     },
-    "prerequisiteNodeIds": [
-      "surv_4l"
-    ]
+    "prerequisiteNodeIds": ["surv_4l"]
   },
   {
     "id": "surv_5r",
@@ -2996,9 +2915,7 @@
       "x": 80,
       "y": 35
     },
-    "prerequisiteNodeIds": [
-      "surv_4r"
-    ]
+    "prerequisiteNodeIds": ["surv_4r"]
   },
   {
     "id": "surv_6c",
@@ -3025,7 +2942,7 @@
     "description": {
       "en": "When looting Raider containers, you have a small chance of finding additional field-crafted items.",
       "de": "Beim Plündern von Raider-Behältern hast du eine kleine Chance, zusätzliche im Feld hergestellte Gegenstände zu finden.",
-      "fr": "Lors du pillage de conteneurs de pillards, vous avez une petite chance de trouver des objets fabriqués sur le terrain supplémentaires.",
+      "fr": "Lors du pillage de conteneurs de Raiders, vous avez une petite chance de trouver des objets fabriqués sur le terrain supplémentaires.",
       "es": "Al saquear contenedores de asaltantes, tienes una pequeña posibilidad de encontrar objetos fabricados en el campo adicionales.",
       "pt": "Ao saquear contêineres de invasores, você tem uma pequena chance de encontrar itens fabricados em campo adicionais.",
       "pl": "Podczas szabrowania pojemników najeźdźców, masz małą szansę na znalezienie dodatkowych przedmiotów wytworzonych w terenie.",
@@ -3071,16 +2988,14 @@
       "x": 75,
       "y": 25
     },
-    "prerequisiteNodeIds": [
-      "surv_5c"
-    ]
+    "prerequisiteNodeIds": ["surv_5c"]
   },
   {
     "id": "surv_6l",
     "name": {
       "en": "Looter's Luck",
       "de": "Plündererglück",
-      "fr": "Chance du pillard",
+      "fr": "Chance du Raider",
       "es": "Suerte del saqueador",
       "pt": "Sorte do saqueador",
       "pl": "Szczęście szabrownika",
@@ -3146,9 +3061,7 @@
       "x": 70,
       "y": 25
     },
-    "prerequisiteNodeIds": [
-      "surv_5l"
-    ]
+    "prerequisiteNodeIds": ["surv_5l"]
   },
   {
     "id": "surv_6r",
@@ -3221,9 +3134,7 @@
       "x": 80,
       "y": 25
     },
-    "prerequisiteNodeIds": [
-      "surv_5r"
-    ]
+    "prerequisiteNodeIds": ["surv_5r"]
   },
   {
     "id": "surv_7l",
@@ -3296,10 +3207,7 @@
       "x": 70,
       "y": 15
     },
-    "prerequisiteNodeIds": [
-      "surv_6l",
-      "surv_6c"
-    ]
+    "prerequisiteNodeIds": ["surv_6l", "surv_6c"]
   },
   {
     "id": "surv_7r",
@@ -3372,9 +3280,6 @@
       "x": 80,
       "y": 15
     },
-    "prerequisiteNodeIds": [
-      "surv_6r",
-      "surv_6c"
-    ]
+    "prerequisiteNodeIds": ["surv_6r", "surv_6c"]
   }
 ]

@@ -24,7 +24,7 @@
     "description": {
       "en": "Used to craft medical supplies and shields. Can be used to slowly restore small amounts of health.",
       "de": "Wird zur Herstellung von medizinischen Vorräten und Schilden verwendet. Kann verwendet werden, um langsam kleine Mengen an Gesundheit wiederherzustellen.",
-      "fr": "Utilisé pour fabriquer des fournitures médicales et des boucliers. Peut être utilisé pour restaurer lentement de petites quantités de santé.",
+      "fr": "Permet de fabriquer des fournitures médicales et des boucliers. Peut être utilisé pour restaurer lentement de petites quantités de santé.",
       "es": "Se usa para fabricar suministros médicos y escudos. Puede usarse para restaurar lentamente pequeñas cantidades de salud.",
       "pt": "Usado para fabricar suprimentos médicos e escudos. Pode ser usado para restaurar lentamente pequenas quantidades de saúde.",
       "pl": "Używany do wytwarzania zapasów medycznych i tarcz. Może być użyty do powolnej regeneracji niewielkich ilości zdrowia.",
@@ -141,7 +141,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Może być przetworzony na materiały rzemieślnicze.",
@@ -546,7 +546,7 @@
     "description": {
       "en": "Used to craft a wide range of items. Used to craft: Launcher Ammo, Hairpin, Heavy Ammo, Ferro, Kettle",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Wird verwendet für: Werfermunition, Haarnadel, Schwere Munition, Ferro, Kessel",
-      "fr": "Utilisé pour fabriquer une large gamme d'objets. Utilisé pour fabriquer : Munitions de lanceur, Épingle à cheveux, Munitions lourdes, Ferro, Bouilloire",
+      "fr": "Permet de fabriquer une large gamme d'objets. Permet de fabriquer : Munitions de lanceur, Épingle à cheveux, Munitions lourdes, Ferro, Fondoir",
       "es": "Se usa para fabricar una amplia gama de objetos. Se usa para fabricar: Munición de lanzador, Horquilla, Munición pesada, Ferro, Tetera",
       "pt": "Usado para fabricar uma ampla gama de itens. Usado para fabricar: Munição de lançador, Grampo, Munição pesada, Ferro, Chaleira",
       "pl": "Używany do wytwarzania szerokiej gamy przedmiotów. Używany do wytwarzania: Amunicja do wyrzutni, Wsuwka, Ciężka amunicja, Ferro, Czajnik",
@@ -598,7 +598,7 @@
     "description": {
       "en": "Scrap rubber pieces for crafting. Used to craft: Ferro, Kettle, Looting Mk. 1, Shield Recharger, Stitcher",
       "de": "Gummischrott für die Herstellung. Wird verwendet für: Ferro, Kessel, Plünderung Mk. 1, Schildauflader, Näher",
-      "fr": "Morceaux de caoutchouc de récupération pour la fabrication. Utilisé pour fabriquer : Ferro, Bouilloire, Pillage Mk. 1, Rechargeur de bouclier, Recouseur",
+      "fr": "Morceaux de caoutchouc de récupération pour la fabrication. Permet de fabriquer : Ferro, Fondoir, Butin 1, Rechargeur de bouclier, Sutureur",
       "es": "Piezas de goma de desecho para fabricar. Se usa para fabricar: Ferro, Tetera, Saqueo Mk. 1, Recargador de escudo, Suturador",
       "pt": "Pedaços de borracha para fabricação. Usado para fabricar: Ferro, Chaleira, Saque Mk. 1, Recarregador de escudo, Suturador",
       "pl": "Kawałki gumy do wytwarzania. Używany do wytwarzania: Ferro, Czajnik, Grabież Mk. 1, Ładowarka tarczy, Szywacz",
@@ -630,7 +630,7 @@
     "name": {
       "en": "Plastic Parts",
       "de": "Plastikteile",
-      "fr": "Pièces en plastique",
+      "fr": "Composants plastiques",
       "es": "Piezas de plástico",
       "pt": "Peças de plástico",
       "pl": "Części plastikowe",
@@ -661,7 +661,7 @@
       "no": "Brukes til å lage et bredt spekter av gjenstander. Brukes til å lage: Hårnål, Lett skjold, Plyndring Mk. 1, Lett slaggranat, Utvidet hagle-magasin I",
       "pl": "Używane do wytwarzania szerokiej gamy przedmiotów. Używane do wytwarzania: Wsuwka do włosów, Lekka tarcza, Grabież Mk. 1, Lekki granat uderzeniowy, Rozszerzony magazynek do strzelby I",
       "uk": "Використовується для створення широкого спектру предметів. Використовується для створення: Шпилька, Легкий щит, Мародерство Mk. 1, Легка ударна граната, Розширений магазин для дробовика I",
-      "fr": "Utilisé pour fabriquer une large gamme d'objets. Utilisé pour fabriquer : Épingle à cheveux, Bouclier léger, Pillage Mk. 1, Grenade à impact légère, Chargeur de fusil à pompe étendu I",
+      "fr": "Permet de fabriquer une large gamme d'objets. Permet de fabriquer : Épingle à cheveux, Bouclier léger, Butin 1, Grenade à choc léger, Chargeur de fusil à pompe étendu I",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Wird verwendet für: Haarnadel, Leichter Schild, Plünderung Mk. 1, Leichte Aufprallgranate, Erweitertes Schrotflinten-Magazin I",
       "sr": "Koristi se za izradu širokog spektra predmeta. Koristi se za izradu: Ukosnica, Laki štit, Pljačkanje Mk. 1, Laka udarna granata, Produženi šaržer za sačmaru I",
       "es": "Se usa para fabricar una amplia gama de objetos. Se usa para fabricar: Horquilla, Escudo ligero, Saqueo Mk. 1, Granada de impacto ligera, Cargador de escopeta extendido I",
@@ -682,7 +682,7 @@
     "name": {
       "en": "Voltage Converter",
       "de": "Spannungswandler",
-      "fr": "Convertisseur de tension",
+      "fr": "Transformateur de tension",
       "es": "Convertidor de voltaje",
       "pt": "Conversor de voltagem",
       "pl": "Przetwornica napięcia",
@@ -702,7 +702,7 @@
     "description": {
       "en": "Used in crafting. Used to craft: Heavy Shield, Showstopper",
       "de": "Wird bei der Herstellung verwendet. Wird verwendet für: Schwerer Schild, Showstopper",
-      "fr": "Utilisé dans la fabrication. Utilisé pour fabriquer : Bouclier lourd, Showstopper",
+      "fr": "Utilisé dans la fabrication. Permet de fabriquer : Bouclier lourd, Showstopper",
       "es": "Se usa en la fabricación. Se usa para fabricar: Escudo pesado, Showstopper",
       "pt": "Usado na fabricação. Usado para fabricar: Escudo pesado, Showstopper",
       "pl": "Używany do wytwarzania. Używany do wytwarzania: Ciężka tarcza, Showstopper",
@@ -757,7 +757,7 @@
     "description": {
       "en": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy. Used to craft: Magnetic Accelerator",
       "de": "Erhältlich von ARC-Gegnern oder durch Aktivitäten. Wird zur Herstellung von Komponenten verwendet. Kann zu ARC-Legierung recycelt werden. Wird verwendet für: Magnetischer Beschleuniger",
-      "fr": "Obtenu auprès d'ennemis ARC ou d'activités. Utilisé pour fabriquer des composants. Peut être recyclé en alliage ARC. Utilisé pour fabriquer : Accélérateur magnétique",
+      "fr": "Obtenu auprès d'ennemis ARC ou d'activités. Permet de fabriquer des composants. Peut être recyclé en alliage ARC. Permet de fabriquer : Accélérateur magnétique",
       "es": "Obtenido de enemigos ARC o actividades. Se usa para fabricar componentes. Puede reciclarse en aleación ARC. Se usa para fabricar: Acelerador magnético",
       "pt": "Obtido de inimigos ARC ou atividades. Usado para fabricar componentes. Pode ser reciclado em liga ARC. Usado para fabricar: Acelerador magnético",
       "pl": "Zdobywany z wrogów ARC lub aktywności. Używany do wytwarzania komponentów. Może być przetworzony na stop ARC. Używany do wytwarzania: Akcelerator magnetyczny",
@@ -815,7 +815,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Może być przetworzony na materiały rzemieślnicze.",
@@ -853,7 +853,7 @@
     "name": {
       "en": "ARC Circuitry",
       "de": "ARC-Schaltkreise",
-      "fr": "Circuits ARC",
+      "fr": "Câblage ARC",
       "es": "Circuitos ARC",
       "pt": "Circuitos ARC",
       "pl": "Obwody ARC",
@@ -873,7 +873,7 @@
     "description": {
       "en": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy. Used to craft: Medium Shield, Power Rod",
       "de": "Erhältlich von ARC-Gegnern oder durch Aktivitäten. Wird zur Herstellung von Komponenten verwendet. Kann zu ARC-Legierung recycelt werden. Wird verwendet für: Mittlerer Schild, Energiestab",
-      "fr": "Obtenu auprès d'ennemis ARC ou d'activités. Utilisé pour fabriquer des composants. Peut être recyclé en alliage ARC. Utilisé pour fabriquer : Bouclier moyen, Bâton d'énergie",
+      "fr": "Obtenu auprès d'ennemis ARC ou d'activités. Permet de fabriquer des composants. Peut être recyclé en alliage ARC. Permet de fabriquer : Bouclier moyen, Bâton d'énergie",
       "es": "Obtenido de enemigos ARC o actividades. Se usa para fabricar componentes. Puede reciclarse en aleación ARC. Se usa para fabricar: Escudo medio, Vara de poder",
       "pt": "Obtido de inimigos ARC ou atividades. Usado para fabricar componentes. Pode ser reciclado em liga ARC. Usado para fabricar: Escudo médio, Bastão de energia",
       "pl": "Zdobywany z wrogów ARC lub aktywności. Używany do wytwarzania komponentów. Może być przetworzony na stop ARC. Używany do wytwarzania: Średnia tarcza, Pręt mocy",
@@ -984,7 +984,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Może być przetworzony na materiały rzemieślnicze.",
@@ -1016,7 +1016,7 @@
     "name": {
       "en": "Wires",
       "de": "Kabel",
-      "fr": "Fils",
+      "fr": "Câbles",
       "es": "Cables",
       "pt": "Fios",
       "pl": "Przewody",
@@ -1037,7 +1037,7 @@
     "description": {
       "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Blaze Grenade Trap, Smoke Grenade Trap, Lure Grenade Trap, Gas Grenade Trap, Muzzle Brake I",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Flammengranaten-Falle, Rauchgranaten-Falle, Köder-Granaten-Falle, Gasgranaten-Falle, Mündungsbremse I",
-      "fr": "Utilisé pour fabriquer une large gamme d'objets. Peut être recyclé en matériaux de fabrication. Utilisé pour fabriquer : Piège à grenade incendiaire, Piège à grenade fumigène, Piège à grenade leurre, Piège à grenade à gaz, Frein de bouche I",
+      "fr": "Permet de fabriquer une large gamme d'objets. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Piège à grenade incendiaire, Piège à grenade fumigène, Piège à grenade leurre, Piège à grenade à gaz, Frein de bouche I",
       "es": "Se usa para fabricar una amplia gama de objetos. Puede reciclarse en materiales de fabricación. Se usa para fabricar: Trampa de granada incendiaria, Trampa de granada de humo, Trampa de granada señuelo, Trampa de granada de gas, Freno de boca I",
       "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Armadilha de granada incendiária, Armadilha de granada de fumaça, Armadilha de granada isca, Armadilha de granada de gás, Freio de boca I",
       "pl": "Używany do wytwarzania szerokiej gamy przedmiotów. Może być przetworzony na materiały rzemieślnicze. Używany do wytwarzania: Pułapka z granatem zapalającym, Pułapka z granatem dymnym, Pułapka z granatem wabik, Pułapka z granatem gazowym, Hamulec wylotowy I",
@@ -1074,7 +1074,7 @@
     "name": {
       "en": "Hornet Driver",
       "de": "Hornissentreiber",
-      "fr": "Propulseur de frelon",
+      "fr": "Pilote de frelon",
       "es": "Impulsor de avispón",
       "pt": "Propulsor de vespa",
       "pl": "Napęd szerszenia",
@@ -1148,7 +1148,7 @@
       "Raider Stun Duration": {
         "en": "Raider Stun Duration",
         "de": "Plünderer-Betäubungsdauer",
-        "fr": "Durée d'étourdissement des pillards",
+        "fr": "Durée d'étourdissement des Raiders",
         "es": "Duración de aturdimiento de saqueador",
         "pt": "Duração de atordoamento de saqueador",
         "pl": "Czas trwania ogłuszenia najeźdźcy",
@@ -1218,7 +1218,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Może być przetworzony na materiały rzemieślnicze.",
@@ -1308,7 +1308,7 @@
     "name": {
       "en": "Wasp Driver",
       "de": "Wespentreiber",
-      "fr": "Propulseur de guêpe",
+      "fr": "Pilote de guêpe",
       "es": "Impulsor de avispa",
       "pt": "Propulsor de vespa",
       "pl": "Napęd osy",
@@ -1431,7 +1431,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Może być przetworzony na materiały rzemieślnicze.",
@@ -1513,7 +1513,7 @@
     "name": {
       "en": "Synthesized Fuel",
       "de": "Synthetischer Treibstoff",
-      "fr": "Carburant synthétisé",
+      "fr": "Combustible synthétisé",
       "es": "Combustible sintetizado",
       "pt": "Combustível sintetizado",
       "pl": "Syntetyczne paliwo",
@@ -1812,7 +1812,7 @@
     "description": {
       "en": "Used to craft medical supplies. Can be recycled into chemicals. Used to craft: Sterilized Bandage, Vita Spray, Vita Shot",
       "de": "Wird zur Herstellung medizinischer Vorräte verwendet. Kann zu Chemikalien recycelt werden. Wird verwendet für: Sterilisierter Verband, Vita-Spray, Vita-Spritze",
-      "fr": "Utilisé pour fabriquer des fournitures médicales. Peut être recyclé en produits chimiques. Utilisé pour fabriquer : Bandage stérilisé, Vita Spray, Vita Shot",
+      "fr": "Permet de fabriquer des fournitures médicales. Peut être recyclé en produits chimiques. Permet de fabriquer : Bandage stérilisé, Vita Spray, Vita Shot",
       "es": "Se usa para fabricar suministros médicos. Se puede reciclar en productos químicos. Se usa para fabricar: Vendaje esterilizado, Aerosol Vita, Inyección Vita",
       "pt": "Usado para fabricar suprimentos médicos. Pode ser reciclado em produtos químicos. Usado para fabricar: Bandagem esterilizada, Spray Vita, Injeção Vita",
       "pl": "Używany do wytwarzania zapasów medycznych. Można przetworzyć na chemikalia. Używany do wytworzenia: Sterylny bandaż, Spray Vita, Zastrzyk Vita",
@@ -2024,7 +2024,7 @@
     "description": {
       "en": "Used to craft weapons. Used to craft: Vulcano, Hullcracker, Bettina, Complex Gun Parts",
       "de": "Wird zur Herstellung von Waffen verwendet. Wird verwendet für: Vulcano, Hullcracker, Bettina, Komplexe Waffenteile",
-      "fr": "Utilisées pour fabriquer des armes. Utilisées pour fabriquer : Vulcano, Hullcracker, Bettina, Pièces d'arme complexes",
+      "fr": "Utilisées pour fabriquer des armes. Utilisées pour fabriquer : Vulcano, Brise-fuselage, Bettina, Pièces d'arme complexes",
       "es": "Se usan para fabricar armas. Se usan para fabricar: Vulcano, Hullcracker, Bettina, Piezas de arma complejas",
       "pt": "Usadas para fabricar armas. Usadas para fabricar: Vulcano, Hullcracker, Bettina, Peças de arma complexas",
       "pl": "Używane do wytwarzania broni. Używane do wytworzenia: Vulcano, Hullcracker, Bettina, Złożone części broni",
@@ -2082,7 +2082,7 @@
     "description": {
       "en": "Obtained from ARC enemies or activities, or by recycling certain ARC parts. Used to craft components. Used to craft: Light Shield, ARC Motion Core, ARC Circuitry",
       "de": "Von ARC-Gegnern oder Aktivitäten erhalten oder durch Recycling bestimmter ARC-Teile. Wird zur Herstellung von Komponenten verwendet. Wird verwendet für: Leichtes Schild, ARC-Bewegungskern, ARC-Schaltkreise",
-      "fr": "Obtenu auprès d'ennemis ARC ou d'activités, ou en recyclant certaines pièces ARC. Utilisé pour fabriquer des composants. Utilisé pour fabriquer : Bouclier léger, Noyau de mouvement ARC, Circuits ARC",
+      "fr": "Obtenu auprès d'ennemis ARC ou d'activités, ou en recyclant certaines pièces ARC. Permet de fabriquer des composants. Permet de fabriquer : Bouclier léger, Noyau de mouvement ARC, Circuits ARC",
       "es": "Se obtiene de enemigos ARC o actividades, o reciclando ciertas piezas ARC. Se usa para fabricar componentes. Se usa para fabricar: Escudo ligero, Núcleo de movimiento ARC, Circuitos ARC",
       "pt": "Obtida de inimigos ARC ou atividades, ou reciclando certas peças ARC. Usada para fabricar componentes. Usada para fabricar: Escudo leve, Núcleo de movimento ARC, Circuitos ARC",
       "pl": "Otrzymywany od wrogów ARC lub z działań, lub przez przetwarzanie niektórych części ARC. Używany do wytwarzania komponentów. Używany do wytworzenia: Lekka tarcza, Rdzeń ruchu ARC, Obwody ARC",
@@ -2285,10 +2285,7 @@
       "metal_parts": 5,
       "rubber_parts": 2
     },
-    "craftBench": [
-      "workbench",
-      "weapon_bench"
-    ]
+    "craftBench": ["workbench", "weapon_bench"]
   },
   {
     "id": "light_ammo",
@@ -2315,7 +2312,7 @@
     "description": {
       "en": "Light bullets used mainly with SMGs and light handguns. Compatible with: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
       "de": "Leichte Geschosse, hauptsächlich für MPs und leichte Handfeuerwaffen. Kompatibel mit: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
-      "fr": "Balles légères utilisées principalement avec les mitraillettes et les pistolets légers. Compatible avec : Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+      "fr": "Balles légères utilisées principalement avec les mitraillettes et les pistolets légers. Compatible avec : Burletta, Sutureur, Fondoir, Hairpin, Bobcat",
       "es": "Balas ligeras usadas principalmente con subfusiles y pistolas ligeras. Compatible con: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
       "pt": "Balas leves usadas principalmente com submetralhadoras e pistolas leves. Compatível com: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
       "pl": "Lekkie pociski używane głównie z pistoletami maszynowymi i lekkimi pistoletami. Kompatybilna z: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
@@ -2334,13 +2331,7 @@
     },
     "type": "Ammunition",
     "imageFilename": "https://cdn.arctracker.io/items/light_ammo.png",
-    "compatibleWith": [
-      "Kettle",
-      "Burletta",
-      "Hairpin",
-      "Bobcat",
-      "Stitcher"
-    ],
+    "compatibleWith": ["Kettle", "Burletta", "Hairpin", "Bobcat", "Stitcher"],
     "value": 0.76,
     "weightKg": 0.00323,
     "stackSize": 100,
@@ -2376,7 +2367,7 @@
     "description": {
       "en": "Compatible with: Ferro, Anvil, Bettina",
       "de": "Kompatibel mit: Ferro, Anvil, Bettina",
-      "fr": "Compatible avec : Ferro, Anvil, Bettina",
+      "fr": "Compatible avec : Ferro, Enclume, Bettina",
       "es": "Compatible con: Ferro, Anvil, Bettina",
       "pt": "Compatível com: Ferro, Anvil, Bettina",
       "pl": "Kompatybilna z: Ferro, Anvil, Bettina",
@@ -2394,11 +2385,7 @@
       "sr": "Kompatibilno sa: Ferro, Anvil, Bettina"
     },
     "type": "Ammunition",
-    "compatibleWith": [
-      "Anvil",
-      "Ferro",
-      "Bettina"
-    ],
+    "compatibleWith": ["Anvil", "Ferro", "Bettina"],
     "updatedAt": "11/03/2025",
     "value": 12,
     "weightKg": 0.05,
@@ -2436,7 +2423,7 @@
     "description": {
       "en": "Compatible with: Rattler, Tempest, Arpeggio, Renegade, Torrente",
       "de": "Kompatibel mit: Rattler, Tempest, Arpeggio, Renegade, Torrente",
-      "fr": "Compatible avec : Rattler, Tempest, Arpeggio, Renegade, Torrente",
+      "fr": "Compatible avec : Crotale, Tempête, Arpège, Renégat, Torrente",
       "es": "Compatible con: Rattler, Tempest, Arpeggio, Renegade, Torrente",
       "pt": "Compatível com: Rattler, Tempest, Arpeggio, Renegade, Torrente",
       "pl": "Kompatybilna z: Rattler, Tempest, Arpeggio, Renegade, Torrente",
@@ -2844,7 +2831,7 @@
     "name": {
       "en": "Blaze Grenade",
       "de": "Flammen-Granate",
-      "fr": "Grenade incendiaire",
+      "fr": "Grenade flamboyante",
       "es": "Granada de fuego",
       "pt": "Granada de fogo",
       "pl": "Granat płomienny",
@@ -2864,7 +2851,7 @@
     "description": {
       "en": "A grenade that detonates on impact, covering an area in fire that deals damage over time.",
       "de": "Eine Granate, die beim Aufprall detoniert und ein Gebiet mit Feuer bedeckt, das im Laufe der Zeit Schaden verursacht.",
-      "fr": "Une grenade qui détone à l'impact, couvrant une zone de feu qui inflige des dégâts au fil du temps.",
+      "fr": "Une grenade qui explose à l'impact et recouvre la zone de flammes qui infligent des dégâts au fil du temps.",
       "es": "Una granada que detona al impacto, cubriendo un área con fuego que causa daño con el tiempo.",
       "pt": "Uma granada que detona no impacto, cobrindo uma área com fogo que causa dano ao longo do tempo.",
       "pl": "Granat, który detonuje przy uderzeniu, pokrywając obszar ogniem, który zadaje obrażenia w czasie.",
@@ -3005,10 +2992,7 @@
     "type": "Assault Rifle",
     "rarity": "Uncommon",
     "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
-    "tags": [
-      "Assault Rifle",
-      "Burst"
-    ],
+    "tags": ["Assault Rifle", "Burst"],
     "flavorText": "Somewhat effective against ARC armor plating",
     "ammoType": "Medium Ammo",
     "magazineSize": 24,
@@ -3340,7 +3324,7 @@
     "description": {
       "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Taktisch Mk. 3 (Defensiv), Kampf Mk. 3 (Flanke), Kampf Mk. 3 (Aggressiv), Plünderung Mk. 3 (Vorsichtig), Taktisch Mk. 3 (Heilung)",
-      "fr": "Utilisés pour fabriquer une large gamme d'objets. Peuvent être recyclés en matériaux de fabrication. Utilisés pour fabriquer : Tactique Mk. 3 (Défensif), Combat Mk. 3 (Flanquement), Combat Mk. 3 (Agressif), Pillage Mk. 3 (Prudent), Tactique Mk. 3 (Soins)",
+      "fr": "Utilisés pour fabriquer une large gamme d'objets. Peuvent être recyclés en matériaux de fabrication. Utilisés pour fabriquer : Tactique 3 (défense), Combat 3 (contournement), Combat 3 (agression), Butin 3 (prudence), Tactique 3 (soins)",
       "es": "Se usan para fabricar una amplia gama de objetos. Se pueden reciclar en materiales de fabricación. Se usan para fabricar: Táctico Mk. 3 (Defensivo), Combate Mk. 3 (Flanqueo), Combate Mk. 3 (Agresivo), Saqueo Mk. 3 (Cauteloso), Táctico Mk. 3 (Curación)",
       "pt": "Usados para fabricar uma ampla gama de itens. Podem ser reciclados em materiais de fabricação. Usados para fabricar: Tático Mk. 3 (Defensivo), Combate Mk. 3 (Flanqueamento), Combate Mk. 3 (Agressivo), Saque Mk. 3 (Cauteloso), Tático Mk. 3 (Cura)",
       "pl": "Używane do wytwarzania szerokiej gamy przedmiotów. Można przetworzyć na materiały rzemieślnicze. Używane do wytworzenia: Taktyczny Mk. 3 (Defensywny), Bojowy Mk. 3 (Flankowanie), Bojowy Mk. 3 (Agresywny), Grabieżczy Mk. 3 (Ostrożny), Taktyczny Mk. 3 (Leczenie)",
@@ -3464,7 +3448,7 @@
     "description": {
       "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Stable Stock I, Vertical Grip I, Angled Grip I, Vertical Grip II, Angled Grip II",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Stabiler Schaft I, Vertikalgriff I, Abgewinkelter Griff I, Vertikalgriff II, Abgewinkelter Griff II",
-      "fr": "Utilisé pour fabriquer une large gamme d'objets. Peut être recyclé en matériaux de fabrication. Utilisé pour fabriquer : Crosse stable I, Poignée verticale I, Poignée angulaire I, Poignée verticale II, Poignée angulaire II",
+      "fr": "Permet de fabriquer une large gamme d'objets. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Crosse stable I, Poignée verticale I, Poignée angulaire I, Poignée verticale II, Poignée angulaire II",
       "es": "Se usa para fabricar una amplia gama de objetos. Se puede reciclar en materiales de fabricación. Se usa para fabricar: Culata estable I, Empuñadura vertical I, Empuñadura angular I, Empuñadura vertical II, Empuñadura angular II",
       "pt": "Usada para fabricar uma ampla gama de itens. Pode ser reciclada em materiais de fabricação. Usada para fabricar: Coronha estável I, Empunhadura vertical I, Empunhadura angular I, Empunhadura vertical II, Empunhadura angular II",
       "pl": "Używana do wytwarzania szerokiej gamy przedmiotów. Można przetworzyć na materiały rzemieślnicze. Używana do wytworzenia: Stabilna kolba I, Chwyt pionowy I, Chwyt skośny I, Chwyt pionowy II, Chwyt skośny II",
@@ -3544,7 +3528,7 @@
     "name": {
       "en": "Light Impact Grenade",
       "de": "Leichte Aufschlaggranate",
-      "fr": "Grenade à impact légère",
+      "fr": "Grenade à choc léger",
       "es": "Granada de impacto ligera",
       "pt": "Granada de impacto leve",
       "pl": "Lekki granat uderzeniowy",
@@ -3643,10 +3627,7 @@
       "chemicals": 3,
       "plastic_parts": 2
     },
-    "craftBench": [
-      "workbench",
-      "explosives_bench"
-    ]
+    "craftBench": ["workbench", "explosives_bench"]
   },
   {
     "id": "shrapnel_grenade",
@@ -3776,7 +3757,7 @@
     "description": {
       "en": "Used to craft weapons and explosives. Can be recycled into chemicals. Used to craft: Renegade, Explosive Compound, Blaze Grenade",
       "de": "Wird zur Herstellung von Waffen und Sprengstoffen verwendet. Kann zu Chemikalien recycelt werden. Wird verwendet für: Renegade, Sprengstoffmischung, Flammengranate",
-      "fr": "Utilisé pour fabriquer des armes et des explosifs. Peut être recyclé en produits chimiques. Utilisé pour fabriquer : Renegade, Composé explosif, Grenade incendiaire",
+      "fr": "Permet de fabriquer des armes et des explosifs. Peut être recyclé en produits chimiques. Permet de fabriquer : Renégat, Composé explosif, Grenade flamboyante",
       "es": "Usado para fabricar armas y explosivos. Puede reciclarse en químicos. Usado para fabricar: Renegade, Compuesto explosivo, Granada incendiaria",
       "pt": "Usado para fabricar armas e explosivos. Pode ser reciclado em químicos. Usado para fabricar: Renegade, Composto explosivo, Granada incendiária",
       "pl": "Używany do wytwarzania broni i materiałów wybuchowych. Może być przetworzony na chemikalia. Używany do wytworzenia: Renegade, Mieszanka wybuchowa, Granat zapalający",
@@ -4073,7 +4054,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Może być przetworzony na materiały rzemieślnicze.",
@@ -4182,7 +4163,7 @@
     "description": {
       "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Shield Recharger, Lure Grenade",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge-Schildauflader, Köder-Granate",
-      "fr": "Utilisé pour fabriquer une large gamme d'objets. Peut être recyclé en matériaux de fabrication. Utilisé pour fabriquer : Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Rechargeur de bouclier Surge, Grenade leurre",
+      "fr": "Permet de fabriquer une large gamme d'objets. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Tactical Mk. 2, Combat 2, Looting Mk. 2, Rechargeur de bouclier Surge, Grenade leurre",
       "es": "Usado para fabricar una amplia gama de objetos. Puede reciclarse en materiales de fabricación. Usado para fabricar: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Recargador de escudo Surge, Granada señuelo",
       "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Recarregador de escudo Surge, Granada isca",
       "pl": "Używany do wytwarzania szerokiej gamy przedmiotów. Może być przetworzony na materiały rzemieślnicze. Używany do wytworzenia: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Ładowarka tarczy Surge, Granat wabik",
@@ -4225,7 +4206,7 @@
     "name": {
       "en": "Canister",
       "de": "Kanister",
-      "fr": "Bidon",
+      "fr": "Bonbonne",
       "es": "Bidón",
       "pt": "Recipiente",
       "pl": "Kanister",
@@ -4245,7 +4226,7 @@
     "description": {
       "en": "Used to craft a wide range of items. Can be recycled into plastic. Used to craft: Bettina, Vita Spray, Heavy Fuze Grenade, Smoke Grenade",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Kunststoff recycelt werden. Wird verwendet für: Bettina, Vita-Spray, Schwere Zündergranate, Rauchgranate",
-      "fr": "Utilisé pour fabriquer une large gamme d'objets. Peut être recyclé en plastique. Utilisé pour fabriquer : Bettina, Spray Vita, Grenade à fusée lourde, Grenade fumigène",
+      "fr": "Permet de fabriquer une large gamme d'objets. Peut être recyclé en plastique. Permet de fabriquer : Bettina, Spray Vita, Grenade à fusée lourde, Grenade fumigène",
       "es": "Usado para fabricar una amplia gama de objetos. Puede reciclarse en plástico. Usado para fabricar: Bettina, Aerosol Vita, Granada de mecha pesada, Granada de humo",
       "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em plástico. Usado para fabricar: Bettina, Spray Vita, Granada de fusível pesada, Granada de fumaça",
       "pl": "Używany do wytwarzania szerokiej gamy przedmiotów. Może być przetworzony na plastik. Używany do wytworzenia: Bettina, Spray Vita, Ciężki granat zapalnikowy, Granat dymny",
@@ -4299,7 +4280,7 @@
     "description": {
       "en": "Used to craft advanced weapons. Can be recycled into crafting materials. Used to craft: Torrente, Venator, Osprey, Renegade, Bettina",
       "de": "Wird zur Herstellung fortgeschrittener Waffen verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Torrente, Venator, Osprey, Renegade, Bettina",
-      "fr": "Utilisé pour fabriquer des armes avancées. Peut être recyclé en matériaux de fabrication. Utilisé pour fabriquer : Torrente, Venator, Osprey, Renegade, Bettina",
+      "fr": "Permet de fabriquer des armes avancées. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Torrente, Venator, Balbuzard, Renégat, Bettina",
       "es": "Usado para fabricar armas avanzadas. Puede reciclarse en materiales de fabricación. Usado para fabricar: Torrente, Venator, Osprey, Renegade, Bettina",
       "pt": "Usado para fabricar armas avançadas. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Torrente, Venator, Osprey, Renegade, Bettina",
       "pl": "Używany do wytwarzania zaawansowanej broni. Może być przetworzony na materiały rzemieślnicze. Używany do wytworzenia: Torrente, Venator, Osprey, Renegade, Bettina",
@@ -4339,7 +4320,7 @@
     "name": {
       "en": "Simple Gun Parts",
       "de": "Einfache Waffenteile",
-      "fr": "Pièces d'armes simples",
+      "fr": "Pièces de pistolet simple",
       "es": "Piezas de armas simples",
       "pt": "Peças de armas simples",
       "pl": "Proste części broni",
@@ -4359,7 +4340,7 @@
     "description": {
       "en": "Used to craft weapons. Used to craft: Il Toro, Burletta, Anvil, Arpeggio, Heavy Gun Parts",
       "de": "Wird zur Herstellung von Waffen verwendet. Wird verwendet für: Il Toro, Burletta, Anvil, Arpeggio, Schwere Waffenteile",
-      "fr": "Utilisé pour fabriquer des armes. Utilisé pour fabriquer : Il Toro, Burletta, Anvil, Arpeggio, Pièces d'armes lourdes",
+      "fr": "Permet de fabriquer des armes. Permet de fabriquer : Il Toro, Burletta, Enclume, Arpège, Pièces d'arme lourdes",
       "es": "Usado para fabricar armas. Usado para fabricar: Il Toro, Burletta, Anvil, Arpeggio, Piezas de armas pesadas",
       "pt": "Usado para fabricar armas. Usado para fabricar: Il Toro, Burletta, Anvil, Arpeggio, Peças de armas pesadas",
       "pl": "Używany do wytwarzania broni. Używany do wytworzenia: Il Toro, Burletta, Anvil, Arpeggio, Ciężkie części broni",
@@ -4413,7 +4394,7 @@
     "description": {
       "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Il Toro, Burletta, Anvil, Muzzle Brake II, Extended Medium Mag II",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Il Toro, Burletta, Anvil, Mündungsbremse II, Erweitertes mittleres Magazin II",
-      "fr": "Utilisé pour fabriquer une large gamme d'objets. Peut être recyclé en matériaux de fabrication. Utilisé pour fabriquer : Il Toro, Burletta, Anvil, Frein de bouche II, Chargeur moyen étendu II",
+      "fr": "Permet de fabriquer une large gamme d'objets. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Il Toro, Burletta, Enclume, Frein de bouche II, Chargeur moyen étendu II",
       "es": "Usado para fabricar una amplia gama de objetos. Puede reciclarse en materiales de fabricación. Usado para fabricar: Il Toro, Burletta, Anvil, Freno de boca II, Cargador mediano extendido II",
       "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Il Toro, Burletta, Anvil, Freio de boca II, Carregador médio estendido II",
       "pl": "Używany do wytwarzania szerokiej gamy przedmiotów. Może być przetworzony na materiały rzemieślnicze. Używany do wytworzenia: Il Toro, Burletta, Anvil, Hamulec wylotowy II, Rozszerzony średni magazynek II",
@@ -4453,7 +4434,7 @@
     "name": {
       "en": "Arpeggio I",
       "de": "Arpeggio I",
-      "fr": "Arpeggio I",
+      "fr": "Arpège I",
       "es": "Arpeggio I",
       "pt": "Arpeggio I",
       "pl": "Arpeggio I",
@@ -4983,7 +4964,7 @@
     "name": {
       "en": "Arpeggio III",
       "de": "Arpeggio III",
-      "fr": "Arpeggio III",
+      "fr": "Arpège III",
       "es": "Arpeggio III",
       "pt": "Arpeggio III",
       "pl": "Arpeggio III",
@@ -5040,7 +5021,7 @@
     "name": {
       "en": "Arpeggio IV",
       "de": "Arpeggio IV",
-      "fr": "Arpeggio IV",
+      "fr": "Arpège IV",
       "es": "Arpeggio IV",
       "pt": "Arpeggio IV",
       "pl": "Arpeggio IV",
@@ -5101,7 +5082,7 @@
     "name": {
       "en": "Medium Gun Parts",
       "de": "Teile für Waffen mit mittlerer Munition",
-      "fr": "Pièces d'armes moyennes",
+      "fr": "Pièces de pistolet moyen",
       "es": "Piezas de armas medianas",
       "pt": "Peças de armas médias",
       "pl": "Średnie części broni",
@@ -5121,7 +5102,7 @@
     "description": {
       "en": "Assorted spare parts used for rifles. Used to craft: Torrente, Venator, Osprey, Renegade, Tempest",
       "de": "Verschiedene Ersatzteile für Gewehre. Wird verwendet für: Torrente, Venator, Osprey, Renegade, Tempest",
-      "fr": "Pièces de rechange assorties utilisées pour les fusils. Utilisé pour fabriquer : Torrente, Venator, Osprey, Renegade, Tempest",
+      "fr": "Un assortiment de pièces détachées utilisées pour les fusils. Permet de fabriquer : Torrente, Venator, Balbuzard, Renégat, Tempête",
       "es": "Piezas de repuesto variadas usadas para rifles. Usado para fabricar: Torrente, Venator, Osprey, Renegade, Tempest",
       "pt": "Peças de reposição variadas usadas para rifles. Usado para fabricar: Torrente, Venator, Osprey, Renegade, Tempest",
       "pl": "Różne części zamienne używane do karabinów. Używany do wytworzenia: Torrente, Venator, Osprey, Renegade, Tempest",
@@ -5179,7 +5160,7 @@
     "description": {
       "en": "Used to craft medical supplies, explosives, and utility items. Used to craft: Heavy Ammo, Medium Ammo, Shotgun Ammo, Light Ammo, Light Impact Grenade",
       "de": "Wird zur Herstellung von medizinischen Vorräten, Sprengstoffen und Gebrauchsgegenständen verwendet. Wird verwendet für: Schwere Munition, Mittlere Munition, Schrotmunition, Leichte Munition, Leichte Aufschlaggranate",
-      "fr": "Utilisé pour fabriquer des fournitures médicales, des explosifs et des objets utilitaires. Utilisé pour fabriquer : Munitions lourdes, Munitions moyennes, Munitions de fusil à pompe, Munitions légères, Grenade à impact légère",
+      "fr": "Permet de fabriquer des fournitures médicales, des explosifs et des objets utilitaires. Permet de fabriquer : Munitions lourdes, Munitions moyennes, Cartouches de pompe, Munitions légères, Grenade à choc léger",
       "es": "Usado para fabricar suministros médicos, explosivos y objetos de utilidad. Usado para fabricar: Munición pesada, Munición mediana, Munición de escopeta, Munición ligera, Granada de impacto ligera",
       "pt": "Usado para fabricar suprimentos médicos, explosivos e itens utilitários. Usado para fabricar: Munição pesada, Munição média, Munição de espingarda, Munição leve, Granada de impacto leve",
       "pl": "Używany do wytwarzania zaopatrzenia medycznego, materiałów wybuchowych i przedmiotów użytkowych. Używany do wytworzenia: Ciężka amunicja, Średnia amunicja, Amunicja do strzelby, Lekka amunicja, Lekki granat uderzeniowy",
@@ -5230,7 +5211,7 @@
     "description": {
       "en": "Used in crafting. Used to craft: Heavy Shield, Snap Hook",
       "de": "Wird beim Herstellen verwendet. Wird verwendet für: Schwerer Schild, Karabinerhaken",
-      "fr": "Utilisé pour la fabrication. Utilisé pour fabriquer : Bouclier lourd, Mousqueton",
+      "fr": "Utilisé pour la fabrication. Permet de fabriquer : Bouclier lourd, Mousqueton",
       "es": "Usado en fabricación. Usado para fabricar: Escudo pesado, Gancho rápido",
       "pt": "Usado na fabricação. Usado para fabricar: Escudo pesado, Gancho rápido",
       "pl": "Używane do wytwarzania. Używane do wytworzenia: Ciężka tarcza, Karabińczyk",
@@ -5401,7 +5382,7 @@
     "description": {
       "en": "Used in crafting. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
       "de": "Wird beim Herstellen verwendet. Wird verwendet für: Taktisch Mk. 3 (Defensiv), Kampf Mk. 3 (Flanke), Kampf Mk. 3 (Aggressiv), Plündern Mk. 3 (Vorsichtig), Taktisch Mk. 3 (Heilung)",
-      "fr": "Utilisé pour la fabrication. Utilisé pour fabriquer : Tactique Mk. 3 (Défensif), Combat Mk. 3 (Flanc), Combat Mk. 3 (Agressif), Pillage Mk. 3 (Prudent), Tactique Mk. 3 (Soin)",
+      "fr": "Utilisé pour la fabrication. Permet de fabriquer : Tactique 3 (défense), Combat 3 (contournement), Combat 3 (agression), Butin 3 (prudence), Tactique 3 (soins)",
       "es": "Usado en fabricación. Usado para fabricar: Táctico Mk. 3 (Defensivo), Combate Mk. 3 (Flanqueo), Combate Mk. 3 (Agresivo), Saqueo Mk. 3 (Cauteloso), Táctico Mk. 3 (Curación)",
       "pt": "Usado na fabricação. Usado para fabricar: Tático Mk. 3 (Defensivo), Combate Mk. 3 (Flanqueio), Combate Mk. 3 (Agressivo), Saque Mk. 3 (Cauteloso), Tático Mk. 3 (Cura)",
       "pl": "Używane do wytwarzania. Używane do wytworzenia: Taktyczny Mk. 3 (Defensywny), Bojowy Mk. 3 (Oskrzydlający), Bojowy Mk. 3 (Agresywny), Grabieżczy Mk. 3 (Ostrożny), Taktyczny Mk. 3 (Leczący)",
@@ -5456,7 +5437,7 @@
     "description": {
       "en": "Used to craft a wide range of items. Can be recycled into scrap metal. Used to craft: Energy Clip, Medium Shield, Jolt Mine",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Altmetall recycelt werden. Wird verwendet für: Energiemagazin, Mittlerer Schild, Schockmine",
-      "fr": "Utilisé pour fabriquer une large gamme d'objets. Peut être recyclé en ferraille. Utilisé pour fabriquer : Chargeur d'énergie, Bouclier moyen, Mine électrique",
+      "fr": "Permet de fabriquer une large gamme d'objets. Peut être recyclé en ferraille. Permet de fabriquer : Chargeur d'énergie, Bouclier moyen, Mine électrique",
       "es": "Usado para fabricar una amplia gama de objetos. Puede reciclarse en chatarra. Usado para fabricar: Cargador de energía, Escudo mediano, Mina de descarga",
       "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em sucata. Usado para fabricar: Carregador de energia, Escudo médio, Mina de choque",
       "pl": "Używane do wytwarzania szerokiej gamy przedmiotów. Można przetworzyć na złom. Używane do wytworzenia: Magazynek energetyczny, Średnia tarcza, Mina elektryczna",
@@ -5510,7 +5491,7 @@
     "description": {
       "en": "Used in crafting. Used to craft: Wolfpack, Explosive Mine, Raider Hatch Key, Tagging Grenade",
       "de": "Wird beim Herstellen verwendet. Wird verwendet für: Wolfsrudel, Sprengmine, Plünderer-Lukenschlüssel, Markierungsgranate",
-      "fr": "Utilisé pour la fabrication. Utilisé pour fabriquer : Meute de loups, Mine explosive, Clé d'écoutille de pillard, Grenade de marquage",
+      "fr": "Utilisé pour la fabrication. Permet de fabriquer : Meute de loups, Mine explosive, Clé d'écoutille de Raider, Grenade de marquage",
       "es": "Usado en fabricación. Usado para fabricar: Manada de lobos, Mina explosiva, Llave de escotilla de saqueador, Granada marcadora",
       "pt": "Usado na fabricação. Usado para fabricar: Alcateia, Mina explosiva, Chave de escotilha de saqueador, Granada marcadora",
       "pl": "Używane do wytwarzania. Używane do wytworzenia: Wataha, Mina wybuchowa, Klucz do włazu najeźdźcy, Granat znacznikowy",
@@ -5568,7 +5549,7 @@
     "description": {
       "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Extended Shotgun Mag I, Extended Medium Mag I, Extended Light Mag I, Torrente, Extended Medium Mag II",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Erweitertes Schrotflintenmagazin I, Erweitertes mittleres Magazin I, Erweitertes leichtes Magazin I, Torrente, Erweitertes mittleres Magazin II",
-      "fr": "Utilisé pour fabriquer une large gamme d'objets. Peut être recyclé en matériaux de fabrication. Utilisé pour fabriquer : Chargeur de fusil à pompe étendu I, Chargeur moyen étendu I, Chargeur léger étendu I, Torrente, Chargeur moyen étendu II",
+      "fr": "Permet de fabriquer une large gamme d'objets. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Chargeur de fusil à pompe étendu I, Chargeur moyen étendu I, Chargeur léger étendu I, Torrente, Chargeur moyen étendu II",
       "es": "Usado para fabricar una amplia gama de objetos. Puede reciclarse en materiales de fabricación. Usado para fabricar: Cargador extendido de escopeta I, Cargador mediano extendido I, Cargador ligero extendido I, Torrente, Cargador mediano extendido II",
       "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Carregador estendido de espingarda I, Carregador médio estendido I, Carregador leve estendido I, Torrente, Carregador médio estendido II",
       "pl": "Używane do wytwarzania szerokiej gamy przedmiotów. Można przetworzyć na materiały rzemieślnicze. Używane do wytworzenia: Rozszerzony magazynek do strzelby I, Rozszerzony średni magazynek I, Rozszerzony lekki magazynek I, Torrente, Rozszerzony średni magazynek II",
@@ -5625,7 +5606,7 @@
     "description": {
       "en": "Used in crafting. Used to craft: Lure Grenade, Photoelectric Cloak",
       "de": "Wird beim Herstellen verwendet. Wird verwendet für: Köder-Granate, Fotoelektrischer Tarnumhang",
-      "fr": "Utilisé pour la fabrication. Utilisé pour fabriquer : Grenade leurre, Cape photoélectrique",
+      "fr": "Utilisé pour la fabrication. Permet de fabriquer : Grenade leurre, Cape photoélectrique",
       "es": "Usado en fabricación. Usado para fabricar: Granada señuelo, Capa fotoeléctrica",
       "pt": "Usado na fabricação. Usado para fabricar: Granada de isca, Capa fotoelétrica",
       "pl": "Używane do wytwarzania. Używane do wytworzenia: Granat wabik, Płaszcz fotoelektryczny",
@@ -5680,7 +5661,7 @@
     "description": {
       "en": "Used to craft a wide range of items. Can be recycled into crafting materials.",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Utilisé pour fabriquer une large gamme d'objets. Peut être recyclé en matériaux de fabrication.",
+      "fr": "Permet de fabriquer une large gamme d'objets. Peut être recyclé en matériaux d'artisanat.",
       "es": "Usado para fabricar una amplia gama de objetos. Puede reciclarse en materiales de fabricación.",
       "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em materiais de fabricação.",
       "pl": "Używane do wytwarzania szerokiej gamy przedmiotów. Można przetworzyć na materiały rzemieślnicze.",
@@ -5851,7 +5832,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -5921,7 +5902,7 @@
       "no": "Kan resirkuleres til håndverksmaterialer.",
       "pl": "Można przetworzyć na materiały do wytwarzania.",
       "uk": "Можна переробити на матеріали для створення.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "de": "Kann zu Herstellungsmaterialien recycelt werden.",
       "sr": "Može se reciklirati u materijale za izradu.",
       "es": "Se puede reciclar en materiales de fabricación.",
@@ -5976,7 +5957,7 @@
       "no": "Kan resirkuleres til håndverksmaterialer.",
       "pl": "Można przetworzyć na materiały do wytwarzania.",
       "uk": "Можна переробити на матеріали для створення.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "de": "Kann zu Herstellungsmaterialien recycelt werden.",
       "sr": "Može se reciklirati u materijale za izradu.",
       "es": "Se puede reciclar en materiales de fabricación.",
@@ -6020,7 +6001,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -6078,7 +6059,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -6136,7 +6117,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -6192,7 +6173,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -6310,7 +6291,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -6364,7 +6345,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -6418,7 +6399,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -6444,7 +6425,7 @@
     "name": {
       "en": "Crude Explosives",
       "de": "Rohe Sprengstoffe",
-      "fr": "Explosifs bruts",
+      "fr": "Explosifs rudimentaires",
       "es": "Explosivos crudos",
       "pt": "Explosivos brutos",
       "pl": "Prymitywne materiały wybuchowe",
@@ -6464,7 +6445,7 @@
     "description": {
       "en": "Used to craft explosives. Can be recycled into crafting materials. Used to craft: Launcher Ammo, Explosive Compound, Snap Blast Grenade, Shrapnel Grenade, Trigger 'Nade",
       "de": "Wird zur Herstellung von Sprengstoffen verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Werfer-Munition, Sprengstoffmischung, Knallgranate, Splittergranate, Auslösergranate",
-      "fr": "Utilisé pour fabriquer des explosifs. Peut être recyclé en matériaux de fabrication. Utilisé pour fabriquer : Munitions de lanceur, Composé explosif, Grenade à souffle rapide, Grenade à fragmentation, Grenade à déclenchement",
+      "fr": "Permet de fabriquer des explosifs. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Munitions de lanceur, Composé explosif, Grenade à souffle rapide, Grenade à fragmentation, Grenade à déclenchement",
       "es": "Usado para fabricar explosivos. Puede reciclarse en materiales de fabricación. Usado para fabricar: Munición de lanzador, Compuesto explosivo, Granada de explosión rápida, Granada de metralla, Granada de activación",
       "pt": "Usado para fabricar explosivos. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Munição de lançador, Composto explosivo, Granada de explosão rápida, Granada de estilhaços, Granada de gatilho",
       "pl": "Używane do wytwarzania materiałów wybuchowych. Można przetworzyć na materiały rzemieślnicze. Używane do wytworzenia: Amunicja do wyrzutni, Mieszanka wybuchowa, Granat błyskawiczny, Granat odłamkowy, Granat wyzwalany",
@@ -6574,7 +6555,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -6662,7 +6643,7 @@
     "name": {
       "en": "Great Mullein",
       "de": "Kleinblütige Königskerze",
-      "fr": "Grande Molène",
+      "fr": "Grande molène",
       "es": "Gordolobo",
       "pt": "Verbasco",
       "pl": "Dziewanna",
@@ -6689,7 +6670,7 @@
     "description": {
       "en": "Used to craft medical supplies. Used to craft: Herbal Bandage, Antiseptic",
       "de": "Wird zur Herstellung medizinischer Objekte verwendet. Wird verwendet für: Kräuterverband, Desinfektionsmittel",
-      "fr": "Utilisé pour fabriquer des fournitures médicales. Utilisé pour fabriquer : Bandage aux Herbes, Antiseptique",
+      "fr": "Permet de fabriquer des fournitures médicales. Permet de fabriquer : Bandage aux Herbes, Antiseptique",
       "es": "Usado para fabricar suministros médicos. Usado para fabricar: Vendaje Herbal, Antiséptico",
       "pt": "Usado para fabricar suprimentos médicos. Usado para fabricar: Bandagem Herbal, Antisséptico",
       "pl": "Używane do wytwarzania materiałów medycznych. Używane do wytworzenia: Ziołowy Bandaż, Antyseptyk",
@@ -6743,7 +6724,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -6852,7 +6833,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -6963,7 +6944,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -7021,7 +7002,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -7079,7 +7060,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -7107,7 +7088,7 @@
     "name": {
       "en": "Light Gun Parts",
       "de": "Teile für Waffen mit leichter Munition",
-      "fr": "Pièces d'Armes Légères",
+      "fr": "Pièces d'arme légère",
       "es": "Piezas de Armas Ligeras",
       "pt": "Peças de Armas Leves",
       "pl": "Części Lekkiej Broni",
@@ -7133,7 +7114,7 @@
     "description": {
       "en": "Assorted spare parts used for pistols and SMGs. Used to craft: Bobcat, Complex Gun Parts",
       "de": "Verschiedene Ersatzteile für Pistolen und MPs. Wird verwendet für: Bobcat, Komplexe Waffenteile",
-      "fr": "Pièces de rechange assorties pour pistolets et mitraillettes. Utilisé pour fabriquer : Bobcat, Pièces d'Armes Complexes",
+      "fr": "Pièces de rechange assorties pour pistolets et mitraillettes. Permet de fabriquer : Bobcat, Pièces d'arme complexes",
       "es": "Piezas de repuesto variadas para pistolas y subfusiles. Usado para fabricar: Bobcat, Piezas de Armas Complejas",
       "pt": "Peças sobressalentes variadas para pistolas e submetralhadoras. Usado para fabricar: Bobcat, Peças de Armas Complexas",
       "pl": "Różne części zamienne do pistoletów i pistoletów maszynowych. Używane do wytworzenia: Bobcat, Złożone Części Broni",
@@ -7192,7 +7173,7 @@
     "description": {
       "en": "Used to craft advanced weapons. Used to craft: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
       "de": "Wird zur Herstellung von fortschrittlichen Waffen verwendet. Wird verwendet für: Tempest, Equalizer, Vulcano, Jupiter, Hüllenbrecher",
-      "fr": "Utilisé pour fabriquer des armes avancées. Utilisé pour fabriquer : Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+      "fr": "Permet de fabriquer des armes avancées. Permet de fabriquer : Tempête, Equalizer, Vulcano, Jupiter, Brise-fuselage",
       "es": "Usado para fabricar armas avanzadas. Usado para fabricar: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
       "pt": "Usado para fabricar armas avançadas. Usado para fabricar: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
       "pl": "Używany do wytwarzania zaawansowanej broni. Używany do wytworzenia: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
@@ -7312,7 +7293,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -7367,7 +7348,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -7513,7 +7494,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -7568,7 +7549,7 @@
     "description": {
       "en": "Used in crafting. Used to craft: Zipline, Snap Hook",
       "de": "Wird beim Handwerk verwendet. Wird verwendet für: Seilrutsche, Karabinerhaken",
-      "fr": "Utilisé en fabrication. Utilisé pour fabriquer : Tyrolienne, Mousqueton",
+      "fr": "Utilisé en fabrication. Permet de fabriquer : Tyrolienne, Mousqueton",
       "es": "Usado en fabricación. Usado para fabricar: Tirolina, Gancho de Seguridad",
       "pt": "Usado na fabricação. Usado para fabricar: Tirolesa, Gancho de Segurança",
       "pl": "Używane w rzemiośle. Używane do wytworzenia: Tyrolka, Karabińczyk",
@@ -7709,7 +7690,7 @@
     "name": {
       "en": "Spring Cushion",
       "de": "Sprungfederkissen",
-      "fr": "Coussin à Ressorts",
+      "fr": "Coussin à ressorts",
       "es": "Cojín de Muelles",
       "pt": "Almofada de Molas",
       "pl": "Poduszka Sprężynowa",
@@ -7739,7 +7720,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -7795,7 +7776,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -7852,7 +7833,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -7938,7 +7919,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -7993,7 +7974,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Se puede reciclar en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -8092,7 +8073,7 @@
     "description": {
       "en": "Can be recycled into crafting materials. Can be thrown to create a violent singularity.",
       "de": "Kann zu Handwerksmaterialien recycelt werden. Kann geworfen werden, um eine heftige Singularität zu erzeugen.",
-      "fr": "Peut être recyclé en matériaux de fabrication. Peut être lancé pour créer une singularité violente.",
+      "fr": "Peut être recyclé en matériaux d'artisanat. Peut être lancé pour créer une singularité violente.",
       "es": "Se puede reciclar para obtener materiales de fabricación. Se puede lanzar para crear una singularidad violenta.",
       "pt": "Pode ser reciclado em materiais de fabricação. Pode ser arremessado para criar uma singularidade violenta.",
       "pl": "Można go poddać recyklingowi na materiały rzemieślnicze. Można nim rzucić, aby stworzyć gwałtowną osobliwość.",
@@ -8146,7 +8127,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Se puede reciclar en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -8199,7 +8180,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Se puede reciclar en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -8343,7 +8324,7 @@
     "name": {
       "en": "Assorted Seeds",
       "de": "Verschiedene Samen",
-      "fr": "Graines assorties",
+      "fr": "Mélange de graines",
       "es": "Semillas variadas",
       "pt": "Sementes sortidas",
       "pl": "Różne nasiona",
@@ -8363,7 +8344,7 @@
     "description": {
       "en": "A handful of seeds. Celeste might be looking for these.",
       "de": "Eine Handvoll Samen. Celeste könnte danach suchen.",
-      "fr": "Une poignée de graines. Celeste pourrait les chercher.",
+      "fr": "Une poignée de graines. Celeste pourrait en avoir besoin.",
       "es": "Un puñado de semillas. Celeste podría estar buscándolas.",
       "pt": "Um punhado de sementes. Celeste pode estar procurando por elas.",
       "pl": "Garść nasion. Celeste może ich szukać.",
@@ -8874,7 +8855,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Se puede reciclar en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -8902,7 +8883,7 @@
     "name": {
       "en": "Pop Trigger",
       "de": "Direktabzug",
-      "fr": "Déclencheur pop",
+      "fr": "Gâchette pop",
       "es": "Gatillo pop",
       "pt": "Gatilho pop",
       "pl": "Spust pop",
@@ -8930,7 +8911,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Se puede reciclar en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -8984,7 +8965,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Se puede reciclar en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -9086,7 +9067,7 @@
     "name": {
       "en": "Faded Photograph",
       "de": "Verblasste Fotografie",
-      "fr": "Photographie fanée",
+      "fr": "Photo décolorée",
       "es": "Fotografía descolorida",
       "pt": "Fotografia desbotada",
       "pl": "Wyblakła fotografia",
@@ -10003,7 +9984,7 @@
     "name": {
       "en": "Raider Hatch Key",
       "de": "Raider-Lukenschlüssel",
-      "fr": "Clé de trappe de pillard",
+      "fr": "Clé de trappe de Raider",
       "es": "Llave de escotilla de saqueador",
       "pt": "Chave de escotilha de saqueador",
       "pl": "Klucz do włazu najeźdźcy",
@@ -10024,7 +10005,7 @@
     "description": {
       "en": "Unlocks a Raider Hatch.",
       "de": "Öffnet eine Raider-Luke.",
-      "fr": "Déverrouille une trappe de pillard.",
+      "fr": "Déverrouille une trappe de Raider.",
       "es": "Desbloquea una escotilla de saqueador.",
       "pt": "Desbloqueia uma escotilha de saqueador.",
       "pl": "Otwiera właz najeźdźcy.",
@@ -10320,10 +10301,7 @@
       "arc_alloy": 2,
       "plastic_parts": 4
     },
-    "craftBench": [
-      "workbench",
-      "equipment_bench"
-    ]
+    "craftBench": ["workbench", "equipment_bench"]
   },
   {
     "id": "heavy_shield",
@@ -10715,7 +10693,7 @@
       "Raider Stun Duration": {
         "en": "Raider Stun Duration",
         "de": "Raider-Betäubungsdauer",
-        "fr": "Durée d'étourdissement des pillards",
+        "fr": "Durée d'étourdissement des Raiders",
         "es": "Duración de aturdimiento de saqueador",
         "pt": "Duração de atordoamento de saqueador",
         "pl": "Czas trwania ogłuszenia najeźdźcy",
@@ -11063,7 +11041,7 @@
     "description": {
       "en": "Slightly extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Kettle, Burletta, Hairpin, Bobcat, Stitcher",
       "de": "Erweitert leicht die Munitionskapazität kompatibler Waffen, die leichte Munition verwenden. Kompatibel mit: Kettle, Burletta, Hairpin, Bobcat, Stitcher",
-      "fr": "Étend légèrement la capacité de munitions des armes compatibles qui utilisent des munitions légères. Compatible avec : Kettle, Burletta, Hairpin, Bobcat, Stitcher",
+      "fr": "Étend légèrement la capacité de munitions des armes compatibles qui utilisent des munitions légères. Compatible avec : Fondoir, Burletta, Hairpin, Bobcat, Sutureur",
       "es": "Extiende ligeramente la capacidad de munición de armas compatibles que usan munición ligera. Compatible con: Kettle, Burletta, Hairpin, Bobcat, Stitcher",
       "pt": "Estende ligeiramente a capacidade de munição de armas compatíveis que usam munição leve. Compatível com: Kettle, Burletta, Hairpin, Bobcat, Stitcher",
       "pl": "Nieznacznie zwiększa pojemność amunicji kompatybilnych broni używających lekkiej amunicji. Kompatybilny z: Kettle, Burletta, Hairpin, Bobcat, Stitcher",
@@ -11084,13 +11062,7 @@
     "rarity": "Common",
     "value": 640,
     "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_i.png",
-    "compatibleWith": [
-      "Hairpin",
-      "Kettle",
-      "Stitcher",
-      "Burletta",
-      "Bobcat"
-    ],
+    "compatibleWith": ["Hairpin", "Kettle", "Stitcher", "Burletta", "Bobcat"],
     "crafting": {
       "plastic_parts": 6,
       "steel_spring": 1
@@ -11157,7 +11129,7 @@
     "description": {
       "en": "Slightly reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "de": "Reduziert leicht die Streuung pro Schuss. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "fr": "Réduit légèrement la dispersion par tir. Compatible avec : Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+      "fr": "Réduit légèrement la dispersion par tir. Compatible avec : Arpège, Ferro, Renégat, Enclume, Sutureur",
       "es": "Reduce ligeramente la dispersión por disparo. Compatible con: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "pt": "Reduz ligeiramente a dispersão por tiro. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "pl": "Nieznacznie zmniejsza rozrzut na strzał. Kompatybilny z: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -11301,13 +11273,7 @@
     "rarity": "Common",
     "value": 640,
     "imageFilename": "https://cdn.arctracker.io/items/stable_stock_i.png",
-    "compatibleWith": [
-      "Rattler",
-      "Ferro",
-      "Stitcher",
-      "Arpeggio",
-      "Bettina"
-    ],
+    "compatibleWith": ["Rattler", "Ferro", "Stitcher", "Arpeggio", "Bettina"],
     "crafting": {
       "rubber_parts": 6,
       "duct_tape": 1
@@ -12518,7 +12484,7 @@
     "name": {
       "en": "Osprey I",
       "de": "Osprey I",
-      "fr": "Osprey I",
+      "fr": "Balbuzard I",
       "es": "Osprey I",
       "pt": "Osprey I",
       "pl": "Osprey I",
@@ -12749,7 +12715,7 @@
     "name": {
       "en": "Adrenaline Shot",
       "de": "Adrenalin-Spritze",
-      "fr": "Injection d'adrénaline",
+      "fr": "Dose d'adrénaline",
       "es": "Inyección de adrenalina",
       "pt": "Injeção de adrenalina",
       "pl": "Zastrzyk adrenaliny",
@@ -12769,7 +12735,7 @@
     "description": {
       "en": "A serum that fully restores stamina and temporarily increases stamina regeneration.",
       "de": "Ein Serum, das die Ausdauer vollständig wiederherstellt und die Ausdauerregeneration vorübergehend erhöht.",
-      "fr": "Un sérum qui restaure complètement l'endurance et augmente temporairement la régénération d'endurance.",
+      "fr": "Un sérum qui restaure intégralement l'endurance et augmente temporairement sa régénération.",
       "es": "Un suero que restaura completamente la resistencia y aumenta temporalmente la regeneración de resistencia.",
       "pt": "Um soro que restaura completamente a resistência e aumenta temporariamente a regeneração de resistência.",
       "pl": "Serum, które w pełni przywraca wytrzymałość i tymczasowo zwiększa regenerację wytrzymałości.",
@@ -13043,7 +13009,7 @@
     "name": {
       "en": "Tactical Mk. 1",
       "de": "Taktisch Mk. 1",
-      "fr": "Tactique Mk. 1",
+      "fr": "Tactique 1",
       "es": "Táctico Mk. 1",
       "pt": "Tático Mk. 1",
       "pl": "Taktyczny Mk. 1",
@@ -13166,7 +13132,7 @@
     "name": {
       "en": "Tactical Mk. 2",
       "de": "Taktisch Mk. 2",
-      "fr": "Tactique Mk. 2",
+      "fr": "Tactique 2",
       "es": "Táctico Mk. 2",
       "pt": "Tático Mk. 2",
       "pl": "Taktyczny Mk. 2",
@@ -13285,7 +13251,7 @@
     "name": {
       "en": "Combat Mk. 1",
       "de": "Kampf Mk. 1",
-      "fr": "Combat Mk. 1",
+      "fr": "Combat 1",
       "es": "Combate Mk. 1",
       "pt": "Combate Mk. 1",
       "pl": "Bojowy Mk. 1",
@@ -13408,7 +13374,7 @@
     "name": {
       "en": "Combat Mk. 2",
       "de": "Kampf Mk. 2",
-      "fr": "Combat Mk. 2",
+      "fr": "Combat 2",
       "es": "Combate Mk. 2",
       "pt": "Combate Mk. 2",
       "pl": "Bojowy Mk. 2",
@@ -13548,7 +13514,7 @@
     "name": {
       "en": "Kettle I",
       "de": "Kettle I",
-      "fr": "Kettle I",
+      "fr": "Fondoir I",
       "es": "Kettle I",
       "pt": "Kettle I",
       "pl": "Kettle I",
@@ -13568,7 +13534,7 @@
     "description": {
       "en": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
       "de": "Schnell und präzise, aber mit niedriger Geschossgeschwindigkeit und langer Nachladezeit.",
-      "fr": "Rapide et précis, mais a une faible vélocité des balles et prend beaucoup de temps à recharger.",
+      "fr": "Rapide et précis, mais la vitesse des balles est faible et son rechargement est long.",
       "es": "Rápido y preciso, pero tiene baja velocidad de bala y tarda mucho en recargar.",
       "pt": "Rápido e preciso, mas tem baixa velocidade de bala e demora muito para recarregar.",
       "pl": "Szybki i celny, ale ma niską prędkość pocisku i długi czas przeładowania.",
@@ -13598,10 +13564,7 @@
       "metal_parts": 6,
       "rubber_parts": 8
     },
-    "craftBench": [
-      "workbench",
-      "weapon_bench"
-    ],
+    "craftBench": ["workbench", "weapon_bench"],
     "weightKg": 7.0,
     "effects": {
       "Durability": {
@@ -13716,7 +13679,7 @@
     "name": {
       "en": "Kettle II",
       "de": "Kettle II",
-      "fr": "Kettle II",
+      "fr": "Fondoir II",
       "es": "Kettle II",
       "pt": "Kettle II",
       "pl": "Kettle II",
@@ -13768,7 +13731,7 @@
     "name": {
       "en": "Stitcher I",
       "de": "Stitcher I",
-      "fr": "Stitcher I",
+      "fr": "Sutureur I",
       "es": "Stitcher I",
       "pt": "Stitcher I",
       "pl": "Stitcher I",
@@ -13818,10 +13781,7 @@
       "metal_parts": 8,
       "rubber_parts": 4
     },
-    "craftBench": [
-      "workbench",
-      "weapon_bench"
-    ],
+    "craftBench": ["workbench", "weapon_bench"],
     "weightKg": 5.0,
     "effects": {
       "Durability": {
@@ -13936,7 +13896,7 @@
     "name": {
       "en": "Stitcher II",
       "de": "Stitcher II",
-      "fr": "Stitcher II",
+      "fr": "Sutureur II",
       "es": "Stitcher II",
       "pt": "Stitcher II",
       "pl": "Stitcher II",
@@ -14108,10 +14068,7 @@
         "tr": "Yükseltme Değiştiricileri",
         "hr": "Modifikatori nadogradnje",
         "sr": "Modifikatori unapređenja",
-        "value": [
-          "16.6% Reduced Horizontal Recoil",
-          "13% Reduced Reload Time"
-        ]
+        "value": ["16.6% Reduced Horizontal Recoil", "13% Reduced Reload Time"]
       }
     }
   },
@@ -14120,7 +14077,7 @@
     "name": {
       "en": "Stitcher III",
       "de": "Stitcher III",
-      "fr": "Stitcher III",
+      "fr": "Sutureur III",
       "es": "Stitcher III",
       "pt": "Stitcher III",
       "pl": "Stitcher III",
@@ -14169,7 +14126,7 @@
     "name": {
       "en": "Stitcher IV",
       "de": "Stitcher IV",
-      "fr": "Stitcher IV",
+      "fr": "Sutureur IV",
       "es": "Stitcher IV",
       "pt": "Stitcher IV",
       "pl": "Stitcher IV",
@@ -14377,7 +14334,7 @@
     "name": {
       "en": "Remote Raider Flare",
       "de": "Ferngesteuerte Raider-Leuchtrakete",
-      "fr": "Fusée éclairante de pillard à distance",
+      "fr": "Fusée éclairante télécommandée",
       "es": "Bengala de asaltante remota",
       "pt": "Sinalizador de invasor remoto",
       "pl": "Zdalna flara najeźdźcy",
@@ -14397,7 +14354,7 @@
     "description": {
       "en": "A deployable device that, when manually triggered, launches a Raider Distress Flare.",
       "de": "Ein einsetzbares Gerät, das bei manueller Auslösung eine Raider-Notleuchtrakete abfeuert.",
-      "fr": "Un dispositif déployable qui, lorsqu'il est déclenché manuellement, lance une fusée de détresse de pillard.",
+      "fr": "Un appareil déployable qui lance une fusée de détresse de Raider.",
       "es": "Un dispositivo desplegable que, al activarse manualmente, lanza una bengala de socorro de asaltante.",
       "pt": "Um dispositivo implantável que, quando acionado manualmente, lança um sinalizador de socorro de invasor.",
       "pl": "Urządzenie do rozmieszczenia, które po ręcznym uruchomieniu wystrzeliwuje flarę wzywającą najeźdźców.",
@@ -14765,7 +14722,7 @@
     "name": {
       "en": "Exodus Modules",
       "de": "Exodus-Module",
-      "fr": "Modules Exodus",
+      "fr": "Modules de l'Exode",
       "es": "Módulos Exodus",
       "pt": "Módulos Exodus",
       "pl": "Moduły Exodus",
@@ -14785,7 +14742,7 @@
     "description": {
       "en": "Used to craft a wide range of items. Used to craft: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
       "de": "Wird zur Herstellung verschidenster Gegenstände verwendet. Wird verwendet für: Tempest, Vulcano, Hüllenbrecher, Bobcat, Karabinerhacken",
-      "fr": "Utilisé pour fabriquer une large gamme d'objets. Utilisé pour fabriquer : Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+      "fr": "Permet de fabriquer une large gamme d'objets. Permet de fabriquer : Tempête, Vulcano, Brise-fuselage, Bobcat, Snap Hook",
       "es": "Se usa para fabricar una amplia gama de objetos. Se usa para fabricar: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
       "pt": "Usado para fabricar uma ampla variedade de itens. Usado para fabricar: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
       "pl": "Używane do wytwarzania szerokiej gamy przedmiotów. Używane do wytworzenia: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
@@ -14823,7 +14780,7 @@
     "name": {
       "en": "Durable Cloth",
       "de": "Strapazierfähiges Stoffstück",
-      "fr": "Tissu durable",
+      "fr": "Tissu résistant",
       "es": "Tela duradera",
       "pt": "Tecido durável",
       "pl": "Wytrzymała tkanina",
@@ -14843,7 +14800,7 @@
     "description": {
       "en": "Used to craft medical supplies. Used to craft: Herbal Bandage, Sterilized Bandage",
       "de": "Wird zur Herstellung von medizinischen Vorräten verwendet. Wird verwendet für: Kräuterverband, Sterilisierter Verband",
-      "fr": "Utilisé pour fabriquer des fournitures médicales. Utilisé pour fabriquer : Bandage aux herbes, Bandage stérilisé",
+      "fr": "Permet de fabriquer des fournitures médicales. Permet de fabriquer : Bandage aux herbes, Bandage stérilisé",
       "es": "Se usa para fabricar suministros médicos. Se usa para fabricar: Vendaje herbal, Vendaje esterilizado",
       "pt": "Usado para fabricar suprimentos médicos. Usado para fabricar: Bandagem herbal, Bandagem esterilizada",
       "pl": "Używane do wytwarzania materiałów medycznych. Używane do wytworzenia: Bandaż ziołowy, Bandaż sterylny",
@@ -15222,7 +15179,7 @@
     "description": {
       "en": "Used to craft advanced weapons. Used to craft: Equalizer, Jupiter",
       "de": "Wird zur Herstellung fortschrittlichen Waffen verwendet. Wird verwendet für: Equalizer, Jupiter",
-      "fr": "Utilisé pour fabriquer des armes avancées. Utilisé pour fabriquer : Equalizer, Jupiter",
+      "fr": "Permet de fabriquer des armes avancées. Permet de fabriquer : Equalizer, Jupiter",
       "es": "Se usa para fabricar armas avanzadas. Se usa para fabricar: Equalizer, Jupiter",
       "pt": "Usado para fabricar armas avançadas. Usado para fabricar: Equalizer, Jupiter",
       "pl": "Używane do wytwarzania zaawansowanej broni. Używane do wytworzenia: Equalizer, Jupiter",
@@ -15282,7 +15239,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -15371,7 +15328,7 @@
     "name": {
       "en": "Hullcracker I",
       "de": "Hullcracker I",
-      "fr": "Hullcracker I",
+      "fr": "Brise-fuselage I",
       "es": "Hullcracker I",
       "pt": "Hullcracker I",
       "pl": "Hullcracker I",
@@ -15534,7 +15491,7 @@
     "name": {
       "en": "Rattler III",
       "de": "Rattler III",
-      "fr": "Rattler III",
+      "fr": "Crotale III",
       "es": "Rattler III",
       "pt": "Rattler III",
       "pl": "Rattler III",
@@ -15926,10 +15883,7 @@
       "rubber_parts": 5,
       "arc_powercell": 1
     },
-    "craftBench": [
-      "workbench",
-      "med_station"
-    ]
+    "craftBench": ["workbench", "med_station"]
   },
   {
     "id": "lil_smoke_grenade",
@@ -16405,7 +16359,7 @@
     "description": {
       "en": "Moderately reduces both vertical recoil & horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Renegade",
       "de": "Reduziert sowohl vertikalen als auch horizontalen Rückstoß mäßig. Kompatibel mit: Tempest, Arpeggio, Kettle, Ferro, Renegade",
-      "fr": "Réduit modérément le recul vertical et horizontal. Compatible avec : Tempest, Arpeggio, Kettle, Ferro, Renegade",
+      "fr": "Réduit modérément le recul vertical et horizontal. Compatible avec : Tempête, Arpège, Fondoir, Ferro, Renégat",
       "es": "Reduce moderadamente tanto el retroceso vertical como el horizontal. Compatible con: Tempest, Arpeggio, Kettle, Ferro, Renegade",
       "pt": "Reduz moderadamente tanto o recuo vertical quanto o horizontal. Compatível com: Tempest, Arpeggio, Kettle, Ferro, Renegade",
       "pl": "Umiarkowanie redukuje zarówno odrzut pionowy, jak i poziomy. Kompatybilny z: Tempest, Arpeggio, Kettle, Ferro, Renegade",
@@ -16479,13 +16433,7 @@
         "value": "20%"
       }
     },
-    "compatibleWith": [
-      "Arpeggio",
-      "Rattler",
-      "Kettle",
-      "Burletta",
-      "Stitcher"
-    ],
+    "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Burletta", "Stitcher"],
     "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
     "updatedAt": "11/03/2025"
   },
@@ -17229,7 +17177,7 @@
     "description": {
       "en": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "de": "Reduziert den vertikalen Rückstoß mäßig. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
-      "fr": "Réduit modérément le recul vertical. Compatible avec : Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+      "fr": "Réduit modérément le recul vertical. Compatible avec : Arpège, Ferro, Venator, Il Toro, Sutureur",
       "es": "Reduce moderadamente el retroceso vertical. Compatible con: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "pt": "Reduz moderadamente o recuo vertical. Compatível com: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "pl": "Umiarkowanie redukuje odrzut pionowy. Kompatybilny z: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
@@ -17277,13 +17225,7 @@
         "value": "30%"
       }
     },
-    "compatibleWith": [
-      "Arpeggio",
-      "Rattler",
-      "Kettle",
-      "Il Toro",
-      "Stitcher"
-    ],
+    "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Il Toro", "Stitcher"],
     "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
     "updatedAt": "11/05/2025"
   },
@@ -17337,13 +17279,7 @@
       "mechanical_components": 1,
       "duct_tape": 1
     },
-    "compatibleWith": [
-      "Arpeggio",
-      "Rattler",
-      "Kettle",
-      "Il Toro",
-      "Stitcher"
-    ],
+    "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Il Toro", "Stitcher"],
     "effects": {
       "Compatible with": {
         "en": "Compatible with",
@@ -17786,7 +17722,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Herstellungsmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Se puede reciclar en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały do wytwarzania.",
@@ -17841,7 +17777,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Herstellungsmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Se puede reciclar en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały do wytwarzania.",
@@ -17872,7 +17808,7 @@
     "name": {
       "en": "Tactical Mk. 3 (Healing)",
       "de": "Taktisch Mk. 3 (Heilung)",
-      "fr": "Tactique Mk. 3 (Soin)",
+      "fr": "Tactique 3 (soins)",
       "es": "Táctico Mk. 3 (Curación)",
       "pt": "Tático Mk. 3 (Cura)",
       "pl": "Taktyczny Mk. 3 (Leczenie)",
@@ -18059,7 +17995,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Herstellungsmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Se puede reciclar en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały do wytwarzania.",
@@ -18157,10 +18093,7 @@
         "value": "20%"
       }
     },
-    "compatibleWith": [
-      "Il Toro",
-      "Vulcano"
-    ],
+    "compatibleWith": ["Il Toro", "Vulcano"],
     "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_ii.png",
     "updatedAt": "11/05/2025"
   },
@@ -18189,7 +18122,7 @@
     "description": {
       "en": "Moderately reduces horizontal recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "de": "Reduziert den horizontalen Rückstoß mäßig. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
-      "fr": "Réduit modérément le recul horizontal. Compatible avec : Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+      "fr": "Réduit modérément le recul horizontal. Compatible avec : Arpège, Ferro, Venator, Il Toro, Sutureur",
       "es": "Reduce moderadamente el retroceso horizontal. Compatible con: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "pt": "Reduz moderadamente o recuo horizontal. Compatível com: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "pl": "Umiarkowanie redukuje odrzut poziomy. Kompatybilny z: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
@@ -18237,13 +18170,7 @@
         "value": "30%"
       }
     },
-    "compatibleWith": [
-      "Arpeggio",
-      "Rattler",
-      "Kettle",
-      "Il Toro",
-      "Stitcher"
-    ],
+    "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Il Toro", "Stitcher"],
     "imageFilename": "https://cdn.arctracker.io/items/angled_grip_ii.png",
     "updatedAt": "11/05/2025"
   },
@@ -18272,7 +18199,7 @@
     "description": {
       "en": "Moderately increases fire rate. Compatible with: Arpeggio, Rattler, Kettle, Ferro, Renegade",
       "de": "Erhöht die Feuerrate mäßig. Kompatibel mit: Arpeggio, Rattler, Kettle, Ferro, Renegade",
-      "fr": "Augmente modérément la cadence de tir. Compatible avec : Arpeggio, Rattler, Kettle, Ferro, Renegade",
+      "fr": "Augmente modérément la cadence de tir. Compatible avec : Arpège, Crotale, Fondoir, Ferro, Renégat",
       "es": "Aumenta moderadamente la cadencia de fuego. Compatible con: Arpeggio, Rattler, Kettle, Ferro, Renegade",
       "pt": "Aumenta moderadamente a taxa de disparo. Compatível com: Arpeggio, Rattler, Kettle, Ferro, Renegade",
       "pl": "Umiarkowanie zwiększa szybkostrzelność. Kompatybilny z: Arpeggio, Rattler, Kettle, Ferro, Renegade",
@@ -18491,7 +18418,7 @@
     "name": {
       "en": "Launcher Ammo (Hullcracker) Blueprint",
       "de": "Werfer-Munition (Hullcracker) Blaupause",
-      "fr": "Plan de munitions de lanceur (Hullcracker)",
+      "fr": "Plan de munitions de lanceur (Brise-fuselage)",
       "es": "Plano de munición de lanzador (Hullcracker)",
       "pt": "Projeto de munição de lançador (Hullcracker)",
       "pl": "Projekt amunicji do wyrzutni (Hullcracker)",
@@ -18511,7 +18438,7 @@
     "description": {
       "en": "Anti-ARC payloads used mainly by the Hullcracker.",
       "de": "Anti-ARC-Nutzlasten, die hauptsächlich vom Hullcracker verwendet werden.",
-      "fr": "Charges anti-ARC utilisées principalement par le Hullcracker.",
+      "fr": "Charges anti-ARC utilisées principalement par le Brise-fuselage.",
       "es": "Cargas anti-ARC usadas principalmente por el Hullcracker.",
       "pt": "Cargas anti-ARC usadas principalmente pelo Hullcracker.",
       "pl": "Ładunki przeciw-ARC używane głównie przez Hullcracker.",
@@ -18589,7 +18516,7 @@
     "name": {
       "en": "Anvil Splitter",
       "de": "Amboss-Spalter",
-      "fr": "Séparateur Anvil",
+      "fr": "Séparateur Enclume",
       "es": "Divisor Anvil",
       "pt": "Divisor Anvil",
       "pl": "Rozdzielacz Anvil",
@@ -18609,7 +18536,7 @@
     "description": {
       "en": "Tech mod for the Anvil that replaces its bullets with ones that split into 4 weaker projectiles.",
       "de": "Technische Modifikation für den Amboss, die seine Kugeln durch solche ersetzt, die sich in 4 schwächere Projektile aufteilen.",
-      "fr": "Modification technique pour l'Anvil qui remplace ses balles par des projectiles qui se divisent en 4 projectiles plus faibles.",
+      "fr": "Modification technique pour l'Enclume qui remplace ses balles par des projectiles qui se divisent en 4 projectiles plus faibles.",
       "es": "Modificación técnica para el Anvil que reemplaza sus balas por otras que se dividen en 4 proyectiles más débiles.",
       "pt": "Modificação técnica para o Anvil que substitui suas balas por projéteis que se dividem em 4 projéteis mais fracos.",
       "pl": "Modyfikacja techniczna dla Anvila, która zastępuje jego pociski takimi, które dzielą się na 4 słabsze pociski.",
@@ -18744,7 +18671,7 @@
     "name": {
       "en": "Renegade I",
       "de": "Renegade I",
-      "fr": "Renegade I",
+      "fr": "Renégat I",
       "es": "Renegade I",
       "pt": "Renegade I",
       "pl": "Renegade I",
@@ -19061,7 +18988,7 @@
     "description": {
       "en": "Significantly extends the ammo capacity of compatible weapons that use medium ammo. Compatible with: Arpeggio, Renegade, Venator, Tempest, Torrente",
       "de": "Erweitert die Munitionskapazität kompatibler Waffen, die mittlere Munition verwenden, erheblich. Kompatibel mit: Arpeggio, Renegade, Venator, Tempest, Torrente",
-      "fr": "Étend considérablement la capacité de munitions des armes compatibles qui utilisent des munitions moyennes. Compatible avec : Arpeggio, Renegade, Venator, Tempest, Torrente",
+      "fr": "Étend considérablement la capacité de munitions des armes compatibles qui utilisent des munitions moyennes. Compatible avec : Arpège, Renégat, Venator, Tempête, Torrente",
       "es": "Extiende significativamente la capacidad de munición de armas compatibles que usan munición mediana. Compatible con: Arpeggio, Renegade, Venator, Tempest, Torrente",
       "pt": "Estende significativamente a capacidade de munição de armas compatíveis que usam munição média. Compatível com: Arpeggio, Renegade, Venator, Tempest, Torrente",
       "pl": "Znacząco zwiększa pojemność amunicji kompatybilnych broni używających średniej amunicji. Kompatybilny z: Arpeggio, Renegade, Venator, Tempest, Torrente",
@@ -19142,7 +19069,7 @@
     "description": {
       "en": "Significantly reduces both vertical recoil & horizontal recoil. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "de": "Reduziert sowohl vertikalen als auch horizontalen Rückstoß erheblich. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "fr": "Réduit considérablement le recul vertical et horizontal. Compatible avec : Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+      "fr": "Réduit considérablement le recul vertical et horizontal. Compatible avec : Arpège, Ferro, Renégat, Enclume, Sutureur",
       "es": "Reduce significativamente tanto el retroceso vertical como el horizontal. Compatible con: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "pt": "Reduz significativamente tanto o recuo vertical quanto o horizontal. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "pl": "Znacząco zmniejsza zarówno odrzut pionowy, jak i poziomy. Kompatybilny z: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -19370,7 +19297,7 @@
     "description": {
       "en": "Moderately reduces the amount of noise produced when firing. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "de": "Reduziert die beim Schießen erzeugte Geräuschmenge moderat. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "fr": "Réduit modérément la quantité de bruit produite lors du tir. Compatible avec : Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+      "fr": "Réduit modérément la quantité de bruit produite lors du tir. Compatible avec : Arpège, Ferro, Renégat, Enclume, Sutureur",
       "es": "Reduce moderadamente la cantidad de ruido producido al disparar. Compatible con: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "pt": "Reduz moderadamente a quantidade de ruído produzida ao disparar. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "pl": "Umiarkowanie zmniejsza ilość hałasu wytwarzanego podczas strzału. Kompatybilny z: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -19442,7 +19369,7 @@
     "description": {
       "en": "Significantly reduces horizontal recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "de": "Reduziert den horizontalen Rückstoß erheblich. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
-      "fr": "Réduit considérablement le recul horizontal. Compatible avec : Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+      "fr": "Réduit considérablement le recul horizontal. Compatible avec : Arpège, Ferro, Venator, Il Toro, Sutureur",
       "es": "Reduce significativamente el retroceso horizontal. Compatible con: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "pt": "Reduz significativamente o recuo horizontal. Compatível com: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "pl": "Znacząco zmniejsza odrzut poziomy. Kompatybilny z: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
@@ -19535,7 +19462,7 @@
     "description": {
       "en": "Moderately reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "de": "Reduziert die Streuung pro Schuss moderat. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "fr": "Réduit modérément la dispersion par tir. Compatible avec : Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+      "fr": "Réduit modérément la dispersion par tir. Compatible avec : Arpège, Ferro, Renégat, Enclume, Sutureur",
       "es": "Reduce moderadamente la dispersión por disparo. Compatible con: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "pt": "Reduz moderadamente a dispersão por disparo. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "pl": "Umiarkowanie zmniejsza rozrzut na strzał. Kompatybilny z: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -19604,13 +19531,7 @@
       "mechanical_components": 1,
       "wires": 1
     },
-    "compatibleWith": [
-      "Arpeggio",
-      "Rattler",
-      "Kettle",
-      "Burletta",
-      "Stitcher"
-    ],
+    "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Burletta", "Stitcher"],
     "imageFilename": "https://cdn.arctracker.io/items/compensator_ii.png",
     "updatedAt": "11/03/2025",
     "recipe": {
@@ -19644,7 +19565,7 @@
     "description": {
       "en": "Moderately extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
       "de": "Erweitert die Munitionskapazität kompatibler Waffen mit leichter Munition mäßig. Kompatibel mit: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
-      "fr": "Augmente modérément la capacité de munitions des armes compatibles utilisant des munitions légères. Compatible avec : Stitcher, Kettle, Burletta, Hairpin, Bobcat",
+      "fr": "Augmente modérément la capacité de munitions des armes compatibles utilisant des munitions légères. Compatible avec : Sutureur, Fondoir, Burletta, Hairpin, Bobcat",
       "es": "Extiende moderadamente la capacidad de munición de armas compatibles que usan munición ligera. Compatible con: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
       "pt": "Estende moderadamente a capacidade de munição de armas compatíveis que usam munição leve. Compatível com: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
       "pl": "Umiarkowanie zwiększa pojemność amunicji kompatybilnej broni używającej lekkiej amunicji. Kompatybilny z: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
@@ -19716,7 +19637,7 @@
     "description": {
       "en": "Moderately extends the ammo capacity of compatible weapons that use medium ammo. Compatible with: Arpeggio, Renegade, Venator, Tempest, Torrente",
       "de": "Erweitert die Munitionskapazität kompatibler Waffen mit mittlerer Munition mäßig. Kompatibel mit: Arpeggio, Renegade, Venator, Tempest, Torrente",
-      "fr": "Augmente modérément la capacité de munitions des armes compatibles utilisant des munitions moyennes. Compatible avec : Arpeggio, Renegade, Venator, Tempest, Torrente",
+      "fr": "Augmente modérément la capacité de munitions des armes compatibles utilisant des munitions moyennes. Compatible avec : Arpège, Renégat, Venator, Tempête, Torrente",
       "es": "Extiende moderadamente la capacidad de munición de armas compatibles que usan munición mediana. Compatible con: Arpeggio, Renegade, Venator, Tempest, Torrente",
       "pt": "Estende moderadamente a capacidade de munição de armas compatíveis que usam munição média. Compatível com: Arpeggio, Renegade, Venator, Tempest, Torrente",
       "pl": "Umiarkowanie zwiększa pojemność amunicji kompatybilnej broni używającej średniej amunicji. Kompatybilny z: Arpeggio, Renegade, Venator, Tempest, Torrente",
@@ -20359,7 +20280,7 @@
     "description": {
       "en": "Used to craft weapons.",
       "de": "Wird zur Herstellung von Waffen verwendet.",
-      "fr": "Utilisé pour fabriquer des armes.",
+      "fr": "Permet de fabriquer des armes.",
       "es": "Usado para fabricar armas.",
       "pt": "Usado para fabricar armas.",
       "pl": "Używany do wytwarzania broni.",
@@ -20508,7 +20429,7 @@
     "name": {
       "en": "Kettle IV",
       "de": "Kettle IV",
-      "fr": "Kettle IV",
+      "fr": "Fondoir IV",
       "es": "Kettle IV",
       "pt": "Kettle IV",
       "pl": "Kettle IV",
@@ -20664,7 +20585,7 @@
     "name": {
       "en": "Kettle III",
       "de": "Kettle III",
-      "fr": "Kettle III",
+      "fr": "Fondoir III",
       "es": "Kettle III",
       "pt": "Kettle III",
       "pl": "Kettle III",
@@ -20830,10 +20751,7 @@
         "tr": "Yükseltme Değiştiricileri",
         "hr": "Modifikatori nadogradnje",
         "sr": "Modifikatori nadogradnje",
-        "value": [
-          "50% Increased Bullet Velocity",
-          "26% Reduced Reload Time"
-        ]
+        "value": ["50% Increased Bullet Velocity", "26% Reduced Reload Time"]
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
@@ -20961,7 +20879,7 @@
     "description": {
       "en": "Used to craft weapon mods. Can be recycled into crafting materials. Used to craft: Lightweight Stock, Shotgun Choke III, Extended Shotgun Mag III, Padded Stock, Compensator III",
       "de": "Wird zur Herstellung von Waffenmods verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Leichtgewichtkolben, Schrotflinten-Choke III, Erweitertes Schrotflinten-Magazin III, Gepolsterter Kolben, Kompensator III",
-      "fr": "Utilisé pour fabriquer des mods d'armes. Peut être recyclé en matériaux d'artisanat. Utilisé pour fabriquer : Crosse légère, Choke de fusil à pompe III, Chargeur de fusil à pompe étendu III, Crosse rembourrée, Compensateur III",
+      "fr": "Permet de fabriquer des mods d'armes. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Crosse légère, Choke de fusil à pompe III, Chargeur de fusil à pompe étendu III, Crosse rembourrée, Compensateur III",
       "es": "Se usa para fabricar modificaciones de armas. Se puede reciclar en materiales de fabricación. Se usa para fabricar: Culata ligera, Estrangulador de escopeta III, Cargador extendido de escopeta III, Culata acolchada, Compensador III",
       "pt": "Usado para fabricar modificações de armas. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Coronha leve, Choke de espingarda III, Carregador estendido de espingarda III, Coronha acolchoada, Compensador III",
       "pl": "Używane do wytwarzania modyfikacji broni. Można przetworzyć na materiały rzemieślnicze. Używane do wytworzenia: Lekka kolba, Zwężka strzelby III, Rozszerzony magazynek strzelby III, Wyściełana kolba, Kompensator III",
@@ -21749,7 +21667,7 @@
     "name": {
       "en": "Light Gun Parts Blueprint",
       "de": "Teile für Waffen mit leichter Munition Blaupause",
-      "fr": "Plan de pièces d'armes légères",
+      "fr": "Plan de pièces d'arme légère",
       "es": "Plano de piezas de armas ligeras",
       "pt": "Projeto de peças de armas leves",
       "pl": "Projekt lekkich części broni",
@@ -21895,7 +21813,7 @@
     "name": {
       "en": "Complex Gun Parts Blueprint",
       "de": "Komplexe Waffenteile Blaupause",
-      "fr": "Plan de pièces d'armes complexes",
+      "fr": "Plan de pièces d'arme complexes",
       "es": "Plano de piezas de armas complejas",
       "pt": "Projeto de peças de armas complexas",
       "pl": "Projekt złożonych części broni",
@@ -21915,7 +21833,7 @@
     "description": {
       "en": "Used to craft advanced weapons.",
       "de": "Wird zur Herstellung fortgeschrittener Waffen verwendet.",
-      "fr": "Utilisé pour fabriquer des armes avancées.",
+      "fr": "Permet de fabriquer des armes avancées.",
       "es": "Usado para fabricar armas avanzadas.",
       "pt": "Usado para fabricar armas avançadas.",
       "pl": "Używany do tworzenia zaawansowanej broni.",
@@ -22013,7 +21931,7 @@
     "description": {
       "en": "Used to craft explosives. Used to craft: Wolfpack, Explosive Mine, Blaze Grenade, Heavy Fuze Grenade",
       "de": "Wird zur Herstellung von Sprengstoffen verwendet. Wird verwendet für: Wolfpack, Sprengmine, Flammen-Granate, Schwere Zündgranate",
-      "fr": "Utilisé pour fabriquer des explosifs. Utilisé pour fabriquer : Wolfpack, mine explosive, grenade incendiaire, grenade à mèche lourde",
+      "fr": "Permet de fabriquer des explosifs. Permet de fabriquer : Wolfpack, mine explosive, grenade flamboyante, grenade à mèche lourde",
       "es": "Usado para fabricar explosivos. Usado para fabricar: Wolfpack, mina explosiva, granada incendiaria, granada de mecha pesada",
       "pt": "Usado para fabricar explosivos. Usado para fabricar: Wolfpack, mina explosiva, granada incendiária, granada de pavio pesado",
       "pl": "Używany do tworzenia materiałów wybuchowych. Używany do tworzenia: Wolfpack, mina wybuchowa, granat zapalający, ciężki granat zapalnikowy",
@@ -22452,7 +22370,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Herstellungsmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Może zostać przetworzony na materiały rzemieślnicze.",
@@ -22506,7 +22424,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Herstellungsmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Może zostać przetworzony na materiały rzemieślnicze.",
@@ -22563,7 +22481,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Herstellungsmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Puede reciclarse en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Może zostać przetworzony na materiały rzemieślnicze.",
@@ -22835,10 +22753,7 @@
     "recipe": {
       "fabric": 5
     },
-    "craftBench": [
-      "workbench",
-      "med_station"
-    ]
+    "craftBench": ["workbench", "med_station"]
   },
   {
     "id": "tagging_grenade",
@@ -22942,7 +22857,7 @@
     "name": {
       "en": "Looting Mk. 1",
       "de": "Plünderung Mk. 1",
-      "fr": "Pillage Mk. 1",
+      "fr": "Butin 1",
       "es": "Saqueo Mk. 1",
       "pt": "Saque Mk. 1",
       "pl": "Grabież Mk. 1",
@@ -23058,10 +22973,7 @@
       "rubber_parts": 6
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk1.png",
-    "craftBench": [
-      "equipment_bench",
-      "workbench"
-    ]
+    "craftBench": ["equipment_bench", "workbench"]
   },
   {
     "id": "muzzle_brake_i",
@@ -23088,7 +23000,7 @@
     "description": {
       "en": "Slightly reduces both vertical recoil & horizontal recoil. Compatible with: Rattler, Ferro, Burletta, Stitcher, Tempest",
       "de": "Reduziert sowohl vertikalen als auch horizontalen Rückstoß leicht. Kompatibel mit: Rattler, Ferro, Burletta, Stitcher, Tempest",
-      "fr": "Réduit légèrement le recul vertical et horizontal. Compatible avec : Rattler, Ferro, Burletta, Stitcher, Tempest",
+      "fr": "Réduit légèrement le recul vertical et horizontal. Compatible avec : Crotale, Ferro, Burletta, Sutureur, Tempête",
       "es": "Reduce ligeramente tanto el retroceso vertical como el horizontal. Compatible con: Rattler, Ferro, Burletta, Stitcher, Tempest",
       "pt": "Reduz ligeiramente tanto o recuo vertical quanto o horizontal. Compatível com: Rattler, Ferro, Burletta, Stitcher, Tempest",
       "pl": "Nieznacznie redukuje zarówno odrzut pionowy, jak i poziomy. Kompatybilny z: Rattler, Ferro, Burletta, Stitcher, Tempest",
@@ -23168,7 +23080,7 @@
     "name": {
       "en": "Rattler I",
       "de": "Rattler I",
-      "fr": "Rattler I",
+      "fr": "Crotale I",
       "es": "Rattler I",
       "pt": "Rattler I",
       "pl": "Rattler I",
@@ -23610,17 +23522,14 @@
       "metal_parts": 2,
       "plastic_parts": 5
     },
-    "craftBench": [
-      "workbench",
-      "weapon_bench"
-    ]
+    "craftBench": ["workbench", "weapon_bench"]
   },
   {
     "id": "looting_mk2",
     "name": {
       "en": "Looting Mk. 2",
       "de": "Plünderung Mk. 2",
-      "fr": "Pillage Mk. 2",
+      "fr": "Butin 2",
       "es": "Saqueo Mk. 2",
       "pt": "Saque Mk. 2",
       "pl": "Grabież Mk. 2",
@@ -23739,7 +23648,7 @@
     "name": {
       "en": "Looting Mk. 3 (Cautious)",
       "de": "Plünderung Mk. 3 (Vorsichtig)",
-      "fr": "Pillage Mk. 3 (Prudent)",
+      "fr": "Butin 3 (prudence)",
       "es": "Saqueo Mk. 3 (Cauteloso)",
       "pt": "Saque Mk. 3 (Cauteloso)",
       "pl": "Grabież Mk. 3 (Ostrożny)",
@@ -23878,7 +23787,7 @@
     "description": {
       "en": "Slightly reduces horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
       "de": "Reduziert den horizontalen Rückstoß leicht. Kompatibel mit: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
-      "fr": "Réduit légèrement le recul horizontal. Compatible avec : Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+      "fr": "Réduit légèrement le recul horizontal. Compatible avec : Tempête, Arpège, Fondoir, Ferro, Brise-fuselage",
       "es": "Reduce ligeramente el retroceso horizontal. Compatible con: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
       "pt": "Reduz ligeiramente o recuo horizontal. Compatível com: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
       "pl": "Nieznacznie zmniejsza odrzut poziomy. Kompatybilny z: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
@@ -24109,7 +24018,7 @@
     "description": {
       "en": "Slightly reduces vertical recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
       "de": "Reduziert den vertikalen Rückstoß leicht. Kompatibel mit: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
-      "fr": "Réduit légèrement le recul vertical. Compatible avec : Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+      "fr": "Réduit légèrement le recul vertical. Compatible avec : Tempête, Arpège, Fondoir, Ferro, Brise-fuselage",
       "es": "Reduce ligeramente el retroceso vertical. Compatible con: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
       "pt": "Reduz ligeiramente o recuo vertical. Compatível com: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
       "pl": "Nieznacznie zmniejsza odrzut pionowy. Kompatybilny z: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
@@ -24186,7 +24095,7 @@
     "description": {
       "en": "Moderately improves ADS & draw speed. Compatible with: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
       "de": "Verbessert ADS- und Ziehgeschwindigkeit mäßig. Kompatibel mit: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
-      "fr": "Améliore modérément la vitesse de visée et de dégainage. Compatible avec : Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
+      "fr": "Améliore modérément la vitesse de visée et de dégainage. Compatible avec : Arpège, Fondoir, Ferro, Renégat, Brise-fuselage",
       "es": "Mejora moderadamente la velocidad de apuntado y desenfunde. Compatible con: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
       "pt": "Melhora moderadamente a velocidade de mira e saque. Compatível com: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
       "pl": "Umiarkowanie poprawia szybkość celowania i dobywania. Kompatybilny z: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
@@ -24509,7 +24418,7 @@
     "description": {
       "en": "Anti-ARC payloads used mainly by the Hullcracker. Compatible with: Hullcracker",
       "de": "Anti-ARC-Geschosse, die hauptsächlich vom Hullcracker verwendet werden. Kompatibel mit: Hullcracker",
-      "fr": "Charges anti-ARC utilisées principalement par le Hullcracker. Compatible avec : Hullcracker",
+      "fr": "Charges anti-ARC utilisées principalement par le Brise-fuselage. Compatible avec : Brise-fuselage",
       "es": "Cargas anti-ARC usadas principalmente por el Hullcracker. Compatible con: Hullcracker",
       "pt": "Cargas anti-ARC usadas principalmente pelo Hullcracker. Compatível com: Hullcracker",
       "pl": "Ładunki przeciw-ARC używane głównie przez Hullcracker. Kompatybilny z: Hullcracker",
@@ -24544,7 +24453,7 @@
     "name": {
       "en": "Shotgun Ammo",
       "de": "Schrotflinten-Munition",
-      "fr": "Munitions de fusil à pompe",
+      "fr": "Cartouches de pompe",
       "es": "Munición de escopeta",
       "pt": "Munição de espingarda",
       "pl": "Amunicja do strzelby",
@@ -24648,7 +24557,7 @@
     "name": {
       "en": "Anvil Blueprint",
       "de": "Anvil-Blaupause",
-      "fr": "Plan d'Anvil",
+      "fr": "Plan d'Enclume",
       "es": "Plano de Anvil",
       "pt": "Projeto de Anvil",
       "pl": "Projekt Anvil",
@@ -24697,7 +24606,7 @@
     "name": {
       "en": "Osprey Blueprint",
       "de": "Osprey-Blaupause",
-      "fr": "Plan d'Osprey",
+      "fr": "Plan de Balbuzard",
       "es": "Plano de Osprey",
       "pt": "Projeto de Osprey",
       "pl": "Projekt Osprey",
@@ -25222,7 +25131,7 @@
     "name": {
       "en": "Ruined Parachute",
       "de": "Ruinierter Fallschirm",
-      "fr": "Parachute en ruine",
+      "fr": "Parachute cassé",
       "es": "Paracaídas arruinado",
       "pt": "Paraquedas arruinado",
       "pl": "Zrujnowany spadochron",
@@ -25345,7 +25254,7 @@
     "description": {
       "en": "Significantly reduces the amount of noise produced when firing. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Renegade",
       "de": "Reduziert die beim Schießen erzeugte Geräuschmenge erheblich. Kompatibel mit: Tempest, Arpeggio, Kettle, Ferro, Renegade",
-      "fr": "Réduit considérablement le bruit produit lors du tir. Compatible avec : Tempest, Arpeggio, Kettle, Ferro, Renegade",
+      "fr": "Réduit considérablement le bruit produit lors du tir. Compatible avec : Tempête, Arpège, Fondoir, Ferro, Renégat",
       "es": "Reduce significativamente la cantidad de ruido producido al disparar. Compatible con: Tempest, Arpeggio, Kettle, Ferro, Renegade",
       "pt": "Reduz significativamente a quantidade de ruído produzido ao disparar. Compatível com: Tempest, Arpeggio, Kettle, Ferro, Renegade",
       "pl": "Znacznie zmniejsza ilość hałasu wytwarzanego podczas strzelania. Kompatybilny z: Tempest, Arpeggio, Kettle, Ferro, Renegade",
@@ -25366,13 +25275,7 @@
     "rarity": "Epic",
     "value": 7000,
     "weightKg": 0.75,
-    "compatibleWith": [
-      "Arpeggio",
-      "Rattler",
-      "Ferro",
-      "Anvil",
-      "Torrente"
-    ],
+    "compatibleWith": ["Arpeggio", "Rattler", "Ferro", "Anvil", "Torrente"],
     "effects": {
       "Reduced Noise": {
         "en": "Reduced Noise",
@@ -27223,7 +27126,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Herstellungsmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Se puede reciclar en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały do wytwarzania.",
@@ -27281,7 +27184,7 @@
     "description": {
       "en": "Can be recycled into crafting materials.",
       "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
       "es": "Se puede reciclar en materiales de fabricación.",
       "pt": "Pode ser reciclado em materiais de fabricação.",
       "pl": "Można przetworzyć na materiały rzemieślnicze.",
@@ -27386,7 +27289,7 @@
     "description": {
       "en": "Significantly reduces vertical recoil. Compatible with: Tempest, Kettle, Hullcracker, Venator, Il Toro",
       "de": "Reduziert den vertikalen Rückstoß erheblich. Kompatibel mit: Tempest, Kettle, Hullcracker, Venator, Il Toro",
-      "fr": "Réduit considérablement le recul vertical. Compatible avec : Tempest, Kettle, Hullcracker, Venator, Il Toro",
+      "fr": "Réduit considérablement le recul vertical. Compatible avec : Tempête, Fondoir, Brise-fuselage, Venator, Il Toro",
       "es": "Reduce significativamente el retroceso vertical. Compatible con: Tempest, Kettle, Hullcracker, Venator, Il Toro",
       "pt": "Reduz significativamente o recuo vertical. Compatível com: Tempest, Kettle, Hullcracker, Venator, Il Toro",
       "pl": "Znacznie zmniejsza pionowy odrzut. Kompatybilny z: Tempest, Kettle, Hullcracker, Venator, Il Toro",
