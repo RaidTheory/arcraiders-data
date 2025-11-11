@@ -2643,12 +2643,15 @@
     "rarity": "Uncommon",
     "value": 1000,
     "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "11/10/2025",
     "recipe": {
       "speaker_component": 1,
       "electrical_components": 1
     },
-    "craftBench": "utility_bench"
+    "craftBench": "utility_bench",
+    "recyclesInto": {
+      "speaker_component": 1
+    }
   },
   {
     "id": "ferro_iv",
@@ -15921,7 +15924,7 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/shield_recharger.png",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "11/10/2025",
     "recipe": {
       "rubber_parts": 5,
       "arc_powercell": 1
@@ -15929,7 +15932,10 @@
     "craftBench": [
       "workbench",
       "med_station"
-    ]
+    ],
+    "recyclesInto": {
+      "rubber_parts": 4
+    }
   },
   {
     "id": "lil_smoke_grenade",
@@ -22118,7 +22124,11 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/shotgun_silencer.png",
-    "updatedAt": "11/02/2025"
+    "updatedAt": "11/10/2025",
+    "recyclesInto": {
+      "mod_components": 1,
+      "wires": 1
+    }
   },
   {
     "id": "il_toro_ii",
@@ -24319,12 +24329,16 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/lightweight_stock.png",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "11/10/2025",
     "recipe": {
       "mod_components": 2,
       "duct_tape": 5
     },
-    "craftBench": "weapon_bench"
+    "craftBench": "weapon_bench",
+    "recyclesInto": {
+      "mod_components": 1,
+      "duct_tape": 1
+    }
   },
   {
     "id": "bettina_i",
@@ -24480,13 +24494,17 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/bettina.png",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "11/11/2025",
     "recipe": {
       "advanced_mechanical_components": 3,
       "heavy_gun_parts": 3,
       "canister": 3
     },
-    "craftBench": "weapon_bench"
+    "craftBench": "weapon_bench",
+    "recyclesInto": {
+      "advanced_mechanical_components": 1,
+      "heavy_gun_parts": 2
+    }
   },
   {
     "id": "launcher_ammo",
