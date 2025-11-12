@@ -544,7 +544,7 @@
       "sr": "Metalni Delovi"
     },
     "description": {
-      "en": "Used to craft a wide range of items. Used to craft: Launcher Ammo, Hairpin, Heavy Ammo, Ferro, Kettle",
+      "en": "Used to craft a wide range of items.",
       "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Wird verwendet für: Werfermunition, Haarnadel, Schwere Munition, Ferro, Kessel",
       "fr": "Permet de fabriquer une large gamme d'objets. Permet de fabriquer : Munitions de lanceur, Épingle à cheveux, Munitions lourdes, Ferro, Fondoir",
       "es": "Se usa para fabricar una amplia gama de objetos. Se usa para fabricar: Munición de lanzador, Horquilla, Munición pesada, Ferro, Tetera",
@@ -567,7 +567,7 @@
     "rarity": "Common",
     "value": 75,
     "recyclesInto": {},
-    "weightKg": 0.15,
+    "weightKg": 0.1,
     "stackSize": 50,
     "foundIn": "Mechanical, Industrial, Electrical, Technological",
     "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png",
@@ -5058,10 +5058,13 @@
     "recyclesInto": {
       "metal_parts": 2
     },
+    "salvagesInto": {
+      "metal_parts": 1
+    },
     "foundIn": "Technological, Electrical",
     "stackSize": 15,
     "weightKg": 0.25,
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/11/2025"
   },
   {
     "id": "sensors",
@@ -5425,6 +5428,9 @@
     "value": 1000,
     "recyclesInto": {
       "metal_parts": 12
+    },
+    "salvagesInto": {
+      "metal_parts": 7
     },
     "description": {
       "en": "Can be recycled into crafting materials.",
@@ -5824,7 +5830,8 @@
     "weightKg": 2.0,
     "stackSize": 3,
     "foundIn": "Security",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/11/2025",
+    "imageFilename": "https://cdn.arctracker.io/items/broken_taser.png"
   },
   {
     "id": "cooling_coil",
@@ -9289,7 +9296,7 @@
       "sr": "Vredi malo bogatstvo."
     },
     "type": "Trinket",
-    "value": 1,
+    "value": 3000,
     "recyclesInto": {},
     "updatedAt": "11/04/2025",
     "rarity": "Rare",
@@ -12842,7 +12849,7 @@
       "plastic_parts": 3,
       "rubber_parts": 3
     },
-    "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
+    "imageFilename": "https://cdn.arctracker.io/items/combat_mk1.png",
     "updatedAt": "11/03/2025",
     "weightKg": 2.0,
     "effects": {
@@ -24509,7 +24516,7 @@
     "stackSize": 3,
     "foundIn": "Old World, Residential",
     "imageFilename": "https://cdn.arctracker.io/items/rosary.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/11/2025"
   },
   {
     "id": "damaged_wasp_driver",
@@ -24920,57 +24927,6 @@
     "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_ii_blueprint.png",
     "rarity": "Common",
     "updatedAt": "11/04/2025"
-  },
-  {
-    "id": "rosary",
-    "name": {
-      "en": "Rosary",
-      "de": "Rosenkranz",
-      "fr": "Chapelet",
-      "es": "Rosario",
-      "pt": "Rosário",
-      "pl": "Różaniec",
-      "no": "Rosenkrans",
-      "da": "Rosenkrans",
-      "it": "Rosario",
-      "ja": "ロザリオ",
-      "kr": "묵주",
-      "zh-CN": "念珠",
-      "zh-TW": "念珠",
-      "ru": "Чётки",
-      "tr": "Tespih",
-      "uk": "Чотки",
-      "hr": "Krunica",
-      "sr": "Brojanica"
-    },
-    "description": {
-      "en": "May be worth a few coins.",
-      "de": "Könnte ein paar Münzen wert sein.",
-      "fr": "Pourrait valoir quelques pièces.",
-      "es": "Puede valer unas cuantas monedas.",
-      "pt": "Pode valer algumas moedas.",
-      "pl": "Może być warte kilka monet.",
-      "no": "Kan være verdt noen mynter.",
-      "da": "Kan være et par mønter værd.",
-      "it": "Potrebbe valere qualche moneta.",
-      "ja": "数枚のコインの価値があるかもしれない。",
-      "kr": "몇 코인의 가치가 있을 수 있습니다.",
-      "zh-CN": "可能值几个硬币。",
-      "zh-TW": "可能值幾個硬幣。",
-      "ru": "Может стоить несколько монет.",
-      "tr": "Birkaç madeni paraya değer olabilir.",
-      "uk": "Може коштувати кілька монет.",
-      "hr": "Mogla bi vrijediti nekoliko novčića.",
-      "sr": "Mogla bi vredeti nekoliko novčića."
-    },
-    "type": "Trinket",
-    "rarity": "Rare",
-    "value": 2000,
-    "recyclesInto": {},
-    "weightKg": 0.3,
-    "stackSize": 3,
-    "foundIn": "Old World, Residential",
-    "updatedAt": "11/05/2025"
   },
   {
     "id": "anvil_i",
@@ -27703,7 +27659,7 @@
 }
 ,
   {
-    "id": "celestes_journal",
+    "id": "celeste_journal",
     "name": {
       "en": "Celeste's Journal",
       "de": "Celestes Tagebuch",
