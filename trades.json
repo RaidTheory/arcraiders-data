@@ -1,0 +1,912 @@
+[
+  {
+    "trader": "Celeste",
+    "itemId": "chemicals",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 1
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "fabric",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 1
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "metal_parts",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 1
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "plastic_parts",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 1
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "rubber_parts",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 1
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "complex_gun_parts",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 60
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "exodus_modules",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 55
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "heavy_gun_parts",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 15
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "medium_gun_parts",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 15
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "light_gun_parts",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 15
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "moss",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 10
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "processors",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 10
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "rope",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 10
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "sensors",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 10
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "speaker_component",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 10
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "synthesized_fuel",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 14
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "syringe",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 10
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "voltage_converter",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 10
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "battery",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 5
+    },
+    "dailyLimit": 10
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "canister",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 6
+    },
+    "dailyLimit": 10
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "duct_tape",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 6
+    },
+    "dailyLimit": 10
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "great_mullein",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 5
+    },
+    "dailyLimit": 10
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "magnets",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 6
+    },
+    "dailyLimit": 10
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "oil",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 6
+    },
+    "dailyLimit": 10
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "simple_gun_parts",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 7
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "spring",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 6
+    },
+    "dailyLimit": 10
+  },
+  {
+    "trader": "Celeste",
+    "itemId": "wires",
+    "quantity": 1,
+    "cost": {
+      "itemId": "assorted_seeds",
+      "quantity": 4
+    },
+    "dailyLimit": 10
+  },
+  {
+    "trader": "Shani",
+    "itemId": "binoculars",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Shani",
+    "itemId": "raider_hatch_key",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 9000
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "ferro_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1425
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "hairpin_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1350
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "kettle_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 2520
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "stitcher_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 2400
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "energy_clip",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 3000
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "launcher_ammo",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 3000
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "hullcracker_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 30000
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "renegade_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 21000
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "anvil_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 15000
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "burletta_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 8700
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "il_toro_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 15000
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "angled_grip_iii",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 15000
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "extended_light_mag_ii",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 6000
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "shotgun_choke_ii",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 6000
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "angled_grip_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "compensator_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "extended_light_mag_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "extended_medium_mag_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "extended_shotgun_mag_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "muzzle_brake_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "shotgun_choke_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "stable_stock_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "vertical_grip_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "heavy_ammo",
+    "quantity": 10,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 900
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "light_ammo",
+    "quantity": 25,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 900
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "medium_ammo",
+    "quantity": 20,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 900
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "shotgun_ammo",
+    "quantity": 5,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 900
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "blue_light_stick",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 450
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "green_light_stick",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 450
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "orange_light_stick",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 450
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "yellow_light_stick",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 450
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "light_impact_grenade",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 810
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "remote_raider_flare",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 810
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "recorder",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 3000
+    },
+    "dailyLimit": 6
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "noisemaker",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 6
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "heavy_fuze_grenade",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 4800
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "smoke_grenade",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 2400
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "snap_blast_grenade",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 2400
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "gas_grenade",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 810
+    },
+    "dailyLimit": 6
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "jolt_mine",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 2550
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "zipline",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 3000
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "barricade_kit",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 6
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "door_blocker",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 810
+    },
+    "dailyLimit": 6
+  },
+  {
+    "trader": "Lance",
+    "itemId": "looting_mk1",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Lance",
+    "itemId": "tactical_mk1",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Lance",
+    "itemId": "combat_mk1",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Lance",
+    "itemId": "light_shield",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Lance",
+    "itemId": "defibrillator",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 3000
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Lance",
+    "itemId": "shield_recharger",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1560
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Lance",
+    "itemId": "adrenaline_shot",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 900
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Lance",
+    "itemId": "bandage",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 750
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Lance",
+    "itemId": "looting_mk2",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 6000
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Lance",
+    "itemId": "tactical_mk2",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 6000
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Lance",
+    "itemId": "combat_mk2",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 6000
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Lance",
+    "itemId": "heavy_shield",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 16500
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Lance",
+    "itemId": "medium_shield",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 6000
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Lance",
+    "itemId": "sterilized_bandage",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 6000
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Lance",
+    "itemId": "surge_shield_recharger",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 3600
+    },
+    "dailyLimit": 5
+  },
+  {
+    "trader": "Lance",
+    "itemId": "herbal_bandage",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 2700
+    },
+    "dailyLimit": 10
+  },
+  {
+    "trader": "Lance",
+    "itemId": "looting_mk1",
+    "quantity": 1,
+    "cost": {
+      "itemId": "free_loadout_augment",
+      "quantity": 1
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Lance",
+    "itemId": "tactical_mk1",
+    "quantity": 1,
+    "cost": {
+      "itemId": "free_loadout_augment",
+      "quantity": 1
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Lance",
+    "itemId": "combat_mk1",
+    "quantity": 1,
+    "cost": {
+      "itemId": "free_loadout_augment",
+      "quantity": 1
+    },
+    "dailyLimit": null
+  }
+]
