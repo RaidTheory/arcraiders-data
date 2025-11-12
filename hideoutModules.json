@@ -1,0 +1,654 @@
+[
+  {
+    "id": "scrappy",
+    "name": {
+      "en": "Scrappy",
+      "de": "Scrappy",
+      "fr": "Coquillard",
+      "es": "Scrappy",
+      "pt": "Scrappy",
+      "pl": "Scrappy",
+      "no": "Scrappy",
+      "da": "Scrappy",
+      "ru": "Старьевщик",
+      "ja": "スクラップ屋",
+      "it": "Rottamaio",
+      "kr": "고물상",
+      "zh-CN": "废品回收站",
+      "zh-TW": "廢品回收站",
+      "uk": "Старганщик",
+      "tr": "Hurda Tezgahı",
+      "hr": "Otpadnik",
+      "sr": "Otpadnik"
+    },
+    "maxLevel": 5,
+    "levels": [
+      {
+        "level": 1,
+        "requirementItemIds": []
+      },
+      {
+        "level": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "dog_collar",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "lemon",
+            "quantity": 3
+          },
+          {
+            "itemId": "apricot",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "requirementItemIds": [
+          {
+            "itemId": "prickly_pear",
+            "quantity": 6
+          },
+          {
+            "itemId": "olives",
+            "quantity": 6
+          },
+          {
+            "itemId": "cat_bed",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "requirementItemIds": [
+          {
+            "itemId": "mushroom",
+            "quantity": 12
+          },
+          {
+            "itemId": "apricot",
+            "quantity": 12
+          },
+          {
+            "itemId": "very_comfortable_pillow",
+            "quantity": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "workbench",
+    "name": {
+      "en": "Workbench",
+      "de": "Werkbank",
+      "fr": "Établi",
+      "es": "Banco de trabajo",
+      "pt": "Bancada de trabalho",
+      "pl": "Stół warsztatowy",
+      "no": "Arbeidsbenk",
+      "da": "Arbejdsbænk",
+      "ru": "Верстак",
+      "ja": "作業台",
+      "it": "Banco da Lavoro",
+      "kr": "작업대",
+      "zh-CN": "工作台",
+      "zh-TW": "工作台",
+      "uk": "Верстат",
+      "tr": "Çalışma Tezgahı",
+      "hr": "Radni Stol",
+      "sr": "Radni Sto"
+    },
+    "maxLevel": 0,
+    "levels": []
+  },
+  {
+    "id": "weapon_bench",
+    "name": {
+      "en": "Gunsmith",
+      "de": "Waffenschmied",
+      "fr": "Armurier",
+      "es": "Armero",
+      "pt": "Armeiro",
+      "pl": "Rusznikarz",
+      "no": "Våpenmaker",
+      "da": "Våbensmed",
+      "ru": "Оружейная",
+      "ja": "ガンスミス",
+      "it": "Armaiolo",
+      "kr": "총기 제작대",
+      "zh-CN": "枪械工坊",
+      "zh-TW": "槍械工坊",
+      "uk": "Зброярня",
+      "tr": "Silah Tezgahı",
+      "hr": "Oružar",
+      "sr": "Oružar"
+    },
+    "maxLevel": 3,
+    "levels": [
+      {
+        "level": 1,
+        "requirementItemIds": [
+          {
+            "itemId": "metal_parts",
+            "quantity": 20
+          },
+          {
+            "itemId": "rubber_parts",
+            "quantity": 30
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "rusted_tools",
+            "quantity": 3
+          },
+          {
+            "itemId": "mechanical_components",
+            "quantity": 5
+          },
+          {
+            "itemId": "wasp_driver",
+            "quantity": 8
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "rusted_gear",
+            "quantity": 3
+          },
+          {
+            "itemId": "advanced_mechanical_components",
+            "quantity": 5
+          },
+          {
+            "itemId": "sentinel_firing_core",
+            "quantity": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "equipment_bench",
+    "name": {
+      "en": "Gear Bench",
+      "de": "Ausrüstungsbank",
+      "fr": "Établi à matériel",
+      "es": "Banco de equipo",
+      "pt": "Bancada de equipamento",
+      "pl": "Stół ekwipunku",
+      "no": "Utstyrsbenk",
+      "da": "Udstyrsbænk",
+      "ru": "Снаряжение",
+      "ja": "装備台",
+      "it": "Banco Equipaggiamento",
+      "kr": "장비 제작대",
+      "zh-CN": "装备工作台",
+      "zh-TW": "裝備工作台",
+      "uk": "Спорядження",
+      "tr": "Ekipman Tezgahı",
+      "hr": "Stol za Opremu",
+      "sr": "Sto za Opremu"
+    },
+    "maxLevel": 3,
+    "levels": [
+      {
+        "level": 1,
+        "requirementItemIds": [
+          {
+            "itemId": "plastic_parts",
+            "quantity": 25
+          },
+          {
+            "itemId": "fabric",
+            "quantity": 30
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "power_cable",
+            "quantity": 3
+          },
+          {
+            "itemId": "electrical_components",
+            "quantity": 5
+          },
+          {
+            "itemId": "hornet_driver",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "industrial_battery",
+            "quantity": 3
+          },
+          {
+            "itemId": "advanced_electrical_components",
+            "quantity": 5
+          },
+          {
+            "itemId": "bastion_cell",
+            "quantity": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "med_station",
+    "name": {
+      "en": "Medical Lab",
+      "de": "Medizinisches Labor",
+      "fr": "Laboratoire Médical",
+      "es": "Laboratorio médico",
+      "pt": "Laboratório médico",
+      "pl": "Laboratorium medyczne",
+      "no": "Medisinsk laboratorium",
+      "da": "Medicinsk laboratorium",
+      "ru": "Медицинская лаборатория",
+      "ja": "医療ラボ",
+      "it": "Laboratorio Medico",
+      "kr": "의료실",
+      "zh-CN": "医疗站",
+      "zh-TW": "醫療站",
+      "uk": "Медична лабораторія",
+      "tr": "Tıbbi Laboratuvar",
+      "hr": "Medicinski Laboratorij",
+      "sr": "Medicinska Laboratorija"
+    },
+    "maxLevel": 3,
+    "levels": [
+      {
+        "level": 1,
+        "requirementItemIds": [
+          {
+            "itemId": "fabric",
+            "quantity": 50
+          },
+          {
+            "itemId": "arc_alloy",
+            "quantity": 6
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "cracked_bioscanner",
+            "quantity": 2
+          },
+          {
+            "itemId": "durable_cloth",
+            "quantity": 5
+          },
+          {
+            "itemId": "tick_pod",
+            "quantity": 8
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "rusted_shut_medical_kit",
+            "quantity": 3
+          },
+          {
+            "itemId": "antiseptic",
+            "quantity": 8
+          },
+          {
+            "itemId": "surveyor_vault",
+            "quantity": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "explosives_bench",
+    "name": {
+      "en": "Explosives Station",
+      "de": "Sprengstoffstation",
+      "fr": "Station à explosifs",
+      "es": "Estación de explosivos",
+      "pt": "Estação de explosivos",
+      "pl": "Stacja materiałów wybuchowych",
+      "no": "Eksplosivstasjon",
+      "da": "Sprængstofstation",
+      "ru": "Станция взрывчатки",
+      "ja": "爆発物ステーション",
+      "it": "Stazione Esplosivi",
+      "kr": "폭발물 제작소",
+      "zh-CN": "爆炸物工作站",
+      "zh-TW": "爆裂物工作站",
+      "uk": "Станція вибухівки",
+      "tr": "Patlayıcı İstasyonu",
+      "hr": "Stanica za eksploziv",
+      "sr": "Stanica za eksploziv"
+    },
+    "maxLevel": 3,
+    "levels": [
+      {
+        "level": 1,
+        "requirementItemIds": [
+          {
+            "itemId": "rubber_parts",
+            "quantity": 50
+          },
+          {
+            "itemId": "arc_alloy",
+            "quantity": 6
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "synthesized_fuel",
+            "quantity": 3
+          },
+          {
+            "itemId": "crude_explosives",
+            "quantity": 5
+          },
+          {
+            "itemId": "pop_trigger",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "laboratory_reagents",
+            "quantity": 3
+          },
+          {
+            "itemId": "explosive_compound",
+            "quantity": 5
+          },
+          {
+            "itemId": "rocketeer_driver",
+            "quantity": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "utility_bench",
+    "name": {
+      "en": "Utility Station",
+      "de": "Gebrauchstgegenstand-Station",
+      "fr": "Station utilitaire",
+      "es": "Estación de utilidad",
+      "pt": "Estação utilitária",
+      "pl": "Stacja użytkowa",
+      "no": "Verktøystasjon",
+      "da": "Værktøjsstation",
+      "ru": "Станция снаряжения",
+      "ja": "ユーティリティステーション",
+      "it": "Stazione Utilità",
+      "kr": "유틸리티 제작소",
+      "zh-CN": "实用工具站",
+      "zh-TW": "實用工具站",
+      "uk": "Станція спорядження",
+      "tr": "Ekipman İstasyonu",
+      "hr": "Pomoćna stanica",
+      "sr": "Pomoćna stanica"
+    },
+    "maxLevel": 3,
+    "levels": [
+      {
+        "level": 1,
+        "requirementItemIds": [
+          {
+            "itemId": "plastic_parts",
+            "quantity": 50
+          },
+          {
+            "itemId": "arc_alloy",
+            "quantity": 6
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "damaged_heat_sink",
+            "quantity": 2
+          },
+          {
+            "itemId": "electrical_components",
+            "quantity": 5
+          },
+          {
+            "itemId": "snitch_scanner",
+            "quantity": 6
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "fried_motherboard",
+            "quantity": 3
+          },
+          {
+            "itemId": "advanced_electrical_components",
+            "quantity": 5
+          },
+          {
+            "itemId": "leaper_pulse_unit",
+            "quantity": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "refiner",
+    "name": {
+      "en": "Refiner",
+      "de": "Veredler",
+      "fr": "Raffineur",
+      "es": "Refinería",
+      "pt": "Refinaria",
+      "pl": "Rafineria",
+      "no": "Raffineri",
+      "da": "Raffinaderi",
+      "ru": "Очиститель",
+      "ja": "精製所",
+      "it": "Raffineria",
+      "kr": "정제소",
+      "zh-CN": "精炼站",
+      "zh-TW": "精煉站",
+      "uk": "Очисник",
+      "tr": "Rafine Ünitesi",
+      "hr": "Rafinerija",
+      "sr": "Rafinerija"
+    },
+    "maxLevel": 3,
+    "levels": [
+      {
+        "level": 1,
+        "requirementItemIds": [
+          {
+            "itemId": "metal_parts",
+            "quantity": 60
+          },
+          {
+            "itemId": "arc_powercell",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "toaster",
+            "quantity": 3
+          },
+          {
+            "itemId": "arc_motion_core",
+            "quantity": 5
+          },
+          {
+            "itemId": "fireball_burner",
+            "quantity": 8
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "motor",
+            "quantity": 3
+          },
+          {
+            "itemId": "arc_circuitry",
+            "quantity": 10
+          },
+          {
+            "itemId": "bombardier_cell",
+            "quantity": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stash",
+    "name": {
+      "en": "Stash",
+      "de": "Lager",
+      "fr": "Réserve",
+      "es": "Alijo",
+      "pt": "Esconderijo",
+      "pl": "Schowek",
+      "no": "Oppbevaring",
+      "da": "Opbevaring",
+      "it": "Deposito",
+      "ja": "保管庫",
+      "kr": "보관함",
+      "zh-CN": "储藏箱",
+      "zh-TW": "儲藏箱",
+      "ru": "Тайник",
+      "tr": "Depo",
+      "uk": "Схованка",
+      "hr": "Skladište",
+      "sr": "Skladište"
+    },
+    "maxLevel": 10,
+    "levels": [
+      {
+        "level": 1,
+        "requirementItemIds": [],
+        "description": "64 slots"
+      },
+      {
+        "level": 2,
+        "requirementItemIds": [],
+        "otherRequirements": [
+          "5000 Coins"
+        ],
+        "description": "+24 slots (88 total)"
+      },
+      {
+        "level": 3,
+        "requirementItemIds": [],
+        "otherRequirements": [
+          "10000 Coins"
+        ],
+        "description": "+24 slots (112 total)"
+      },
+      {
+        "level": 4,
+        "requirementItemIds": [],
+        "otherRequirements": [
+          "15000 Coins"
+        ],
+        "description": "+24 slots (136 total)"
+      },
+      {
+        "level": 5,
+        "requirementItemIds": [],
+        "otherRequirements": [
+          "25000 Coins"
+        ],
+        "description": "+24 slots (160 total)"
+      },
+      {
+        "level": 6,
+        "requirementItemIds": [],
+        "otherRequirements": [
+          "40000 Coins"
+        ],
+        "description": "+24 slots (184 total)"
+      },
+      {
+        "level": 7,
+        "requirementItemIds": [],
+        "otherRequirements": [
+          "60000 Coins"
+        ],
+        "description": "+24 slots (208 total)"
+      },
+      {
+        "level": 8,
+        "requirementItemIds": [],
+        "otherRequirements": [
+          "90000 Coins"
+        ],
+        "description": "+24 slots (232 total)"
+      },
+      {
+        "level": 9,
+        "requirementItemIds": [],
+        "otherRequirements": [
+          "130000 Coins"
+        ],
+        "description": "+24 slots (256 total)"
+      },
+      {
+        "level": 10,
+        "requirementItemIds": [],
+        "otherRequirements": [
+          "200000 Coins"
+        ],
+        "description": "+24 slots (280 total)"
+      }
+    ]
+  }
+]
