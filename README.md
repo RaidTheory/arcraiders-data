@@ -10,6 +10,7 @@ The repository includes structured JSON data for:
 - Skill Nodes
 - Hideout Modules
 - Projects
+- Trader Shops
 
 Item images in this repository are AI-upscaled versions created from in-game screenshots to provide higher quality assets for community tools.
 
