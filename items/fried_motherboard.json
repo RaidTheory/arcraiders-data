@@ -43,13 +43,14 @@
   "type": "Recyclable",
   "rarity": "Rare",
   "value": 1000,
+  "foundIn": "Technological",
   "recyclesInto": {
     "plastic_parts": 5,
-    "electrical_components": 1
+    "electrical_components": 2
   },
   "salvagesInto": {
     "wires": 5
   },
   "imageFilename": "https://cdn.arctracker.io/items/fried_motherboard.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/13/2025"
 }

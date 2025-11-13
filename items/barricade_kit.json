@@ -69,8 +69,17 @@
       "hr": "Zdravlje",
       "sr": "Zdravlje",
       "value": 500
+    },
+    "Duration": {
+      "en": "Duration",
+      "value": "500 Health"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/barricade_kit.png",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "11/13/2025",
+  "recipe": {
+    "mechanical_components": 1
+  },
+  "craftBench": "utility_bench",
+  "stationLevelRequired": 1
 }
