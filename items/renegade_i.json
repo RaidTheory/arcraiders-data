@@ -21,7 +21,7 @@
     "sr": "Renegade I"
   },
   "description": {
-    "en": "Has high damage output, accuracy, and headshot damage.",
+    "en": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
     "de": "Hat hohe Schadensleistung, Genauigkeit und Kopfschussschaden.",
     "fr": "Possède des dégâts élevés, une bonne précision et des dégâts de tir à la tête importants.",
     "es": "Tiene alta potencia de daño, precisión y daño por disparo a la cabeza.",
@@ -40,7 +40,7 @@
     "hr": "Ima visoku štetu, preciznost i štetu od pogotka u glavu.",
     "sr": "Ima visoku štetu, preciznost i štetu od pogotka u glavu."
   },
-  "type": "Weapon",
+  "type": "Battle Rifle",
   "rarity": "Rare",
   "effects": {
     "Durability": {
@@ -152,11 +152,12 @@
   "value": 7000,
   "weightKg": 10.0,
   "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
-  "updatedAt": "10/30/2025",
+  "updatedAt": "11/12/2025",
   "recipe": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 3,
     "oil": 5
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3
 }

@@ -40,7 +40,7 @@
     "hr": "Ispaljuje eksplozivne projektile koji detoniraju samo pri pogotku ARC-a.",
     "sr": "Ispaljuje eksplozivne projektile koji detoniraju samo pri pogotku ARC-a."
   },
-  "type": "Weapon",
+  "type": "Special",
   "rarity": "Epic",
   "value": 10000,
   "stackSize": 1,
@@ -153,11 +153,12 @@
   },
   "weightKg": 7.0,
   "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/12/2025",
   "recipe": {
     "magnetic_accelerator": 1,
     "heavy_gun_parts": 3,
     "exodus_modules": 1
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3
 }

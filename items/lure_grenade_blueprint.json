@@ -43,13 +43,7 @@
   "type": "Blueprint",
   "value": 5000,
   "weightKg": 0.0,
-  "rarity": "Common",
-  "station": "utility_bench",
-  "benchLevel": 2,
-  "crafting": {
-    "speaker_component": 5,
-    "electrical_components": 9
-  },
+  "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_blueprint.png",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "11/12/2025"
 }

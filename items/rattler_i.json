@@ -2,26 +2,26 @@
   "id": "rattler_i",
   "name": {
     "en": "Rattler I",
-    "de": "Rattler I",
     "fr": "Crotale I",
-    "es": "Rattler I",
-    "pt": "Rattler I",
-    "pl": "Rattler I",
-    "no": "Rattler I",
-    "da": "Rattler I",
     "it": "Rattler I",
-    "ru": "Гремучка I",
-    "ja": "ラトラー I",
+    "da": "Rattler I",
+    "uk": "Rattler I",
     "zh-TW": "響尾蛇 I",
-    "uk": "Гримуча I",
+    "pt": "Rattler I",
+    "ru": "Rattler I",
+    "de": "Rattler I",
     "zh-CN": "响尾蛇 I",
-    "kr": "래틀러 I",
+    "no": "Rattler I",
     "tr": "Rattler I",
-    "hr": "Rattler I",
-    "sr": "Rattler I"
+    "es": "Rattler I",
+    "sr": "Rattler I",
+    "ja": "ラトラー I",
+    "kr": "래틀러 I",
+    "pl": "Rattler I",
+    "hr": "Rattler I"
   },
   "description": {
-    "en": "A cheap offensive option, but has to be reloaded 2 bullets at a time.",
+    "en": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
     "de": "Eine günstige Offensivoption, muss aber 2 Kugeln gleichzeitig nachgeladen werden.",
     "fr": "Une option offensive bon marché, mais doit être rechargée 2 balles à la fois.",
     "es": "Una opción ofensiva económica, pero debe recargarse de 2 balas a la vez.",
@@ -40,7 +40,7 @@
     "hr": "Jeftina ofenzivna opcija, ali se mora puniti po 2 metka odjednom.",
     "sr": "Jeftina ofanzivna opcija, ali se mora puniti po 2 metka odjednom."
   },
-  "type": "Weapon",
+  "type": "Assault Rifle",
   "rarity": "Common",
   "value": 1750,
   "recyclesInto": {
@@ -154,11 +154,12 @@
       "value": "Moderate"
     }
   },
-  "updatedAt": "11/04/2025",
-  "imageFilename": "https://cdn.arctracker.io/items/rattler_i.png",
+  "updatedAt": "11/12/2025",
+  "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
   "recipe": {
     "metal_parts": 16,
     "rubber_parts": 12
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 1
 }

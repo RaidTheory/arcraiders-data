@@ -21,7 +21,7 @@
     "sr": "Osprey I"
   },
   "description": {
-    "en": "Has reliable damage output and accuracy.",
+    "en": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
     "de": "Hat zuverlässige Schadensleistung und Genauigkeit.",
     "fr": "Possède des dégâts et une précision fiables.",
     "es": "Tiene una salida de daño y precisión confiables.",
@@ -40,9 +40,9 @@
     "hr": "Ima pouzdanu štetu i preciznost.",
     "sr": "Ima pouzdanu štetu i preciznost."
   },
-  "type": "Weapon",
-  "updatedAt": "10/31/2025",
-  "value": 3859,
+  "type": "Sniper Rifle",
+  "updatedAt": "11/12/2025",
+  "value": 7000,
   "rarity": "Rare",
   "weightKg": 7.0,
   "effects": {
@@ -179,5 +179,6 @@
     "medium_gun_parts": 3,
     "wires": 7
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 2
 }

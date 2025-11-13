@@ -43,7 +43,8 @@
   "type": "Blueprint",
   "value": 5000,
   "weightKg": 0,
-  "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts_blueprint.png",
-  "rarity": "Common",
-  "updatedAt": "10/31/2025"
+  "stackSize": 1,
+  "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts.png",
+  "rarity": "Legendary",
+  "updatedAt": "11/12/2025"
 }

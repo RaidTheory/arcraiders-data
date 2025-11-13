@@ -21,7 +21,7 @@
     "sr": "Il Toro I"
   },
   "description": {
-    "en": "Has a large bullet spread, sharp falloff, and high damage output.",
+    "en": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
     "de": "Hat eine große Streuung, starken Abfall und hohen Schadensausstoß.",
     "fr": "A une grande dispersion des balles, une chute brutale et des dégâts élevés.",
     "es": "Tiene una gran dispersión de balas, caída pronunciada y alto daño.",
@@ -40,7 +40,7 @@
     "hr": "Ima veliko raspršenje metaka, nagli pad štete i visoku izlaznu štetu.",
     "sr": "Ima veliko rasipanje metaka, nagli pad štete i visoku izlaznu štetu."
   },
-  "type": "Weapon",
+  "type": "Shotgun",
   "rarity": "Uncommon",
   "value": 5000,
   "weightKg": 8.0,
@@ -152,10 +152,11 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/12/2025",
   "recipe": {
     "mechanical_components": 5,
     "simple_gun_parts": 6
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 1
 }

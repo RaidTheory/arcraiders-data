@@ -2,26 +2,26 @@
   "id": "rattler_iii",
   "name": {
     "en": "Rattler III",
-    "de": "Rattler III",
-    "fr": "Crotale III",
-    "es": "Rattler III",
-    "pt": "Rattler III",
-    "pl": "Rattler III",
-    "no": "Rattler III",
-    "da": "Rattler III",
     "it": "Rattler III",
-    "ru": "Rattler III",
-    "ja": "Rattler III",
-    "zh-TW": "Rattler III",
+    "da": "Rattler III",
     "uk": "Rattler III",
-    "zh-CN": "Rattler III",
-    "kr": "Rattler III",
+    "zh-TW": "響尾蛇 III",
+    "pt": "Rattler III",
+    "ru": "Rattler III",
+    "de": "Rattler III",
+    "fr": "Rattler III",
+    "zh-CN": "响尾蛇 III",
+    "no": "Rattler III",
     "tr": "Rattler III",
-    "hr": "Rattler III",
-    "sr": "Rattler III"
+    "es": "Rattler III",
+    "sr": "Rattler III",
+    "ja": "ラトラー III",
+    "kr": "래틀러 III",
+    "pl": "Rattler III",
+    "hr": "Rattler III"
   },
   "description": {
-    "en": "A cheap offensive option, but has to be reloaded 2 bullets at a time.",
+    "en": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
     "de": "Eine günstige Offensivoption, muss aber 2 Kugeln auf einmal nachgeladen werden.",
     "fr": "Une option offensive bon marché, mais doit être rechargée 2 balles à la fois.",
     "es": "Una opción ofensiva económica, pero debe recargarse de 2 balas a la vez.",
@@ -40,7 +40,7 @@
     "hr": "Jeftina ofenzivna opcija, ali se mora puniti po 2 metka odjednom.",
     "sr": "Jeftina ofanzivna opcija, ali se mora puniti po 2 metka odjednom."
   },
-  "type": "Weapon",
+  "type": "Assault Rifle",
   "rarity": "Common",
   "effects": {
     "Durability": {
@@ -172,5 +172,12 @@
   },
   "weightKg": 6.0,
   "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/12/2025",
+  "value": 5000,
+  "craftBench": "weapon_bench",
+  "upgradeCost": {
+    "mechanical_components": 2,
+    "simple_gun_parts": 1
+  },
+  "stationLevelRequired": 1
 }

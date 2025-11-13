@@ -43,12 +43,7 @@
   "type": "Blueprint",
   "value": 5000,
   "weightKg": 0.0,
-  "rarity": "Common",
-  "station": "Explosives Station II",
-  "crafting": {
-    "crude_explosives": 2,
-    "processor": 1
-  },
+  "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/trigger_nade_blueprint.png",
-  "updatedAt": "11/05/2025"
+  "updatedAt": "11/12/2025"
 }

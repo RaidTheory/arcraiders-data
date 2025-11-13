@@ -21,7 +21,7 @@
     "sr": "Il Toro II"
   },
   "description": {
-    "en": "Has a large bullet spread, sharp falloff, and high damage output.",
+    "en": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
     "de": "Hat eine große Streuung, starken Abfall und hohen Schadensausstoß.",
     "fr": "A une large dispersion des balles, une chute brutale et des dégâts élevés.",
     "es": "Tiene una gran dispersión de balas, caída pronunciada y alto daño.",
@@ -40,7 +40,7 @@
     "hr": "Ima veliko rasipanje metaka, oštar pad štete i visoku izlaznu štetu.",
     "sr": "Ima veliko rasipanje metaka, oštar pad štete i visoku izlaznu štetu."
   },
-  "type": "Weapon",
+  "type": "Shotgun",
   "rarity": "Uncommon",
   "effects": {
     "Durability": {
@@ -147,10 +147,37 @@
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
       "value": "Weak"
+    },
+    "Increased Fire Rate": {
+      "en": "Increased Fire Rate",
+      "de": "Erhöhte Feuerrate",
+      "uk": "Збільшена швидкість вогню",
+      "ru": "Увеличенная скорострельность",
+      "zh-TW": "提高射速",
+      "tr": "Artırılmış Atış Hızı",
+      "zh-CN": "提高射速",
+      "it": "Cadenza di Fuoco Aumentata",
+      "kr": "증가된 연사 속도",
+      "sr": "Povećana Brzina Paljbe",
+      "pl": "Zwiększona Szybkostrzelność",
+      "no": "Økt Skuddfrekvens",
+      "ja": "射撃速度増加",
+      "fr": "Cadence de Tir Augmentée",
+      "es": "Cadencia de Disparo Aumentada",
+      "hr": "Povećana Brzina Paljbe",
+      "pt": "Taxa de Disparo Aumentada",
+      "da": "Øget Skudhastighed",
+      "value": "17.5%"
     }
   },
   "weightKg": 8.0,
   "value": 7000,
   "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-  "updatedAt": "11/02/2025"
+  "updatedAt": "11/12/2025",
+  "craftBench": "weapon_bench",
+  "upgradeCost": {
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  },
+  "stationLevelRequired": 1
 }

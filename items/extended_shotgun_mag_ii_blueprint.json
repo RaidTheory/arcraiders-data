@@ -42,11 +42,9 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "recyclesInto": {
-    "mechanical_components": 8,
-    "steel_spring": 28
-  },
-  "rarity": "Common",
-  "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_ii_blueprint.png",
-  "updatedAt": "11/04/2025"
+  "weightKg": 0.0,
+  "stackSize": 1,
+  "rarity": "Legendary",
+  "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_ii.png",
+  "updatedAt": "11/12/2025"
 }

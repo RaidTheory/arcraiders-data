@@ -41,15 +41,9 @@
     "sr": "Nacrt za izradu Prigušivača I."
   },
   "type": "Blueprint",
-  "station": "weapon_bench",
-  "benchLevel": 2,
-  "crafting": {
-    "mechanical_components": 2,
-    "wires": 4
-  },
   "value": 5000,
   "weightKg": 0.0,
-  "rarity": "Common",
+  "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png",
-  "updatedAt": "11/05/2025"
+  "updatedAt": "11/12/2025"
 }

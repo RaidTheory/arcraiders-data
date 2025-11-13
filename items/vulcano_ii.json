@@ -21,7 +21,7 @@
     "sr": "Vulcano II"
   },
   "description": {
-    "en": "Has good bullet spread but sharp falloff.",
+    "en": "Semi-automatic shotgun with good bullet spread but sharp falloff",
     "de": "Hat gute Streuung, aber starken Abfall.",
     "fr": "A une bonne dispersion mais une chute brutale.",
     "es": "Tiene buena dispersión pero caída pronunciada.",
@@ -40,7 +40,7 @@
     "hr": "Ima dobro rasipanje metaka ali oštar pad.",
     "sr": "Ima dobro rasipanje metaka ali oštar pad."
   },
-  "type": "Weapon",
+  "type": "Shotgun",
   "rarity": "Epic",
   "_note": "not_in_serverslam",
   "damage": 58.5,
@@ -57,8 +57,8 @@
     "simple_gun_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-  "updatedAt": "11/01/2025",
-  "value": 16800,
+  "updatedAt": "11/12/2025",
+  "value": 13000,
   "weightKg": 9.25,
   "stackSize": 1,
   "effects": {
@@ -81,7 +81,7 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/110"
+      "value": "110/110"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -123,7 +123,7 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Okvira",
-      "value": 10
+      "value": 6
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -166,6 +166,54 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Weak"
+    },
+    "Increased Fire Rate": {
+      "en": "Increased Fire Rate",
+      "de": "Erhöhte Feuerrate",
+      "uk": "Підвищена швидкість вогню",
+      "ru": "Увеличенная скорострельность",
+      "zh-TW": "提升射速",
+      "tr": "Artırılmış Atış Hızı",
+      "zh-CN": "提升射速",
+      "it": "Cadenza di fuoco aumentata",
+      "kr": "증가된 연사 속도",
+      "sr": "Povećana brzina paljbe",
+      "pl": "Zwiększona szybkostrzelność",
+      "no": "Økt skuddfrekvens",
+      "ja": "射撃速度上昇",
+      "fr": "Cadence de tir accrue",
+      "es": "Cadencia de disparo aumentada",
+      "hr": "Povećana brzina paljbe",
+      "pt": "Taxa de disparo aumentada",
+      "da": "Øget skudhastighed",
+      "value": "10%"
+    },
+    "Reduced Reload Time": {
+      "en": "Reduced Reload Time",
+      "de": "Reduzierte Nachladezeit",
+      "uk": "Зменшений час перезарядження",
+      "ru": "Уменьшенное время перезарядки",
+      "zh-TW": "減少裝填時間",
+      "tr": "Azaltılmış Şarjör Değiştirme Süresi",
+      "zh-CN": "减少装填时间",
+      "it": "Tempo di ricarica ridotto",
+      "kr": "감소된 재장전 시간",
+      "sr": "Smanjeno vreme punjenja",
+      "pl": "Skrócony czas przeładowania",
+      "no": "Redusert ladetid",
+      "ja": "リロード時間短縮",
+      "fr": "Temps de rechargement réduit",
+      "es": "Tiempo de recarga reducido",
+      "hr": "Smanjeno vrijeme punjenja",
+      "pt": "Tempo de recarga reduzido",
+      "da": "Reduceret genladningstid",
+      "value": "13%"
     }
-  }
+  },
+  "craftBench": "weapon_bench",
+  "upgradeCost": {
+    "advanced_mechanical_components": 1,
+    "heavy_gun_parts": 2
+  },
+  "stationLevelRequired": 1
 }

@@ -43,8 +43,8 @@
   "type": "Blueprint",
   "value": 5000,
   "weightKg": 0.0,
-  "rarity": "Common",
-  "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_iii_blueprint.png",
-  "updatedAt": "11/11/2025",
-  "craftBench": "weapon_bench"
+  "stackSize": 1,
+  "rarity": "Legendary",
+  "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_iii.png",
+  "updatedAt": "11/12/2025"
 }

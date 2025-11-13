@@ -43,7 +43,8 @@
   "type": "Blueprint",
   "value": 5000,
   "weightKg": 0.0,
-  "imageFilename": "https://cdn.arctracker.io/items/jolt_mine_blueprint.png",
-  "rarity": "Common",
-  "updatedAt": "10/30/2025"
+  "stackSize": 1,
+  "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
+  "rarity": "Legendary",
+  "updatedAt": "11/12/2025"
 }

@@ -21,7 +21,7 @@
     "sr": "Vulcano III"
   },
   "description": {
-    "en": "Has good bullet spread but sharp falloff.",
+    "en": "Semi-automatic shotgun with good bullet spread but sharp falloff",
     "de": "Hat eine gute Streuung, aber einen starken Abfall.",
     "fr": "A une bonne dispersion des balles mais une chute brutale.",
     "es": "Tiene buena dispersión de balas pero caída brusca.",
@@ -40,7 +40,7 @@
     "hr": "Ima dobro raspršenje metaka, ali oštar pad štete.",
     "sr": "Ima dobro rasipanje metaka, ali oštar pad štete."
   },
-  "type": "Weapon",
+  "type": "Shotgun",
   "rarity": "Epic",
   "value": 17000,
   "weightKg": 8.0,
@@ -191,8 +191,56 @@
       "hr": "26% smanjeno vrijeme punjenja",
       "sr": "26% smanjeno vreme punjenja",
       "value": true
+    },
+    "Increased Fire Rate": {
+      "en": "Increased Fire Rate",
+      "de": "Erhöhte Feuerrate",
+      "uk": "Збільшена швидкість стрільби",
+      "ru": "Увеличенная скорострельность",
+      "zh-TW": "提高射速",
+      "tr": "Artırılmış Ateş Hızı",
+      "zh-CN": "提高射速",
+      "it": "Cadenza di fuoco aumentata",
+      "kr": "증가된 연사 속도",
+      "sr": "Povećana brzina paljbe",
+      "pl": "Zwiększona szybkostrzelność",
+      "no": "Økt skuddfrekvens",
+      "ja": "射撃速度上昇",
+      "fr": "Cadence de tir augmentée",
+      "es": "Cadencia de disparo aumentada",
+      "hr": "Povećana brzina paljbe",
+      "pt": "Taxa de disparo aumentada",
+      "da": "Øget skudhastighed",
+      "value": "20%"
+    },
+    "Reduced Reload Time": {
+      "en": "Reduced Reload Time",
+      "de": "Reduzierte Nachladezeit",
+      "uk": "Зменшений час перезарядження",
+      "ru": "Уменьшенное время перезарядки",
+      "zh-TW": "減少裝填時間",
+      "tr": "Azaltılmış Şarjör Değiştirme Süresi",
+      "zh-CN": "减少装填时间",
+      "it": "Tempo di ricarica ridotto",
+      "kr": "감소된 재장전 시간",
+      "sr": "Smanjeno vreme punjenja",
+      "pl": "Skrócony czas przeładowania",
+      "no": "Redusert ladetid",
+      "ja": "リロード時間短縮",
+      "fr": "Temps de rechargement réduit",
+      "es": "Tiempo de recarga reducido",
+      "hr": "Smanjeno vrijeme punjenja",
+      "pt": "Tempo de recarga reduzido",
+      "da": "Reduceret genladningstid",
+      "value": "26%"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-  "updatedAt": "11/01/2025"
+  "updatedAt": "11/12/2025",
+  "craftBench": "weapon_bench",
+  "upgradeCost": {
+    "advanced_mechanical_components": 2,
+    "heavy_gun_parts": 1
+  },
+  "stationLevelRequired": 1
 }
