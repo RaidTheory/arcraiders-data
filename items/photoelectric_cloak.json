@@ -73,5 +73,12 @@
     "advanced_electrical_components": 2,
     "speaker_component": 4
   },
-  "craftBench": "utility_bench"
+  "craftBench": "utility_bench",
+  "recyclesInto": {
+    "advanced_electrical_components": 1,
+    "speaker_component": 1
+  },
+  "salvagesInto": {
+    "advanced_electrical_components": 1
+  }
 }
