@@ -5958,6 +5958,10 @@
       {
         "itemId": "tactical_mk3_healing",
         "quantity": 1
+      },
+      {
+        "itemId": "adrenaline_shot",
+        "quantity": 3
       }
     ],
     "xp": 0,
@@ -6236,6 +6240,12 @@
         "zh-TW": "透過樓梯下方的電源開關啟動電力",
         "sr": "Uključi struju pomoću prekidača ispod stepenica",
         "hr": "Uključi struju pomoću prekidača ispod stubišta"
+      }
+    ],
+    "requiredItemIds": [
+      {
+        "itemId": "wires",
+        "quantity": 4
       }
     ],
     "rewardItemIds": [
