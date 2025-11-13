@@ -1,0 +1,58 @@
+{
+  "id": "door_blocker",
+  "name": {
+    "en": "Door Blocker",
+    "de": "Türblocker",
+    "fr": "Bloqueur de porte",
+    "es": "Bloqueador de puerta",
+    "pt": "Bloqueador de porta",
+    "pl": "Blokada drzwi",
+    "no": "Dørblokker",
+    "da": "Dørblokering",
+    "it": "Bloccaporta",
+    "ru": "Блокиратор двери",
+    "ja": "ドアブロッカー",
+    "zh-TW": "門鎖",
+    "uk": "Блокувач дверей",
+    "zh-CN": "门锁",
+    "kr": "도어 블로커",
+    "tr": "Kapı Engelleyici",
+    "hr": "Blokator Vrata",
+    "sr": "Blokator Vrata"
+  },
+  "description": {
+    "en": "A locking mechanism that can be placed on large metal doors to limit access.",
+    "de": "Ein Verriegelungsmechanismus, der an großen Metalltüren angebracht werden kann, um den Zugang zu beschränken.",
+    "fr": "Un mécanisme de verrouillage qui peut être placé sur de grandes portes métalliques pour limiter l'accès.",
+    "es": "Un mecanismo de bloqueo que se puede colocar en puertas metálicas grandes para limitar el acceso.",
+    "pt": "Um mecanismo de travamento que pode ser colocado em grandes portas de metal para limitar o acesso.",
+    "pl": "Mechanizm blokujący, który można umieścić na dużych metalowych drzwiach, aby ograniczyć dostęp.",
+    "no": "En låsemekanisme som kan plasseres på store metalldører for å begrense tilgang.",
+    "da": "En låsemekanisme, der kan placeres på store metaldøre for at begrænse adgang.",
+    "it": "Un meccanismo di blocco che può essere posizionato su grandi porte metalliche per limitare l'accesso.",
+    "ru": "Запирающий механизм, который можно установить на большие металлические двери для ограничения доступа.",
+    "ja": "大型の金属製ドアに設置してアクセスを制限できるロック機構。",
+    "zh-TW": "可安裝在大型金屬門上以限制進入的鎖定機制。",
+    "uk": "Замикаючий механізм, який можна встановити на великі металеві двері для обмеження доступу.",
+    "zh-CN": "可安装在大型金属门上以限制进入的锁定机制。",
+    "kr": "대형 금속 문에 설치하여 접근을 제한할 수 있는 잠금 장치.",
+    "tr": "Erişimi sınırlamak için büyük metal kapılara yerleştirilebilen bir kilitleme mekanizması.",
+    "hr": "Mehanizam za zaključavanje koji se može postaviti na velika metalna vrata kako bi se ograničio pristup.",
+    "sr": "Mehanizam za zaključavanje koji se može postaviti na velika metalna vrata kako bi se ograničio pristup."
+  },
+  "type": "Quick Use",
+  "rarity": "Common",
+  "value": 270,
+  "weightKg": 0.2,
+  "stackSize": 3,
+  "imageFilename": "https://cdn.arctracker.io/items/door_blocker.png",
+  "updatedAt": "10/30/2025",
+  "recyclesInto": {
+    "metal_parts": 2
+  },
+  "recipe": {
+    "metal_parts": 3,
+    "rubber_parts": 3
+  },
+  "craftBench": "utility_bench"
+}

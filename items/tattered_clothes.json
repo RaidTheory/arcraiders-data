@@ -1,0 +1,34 @@
+{
+  "id": "tattered_clothes",
+  "name": {
+    "en": "Tattered Clothes",
+    "de": "Zerlumpte Kleidung",
+    "fr": "Vêtements en Lambeaux",
+    "es": "Ropa Andrajosa",
+    "pt": "Roupas Esfarrapadas",
+    "pl": "Podarte Ubrania",
+    "no": "Fillete Klær",
+    "da": "Pjaltede Tøj",
+    "it": "Vestiti Logori",
+    "ru": "Рваная одежда",
+    "ja": "ボロ布",
+    "zh-TW": "破爛衣物",
+    "uk": "Подерта одежа",
+    "zh-CN": "破烂衣物",
+    "kr": "너덜너덜한 옷",
+    "tr": "Yırtık Giysiler",
+    "hr": "Pocijepana odjeća",
+    "sr": "Pocepana odeća"
+  },
+  "rarity": "Uncommon",
+  "type": "Recyclable",
+  "value": 270,
+  "recyclesInto": {
+    "fabric": 11
+  },
+  "salvagesInto": {
+    "fabric": 5
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/tattered_clothes.png",
+  "updatedAt": "11/10/2025"
+}

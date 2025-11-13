@@ -1,0 +1,109 @@
+{
+  "id": "light_impact_grenade",
+  "name": {
+    "en": "Light Impact Grenade",
+    "de": "Leichte Aufschlaggranate",
+    "fr": "Grenade à choc léger",
+    "es": "Granada de impacto ligera",
+    "pt": "Granada de impacto leve",
+    "pl": "Lekki granat uderzeniowy",
+    "no": "Lett slagggranat",
+    "da": "Let slagggranat",
+    "it": "Granata a impatto leggera",
+    "ru": "Лёгкая ударная граната",
+    "ja": "軽量衝撃グレネード",
+    "zh-TW": "輕型衝擊手榴彈",
+    "uk": "Легка ударна граната",
+    "zh-CN": "轻型冲击手榴弹",
+    "kr": "경량 충격 수류탄",
+    "tr": "Hafif Çarpma Bombası",
+    "hr": "Laka Udarna Granata",
+    "sr": "Laka Udarna Granata"
+  },
+  "description": {
+    "en": "A grenade that detonates on impact, dealing explosive damage in a small radius.",
+    "de": "Eine Granate, die beim Aufprall detoniert und explosiven Schaden in einem kleinen Radius verursacht.",
+    "fr": "Une grenade qui détone à l'impact, infligeant des dégâts explosifs dans un petit rayon.",
+    "es": "Una granada que detona al impactar, causando daño explosivo en un radio pequeño.",
+    "pt": "Uma granada que detona ao impacto, causando dano explosivo em um raio pequeno.",
+    "pl": "Granat detonujący przy uderzeniu, zadający obrażenia wybuchowe w małym promieniu.",
+    "no": "En granat som detonerer ved treff og gir eksplosiv skade i en liten radius.",
+    "da": "En granat der detonerer ved sammenstød og giver eksplosiv skade i en lille radius.",
+    "it": "Una granata che detona all'impatto, infliggendo danni esplosivi in un raggio ridotto.",
+    "ru": "Граната, взрывающаяся при ударе и наносящая взрывной урон в небольшом радиусе.",
+    "ja": "着弾時に爆発し、小範囲に爆発ダメージを与えるグレネード。",
+    "zh-TW": "一種撞擊時引爆的手榴彈，在小範圍內造成爆炸傷害。",
+    "uk": "Граната, що вибухає при ударі, завдаючи вибухової шкоди в невеликому радіусі.",
+    "zh-CN": "一种撞击时引爆的手榴弹，在小范围内造成爆炸伤害。",
+    "kr": "충격 시 폭발하여 작은 반경에 폭발 피해를 입히는 수류탄.",
+    "tr": "Çarpma anında patlayan ve küçük bir yarıçapta patlayıcı hasar veren bomba.",
+    "hr": "Granata koja detonira pri udaru, nanoseći eksplozivnu štetu u malom radijusu.",
+    "sr": "Granata koja detonira pri udaru, nanoseći eksplozivnu štetu u malom radijusu."
+  },
+  "type": "Quick Use",
+  "rarity": "Common",
+  "value": 270,
+  "imageFilename": "https://cdn.arctracker.io/items/light_impact_grenade.png",
+  "recyclesInto": {
+    "chemicals": 1,
+    "plastic_parts": 1
+  },
+  "salvagesInto": {
+    "chemicals": 1
+  },
+  "weightKg": 0.1,
+  "stackSize": 5,
+  "effects": {
+    "Damage": {
+      "en": "Damage",
+      "de": "Schaden",
+      "fr": "Dégâts",
+      "es": "Daño",
+      "pt": "Dano",
+      "pl": "Obrażenia",
+      "no": "Skade",
+      "da": "Skade",
+      "it": "Danno",
+      "ru": "Урон",
+      "ja": "ダメージ",
+      "zh-TW": "傷害",
+      "uk": "Шкода",
+      "zh-CN": "伤害",
+      "kr": "피해",
+      "tr": "Hasar",
+      "hr": "Šteta",
+      "sr": "Šteta",
+      "value": 30
+    },
+    "Radius": {
+      "en": "Radius",
+      "de": "Radius",
+      "fr": "Rayon",
+      "es": "Radio",
+      "pt": "Raio",
+      "pl": "Promień",
+      "no": "Radius",
+      "da": "Radius",
+      "it": "Raggio",
+      "ru": "Радиус",
+      "ja": "範囲",
+      "zh-TW": "半徑",
+      "uk": "Радіус",
+      "zh-CN": "半径",
+      "kr": "반경",
+      "tr": "Yarıçap",
+      "hr": "Radijus",
+      "sr": "Radijus",
+      "value": "2.5m"
+    }
+  },
+  "updatedAt": "11/03/2025",
+  "recipe": {
+    "chemicals": 3,
+    "plastic_parts": 2
+  },
+  "craftBench": [
+    "workbench",
+    "explosives_bench"
+  ]
+}

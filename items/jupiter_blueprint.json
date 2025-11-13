@@ -1,0 +1,29 @@
+{
+  "id": "jupiter_blueprint",
+  "name": {
+    "en": "Jupiter Blueprint",
+    "de": "Jupiter-Blaupause",
+    "uk": "Креслення Юпітера",
+    "ru": "Чертеж Юпитера",
+    "zh-TW": "木星藍圖",
+    "tr": "Jüpiter Planı",
+    "zh-CN": "木星蓝图",
+    "it": "Progetto Jupiter",
+    "kr": "주피터 설계도",
+    "sr": "Jupiter nacrt",
+    "pl": "Projekt Jupitera",
+    "no": "Jupiter-tegning",
+    "ja": "ジュピター設計図",
+    "fr": "Plan de Jupiter",
+    "es": "Plano de Júpiter",
+    "hr": "Jupiter nacrt",
+    "pt": "Projeto do Júpiter",
+    "da": "Jupiter-tegning"
+  },
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weightKg": 0,
+  "imageFilename": "https://cdn.arctracker.io/items/jupiter.png",
+  "updatedAt": "11/12/2025"
+}

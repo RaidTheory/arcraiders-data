@@ -1,0 +1,52 @@
+{
+  "id": "laboratory_reagents",
+  "name": {
+    "en": "Laboratory Reagents",
+    "de": "Laboringredienzien",
+    "fr": "Réactifs de laboratoire",
+    "es": "Reactivos de laboratorio",
+    "pt": "Reagentes de laboratório",
+    "pl": "Odczynniki laboratoryjne",
+    "no": "Laboratoriereagenser",
+    "da": "Laboratoriereagenser",
+    "it": "Reagenti da laboratorio",
+    "ru": "Лабораторные реагенты",
+    "ja": "実験用試薬",
+    "zh-TW": "實驗室試劑",
+    "uk": "Лабораторні реагенти",
+    "zh-CN": "实验室试剂",
+    "kr": "실험실 시약",
+    "tr": "Laboratuvar Reaktifleri",
+    "hr": "Laboratorijski Reagensi",
+    "sr": "Laboratorijski Reagensi"
+  },
+  "description": {
+    "en": "A set of chemical reagents used in laboratory experiments.",
+    "de": "Ein Satz chemischer Reagenzien für Laborexperimente.",
+    "fr": "Un ensemble de réactifs chimiques utilisés dans les expériences de laboratoire.",
+    "es": "Un conjunto de reactivos químicos utilizados en experimentos de laboratorio.",
+    "pt": "Um conjunto de reagentes químicos usados em experimentos de laboratório.",
+    "pl": "Zestaw odczynników chemicznych używanych w eksperymentach laboratoryjnych.",
+    "no": "Et sett med kjemiske reagenser brukt i laboratorieforsøk.",
+    "da": "Et sæt kemiske reagenser brugt i laboratorieforsøg.",
+    "it": "Un set di reagenti chimici utilizzati negli esperimenti di laboratorio.",
+    "ru": "Набор химических реагентов для лабораторных экспериментов.",
+    "ja": "実験室での実験に使用される化学試薬のセット。",
+    "zh-TW": "用於實驗室實驗的一組化學試劑。",
+    "uk": "Набір хімічних реагентів для лабораторних експериментів.",
+    "zh-CN": "用于实验室实验的一组化学试剂。",
+    "kr": "실험실 실험에 사용되는 화학 시약 세트.",
+    "tr": "Laboratuvar deneylerinde kullanılan kimyasal reaktif seti.",
+    "hr": "Set kemijskih reagenasa korištenih u laboratorijskim eksperimentima.",
+    "sr": "Set hemijskih reagenasa korišćenih u laboratorijskim eksperimentima."
+  },
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 2000,
+  "recyclesInto": {
+    "chemicals": 2,
+    "crude_explosives": 2
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png",
+  "updatedAt": "10/30/2025"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "ss10i",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Marked for Death",
+    "de": "Zum Tode verurteilt",
+    "fr": "Marqué pour la mort",
+    "es": "Marcado para morir",
+    "pt": "Marcado para a morte",
+    "pl": "Naznaczony śmiercią",
+    "no": "Merket for døden",
+    "da": "Mærket til døden",
+    "it": "Segnato per la morte",
+    "uk": "Мічений смертю",
+    "kr": "죽음의 표적",
+    "ru": "Помечен смертью",
+    "zh-CN": "死亡标记",
+    "ja": "死の刻印",
+    "tr": "Ölüme Mahkum",
+    "zh-TW": "死亡標記",
+    "sr": "Obeležen za Smrt",
+    "hr": "Obilježen za Smrt"
+  },
+  "trader": "Tian Wen",
+  "description": {
+    "en": "Someone has been lifting supplies from my drop-off point in Buried City. I've set up a trap, but I need someone to check it for me.",
+    "de": "Jemand hat Vorräte von meinem Abgabepunkt in der Begrabenen Stadt gestohlen. Ich habe eine Falle aufgestellt, aber ich brauche jemanden, der sie für mich überprüft.",
+    "fr": "Quelqu'un a volé des fournitures de mon point de dépôt à Buried City. J'ai tendu un piège, mais j'ai besoin de quelqu'un pour le vérifier.",
+    "es": "Alguien ha estado robando suministros de mi punto de entrega en Ciudad Enterrada. He preparado una trampa, pero necesito que alguien la revise por mí.",
+    "pt": "Alguém está roubando suprimentos do meu ponto de entrega em Cidade Enterrada. Preparei uma armadilha, mas preciso que alguém a verifique para mim.",
+    "pl": "Ktoś kradnie zapasy z mojego punktu zrzutu w Buried City. Zastawiłem pułapkę, ale potrzebuję kogoś, kto ją dla mnie sprawdzi.",
+    "no": "Noen har stjålet forsyninger fra mitt avleveringssted i Buried City. Jeg har satt opp en felle, men jeg trenger noen til å sjekke den for meg.",
+    "da": "Nogen har stjålet forsyninger fra mit afleveringssted i Buried City. Jeg har sat en fælde op, men jeg har brug for nogen til at tjekke den for mig.",
+    "it": "Qualcuno sta rubando rifornimenti dal mio punto di consegna a Città Sepolta. Ho preparato una trappola, ma ho bisogno che qualcuno la controlli per me.",
+    "uk": "Хтось краде припаси з моєї точки скидання в Похованому Місті. Я встановив пастку, але мені потрібен хтось, щоб перевірити її.",
+    "kr": "누군가 매장된 도시에 있는 내 물품 투하 지점에서 보급품을 훔쳐가고 있어. 함정을 설치해뒀는데, 누군가 대신 확인해줬으면 해.",
+    "ru": "Кто-товорует припасы из моей точки сброса в Погребённом Городе. Я установил ловушку, но мне нужен кто-то, чтобы проверить её.",
+    "zh-CN": "有人一直在埋葬之城的投放点偷我的补给。我设了个陷阱，但需要有人帮我去检查一下。",
+    "ja": "誰かが埋もれた街の私の受け渡し場所から物資を盗んでいる。罠を仕掛けたが、誰かに確認してもらう必要がある。",
+    "tr": "Biri Gömülü Şehir'deki teslimat noktamdan malzeme çalıyor. Bir tuzak kurdum ama benim için kontrol edecek birine ihtiyacım var.",
+    "zh-TW": "有人一直在埋葬之城的投放點偷我的補給。我設了個陷阱，但需要有人幫我去檢查一下。",
+    "sr": "Neko je krao zalihe sa mog mesta za dostavu u Zakopanom Gradu. Postavio sam zamku, ali mi treba neko da je proveri.",
+    "hr": "Netko je krao zalihe s mog mjesta za dostavu u Zakopanom Gradu. Postavio sam zamku, ali mi treba netko da je provjeri."
+  },
+  "objectives": [
+    {
+      "en": "Reach the Su Durante Warehouses in the Outskirts in Buried City",
+      "de": "Erreiche die Su Durante Lagerhäuser in den Außenbezirken der Begrabenen Stadt",
+      "fr": "Atteignez les entrepôts Su Durante dans la périphérie de Buried City",
+      "es": "Alcanza los almacenes Su Durante en las afueras de Ciudad Enterrada",
+      "pt": "Alcance os armazéns Su Durante nos arredores de Cidade Enterrada",
+      "pl": "Dotrzyj do magazynów Su Durante na obrzeżach Buried City",
+      "no": "Nå Su Durante-lagrene i utkanten av Buried City",
+      "da": "Nå Su Durante-lagrene i udkanten af Buried City",
+      "it": "Raggiungi i magazzini Su Durante nella periferia di Città Sepolta",
+      "uk": "Дістатися до складів Су Дуранте на околицях Похованого Міста",
+      "kr": "매장된 도시 외곽의 수 두란테 창고에 도착하기",
+      "ru": "Добраться до складов Су Дуранте на окраине Погребённого Города",
+      "zh-CN": "前往埋葬之城郊区的苏·杜兰特仓库",
+      "ja": "埋もれた街の郊外にあるス・デュランテ倉庫に到達する",
+      "tr": "Gömülü Şehir'in Varoşlarındaki Su Durante Depolarına ulaş",
+      "zh-TW": "前往埋葬之城郊區的蘇·杜蘭特倉庫",
+      "sr": "Stigni do Su Durante Skladišta u Predgrađu u Zakopanom Gradu",
+      "hr": "Stigni do Su Durante Skladišta u Predgrađu u Zakopanom Gradu"
+    },
+    {
+      "en": "Search for Tian Wen's cache near the Warehouses",
+      "de": "Suche nach Tian Wens Versteck in der Nähe der Lagerhäuser",
+      "fr": "Cherchez la cachette de Tian Wen près des entrepôts",
+      "es": "Busca el alijo de Tian Wen cerca de los almacenes",
+      "pt": "Procure pelo esconderijo de Tian Wen perto dos armazéns",
+      "pl": "Poszukaj skrytki Tian Wen w pobliżu magazynów",
+      "no": "Søk etter Tian Wens gjemmested nær lagrene",
+      "da": "Søg efter Tian Wens gemmested nær lagrene",
+      "it": "Cerca il nascondiglio di Tian Wen vicino ai magazzini",
+      "uk": "Знайти схованку Тянь Веня поблизу складів",
+      "kr": "창고 근처에서 티안 웬의 보급품 찾기",
+      "ru": "Найти тайник Тянь Веня рядом со складами",
+      "zh-CN": "在仓库附近搜寻田文的储藏点",
+      "ja": "倉庫付近でティエン・ウェンの隠し場所を探す",
+      "tr": "Depoların yakınında Tian Wen'in zulasını ara",
+      "zh-TW": "在倉庫附近搜尋田文的儲藏點",
+      "sr": "Traži Tian Wen-ovu ostavu blizu Skladišta",
+      "hr": "Traži Tian Wen-ovu ostavu blizu Skladišta"
+    },
+    {
+      "en": "Follow the clues",
+      "de": "Folge den Hinweisen",
+      "fr": "Suivez les indices",
+      "es": "Sigue las pistas",
+      "pt": "Siga as pistas",
+      "pl": "Podążaj za wskazówkami",
+      "no": "Følg sporene",
+      "da": "Følg sporene",
+      "it": "Segui gli indizi",
+      "uk": "Слідувати за підказками",
+      "kr": "단서를 따라가기",
+      "ru": "Следовать за уликами",
+      "zh-CN": "跟随线索",
+      "ja": "手がかりを追う",
+      "tr": "İpuçlarını takip et",
+      "zh-TW": "跟隨線索",
+      "sr": "Prati tragove",
+      "hr": "Prati tragove"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "shotgun_choke_ii",
+      "quantity": 1
+    },
+    {
+      "itemId": "angled_grip_ii",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10h"
+  ],
+  "nextQuestIds": [
+    "ss10l"
+  ]
+}

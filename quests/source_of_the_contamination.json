@@ -1,0 +1,128 @@
+{
+  "id": "ss10x6",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Source of the Contamination",
+    "de": "Quelle der Kontamination",
+    "fr": "Source de la contamination",
+    "es": "Fuente de la contaminación",
+    "pt": "Fonte da Contaminação",
+    "pl": "Źródło skażenia",
+    "no": "Kilden til forurensningen",
+    "da": "Kilden til forureningen",
+    "it": "Fonte della contaminazione",
+    "uk": "Джерело забруднення",
+    "kr": "오염의 근원",
+    "ru": "Источник заражения",
+    "zh-CN": "污染源",
+    "ja": "汚染源",
+    "tr": "Kirlenmenin Kaynağı",
+    "zh-TW": "污染源",
+    "sr": "Izvor Kontaminacije",
+    "hr": "Izvor Kontaminacije"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "I'm not saying our water's been tampered with, but based on your samples, I can't rule out the possibility either. Would you return to the Dam and see what's wrong?",
+    "de": "Ich sage nicht, dass unser Wasser manipuliert wurde, aber basierend auf deinen Proben kann ich die Möglichkeit auch nicht ausschließen. Würdest du zum Damm zurückkehren und nachsehen, was nicht stimmt?",
+    "fr": "Je ne dis pas que notre eau a été trafiquée, mais d'après vos échantillons, je ne peux pas non plus écarter cette possibilité. Pourriez-vous retourner au barrage et voir ce qui ne va pas ?",
+    "es": "No digo que hayan manipulado nuestra agua, pero según tus muestras, tampoco puedo descartar esa posibilidad. ¿Podrías volver a la presa y ver qué está mal?",
+    "pt": "Não estou a dizer que a nossa água foi adulterada, mas com base nas suas amostras, também não posso descartar essa possibilidade. Poderia voltar à Barragem e ver o que está errado?",
+    "pl": "Nie mówię, że nasza woda została zmanipulowana, ale na podstawie twoich próbek nie mogę też wykluczyć takiej możliwości. Czy mógłbyś wrócić do Tamy i sprawdzić, co jest nie tak?",
+    "no": "Jeg sier ikke at vannet vårt har blitt tuklet med, men basert på prøvene dine kan jeg heller ikke utelukke muligheten. Kan du returnere til demningen og se hva som er galt?",
+    "da": "Jeg siger ikke, at vores vand er blevet manipuleret, men baseret på dine prøver kan jeg heller ikke udelukke muligheden. Vil du vende tilbage til dæmningen og se, hvad der er galt?",
+    "it": "Non sto dicendo che la nostra acqua sia stata manomessa, ma in base ai tuoi campioni, non posso nemmeno escludere questa possibilità. Potresti tornare alla Diga e vedere cosa c'è che non va?",
+    "uk": "Я не кажу, що нашу воду підмішали, але, виходячи з ваших зразків, я не можу виключити і таку можливість. Не могли б ви повернутися до дамби і подивитися, що не так?",
+    "kr": "우리 물이 오염되었다고 말하는 건 아니지만, 당신의 샘플을 보면 그 가능성도 배제할 수 없습니다. 댐으로 돌아가서 무엇이 잘못되었는지 확인해 주시겠습니까?",
+    "ru": "Я не говорю, что нашу воду отравили, но судя по вашим образцам, я не могу исключить и такую возможность. Не могли бы вы вернуться к дамбе и посмотреть, что не так?",
+    "zh-CN": "我不是说我们的水被人动了手脚，但根据你的样本，我也不能排除这种可能性。你能回到大坝看看出了什么问题吗？",
+    "ja": "我々の水が汚染されたとは言わないが、あなたのサンプルを見る限り、その可能性も否定できない。ダムに戻って何が問題なのか確認してくれないか？",
+    "tr": "Suyumuzun kurcalandığını söylemiyorum ama numunelerinize dayanarak bu ihtimali de göz ardı edemem. Baraj'a geri dönüp neyin yanlış olduğuna bakabilir misiniz?",
+    "zh-TW": "我不是說我們的水被人動了手腳，但根據你的樣本，我也不能排除這種可能性。你能回到大壩看看出了什麼問題嗎？",
+    "sr": "Ne kažem da je neko petljao po našoj vodi, ali na osnovu tvojih uzoraka, ne mogu ni isključiti tu mogućnost. Možeš li se vratiti do Brane i videti šta nije u redu?",
+    "hr": "Ne kažem da je netko petljao po našoj vodi, ali na temelju tvojih uzoraka, ne mogu ni isključiti tu mogućnost. Možeš li se vratiti do Brane i vidjeti što nije u redu?"
+  },
+  "objectives": [
+    {
+      "en": "Reach the Water Treatment Building in The Dam",
+      "de": "Erreiche das Wasseraufbereitungsgebäude im Damm",
+      "fr": "Atteindre le bâtiment de traitement de l'eau dans le barrage",
+      "es": "Llega al edificio de tratamiento de agua en la presa",
+      "pt": "Alcance o Edifício de Tratamento de Água na Barragem",
+      "pl": "Dotrzyj do budynku uzdatniania wody w Tamie",
+      "no": "Nå vannbehandlingsbygningen i demningen",
+      "da": "Nå vandbehandlingsbygningen i dæmningen",
+      "it": "Raggiungi l'edificio di trattamento dell'acqua nella Diga",
+      "uk": "Дістатися до будівлі водоочисної станції на дамбі",
+      "kr": "댐의 수처리 건물에 도달하기",
+      "ru": "Добраться до здания водоочистки на дамбе",
+      "zh-CN": "到达大坝的水处理建筑",
+      "ja": "ダムの浄水施設に到達する",
+      "tr": "Baraj'daki Su Arıtma Binasına ulaş",
+      "zh-TW": "到達大壩的水處理建築",
+      "sr": "Stigni do Zgrade za Prečišćavanje Vode u Brani",
+      "hr": "Stigni do Zgrade za Pročišćavanje Vode u Brani"
+    },
+    {
+      "en": "Search for the Flood Spill Intake near the Swamp",
+      "de": "Suche nach dem Hochwasser-Überlaufeinlass in der Nähe des Sumpfes",
+      "fr": "Chercher la prise de déversement d'inondation près du marais",
+      "es": "Busca la entrada de desbordamiento cerca del pantano",
+      "pt": "Procure a Entrada de Transbordamento perto do Pântano",
+      "pl": "Poszukaj ujęcia wody powodziowej w pobliżu Bagna",
+      "no": "Søk etter flomutslippsinntak nær sumpen",
+      "da": "Søg efter oversvømmelsesindtaget nær sumpen",
+      "it": "Cerca l'ingresso di scarico delle inondazioni vicino alla Palude",
+      "uk": "Знайти водозабір аварійного скидання біля болота",
+      "kr": "늪 근처의 홍수 방류 흡입구 찾기",
+      "ru": "Найти водозабор аварийного сброса возле болота",
+      "zh-CN": "在沼泽附近寻找泄洪进水口",
+      "ja": "沼地近くの洪水放流取水口を探す",
+      "tr": "Bataklık yakınındaki Taşkın Dökülme Girişini ara",
+      "zh-TW": "在沼澤附近尋找洩洪進水口",
+      "sr": "Traži Ulaz za Poplavni Preliv blizu Močvare",
+      "hr": "Traži Ulaz za Poplavni Preljev blizu Močvare"
+    },
+    {
+      "en": "Investigate any suspicious objects",
+      "de": "Untersuche verdächtige Objekte",
+      "fr": "Enquêter sur tout objet suspect",
+      "es": "Investiga cualquier objeto sospechoso",
+      "pt": "Investigue quaisquer objetos suspeitos",
+      "pl": "Zbadaj wszelkie podejrzane obiekty",
+      "no": "Undersøk mistenkelige objekter",
+      "da": "Undersøg mistænkelige genstande",
+      "it": "Indaga su qualsiasi oggetto sospetto",
+      "uk": "Дослідити будь-які підозрілі об'єкти",
+      "kr": "의심스러운 물체 조사하기",
+      "ru": "Исследовать любые подозрительные объекты",
+      "zh-CN": "调查任何可疑物体",
+      "ja": "不審な物体を調査する",
+      "tr": "Şüpheli nesneleri araştır",
+      "zh-TW": "調查任何可疑物體",
+      "sr": "Istraži sve sumnjive objekte",
+      "hr": "Istraži sve sumnjive objekte"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "steel_spring",
+      "quantity": 5
+    },
+    {
+      "itemId": "duct_tape",
+      "quantity": 5
+    },
+    {
+      "itemId": "mod_components",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x4"
+  ],
+  "nextQuestIds": [
+    "ss10x7"
+  ]
+}

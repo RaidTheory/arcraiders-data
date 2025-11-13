@@ -1,0 +1,59 @@
+{
+  "id": "antiseptic",
+  "name": {
+    "en": "Antiseptic",
+    "de": "Desinfektionsmittel",
+    "fr": "Antiseptique",
+    "es": "Antiséptico",
+    "pt": "Antisséptico",
+    "pl": "Środek antyseptyczny",
+    "no": "Antiseptisk middel",
+    "da": "Antiseptisk middel",
+    "it": "Antisettico",
+    "ru": "Антисептик",
+    "ja": "消毒薬",
+    "zh-TW": "消毒劑",
+    "uk": "Антисептик",
+    "zh-CN": "消毒剂",
+    "kr": "소독제",
+    "tr": "Antiseptik",
+    "hr": "Antiseptik",
+    "sr": "Antiseptik"
+  },
+  "description": {
+    "en": "Used to craft medical supplies. Can be recycled into chemicals. Used to craft: Sterilized Bandage, Vita Spray, Vita Shot",
+    "de": "Wird zur Herstellung medizinischer Vorräte verwendet. Kann zu Chemikalien recycelt werden. Wird verwendet für: Sterilisierter Verband, Vita-Spray, Vita-Spritze",
+    "fr": "Permet de fabriquer des fournitures médicales. Peut être recyclé en produits chimiques. Permet de fabriquer : Bandage stérilisé, Vita Spray, Vita Shot",
+    "es": "Se usa para fabricar suministros médicos. Se puede reciclar en productos químicos. Se usa para fabricar: Vendaje esterilizado, Aerosol Vita, Inyección Vita",
+    "pt": "Usado para fabricar suprimentos médicos. Pode ser reciclado em produtos químicos. Usado para fabricar: Bandagem esterilizada, Spray Vita, Injeção Vita",
+    "pl": "Używany do wytwarzania zapasów medycznych. Można przetworzyć na chemikalia. Używany do wytworzenia: Sterylny bandaż, Spray Vita, Zastrzyk Vita",
+    "no": "Brukes til å lage medisinske forsyninger. Kan resirkuleres til kjemikalier. Brukes til å lage: Sterilisert bandasje, Vita-spray, Vita-sprøyte",
+    "da": "Bruges til at lave medicinske forsyninger. Kan genbruges til kemikalier. Bruges til at lave: Steriliseret bandage, Vita-spray, Vita-indsprøjtning",
+    "it": "Usato per creare forniture mediche. Può essere riciclato in sostanze chimiche. Usato per creare: Benda sterilizzata, Spray Vita, Iniezione Vita",
+    "ru": "Используется для создания медицинских принадлежностей. Можно переработать в химикаты. Используется для крафта: Стерильный бинт, Вита-спрей, Вита-укол",
+    "ja": "医療品のクラフトに使用。化学薬品にリサイクル可能。クラフト用途：滅菌包帯、ヴィータスプレー、ヴィータショット",
+    "zh-TW": "用於製作醫療用品。可回收為化學品。用於製作：消毒繃帶、活力噴霧、活力注射劑",
+    "uk": "Використовується для створення медичних приладь. Можна переробити на хімікати. Використовується для крафту: Стерильний бинт, Віта-спрей, Віта-укол",
+    "zh-CN": "用于制作医疗用品。可回收为化学品。用于制作：消毒绷带、活力喷雾、活力注射剂",
+    "kr": "의료 용품 제작에 사용. 화학물질로 재활용 가능. 제작 용도: 멸균 붕대, 비타 스프레이, 비타 샷",
+    "tr": "Tıbbi malzeme üretmek için kullanılır. Kimyasallara geri dönüştürülebilir. Üretim: Sterilize Bandaj, Vita Spreyi, Vita İğnesi",
+    "hr": "Koristi se za izradu medicinskih potrepština. Može se reciklirati u kemikalije. Koristi se za izradu: Sterilizovani Zavoj, Vita Sprej, Vita Injekcija",
+    "sr": "Koristi se za izradu medicinskih potrepština. Može se reciklirati u hemikalije. Koristi se za izradu: Sterilizovani Zavoj, Vita Sprej, Vita Injekcija"
+  },
+  "type": "Refined Material",
+  "rarity": "Rare",
+  "recyclesInto": {
+    "chemicals": 10
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/antiseptic.png",
+  "foundIn": "Medical",
+  "weightKg": 1.0,
+  "stackSize": 5,
+  "value": 1000,
+  "updatedAt": "11/03/2025",
+  "recipe": {
+    "chemicals": 10,
+    "great_mullein": 2
+  },
+  "craftBench": "refiner"
+}

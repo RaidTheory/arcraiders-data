@@ -1,0 +1,60 @@
+{
+  "id": "advanced_mechanical_components",
+  "name": {
+    "en": "Advanced Mechanical Components",
+    "de": "Fortschrittliche mechanische Komponenten",
+    "fr": "Composants mécaniques avancés",
+    "es": "Componentes mecánicos avanzados",
+    "pt": "Componentes mecânicos avançados",
+    "pl": "Zaawansowane komponenty mechaniczne",
+    "no": "Avanserte mekaniske komponenter",
+    "da": "Avancerede mekaniske komponenter",
+    "it": "Componenti meccanici avanzati",
+    "ru": "Продвинутые механические компоненты",
+    "ja": "高度な機械部品",
+    "zh-TW": "高級機械零件",
+    "uk": "Просунуті механічні компоненти",
+    "zh-CN": "高级机械零件",
+    "kr": "고급 기계 부품",
+    "tr": "Gelişmiş Mekanik Bileşenler",
+    "hr": "Napredne Mehaničke Komponente",
+    "sr": "Napredne Mehaničke Komponente"
+  },
+  "description": {
+    "en": "Used to craft advanced weapons. Can be recycled into crafting materials. Used to craft: Torrente, Venator, Osprey, Renegade, Bettina",
+    "de": "Wird zur Herstellung fortgeschrittener Waffen verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Torrente, Venator, Osprey, Renegade, Bettina",
+    "fr": "Permet de fabriquer des armes avancées. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Torrente, Venator, Balbuzard, Renégat, Bettina",
+    "es": "Usado para fabricar armas avanzadas. Puede reciclarse en materiales de fabricación. Usado para fabricar: Torrente, Venator, Osprey, Renegade, Bettina",
+    "pt": "Usado para fabricar armas avançadas. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Torrente, Venator, Osprey, Renegade, Bettina",
+    "pl": "Używany do wytwarzania zaawansowanej broni. Może być przetworzony na materiały rzemieślnicze. Używany do wytworzenia: Torrente, Venator, Osprey, Renegade, Bettina",
+    "no": "Brukes til å lage avanserte våpen. Kan resirkuleres til håndverksmateriell. Brukes til å lage: Torrente, Venator, Osprey, Renegade, Bettina",
+    "da": "Bruges til at fremstille avancerede våben. Kan genbruges til håndværksmaterialer. Bruges til at fremstille: Torrente, Venator, Osprey, Renegade, Bettina",
+    "it": "Usato per fabbricare armi avanzate. Può essere riciclato in materiali da fabbricazione. Usato per fabbricare: Torrente, Venator, Osprey, Renegade, Bettina",
+    "ru": "Используется для создания продвинутого оружия. Можно переработать в материалы для крафта. Используется для создания: Torrente, Venator, Osprey, Renegade, Bettina",
+    "ja": "高度な武器の製作に使用。製作材料にリサイクル可能。製作可能: Torrente、Venator、Osprey、Renegade、Bettina",
+    "zh-TW": "用於製作高級武器。可回收成製作材料。用於製作：Torrente、Venator、Osprey、Renegade、Bettina",
+    "uk": "Використовується для створення просунутої зброї. Можна переробити на матеріали для крафту. Використовується для створення: Torrente, Venator, Osprey, Renegade, Bettina",
+    "zh-CN": "用于制作高级武器。可回收成制作材料。用于制作：Torrente、Venator、Osprey、Renegade、Bettina",
+    "kr": "고급 무기 제작에 사용됩니다. 제작 재료로 재활용 가능. 제작 가능: Torrente, Venator, Osprey, Renegade, Bettina",
+    "tr": "Gelişmiş silahları üretmek için kullanılır. Üretim malzemelerine geri dönüştürülebilir. Üretim için kullanılır: Torrente, Venator, Osprey, Renegade, Bettina",
+    "hr": "Koristi se za izradu naprednog oružja. Može se reciklirati u materijale za izradu. Koristi se za izradu: Torrente, Venator, Osprey, Renegade, Bettina",
+    "sr": "Koristi se za pravljenje naprednog oružja. Može se reciklirati u materijale za pravljenje. Koristi se za pravljenje: Torrente, Venator, Osprey, Renegade, Bettina"
+  },
+  "type": "Refined Material",
+  "rarity": "Rare",
+  "value": 1750,
+  "recyclesInto": {
+    "mechanical_components": 1,
+    "wires": 1
+  },
+  "weightKg": 1.0,
+  "imageFilename": "https://cdn.arctracker.io/items/advanced_mechanical_components.png",
+  "foundIn": "Mechanical",
+  "updatedAt": "11/03/2025",
+  "stackSize": 5,
+  "recipe": {
+    "steel_spring": 2,
+    "mechanical_components": 2
+  },
+  "craftBench": "refiner"
+}

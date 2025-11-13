@@ -1,0 +1,132 @@
+{
+  "id": "ss10n",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Industrial Espionage",
+    "de": "Industriespionage",
+    "fr": "Espionnage industriel",
+    "es": "Espionaje industrial",
+    "pt": "Espionagem industrial",
+    "pl": "Szpiegostwo przemysłowe",
+    "no": "Industrispionasje",
+    "da": "Industrispionage",
+    "it": "Spionaggio industriale",
+    "uk": "Промислове шпигунство",
+    "kr": "산업 스파이",
+    "ru": "Промышленный шпионаж",
+    "zh-CN": "工业间谍",
+    "ja": "産業スパイ",
+    "tr": "Endüstriyel Casusluk",
+    "zh-TW": "工業間諜",
+    "sr": "Industrijska Špijunaža",
+    "hr": "Industrijska Špijunaža"
+  },
+  "trader": "Tian Wen",
+  "description": {
+    "en": "With my own stashes secured, I think it might be time to keep a closer eye on the competition so this doesn't happen again.",
+    "de": "Nachdem meine eigenen Verstecke gesichert sind, denke ich, es ist an der Zeit, die Konkurrenz genauer im Auge zu behalten, damit das nicht noch einmal passiert.",
+    "fr": "Maintenant que mes propres caches sont sécurisées, je pense qu'il est temps de surveiller de plus près la concurrence pour que ça ne se reproduise pas.",
+    "es": "Con mis propios alijos asegurados, creo que es hora de vigilar más de cerca a la competencia para que esto no vuelva a suceder.",
+    "pt": "Com os meus próprios esconderijos protegidos, acho que é hora de vigiar mais de perto a concorrência para que isso não aconteça novamente.",
+    "pl": "Teraz, gdy moje własne skrytki są zabezpieczone, myślę, że czas baczniej obserwować konkurencję, żeby to się nie powtórzyło.",
+    "no": "Nå som mine egne gjemmesteder er sikret, tror jeg det er på tide å holde et nærmere øye med konkurrentene slik at dette ikke skjer igjen.",
+    "da": "Nu hvor mine egne gemmer er sikret, tror jeg, det er tid til at holde et tættere øje med konkurrenterne, så dette ikke sker igen.",
+    "it": "Con i miei nascondigli al sicuro, penso che sia ora di tenere d'occhio più da vicino la concorrenza così questo non succede di nuovo.",
+    "uk": "Тепер, коли мої схованки в безпеці, думаю, настав час пильніше стежити за конкурентами, щоб це не повторилося знову.",
+    "kr": "내 보급품을 확보했으니, 이런 일이 다시 일어나지 않도록 경쟁자들을 좀 더 면밀히 감시할 때가 된 것 같아.",
+    "ru": "Теперь, когда мои тайники в безопасности, думаю, пришло время присмотреть за конкурентами поближе, чтобы это не повторилось.",
+    "zh-CN": "我自己的藏匿点已经安全了，我想是时候密切关注一下竞争对手了，这样就不会再发生这种事。",
+    "ja": "自分の隠し場所を確保したので、これが再び起こらないように競合相手をもっと注意深く監視する時が来たと思う。",
+    "tr": "Kendi zulalarım güvende olduğuna göre, bunun bir daha olmaması için rakipleri daha yakından takip etme zamanı geldi sanırım.",
+    "zh-TW": "我自己的藏匿點已經安全了，我想是時候密切關注一下競爭對手了，這樣就不會再發生這種事。",
+    "sr": "Pošto su moje zalihe obezbeđene, mislim da je vreme da bolje pratim konkurenciju kako se ovo ne bi ponovilo.",
+    "hr": "Sad kad su moje zalihe osigurane, mislim da je vrijeme da bolje pratim konkurenciju kako se ovo ne bi ponovilo."
+  },
+  "objectives": [
+    {
+      "en": "Find Tian Wen's weapon cache near the Gas Station in the Outskirts",
+      "de": "Finde Tian Wens Waffenlager in der Nähe der Tankstelle in den Outskirts",
+      "fr": "Trouve la cache d'armes de Tian Wen près de la station-service dans les Outskirts",
+      "es": "Encuentra el alijo de armas de Tian Wen cerca de la gasolinera en los Outskirts",
+      "pt": "Encontre o esconderijo de armas de Tian Wen perto do posto de gasolina nos Outskirts",
+      "pl": "Znajdź skrytkę z bronią Tian Wena w pobliżu stacji benzynowej w Outskirts",
+      "no": "Finn Tian Wens våpenlager nær bensinstasjonen i Outskirts",
+      "da": "Find Tian Wens våbenlager nær tankstationen i Outskirts",
+      "it": "Trova la scorta di armi di Tian Wen vicino alla stazione di servizio negli Outskirts",
+      "uk": "Знайдіть схованку зброї Тянь Веня біля заправки на Околиці",
+      "kr": "외곽 지역 주유소 근처에서 Tian Wen의 무기 보관소를 찾으세요",
+      "ru": "Найдите тайник с оружием Тянь Веня возле заправки на Окраинах",
+      "zh-CN": "在郊区加油站附近找到田文的武器藏匿点",
+      "ja": "郊外のガソリンスタンド付近でTian Wenの武器保管庫を見つける",
+      "tr": "Varoşlardaki Benzin İstasyonu yakınında Tian Wen'in silah zulasını bulun",
+      "zh-TW": "在郊區加油站附近找到田文的武器藏匿點",
+      "sr": "Pronađi Tian Wenovu ostavu oružja blizu benzinske pumpe u Predgrađu",
+      "hr": "Pronađi Tian Wenovu ostavu oružja blizu benzinske postaje u Predgrađu"
+    },
+    {
+      "en": "Deliver the Burletta to the rival weapon cache",
+      "de": "Liefere die Burletta zum rivalisierenden Waffenlager",
+      "fr": "Livre la Burletta à la cache d'armes rivale",
+      "es": "Entrega la Burletta al alijo de armas rival",
+      "pt": "Entregue a Burletta ao esconderijo de armas rival",
+      "pl": "Dostarcz Burlettę do rywalizującej skrytki z bronią",
+      "no": "Lever Burletta til det rivaliserende våpenlageret",
+      "da": "Lever Burletta til det rivaliserende våbenlager",
+      "it": "Consegna la Burletta alla scorta di armi rivale",
+      "uk": "Доставте Burletta до схованки зброї суперника",
+      "kr": "Burletta를 경쟁 무기 보관소에 배달하세요",
+      "ru": "Доставьте Burletta в тайник с оружием конкурента",
+      "zh-CN": "将Burletta送到对手的武器藏匿点",
+      "ja": "Burlettaをライバルの武器保管庫に届ける",
+      "tr": "Burletta'yı rakip silah zulasına teslim edin",
+      "zh-TW": "將Burletta送到對手的武器藏匿點",
+      "sr": "Dostavi Burlettu do rivalske ostave oružja",
+      "hr": "Dostavi Burlettu do suparničke ostave oružja"
+    },
+    {
+      "en": "Plant a bug on the weapon cache",
+      "de": "Platziere eine Wanze am Waffenlager",
+      "fr": "Place un mouchard sur la cache d'armes",
+      "es": "Coloca un micrófono en el alijo de armas",
+      "pt": "Plante um grampo no esconderijo de armas",
+      "pl": "Podłóż pluskwę w skrytce z bronią",
+      "no": "Planter en avlytter på våpenlageret",
+      "da": "Plant en aflytter på våbenlageret",
+      "it": "Piazza una cimice nella scorta di armi",
+      "uk": "Встановіть жучок на схованку зброї",
+      "kr": "무기 보관소에 도청 장치를 설치하세요",
+      "ru": "Установите жучок на тайник с оружием",
+      "zh-CN": "在武器藏匿点安装窃听器",
+      "ja": "武器保管庫に盗聴器を仕掛ける",
+      "tr": "Silah zulasına dinleme cihazı yerleştirin",
+      "zh-TW": "在武器藏匿點安裝竊聽器",
+      "sr": "Postavi prisluškivač na ostavu oružja",
+      "hr": "Postavi prisluškivač na ostavu oružja"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "burletta_i",
+      "quantity": 1
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "burletta_blueprint",
+      "quantity": 1
+    },
+    {
+      "itemId": "mechanical_components",
+      "quantity": 3
+    },
+    {
+      "itemId": "simple_gun_parts",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10m"
+  ],
+  "nextQuestIds": []
+}

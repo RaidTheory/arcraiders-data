@@ -1,0 +1,52 @@
+{
+  "id": "stitcher_iv",
+  "name": {
+    "en": "Stitcher IV",
+    "de": "Stitcher IV",
+    "fr": "Sutureur IV",
+    "es": "Stitcher IV",
+    "pt": "Stitcher IV",
+    "pl": "Stitcher IV",
+    "no": "Stitcher IV",
+    "da": "Stitcher IV",
+    "it": "Stitcher IV",
+    "ru": "Сшиватель IV",
+    "ja": "ステッチャー IV",
+    "zh-TW": "縫合者 IV",
+    "uk": "Зшивач IV",
+    "zh-CN": "缝合者 IV",
+    "kr": "스티처 IV",
+    "tr": "Stitcher IV",
+    "hr": "Stitcher IV",
+    "sr": "Stitcher IV"
+  },
+  "description": {
+    "en": "Full automatic SMG. Deals good damage, but has quite a low fire-rate and can be hard to control.",
+    "de": "Vollautomatische MP. Verursacht guten Schaden, hat aber eine recht niedrige Feuerrate und kann schwer zu kontrollieren sein.",
+    "fr": "SMG entièrement automatique. Inflige de bons dégâts, mais a une cadence de tir assez faible et peut être difficile à contrôler.",
+    "es": "SMG totalmente automático. Causa buen daño, pero tiene una cadencia de fuego bastante baja y puede ser difícil de controlar.",
+    "pt": "SMG totalmente automática. Causa bom dano, mas tem uma taxa de disparo bastante baixa e pode ser difícil de controlar.",
+    "pl": "W pełni automatyczny PM. Zadaje dobre obrażenia, ale ma dość niską szybkostrzelność i może być trudny w kontroli.",
+    "no": "Helautomatisk SMG. Gjør god skade, men har ganske lav skuddfrekvens og kan være vanskelig å kontrollere.",
+    "da": "Fuldautomatisk SMG. Giver god skade, men har en ret lav skudhastighed og kan være svær at kontrollere.",
+    "it": "SMG completamente automatico. Infligge buoni danni, ma ha una cadenza di fuoco piuttosto bassa e può essere difficile da controllare.",
+    "ru": "Полностью автоматический пистолет-пулемёт. Наносит хороший урон, но имеет довольно низкую скорострельность и может быть сложен в управлении.",
+    "ja": "フルオートサブマシンガン。優れたダメージを与えるが、発射速度がかなり低く、制御が難しい。",
+    "zh-TW": "全自動衝鋒槍。造成不錯的傷害，但射速相當低且難以控制。",
+    "uk": "Повністю автоматичний пістолет-кулемет. Завдає хорошої шкоди, але має досить низьку швидкострільність і може бути важким в управлінні.",
+    "zh-CN": "全自动冲锋枪。造成不错的伤害，但射速相当低且难以控制。",
+    "kr": "완전 자동 기관단총. 좋은 피해를 입히지만 연사력이 상당히 낮고 제어하기 어렵습니다.",
+    "tr": "Tam otomatik hafif makineli tüfek. İyi hasar verir, ancak oldukça düşük atış hızına sahiptir ve kontrol edilmesi zor olabilir.",
+    "hr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolirati.",
+    "sr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolisati."
+  },
+  "type": "Weapon",
+  "rarity": "Uncommon",
+  "value": 5000,
+  "recyclesInto": {
+    "mechanical_components": 2,
+    "simple_gun_parts": 2
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
+  "updatedAt": "10/30/2025"
+}

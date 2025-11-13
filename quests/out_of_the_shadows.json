@@ -1,0 +1,118 @@
+{
+  "id": "ss10v",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Out of the Shadows",
+    "de": "Aus den Schatten",
+    "fr": "Hors de l'ombre",
+    "es": "Fuera de las sombras",
+    "pt": "Fora das sombras",
+    "pl": "Z cienia",
+    "no": "Ut av skyggene",
+    "da": "Ud af skyggerne",
+    "it": "Fuori dall'ombra",
+    "uk": "З тіні",
+    "kr": "그림자에서 벗어나",
+    "ru": "Из тени",
+    "zh-CN": "走出阴影",
+    "ja": "影からの脱出",
+    "tr": "Gölgelerden Çıkış",
+    "zh-TW": "走出陰影",
+    "sr": "Iz Senki",
+    "hr": "Iz Sjene"
+  },
+  "trader": "Shani",
+  "description": {
+    "en": "Did you see the flags? The time for cowering is over. You've been more than battle-tested, from what I hear; think you can take on a Rocketeer?",
+    "de": "Hast du die Flaggen gesehen? Die Zeit des Versteckens ist vorbei. Du wurdest mehr als kampferprobt, wie ich höre; glaubst du, du kannst es mit einem Rocketeer aufnehmen?",
+    "fr": "As-tu vu les drapeaux ? Le temps de se cacher est révolu. Tu as été plus qu'éprouvé au combat, d'après ce que j'entends ; penses-tu pouvoir affronter un Rocketeer ?",
+    "es": "¿Viste las banderas? El tiempo de acobardarse ha terminado. Has sido más que probado en batalla, por lo que escucho; ¿crees que puedes enfrentarte a un Rocketeer?",
+    "pt": "Você viu as bandeiras? O tempo de se esconder acabou. Você foi mais do que testado em batalha, pelo que ouço; acha que pode enfrentar um Rocketeer?",
+    "pl": "Widziałeś flagi? Czas krycia się się skończył. Byłeś więcej niż sprawdzony w boju, z tego co słyszę; myślisz, że dasz radę z Rocketeerem?",
+    "no": "Så du flaggene? Tiden for å krype er over. Du har vært mer enn kampprøvd, fra det jeg hører; tror du kan ta på deg en Rocketeer?",
+    "da": "Så du flagene? Tiden med at krybe sammen er forbi. Du har været mere end kampafprøvet, fra hvad jeg hører; tror du, du kan tage kampen op med en Rocketeer?",
+    "it": "Hai visto le bandiere? Il tempo di nascondersi è finito. Sei stato più che testato in battaglia, da quello che sento; pensi di poter affrontare un Rocketeer?",
+    "uk": "Ти бачив прапори? Час ховатися закінчився. Ти вже більш ніж перевірений у боях, наскільки я чув; думаєш, зможеш впоратися з Ракетником?",
+    "kr": "깃발을 봤나? 움츠리고 있을 때는 끝났어. 내가 듣기론 자네는 충분히 전투 경험이 있다던데, 로켓티어를 상대할 수 있겠나?",
+    "ru": "Ты видел флаги? Время прятаться закончилось. Ты более чем проверен в боях, насколько я слышал; думаешь, справишься с Ракетчиком?",
+    "zh-CN": "你看到那些旗帜了吗？躲藏的时候结束了。据我所知，你已经久经沙场了；你觉得你能对付火箭兵吗？",
+    "ja": "旗を見たか？怯える時間は終わりだ。聞いた話では、お前は十分に実戦経験を積んでいるようだが、ロケッティアと戦えると思うか？",
+    "tr": "Bayrakları gördün mü? Sinme zamanı bitti. Duyduğuma göre savaşta fazlasıyla test edilmişsin; bir Roketçi ile başa çıkabileceğini düşünüyor musun?",
+    "zh-TW": "你看到那些旗幟了嗎？躲藏的時候結束了。據我所知，你已經久經沙場了；你覺得你能對付火箭兵嗎？",
+    "sr": "Jesi li video zastave? Vreme kukavičluka je prošlo. Čujem da si više nego iskušan u borbi; misliš li da možeš da se suočiš sa Rocketeerom?",
+    "hr": "Jesi li vidio zastave? Vrijeme kukavičluka je prošlo. Čujem da si više nego iskušan u borbi; misliš li da se možeš suočiti s Rocketeerom?"
+  },
+  "objectives": [
+    {
+      "en": "Destroy a Rocketeer",
+      "de": "Zerstöre einen Rocketeer",
+      "fr": "Détruire un Rocketeer",
+      "es": "Destruye un Rocketeer",
+      "pt": "Destrua um Rocketeer",
+      "pl": "Zniszcz Rocketeera",
+      "no": "Ødelegg en Rocketeer",
+      "da": "Ødelæg en Rocketeer",
+      "it": "Distruggi un Rocketeer",
+      "uk": "Знищити Ракетника",
+      "kr": "로켓티어 처치",
+      "ru": "Уничтожить Ракетчика",
+      "zh-CN": "摧毁一名火箭兵",
+      "ja": "ロケッティアを倒す",
+      "tr": "Bir Roketçi yok et",
+      "zh-TW": "摧毀一名火箭兵",
+      "sr": "Uništi Rocketeera",
+      "hr": "Uništi Rocketeera"
+    },
+    {
+      "en": "Obtain a Rocketeer Driver",
+      "de": "Erhalte einen Rocketeer-Treiber",
+      "fr": "Obtenir un pilote de Rocketeer",
+      "es": "Obtén un controlador de Rocketeer",
+      "pt": "Obtenha um driver de Rocketeer",
+      "pl": "Zdobądź sterownik Rocketeera",
+      "no": "Skaff en Rocketeer-driver",
+      "da": "Få en Rocketeer-driver",
+      "it": "Ottieni un driver Rocketeer",
+      "uk": "Отримати Драйвер Ракетника",
+      "kr": "로켓티어 드라이버 획득",
+      "ru": "Получить Драйвер Ракетчика",
+      "zh-CN": "获得火箭兵驱动器",
+      "ja": "ロケッティアドライバーを入手する",
+      "tr": "Bir Roketçi Sürücüsü edin",
+      "zh-TW": "獲得火箭兵驅動器",
+      "sr": "Pribavi Rocketeer Driver",
+      "hr": "Pribavi Rocketeer Driver"
+    }
+  ],
+  "requiredItemIds": [
+    {
+      "itemId": "rocketeer_driver",
+      "quantity": 1
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "medium_shield",
+      "quantity": 1
+    },
+    {
+      "itemId": "combat_mk2",
+      "quantity": 1
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "surge_shield_recharger",
+      "quantity": 3
+    },
+    {
+      "itemId": "wolfpack",
+      "quantity": 2
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10r"
+  ],
+  "nextQuestIds": []
+}

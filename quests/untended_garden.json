@@ -1,0 +1,128 @@
+{
+  "id": "ss10x2",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Untended Garden",
+    "de": "Ungepflegter Garten",
+    "fr": "Jardin à l'abandon",
+    "es": "Jardín descuidado",
+    "pt": "Jardim abandonado",
+    "pl": "Zaniedbany ogród",
+    "no": "Forsømt hage",
+    "da": "Forsømt have",
+    "it": "Giardino trascurato",
+    "uk": "Недоглянутий сад",
+    "kr": "방치된 정원",
+    "ru": "Заброшенный сад",
+    "zh-CN": "无人照料的花园",
+    "ja": "手入れされていない庭園",
+    "tr": "Bakımsız Bahçe",
+    "zh-TW": "無人照料的花園",
+    "sr": "Neobrađena bašta",
+    "hr": "Neobrađeni vrt"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "According to the files you found in the lab, the cultivation researchers were actually the ones who set up the hydroponic domes out in the swamp. Sounds like the most obvious place to search next, don't you think?",
+    "de": "Laut den Akten, die du im Labor gefunden hast, waren die Anbauforscher tatsächlich diejenigen, die die hydroponischen Kuppeln draußen im Sumpf errichtet haben. Klingt nach dem naheliegendsten Ort für die nächste Suche, findest du nicht?",
+    "fr": "D'après les dossiers que tu as trouvés dans le labo, ce sont les chercheurs en culture qui ont installé les dômes hydroponiques dans le marais. Ça semble être l'endroit le plus évident où chercher ensuite, tu ne crois pas ?",
+    "es": "Según los archivos que encontraste en el laboratorio, los investigadores de cultivo fueron en realidad quienes instalaron los domos hidropónicos en el pantano. Suena como el lugar más obvio para buscar a continuación, ¿no crees?",
+    "pt": "De acordo com os ficheiros que encontraste no laboratório, os investigadores de cultivo foram na verdade os que montaram as cúpulas hidropónicas no pântano. Parece o lugar mais óbvio para procurar a seguir, não achas?",
+    "pl": "Zgodnie z plikami, które znalazłeś w laboratorium, to badacze upraw faktycznie założyli hydroponiczne kopuły na bagnach. Brzmi jak najbardziej oczywiste miejsce do przeszukania, nie sądzisz?",
+    "no": "I følge filene du fant i laboratoriet, var det faktisk dyrkningsforskerne som satte opp de hydroponiske kuplene ute i sumpen. Høres ut som det mest åpenbare stedet å søke videre, synes du ikke?",
+    "da": "Ifølge filerne du fandt i laboratoriet, var det faktisk dyrkningsforskerne, der satte de hydroponiske kupler op ude i sumpen. Lyder som det mest oplagte sted at søge næste gang, synes du ikke?",
+    "it": "Secondo i file che hai trovato nel laboratorio, i ricercatori di coltivazione erano in realtà quelli che hanno installato le cupole idroponiche nella palude. Sembra il posto più ovvio dove cercare dopo, non credi?",
+    "uk": "Згідно з файлами, які ви знайшли в лабораторії, дослідники з культивації насправді були тими, хто встановив гідропонні купола на болоті. Звучить як найочевидніше місце для наступного пошуку, чи не так?",
+    "kr": "연구실에서 찾은 파일에 따르면, 재배 연구원들이 실제로 늪지대에 수경재배 돔을 설치한 사람들이었대요. 다음에 수색할 가장 확실한 장소인 것 같지 않나요?",
+    "ru": "Согласно файлам, которые вы нашли в лаборатории, исследователи по культивации на самом деле были теми, кто установил гидропонные купола на болоте. Звучит как самое очевидное место для следующего поиска, не так ли?",
+    "zh-CN": "根据你在实验室找到的文件，栽培研究人员实际上就是在沼泽地建立水培穹顶的人。听起来这是下一个最明显的搜索地点，你不觉得吗？",
+    "ja": "研究室で見つけたファイルによると、栽培研究者たちが実際に沼地に水耕栽培ドームを設置した人たちだったんだ。次に探すべき最も明白な場所だと思わない？",
+    "tr": "Laboratuvarda bulduğun dosyalara göre, bataklıktaki hidroponik kubbelerini kuranlar aslında yetiştirme araştırmacılarıymış. Bir sonraki aramak için en bariz yer gibi görünüyor, sence de öyle değil mi?",
+    "zh-TW": "根據你在實驗室找到的文件，栽培研究人員實際上就是在沼澤地建立水培穹頂的人。聽起來這是下一個最明顯的搜索地點，你不覺得嗎？",
+    "sr": "Prema dokumentima koje si pronašao u laboratoriji, istraživači uzgoja su zapravo bili oni koji su postavili hidroponske kupole tamo u močvari. Zvuči kao najočiglednije mesto za sledeću pretragu, zar ne misliš?",
+    "hr": "Prema dokumentima koje si pronašao u laboratoriju, istraživači uzgoja su zapravo bili oni koji su postavili hidroponske kupole tamo u močvari. Zvuči kao najočiglednije mjesto za sljedeću pretragu, zar ne misliš?"
+  },
+  "objectives": [
+    {
+      "en": "Go to the Hydroponic Dome Complex",
+      "de": "Gehe zum hydroponischen Kuppelkomplex",
+      "fr": "Aller au Complexe de Dômes Hydroponiques",
+      "es": "Ve al Complejo de Domos Hidropónicos",
+      "pt": "Vai ao Complexo de Cúpulas Hidropónicas",
+      "pl": "Udaj się do Kompleksu Hydroponicznych Kopuł",
+      "no": "Gå til det Hydroponiske Kuppelkomplekset",
+      "da": "Gå til det Hydroponiske Kuppelkompleks",
+      "it": "Vai al Complesso di Cupole Idroponiche",
+      "uk": "Йдіть до комплексу гідропонних куполів",
+      "kr": "수경재배 돔 단지로 가기",
+      "ru": "Отправляйтесь в комплекс гидропонных куполов",
+      "zh-CN": "前往水培穹顶综合体",
+      "ja": "水耕栽培ドーム複合施設に向かう",
+      "tr": "Hidroponik Kubbe Kompleksine git",
+      "zh-TW": "前往水培穹頂綜合體",
+      "sr": "Idi do Kompleksa hidroponskih kupola",
+      "hr": "Idi do Kompleksa hidroponskih kupola"
+    },
+    {
+      "en": "Access the data archive in one of the domes",
+      "de": "Greife auf das Datenarchiv in einer der Kuppeln zu",
+      "fr": "Accéder aux archives de données dans l'un des dômes",
+      "es": "Accede al archivo de datos en uno de los domos",
+      "pt": "Acede ao arquivo de dados numa das cúpulas",
+      "pl": "Uzyskaj dostęp do archiwum danych w jednej z kopuł",
+      "no": "Få tilgang til dataarkivet i en av kuplene",
+      "da": "Få adgang til dataarkivet i en af kuplerne",
+      "it": "Accedi all'archivio dati in una delle cupole",
+      "uk": "Отримайте доступ до архіву даних в одному з куполів",
+      "kr": "돔 중 하나에서 데이터 아카이브에 접근하기",
+      "ru": "Получите доступ к архиву данных в одном из куполов",
+      "zh-CN": "访问其中一个穹顶内的数据档案",
+      "ja": "ドームの1つにあるデータアーカイブにアクセスする",
+      "tr": "Kubbelerden birindeki veri arşivine eriş",
+      "zh-TW": "訪問其中一個穹頂內的數據檔案",
+      "sr": "Pristupi arhivi podataka u jednoj od kupola",
+      "hr": "Pristupi arhivi podataka u jednoj od kupola"
+    },
+    {
+      "en": "Upload the data to the computer terminal in any Field Depot",
+      "de": "Lade die Daten am Computerterminal in einem beliebigen Felddepot hoch",
+      "fr": "Téléchargez les données sur le terminal informatique de n'importe quel dépôt de terrain",
+      "es": "Sube los datos al terminal del ordenador en cualquier depósito de campo",
+      "pt": "Carregue os dados para o terminal de computador em qualquer Depósito de Campo",
+      "pl": "Prześlij dane do terminala komputerowego w dowolnym magazynie polowym",
+      "no": "Last opp dataene til dataterminalen i et hvilket som helst feltdepot",
+      "da": "Upload dataene til computerterminalen i et hvilket som helst feltdepot",
+      "it": "Carica i dati sul terminale del computer in un qualsiasi deposito da campo",
+      "uk": "Завантажте дані на комп'ютерний термінал у будь-якому польовому депо",
+      "kr": "아무 야전 보급소의 컴퓨터 터미널에 데이터 업로드하기",
+      "ru": "Загрузите данные на компьютерный терминал в любом полевом депо",
+      "zh-CN": "将数据上传到任意野外仓库的计算机终端",
+      "ja": "任意のフィールドデポのコンピュータ端末にデータをアップロードする",
+      "tr": "Verileri herhangi bir Saha Deposundaki bilgisayar terminaline yükle",
+      "zh-TW": "將數據上傳到任意野外倉庫的計算機終端",
+      "sr": "Otpremi podatke na kompjuterski terminal u bilo kom Terenskom Depou",
+      "hr": "Otpremi podatke na računalni terminal u bilo kojem Terenskom Depou"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "advanced_mechanical_components",
+      "quantity": 3
+    },
+    {
+      "itemId": "heavy_gun_parts",
+      "quantity": 3
+    },
+    {
+      "itemId": "canister",
+      "quantity": 5
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x"
+  ],
+  "nextQuestIds": [
+    "ss10x3"
+  ]
+}

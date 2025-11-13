@@ -1,0 +1,83 @@
+{
+  "id": "vertical_grip_ii",
+  "name": {
+    "en": "Vertical Grip II",
+    "de": "Vertikalgriff II",
+    "fr": "Poignée verticale II",
+    "es": "Empuñadura vertical II",
+    "pt": "Punho Vertical II",
+    "pl": "Chwyt pionowy II",
+    "no": "Vertikalt grep II",
+    "da": "Vertikalt greb II",
+    "it": "Impugnatura verticale II",
+    "ru": "Вертикальная рукоять II",
+    "ja": "バーティカルグリップ II",
+    "zh-TW": "垂直握把 II",
+    "uk": "Вертикальна рукоятка II",
+    "zh-CN": "垂直握把 II",
+    "kr": "수직 손잡이 II",
+    "tr": "Dikey Kabza II",
+    "hr": "Vertikalni Držač II",
+    "sr": "Vertikalni Držač II"
+  },
+  "description": {
+    "en": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "de": "Reduziert den vertikalen Rückstoß mäßig. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "fr": "Réduit modérément le recul vertical. Compatible avec : Arpège, Ferro, Venator, Il Toro, Sutureur",
+    "es": "Reduce moderadamente el retroceso vertical. Compatible con: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "pt": "Reduz moderadamente o recuo vertical. Compatível com: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "pl": "Umiarkowanie redukuje odrzut pionowy. Kompatybilny z: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "no": "Reduserer vertikalt rekyl moderat. Kompatibel med: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "da": "Reducerer vertikalt rekyl moderat. Kompatibel med: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "it": "Riduce moderatamente il rinculo verticale. Compatibile con: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "ru": "Умеренно снижает вертикальную отдачу. Совместимо с: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "ja": "垂直反動を適度に軽減。対応武器: Arpeggio、Ferro、Venator、Il Toro、Stitcher",
+    "zh-TW": "適度降低垂直後座力。相容武器：Arpeggio、Ferro、Venator、Il Toro、Stitcher",
+    "uk": "Помірно зменшує вертикальну віддачу. Сумісно з: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "zh-CN": "适度降低垂直后坐力。兼容武器：Arpeggio、Ferro、Venator、Il Toro、Stitcher",
+    "kr": "수직 반동을 적당히 감소시킵니다. 호환 무기: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "tr": "Dikey geri tepmesini orta derecede azaltır. Uyumlu silahlar: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "hr": "Umjereno smanjuje vertikalni trzaj. Kompatibilno s: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "sr": "Umereno smanjuje vertikalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Venator, Il Toro, Stitcher"
+  },
+  "type": "Modification",
+  "rarity": "Uncommon",
+  "value": 2000,
+  "weightKg": 0.5,
+  "recyclesInto": {
+    "mechanical_components": 1,
+    "duct_tape": 1
+  },
+  "effects": {
+    "Reduced Vertical Recoil": {
+      "en": "Reduced Vertical Recoil",
+      "de": "Reduzierter vertikaler Rückstoß",
+      "fr": "Recul vertical réduit",
+      "es": "Retroceso vertical reducido",
+      "pt": "Recuo vertical reduzido",
+      "pl": "Zredukowany odrzut pionowy",
+      "no": "Redusert vertikalt rekyl",
+      "da": "Reduceret vertikalt rekyl",
+      "it": "Rinculo verticale ridotto",
+      "ru": "Снижение вертикальной отдачи",
+      "ja": "垂直反動軽減",
+      "zh-TW": "降低垂直後座力",
+      "uk": "Зменшення вертикальної віддачі",
+      "zh-CN": "降低垂直后坐力",
+      "kr": "수직 반동 감소",
+      "tr": "Azaltılmış Dikey Geri Tepme",
+      "hr": "Smanjen Vertikalni Trzaj",
+      "sr": "Smanjen Vertikalni Trzaj",
+      "value": "30%"
+    }
+  },
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Kettle",
+    "Il Toro",
+    "Stitcher"
+  ],
+  "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
+  "updatedAt": "11/05/2025"
+}

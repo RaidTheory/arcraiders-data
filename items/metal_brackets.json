@@ -1,0 +1,57 @@
+{
+  "id": "metal_brackets",
+  "name": {
+    "en": "Metal Brackets",
+    "de": "Metallhalterungen",
+    "fr": "Supports métalliques",
+    "es": "Soportes metálicos",
+    "pt": "Suportes de metal",
+    "pl": "Metalowe uchwyty",
+    "no": "Metallbraketter",
+    "da": "Metalbeslag",
+    "it": "Staffe metalliche",
+    "ja": "金属ブラケット",
+    "kr": "금속 브래킷",
+    "zh-CN": "金属支架",
+    "zh-TW": "金屬支架",
+    "ru": "Металлические кронштейны",
+    "tr": "Metal Braketler",
+    "uk": "Металеві кронштейни",
+    "hr": "Metalne konzole",
+    "sr": "Metalne konzole"
+  },
+  "description": {
+    "en": "Can be recycled into metal parts.",
+    "de": "Kann zu Metallteilen recycelt werden.",
+    "fr": "Peut être recyclé en pièces métalliques.",
+    "es": "Se puede reciclar en piezas metálicas.",
+    "pt": "Pode ser reciclado em peças metálicas.",
+    "pl": "Można przetworzyć na metalowe części.",
+    "no": "Kan resirkuleres til metalldeler.",
+    "da": "Kan genbruges til metaldele.",
+    "it": "Può essere riciclato in parti metalliche.",
+    "ja": "金属パーツにリサイクルできます。",
+    "kr": "금속 부품으로 재활용할 수 있습니다.",
+    "zh-CN": "可以回收为金属零件。",
+    "zh-TW": "可以回收為金屬零件。",
+    "ru": "Можно переработать в металлические детали.",
+    "tr": "Metal parçalara geri dönüştürülebilir.",
+    "uk": "Можна переробити на металеві деталі.",
+    "hr": "Može se reciklirati u metalne dijelove.",
+    "sr": "Može se reciklirati u metalne delove."
+  },
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "value": 640,
+  "recyclesInto": {
+    "metal_parts": 8
+  },
+  "salvagesInto": {
+    "metal_parts": 4
+  },
+  "weightKg": 0.8,
+  "stackSize": 3,
+  "foundIn": "Mechanical, Electrical",
+  "updatedAt": "11/10/2025",
+  "imageFilename": "https://cdn.arctracker.io/items/metal_brackets.png"
+}

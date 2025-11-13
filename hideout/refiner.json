@@ -1,0 +1,73 @@
+{
+  "id": "refiner",
+  "name": {
+    "en": "Refiner",
+    "de": "Veredler",
+    "fr": "Raffineur",
+    "es": "Refinería",
+    "pt": "Refinaria",
+    "pl": "Rafineria",
+    "no": "Raffineri",
+    "da": "Raffinaderi",
+    "ru": "Очиститель",
+    "ja": "精製所",
+    "it": "Raffineria",
+    "kr": "정제소",
+    "zh-CN": "精炼站",
+    "zh-TW": "精煉站",
+    "uk": "Очисник",
+    "tr": "Rafine Ünitesi",
+    "hr": "Rafinerija",
+    "sr": "Rafinerija"
+  },
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 1,
+      "requirementItemIds": [
+        {
+          "itemId": "metal_parts",
+          "quantity": 60
+        },
+        {
+          "itemId": "arc_powercell",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "requirementItemIds": [
+        {
+          "itemId": "toaster",
+          "quantity": 3
+        },
+        {
+          "itemId": "arc_motion_core",
+          "quantity": 5
+        },
+        {
+          "itemId": "fireball_burner",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "requirementItemIds": [
+        {
+          "itemId": "motor",
+          "quantity": 3
+        },
+        {
+          "itemId": "arc_circuitry",
+          "quantity": 10
+        },
+        {
+          "itemId": "bombardier_cell",
+          "quantity": 6
+        }
+      ]
+    }
+  ]
+}

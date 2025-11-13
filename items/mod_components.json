@@ -1,0 +1,60 @@
+{
+  "id": "mod_components",
+  "name": {
+    "en": "Mod Components",
+    "de": "Mod-Komponenten",
+    "fr": "Composants de mod",
+    "es": "Componentes de modificación",
+    "pt": "Componentes de modificação",
+    "pl": "Komponenty modyfikacji",
+    "no": "Mod-komponenter",
+    "da": "Mod-komponenter",
+    "it": "Componenti mod",
+    "ru": "Компоненты модификаций",
+    "ja": "モッドコンポーネント",
+    "zh-TW": "改裝組件",
+    "uk": "Компоненти модифікацій",
+    "zh-CN": "改装组件",
+    "kr": "모드 부품",
+    "tr": "Mod Bileşenleri",
+    "hr": "Komponente za modove",
+    "sr": "Komponente za modove"
+  },
+  "description": {
+    "en": "Used to craft weapon mods. Can be recycled into crafting materials. Used to craft: Lightweight Stock, Shotgun Choke III, Extended Shotgun Mag III, Padded Stock, Compensator III",
+    "de": "Wird zur Herstellung von Waffenmods verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Leichtgewichtkolben, Schrotflinten-Choke III, Erweitertes Schrotflinten-Magazin III, Gepolsterter Kolben, Kompensator III",
+    "fr": "Permet de fabriquer des mods d'armes. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Crosse légère, Choke de fusil à pompe III, Chargeur de fusil à pompe étendu III, Crosse rembourrée, Compensateur III",
+    "es": "Se usa para fabricar modificaciones de armas. Se puede reciclar en materiales de fabricación. Se usa para fabricar: Culata ligera, Estrangulador de escopeta III, Cargador extendido de escopeta III, Culata acolchada, Compensador III",
+    "pt": "Usado para fabricar modificações de armas. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Coronha leve, Choke de espingarda III, Carregador estendido de espingarda III, Coronha acolchoada, Compensador III",
+    "pl": "Używane do wytwarzania modyfikacji broni. Można przetworzyć na materiały rzemieślnicze. Używane do wytworzenia: Lekka kolba, Zwężka strzelby III, Rozszerzony magazynek strzelby III, Wyściełana kolba, Kompensator III",
+    "no": "Brukes til å lage våpenmodifikasjoner. Kan resirkuleres til håndverksmaterialer. Brukes til å lage: Lettvektskolbe, Haglerifle Choke III, Utvidet hagleriflemagasin III, Polstret kolbe, Kompensator III",
+    "da": "Bruges til at fremstille våbenmodifikationer. Kan genbruges til håndværksmaterialer. Bruges til at fremstille: Letvægtskolbe, Haglgevær Choke III, Udvidet haglgevær-magasin III, Polstret kolbe, Kompensator III",
+    "it": "Usato per creare mod per armi. Può essere riciclato in materiali da crafting. Usato per creare: Calcio leggero, Strozzatore fucile III, Caricatore fucile esteso III, Calcio imbottito, Compensatore III",
+    "ru": "Используется для создания модификаций оружия. Можно переработать в материалы для крафта. Используется для создания: облегчённый приклад, дульное сужение для дробовика III, расширенный магазин для дробовика III, мягкий приклад, компенсатор III",
+    "ja": "武器モッドの製作に使用。クラフト素材にリサイクル可能。製作可能: 軽量ストック、ショットガンチョーク III、拡張ショットガンマガジン III、パッド入りストック、コンペンセーター III",
+    "zh-TW": "用於製作武器改裝。可回收為製作材料。可製作：輕量化槍托、霰彈槍收束器 III、延長霰彈槍彈匣 III、軟墊槍托、補償器 III",
+    "uk": "Використовується для створення модифікацій зброї. Можна переробити на матеріали для крафту. Використовується для створення: полегшений приклад, дульне звуження для дробовика III, розширений магазин для дробовика III, м'який приклад, компенсатор III",
+    "zh-CN": "用于制作武器改装。可回收为制作材料。可制作：轻量化枪托、霰弹枪收束器 III、延长霰弹枪弹匣 III、软垫枪托、补偿器 III",
+    "kr": "무기 모드 제작에 사용됩니다. 제작 재료로 재활용할 수 있습니다. 제작 가능: 경량 개머리판, 샷건 초크 III, 확장 샷건 탄창 III, 패딩 개머리판, 보정기 III",
+    "tr": "Silah modları üretmek için kullanılır. Üretim malzemelerine geri dönüştürülebilir. Üretilebilir: Hafif Dipçik, Av Tüfeği Choke III, Uzatılmış Av Tüfeği Şarjörü III, Yastıklı Dipçik, Kompansatör III",
+    "hr": "Koristi se za izradu modova za oružje. Može se reciklirati u materijale za izradu. Koristi se za izradu: Lagana kundak, Sačmarica choke III, Prošireni spremnik za sačmaricu III, Podstavljeni kundak, Kompenzator III",
+    "sr": "Koristi se za izradu modova za oružje. Može se reciklirati u materijale za izradu. Koristi se za izradu: Lagana kundak, Sačmarica choke III, Prošireni okvir za sačmaricu III, Podstavljeni kundak, Kompenzator III"
+  },
+  "type": "Refined Material",
+  "rarity": "Rare",
+  "value": 1750,
+  "weightKg": 1.0,
+  "stackSize": 5,
+  "foundIn": "Security",
+  "imageFilename": "https://cdn.arctracker.io/items/mod_components.png",
+  "updatedAt": "11/03/2025",
+  "recyclesInto": {
+    "mechanical_components": 1,
+    "steel_spring": 1
+  },
+  "recipe": {
+    "steel_spring": 2,
+    "mechanical_components": 2
+  },
+  "craftBench": "refiner"
+}

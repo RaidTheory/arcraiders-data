@@ -1,0 +1,57 @@
+{
+  "id": "ruined_riot_shield",
+  "name": {
+    "en": "Ruined Riot Shield",
+    "de": "Ruinierter Schutzschild",
+    "fr": "Bouclier anti-émeute détruit",
+    "es": "Escudo antidisturbios arruinado",
+    "pt": "Escudo de choque arruinado",
+    "pl": "Zniszczona tarcza ochronna",
+    "no": "Ødelagt opprørsskjold",
+    "da": "Ødelagt oprørsskjold",
+    "it": "Scudo antisommossa rovinato",
+    "ru": "Разрушенный щит",
+    "ja": "破損した暴動鎮圧シールド",
+    "zh-TW": "損毀的防暴盾",
+    "uk": "Зруйнований щит",
+    "zh-CN": "损毁的防暴盾",
+    "kr": "파손된 진압 방패",
+    "tr": "Harap Olmuş Çevik Kuvvet Kalkanı",
+    "hr": "Uništeni protuštitni štit",
+    "sr": "Uništeni štit za neredi"
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Se puede reciclar en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクル可能。",
+    "zh-TW": "可回收為製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可回收为制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 1000,
+  "weightKg": 2,
+  "foundIn": "Security",
+  "imageFilename": "https://cdn.arctracker.io/items/ruined_riot_shield.png",
+  "updatedAt": "11/01/2025",
+  "recyclesInto": {
+    "plastic_parts": 10,
+    "rubber_parts": 6
+  },
+  "salvagesInto": {
+    "plastic_parts": 10
+  }
+}

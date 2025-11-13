@@ -1,0 +1,57 @@
+{
+  "id": "damaged_hornet_driver",
+  "name": {
+    "en": "Damaged Hornet Driver",
+    "de": "Beschädigter Hornissenantrieb",
+    "fr": "Propulseur Hornet endommagé",
+    "es": "Propulsor Hornet dañado",
+    "pt": "Propulsor Hornet danificado",
+    "pl": "Uszkodzony napęd Hornet",
+    "no": "Skadet Hornet-driver",
+    "da": "Beskadiget Hornet-driver",
+    "it": "Propulsore Hornet danneggiato",
+    "ru": "Повреждённый драйвер Hornet",
+    "ja": "破損したホーネットドライバー",
+    "zh-TW": "損壞的黃蜂驅動器",
+    "uk": "Пошкоджений драйвер Hornet",
+    "zh-CN": "损坏的黄蜂驱动器",
+    "kr": "손상된 호넷 드라이버",
+    "tr": "Hasarlı Hornet Sürücüsü",
+    "hr": "Oštećeni Hornet Pokretač",
+    "sr": "Oštećeni Hornet Pokretač"
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Może zostać przetworzony na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクルできる。",
+    "zh-TW": "可以回收成製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可以回收成制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "type": "Recyclable",
+  "rarity": "Common",
+  "value": 640,
+  "recyclesInto": {
+    "arc_alloy": 2
+  },
+  "salvagesInto": {
+    "arc_alloy": 1
+  },
+  "weightKg": 0.3,
+  "stackSize": 3,
+  "foundIn": "ARC",
+  "updatedAt": "11/06/2025",
+  "imageFilename": "https://cdn.arctracker.io/items/damaged_hornet_driver.png"
+}

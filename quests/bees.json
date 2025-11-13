@@ -1,0 +1,110 @@
+{
+  "id": "ss10x12",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Bees!",
+    "de": "Bienen!",
+    "fr": "Des abeilles !",
+    "es": "¡Abejas!",
+    "pt": "Abelhas!",
+    "pl": "Pszczoły!",
+    "no": "Bier!",
+    "da": "Bier!",
+    "it": "Api!",
+    "uk": "Бджоли!",
+    "kr": "벌이다!",
+    "ru": "Пчёлы!",
+    "zh-CN": "蜜蜂！",
+    "ja": "ハチだ！",
+    "tr": "Arılar!",
+    "zh-TW": "蜜蜂！",
+    "sr": "Pčele!",
+    "hr": "Pčele!"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "Bees! There are bees still around! While I'm no expert, our greenhouse crew desperately wants some.",
+    "de": "Bienen! Es gibt noch Bienen! Obwohl ich kein Experte bin, will unsere Gewächshaus-Crew unbedingt welche haben.",
+    "fr": "Des abeilles ! Il y a encore des abeilles dans les parages ! Bien que je ne sois pas un expert, notre équipe de serre en veut désespérément.",
+    "es": "¡Abejas! ¡Todavía hay abejas por aquí! Aunque no soy un experto, nuestro equipo de invernadero las quiere desesperadamente.",
+    "pt": "Abelhas! Ainda há abelhas por aí! Embora eu não seja especialista, nossa equipe da estufa quer algumas desesperadamente.",
+    "pl": "Pszczoły! Wciąż są tu pszczoły! Choć nie jestem ekspertem, nasza ekipa szklarniowa desperacko ich potrzebuje.",
+    "no": "Bier! Det er fortsatt bier her! Selv om jeg ikke er noen ekspert, vil drivhusteamet vårt gjerne ha noen.",
+    "da": "Bier! Der er stadig bier omkring! Selvom jeg ikke er nogen ekspert, vil vores drivhusteam desperat have nogle.",
+    "it": "Api! Ci sono ancora api in giro! Anche se non sono un esperto, il nostro team della serra ne vuole disperatamente.",
+    "uk": "Бджоли! Тут ще є бджоли! Хоча я не експерт, наша команда теплиці відчайдушно їх потребує.",
+    "kr": "벌이야! 아직도 벌들이 있어! 내가 전문가는 아니지만, 우리 온실 팀이 간절히 원하고 있어.",
+    "ru": "Пчёлы! Здесь всё ещё есть пчёлы! Хоть я и не эксперт, но нашей тепличной команде они очень нужны.",
+    "zh-CN": "蜜蜂！这里还有蜜蜂！虽然我不是专家，但我们的温室团队非常需要一些。",
+    "ja": "ハチだ！まだハチがいるんだ！専門家ではないが、温室の連中がどうしても欲しがっている。",
+    "tr": "Arılar! Hala etrafta arılar var! Uzman olmamakla birlikte, sera ekibimiz onları çok istiyor.",
+    "zh-TW": "蜜蜂！這裡還有蜜蜂！雖然我不是專家，但我們的溫室團隊非常需要一些。",
+    "sr": "Pčele! Još uvek ima pčela naokolo! Iako nisam stručnjak, naša ekipa u stakleniku očajnički želi neke.",
+    "hr": "Pčele! Još uvijek ima pčela naokolo! Iako nisam stručnjak, naša ekipa u stakleniku očajnički želi neke."
+  },
+  "objectives": [
+    {
+      "en": "Reach the Olive Grove in Blue Gate",
+      "de": "Erreiche den Olivenhain im Blauen Tor",
+      "fr": "Atteignez l'oliveraie à Blue Gate",
+      "es": "Llega al olivar en Puerta Azul",
+      "pt": "Alcance o olival em Blue Gate",
+      "pl": "Dotrzyj do gaju oliwnego w Blue Gate",
+      "no": "Nå olivenlunden i Blue Gate",
+      "da": "Nå olivenlunden i Blue Gate",
+      "it": "Raggiungi l'uliveto a Blue Gate",
+      "uk": "Дістаньтеся до оливкової гаї в Блакитних воротах",
+      "kr": "블루 게이트의 올리브 숲에 도달하기",
+      "ru": "Доберитесь до оливковой рощи в Синих воротах",
+      "zh-CN": "到达蓝门的橄榄林",
+      "ja": "ブルーゲートのオリーブ園に到達する",
+      "tr": "Mavi Kapı'daki Zeytin Korusuna ulaş",
+      "zh-TW": "到達藍門的橄欖林",
+      "sr": "Stigni do maslinika u Plavim Vratima",
+      "hr": "Stigni do maslinika u Plavim Vratima"
+    },
+    {
+      "en": "Search for bee hives around the Olive Grove",
+      "de": "Suche nach Bienenstöcken rund um den Olivenhain",
+      "fr": "Cherchez des ruches autour de l'oliveraie",
+      "es": "Busca colmenas alrededor del olivar",
+      "pt": "Procure colmeias ao redor do olival",
+      "pl": "Poszukaj uli wokół gaju oliwnego",
+      "no": "Søk etter bikuber rundt olivenlunden",
+      "da": "Søg efter bistader omkring olivenlunden",
+      "it": "Cerca alveari intorno all'uliveto",
+      "uk": "Шукайте бджолині вулики навколо оливкової гаї",
+      "kr": "올리브 숲 주변에서 벌집 찾기",
+      "ru": "Ищите пчелиные ульи вокруг оливковой рощи",
+      "zh-CN": "在橄榄林周围寻找蜂巢",
+      "ja": "オリーブ園周辺で蜂の巣を探す",
+      "tr": "Zeytin Korusu çevresinde arı kovanlarını ara",
+      "zh-TW": "在橄欖林周圍尋找蜂巢",
+      "sr": "Traži pčelinje košnice oko maslinika",
+      "hr": "Traži pčelinje košnice oko maslinika"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "yellow_light_stick",
+      "quantity": 5
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "advanced_electrical_components",
+      "quantity": 1
+    },
+    {
+      "itemId": "sensors",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x11"
+  ],
+  "nextQuestIds": [
+    "ss10x13"
+  ]
+}

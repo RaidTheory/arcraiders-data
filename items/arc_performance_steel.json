@@ -1,0 +1,57 @@
+{
+  "id": "arc_performance_steel",
+  "name": {
+    "en": "ARC Performance Steel",
+    "de": "ARC-Hochleistungsstahl",
+    "fr": "Acier haute performance ARC",
+    "es": "Acero de alto rendimiento ARC",
+    "pt": "Aço de alto desempenho ARC",
+    "pl": "Stal wydajnościowa ARC",
+    "no": "ARC-ytelsestål",
+    "da": "ARC-ydelsesstål",
+    "it": "Acciaio ad alte prestazioni ARC",
+    "ru": "Высокопроизводительная сталь ARC",
+    "ja": "ARC高性能スチール",
+    "zh-TW": "ARC高性能鋼材",
+    "uk": "Високопродуктивна сталь ARC",
+    "zh-CN": "ARC高性能钢材",
+    "kr": "ARC 고성능 강철",
+    "tr": "ARC Performans Çeliği",
+    "hr": "ARC performansni čelik",
+    "sr": "ARC performansni čelik"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": 1000,
+  "recyclesInto": {
+    "metal_parts": 12
+  },
+  "salvagesInto": {
+    "metal_parts": 7
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali di fabbricazione.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクル可能。",
+    "zh-TW": "可回收為製作材料。",
+    "uk": "Можна переробити в матеріали для крафту.",
+    "zh-CN": "可回收为制作材料。",
+    "kr": "제작 재료로 재활용 가능.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "weightKg": 1.0,
+  "foundIn": "ARC",
+  "imageFilename": "https://cdn.arctracker.io/items/arc_performance_steel.png",
+  "updatedAt": "11/01/2025",
+  "stackSize": 3
+}

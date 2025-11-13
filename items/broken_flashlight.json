@@ -1,0 +1,58 @@
+{
+  "id": "broken_flashlight",
+  "name": {
+    "en": "Broken Flashlight",
+    "de": "Kaputte Taschenlampe",
+    "fr": "Lampe torche cassée",
+    "es": "Linterna rota",
+    "pt": "Lanterna quebrada",
+    "pl": "Zepsuta latarka",
+    "no": "Ødelagt lommelykt",
+    "da": "Ødelagt lommelygte",
+    "it": "Torcia rotta",
+    "ru": "Сломанный фонарик",
+    "ja": "壊れた懐中電灯",
+    "zh-TW": "損壞的手電筒",
+    "uk": "Зламаний ліхтарик",
+    "zh-CN": "损坏的手电筒",
+    "kr": "고장난 손전등",
+    "tr": "Kırık El Feneri",
+    "hr": "Pokvarena baterijska lampa",
+    "sr": "Pokvarena baterijska lampa"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": null,
+  "recyclesInto": {
+    "battery": 2,
+    "metal_parts": 6
+  },
+  "salvagesInto": {
+    "metal_parts": 7
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali di fabbricazione.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクルできる。",
+    "zh-TW": "可回收為製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可回收为制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "foundIn": "Security",
+  "weightKg": 2.0,
+  "stackSize": 3,
+  "imageFilename": "https://cdn.arctracker.io/items/broken_flashlight.png",
+  "updatedAt": "11/04/2025"
+}

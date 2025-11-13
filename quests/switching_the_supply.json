@@ -1,0 +1,108 @@
+{
+  "id": "ss10x7",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Switching the Supply",
+    "de": "Umstellung der Versorgung",
+    "fr": "Changer l'approvisionnement",
+    "es": "Cambiar el suministro",
+    "pt": "Mudar o Abastecimento",
+    "pl": "Zmiana zaopatrzenia",
+    "no": "Bytte forsyningen",
+    "da": "Skifte forsyningen",
+    "it": "Cambiare l'approvvigionamento",
+    "uk": "Перемикання постачання",
+    "kr": "공급 전환",
+    "ru": "Переключение снабжения",
+    "zh-CN": "切换供应",
+    "ja": "供給の切り替え",
+    "tr": "Tedariki Değiştirme",
+    "zh-TW": "切換供應",
+    "sr": "Promena Snabdevanja",
+    "hr": "Promjena Opskrbe"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "There is a reservoir beneath the Spaceport; if we manage to rout that water here, that should buy us time to deal with the contamination.",
+    "de": "Es gibt ein Reservoir unter dem Raumhafen; wenn wir es schaffen, dieses Wasser hierher umzuleiten, sollte uns das Zeit verschaffen, um uns mit der Kontamination zu befassen.",
+    "fr": "Il y a un réservoir sous le spatioport ; si nous parvenons à acheminer cette eau ici, cela devrait nous donner le temps de traiter la contamination.",
+    "es": "Hay un depósito bajo el espaciopuerto; si logramos desviar esa agua aquí, eso nos dará tiempo para lidiar con la contaminación.",
+    "pt": "Há um reservatório sob o Espaçoporto; se conseguirmos desviar essa água para cá, isso deve dar-nos tempo para lidar com a contaminação.",
+    "pl": "Pod Portem Kosmicznym znajduje się zbiornik; jeśli uda nam się przekierować tę wodę tutaj, to powinno dać nam czas na zajęcie się skażeniem.",
+    "no": "Det er et reservoar under romhavnen; hvis vi klarer å lede vannet hit, bør det gi oss tid til å håndtere forurensningen.",
+    "da": "Der er et reservoir under rumhavnen; hvis vi formår at lede det vand hertil, burde det give os tid til at håndtere forureningen.",
+    "it": "C'è un serbatoio sotto lo Spazioporto; se riusciamo a deviare quell'acqua qui, dovrebbe darci il tempo di occuparci della contaminazione.",
+    "uk": "Під космопортом є резервуар; якщо нам вдасться перенаправити ту воду сюди, це дасть нам час розібратися із забрудненням.",
+    "kr": "우주 정거장 아래에 저수지가 있습니다. 그 물을 여기로 끌어올 수 있다면, 오염을 처리할 시간을 벌 수 있을 것입니다.",
+    "ru": "Под космопортом есть резервуар; если нам удастся перенаправить ту воду сюда, это даст нам время разобраться с заражением.",
+    "zh-CN": "太空港下面有一个水库；如果我们能把那里的水引到这里，就能为我们争取时间来处理污染问题。",
+    "ja": "スペースポートの下に貯水池がある。その水をここに引くことができれば、汚染に対処する時間を稼げるはずだ。",
+    "tr": "Uzay Limanı'nın altında bir rezervuar var; eğer o suyu buraya yönlendirmeyi başarırsak, kirlenmeyle başa çıkmak için bize zaman kazandırır.",
+    "zh-TW": "太空港下面有一個水庫；如果我們能把那裡的水引到這裡，就能為我們爭取時間來處理污染問題。",
+    "sr": "Postoji rezervoar ispod Svemirske Luke; ako uspemo da preusmerimo tu vodu ovde, to bi trebalo da nam kupi vreme da se pozabavimo kontaminacijom.",
+    "hr": "Postoji rezervoar ispod Svemirske Luke; ako uspijemo preusmjeriti tu vodu ovamo, to bi nam trebalo kupiti vrijeme da se pozabavimo kontaminacijom."
+  },
+  "objectives": [
+    {
+      "en": "Find the tunnels under the Spaceport",
+      "de": "Finde die Tunnel unter dem Raumhafen",
+      "fr": "Trouver les tunnels sous le spatioport",
+      "es": "Encuentra los túneles bajo el espaciopuerto",
+      "pt": "Encontre os túneis sob o Espaçoporto",
+      "pl": "Znajdź tunele pod Portem Kosmicznym",
+      "no": "Finn tunnelene under romhavnen",
+      "da": "Find tunnelerne under rumhavnen",
+      "it": "Trova i tunnel sotto lo Spazioporto",
+      "uk": "Знайти тунелі під космопортом",
+      "kr": "우주 정거장 아래의 터널 찾기",
+      "ru": "Найти туннели под космопортом",
+      "zh-CN": "找到太空港下的隧道",
+      "ja": "スペースポート下のトンネルを見つける",
+      "tr": "Uzay Limanı'nın altındaki tünelleri bul",
+      "zh-TW": "找到太空港下的隧道",
+      "sr": "Pronađi tunele ispod Svemirske Luke",
+      "hr": "Pronađi tunele ispod Svemirske Luke"
+    },
+    {
+      "en": "Find and turn the valve in the tunnels under Spaceport",
+      "de": "Finde und drehe das Ventil in den Tunneln unter dem Raumhafen",
+      "fr": "Trouver et tourner la valve dans les tunnels sous le spatioport",
+      "es": "Encuentra y gira la válvula en los túneles bajo el espaciopuerto",
+      "pt": "Encontre e gire a válvula nos túneis sob o Espaçoporto",
+      "pl": "Znajdź i przekręć zawór w tunelach pod Portem Kosmicznym",
+      "no": "Finn og drei ventilen i tunnelene under romhavnen",
+      "da": "Find og drej ventilen i tunnelerne under rumhavnen",
+      "it": "Trova e gira la valvola nei tunnel sotto lo Spazioporto",
+      "uk": "Знайти та повернути вентиль у тунелях під космопортом",
+      "kr": "우주 정거장 아래 터널에서 밸브를 찾아 돌리기",
+      "ru": "Найти и повернуть вентиль в туннелях под космопортом",
+      "zh-CN": "在太空港下的隧道中找到并转动阀门",
+      "ja": "スペースポート下のトンネルでバルブを見つけて回す",
+      "tr": "Uzay Limanı altındaki tünellerde vanayı bul ve çevir",
+      "zh-TW": "在太空港下的隧道中找到並轉動閥門",
+      "sr": "Pronađi i okreni ventil u tunelima ispod Svemirske Luke",
+      "hr": "Pronađi i okreni ventil u tunelima ispod Svemirske Luke"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "blue_radio_renegade_color",
+      "quantity": 1
+    },
+    {
+      "itemId": "spaceport_trench_tower_key",
+      "quantity": 1
+    },
+    {
+      "itemId": "synthesized_fuel",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x6"
+  ],
+  "nextQuestIds": [
+    "ss10x8"
+  ]
+}

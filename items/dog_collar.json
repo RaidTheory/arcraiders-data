@@ -1,0 +1,58 @@
+{
+  "id": "dog_collar",
+  "name": {
+    "en": "Dog Collar",
+    "de": "Hundehalsband",
+    "fr": "Collier de chien",
+    "es": "Collar de perro",
+    "pt": "Coleira de cachorro",
+    "pl": "Obroża dla psa",
+    "no": "Hundehalsbånd",
+    "da": "Hundehalsbånd",
+    "it": "Collare per cani",
+    "ru": "Собачий ошейник",
+    "ja": "犬の首輪",
+    "zh-TW": "狗項圈",
+    "uk": "Собачий нашийник",
+    "zh-CN": "狗项圈",
+    "kr": "개 목걸이",
+    "tr": "Köpek Tasması",
+    "hr": "Pasja Ogrlica",
+    "sr": "Pasja Ogrlica"
+  },
+  "description": {
+    "en": "After all this time, you can still smell the goodness.",
+    "de": "Nach all dieser Zeit kannst du immer noch die Güte riechen.",
+    "fr": "Après tout ce temps, vous pouvez encore sentir la bonté.",
+    "es": "Después de todo este tiempo, aún puedes oler la bondad.",
+    "pt": "Depois de todo esse tempo, você ainda pode sentir o cheiro da bondade.",
+    "pl": "Po całym tym czasie wciąż czujesz zapach dobroci.",
+    "no": "Etter all denne tiden kan du fortsatt lukte godheten.",
+    "da": "Efter al denne tid kan du stadig lugte godheden.",
+    "it": "Dopo tutto questo tempo, puoi ancora sentire l'odore della bontà.",
+    "ru": "После всего этого времени вы всё ещё чувствуете запах доброты.",
+    "ja": "これほど時間が経っても、まだ優しさの匂いがする。",
+    "zh-TW": "經過這麼長時間，你仍能聞到美好的氣息。",
+    "uk": "Після всього цього часу ви все ще відчуваєте запах доброти.",
+    "zh-CN": "经过这么长时间，你仍能闻到美好的气息。",
+    "kr": "이 모든 시간이 지났지만, 여전히 좋은 냄새가 납니다.",
+    "tr": "Bunca zamandan sonra hala iyiliğin kokusunu alabiliyorsun.",
+    "hr": "Nakon svog ovog vremena, još uvijek možeš osjetiti dobrotu.",
+    "sr": "Posle svog ovog vremena, još uvek možeš osetiti dobrotu."
+  },
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 640,
+  "recyclesInto": {
+    "fabric": 8,
+    "metal_parts": 1
+  },
+  "salvagesInto": {
+    "fabric": 5
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/dog_collar.png",
+  "weightKg": 0.8,
+  "stackSize": 3,
+  "foundIn": "Residential",
+  "updatedAt": "10/30/2025"
+}

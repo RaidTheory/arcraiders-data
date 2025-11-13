@@ -1,0 +1,263 @@
+[
+  {
+    "id": "arc_surveyor",
+    "name": "ARC SURVEYOR",
+    "image": "https://cdn.arctracker.io/bots/arc_surveyor.png",
+    "type": "Reconnaissance",
+    "threat": "Low",
+    "description": "The largest of the rolling ARC. It stops periodically to transmit signals. Rarely attacks, usually runs away from Raiders. Breaks into many pieces as damage is taken.",
+    "destroyXp": 200,
+    "lootXp": 300,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "surveyor_vault"
+    ]
+  },
+  {
+    "id": "bastion",
+    "name": "BASTION",
+    "image": "https://cdn.arctracker.io/bots/arc_bastion.png",
+    "type": "Heavy Assault",
+    "threat": "Critical",
+    "description": "Massive, crab-like machines that are slow but devastating. They're capable of shredding shields and dealing massive damage with heavy attacks.",
+    "destroyXp": 500,
+    "lootXp": 250,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "bastion_part"
+    ]
+  },
+  {
+    "id": "bombardier",
+    "name": "BOMBARDIER",
+    "image": "https://cdn.arctracker.io/bots/bombardier.png",
+    "type": "Heavy Artillery",
+    "threat": "Critical",
+    "description": "A massive artillery unit designed for long-range bombardment. Equipped with devastating explosive capabilities and heavy armor, it can rain destruction from great distances.",
+    "destroyXp": 500,
+    "lootXp": 500,
+    "drops": [
+      "arc_alloy",
+      "advanced_arc_powercell",
+      "bombardier_cell",
+      "launcher_ammo"
+    ]
+  },
+  {
+    "id": "fireball",
+    "name": "FIREBALL",
+    "image": "https://cdn.arctracker.io/bots/arc_fireball.png",
+    "type": "Area Denial",
+    "threat": "High",
+    "description": "Small armored rolling ARC that spits flame. Opens front panel when near Raiders to burn them alive, exposing its soft core.",
+    "destroyXp": 100,
+    "lootXp": 100,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "fireball_burner"
+    ]
+  },
+  {
+    "id": "hornet",
+    "name": "HORNET",
+    "image": "https://cdn.arctracker.io/bots/hornet.png",
+    "type": "Medium Drone",
+    "threat": "High",
+    "description": "Medium-class drone with armored rotors. It fires focused, high-speed projectiles with a brief red laser warning. Designed to shred shields and light armor.",
+    "destroyXp": 150,
+    "lootXp": 250,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "hornet_driver",
+      "simple_gun_parts",
+      "medium_ammo"
+    ]
+  },
+  {
+    "id": "leaper",
+    "name": "LEAPER",
+    "image": "https://cdn.arctracker.io/bots/arc_bison.png",
+    "type": "Siege Engine",
+    "threat": "Critical",
+    "description": "Massive, arachnid-like siege engine with heavy armor and gravity-defying leap ability. Can clear impossible gaps and reach high vantage points.",
+    "destroyXp": 500,
+    "lootXp": 600,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "leaper_driver",
+      "energy_ammo"
+    ]
+  },
+  {
+    "id": "pop",
+    "name": "POP",
+    "image": "https://cdn.arctracker.io/bots/arc_pop.png",
+    "type": "Explosive",
+    "threat": "Moderate",
+    "description": "Small explosive ARC that detonates when approached. Quick elimination required to prevent area damage.",
+    "destroyXp": 50,
+    "lootXp": 100,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "arc_thermo_lining",
+      "crude_explosives",
+      "pop_trigger"
+    ]
+  },
+  {
+    "id": "rocketeer",
+    "name": "ROCKETEER",
+    "image": "https://cdn.arctracker.io/bots/arc_rocketeer.png",
+    "type": "Flying Artillery",
+    "threat": "Critical",
+    "description": "A formidable flying ARC that dominates airspace with powerful rocket attacks and devastating area-of-effect damage. Designed to saturate areas with explosions.",
+    "destroyXp": 500,
+    "lootXp": 200,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "advanced_arc_powercell",
+      "heavy_gun_parts",
+      "rocketeer_driver",
+      "heavy_ammo"
+    ]
+  },
+  {
+    "id": "sentinel",
+    "name": "SENTINEL",
+    "image": "https://cdn.arctracker.io/bots/arc_sentinel.png",
+    "type": "Sniper Turret",
+    "threat": "High",
+    "description": "Stationary but deadly turrets that perch on high vantage points. They scan for targets with long-range precision and lock onto players from a distance.",
+    "destroyXp": 200,
+    "lootXp": 300,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "arc_coolant",
+      "arc_synthetic_resin",
+      "arc_thermo_lining",
+      "arc_motion_core",
+      "sentinel_part",
+      "heavy_ammo"
+    ]
+  },
+  {
+    "id": "snitch",
+    "name": "SNITCH",
+    "image": "https://cdn.arctracker.io/bots/snitch.png",
+    "type": "Scout Drone",
+    "threat": "Moderate",
+    "description": "A swift, unarmored scout drone with three rotors. While fragile, it acts as an aerial alarm system, calling in reinforcements when it spots Raiders.",
+    "destroyXp": 100,
+    "lootXp": 200,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "arc_synthetic_resin",
+      "sensors",
+      "snitch_scanner"
+    ]
+  },
+  {
+    "id": "spotter",
+    "name": "SPOTTER",
+    "image": "https://cdn.arctracker.io/bots/arc_spotter.png",
+    "type": "Scout Drone",
+    "threat": "High",
+    "description": "Spotters are flying support drones for the Bombardier. They will point a laser at any Raider in line-of-sight so the Bombardier can accurately target them. If both Spotters are destroyed a new pair will respawn. When the Bombardier is destroyed the Spotters will fly away.",
+    "destroyXp": 100,
+    "lootXp": 200,
+    "drops": [
+      "spotter_relay",
+      "arc_alloy",
+      "arc_powercell",
+      "sensors"
+    ]
+  },
+  {
+    "id": "the_queen",
+    "name": "THE QUEEN",
+    "image": "https://cdn.arctracker.io/bots/arc_the_queen.png",
+    "type": "Boss",
+    "threat": "Extreme",
+    "description": "A colossal machine deployed during Harvester Events. It's the Goliath of the ARC forces with incredible durability and lethal arsenal. Requires full squad coordination.",
+    "destroyXp": 1000,
+    "lootXp": 1000,
+    "drops": [
+      "arc_alloy",
+      "advanced_arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "arc_coolant",
+      "arc_flex_rubber",
+      "arc_thermo_lining",
+      "arc_synthetic_resin",
+      "arc_performance_steel",
+      "advanced_mechanical_components",
+      "advanced_electrical_components",
+      "complex_gun_parts",
+      "magnetic_accelerator",
+      "queen_reactor"
+    ]
+  },
+  {
+    "id": "tick",
+    "name": "TICK",
+    "image": "https://cdn.arctracker.io/bots/tick.png",
+    "type": "Ambush Predator",
+    "threat": "Moderate",
+    "description": "Small, spider-like robots that leap onto players, attaching themselves to your head. They're fast and disorienting, designed to punish careless Raiders.",
+    "destroyXp": 50,
+    "lootXp": 100,
+    "drops": [
+      "arc_alloy",
+      "tick_pod"
+    ]
+  },
+  {
+    "id": "turret",
+    "name": "TURRET",
+    "image": "https://cdn.arctracker.io/bots/arc_turret.png",
+    "type": "Defense System",
+    "threat": "Moderate",
+    "description": "Small, unarmored turret providing close-quarters defense. Mounted on interior walls, it scans for movement and unleashes rapid fire when it spots Raiders.",
+    "destroyXp": 100,
+    "lootXp": 200,
+    "drops": [
+      "arc_alloy",
+      "light_ammo",
+      "simple_gun_parts"
+    ]
+  },
+  {
+    "id": "wasp",
+    "name": "WASP",
+    "image": "https://cdn.arctracker.io/bots/arc_wasp.png",
+    "type": "Flying Drone",
+    "threat": "Moderate",
+    "description": "Flying, drone-like robots equipped with powerful machine guns. They operate in swarms, are fast, agile, and relentless. Their buzzing and screeching audio cues are your first warning.",
+    "destroyXp": 100,
+    "lootXp": 200,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "wasp_driver",
+      "light_ammo"
+    ]
+  }
+]

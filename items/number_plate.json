@@ -1,0 +1,57 @@
+{
+  "id": "number_plate",
+  "name": {
+    "en": "Number Plate",
+    "de": "Nummernschild",
+    "fr": "Plaque d'Immatriculation",
+    "es": "Matrícula",
+    "pt": "Placa de Matrícula",
+    "pl": "Tablica Rejestracyjna",
+    "no": "Nummerskilt",
+    "da": "Nummerplade",
+    "it": "Targa",
+    "ru": "Номерной знак",
+    "ja": "ナンバープレート",
+    "zh-TW": "車牌",
+    "uk": "Номерний знак",
+    "zh-CN": "车牌",
+    "kr": "번호판",
+    "tr": "Plaka",
+    "hr": "Registarska Pločica",
+    "sr": "Registarska Pločica"
+  },
+  "rarity": "Uncommon",
+  "type": "Recyclable",
+  "value": 270,
+  "recyclesInto": {
+    "metal_parts": 3
+  },
+  "salvagesInto": {
+    "metal_parts": 1
+  },
+  "updatedAt": "11/04/2025",
+  "description": {
+    "en": "Can be recycled into metal parts.",
+    "de": "Kann zu Metallteilen recycelt werden.",
+    "fr": "Peut être recyclé en pièces métalliques.",
+    "es": "Puede reciclarse en piezas de metal.",
+    "pt": "Pode ser reciclado em peças de metal.",
+    "pl": "Można przetworzyć na części metalowe.",
+    "no": "Kan resirkuleres til metalldeler.",
+    "da": "Kan genbruges til metaldele.",
+    "it": "Può essere riciclato in parti metalliche.",
+    "ru": "Можно переработать в металлические детали.",
+    "ja": "金属部品にリサイクルできる。",
+    "zh-TW": "可回收為金屬零件。",
+    "uk": "Можна переробити на металеві деталі.",
+    "zh-CN": "可回收为金属零件。",
+    "kr": "금속 부품으로 재활용할 수 있습니다.",
+    "tr": "Metal parçalara geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u metalne dijelove.",
+    "sr": "Može se reciklirati u metalne delove."
+  },
+  "weightKg": 0.8,
+  "stackSize": 3,
+  "foundIn": "Mechanical",
+  "imageFilename": "https://cdn.arctracker.io/items/number_plate.png"
+}

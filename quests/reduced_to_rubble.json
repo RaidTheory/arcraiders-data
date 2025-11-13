@@ -1,0 +1,154 @@
+{
+  "id": "ss11a",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Reduced to Rubble",
+    "de": "Zu Schutt reduziert",
+    "fr": "Réduit en décombres",
+    "es": "Reducido a escombros",
+    "pt": "Reduzido a escombros",
+    "pl": "Obrócone w gruzy",
+    "no": "Redusert til grus",
+    "da": "Reduceret til ruiner",
+    "it": "Ridotto in macerie",
+    "uk": "Перетворено на руїни",
+    "kr": "잔해로 변하다",
+    "ru": "Превращено в руины",
+    "zh-CN": "化为废墟",
+    "ja": "瓦礫と化す",
+    "tr": "Moloz Yığınına Dönmüş",
+    "zh-TW": "化為廢墟",
+    "sr": "Svedeno na Ruševine",
+    "hr": "Svedeno na Ruševine"
+  },
+  "trader": "Shani",
+  "description": {
+    "en": "That collapsed highway worries me; it looks to be recent. Much of Topside may be in ruins, but most of it is from ages ago.",
+    "de": "Diese eingestürzte Autobahn beunruhigt mich; sie scheint kürzlich eingestürzt zu sein. Ein Großteil von Topside mag in Trümmern liegen, aber das meiste davon ist uralt.",
+    "fr": "Cette autoroute effondrée m'inquiète ; elle semble récente. Une grande partie de Topside est peut-être en ruines, mais la plupart datent d'il y a longtemps.",
+    "es": "Esa autopista colapsada me preocupa; parece ser reciente. Gran parte de Topside puede estar en ruinas, pero la mayoría es de hace mucho tiempo.",
+    "pt": "Aquela rodovia colapsada me preocupa; parece ser recente. Muito de Topside pode estar em ruínas, mas a maior parte é de muito tempo atrás.",
+    "pl": "Ta zawalone autostrada mnie niepokoi; wygląda na niedawną. Większość Topside może być w ruinach, ale większość z nich pochodzi sprzed wieków.",
+    "no": "Den kollapsede motorveien bekymrer meg; den ser ut til å være nylig. Mye av Topside kan være i ruiner, men det meste er fra lenge siden.",
+    "da": "Den kollapsede motorvej bekymrer mig; den ser ud til at være nylig. Meget af Topside kan være i ruiner, men det meste er fra for længe siden.",
+    "it": "Quell'autostrada crollata mi preoccupa; sembra essere recente. Gran parte di Topside può essere in rovina, ma la maggior parte risale a molto tempo fa.",
+    "uk": "Той обвалений шосе мене турбує; схоже, що це сталося нещодавно. Більша частина Верхнього рівня може бути в руїнах, але більшість з них — з давніх часів.",
+    "kr": "저 무너진 고속도로가 걱정됩니다. 최근에 생긴 것 같습니다. 탑사이드의 대부분이 폐허일 수 있지만, 대부분은 오래전 것입니다.",
+    "ru": "Этот обрушившийся хайвей меня беспокоит; похоже, что это произошло недавно. Большая часть Верхнего уровня может быть в руинах, но большинство из них — с давних времён.",
+    "zh-CN": "那条倒塌的高速公路让我担心；看起来是最近发生的。地表的大部分可能都是废墟，但大多数都是很久以前的。",
+    "ja": "あの崩壊したハイウェイが気になる。最近のもののようだ。トップサイドの多くは廃墟かもしれないが、ほとんどは遥か昔のものだ。",
+    "tr": "O çökmüş otoyol beni endişelendiriyor; yakın zamanda olmuş gibi görünüyor. Üst Taraf'ın çoğu harabe olabilir ama çoğu çok eskiden kalma.",
+    "zh-TW": "那條倒塌的高速公路讓我擔心；看起來是最近發生的。地表的大部分可能都是廢墟，但大多數都是很久以前的。",
+    "sr": "Taj srušeni autoput me brine; izgleda da je skorašnji. Veći deo Gornje Strane je možda u ruševinama, ali većina toga je od pre mnogo vremena.",
+    "hr": "Taj srušeni autoput me brine; izgleda da je nedavan. Veći dio Gornje Strane je možda u ruševinama, ali većina toga je od prije mnogo vremena."
+  },
+  "objectives": [
+    {
+      "en": "Take a photo of the Collapsed Highway",
+      "de": "Mache ein Foto von der eingestürzten Autobahn",
+      "fr": "Prendre une photo de l'autoroute effondrée",
+      "es": "Toma una foto de la autopista colapsada",
+      "pt": "Tire uma foto da rodovia colapsada",
+      "pl": "Zrób zdjęcie zawalonej autostrady",
+      "no": "Ta et bilde av den kollapsede motorveien",
+      "da": "Tag et billede af den kollapsede motorvej",
+      "it": "Scatta una foto dell'autostrada crollata",
+      "uk": "Сфотографувати обвалене шосе",
+      "kr": "무너진 고속도로 사진 찍기",
+      "ru": "Сфотографировать обрушившийся хайвей",
+      "zh-CN": "拍摄倒塌的高速公路照片",
+      "ja": "崩壊したハイウェイの写真を撮る",
+      "tr": "Çökmüş Otoyolun fotoğrafını çek",
+      "zh-TW": "拍攝倒塌的高速公路照片",
+      "sr": "Uslikaj Srušeni Autoput",
+      "hr": "Uslikaj Srušeni Autoput"
+    },
+    {
+      "en": "Go to the Broken Earth",
+      "de": "Gehe zur zerbrochenen Erde",
+      "fr": "Aller à la Terre brisée",
+      "es": "Ve a la Tierra rota",
+      "pt": "Vá para a Terra quebrada",
+      "pl": "Udaj się do Złamanej Ziemi",
+      "no": "Gå til den Knuste Jorden",
+      "da": "Gå til den Brudte Jord",
+      "it": "Vai alla Terra spezzata",
+      "uk": "Відправитися до Розколотої землі",
+      "kr": "브로큰 어스로 가기",
+      "ru": "Отправиться к Разбитой земле",
+      "zh-CN": "前往破碎大地",
+      "ja": "ブロークンアースに向かう",
+      "tr": "Kırık Toprak'a git",
+      "zh-TW": "前往破碎大地",
+      "sr": "Idi do Slomljene Zemlje",
+      "hr": "Idi do Slomljene Zemlje"
+    },
+    {
+      "en": "Follow the trail of destruction through the Broken Earth",
+      "de": "Folge der Spur der Zerstörung durch die zerbrochene Erde",
+      "fr": "Suivre la piste de destruction à travers la Terre brisée",
+      "es": "Sigue el rastro de destrucción a través de la Tierra rota",
+      "pt": "Siga o rastro de destruição através da Terra quebrada",
+      "pl": "Podążaj śladem zniszczenia przez Złamaną Ziemię",
+      "no": "Følg ødeleggelsessporet gjennom den Knuste Jorden",
+      "da": "Følg ødelæggelsessporet gennem den Brudte Jord",
+      "it": "Segui la scia di distruzione attraverso la Terra spezzata",
+      "uk": "Слідувати слідом руйнування через Розколоту землю",
+      "kr": "브로큰 어스를 통해 파괴의 흔적 따라가기",
+      "ru": "Следовать по следу разрушения через Разбитую землю",
+      "zh-CN": "沿着破坏痕迹穿过破碎大地",
+      "ja": "ブロークンアースを通って破壊の痕跡を追う",
+      "tr": "Kırık Toprak boyunca yıkım izini takip et",
+      "zh-TW": "沿著破壞痕跡穿過破碎大地",
+      "sr": "Prati trag razaranja kroz Slomljenu Zemlju",
+      "hr": "Prati trag razaranja kroz Slomljenu Zemlju"
+    },
+    {
+      "en": "Investigate the unknown ARC machines",
+      "de": "Untersuche die unbekannten ARC-Maschinen",
+      "fr": "Enquêter sur les machines ARC inconnues",
+      "es": "Investiga las máquinas ARC desconocidas",
+      "pt": "Investigue as máquinas ARC desconhecidas",
+      "pl": "Zbadaj nieznane maszyny ARC",
+      "no": "Undersøk de ukjente ARC-maskinene",
+      "da": "Undersøg de ukendte ARC-maskiner",
+      "it": "Indaga sulle macchine ARC sconosciute",
+      "uk": "Дослідити невідомі машини ARC",
+      "kr": "미확인 ARC 기계 조사하기",
+      "ru": "Исследовать неизвестные машины ARC",
+      "zh-CN": "调查未知的ARC机器",
+      "ja": "未知のARCマシンを調査する",
+      "tr": "Bilinmeyen ARC makinelerini araştır",
+      "zh-TW": "調查未知的ARC機器",
+      "sr": "Istraži nepoznate ARC mašine",
+      "hr": "Istraži nepoznate ARC strojeve"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "binoculars",
+      "quantity": 1
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "zipline",
+      "quantity": 1
+    },
+    {
+      "itemId": "barricade_kit",
+      "quantity": 3
+    },
+    {
+      "itemId": "door_blocker",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss11"
+  ],
+  "nextQuestIds": [
+    "ss11bx"
+  ]
+}

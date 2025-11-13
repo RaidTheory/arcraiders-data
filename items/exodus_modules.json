@@ -1,0 +1,58 @@
+{
+  "id": "exodus_modules",
+  "name": {
+    "en": "Exodus Modules",
+    "de": "Exodus-Module",
+    "fr": "Modules de l'Exode",
+    "es": "Módulos Exodus",
+    "pt": "Módulos Exodus",
+    "pl": "Moduły Exodus",
+    "no": "Exodus-moduler",
+    "da": "Exodus-moduler",
+    "it": "Moduli Exodus",
+    "ru": "Модули Исхода",
+    "ja": "エクソダスモジュール",
+    "zh-TW": "出埃及模組",
+    "uk": "Модулі Виходу",
+    "zh-CN": "出埃及模组",
+    "kr": "엑소더스 모듈",
+    "tr": "Exodus Modülleri",
+    "hr": "Exodus Moduli",
+    "sr": "Exodus Moduli"
+  },
+  "description": {
+    "en": "Used to craft a wide range of items. Used to craft: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+    "de": "Wird zur Herstellung verschidenster Gegenstände verwendet. Wird verwendet für: Tempest, Vulcano, Hüllenbrecher, Bobcat, Karabinerhacken",
+    "fr": "Permet de fabriquer une large gamme d'objets. Permet de fabriquer : Tempête, Vulcano, Brise-fuselage, Bobcat, Snap Hook",
+    "es": "Se usa para fabricar una amplia gama de objetos. Se usa para fabricar: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+    "pt": "Usado para fabricar uma ampla variedade de itens. Usado para fabricar: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+    "pl": "Używane do wytwarzania szerokiej gamy przedmiotów. Używane do wytworzenia: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+    "no": "Brukes til å lage et bredt spekter av gjenstander. Brukes til å lage: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+    "da": "Bruges til at lave en bred vifte af genstande. Bruges til at lave: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+    "it": "Usato per creare un'ampia gamma di oggetti. Usato per creare: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+    "ru": "Используется для создания широкого спектра предметов. Используется для создания: Буря, Вулкано, Корпусолом, Рысь, Карабин",
+    "ja": "幅広いアイテムの製作に使用される。製作可能：テンペスト、ヴルカーノ、ハルクラッカー、ボブキャット、スナップフック",
+    "zh-TW": "用於製作各種物品。可製作：暴風、火山、破殼者、山貓、快扣",
+    "uk": "Використовується для створення широкого спектру предметів. Використовується для створення: Буря, Вулкано, Корпусолом, Рись, Карабін",
+    "zh-CN": "用于制作各种物品。可制作：暴风、火山、破壳者、山猫、快扣",
+    "kr": "다양한 아이템 제작에 사용됨. 제작 가능: 템페스트, 불카노, 헐크래커, 밥캣, 스냅 훅",
+    "tr": "Geniş bir yelpazede eşya üretmek için kullanılır. Üretilebilir: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+    "hr": "Koristi se za izradu širokog spektra predmeta. Koristi se za izradu: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+    "sr": "Koristi se za izradu širokog spektra predmeta. Koristi se za izradu: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook"
+  },
+  "type": "Topside Material",
+  "rarity": "Epic",
+  "weightKg": 1.0,
+  "stackSize": 3,
+  "foundIn": "Exodus",
+  "recyclesInto": {
+    "wires": 2,
+    "processor": 2
+  },
+  "salvagesInto": {
+    "processor": 2
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/exodus_modules.png",
+  "value": 2750,
+  "updatedAt": "11/05/2025"
+}

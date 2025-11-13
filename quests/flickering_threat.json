@@ -1,0 +1,148 @@
+{
+  "id": "ss10x11",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Flickering Threat",
+    "de": "Flackernde Bedrohung",
+    "fr": "Menace vacillante",
+    "es": "Amenaza parpadeante",
+    "pt": "Ameaça intermitente",
+    "pl": "Migocące zagrożenie",
+    "no": "Flimrende trussel",
+    "da": "Flimrende trussel",
+    "it": "Minaccia tremolante",
+    "uk": "Мерехтлива загроза",
+    "kr": "깜박이는 위협",
+    "ru": "Мерцающая угроза",
+    "zh-CN": "闪烁的威胁",
+    "ja": "明滅する脅威",
+    "tr": "Titreyen Tehdit",
+    "zh-TW": "閃爍的威脅",
+    "sr": "Treperава Pretnja",
+    "hr": "Treperава Prijetnja"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "My usual engineer is still healing from his wounds, and has been loopy for days. We can't afford to be at half-grid until he heals; I need someone to pick up his wrench in the mean time.",
+    "de": "Mein üblicher Ingenieur erholt sich immer noch von seinen Wunden und ist seit Tagen benommen. Wir können es uns nicht leisten, mit halber Netzleistung zu arbeiten, bis er geheilt ist; ich brauche jemanden, der in der Zwischenzeit seinen Schraubenschlüssel übernimmt.",
+    "fr": "Mon ingénieur habituel se remet encore de ses blessures et est dans les vapes depuis des jours. On ne peut pas se permettre de fonctionner à demi-régime jusqu'à ce qu'il guérisse ; j'ai besoin de quelqu'un pour prendre sa clé en attendant.",
+    "es": "Mi ingeniero habitual todavía se está recuperando de sus heridas y ha estado aturdido durante días. No podemos permitirnos estar a media red hasta que se cure; necesito que alguien tome su llave inglesa mientras tanto.",
+    "pt": "Meu engenheiro habitual ainda está se recuperando dos ferimentos e está confuso há dias. Não podemos nos dar ao luxo de ficar com meia rede até ele se curar; preciso que alguém pegue sua chave inglesa enquanto isso.",
+    "pl": "Mój zwykły inżynier wciąż leczy rany i od dni jest zamroczony. Nie możemy sobie pozwolić na pracę na pół mocy, dopóki się nie wyleczy; potrzebuję kogoś, kto w międzyczasie przejmie jego klucz.",
+    "no": "Min vanlige ingeniør er fortsatt i ferd med å hele fra sårene sine, og har vært omtåket i dager. Vi har ikke råd til å være på halvt nett til han blir frisk; jeg trenger noen til å ta opp skiftenøkkelen hans i mellomtiden.",
+    "da": "Min sædvanlige ingeniør er stadig ved at hele fra sine sår og har været omtåget i dage. Vi har ikke råd til at være på halvt net, indtil han bliver rask; jeg har brug for nogen til at tage hans skruenøgle i mellemtiden.",
+    "it": "Il mio ingegnere abituale sta ancora guarendo dalle ferite ed è stato confuso per giorni. Non possiamo permetterci di essere a metà rete finché non guarisce; ho bisogno di qualcuno che prenda in mano la sua chiave inglese nel frattempo.",
+    "uk": "Мій звичайний інженер все ще лікується від ран і вже кілька днів перебуває в неадекватному стані. Ми не можемо дозволити собі працювати на половину потужності, поки він одужує; мені потрібен хтось, хто підхопить його гайковий ключ тим часом.",
+    "kr": "우리 엔지니어는 아직 부상에서 회복 중이고, 며칠째 정신이 혼미한 상태야. 그가 회복할 때까지 절반의 전력으로 버틸 여유가 없어. 그동안 누군가 그의 렌치를 대신 들어줘야 해.",
+    "ru": "Мой обычный инженер всё ещё лечится от ран и уже несколько дней находится в бреду. Мы не можем позволить себе работать вполсилы, пока он не выздоровеет; мне нужен кто-то, кто возьмёт его гаечный ключ на это время.",
+    "zh-CN": "我的工程师还在养伤，已经神志不清好几天了。我们不能等他痊愈才恢复全部电力供应；我需要有人在这期间接手他的扳手。",
+    "ja": "いつもの技術者はまだ傷の治療中で、数日間ぼんやりした状態が続いている。彼が治るまで半分の電力で我慢するわけにはいかない。その間、誰かに彼のレンチを引き継いでもらう必要がある。",
+    "tr": "Mühendisim hala yaralarından iyileşiyor ve günlerdir sersemleşmiş durumda. İyileşene kadar yarı kapasitede çalışmayı göze alamayız; bu arada onun yerine anahtarı alacak birine ihtiyacım var.",
+    "zh-TW": "我的工程師還在養傷，已經神智不清好幾天了。我們不能等他痊癒才恢復全部電力供應；我需要有人在這期間接手他的扳手。",
+    "sr": "Moj uobičajeni inženjer se još uvek oporavlja od rana i danima je omamljen. Ne možemo sebi priuštiti da radimo na pola snage dok se ne oporavi; potreban mi je neko ko će preuzeti njegov ključ u međuvremenu.",
+    "hr": "Moj uobičajeni inženjer se još uvijek oporavlja od rana i danima je omamljen. Ne možemo si priuštiti da radimo na pola snage dok se ne oporavi; potreban mi je netko tko će preuzeti njegov ključ u međuvremenu."
+  },
+  "objectives": [
+    {
+      "en": "Find the Generator Room",
+      "de": "Finde den Generatorraum",
+      "fr": "Trouvez la salle des générateurs",
+      "es": "Encuentra la sala de generadores",
+      "pt": "Encontre a sala do gerador",
+      "pl": "Znajdź pomieszczenie generatora",
+      "no": "Finn generatorrommet",
+      "da": "Find generatorummet",
+      "it": "Trova la sala generatori",
+      "uk": "Знайдіть генераторну кімнату",
+      "kr": "발전기실 찾기",
+      "ru": "Найдите генераторную",
+      "zh-CN": "找到发电机房",
+      "ja": "発電機室を見つける",
+      "tr": "Jeneratör Odasını bul",
+      "zh-TW": "找到發電機房",
+      "sr": "Pronađi sobu sa generatorom",
+      "hr": "Pronađi sobu s generatorom"
+    },
+    {
+      "en": "Repair the Generator",
+      "de": "Repariere den Generator",
+      "fr": "Réparez le générateur",
+      "es": "Repara el generador",
+      "pt": "Conserte o gerador",
+      "pl": "Napraw generator",
+      "no": "Reparer generatoren",
+      "da": "Reparer generatoren",
+      "it": "Ripara il generatore",
+      "uk": "Відремонтуйте генератор",
+      "kr": "발전기 수리하기",
+      "ru": "Отремонтируйте генератор",
+      "zh-CN": "修理发电机",
+      "ja": "発電機を修理する",
+      "tr": "Jeneratörü tamir et",
+      "zh-TW": "修理發電機",
+      "sr": "Popravi generator",
+      "hr": "Popravi generator"
+    },
+    {
+      "en": "Find the Ventilation Shaft",
+      "de": "Finde den Lüftungsschacht",
+      "fr": "Trouvez le conduit de ventilation",
+      "es": "Encuentra el conducto de ventilación",
+      "pt": "Encontre o duto de ventilação",
+      "pl": "Znajdź szyb wentylacyjny",
+      "no": "Finn ventilasjonssjakt",
+      "da": "Find ventilationskanalen",
+      "it": "Trova il condotto di ventilazione",
+      "uk": "Знайдіть вентиляційну шахту",
+      "kr": "환기구 찾기",
+      "ru": "Найдите вентиляционную шахту",
+      "zh-CN": "找到通风井",
+      "ja": "換気シャフトを見つける",
+      "tr": "Havalandırma Bacasını bul",
+      "zh-TW": "找到通風井",
+      "sr": "Pronađi ventilacioni otvor",
+      "hr": "Pronađi ventilacijsko okno"
+    },
+    {
+      "en": "Enable the power via the power switch underneath the stairs",
+      "de": "Aktiviere den Strom über den Netzschalter unter der Treppe",
+      "fr": "Activez l'alimentation via l'interrupteur sous les escaliers",
+      "es": "Activa la energía mediante el interruptor debajo de las escaleras",
+      "pt": "Ative a energia através do interruptor embaixo da escada",
+      "pl": "Włącz zasilanie za pomocą przełącznika pod schodami",
+      "no": "Aktiver strømmen via strømbryteren under trappen",
+      "da": "Aktiver strømmen via strømkontakten under trappen",
+      "it": "Attiva l'alimentazione tramite l'interruttore sotto le scale",
+      "uk": "Увімкніть живлення за допомогою вимикача під сходами",
+      "kr": "계단 아래 전원 스위치로 전력 활성화하기",
+      "ru": "Включите питание через выключатель под лестницей",
+      "zh-CN": "通过楼梯下方的电源开关启动电力",
+      "ja": "階段の下にある電源スイッチで電力を有効にする",
+      "tr": "Merdivenlerin altındaki güç düğmesi ile gücü etkinleştir",
+      "zh-TW": "透過樓梯下方的電源開關啟動電力",
+      "sr": "Uključi struju pomoću prekidača ispod stepenica",
+      "hr": "Uključi struju pomoću prekidača ispod stubišta"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "helmet_radio_renegade",
+      "quantity": 1
+    },
+    {
+      "itemId": "medium_gun_parts",
+      "quantity": 5
+    },
+    {
+      "itemId": "advanced_mechanical_components",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x10"
+  ],
+  "nextQuestIds": [
+    "ss10x12"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "complex_gun_parts",
+  "name": {
+    "en": "Complex Gun Parts",
+    "de": "Komplexe Waffenteile",
+    "fr": "Pièces d'arme complexes",
+    "es": "Piezas de arma complejas",
+    "pt": "Peças de arma complexas",
+    "pl": "Złożone części broni",
+    "no": "Komplekse våpendeler",
+    "da": "Komplekse våbendele",
+    "it": "Parti di arma complesse",
+    "ru": "Сложные детали оружия",
+    "ja": "複雑な銃パーツ",
+    "zh-TW": "複雜槍械零件",
+    "uk": "Складні деталі зброї",
+    "zh-CN": "复杂枪械零件",
+    "kr": "복잡한 총기 부품",
+    "tr": "Karmaşık Silah Parçaları",
+    "hr": "Složeni Dijelovi Oružja",
+    "sr": "Složeni Delovi Oružja"
+  },
+  "description": {
+    "en": "Used to craft advanced weapons. Used to craft: Equalizer, Jupiter",
+    "de": "Wird zur Herstellung fortschrittlichen Waffen verwendet. Wird verwendet für: Equalizer, Jupiter",
+    "fr": "Permet de fabriquer des armes avancées. Permet de fabriquer : Equalizer, Jupiter",
+    "es": "Se usa para fabricar armas avanzadas. Se usa para fabricar: Equalizer, Jupiter",
+    "pt": "Usado para fabricar armas avançadas. Usado para fabricar: Equalizer, Jupiter",
+    "pl": "Używane do wytwarzania zaawansowanej broni. Używane do wytworzenia: Equalizer, Jupiter",
+    "no": "Brukes til å lage avanserte våpen. Brukes til å lage: Equalizer, Jupiter",
+    "da": "Bruges til at lave avancerede våben. Bruges til at lave: Equalizer, Jupiter",
+    "it": "Usato per creare armi avanzate. Usato per creare: Equalizer, Jupiter",
+    "ru": "Используется для создания продвинутого оружия. Используется для крафта: Equalizer, Jupiter",
+    "ja": "高度な武器の製作に使用。製作可能: Equalizer、Jupiter",
+    "zh-TW": "用於製作高級武器。可製作：Equalizer、Jupiter",
+    "uk": "Використовується для створення просунутої зброї. Використовується для крафту: Equalizer, Jupiter",
+    "zh-CN": "用于制作高级武器。可制作：Equalizer、Jupiter",
+    "kr": "고급 무기 제작에 사용. 제작 가능: Equalizer, Jupiter",
+    "tr": "Gelişmiş silahlar üretmek için kullanılır. Üretilebilir: Equalizer, Jupiter",
+    "hr": "Koristi se za izradu naprednog oružja. Koristi se za izradu: Equalizer, Jupiter",
+    "sr": "Koristi se za izradu naprednog oružja. Koristi se za izradu: Equalizer, Jupiter"
+  },
+  "type": "Topside Material",
+  "rarity": "Epic",
+  "weightKg": 1.0,
+  "stackSize": 3,
+  "foundIn": "Security",
+  "imageFilename": "https://cdn.arctracker.io/items/complex_gun_parts.png",
+  "value": 2000,
+  "recyclesInto": {
+    "simple_gun_parts": 3
+  },
+  "updatedAt": "11/03/2025",
+  "recipe": {
+    "light_gun_parts": 2,
+    "medium_gun_parts": 2,
+    "heavy_gun_parts": 2
+  },
+  "craftBench": "refiner"
+}

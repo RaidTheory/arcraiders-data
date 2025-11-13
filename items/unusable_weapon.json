@@ -1,0 +1,57 @@
+{
+  "id": "unusable_weapon",
+  "name": {
+    "en": "Unusable Weapon",
+    "de": "Unbrauchbare Waffe",
+    "fr": "Arme inutilisable",
+    "es": "Arma inutilizable",
+    "pt": "Arma inutilizável",
+    "pl": "Niezdatna broń",
+    "no": "Ubrukelig våpen",
+    "da": "Ubrugeligt våben",
+    "it": "Arma inutilizzabile",
+    "ja": "使用不可能な武器",
+    "kr": "사용 불가능한 무기",
+    "zh-CN": "无法使用的武器",
+    "zh-TW": "無法使用的武器",
+    "ru": "Непригодное оружие",
+    "tr": "Kullanılamaz Silah",
+    "uk": "Непридатна зброя",
+    "sr": "Neupotrebljivo oružje",
+    "hr": "Neupotrebljivo oružje"
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede ser reciclado en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Może zostać przetworzony na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ja": "クラフト素材にリサイクルできる。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "zh-CN": "可以回收为制作材料。",
+    "zh-TW": "可以回收為製作材料。",
+    "ru": "Можно переработать в материалы для крафта.",
+    "tr": "İşleme malzemelerine geri dönüştürülebilir.",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "hr": "Može se reciklirati u materijale za izradu."
+  },
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "weightKg": 3.0,
+  "value": 2000,
+  "foundIn": "Security",
+  "recyclesInto": {
+    "metal_parts": 4,
+    "simple_gun_parts": 5
+  },
+  "salvagesInto": {
+    "simple_gun_parts": 3
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/unusable_weapon.png",
+  "updatedAt": "11/09/2025"
+}

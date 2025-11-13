@@ -1,0 +1,52 @@
+{
+  "id": "kettle_ii",
+  "name": {
+    "en": "Kettle II",
+    "de": "Kettle II",
+    "fr": "Fondoir II",
+    "es": "Kettle II",
+    "pt": "Kettle II",
+    "pl": "Kettle II",
+    "no": "Kettle II",
+    "da": "Kettle II",
+    "it": "Kettle II",
+    "ru": "Чайник II",
+    "ja": "ケトル II",
+    "zh-TW": "水壺 II",
+    "uk": "Чайник II",
+    "zh-CN": "水壶 II",
+    "kr": "케틀 II",
+    "tr": "Kettle II",
+    "hr": "Kettle II",
+    "sr": "Kettle II"
+  },
+  "description": {
+    "en": "Semi-automatic assault rifle. Quick and accurate, but has low bullet velocity and takes a long time reload.",
+    "de": "Halbautomatisches Sturmgewehr. Schnell und präzise, aber mit niedriger Geschossgeschwindigkeit und langer Nachladezeit.",
+    "fr": "Fusil d'assaut semi-automatique. Rapide et précis, mais a une faible vélocité des balles et prend beaucoup de temps à recharger.",
+    "es": "Rifle de asalto semiautomático. Rápido y preciso, pero tiene baja velocidad de bala y tarda mucho en recargar.",
+    "pt": "Rifle de assalto semiautomático. Rápido e preciso, mas tem baixa velocidade de bala e demora muito para recarregar.",
+    "pl": "Półautomatyczny karabin szturmowy. Szybki i celny, ale ma niską prędkość pocisku i długi czas przeładowania.",
+    "no": "Halvautomatisk angrepsrifle. Rask og nøyaktig, men har lav kulehastighet og tar lang tid å lade.",
+    "da": "Halvautomatisk angrebsriffel. Hurtig og præcis, men har lav kugelhastighed og tager lang tid at genlade.",
+    "it": "Fucile d'assalto semiautomatico. Veloce e preciso, ma ha bassa velocità dei proiettili e richiede molto tempo per ricaricare.",
+    "ru": "Полуавтоматическая штурмовая винтовка. Быстрая и точная, но имеет низкую скорость пули и долго перезаряжается.",
+    "ja": "セミオートマチックアサルトライフル。素早く正確だが、弾速が遅く、リロードに時間がかかる。",
+    "zh-TW": "半自動突擊步槍。快速且精準，但子彈速度較慢且裝填時間較長。",
+    "uk": "Напівавтоматична штурмова гвинтівка. Швидка і точна, але має низьку швидкість кулі та довго перезаряджається.",
+    "zh-CN": "半自动突击步枪。快速且精准，但子弹速度较慢且装填时间较长。",
+    "kr": "반자동 돌격소총. 빠르고 정확하지만 탄속이 느리고 재장전 시간이 깁니다.",
+    "tr": "Yarı otomatik saldırı tüfeği. Hızlı ve isabetli, ancak düşük mermi hızına sahip ve yeniden doldurması uzun sürer.",
+    "hr": "Poluautomatska jurišna puška. Brza i precizna, ali ima nisku brzinu metka i dugo traje punjenje.",
+    "sr": "Poluautomatska jurišna puška. Brza i precizna, ali ima nisku brzinu metka i dugo traje punjenje."
+  },
+  "type": "Weapon",
+  "rarity": "Common",
+  "value": 840,
+  "recyclesInto": {
+    "plastic_parts": 6,
+    "rubber_parts": 6
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
+  "updatedAt": "10/30/2025"
+}

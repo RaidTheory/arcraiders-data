@@ -1,0 +1,126 @@
+{
+  "id": "ss11b",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Lost in Transmission",
+    "de": "Übertragung unterbrochen",
+    "fr": "Perdu dans la transmission",
+    "es": "Perdido en la transmisión",
+    "pt": "Perdido na transmissão",
+    "pl": "Zagubione w transmisji",
+    "no": "Tapt i overføringen",
+    "da": "Tabt i transmission",
+    "it": "Perso nella trasmissione",
+    "uk": "Втрачено при передачі",
+    "kr": "전송 중 손실",
+    "ru": "Потеряно при передаче",
+    "zh-CN": "传输中断",
+    "ja": "送信途絶",
+    "tr": "İletimde Kayıp",
+    "zh-TW": "傳輸中斷",
+    "sr": "Izgubljeno u prenosu",
+    "hr": "Izgubljeno u prijenosu"
+  },
+  "trader": "Shani",
+  "description": {
+    "en": "I have equipment set up at the Spaceport, to monitor ARC's movements. My connection broke down just now — I need you to head to the Control Towers and help me retrieve my logs.",
+    "de": "Ich habe Ausrüstung am Raumhafen installiert, um ARCs Bewegungen zu überwachen. Meine Verbindung ist gerade ausgefallen — ich brauche dich, um zu den Kontrolltürmen zu gehen und mir zu helfen, meine Protokolle abzurufen.",
+    "fr": "J'ai installé du matériel au spatioport pour surveiller les mouvements d'ARC. Ma connexion vient de tomber en panne — j'ai besoin que tu te rendes aux tours de contrôle et que tu m'aides à récupérer mes journaux.",
+    "es": "Tengo equipo instalado en el espaciopuerto para monitorear los movimientos de ARC. Mi conexión acaba de fallar — necesito que vayas a las torres de control y me ayudes a recuperar mis registros.",
+    "pt": "Tenho equipamento instalado no espaçoporto para monitorar os movimentos da ARC. Minha conexão acabou de cair — preciso que você vá até as torres de controle e me ajude a recuperar meus registros.",
+    "pl": "Mam sprzęt ustawiony w porcie kosmicznym, aby monitorować ruchy ARC. Moje połączenie właśnie się zerwało — potrzebuję, żebyś udał się do wież kontrolnych i pomógł mi odzyskać moje dzienniki.",
+    "no": "Jeg har utstyr satt opp ved romhavnen for å overvåke ARCs bevegelser. Forbindelsen min brøt sammen akkurat nå — jeg trenger at du drar til kontrolltårnene og hjelper meg med å hente loggene mine.",
+    "da": "Jeg har udstyr sat op ved rumhavnen for at overvåge ARCs bevægelser. Min forbindelse brød sammen lige nu — jeg har brug for, at du tager til kontroltårnene og hjælper mig med at hente mine logfiler.",
+    "it": "Ho installato delle attrezzature allo spazioporto per monitorare i movimenti di ARC. La mia connessione si è appena interrotta — ho bisogno che tu vada alle torri di controllo e mi aiuti a recuperare i miei registri.",
+    "uk": "У мене встановлено обладнання в космопорту для моніторингу переміщень ARC. Щойно зв'язок перервався — мені потрібно, щоб ти відправився до контрольних веж і допоміг мені відновити мої журнали.",
+    "kr": "ARC의 움직임을 감시하기 위해 우주항에 장비를 설치해 두었습니다. 방금 연결이 끊겼어요 — 관제탑으로 가서 로그를 복구하는 것을 도와주세요.",
+    "ru": "У меня установлено оборудование в космопорту для отслеживания перемещений ARC. Только что связь прервалась — мне нужно, чтобы ты отправился к диспетчерским вышкам и помог мне восстановить мои журналы.",
+    "zh-CN": "我在太空港设置了设备来监视ARC的动向。我的连接刚刚中断了——我需要你前往控制塔帮我找回日志。",
+    "ja": "ARCの動きを監視するため、スペースポートに機器を設置してある。たった今接続が切れてしまった——管制塔に向かって、ログの回収を手伝ってほしい。",
+    "tr": "ARC'ın hareketlerini izlemek için Uzay Limanı'nda ekipman kurdum. Bağlantım az önce kesildi — Kontrol Kulelerine gidip günlüklerimi almama yardım etmeni istiyorum.",
+    "zh-TW": "我在太空港設置了設備來監視ARC的動向。我的連線剛剛中斷了——我需要你前往控制塔幫我找回日誌。",
+    "sr": "Imam opremu postavljenu na Svemirskoj luci da pratim kretanje ARC-a. Veza mi se upravo prekinula — trebam da odeš do Kontrolnih tornjeva i pomogneš mi da povratim svoje zapise.",
+    "hr": "Imam opremu postavljenu na Svemirskoj luci za praćenje kretanja ARC-a. Veza mi se upravo prekinula — trebam da odeš do Kontrolnih tornjeva i pomogneš mi povratiti svoje zapise."
+  },
+  "objectives": [
+    {
+      "en": "Visit Control Tower A6",
+      "de": "Besuche Kontrollturm A6",
+      "fr": "Visiter la tour de contrôle A6",
+      "es": "Visita la torre de control A6",
+      "pt": "Visite a torre de controle A6",
+      "pl": "Odwiedź wieżę kontrolną A6",
+      "no": "Besøk kontrolltårn A6",
+      "da": "Besøg kontroltårn A6",
+      "it": "Visita la torre di controllo A6",
+      "uk": "Відвідати контрольну вежу A6",
+      "kr": "관제탑 A6 방문",
+      "ru": "Посетить диспетчерскую вышку A6",
+      "zh-CN": "前往控制塔A6",
+      "ja": "管制塔A6を訪れる",
+      "tr": "Kontrol Kulesi A6'yı ziyaret et",
+      "zh-TW": "前往控制塔A6",
+      "sr": "Poseti Kontrolni toranj A6",
+      "hr": "Posjeti Kontrolni toranj A6"
+    },
+    {
+      "en": "Reach the top of Control Tower A6",
+      "de": "Erreiche die Spitze von Kontrollturm A6",
+      "fr": "Atteindre le sommet de la tour de contrôle A6",
+      "es": "Alcanza la cima de la torre de control A6",
+      "pt": "Alcance o topo da torre de controle A6",
+      "pl": "Dotrzyj na szczyt wieży kontrolnej A6",
+      "no": "Nå toppen av kontrolltårn A6",
+      "da": "Nå toppen af kontroltårn A6",
+      "it": "Raggiungi la cima della torre di controllo A6",
+      "uk": "Дістатися вершини контрольної вежі A6",
+      "kr": "관제탑 A6 꼭대기에 도달",
+      "ru": "Добраться до вершины диспетчерской вышки A6",
+      "zh-CN": "到达控制塔A6的顶部",
+      "ja": "管制塔A6の頂上に到達する",
+      "tr": "Kontrol Kulesi A6'nın tepesine ulaş",
+      "zh-TW": "到達控制塔A6的頂部",
+      "sr": "Stigni do vrha Kontrolnog tornja A6",
+      "hr": "Stigni do vrha Kontrolnog tornja A6"
+    },
+    {
+      "en": "Establish a connection from the terminal",
+      "de": "Stelle eine Verbindung vom Terminal her",
+      "fr": "Établir une connexion depuis le terminal",
+      "es": "Establece una conexión desde la terminal",
+      "pt": "Estabeleça uma conexão do terminal",
+      "pl": "Nawiąż połączenie z terminala",
+      "no": "Etabler en forbindelse fra terminalen",
+      "da": "Etabler en forbindelse fra terminalen",
+      "it": "Stabilisci una connessione dal terminale",
+      "uk": "Встановити з'єднання з терміналу",
+      "kr": "터미널에서 연결 수립",
+      "ru": "Установить соединение с терминала",
+      "zh-CN": "从终端建立连接",
+      "ja": "ターミナルから接続を確立する",
+      "tr": "Terminalden bağlantı kur",
+      "zh-TW": "從終端建立連線",
+      "sr": "Uspostavi vezu sa terminala",
+      "hr": "Uspostavi vezu s terminala"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "spaceport_control_tower_key",
+      "quantity": 1
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "snap_hook",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10z"
+  ],
+  "nextQuestIds": [
+    "ss11b2"
+  ]
+}

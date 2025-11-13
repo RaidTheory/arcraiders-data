@@ -1,0 +1,60 @@
+{
+  "id": "magnetic_accelerator",
+  "name": {
+    "en": "Magnetic Accelerator",
+    "de": "Magnetischer Beschleuniger",
+    "fr": "Accélérateur Magnétique",
+    "es": "Acelerador Magnético",
+    "pt": "Acelerador Magnético",
+    "pl": "Akcelerator Magnetyczny",
+    "no": "Magnetisk Akselerator",
+    "da": "Magnetisk Accelerator",
+    "it": "Acceleratore Magnetico",
+    "ru": "Магнитный ускоритель",
+    "ja": "磁気加速器",
+    "zh-TW": "磁力加速器",
+    "uk": "Магнітний прискорювач",
+    "zh-CN": "磁力加速器",
+    "kr": "자기 가속기",
+    "tr": "Manyetik Hızlandırıcı",
+    "hr": "Magnetski Akcelerator",
+    "sr": "Magnetski Akcelerator"
+  },
+  "rarity": "Epic",
+  "type": "Refined Material",
+  "value": 5500,
+  "recyclesInto": {
+    "advanced_mechanical_components": 1,
+    "arc_motion_core": 1
+  },
+  "description": {
+    "en": "Used to craft advanced weapons. Used to craft: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "de": "Wird zur Herstellung von fortschrittlichen Waffen verwendet. Wird verwendet für: Tempest, Equalizer, Vulcano, Jupiter, Hüllenbrecher",
+    "fr": "Permet de fabriquer des armes avancées. Permet de fabriquer : Tempête, Equalizer, Vulcano, Jupiter, Brise-fuselage",
+    "es": "Usado para fabricar armas avanzadas. Usado para fabricar: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "pt": "Usado para fabricar armas avançadas. Usado para fabricar: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "pl": "Używany do wytwarzania zaawansowanej broni. Używany do wytworzenia: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "no": "Brukes til å lage avanserte våpen. Brukes til å lage: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "da": "Bruges til at lave avancerede våben. Bruges til at lave: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "it": "Usato per creare armi avanzate. Usato per creare: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "ru": "Используется для создания продвинутого оружия. Используется для создания: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "ja": "高度な武器の製作に使用。製作可能: Tempest、Equalizer、Vulcano、Jupiter、Hullcracker",
+    "zh-TW": "用於製作高級武器。可製作：Tempest、Equalizer、Vulcano、Jupiter、Hullcracker",
+    "uk": "Використовується для створення просунутої зброї. Використовується для створення: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "zh-CN": "用于制作高级武器。可制作：Tempest、Equalizer、Vulcano、Jupiter、Hullcracker",
+    "kr": "고급 무기 제작에 사용됩니다. 제작 가능: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "tr": "Gelişmiş silahlar üretmek için kullanılır. Üretilebilir: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "hr": "Koristi se za izradu naprednog oružja. Koristi se za izradu: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+    "sr": "Koristi se za izradu naprednog oružja. Koristi se za izradu: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker"
+  },
+  "weightKg": 1.0,
+  "stackSize": 3,
+  "foundIn": "Exodus",
+  "imageFilename": "https://cdn.arctracker.io/items/magnetic_accelerator.png",
+  "updatedAt": "11/03/2025",
+  "recipe": {
+    "advanced_mechanical_components": 2,
+    "arc_motion_core": 2
+  },
+  "craftBench": "refiner"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "ss10b",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Dormant Barons",
+    "de": "Ruhende Barone",
+    "fr": "Barons dormants",
+    "es": "Barones inactivos",
+    "pt": "Barões adormecidos",
+    "pl": "Uśpieni Baronowie",
+    "no": "Sovende baroner",
+    "da": "Sovende baroner",
+    "it": "Baroni dormienti",
+    "uk": "Сплячі барони",
+    "kr": "휴면 중인 바론들",
+    "ru": "Спящие бароны",
+    "zh-CN": "休眠男爵",
+    "ja": "休眠中のバロン",
+    "tr": "Uykudaki Baronlar",
+    "zh-TW": "休眠男爵",
+    "sr": "Uspavani Baroni",
+    "hr": "Uspavani Baroni"
+  },
+  "trader": "Shani",
+  "description": {
+    "en": "During the First Wave, the Barons did more damage than all the other machines combined. Now they're mere husks; fixed in place where they once fell... Still, their internals might hold the answer to keeping ARC at bay. So open one up, and bring me whatever is inside.",
+    "de": "Während der ersten Welle richteten die Barone mehr Schaden an als alle anderen Maschinen zusammen. Jetzt sind sie nur noch Hüllen; fixiert an dem Ort, wo sie einst fielen... Dennoch könnten ihre Innereien die Antwort darauf enthalten, wie man ARC in Schach hält. Also öffne einen und bring mir, was auch immer darin ist.",
+    "fr": "Pendant la première vague, les Barons ont fait plus de dégâts que toutes les autres machines réunies. Maintenant, ce ne sont que des carcasses ; fixées à l'endroit où elles sont tombées... Pourtant, leurs composants internes pourraient détenir la réponse pour tenir ARC à distance. Alors ouvrez-en un et apportez-moi ce qu'il y a à l'intérieur.",
+    "es": "Durante la Primera Ola, los Barones causaron más daño que todas las otras máquinas juntas. Ahora son meros cascarones; fijos en el lugar donde cayeron... Aun así, sus componentes internos podrían contener la respuesta para mantener a ARC a raya. Así que abre uno y tráeme lo que haya dentro.",
+    "pt": "Durante a Primeira Onda, os Barões causaram mais danos do que todas as outras máquinas juntas. Agora são meras cascas; fixos no lugar onde caíram... Ainda assim, seus componentes internos podem conter a resposta para manter a ARC afastada. Então abra um e me traga o que estiver dentro.",
+    "pl": "Podczas Pierwszej Fali Baronowie wyrządzili więcej szkód niż wszystkie inne maszyny razem wzięte. Teraz są tylko pustymi skorupami; unieruchomionymi w miejscu, gdzie kiedyś upadły... Mimo to ich wnętrze może kryć odpowiedź na to, jak powstrzymać ARC. Więc otwórz jednego i przynieś mi, co jest w środku.",
+    "no": "Under den første bølgen gjorde baronene mer skade enn alle de andre maskinene til sammen. Nå er de bare tomme skall; festet på stedet der de en gang falt... Likevel kan deres innvendige dele inneholde svaret på å holde ARC i sjakk. Så åpne en opp, og ta med meg hva som er inni.",
+    "da": "Under den første bølge gjorde baronerne mere skade end alle de andre maskiner tilsammen. Nu er de blot tomme skrog; fastgjort på stedet, hvor de engang faldt... Alligevel kan deres indre dele indeholde svaret på at holde ARC i skak. Så åbn en op, og bring mig hvad der er indeni.",
+    "it": "Durante la Prima Ondata, i Baroni hanno fatto più danni di tutte le altre macchine messe insieme. Ora sono solo gusci vuoti; fissati nel punto in cui sono caduti... Tuttavia, i loro componenti interni potrebbero contenere la risposta per tenere ARC a bada. Quindi aprine uno e portami qualunque cosa ci sia dentro.",
+    "uk": "Під час Першої хвилі барони завдали більше шкоди, ніж усі інші машини разом узяті. Тепер вони лише порожні оболонки, закріплені там, де колись впали... Проте їхні внутрішні компоненти можуть містити відповідь на те, як тримати ARC на відстані. Тож розкрийте одного з них і принесіть мені все, що всередині.",
+    "kr": "첫 번째 웨이브 동안, 바론들은 다른 모든 기계들을 합친 것보다 더 많은 피해를 입혔어. 이제 그들은 단지 껍데기일 뿐이지. 한때 쓰러진 그 자리에 고정되어 있어... 그래도 그들의 내부에는 ARC를 막을 수 있는 답이 있을지도 몰라. 그러니 하나를 열어서 안에 있는 것을 가져와 줘.",
+    "ru": "Во время Первой волны бароны нанесли больше урона, чем все остальные машины вместе взятые. Теперь они всего лишь пустые оболочки, застывшие там, где когда-то пали... Тем не менее, их внутренности могут содержать ответ на то, как держать ARC в страхе. Так что вскрой одного из них и принеси мне всё, что внутри.",
+    "zh-CN": "在第一波攻势期间，男爵造成的破坏比所有其他机器加起来还要多。现在它们只是空壳，固定在曾经倒下的地方……不过，它们的内部可能藏有阻止ARC的答案。所以打开一个，把里面的东西带给我。",
+    "ja": "第一波の襲撃時、バロンは他のすべてのマシンを合わせたよりも多くの被害をもたらした。今や彼らは単なる抜け殻で、かつて倒れた場所に固定されている……それでも、その内部にはARCを食い止める答えが隠されているかもしれない。だから一体を開けて、中にあるものを持ってきてくれ。",
+    "tr": "İlk Dalga sırasında Baronlar, diğer tüm makinelerin toplamından daha fazla hasar verdi. Şimdi sadece boş kabuklar; bir zamanlar düştükleri yerde sabitlenmiş haldeler... Yine de içlerindeki parçalar ARC'ı uzak tutmanın cevabını barındırıyor olabilir. Bu yüzden birini aç ve içinde ne varsa bana getir.",
+    "zh-TW": "在第一波攻勢期間，男爵造成的破壞比所有其他機器加起來還要多。現在它們只是空殼，固定在曾經倒下的地方……不過，它們的內部可能藏有阻止ARC的答案。所以打開一個，把裡面的東西帶給我。",
+    "sr": "Tokom Prvog Talasa, Baroni su naneli više štete nego sve druge mašine zajedno. Sada su samo ljušture; fiksirane na mestu gde su nekada pale... Ipak, njihova unutrašnjost bi mogla sadržati odgovor za držanje ARC-a podalje. Zato otvori jednog i donesi mi šta god je unutra.",
+    "hr": "Tijekom Prvog Vala, Baroni su nanijeli više štete nego svi drugi strojevi zajedno. Sada su samo ljušture; fiksirane na mjestu gdje su nekada pale... Ipak, njihova unutrašnjost bi mogla sadržavati odgovor za držanje ARC-a podalje. Zato otvori jednog i donesi mi što god je unutra."
+  },
+  "objectives": [
+    {
+      "en": "Loot a Baron husk",
+      "de": "Plündere eine Baron-Hülle",
+      "fr": "Pillez une carcasse de Baron",
+      "es": "Saquea un cascarón de Barón",
+      "pt": "Saqueia uma casca de Barão",
+      "pl": "Zrabuj skorupę Barona",
+      "no": "Plyndre et Baron-skall",
+      "da": "Plyndre et Baron-skrog",
+      "it": "Saccheggia un guscio di Barone",
+      "uk": "Заберіть вміст оболонки барона",
+      "kr": "바론 껍데기 약탈하기",
+      "ru": "Заберите содержимое оболочки барона",
+      "zh-CN": "掠夺男爵残骸",
+      "ja": "バロンの残骸を略奪する",
+      "tr": "Bir Baron kabukunu yağmala",
+      "zh-TW": "掠奪男爵殘骸",
+      "sr": "Opljačkaj ljušturu Barona",
+      "hr": "Opljačkaj ljušturu Barona"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "door_blocker",
+      "quantity": 3
+    },
+    {
+      "itemId": "lil_smoke_grenade",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10a",
+    "ss9"
+  ],
+  "nextQuestIds": [
+    "ss10d",
+    "ss10e"
+  ]
+}

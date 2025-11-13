@@ -1,0 +1,52 @@
+{
+  "id": "synthesized_fuel",
+  "name": {
+    "en": "Synthesized Fuel",
+    "de": "Synthetischer Treibstoff",
+    "fr": "Combustible synthétisé",
+    "es": "Combustible sintetizado",
+    "pt": "Combustível sintetizado",
+    "pl": "Syntetyczne paliwo",
+    "no": "Syntetisert drivstoff",
+    "da": "Syntetiseret brændstof",
+    "it": "Carburante sintetizzato",
+    "ru": "Синтезированное топливо",
+    "ja": "合成燃料",
+    "zh-TW": "合成燃料",
+    "uk": "Синтезоване паливо",
+    "zh-CN": "合成燃料",
+    "kr": "합성 연료",
+    "tr": "Sentezlenmiş Yakıt",
+    "hr": "Sintetizirano Gorivo",
+    "sr": "Sintetizovano Gorivo"
+  },
+  "description": {
+    "en": "A canister of synthetic fuel blend.",
+    "de": "Ein Kanister mit synthetischer Kraftstoffmischung.",
+    "fr": "Un bidon de mélange de carburant synthétique.",
+    "es": "Un recipiente de mezcla de combustible sintético.",
+    "pt": "Um recipiente de mistura de combustível sintético.",
+    "pl": "Kanister syntetycznej mieszanki paliwowej.",
+    "no": "En beholder med syntetisk drivstoffblanding.",
+    "da": "En beholder med syntetisk brændstofblanding.",
+    "it": "Un contenitore di miscela di carburante sintetico.",
+    "ru": "Канистра синтетической топливной смеси.",
+    "ja": "合成燃料ブレンドの容器。",
+    "zh-TW": "一罐合成燃料混合物。",
+    "uk": "Каністра синтетичної паливної суміші.",
+    "zh-CN": "一罐合成燃料混合物。",
+    "kr": "합성 연료 혼합물 용기.",
+    "tr": "Sentetik yakıt karışımı bidonu.",
+    "hr": "Kanister sintetičke mješavine goriva.",
+    "sr": "Kanister sintetičke mešavine goriva."
+  },
+  "type": "Topside Material",
+  "rarity": "Rare",
+  "value": 700,
+  "recyclesInto": {
+    "oil": 1,
+    "plastic_parts": 1
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png",
+  "updatedAt": "10/30/2025"
+}

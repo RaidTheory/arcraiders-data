@@ -1,0 +1,60 @@
+{
+  "id": "heavy_ammo",
+  "name": {
+    "en": "Heavy Ammo",
+    "de": "Schwere Munition",
+    "fr": "Munitions lourdes",
+    "es": "Munición pesada",
+    "pt": "Munição pesada",
+    "pl": "Ciężka amunicja",
+    "no": "Tung ammunisjon",
+    "da": "Tung ammunition",
+    "it": "Munizioni pesanti",
+    "ru": "Тяжелые патроны",
+    "ja": "ヘビー弾薬",
+    "zh-TW": "重型彈藥",
+    "uk": "Важкі патрони",
+    "zh-CN": "重型弹药",
+    "kr": "중화기 탄약",
+    "tr": "Ağır Mermi",
+    "hr": "Teško streljivo",
+    "sr": "Teško streljivo"
+  },
+  "description": {
+    "en": "Compatible with: Ferro, Anvil, Bettina",
+    "de": "Kompatibel mit: Ferro, Anvil, Bettina",
+    "fr": "Compatible avec : Ferro, Enclume, Bettina",
+    "es": "Compatible con: Ferro, Anvil, Bettina",
+    "pt": "Compatível com: Ferro, Anvil, Bettina",
+    "pl": "Kompatybilna z: Ferro, Anvil, Bettina",
+    "no": "Kompatibel med: Ferro, Anvil, Bettina",
+    "da": "Kompatibel med: Ferro, Anvil, Bettina",
+    "it": "Compatibile con: Ferro, Anvil, Bettina",
+    "ru": "Совместимо с: Ferro, Anvil, Bettina",
+    "ja": "対応武器: Ferro、Anvil、Bettina",
+    "zh-TW": "相容武器：Ferro、Anvil、Bettina",
+    "uk": "Сумісно з: Ferro, Anvil, Bettina",
+    "zh-CN": "兼容武器：Ferro、Anvil、Bettina",
+    "kr": "호환 무기: Ferro, Anvil, Bettina",
+    "tr": "Uyumlu silahlar: Ferro, Anvil, Bettina",
+    "hr": "Kompatibilno s: Ferro, Anvil, Bettina",
+    "sr": "Kompatibilno sa: Ferro, Anvil, Bettina"
+  },
+  "type": "Ammunition",
+  "compatibleWith": [
+    "Anvil",
+    "Ferro",
+    "Bettina"
+  ],
+  "updatedAt": "11/03/2025",
+  "value": 12,
+  "weightKg": 0.05,
+  "stackSize": 40,
+  "imageFilename": "https://cdn.arctracker.io/items/heavy_ammo.png",
+  "rarity": "Common",
+  "recipe": {
+    "metal_parts": 3,
+    "chemicals": 2
+  },
+  "craftBench": "workbench"
+}

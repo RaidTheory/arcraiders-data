@@ -1,0 +1,57 @@
+{
+  "id": "candle_holder",
+  "name": {
+    "en": "Candle Holder",
+    "de": "Kerzenhalter",
+    "fr": "Bougeoir",
+    "es": "Candelabro",
+    "pt": "Castiçal",
+    "pl": "Świecznik",
+    "no": "Lysestake",
+    "da": "Lysestage",
+    "it": "Portacandele",
+    "ru": "Подсвечник",
+    "ja": "燭台",
+    "zh-TW": "燭台",
+    "uk": "Свічник",
+    "zh-CN": "烛台",
+    "kr": "촛대",
+    "tr": "Şamdan",
+    "hr": "Svijećnjak",
+    "sr": "Svećnjak"
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Se puede reciclar en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmateriell.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクル可能。",
+    "zh-TW": "可回收成製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可回收成制作材料。",
+    "kr": "제작 재료로 재활용 가능.",
+    "tr": "İşleme malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "weightKg": 2.0,
+  "foundIn": "Residential",
+  "imageFilename": "https://cdn.arctracker.io/items/candle_holder.png",
+  "value": 640,
+  "stackSize": 3,
+  "updatedAt": "11/04/2025",
+  "recyclesInto": {
+    "metal_parts": 8
+  },
+  "salvagesInto": {
+    "metal_parts": 4
+  }
+}

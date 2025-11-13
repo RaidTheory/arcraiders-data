@@ -1,0 +1,85 @@
+{
+  "id": "ss4",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Off The Radar",
+    "de": "Unter dem Radar",
+    "fr": "Hors radar",
+    "es": "Fuera del radar",
+    "pt": "Fora do radar",
+    "pl": "Poza radarem",
+    "no": "Utenfor radaren",
+    "da": "Uden for radaren",
+    "it": "Fuori dal radar",
+    "uk": "Поза радаром",
+    "kr": "레이더 밖으로",
+    "ru": "Вне радара",
+    "zh-CN": "脱离雷达",
+    "ja": "レーダー圏外",
+    "tr": "Radarın Dışında",
+    "zh-TW": "脫離雷達",
+    "sr": "Van Radara",
+    "hr": "Izvan Radara"
+  },
+  "trader": "Shani",
+  "objectives": [
+    {
+      "en": "Visit a Field Depot",
+      "de": "Besuche ein Felddepot",
+      "fr": "Visitez un dépôt de terrain",
+      "es": "Visita un depósito de campo",
+      "pt": "Visite um depósito de campo",
+      "pl": "Odwiedź depot polowy",
+      "no": "Besøk et feltdepot",
+      "da": "Besøg et feltdepot",
+      "it": "Visita un deposito sul campo",
+      "uk": "Відвідайте польове депо",
+      "kr": "야전 보급소 방문",
+      "ru": "Посетите полевое депо",
+      "zh-CN": "访问野外补给站",
+      "ja": "フィールドデポを訪れる",
+      "tr": "Bir Saha Deposunu ziyaret et",
+      "zh-TW": "訪問野外補給站",
+      "sr": "Posetite Terensko Skladište",
+      "hr": "Posjetite Terensko Skladište"
+    },
+    {
+      "en": "Repair the antenna on the roof of the Field Depot",
+      "de": "Repariere die Antenne auf dem Dach des Felddepots",
+      "fr": "Réparez l'antenne sur le toit du dépôt de terrain",
+      "es": "Repara la antena en el techo del depósito de campo",
+      "pt": "Repare a antena no telhado do depósito de campo",
+      "pl": "Napraw antenę na dachu depotu polowego",
+      "no": "Reparer antennen på taket av feltdepotet",
+      "da": "Reparer antennen på taget af feltdepotet",
+      "it": "Ripara l'antenna sul tetto del deposito sul campo",
+      "uk": "Відремонтуйте антену на даху польового депо",
+      "kr": "야전 보급소 지붕의 안테나 수리",
+      "ru": "Отремонтируйте антенну на крыше полевого депо",
+      "zh-CN": "修理野外补给站屋顶的天线",
+      "ja": "フィールドデポの屋根にあるアンテナを修理する",
+      "tr": "Saha Deposunun çatısındaki anteni onar",
+      "zh-TW": "修理野外補給站屋頂的天線",
+      "sr": "Popravite antenu na krovu Terenskog Skladišta",
+      "hr": "Popravite antenu na krovu Terenskog Skladišta"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "remote_raider_flare",
+      "quantity": 2
+    },
+    {
+      "itemId": "defibrillator",
+      "quantity": 2
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss2",
+    "ss3"
+  ],
+  "nextQuestIds": [
+    "ss5"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "equalizer_blueprint",
+  "name": {
+    "en": "Equalizer Blueprint",
+    "de": "Equalizer-Blaupause",
+    "uk": "Креслення Еквалайзера",
+    "ru": "Чертёж Уравнителя",
+    "zh-TW": "均衡者藍圖",
+    "tr": "Eşitleyici Planı",
+    "zh-CN": "均衡者蓝图",
+    "it": "Progetto Equalizzatore",
+    "kr": "이퀄라이저 설계도",
+    "sr": "Nacrt Izjednačivača",
+    "pl": "Projekt Equalizera",
+    "no": "Equalizer-tegning",
+    "ja": "イコライザー設計図",
+    "fr": "Plan de l'Égaliseur",
+    "es": "Plano del Ecualizador",
+    "hr": "Nacrt Izjednačivača",
+    "pt": "Projeto do Equalizador",
+    "da": "Equalizer-tegning"
+  },
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weightKg": 0,
+  "imageFilename": "https://cdn.arctracker.io/items/equalizer.png",
+  "updatedAt": "11/12/2025"
+}

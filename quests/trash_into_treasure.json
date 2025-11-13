@@ -1,0 +1,94 @@
+{
+  "id": "ss3",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Trash Into Treasure",
+    "de": "Müll zu Schätzen",
+    "fr": "Des déchets aux trésors",
+    "es": "Basura en tesoro",
+    "pt": "Lixo em tesouro",
+    "pl": "Ze śmieci w skarb",
+    "no": "Søppel til skatt",
+    "da": "Skrald til skat",
+    "it": "Da spazzatura a tesoro",
+    "uk": "Зі сміття у скарб",
+    "kr": "쓰레기를 보물로",
+    "ru": "Из мусора в сокровище",
+    "zh-CN": "变废为宝",
+    "ja": "ゴミを宝に",
+    "tr": "Çöpten Hazineye",
+    "zh-TW": "變廢為寶",
+    "sr": "Od Otpada do Blaga",
+    "hr": "Od Smeća do Blaga"
+  },
+  "trader": "Shani",
+  "objectives": [
+    {
+      "en": "Obtain 6 Wires",
+      "de": "Besorge 6 Drähte",
+      "fr": "Obtenez 6 fils",
+      "es": "Consigue 6 cables",
+      "pt": "Obtenha 6 fios",
+      "pl": "Zdobądź 6 przewodów",
+      "no": "Skaff 6 ledninger",
+      "da": "Skaff 6 ledninger",
+      "it": "Ottieni 6 fili",
+      "uk": "Отримайте 6 дротів",
+      "kr": "전선 6개를 획득하세요",
+      "ru": "Получите 6 проводов",
+      "zh-CN": "获取6根电线",
+      "ja": "ワイヤーを6つ入手する",
+      "tr": "6 Kablo edin",
+      "zh-TW": "獲取6根電線",
+      "sr": "Nabavite 6 žica",
+      "hr": "Nabavite 6 žica"
+    },
+    {
+      "en": "Obtain 1 Battery",
+      "de": "Besorge 1 Batterie",
+      "fr": "Obtenez 1 batterie",
+      "es": "Consigue 1 batería",
+      "pt": "Obtenha 1 bateria",
+      "pl": "Zdobądź 1 baterię",
+      "no": "Skaff 1 batteri",
+      "da": "Skaff 1 batteri",
+      "it": "Ottieni 1 batteria",
+      "uk": "Отримайте 1 батарею",
+      "kr": "배터리 1개를 획득하세요",
+      "ru": "Получите 1 батарею",
+      "zh-CN": "获取1个电池",
+      "ja": "バッテリーを1つ入手する",
+      "tr": "1 Pil edin",
+      "zh-TW": "獲取1個電池",
+      "sr": "Nabavite 1 bateriju",
+      "hr": "Nabavite 1 bateriju"
+    }
+  ],
+  "requiredItemIds": [
+    {
+      "itemId": "wires",
+      "quantity": 6
+    },
+    {
+      "itemId": "battery",
+      "quantity": 1
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "tactical_mk1",
+      "quantity": 1
+    },
+    {
+      "itemId": "adrenaline_shot",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss1"
+  ],
+  "nextQuestIds": [
+    "ss4"
+  ]
+}

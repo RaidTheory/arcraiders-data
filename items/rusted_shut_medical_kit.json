@@ -1,0 +1,52 @@
+{
+  "id": "rusted_shut_medical_kit",
+  "name": {
+    "en": "Rusted Shut Medical Kit",
+    "de": "Verrosteter verschlossener Verbandkasten",
+    "fr": "Kit médical rouillé fermé",
+    "es": "Botiquín oxidado cerrado",
+    "pt": "Kit médico enferrujado fechado",
+    "pl": "Zardzewiały zestaw medyczny",
+    "no": "Rustent lukket medisinsk sett",
+    "da": "Rustet lukket medicinsæt",
+    "it": "Kit medico arrugginito chiuso",
+    "ru": "Заржавевшая аптечка",
+    "ja": "錆びついた救急箱",
+    "zh-TW": "鏽死的醫療包",
+    "uk": "Заіржавіла аптечка",
+    "zh-CN": "锈死的医疗包",
+    "kr": "녹슬어 닫힌 의료 키트",
+    "tr": "Paslanmış Tıbbi Kit",
+    "hr": "Zahrđali Zatvoreni Medicinski Komplet",
+    "sr": "Zahrđali Zatvoreni Medicinski Komplet"
+  },
+  "description": {
+    "en": "A medical kit rusted shut, its contents unknown.",
+    "de": "Ein verrostetes medizinisches Set, dessen Inhalt unbekannt ist.",
+    "fr": "Un kit médical rouillé fermé, son contenu est inconnu.",
+    "es": "Un botiquín oxidado cerrado, su contenido es desconocido.",
+    "pt": "Um kit médico enferrujado fechado, seu conteúdo é desconhecido.",
+    "pl": "Zardzewiały zestaw medyczny, jego zawartość jest nieznana.",
+    "no": "Et rustent medisinsk sett, innholdet er ukjent.",
+    "da": "Et rustet medicinsæt, dets indhold er ukendt.",
+    "it": "Un kit medico arrugginito chiuso, il suo contenuto è sconosciuto.",
+    "ru": "Заржавевшая аптечка, её содержимое неизвестно.",
+    "ja": "錆びついて開かない救急箱、中身は不明。",
+    "zh-TW": "一個鏽死的醫療包，內容物不明。",
+    "uk": "Заіржавіла аптечка, її вміст невідомий.",
+    "zh-CN": "一个锈死的医疗包，内容物不明。",
+    "kr": "녹슬어 닫힌 의료 키트, 내용물은 알 수 없습니다.",
+    "tr": "Paslanmış bir tıbbi kit, içeriği bilinmiyor.",
+    "hr": "Medicinski komplet zahrđao i zatvoren, sadržaj nepoznat.",
+    "sr": "Medicinski komplet zahrđao i zatvoren, sadržaj nepoznat."
+  },
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 1000,
+  "recyclesInto": {
+    "syringe": 2,
+    "antiseptic": 1
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/rusted_shut_medical_kit.png",
+  "updatedAt": "10/30/2025"
+}

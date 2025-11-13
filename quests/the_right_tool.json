@@ -1,0 +1,118 @@
+{
+  "id": "ss7",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "The Right Tool",
+    "de": "Das richtige Werkzeug",
+    "fr": "Le bon outil",
+    "es": "La herramienta adecuada",
+    "pt": "A ferramenta certa",
+    "pl": "Właściwe narzędzie",
+    "no": "Det rette verktøyet",
+    "da": "Det rigtige værktøj",
+    "it": "Lo strumento giusto",
+    "uk": "Правильний інструмент",
+    "kr": "적절한 도구",
+    "ru": "Правильный инструмент",
+    "zh-CN": "正确的工具",
+    "ja": "適切な道具",
+    "tr": "Doğru Araç",
+    "zh-TW": "正確的工具",
+    "sr": "Pravi Alat",
+    "hr": "Pravi Alat"
+  },
+  "trader": "Tian Wen",
+  "objectives": [
+    {
+      "en": "Destroy a Fireball",
+      "de": "Zerstöre einen Feuerball",
+      "fr": "Détruisez un Fireball",
+      "es": "Destruye un Fireball",
+      "pt": "Destrua um Fireball",
+      "pl": "Zniszcz Fireball",
+      "no": "Ødelegg en Fireball",
+      "da": "Ødelæg en Fireball",
+      "it": "Distruggi un Fireball",
+      "uk": "Знищте Вогняну кулю",
+      "kr": "파이어볼 파괴",
+      "ru": "Уничтожьте Огненный шар",
+      "zh-CN": "摧毁火球",
+      "ja": "ファイアボールを破壊する",
+      "tr": "Bir Fireball'u yok et",
+      "zh-TW": "摧毀火球",
+      "sr": "Uništite Vatrenu Kuglu",
+      "hr": "Uništite Vatrenu Kuglu"
+    },
+    {
+      "en": "Destroy a Hornet",
+      "de": "Zerstöre eine Hornisse",
+      "fr": "Détruisez un Hornet",
+      "es": "Destruye un Hornet",
+      "pt": "Destrua um Hornet",
+      "pl": "Zniszcz Hornet",
+      "no": "Ødelegg en Hornet",
+      "da": "Ødelæg en Hornet",
+      "it": "Distruggi un Hornet",
+      "uk": "Знищте Шершня",
+      "kr": "호넷 파괴",
+      "ru": "Уничтожьте Шершня",
+      "zh-CN": "摧毁大黄蜂",
+      "ja": "ホーネットを破壊する",
+      "tr": "Bir Hornet'i yok et",
+      "zh-TW": "摧毀大黃蜂",
+      "sr": "Uništite Stršljena",
+      "hr": "Uništite Stršljena"
+    },
+    {
+      "en": "Destroy a Turret",
+      "de": "Zerstöre einen Geschützturm",
+      "fr": "Détruisez une tourelle",
+      "es": "Destruye una torreta",
+      "pt": "Destrua uma torreta",
+      "pl": "Zniszcz wieżyczkę",
+      "no": "Ødelegg et tårn",
+      "da": "Ødelæg et tårn",
+      "it": "Distruggi una torretta",
+      "uk": "Знищте турель",
+      "kr": "포탑 파괴",
+      "ru": "Уничтожьте турель",
+      "zh-CN": "摧毁炮塔",
+      "ja": "タレットを破壊する",
+      "tr": "Bir Taret'i yok et",
+      "zh-TW": "摧毀砲塔",
+      "sr": "Uništite Kupolu",
+      "hr": "Uništite Kupolu"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "ferro_iv",
+      "quantity": 1
+    },
+    {
+      "itemId": "heavy_ammo",
+      "quantity": 20
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "stitcher_ii",
+      "quantity": 1
+    },
+    {
+      "itemId": "extended_light_mag_i",
+      "quantity": 1
+    },
+    {
+      "itemId": "cheer_emote",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss5"
+  ],
+  "nextQuestIds": [
+    "ss10"
+  ]
+}
