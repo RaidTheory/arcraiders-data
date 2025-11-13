@@ -1,0 +1,81 @@
+{
+  "id": "binoculars",
+  "name": {
+    "en": "Binoculars",
+    "de": "Fernglas",
+    "fr": "Jumelles",
+    "es": "Binoculares",
+    "pt": "Binóculos",
+    "pl": "Lornetka",
+    "no": "Kikkert",
+    "da": "Kikkert",
+    "it": "Binocolo",
+    "ru": "Бинокль",
+    "ja": "双眼鏡",
+    "zh-TW": "雙筒望遠鏡",
+    "uk": "Бінокль",
+    "zh-CN": "双筒望远镜",
+    "kr": "쌍안경",
+    "tr": "Dürbün",
+    "hr": "Dalekozor",
+    "sr": "Dvogled"
+  },
+  "description": {
+    "en": "A basic pair of binoculars with two levels of magnification.",
+    "de": "Ein einfaches Fernglas mit zwei Vergrößerungsstufen.",
+    "fr": "Une paire de jumelles basique avec deux niveaux de grossissement.",
+    "es": "Un par de binoculares básicos con dos niveles de aumento.",
+    "pt": "Um par de binóculos básicos com dois níveis de ampliação.",
+    "pl": "Podstawowa lornetka z dwoma poziomami powiększenia.",
+    "no": "Et grunnleggende par kikkerter med to forstørrelsesnivåer.",
+    "da": "Et grundlæggende par kikkerter med to forstørrelsesniveauer.",
+    "it": "Un binocolo base con due livelli di ingrandimento.",
+    "ru": "Обычный бинокль с двумя уровнями увеличения.",
+    "ja": "2段階のズーム機能を持つ基本的な双眼鏡。",
+    "zh-TW": "具有兩級放大倍率的基本雙筒望遠鏡。",
+    "uk": "Звичайний бінокль з двома рівнями збільшення.",
+    "zh-CN": "具有两级放大倍率的基本双筒望远镜。",
+    "kr": "두 단계의 배율을 가진 기본 쌍안경.",
+    "tr": "İki büyütme seviyesine sahip temel bir dürbün.",
+    "hr": "Osnovni dalekozor s dvije razine povećanja.",
+    "sr": "Osnovni dvogled sa dva nivoa uveličanja."
+  },
+  "type": "Quick Use",
+  "updatedAt": "11/03/2025",
+  "rarity": "Common",
+  "value": 640,
+  "recyclesInto": {
+    "rubber_parts": 2,
+    "plastic_parts": 4
+  },
+  "weightKg": 0.5,
+  "effects": {
+    "Durability": {
+      "en": "Durability",
+      "de": "Haltbarkeit",
+      "fr": "Durabilité",
+      "es": "Durabilidad",
+      "pt": "Durabilidade",
+      "pl": "Wytrzymałość",
+      "no": "Holdbarhet",
+      "da": "Holdbarhed",
+      "it": "Durabilità",
+      "ru": "Прочность",
+      "ja": "耐久度",
+      "zh-TW": "耐久度",
+      "uk": "Міцність",
+      "zh-CN": "耐久度",
+      "kr": "내구도",
+      "tr": "Dayanıklılık",
+      "hr": "Izdržljivost",
+      "sr": "Izdržljivost",
+      "value": "100/100"
+    }
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/binoculars.png",
+  "recipe": {
+    "plastic_parts": 8,
+    "rubber_parts": 4
+  },
+  "craftBench": "utility_bench"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "photoelectric_cloak",
+  "name": {
+    "en": "Photoelectric Cloak",
+    "de": "Photoelektrischer Umhang",
+    "fr": "Cape photoélectrique",
+    "es": "Capa fotoeléctrica",
+    "pt": "Capa fotoelétrica",
+    "pl": "Płaszcz fotoelektryczny",
+    "no": "Fotoelektrisk kappe",
+    "da": "Fotoelektrisk kappe",
+    "it": "Mantello fotoelettrico",
+    "ru": "Фотоэлектрический плащ",
+    "ja": "光電クローク",
+    "zh-TW": "光電斗篷",
+    "uk": "Фотоелектричний плащ",
+    "zh-CN": "光电斗篷",
+    "kr": "광전 망토",
+    "tr": "Fotoelektrik Pelerin",
+    "hr": "Fotoelektrični Ogrtač",
+    "sr": "Fotoelektrični Ogrtač"
+  },
+  "description": {
+    "en": "A gadget that allows the user to conceal themselves from ARC.",
+    "de": "Ein Gerät, das es dem Benutzer ermöglicht, sich vor ARC zu verbergen.",
+    "fr": "Un gadget qui permet à l'utilisateur de se dissimuler d'ARC.",
+    "es": "Un dispositivo que permite al usuario ocultarse de ARC.",
+    "pt": "Um dispositivo que permite ao usuário se ocultar do ARC.",
+    "pl": "Gadżet, który pozwala użytkownikowi ukryć się przed ARC.",
+    "no": "En gadget som lar brukeren skjule seg fra ARC.",
+    "da": "En gadget, der giver brugeren mulighed for at skjule sig fra ARC.",
+    "it": "Un dispositivo che consente all'utente di nascondersi da ARC.",
+    "ru": "Гаджет, позволяющий пользователю скрыться от ARC.",
+    "ja": "ARCから身を隠すことができるガジェット。",
+    "zh-TW": "能讓使用者躲避ARC的裝置。",
+    "uk": "Гаджет, що дозволяє користувачу сховатися від ARC.",
+    "zh-CN": "能让使用者躲避ARC的装置。",
+    "kr": "사용자가 ARC로부터 자신을 숨길 수 있는 장치입니다.",
+    "tr": "Kullanıcının kendini ARC'den gizlemesini sağlayan bir alet.",
+    "hr": "Naprava koja omogućuje korisniku da se sakrije od ARC-a.",
+    "sr": "Naprava koja omogućava korisniku da se sakrije od ARC-a."
+  },
+  "type": "Quick Use",
+  "rarity": "Epic",
+  "value": 5000,
+  "weightKg": 1.0,
+  "effects": {
+    "Durability": {
+      "en": "Durability",
+      "de": "Haltbarkeit",
+      "fr": "Durabilité",
+      "es": "Durabilidad",
+      "pt": "Durabilidade",
+      "pl": "Wytrzymałość",
+      "no": "Holdbarhet",
+      "da": "Holdbarhed",
+      "it": "Durabilità",
+      "ru": "Прочность",
+      "ja": "耐久力",
+      "zh-TW": "耐久度",
+      "uk": "Міцність",
+      "zh-CN": "耐久度",
+      "kr": "내구도",
+      "tr": "Dayanıklılık",
+      "hr": "Izdržljivost",
+      "sr": "Izdržljivost",
+      "value": "100/100"
+    }
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/photoelectric_cloak.png",
+  "updatedAt": "11/01/2025",
+  "recipe": {
+    "advanced_electrical_components": 2,
+    "speaker_component": 4
+  },
+  "craftBench": "utility_bench",
+  "recyclesInto": {
+    "advanced_electrical_components": 1,
+    "speaker_component": 1
+  },
+  "salvagesInto": {
+    "advanced_electrical_components": 1
+  }
+}

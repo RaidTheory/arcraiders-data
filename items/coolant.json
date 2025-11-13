@@ -1,0 +1,58 @@
+{
+  "id": "coolant",
+  "name": {
+    "en": "Coolant",
+    "de": "Kühlmittel",
+    "fr": "Liquide de refroidissement",
+    "es": "Refrigerante",
+    "pt": "Refrigerante",
+    "pl": "Chłodziwo",
+    "no": "Kjølevæske",
+    "da": "Kølevæske",
+    "it": "Refrigerante",
+    "ja": "冷却剤",
+    "kr": "냉각수",
+    "zh-CN": "冷却剂",
+    "zh-TW": "冷卻劑",
+    "ru": "Охлаждающая жидкость",
+    "tr": "Soğutucu",
+    "uk": "Охолоджувальна рідина",
+    "sr": "Rashladna tečnost",
+    "hr": "Rashladna tekućina"
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Se puede reciclar en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały do wytwarzania.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "da": "Kan genbruges til fremstillingsmaterialer.",
+    "it": "Può essere riciclato in materiali da creazione.",
+    "ja": "クラフト素材にリサイクルできます。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "zh-CN": "可回收为制作材料。",
+    "zh-TW": "可回收為製作材料。",
+    "ru": "Можно переработать в материалы для создания.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "uk": "Можна переробити на матеріали для створення.",
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "hr": "Može se reciklirati u materijale za izradu."
+  },
+  "type": "Recyclable",
+  "value": 1000,
+  "rarity": "Rare",
+  "weightKg": 2.0,
+  "stackSize": 3,
+  "foundIn": "Mechanical",
+  "imageFilename": "https://cdn.arctracker.io/items/coolant.png",
+  "updatedAt": "11/07/2025",
+  "recyclesInto": {
+    "chemicals": 5,
+    "oil": 2
+  },
+  "salvagesInto": {
+    "oil": 2
+  }
+}

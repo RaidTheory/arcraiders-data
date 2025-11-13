@@ -1,0 +1,56 @@
+{
+  "id": "damaged_arc_motion_core",
+  "name": {
+    "en": "Damaged ARC Motion Core",
+    "de": "Beschädigter ARC-Bewegungskern",
+    "fr": "Noyau de mouvement ARC endommagé",
+    "es": "Núcleo de movimiento ARC dañado",
+    "pt": "Núcleo de movimento ARC danificado",
+    "pl": "Uszkodzony rdzeń ruchu ARC",
+    "no": "Skadet ARC-bevegelseskjerne",
+    "da": "Beskadiget ARC-bevægelseskerne",
+    "it": "Nucleo di movimento ARC danneggiato",
+    "ja": "破損したARCモーションコア",
+    "kr": "손상된 ARC 모션 코어",
+    "zh-CN": "损坏的ARC运动核心",
+    "zh-TW": "損壞的ARC動力核心",
+    "ru": "Поврежденное ядро движения ARC",
+    "tr": "Hasarlı ARC Hareket Çekirdeği",
+    "uk": "Пошкоджене ядро руху ARC",
+    "sr": "Oštećeno ARC jezgro pokreta",
+    "hr": "Oštećena ARC jezgra pokreta"
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Se puede reciclar en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ja": "クラフト素材にリサイクルできます。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "zh-CN": "可以回收为制作材料。",
+    "zh-TW": "可以回收為製作材料。",
+    "ru": "Можно переработать в материалы для крафта.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "hr": "Može se reciklirati u materijale za izradu."
+  },
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "weightKg": 0.25,
+  "value": 640,
+  "foundIn": "ARC",
+  "imageFilename": "https://cdn.arctracker.io/items/damaged_arc_motion_core.png",
+  "updatedAt": "11/07/2025",
+  "recyclesInto": {
+    "arc_alloy": 2
+  },
+  "salvagesInto": {
+    "arc_alloy": 1
+  }
+}

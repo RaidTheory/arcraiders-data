@@ -1,0 +1,152 @@
+{
+  "id": "ss10x8",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "A Warm Place to Rest",
+    "de": "Ein warmer Ort zum Ausruhen",
+    "fr": "Un endroit chaud pour se reposer",
+    "es": "Un lugar cálido para descansar",
+    "pt": "Um Lugar Quente para Descansar",
+    "pl": "Ciepłe miejsce na odpoczynek",
+    "no": "Et varmt sted å hvile",
+    "da": "Et varmt sted at hvile",
+    "it": "Un posto caldo dove riposare",
+    "uk": "Тепле місце для відпочинку",
+    "kr": "쉴 수 있는 따뜻한 곳",
+    "ru": "Тёплое место для отдыха",
+    "zh-CN": "温暖的休息之所",
+    "ja": "休息できる暖かい場所",
+    "tr": "Dinlenmek İçin Sıcak Bir Yer",
+    "zh-TW": "溫暖的休息之所",
+    "sr": "Toplo mesto za odmor",
+    "hr": "Toplo mjesto za odmor"
+  },
+  "trader": "Apollo",
+  "description": {
+    "en": "A customer of mine saw a family taking cover in an old encampment in Buried City. I'll pay anyone who manages to find them and escort them back to safety.",
+    "de": "Ein Kunde von mir hat eine Familie gesehen, die in einem alten Lager in der Begrabenen Stadt Schutz gesucht hat. Ich bezahle jeden, der es schafft, sie zu finden und sicher zurückzubringen.",
+    "fr": "Un de mes clients a vu une famille se mettre à l'abri dans un vieux campement dans la Cité ensevelie. Je paierai quiconque parviendra à les trouver et à les escorter en lieu sûr.",
+    "es": "Un cliente mío vio a una familia refugiándose en un viejo campamento en la Ciudad Enterrada. Pagaré a quien logre encontrarlos y escoltarlos de vuelta a un lugar seguro.",
+    "pt": "Um cliente meu viu uma família a abrigar-se num velho acampamento na Cidade Enterrada. Pagarei a quem conseguir encontrá-los e escoltá-los de volta para um lugar seguro.",
+    "pl": "Mój klient widział rodzinę ukrywającą się w starym obozie w Pogrzebanym Mieście. Zapłacę każdemu, kto zdoła ich znaleźć i bezpiecznie odprowadzić.",
+    "no": "En kunde av meg så en familie som tok dekning i en gammel leir i den begravde byen. Jeg betaler alle som klarer å finne dem og eskortere dem tilbake til sikkerhet.",
+    "da": "En kunde af mig så en familie søge ly i en gammel lejr i den begravede by. Jeg betaler enhver, der formår at finde dem og eskortere dem tilbage til sikkerhed.",
+    "it": "Un mio cliente ha visto una famiglia rifugiarsi in un vecchio accampamento nella Città Sepolta. Pagherò chiunque riesca a trovarli e a scortarli in un luogo sicuro.",
+    "uk": "Мій клієнт бачив сім'ю, що сховалася у старому таборі в Похованому Місті. Я заплачу кожному, хто зможе знайти їх і супроводити до безпечного місця.",
+    "kr": "내 고객이 매장된 도시의 오래된 야영지에서 피신 중인 가족을 목격했습니다. 그들을 찾아서 안전한 곳으로 호위해주는 사람에게 보상하겠습니다.",
+    "ru": "Мой клиент видел семью, укрывшуюся в старом лагере в Погребённом Городе. Я заплачу любому, кто сумеет найти их и сопроводить в безопасное место.",
+    "zh-CN": "我的一位客户看到一家人在埋没之城的旧营地避难。我会付钱给任何能找到他们并护送他们安全返回的人。",
+    "ja": "私の顧客が、埋もれた街の古い野営地に避難している家族を見かけました。彼らを見つけて安全な場所まで護衛してくれた人には報酬を支払います。",
+    "tr": "Müşterilerimden biri Gömülü Şehir'deki eski bir kampda sığınan bir aile gördü. Onları bulup güvenli bir yere geri götürmeyi başaran herkese ödeme yapacağım.",
+    "zh-TW": "我的一位客戶看到一家人在埋沒之城的舊營地避難。我會付錢給任何能找到他們並護送他們安全返回的人。",
+    "sr": "Moj mušterija je video porodicu kako se sklanja u starom logoru u Zatrpanom gradu. Platiću svakome ko uspe da ih pronađe i bezbedno ih dovede nazad.",
+    "hr": "Moj kupac je vidio obitelj kako se sklanja u starom logoru u Zatrpanom gradu. Platit ću svakome tko uspije pronaći ih i sigurno ih dovesti natrag."
+  },
+  "objectives": [
+    {
+      "en": "Locate the Abandoned Highway Camp",
+      "de": "Finde das verlassene Autobahn-Lager",
+      "fr": "Localiser le camp de l'autoroute abandonnée",
+      "es": "Localiza el campamento abandonado de la autopista",
+      "pt": "Localize o Acampamento Abandonado da Autoestrada",
+      "pl": "Zlokalizuj opuszczony obóz przy autostradzie",
+      "no": "Finn den forlatte motorvei-leiren",
+      "da": "Find den forladte motorvejslejr",
+      "it": "Individua l'accampamento abbandonato dell'autostrada",
+      "uk": "Знайдіть покинутий табір біля шосе",
+      "kr": "버려진 고속도로 야영지를 찾으세요",
+      "ru": "Найдите заброшенный лагерь у шоссе",
+      "zh-CN": "找到废弃的高速公路营地",
+      "ja": "放棄されたハイウェイキャンプを見つける",
+      "tr": "Terk Edilmiş Otoyol Kampını bulun",
+      "zh-TW": "找到廢棄的高速公路營地",
+      "sr": "Pronađi napušteni logor na autoputu",
+      "hr": "Pronađi napušteni logor na autocesti"
+    },
+    {
+      "en": "Search for any signs of survivors",
+      "de": "Suche nach Anzeichen von Überlebenden",
+      "fr": "Chercher des signes de survivants",
+      "es": "Busca señales de supervivientes",
+      "pt": "Procure por sinais de sobreviventes",
+      "pl": "Poszukaj śladów ocalałych",
+      "no": "Søk etter tegn på overlevende",
+      "da": "Søg efter tegn på overlevende",
+      "it": "Cerca segni di sopravvissuti",
+      "uk": "Шукайте будь-які ознаки виживших",
+      "kr": "생존자의 흔적을 찾으세요",
+      "ru": "Ищите любые признаки выживших",
+      "zh-CN": "搜寻任何幸存者的迹象",
+      "ja": "生存者の痕跡を探す",
+      "tr": "Hayatta kalanların herhangi bir izini arayın",
+      "zh-TW": "搜尋任何倖存者的跡象",
+      "sr": "Traži znakove preživelih",
+      "hr": "Traži znakove preživjelih"
+    },
+    {
+      "en": "Follow the red markers",
+      "de": "Folge den roten Markierungen",
+      "fr": "Suivre les marqueurs rouges",
+      "es": "Sigue los marcadores rojos",
+      "pt": "Siga os marcadores vermelhos",
+      "pl": "Podążaj za czerwonymi znacznikami",
+      "no": "Følg de røde markørene",
+      "da": "Følg de røde markører",
+      "it": "Segui i marcatori rossi",
+      "uk": "Слідуйте за червоними маркерами",
+      "kr": "빨간 표식을 따라가세요",
+      "ru": "Следуйте за красными маркерами",
+      "zh-CN": "跟随红色标记",
+      "ja": "赤いマーカーを辿る",
+      "tr": "Kırmızı işaretçileri takip edin",
+      "zh-TW": "跟隨紅色標記",
+      "sr": "Prati crvene markere",
+      "hr": "Prati crvene markere"
+    },
+    {
+      "en": "Inspect the grave",
+      "de": "Untersuche das Grab",
+      "fr": "Inspecter la tombe",
+      "es": "Inspecciona la tumba",
+      "pt": "Inspecione o túmulo",
+      "pl": "Zbadaj grób",
+      "no": "Inspiser graven",
+      "da": "Undersøg graven",
+      "it": "Ispeziona la tomba",
+      "uk": "Оглянути могилу",
+      "kr": "무덤을 조사하세요",
+      "ru": "Осмотрите могилу",
+      "zh-CN": "检查坟墓",
+      "ja": "墓を調べる",
+      "tr": "Mezarı inceleyin",
+      "zh-TW": "檢查墳墓",
+      "sr": "Preglej grob",
+      "hr": "Preglej grob"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "goggles_radio_renegade",
+      "quantity": 1
+    },
+    {
+      "itemId": "noisemaker",
+      "quantity": 3
+    },
+    {
+      "itemId": "blue_light_stick",
+      "quantity": 5
+    },
+    {
+      "itemId": "rosary",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x7"
+  ],
+  "nextQuestIds": [
+    "ss10x9"
+  ]
+}

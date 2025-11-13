@@ -1,0 +1,58 @@
+{
+  "id": "medium_gun_parts",
+  "name": {
+    "en": "Medium Gun Parts",
+    "de": "Teile für Waffen mit mittlerer Munition",
+    "fr": "Pièces de pistolet moyen",
+    "es": "Piezas de armas medianas",
+    "pt": "Peças de armas médias",
+    "pl": "Średnie części broni",
+    "no": "Medium våpendeler",
+    "da": "Medium våbendele",
+    "it": "Parti di armi medie",
+    "ru": "Средние оружейные детали",
+    "ja": "中型銃パーツ",
+    "zh-TW": "中型槍械零件",
+    "uk": "Середні зброярські деталі",
+    "zh-CN": "中型枪械零件",
+    "kr": "중형 총기 부품",
+    "tr": "Orta Boy Silah Parçaları",
+    "hr": "Srednji Dijelovi Oružja",
+    "sr": "Srednji Delovi Oružja"
+  },
+  "description": {
+    "en": "Assorted spare parts used for rifles. Used to craft: Torrente, Venator, Osprey, Renegade, Tempest",
+    "de": "Verschiedene Ersatzteile für Gewehre. Wird verwendet für: Torrente, Venator, Osprey, Renegade, Tempest",
+    "fr": "Un assortiment de pièces détachées utilisées pour les fusils. Permet de fabriquer : Torrente, Venator, Balbuzard, Renégat, Tempête",
+    "es": "Piezas de repuesto variadas usadas para rifles. Usado para fabricar: Torrente, Venator, Osprey, Renegade, Tempest",
+    "pt": "Peças de reposição variadas usadas para rifles. Usado para fabricar: Torrente, Venator, Osprey, Renegade, Tempest",
+    "pl": "Różne części zamienne używane do karabinów. Używany do wytworzenia: Torrente, Venator, Osprey, Renegade, Tempest",
+    "no": "Assorterte reservedeler brukt til rifler. Brukes til å lage: Torrente, Venator, Osprey, Renegade, Tempest",
+    "da": "Assorterede reservedele brugt til rifler. Bruges til at fremstille: Torrente, Venator, Osprey, Renegade, Tempest",
+    "it": "Parti di ricambio assortite usate per i fucili. Usato per fabbricare: Torrente, Venator, Osprey, Renegade, Tempest",
+    "ru": "Различные запасные части для винтовок. Используется для создания: Torrente, Venator, Osprey, Renegade, Tempest",
+    "ja": "ライフル用の各種予備パーツ。製作に使用: Torrente、Venator、Osprey、Renegade、Tempest",
+    "zh-TW": "用於步槍的各種備用零件。用於製作：Torrente、Venator、Osprey、Renegade、Tempest",
+    "uk": "Різноманітні запасні частини для гвинтівок. Використовується для створення: Torrente, Venator, Osprey, Renegade, Tempest",
+    "zh-CN": "用于步枪的各种备用零件。用于制作：Torrente、Venator、Osprey、Renegade、Tempest",
+    "kr": "소총용 각종 예비 부품. 제작 용도: Torrente, Venator, Osprey, Renegade, Tempest",
+    "tr": "Tüfekler için çeşitli yedek parçalar. Üretimde kullanılır: Torrente, Venator, Osprey, Renegade, Tempest",
+    "hr": "Razni rezervni dijelovi za puške. Koristi se za izradu: Torrente, Venator, Osprey, Renegade, Tempest",
+    "sr": "Razni rezervni delovi za puške. Koristi se za izradu: Torrente, Venator, Osprey, Renegade, Tempest"
+  },
+  "type": "Topside Material",
+  "rarity": "Rare",
+  "value": 700,
+  "recyclesInto": {
+    "simple_gun_parts": 2
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts.png",
+  "foundIn": "Raider, Security",
+  "stackSize": 5,
+  "weightKg": 0.4,
+  "updatedAt": "11/03/2025",
+  "recipe": {
+    "simple_gun_parts": 4
+  },
+  "craftBench": "refiner"
+}

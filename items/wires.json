@@ -1,0 +1,58 @@
+{
+  "id": "wires",
+  "name": {
+    "en": "Wires",
+    "de": "Kabel",
+    "fr": "Câbles",
+    "es": "Cables",
+    "pt": "Fios",
+    "pl": "Przewody",
+    "no": "Ledninger",
+    "da": "Ledninger",
+    "it": "Fili",
+    "ru": "Провода",
+    "ja": "ワイヤー",
+    "zh-TW": "電線",
+    "uk": "Дроти",
+    "zh-CN": "电线",
+    "kr": "전선",
+    "tr": "Kablolar",
+    "hr": "Žice",
+    "sr": "Žice"
+  },
+  "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials.",
+  "description": {
+    "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Blaze Grenade Trap, Smoke Grenade Trap, Lure Grenade Trap, Gas Grenade Trap, Muzzle Brake I",
+    "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Flammengranaten-Falle, Rauchgranaten-Falle, Köder-Granaten-Falle, Gasgranaten-Falle, Mündungsbremse I",
+    "fr": "Permet de fabriquer une large gamme d'objets. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Piège à grenade incendiaire, Piège à grenade fumigène, Piège à grenade leurre, Piège à grenade à gaz, Frein de bouche I",
+    "es": "Se usa para fabricar una amplia gama de objetos. Puede reciclarse en materiales de fabricación. Se usa para fabricar: Trampa de granada incendiaria, Trampa de granada de humo, Trampa de granada señuelo, Trampa de granada de gas, Freno de boca I",
+    "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Armadilha de granada incendiária, Armadilha de granada de fumaça, Armadilha de granada isca, Armadilha de granada de gás, Freio de boca I",
+    "pl": "Używany do wytwarzania szerokiej gamy przedmiotów. Może być przetworzony na materiały rzemieślnicze. Używany do wytwarzania: Pułapka z granatem zapalającym, Pułapka z granatem dymnym, Pułapka z granatem wabik, Pułapka z granatem gazowym, Hamulec wylotowy I",
+    "no": "Brukes til å lage et bredt spekter av gjenstander. Kan resirkuleres til håndverksmateriell. Brukes til å lage: Flammegranatfelle, Røykgranatfelle, Lokkemiddelgranatfelle, Gassgranatfelle, Munningsbrems I",
+    "da": "Bruges til at lave en bred vifte af genstande. Kan genbruges til håndværksmaterialer. Bruges til at lave: Brandgranatfælde, Røggranatfælde, Lokkemadgranatfælde, Gasgranatfælde, Mundingsbremse I",
+    "it": "Usato per creare un'ampia gamma di oggetti. Può essere riciclato in materiali da crafting. Usato per creare: Trappola granata incendiaria, Trappola granata fumogena, Trappola granata esca, Trappola granata gas, Freno di bocca I",
+    "ru": "Используется для создания широкого спектра предметов. Можно переработать в материалы для крафта. Используется для создания: Ловушка с огненной гранатой, Ловушка с дымовой гранатой, Ловушка с приманкой, Ловушка с газовой гранатой, Дульный тормоз I",
+    "ja": "幅広いアイテムの作成に使用。クラフト素材にリサイクル可能。作成可能: ブレイズグレネードトラップ、スモークグレネードトラップ、ルアーグレネードトラップ、ガスグレネードトラップ、マズルブレーキI",
+    "zh-TW": "用於製作各種物品。可回收為製作材料。可製作：烈焰手榴彈陷阱、煙霧手榴彈陷阱、誘餌手榴彈陷阱、毒氣手榴彈陷阱、槍口制退器I",
+    "uk": "Використовується для створення широкого спектру предметів. Можна переробити в матеріали для крафту. Використовується для створення: Пастка з вогняною гранатою, Пастка з димовою гранатою, Пастка з принадою, Пастка з газовою гранатою, Дульний гальмо I",
+    "zh-CN": "用于制作各种物品。可回收为制作材料。可制作：烈焰手榴弹陷阱、烟雾手榴弹陷阱、诱饵手榴弹陷阱、毒气手榴弹陷阱、枪口制退器I",
+    "kr": "다양한 아이템 제작에 사용됩니다. 제작 재료로 재활용 가능. 제작 가능: 화염 수류탄 함정, 연막 수류탄 함정, 미끼 수류탄 함정, 가스 수류탄 함정, 총구 제동기 I",
+    "tr": "Geniş bir yelpazede eşya üretiminde kullanılır. Üretim malzemelerine geri dönüştürülebilir. Üretilebilir: Alev Bombası Tuzağı, Sis Bombası Tuzağı, Yem Bombası Tuzağı, Gaz Bombası Tuzağı, Namlu Freni I",
+    "hr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Vatrena Zamka s Granatom, Dimna Zamka s Granatom, Zamka s Mamcem, Plinska Zamka s Granatom, Usporivač Cijevi I",
+    "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Vatrena Zamka sa Granatom, Dimna Zamka sa Granatom, Zamka sa Mamcem, Gasna Zamka sa Granatom, Usporivač Cevi I"
+  },
+  "type": "Topside Material",
+  "rarity": "Uncommon",
+  "value": 200,
+  "recyclesInto": {
+    "rubber_parts": 2
+  },
+  "salvagesInto": {
+    "rubber_parts": 1
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/wires.png",
+  "weightKg": 0.25,
+  "stackSize": 15,
+  "foundIn": "Electrical, Technological",
+  "updatedAt": "11/03/2025"
+}

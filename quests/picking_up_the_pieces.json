@@ -1,0 +1,103 @@
+{
+  "id": "ss1",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Picking Up The Pieces",
+    "de": "Die Scherben aufsammeln",
+    "fr": "Ramasser les morceaux",
+    "es": "Recogiendo los pedazos",
+    "pt": "Juntando os pedaços",
+    "pl": "Zbieranie kawałków",
+    "no": "Plukke opp bitene",
+    "da": "Samle brikkerne op",
+    "it": "Raccogliere i pezzi",
+    "uk": "Збираючи уламки",
+    "kr": "파편 수습하기",
+    "ru": "Собирая осколки",
+    "zh-CN": "收拾残局",
+    "ja": "破片を拾い集める",
+    "tr": "Parçaları Toplama",
+    "zh-TW": "收拾殘局",
+    "sr": "Sakupljanje Delova",
+    "hr": "Sakupljanje Komada"
+  },
+  "trader": "Shani",
+  "description": {
+    "en": "The storm has mostly settled, but much of our infrastructure has taken a proper beating. If you're hoping to stay with us, I'll need you to pull your weight in the repair efforts.",
+    "de": "Der Sturm hat sich größtenteils gelegt, aber ein Großteil unserer Infrastruktur hat ordentlich einstecken müssen. Wenn du bei uns bleiben willst, musst du bei den Reparaturarbeiten mit anpacken.",
+    "fr": "La tempête s'est calmée pour la plupart, mais une grande partie de notre infrastructure a été sérieusement endommagée. Si vous espérez rester avec nous, j'aurai besoin que vous participiez aux efforts de réparation.",
+    "es": "La tormenta se ha calmado en su mayoría, pero gran parte de nuestra infraestructura ha recibido una buena paliza. Si esperas quedarte con nosotros, necesitaré que aportes tu parte en los esfuerzos de reparación.",
+    "pt": "A tempestade já passou em grande parte, mas boa parte da nossa infraestrutura levou uma surra considerável. Se você espera ficar conosco, vou precisar que faça sua parte nos esforços de reparo.",
+    "pl": "Burza w większości się uspokoiła, ale nasza infrastruktura mocno ucierpiała. Jeśli masz nadzieję zostać z nami, będę potrzebował, żebyś wziął udział w pracach naprawczych.",
+    "no": "Stormen har stort sett lagt seg, men mye av infrastrukturen vår har fått gjennomgå. Hvis du håper å bli hos oss, må du dra lasset ditt i reparasjonsarbeidet.",
+    "da": "Stormen har stort set lagt sig, men meget af vores infrastruktur har fået ordentlig bank. Hvis du håber at blive hos os, skal du bidrage til reparationsindsatsen.",
+    "it": "La tempesta si è per lo più calmata, ma gran parte della nostra infrastruttura ha subito danni considerevoli. Se speri di restare con noi, avrò bisogno che tu faccia la tua parte negli sforzi di riparazione.",
+    "uk": "Буря майже вщухла, але наша інфраструктура зазнала серйозних пошкоджень. Якщо ти сподіваєшся залишитися з нами, мені потрібно, щоб ти вклав свою частку зусиль у ремонтні роботи.",
+    "kr": "폭풍은 대부분 잠잠해졌지만, 우리 기반 시설은 제대로 된 타격을 입었습니다. 우리와 함께 머물고 싶다면, 수리 작업에 힘을 보태야 할 것입니다.",
+    "ru": "Буря в основном утихла, но наша инфраструктура серьёзно пострадала. Если ты надеешься остаться с нами, мне нужно, чтобы ты внёс свой вклад в ремонтные работы.",
+    "zh-CN": "风暴基本平息了，但我们的基础设施遭受了严重破坏。如果你想留在我们这里，我需要你在修复工作中出一份力。",
+    "ja": "嵐はほぼ収まったが、我々のインフラは大きな打撃を受けた。もし我々と共に留まりたいのなら、修復作業で力を貸してもらう必要がある。",
+    "tr": "Fırtına büyük ölçüde dindi, ancak altyapımız ciddi hasar aldı. Bizimle kalmayı umuyorsan, onarım çalışmalarında üzerine düşeni yapmanı isteyeceğim.",
+    "zh-TW": "風暴基本平息了，但我們的基礎設施遭受了嚴重破壞。如果你想留在我們這裡，我需要你在修復工作中出一份力。",
+    "sr": "Oluja se uglavnom smirila, ali naša infrastruktura je prilično stradala. Ako nameravate da ostanete sa nama, moraću da tražim od vas da doprinesete u naporu popravke.",
+    "hr": "Oluja se uglavnom smirila, ali naša infrastruktura je prilično stradala. Ako se nadate da ćete ostati s nama, morat ću od vas tražiti da doprinesete u naporu popravka."
+  },
+  "objectives": [
+    {
+      "en": "Visit any area on your map with a loot category icon",
+      "de": "Besuche einen beliebigen Bereich auf deiner Karte mit einem Beutekategorie-Symbol",
+      "fr": "Visitez n'importe quelle zone sur votre carte avec une icône de catégorie de butin",
+      "es": "Visita cualquier área en tu mapa con un icono de categoría de botín",
+      "pt": "Visite qualquer área no seu mapa com um ícone de categoria de saque",
+      "pl": "Odwiedź dowolny obszar na mapie z ikoną kategorii łupów",
+      "no": "Besøk et hvilket som helst område på kartet ditt med et bytteikon",
+      "da": "Besøg et hvilket som helst område på dit kort med et bytteikon",
+      "it": "Visita qualsiasi area sulla tua mappa con un'icona di categoria bottino",
+      "uk": "Відвідайте будь-яку область на вашій карті з іконкою категорії здобичі",
+      "kr": "지도에서 전리품 카테고리 아이콘이 있는 지역을 방문하세요",
+      "ru": "Посетите любую область на вашей карте с иконкой категории добычи",
+      "zh-CN": "访问地图上任何带有战利品类别图标的区域",
+      "ja": "マップ上の戦利品カテゴリアイコンがあるエリアを訪れる",
+      "tr": "Haritanızda ganimet kategorisi simgesi olan herhangi bir bölgeyi ziyaret edin",
+      "zh-TW": "訪問地圖上任何帶有戰利品類別圖示的區域",
+      "sr": "Posetite bilo koje područje na vašoj mapi sa ikonom kategorije plijena",
+      "hr": "Posjetite bilo koje područje na vašoj karti sa ikonom kategorije plijena"
+    },
+    {
+      "en": "Loot 3 containers",
+      "de": "Plündere 3 Behälter",
+      "fr": "Pillez 3 conteneurs",
+      "es": "Saquea 3 contenedores",
+      "pt": "Saqueia 3 contêineres",
+      "pl": "Zrabuj 3 kontenery",
+      "no": "Plyndre 3 containere",
+      "da": "Plyndre 3 containere",
+      "it": "Saccheggia 3 contenitori",
+      "uk": "Пограбуйте 3 контейнери",
+      "kr": "컨테이너 3개를 약탈하세요",
+      "ru": "Разграбьте 3 контейнера",
+      "zh-CN": "搜刮3个容器",
+      "ja": "コンテナを3つ漁る",
+      "tr": "3 konteyner yağmala",
+      "zh-TW": "搜刮3個容器",
+      "sr": "Opljačkajte 3 kontejnera",
+      "hr": "Opljačkajte 3 kontejnera"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "ferro_iii",
+      "quantity": 1
+    },
+    {
+      "itemId": "medium_ammo",
+      "quantity": 80
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [],
+  "nextQuestIds": [
+    "ss2",
+    "ss3"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "energy_clip",
+  "name": {
+    "en": "Energy Clip",
+    "de": "Energieclip",
+    "fr": "Clip d'énergie",
+    "es": "Clip de energía",
+    "pt": "Clipe de energia",
+    "pl": "Klip energetyczny",
+    "no": "Energiklips",
+    "da": "Energiklips",
+    "it": "Clip energetica",
+    "ru": "Энергетический зажим",
+    "ja": "エナジークリップ",
+    "zh-TW": "能量夾",
+    "uk": "Енергетичний затискач",
+    "zh-CN": "能量夹",
+    "kr": "에너지 클립",
+    "tr": "Enerji Klipsi",
+    "hr": "Energetska kopča",
+    "sr": "Енергетска копча"
+  },
+  "description": {
+    "en": "Compatible with: Equalizer, Jupiter",
+    "de": "Kompatibel mit: Equalizer, Jupiter",
+    "fr": "Compatible avec : Equalizer, Jupiter",
+    "es": "Compatible con: Equalizer, Jupiter",
+    "pt": "Compatível com: Equalizer, Jupiter",
+    "pl": "Kompatybilna z: Equalizer, Jupiter",
+    "no": "Kompatibel med: Equalizer, Jupiter",
+    "da": "Kompatibel med: Equalizer, Jupiter",
+    "it": "Compatibile con: Equalizer, Jupiter",
+    "ru": "Совместимо с: Equalizer, Jupiter",
+    "ja": "対応武器: Equalizer、Jupiter",
+    "zh-TW": "相容武器：Equalizer、Jupiter",
+    "uk": "Сумісно з: Equalizer, Jupiter",
+    "zh-CN": "兼容武器：Equalizer、Jupiter",
+    "kr": "호환 무기: Equalizer, Jupiter",
+    "tr": "Uyumlu silahlar: Equalizer, Jupiter",
+    "hr": "Kompatibilno s: Equalizer, Jupiter",
+    "sr": "Kompatibilno sa: Equalizer, Jupiter"
+  },
+  "type": "Ammunition",
+  "compatibleWith": [
+    "Equalizer",
+    "Jupiter"
+  ],
+  "imageFilename": "https://cdn.arctracker.io/items/energy_clip.png",
+  "crafting": {
+    "metal_parts": 4,
+    "chemicals": 2
+  },
+  "value": 5,
+  "weightKg": 0.3,
+  "stackSize": 5,
+  "rarity": "Rare",
+  "updatedAt": "11/11/2025",
+  "recipe": {
+    "advanced_arc_powercell": 1,
+    "battery": 2
+  },
+  "craftBench": "workbench"
+}

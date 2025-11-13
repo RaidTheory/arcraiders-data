@@ -1,0 +1,104 @@
+{
+  "id": "ss10x13",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Espresso",
+    "de": "Espresso",
+    "fr": "Espresso",
+    "es": "Espresso",
+    "pt": "Espresso",
+    "pl": "Espresso",
+    "no": "Espresso",
+    "da": "Espresso",
+    "it": "Espresso",
+    "uk": "Еспресо",
+    "kr": "에스프레소",
+    "ru": "Эспрессо",
+    "zh-CN": "浓缩咖啡",
+    "ja": "エスプレッソ",
+    "tr": "Espresso",
+    "zh-TW": "濃縮咖啡",
+    "sr": "Espresso",
+    "hr": "Espresso"
+  },
+  "trader": "Apollo",
+  "description": {
+    "en": "A Raider came into my shop earlier, to trade some grenades for a machine she found in Buried City. She said it makes coffee, but it seems to be missing a few parts. Up for a job?",
+    "de": "Ein Raider kam vorhin in meinen Laden, um ein paar Granaten gegen eine Maschine zu tauschen, die sie in der Begrabenen Stadt gefunden hat. Sie sagte, sie macht Kaffee, aber es scheinen ein paar Teile zu fehlen. Lust auf einen Job?",
+    "fr": "Un Raider est venu dans ma boutique plus tôt pour échanger des grenades contre une machine qu'elle a trouvée dans la Cité Enfouie. Elle a dit que ça fait du café, mais il semble manquer quelques pièces. Partant pour un boulot ?",
+    "es": "Un Raider vino a mi tienda antes para intercambiar unas granadas por una máquina que encontró en la Ciudad Enterrada. Dijo que hace café, pero parece que le faltan algunas piezas. ¿Te interesa el trabajo?",
+    "pt": "Um Raider veio à minha loja mais cedo para trocar algumas granadas por uma máquina que encontrou na Cidade Enterrada. Ela disse que faz café, mas parece estar faltando algumas peças. Topa um trabalho?",
+    "pl": "Raider przyszedł wcześniej do mojego sklepu, żeby wymienić granaty na maszynę, którą znalazła w Pogrzebanym Mieście. Powiedziała, że robi kawę, ale wydaje się, że brakuje kilku części. Chętny na robotę?",
+    "no": "En Raider kom inn i butikken min tidligere for å bytte noen granater mot en maskin hun fant i Buried City. Hun sa den lager kaffe, men det ser ut til å mangle noen deler. Interessert i en jobb?",
+    "da": "En Raider kom ind i min butik tidligere for at bytte nogle granater for en maskine, hun fandt i Buried City. Hun sagde, den laver kaffe, men det ser ud til at mangle nogle dele. Klar til et job?",
+    "it": "Un Raider è venuto nel mio negozio prima per scambiare delle granate con una macchina che ha trovato nella Città Sepolta. Ha detto che fa il caffè, ma sembra mancare qualche pezzo. Ti va un lavoro?",
+    "uk": "Рейдерка зайшла до мого магазину раніше, щоб обміняти кілька гранат на машину, яку вона знайшла в Похованому місті. Вона сказала, що та робить каву, але, схоже, їй бракує кількох деталей. Готові взятися за роботу?",
+    "kr": "레이더가 아까 내 가게에 와서 매장된 도시에서 찾은 기계를 수류탄 몇 개와 교환했어. 커피를 만드는 기계라는데, 부품 몇 개가 빠진 것 같더라고. 일 맡을래?",
+    "ru": "Рейдерша заходила в мою лавку, чтобы обменять несколько гранат на машину, которую она нашла в Погребённом городе. Она сказала, что та варит кофе, но, похоже, в ней не хватает нескольких деталей. Возьмёшься за работу?",
+    "zh-CN": "一个掠夺者早些时候来到我的店里，用她在埋葬之城找到的机器换了些手榴弹。她说那机器能做咖啡，但似乎缺了几个零件。接这活吗？",
+    "ja": "レイダーが先ほど店に来て、埋もれた街で見つけた機械を手榴弾と交換していった。コーヒーを作る機械らしいが、いくつか部品が足りないようだ。仕事を引き受けるか？",
+    "tr": "Bir Akıncı daha önce dükkânıma geldi, Gömülü Şehir'de bulduğu bir makineyi birkaç el bombası karşılığında takas etmek için. Kahve yaptığını söyledi ama birkaç parçası eksik gibi görünüyor. İşe var mısın?",
+    "zh-TW": "一個掠奪者稍早來到我的店裡，用她在埋葬之城找到的機器換了些手榴彈。她說那機器能做咖啡，但似乎缺了幾個零件。接這活嗎？",
+    "sr": "Raider je ranije došao u moju radnju da razmeni neke granate za mašinu koju je pronašao u Zakopanom Gradu. Rekao je da pravi kafu, ali izgleda da nedostaje nekoliko delova. Spreman za posao?",
+    "hr": "Raider je ranije došao u moju radnju da razmijeni neke granate za mašinu koju je pronašao u Zakopanom Gradu. Rekao je da pravi kavu, ali izgleda da nedostaje nekoliko dijelova. Spreman za posao?"
+  },
+  "objectives": [
+    {
+      "en": "Find an espresso machine to salvage for spare parts",
+      "de": "Finde eine Espressomaschine, um Ersatzteile zu bergen",
+      "fr": "Trouvez une machine à espresso à récupérer pour des pièces détachées",
+      "es": "Encuentra una máquina de espresso para recuperar piezas de repuesto",
+      "pt": "Encontre uma máquina de espresso para recuperar peças sobressalentes",
+      "pl": "Znajdź ekspres do kawy, aby odzyskać części zamienne",
+      "no": "Finn en espressomaskin å berge for reservedeler",
+      "da": "Find en espressomaskine at bjærge for reservedele",
+      "it": "Trova una macchina per espresso da recuperare per pezzi di ricambio",
+      "uk": "Знайдіть кавомашину для еспресо, щоб розібрати на запчастини",
+      "kr": "예비 부품을 회수할 에스프레소 머신 찾기",
+      "ru": "Найдите кофемашину для эспрессо, чтобы разобрать на запчасти",
+      "zh-CN": "找到一台浓缩咖啡机以拆解备用零件",
+      "ja": "予備部品を回収するためのエスプレッソマシンを見つける",
+      "tr": "Yedek parça için kullanılacak bir espresso makinesi bul",
+      "zh-TW": "找到一台濃縮咖啡機以拆解備用零件",
+      "sr": "Pronađi espresso aparat da izvučeš rezervne delove",
+      "hr": "Pronađi espresso aparat da izvučeš rezervne dijelove"
+    },
+    {
+      "en": "Get the Espresso Machine Parts for Apollo",
+      "de": "Besorge die Espressomaschinen-Teile für Apollo",
+      "fr": "Obtenez les pièces de la machine à espresso pour Apollo",
+      "es": "Consigue las piezas de la máquina de espresso para Apollo",
+      "pt": "Consiga as peças da máquina de espresso para Apollo",
+      "pl": "Zdobądź części ekspresu do kawy dla Apollo",
+      "no": "Skaff espressomaskinens deler til Apollo",
+      "da": "Få espressomaskinens dele til Apollo",
+      "it": "Procura i pezzi della macchina per espresso per Apollo",
+      "uk": "Отримайте деталі кавомашини для Аполлона",
+      "kr": "아폴로를 위한 에스프레소 머신 부품 구하기",
+      "ru": "Достаньте детали кофемашины для Аполлона",
+      "zh-CN": "为阿波罗获取浓缩咖啡机零件",
+      "ja": "アポロのためにエスプレッソマシンの部品を入手する",
+      "tr": "Apollo için Espresso Makinesi Parçalarını al",
+      "zh-TW": "為阿波羅獲取濃縮咖啡機零件",
+      "sr": "Nabavi delove za espresso aparat za Apolla",
+      "hr": "Nabavi dijelove za espresso aparat za Apolla"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "coffee_pot",
+      "quantity": 1
+    },
+    {
+      "itemId": "adrenaline_shot",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x12"
+  ],
+  "nextQuestIds": [
+    "ss10x14"
+  ]
+}

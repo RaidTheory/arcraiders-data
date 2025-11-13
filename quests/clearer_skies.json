@@ -1,0 +1,94 @@
+{
+  "id": "ss2",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Clearer Skies",
+    "de": "Klarere Himmel",
+    "fr": "Cieux plus clairs",
+    "es": "Cielos más despejados",
+    "pt": "Céus mais claros",
+    "pl": "Jaśniejsze niebo",
+    "no": "Klarere himmel",
+    "da": "Klarere himmel",
+    "it": "Cieli più sereni",
+    "uk": "Ясніші небеса",
+    "kr": "맑아진 하늘",
+    "ru": "Ясное небо",
+    "zh-CN": "晴朗天空",
+    "ja": "晴れ渡る空",
+    "tr": "Daha Açık Gökyüzü",
+    "zh-TW": "晴朗天空",
+    "sr": "Vedro Nebo",
+    "hr": "Vedro Nebo"
+  },
+  "trader": "Shani",
+  "objectives": [
+    {
+      "en": "Destroy 3 ARC enemies",
+      "de": "Zerstöre 3 ARC-Gegner",
+      "fr": "Détruisez 3 ennemis ARC",
+      "es": "Destruye 3 enemigos ARC",
+      "pt": "Destrua 3 inimigos ARC",
+      "pl": "Zniszcz 3 wrogów ARC",
+      "no": "Ødelegg 3 ARC-fiender",
+      "da": "Ødelæg 3 ARC-fjender",
+      "it": "Distruggi 3 nemici ARC",
+      "uk": "Знищте 3 ворогів ARC",
+      "kr": "ARC 적 3명을 처치하세요",
+      "ru": "Уничтожьте 3 врагов ARC",
+      "zh-CN": "消灭3个ARC敌人",
+      "ja": "ARCの敵を3体倒す",
+      "tr": "3 ARC düşmanını yok et",
+      "zh-TW": "消滅3個ARC敵人",
+      "sr": "Uništite 3 ARC neprijatelja",
+      "hr": "Uništite 3 ARC neprijatelja"
+    },
+    {
+      "en": "Get 3 ARC Alloy for Shani",
+      "de": "Besorge 3 ARC-Legierungen für Shani",
+      "fr": "Obtenez 3 alliages ARC pour Shani",
+      "es": "Consigue 3 aleaciones ARC para Shani",
+      "pt": "Consiga 3 ligas ARC para Shani",
+      "pl": "Zdobądź 3 stopy ARC dla Shani",
+      "no": "Skaff 3 ARC-legeringer til Shani",
+      "da": "Skaff 3 ARC-legeringer til Shani",
+      "it": "Ottieni 3 leghe ARC per Shani",
+      "uk": "Отримайте 3 сплави ARC для Шані",
+      "kr": "샤니를 위해 ARC 합금 3개를 구하세요",
+      "ru": "Добудьте 3 сплава ARC для Шани",
+      "zh-CN": "为莎妮获取3个ARC合金",
+      "ja": "シャニのためにARC合金を3つ入手する",
+      "tr": "Shani için 3 ARC Alaşımı al",
+      "zh-TW": "為莎妮獲取3個ARC合金",
+      "sr": "Nabavite 3 ARC legure za Shani",
+      "hr": "Nabavite 3 ARC legure za Shani"
+    }
+  ],
+  "requiredItemIds": [
+    {
+      "itemId": "arc_alloy",
+      "quantity": 3
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "backpack_black_hiker_color",
+      "quantity": 1
+    },
+    {
+      "itemId": "sterilized_bandage",
+      "quantity": 3
+    },
+    {
+      "itemId": "light_shield",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss1"
+  ],
+  "nextQuestIds": [
+    "ss4"
+  ]
+}

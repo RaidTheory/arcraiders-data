@@ -1,0 +1,118 @@
+{
+  "id": "ss10d",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Mixed Signals",
+    "de": "Gemischte Signale",
+    "fr": "Signaux confus",
+    "es": "Señales mixtas",
+    "pt": "Sinais misturados",
+    "pl": "Mieszane sygnały",
+    "no": "Blandede signaler",
+    "da": "Blandede signaler",
+    "it": "Segnali contrastanti",
+    "uk": "Змішані сигнали",
+    "kr": "혼선",
+    "ru": "Смешанные сигналы",
+    "zh-CN": "混杂信号",
+    "ja": "混信",
+    "tr": "Karışık Sinyaller",
+    "zh-TW": "混雜信號",
+    "sr": "Mešoviti Signali",
+    "hr": "Miješani Signali"
+  },
+  "trader": "Tian Wen",
+  "description": {
+    "en": "Have you spotted any Surveyors; the big round ones? They seem to be transmitting data back into orbit, and I can't help but think it's tied to that signal we picked up. Will you break one open, so we can try to decipher the data?",
+    "de": "Hast du irgendwelche Beobachter gesehen; die großen runden? Sie scheinen Daten zurück in den Orbit zu übertragen, und ich kann nicht anders, als zu denken, dass es mit dem Signal zusammenhängt, das wir aufgefangen haben. Würdest du einen aufbrechen, damit wir versuchen können, die Daten zu entschlüsseln?",
+    "fr": "Avez-vous repéré des Arpenteurs ; les gros ronds ? Ils semblent transmettre des données en orbite, et je ne peux m'empêcher de penser que c'est lié au signal que nous avons capté. Pourriez-vous en ouvrir un, pour que nous puissions essayer de déchiffrer les données ?",
+    "es": "¿Has visto algún Topógrafo; los grandes y redondos? Parecen estar transmitiendo datos de vuelta a la órbita, y no puedo evitar pensar que está relacionado con esa señal que captamos. ¿Podrías abrir uno para que podamos intentar descifrar los datos?",
+    "pt": "Você viu algum Topógrafo; aqueles grandes e redondos? Eles parecem estar transmitindo dados de volta para a órbita, e não consigo deixar de pensar que está ligado àquele sinal que captamos. Você poderia abrir um, para que possamos tentar decifrar os dados?",
+    "pl": "Widziałeś jakieś Geodety; te duże, okrągłe? Wydają się przesyłać dane z powrotem na orbitę, i nie mogę przestać myśleć, że to związane z tym sygnałem, który przechwyciliśmy. Czy mógłbyś otworzyć jeden, żebyśmy mogli spróbować odszyfrować dane?",
+    "no": "Har du sett noen Landmålere; de store runde? De ser ut til å overføre data tilbake til bane, og jeg kan ikke la være å tenke at det er knyttet til det signalet vi fanget opp. Vil du åpne en, slik at vi kan prøve å tyde dataene?",
+    "da": "Har du set nogen Landmålere; de store runde? De ser ud til at transmittere data tilbage til kredsløb, og jeg kan ikke lade være med at tænke, at det er forbundet med det signal, vi opfangede. Vil du åbne en, så vi kan prøve at dechifrere dataene?",
+    "it": "Hai avvistato qualche Rilevatore; quelli grandi e rotondi? Sembrano trasmettere dati in orbita, e non posso fare a meno di pensare che sia collegato a quel segnale che abbiamo captato. Potresti aprirne uno, così possiamo provare a decifrare i dati?",
+    "uk": "Ти бачив якихось Геодезистів; таких великих круглих? Схоже, вони передають дані на орбіту, і я не можу не думати, що це пов'язано з тим сигналом, який ми перехопили. Зламаєш одного, щоб ми могли спробувати розшифрувати дані?",
+    "kr": "서베이어를 본 적 있나요? 크고 둥근 놈들 말이에요. 그것들이 궤도로 데이터를 전송하는 것 같은데, 우리가 포착한 신호와 관련이 있다는 생각이 드네요. 하나를 부숴서 데이터를 해독해 볼 수 있을까요?",
+    "ru": "Ты видел Геодезистов; таких больших круглых? Похоже, они передают данные на орбиту, и я не могу отделаться от мысли, что это связано с тем сигналом, который мы перехватили. Вскроешь одного, чтобы мы могли попытаться расшифровать данные?",
+    "zh-CN": "你见过勘测者吗？就是那些又大又圆的家伙。它们似乎在向轨道传输数据，我不禁觉得这与我们接收到的信号有关。你能破坏一个，让我们试着解密数据吗？",
+    "ja": "サーベイヤーを見かけたことは？大きくて丸いやつだ。奴らは軌道上にデータを送信しているようで、俺たちが拾った信号と関係があると思わずにはいられない。一体壊して、データを解読してみないか？",
+    "tr": "Hiç Surveyor gördün mü; şu büyük yuvarlak olanlardan? Yörüngeye veri iletiyorlar gibi görünüyor ve yakaladığımız sinyalle bağlantılı olduğunu düşünmeden edemiyorum. Birini parçalayıp veriyi çözmeyi deneyebilir miyiz?",
+    "zh-TW": "你見過勘測者嗎？就是那些又大又圓的傢伙。它們似乎在向軌道傳輸數據，我不禁覺得這與我們接收到的信號有關。你能破壞一個，讓我們試著解密數據嗎？",
+    "sr": "Da li si primetio neke Istraživače; one velike okrugle? Izgleda da prenose podatke nazad u orbitu, i ne mogu a da ne pomislim da je to povezano sa onim signalom koji smo uhvatili. Hoćeš li razbiti jednog, da možemo pokušati da dešifrujemo podatke?",
+    "hr": "Jesi li primijetio neke Istraživače; one velike okrugle? Čini se da prenose podatke natrag u orbitu, i ne mogu a da ne pomislim da je to povezano s onim signalom koji smo uhvatili. Hoćeš li razbiti jednog, da možemo pokušati dešifrirati podatke?"
+  },
+  "objectives": [
+    {
+      "en": "Destroy an ARC Surveyor",
+      "de": "Zerstöre einen ARC-Beobachter",
+      "fr": "Détruisez un Arpenteur ARC",
+      "es": "Destruye un Topógrafo ARC",
+      "pt": "Destrua um Topógrafo ARC",
+      "pl": "Zniszcz Geodetę ARC",
+      "no": "Ødelegg en ARC-landmåler",
+      "da": "Ødelæg en ARC-landmåler",
+      "it": "Distruggi un Rilevatore ARC",
+      "uk": "Знищити ARC Геодезиста",
+      "kr": "ARC 서베이어 파괴",
+      "ru": "Уничтожить ARC Геодезиста",
+      "zh-CN": "摧毁一个ARC勘测者",
+      "ja": "ARCサーベイヤーを破壊する",
+      "tr": "Bir ARC Surveyor'ı yok et",
+      "zh-TW": "摧毀一個ARC勘測者",
+      "sr": "Uništi ARC Istraživača",
+      "hr": "Uništi ARC Istraživača"
+    },
+    {
+      "en": "Obtain 1 Surveyor Vault",
+      "de": "Erhalte 1 Beobachter-Tresor",
+      "fr": "Obtenez 1 coffre d'Arpenteur",
+      "es": "Obtén 1 cámara de Topógrafo",
+      "pt": "Obtenha 1 cofre de Topógrafo",
+      "pl": "Zdobądź 1 skarbiec Geodety",
+      "no": "Skaff 1 landmålerhvelv",
+      "da": "Få 1 landmålerboks",
+      "it": "Ottieni 1 cassaforte del Rilevatore",
+      "uk": "Отримати 1 Сховище Геодезиста",
+      "kr": "서베이어 금고 1개 획득",
+      "ru": "Получить 1 Хранилище Геодезиста",
+      "zh-CN": "获得1个勘测者保险库",
+      "ja": "サーベイヤー保管庫を1つ入手する",
+      "tr": "1 Surveyor Kasası edin",
+      "zh-TW": "獲得1個勘測者保險庫",
+      "sr": "Pribavi 1 Trezor Istraživača",
+      "hr": "Pribavi 1 Trezor Istraživača"
+    }
+  ],
+  "requiredItemIds": [
+    {
+      "itemId": "surveyor_vault",
+      "quantity": 1
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "jolt_mine",
+      "quantity": 3
+    },
+    {
+      "itemId": "showstopper",
+      "quantity": 2
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "photoelectric_cloak",
+      "quantity": 1
+    },
+    {
+      "itemId": "raider_hatch_key",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10b"
+  ],
+  "nextQuestIds": []
+}

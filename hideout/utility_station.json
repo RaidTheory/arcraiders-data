@@ -1,0 +1,73 @@
+{
+  "id": "utility_bench",
+  "name": {
+    "en": "Utility Station",
+    "de": "Gebrauchstgegenstand-Station",
+    "fr": "Station utilitaire",
+    "es": "Estación de utilidad",
+    "pt": "Estação utilitária",
+    "pl": "Stacja użytkowa",
+    "no": "Verktøystasjon",
+    "da": "Værktøjsstation",
+    "ru": "Станция снаряжения",
+    "ja": "ユーティリティステーション",
+    "it": "Stazione Utilità",
+    "kr": "유틸리티 제작소",
+    "zh-CN": "实用工具站",
+    "zh-TW": "實用工具站",
+    "uk": "Станція спорядження",
+    "tr": "Ekipman İstasyonu",
+    "hr": "Pomoćna stanica",
+    "sr": "Pomoćna stanica"
+  },
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 1,
+      "requirementItemIds": [
+        {
+          "itemId": "plastic_parts",
+          "quantity": 50
+        },
+        {
+          "itemId": "arc_alloy",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "requirementItemIds": [
+        {
+          "itemId": "damaged_heat_sink",
+          "quantity": 2
+        },
+        {
+          "itemId": "electrical_components",
+          "quantity": 5
+        },
+        {
+          "itemId": "snitch_scanner",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "requirementItemIds": [
+        {
+          "itemId": "fried_motherboard",
+          "quantity": 3
+        },
+        {
+          "itemId": "advanced_electrical_components",
+          "quantity": 5
+        },
+        {
+          "itemId": "leaper_pulse_unit",
+          "quantity": 4
+        }
+      ]
+    }
+  ]
+}

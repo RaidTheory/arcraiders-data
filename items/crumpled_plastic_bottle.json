@@ -1,0 +1,57 @@
+{
+  "id": "crumpled_plastic_bottle",
+  "name": {
+    "en": "Crumpled Plastic Bottle",
+    "de": "Zerknitterte Plastikflasche",
+    "fr": "Bouteille en plastique froissée",
+    "es": "Botella de plástico arrugada",
+    "pt": "Garrafa plástica amassada",
+    "pl": "Zgnieciona plastikowa butelka",
+    "no": "Krøllet plastflaske",
+    "da": "Krøllet plastflaske",
+    "it": "Bottiglia di plastica accartocciata",
+    "ru": "Смятая пластиковая бутылка",
+    "ja": "潰れたペットボトル",
+    "zh-TW": "壓扁的塑膠瓶",
+    "uk": "М'ята пластикова пляшка",
+    "zh-CN": "压扁的塑料瓶",
+    "kr": "구겨진 플라스틱 병",
+    "tr": "Ezilmiş Plastik Şişe",
+    "hr": "Zgužvana plastična boca",
+    "sr": "Zgužvana plastična flaša"
+  },
+  "rarity": "Uncommon",
+  "weightKg": 0.8,
+  "stackSize": 3,
+  "foundIn": "Residential",
+  "imageFilename": "https://cdn.arctracker.io/items/crumpled_plastic_bottle.png",
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali di fabbricazione.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクルできる。",
+    "zh-TW": "可回收為製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可回收为制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "type": "Recyclable",
+  "value": 270,
+  "recyclesInto": {
+    "plastic_parts": 4
+  },
+  "salvagesInto": {
+    "plastic_parts": 1
+  },
+  "updatedAt": "11/04/2025"
+}

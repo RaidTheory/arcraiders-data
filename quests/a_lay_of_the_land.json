@@ -1,0 +1,149 @@
+{
+  "id": "ss10k",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "A Lay of the Land",
+    "de": "Eine Lagebeschreibung",
+    "fr": "Un aperçu du terrain",
+    "es": "Un reconocimiento del terreno",
+    "pt": "Um reconhecimento do terreno",
+    "pl": "Rozpoznanie terenu",
+    "no": "Et overblikk over terrenget",
+    "da": "Et overblik over terrænet",
+    "it": "Una ricognizione del territorio",
+    "uk": "Огляд місцевості",
+    "kr": "지형 파악",
+    "ru": "Изучение местности",
+    "zh-CN": "地形勘察",
+    "ja": "地形の把握",
+    "tr": "Arazinin Keşfi",
+    "zh-TW": "地形勘察",
+    "sr": "Pregled terena",
+    "hr": "Pregled terena"
+  },
+  "trader": "Shani",
+  "videoUrl": "https://youtu.be/pWXjplDChHc",
+  "description": {
+    "en": "Those distant rumbles are getting less distant with each passing day. I have a lead on some LiDAR scanners that may help us monitor the tremors. You do want to keep a roof over your head, don't you?",
+    "de": "Diese fernen Grollen werden mit jedem Tag weniger fern. Ich habe einen Hinweis auf einige LiDAR-Scanner, die uns helfen könnten, die Erschütterungen zu überwachen. Du willst doch ein Dach über dem Kopf behalten, oder?",
+    "fr": "Ces grondements lointains se rapprochent de jour en jour. J'ai une piste sur des scanners LiDAR qui pourraient nous aider à surveiller les tremblements. Vous voulez bien garder un toit au-dessus de votre tête, n'est-ce pas ?",
+    "es": "Esos retumbos distantes se vuelven menos distantes con cada día que pasa. Tengo una pista sobre unos escáneres LiDAR que pueden ayudarnos a monitorear los temblores. Quieres mantener un techo sobre tu cabeza, ¿verdad?",
+    "pt": "Aqueles estrondos distantes estão ficando menos distantes a cada dia que passa. Tenho uma pista sobre alguns scanners LiDAR que podem nos ajudar a monitorar os tremores. Você quer manter um teto sobre sua cabeça, não quer?",
+    "pl": "Te odległe dudnienia stają się coraz mniej odległe z każdym dniem. Mam trop dotyczący skanerów LiDAR, które mogą pomóc nam monitorować wstrząsy. Chcesz przecież zachować dach nad głową, prawda?",
+    "no": "De fjerne drønnene blir mindre fjerne for hver dag som går. Jeg har et spor på noen LiDAR-skannere som kan hjelpe oss med å overvåke rystelsene. Du vil vel beholde et tak over hodet, ikke sant?",
+    "da": "De fjerne drøn bliver mindre fjerne for hver dag der går. Jeg har et spor om nogle LiDAR-scannere, der kan hjælpe os med at overvåge rystelserne. Du vil gerne beholde et tag over hovedet, ikke?",
+    "it": "Quei rombi lontani stanno diventando meno lontani ogni giorno che passa. Ho una pista su alcuni scanner LiDAR che potrebbero aiutarci a monitorare i tremori. Vuoi mantenere un tetto sopra la testa, vero?",
+    "uk": "Ті далекі гуркоти стають все ближчими з кожним днем. У мене є інформація про LiDAR сканери, які можуть допомогти нам відстежувати поштовхи. Ти ж хочеш, щоб над головою був дах, чи не так?",
+    "kr": "저 멀리서 들리던 진동이 날마다 점점 가까워지고 있어요. 진동을 모니터링하는 데 도움이 될 LiDAR 스캐너에 대한 정보가 있습니다. 머리 위에 지붕은 있어야 하지 않겠어요?",
+    "ru": "Эти далёкие раскаты с каждым днём становятся всё ближе. У меня есть наводка на LiDAR сканеры, которые помогут нам отслеживать толчки. Ты ведь хочешь сохранить крышу над головой, верно?",
+    "zh-CN": "那些遥远的隆隆声每天都在变得越来越近。我有一些LiDAR扫描仪的线索，可以帮助我们监测震动。你总想头顶有个屋顶吧？",
+    "ja": "遠くで聞こえていた轟音が日に日に近づいている。振動を監視するのに役立つLiDARスキャナーの情報がある。頭上に屋根は欲しいだろう？",
+    "tr": "O uzaktaki gümbürtüler her geçen gün daha az uzak hale geliyor. Sarsıntıları izlememize yardımcı olabilecek bazı LiDAR tarayıcıları hakkında bir ipucum var. Başının üstünde bir çatı tutmak istersin, değil mi?",
+    "zh-TW": "那些遙遠的隆隆聲每天都在變得越來越近。我有一些LiDAR掃描儀的線索，可以幫助我們監測震動。你總想頭頂有個屋頂吧？",
+    "sr": "Ta daleka tutnjava postaje sve bliža svakim danom. Imam trag o nekim LiDAR skenerima koji bi nam mogli pomoći da pratimo podrhtavanja. Želiš da zadržiš krov nad glavom, zar ne?",
+    "hr": "Ta daleka tutnjava postaje sve bliža svakim danom. Imam trag o nekim LiDAR skenerima koji bi nam mogli pomoći pratiti podrhtavanja. Želiš zadržati krov nad glavom, zar ne?"
+  },
+  "objectives": [
+    {
+      "en": "Reach the Jiangsu Warehouse",
+      "de": "Erreiche das Jiangsu-Lagerhaus",
+      "fr": "Atteindre l'Entrepôt Jiangsu",
+      "es": "Llega al almacén de Jiangsu",
+      "pt": "Alcance o armazém de Jiangsu",
+      "pl": "Dotrzyj do magazynu Jiangsu",
+      "no": "Nå Jiangsu-lageret",
+      "da": "Nå Jiangsu-lageret",
+      "it": "Raggiungi il magazzino di Jiangsu",
+      "uk": "Дістаньтеся до складу Цзянсу",
+      "kr": "Jiangsu 창고에 도착",
+      "ru": "Доберитесь до склада Цзянсу",
+      "zh-CN": "抵达江苏仓库",
+      "ja": "江蘇倉庫に到達する",
+      "tr": "Jiangsu Deposu'na ulaş",
+      "zh-TW": "抵達江蘇倉庫",
+      "sr": "Dođite do skladišta Jiangsu",
+      "hr": "Dođite do skladišta Jiangsu"
+    },
+    {
+      "en": "Find the shipping notes in the foreman's office",
+      "de": "Finde die Versandnotizen im Büro des Vorarbeiters",
+      "fr": "Trouvez les notes d'expédition dans le bureau du contremaître",
+      "es": "Encuentra las notas de envío en la oficina del capataz",
+      "pt": "Encontre as notas de envio no escritório do encarregado",
+      "pl": "Znajdź notatki wysyłkowe w biurze brygadzisty",
+      "no": "Finn fraktnotatene på formannens kontor",
+      "da": "Find forsendelsesnoterne på formandens kontor",
+      "it": "Trova le note di spedizione nell'ufficio del caposquadra",
+      "uk": "Знайдіть транспортні документи в офісі бригадира",
+      "kr": "현장 감독 사무실에서 배송 메모 찾기",
+      "ru": "Найдите транспортные документы в офисе бригадира",
+      "zh-CN": "在工头办公室找到运输记录",
+      "ja": "現場監督のオフィスで出荷記録を見つける",
+      "tr": "Ustabaşının ofisinde sevkiyat notlarını bul",
+      "zh-TW": "在工頭辦公室找到運輸記錄",
+      "sr": "Pronađite transportne beleške u kancelariji nadzornika",
+      "hr": "Pronađite transportne bilješke u uredu nadzornika"
+    },
+    {
+      "en": "Locate the scanners on the upper floor of Control Tower A6",
+      "de": "Finde die Scanner im oberen Stockwerk des Kontrollturms A6",
+      "fr": "Localisez les scanners à l'étage supérieur de la tour de contrôle A6",
+      "es": "Localiza los escáneres en el piso superior de la torre de control A6",
+      "pt": "Localize os scanners no andar superior da torre de controle A6",
+      "pl": "Zlokalizuj skanery na górnym piętrze wieży kontrolnej A6",
+      "no": "Finn skannerne på øverste etasje i kontrolltårn A6",
+      "da": "Find scannerne på øverste etage i kontroltårn A6",
+      "it": "Individua gli scanner al piano superiore della torre di controllo A6",
+      "uk": "Знайдіть сканери на верхньому поверсі диспетчерської вежі A6",
+      "kr": "관제탑 A6 상층에서 스캐너 찾기",
+      "ru": "Найдите сканеры на верхнем этаже диспетчерской вышки A6",
+      "zh-CN": "在A6控制塔上层找到扫描仪",
+      "ja": "管制塔A6の上階でスキャナーを見つける",
+      "tr": "Kontrol Kulesi A6'nın üst katında tarayıcıları bul",
+      "zh-TW": "在A6控制塔上層找到掃描儀",
+      "sr": "Locirajte skenere na gornjem spratu kontrolnog tornja A6",
+      "hr": "Locirajte skenere na gornjem katu kontrolnog tornja A6"
+    },
+    {
+      "en": "Deliver 1 LiDAR Scanners to Shani",
+      "de": "Liefere 1 LiDAR-Scanner an Shani",
+      "fr": "Livrez 1 scanner LiDAR à Shani",
+      "es": "Entrega 1 escáner LiDAR a Shani",
+      "pt": "Entregue 1 scanner LiDAR para Shani",
+      "pl": "Dostarcz 1 skaner LiDAR do Shani",
+      "no": "Lever 1 LiDAR-skanner til Shani",
+      "da": "Lever 1 LiDAR-scanner til Shani",
+      "it": "Consegna 1 scanner LiDAR a Shani",
+      "uk": "Доставте 1 LiDAR сканер Шані",
+      "kr": "LiDAR 스캐너 1개를 Shani에게 전달",
+      "ru": "Доставьте 1 LiDAR сканер Шани",
+      "zh-CN": "将1个LiDAR扫描仪交给Shani",
+      "ja": "LiDARスキャナー1個をShaniに届ける",
+      "tr": "1 LiDAR Tarayıcıyı Shani'ye teslim et",
+      "zh-TW": "將1個LiDAR掃描儀交給Shani",
+      "sr": "Dostavite 1 LiDAR skener Shani",
+      "hr": "Dostavite 1 LiDAR skener Shani"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "dam_testing_annex_key",
+      "quantity": 1
+    },
+    {
+      "itemId": "zipline",
+      "quantity": 3
+    },
+    {
+      "itemId": "smoke_grenade",
+      "quantity": 2
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10g"
+  ],
+  "nextQuestIds": [
+    "ss10s"
+  ]
+}

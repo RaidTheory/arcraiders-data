@@ -1,0 +1,105 @@
+{
+  "id": "ss10x16",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Digging Up Dirt",
+    "de": "Schmutz ausgraben",
+    "fr": "Déterrer des secrets",
+    "es": "Desenterrando trapos sucios",
+    "pt": "Desenterrando Sujeira",
+    "pl": "Wykopywanie brudów",
+    "no": "Grave opp skitt",
+    "da": "Grave snavs op",
+    "it": "Scavare lo sporco",
+    "uk": "Викопуємо бруд",
+    "kr": "비밀 파헤치기",
+    "ru": "Копаем грязь",
+    "zh-CN": "挖掘黑料",
+    "ja": "秘密を暴く",
+    "tr": "Pislik Çıkarmak",
+    "zh-TW": "挖掘黑料",
+    "sr": "Iskopavanje prljavštine",
+    "hr": "Iskopavanje prljavštine"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "We caught a break. One of our scouts saw a member of the Tubes Management make a dead drop inside the Santa Maria Houses in the Buried City. This might be our chance to dig up some dirt on them for a change. You in?",
+    "de": "Wir haben einen Durchbruch. Einer unserer Späher sah ein Mitglied der Tubes Management einen toten Briefkasten in den Santa Maria Häusern in der Begrabenen Stadt machen. Das könnte unsere Chance sein, endlich mal Dreck über sie auszugraben. Bist du dabei?",
+    "fr": "On a eu une chance. L'un de nos éclaireurs a vu un membre du Tubes Management faire une cache morte dans les Maisons Santa Maria dans la Cité Enfouie. C'est peut-être notre chance de déterrer des secrets sur eux pour une fois. Tu es partant ?",
+    "es": "Tuvimos un golpe de suerte. Uno de nuestros exploradores vio a un miembro de la Gestión de Tubos hacer un buzón muerto dentro de las Casas Santa María en la Ciudad Enterrada. Esta podría ser nuestra oportunidad de desenterrar trapos sucios sobre ellos para variar. ¿Estás dentro?",
+    "pt": "Tivemos uma sorte. Um dos nossos batedores viu um membro da Gestão dos Tubos fazer uma entrega morta dentro das Casas Santa Maria na Cidade Enterrada. Esta pode ser nossa chance de desenterrar alguma sujeira sobre eles para variar. Você está dentro?",
+    "pl": "Mamy przełom. Jeden z naszych zwiadowców widział członka Zarządu Rur robiącego martwą skrytkę w Domach Santa Maria w Pogrzebanym Mieście. To może być nasza szansa, żeby w końcu wykopać na nich brudy. Jesteś w tym?",
+    "no": "Vi fikk et gjennombrudd. En av våre speider så et medlem av Tubes Management gjøre en død levering inne i Santa Maria-husene i den Begravde Byen. Dette kan være vår sjanse til å grave opp skitt på dem for en gangs skyld. Er du med?",
+    "da": "Vi fik et gennembrud. En af vores spejdere så et medlem af Tubes Management lave en død aflevering inde i Santa Maria-husene i den Begravede By. Dette kan være vores chance for at grave snavs op på dem for en gangs skyld. Er du med?",
+    "it": "Abbiamo avuto una svolta. Uno dei nostri esploratori ha visto un membro del Tubes Management fare una consegna morta nelle Case Santa Maria nella Città Sepolta. Questa potrebbe essere la nostra occasione per scavare dello sporco su di loro per una volta. Ci stai?",
+    "uk": "Нам пощастило. Один з наших розвідників бачив, як член управління труб зробив тайник у будинках Санта-Марія в Похованому місті. Це може бути нашим шансом нарешті викопати на них компромат. Ви з нами?",
+    "kr": "기회가 왔어요. 우리 정찰병 중 한 명이 튜브 관리국 일원이 매장된 도시의 산타 마리아 하우스에서 비밀 전달을 하는 걸 봤어요. 이번에는 우리가 그들의 비밀을 파헤칠 기회일지도 몰라요. 함께 하시겠어요?",
+    "ru": "Нам повезло. Один из наших разведчиков видел, как член управления труб сделал тайник в домах Санта-Мария в Погребённом городе. Это может быть нашим шансом наконец накопать на них компромат. Вы с нами?",
+    "zh-CN": "我们有突破了。我们的一名侦察员看到管道管理局的一名成员在埋藏之城的圣玛丽亚住宅区进行了死信箱交接。这可能是我们挖掘他们黑料的机会。你要参与吗？",
+    "ja": "チャンスが来た。我々の斥候の一人が、チューブ管理局のメンバーが埋もれた街のサンタ・マリア・ハウスでデッドドロップをするのを見た。これは彼らの秘密を暴く絶好の機会かもしれない。参加するか？",
+    "tr": "Bir fırsat yakaladık. Gözcülerimizden biri, Tüp Yönetimi'nin bir üyesinin Gömülü Şehir'deki Santa Maria Evleri'nde gizli bir bırakma yaptığını gördü. Bu, onlar hakkında bir pislik çıkarmak için şansımız olabilir. Var mısın?",
+    "zh-TW": "我們有突破了。我們的一名偵察員看到管道管理局的一名成員在埋藏之城的聖瑪麗亞住宅區進行了死信箱交接。這可能是我們挖掘他們黑料的機會。你要參與嗎？",
+    "sr": "Imali smo sreće. Jedan od naših izviđača je video člana Tubes uprave kako pravi mrtvu dostavu unutar Santa Maria Houses u Zakopanom gradu. Ovo bi mogla biti naša prilika da iskopamo nešto prljavštine o njima za promenu. Pristupaš?",
+    "hr": "Imali smo sreće. Jedan od naših izviđača vidio je člana Tubes Managementa kako pravi mrtvu dostavu unutar Santa Maria Houses u Zakopanom gradu. Ovo bi mogla biti naša prilika da iskopamo nešto prljavštine o njima za promjenu. Pristupaš?"
+  },
+  "objectives": [
+    {
+      "en": "Locate the Santa Maria Houses in Old Town",
+      "de": "Finde die Santa Maria Häuser in der Altstadt",
+      "fr": "Localisez les Maisons Santa Maria dans la Vieille Ville",
+      "es": "Localiza las Casas Santa María en el Casco Antiguo",
+      "pt": "Localize as Casas Santa Maria na Cidade Velha",
+      "pl": "Zlokalizuj Domy Santa Maria na Starym Mieście",
+      "no": "Finn Santa Maria-husene i Gamlebyen",
+      "da": "Find Santa Maria-husene i Gamle By",
+      "it": "Localizza le Case Santa Maria nella Città Vecchia",
+      "uk": "Знайдіть будинки Санта-Марія в Старому місті",
+      "kr": "구시가지에서 산타 마리아 하우스를 찾으세요",
+      "ru": "Найдите дома Санта-Мария в Старом городе",
+      "zh-CN": "在旧城区找到圣玛丽亚住宅",
+      "ja": "オールドタウンのサンタ・マリア・ハウスを見つける",
+      "tr": "Eski Şehir'deki Santa Maria Evleri'ni bul",
+      "zh-TW": "在舊城區找到聖瑪麗亞住宅",
+      "sr": "Lociraj Santa Maria Houses u Starom gradu",
+      "hr": "Lociraj Santa Maria Houses u Starom gradu"
+    },
+    {
+      "en": "Locate the Dead Drop inside the courtyard",
+      "de": "Finde den toten Briefkasten im Innenhof",
+      "fr": "Localisez la cache morte dans la cour",
+      "es": "Localiza el buzón muerto dentro del patio",
+      "pt": "Localize a entrega morta dentro do pátio",
+      "pl": "Zlokalizuj martwą skrytkę na dziedzińcu",
+      "no": "Finn den døde leveringen inne på gårdsplassen",
+      "da": "Find den døde aflevering inde på gårdspladsen",
+      "it": "Localizza la consegna morta nel cortile",
+      "uk": "Знайдіть тайник у внутрішньому дворі",
+      "kr": "안뜰 안에서 비밀 전달 장소를 찾으세요",
+      "ru": "Найдите тайник во внутреннем дворе",
+      "zh-CN": "在庭院内找到死信箱",
+      "ja": "中庭のデッドドロップを見つける",
+      "tr": "Avlunun içindeki gizli bırakma yerini bul",
+      "zh-TW": "在庭院內找到死信箱",
+      "sr": "Lociraj mrtvu dostavu unutar dvorišta",
+      "hr": "Lociraj mrtvu dostavu unutar dvorišta"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "advanced_electrical_components",
+      "quantity": 2
+    },
+    {
+      "itemId": "speaker_component",
+      "quantity": 4
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x15"
+  ],
+  "nextQuestIds": [
+    "ss10x17",
+    "ss10x18"
+  ]
+}

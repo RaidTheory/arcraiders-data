@@ -1,0 +1,57 @@
+{
+  "id": "ice_cream_scooper",
+  "name": {
+    "en": "Ice Cream Scooper",
+    "de": "Eisportionierer",
+    "fr": "Cuillère à Glace",
+    "es": "Cuchara de Helado",
+    "pt": "Colher de Sorvete",
+    "pl": "Łyżka do Lodów",
+    "no": "Isskje",
+    "da": "Isske",
+    "it": "Cucchiaio per Gelato",
+    "ru": "Ложка для мороженого",
+    "ja": "アイスクリームスクープ",
+    "zh-TW": "冰淇淋勺",
+    "uk": "Ложка для морозива",
+    "zh-CN": "冰淇淋勺",
+    "kr": "아이스크림 스쿱",
+    "tr": "Dondurma Kepçesi",
+    "hr": "Lopatica za sladoled",
+    "sr": "Lopatica za sladoled"
+  },
+  "rarity": "Uncommon",
+  "type": "Recyclable",
+  "value": 640,
+  "recyclesInto": {
+    "metal_parts": 7
+  },
+  "salvagesInto": {
+    "metal_parts": 3
+  },
+  "description": {
+    "en": "It is theorized that scooping things was a favorite pastime in the world before.",
+    "de": "Es wird vermutet, dass das Schöpfen von Dingen ein beliebter Zeitvertreib in der Welt davor war.",
+    "fr": "On suppose que ramasser des choses était un passe-temps favori dans le monde d'avant.",
+    "es": "Se teoriza que sacar cosas con cuchara era un pasatiempo favorito en el mundo anterior.",
+    "pt": "Teoriza-se que pegar coisas com colher era um passatempo favorito no mundo anterior.",
+    "pl": "Teoretyzuje się, że nabieranie rzeczy było ulubionym zajęciem w dawnym świecie.",
+    "no": "Det teoretiseres at å øse ting var en favoritt tidsfordriv i verden før.",
+    "da": "Det teoretiseres, at at øse ting var en yndlingstidsfordriv i verden før.",
+    "it": "Si teorizza che raccogliere cose fosse un passatempo preferito nel mondo di prima.",
+    "ru": "Существует теория, что зачерпывание вещей было любимым времяпрепровождением в прежнем мире.",
+    "ja": "かつての世界では、すくうことが人気の娯楽だったと推測されている。",
+    "zh-TW": "據推測，在以前的世界裡，舀東西是一種最喜愛的消遣。",
+    "uk": "Існує теорія, що вичерпування речей було улюбленим заняттям у колишньому світі.",
+    "zh-CN": "据推测，在以前的世界里，舀东西是一种最喜爱的消遣。",
+    "kr": "이전 세계에서는 무언가를 퍼내는 것이 인기 있는 오락이었다고 추측됩니다.",
+    "tr": "Önceki dünyada bir şeyleri kepçeyle almak popüler bir eğlenceydi diye teorize edilir.",
+    "hr": "Teoretizira se da je hvatanje stvari lopaticama bilo omiljena zabava u prijašnjem svijetu.",
+    "sr": "Teoretiše se da je hvatanje stvari lopaticama bilo omiljena zabava u prethodnom svetu."
+  },
+  "weightKg": 0.8,
+  "stackSize": 3,
+  "foundIn": "Commercial",
+  "imageFilename": "https://cdn.arctracker.io/items/ice_cream_scooper.png",
+  "updatedAt": "11/04/2025"
+}

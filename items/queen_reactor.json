@@ -1,0 +1,53 @@
+{
+  "id": "queen_reactor",
+  "tip": "The Queen Reactor is a legendary item only acquired by defeating The Queen that can be recycled into crafting materials.",
+  "name": {
+    "en": "Queen Reactor",
+    "de": "Königinnenreaktor",
+    "fr": "Réacteur de reine",
+    "es": "Reactor de reina",
+    "pt": "Reator da rainha",
+    "pl": "Reaktor królowej",
+    "no": "Dronningrektor",
+    "da": "Dronningereaktor",
+    "it": "Reattore regina",
+    "ru": "Реактор королевы",
+    "ja": "クイーンリアクター",
+    "zh-TW": "女王反應爐",
+    "uk": "Реактор королеви",
+    "zh-CN": "女王反应堆",
+    "kr": "퀸 리액터",
+    "tr": "Kraliçe Reaktörü",
+    "hr": "Kraljičin Reaktor",
+    "sr": "Kraljičin Reaktor"
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Może być przetworzony na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmateriell.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクル可能。",
+    "zh-TW": "可回收為製作材料。",
+    "uk": "Можна переробити в матеріали для крафту.",
+    "zh-CN": "可回收为制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "type": "Recyclable",
+  "rarity": "Legendary",
+  "value": 13000,
+  "recyclesInto": {
+    "power_rod": 1,
+    "magnetic_accelerator": 1
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/queen_part.png",
+  "updatedAt": "10/30/2025"
+}

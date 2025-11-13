@@ -1,0 +1,152 @@
+{
+  "id": "ss10x10",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Power Out",
+    "de": "Stromausfall",
+    "fr": "Panne de courant",
+    "es": "Apagón",
+    "pt": "Queda de Energia",
+    "pl": "Brak prądu",
+    "no": "Strømbrudd",
+    "da": "Strømafbrydelse",
+    "it": "Blackout",
+    "uk": "Відключення електроенергії",
+    "kr": "정전",
+    "ru": "Отключение электричества",
+    "zh-CN": "断电",
+    "ja": "停電",
+    "tr": "Elektrik Kesintisi",
+    "zh-TW": "斷電",
+    "sr": "Nestanak struje",
+    "hr": "Nestanak struje"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "This goes beyond bad luck. Something—or someone—has knocked out some of our electrical substations. The engineer I sent out to fix it hasn't returned, so I need all available Raiders to look into it. That includes you.",
+    "de": "Das geht über Pech hinaus. Etwas – oder jemand – hat einige unserer elektrischen Umspannwerke lahmgelegt. Der Ingenieur, den ich zur Reparatur geschickt habe, ist nicht zurückgekehrt, also brauche ich alle verfügbaren Raider, um der Sache nachzugehen. Das schließt dich ein.",
+    "fr": "Cela va au-delà de la malchance. Quelque chose – ou quelqu'un – a mis hors service certaines de nos sous-stations électriques. L'ingénieur que j'ai envoyé pour réparer n'est pas revenu, j'ai donc besoin de tous les Raiders disponibles pour enquêter. Ça vous inclut.",
+    "es": "Esto va más allá de la mala suerte. Algo, o alguien, ha dejado fuera de servicio algunas de nuestras subestaciones eléctricas. El ingeniero que envié a repararlo no ha regresado, así que necesito que todos los Raiders disponibles investiguen. Eso te incluye a ti.",
+    "pt": "Isto vai além de má sorte. Algo – ou alguém – desativou algumas das nossas subestações elétricas. O engenheiro que enviei para consertar não voltou, então preciso que todos os Raiders disponíveis investiguem. Isso inclui você.",
+    "pl": "To wykracza poza pecha. Coś – lub ktoś – wyłączył niektóre z naszych podstacji elektrycznych. Inżynier, którego wysłałem, żeby to naprawić, nie wrócił, więc potrzebuję wszystkich dostępnych Raiderów do zbadania sprawy. To cię dotyczy.",
+    "no": "Dette går utover uflaks. Noe – eller noen – har slått ut noen av våre elektriske transformatorstasjoner. Ingeniøren jeg sendte ut for å fikse det har ikke kommet tilbake, så jeg trenger alle tilgjengelige Raiders til å undersøke saken. Det inkluderer deg.",
+    "da": "Dette går ud over uheld. Noget – eller nogen – har slået nogle af vores elektriske transformerstationer ud. Ingeniøren, jeg sendte ud for at reparere det, er ikke vendt tilbage, så jeg har brug for alle tilgængelige Raiders til at undersøge det. Det inkluderer dig.",
+    "it": "Questa è più che sfortuna. Qualcosa – o qualcuno – ha messo fuori uso alcune delle nostre sottostazioni elettriche. L'ingegnere che ho mandato a ripararlo non è tornato, quindi ho bisogno di tutti i Raider disponibili per indagare. Questo include te.",
+    "uk": "Це вже не просто невдача. Щось — або хтось — вивело з ладу деякі з наших електричних підстанцій. Інженер, якого я відправив для ремонту, не повернувся, тому мені потрібні всі доступні Рейдери, щоб розібратися з цим. Включаючи вас.",
+    "kr": "이건 단순한 불운이 아닙니다. 무언가가—혹은 누군가가—우리 전기 변전소 몇 곳을 파괴했습니다. 수리하러 보낸 엔지니어가 돌아오지 않았으니, 가능한 모든 레이더가 조사해야 합니다. 당신도 포함해서요.",
+    "ru": "Это уже не просто невезение. Что-то — или кто-то — вывело из строя несколько наших электрических подстанций. Инженер, которого я отправил чинить их, не вернулся, поэтому мне нужны все доступные Рейдеры, чтобы разобраться с этим. Включая вас.",
+    "zh-CN": "这已经超出了倒霉的范畴。某种东西——或者某个人——破坏了我们的一些变电站。我派去修理的工程师还没有回来，所以我需要所有可用的掠夺者去调查。包括你。",
+    "ja": "これは不運では済まされません。何か—あるいは誰かが—私たちの変電所のいくつかを破壊しました。修理に送った技術者が戻ってこないので、利用可能なレイダー全員に調査してもらう必要があります。あなたも含めてです。",
+    "tr": "Bu kötü şansın ötesinde bir şey. Bir şey—ya da biri—elektrik trafo merkezlerimizden bazılarını devre dışı bıraktı. Tamir etmesi için gönderdiğim mühendis geri dönmedi, bu yüzden mevcut tüm Akıncıların bunu araştırmasına ihtiyacım var. Bu seni de içeriyor.",
+    "zh-TW": "這已經超出了倒楣的範疇。某種東西——或者某個人——破壞了我們的一些變電站。我派去修理的工程師還沒有回來，所以我需要所有可用的掠奪者去調查。包括你。",
+    "sr": "Ovo prevazilazi lošu sreću. Nešto—ili neko—je onesposobio neke od naših električnih podstanica. Inženjer kojeg sam poslao da to popravi se nije vratio, tako da mi trebaju svi dostupni Rejderi da to ispitaju. To uključuje i tebe.",
+    "hr": "Ovo prelazi lošu sreću. Nešto—ili netko—je onesposobio neke od naših električnih podstanica. Inženjer kojeg sam poslao da to popravi se nije vratio, tako da mi trebaju svi dostupni Rejderi da to ispitaju. To uključuje i tebe."
+  },
+  "objectives": [
+    {
+      "en": "Find the Electrical Substation south of the Spaceport, next to the Checkpoint",
+      "de": "Finde das elektrische Umspannwerk südlich vom Raumhafen, neben dem Kontrollpunkt",
+      "fr": "Trouvez la sous-station électrique au sud du spatioport, à côté du point de contrôle",
+      "es": "Encuentra la subestación eléctrica al sur del espaciopuerto, junto al punto de control",
+      "pt": "Encontre a subestação elétrica ao sul do espaçoporto, ao lado do posto de controle",
+      "pl": "Znajdź podstację elektryczną na południe od kosmodromu, obok punktu kontrolnego",
+      "no": "Finn den elektriske transformatorstasjonen sør for romhavnen, ved siden av kontrollpunktet",
+      "da": "Find den elektriske transformerstation syd for rumhavnen, ved siden af kontrolpunktet",
+      "it": "Trova la sottostazione elettrica a sud dello spazioporto, vicino al checkpoint",
+      "uk": "Знайдіть електричну підстанцію на південь від Космопорту, біля контрольного пункту",
+      "kr": "우주항 남쪽, 검문소 옆에 있는 전기 변전소를 찾으세요",
+      "ru": "Найдите электрическую подстанцию к югу от Космопорта, рядом с контрольно-пропускным пунктом",
+      "zh-CN": "找到太空港南边检查站旁的变电站",
+      "ja": "宇宙港の南、チェックポイントの隣にある変電所を見つける",
+      "tr": "Uzay Limanı'nın güneyinde, Kontrol Noktası'nın yanındaki Elektrik Trafo Merkezini bulun",
+      "zh-TW": "找到太空港南邊檢查站旁的變電站",
+      "sr": "Pronađi električnu podstanicu južno od Svemirske luke, pored kontrolnog punkta",
+      "hr": "Pronađi električnu podstanicu južno od Svemirske luke, pored kontrolnog punkta"
+    },
+    {
+      "en": "Find any sign of the missing engineer",
+      "de": "Finde irgendein Zeichen des vermissten Ingenieurs",
+      "fr": "Trouvez un signe de l'ingénieur disparu",
+      "es": "Encuentra cualquier señal del ingeniero desaparecido",
+      "pt": "Encontre qualquer sinal do engenheiro desaparecido",
+      "pl": "Znajdź jakikolwiek ślad zaginionego inżyniera",
+      "no": "Finn et tegn på den savnede ingeniøren",
+      "da": "Find et tegn på den forsvundne ingeniør",
+      "it": "Trova qualsiasi traccia dell'ingegnere scomparso",
+      "uk": "Знайдіть будь-які ознаки зниклого інженера",
+      "kr": "실종된 엔지니어의 흔적을 찾으세요",
+      "ru": "Найдите любые признаки пропавшего инженера",
+      "zh-CN": "寻找失踪工程师的任何迹象",
+      "ja": "行方不明の技術者の痕跡を探す",
+      "tr": "Kayıp mühendisin herhangi bir izini bulun",
+      "zh-TW": "尋找失蹤工程師的任何跡象",
+      "sr": "Pronađi bilo kakav trag nestalog inženjera",
+      "hr": "Pronađi bilo kakav trag nestalog inženjera"
+    },
+    {
+      "en": "Carry the fuse/battery back to the Electrical Substation",
+      "de": "Bringe die Sicherung/Batterie zurück zum elektrischen Umspannwerk",
+      "fr": "Rapportez le fusible/la batterie à la sous-station électrique",
+      "es": "Lleva el fusible/batería de vuelta a la subestación eléctrica",
+      "pt": "Leve o fusível/bateria de volta à subestação elétrica",
+      "pl": "Zanieś bezpiecznik/baterię z powrotem do podstacji elektrycznej",
+      "no": "Bær sikringen/batteriet tilbake til den elektriske transformatorstasjonen",
+      "da": "Bær sikringen/batteriet tilbage til den elektriske transformerstation",
+      "it": "Porta il fusibile/batteria alla sottostazione elettrica",
+      "uk": "Принесіть запобіжник/батарею назад до електричної підстанції",
+      "kr": "퓨즈/배터리를 전기 변전소로 가져가세요",
+      "ru": "Отнесите предохранитель/батарею обратно на электрическую подстанцию",
+      "zh-CN": "将保险丝/电池带回变电站",
+      "ja": "ヒューズ/バッテリーを変電所に運ぶ",
+      "tr": "Sigortayı/bataryayı Elektrik Trafo Merkezine geri taşıyın",
+      "zh-TW": "將保險絲/電池帶回變電站",
+      "sr": "Odnesi osigurač/bateriju nazad do električne podstanice",
+      "hr": "Odnesi osigurač/bateriju natrag do električne podstanice"
+    },
+    {
+      "en": "Enable the power switch on the Fuse Box",
+      "de": "Aktiviere den Netzschalter am Sicherungskasten",
+      "fr": "Activez l'interrupteur d'alimentation sur la boîte à fusibles",
+      "es": "Activa el interruptor de energía en la caja de fusibles",
+      "pt": "Ative o interruptor de energia na caixa de fusíveis",
+      "pl": "Włącz przełącznik zasilania na skrzynce bezpieczników",
+      "no": "Aktiver strømbryteren på sikringsboksen",
+      "da": "Aktiver strømkontakten på sikringsboksen",
+      "it": "Attiva l'interruttore di alimentazione sulla scatola dei fusibili",
+      "uk": "Увімкніть вимикач живлення на блоці запобіжників",
+      "kr": "퓨즈 박스의 전원 스위치를 활성화하세요",
+      "ru": "Включите выключатель питания на блоке предохранителей",
+      "zh-CN": "启动保险丝盒上的电源开关",
+      "ja": "ヒューズボックスの電源スイッチを有効にする",
+      "tr": "Sigorta Kutusundaki güç anahtarını etkinleştirin",
+      "zh-TW": "啟動保險絲盒上的電源開關",
+      "sr": "Uključi prekidač na kutiji sa osiguračima",
+      "hr": "Uključi prekidač na kutiji s osiguračima"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "bag_radio_renegade",
+      "quantity": 1
+    },
+    {
+      "itemId": "wires",
+      "quantity": 5
+    },
+    {
+      "itemId": "explosive_compound",
+      "quantity": 5
+    },
+    {
+      "itemId": "oil",
+      "quantity": 5
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x9"
+  ],
+  "nextQuestIds": [
+    "ss10x11"
+  ]
+}

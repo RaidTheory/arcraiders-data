@@ -1,0 +1,53 @@
+{
+  "id": "cracked_bioscanner",
+  "name": {
+    "en": "Cracked Bioscanner",
+    "de": "Angeschlagener Bioscanner",
+    "fr": "Bioscanner fissuré",
+    "es": "Bioescáner agrietado",
+    "pt": "Bioescâner rachado",
+    "pl": "Pęknięty bioskaner",
+    "no": "Sprukket bioskanner",
+    "da": "Revnet bioskanner",
+    "it": "Bioscanner incrinato",
+    "ru": "Треснувший биосканер",
+    "ja": "ひび割れたバイオスキャナー",
+    "zh-TW": "破裂的生物掃描儀",
+    "uk": "Тріснутий біосканер",
+    "zh-CN": "破裂的生物扫描仪",
+    "kr": "금이 간 생체 스캐너",
+    "tr": "Çatlak Biyotarayıcı",
+    "hr": "Napukli bioskener",
+    "sr": "Napukli bioskener"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": 640,
+  "recyclesInto": {
+    "rubber_parts": 3,
+    "battery": 5
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali di fabbricazione.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクルできる。",
+    "zh-TW": "可回收為製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可回收为制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "foundIn": "Medical",
+  "imageFilename": "https://cdn.arctracker.io/items/cracked_bioscanner.png",
+  "updatedAt": "10/30/2025"
+}

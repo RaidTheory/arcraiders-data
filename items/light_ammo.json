@@ -1,0 +1,61 @@
+{
+  "id": "light_ammo",
+  "name": {
+    "en": "Light Ammo",
+    "de": "Leichte Munition",
+    "fr": "Munitions légères",
+    "es": "Munición ligera",
+    "pt": "Munição leve",
+    "pl": "Lekka amunicja",
+    "no": "Lett ammunisjon",
+    "da": "Let ammunition",
+    "it": "Munizioni leggere",
+    "ru": "Легкие патроны",
+    "ja": "ライト弾薬",
+    "zh-TW": "輕型彈藥",
+    "uk": "Легкі патрони",
+    "zh-CN": "轻型弹药",
+    "kr": "경량 탄약",
+    "tr": "Hafif Mermi",
+    "hr": "Lako streljivo",
+    "sr": "Lako streljivo"
+  },
+  "description": {
+    "en": "Light bullets used mainly with SMGs and light handguns. Compatible with: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "de": "Leichte Geschosse, hauptsächlich für MPs und leichte Handfeuerwaffen. Kompatibel mit: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "fr": "Balles légères utilisées principalement avec les mitraillettes et les pistolets légers. Compatible avec : Burletta, Sutureur, Fondoir, Hairpin, Bobcat",
+    "es": "Balas ligeras usadas principalmente con subfusiles y pistolas ligeras. Compatible con: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "pt": "Balas leves usadas principalmente com submetralhadoras e pistolas leves. Compatível com: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "pl": "Lekkie pociski używane głównie z pistoletami maszynowymi i lekkimi pistoletami. Kompatybilna z: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "no": "Lette kuler brukt hovedsakelig med maskinpistoler og lette håndvåpen. Kompatibel med: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "da": "Lette kugler brugt hovedsageligt med maskinpistoler og lette håndvåben. Kompatibel med: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "it": "Proiettili leggeri usati principalmente con mitra e pistole leggere. Compatibile con: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "ru": "Легкие пули, используемые в основном с ПП и легкими пистолетами. Совместимо с: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "ja": "主にSMGや軽量ハンドガンで使用される軽量弾。対応武器: Burletta、Stitcher、Kettle、Hairpin、Bobcat",
+    "zh-TW": "主要用於衝鋒槍和輕型手槍的輕型子彈。相容武器：Burletta、Stitcher、Kettle、Hairpin、Bobcat",
+    "uk": "Легкі кулі, що використовуються в основному з ПП та легкими пістолетами. Сумісно з: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "zh-CN": "主要用于冲锋枪和轻型手枪的轻型子弹。兼容武器：Burletta、Stitcher、Kettle、Hairpin、Bobcat",
+    "kr": "주로 기관단총과 경량 권총에 사용되는 경량 탄환입니다. 호환 무기: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "tr": "Ağırlıklı olarak hafif makineli tüfekler ve hafif tabancalarda kullanılan hafif mermiler. Uyumlu silahlar: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "hr": "Laki meci koji se uglavnom koriste s automatskim pištoljima i lakim pištoljima. Kompatibilno s: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+    "sr": "Laki meci koji se uglavnom koriste sa automatskim pištoljima i lakim pištoljima. Kompatibilno sa: Burletta, Stitcher, Kettle, Hairpin, Bobcat"
+  },
+  "type": "Ammunition",
+  "imageFilename": "https://cdn.arctracker.io/items/light_ammo.png",
+  "compatibleWith": [
+    "Kettle",
+    "Burletta",
+    "Hairpin",
+    "Bobcat",
+    "Stitcher"
+  ],
+  "value": 0.76,
+  "weightKg": 0.00323,
+  "stackSize": 100,
+  "updatedAt": "11/03/2025",
+  "recipe": {
+    "metal_parts": 3,
+    "chemicals": 2
+  },
+  "craftBench": "workbench"
+}

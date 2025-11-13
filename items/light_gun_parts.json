@@ -1,0 +1,58 @@
+{
+  "id": "light_gun_parts",
+  "name": {
+    "en": "Light Gun Parts",
+    "de": "Teile für Waffen mit leichter Munition",
+    "fr": "Pièces d'arme légère",
+    "es": "Piezas de Armas Ligeras",
+    "pt": "Peças de Armas Leves",
+    "pl": "Części Lekkiej Broni",
+    "no": "Lette Våpendeler",
+    "da": "Lette Våbendele",
+    "it": "Parti di Armi Leggere",
+    "ru": "Детали лёгкого оружия",
+    "ja": "軽火器パーツ",
+    "zh-TW": "輕型槍械零件",
+    "uk": "Деталі легкої зброї",
+    "zh-CN": "轻型枪械零件",
+    "kr": "경화기 부품",
+    "tr": "Hafif Silah Parçaları",
+    "hr": "Dijelovi lakog oružja",
+    "sr": "Delovi lakog oružja"
+  },
+  "rarity": "Rare",
+  "type": "Topside Material",
+  "value": 700,
+  "recyclesInto": {
+    "simple_gun_parts": 2
+  },
+  "description": {
+    "en": "Assorted spare parts used for pistols and SMGs. Used to craft: Bobcat, Complex Gun Parts",
+    "de": "Verschiedene Ersatzteile für Pistolen und MPs. Wird verwendet für: Bobcat, Komplexe Waffenteile",
+    "fr": "Pièces de rechange assorties pour pistolets et mitraillettes. Permet de fabriquer : Bobcat, Pièces d'arme complexes",
+    "es": "Piezas de repuesto variadas para pistolas y subfusiles. Usado para fabricar: Bobcat, Piezas de Armas Complejas",
+    "pt": "Peças sobressalentes variadas para pistolas e submetralhadoras. Usado para fabricar: Bobcat, Peças de Armas Complexas",
+    "pl": "Różne części zamienne do pistoletów i pistoletów maszynowych. Używane do wytworzenia: Bobcat, Złożone Części Broni",
+    "no": "Assorterte reservedeler brukt til pistoler og maskinpistoler. Brukes til å lage: Bobcat, Komplekse Våpendeler",
+    "da": "Assorterede reservedele brugt til pistoler og maskinpistoler. Bruges til at lave: Bobcat, Komplekse Våbendele",
+    "it": "Parti di ricambio assortite per pistole e mitra. Usato per creare: Bobcat, Parti di Armi Complesse",
+    "ru": "Различные запчасти для пистолетов и пистолетов-пулемётов. Используется для создания: Bobcat, Сложные детали оружия",
+    "ja": "ピストルとサブマシンガンに使用される各種予備パーツ。製作可能: Bobcat、複雑な銃器パーツ",
+    "zh-TW": "用於手槍和衝鋒槍的各種備用零件。可製作：Bobcat、複雜槍械零件",
+    "uk": "Різні запчастини для пістолетів та пістолетів-кулеметів. Використовується для створення: Bobcat, Складні деталі зброї",
+    "zh-CN": "用于手枪和冲锋枪的各种备用零件。可制作：Bobcat、复杂枪械零件",
+    "kr": "권총과 기관단총에 사용되는 각종 예비 부품. 제작 가능: Bobcat, 복잡한 총기 부품",
+    "tr": "Tabancalar ve hafif makineli tüfekler için çeşitli yedek parçalar. Üretilebilir: Bobcat, Karmaşık Silah Parçaları",
+    "hr": "Razni rezervni dijelovi za pištolje i automatske pištolje. Koristi se za izradu: Bobcat, Složeni dijelovi oružja",
+    "sr": "Razni rezervni delovi za pištolje i automatske pištolje. Koristi se za izradu: Bobcat, Složeni delovi oružja"
+  },
+  "foundIn": "Raider, Security",
+  "weightKg": 0.3,
+  "stackSize": 5,
+  "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts.png",
+  "updatedAt": "11/03/2025",
+  "recipe": {
+    "simple_gun_parts": 4
+  },
+  "craftBench": "refiner"
+}

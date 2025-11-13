@@ -1,0 +1,58 @@
+{
+  "id": "industrial_charger",
+  "name": {
+    "en": "Industrial Charger",
+    "de": "Industrieladegerät",
+    "fr": "Chargeur Industriel",
+    "es": "Cargador Industrial",
+    "pt": "Carregador Industrial",
+    "pl": "Ładowarka Przemysłowa",
+    "no": "Industriell Lader",
+    "da": "Industriel Oplader",
+    "it": "Caricatore Industriale",
+    "ru": "Промышленное зарядное устройство",
+    "ja": "産業用充電器",
+    "zh-TW": "工業充電器",
+    "uk": "Промислове зарядний пристрій",
+    "zh-CN": "工业充电器",
+    "kr": "산업용 충전기",
+    "tr": "Endüstriyel Şarj Cihazı",
+    "hr": "Industrijski punjač",
+    "sr": "Industrijski punjač"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": 1000,
+  "recyclesInto": {
+    "metal_parts": 5,
+    "voltage_converter": 1
+  },
+  "salvagesInto": {
+    "voltage_converter": 1
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmateriell.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "製作素材にリサイクルできる。",
+    "zh-TW": "可以回收成製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可以回收成制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "weightKg": 2.0,
+  "stackSize": 3,
+  "foundIn": "Industrial",
+  "imageFilename": "https://cdn.arctracker.io/items/industrial_charger.png",
+  "updatedAt": "10/30/2025"
+}

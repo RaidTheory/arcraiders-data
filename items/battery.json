@@ -1,0 +1,57 @@
+{
+  "id": "battery",
+  "name": {
+    "en": "Battery",
+    "de": "Akku",
+    "fr": "Batterie",
+    "es": "Batería",
+    "pt": "Bateria",
+    "pl": "Bateria",
+    "no": "Batteri",
+    "da": "Batteri",
+    "it": "Batteria",
+    "ru": "Батарея",
+    "ja": "バッテリー",
+    "zh-TW": "電池",
+    "uk": "Батарея",
+    "zh-CN": "电池",
+    "kr": "배터리",
+    "tr": "Batarya",
+    "hr": "Baterija",
+    "sr": "Baterija"
+  },
+  "description": {
+    "en": "Used to craft a wide range of items. Can be recycled into scrap metal. Used to craft: Energy Clip, Medium Shield, Jolt Mine",
+    "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Altmetall recycelt werden. Wird verwendet für: Energiemagazin, Mittlerer Schild, Schockmine",
+    "fr": "Permet de fabriquer une large gamme d'objets. Peut être recyclé en ferraille. Permet de fabriquer : Chargeur d'énergie, Bouclier moyen, Mine électrique",
+    "es": "Usado para fabricar una amplia gama de objetos. Puede reciclarse en chatarra. Usado para fabricar: Cargador de energía, Escudo mediano, Mina de descarga",
+    "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em sucata. Usado para fabricar: Carregador de energia, Escudo médio, Mina de choque",
+    "pl": "Używane do wytwarzania szerokiej gamy przedmiotów. Można przetworzyć na złom. Używane do wytworzenia: Magazynek energetyczny, Średnia tarcza, Mina elektryczna",
+    "no": "Brukes til å lage et bredt spekter av gjenstander. Kan resirkuleres til skrapmetall. Brukes til å lage: Energiklipp, Middels skjold, Støtmine",
+    "da": "Bruges til at lave en bred vifte af genstande. Kan genbruges til skrotmetal. Bruges til at lave: Energiklip, Mellemstort skjold, Stødmine",
+    "it": "Usato per fabbricare un'ampia gamma di oggetti. Può essere riciclato in rottami metallici. Usato per fabbricare: Caricatore energetico, Scudo medio, Mina elettrica",
+    "ru": "Используется для создания широкого спектра предметов. Может быть переработана в металлолом. Используется для создания: энергетическая обойма, средний щит, электрическая мина",
+    "ja": "幅広いアイテムの製作に使用。スクラップメタルにリサイクル可能。製作に使用: エナジークリップ、ミディアムシールド、ジョルトマイン",
+    "zh-TW": "用於製作各種物品。可回收成廢金屬。用於製作：能量彈夾、中型護盾、電擊地雷",
+    "uk": "Використовується для створення широкого спектру предметів. Може бути перероблена на металобрухт. Використовується для створення: енергетична обойма, середній щит, електрична міна",
+    "zh-CN": "用于制作各种物品。可回收成废金属。用于制作：能量弹夹、中型护盾、电击地雷",
+    "kr": "다양한 아이템 제작에 사용. 고철로 재활용 가능. 제작 용도: 에너지 클립, 중형 실드, 전격 지뢰",
+    "tr": "Geniş bir eşya yelpazesi üretiminde kullanılır. Hurda metale geri dönüştürülebilir. Üretimde kullanılır: Enerji Şarjörü, Orta Kalkan, Şok Mayını",
+    "hr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u otpadni metal. Koristi se za izradu: Energetski Okvir, Srednji Štit, Električna Mina",
+    "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u otpadni metal. Koristi se za izradu: Energetski Okvir, Srednji Štit, Električna Mina"
+  },
+  "type": "Topside Material",
+  "rarity": "Uncommon",
+  "imageFilename": "https://cdn.arctracker.io/items/battery.png",
+  "value": 250,
+  "recyclesInto": {
+    "metal_parts": 2
+  },
+  "salvagesInto": {
+    "metal_parts": 1
+  },
+  "foundIn": "Technological, Electrical",
+  "stackSize": 15,
+  "weightKg": 0.25,
+  "updatedAt": "11/11/2025"
+}

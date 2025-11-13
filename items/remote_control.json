@@ -1,0 +1,58 @@
+{
+  "id": "remote_control",
+  "name": {
+    "en": "Remote Control",
+    "de": "Fernbedienung",
+    "fr": "Télécommande",
+    "es": "Control Remoto",
+    "pt": "Controle Remoto",
+    "pl": "Pilot",
+    "no": "Fjernkontroll",
+    "da": "Fjernbetjening",
+    "it": "Telecomando",
+    "ru": "Пульт дистанционного управления",
+    "ja": "リモコン",
+    "zh-TW": "遙控器",
+    "uk": "Пульт дистанційного керування",
+    "zh-CN": "遥控器",
+    "kr": "리모컨",
+    "tr": "Uzaktan Kumanda",
+    "hr": "Daljinski Upravljač",
+    "sr": "Daljinski Upravljač"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": 1000,
+  "recyclesInto": {
+    "plastic_parts": 7,
+    "sensors": 1
+  },
+  "salvagesInto": {
+    "sensors": 1
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmateriell.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "製作材料にリサイクルできる。",
+    "zh-TW": "可回收為製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可回收为制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "weightKg": 0.8,
+  "stackSize": 3,
+  "foundIn": "Residential",
+  "imageFilename": "https://cdn.arctracker.io/items/remote_control.png",
+  "updatedAt": "11/03/2025"
+}

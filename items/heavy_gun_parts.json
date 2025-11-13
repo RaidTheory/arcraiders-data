@@ -1,0 +1,58 @@
+{
+  "id": "heavy_gun_parts",
+  "name": {
+    "en": "Heavy Gun Parts",
+    "de": "Teile für Waffen mit schwerer Munition",
+    "fr": "Pièces d'arme lourde",
+    "es": "Piezas de arma pesada",
+    "pt": "Peças de arma pesada",
+    "pl": "Części ciężkiej broni",
+    "no": "Tunge våpendeler",
+    "da": "Tunge våbendele",
+    "it": "Parti di arma pesante",
+    "ru": "Детали тяжелого оружия",
+    "ja": "ヘビーガンパーツ",
+    "zh-TW": "重型槍械零件",
+    "uk": "Деталі важкої зброї",
+    "zh-CN": "重型枪械零件",
+    "kr": "중화기 부품",
+    "tr": "Ağır Silah Parçaları",
+    "hr": "Dijelovi teškog oružja",
+    "sr": "Delovi teškog oružja"
+  },
+  "description": {
+    "en": "Used to craft weapons. Used to craft: Vulcano, Hullcracker, Bettina, Complex Gun Parts",
+    "de": "Wird zur Herstellung von Waffen verwendet. Wird verwendet für: Vulcano, Hullcracker, Bettina, Komplexe Waffenteile",
+    "fr": "Utilisées pour fabriquer des armes. Utilisées pour fabriquer : Vulcano, Brise-fuselage, Bettina, Pièces d'arme complexes",
+    "es": "Se usan para fabricar armas. Se usan para fabricar: Vulcano, Hullcracker, Bettina, Piezas de arma complejas",
+    "pt": "Usadas para fabricar armas. Usadas para fabricar: Vulcano, Hullcracker, Bettina, Peças de arma complexas",
+    "pl": "Używane do wytwarzania broni. Używane do wytworzenia: Vulcano, Hullcracker, Bettina, Złożone części broni",
+    "no": "Brukes til å lage våpen. Brukes til å lage: Vulcano, Hullcracker, Bettina, Komplekse våpendeler",
+    "da": "Bruges til at lave våben. Bruges til at lave: Vulcano, Hullcracker, Bettina, Komplekse våbendele",
+    "it": "Usate per creare armi. Usate per creare: Vulcano, Hullcracker, Bettina, Parti di arma complesse",
+    "ru": "Используется для создания оружия. Используется для создания: Vulcano, Hullcracker, Bettina, Сложные детали оружия",
+    "ja": "武器の製作に使用。製作可能: Vulcano、Hullcracker、Bettina、複雑な銃パーツ",
+    "zh-TW": "用於製作武器。可製作：Vulcano、Hullcracker、Bettina、複雜槍械零件",
+    "uk": "Використовується для створення зброї. Використовується для створення: Vulcano, Hullcracker, Bettina, Складні деталі зброї",
+    "zh-CN": "用于制作武器。可制作：Vulcano、Hullcracker、Bettina、复杂枪械零件",
+    "kr": "무기 제작에 사용됩니다. 제작 가능: Vulcano, Hullcracker, Bettina, 복합 총기 부품",
+    "tr": "Silah üretmek için kullanılır. Üretilebilir: Vulcano, Hullcracker, Bettina, Karmaşık Silah Parçaları",
+    "hr": "Koristi se za izradu oružja. Koristi se za izradu: Vulcano, Hullcracker, Bettina, Složeni dijelovi oružja",
+    "sr": "Koristi se za izradu oružja. Koristi se za izradu: Vulcano, Hullcracker, Bettina, Složeni delovi oružja"
+  },
+  "type": "Topside Material",
+  "rarity": "Rare",
+  "value": 700,
+  "recyclesInto": {
+    "simple_gun_parts": 2
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts.png",
+  "weightKg": 0.5,
+  "stackSize": 5,
+  "foundIn": "Security, Raider",
+  "updatedAt": "11/03/2025",
+  "recipe": {
+    "simple_gun_parts": 4
+  },
+  "craftBench": "refiner"
+}

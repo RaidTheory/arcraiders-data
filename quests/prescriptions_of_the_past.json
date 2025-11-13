@@ -1,0 +1,124 @@
+{
+  "id": "ss10x9",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Prescriptions of the Past",
+    "de": "Rezepte der Vergangenheit",
+    "fr": "Prescriptions du passé",
+    "es": "Recetas del pasado",
+    "pt": "Prescrições do Passado",
+    "pl": "Recepty z przeszłości",
+    "no": "Resepter fra fortiden",
+    "da": "Recepter fra fortiden",
+    "it": "Prescrizioni del passato",
+    "uk": "Рецепти минулого",
+    "kr": "과거의 처방전",
+    "ru": "Рецепты прошлого",
+    "zh-CN": "过去的处方",
+    "ja": "過去の処方箋",
+    "tr": "Geçmişin Reçeteleri",
+    "zh-TW": "過去的處方",
+    "sr": "Recepti iz prošlosti",
+    "hr": "Recepti iz prošlosti"
+  },
+  "trader": "Lance",
+  "description": {
+    "en": "I've been curious about the medical area in the Spaceport for a while now. Something tells me it's got just what I need to become the undeniable champion of this place.",
+    "de": "Ich bin schon seit einer Weile neugierig auf den medizinischen Bereich im Raumhafen. Etwas sagt mir, dass es genau das hat, was ich brauche, um der unbestrittene Champion dieses Ortes zu werden.",
+    "fr": "Cela fait un moment que je suis curieux au sujet de la zone médicale du spatioport. Quelque chose me dit qu'elle contient exactement ce dont j'ai besoin pour devenir le champion incontesté de cet endroit.",
+    "es": "Llevo un tiempo con curiosidad por el área médica del espaciopuerto. Algo me dice que tiene justo lo que necesito para convertirme en el campeón indiscutible de este lugar.",
+    "pt": "Tenho estado curioso sobre a área médica no Espaçoporto há algum tempo. Algo me diz que tem exatamente o que preciso para me tornar o campeão indiscutível deste lugar.",
+    "pl": "Od jakiegoś czasu jestem ciekaw obszaru medycznego w Porcie Kosmicznym. Coś mi mówi, że ma dokładnie to, czego potrzebuję, aby stać się niekwestionowanym mistrzem tego miejsca.",
+    "no": "Jeg har vært nysgjerrig på det medisinske området i romhavnen en stund nå. Noe forteller meg at det har akkurat det jeg trenger for å bli den ubestridelige mesteren av dette stedet.",
+    "da": "Jeg har været nysgerrig på det medicinske område i rumhavnen et stykke tid nu. Noget fortæller mig, at det har præcis, hvad jeg har brug for, for at blive den ubestridelige mester på dette sted.",
+    "it": "Sono curioso dell'area medica nello Spazioporto da un po' di tempo ormai. Qualcosa mi dice che ha proprio ciò di cui ho bisogno per diventare il campione indiscusso di questo posto.",
+    "uk": "Я вже деякий час цікавлюся медичною зоною в Космопорту. Щось підказує мені, що там є саме те, що мені потрібно, щоб стати беззаперечним чемпіоном цього місця.",
+    "kr": "한동안 우주항의 의료 구역이 궁금했습니다. 그곳에 이곳의 확실한 챔피언이 되기 위해 필요한 것이 있을 거라는 느낌이 듭니다.",
+    "ru": "Я уже давно интересуюсь медицинской зоной в Космопорту. Что-то подсказывает мне, что там есть именно то, что мне нужно, чтобы стать бесспорным чемпионом этого места.",
+    "zh-CN": "我对太空港的医疗区已经好奇了一段时间。直觉告诉我那里有我成为这个地方无可争议的冠军所需要的东西。",
+    "ja": "しばらく前から宇宙港の医療エリアが気になっていました。そこには、この場所の揺るぎないチャンピオンになるために必要なものがあるような気がします。",
+    "tr": "Bir süredir Uzay Limanı'ndaki tıbbi alana merak sardım. İçimden bir ses buranın tartışmasız şampiyonu olmak için ihtiyacım olan şeyin orada olduğunu söylüyor.",
+    "zh-TW": "我對太空港的醫療區已經好奇了一段時間。直覺告訴我那裡有我成為這個地方無可爭議的冠軍所需要的東西。",
+    "sr": "Već neko vreme sam radoznao o medicinskom delu u Svemirskoj luci. Nešto mi govori da tamo ima upravo ono što mi treba da postanem neosporan šampion ovog mesta.",
+    "hr": "Već neko vrijeme sam znatiželjan o medicinskom području u Svemirskoj luci. Nešto mi govori da tamo ima upravo ono što mi treba da postanem neosporan prvak ovog mjesta."
+  },
+  "objectives": [
+    {
+      "en": "Visit the Departure Building in Spaceport",
+      "de": "Besuche das Abfluggebäude im Raumhafen",
+      "fr": "Visiter le bâtiment des départs dans le spatioport",
+      "es": "Visita el edificio de salidas en el espaciopuerto",
+      "pt": "Visite o Edifício de Partidas no Espaçoporto",
+      "pl": "Odwiedź budynek odlotów w Porcie Kosmicznym",
+      "no": "Besøk avgangsbygningen i romhavnen",
+      "da": "Besøg afgangsbygningen i rumhavnen",
+      "it": "Visita l'edificio delle partenze nello Spazioporto",
+      "uk": "Відвідайте будівлю відправлення в Космопорту",
+      "kr": "우주항의 출발 건물을 방문하세요",
+      "ru": "Посетите здание отправления в Космопорту",
+      "zh-CN": "前往太空港的出发大楼",
+      "ja": "宇宙港の出発ビルを訪れる",
+      "tr": "Uzay Limanı'ndaki Kalkış Binasını ziyaret edin",
+      "zh-TW": "前往太空港的出發大樓",
+      "sr": "Poseti zgradu polazaka u Svemirskoj luci",
+      "hr": "Posjeti zgradu polazaka u Svemirskoj luci"
+    },
+    {
+      "en": "Find the Medical Exam Room inside the Departure Building",
+      "de": "Finde den medizinischen Untersuchungsraum im Abfluggebäude",
+      "fr": "Trouver la salle d'examen médical dans le bâtiment des départs",
+      "es": "Encuentra la sala de examen médico dentro del edificio de salidas",
+      "pt": "Encontre a Sala de Exames Médicos dentro do Edifício de Partidas",
+      "pl": "Znajdź gabinet badań lekarskich w budynku odlotów",
+      "no": "Finn det medisinske undersøkelsesrommet inne i avgangsbygningen",
+      "da": "Find det medicinske undersøgelsesrum inde i afgangsbygningen",
+      "it": "Trova la sala visite mediche all'interno dell'edificio delle partenze",
+      "uk": "Знайдіть медичний оглядовий кабінет всередині будівлі відправлення",
+      "kr": "출발 건물 내부의 의료 검진실을 찾으세요",
+      "ru": "Найдите медицинский кабинет внутри здания отправления",
+      "zh-CN": "在出发大楼内找到医疗检查室",
+      "ja": "出発ビル内の医療診察室を見つける",
+      "tr": "Kalkış Binası içindeki Tıbbi Muayene Odasını bulun",
+      "zh-TW": "在出發大樓內找到醫療檢查室",
+      "sr": "Pronađi medicinsku ambulantu unutar zgrade polazaka",
+      "hr": "Pronađi medicinsku ambulantu unutar zgrade polazaka"
+    },
+    {
+      "en": "Search for the records",
+      "de": "Suche nach den Aufzeichnungen",
+      "fr": "Chercher les dossiers",
+      "es": "Busca los registros",
+      "pt": "Procure os registos",
+      "pl": "Poszukaj dokumentacji",
+      "no": "Søk etter journalene",
+      "da": "Søg efter journalerne",
+      "it": "Cerca i registri",
+      "uk": "Шукайте записи",
+      "kr": "기록을 찾으세요",
+      "ru": "Ищите записи",
+      "zh-CN": "搜寻记录",
+      "ja": "記録を探す",
+      "tr": "Kayıtları arayın",
+      "zh-TW": "搜尋記錄",
+      "sr": "Traži zapise",
+      "hr": "Traži zapise"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "heavy_shield",
+      "quantity": 1
+    },
+    {
+      "itemId": "tactical_mk3_healing",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x8"
+  ],
+  "nextQuestIds": [
+    "ss10x10"
+  ]
+}

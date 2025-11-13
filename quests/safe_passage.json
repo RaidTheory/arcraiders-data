@@ -1,0 +1,78 @@
+{
+  "id": "ss8",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Safe Passage",
+    "de": "Sichere Passage",
+    "fr": "Passage sûr",
+    "es": "Paso seguro",
+    "pt": "Passagem segura",
+    "pl": "Bezpieczne przejście",
+    "no": "Trygg passasje",
+    "da": "Sikker passage",
+    "it": "Passaggio sicuro",
+    "uk": "Безпечний прохід",
+    "kr": "안전한 통로",
+    "ru": "Безопасный проход",
+    "zh-CN": "安全通道",
+    "ja": "安全な通路",
+    "tr": "Güvenli Geçiş",
+    "zh-TW": "安全通道",
+    "sr": "Siguran Prolaz",
+    "hr": "Siguran Prolaz"
+  },
+  "trader": "Apollo",
+  "objectives": [
+    {
+      "en": "Destroy 2 ARC enemies using any explosive grenade",
+      "de": "Zerstöre 2 ARC-Gegner mit einer beliebigen Explosivgranate",
+      "fr": "Détruisez 2 ennemis ARC avec n'importe quelle grenade explosive",
+      "es": "Destruye 2 enemigos ARC usando cualquier granada explosiva",
+      "pt": "Destrua 2 inimigos ARC usando qualquer granada explosiva",
+      "pl": "Zniszcz 2 wrogów ARC używając dowolnego granatu wybuchowego",
+      "no": "Ødelegg 2 ARC-fiender ved å bruke en eksplosiv granat",
+      "da": "Ødelæg 2 ARC-fjender ved at bruge en eksplosiv granat",
+      "it": "Distruggi 2 nemici ARC usando qualsiasi granata esplosiva",
+      "uk": "Знищте 2 ворогів ARC за допомогою будь-якої вибухової гранати",
+      "kr": "폭발 수류탄으로 ARC 적 2명 처치",
+      "ru": "Уничтожьте 2 врагов ARC с помощью любой взрывной гранаты",
+      "zh-CN": "使用任意爆炸手榴弹摧毁2个ARC敌人",
+      "ja": "爆発グレネードを使用してARCの敵を2体破壊する",
+      "tr": "Herhangi bir patlayıcı bomba kullanarak 2 ARC düşmanını yok et",
+      "zh-TW": "使用任意爆炸手榴彈摧毀2個ARC敵人",
+      "sr": "Uništite 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu",
+      "hr": "Uništite 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "light_impact_grenade",
+      "quantity": 10
+    },
+    {
+      "itemId": "snap_blast_grenade",
+      "quantity": 3
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "lil_smoke_grenade",
+      "quantity": 5
+    },
+    {
+      "itemId": "barricade_kit",
+      "quantity": 3
+    },
+    {
+      "itemId": "shrapnel_grenade",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss5"
+  ],
+  "nextQuestIds": [
+    "ss8a"
+  ]
+}

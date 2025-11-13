@@ -1,0 +1,57 @@
+{
+  "id": "arc_coolant",
+  "name": {
+    "en": "ARC Coolant",
+    "de": "ARC-Kühlmittel",
+    "fr": "Liquide de refroidissement ARC",
+    "es": "Refrigerante ARC",
+    "pt": "Refrigerante ARC",
+    "pl": "Płyn chłodzący ARC",
+    "no": "ARC-kjølevæske",
+    "da": "ARC-kølevæske",
+    "it": "Refrigerante ARC",
+    "ru": "Охлаждающая жидкость ARC",
+    "ja": "ARCクーラント",
+    "zh-TW": "ARC冷卻劑",
+    "uk": "Охолоджувальна рідина ARC",
+    "zh-CN": "ARC冷却剂",
+    "kr": "ARC 냉각수",
+    "tr": "ARC Soğutucu",
+    "hr": "ARC rashladna tekućina",
+    "sr": "ARC rashladna tečnost"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": 1000,
+  "recyclesInto": {
+    "chemicals": 16
+  },
+  "salvagesInto": {
+    "chemicals": 9
+  },
+  "description": {
+    "en": "Obtained from ARC enemies or activities. Can be recycled into chemicals.",
+    "de": "Von ARC-Gegnern oder Aktivitäten erhalten. Kann zu Chemikalien recycelt werden.",
+    "fr": "Obtenu auprès d'ennemis ou d'activités ARC. Peut être recyclé en produits chimiques.",
+    "es": "Obtenido de enemigos o actividades ARC. Puede reciclarse en químicos.",
+    "pt": "Obtido de inimigos ou atividades ARC. Pode ser reciclado em químicos.",
+    "pl": "Uzyskane od wrogów lub działań ARC. Można przetworzyć na chemikalia.",
+    "no": "Oppnådd fra ARC-fiender eller aktiviteter. Kan resirkuleres til kjemikalier.",
+    "da": "Opnået fra ARC-fjender eller aktiviteter. Kan genbruges til kemikalier.",
+    "it": "Ottenuto da nemici o attività ARC. Può essere riciclato in sostanze chimiche.",
+    "ru": "Получается с врагов ARC или из активностей. Можно переработать в химикаты.",
+    "ja": "ARC敵またはアクティビティから入手。化学物質にリサイクル可能。",
+    "zh-TW": "從ARC敵人或活動中獲得。可回收為化學品。",
+    "uk": "Отримується з ворогів ARC або з активностей. Можна переробити в хімікати.",
+    "zh-CN": "从ARC敌人或活动中获得。可回收为化学品。",
+    "kr": "ARC 적 또는 활동에서 획득. 화학 물질로 재활용 가능.",
+    "tr": "ARC düşmanlarından veya aktivitelerden elde edilir. Kimyasallara geri dönüştürülebilir.",
+    "hr": "Dobiva se od ARC neprijatelja ili aktivnosti. Može se reciklirati u kemikalije.",
+    "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Može se reciklirati u hemikalije."
+  },
+  "weightKg": 1.0,
+  "stackSize": 3,
+  "foundIn": "ARC",
+  "imageFilename": "https://cdn.arctracker.io/items/arc_coolant.png",
+  "updatedAt": "10/30/2025"
+}

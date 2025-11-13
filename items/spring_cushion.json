@@ -1,0 +1,58 @@
+{
+  "id": "spring_cushion",
+  "name": {
+    "en": "Spring Cushion",
+    "de": "Sprungfederkissen",
+    "fr": "Coussin à ressorts",
+    "es": "Cojín de Muelles",
+    "pt": "Almofada de Molas",
+    "pl": "Poduszka Sprężynowa",
+    "no": "Fjærpute",
+    "da": "Fjederpude",
+    "it": "Cuscino a Molle",
+    "ru": "Пружинная подушка",
+    "ja": "スプリングクッション",
+    "zh-TW": "彈簧墊",
+    "uk": "Пружинна подушка",
+    "zh-CN": "弹簧垫",
+    "kr": "스프링 쿠션",
+    "tr": "Yay Yastığı",
+    "hr": "Opruga jastuka",
+    "sr": "Opruga jastuka"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": 2000,
+  "recyclesInto": {
+    "durable_cloth": 2,
+    "steel_spring": 2
+  },
+  "salvagesInto": {
+    "steel_spring": 2
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmateriell.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクルできます。",
+    "zh-TW": "可回收為製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可回收为制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "tr": "İşleme malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "weightKg": 2.0,
+  "stackSize": 3,
+  "foundIn": "Residential, Commercial",
+  "imageFilename": "https://cdn.arctracker.io/items/spring_cushion.png",
+  "updatedAt": "11/04/2025"
+}
