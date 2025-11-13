@@ -94,8 +94,8 @@
     "synthesized_fuel": 2
   },
   "recipe": {
-    "explosive_compound": 2,
-    "sensors": 2
+    "explosive_compound": 3,
+    "arc_motion_core": 2
   },
-  "craftBench": "explosives_station"
+  "craftBench": "explosives_bench"
 }
