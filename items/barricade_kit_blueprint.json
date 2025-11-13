@@ -1,24 +1,24 @@
 {
-  "id": "barricade_kit",
+  "id": "barricade_kit_blueprint",
   "name": {
-    "en": "Barricade Kit",
-    "de": "Barrikaden-Set",
-    "fr": "Kit de barricade",
-    "es": "Kit de barricada",
-    "pt": "Kit de barricada",
-    "pl": "Zestaw barykady",
-    "no": "Barrikade-sett",
-    "da": "Barrikade-sæt",
-    "it": "Kit barricata",
-    "ru": "Набор баррикад",
-    "ja": "バリケードキット",
-    "zh-TW": "路障套組",
-    "uk": "Набір барикад",
-    "zh-CN": "路障套件",
-    "kr": "바리케이드 키트",
-    "tr": "Barikat Kiti",
-    "hr": "Komplet za Barikadu",
-    "sr": "Komplet za Barikadu"
+    "en": "Barricade Kit Blueprint",
+    "de": "Barrikaden-Set Blaupause",
+    "fr": "Plan de kit de barricade",
+    "es": "Plano de kit de barricada",
+    "pt": "Projeto de kit de barricada",
+    "pl": "Projekt zestawu barykady",
+    "no": "Barrikade-sett-tegning",
+    "da": "Barrikade-sæt-tegning",
+    "it": "Progetto kit barricata",
+    "ru": "Чертёж набора баррикад",
+    "ja": "バリケードキット設計図",
+    "zh-TW": "路障套組藍圖",
+    "uk": "Креслення набору барикад",
+    "zh-CN": "路障套件蓝图",
+    "kr": "바리케이드 키트 설계도",
+    "tr": "Barikat Kiti Planı",
+    "hr": "Nacrt za komplet barikade",
+    "sr": "Nacrt za komplet barikade"
   },
   "description": {
     "en": "A deployable cover that can block incoming damage until it breaks.",
@@ -40,46 +40,10 @@
     "hr": "Pokretni zaklon koji može blokirati dolaznu štetu dok se ne slomi.",
     "sr": "Pokretni zaklon koji može blokirati dolaznu štetu dok se ne slomi."
   },
-  "type": "Quick Use",
-  "rarity": "Uncommon",
-  "value": 640,
-  "recyclesInto": {
-    "metal_parts": 4
-  },
-  "weightKg": 0.4,
-  "stackSize": 3,
-  "effects": {
-    "Health": {
-      "en": "Health",
-      "de": "Gesundheit",
-      "fr": "Santé",
-      "es": "Salud",
-      "pt": "Saúde",
-      "pl": "Zdrowie",
-      "no": "Helse",
-      "da": "Helbred",
-      "it": "Salute",
-      "ru": "Здоровье",
-      "ja": "体力",
-      "zh-TW": "生命值",
-      "uk": "Здоров'я",
-      "zh-CN": "生命值",
-      "kr": "체력",
-      "tr": "Sağlık",
-      "hr": "Zdravlje",
-      "sr": "Zdravlje",
-      "value": 500
-    },
-    "Duration": {
-      "en": "Duration",
-      "value": "500 Health"
-    }
-  },
+  "type": "Blueprint",
+  "value": 5000,
+  "weightKg": 0.0,
   "imageFilename": "https://cdn.arctracker.io/items/barricade_kit.png",
-  "updatedAt": "11/13/2025",
-  "recipe": {
-    "mechanical_components": 1
-  },
-  "craftBench": "utility_bench",
-  "stationLevelRequired": 1
+  "rarity": "Legendary",
+  "updatedAt": "11/13/2025"
 }
