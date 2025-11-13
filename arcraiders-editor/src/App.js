@@ -173,9 +173,22 @@ function App() {
             <div className="json-view">
               <ReactJson
                 src={
-                  selectedId
-                    ? filterJson(filterLangFields(jsonData, lang), search).filter(obj => obj && (obj.id === selectedId || obj.name === selectedId))
-                    : filterJson(filterLangFields(jsonData, lang), search)
+                  (() => {
+                    const filtered = filterJson(filterLangFields(jsonData, lang), search);
+                    if (selectedId) {
+                      if (Array.isArray(filtered)) {
+                        return filtered.filter(obj => obj && (obj.id === selectedId || obj.name === selectedId));
+                      } else if (filtered && typeof filtered === 'object') {
+                        // Si c'est un objet, on vérifie l'id ou le nom
+                        if ((filtered.id && filtered.id === selectedId) || (filtered.name && filtered.name === selectedId)) {
+                          return [filtered];
+                        }
+                        return [];
+                      }
+                      return [];
+                    }
+                    return filtered;
+                  })()
                 }
                 onEdit={handleEdit}
                 onAdd={handleEdit}
