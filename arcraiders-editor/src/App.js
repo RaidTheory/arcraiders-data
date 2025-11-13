@@ -50,7 +50,7 @@ function App() {
     reader.onload = (event) => {
       try {
         let data = JSON.parse(event.target.result);
-        // Correction automatique des champs FR
+        // correction auto des champs FR à l'import du fichier
         data = correctFrenchFields(data);
         setJsonData(data);
         setMessage('✅ Fichier chargé et corrigé !');
@@ -67,7 +67,6 @@ function App() {
     setJsonData(edit.updated_src);
   };
 
-  // Filtrage du JSON selon la recherche
   function filterJson(data, query) {
     if (!query || !data) return data;
     const q = query.toLowerCase();
@@ -85,7 +84,7 @@ function App() {
     return data;
   }
 
-  // Filtre les champs selon la langue sélectionnée
+  // filtre les champs selon la langue sélectionnée dans le dropdown
   function filterLangFields(data, lang) {
     if (!data) return data;
     if (Array.isArray(data)) {
