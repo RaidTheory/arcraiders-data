@@ -41,7 +41,7 @@
     "threat": "Critical",
     "description": "A massive artillery unit designed for long-range bombardment. Equipped with devastating explosive capabilities and heavy armor, it can rain destruction from great distances.",
     "destroyXp": 500,
-    "lootXp": 500,
+    "lootXp": 300,
     "drops": [
       "arc_alloy",
       "advanced_arc_powercell",
@@ -89,7 +89,7 @@
     "threat": "Critical",
     "description": "Massive, arachnid-like siege engine with heavy armor and gravity-defying leap ability. Can clear impossible gaps and reach high vantage points.",
     "destroyXp": 500,
-    "lootXp": 600,
+    "lootXp": 500,
     "drops": [
       "arc_alloy",
       "arc_powercell",
@@ -124,7 +124,7 @@
     "threat": "Critical",
     "description": "A formidable flying ARC that dominates airspace with powerful rocket attacks and devastating area-of-effect damage. Designed to saturate areas with explosions.",
     "destroyXp": 500,
-    "lootXp": 200,
+    "lootXp": 500,
     "drops": [
       "arc_alloy",
       "arc_powercell",
