@@ -1,0 +1,251 @@
+.arc-image-gallery {
+  display: flex;
+  flex-direction: row;
+  gap: 18px;
+  overflow-x: auto;
+  padding: 12px 32px 18px 32px;
+  background: rgba(24, 26, 32, 0.85);
+  border-radius: 12px;
+  box-shadow: 0 2px 12px #ffb30044;
+  margin: 0 auto 18px auto;
+  align-items: flex-end;
+  max-width: 900px;
+  scroll-snap-type: x mandatory;
+}
+.arc-image-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 90px;
+  padding: 6px 8px;
+  border-radius: 10px;
+  background: #181a20;
+  box-shadow: 0 2px 8px #ffb30022;
+  transition: transform 0.2s, box-shadow 0.2s;
+  scroll-snap-align: center;
+}
+.arc-image-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 90px;
+  padding: 6px 8px;
+  border-radius: 10px;
+  background: #181a20;
+  box-shadow: 0 2px 8px #ffb30022;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.arc-image-item:hover {
+  transform: scale(1.12);
+  box-shadow: 0 4px 16px #ffb30088;
+}
+.arc-image {
+  max-height: 70px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #ffb30088;
+  margin-bottom: 4px;
+  background: #232526;
+}
+.arc-image-label {
+  font-size: 0.95rem;
+  color: #ffb300;
+  font-family: 'Orbitron', 'Inter', 'Segoe UI', Arial, sans-serif;
+  text-align: center;
+  margin-top: 2px;
+  letter-spacing: 1px;
+  text-shadow: 0 0 4px #232526;
+}
+.arc-header {
+  width: 100vw;
+  background: linear-gradient(90deg, #181a20 0%, #ffb300 100%);
+  display: flex;
+  align-items: center;
+  padding: 18px 0 12px 0;
+  justify-content: center;
+  box-shadow: 0 2px 12px #ffb30044;
+}
+.arc-logo {
+  height: 64px;
+  width: auto;
+  margin-right: 24px;
+  object-fit: contain;
+  display: block;
+}
+.arc-title {
+  font-family: 'Orbitron', 'Inter', 'Segoe UI', Arial, sans-serif;
+  font-size: 2.1rem;
+  color: #fff;
+  letter-spacing: 2px;
+  text-shadow: 0 0 8px #ffb30088;
+}
+.arc-footer {
+  width: 100vw;
+  text-align: center;
+  padding: 12px 0;
+  background: #181a20;
+  color: #ffb300;
+  font-family: 'Orbitron', 'Inter', 'Segoe UI', Arial, sans-serif;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  margin-top: 32px;
+  box-shadow: 0 -2px 12px #ffb30044;
+}
+.editor-message {
+  background: #ffb300;
+  color: #181a20;
+  font-weight: 700;
+  border-radius: 8px;
+  padding: 10px 18px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 8px #ffb30044;
+  font-size: 1.08rem;
+  text-align: center;
+  animation: fadeIn 0.5s;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.editor-btn {
+  background: linear-gradient(90deg, #ffb300 0%, #ff6f00 100%);
+  color: #181a20;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 28px;
+  font-size: 1.08rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 0 12px #ffb30088, 0 2px 8px #232526;
+  transition: background 0.2s, color 0.2s, transform 0.2s;
+  font-family: 'Orbitron', 'Inter', 'Segoe UI', Arial, sans-serif;
+  letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+}
+.editor-btn:hover {
+  background: linear-gradient(90deg, #ff6f00 0%, #ffb300 100%);
+  color: #fff;
+  transform: scale(1.05);
+}
+body {
+  margin: 0;
+  font-family: 'Orbitron', 'Inter', 'Segoe UI', Arial, sans-serif;
+  background: linear-gradient(120deg, #181a20 0%, #232526 100%);
+  min-height: 100vh;
+/* accolade superflue supprimée */
+
+.editor-bg {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('https://arcraiders.com/static/media/bg.1c2e2e2e.jpg') center/cover, linear-gradient(120deg, #181a20 0%, #232526 100%);
+}
+
+.editor-card {
+  background: rgba(24, 26, 32, 0.98);
+  border-radius: 20px;
+  box-shadow: 0 0 32px 4px #ffb30044, 0 2px 24px #181a20cc;
+  padding: 36px 32px 28px 32px;
+  max-width: 720px;
+  width: 100%;
+  margin: 32px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid #ffb300;
+  position: relative;
+}
+
+.editor-title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #ffb300;
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+  text-shadow: 0 0 8px #ffb30088, 0 2px 8px #232526;
+  font-family: 'Orbitron', 'Inter', 'Segoe UI', Arial, sans-serif;
+}
+
+.editor-label {
+  font-size: 1.15rem;
+  color: #ffb300;
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: 'Orbitron', 'Inter', 'Segoe UI', Arial, sans-serif;
+}
+
+.editor-input {
+  margin-top: 8px;
+  padding: 7px 14px;
+  border-radius: 8px;
+  border: 1.5px solid #ffb300;
+  font-size: 1.05rem;
+  background: #232526;
+  color: #ffb300;
+  font-family: 'Orbitron', 'Inter', 'Segoe UI', Arial, sans-serif;
+  box-shadow: 0 0 8px #ffb30044;
+}
+
+.editor-actions {
+  margin-bottom: 18px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.editor-btn {
+  background: linear-gradient(90deg, #ffb300 0%, #ff6f00 100%);
+  color: #181a20;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 28px;
+  font-size: 1.08rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 0 12px #ffb30088, 0 2px 8px #232526;
+  transition: background 0.2s, color 0.2s;
+  font-family: 'Orbitron', 'Inter', 'Segoe UI', Arial, sans-serif;
+  letter-spacing: 1px;
+}
+.editor-btn:hover {
+  background: linear-gradient(90deg, #ff6f00 0%, #ffb300 100%);
+  color: #fff;
+}
+
+.json-view {
+  width: 100%;
+  margin-top: 10px;
+  background: #181a20;
+  border-radius: 10px;
+  box-shadow: 0 0 12px #ffb30044, 0 2px 8px #232526;
+  padding: 0;
+  border: 1.5px solid #ffb300;
+}
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
