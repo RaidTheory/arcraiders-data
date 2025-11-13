@@ -1,0 +1,38 @@
+{
+  "id": "polluted_air_filter",
+  "name": {
+    "en": "Polluted Air Filter",
+    "de": "Verunreinigter Luftfilter",
+    "fr": "Filtre à air pollué",
+    "es": "Filtro de aire contaminado",
+    "pt": "Filtro de ar poluído",
+    "pl": "Zanieczyszczony filtr powietrza",
+    "no": "Forurenset luftfilter",
+    "da": "Forurenet luftfilter",
+    "it": "Filtro dell'aria inquinato",
+    "ru": "Фильтр загрязнённого воздуха",
+    "ja": "汚染空気フィルター",
+    "zh-TW": "污染空氣過濾器",
+    "uk": "Фільтр забрудненого повітря",
+    "zh-CN": "污染空气过滤器",
+    "kr": "오염된 공기 필터",
+    "tr": "Kirli Hava Filtresi",
+    "hr": "Filter za Zagađeni Zrak",
+    "sr": "Filter za Zagađeni Vazduh"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": 1000,
+  "recyclesInto": {
+    "fabric": 6,
+    "oil": 2
+  },
+  "salvagesInto": {
+    "oil": 2
+  },
+  "weightKg": 0.8,
+  "stackSize": 3,
+  "foundIn": "Industrial",
+  "imageFilename": "https://cdn.arctracker.io/items/polluted_air_filter.png",
+  "updatedAt": "11/10/2025"
+}

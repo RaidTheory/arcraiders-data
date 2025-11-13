@@ -1,0 +1,115 @@
+{
+  "id": "stable_stock_i",
+  "name": {
+    "en": "Stable Stock I",
+    "de": "Stabiler Schaft I",
+    "fr": "Crosse stable I",
+    "es": "Culata estable I",
+    "pt": "Coronha estável I",
+    "pl": "Stabilna kolba I",
+    "no": "Stabil kolbe I",
+    "da": "Stabil kolbe I",
+    "it": "Calcio stabile I",
+    "ru": "Стабильный приклад I",
+    "ja": "安定ストック I",
+    "zh-TW": "穩定槍托 I",
+    "uk": "Стабільний приклад I",
+    "zh-CN": "稳定枪托 I",
+    "kr": "안정형 개머리판 I",
+    "tr": "Sabit Dipçik I",
+    "hr": "Stabilna Kundak I",
+    "sr": "Stabilna Kundak I"
+  },
+  "description": {
+    "en": "Slightly improves dispersion & recoil recovery time.",
+    "de": "Verbessert leicht Streuung und Rückstoßerholungszeit.",
+    "fr": "Améliore légèrement la dispersion et le temps de récupération du recul.",
+    "es": "Mejora ligeramente la dispersión y el tiempo de recuperación del retroceso.",
+    "pt": "Melhora ligeiramente a dispersão e o tempo de recuperação do recuo.",
+    "pl": "Nieznacznie poprawia rozrzut i czas powrotu z odrzutu.",
+    "no": "Forbedrer litt spredning og rekylgjenopprettingstid.",
+    "da": "Forbedrer lidt spredning og rekylgendannelsestid.",
+    "it": "Migliora leggermente la dispersione e il tempo di recupero del rinculo.",
+    "ru": "Немного улучшает время восстановления разброса и отдачи.",
+    "ja": "拡散と反動の回復時間をわずかに改善する。",
+    "zh-TW": "略微改善擴散度和後座力恢復時間。",
+    "uk": "Трохи покращує час відновлення розкиду та віддачі.",
+    "zh-CN": "略微改善扩散度和后坐力恢复时间。",
+    "kr": "분산도 및 반동 회복 시간을 약간 개선합니다.",
+    "tr": "Dağılım ve geri tepme toparlanma süresini hafifçe iyileştirir.",
+    "hr": "Blago poboljšava raspršenje i vrijeme oporavka trzaja.",
+    "sr": "Blago poboljšava rasipanje i vreme oporavka trzaja."
+  },
+  "type": "Modification",
+  "rarity": "Common",
+  "value": 640,
+  "imageFilename": "https://cdn.arctracker.io/items/stable_stock_i.png",
+  "compatibleWith": [
+    "Rattler",
+    "Ferro",
+    "Stitcher",
+    "Arpeggio",
+    "Bettina"
+  ],
+  "crafting": {
+    "rubber_parts": 6,
+    "duct_tape": 1
+  },
+  "recyclesInto": {
+    "rubber_parts": 6
+  },
+  "salvagesInto": {
+    "rubber_parts": 3
+  },
+  "weightKg": 0.25,
+  "effects": {
+    "Reduced Recoil Recovery Time": {
+      "en": "Reduced Recoil Recovery Time",
+      "de": "Reduzierte Rückstoßerholungszeit",
+      "fr": "Temps de récupération du recul réduit",
+      "es": "Tiempo de recuperación del retroceso reducido",
+      "pt": "Tempo de recuperação do recuo reduzido",
+      "pl": "Zmniejszony czas powrotu z odrzutu",
+      "no": "Redusert rekylgjenopprettingstid",
+      "da": "Reduceret rekylgendannelsestid",
+      "it": "Tempo di recupero del rinculo ridotto",
+      "ru": "Снижение времени восстановления отдачи",
+      "ja": "反動回復時間短縮",
+      "zh-TW": "降低後座力恢復時間",
+      "uk": "Зменшення часу відновлення віддачі",
+      "zh-CN": "降低后坐力恢复时间",
+      "kr": "반동 회복 시간 감소",
+      "tr": "Geri Tepme Toparlanma Süresi Azaltma",
+      "hr": "Smanjeno Vrijeme Oporavka Trzaja",
+      "sr": "Smanjeno Vreme Oporavka Trzaja",
+      "value": "20%"
+    },
+    "Reduced Dispersion Recovery Time": {
+      "en": "Reduced Dispersion Recovery Time",
+      "de": "Reduzierte Streuungserholungszeit",
+      "fr": "Temps de récupération de la dispersion réduit",
+      "es": "Tiempo de recuperación de la dispersión reducido",
+      "pt": "Tempo de recuperação da dispersão reduzido",
+      "pl": "Zmniejszony czas powrotu rozrzutu",
+      "no": "Redusert spredningsgjenopprettingstid",
+      "da": "Reduceret spredningsgendannelsestid",
+      "it": "Tempo di recupero della dispersione ridotto",
+      "ru": "Снижение времени восстановления разброса",
+      "ja": "拡散回復時間短縮",
+      "zh-TW": "降低擴散度恢復時間",
+      "uk": "Зменшення часу відновлення розкиду",
+      "zh-CN": "降低扩散度恢复时间",
+      "kr": "분산도 회복 시간 감소",
+      "tr": "Dağılım Toparlanma Süresi Azaltma",
+      "hr": "Smanjeno Vrijeme Oporavka Raspršenja",
+      "sr": "Smanjeno Vreme Oporavka Rasipanja",
+      "value": "20%"
+    }
+  },
+  "updatedAt": "11/03/2025",
+  "recipe": {
+    "rubber_parts": 7,
+    "duct_tape": 1
+  },
+  "craftBench": "weapon_bench"
+}

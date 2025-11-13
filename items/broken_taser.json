@@ -1,0 +1,35 @@
+{
+  "id": "broken_taser",
+  "name": {
+    "en": "Broken Taser",
+    "de": "Kaputter Elektroschocker",
+    "fr": "Taser cassé",
+    "es": "Táser roto",
+    "pt": "Taser quebrado",
+    "pl": "Zepsuty paralizator",
+    "no": "Ødelagt elektrosjokkvåpen",
+    "da": "Ødelagt elektrosjokpistol",
+    "it": "Taser rotto",
+    "ru": "Сломанный электрошокер",
+    "ja": "壊れたテーザー銃",
+    "zh-TW": "損壞的電擊槍",
+    "uk": "Зламаний електрошокер",
+    "zh-CN": "损坏的电击枪",
+    "kr": "고장난 테이저",
+    "tr": "Kırık Şok Tabancası",
+    "hr": "Pokvareni taser",
+    "sr": "Pokvareni tejzer"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": 1000,
+  "recyclesInto": {
+    "battery": 2,
+    "wires": 2
+  },
+  "weightKg": 2.0,
+  "stackSize": 3,
+  "foundIn": "Security",
+  "updatedAt": "11/11/2025",
+  "imageFilename": "https://cdn.arctracker.io/items/broken_taser.png"
+}

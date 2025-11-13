@@ -1,0 +1,129 @@
+{
+  "id": "ss10x",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "A Balanced Harvest",
+    "de": "Eine ausgewogene Ernte",
+    "fr": "Une récolte équilibrée",
+    "es": "Una cosecha equilibrada",
+    "pt": "Uma colheita equilibrada",
+    "pl": "Zrównoważone żniwa",
+    "no": "En balansert høst",
+    "da": "En afbalanceret høst",
+    "it": "Un raccolto equilibrato",
+    "uk": "Збалансований урожай",
+    "kr": "균형 잡힌 수확",
+    "ru": "Сбалансированный урожай",
+    "zh-CN": "均衡收成",
+    "ja": "バランスの取れた収穫",
+    "tr": "Dengeli Hasat",
+    "zh-TW": "均衡收成",
+    "sr": "Uravnotežena žetva",
+    "hr": "Uravnotežena žetva"
+  },
+  "trader": "Celeste",
+  "videoUrl": "https://youtu.be/VYI9tJsScmg",
+  "description": {
+    "en": "Our food production is finally enough to meet our basic needs, but what we really need now is variety. I have a lead on some agricultural research from before the First Wave. Are you in?",
+    "de": "Unsere Nahrungsmittelproduktion reicht endlich aus, um unsere Grundbedürfnisse zu decken, aber was wir jetzt wirklich brauchen, ist Vielfalt. Ich habe einen Hinweis auf landwirtschaftliche Forschung von vor der Ersten Welle. Bist du dabei?",
+    "fr": "Notre production alimentaire suffit enfin à couvrir nos besoins de base, mais ce dont nous avons vraiment besoin maintenant, c'est de variété. J'ai une piste sur des recherches agricoles d'avant la Première Vague. Tu es partant ?",
+    "es": "Nuestra producción de alimentos finalmente es suficiente para cubrir nuestras necesidades básicas, pero lo que realmente necesitamos ahora es variedad. Tengo una pista sobre una investigación agrícola de antes de la Primera Ola. ¿Estás dentro?",
+    "pt": "A nossa produção de alimentos finalmente é suficiente para satisfazer as nossas necessidades básicas, mas o que realmente precisamos agora é de variedade. Tenho uma pista sobre uma pesquisa agrícola de antes da Primeira Onda. Estás dentro?",
+    "pl": "Nasza produkcja żywności w końcu wystarcza, by zaspokoić nasze podstawowe potrzeby, ale to, czego naprawdę teraz potrzebujemy, to różnorodność. Mam trop dotyczący badań rolniczych sprzed Pierwszej Fali. Jesteś na pokładzie?",
+    "no": "Matproduksjonen vår er endelig nok til å dekke våre grunnleggende behov, men det vi virkelig trenger nå er variasjon. Jeg har et spor på noen landbruksforskning fra før den Første Bølgen. Er du med?",
+    "da": "Vores fødevareproduktion er endelig nok til at dække vores basale behov, men det vi virkelig har brug for nu er variation. Jeg har et spor om noget landbrugsforskning fra før den Første Bølge. Er du med?",
+    "it": "La nostra produzione alimentare è finalmente sufficiente per soddisfare i nostri bisogni di base, ma ciò di cui abbiamo davvero bisogno ora è varietà. Ho una pista su una ricerca agricola di prima della Prima Ondata. Ci stai?",
+    "uk": "Наше виробництво їжі нарешті достатнє для задоволення базових потреб, але те, що нам справді потрібно зараз — це різноманітність. У мене є зачіпка щодо сільськогосподарських досліджень з часів до Першої Хвилі. Ти з нами?",
+    "kr": "우리의 식량 생산이 드디어 기본 수요를 충족할 만큼 충분해졌지만, 지금 정말 필요한 건 다양성이에요. 제1차 대재앙 이전의 농업 연구에 대한 단서가 있어요. 함께 하시겠어요?",
+    "ru": "Наше производство продовольствия наконец достаточно для удовлетворения базовых потребностей, но то, что нам действительно нужно сейчас — это разнообразие. У меня есть зацепка по сельскохозяйственным исследованиям времён до Первой Волны. Ты с нами?",
+    "zh-CN": "我们的粮食产量终于足以满足基本需求了，但我们现在真正需要的是多样性。我有一条关于第一次浪潮之前农业研究的线索。你要参与吗？",
+    "ja": "食料生産がようやく基本的なニーズを満たせるようになったけど、今本当に必要なのは多様性なんだ。第一波以前の農業研究について手がかりがあるんだ。協力してくれる？",
+    "tr": "Gıda üretimimiz nihayet temel ihtiyaçlarımızı karşılayacak kadar yeterli, ama şu anda gerçekten ihtiyacımız olan şey çeşitlilik. Birinci Dalga'dan önceki bazı tarımsal araştırmalar hakkında bir ipucum var. Katılıyor musun?",
+    "zh-TW": "我們的糧食產量終於足以滿足基本需求了，但我們現在真正需要的是多樣性。我有一條關於第一次浪潮之前農業研究的線索。你要參與嗎？",
+    "sr": "Naša proizvodnja hrane je konačno dovoljna da zadovolji naše osnovne potrebe, ali ono što nam sada stvarno treba je raznovrsnost. Imam trag o nekim poljoprivrednim istraživanjima od pre Prvog Talasa. Jesi li za?",
+    "hr": "Naša proizvodnja hrane je konačno dovoljna da zadovolji naše osnovne potrebe, ali ono što nam sada stvarno treba je raznolikost. Imam trag o nekim poljoprivrednim istraživanjima od prije Prvog Vala. Jesi li za?"
+  },
+  "objectives": [
+    {
+      "en": "Go to the Research & Administration building",
+      "de": "Gehe zum Forschungs- und Verwaltungsgebäude",
+      "fr": "Aller au bâtiment de Recherche et Administration",
+      "es": "Ve al edificio de Investigación y Administración",
+      "pt": "Vai ao edifício de Investigação e Administração",
+      "pl": "Udaj się do budynku Badań i Administracji",
+      "no": "Gå til Forsknings- og Administrasjonsbygningen",
+      "da": "Gå til Forsknings- og Administrationsbygningen",
+      "it": "Vai all'edificio di Ricerca e Amministrazione",
+      "uk": "Йдіть до будівлі досліджень та адміністрації",
+      "kr": "연구 및 행정 건물로 가기",
+      "ru": "Отправляйтесь в здание исследований и администрации",
+      "zh-CN": "前往研究与行政大楼",
+      "ja": "研究・管理棟に向かう",
+      "tr": "Araştırma ve İdare binasına git",
+      "zh-TW": "前往研究與行政大樓",
+      "sr": "Idi do zgrade Istraživanja i Administracije",
+      "hr": "Idi do zgrade Istraživanja i Administracije"
+    },
+    {
+      "en": "Locate Lab 1 on the upper floor above the reception",
+      "de": "Finde Labor 1 im oberen Stockwerk über der Rezeption",
+      "fr": "Localiser le Labo 1 à l'étage supérieur au-dessus de la réception",
+      "es": "Localiza el Laboratorio 1 en el piso superior sobre la recepción",
+      "pt": "Localiza o Laboratório 1 no piso superior acima da receção",
+      "pl": "Zlokalizuj Laboratorium 1 na górnym piętrze nad recepcją",
+      "no": "Finn Lab 1 på øverste etasje over resepsjonen",
+      "da": "Find Lab 1 på øverste etage over receptionen",
+      "it": "Individua il Laboratorio 1 al piano superiore sopra la reception",
+      "uk": "Знайдіть лабораторію 1 на верхньому поверсі над рецепцією",
+      "kr": "접수처 위층에 있는 1번 연구실 찾기",
+      "ru": "Найдите лабораторию 1 на верхнем этаже над стойкой регистрации",
+      "zh-CN": "在接待处上方的楼层找到1号实验室",
+      "ja": "受付の上の階にある第1研究室を見つける",
+      "tr": "Resepsiyonun üst katında 1 numaralı Laboratuvarı bul",
+      "zh-TW": "在接待處上方的樓層找到1號實驗室",
+      "sr": "Pronađi Laboratoriju 1 na gornjem spratu iznad recepcije",
+      "hr": "Pronađi Laboratorij 1 na gornjem katu iznad recepcije"
+    },
+    {
+      "en": "Search for any traces of the agricultural project",
+      "de": "Suche nach Spuren des landwirtschaftlichen Projekts",
+      "fr": "Cherchez des traces du projet agricole",
+      "es": "Busca cualquier rastro del proyecto agrícola",
+      "pt": "Procure por quaisquer vestígios do projeto agrícola",
+      "pl": "Szukaj śladów projektu rolniczego",
+      "no": "Let etter spor av landbruksprosjektet",
+      "da": "Søg efter spor af landbrugsprojektet",
+      "it": "Cerca eventuali tracce del progetto agricolo",
+      "uk": "Шукайте будь-які сліди сільськогосподарського проекту",
+      "kr": "농업 프로젝트의 흔적 찾기",
+      "ru": "Ищите любые следы сельскохозяйственного проекта",
+      "zh-CN": "搜寻农业项目的任何痕迹",
+      "ja": "農業プロジェクトの痕跡を探す",
+      "tr": "Tarım projesinin herhangi bir izini ara",
+      "zh-TW": "搜尋農業項目的任何痕跡",
+      "sr": "Potraži bilo kakve tragove poljoprivrednog projekta",
+      "hr": "Potraži bilo kakve tragove poljoprivrednog projekta"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "advanced_mechanical_components",
+      "quantity": 3
+    },
+    {
+      "itemId": "medium_gun_parts",
+      "quantity": 3
+    },
+    {
+      "itemId": "steel_spring",
+      "quantity": 10
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10s"
+  ],
+  "nextQuestIds": [
+    "ss10x2"
+  ]
+}

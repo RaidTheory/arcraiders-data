@@ -1,0 +1,58 @@
+{
+  "id": "alarm_clock",
+  "name": {
+    "en": "Alarm Clock",
+    "de": "Wecker",
+    "fr": "Réveil",
+    "es": "Despertador",
+    "pt": "Despertador",
+    "pl": "Budzik",
+    "no": "Vekkerklokke",
+    "da": "Vækkeur",
+    "it": "Sveglia",
+    "ru": "Будильник",
+    "ja": "目覚まし時計",
+    "zh-TW": "鬧鐘",
+    "uk": "Будильник",
+    "zh-CN": "闹钟",
+    "kr": "자명종",
+    "tr": "Çalar Saat",
+    "hr": "Budilica",
+    "sr": "Budilnik"
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクル可能。",
+    "zh-TW": "可回收成製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可回收成制作材料。",
+    "kr": "제작 재료로 재활용 가능.",
+    "tr": "İşleme malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 1000,
+  "recyclesInto": {
+    "plastic_parts": 6,
+    "processor": 1
+  },
+  "salvagesInto": {
+    "processor": 1
+  },
+  "foundIn": "Residential",
+  "stackSize": 3,
+  "weightKg": 2.0,
+  "imageFilename": "https://cdn.arctracker.io/items/alarm_clock.png",
+  "updatedAt": "11/03/2025"
+}

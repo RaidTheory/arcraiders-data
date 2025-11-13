@@ -1,0 +1,52 @@
+{
+  "id": "burletta_iv",
+  "name": {
+    "en": "Burletta IV",
+    "de": "Burletta IV",
+    "fr": "Burletta IV",
+    "es": "Burletta IV",
+    "pt": "Burletta IV",
+    "pl": "Burletta IV",
+    "no": "Burletta IV",
+    "da": "Burletta IV",
+    "it": "Burletta IV",
+    "ru": "Бурлетта IV",
+    "ja": "ブルレッタ IV",
+    "zh-TW": "布雷塔 IV",
+    "uk": "Бурлетта IV",
+    "zh-CN": "布雷塔 IV",
+    "kr": "부를레타 IV",
+    "tr": "Burletta IV",
+    "hr": "Burletta IV",
+    "sr": "Burletta IV"
+  },
+  "description": {
+    "en": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
+    "de": "Halbautomatische Pistole mit ordentlichem Schaden und Präzision. Kann so schnell abgefeuert werden, wie man den Abzug betätigen kann.",
+    "fr": "Pistolet semi-automatique avec des dégâts et une précision décents. Peut être tiré aussi vite que vous pouvez appuyer sur la gâchette.",
+    "es": "Pistola semiautomática con daño y precisión decentes. Se puede disparar tan rápido como puedas apretar el gatillo.",
+    "pt": "Pistola semiautomática com dano e precisão decentes. Pode ser disparada tão rápido quanto você conseguir puxar o gatilho.",
+    "pl": "Półautomatyczny pistolet z przyzwoitymi obrażeniami i celnością. Można strzelać tak szybko, jak można pociągnąć za spust.",
+    "no": "Halvautomatisk pistol med anstendig skade og nøyaktighet. Kan avfyres så raskt som du kan trekke av avtrekkeren.",
+    "da": "Halvautomatisk pistol med anstændig skade og præcision. Kan affyres så hurtigt som du kan trække i aftrækkeren.",
+    "it": "Pistola semiautomatica con danni e precisione decenti. Può essere sparata velocemente quanto riesci a premere il grilletto.",
+    "ru": "Полуавтоматический пистолет с приличным уроном и точностью. Можно стрелять так быстро, как вы можете нажимать на курок.",
+    "ja": "適度なダメージと精度を持つセミオートピストル。引き金を引く速さで発射できる。",
+    "zh-TW": "半自動手槍，具有不錯的傷害輸出和精準度。可以以扣動扳機的速度射擊。",
+    "uk": "Напівавтоматичний пістолет з пристойною шкодою та точністю. Можна стріляти так швидко, як ви можете натискати на курок.",
+    "zh-CN": "半自动手枪，具有不错的伤害输出和精准度。可以以扣动扳机的速度射击。",
+    "kr": "적절한 피해량과 정확도를 가진 반자동 권총. 방아쇠를 당기는 속도만큼 빠르게 발사할 수 있습니다.",
+    "tr": "İyi hasar çıkışı ve isabetliliğe sahip yarı otomatik tabanca. Tetiği çektiğiniz kadar hızlı ateş edebilir.",
+    "hr": "Poluautomatski pištolj s pristojnom štetom i preciznošću. Može se ispaljivati onoliko brzo koliko možete povlačiti okidač.",
+    "sr": "Poluautomatski pištolj sa pristojnom štetom i preciznošću. Može se ispaljivati onoliko brzo koliko možete povlačiti okidač."
+  },
+  "type": "Weapon",
+  "rarity": "Uncommon",
+  "value": 9000,
+  "recyclesInto": {
+    "mechanical_components": 4,
+    "simple_gun_parts": 4
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
+  "updatedAt": "10/30/2025"
+}

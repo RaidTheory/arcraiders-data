@@ -1,0 +1,57 @@
+{
+  "id": "rusted_bolts",
+  "name": {
+    "en": "Rusted Bolts",
+    "de": "Verrostete Bolzen",
+    "fr": "Boulons Rouillés",
+    "es": "Pernos Oxidados",
+    "pt": "Parafusos Enferrujados",
+    "pl": "Zardzewiałe Śruby",
+    "no": "Rustne Bolter",
+    "da": "Rustne Bolte",
+    "it": "Bulloni Arrugginiti",
+    "ru": "Ржавые болты",
+    "ja": "錆びたボルト",
+    "zh-TW": "生鏽螺栓",
+    "uk": "Іржаві болти",
+    "zh-CN": "生锈螺栓",
+    "kr": "녹슨 볼트",
+    "tr": "Paslı Cıvatalar",
+    "hr": "Zahrđali Vijci",
+    "sr": "Zahrđali Vijci"
+  },
+  "rarity": "Uncommon",
+  "type": "Recyclable",
+  "value": 640,
+  "recyclesInto": {
+    "metal_parts": 8
+  },
+  "salvagesInto": {
+    "metal_parts": 4
+  },
+  "updatedAt": "11/01/2025",
+  "description": {
+    "en": "Can be recycled into metal parts.",
+    "de": "Kann zu Metallteilen recycelt werden.",
+    "fr": "Peut être recyclé en pièces métalliques.",
+    "es": "Puede reciclarse en piezas de metal.",
+    "pt": "Pode ser reciclado em peças de metal.",
+    "pl": "Można przetworzyć na części metalowe.",
+    "no": "Kan resirkuleres til metalldeler.",
+    "da": "Kan genbruges til metaldele.",
+    "it": "Può essere riciclato in parti metalliche.",
+    "ru": "Можно переработать в металлические детали.",
+    "ja": "金属部品にリサイクルできる。",
+    "zh-TW": "可回收為金屬零件。",
+    "uk": "Можна переробити на металеві деталі.",
+    "zh-CN": "可回收为金属零件。",
+    "kr": "금속 부품으로 재활용할 수 있습니다.",
+    "tr": "Metal parçalara geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u metalne dijelove.",
+    "sr": "Može se reciklirati u metalne delove."
+  },
+  "weightKg": 0.8,
+  "stackSize": 3,
+  "foundIn": "Industrial, Mechanical",
+  "imageFilename": "https://cdn.arctracker.io/items/rusted_bolts.png"
+}

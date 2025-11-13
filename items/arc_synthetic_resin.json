@@ -1,0 +1,57 @@
+{
+  "id": "arc_synthetic_resin",
+  "name": {
+    "en": "ARC Synthetic Resin",
+    "de": "ARC-Kunstharz",
+    "fr": "Résine synthétique ARC",
+    "es": "Resina sintética ARC",
+    "pt": "Resina sintética ARC",
+    "pl": "Żywica syntetyczna ARC",
+    "no": "ARC-syntetisk harpiks",
+    "da": "ARC-syntetisk harpiks",
+    "it": "Resina sintetica ARC",
+    "ru": "Синтетическая смола ARC",
+    "ja": "ARC合成樹脂",
+    "zh-TW": "ARC合成樹脂",
+    "uk": "Синтетична смола ARC",
+    "zh-CN": "ARC合成树脂",
+    "kr": "ARC 합성 수지",
+    "tr": "ARC Sentetik Reçine",
+    "hr": "ARC sintetička smola",
+    "sr": "ARC sintetička smola"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": 1000,
+  "weightKg": 1.0,
+  "stackSize": 3,
+  "recyclesInto": {
+    "plastic_parts": 14
+  },
+  "salvagesInto": {
+    "plastic_parts": 8
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "zh-CN": "可回收为制作材料。",
+    "ja": "クラフト素材にリサイクルできます。",
+    "ru": "Можно переработать в материалы для создания.",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "da": "Kan genbruges til fremstillingsmaterialer.",
+    "zh-TW": "可回收為製作材料。",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "pl": "Można przetworzyć na materiały do wytwarzania.",
+    "uk": "Можна переробити на матеріали для створення.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "es": "Se puede reciclar en materiales de fabricación.",
+    "it": "Può essere riciclato in materiali da creazione."
+  },
+  "foundIn": "ARC",
+  "imageFilename": "https://cdn.arctracker.io/items/arc_synthetic_resin.png",
+  "updatedAt": "10/30/2025"
+}

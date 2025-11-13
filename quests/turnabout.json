@@ -1,0 +1,108 @@
+{
+  "id": "ss10x17",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Turnabout",
+    "de": "Umschwung",
+    "fr": "Retournement",
+    "es": "Cambio de tornas",
+    "pt": "Reviravolta",
+    "pl": "Odwrócenie sytuacji",
+    "no": "Snuoperasjon",
+    "da": "Vendepunkt",
+    "it": "Capovolgimento",
+    "uk": "Переворот",
+    "kr": "역전",
+    "ru": "Переворот",
+    "zh-CN": "逆转",
+    "ja": "逆転",
+    "tr": "Tersine Çevirme",
+    "zh-TW": "逆轉",
+    "sr": "Preokret",
+    "hr": "Preokret"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "I got a plan. If we recover the evidence against the OTTM before they get to it, we might get them off our backs once and for all.",
+    "de": "Ich habe einen Plan. Wenn wir die Beweise gegen die OTTM bergen, bevor sie sie bekommen, könnten wir sie ein für alle Mal loswerden.",
+    "fr": "J'ai un plan. Si nous récupérons les preuves contre l'OTTM avant qu'ils ne les obtiennent, nous pourrions nous en débarrasser une fois pour toutes.",
+    "es": "Tengo un plan. Si recuperamos las pruebas contra la OTTM antes de que ellos las consigan, podríamos quitárnoslos de encima de una vez por todas.",
+    "pt": "Tenho um plano. Se recuperarmos as evidências contra a OTTM antes que eles as peguem, podemos nos livrar deles de uma vez por todas.",
+    "pl": "Mam plan. Jeśli odzyskamy dowody przeciwko OTTM zanim oni do nich dotrą, możemy pozbyć się ich raz na zawsze.",
+    "no": "Jeg har en plan. Hvis vi henter bevisene mot OTTM før de får tak i dem, kan vi kanskje bli kvitt dem en gang for alle.",
+    "da": "Jeg har en plan. Hvis vi genvinder beviserne mod OTTM før de får fat i dem, kan vi måske slippe af med dem en gang for alle.",
+    "it": "Ho un piano. Se recuperiamo le prove contro l'OTTM prima che ci arrivino loro, potremmo toglierceli di dosso una volta per tutte.",
+    "uk": "У мене є план. Якщо ми знайдемо докази проти OTTM раніше, ніж вони до них доберуться, ми зможемо позбутися їх раз і назавжди.",
+    "kr": "계획이 있어. OTTM이 증거를 손에 넣기 전에 우리가 먼저 회수하면, 그들을 영원히 따돌릴 수 있을 거야.",
+    "ru": "У меня есть план. Если мы найдём улики против OTTM раньше, чем они доберутся до них, мы сможем избавиться от них раз и навсегда.",
+    "zh-CN": "我有个计划。如果我们能在OTTM之前找到对他们不利的证据，我们就能彻底摆脱他们。",
+    "ja": "計画がある。OTTMが証拠を手に入れる前に回収できれば、奴らを完全に追い払えるかもしれない。",
+    "tr": "Bir planım var. OTTM'ye karşı kanıtları onlar ele geçirmeden önce kurtarırsak, onları sonsuza kadar başımızdan atabiliriz.",
+    "zh-TW": "我有個計畫。如果我們能在OTTM之前找到對他們不利的證據，我們就能徹底擺脫他們。",
+    "sr": "Imam plan. Ako povratimo dokaze protiv OTTM-a pre nego što oni dođu do njih, možda ćemo ih se rešiti jednom zauvek.",
+    "hr": "Imam plan. Ako povratimo dokaze protiv OTTM-a prije nego što oni dođu do njih, možda ćemo ih se riješiti jednom zauvijek."
+  },
+  "objectives": [
+    {
+      "en": "Go to the North Trench Tower",
+      "de": "Gehe zum Nordgraben-Turm",
+      "fr": "Allez à la Tour de la Tranchée Nord",
+      "es": "Ve a la Torre de la Trinchera Norte",
+      "pt": "Vá para a Torre da Trincheira Norte",
+      "pl": "Idź do Wieży Północnego Rowu",
+      "no": "Gå til Nord-skyttergravstårnet",
+      "da": "Gå til Nordlige Skyttegravstårn",
+      "it": "Vai alla Torre della Trincea Nord",
+      "uk": "Йдіть до Північної Траншейної Вежі",
+      "kr": "북쪽 참호 타워로 가기",
+      "ru": "Отправляйтесь к Северной Траншейной Башне",
+      "zh-CN": "前往北方战壕塔",
+      "ja": "北トレンチタワーへ向かう",
+      "tr": "Kuzey Siper Kulesi'ne git",
+      "zh-TW": "前往北方戰壕塔",
+      "sr": "Idi do Severne kule rova",
+      "hr": "Idi do Sjeverne kule rova"
+    },
+    {
+      "en": "Locate and upload the blackmail files to Celeste",
+      "de": "Finde und lade die Erpressungsdateien zu Celeste hoch",
+      "fr": "Localisez et téléchargez les fichiers de chantage à Celeste",
+      "es": "Localiza y sube los archivos de chantaje a Celeste",
+      "pt": "Localize e envie os arquivos de chantagem para Celeste",
+      "pl": "Zlokalizuj i prześlij pliki szantażu do Celeste",
+      "no": "Finn og last opp utpressingsfilene til Celeste",
+      "da": "Find og upload afpresningsfilerne til Celeste",
+      "it": "Localizza e carica i file di ricatto a Celeste",
+      "uk": "Знайдіть і завантажте файли шантажу до Селесті",
+      "kr": "협박 파일을 찾아 셀레스트에 업로드하기",
+      "ru": "Найдите и загрузите файлы шантажа Селесте",
+      "zh-CN": "找到勒索文件并上传给塞莱斯特",
+      "ja": "脅迫ファイルを見つけてセレステにアップロードする",
+      "tr": "Şantaj dosyalarını bul ve Celeste'e yükle",
+      "zh-TW": "找到勒索檔案並上傳給賽蕾絲特",
+      "sr": "Pronađi i otpremi datoteke ucene Celeste",
+      "hr": "Pronađi i otpremi datoteke ucjene Celeste"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "spaceport_trench_tower_key",
+      "quantity": 1
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "heavy_gun_parts",
+      "quantity": 2
+    },
+    {
+      "itemId": "medium_gun_parts",
+      "quantity": 2
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x16"
+  ],
+  "nextQuestIds": []
+}

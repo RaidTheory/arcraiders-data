@@ -1,0 +1,57 @@
+{
+  "id": "arc_thermo_lining",
+  "name": {
+    "en": "ARC Thermo Lining",
+    "de": "ARC-Thermofütterung",
+    "fr": "Doublure thermique ARC",
+    "es": "Revestimiento térmico ARC",
+    "pt": "Revestimento térmico ARC",
+    "pl": "Wyściółka termiczna ARC",
+    "no": "ARC-termofôr",
+    "da": "ARC-termofor",
+    "it": "Rivestimento termico ARC",
+    "ru": "Термоподкладка ARC",
+    "ja": "ARCサーモライニング",
+    "zh-TW": "ARC熱能襯裡",
+    "uk": "Термопідкладка ARC",
+    "zh-CN": "ARC热能衬里",
+    "kr": "ARC 보온 안감",
+    "tr": "ARC Termo Astar",
+    "hr": "ARC termo obloga",
+    "sr": "ARC termo obloga"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": 1000,
+  "recyclesInto": {
+    "fabric": 16
+  },
+  "salvagesInto": {
+    "fabric": 9
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "zh-CN": "可回收为制作材料。",
+    "ja": "クラフト素材にリサイクルできます。",
+    "ru": "Можно переработать в материалы для создания.",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "da": "Kan genbruges til fremstillingsmaterialer.",
+    "zh-TW": "可回收為製作材料。",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "pl": "Można przetworzyć na materiały do wytwarzania.",
+    "uk": "Можна переробити на матеріали для створення.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "es": "Se puede reciclar en materiales de fabricación.",
+    "it": "Può essere riciclato in materiali da creazione."
+  },
+  "weightKg": 1.0,
+  "stackSize": 3,
+  "foundIn": "ARC",
+  "imageFilename": "https://cdn.arctracker.io/items/arc_thermo_lining.png",
+  "updatedAt": "11/03/2025"
+}

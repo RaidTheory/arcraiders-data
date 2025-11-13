@@ -1,0 +1,73 @@
+{
+  "id": "weapon_bench",
+  "name": {
+    "en": "Gunsmith",
+    "de": "Waffenschmied",
+    "fr": "Armurier",
+    "es": "Armero",
+    "pt": "Armeiro",
+    "pl": "Rusznikarz",
+    "no": "Våpenmaker",
+    "da": "Våbensmed",
+    "ru": "Оружейная",
+    "ja": "ガンスミス",
+    "it": "Armaiolo",
+    "kr": "총기 제작대",
+    "zh-CN": "枪械工坊",
+    "zh-TW": "槍械工坊",
+    "uk": "Зброярня",
+    "tr": "Silah Tezgahı",
+    "hr": "Oružar",
+    "sr": "Oružar"
+  },
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 1,
+      "requirementItemIds": [
+        {
+          "itemId": "metal_parts",
+          "quantity": 20
+        },
+        {
+          "itemId": "rubber_parts",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "requirementItemIds": [
+        {
+          "itemId": "rusted_tools",
+          "quantity": 3
+        },
+        {
+          "itemId": "mechanical_components",
+          "quantity": 5
+        },
+        {
+          "itemId": "wasp_driver",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "requirementItemIds": [
+        {
+          "itemId": "rusted_gear",
+          "quantity": 3
+        },
+        {
+          "itemId": "advanced_mechanical_components",
+          "quantity": 5
+        },
+        {
+          "itemId": "sentinel_firing_core",
+          "quantity": 4
+        }
+      ]
+    }
+  ]
+}

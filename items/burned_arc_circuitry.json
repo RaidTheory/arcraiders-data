@@ -1,0 +1,57 @@
+{
+  "id": "burned_arc_circuitry",
+  "name": {
+    "en": "Burned Arc Circuitry",
+    "de": "Durchgebrannte ARC-Schaltkreise",
+    "fr": "Circuits ARC brûlés",
+    "es": "Circuitos ARC quemados",
+    "pt": "Circuitos ARC queimados",
+    "pl": "Spalone obwody ARC",
+    "no": "Brent ARC-kretskort",
+    "da": "Brændte ARC-kredsløb",
+    "it": "Circuiti ARC bruciati",
+    "ru": "Сгоревшая схема Arc",
+    "ja": "焼損したArc回路",
+    "zh-TW": "燒毀的Arc電路",
+    "uk": "Згоріла схема Arc",
+    "zh-CN": "烧毁的Arc电路",
+    "kr": "탄 Arc 회로",
+    "tr": "Yanmış Arc Devresi",
+    "hr": "Izgorjeli ARC Sklopovi",
+    "sr": "Izgoreli ARC Sklopovi"
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Se puede reciclar en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmateriell.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクル可能。",
+    "zh-TW": "可回收成製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可回收成制作材料。",
+    "kr": "제작 재료로 재활용 가능.",
+    "tr": "İşleme malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "value": 640,
+  "recyclesInto": {
+    "arc_alloy": 2
+  },
+  "salvagesInto": {
+    "arc_alloy": 1
+  },
+  "weightKg": 1.0,
+  "stackSize": 3,
+  "foundIn": "ARC",
+  "imageFilename": "https://cdn.arctracker.io/items/burned_arc_circuitry.png",
+  "updatedAt": "11/04/2025"
+}

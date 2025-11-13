@@ -1,0 +1,128 @@
+{
+  "id": "ss10x4",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Water Troubles",
+    "de": "Wasserprobleme",
+    "fr": "Problèmes d'eau",
+    "es": "Problemas de agua",
+    "pt": "Problemas de água",
+    "pl": "Kłopoty z wodą",
+    "no": "Vannproblemer",
+    "da": "Vandproblemer",
+    "it": "Problemi d'acqua",
+    "zh-TW": "水源問題",
+    "kr": "물 문제",
+    "hr": "Problemi s vodom",
+    "uk": "Проблеми з водою",
+    "ru": "Проблемы с водой",
+    "tr": "Su Sorunları",
+    "ja": "水のトラブル",
+    "zh-CN": "水源问题",
+    "sr": "Проблеми са водом"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "If you're here to complain about the water, join the club. I've been fielding complaints all day. Something is definitely up with it, and I need some help to sort it out.",
+    "de": "Wenn du hier bist, um dich über das Wasser zu beschweren, bist du nicht allein. Ich habe den ganzen Tag Beschwerden entgegengenommen. Irgendetwas stimmt definitiv nicht damit, und ich brauche Hilfe, um das zu klären.",
+    "fr": "Si tu es là pour te plaindre de l'eau, bienvenue au club. J'ai reçu des plaintes toute la journée. Il y a définitivement un problème avec elle, et j'ai besoin d'aide pour régler ça.",
+    "es": "Si estás aquí para quejarte del agua, únete al club. He estado recibiendo quejas todo el día. Definitivamente algo anda mal con ella, y necesito ayuda para resolverlo.",
+    "pt": "Se estás aqui para te queixar da água, junta-te ao clube. Tenho recebido queixas o dia todo. Definitivamente há algo errado com ela, e preciso de ajuda para resolver isto.",
+    "pl": "Jeśli jesteś tu, żeby narzekać na wodę, dołącz do klubu. Cały dzień przyjmuję skargi. Coś z nią zdecydowanie jest nie tak i potrzebuję pomocy, żeby to wyjaśnić.",
+    "no": "Hvis du er her for å klage på vannet, bli med i klubben. Jeg har mottatt klager hele dagen. Det er definitivt noe galt med det, og jeg trenger hjelp til å ordne det.",
+    "da": "Hvis du er her for at klage over vandet, så velkommen i klubben. Jeg har modtaget klager hele dagen. Der er helt sikkert noget galt med det, og jeg har brug for hjælp til at løse det.",
+    "it": "Se sei qui per lamentarti dell'acqua, unisciti al club. Ho ricevuto lamentele tutto il giorno. C'è decisamente qualcosa che non va, e ho bisogno di aiuto per sistemare la cosa.",
+    "zh-TW": "如果你是來抱怨水的問題，那你來對地方了。我整天都在處理投訴。水源肯定出了問題，我需要一些幫助來解決這個問題。",
+    "kr": "물에 대해 불평하러 오셨다면, 저도 마찬가지입니다. 하루 종일 불만을 접수하고 있었어요. 분명히 뭔가 문제가 있는데, 해결하려면 도움이 필요합니다.",
+    "hr": "Ako si ovdje da se žališ na vodu, dobrodošao u klub. Cijeli dan primam pritužbe. Nešto definitivno nije u redu s njom, i trebam pomoć da to riješim.",
+    "uk": "Якщо ви тут, щоб поскаржитися на воду, приєднуйтесь до клубу. Я весь день приймаю скарги. З нею точно щось не так, і мені потрібна допомога, щоб це з'ясувати.",
+    "ru": "Если вы здесь, чтобы пожаловаться на воду, добро пожаловать в клуб. Я весь день принимаю жалобы. С ней определённо что-то не так, и мне нужна помощь, чтобы разобраться.",
+    "tr": "Su hakkında şikayet etmek için geldiyseniz, kulübe hoş geldiniz. Bütün gün şikayetlerle uğraşıyorum. Kesinlikle bir sorun var ve bunu çözmek için yardıma ihtiyacım var.",
+    "ja": "水について文句を言いに来たなら、仲間に入ってくれ。一日中苦情を受け付けてるんだ。確実に何かがおかしいんだが、解決するには助けが必要なんだ。",
+    "zh-CN": "如果你是来抱怨水的问题，那你来对地方了。我整天都在处理投诉。水源肯定出了问题，我需要一些帮助来解决这个问题。",
+    "sr": "Ако си овде да се жалиш на воду, добродошао у клуб. Цео дан примам притужбе. Нешто дефинитивно није у реду са њом, и требам помоћ да то решим."
+  },
+  "objectives": [
+    {
+      "en": "Locate the Flood Access Tunnel under the Red Lake Balcony",
+      "de": "Finde den Flutzugangstunnel unter dem Roten-See-Balkon",
+      "fr": "Localiser le Tunnel d'Accès aux Inondations sous le Balcon du Lac Rouge",
+      "es": "Localiza el Túnel de Acceso a Inundaciones bajo el Balcón del Lago Rojo",
+      "pt": "Localiza o Túnel de Acesso a Inundações sob a Varanda do Lago Vermelho",
+      "pl": "Zlokalizuj Tunel Dostępu Powodziowego pod Balkonem Czerwonego Jeziora",
+      "no": "Finn Flomtilgangstunnelen under Rødsjøbalkongen",
+      "da": "Find Oversvømmelsesadgangstunnelen under Rødsjøbalkonen",
+      "it": "Individua il Tunnel di Accesso alle Inondazioni sotto il Balcone del Lago Rosso",
+      "zh-TW": "找到紅湖陽台下方的洪水通道",
+      "kr": "레드 레이크 발코니 아래의 홍수 접근 터널을 찾으세요",
+      "hr": "Pronađi pristupni tunel za poplave ispod Balkona Crvenog jezera",
+      "uk": "Знайдіть тунель доступу до повені під балконом Червоного озера",
+      "ru": "Найдите туннель доступа к затоплению под балконом Красного озера",
+      "tr": "Kızıl Göl Balkonu altındaki Sel Erişim Tünelini bul",
+      "ja": "レッドレイク・バルコニーの下にある洪水アクセストンネルを見つける",
+      "zh-CN": "找到红湖阳台下方的洪水通道",
+      "sr": "Пронађи приступни тунел за поплаве испод Балкона Црвеног језера"
+    },
+    {
+      "en": "Find the intake to the District's Water Supply",
+      "de": "Finde die Zuleitung zur Wasserversorgung des Bezirks",
+      "fr": "Trouver l'entrée de l'Approvisionnement en Eau du District",
+      "es": "Encuentra la toma del Suministro de Agua del Distrito",
+      "pt": "Encontra a entrada do Abastecimento de Água do Distrito",
+      "pl": "Znajdź ujęcie do Zaopatrzenia w Wodę Dzielnicy",
+      "no": "Finn inntaket til Distriktets Vannforsyning",
+      "da": "Find indtagelsen til Distriktets Vandforsyning",
+      "it": "Trova l'ingresso della Fornitura Idrica del Distretto",
+      "zh-TW": "找到區域供水系統的進水口",
+      "kr": "지구 급수 시설의 취수구를 찾으세요",
+      "hr": "Pronađi dovod za vodoopskrbu Distrikta",
+      "uk": "Знайдіть водозабір системи водопостачання Округу",
+      "ru": "Найдите водозабор системы водоснабжения Района",
+      "tr": "Bölgenin Su Kaynağına giden girişi bul",
+      "ja": "地区の給水口を見つける",
+      "zh-CN": "找到区域供水系统的进水口",
+      "sr": "Пронађи довод за водоснабдевање Дистрикта"
+    },
+    {
+      "en": "Sample the water",
+      "de": "Nimm eine Wasserprobe",
+      "fr": "Prélever un échantillon d'eau",
+      "es": "Toma una muestra del agua",
+      "pt": "Recolhe uma amostra da água",
+      "pl": "Pobierz próbkę wody",
+      "no": "Ta en vannprøve",
+      "da": "Tag en vandprøve",
+      "it": "Preleva un campione d'acqua",
+      "zh-TW": "採集水樣",
+      "kr": "물 샘플을 채취하세요",
+      "hr": "Uzmi uzorak vode",
+      "uk": "Візьміть пробу води",
+      "ru": "Возьмите образец воды",
+      "tr": "Sudan numune al",
+      "ja": "水のサンプルを採取する",
+      "zh-CN": "采集水样",
+      "sr": "Узми узорак воде"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "mechanical_components",
+      "quantity": 3
+    },
+    {
+      "itemId": "simple_gun_parts",
+      "quantity": 3
+    },
+    {
+      "itemId": "steel_spring",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x3"
+  ],
+  "nextQuestIds": [
+    "ss10x6"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "ss10t",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Celeste's Journals",
+    "de": "Celestes Tagebücher",
+    "fr": "Les journaux de Celeste",
+    "es": "Los diarios de Celeste",
+    "pt": "Os diários de Celeste",
+    "pl": "Dzienniki Celeste",
+    "no": "Celestes dagbøker",
+    "da": "Celestes dagbøger",
+    "it": "I diari di Celeste",
+    "uk": "Щоденники Селест",
+    "kr": "셀레스트의 일지",
+    "ru": "Дневники Селесты",
+    "zh-CN": "塞莱斯特的日记",
+    "ja": "セレステの日誌",
+    "tr": "Celeste'in Günlükleri",
+    "zh-TW": "賽蕾絲特的日記",
+    "sr": "Celestini Dnevnici",
+    "hr": "Celestini Dnevnici"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "Okay, so this is awkward... I lost two of my journals during some outpost inspections last time I went topside. Could you head out there and try to find them back before someone else stumbles on them?",
+    "de": "Okay, das ist jetzt peinlich... Ich habe zwei meiner Tagebücher bei einigen Außenposteninspektionen verloren, als ich das letzte Mal an der Oberfläche war. Könntest du dorthin gehen und versuchen, sie zurückzufinden, bevor jemand anderes über sie stolpert?",
+    "fr": "Bon, c'est gênant... J'ai perdu deux de mes journaux lors d'inspections d'avant-postes la dernière fois que je suis allée en surface. Pourrais-tu aller là-bas et essayer de les retrouver avant que quelqu'un d'autre ne tombe dessus ?",
+    "es": "Vale, esto es incómodo... Perdí dos de mis diarios durante algunas inspecciones de puestos avanzados la última vez que fui a la superficie. ¿Podrías ir allí e intentar encontrarlos antes de que alguien más se tropiece con ellos?",
+    "pt": "Ok, isto é embaraçoso... Perdi dois dos meus diários durante algumas inspeções de postos avançados da última vez que fui à superfície. Podes ir lá e tentar encontrá-los antes que alguém tropeçe neles?",
+    "pl": "Dobra, to niezręczne... Zgubiłam dwa dzienniki podczas inspekcji placówek, kiedy ostatnio byłam na powierzchni. Mógłbyś tam pójść i spróbować je odnaleźć, zanim ktoś inny na nie trafi?",
+    "no": "Greit, så dette er pinlig... Jeg mistet to av dagbøkene mine under noen utpostinspeksjoner sist jeg var på overflaten. Kan du dra dit og prøve å finne dem tilbake før noen andre snubler over dem?",
+    "da": "Okay, så dette er akavet... Jeg mistede to af mine dagbøger under nogle udpostinspektioner sidste gang jeg var på overfladen. Kunne du tage derhen og prøve at finde dem tilbage, før nogen andre snubler over dem?",
+    "it": "Ok, questa è imbarazzante... Ho perso due dei miei diari durante alcune ispezioni agli avamposti l'ultima volta che sono andata in superficie. Potresti andare là fuori e cercare di ritrovarli prima che qualcun altro ci inciampi sopra?",
+    "uk": "Гаразд, це трохи незручно... Я загубила два свої щоденники під час інспекції аванпостів минулого разу, коли була на поверхні. Не міг би ти піти туди і спробувати знайти їх, перш ніж хтось інший на них натрапить?",
+    "kr": "음, 좀 곤란한데... 지난번에 지상으로 올라가서 전초기지 점검하다가 일지 두 개를 잃어버렸어. 다른 사람이 발견하기 전에 가서 찾아줄 수 있을까?",
+    "ru": "Ладно, это неловко... Я потеряла два своих дневника во время инспекции аванпостов, когда в последний раз была наверху. Не мог бы ты сходить туда и попытаться найти их, прежде чем на них кто-то наткнётся?",
+    "zh-CN": "好吧，这有点尴尬……我上次去地面检查前哨站时弄丢了两本日记。你能去那里帮我找回来吗？最好在别人发现之前找到它们。",
+    "ja": "えっと、これはちょっと気まずいんだけど...前回地上に行って前哨基地を視察した時に、日誌を2冊なくしちゃったの。誰かに見つかる前に、そこに行って探してきてくれない？",
+    "tr": "Tamam, bu biraz garip... Geçen sefer yüzeye çıktığımda karakol denetimlerinde iki günlüğümü kaybettim. Oraya gidip başkası onlara rastlamadan önce bulabilir misin?",
+    "zh-TW": "好吧，這有點尷尬……我上次去地面檢查前哨站時弄丟了兩本日記。你能去那裡幫我找回來嗎？最好在別人發現之前找到它們。",
+    "sr": "Dobro, ovo je nezgodno... Izgubila sam dva svoja dnevnika tokom inspekcije isturenih položaja prošli put kad sam bila na površini. Možeš li otići tamo i pokušati da ih pronađeš pre nego što neko drugi naiđe na njih?",
+    "hr": "U redu, ovo je neugodno... Izgubila sam dva svoja dnevnika tijekom inspekcije isturenih položaja prošli put kad sam bila na površini. Možeš li otići tamo i pokušati ih pronaći prije nego što netko drugi naiđe na njih?"
+  },
+  "objectives": [
+    {
+      "en": "Retrieve Celeste's Journals from the South Swamp Outpost",
+      "de": "Hole Celestes Tagebücher vom Südlichen Sumpf-Außenposten",
+      "fr": "Récupérer les journaux de Celeste à l'avant-poste du marais sud",
+      "es": "Recupera los diarios de Celeste del puesto avanzado del pantano sur",
+      "pt": "Recupera os diários de Celeste do posto avançado do pântano sul",
+      "pl": "Odzyskaj dzienniki Celeste z placówki w Południowym Bagnie",
+      "no": "Hent Celestes dagbøker fra Sør-Sump-utposten",
+      "da": "Hent Celestes dagbøger fra Syd-Sump-udposten",
+      "it": "Recupera i diari di Celeste dall'avamposto della palude sud",
+      "uk": "Забрати щоденники Селест з південного болотного аванпосту",
+      "kr": "남부 늪지 전초기지에서 셀레스트의 일지 회수",
+      "ru": "Забрать дневники Селесты с южного болотного аванпоста",
+      "zh-CN": "从南部沼泽前哨站取回塞莱斯特的日记",
+      "ja": "南の沼地前哨基地からセレステの日誌を回収する",
+      "tr": "Güney Bataklık Karakolundan Celeste'in Günlüklerini Al",
+      "zh-TW": "從南部沼澤前哨站取回賽蕾絲特的日記",
+      "sr": "Preuzmi Celestine Dnevnike sa Južnog Močvarnog Isturenog Položaja",
+      "hr": "Preuzmi Celestine Dnevnike s Južnog Močvarnog Isturenog Položaja"
+    },
+    {
+      "en": "Retrieve Celeste's Journals from the northern outpost overlooking the Red Lakes",
+      "de": "Hole Celestes Tagebücher vom nördlichen Außenposten mit Blick auf die Roten Seen",
+      "fr": "Récupérer les journaux de Celeste à l'avant-poste nord surplombant les lacs rouges",
+      "es": "Recupera los diarios de Celeste del puesto avanzado norte con vistas a los Lagos Rojos",
+      "pt": "Recupera os diários de Celeste do posto avançado norte com vista para os Lagos Vermelhos",
+      "pl": "Odzyskaj dzienniki Celeste z północnej placówki z widokiem na Czerwone Jeziora",
+      "no": "Hent Celestes dagbøker fra den nordlige utposten med utsikt over de røde sjøene",
+      "da": "Hent Celestes dagbøger fra den nordlige udpost med udsigt over de røde søer",
+      "it": "Recupera i diari di Celeste dall'avamposto settentrionale che domina i Laghi Rossi",
+      "uk": "Забрати щоденники Селест з північного аванпосту з видом на Червоні Озера",
+      "kr": "붉은 호수가 내려다보이는 북부 전초기지에서 셀레스트의 일지 회수",
+      "ru": "Забрать дневники Селесты с северного аванпоста с видом на Красные Озёра",
+      "zh-CN": "从俯瞰红湖的北部前哨站取回塞莱斯特的日记",
+      "ja": "赤い湖を見下ろす北の前哨基地からセレステの日誌を回収する",
+      "tr": "Kızıl Göllere bakan kuzey karakolundan Celeste'in Günlüklerini Al",
+      "zh-TW": "從俯瞰紅湖的北部前哨站取回賽蕾絲特的日記",
+      "sr": "Preuzmi Celestine Dnevnike sa severnog isturenog položaja koji gleda na Crvena Jezera",
+      "hr": "Preuzmi Celestine Dnevnike sa sjevernog isturenog položaja koji gleda na Crvena Jezera"
+    },
+    {
+      "en": "Deliver 2 Journals to Celeste",
+      "de": "Liefere 2 Tagebücher an Celeste",
+      "fr": "Livrer 2 journaux à Celeste",
+      "es": "Entrega 2 diarios a Celeste",
+      "pt": "Entrega 2 diários a Celeste",
+      "pl": "Dostarcz 2 dzienniki do Celeste",
+      "no": "Lever 2 dagbøker til Celeste",
+      "da": "Lever 2 dagbøger til Celeste",
+      "it": "Consegna 2 diari a Celeste",
+      "uk": "Доставити 2 щоденники Селест",
+      "kr": "셀레스트에게 일지 2개 전달",
+      "ru": "Доставить 2 дневника Селесте",
+      "zh-CN": "将2本日记交给塞莱斯特",
+      "ja": "セレステに日誌を2冊届ける",
+      "tr": "Celeste'e 2 Günlük Teslim Et",
+      "zh-TW": "將2本日記交給賽蕾絲特",
+      "sr": "Dostavi 2 Dnevnika Celeste",
+      "hr": "Dostavi 2 Dnevnika Celeste"
+    }
+  ],
+  "requiredItemIds": [
+    {
+      "itemId": "celeste_journal",
+      "quantity": 2
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "magnetic_accelerator",
+      "quantity": 1
+    },
+    {
+      "itemId": "heavy_gun_parts",
+      "quantity": 3
+    },
+    {
+      "itemId": "exodus_modules",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10r"
+  ],
+  "nextQuestIds": [
+    "ss10w"
+  ]
+}

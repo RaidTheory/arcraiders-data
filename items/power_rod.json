@@ -1,0 +1,59 @@
+{
+  "id": "power_rod",
+  "name": {
+    "en": "Power Rod",
+    "de": "Energiestab",
+    "fr": "Tige d'alimentation",
+    "es": "Varilla de energía",
+    "pt": "Haste de energia",
+    "pl": "Pręt zasilający",
+    "no": "Kraftstang",
+    "da": "Kraftstang",
+    "it": "Asta di alimentazione",
+    "ru": "Энергетический стержень",
+    "ja": "パワーロッド",
+    "zh-TW": "能量棒",
+    "uk": "Енергетичний стрижень",
+    "zh-CN": "能量棒",
+    "kr": "파워 로드",
+    "tr": "Güç Çubuğu",
+    "hr": "Energetska Šipka",
+    "sr": "Energetska Šipka"
+  },
+  "description": {
+    "en": "Used in crafting. Used to craft: Heavy Shield, Snap Hook",
+    "de": "Wird beim Herstellen verwendet. Wird verwendet für: Schwerer Schild, Karabinerhaken",
+    "fr": "Utilisé pour la fabrication. Permet de fabriquer : Bouclier lourd, Mousqueton",
+    "es": "Usado en fabricación. Usado para fabricar: Escudo pesado, Gancho rápido",
+    "pt": "Usado na fabricação. Usado para fabricar: Escudo pesado, Gancho rápido",
+    "pl": "Używane do wytwarzania. Używane do wytworzenia: Ciężka tarcza, Karabińczyk",
+    "no": "Brukes til håndverk. Brukes til å lage: Tungt skjold, Karabinkrok",
+    "da": "Bruges til håndværk. Bruges til at lave: Tungt skjold, Karabinkrog",
+    "it": "Usato per la fabbricazione. Usato per fabbricare: Scudo pesante, Moschettone",
+    "ru": "Используется в создании предметов. Используется для создания: тяжелый щит, карабин",
+    "ja": "製作に使用。製作に使用: ヘビーシールド、スナップフック",
+    "zh-TW": "用於製作。用於製作：重型護盾、快扣鉤",
+    "uk": "Використовується у створенні предметів. Використовується для створення: важкий щит, карабін",
+    "zh-CN": "用于制作。用于制作：重型护盾、快扣钩",
+    "kr": "제작에 사용. 제작 용도: 중형 실드, 스냅 훅",
+    "tr": "Üretimde kullanılır. Üretimde kullanılır: Ağır Kalkan, Mandal Kancası",
+    "hr": "Koristi se u izradi. Koristi se za izradu: Teški Štit, Brza Kuka",
+    "sr": "Koristi se u izradi. Koristi se za izradu: Teški Štit, Brza Kuka"
+  },
+  "type": "Refined Material",
+  "rarity": "Epic",
+  "weightKg": 2.0,
+  "value": 5500,
+  "recyclesInto": {
+    "advanced_electrical_components": 1,
+    "arc_circuitry": 1
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/power_rod.png",
+  "updatedAt": "11/03/2025",
+  "foundIn": "Exodus",
+  "recipe": {
+    "advanced_electrical_components": 2,
+    "arc_circuitry": 2
+  },
+  "craftBench": "refiner"
+}

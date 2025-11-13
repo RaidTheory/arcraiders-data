@@ -1,0 +1,81 @@
+{
+  "id": "extended_medium_mag_iii",
+  "name": {
+    "en": "Extended Medium Mag III",
+    "de": "Erweitertes mittleres Magazin III",
+    "fr": "Chargeur moyen étendu III",
+    "es": "Cargador mediano extendido III",
+    "pt": "Carregador médio estendido III",
+    "pl": "Rozszerzony średni magazynek III",
+    "no": "Utvidet medium magasin III",
+    "da": "Udvidet medium magasin III",
+    "it": "Caricatore medio esteso III",
+    "ru": "Расширенный средний магазин III",
+    "ja": "拡張ミディアムマガジン III",
+    "zh-TW": "延長中型彈匣 III",
+    "uk": "Розширений середній магазин III",
+    "zh-CN": "延长中型弹匣 III",
+    "kr": "확장형 중형 탄창 III",
+    "tr": "Uzatılmış Orta Şarjör III",
+    "hr": "Produženi Srednji Spremnik III",
+    "sr": "Produženi Srednji Spremnik III"
+  },
+  "description": {
+    "en": "Significantly extends the ammo capacity of compatible weapons that use medium ammo. Compatible with: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "de": "Erweitert die Munitionskapazität kompatibler Waffen, die mittlere Munition verwenden, erheblich. Kompatibel mit: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "fr": "Étend considérablement la capacité de munitions des armes compatibles qui utilisent des munitions moyennes. Compatible avec : Arpège, Renégat, Venator, Tempête, Torrente",
+    "es": "Extiende significativamente la capacidad de munición de armas compatibles que usan munición mediana. Compatible con: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "pt": "Estende significativamente a capacidade de munição de armas compatíveis que usam munição média. Compatível com: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "pl": "Znacząco zwiększa pojemność amunicji kompatybilnych broni używających średniej amunicji. Kompatybilny z: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "no": "Utvider betydelig ammunisjonskapasiteten til kompatible våpen som bruker medium ammunisjon. Kompatibel med: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "da": "Udvider betydeligt ammunitionskapaciteten for kompatible våben, der bruger medium ammunition. Kompatibel med: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "it": "Estende significativamente la capacità di munizioni delle armi compatibili che usano munizioni medie. Compatibile con: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "ru": "Значительно увеличивает ёмкость боеприпасов совместимого оружия, использующего средние боеприпасы. Совместимо с: Арпеджио, Ренегат, Венатор, Темпест, Торренте",
+    "ja": "中型弾薬を使用する対応武器の弾薬容量を大幅に拡張します。対応武器：アルペジオ、レネゲード、ヴェナトール、テンペスト、トレンテ",
+    "zh-TW": "大幅延長使用中型彈藥的相容武器的彈藥容量。相容武器：琶音、叛徒、獵人、風暴、激流",
+    "uk": "Значно збільшує ємність боєприпасів сумісної зброї, що використовує середні боєприпаси. Сумісно з: Арпеджіо, Ренегат, Венатор, Темпест, Торренте",
+    "zh-CN": "大幅延长使用中型弹药的兼容武器的弹药容量。兼容武器：琶音、叛徒、猎人、风暴、激流",
+    "kr": "중형 탄약을 사용하는 호환 무기의 탄약 용량을 크게 확장합니다. 호환 무기: 아르페지오, 레니게이드, 베나토르, 템페스트, 토렌테",
+    "tr": "Orta mermi kullanan uyumlu silahların mermi kapasitesini önemli ölçüde artırır. Uyumlu: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "hr": "Značajno povećava kapacitet municije kompatibilnog oružja koje koristi srednju municiju. Kompatibilno s: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "sr": "Značajno povećava kapacitet municije kompatibilnog oružja koje koristi srednju municiju. Kompatibilno sa: Arpeggio, Renegade, Venator, Tempest, Torrente"
+  },
+  "type": "Modification",
+  "value": 5000,
+  "rarity": "Rare",
+  "weightKg": 0.75,
+  "effects": {
+    "Magazine Size": {
+      "en": "Magazine Size",
+      "de": "Magazingröße",
+      "fr": "Taille du chargeur",
+      "es": "Tamaño del cargador",
+      "pt": "Tamanho do carregador",
+      "pl": "Pojemność magazynka",
+      "no": "Magasinstørrelse",
+      "da": "Magasinstørrelse",
+      "it": "Dimensione caricatore",
+      "ru": "Размер магазина",
+      "ja": "マガジンサイズ",
+      "zh-TW": "彈匣容量",
+      "uk": "Розмір магазину",
+      "zh-CN": "弹匣容量",
+      "kr": "탄창 크기",
+      "tr": "Şarjör Boyutu",
+      "hr": "Veličina Spremnika",
+      "sr": "Veličina Spremnika",
+      "value": "+12"
+    }
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_iii.png",
+  "updatedAt": "10/30/2025",
+  "recyclesInto": {
+    "mod_components": 1,
+    "steel_spring": 2
+  },
+  "recipe": {
+    "mod_components": 2,
+    "steel_spring": 5
+  },
+  "craftBench": "weapon_bench"
+}

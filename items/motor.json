@@ -1,0 +1,52 @@
+{
+  "id": "motor",
+  "name": {
+    "en": "Motor",
+    "de": "Motor",
+    "fr": "Moteur",
+    "es": "Motor",
+    "pt": "Motor",
+    "pl": "Silnik",
+    "no": "Motor",
+    "da": "Motor",
+    "it": "Motore",
+    "ru": "Мотор",
+    "ja": "モーター",
+    "zh-TW": "馬達",
+    "uk": "Мотор",
+    "zh-CN": "马达",
+    "kr": "모터",
+    "tr": "Motor",
+    "hr": "Motor",
+    "sr": "Motor"
+  },
+  "description": {
+    "en": "A small electric motor, useful for various devices.",
+    "de": "Ein kleiner Elektromotor, nützlich für verschiedene Geräte.",
+    "fr": "Un petit moteur électrique, utile pour divers appareils.",
+    "es": "Un pequeño motor eléctrico, útil para varios dispositivos.",
+    "pt": "Um pequeno motor elétrico, útil para vários dispositivos.",
+    "pl": "Mały silnik elektryczny, przydatny do różnych urządzeń.",
+    "no": "En liten elektrisk motor, nyttig for forskjellige enheter.",
+    "da": "En lille elektrisk motor, nyttig til forskellige enheder.",
+    "it": "Un piccolo motore elettrico, utile per vari dispositivi.",
+    "ru": "Небольшой электромотор, полезный для различных устройств.",
+    "ja": "小型電動モーター、様々な装置に有用。",
+    "zh-TW": "小型電動馬達，可用於各種裝置。",
+    "uk": "Невеликий електромотор, корисний для різних пристроїв.",
+    "zh-CN": "小型电动马达，可用于各种装置。",
+    "kr": "다양한 장치에 유용한 소형 전기 모터입니다.",
+    "tr": "Çeşitli cihazlar için kullanışlı küçük bir elektrik motoru.",
+    "hr": "Mali električni motor, koristan za razne uređaje.",
+    "sr": "Mali električni motor, koristan za razne uređaje."
+  },
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 1000,
+  "recyclesInto": {
+    "oil": 2,
+    "mechanical_components": 1
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/motor.png",
+  "updatedAt": "10/30/2025"
+}

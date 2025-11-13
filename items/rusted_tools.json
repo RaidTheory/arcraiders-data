@@ -1,0 +1,55 @@
+{
+  "id": "rusted_tools",
+  "name": {
+    "en": "Rusted Tools",
+    "de": "Verrostete Werkzeuge",
+    "fr": "Outils rouillés",
+    "es": "Herramientas oxidadas",
+    "pt": "Ferramentas enferrujadas",
+    "pl": "Zardzewiałe narzędzia",
+    "no": "Rustne verktøy",
+    "da": "Rustne værktøjer",
+    "it": "Attrezzi arrugginiti",
+    "ru": "Ржавые инструменты",
+    "ja": "錆びた工具",
+    "zh-TW": "生鏽的工具",
+    "uk": "Іржаві інструменти",
+    "zh-CN": "生锈的工具",
+    "kr": "녹슨 도구",
+    "tr": "Paslı Aletler",
+    "hr": "Zahrđali Alati",
+    "sr": "Zahrđali Alati"
+  },
+  "description": {
+    "en": "A set of tools, rusted but still usable for crafting.",
+    "de": "Ein Satz Werkzeuge, verrostet, aber noch für die Herstellung verwendbar.",
+    "fr": "Un ensemble d'outils, rouillés mais encore utilisables pour la fabrication.",
+    "es": "Un conjunto de herramientas, oxidadas pero aún utilizables para fabricar.",
+    "pt": "Um conjunto de ferramentas, enferrujadas mas ainda utilizáveis para fabricação.",
+    "pl": "Zestaw narzędzi, zardzewiałych, ale wciąż nadających się do wytwarzania.",
+    "no": "Et sett med verktøy, rustne men fortsatt brukbare for håndverk.",
+    "da": "Et sæt værktøjer, rustne men stadig brugbare til håndværk.",
+    "it": "Un set di attrezzi, arrugginiti ma ancora utilizzabili per il crafting.",
+    "ru": "Набор инструментов, ржавых, но всё ещё пригодных для крафта.",
+    "ja": "錆びているが、クラフトにはまだ使える工具セット。",
+    "zh-TW": "一套工具，雖然生鏽但仍可用於製作。",
+    "uk": "Набір інструментів, іржавих, але все ще придатних для крафту.",
+    "zh-CN": "一套工具，虽然生锈但仍可用于制作。",
+    "kr": "녹슬었지만 여전히 제작에 사용할 수 있는 도구 세트입니다.",
+    "tr": "Paslanmış ama hala üretim için kullanılabilir bir alet seti.",
+    "hr": "Komplet alata, zahrđalih ali još uvijek upotrebljivih za izradu.",
+    "sr": "Komplet alata, zahrđalih ali još uvek upotrebljivih za izradu."
+  },
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 1000,
+  "recyclesInto": {
+    "metal_parts": 8,
+    "steel_spring": 1
+  },
+  "salvagesInto": {
+    "metal_parts": 7
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/rusted_tools.png",
+  "updatedAt": "10/30/2025"
+}

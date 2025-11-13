@@ -1,0 +1,66 @@
+{
+  "id": "medium_ammo",
+  "name": {
+    "en": "Medium Ammo",
+    "de": "Mittlere Munition",
+    "fr": "Munitions moyennes",
+    "es": "Munición media",
+    "pt": "Munição média",
+    "pl": "Średnia amunicja",
+    "no": "Middels ammunisjon",
+    "da": "Mellem ammunition",
+    "it": "Munizioni medie",
+    "ru": "Средние патроны",
+    "ja": "ミディアム弾薬",
+    "zh-TW": "中型彈藥",
+    "uk": "Середні патрони",
+    "zh-CN": "中型弹药",
+    "kr": "중형 탄약",
+    "tr": "Orta Boy Mermi",
+    "hr": "Srednje streljivo",
+    "sr": "Srednje streljivo"
+  },
+  "description": {
+    "en": "Compatible with: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "de": "Kompatibel mit: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "fr": "Compatible avec : Crotale, Tempête, Arpège, Renégat, Torrente",
+    "es": "Compatible con: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "pt": "Compatível com: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "pl": "Kompatybilna z: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "no": "Kompatibel med: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "da": "Kompatibel med: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "it": "Compatibile con: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "ru": "Совместимо с: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "ja": "対応武器: Rattler、Tempest、Arpeggio、Renegade、Torrente",
+    "zh-TW": "相容武器：Rattler、Tempest、Arpeggio、Renegade、Torrente",
+    "uk": "Сумісно з: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "zh-CN": "兼容武器：Rattler、Tempest、Arpeggio、Renegade、Torrente",
+    "kr": "호환 무기: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "tr": "Uyumlu silahlar: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "hr": "Kompatibilno s: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "sr": "Kompatibilno sa: Rattler, Tempest, Arpeggio, Renegade, Torrente"
+  },
+  "type": "Ammunition",
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Tempest",
+    "Renegade",
+    "Torrente"
+  ],
+  "imageFilename": "https://cdn.arctracker.io/items/medium_ammo.png",
+  "crafting": {
+    "metal_parts": 4,
+    "chemicals": 2
+  },
+  "value": 6,
+  "weightKg": 0.025,
+  "stackSize": 80,
+  "rarity": "Common",
+  "updatedAt": "11/03/2025",
+  "recipe": {
+    "metal_parts": 3,
+    "chemicals": 2
+  },
+  "craftBench": "workbench"
+}

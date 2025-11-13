@@ -1,0 +1,82 @@
+{
+  "id": "ss5a",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Hatch Repairs",
+    "de": "Lukenreparaturen",
+    "fr": "Réparations de trappes",
+    "es": "Reparaciones de escotillas",
+    "pt": "Reparos de escotilhas",
+    "pl": "Naprawy włazów",
+    "no": "Lukereparasjoner",
+    "da": "Lugereparationer",
+    "it": "Riparazioni botole",
+    "uk": "Ремонт люків",
+    "kr": "해치 수리",
+    "ru": "Ремонт люков",
+    "zh-CN": "舱门维修",
+    "ja": "ハッチの修理",
+    "tr": "Kapak Onarımları",
+    "zh-TW": "艙門維修",
+    "sr": "Popravka Otvora",
+    "hr": "Popravak Otvora"
+  },
+  "trader": "Shani",
+  "description": {
+    "en": "Our scouts have reported several Raider Hatches with leaking hydraulic pipes. They still work, but not for long. Mind patching one up, next time you're out there?",
+    "de": "Unsere Späher haben mehrere Raider-Luken mit undichten Hydraulikleitungen gemeldet. Sie funktionieren noch, aber nicht mehr lange. Würdest du eine reparieren, wenn du das nächste Mal dort draußen bist?",
+    "fr": "Nos éclaireurs ont signalé plusieurs trappes de Raiders avec des tuyaux hydrauliques qui fuient. Elles fonctionnent encore, mais plus pour longtemps. Ça te dérangerait d'en réparer une la prochaine fois que tu seras là-bas ?",
+    "es": "Nuestros exploradores han reportado varias escotillas de Saqueadores con tuberías hidráulicas con fugas. Todavía funcionan, pero no por mucho tiempo. ¿Te importaría reparar una la próxima vez que estés por allí?",
+    "pt": "Nossos batedores relataram várias escotilhas de Saqueadores com tubos hidráulicos vazando. Elas ainda funcionam, mas não por muito tempo. Você se importaria de consertar uma na próxima vez que estiver lá fora?",
+    "pl": "Nasi zwiadowcy zgłosili kilka włazów Najeźdźców z nieszczelnymi rurami hydraulicznymi. Wciąż działają, ale niedługo. Mógłbyś naprawić jeden, następnym razem gdy tam będziesz?",
+    "no": "Speiderene våre har rapportert flere Raider-luker med lekkende hydrauliske rør. De fungerer fortsatt, men ikke lenge. Kan du fikse en neste gang du er der ute?",
+    "da": "Vores spejdere har rapporteret flere Raider-luger med lækkende hydrauliske rør. De virker stadig, men ikke længe. Vil du lappe en, næste gang du er derude?",
+    "it": "Le nostre ricognizioni hanno segnalato diverse botole dei Predoni con tubi idraulici che perdono. Funzionano ancora, ma non per molto. Ti dispiacerebbe ripararne una la prossima volta che sei là fuori?",
+    "uk": "Наші розвідники повідомили про кілька люків рейдерів з протікаючими гідравлічними трубами. Вони ще працюють, але недовго. Не могли б ви полагодити один, коли наступного разу будете там?",
+    "kr": "우리 정찰병들이 유압 파이프가 새는 약탈자 해치 몇 개를 발견했습니다. 아직은 작동하지만 오래가지 못할 겁니다. 다음에 나가실 때 하나 수리해 주시겠습니까?",
+    "ru": "Наши разведчики сообщили о нескольких люках рейдеров с протекающими гидравлическими трубами. Они еще работают, но недолго. Не мог бы ты починить один, когда в следующий раз будешь там?",
+    "zh-CN": "我们的侦察兵报告说有几个掠夺者舱门的液压管道在泄漏。它们还能用，但坚持不了多久了。下次你去那边的时候能修一个吗？",
+    "ja": "斥候の報告によると、いくつかのレイダーハッチで油圧パイプが漏れているそうだ。まだ動くが、長くは持たないだろう。次にそこへ行く時、1つ修理してくれないか？",
+    "tr": "Keşifçilerimiz hidrolik boruları sızdıran birkaç Yağmacı Kapağı bildirdi. Hala çalışıyorlar ama uzun süre değil. Bir dahaki sefere dışarıdayken birini tamir etmeye ne dersin?",
+    "zh-TW": "我們的偵察兵回報有幾個掠奪者艙門的液壓管道在洩漏。它們還能用，但撐不了多久了。下次你去那邊的時候能修一個嗎？",
+    "sr": "Naši izviđači su prijavili nekoliko Raider Otvora sa cevima hidraulike koje cure. Još uvek rade, ali ne još dugo. Možete li da zakrpite jedan, sledeći put kada budete tamo?",
+    "hr": "Naši izviđači su prijavili nekoliko Raider Otvora s cijevima hidraulike koje cure. Još uvijek rade, ali ne još dugo. Možete li zakrpati jedan, sljedeći put kada budete tamo?"
+  },
+  "objectives": [
+    {
+      "en": "Repair the leaking hydraulic pipes near a Raider Hatch",
+      "de": "Repariere die undichten Hydraulikleitungen in der Nähe einer Raider-Luke",
+      "fr": "Réparez les tuyaux hydrauliques qui fuient près d'une trappe de Raiders",
+      "es": "Repara las tuberías hidráulicas con fugas cerca de una escotilla de Saqueadores",
+      "pt": "Conserte os tubos hidráulicos vazando perto de uma escotilha de Saqueadores",
+      "pl": "Napraw nieszczelne rury hydrauliczne w pobliżu włazu Najeźdźców",
+      "no": "Reparer de lekkende hydrauliske rørene nær en Raider-luke",
+      "da": "Reparer de lækkende hydrauliske rør nær en Raider-luge",
+      "it": "Ripara i tubi idraulici che perdono vicino a una botola dei Predoni",
+      "uk": "Відремонтуйте протікаючі гідравлічні труби біля люка рейдерів",
+      "kr": "약탈자 해치 근처의 새는 유압 파이프 수리",
+      "ru": "Отремонтируйте протекающие гидравлические трубы возле люка рейдеров",
+      "zh-CN": "修理掠夺者舱门附近泄漏的液压管道",
+      "ja": "レイダーハッチ付近の漏れている油圧パイプを修理する",
+      "tr": "Bir Yağmacı Kapağının yakınındaki sızdıran hidrolik boruları onar",
+      "zh-TW": "修理掠奪者艙門附近洩漏的液壓管道",
+      "sr": "Popravite cevi hidraulike koje cure blizu Raider Otvora",
+      "hr": "Popravite cijevi hidraulike koje cure blizu Raider Otvora"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "raider_hatch_key",
+      "quantity": 1
+    },
+    {
+      "itemId": "binoculars",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss5"
+  ],
+  "nextQuestIds": []
+}

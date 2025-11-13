@@ -1,0 +1,135 @@
+{
+  "id": "ss10s",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "Eyes in the Sky",
+    "de": "Augen am Himmel",
+    "fr": "Des yeux dans le ciel",
+    "es": "Ojos en el cielo",
+    "pt": "Olhos no céu",
+    "pl": "Oczy w niebie",
+    "no": "Øyne i himmelen",
+    "da": "Øjne i himlen",
+    "it": "Occhi nel cielo",
+    "uk": "Очі в небі",
+    "kr": "하늘의 눈",
+    "ru": "Глаза в небе",
+    "zh-CN": "天空之眼",
+    "ja": "空の目",
+    "tr": "Gökyüzündeki Gözler",
+    "zh-TW": "天空之眼",
+    "sr": "Oči na nebu",
+    "hr": "Oči na nebu"
+  },
+  "trader": "Shani",
+  "description": {
+    "en": "Requires a zipline to get on top of the tower. Those LiDAR scanners you found work best when put in high locations. I've identified a few good spots around the Rust Belt; hope you're surefooted.",
+    "de": "Erfordert eine Seilrutsche, um auf die Spitze des Turms zu gelangen. Diese LiDAR-Scanner, die du gefunden hast, funktionieren am besten, wenn sie an hohen Orten platziert werden. Ich habe ein paar gute Stellen im Rostgürtel identifiziert; hoffentlich bist du trittsicher.",
+    "fr": "Nécessite une tyrolienne pour monter au sommet de la tour. Ces scanners LiDAR que vous avez trouvés fonctionnent mieux lorsqu'ils sont placés en hauteur. J'ai identifié quelques bons endroits autour de la ceinture de rouille ; j'espère que vous avez le pied sûr.",
+    "es": "Requiere una tirolesa para llegar a la cima de la torre. Esos escáneres LiDAR que encontraste funcionan mejor cuando se colocan en lugares altos. He identificado algunos buenos lugares alrededor del cinturón de óxido; espero que tengas buen equilibrio.",
+    "pt": "Requer uma tirolesa para chegar ao topo da torre. Esses scanners LiDAR que você encontrou funcionam melhor quando colocados em locais altos. Identifiquei alguns bons lugares ao redor do cinturão de ferrugem; espero que você tenha passo firme.",
+    "pl": "Wymaga linki tyrolskiej, aby dostać się na szczyt wieży. Te skanery LiDAR, które znalazłeś, działają najlepiej, gdy są umieszczone w wysokich miejscach. Zidentyfikowałem kilka dobrych miejsc w Pasie Rdzy; mam nadzieję, że masz pewny krok.",
+    "no": "Krever en zipline for å komme på toppen av tårnet. De LiDAR-skannerne du fant fungerer best når de plasseres på høye steder. Jeg har identifisert noen gode steder rundt rustbeltet; håper du er sikker på beina.",
+    "da": "Kræver en zipline for at komme op på toppen af tårnet. De LiDAR-scannere du fandt fungerer bedst, når de placeres på høje steder. Jeg har identificeret et par gode steder rundt om i rustbæltet; håber du er sikker på benene.",
+    "it": "Richiede una zipline per arrivare in cima alla torre. Quegli scanner LiDAR che hai trovato funzionano meglio quando vengono posizionati in luoghi elevati. Ho identificato alcuni buoni punti intorno alla cintura della ruggine; spero tu abbia il passo sicuro.",
+    "uk": "Потрібен зіплайн, щоб дістатися на вершину вежі. Ті LiDAR сканери, що ти знайшов, працюють найкраще на висоті. Я визначив кілька хороших місць у Іржавому поясі; сподіваюся, ти не боїшся висоти.",
+    "kr": "타워 꼭대기에 오르려면 집라인이 필요합니다. 당신이 찾은 LiDAR 스캐너는 높은 곳에 설치할 때 가장 잘 작동합니다. 러스트 벨트 주변에 좋은 장소 몇 군데를 찾아냈어요. 발이 튼튼하길 바랍니다.",
+    "ru": "Требуется тросовая дорога, чтобы забраться на вершину башни. Те LiDAR сканеры, что ты нашёл, работают лучше всего на высоте. Я определил несколько хороших мест в Ржавом поясе; надеюсь, ты не боишься высоты.",
+    "zh-CN": "需要滑索才能到达塔顶。你找到的那些LiDAR扫描仪在高处效果最好。我在锈带周围找到了几个好位置；希望你脚步稳健。",
+    "ja": "タワーの頂上に登るにはジップラインが必要だ。君が見つけたLiDARスキャナーは高所に設置すると最も効果的だ。ラストベルト周辺にいくつか良い場所を見つけた。足元には気をつけてくれ。",
+    "tr": "Kulenin tepesine çıkmak için zipline gerekiyor. Bulduğun LiDAR tarayıcıları yüksek yerlere konulduğunda en iyi çalışıyor. Rust Belt çevresinde birkaç iyi nokta belirledim; umarım ayakların sağlamdır.",
+    "zh-TW": "需要滑索才能到達塔頂。你找到的那些LiDAR掃描儀在高處效果最好。我在鏽帶周圍找到了幾個好位置；希望你腳步穩健。",
+    "sr": "Potrebna je užad za spuštanje da se popnete na vrh tornja. Ti LiDAR skeneri koje ste pronašli najbolje funkcionišu kada se postave na visokim lokacijama. Identifikovao sam nekoliko dobrih mesta oko Pojasa hrđe; nadam se da ste sigurni na nogama.",
+    "hr": "Potrebna je užad za spuštanje da se popnete na vrh tornja. Ti LiDAR skeneri koje ste pronašli najbolje funkcioniraju kada se postave na visokim lokacijama. Identificirao sam nekoliko dobrih mjesta oko Pojasa hrđe; nadam se da ste sigurni na nogama."
+  },
+  "objectives": [
+    {
+      "en": "On Dam Battlegrounds, install a LiDAR Scanner at the top of the Control Tower",
+      "de": "Installiere auf dem Damm-Schlachtfeld einen LiDAR-Scanner auf der Spitze des Kontrollturms",
+      "fr": "Sur le champ de bataille du barrage, installez un scanner LiDAR au sommet de la tour de contrôle",
+      "es": "En el campo de batalla de la presa, instala un escáner LiDAR en la cima de la torre de control",
+      "pt": "No campo de batalha da barragem, instale um scanner LiDAR no topo da torre de controle",
+      "pl": "Na polu bitwy przy tamie zainstaluj skaner LiDAR na szczycie wieży kontrolnej",
+      "no": "På demmens slagmark, installer en LiDAR-skanner på toppen av kontrolltårnet",
+      "da": "På dæmningens slagmark, installer en LiDAR-scanner på toppen af kontroltårnet",
+      "it": "Sul campo di battaglia della diga, installa uno scanner LiDAR in cima alla torre di controllo",
+      "uk": "На Полі бою біля дамби встановіть LiDAR сканер на вершині диспетчерської вежі",
+      "kr": "댐 전장에서 관제탑 꼭대기에 LiDAR 스캐너 설치",
+      "ru": "На Поле боя у дамбы установите LiDAR сканер на вершине диспетчерской вышки",
+      "zh-CN": "在大坝战场的控制塔顶部安装LiDAR扫描仪",
+      "ja": "ダム戦場で管制塔の頂上にLiDARスキャナーを設置する",
+      "tr": "Baraj Savaş Alanı'nda Kontrol Kulesi'nin tepesine bir LiDAR Tarayıcı kur",
+      "zh-TW": "在大壩戰場的控制塔頂部安裝LiDAR掃描儀",
+      "sr": "Na bojnom polju brane, instalirajte LiDAR skener na vrhu kontrolnog tornja",
+      "hr": "Na bojnom polju brane, instalirajte LiDAR skener na vrhu kontrolnog tornja"
+    },
+    {
+      "en": "On Spaceport, install a LiDAR Scanner at the Communications Tower",
+      "de": "Installiere im Raumhafen einen LiDAR-Scanner am Kommunikationsturm",
+      "fr": "Au spatioport, installez un scanner LiDAR à la tour de communication",
+      "es": "En el espaciopuerto, instala un escáner LiDAR en la torre de comunicaciones",
+      "pt": "No espaçoporto, instale um scanner LiDAR na torre de comunicações",
+      "pl": "Na kosmodromie zainstaluj skaner LiDAR na wieży komunikacyjnej",
+      "no": "På romhavnen, installer en LiDAR-skanner ved kommunikasjonstårnet",
+      "da": "På rumhavnen, installer en LiDAR-scanner ved kommunikationstårnet",
+      "it": "Allo spazioporto, installa uno scanner LiDAR alla torre delle comunicazioni",
+      "uk": "На Космопорті встановіть LiDAR сканер на комунікаційній вежі",
+      "kr": "우주 기지에서 통신탑에 LiDAR 스캐너 설치",
+      "ru": "На Космопорте установите LiDAR сканер на коммуникационной вышке",
+      "zh-CN": "在太空港的通讯塔安装LiDAR扫描仪",
+      "ja": "スペースポートで通信塔にLiDARスキャナーを設置する",
+      "tr": "Uzay Limanı'nda İletişim Kulesi'ne bir LiDAR Tarayıcı kur",
+      "zh-TW": "在太空港的通訊塔安裝LiDAR掃描儀",
+      "sr": "Na svemirskoj luci, instalirajte LiDAR skener na komunikacionom tornju",
+      "hr": "Na svemirskoj luci, instalirajte LiDAR skener na komunikacijskom tornju"
+    },
+    {
+      "en": "On Buried City, install a LiDAR Scanner on top of the Galleria sign",
+      "de": "Installiere in der Begrabenen Stadt einen LiDAR-Scanner auf dem Galleria-Schild",
+      "fr": "Dans la ville ensevelie, installez un scanner LiDAR au sommet de l'enseigne de la galerie",
+      "es": "En la ciudad enterrada, instala un escáner LiDAR encima del letrero de la galería",
+      "pt": "Na cidade enterrada, instale um scanner LiDAR no topo da placa da galeria",
+      "pl": "W Pogrzebanym Mieście zainstaluj skaner LiDAR na szczycie znaku Galleria",
+      "no": "I den begravde byen, installer en LiDAR-skanner på toppen av Galleria-skiltet",
+      "da": "I den begravede by, installer en LiDAR-scanner oven på Galleria-skiltet",
+      "it": "Nella città sepolta, installa uno scanner LiDAR in cima all'insegna della Galleria",
+      "uk": "У Похованому місті встановіть LiDAR сканер на вивісці Галереї",
+      "kr": "매장된 도시에서 갤러리아 간판 위에 LiDAR 스캐너 설치",
+      "ru": "В Погребённом городе установите LiDAR сканер на вывеске Галереи",
+      "zh-CN": "在埋没之城的购物中心招牌顶部安装LiDAR扫描仪",
+      "ja": "埋もれた街でガレリアの看板の上にLiDARスキャナーを設置する",
+      "tr": "Gömülü Şehir'de Galleria tabelasının üstüne bir LiDAR Tarayıcı kur",
+      "zh-TW": "在埋沒之城的購物中心招牌頂部安裝LiDAR掃描儀",
+      "sr": "U Zakopanom gradu, instalirajte LiDAR skener na vrhu natpisa Galleria",
+      "hr": "U Zakopanom gradu, instalirajte LiDAR skener na vrhu natpisa Galleria"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "zipline",
+      "quantity": 1
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "tagging_grenade",
+      "quantity": 3
+    },
+    {
+      "itemId": "vita_spray",
+      "quantity": 1
+    },
+    {
+      "itemId": "yellow_light_stick",
+      "quantity": 5
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10k"
+  ],
+  "nextQuestIds": [
+    "ss10x",
+    "ss10y"
+  ]
+}

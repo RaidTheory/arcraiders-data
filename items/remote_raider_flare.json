@@ -1,0 +1,59 @@
+{
+  "id": "remote_raider_flare",
+  "name": {
+    "en": "Remote Raider Flare",
+    "de": "Ferngesteuerte Raider-Leuchtrakete",
+    "fr": "Fusée éclairante télécommandée",
+    "es": "Bengala de asaltante remota",
+    "pt": "Sinalizador de invasor remoto",
+    "pl": "Zdalna flara najeźdźcy",
+    "no": "Fjernkontrollert raider-bluss",
+    "da": "Fjernbetjent raider-blus",
+    "it": "Razzo segnalatore predone remoto",
+    "ru": "Дистанционная сигнальная ракета рейдера",
+    "ja": "リモートレイダーフレア",
+    "zh-TW": "遠程掠奪者信號彈",
+    "uk": "Дистанційна сигнальна ракета рейдера",
+    "zh-CN": "远程掠夺者信号弹",
+    "kr": "원격 레이더 신호탄",
+    "tr": "Uzaktan Akıncı İşaret Fişeği",
+    "hr": "Daljinska Raider Raketa",
+    "sr": "Dalјinska Raider Raketa"
+  },
+  "description": {
+    "en": "A deployable device that, when manually triggered, launches a Raider Distress Flare.",
+    "de": "Ein einsetzbares Gerät, das bei manueller Auslösung eine Raider-Notleuchtrakete abfeuert.",
+    "fr": "Un appareil déployable qui lance une fusée de détresse de Raider.",
+    "es": "Un dispositivo desplegable que, al activarse manualmente, lanza una bengala de socorro de asaltante.",
+    "pt": "Um dispositivo implantável que, quando acionado manualmente, lança um sinalizador de socorro de invasor.",
+    "pl": "Urządzenie do rozmieszczenia, które po ręcznym uruchomieniu wystrzeliwuje flarę wzywającą najeźdźców.",
+    "no": "En utplasserbar enhet som, når den utløses manuelt, avfyrer et raider-nødbluss.",
+    "da": "En udplaceringsenhed, der, når den udløses manuelt, affyrer et raider-nødblus.",
+    "it": "Un dispositivo schierabile che, quando attivato manualmente, lancia un razzo di soccorso predone.",
+    "ru": "Устройство, которое при ручной активации запускает сигнальную ракету бедствия рейдера.",
+    "ja": "手動で起動すると、レイダー遭難フレアを発射する設置型デバイス。",
+    "zh-TW": "一個可部署的裝置，手動觸發時會發射掠奪者求救信號彈。",
+    "uk": "Пристрій, який при ручній активації запускає сигнальну ракету лиха рейдера.",
+    "zh-CN": "一个可部署的装置，手动触发时会发射掠夺者求救信号弹。",
+    "kr": "수동으로 작동시키면 레이더 조난 신호탄을 발사하는 배치 가능한 장치.",
+    "tr": "Manuel olarak tetiklendiğinde Akıncı Tehlike İşaret Fişeği fırlatılan konuşlandırılabilir bir cihaz.",
+    "hr": "Uređaj za postavljanje koji, kada se ručno aktivira, ispaljuje Raider raketu za pomoć.",
+    "sr": "Uređaj za postavljanje koji, kada se ručno aktivira, ispaljuje Raider raketu za pomoć."
+  },
+  "type": "Quick Use",
+  "rarity": "Common",
+  "value": 270,
+  "recyclesInto": {
+    "chemicals": 1,
+    "rubber_parts": 1
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/remote_raider_flare.png",
+  "weightKg": 0.2,
+  "stackSize": 3,
+  "updatedAt": "11/03/2025",
+  "recipe": {
+    "chemicals": 2,
+    "rubber_parts": 4
+  },
+  "craftBench": "utility_bench"
+}

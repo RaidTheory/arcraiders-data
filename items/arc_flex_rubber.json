@@ -1,0 +1,57 @@
+{
+  "id": "arc_flex_rubber",
+  "name": {
+    "en": "ARC Flex Rubber",
+    "de": "Arc-Flex-Gummi",
+    "fr": "Caoutchouc Arc Flex",
+    "es": "Goma Arc Flex",
+    "pt": "Borracha Arc Flex",
+    "pl": "Guma Arc Flex",
+    "no": "Arc Flex-gummi",
+    "da": "Arc Flex-gummi",
+    "it": "Gomma Arc Flex",
+    "ru": "Гибкая резина ARC",
+    "ja": "ARCフレックスラバー",
+    "zh-TW": "ARC彈性橡膠",
+    "uk": "Гнучка гума ARC",
+    "zh-CN": "ARC弹性橡胶",
+    "kr": "아크 플렉스 러버",
+    "tr": "Arc Esnek Kauçuk",
+    "hr": "ARC Fleksibilna Guma",
+    "sr": "ARC Fleksibilna Guma"
+  },
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmateriell.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "クラフト素材にリサイクルできる。",
+    "zh-TW": "可回收為製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可回收为制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "weightKg": 1.0,
+  "value": 1000,
+  "recyclesInto": {
+    "rubber_parts": 16
+  },
+  "salvagesInto": {
+    "rubber_parts": 9
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/arc_flex_rubber.png",
+  "stackSize": 3,
+  "foundIn": "ARC",
+  "updatedAt": "11/01/2025"
+}

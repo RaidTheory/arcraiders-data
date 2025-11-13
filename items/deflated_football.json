@@ -1,0 +1,56 @@
+{
+  "id": "deflated_football",
+  "name": {
+    "en": "Deflated Football",
+    "de": "Schlapper Fußball",
+    "fr": "Ballon de football dégonflé",
+    "es": "Balón de fútbol desinflado",
+    "pt": "Bola de futebol murcha",
+    "pl": "Spuszczona piłka nożna",
+    "no": "Punktert fotball",
+    "da": "Punkteret fodbold",
+    "it": "Pallone da calcio sgonfio",
+    "ru": "Сдувшийся футбольный мяч",
+    "ja": "空気の抜けたフットボール",
+    "zh-TW": "洩氣的足球",
+    "uk": "Здутий футбольний м'яч",
+    "zh-CN": "泄气的足球",
+    "kr": "바람 빠진 축구공",
+    "tr": "İnmiş Futbol Topu",
+    "hr": "Ispuhana Nogometna Lopta",
+    "sr": "Ispuhana Fudbalska Lopta"
+  },
+  "description": {
+    "en": "Just by looking at this, you too start to feel slightly deflated.",
+    "de": "Schon beim Anblick fühlt man sich selbst etwas platt.",
+    "fr": "Rien qu'en regardant cela, vous commencez vous aussi à vous sentir légèrement dégonflé.",
+    "es": "Solo con mirar esto, tú también empiezas a sentirte un poco desinflado.",
+    "pt": "Só de olhar para isso, você também começa a se sentir um pouco murcho.",
+    "pl": "Samo patrzenie na to sprawia, że ty też zaczynasz czuć się nieco spuszczony.",
+    "no": "Bare ved å se på dette, begynner du også å føle deg litt punktert.",
+    "da": "Bare ved at se på dette, begynder du også at føle dig lidt punkteret.",
+    "it": "Solo guardandolo, anche tu inizi a sentirti un po' sgonfio.",
+    "ru": "Просто глядя на это, вы тоже начинаете чувствовать себя немного сдувшимся.",
+    "ja": "これを見ているだけで、あなたも少し気が抜けてくる。",
+    "zh-TW": "光是看著它，你也開始感到有點洩氣。",
+    "uk": "Просто дивлячись на це, ви теж починаєте відчувати себе трохи здутим.",
+    "zh-CN": "光是看着它，你也开始感到有点泄气。",
+    "kr": "이것을 보는 것만으로도 당신도 약간 기운이 빠지기 시작합니다.",
+    "tr": "Buna bakmak bile sizi biraz içiniz sönük hissettirmeye başlıyor.",
+    "hr": "Samo gledajući ovo, i ti se počneš osjećati pomalo ispuhano.",
+    "sr": "Samo gledajući ovo, i ti se počneš osećati pomalo ispuhano."
+  },
+  "type": "Recyclable",
+  "recyclesInto": {
+    "rubber_parts": 15
+  },
+  "salvagesInto": {
+    "rubber_parts": 9
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/deflated_football.png",
+  "rarity": "Uncommon",
+  "weightKg": 0.8,
+  "stackSize": 3,
+  "foundIn": "Residential",
+  "updatedAt": "10/30/2025"
+}

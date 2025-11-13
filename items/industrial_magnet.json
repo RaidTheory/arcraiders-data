@@ -1,0 +1,58 @@
+{
+  "id": "industrial_magnet",
+  "name": {
+    "en": "Industrial Magnet",
+    "de": "Industriemagnet",
+    "fr": "Aimant Industriel",
+    "es": "Imán Industrial",
+    "pt": "Ímã Industrial",
+    "pl": "Magnes Przemysłowy",
+    "no": "Industriell Magnet",
+    "da": "Industriel Magnet",
+    "it": "Magnete Industriale",
+    "ru": "Промышленный магнит",
+    "ja": "産業用磁石",
+    "zh-TW": "工業磁鐵",
+    "uk": "Промисловий магніт",
+    "zh-CN": "工业磁铁",
+    "kr": "산업용 자석",
+    "tr": "Endüstriyel Mıknatıs",
+    "hr": "Industrijski magnet",
+    "sr": "Industrijski magnet"
+  },
+  "rarity": "Rare",
+  "type": "Recyclable",
+  "value": 1000,
+  "recyclesInto": {
+    "magnet": 2,
+    "metal_parts": 4
+  },
+  "salvagesInto": {
+    "magnet": 2
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "no": "Kan resirkuleres til håndverksmateriell.",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "ja": "製作素材にリサイクルできる。",
+    "zh-TW": "可以回收成製作材料。",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "zh-CN": "可以回收成制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "sr": "Može se reciklirati u materijale za izradu."
+  },
+  "weightKg": 2,
+  "foundIn": "Industrial",
+  "imageFilename": "https://cdn.arctracker.io/items/industrial_magnet.png",
+  "stackSize": 3,
+  "updatedAt": "10/30/2025"
+}

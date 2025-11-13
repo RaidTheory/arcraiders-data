@@ -1,0 +1,80 @@
+{
+  "id": "shotgun_choke_ii",
+  "name": {
+    "en": "Shotgun Choke II",
+    "de": "Schrotflinten-Choke II",
+    "fr": "Choke de fusil à pompe II",
+    "es": "Estrangulador de escopeta II",
+    "pt": "Afogador de espingarda II",
+    "pl": "Dławik do strzelby II",
+    "no": "Haglekveler II",
+    "da": "Haglgevær-choke II",
+    "it": "Strozzatore per fucile II",
+    "ru": "Дульное сужение II",
+    "ja": "ショットガンチョーク II",
+    "zh-TW": "霰彈槍收束器 II",
+    "uk": "Дульне звуження II",
+    "zh-CN": "霰弹枪收束器 II",
+    "kr": "산탄총 초크 II",
+    "tr": "Pompalı Tüfek Çoku II",
+    "hr": "Sačmarica čok II",
+    "sr": "Sačmarica čok II"
+  },
+  "description": {
+    "en": "Moderately reduces base dispersion. Compatible with: Il Toro, Vulcano",
+    "de": "Reduziert die Grundstreuung mäßig. Kompatibel mit: Il Toro, Vulcano",
+    "fr": "Réduit modérément la dispersion de base. Compatible avec : Il Toro, Vulcano",
+    "es": "Reduce moderadamente la dispersión base. Compatible con: Il Toro, Vulcano",
+    "pt": "Reduz moderadamente a dispersão base. Compatível com: Il Toro, Vulcano",
+    "pl": "Umiarkowanie redukuje podstawowy rozrzut. Kompatybilny z: Il Toro, Vulcano",
+    "no": "Reduserer grunnspredning moderat. Kompatibel med: Il Toro, Vulcano",
+    "da": "Reducerer grundspredning moderat. Kompatibel med: Il Toro, Vulcano",
+    "it": "Riduce moderatamente la dispersione base. Compatibile con: Il Toro, Vulcano",
+    "ru": "Умеренно снижает базовый разброс. Совместимо с: Il Toro, Vulcano",
+    "ja": "基本拡散を適度に減少させる。対応武器：Il Toro、Vulcano",
+    "zh-TW": "適度降低基礎散布。相容武器：Il Toro、Vulcano",
+    "uk": "Помірно зменшує базове розсіювання. Сумісно з: Il Toro, Vulcano",
+    "zh-CN": "适度降低基础散布。兼容武器：Il Toro、Vulcano",
+    "kr": "기본 분산을 적당히 감소시킵니다. 호환 무기: Il Toro, Vulcano",
+    "tr": "Temel dağılımı orta düzeyde azaltır. Uyumlu: Il Toro, Vulcano",
+    "hr": "Umjereno smanjuje osnovnu raspršenost. Kompatibilno s: Il Toro, Vulcano",
+    "sr": "Umereno smanjuje osnovnu raspršenost. Kompatibilno sa: Il Toro, Vulcano"
+  },
+  "type": "Modification",
+  "rarity": "Uncommon",
+  "value": 2000,
+  "weightKg": 0.5,
+  "recyclesInto": {
+    "mechanical_components": 1,
+    "wires": 1
+  },
+  "effects": {
+    "Reduced Base Dispersion": {
+      "en": "Reduced Base Dispersion",
+      "de": "Reduzierte Grundstreuung",
+      "fr": "Dispersion de base réduite",
+      "es": "Dispersión base reducida",
+      "pt": "Dispersão base reduzida",
+      "pl": "Zredukowany podstawowy rozrzut",
+      "no": "Redusert grunnspredning",
+      "da": "Reduceret grundspredning",
+      "it": "Dispersione base ridotta",
+      "ru": "Уменьшенный базовый разброс",
+      "ja": "基本拡散減少",
+      "zh-TW": "降低基礎散布",
+      "uk": "Зменшене базове розсіювання",
+      "zh-CN": "降低基础散布",
+      "kr": "기본 분산 감소",
+      "tr": "Azaltılmış Temel Dağılım",
+      "hr": "Smanjena osnovna raspršenost",
+      "sr": "Smanjena osnovna raspršenost",
+      "value": "20%"
+    }
+  },
+  "compatibleWith": [
+    "Il Toro",
+    "Vulcano"
+  ],
+  "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_ii.png",
+  "updatedAt": "11/05/2025"
+}

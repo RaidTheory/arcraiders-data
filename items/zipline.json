@@ -1,0 +1,59 @@
+{
+  "id": "zipline",
+  "name": {
+    "en": "Zipline",
+    "de": "Seilrutsche",
+    "fr": "Tyrolienne",
+    "es": "Tirolina",
+    "pt": "Tirolesa",
+    "pl": "Tyrolka",
+    "no": "Zipline",
+    "da": "Zipline",
+    "it": "Zipline",
+    "ru": "Тросовая дорога",
+    "ja": "ジップライン",
+    "zh-TW": "滑索",
+    "uk": "Тросова дорога",
+    "zh-CN": "滑索",
+    "kr": "집라인",
+    "tr": "Zipline",
+    "hr": "Užad",
+    "sr": "Užad"
+  },
+  "type": "Quick Use",
+  "rarity": "Rare",
+  "description": {
+    "en": "A deployable zipline that allows you to quickly move between two locations.",
+    "de": "Eine einsetzbare Seilrutsche, die es Ihnen ermöglicht, sich schnell zwischen zwei Orten zu bewegen.",
+    "fr": "Une tyrolienne déployable qui vous permet de vous déplacer rapidement entre deux emplacements.",
+    "es": "Una tirolina desplegable que te permite moverte rápidamente entre dos ubicaciones.",
+    "pt": "Uma tirolesa implantável que permite mover-se rapidamente entre dois locais.",
+    "pl": "Rozkładana tyrolka, która pozwala szybko przemieszczać się między dwoma lokalizacjami.",
+    "no": "En utplasserbar zipline som lar deg raskt bevege deg mellom to steder.",
+    "da": "En udrulbar zipline, der giver dig mulighed for hurtigt at bevæge dig mellem to steder.",
+    "it": "Una zipline dispiegabile che ti consente di muoverti rapidamente tra due posizioni.",
+    "ru": "Развертываемая тросовая дорога, позволяющая быстро перемещаться между двумя точками.",
+    "ja": "設置可能なジップライン。2地点間を素早く移動できる。",
+    "zh-TW": "可部署的滑索，讓你能快速在兩個地點間移動。",
+    "uk": "Тросова дорога, що дозволяє швидко переміщатися між двома точками.",
+    "zh-CN": "可部署的滑索，让你能快速在两个地点间移动。",
+    "kr": "두 지점 사이를 빠르게 이동할 수 있는 설치형 집라인입니다.",
+    "tr": "İki konum arasında hızlıca hareket etmenizi sağlayan konuşlandırılabilir bir zipline.",
+    "hr": "Postavljiva užad koja vam omogućuje brzo kretanje između dvije lokacije.",
+    "sr": "Postavljiva užad koja vam omogućava brzo kretanje između dve lokacije."
+  },
+  "rangeMeters": 60,
+  "weight": 0.4,
+  "value": 1000,
+  "imageFilename": "https://cdn.arctracker.io/items/zipline.png",
+  "updatedAt": "11/05/2025",
+  "recyclesInto": {
+    "rope": 1,
+    "metal_parts": 1
+  },
+  "craftBench": "utility_bench",
+  "craftMaterials": {
+    "rope": 1,
+    "mechanical_components": 1
+  }
+}

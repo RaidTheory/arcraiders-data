@@ -1,0 +1,124 @@
+{
+  "id": "ss10x3",
+  "updatedAt": "11/06/2025",
+  "name": {
+    "en": "The Root of the Matter",
+    "de": "Der Kern der Sache",
+    "fr": "Le cœur du problème",
+    "es": "La raíz del asunto",
+    "pt": "A raiz da questão",
+    "pl": "Sedno sprawy",
+    "no": "Roten til problemet",
+    "da": "Sagens kerne",
+    "it": "La radice del problema",
+    "zh-TW": "問題的根源",
+    "kr": "문제의 근원",
+    "hr": "Korijen problema",
+    "uk": "Корінь проблеми",
+    "ru": "Корень проблемы",
+    "tr": "Meselenin Özü",
+    "ja": "問題の根源",
+    "zh-CN": "问题的根源",
+    "sr": "Корен проблема"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "We're in luck. The notes you found last time were written by the lead researcher. When the project went under, it seems she took some of the seed samples and sealed them away in a secure location.",
+    "de": "Wir haben Glück. Die Notizen, die du letztes Mal gefunden hast, wurden von der leitenden Forscherin geschrieben. Als das Projekt scheiterte, scheint sie einige der Samenproben genommen und an einem sicheren Ort versiegelt zu haben.",
+    "fr": "Nous avons de la chance. Les notes que tu as trouvées la dernière fois ont été écrites par la chercheuse principale. Quand le projet a coulé, il semble qu'elle ait pris certains des échantillons de graines et les ait scellés dans un endroit sûr.",
+    "es": "Tenemos suerte. Las notas que encontraste la última vez fueron escritas por la investigadora principal. Cuando el proyecto se hundió, parece que tomó algunas de las muestras de semillas y las selló en un lugar seguro.",
+    "pt": "Temos sorte. As notas que encontraste da última vez foram escritas pela investigadora principal. Quando o projeto foi abaixo, parece que ela levou algumas das amostras de sementes e selou-as num local seguro.",
+    "pl": "Mamy szczęście. Notatki, które znalazłeś ostatnim razem, zostały napisane przez główną badaczkę. Kiedy projekt upadł, wygląda na to, że zabrała część próbek nasion i zapieczętowała je w bezpiecznym miejscu.",
+    "no": "Vi har flaks. Notatene du fant sist gang ble skrevet av hovedforskeren. Da prosjektet gikk under, ser det ut til at hun tok noen av frøprøvene og forseglet dem på et sikkert sted.",
+    "da": "Vi er heldige. Noterne du fandt sidst blev skrevet af hovedforskeren. Da projektet gik under, ser det ud til, at hun tog nogle af frøprøverne og forseglede dem på et sikkert sted.",
+    "it": "Siamo fortunati. Le note che hai trovato l'ultima volta sono state scritte dalla ricercatrice principale. Quando il progetto è andato a rotoli, sembra che abbia preso alcuni campioni di semi e li abbia sigillati in un luogo sicuro.",
+    "zh-TW": "我們很幸運。你上次找到的筆記是首席研究員寫的。當專案終止時，她似乎帶走了一些種子樣本，並將它們封存在一個安全的地方。",
+    "kr": "운이 좋군요. 지난번에 찾은 메모는 수석 연구원이 작성한 것입니다. 프로젝트가 중단되었을 때, 그녀는 일부 종자 샘플을 가져가 안전한 장소에 봉인한 것 같습니다.",
+    "hr": "Imamo sreće. Bilješke koje ste pronašli prošli put napisala je glavna istraživačica. Kada je projekt propao, čini se da je uzela neke uzorke sjemena i zapečatila ih na sigurnom mjestu.",
+    "uk": "Нам пощастило. Записи, які ви знайшли минулого разу, були написані головним дослідником. Коли проект закрили, схоже, вона взяла деякі зразки насіння і запечатала їх у безпечному місці.",
+    "ru": "Нам повезло. Записи, которые вы нашли в прошлый раз, были написаны главным исследователем. Когда проект закрыли, похоже, она взяла несколько образцов семян и запечатала их в безопасном месте.",
+    "tr": "Şanslıyız. Geçen sefer bulduğunuz notlar baş araştırmacı tarafından yazılmış. Proje iptal edildiğinde, tohum örneklerinden bazılarını alıp güvenli bir yere mühürlemiş gibi görünüyor.",
+    "ja": "運が良かった。前回見つけたメモは主任研究員が書いたものだ。プロジェクトが中止になったとき、彼女は種子サンプルのいくつかを持ち出し、安全な場所に封印したようだ。",
+    "zh-CN": "我们很幸运。你上次找到的笔记是首席研究员写的。当项目终止时，她似乎带走了一些种子样本，并将它们封存在一个安全的地方。",
+    "sr": "Имамо среће. Белешке које сте пронашли прошли put написала је главна истраживачица. Када је пројекат пропао, изгледа да је узела неке узорке семена и запечатила их на сигурном месту."
+  },
+  "objectives": [
+    {
+      "en": "Go to the Research Building",
+      "de": "Gehe zum Forschungsgebäude",
+      "fr": "Aller au Bâtiment de Recherche",
+      "es": "Ve al Edificio de Investigación",
+      "pt": "Vai ao Edifício de Investigação",
+      "pl": "Udaj się do Budynku Badawczego",
+      "no": "Gå til Forskningsbygningen",
+      "da": "Gå til Forskningsbygningen",
+      "it": "Vai all'Edificio di Ricerca",
+      "zh-TW": "前往研究大樓",
+      "kr": "연구동으로 가기",
+      "hr": "Idite do Istraživačke zgrade",
+      "uk": "Йдіть до Дослідницької будівлі",
+      "ru": "Отправляйтесь в Исследовательское здание",
+      "tr": "Araştırma Binasına git",
+      "ja": "研究棟に向かう",
+      "zh-CN": "前往研究大楼",
+      "sr": "Идите до Истраживачке зграде"
+    },
+    {
+      "en": "Search for the seed vault in the \"room with a great view\"",
+      "de": "Suche nach dem Saatguttresor im \"Raum mit toller Aussicht\"",
+      "fr": "Chercher la chambre forte des graines dans la \"pièce avec une belle vue\"",
+      "es": "Busca la bóveda de semillas en la \"habitación con una gran vista\"",
+      "pt": "Procura o cofre de sementes na \"sala com uma ótima vista\"",
+      "pl": "Poszukaj skarbca nasion w \"pokoju ze wspaniałym widokiem\"",
+      "no": "Søk etter frøhvelvet i \"rommet med flott utsikt\"",
+      "da": "Søg efter frøhvælvingen i \"rummet med en fantastisk udsigt\"",
+      "it": "Cerca il caveau dei semi nella \"stanza con una bella vista\"",
+      "zh-TW": "在「景觀絕佳的房間」中尋找種子庫",
+      "kr": "\"멋진 전망이 있는 방\"에서 종자 보관소 찾기",
+      "hr": "Potražite trezor sa sjemenom u \"sobi s prekrasnim pogledom\"",
+      "uk": "Шукайте сховище насіння в \"кімнаті з чудовим виглядом\"",
+      "ru": "Ищите хранилище семян в \"комнате с прекрасным видом\"",
+      "tr": "\"Harika manzaralı odada\" tohum kasasını ara",
+      "ja": "「素晴らしい景色の部屋」で種子保管庫を探す",
+      "zh-CN": "在「景观绝佳的房间」中寻找种子库",
+      "sr": "Потражите трезор са семеном у \"соби са прелепим погледом\""
+    },
+    {
+      "en": "Deliver the Experimental Seed Sample to Celeste",
+      "de": "Liefere die experimentelle Samenprobe an Celeste",
+      "fr": "Livre l'échantillon de graines expérimental à Celeste",
+      "es": "Entrega la muestra de semillas experimental a Celeste",
+      "pt": "Entrega a amostra de sementes experimental a Celeste",
+      "pl": "Dostarcz eksperymentalną próbkę nasion do Celeste",
+      "no": "Lever den eksperimentelle frøprøven til Celeste",
+      "da": "Lever den eksperimentelle frøprøve til Celeste",
+      "it": "Consegna il campione di semi sperimentale a Celeste",
+      "zh-TW": "將實驗種子樣本交給塞萊斯特",
+      "kr": "실험용 종자 샘플을 셀레스트에게 전달하세요",
+      "hr": "Dostavite eksperimentalni uzorak sjemena Celeste",
+      "uk": "Доставте експериментальний зразок насіння Селесті",
+      "ru": "Доставьте экспериментальный образец семян Селесте",
+      "tr": "Deneysel Tohum Örneğini Celeste'e teslim et",
+      "ja": "実験用種子サンプルをセレステに届ける",
+      "zh-CN": "将实验种子样本交给塞莱斯特",
+      "sr": "Доставите експериментални узорак семена Celeste"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "succulent",
+      "quantity": 1
+    },
+    {
+      "itemId": "coins",
+      "quantity": 1000
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "ss10x2"
+  ],
+  "nextQuestIds": [
+    "ss10x4"
+  ]
+}
