@@ -1,0 +1,42 @@
+[
+    {
+        "id": "dam_battlegrounds",
+        "name": {
+            "en": "Dam Battlegrounds",
+            "de": "Damm Schlachtfelder"
+        },
+        "image": "https://cdn.arctracker.io/maps/dam_battlegrounds.png"
+    },
+    {
+        "id": "the_spaceport",
+        "name": {
+            "en": "The Spaceport",
+            "de": "Der Raumnhafen"
+        },
+        "image": "https://cdn.arctracker.io/maps/the_spaceport.png"
+    },
+        {
+        "id": "buried_city",
+        "name": {
+            "en": "Buried City",
+            "de": "Vergrabene Stadt"
+        },
+        "image": "https://cdn.arctracker.io/maps/buried_city.png"
+    },
+        {
+        "id": "the_blue_gate",
+        "name": {
+            "en": "The Blue Gate",
+            "de": "Das blaue Tor"
+        },
+        "image": "https://cdn.arctracker.io/maps/the_blue_gate.png"
+    },
+        {
+        "id": "stella_montis",
+        "name": {
+            "en": "Stella Montis",
+            "de": "Stella Montis"
+        },
+        "image": "https://cdn.arctracker.io/maps/stella_montis.png"
+    }
+]
