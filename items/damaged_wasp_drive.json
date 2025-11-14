@@ -1,0 +1,12 @@
+{
+  "id": "damaged_wasp_drive",
+  "name": "Damaged Wasp Drive",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Common",
+  "weightKg": 0.25,
+  "stackSize": 3,
+  "foundIn": "ARC",
+  "imageFilename": "https://cdn.arctracker.io/items/damaged_wasp_drive.png",
+  "updatedAt": "11/04/2025"
+}

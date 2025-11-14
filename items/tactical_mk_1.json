@@ -1,0 +1,15 @@
+{
+  "id": "tactical_mk_1",
+  "name": "Tactical Mk. 1",
+  "description": "Basic tactical augment. More Quick Use slots for more tactical choice, but limited survivability and slightly lower looting potential.",
+  "type": "Augment",
+  "rarity": "Uncommon",
+  "value": 128,
+  "weightKg": 0.4,
+  "effects": {
+    "Durability": 100,
+    "Max Loadout Weight": 4,
+    "Shield Compatibility": "Light, Medium"
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/tactical_mk_1.png"
+}

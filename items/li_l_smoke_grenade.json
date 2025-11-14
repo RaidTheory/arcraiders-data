@@ -1,0 +1,15 @@
+{
+  "id": "li_l_smoke_grenade",
+  "name": "Li'l Smoke Grenade",
+  "description": "A grenade that pops a thick but small smoke cloud on impact, blocking visibility from ARC and other Raiders.",
+  "type": "Quick Use",
+  "rarity": "Common",
+  "value": 1,
+  "weightKg": 0.15,
+  "stackSize": 5,
+  "effects": {
+    "Duration": "5s",
+    "Radius": "2m"
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/li_l_smoke_grenade.png"
+}
