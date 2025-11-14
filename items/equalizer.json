@@ -144,11 +144,11 @@
   "craftBench": "weapon_bench",
   "stationLevelRequired": 3,
   "blueprintLocked": true,
-  "recycledMaterial": {
+  "recyclesInto": {
     "magnetic_accelerator": 2,
     "complex_gun_parts": 1
   },
-  "salvagedMaterial": {
+  "salvagesInto": {
     "magnetic_accelerator": 1
   },
   "repairCost": {

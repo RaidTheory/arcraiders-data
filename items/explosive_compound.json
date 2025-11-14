@@ -52,5 +52,8 @@
     "crude_explosives": 2,
     "oil": 2
   },
+  "recyclesInto": {
+    "chemicals": 2
+  },
   "craftBench": "refiner"
 }

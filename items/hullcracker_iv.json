@@ -155,7 +155,7 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
-  "recycledMaterial": {
+  "recyclesInto": {
     "advanced_mechanical_components": 4,
     "heavy_gun_parts": 5
   },

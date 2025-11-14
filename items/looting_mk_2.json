@@ -1,0 +1,15 @@
+{
+  "id": "looting_mk_2",
+  "name": "Looting Mk. 2",
+  "description": "Significantly increases looting potential; adds slots for trinkets. Automatically throws off attached Ticks after 1s.",
+  "type": "Augment",
+  "rarity": "Rare",
+  "effects": {
+    "Durability": "100/100",
+    "Max Loadout Weight": 60.0,
+    "Shield Compatibility": "Light"
+  },
+  "weightKg": 1.0,
+  "value": 1000,
+  "imageFilename": "https://cdn.arctracker.io/items/looting_mk_2.png"
+}
