@@ -1,23 +1,6 @@
 [
   {
-    "id": "arc_surveyor",
-    "name": "ARC SURVEYOR",
-    "image": "https://cdn.arctracker.io/bots/arc_surveyor.png",
-    "type": "Reconnaissance",
-    "threat": "Low",
-    "description": "The largest of the rolling ARC. It stops periodically to transmit signals. Rarely attacks, usually runs away from Raiders. Breaks into many pieces as damage is taken.",
-    "destroyXp": 200,
-    "lootXp": 300,
-    "drops": [
-      "arc_alloy",
-      "arc_powercell",
-      "arc_motion_core",
-      "arc_circuitry",
-      "surveyor_vault"
-    ]
-  },
-  {
-    "id": "bastion",
+    "id": "arc_bastion",
     "name": "BASTION",
     "image": "https://cdn.arctracker.io/bots/arc_bastion.png",
     "type": "Heavy Assault",
@@ -34,9 +17,9 @@
     ]
   },
   {
-    "id": "bombardier",
+    "id": "arc_bombardier",
     "name": "BOMBARDIER",
-    "image": "https://cdn.arctracker.io/bots/bombardier.png",
+    "image": "https://cdn.arctracker.io/bots/arc_bombardier.png",
     "type": "Heavy Artillery",
     "threat": "Critical",
     "description": "A massive artillery unit designed for long-range bombardment. Equipped with devastating explosive capabilities and heavy armor, it can rain destruction from great distances.",
@@ -50,7 +33,7 @@
     ]
   },
   {
-    "id": "fireball",
+    "id": "arc_fireball",
     "name": "FIREBALL",
     "image": "https://cdn.arctracker.io/bots/arc_fireball.png",
     "type": "Area Denial",
@@ -65,9 +48,9 @@
     ]
   },
   {
-    "id": "hornet",
+    "id": "arc_hornet",
     "name": "HORNET",
-    "image": "https://cdn.arctracker.io/bots/hornet.png",
+    "image": "https://cdn.arctracker.io/bots/arc_hornet.png",
     "type": "Medium Drone",
     "threat": "High",
     "description": "Medium-class drone with armored rotors. It fires focused, high-speed projectiles with a brief red laser warning. Designed to shred shields and light armor.",
@@ -82,7 +65,7 @@
     ]
   },
   {
-    "id": "leaper",
+    "id": "arc_leaper",
     "name": "LEAPER",
     "image": "https://cdn.arctracker.io/bots/arc_bison.png",
     "type": "Siege Engine",
@@ -100,7 +83,27 @@
     ]
   },
   {
-    "id": "pop",
+    "id": "arc_matriarch",
+    "name": "MATRIARCH",
+    "image": "https://cdn.arctracker.io/bots/arc_matriarch.png",
+    "type": "Boss",
+    "threat": "Extreme",
+    "description": "The Matriarch is an imposing ARC machine that makes the Queen look friendly and can be found during a specific map condition.",
+    "destroyXp": 1000,
+    "lootXp": 500,
+    "drops": [
+      "arc_alloy",
+      "arc_circuitry",
+      "arc_performance_steel",
+      "advanced_arc_powercell",
+      "arc_flex_rubber",
+      "arc_synthetic_resin",
+      "magnetic_accelerator",
+      "matriarch_reactor"
+    ]
+  },
+  {
+    "id": "arc_pop",
     "name": "POP",
     "image": "https://cdn.arctracker.io/bots/arc_pop.png",
     "type": "Explosive",
@@ -117,7 +120,7 @@
     ]
   },
   {
-    "id": "rocketeer",
+    "id": "arc_rocketeer",
     "name": "ROCKETEER",
     "image": "https://cdn.arctracker.io/bots/arc_rocketeer.png",
     "type": "Flying Artillery",
@@ -137,7 +140,7 @@
     ]
   },
   {
-    "id": "sentinel",
+    "id": "arc_sentinel",
     "name": "SENTINEL",
     "image": "https://cdn.arctracker.io/bots/arc_sentinel.png",
     "type": "Sniper Turret",
@@ -157,9 +160,22 @@
     ]
   },
   {
-    "id": "snitch",
+    "id": "arc_shredder",
+    "name": "SHREDDER",
+    "image": "https://cdn.arctracker.io/bots/arc_shredder.png",
+    "type": "",
+    "threat": "High",
+    "description": "The Shredder will first appear in Stella Montis, challenging Raiders to stay sharp in close-quarter encounters.",
+    "destroyXp": 0,
+    "lootXp": 0,
+    "drops": [
+      ""
+    ]
+  },	
+  {
+    "id": "arc_snitch",
     "name": "SNITCH",
-    "image": "https://cdn.arctracker.io/bots/snitch.png",
+    "image": "https://cdn.arctracker.io/bots/arc_snitch.png",
     "type": "Scout Drone",
     "threat": "Moderate",
     "description": "A swift, unarmored scout drone with three rotors. While fragile, it acts as an aerial alarm system, calling in reinforcements when it spots Raiders.",
@@ -174,7 +190,7 @@
     ]
   },
   {
-    "id": "spotter",
+    "id": "arc_spotter",
     "name": "SPOTTER",
     "image": "https://cdn.arctracker.io/bots/arc_spotter.png",
     "type": "Scout Drone",
@@ -190,7 +206,24 @@
     ]
   },
   {
-    "id": "the_queen",
+    "id": "arc_surveyor",
+    "name": "SURVEYOR",
+    "image": "https://cdn.arctracker.io/bots/arc_surveyor.png",
+    "type": "Reconnaissance",
+    "threat": "Low",
+    "description": "The largest of the rolling ARC. It stops periodically to transmit signals. Rarely attacks, usually runs away from Raiders. Breaks into many pieces as damage is taken.",
+    "destroyXp": 200,
+    "lootXp": 300,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "surveyor_vault"
+    ]
+  },
+  {
+    "id": "arc_the_queen",
     "name": "THE QUEEN",
     "image": "https://cdn.arctracker.io/bots/arc_the_queen.png",
     "type": "Boss",
@@ -216,9 +249,9 @@
     ]
   },
   {
-    "id": "tick",
+    "id": "arc_tick",
     "name": "TICK",
-    "image": "https://cdn.arctracker.io/bots/tick.png",
+    "image": "https://cdn.arctracker.io/bots/arc_tick.png",
     "type": "Ambush Predator",
     "threat": "Moderate",
     "description": "Small, spider-like robots that leap onto players, attaching themselves to your head. They're fast and disorienting, designed to punish careless Raiders.",
@@ -230,7 +263,7 @@
     ]
   },
   {
-    "id": "turret",
+    "id": "arc_turret",
     "name": "TURRET",
     "image": "https://cdn.arctracker.io/bots/arc_turret.png",
     "type": "Defense System",
@@ -245,7 +278,7 @@
     ]
   },
   {
-    "id": "wasp",
+    "id": "arc_wasp",
     "name": "WASP",
     "image": "https://cdn.arctracker.io/bots/arc_wasp.png",
     "type": "Flying Drone",
