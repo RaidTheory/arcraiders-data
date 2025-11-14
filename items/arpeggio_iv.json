@@ -199,5 +199,9 @@
   "upgradeCost": {
     "mechanical_components": 5,
     "medium_gun_parts": 1
+  },
+  "recyclesInto": {
+    "mechanical_components": 5,
+    "simple_gun_parts": 5
   }
 }

@@ -132,6 +132,10 @@
       "value": "Light, Medium, Heavy"
     }
   },
+  "recyclesInto": {
+    "magnet": 1,
+    "electrical_components": 1
+  },
   "recipe": {
     "electrical_components": 2,
     "magnet": 3

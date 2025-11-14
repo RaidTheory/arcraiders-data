@@ -49,5 +49,8 @@
     "speaker_component": 1,
     "electrical_components": 1
   },
-  "craftBench": "utility_bench"
+  "craftBench": "utility_bench",
+  "recyclesInto": {
+    "speaker_component": 1
+  }
 }

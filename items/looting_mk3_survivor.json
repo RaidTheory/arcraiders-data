@@ -110,6 +110,10 @@
   "value": 5000,
   "weightKg": 4.0,
   "stackSize": 1,
+  "recyclesInto": {
+    "advanced_electrical_components": 1,
+    "processor": 1
+  },
   "craftBench": "equipment_bench",
   "recipe": {
     "advanced_mechanical_components": 2,

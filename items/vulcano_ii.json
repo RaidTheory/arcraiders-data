@@ -61,6 +61,10 @@
   "value": 13000,
   "weightKg": 9.25,
   "stackSize": 1,
+  "recyclesInto": {
+    "advanced_mechanical_components": 2,
+    "heavy_gun_parts": 3
+  },
   "effects": {
     "Durability": {
       "en": "Durability",

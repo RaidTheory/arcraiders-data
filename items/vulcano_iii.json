@@ -44,6 +44,10 @@
   "rarity": "Epic",
   "value": 17000,
   "weightKg": 8.0,
+  "recyclesInto": {
+    "advanced_mechanical_components": 3,
+    "heavy_gun_parts": 4
+  },
   "effects": {
     "Durability": {
       "en": "Durability",

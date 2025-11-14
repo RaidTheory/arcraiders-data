@@ -111,6 +111,10 @@
     }
   },
   "weightKg": 2.0,
+  "recyclesInto": {
+    "advanced_electrical_components": 1,
+    "processor": 1
+  },
   "recipe": {
     "electrical_components": 2,
     "magnet": 3

@@ -1,0 +1,19 @@
+{
+  "name": "Extended Barrel",
+  "description": "Moderately increases bullet velocity. Compatible with: Tempest, Arpeggio, Ferro, Renegade, Anvil",
+  "id": "extended_barrel",
+  "type": "Modification",
+  "value": 5000,
+  "rarity": "Epic",
+  "weightKg": 0.5,
+  "effects": {
+    "Increased Bullet Velocity": "25%",
+    "Increased Vertical Recoil": "15%"
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/extended_barrel.png",
+  "updatedAt": "11/14/2025",
+  "recyclesInto": {
+    "mod_components": 1,
+    "wires": 1
+  }
+}
