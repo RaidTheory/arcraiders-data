@@ -96,7 +96,7 @@
         "image": "https://cdn.arctracker.io/maps/the_blue_gate.png"
     },
         {
-        "id": "stella_montis",
+        "id": "stella_montis_upper",
         "name": {
             "en": "Stella Montis",
             "de": "Stella Montis",
@@ -117,6 +117,30 @@
             "hr": "planinska_zvijezda",
             "sr": "планинска_звезда"
         },
-        "image": "https://cdn.arctracker.io/maps/stella_montis.png"
+        "image": "https://cdn.arctracker.io/maps/stella_montis_upper.png"
+    },
+            {
+        "id": "stella_montis_lower",
+        "name": {
+            "en": "Stella Montis",
+            "de": "Stella Montis",
+            "fr": "étoile_de_la_montagne",
+            "es": "estrella_de_la_montaña",
+            "pt": "estrela_da_montanha",
+            "pl": "gwiazda_góry",
+            "no": "fjellstjerne",
+            "da": "bjergstjerne",
+            "it": "stella_della_montagna",
+            "ru": "звезда_горы",
+            "ja": "山の星",
+            "zh-TW": "山之星",
+            "uk": "зірка_гори",
+            "zh-CN": "山之星",
+            "kr": "산의_별",
+            "tr": "dağ_yıldızı",
+            "hr": "planinska_zvijezda",
+            "sr": "планинска_звезда"
+        },
+        "image": "https://cdn.arctracker.io/maps/stella_montis_lower.png"
     }
 ]

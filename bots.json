@@ -266,11 +266,18 @@
     "image": "https://cdn.arctracker.io/bots/arc_matriarch.png",
     "type": "Big Spider King",
     "threat": "Extreme",
-    "description": "Big walking Spider with heavy armour and weaponary. Makes the queen look friendly.",
+    "description": "Big walking Spider with heavy armour and energy shield. Can shoot gas grenades. Can call in  Fireball, Wasp, Leaper, Bastion, Bombardier and Rocketeer. Makes the queen look friendly.",
     "destroyXp": 0,
     "lootXp": 0,
     "drops": [
-      "no information"
+      "ARC Alloy",
+      "ARC Circuitry",
+      "ARC Performance Steel",
+      "Advanced ARC Powercell",
+      "ARC Flex Rubber",
+      "ARC Synthetic Resin",
+      "Magnetic Accelerator",
+      "Matriarch Reactor"
     ]
   }, 
 {
@@ -279,11 +286,13 @@
     "image": "https://cdn.arctracker.io/bots/arc_shredder.png",
     "type": "Close quaters predator",
     "threat": "High",
-    "description": "Close quarter enemy with high damage. Only found on Stella Montis.",
+    "description": "Close quarter enemy with high damage. Shoots 4 bursts. Only found on Stella Montis.",
     "destroyXp": 0,
     "lootXp": 0,
     "drops": [
-      "no information"
+      "ARC Alloy",
+      "ARC Gyroscope",
+      "Shotgun Ammo"
     ]
   }
 ]
