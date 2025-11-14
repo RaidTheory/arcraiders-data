@@ -45,11 +45,11 @@
   "weight": 10.0,
   "stackSize": 1,
   "value": 13000,
-  "recycledMaterial": {
+  "recyclesInto": {
     "power_rod": 1,
     "magnetic_accelerator": 1
   },
-  "salvagedMaterial": {
+  "salvagesInto": {
     "power_rod": 1
   },
   "sources": [
