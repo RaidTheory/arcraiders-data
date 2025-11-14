@@ -169,11 +169,11 @@
     "magnetic_accelerator": 2,
     "complex_gun_parts": 1
   },
-  "recycledMaterial": {
+  "recyclesInto": {
     "magnetic_accelerator": 2,
     "complex_gun_parts": 1
   },
-  "salvagedMaterial": {
+  "salvagesInto": {
     "advanced_mechanical_components": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/jupiter.png",

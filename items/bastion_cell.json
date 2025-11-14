@@ -27,6 +27,9 @@
     "arc_alloy": 2,
     "advanced_mechanical_components": 2
   },
+  "salvagesInto": {
+    "advanced_mechanical_components": 2
+  },
   "description": {
     "en": "Can be recycled into crafting materials.",
     "de": "Kann zu Handwerksmaterialien recycelt werden.",
