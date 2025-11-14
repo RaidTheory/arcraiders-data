@@ -151,6 +151,10 @@
       "value": "Weak"
     }
   },
+  "recyclesInto": {
+    "mechanical_components": 2,
+    "simple_gun_parts": 2
+  },
   "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
   "updatedAt": "11/12/2025",
   "recipe": {

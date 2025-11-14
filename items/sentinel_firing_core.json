@@ -23,9 +23,14 @@
   "rarity": "Rare",
   "type": "Recyclable",
   "value": 3000,
+  "weightKg": 1.0,
+  "stackSize": 3,
   "recyclesInto": {
     "arc_alloy": 2,
     "mechanical_components": 3
+  },
+  "salvagesInto": {
+    "mechanical_components": 2
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
