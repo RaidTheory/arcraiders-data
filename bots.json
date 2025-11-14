@@ -270,14 +270,14 @@
     "destroyXp": 0,
     "lootXp": 0,
     "drops": [
-      "ARC Alloy",
-      "ARC Circuitry",
-      "ARC Performance Steel",
-      "Advanced ARC Powercell",
-      "ARC Flex Rubber",
-      "ARC Synthetic Resin",
-      "Magnetic Accelerator",
-      "Matriarch Reactor"
+      "arc_Alloy",
+      "arc_Circuitry",
+      "arc_Performance Steel",
+      "advanced_arc_powercell",
+      "arc_flex_rubber",
+      "arc_synthetic_resin",
+      "magnetic_accelerator",
+      "matriarch_reactor"
     ]
   }, 
 {
@@ -290,9 +290,9 @@
     "destroyXp": 0,
     "lootXp": 0,
     "drops": [
-      "ARC Alloy",
-      "ARC Gyroscope",
-      "Shotgun Ammo"
+      "arc_alloy",
+      "arc_gyroscope",
+      "shotgun_ammo"
     ]
   }
 ]
