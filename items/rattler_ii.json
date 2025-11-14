@@ -133,10 +133,10 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
-  "recycledMaterial": {
+  "recyclesInto": {
     "metal_parts": 12
   },
-  "salvagedMaterial": {
+  "salvagesInto": {
     "metal_parts": 8
   },
   "description": {
