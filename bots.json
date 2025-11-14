@@ -36,7 +36,7 @@
   {
     "id": "bombardier",
     "name": "BOMBARDIER",
-    "image": "https://cdn.arctracker.io/bots/bombardier.png",
+    "image": "https://cdn.arctracker.io/bots/arc_bombardier.png",
     "type": "Heavy Artillery",
     "threat": "Critical",
     "description": "A massive artillery unit designed for long-range bombardment. Equipped with devastating explosive capabilities and heavy armor, it can rain destruction from great distances.",
@@ -67,7 +67,7 @@
   {
     "id": "hornet",
     "name": "HORNET",
-    "image": "https://cdn.arctracker.io/bots/hornet.png",
+    "image": "https://cdn.arctracker.io/bots/arc_hornet.png",
     "type": "Medium Drone",
     "threat": "High",
     "description": "Medium-class drone with armored rotors. It fires focused, high-speed projectiles with a brief red laser warning. Designed to shred shields and light armor.",
@@ -159,7 +159,7 @@
   {
     "id": "snitch",
     "name": "SNITCH",
-    "image": "https://cdn.arctracker.io/bots/snitch.png",
+    "image": "https://cdn.arctracker.io/bots/arc_snitch.png",
     "type": "Scout Drone",
     "threat": "Moderate",
     "description": "A swift, unarmored scout drone with three rotors. While fragile, it acts as an aerial alarm system, calling in reinforcements when it spots Raiders.",
@@ -218,7 +218,7 @@
   {
     "id": "tick",
     "name": "TICK",
-    "image": "https://cdn.arctracker.io/bots/tick.png",
+    "image": "https://cdn.arctracker.io/bots/arc_tick.png",
     "type": "Ambush Predator",
     "threat": "Moderate",
     "description": "Small, spider-like robots that leap onto players, attaching themselves to your head. They're fast and disorienting, designed to punish careless Raiders.",
@@ -258,6 +258,41 @@
       "arc_powercell",
       "wasp_driver",
       "light_ammo"
+    ]
+  }, 
+{
+    "id": "matriarch",
+    "name": "MATRIARCH",
+    "image": "https://cdn.arctracker.io/bots/arc_matriarch.png",
+    "type": "Big Spider King",
+    "threat": "Extreme",
+    "description": "Big walking Spider with heavy armour and energy shield. Can shoot gas grenades. Can call in  Fireball, Wasp, Leaper, Bastion, Bombardier and Rocketeer. Makes the queen look friendly.",
+    "destroyXp": 0,
+    "lootXp": 0,
+    "drops": [
+      "arc_alloy",
+      "arc_circuitry",
+      "arc_performance_steel",
+      "advanced_arc_powercell",
+      "arc_flex_rubber",
+      "arc_synthetic_resin",
+      "magnetic_accelerator",
+      "matriarch_reactor"
+    ]
+  }, 
+{
+    "id": "shredder",
+    "name": "SHREDDER",
+    "image": "https://cdn.arctracker.io/bots/arc_shredder.png",
+    "type": "Close quaters predator",
+    "threat": "High",
+    "description": "Close quarter enemy with high damage. Shoots 4 bursts. Only found on Stella Montis.",
+    "destroyXp": 0,
+    "lootXp": 0,
+    "drops": [
+      "arc_alloy",
+      "arc_gyroscope",
+      "shotgun_ammo"
     ]
   }
 ]
