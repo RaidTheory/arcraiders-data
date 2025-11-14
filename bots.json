@@ -163,13 +163,16 @@
     "id": "arc_shredder",
     "name": "SHREDDER",
     "image": "https://cdn.arctracker.io/bots/arc_shredder.png",
-    "type": "",
+    "type": "Area Denial",
     "threat": "High",
-    "description": "The Shredder will first appear in Stella Montis, challenging Raiders to stay sharp in close-quarter encounters.",
+    "description": "The Shredder appears in Stella Montis, challenging Raiders to stay sharp in close-quarter encounters.",
     "destroyXp": 0,
     "lootXp": 0,
     "drops": [
-      ""
+      "arc_alloy",
+      "arc_powercel",
+      "shredder_gyro",
+      "shotgun_ammo"
     ]
   },	
   {
