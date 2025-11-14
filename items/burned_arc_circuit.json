@@ -1,0 +1,11 @@
+{
+  "id": "burned_arc_circuit",
+  "name": "Burned Arc Circuit",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "weightKg": 1.0,
+  "foundIn": "Arc",
+  "imageFilename": "https://cdn.arctracker.io/items/burned_arc_circuit.png",
+  "updatedAt": "11/04/2025"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tactical_mk_3_healing",
+  "name": "Tactical Mk. 3 (Healing)",
+  "description": "A healing-focused augment which adds extra slots for healing items. When revived from being downed, releases a healing cloud that restores 20 health over 10 seconds. Has a 30-second cooldown.",
+  "type": "Augment",
+  "rarity": "Epic",
+  "effects": {
+    "Durability": "100/100",
+    "Max Loadout Weight": 55.0,
+    "Shield Compatibility": "Light, Medium"
+  },
+  "weightKg": 4.0,
+  "value": 5000,
+  "imageFilename": "https://cdn.arctracker.io/items/tactical_mk_3_healing.png"
+}
