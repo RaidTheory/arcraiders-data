@@ -111,7 +111,7 @@
   },
   {
     "trader": "Celeste",
-    "itemId": "processors",
+    "itemId": "processor",
     "quantity": 1,
     "cost": {
       "itemId": "assorted_seeds",
@@ -581,7 +581,7 @@
   },
   {
     "trader": "Apollo",
-    "itemId": "orange_light_stick",
+    "itemId": "red_light_stick",
     "quantity": 1,
     "cost": {
       "itemId": "coins",
