@@ -22,10 +22,10 @@
   },
   "rarity": "Rare",
   "type": "Recyclable",
-  "value": 640,
+  "value": 1000,
   "recyclesInto": {
     "rubber_parts": 3,
-    "battery": 5
+    "battery": 3
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -49,5 +49,5 @@
   },
   "foundIn": "Medical",
   "imageFilename": "https://cdn.arctracker.io/items/cracked_bioscanner.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/14/2025"
 }
