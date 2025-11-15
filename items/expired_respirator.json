@@ -47,6 +47,9 @@
     "rubber_parts": 8,
     "fabric": 4
   },
+  "salvagesInto": {
+    "rubber_parts": 5
+  },
   "weightKg": 2.0,
   "stackSize": 3,
   "foundIn": "Medical",
