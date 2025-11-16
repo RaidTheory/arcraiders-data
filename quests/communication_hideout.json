@@ -4,7 +4,7 @@
   "name": {
     "en": "Communication Hideout",
     "de": "Kommunikationsversteck",
-    "fr": "Cachette de communication",
+    "fr": "La tour de communication",
     "es": "Escondite de comunicaciones",
     "pt": "Esconderijo de comunicação",
     "pl": "Kryjówka komunikacyjna",
@@ -26,7 +26,7 @@
   "description": {
     "en": "We've been losing signals in some areas of Buried City—my guess is that our equipment is acting up. You're quite skilled with repairs, aren't you? Could you check it out?",
     "de": "Wir verlieren Signale in einigen Bereichen der Begrabenen Stadt — ich vermute, dass unsere Ausrüstung Probleme macht. Du bist ziemlich geschickt bei Reparaturen, nicht wahr? Könntest du nachsehen?",
-    "fr": "Nous perdons des signaux dans certaines zones de la Cité enfouie — je suppose que notre équipement fait des siennes. Tu es plutôt doué pour les réparations, n'est-ce pas ? Pourrais-tu vérifier ?",
+    "fr": "Nous perdons des signaux dans certaines zones de la ville enfouie... Notre équipement doit souffrir le dysfonctionnement. Vous vous y connaissez en réparation, pas vrai ? Pouvez-vous y aller pour jeter un coup d'œil ?",
     "es": "Hemos estado perdiendo señales en algunas áreas de la Ciudad Enterrada—supongo que nuestro equipo está fallando. Eres bastante hábil con las reparaciones, ¿verdad? ¿Podrías echarle un vistazo?",
     "pt": "Estamos perdendo sinais em algumas áreas da Cidade Enterrada—acho que nosso equipamento está com problemas. Você é bastante habilidoso com reparos, não é? Poderia dar uma olhada?",
     "pl": "Tracimy sygnały w niektórych obszarach Pogrzebanego Miasta — podejrzewam, że nasz sprzęt szwankuje. Jesteś całkiem dobry w naprawach, prawda? Mógłbyś to sprawdzić?",
@@ -47,7 +47,7 @@
     {
       "en": "Reach the Red Tower in Old Town",
       "de": "Erreiche den Roten Turm in der Altstadt",
-      "fr": "Atteindre la tour rouge dans la vieille ville",
+      "fr": "Atteindre la tour rouge de la vieille ville",
       "es": "Alcanza la Torre Roja en el Casco Antiguo",
       "pt": "Alcance a Torre Vermelha na Cidade Velha",
       "pl": "Dotrzyj do Czerwonej Wieży na Starym Mieście",
@@ -67,7 +67,7 @@
     {
       "en": "Find missing battery cell",
       "de": "Finde die fehlende Batteriezelle",
-      "fr": "Trouver la cellule de batterie manquante",
+      "fr": "Trouver la batterie manquante",
       "es": "Encuentra la celda de batería perdida",
       "pt": "Encontre a célula de bateria perdida",
       "pl": "Znajdź brakujący ogniwo baterii",
@@ -87,7 +87,7 @@
     {
       "en": "Install the battery cell in the Generator",
       "de": "Installiere die Batteriezelle im Generator",
-      "fr": "Installer la cellule de batterie dans le générateur",
+      "fr": "Installer la batterie dans le générateur",
       "es": "Instala la celda de batería en el generador",
       "pt": "Instale a célula de bateria no gerador",
       "pl": "Zainstaluj ogniwo baterii w generatorze",
@@ -127,7 +127,7 @@
     {
       "en": "Boot the antenna terminal near the Red Tower",
       "de": "Starte das Antennenterminal in der Nähe des Roten Turms",
-      "fr": "Démarrer le terminal d'antenne près de la tour rouge",
+      "fr": "Activer le terminal d'antenne près de la tour rouge",
       "es": "Inicia la terminal de antena cerca de la Torre Roja",
       "pt": "Inicialize o terminal da antena perto da Torre Vermelha",
       "pl": "Uruchom terminal anteny w pobliżu Czerwonej Wieży",
