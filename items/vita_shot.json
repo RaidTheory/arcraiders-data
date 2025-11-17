@@ -45,6 +45,7 @@
   "rarity": "Rare",
   "weightKg": 0.4,
   "stackSize": 3,
+  "stationLevelRequired": 3,
   "effects": {
     "Healing": {
       "en": "Healing",

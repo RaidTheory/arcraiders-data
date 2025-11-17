@@ -43,9 +43,12 @@
   "type": "Recyclable",
   "rarity": "Rare",
   "foundIn": "Exodus",
-  "value": 1000,
+  "value": 2000,
   "recyclesInto": {
     "processor": 4
+  },
+  "salvagesInto": {
+    "processor": 2
   },
   "weightKg": 3.0,
   "stackSize": 3,

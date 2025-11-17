@@ -27,6 +27,9 @@
     "wires": 2,
     "processor": 1
   },
+  "salvagesInto": {
+    "processor": 1
+  },
   "description": {
     "en": "Can be recycled into crafting materials.",
     "de": "Kann zu Handwerksmaterialien recycelt werden.",
