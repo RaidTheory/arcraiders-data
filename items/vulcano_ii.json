@@ -42,7 +42,6 @@
   },
   "type": "Shotgun",
   "rarity": "Epic",
-  "_note": "not_in_serverslam",
   "damage": 58.5,
   "fireRate": 14.3,
   "range": 22.1,
@@ -52,10 +51,6 @@
   "increasedFireRate": 20,
   "reducedReloadTime": 26,
   "reducedDurabilityBurnRate": 46,
-  "crafting": {
-    "mechanical_components": 1,
-    "simple_gun_parts": 3
-  },
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
   "updatedAt": "11/12/2025",
   "value": 13000,

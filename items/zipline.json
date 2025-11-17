@@ -42,8 +42,7 @@
     "hr": "Postavljiva užad koja vam omogućuje brzo kretanje između dvije lokacije.",
     "sr": "Postavljiva užad koja vam omogućava brzo kretanje između dve lokacije."
   },
-  "rangeMeters": 60,
-  "weight": 0.4,
+  "weightKg": 0.4,
   "value": 1000,
   "imageFilename": "https://cdn.arctracker.io/items/zipline.png",
   "updatedAt": "11/05/2025",
@@ -52,7 +51,7 @@
     "metal_parts": 1
   },
   "craftBench": "utility_bench",
-  "craftMaterials": {
+  "recipe": {
     "rope": 1,
     "mechanical_components": 1
   }

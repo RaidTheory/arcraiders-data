@@ -51,7 +51,7 @@
     "Arpeggio",
     "Bettina"
   ],
-  "crafting": {
+  "recipe": {
     "rubber_parts": 6,
     "duct_tape": 1
   },
@@ -107,9 +107,5 @@
     }
   },
   "updatedAt": "11/03/2025",
-  "recipe": {
-    "rubber_parts": 7,
-    "duct_tape": 1
-  },
   "craftBench": "weapon_bench"
 }

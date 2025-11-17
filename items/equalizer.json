@@ -5,7 +5,7 @@
     "de": "Equalizer",
     "uk": "Еквалайзер",
     "ru": "Уравнитель",
-    "zh-TW": "均衡者",
+    "zh-TW": "平衡者",
     "tr": "Eşitleyici",
     "zh-CN": "均衡者",
     "it": "Equalizzatore",
@@ -134,7 +134,7 @@
       "value": "Very Strong"
     }
   },
-  "weight": 14.0,
+  "weightKg": 14.0,
   "value": 27500,
   "recipe": {
     "magnetic_accelerator": 3,

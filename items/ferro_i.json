@@ -43,13 +43,9 @@
   "type": "Battle Rifle",
   "rarity": "Common",
   "value": 475,
-  "recycleInto": {
+  "recyclesInto": {
     "metal_parts": 2,
     "rubber_parts": 1
-  },
-  "craftMaterials": {
-    "metal_parts": 5,
-    "rubber_parts": 2
   },
   "repairMaterials": {
     "durability_increase": 50,
