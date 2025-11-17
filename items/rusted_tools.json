@@ -43,6 +43,7 @@
   "type": "Recyclable",
   "rarity": "Rare",
   "value": 1000,
+  "weightKg": 2.0,
   "recyclesInto": {
     "metal_parts": 8,
     "steel_spring": 1

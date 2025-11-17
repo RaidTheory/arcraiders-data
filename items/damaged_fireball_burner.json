@@ -4,6 +4,7 @@
   "description": "Can be recycled into crafting materials.",
   "type": "Recyclable",
   "rarity": "Common",
+  "value": 270,
   "weightKg": 1.0,
   "stackSize": 3,
   "foundIn": "ARC",

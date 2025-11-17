@@ -43,6 +43,7 @@
   "type": "Recyclable",
   "rarity": "Rare",
   "value": 2000,
+  "weightKg": 3.0,
   "recyclesInto": {
     "chemicals": 2,
     "crude_explosives": 2
