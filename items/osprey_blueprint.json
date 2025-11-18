@@ -3,7 +3,7 @@
   "name": {
     "en": "Osprey Blueprint",
     "de": "Osprey-Blaupause",
-    "fr": "Plan de Balbuzard",
+    "fr": "Schéma de Balbuzard",
     "es": "Plano de Osprey",
     "pt": "Projeto de Osprey",
     "pl": "Projekt Osprey",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/osprey_blueprint.png",
   "updatedAt": "11/12/2025"

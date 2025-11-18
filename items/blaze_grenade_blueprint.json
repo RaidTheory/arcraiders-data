@@ -3,7 +3,7 @@
   "name": {
     "en": "Blaze Grenade Blueprint",
     "de": "Flammen-Granate Blaupause",
-    "fr": "Plan de grenade flamboyante",
+    "fr": "Schéma de grenade flamboyante",
     "es": "Plano de granada de fuego",
     "pt": "Projeto de granada de fogo",
     "pl": "Projekt granatu płomiennego",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/blaze_grenade.png",
   "rarity": "Legendary",
   "updatedAt": "11/13/2025"

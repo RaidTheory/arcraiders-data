@@ -3,7 +3,7 @@
   "name": {
     "en": "Rubber Pad",
     "de": "Gummiunterlage",
-    "fr": "Tampon en Caoutchouc",
+    "fr": "Tapis en caoutchouc",
     "es": "Almohadilla de Goma",
     "pt": "Almofada de Borracha",
     "pl": "Gumowa Podkładka",
@@ -32,7 +32,7 @@
   "description": {
     "en": "Can be recycled into rubber parts.",
     "de": "Kann zu Gummiteilen recycelt werden.",
-    "fr": "Peut être recyclé en pièces en caoutchouc.",
+    "fr": "Peut être recyclé en composants en caoutchouc.",
     "es": "Puede reciclarse en piezas de goma.",
     "pt": "Pode ser reciclado em peças de borracha.",
     "pl": "Można przetworzyć na części gumowe.",
@@ -50,7 +50,7 @@
     "sr": "Može se reciklirati u gumene delove."
   },
   "foundIn": "Electrical",
-  "weightKg": 2.0,
+  "weightKg": 2,
   "stackSize": 3,
   "imageFilename": "https://cdn.arctracker.io/items/rubber_pad.png",
   "updatedAt": "11/04/2025"

@@ -3,7 +3,7 @@
   "name": {
     "en": "Extended Shotgun Mag II Blueprint",
     "de": "Erweitertes Schrotflinten-Magazin II-Blaupause",
-    "fr": "Plan de chargeur de fusil à pompe étendu II",
+    "fr": "Schéma de chargeur de fusil à pompe étendu II",
     "es": "Plano de cargador de escopeta extendido II",
     "pt": "Projeto de carregador de espingarda estendido II",
     "pl": "Projekt rozszerzonego magazynka strzelby II",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "stackSize": 1,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_ii.png",

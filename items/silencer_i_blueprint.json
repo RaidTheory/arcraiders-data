@@ -3,7 +3,7 @@
   "name": {
     "en": "Silencer I Blueprint",
     "de": "Schalldämpfer I Blaupause",
-    "fr": "Plan Silencieux I",
+    "fr": "Schéma silencieux I",
     "es": "Plano de Silenciador I",
     "pt": "Projeto de Silenciador I",
     "pl": "Projekt Tłumika I",
@@ -23,7 +23,7 @@
   "description": {
     "en": "A blueprint to craft the Silencer I.",
     "de": "Eine Blaupause zur Herstellung des Schalldämpfers I.",
-    "fr": "Un plan pour fabriquer le Silencieux I.",
+    "fr": "Un schéma pour fabriquer le Silencieux I.",
     "es": "Un plano para fabricar el Silenciador I.",
     "pt": "Um projeto para fabricar o Silenciador I.",
     "pl": "Projekt do wytworzenia Tłumika I.",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png",
   "updatedAt": "11/12/2025"

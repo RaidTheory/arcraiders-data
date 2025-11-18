@@ -3,7 +3,7 @@
   "name": {
     "en": "Extended Medium Mag III Blueprint",
     "de": "Erweitertes mittleres Magazin III-Blaupause",
-    "fr": "Plan de chargeur moyen étendu III",
+    "fr": "Schéma de chargeur moyen étendu III",
     "es": "Plano de cargador mediano extendido III",
     "pt": "Projeto de carregador médio estendido III",
     "pl": "Projekt rozszerzonego średniego magazynka III",
@@ -65,7 +65,7 @@
     }
   },
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_iii.png",
   "rarity": "Legendary",

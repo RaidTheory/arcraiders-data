@@ -188,7 +188,7 @@
       "kr": "무게 제한",
       "pt": "Limite de Peso",
       "es": "Límite de Peso",
-      "value": 65.0
+      "value": 65
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -212,7 +212,7 @@
       "value": "Light, Medium, Heavy"
     }
   },
-  "weightKg": 5.0,
+  "weightKg": 5,
   "value": 5000,
   "recipe": {
     "advanced_electrical_components": 2,

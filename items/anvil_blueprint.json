@@ -3,7 +3,7 @@
   "name": {
     "en": "Anvil Blueprint",
     "de": "Anvil-Blaupause",
-    "fr": "Plan d'Enclume",
+    "fr": "Schéma d'Enclume",
     "es": "Plano de Anvil",
     "pt": "Projeto de Anvil",
     "pl": "Projekt Anvil",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/anvil_blueprint.png",
   "updatedAt": "11/03/2025"

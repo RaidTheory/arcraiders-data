@@ -9,7 +9,7 @@
     "pt": "Plano de Hullcracker",
     "ru": "Чертёж Hullcracker",
     "de": "Hullcracker-Bauplan",
-    "fr": "Plan de Brise-fuselage",
+    "fr": "Schéma de Brise-fuselage",
     "zh-CN": "碎舰者蓝图",
     "no": "Hullcracker-Blåkopi",
     "tr": "Hullcracker Planı",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/hullcracker_blueprint.png",
   "rarity": "Legendary",
   "updatedAt": "11/16/2025"

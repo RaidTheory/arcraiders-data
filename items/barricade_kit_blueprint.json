@@ -3,7 +3,7 @@
   "name": {
     "en": "Barricade Kit Blueprint",
     "de": "Barrikaden-Set Blaupause",
-    "fr": "Plan de kit de barricade",
+    "fr": "Schéma de kit de barricade",
     "es": "Plano de kit de barricada",
     "pt": "Projeto de kit de barricada",
     "pl": "Projekt zestawu barykady",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/barricade_kit.png",
   "rarity": "Legendary",
   "updatedAt": "11/13/2025"

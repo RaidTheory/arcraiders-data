@@ -3,7 +3,7 @@
   "name": {
     "en": "Lightweight Stock Blueprint",
     "de": "Leichtgewicht-Schaft Blaupause",
-    "fr": "Plan de crosse légère",
+    "fr": "Schéma de crosse légère",
     "es": "Plano de culata ligera",
     "pt": "Projeto de coronha leve",
     "pl": "Projekt lekkiej kolby",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/lightweight_stock_blueprint.png",
   "rarity": "Legendary",
   "updatedAt": "11/12/2025"

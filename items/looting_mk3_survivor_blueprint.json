@@ -3,7 +3,7 @@
   "name": {
     "en": "Looting Mk. 3 (Survivor) Blueprint",
     "de": "Plünderungs-Mk. 3 (Überlebender) Blaupause",
-    "fr": "Plan Butin 3 (survie)",
+    "fr": "Schéma Butin 3 (survie)",
     "es": "Plano Saqueo Mk. 3 (Superviviente)",
     "pt": "Projeto Saque Mk. 3 (Sobrevivente)",
     "pl": "Projekt Grabież Mk. 3 (Ocalały)",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_survivor_blueprint.png",
   "rarity": "Legendary",
   "updatedAt": "11/12/2025"

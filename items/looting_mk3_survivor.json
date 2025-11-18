@@ -83,7 +83,7 @@
       "uk": "Макс. вага спорядження",
       "sr": "Maks. težina opreme",
       "hr": "Maks. težina opreme",
-      "value": 80.0
+      "value": 80
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -108,7 +108,7 @@
     }
   },
   "value": 5000,
-  "weightKg": 4.0,
+  "weightKg": 4,
   "stackSize": 1,
   "recyclesInto": {
     "advanced_electrical_components": 1,

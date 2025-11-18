@@ -3,7 +3,7 @@
   "name": {
     "en": "Rocketeer Driver",
     "de": "Raketenkanoniertreiber",
-    "fr": "Propulseur de fusée",
+    "fr": "Pilote d'Artificier",
     "es": "Impulsor de cohete",
     "pt": "Driver de fogueteiro",
     "pl": "Napęd rakietowy",
@@ -48,7 +48,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu."
   },
-  "weightKg": 1.0,
+  "weightKg": 1,
   "stackSize": 3,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/rocketeer_driver.png"

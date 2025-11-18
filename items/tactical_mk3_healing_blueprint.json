@@ -3,7 +3,7 @@
   "name": {
     "en": "Tactical Mk. 3 (Healing) Blueprint",
     "de": "Taktisch Mk. 3 (Heilung) Blaupause",
-    "fr": "Plan Tactique 3 (soins)",
+    "fr": "Schéma Tactique 3 (soins)",
     "es": "Plano Táctico Mk. 3 (Curación)",
     "pt": "Projeto Tático Mk. 3 (Cura)",
     "pl": "Projekt Taktyczny Mk. 3 (Leczenie)",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing_blueprint.png",
   "rarity": "Legendary",
   "updatedAt": "11/11/2025"

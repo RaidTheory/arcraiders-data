@@ -3,7 +3,7 @@
   "name": {
     "en": "Extended Medium Mag II Blueprint",
     "de": "Erweitertes mittleres Magazin II-Blaupause",
-    "fr": "Plan de chargeur moyen étendu II",
+    "fr": "Schéma de chargeur moyen étendu II",
     "es": "Plano de cargador mediano extendido II",
     "pt": "Projeto de carregador médio estendido II",
     "pl": "Projekt rozszerzonego średniego magazynka II",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_ii_blueprint.png",
   "rarity": "Legendary",
   "updatedAt": "11/12/2025"

@@ -3,7 +3,7 @@
   "name": {
     "en": "Wolfpack Blueprint",
     "de": "Wolfpack-Bauplan",
-    "fr": "Plan Wolfpack",
+    "fr": "Schéma Wolfpack",
     "es": "Plano Wolfpack",
     "pt": "Projeto Wolfpack",
     "pl": "Projekt Wolfpack",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/wolfpack_blueprint.png",
   "updatedAt": "11/12/2025"

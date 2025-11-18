@@ -3,7 +3,7 @@
   "name": {
     "en": "Snap Hook Blueprint",
     "de": "Snap-Haken-Blaupause",
-    "fr": "Plan de Snap Hook",
+    "fr": "Schéma de Snap Hook",
     "es": "Plano de Snap Hook",
     "pt": "Projeto de Snap Hook",
     "pl": "Projekt Snap Hook",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/snap_hook.png",
   "updatedAt": "11/14/2025"

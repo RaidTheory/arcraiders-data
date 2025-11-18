@@ -43,11 +43,14 @@
   "type": "Recyclable",
   "rarity": "Rare",
   "foundIn": "Exodus",
-  "value": 1000,
+  "value": 2000,
   "recyclesInto": {
     "processor": 4
   },
-  "weightKg": 3.0,
+  "salvagesInto": {
+    "processor": 2
+  },
+  "weightKg": 3,
   "stackSize": 3,
   "imageFilename": "https://cdn.arctracker.io/items/broken_guidance_system.png",
   "updatedAt": "11/14/2025"

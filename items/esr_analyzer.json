@@ -21,7 +21,7 @@
     "sr": "ESR Analizator"
   },
   "description": {
-    "en": "A specialized medical device for analyzing erythrocyte sedimentation rates.",
+    "en": "A portable analyzer from the world before, complete with several spare tubes.",
     "de": "Ein spezialisiertes medizinisches Gerät zur Analyse der Erythrozytensedimentationsrate.",
     "fr": "Un appareil médical spécialisé pour analyser la vitesse de sédimentation des érythrocytes.",
     "es": "Un dispositivo médico especializado para analizar la velocidad de sedimentación de eritrocitos.",
@@ -40,7 +40,9 @@
     "hr": "Specijaliziran medicinski uređaj za analizu brzine sedimentacije eritrocita.",
     "sr": "Specijalizovan medicinski uređaj za analizu brzine sedimentacije eritrocita."
   },
-  "type": "Misc",
-  "updatedAt": "10/30/2025",
-  "rarity": "Common"
+  "type": "Trinket",
+  "updatedAt": "11/17/2025",
+  "rarity": "Common",
+  "weightKg": 0.25,
+  "imageFilename": "https://cdn.arctracker.io/items/esr_analyzer.png"
 }

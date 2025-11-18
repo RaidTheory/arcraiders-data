@@ -3,7 +3,7 @@
   "name": {
     "en": "Bettina Blueprint",
     "de": "Bettina-Bauplan",
-    "fr": "Plan Bettina",
+    "fr": "Schéma Bettina",
     "es": "Plano Bettina",
     "pt": "Projeto Bettina",
     "pl": "Projekt Bettina",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "station": "Gunsmith III",
   "recipe": {

@@ -3,7 +3,7 @@
   "name": {
     "en": "Defibrillator Blueprint",
     "de": "Defibrillator-Blaupause",
-    "fr": "Plan de défibrillateur",
+    "fr": "Schéma de défibrillateur",
     "es": "Plano de desfibrilador",
     "pt": "Projeto de desfibrilador",
     "pl": "Projekt defibrylatora",
@@ -43,7 +43,7 @@
   "type": "Blueprint",
   "rarity": "Legendary",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/defibrillator.png",
   "updatedAt": "11/12/2025"

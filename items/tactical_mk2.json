@@ -86,7 +86,7 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. težina opreme",
       "sr": "Maks. težina opreme",
-      "value": 45.0
+      "value": 45
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -110,7 +110,7 @@
       "value": "Light, Medium"
     }
   },
-  "weightKg": 2.0,
+  "weightKg": 2,
   "recyclesInto": {
     "advanced_electrical_components": 1,
     "processor": 1
