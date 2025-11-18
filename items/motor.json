@@ -43,6 +43,7 @@
   "type": "Recyclable",
   "rarity": "Rare",
   "value": 1000,
+  "weightKg": 3.0,
   "recyclesInto": {
     "oil": 2,
     "mechanical_components": 1

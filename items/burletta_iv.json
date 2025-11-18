@@ -43,6 +43,7 @@
   "type": "Weapon",
   "rarity": "Uncommon",
   "value": 9000,
+  "weightKg": 4.0,
   "recyclesInto": {
     "mechanical_components": 4,
     "simple_gun_parts": 4
