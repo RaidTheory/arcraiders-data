@@ -43,7 +43,7 @@
   "type": "Augment",
   "rarity": "Epic",
   "value": 5000,
-  "weightKg": 3.0,
+  "weightKg": 3,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -85,7 +85,7 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. Težina Opreme",
       "sr": "Maks. Težina Opreme",
-      "value": 70.0
+      "value": 70
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",

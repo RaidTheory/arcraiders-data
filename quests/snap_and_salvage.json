@@ -145,15 +145,15 @@
   ],
   "xp": 0,
   "requiredItemIds": [
-  {
-    "itemId": "flow_controller",
-    "quantity": 1
-  },
-  {
-    "itemId": "magnetron",
-    "quantity": 1
-  }
-],
+    {
+      "itemId": "flow_controller",
+      "quantity": 1
+    },
+    {
+      "itemId": "magnetron",
+      "quantity": 1
+    }
+  ],
   "previousQuestIds": [
     "12_cold_storage"
   ],

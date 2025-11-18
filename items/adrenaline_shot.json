@@ -47,7 +47,7 @@
     "chemicals": 1,
     "plastic_parts": 1
   },
-  "weightKg": 0.2,
+  "weightKg": 0.3,
   "stackSize": 5,
   "effects": {
     "Stamina Regeneration": {
@@ -120,5 +120,8 @@
     "chemicals": 3,
     "plastic_parts": 3
   },
-  "craftBench": "med_station"
+  "craftBench": "med_station",
+  "salvagesInto": {
+    "chemicals": 1
+  }
 }
