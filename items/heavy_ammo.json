@@ -10,7 +10,7 @@
     "no": "Tung ammunisjon",
     "da": "Tung ammunition",
     "it": "Munizioni pesanti",
-    "ru": "Тяжелые патроны",
+    "ru": "Тяжелый патрон",
     "ja": "ヘビー弾薬",
     "zh-TW": "重型彈藥",
     "uk": "Важкі патрони",
@@ -41,7 +41,11 @@
     "sr": "Kompatibilno sa: Ferro, Anvil, Bettina"
   },
   "type": "Ammunition",
-  "compatibleWith": ["Anvil", "Ferro", "Bettina"],
+  "compatibleWith": [
+    "Anvil",
+    "Ferro",
+    "Bettina"
+  ],
   "updatedAt": "11/03/2025",
   "value": 12,
   "weightKg": 0.05,
