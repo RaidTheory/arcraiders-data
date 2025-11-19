@@ -166,8 +166,8 @@
     "type": "Area Denial",
     "threat": "High",
     "description": "The Shredder appears in Stella Montis, challenging Raiders to stay sharp in close-quarter encounters.",
-    "destroyXp": 0,
-    "lootXp": 0,
+    "destroyXp": 200,
+    "lootXp": 250,
     "drops": [
       "arc_alloy",
       "arc_powercel",
