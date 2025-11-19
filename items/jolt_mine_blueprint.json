@@ -3,7 +3,7 @@
   "name": {
     "en": "Jolt Mine Blueprint",
     "de": "Schock-Mine Blaupause",
-    "fr": "Plan de mine paralysante",
+    "fr": "Schéma de mine paralysante",
     "es": "Plano de mina aturdidora",
     "pt": "Projeto de mina atordoante",
     "pl": "Projekt miny paraliżującej",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
   "rarity": "Legendary",

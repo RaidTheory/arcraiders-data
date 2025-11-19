@@ -3,7 +3,7 @@
   "name": {
     "en": "Angled Grip III",
     "de": "Abgewinkelter Griff III",
-    "fr": "Poignée angulaire III",
+    "fr": "Poignée coudée III",
     "es": "Empuñadura angular III",
     "pt": "Punho angular III",
     "pl": "Chwyt kątowy III",
@@ -12,7 +12,7 @@
     "it": "Impugnatura angolata III",
     "ru": "Угловая рукоять III",
     "ja": "アングルグリップ III",
-    "zh-TW": "傾斜握把 III",
+    "zh-TW": "斜角握把 III",
     "uk": "Кутова рукоятка III",
     "zh-CN": "倾斜握把 III",
     "kr": "각진 손잡이 III",
@@ -89,5 +89,9 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/angled_grip_iii.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "10/30/2025",
+  "recyclesInto": {
+    "mod_components": 1,
+    "duct_tape": 2
+  }
 }

@@ -3,7 +3,7 @@
   "name": {
     "en": "Light Gun Parts Blueprint",
     "de": "Teile für Waffen mit leichter Munition Blaupause",
-    "fr": "Plan de pièces d'arme légère",
+    "fr": "Schéma de pièces d'arme légère",
     "es": "Plano de piezas de armas ligeras",
     "pt": "Projeto de peças de armas leves",
     "pl": "Projekt lekkich części broni",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts_blueprint.png",
   "rarity": "Legendary",
   "updatedAt": "11/12/2025"

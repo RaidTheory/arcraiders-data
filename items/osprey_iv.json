@@ -14,7 +14,7 @@
     "pl": "Osprey IV",
     "no": "Osprey IV",
     "ja": "オスプレイ IV",
-    "fr": "Osprey IV",
+    "fr": "Balbuzard IV",
     "es": "Osprey IV",
     "hr": "Osprey IV",
     "pt": "Osprey IV",
@@ -232,7 +232,7 @@
   "stability": 89.4,
   "agility": 45.9,
   "stealth": 12,
-  "weight": 7.0,
+  "weightKg": 7,
   "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
   "updatedAt": "11/12/2025"
 }

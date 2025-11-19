@@ -3,7 +3,7 @@
   "name": {
     "en": "Heavy Fuze Grenade",
     "de": "Schwere Zündergranate",
-    "fr": "Grenade à fusée lourde",
+    "fr": "Grenade lourde à retardement",
     "es": "Granada de mecha pesada",
     "pt": "Granada de fusível pesado",
     "pl": "Ciężki granat zapalnikowy",
@@ -23,7 +23,7 @@
   "description": {
     "en": "A grenade that detonates after a delay, dealing explosive damage in its radius.",
     "de": "Eine Granate, die nach einer Verzögerung detoniert und explosiven Schaden in ihrem Radius verursacht.",
-    "fr": "Une grenade qui détone après un délai, infligeant des dégâts explosifs dans son rayon.",
+    "fr": "Une grenade qui explose après un certain délai, infligeant des dégâts explosifs.",
     "es": "Una granada que detona tras un retraso, causando daño explosivo en su radio.",
     "pt": "Uma granada que detona após um atraso, causando dano explosivo em seu raio.",
     "pl": "Granat, który detonuje po opóźnieniu, zadając obrażenia wybuchowe w swoim zasięgu.",
@@ -92,7 +92,8 @@
   "imageFilename": "https://cdn.arctracker.io/items/heavy_fuze_grenade.png",
   "updatedAt": "11/03/2025",
   "recyclesInto": {
-    "oil": 3
+    "oil": 1,
+    "rubber_parts": 2
   },
   "recipe": {
     "explosive_compound": 1,

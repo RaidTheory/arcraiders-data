@@ -3,7 +3,7 @@
   "name": {
     "en": "Bettina Blueprint",
     "de": "Bettina-Bauplan",
-    "fr": "Plan Bettina",
+    "fr": "Schéma Bettina",
     "es": "Plano Bettina",
     "pt": "Projeto Bettina",
     "pl": "Projekt Bettina",
@@ -42,10 +42,10 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "station": "Gunsmith III",
-  "crafting": {
+  "recipe": {
     "advanced_mechanical_components": 3,
     "heavy_gun_parts": 3,
     "canister": 3

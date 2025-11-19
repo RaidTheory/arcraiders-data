@@ -1,0 +1,106 @@
+{
+  "id": "12_cold_storage",
+  "updatedAt": "11/14/2025",
+  "name": {
+    "en": "Cold Storage",
+    "de": "Kühlhaus",
+    "fr": "Chambre froide",
+    "es": "Almacén frigorífico",
+    "pt": "Armazém Frigorífico",
+    "pl": "Chłodnia",
+    "no": "Kjølelager",
+    "da": "Kølelager",
+    "it": "Cella frigorifera",
+    "uk": "Холодильне сховище",
+    "kr": "냉동 창고",
+    "ru": "Холодильное хранилище",
+    "zh-CN": "冷藏库",
+    "ja": "コールドストレージ",
+    "tr": "Soğuk Depo",
+    "zh-TW": "冷藏庫",
+    "sr": "Hladnjača",
+    "hr": "Hladnjača"
+  },
+  "trader": "Celeste",
+  "videoUrl": "https://youtu.be/tc7nK7AmixQ",
+  "description": {
+    "en": "Reports about Stella Montis keep coming in, and it's unlike anything we've seen before. There may be records or relics from the past in there, and if so, I want them.",
+    "de": "Berichte über Stella Montis reißen nicht ab, und es ist anders als alles, was wir zuvor gesehen haben. Dort könnten Aufzeichnungen oder Relikte aus der Vergangenheit liegen, und wenn ja, will ich sie.",
+    "fr": "Les rapports sur Stella Montis continuent d'affluer, et c'est comme rien de ce que nous avons vu auparavant. Il pourrait y avoir des archives ou des reliques du passé là-bas, et si c'est le cas, je les veux.",
+    "es": "Los informes sobre Stella Montis no dejan de llegar, y no se parece a nada que hayamos visto antes. Puede que haya registros o reliquias del pasado ahí dentro y, si es así, las quiero.",
+    "pt": "Os relatórios sobre Stella Montis não param de chegar, e não se parece com nada que já vimos. Pode haver registros ou relíquias do passado lá dentro e, se houver, eu as quero.",
+    "pl": "Doniesienia o Stella Montis wciąż napływają i to coś zupełnie innego niż wszystko, co dotąd widzieliśmy. W środku mogą być zapisy lub relikty z przeszłości, i jeśli tak, chcę je mieć.",
+    "no": "Rapporter om Stella Montis fortsetter å komme inn, og det er ikke likt noe vi har sett før. Det kan finnes opptegnelser eller relikvier fra fortiden der inne, og hvis det gjør det, vil jeg ha dem.",
+    "da": "Rapporter om Stella Montis bliver ved med at strømme ind, og det er ikke som noget, vi har set før. Der kan være optegnelser eller relikvier fra fortiden derinde, og hvis der er, vil jeg have dem.",
+    "it": "I rapporti su Stella Montis continuano ad arrivare, ed è qualcosa di diverso da tutto ciò che abbiamo visto finora. Là dentro potrebbero esserci registri o reliquie del passato e, se è così, li voglio.",
+    "uk": "Звіти про Стелла Монтіс надходять один за одним, і це не схоже ні на що з того, що ми бачили раніше. Там можуть бути записи чи реліквії з минулого, і якщо так, я хочу їх отримати.",
+    "kr": "스텔라 몬티스에 대한 보고가 계속 들어오고 있는데, 지금까지 본 어떤 곳과도 다릅니다. 그 안에는 과거의 기록이나 유물이 있을지도 모르니, 그렇다면 전부 가져오길 바랍니다.",
+    "ru": "Сообщения о Стелла Монтис продолжают поступать, и это не похоже ни на что, что мы видели раньше. Там могут быть записи или реликвии прошлого, и если так, я хочу, чтобы ты их нашёл.",
+    "zh-CN": "关于斯特拉蒙蒂斯的报告不断传来，那里的情况与我们以往见过的完全不同。里面也许藏着过去的记录或遗物，如果有的话，我要你把它们带来。",
+    "ja": "ステラ・モンティスについての報告が次々と届いているけれど、あれはこれまで見たどんな場所とも違う。あの中には、過去の記録か遺物が眠っているかもしれない。もしそうなら、全部持ち帰ってほしい。",
+    "tr": "Stella Montis hakkında raporlar gelmeye devam ediyor ve gördüğümüz hiçbir şeye benzemiyor. İçeride geçmişten kalma kayıtlar ya da kalıntılar olabilir; eğer varsa, onları istiyorum.",
+    "zh-TW": "關於史特拉蒙蒂斯的報告不斷傳來，那裡與我們以往見過的完全不同。裡面也許藏有過去的紀錄或遺物，如果有的話，我要你把它們帶來。",
+    "sr": "Izveštaji o Stela Montisu ne prestaju da stižu, i to nije nalik ničemu što smo ranije videli. Unutra možda ima zapisa ili relikvija iz prošlosti, i ako ih ima, hoću da ih doneseš.",
+    "hr": "Izvještaji o Stella Montis ne prestaju pristizati, i to nije nalik ničemu što smo ranije vidjeli. Unutra bi mogli biti zapisi ili relikvije iz prošlosti, i ako ih ima, želim ih."
+  },
+  "objectives": [
+    {
+      "en": "In one round, search any J Kozma Ventures container",
+      "de": "Durchsuche in einer Runde einen beliebigen J-Kozma-Ventures-Container",
+      "fr": "En une manche, fouiller n'importe quel conteneur J Kozma Ventures",
+      "es": "En una ronda, registra cualquier contenedor de J Kozma Ventures",
+      "pt": "Em uma rodada, revide qualquer contêiner da J Kozma Ventures",
+      "pl": "W jednej rundzie przeszukaj dowolny kontener J Kozma Ventures",
+      "no": "I én runde, søk gjennom en valgfri J Kozma Ventures-container",
+      "da": "I én runde, gennemsøg en vilkårlig J Kozma Ventures-container",
+      "it": "In un singolo raid, perquisisci un qualsiasi container di J Kozma Ventures",
+      "uk": "За один рейд обшукай будь-який контейнер J Kozma Ventures",
+      "kr": "한 라운드 안에 아무 J Kozma Ventures 보관함이나 수색하기",
+      "ru": "За один рейд обыщи любой контейнер J Kozma Ventures",
+      "zh-CN": "在一轮中搜查任意一个J Kozma Ventures容器",
+      "ja": "1ラウンド中に、任意のJ Kozma Venturesコンテナを1つ捜索する",
+      "tr": "Tek bir turda, herhangi bir J Kozma Ventures konteynerini ara",
+      "zh-TW": "在一輪中搜查任意一個J Kozma Ventures容器",
+      "sr": "U jednoj rundi, pretraži bilo koji J Kozma Ventures kontejner",
+      "hr": "U jednoj rundi, pretraži bilo koji J Kozma Ventures kontejner"
+    },
+    {
+      "en": "In one round, deliver the Rare Books to Shani",
+      "de": "Liefere in einer Runde die seltenen Bücher bei Shani ab",
+      "fr": "En une manche, livrer les livres rares à Shani",
+      "es": "En una ronda, entrega los libros raros a Shani",
+      "pt": "Em uma rodada, entregue os Livros Raros para Shani",
+      "pl": "W jednej rundzie dostarcz rzadkie księgi do Shani",
+      "no": "I én runde, lever de sjeldne bøkene til Shani",
+      "da": "I én runde, aflever de sjældne bøger til Shani",
+      "it": "In un singolo raid, consegna i Libri Rari a Shani",
+      "uk": "За один рейд достав рідкісні книги Шані",
+      "kr": "한 라운드 안에 희귀 서적을 샤니에게 전달하기",
+      "ru": "За один рейд доставь редкие книги Шани",
+      "zh-CN": "在一轮中将珍稀书籍交给莎妮",
+      "ja": "1ラウンド中に、レアブックをシャニに届ける",
+      "tr": "Tek bir turda, Nadir Kitapları Shani'ye teslim et",
+      "zh-TW": "在一輪中將珍稀書籍交給莎妮",
+      "sr": "U jednoj rundi, isporuči Retke Knjige Shani",
+      "hr": "U jednoj rundi, isporuči Rijetke Knjige Shani"
+    }
+  ],
+  "grantedItemIds": [],
+  "rewardItemIds": [
+    {
+      "itemId": "gas_mine",
+      "quantity": 3
+    },
+    {
+      "itemId": "raider_hatch_key",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [
+    "12_in_my_image"
+  ],
+  "nextQuestIds": [
+    "12_snap_and_salvage"
+  ]
+}

@@ -3,7 +3,7 @@
   "name": {
     "en": "Lure Grenade Blueprint",
     "de": "Lockgranaten-Bauplan",
-    "fr": "Plan de grenade leurre",
+    "fr": "Schéma de grenade leurre",
     "es": "Plano de granada señuelo",
     "pt": "Projeto de granada isca",
     "pl": "Projekt granatu wabika",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
   "updatedAt": "11/12/2025"

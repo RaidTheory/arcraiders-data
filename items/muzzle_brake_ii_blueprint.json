@@ -3,7 +3,7 @@
   "name": {
     "en": "Muzzle Brake II Blueprint",
     "de": "Mündungsbremse II-Blaupause",
-    "fr": "Plan de frein de bouche II",
+    "fr": "Schéma de frein de bouche II",
     "es": "Plano de freno de boca II",
     "pt": "Projeto de freio de boca II",
     "pl": "Projekt hamulca wylotowego II",
@@ -86,7 +86,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
   "updatedAt": "11/12/2025"

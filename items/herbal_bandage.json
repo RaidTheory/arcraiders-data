@@ -116,5 +116,9 @@
     "durable_cloth": 1,
     "great_mullein": 1
   },
-  "craftBench": "med_station"
+  "craftBench": "med_station",
+  "recyclesInto": {
+    "assorted_seeds": 2,
+    "fabric": 5
+  }
 }

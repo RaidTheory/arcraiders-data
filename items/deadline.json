@@ -2,7 +2,7 @@
   "name": {
     "en": "Deadline",
     "de": "Frist",
-    "fr": "Échéance",
+    "fr": "Mine à retardement",
     "es": "Plazo límite",
     "pt": "Prazo final",
     "pl": "Termin",
@@ -22,7 +22,7 @@
   "description": {
     "en": "A mine that deals damage to anything within its radius once the timer runs out.",
     "de": "Eine Mine, die allem in ihrem Radius Schaden zufügt, sobald der Timer abläuft.",
-    "fr": "Une mine qui inflige des dégâts à tout ce qui se trouve dans son rayon une fois le minuteur écoulé.",
+    "fr": "Une mine qui inflige des dégâts à tout ce qui se trouve dans son rayon une fois le compte à rebours terminé.",
     "es": "Una mina que inflige daño a todo lo que esté dentro de su radio cuando se agota el temporizador.",
     "pt": "Uma mina que causa dano a tudo dentro do seu raio quando o temporizador acaba.",
     "pl": "Mina zadająca obrażenia wszystkiemu w swoim promieniu po upływie czasu.",
@@ -43,7 +43,8 @@
   "type": "Quick Use",
   "value": 2700,
   "rarity": "Epic",
-  "weightKg": 1.0,
+  "weightKg": 1,
+  "stackSize": 1,
   "effects": {
     "Damage": {
       "en": "Damage",
@@ -90,7 +91,7 @@
     "Timer Duration": {
       "en": "Timer Duration",
       "de": "Timer-Dauer",
-      "fr": "Durée du minuteur",
+      "fr": "Chrono",
       "es": "Duración del temporizador",
       "pt": "Duração do temporizador",
       "pl": "Czas trwania timera",
@@ -108,6 +109,9 @@
       "hr": "Trajanje mjerača vremena",
       "value": "6s"
     }
+  },
+  "recyclesInto": {
+    "explosive_compound": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/deadline.png",
   "updatedAt": "11/13/2025"

@@ -3,7 +3,7 @@
   "name": {
     "en": "Extended Shotgun Mag III Blueprint",
     "de": "Erweitertes Schrotflinten-Magazin III Blaupause",
-    "fr": "Plan Chargeur de fusil à pompe étendu III",
+    "fr": "Schéma chargeur de fusil à pompe étendu III",
     "es": "Plano Cargador extendido de escopeta III",
     "pt": "Projeto Carregador estendido de espingarda III",
     "pl": "Projekt Rozszerzony magazynek do strzelby III",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "stackSize": 1,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_iii.png",

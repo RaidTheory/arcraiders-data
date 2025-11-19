@@ -1,0 +1,106 @@
+{
+  "id": "12_in_my_image",
+  "updatedAt": "11/14/2025",
+  "name": {
+    "en": "In My Image",
+    "de": "Nach meinem Ebenbild",
+    "fr": "À mon image",
+    "es": "A mi imagen",
+    "pt": "À Minha Imagem",
+    "pl": "Na mój obraz",
+    "no": "I mitt bilde",
+    "da": "I mit billede",
+    "it": "A mia immagine",
+    "uk": "За моїм образом",
+    "kr": "내 모습대로",
+    "ru": "По моему образу",
+    "zh-CN": "按我的样子",
+    "ja": "私の姿に",
+    "tr": "Benim Suretimde",
+    "zh-TW": "按我的樣子",
+    "sr": "Po Mom Liku",
+    "hr": "Po Mom Liku"
+  },
+  "trader": "Celeste",
+  "description": {
+    "en": "I just treated one of the first Raiders who visited Stella Montis, and she said that she saw... others. Androids, very much like me.",
+    "de": "Ich habe gerade einen der ersten Raiders behandelt, der Stella Montis besucht hat, und sie sagte, sie habe ... andere gesehen. Androiden, die mir sehr ähnlich sind.",
+    "fr": "Je viens de soigner l'un des premiers Raiders à avoir visité Stella Montis, et elle m'a dit en avoir vu... d'autres. D'autres androïdes, qui me ressemblaient beaucoup.",
+    "es": "Acabo de tratar a una de las primeras saqueadoras que visitó Stella Montis, y dijo que vio... a otros. Androides, muy parecidos a mí.",
+    "pt": "Acabei de tratar uma das primeiras Saqueadoras que visitou Stella Montis, e ela disse que viu... outros. Androides, muito parecidos comigo.",
+    "pl": "Właśnie leczyłam jedną z pierwszych Rajderek, które odwiedziły Stella Montis, i powiedziała, że widziała... innych. Androidy, bardzo podobne do mnie.",
+    "no": "Jeg behandlet nettopp en av de første Raiderne som besøkte Stella Montis, og hun sa at hun så... andre. Android-er, veldig like meg.",
+    "da": "Jeg har lige behandlet en af de første Raiders, der besøgte Stella Montis, og hun sagde, at hun så ... andre. Androids, meget lig mig.",
+    "it": "Ho appena curato una delle prime Raiders che ha visitato Stella Montis, e ha detto che ha visto... altri. Androidi, molto simili a me.",
+    "uk": "Я щойно лікувала одну з перших Рейдерок, що відвідала Стелла Монтіс, і вона сказала, що бачила... інших. Андроїдів, дуже схожих на мене.",
+    "kr": "방금 스텔라 몬티스를 방문한 첫 레이더 중 한 명을 치료했는데, 그녀가 말하길... 다른 존재들을 봤다고 하더군요. 저와 아주 비슷한 안드로이드들이요.",
+    "ru": "Я только что лечила одну из первых Рейдерш, посетивших Стелла Монтис, и она сказала, что видела... других. Андроидов, очень похожих на меня.",
+    "zh-CN": "我刚治疗了一位最早来到斯特拉蒙蒂斯的袭击者，她说她看到了……其他人。安卓，很像我。",
+    "ja": "ついさっき、ステラ・モンティスに来た最初のレイダーの一人を治療したんだけど、彼女はこう言ったの。……ほかにもいたって。私にとてもよく似たアンドロイドが。",
+    "tr": "Az önce Stella Montis'i ziyaret eden ilk Akıncılardan birini tedavi ettim ve bana şunu söyledi: ...başkalarını görmüş. Bana fazlasıyla benzeyen Androidler.",
+    "zh-TW": "我剛治療了一位最早來到史特拉蒙蒂斯的掠奪者，她說她看到了……其他人。安卓，和我非常相像。",
+    "sr": "Upravo sam lečila jednu od prvih Rejderki koje su posetile Stelu Montis, i rekla mi je da je videla... druge. Androide, veoma slične meni.",
+    "hr": "Upravo sam liječila jednu od prvih Rejderki koje su posjetile Stellu Montis, i rekla je da je vidjela... druge. Androide, vrlo slične meni."
+  },
+  "objectives": [
+    {
+      "en": "Deploy into Stella Montis",
+      "de": "Setze nach Stella Montis ein",
+      "fr": "Déployer à Stella Montis",
+      "es": "Despliega en Stella Montis",
+      "pt": "Desembarque em Stella Montis",
+      "pl": "Wyląduj w Stella Montis",
+      "no": "Deployér til Stella Montis",
+      "da": "Deploy til Stella Montis",
+      "it": "Schierati a Stella Montis",
+      "uk": "Висадитися в Стелла Монтіс",
+      "kr": "스텔라 몬티스로 출격하기",
+      "ru": "Высадиться в Стелла Монтис",
+      "zh-CN": "部署到斯特拉蒙蒂斯",
+      "ja": "ステラ・モンティスに展開する",
+      "tr": "Stella Montis'e konuşlan",
+      "zh-TW": "部署到史特拉蒙蒂斯",
+      "sr": "Iskrcaj se u Stelu Montis",
+      "hr": "Iskrcaj se u Stellu Montis"
+    },
+    {
+      "en": "Find and search 3 Androids",
+      "de": "Finde und durchsuche 3 Androiden",
+      "fr": "Trouver et fouiller 3 androïdes",
+      "es": "Encuentra y registra 3 androides",
+      "pt": "Encontre e revide 3 androides",
+      "pl": "Znajdź i przeszukaj 3 androidy",
+      "no": "Finn og gjennomsøk 3 androider",
+      "da": "Find og gennemsøg 3 androider",
+      "it": "Trova e perquisisci 3 androidi",
+      "uk": "Знайти та обшукати 3 андроїдів",
+      "kr": "안드로이드 3기를 찾아 수색하기",
+      "ru": "Найти и обыскать 3 андроида",
+      "zh-CN": "找到并搜查3个安卓体",
+      "ja": "アンドロイドを3体見つけて捜索する",
+      "tr": "3 Android bul ve ara",
+      "zh-TW": "找到並搜查3個安卓體",
+      "sr": "Pronađi i pretresi 3 Androida",
+      "hr": "Pronađi i pretresi 3 Androida"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "defibrillator",
+      "quantity": 3
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "looting_mk2",
+      "quantity": 1
+    },
+    {
+      "itemId": "green_light_stick",
+      "quantity": 5
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [],
+  "nextQuestIds": []
+}

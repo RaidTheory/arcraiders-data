@@ -3,7 +3,7 @@
   "name": {
     "en": "Torrente Blueprint",
     "de": "Torrente-Blaupause",
-    "fr": "Plan de Torrente",
+    "fr": "Schéma de Torrente",
     "es": "Plano de Torrente",
     "pt": "Projeto de Torrente",
     "pl": "Projekt Torrente",
@@ -41,7 +41,7 @@
     "sr": "Ima veliki kapacitet streljiva, ali je precizan samo dok ste čučeći."
   },
   "type": "Blueprint",
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/torrente_blueprint.png",
   "updatedAt": "11/12/2025",

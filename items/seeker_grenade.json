@@ -40,7 +40,7 @@
     "hr": "Granata s navođenjem koja cilja jedan obližnji ARC i nanosi eksplozivnu štetu pri udaru."
   },
   "id": "seeker_grenade",
-  "type": "Consumable",
+  "type": "Quick Use",
   "value": 640,
   "rarity": "Uncommon",
   "weightKg": 0.2,
@@ -88,6 +88,9 @@
       "hr": "Domet navođenja",
       "value": "20m"
     }
+  },
+  "recyclesInto": {
+    "chemicals": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/seeker_grenade.png",
   "updatedAt": "11/13/2025"

@@ -3,7 +3,7 @@
   "name": {
     "en": "Turbo Pump",
     "de": "Turbopumpe",
-    "fr": "Pompe turbo",
+    "fr": "Turbopompe",
     "es": "Bomba turbo",
     "pt": "Bomba turbo",
     "pl": "Turbopompa",
@@ -47,7 +47,7 @@
     "mechanical_components": 1,
     "oil": 3
   },
-  "weightKg": 3.0,
+  "weightKg": 3,
   "stackSize": 3,
   "foundIn": "Exodus",
   "updatedAt": "11/04/2025",

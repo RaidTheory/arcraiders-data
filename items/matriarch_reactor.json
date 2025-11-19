@@ -38,11 +38,11 @@
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
-    "fr": "Peut être recyclé en matériaux de fabrication."
+    "fr": "Peut être recyclé en matériaux d'artisanat."
   },
   "type": "Material",
   "rarity": "Legendary",
-  "weight": 10.0,
+  "weightKg": 10,
   "stackSize": 1,
   "value": 13000,
   "recyclesInto": {
@@ -52,9 +52,6 @@
   "salvagesInto": {
     "power_rod": 1
   },
-  "sources": [
-    "Matriarch"
-  ],
   "imageFilename": "https://cdn.arctracker.io/items/matriarch_reactor.png",
   "updatedAt": "11/13/2025"
 }

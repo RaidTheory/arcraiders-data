@@ -3,7 +3,7 @@
   "name": {
     "en": "Compensator II Blueprint",
     "de": "Kompensator II Blaupause",
-    "fr": "Plan de compensateur II",
+    "fr": "Schéma de compensateur II",
     "es": "Plano de compensador II",
     "pt": "Projeto do compensador II",
     "pl": "Projekt kompensatora II",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/compensator_ii_blueprint.png",
   "updatedAt": "11/01/2025"

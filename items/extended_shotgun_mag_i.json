@@ -73,5 +73,8 @@
     "plastic_parts": 6,
     "steel_spring": 1
   },
+  "recyclesInto": {
+    "plastic_parts": 6
+  },
   "craftBench": "weapon_bench"
 }

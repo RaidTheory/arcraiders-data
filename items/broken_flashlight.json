@@ -22,7 +22,7 @@
   },
   "rarity": "Rare",
   "type": "Recyclable",
-  "value": null,
+  "value": 1000,
   "recyclesInto": {
     "battery": 2,
     "metal_parts": 6
@@ -51,7 +51,7 @@
     "sr": "Može se reciklirati u materijale za izradu."
   },
   "foundIn": "Security",
-  "weightKg": 2.0,
+  "weightKg": 2,
   "stackSize": 3,
   "imageFilename": "https://cdn.arctracker.io/items/broken_flashlight.png",
   "updatedAt": "11/04/2025"

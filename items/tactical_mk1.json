@@ -47,7 +47,7 @@
     "plastic_parts": 3,
     "rubber_parts": 3
   },
-  "weightKg": 2.0,
+  "weightKg": 2,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -89,7 +89,7 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. težina opreme",
       "sr": "Maks. težina opreme",
-      "value": 40.0
+      "value": 40
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",

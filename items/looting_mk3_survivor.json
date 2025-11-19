@@ -3,7 +3,7 @@
   "name": {
     "en": "Looting Mk. 3 (Survivor)",
     "de": "Plünderungs-Mk. 3 (Überlebender)",
-    "fr": "Pillage Mk. 3 (Survivant)",
+    "fr": "Butin 3 (survie)",
     "es": "Saqueo Mk. 3 (Superviviente)",
     "pt": "Saque Mk. 3 (Sobrevivente)",
     "pl": "Grabież Mk. 3 (Ocalały)",
@@ -83,7 +83,7 @@
       "uk": "Макс. вага спорядження",
       "sr": "Maks. težina opreme",
       "hr": "Maks. težina opreme",
-      "value": 80.0
+      "value": 80
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -108,8 +108,12 @@
     }
   },
   "value": 5000,
-  "weightKg": 4.0,
+  "weightKg": 4,
   "stackSize": 1,
+  "recyclesInto": {
+    "advanced_electrical_components": 1,
+    "processor": 1
+  },
   "craftBench": "equipment_bench",
   "recipe": {
     "advanced_mechanical_components": 2,

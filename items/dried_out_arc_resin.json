@@ -3,7 +3,7 @@
   "name": {
     "en": "Dried-Out ARC Resin",
     "de": "Ausgetrocknetes ARC-Harz",
-    "fr": "Résine ARC séchée",
+    "fr": "Résine ARC déséchée",
     "es": "Resina ARC seca",
     "pt": "Resina ARC seca",
     "pl": "Wysuszona żywica ARC",
@@ -42,7 +42,7 @@
   },
   "type": "Recyclable",
   "rarity": "Uncommon",
-  "weightKg": 1.0,
+  "weightKg": 1,
   "stackSize": 3,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/dried_out_arc_resin.png",
