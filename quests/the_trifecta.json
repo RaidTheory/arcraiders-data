@@ -127,7 +127,7 @@
       "en": "Get 2 Wasp Driver for Shani",
       "de": "Besorge 2 Wasp-Treiber für Shani",
       "fr": "Obtenez 2 pilote de Guêpe pour Shani",
-      "es": "Consigue 2 Wasp Driver para Shani",
+      "es": "Consigue 2 controladores de Avispa para Shani",
       "pt": "Consiga 2 Wasp Driver para Shani",
       "pl": "Zdobądź 2 Wasp Drivery dla Shani",
       "no": "Skaff 2 Wasp Driver til Shani",
@@ -147,7 +147,7 @@
       "en": "Get 2 Hornet Driver for Shani",
       "de": "Besorge 2 Hornet-Treiber für Shani",
       "fr": "Obtenez 2 pilote de Frelon pour Shani",
-      "es": "Consigue 2 Hornet Driver para Shani",
+      "es": "Consigue 2 controladores de Avispón para Shani",
       "pt": "Consiga 2 Hornet Driver para Shani",
       "pl": "Zdobądź 2 Hornet Drivery dla Shani",
       "no": "Skaff 2 Hornet Driver til Shani",
@@ -199,10 +199,6 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [
-    "ss6"
-  ],
-  "nextQuestIds": [
-    "ss10b"
-  ]
+  "previousQuestIds": ["ss6"],
+  "nextQuestIds": ["ss10b"]
 }

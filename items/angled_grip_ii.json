@@ -4,7 +4,7 @@
     "en": "Angled Grip II",
     "de": "Abgewinkelter Griff II",
     "fr": "Poignée coudée II",
-    "es": "Empuñadura angular II",
+    "es": "Empuñadura inclinada II",
     "pt": "Punho angular II",
     "pl": "Chwyt kątowy II",
     "no": "Vinklet grep II",
@@ -24,7 +24,7 @@
     "en": "Moderately reduces horizontal recoil. Compatible with: Arpeggio, Ferro, Il Toro, Stitcher",
     "de": "Reduziert den horizontalen Rückstoß mäßig. Kompatibel mit: Arpeggio, Ferro, Il Toro, Stitcher",
     "fr": "Réduit modérément le recul horizontal. Compatible avec : Arpège, Ferro, Il Toro, Sutureur",
-    "es": "Reduce moderadamente el retroceso horizontal. Compatible con: Arpeggio, Ferro, Il Toro, Stitcher",
+    "es": "Reduce moderadamente el retroceso horizontal. Compatible con: Arpeggio, Ferro, Il Toro, Costurero",
     "pt": "Reduz moderadamente o recuo horizontal. Compatível com: Arpeggio, Ferro, Il Toro, Stitcher",
     "pl": "Umiarkowanie redukuje odrzut poziomy. Kompatybilny z: Arpeggio, Ferro, Il Toro, Stitcher",
     "no": "Reduserer horisontalt rekyl moderat. Kompatibel med: Arpeggio, Ferro, Il Toro, Stitcher",
@@ -76,13 +76,7 @@
       "value": "30%"
     }
   },
-  "compatibleWith": [
-    "Arpeggio",
-    "Rattler",
-    "Kettle",
-    "Il Toro",
-    "Stitcher"
-  ],
+  "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Il Toro", "Stitcher"],
   "imageFilename": "https://cdn.arctracker.io/items/angled_grip_ii.png",
   "updatedAt": "11/05/2025"
 }

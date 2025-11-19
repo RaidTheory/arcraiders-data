@@ -24,7 +24,7 @@
     "en": "Compatible with: Ferro, Anvil, Bettina",
     "de": "Kompatibel mit: Ferro, Anvil, Bettina",
     "fr": "Compatible avec : Ferro, Enclume, Bettina",
-    "es": "Compatible con: Ferro, Anvil, Bettina",
+    "es": "Compatible con: Ferro, Yunque, Bettina",
     "pt": "Compatível com: Ferro, Anvil, Bettina",
     "pl": "Kompatybilna z: Ferro, Anvil, Bettina",
     "no": "Kompatibel med: Ferro, Anvil, Bettina",
@@ -41,11 +41,7 @@
     "sr": "Kompatibilno sa: Ferro, Anvil, Bettina"
   },
   "type": "Ammunition",
-  "compatibleWith": [
-    "Anvil",
-    "Ferro",
-    "Bettina"
-  ],
+  "compatibleWith": ["Anvil", "Ferro", "Bettina"],
   "updatedAt": "11/03/2025",
   "value": 12,
   "weightKg": 0.05,

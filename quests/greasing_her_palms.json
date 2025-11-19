@@ -67,7 +67,7 @@
       "en": "On Spaceport, scope out the rocket thrusters outside the Rocket Assembly",
       "de": "Erkunde auf Spaceport die Raketentriebwerke außerhalb der Raketenmontage",
       "fr": "Au Port spatial, inspecter les propulseurs de la fusée à l'extérieur du Site d'assemblage des fusées",
-      "es": "En Spaceport, inspecciona los propulsores de cohete fuera del ensamblaje de cohetes",
+      "es": "En Spaceport, inspecciona los propulsores de cohetero fuera del ensamblaje de cohetes",
       "pt": "Em Spaceport, examine os propulsores de foguete fora da montagem de foguetes",
       "pl": "Na Spaceport sprawdź silniki rakietowe na zewnątrz montażu rakiet",
       "no": "På Spaceport, undersøk rakettdysene utenfor rakettmonteringen",
@@ -125,11 +125,6 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [
-    "ss10"
-  ],
-  "nextQuestIds": [
-    "ss10b",
-    "ss10c"
-  ]
+  "previousQuestIds": ["ss10"],
+  "nextQuestIds": ["ss10b", "ss10c"]
 }
