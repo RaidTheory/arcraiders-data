@@ -87,7 +87,7 @@
       "en": "Obtain 1 Durable Cloth",
       "de": "Erhalte 1 strapazierfähiges Tuch",
       "fr": "Obtenir 1 tissu résistant",
-      "es": "Obtén 1 tela duradera",
+      "es": "Obtén 1 Tela resistente",
       "pt": "Obtenha 1 tecido durável",
       "pl": "Zdobądź 1 wytrzymałą tkaninę",
       "no": "Skaff 1 slitesterkt stoff",
@@ -107,7 +107,7 @@
       "en": "Obtain 1 Great Mullein",
       "de": "Erhalte 1 Königskerze",
       "fr": "Obtenir 1 grande molène",
-      "es": "Obtén 1 gordolobo",
+      "es": "Obtén 1 gran verbasco",
       "pt": "Obtenha 1 verbasco",
       "pl": "Zdobądź 1 dziewannę",
       "no": "Skaff 1 kongslys",
@@ -157,10 +157,6 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [
-    "ss10a"
-  ],
-  "nextQuestIds": [
-    "ss10f"
-  ]
+  "previousQuestIds": ["ss10a"],
+  "nextQuestIds": ["ss10f"]
 }

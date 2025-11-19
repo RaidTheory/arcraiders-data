@@ -26,7 +26,7 @@
     "en": "I've become quite crafty at weaving bandages from Fabric, but to my shame, I haven't quite mastered weaving an x-ray machine or a pulse oximiter.",
     "de": "Ich bin ziemlich geschickt darin geworden, Bandagen aus Stoff zu weben, aber zu meiner Schande habe ich es noch nicht geschafft, eine Röntgenmaschine oder ein Pulsoximeter zu weben.",
     "fr": "Je suis devenu assez habile pour tresser des bandages à partir de tissu, mais j'ai honte d'avouer que je n'ai pas encore vraiment maîtrisé l'art d'utiliser un appareil de radiographie ou un oxymètre de pouls.",
-    "es": "Me he vuelto bastante hábil tejiendo vendajes con tela, pero para mi vergüenza, aún no he dominado el arte de tejer una máquina de rayos X o un oxímetro de pulso.",
+    "es": "Me he vuelto bastante hábil tejiendo vendas con tela, pero para mi vergüenza, aún no he dominado el arte de tejer una máquina de rayos X o un oxímetro de pulso.",
     "pt": "Tornei-me bastante habilidoso em tecer bandagens a partir de tecido, mas para minha vergonha, ainda não dominei a arte de tecer uma máquina de raios-X ou um oxímetro de pulso.",
     "pl": "Stałem się całkiem zręczny w tkaniu bandaży z materiału, ale ku mojemu zawstydzeniu, nie opanowałem jeszcze tkania aparatu rentgenowskiego czy pulsoksymetru.",
     "no": "Jeg har blitt ganske flink til å veve bandasjer fra stoff, men til min skam har jeg ikke helt mestret å veve en røntgenmaskin eller et pulsoksymeter.",
@@ -119,10 +119,6 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [
-    "ss10c"
-  ],
-  "nextQuestIds": [
-    "ss10g"
-  ]
+  "previousQuestIds": ["ss10c"],
+  "nextQuestIds": ["ss10g"]
 }

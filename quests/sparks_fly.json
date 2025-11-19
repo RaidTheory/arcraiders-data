@@ -26,7 +26,7 @@
     "en": "Those Hornet stings can really mess you up, if you're unlucky. And even if you destroy one, you're still wasting a ton of ammo. I've been working on a more elegant way to bring them down. Care to make some sparks fly?",
     "de": "Diese Hornet-Stiche können dich wirklich übel zurichten, wenn du Pech hast. Und selbst wenn du eine zerstörst, verschwendest du immer noch eine Menge Munition. Ich habe an einer eleganteren Methode gearbeitet, sie herunterzuholen. Lust, ein paar Funken fliegen zu lassen?",
     "fr": "Ces piqûres de Frelons peuvent vraiment vous gâcher la vie. Et même si vous en détruisez un, vous gaspillerez une tonne de munitions. J'ai réfléchi à une façon plus élégante de les éliminer. Ça vous dit de faire des étincelles ?",
-    "es": "Esos aguijones de Hornet pueden hacerte mucho daño si no tienes suerte. E incluso si destruyes uno, sigues desperdiciando un montón de munición. He estado trabajando en una forma más elegante de derribarlos. ¿Te apetece hacer saltar algunas chispas?",
+    "es": "Esos aguijones de Avispón pueden hacerte mucho daño si no tienes suerte. E incluso si destruyes uno, sigues desperdiciando un montón de munición. He estado trabajando en una forma más elegante de derribarlos. ¿Te apetece hacer saltar algunas chispas?",
     "pt": "Essas picadas de Hornet podem te estragar muito, se você tiver azar. E mesmo se você destruir um, ainda está desperdiçando um monte de munição. Tenho trabalhado numa forma mais elegante de derrubá-los. Quer fazer algumas faíscas voarem?",
     "pl": "Te ukąszenia Hornetów mogą naprawdę cię poharatać, jeśli masz pecha. A nawet jeśli zniszczysz jednego, nadal marnujesz mnóstwo amunicji. Pracowałem nad bardziej eleganckim sposobem ich zestrzelenia. Chcesz sprawić, żeby posypały się iskry?",
     "no": "De Hornet-stikkene kan virkelig ødelegge deg, hvis du er uheldig. Og selv om du ødelegger en, sløser du fortsatt bort en masse ammunisjon. Jeg har jobbet med en mer elegant måte å ta dem ned på. Lyst til å få noen gnister til å fly?",
@@ -47,7 +47,7 @@
       "en": "Destroy a Hornet with a Trigger 'Nade or Snap Blast",
       "de": "Zerstöre eine Hornet mit einer Trigger-Granate oder Snap Blast",
       "fr": "Détruisez un Frelon à l'aide d'une grenade télécommandée ou d'une grenad adhésive",
-      "es": "Destruye un Hornet con una Trigger 'Nade o Snap Blast",
+      "es": "Destruye un Avispón con una granada de gatillo o de ráfaga",
       "pt": "Destrua um Hornet com uma Trigger 'Nade ou Snap Blast",
       "pl": "Zniszcz Horneta za pomocą Trigger 'Nade lub Snap Blast",
       "no": "Ødelegg en Hornet med en Trigger 'Nade eller Snap Blast",
@@ -89,8 +89,6 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [
-    "ss8a"
-  ],
+  "previousQuestIds": ["ss8a"],
   "nextQuestIds": []
 }

@@ -47,7 +47,7 @@
       "en": "Destroy a Hornet",
       "de": "Zerstöre eine Hornisse",
       "fr": "Détruisez un Hornet",
-      "es": "Destruye un Hornet",
+      "es": "Destruye un Avispón",
       "pt": "Destrua um Hornet",
       "pl": "Zniszcz Hornet",
       "no": "Ødelegg en Hornet",
@@ -67,7 +67,7 @@
       "en": "Destroy a Turret",
       "de": "Zerstöre einen Geschützturm",
       "fr": "Détruisez une tourelle",
-      "es": "Destruye una torreta",
+      "es": "Destruye una Torreta",
       "pt": "Destrua uma torreta",
       "pl": "Zniszcz wieżyczkę",
       "no": "Ødelegg et tårn",
@@ -109,10 +109,6 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [
-    "ss5"
-  ],
-  "nextQuestIds": [
-    "ss10"
-  ]
+  "previousQuestIds": ["ss5"],
+  "nextQuestIds": ["ss10"]
 }
