@@ -210,5 +210,10 @@
   "stealth": 15,
   "weightKg": 8,
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/20/2025",
+  "recipe": {
+    "vulcano_iii": 1,
+    "advanced_mechanical_components": 2,
+    "heavy_gun_parts": 3
+  }
 }

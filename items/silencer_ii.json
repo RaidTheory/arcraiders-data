@@ -68,5 +68,9 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/silencer_ii.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/20/2025",
+  "recyclesInto": {
+    "mod_components": 1,
+    "wires": 2
+  }
 }

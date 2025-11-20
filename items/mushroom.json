@@ -24,7 +24,7 @@
   "type": "Nature",
   "value": 1000,
   "recyclesInto": {},
-  "updatedAt": "10/31/2025",
+  "updatedAt": "11/20/2025",
   "description": {
     "en": "Can be consumed to regain a small amount of health.",
     "de": "Kann konsumiert werden, um eine kleine Menge Gesundheit wiederherzustellen.",
@@ -91,5 +91,6 @@
       "value": "1s"
     }
   },
-  "imageFilename": "https://cdn.arctracker.io/items/mushroom.png"
+  "imageFilename": "https://cdn.arctracker.io/items/mushroom.png",
+  "stackSize": 10
 }

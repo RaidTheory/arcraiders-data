@@ -1,0 +1,24 @@
+{
+  "id": "looting_mk_1",
+  "name": "Looting MK. 1",
+  "description": "Basic looting augment. More backpack slots and weight capacity, but low defensive and tactical capability.",
+  "type": "Augment",
+  "rarity": "Uncommon",
+  "weightKg": 1.0,
+  "effects": {
+    "Durability": "30",
+    "Max Loadout Weight": "18",
+    "Shield Compatibility": "Yes"
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/looting_mk_1.png",
+  "value": 640,
+  "recyclesInto": {
+    "plastic_parts": 3,
+    "rubber_parts": 3
+  },
+  "recipe": {
+    "plastic_parts": 6,
+    "rubber_parts": 6
+  },
+  "updatedAt": "11/20/2025"
+}

@@ -40,17 +40,17 @@
     "hr": "Koristi se za izradu naprednog oružja. Može se reciklirati u materijale za izradu. Koristi se za izradu: Torrente, Venator, Osprey, Renegade, Bettina",
     "sr": "Koristi se za pravljenje naprednog oružja. Može se reciklirati u materijale za pravljenje. Koristi se za pravljenje: Torrente, Venator, Osprey, Renegade, Bettina"
   },
-  "type": "Refined Material",
+  "type": "Advanced Material",
   "rarity": "Rare",
   "value": 1750,
   "recyclesInto": {
     "mechanical_components": 1,
-    "wires": 1
+    "steel_spring": 1
   },
   "weightKg": 1,
   "imageFilename": "https://cdn.arctracker.io/items/advanced_mechanical_components.png",
   "foundIn": "Mechanical",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/20/2025",
   "stackSize": 5,
   "recipe": {
     "steel_spring": 2,

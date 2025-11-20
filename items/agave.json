@@ -41,7 +41,7 @@
     "sr": "Komad lista agave. Može se koristiti za obnovu male količine zdravlja."
   },
   "type": "Nature",
-  "rarity": "Uncommon",
+  "rarity": "Common",
   "value": 1000,
   "weightKg": 0.2,
   "stackSize": 10,
@@ -112,5 +112,8 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/agave.png",
-  "updatedAt": "11/05/2025"
+  "updatedAt": "11/20/2025",
+  "recyclesInto": {
+    "assorted_seeds": 3
+  }
 }

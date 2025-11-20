@@ -90,8 +90,9 @@
     }
   },
   "recyclesInto": {
-    "chemicals": 1
+    "crude_explosives": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/seeker_grenade.png",
-  "updatedAt": "11/13/2025"
+  "updatedAt": "11/20/2025",
+  "craftBench": "explosives_bench"
 }

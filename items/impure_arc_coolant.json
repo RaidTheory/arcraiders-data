@@ -24,7 +24,7 @@
   "type": "Recyclable",
   "value": 640,
   "recyclesInto": {
-    "chemicals": 13
+    "chemicals": 12
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -47,8 +47,8 @@
     "sr": "Može se reciklirati u materijale za izradu."
   },
   "foundIn": "ARC",
-  "weightKg": 0.33,
+  "weightKg": 1,
   "stackSize": 3,
   "imageFilename": "https://cdn.arctracker.io/items/impure_arc_coolant.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/20/2025"
 }

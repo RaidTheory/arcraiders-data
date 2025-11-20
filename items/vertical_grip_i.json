@@ -68,10 +68,13 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_i.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/20/2025",
   "recipe": {
     "plastic_parts": 6,
     "duct_tape": 1
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "recyclesInto": {
+    "plastic_parts": 6
+  }
 }

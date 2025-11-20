@@ -173,11 +173,20 @@
   "weightKg": 8,
   "value": 7000,
   "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-  "updatedAt": "11/12/2025",
+  "updatedAt": "11/20/2025",
   "craftBench": "weapon_bench",
   "upgradeCost": {
     "mechanical_components": 3,
     "simple_gun_parts": 1
   },
-  "stationLevelRequired": 1
+  "stationLevelRequired": 1,
+  "recyclesInto": {
+    "mechanical_components": 3,
+    "simple_gun_parts": 3
+  },
+  "recipe": {
+    "il_toro_i": 1,
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  }
 }

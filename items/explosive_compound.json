@@ -47,13 +47,13 @@
   "stackSize": 5,
   "foundIn": "Industrial, Security",
   "imageFilename": "https://cdn.arctracker.io/items/explosive_compound.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/20/2025",
   "recipe": {
     "crude_explosives": 2,
     "oil": 2
   },
   "recyclesInto": {
-    "chemicals": 2
+    "crude_explosives": 1
   },
   "craftBench": "refiner"
 }

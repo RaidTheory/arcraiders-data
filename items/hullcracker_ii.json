@@ -192,5 +192,9 @@
   "stealth": 1,
   "weightKg": 7,
   "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/20/2025",
+  "recipe": {
+    "advanced_mechanical_components": 1,
+    "heavy_gun_parts": 2
+  }
 }

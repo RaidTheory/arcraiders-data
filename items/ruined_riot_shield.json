@@ -46,12 +46,13 @@
   "weightKg": 2,
   "foundIn": "Security",
   "imageFilename": "https://cdn.arctracker.io/items/ruined_riot_shield.png",
-  "updatedAt": "11/01/2025",
+  "updatedAt": "11/20/2025",
   "recyclesInto": {
     "plastic_parts": 10,
     "rubber_parts": 6
   },
   "salvagesInto": {
     "plastic_parts": 10
-  }
+  },
+  "stackSize": 3
 }

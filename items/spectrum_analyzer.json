@@ -46,9 +46,10 @@
   "weightKg": 1.5,
   "foundIn": "Exodus",
   "imageFilename": "https://cdn.arctracker.io/items/spectrum_analyzer.png",
-  "updatedAt": "11/14/2025",
+  "updatedAt": "11/20/2025",
   "recyclesInto": {
     "sensors": 1,
     "exodus_modules": 1
-  }
+  },
+  "stackSize": 3
 }

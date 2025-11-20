@@ -25,7 +25,7 @@
   "value": 2000,
   "recyclesInto": {
     "plastic_parts": 14,
-    "battery": 4
+    "wires": 4
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -47,8 +47,9 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu."
   },
-  "weightKg": 1,
+  "weightKg": 3,
   "foundIn": "Technological",
   "imageFilename": "https://cdn.arctracker.io/items/cooling_fan.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/20/2025",
+  "stackSize": 3
 }

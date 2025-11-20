@@ -44,19 +44,16 @@
   "rarity": "Common",
   "value": 840,
   "recyclesInto": {
-    "plastic_parts": 3,
+    "metal_parts": 3,
     "rubber_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/20/2025",
   "recipe": {
     "metal_parts": 6,
     "rubber_parts": 8
   },
-  "craftBench": [
-    "workbench",
-    "weapon_bench"
-  ],
+  "craftBench": "weapon_bench",
   "weightKg": 7,
   "effects": {
     "Durability": {

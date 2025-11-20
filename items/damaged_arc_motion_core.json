@@ -46,11 +46,12 @@
   "value": 640,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/damaged_arc_motion_core.png",
-  "updatedAt": "11/07/2025",
+  "updatedAt": "11/20/2025",
   "recyclesInto": {
     "arc_alloy": 2
   },
   "salvagesInto": {
     "arc_alloy": 1
-  }
+  },
+  "stackSize": 5
 }

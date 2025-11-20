@@ -110,11 +110,15 @@
       "value": "1.5s"
     }
   },
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/20/2025",
   "stackSize": 3,
   "recipe": {
     "antiseptic": 1,
     "durable_cloth": 2
   },
-  "craftBench": "med_station"
+  "craftBench": "med_station",
+  "recyclesInto": {
+    "antiseptic": 1,
+    "fabric": 1
+  }
 }

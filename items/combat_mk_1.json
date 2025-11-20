@@ -1,0 +1,25 @@
+{
+  "id": "combat_mk_1",
+  "name": "Combat Mk. 1",
+  "description": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
+  "type": "Augment",
+  "rarity": "Uncommon",
+  "value": 640,
+  "weightKg": 0.125,
+  "effects": {
+    "Durability": 100,
+    "Max Loadout Weight": null,
+    "Shield Compatibility": "Light, Medium"
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/combat_mk_1.png",
+  "craftBench": "equipment_bench",
+  "recyclesInto": {
+    "plastic_parts": 3,
+    "rubber_parts": 3
+  },
+  "recipe": {
+    "plastic_parts": 6,
+    "rubber_parts": 6
+  },
+  "updatedAt": "11/20/2025"
+}

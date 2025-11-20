@@ -42,7 +42,7 @@
   },
   "type": "Modification",
   "value": 5000,
-  "rarity": "Uncommon",
+  "rarity": "Rare",
   "weightKg": 0.75,
   "effects": {
     "Reduced Per-Shot Dispersion": {
@@ -130,7 +130,7 @@
     "Tempest"
   ],
   "imageFilename": "https://cdn.arctracker.io/items/compensator_ii.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/20/2025",
   "recipe": {
     "mechanical_components": 2,
     "wires": 8

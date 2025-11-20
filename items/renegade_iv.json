@@ -206,5 +206,14 @@
   "agility": 55.8,
   "stealth": 16,
   "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/20/2025",
+  "recyclesInto": {
+    "advanced_mechanical_components": 3,
+    "medium_gun_parts": 3
+  },
+  "recipe": {
+    "renegade_iii": 1,
+    "advanced_mechanical_components": 2,
+    "medium_gun_parts": 2
+  }
 }

@@ -88,7 +88,7 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/wolfpack.png",
-  "updatedAt": "10/30/2025",
+  "updatedAt": "11/20/2025",
   "recyclesInto": {
     "crude_explosives": 2,
     "synthesized_fuel": 2
@@ -97,5 +97,7 @@
     "explosive_compound": 3,
     "arc_motion_core": 2
   },
-  "craftBench": "explosives_bench"
+  "craftBench": "explosives_bench",
+  "value": 5000,
+  "stackSize": 1
 }

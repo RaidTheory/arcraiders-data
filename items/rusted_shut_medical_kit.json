@@ -42,12 +42,13 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
-  "value": 1000,
+  "value": 2000,
   "weightKg": 3,
   "recyclesInto": {
     "syringe": 2,
     "antiseptic": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/rusted_shut_medical_kit.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/20/2025",
+  "stackSize": 3
 }

@@ -95,5 +95,10 @@
     "chemicals": 4,
     "syringe": 1
   },
-  "updatedAt": "11/03/2025"
+  "updatedAt": "11/20/2025",
+  "craftBench": "med_station",
+  "recipe": {
+    "antiseptic": 1,
+    "syringe": 1
+  }
 }

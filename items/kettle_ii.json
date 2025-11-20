@@ -42,12 +42,18 @@
   },
   "type": "Weapon",
   "rarity": "Common",
-  "value": 840,
+  "value": 2000,
   "weightKg": 7,
   "recyclesInto": {
-    "plastic_parts": 6,
+    "metal_parts": 6,
     "rubber_parts": 6
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/20/2025",
+  "craftBench": "weapon_bench",
+  "recipe": {
+    "kettle_i": 1,
+    "metal_parts": 8,
+    "plastic_parts": 10
+  }
 }

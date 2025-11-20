@@ -234,5 +234,10 @@
   "stealth": 12,
   "weightKg": 7,
   "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/20/2025",
+  "recipe": {
+    "osprey_i": 1,
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 2
+  }
 }

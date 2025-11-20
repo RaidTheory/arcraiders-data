@@ -44,6 +44,10 @@
   "imageFilename": "https://cdn.arctracker.io/items/prickly_pear.png",
   "type": "Nature",
   "value": 640,
-  "recyclesInto": {},
-  "updatedAt": "10/30/2025"
+  "recyclesInto": {
+    "assorted_seeds": 3
+  },
+  "updatedAt": "11/20/2025",
+  "weightKg": 0.2,
+  "stackSize": 10
 }

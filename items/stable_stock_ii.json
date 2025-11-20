@@ -121,5 +121,9 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/stable_stock_ii.png",
-  "updatedAt": "11/05/2025"
+  "updatedAt": "11/20/2025",
+  "recipe": {
+    "mechanical_components": 1,
+    "duct_tape": 1
+  }
 }

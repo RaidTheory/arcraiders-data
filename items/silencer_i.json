@@ -41,7 +41,7 @@
     "sr": "Blago smanjuje količinu buke proizvedene pri pucanju."
   },
   "type": "Modification",
-  "updatedAt": "10/30/2025",
+  "updatedAt": "11/20/2025",
   "rarity": "Uncommon",
   "effects": {
     "Noise Reduction": {
@@ -68,5 +68,9 @@
   },
   "value": 2000,
   "weightKg": 0.25,
-  "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png"
+  "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png",
+  "recipe": {
+    "wires": 1,
+    "mechanical_components": 1
+  }
 }

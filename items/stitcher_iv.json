@@ -49,5 +49,11 @@
     "simple_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/20/2025",
+  "craftBench": "weapon_bench",
+  "recipe": {
+    "stitcher_iii": 1,
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  }
 }
