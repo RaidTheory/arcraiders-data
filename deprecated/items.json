@@ -1812,7 +1812,7 @@
     },
     "description": {
       "en": "Used to craft medical supplies. Can be recycled into chemicals. Used to craft: Sterilized Bandage, Vita Spray, Vita Shot",
-      "de": "Wird zur Herstellung medizinischer Vorräte verwendet. Kann zu Chemikalien recycelt werden. Zur Herstellung von: Sterilisierter Verband, Vita-Spray, Vita-Spritze",
+      "de": "Wird zur Herstellung medizinischer Objekte verwendet. Kann zu Chemikalien recycelt werden. Zur Herstellung von: Sterilisierter Verband, Vita-Spray, Vita-Spritze",
       "fr": "Permet de fabriquer des fournitures médicales. Peut être recyclé en produits chimiques. Permet de fabriquer : Bandage stérilisé, Vita Spray, Vita Shot",
       "es": "Se usa para fabricar suministros médicos. Se puede reciclar en productos químicos. Se usa para fabricar: Venda esterilizada, Aerosol Vita, Inyección de Vita",
       "pt": "Usado para fabricar suprimentos médicos. Pode ser reciclado em produtos químicos. Usado para fabricar: Bandagem esterilizada, Spray Vita, Injeção Vita",
@@ -1871,7 +1871,7 @@
     },
     "description": {
       "en": "Can be recycled into ARC Alloy. Can be thrown to call in ARC.",
-      "de": "Kann zu ARC-Legierung recycelt werden. Kann geworfen werden, um ARC zu rufen.",
+      "de": "Kann zu ARC-Legierung recycelt werden. Kann geworfen werden, um ARC zu beschwören.",
       "fr": "Peut être recyclé en alliage ARC. Peut être lancé pour appeler ARC.",
       "es": "Se puede reciclar en aleación ARC. Se puede lanzar para llamar a ARC.",
       "pt": "Pode ser reciclado em liga ARC. Pode ser arremessado para chamar ARC.",
@@ -2489,7 +2489,7 @@
     },
     "description": {
       "en": "Compatible with: Equalizer, Jupiter",
-      "de": "Kompatibel mit: Equalizer, Jupiter",
+      "de": "Munition, die für Energiewaffen genutzt wird. Mit einem Clip wird eine einzelne Waffe vollständig geladen. Kompatibel mit: Equalizer, Jupiter",
       "fr": "Compatible avec : Equalizer, Jupiter",
       "es": "Compatible con: Equalizer, Jupiter",
       "pt": "Compatível com: Equalizer, Jupiter",
@@ -3803,7 +3803,7 @@
     },
     "description": {
       "en": "A gadget that allows the user to scale structures and cover large distances.",
-      "de": "Ein Gerät, das es dem Benutzer ermöglicht, Strukturen zu erklimmen und große Entfernungen zu überwinden.",
+      "de": "Ein Gadget, mit dem der Benutzer Gebäude erklimmen und große Entfernungen zurücklegen kann.",
       "fr": "Un gadget qui permet à l'utilisateur d'escalader des structures et de couvrir de grandes distances.",
       "es": "Un dispositivo que permite al usuario escalar estructuras y cubrir grandes distancias.",
       "pt": "Um dispositivo que permite ao usuário escalar estruturas e cobrir grandes distâncias.",
@@ -4854,7 +4854,7 @@
     },
     "description": {
       "en": "Used in crafting. Used to craft: Heavy Shield, Snap Hook",
-      "de": "Wird beim Herstellen verwendet. Zur Herstellung von: Schwerer Schild, Karabinerhaken",
+      "de": "Wird bei der Herstellung verwendet. Zur Herstellung von: Schwerer Schild, Karabinerhaken",
       "fr": "Utilisé pour la fabrication. Permet de fabriquer : Bouclier lourd, Mousqueton",
       "es": "Usado en fabricación. Usado para fabricar: Escudo pesado, Gancho rápido",
       "pt": "Usado na fabricação. Usado para fabricar: Escudo pesado, Gancho rápido",
@@ -5252,7 +5252,7 @@
     },
     "description": {
       "en": "Used in crafting. Used to craft: Lure Grenade, Photoelectric Cloak",
-      "de": "Wird beim Herstellen verwendet. Zur Herstellung von: Köder-Granate, Fotoelektrischer Tarnumhang",
+      "de": "Wird bei der Herstellung verwendet. Zur Herstellung von: Ködergranate, Fotoelektrischer Umhang",
       "fr": "Utilisé pour la fabrication. Permet de fabriquer : Grenade leurre, Cape photoélectrique",
       "es": "Usado en fabricación. Usado para fabricar: Granada señuelo, Capa fotoeléctrica",
       "pt": "Usado na fabricação. Usado para fabricar: Granada de isca, Capa fotoelétrica",
@@ -9911,7 +9911,7 @@
     "rarity": "Epic",
     "description": {
       "en": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility.",
-      "de": "Ein schwerer Schild, der einen großen Teil des eingehenden Schadens blockiert, aber erhebliche Mobilitätskosten verursacht.",
+      "de": "Ein schwerer Schild, der einen großen Teil des eingehenden Schadens abwehrt, worunter allerdings die Mobilität deutlich leidet.",
       "fr": "Un bouclier lourd qui bloque une grande portion des dégâts entrants, mais entraîne un coût significatif en mobilité.",
       "es": "Un escudo pesado que bloquea una gran porción del daño entrante, pero conlleva un coste significativo de movilidad.",
       "pt": "Um escudo pesado que bloqueia uma grande porção do dano recebido, mas acarreta um custo significativo de mobilidade.",
@@ -10326,7 +10326,7 @@
     "id": "photoelectric_cloak",
     "name": {
       "en": "Photoelectric Cloak",
-      "de": "Photoelektrischer Umhang",
+      "de": "Fotoelektrischer Umhang",
       "fr": "Cape photoélectrique",
       "es": "Capa fotoeléctrica",
       "pt": "Capa fotoelétrica",
@@ -10346,7 +10346,7 @@
     },
     "description": {
       "en": "A gadget that allows the user to conceal themselves from ARC.",
-      "de": "Ein Gerät, das es dem Benutzer ermöglicht, sich vor ARC zu verbergen.",
+      "de": "Ein Gadget, mit dem der Benutzer sich vor ARC verstecken kann.",
       "fr": "Un gadget qui permet à l'utilisateur de se dissimuler d'ARC.",
       "es": "Un dispositivo que permite al usuario ocultarse de ARC.",
       "pt": "Um dispositivo que permite ao usuário se ocultar do ARC.",
@@ -10550,7 +10550,7 @@
     },
     "description": {
       "en": "Slightly reduces the amount of noise produced when firing.",
-      "de": "Reduziert leicht die beim Schießen erzeugte Geräuschmenge.",
+      "de": "Verringert die Lautstärke von Schüssen geringfügig.",
       "fr": "Réduit légèrement la quantité de bruit produite lors du tir.",
       "es": "Reduce ligeramente la cantidad de ruido producido al disparar.",
       "pt": "Reduz ligeiramente a quantidade de ruído produzido ao disparar.",
@@ -10787,7 +10787,7 @@
     },
     "description": {
       "en": "Slightly reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "de": "Reduziert leicht die Streuung pro Schuss. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+      "de": "Verringert die Streuung pro Schuss geringfügig. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "fr": "Réduit légèrement la dispersion par tir. Compatible avec : Arpège, Ferro, Renégat, Enclume, Sutureur",
       "es": "Reduce ligeramente la dispersión por disparo. Compatible con: Arpeggio, Ferro, Renegado, Yunque, Costurero",
       "pt": "Reduz ligeiramente a dispersão por tiro. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -10838,7 +10838,7 @@
     "effects": {
       "Reduced Per-Shot Dispersion": {
         "en": "Reduced Per-Shot Dispersion",
-        "de": "Reduzierte Streuung pro Schuss",
+        "de": "Verringerte Streuung pro Schuss",
         "fr": "Dispersion par tir réduite",
         "es": "Dispersión por disparo reducida",
         "pt": "Dispersão por tiro reduzida",
@@ -10859,7 +10859,7 @@
       },
       "Reduced Max Shot Dispersion": {
         "en": "Reduced Max Shot Dispersion",
-        "de": "Reduzierte maximale Schussstreuung",
+        "de": "Verringerte max. Streuung pro Schuss",
         "fr": "Dispersion maximale réduite",
         "es": "Dispersión máxima reducida",
         "pt": "Dispersão máxima reduzida",
@@ -11172,7 +11172,7 @@
     },
     "description": {
       "en": "A medical item that continuously restores health during use. Can be used on yourself or your allies.",
-      "de": "Ein medizinischer Gegenstand, der während der Anwendung kontinuierlich Gesundheit wiederherstellt. Kann bei sich selbst oder Verbündeten angewendet werden.",
+      "de": "Ein medizinischer Gegenstand, der während der Verwendung kontinuierlich Gesundheit wiederherstellt. Kann für dich selbst oder Verbündete benutzt werden.",
       "fr": "Un objet médical qui restaure continuellement la santé pendant l'utilisation. Peut être utilisé sur vous-même ou vos alliés.",
       "es": "Un objeto médico que restaura salud continuamente durante el uso. Puede usarse en ti mismo o en tus aliados.",
       "pt": "Um item médico que restaura saúde continuamente durante o uso. Pode ser usado em você mesmo ou em seus aliados.",
@@ -11240,7 +11240,7 @@
       },
       "Heal Capacity": {
         "en": "Heal Capacity",
-        "de": "Heilkapazität",
+        "de": "Heilungskapazität",
         "fr": "Capacité de soins",
         "es": "Capacidad de curación",
         "pt": "Capacidade de cura",
@@ -11403,7 +11403,7 @@
     "id": "dam_staff_room_key",
     "name": {
       "en": "Dam Staff Room Key",
-      "de": "Damm-Personalraum-Schlüssel",
+      "de": "Personalraumschlüssel (Damm)",
       "fr": "Clé de la salle du personnel du barrage",
       "es": "Llave de la sala de personal de la presa",
       "pt": "Chave da sala de funcionários da represa",
@@ -11423,7 +11423,7 @@
     },
     "description": {
       "en": "A key to the staff room in The Dam.",
-      "de": "Ein Schlüssel zum Personalraum im Damm.",
+      "de": "Öffnet eine Tür im Forschungs- und Verwaltungsgebäude an den Damm-Schlachtfeldern.",
       "fr": "Une clé de la salle du personnel dans le barrage.",
       "es": "Una llave de la sala de personal en la presa.",
       "pt": "Uma chave para a sala de funcionários na represa.",
@@ -11727,7 +11727,7 @@
     "id": "buried_city_town_hall_key",
     "name": {
       "en": "Buried City Town Hall Key",
-      "de": "Vergrabene Stadt Rathaus-Schlüssel",
+      "de": "Rathausschlüssel (Begrabene Stadt)",
       "fr": "Clé de l'hôtel de ville de la cité enfouie",
       "es": "Llave del ayuntamiento de la ciudad enterrada",
       "pt": "Chave da prefeitura da cidade enterrada",
@@ -11747,7 +11747,7 @@
     },
     "description": {
       "en": "Unlocks the door to the Town Hall in Buried City",
-      "de": "Öffnet die Tür zum Rathaus in der vergrabenen Stadt",
+      "de": "Öffnet die Tür zum Rathaus in der Bergrabenen Stadt",
       "fr": "Déverrouille la porte de l'hôtel de ville dans la cité enfouie",
       "es": "Desbloquea la puerta del ayuntamiento en la ciudad enterrada",
       "pt": "Desbloqueia a porta da prefeitura na cidade enterrada",
@@ -11777,7 +11777,7 @@
     "id": "trigger_nade",
     "name": {
       "en": "Trigger 'Nade",
-      "de": "Auslöser-Granate",
+      "de": "Abzuggranate",
       "fr": "Grenade déclenchée",
       "es": "Granada de gatillo",
       "pt": "Granada de ativação",
@@ -11797,7 +11797,7 @@
     },
     "description": {
       "en": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
-      "de": "Eine ferngesteuerte Granate, die an Oberflächen und ARC haften kann und bei Auslösung explosiven Schaden verursacht.",
+      "de": "Eine ferngezündete Granate, die an Oberflächen und ARC haften bleibt und bei Zündung Explosionsschaden verursacht.",
       "fr": "Une grenade à détonation à distance qui peut adhérer aux surfaces et aux ARC, infligeant des dégâts explosifs lorsqu'elle est déclenchée.",
       "es": "Una granada de detonación remota que puede adherirse a superficies y ARC, causando daño explosivo al activarse.",
       "pt": "Uma granada de detonação remota que pode grudar em superfícies e ARC, causando dano explosivo quando ativada.",
@@ -11880,7 +11880,7 @@
     "id": "spaceport_container_storage_key",
     "name": {
       "en": "Spaceport Container Storage Key",
-      "de": "Raumhafen-Containerlager-Schlüssel",
+      "de": "Containerlagerschlüssel (Raumhafen)",
       "fr": "Clé de l'entrepôt de conteneurs du spatioport",
       "es": "Llave del almacén de contenedores del espaciopuerto",
       "pt": "Chave do armazém de contêineres do espaçoporto",
@@ -11900,7 +11900,7 @@
     },
     "description": {
       "en": "A key for container storage at the Spaceport.",
-      "de": "Ein Schlüssel für das Containerlager am Raumhafen.",
+      "de": "Öffnet eine Tür im Containerlager im Raumhafen.",
       "fr": "Une clé pour l'entrepôt de conteneurs au spatioport.",
       "es": "Una llave para el almacén de contenedores en el espaciopuerto.",
       "pt": "Uma chave para o armazém de contêineres no espaçoporto.",
@@ -12796,7 +12796,7 @@
     "id": "tactical_mk2",
     "name": {
       "en": "Tactical Mk. 2",
-      "de": "Taktisch Mk. 2",
+      "de": "Taktisch-Marke 2",
       "fr": "Tactique 2",
       "es": "Táctico Ver. 2",
       "pt": "Tático Mk. 2",
@@ -12816,7 +12816,7 @@
     },
     "description": {
       "en": "Adds more backpack space and an extra utility item slot.",
-      "de": "Fügt mehr Rucksackplatz und einen zusätzlichen Werkzeuggegenstand-Slot hinzu.",
+      "de": "Sorgt für mehr Platz im Rucksack und gewährt einen weiteren Platz für Gebrauchsgegenstände.",
       "fr": "Ajoute plus d'espace de sac à dos et un emplacement d'objet utilitaire supplémentaire.",
       "es": "Añade más espacio de mochila y una ranura adicional de objeto de utilidad.",
       "pt": "Adiciona mais espaço de mochila e um espaço extra de item utilitário.",
@@ -12863,7 +12863,7 @@
       },
       "Max Loadout Weight": {
         "en": "Max Loadout Weight",
-        "de": "Max. Ausrüstungsgewicht",
+        "de": "Max. Loadout-Gewicht",
         "fr": "Poids max. de l'équipement",
         "es": "Peso máximo de equipamiento",
         "pt": "Peso máximo de equipamento",
@@ -16215,7 +16215,7 @@
     "id": "lure_grenade_blueprint",
     "name": {
       "en": "Lure Grenade Blueprint",
-      "de": "Lockgranaten-Bauplan",
+      "de": "Bauplan: Ködergranate",
       "fr": "Schéma de grenade leurre",
       "es": "Plano de granada señuelo",
       "pt": "Projeto de granada isca",
@@ -16235,7 +16235,7 @@
     },
     "description": {
       "en": "A noisy device that sticks to surfaces, distracting nearby ARC machines and drawing their fire.",
-      "de": "Ein lautes Gerät, das an Oberflächen haftet, nahegelegene ARC-Maschinen ablenkt und ihr Feuer auf sich zieht.",
+      "de": "Ein lautes Gerät, das an Oberflächen haften bleibt, ARC-Maschinen in der Nähe ablenkt und ihre Schüsse auf sich zieht.",
       "fr": "Un dispositif bruyant qui adhère aux surfaces, distrayant les machines ARC à proximité et attirant leur tir.",
       "es": "Un dispositivo ruidoso que se adhiere a superficies, distrayendo a las máquinas ARC cercanas y atrayendo su fuego.",
       "pt": "Um dispositivo barulhento que gruda em superfícies, distraindo máquinas ARC próximas e atraindo seu fogo.",
@@ -16720,7 +16720,7 @@
     "id": "surge_shield_recharger",
     "name": {
       "en": "Surge Shield Recharger",
-      "de": "Stoß-Schildauflader",
+      "de": "Sturm-Schildauflader",
       "fr": "Rechargeur de bouclier d'impulsion",
       "es": "Cargador de escudos de sobrecarga",
       "pt": "Recarregador de escudo de impulso",
@@ -16740,7 +16740,7 @@
     },
     "description": {
       "en": "A handheld kit that recharges a shield on use.",
-      "de": "Ein tragbares Kit, das bei Verwendung einen Schild auflädt.",
+      "de": "Ein tragbares Set, das bei Gebrauch einen Schild wieder auflädt.",
       "fr": "Un kit portable qui recharge un bouclier à l'utilisation.",
       "es": "Un kit portátil que recarga un escudo al usarse.",
       "pt": "Um kit portátil que recarrega um escudo ao ser usado.",
@@ -16822,7 +16822,7 @@
     "id": "vertical_grip_ii",
     "name": {
       "en": "Vertical Grip II",
-      "de": "Vertikalgriff II",
+      "de": "Vertikaler Griff II",
       "fr": "Poignée verticale II",
       "es": "Empuñadura vertical II",
       "pt": "Punho Vertical II",
@@ -16842,7 +16842,7 @@
     },
     "description": {
       "en": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
-      "de": "Reduziert den vertikalen Rückstoß mäßig. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+      "de": "Verringert den vertikalen Rückstoß moderat. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "fr": "Réduit modérément le recul vertical. Compatible avec : Arpège, Ferro, Venator, Il Toro, Sutureur",
       "es": "Reduce moderadamente el retroceso vertical. Compatible con: Arpeggio, Ferro, Venator, Il Toro, Costurero",
       "pt": "Reduz moderadamente o recuo vertical. Compatível com: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
@@ -16871,7 +16871,7 @@
     "effects": {
       "Reduced Vertical Recoil": {
         "en": "Reduced Vertical Recoil",
-        "de": "Reduzierter vertikaler Rückstoß",
+        "de": "Verringerter vertikaler Rückstoß",
         "fr": "Recul vertical réduit",
         "es": "Retroceso vertical reducido",
         "pt": "Recuo vertical reduzido",
@@ -16919,7 +16919,7 @@
     },
     "description": {
       "en": "Moderately improves dispersion & recoil recovery time.",
-      "de": "Verbessert mäßig Streuung und Rückstoßerholungszeit.",
+      "de": "Verringert die Zeit, in der du dich von Streuung und Rückstoß erholst, moderat.",
       "fr": "Améliore modérément la dispersion et le temps de récupération du recul.",
       "es": "Mejora moderadamente la dispersión y el tiempo de recuperación del retroceso.",
       "pt": "Melhora moderadamente a dispersão e o tempo de recuperação do recuo.",
@@ -17065,7 +17065,7 @@
     "id": "flame_spray",
     "name": {
       "en": "Flame Spray",
-      "de": "Flammenwerfer",
+      "de": "Flammen-Spray",
       "fr": "Lance-flammes",
       "es": "Lanzallamas",
       "pt": "Lança-chamas",
@@ -17085,7 +17085,7 @@
     },
     "description": {
       "en": "A classic makeshift weapon, sure to leave scorch marks.",
-      "de": "Eine klassische provisorische Waffe, die garantiert Brandspuren hinterlässt.",
+      "de": "Eine klassische Behelfswaffe. Hinterlässt garantiert Brandflecken.",
       "fr": "Une arme de fortune classique qui laissera certainement des traces de brûlure.",
       "es": "Un arma improvisada clásica que seguramente dejará marcas de quemaduras.",
       "pt": "Uma arma improvisada clássica que certamente deixará marcas de queimadura.",
@@ -17158,7 +17158,7 @@
     "id": "blaze_grenade_trap",
     "name": {
       "en": "Blaze Grenade Trap",
-      "de": "Flammengranaten-Falle",
+      "de": "Laserfalle: Feuer",
       "fr": "Piège à grenade incendiaire",
       "es": "Trampa de granada incendiaria",
       "pt": "Armadilha de granada incendiária",
@@ -17178,7 +17178,7 @@
     },
     "description": {
       "en": "A laser trip wire that detonates a Blaze Grenade.",
-      "de": "Ein Laser-Stolperdraht, der eine Flammengranate zündet.",
+      "de": "Ein Laser-Stolperdraht, der eine Flammengranate detonieren lässt.",
       "fr": "Un fil laser qui fait exploser une grenade incendiaire.",
       "es": "Un cable trampa láser que detona una granada incendiaria.",
       "pt": "Um fio de disparo a laser que detona uma granada incendiária.",
@@ -17252,7 +17252,7 @@
     "id": "gas_grenade_trap",
     "name": {
       "en": "Gas Grenade Trap",
-      "de": "Gasgranaten-Falle",
+      "de": "Laserfalle: Gas",
       "fr": "Piège à grenade à gaz",
       "es": "Trampa de granada de gas",
       "pt": "Armadilha de granada de gás",
@@ -17272,7 +17272,7 @@
     },
     "description": {
       "en": "A laser trip wire that detonates a Gas Grenade.",
-      "de": "Ein Laser-Stolperdraht, der eine Gasgranate zündet.",
+      "de": "Ein Laser-Stolperdraht, der eine Gasgranate detonieren lässt.",
       "fr": "Un fil laser qui fait exploser une grenade à gaz.",
       "es": "Un cable trampa láser que detona una granada de gas.",
       "pt": "Um fio de disparo a laser que detona uma granada de gás.",
@@ -17473,7 +17473,7 @@
     "id": "tactical_mk3_healing",
     "name": {
       "en": "Tactical Mk. 3 (Healing)",
-      "de": "Taktisch Mk. 3 (Heilung)",
+      "de": "Taktisch-Marke 3 (Heilung)",
       "fr": "Tactique 3 (soins)",
       "es": "Táctico Ver. 3 (Curación)",
       "pt": "Tático Mk. 3 (Cura)",
@@ -17493,7 +17493,7 @@
     },
     "description": {
       "en": "A healing-focused augment which adds extra slots for healing items. When revived from being downed, releases a healing cloud that restores 20 health over 10 seconds. Has a 30-second cooldown.",
-      "de": "Ein auf Heilung fokussiertes Augment, das zusätzliche Slots für Heilgegenstände hinzufügt. Setzt beim Wiederbeleben eine Heilwolke frei, die 10 Sekunden lang 20 Gesundheit wiederherstellt. Hat eine Abklingzeit von 30 Sekunden.",
+      "de": "Ein heilungsorientiertes Augment, das zusätzliche Plätze für heilende Gegenstände hinzufügt. Wenn du entkräftet bist und wiederbelebt wirst, wird eine Heilungswolke ausgelöst, die über  10 Sekunden 20 Gesundheit wiederherstellt. Hat eine Abklingzeit von 30 Sekunden.",
       "fr": "Une amélioration axée sur les soins qui ajoute des emplacements supplémentaires pour les objets de soin. Lors de la réanimation, libère un nuage de soin qui restaure 20 points de vie sur 10 secondes. A un temps de recharge de 30 secondes.",
       "es": "Un aumento centrado en la curación que añade ranuras adicionales para objetos de curación. Al ser reanimado, libera una nube curativa que restaura 20 de salud durante 10 segundos. Tiene un tiempo de reutilización de 30 segundos.",
       "pt": "Um aumento focado em cura que adiciona espaços extras para itens de cura. Ao ser reanimado, libera uma nuvem curativa que restaura 20 de vida ao longo de 10 segundos. Tem um tempo de recarga de 30 segundos.",
@@ -17541,7 +17541,7 @@
       },
       "Max Loadout Weight": {
         "en": "Max Loadout Weight",
-        "de": "Max. Ausrüstungsgewicht",
+        "de": "Max. Loadout-Gewicht",
         "fr": "Poids max. de l'équipement",
         "es": "Peso máximo del equipamiento",
         "pt": "Peso máximo do equipamento",
@@ -18479,7 +18479,7 @@
     },
     "description": {
       "en": "Has high damage output, accuracy, and headshot damage.",
-      "de": "Hat hohe Schadensleistung, Genauigkeit und Kopfschussschaden.",
+      "de": "Richtet bei Körpertreffern und insbesondere bei Kopfschüssen hohen Schaden an und ist präzise.",
       "fr": "Possède des dégâts élevés, une bonne précision et des dégâts de tir à la tête importants.",
       "es": "Tiene alta potencia de daño, precisión y daño por disparo a la cabeza.",
       "pt": "Possui alto dano, precisão e dano de tiro na cabeça.",
@@ -18586,7 +18586,7 @@
       },
       "ARC Armor Penetration": {
         "en": "ARC Armor Penetration",
-        "de": "ARC-Rüstungsdurchdringung",
+        "de": "ARC-Panzerungsdurchdringung",
         "fr": "Pénétration d'armure ARC",
         "es": "Penetración de armadura ARC",
         "pt": "Penetração de armadura ARC",
@@ -19085,7 +19085,7 @@
     },
     "description": {
       "en": "Moderately reduces the amount of noise produced when firing. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "de": "Reduziert die beim Schießen erzeugte Geräuschmenge moderat. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+      "de": "Verringert die Lautstärke von Schüssen moderat. Kompatibel mit: Arpeggio, Rattler, Kettle, Ferro, Anvil",
       "fr": "Réduit modérément la quantité de bruit produite lors du tir. Compatible avec : Arpège, Ferro, Renégat, Enclume, Sutureur",
       "es": "Reduce moderadamente la cantidad de ruido producido al disparar. Compatible con: Arpeggio, Ferro, Renegado, Yunque, Costurero",
       "pt": "Reduz moderadamente a quantidade de ruído produzida ao disparar. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -19250,7 +19250,7 @@
     },
     "description": {
       "en": "Moderately reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-      "de": "Reduziert die Streuung pro Schuss moderat. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+      "de": "Verringert die Streuung pro Schuss moderat. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
       "fr": "Réduit modérément la dispersion par tir. Compatible avec : Arpège, Ferro, Renégat, Enclume, Sutureur",
       "es": "Reduce moderadamente la dispersión por disparo. Compatible con: Arpeggio, Ferro, Renegado, Yunque, Costurero",
       "pt": "Reduz moderadamente a dispersão por disparo. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -19492,7 +19492,7 @@
     },
     "description": {
       "en": "Moderately extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
-      "de": "Erweitert die Munitionskapazität kompatibler Waffen mit leichter Munition mäßig. Kompatibel mit: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
+      "de": "Erhöht die Munitionskapazität kompatibler Waffen mit leichter Munition moderat. Kompatibel mit: Kettle, Burletta, Stitcher, Hairpin, Bobcat",
       "fr": "Augmente modérément la capacité de munitions des armes compatibles utilisant des munitions légères. Compatible avec : Sutureur, Fondoir, Burletta, Hairpin, Bobcat",
       "es": "Extiende moderadamente la capacidad de munición de armas compatibles que usan munición ligera. Compatible con: Costurero, Caldero, Burletta, Horquilla, Bobcat",
       "pt": "Estende moderadamente a capacidade de munição de armas compatíveis que usam munição leve. Compatível com: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
@@ -20806,7 +20806,7 @@
     },
     "description": {
       "en": "Used to craft weapon mods. Can be recycled into crafting materials. Used to craft: Lightweight Stock, Shotgun Choke III, Extended Shotgun Mag III, Padded Stock, Compensator III",
-      "de": "Wird zur Herstellung von Waffenmods verwendet. Kann zu Herstellungsmaterialien recycelt werden. Zur Herstellung von: Leichtgewichtkolben, Schrotflinten-Choke III, Erweitertes Schrotflinten-Magazin III, Gepolsterter Kolben, Kompensator III",
+      "de": "Wird zur Herstellung von Waffen-Mods verwendet. Kann zu Herstellungsmaterialien recycelt werden. Zur Herstellung von: Leichtgewichtkolben, Schrotflinten-Choke III, Erweitertes Schrotflinten-Magazin III, Gepolsterter Kolben, Kompensator III",
       "fr": "Permet de fabriquer des mods d'armes. Peut être recyclé en matériaux d'artisanat. Permet de fabriquer : Crosse légère, Choke de fusil à pompe III, Chargeur de fusil à pompe étendu III, Crosse rembourrée, Compensateur III",
       "es": "Se usa para fabricar modificaciones de armas. Se puede reciclar en materiales de fabricación. Se usa para fabricar: Culata ligera, Estrangulador de escopeta III, Cargador extendido de escopeta III, Culata acolchada, Compensador III",
       "pt": "Usado para fabricar modificações de armas. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Coronha leve, Choke de espingarda III, Carregador estendido de espingarda III, Coronha acolchoada, Compensador III",
@@ -22936,7 +22936,7 @@
     },
     "description": {
       "en": "Slightly reduces both vertical recoil & horizontal recoil. Compatible with: Rattler, Ferro, Burletta, Stitcher, Tempest",
-      "de": "Reduziert sowohl vertikalen als auch horizontalen Rückstoß leicht. Kompatibel mit: Rattler, Ferro, Burletta, Stitcher, Tempest",
+      "de": "Verringert den vertikalen und horizontalen Rückstoß geringfügig. Kompatibel mit: Rattler, Ferro, Burletta, Stitcher, Tempest",
       "fr": "Réduit légèrement le recul vertical et horizontal. Compatible avec : Crotale, Ferro, Burletta, Sutureur, Tempête",
       "es": "Reduce ligeramente tanto el retroceso vertical como el horizontal. Compatible con: Crótalo, Ferro, Burletta, Costurero, Tempestad",
       "pt": "Reduz ligeiramente tanto o recuo vertical quanto o horizontal. Compatível com: Rattler, Ferro, Burletta, Stitcher, Tempest",
@@ -22964,7 +22964,7 @@
     "effects": {
       "Reduced Vertical Recoil": {
         "en": "Reduced Vertical Recoil",
-        "de": "Reduzierter vertikaler Rückstoß",
+        "de": "Verringerter vertikaler Rückstoß",
         "fr": "Recul vertical réduit",
         "es": "Retroceso vertical reducido",
         "pt": "Recuo vertical reduzido",
@@ -22985,7 +22985,7 @@
       },
       "Reduced Horizontal Recoil": {
         "en": "Reduced Horizontal Recoil",
-        "de": "Reduzierter horizontaler Rückstoß",
+        "de": "Verringerter horizontaler Rückstoß",
         "fr": "Recul horizontal réduit",
         "es": "Retroceso horizontal reducido",
         "pt": "Recuo horizontal reduzido",
@@ -23403,7 +23403,7 @@
     "id": "looting_mk3_cautious",
     "name": {
       "en": "Looting Mk. 3 (Cautious)",
-      "de": "Plünderung Mk. 3 (Vorsichtig)",
+      "de": "Beute-Marke 3 (Vorsichtig)",
       "fr": "Butin 3 (prudence)",
       "es": "Saqueo Ver. 3 (Cauteloso)",
       "pt": "Saque Mk. 3 (Cauteloso)",
@@ -23423,7 +23423,7 @@
     },
     "description": {
       "en": "A looting augment that swaps some carry capacity to increase survivability. Upon Shield break, automatically administers a weak Adrenaline Shot. Has a fixed cooldown.",
-      "de": "Eine Plünderungsverbesserung, die etwas Tragekapazität gegen erhöhte Überlebensfähigkeit tauscht. Bei Schildbruch wird automatisch eine schwache Adrenalinspritze verabreicht. Hat eine feste Abklingzeit.",
+      "de": "Ein Plünder-Augment, das einen Teil der Tragekapazität gegen mehr Überlebensfähigkeit eintauscht.",
       "fr": "Une amélioration de pillage qui échange une partie de la capacité de transport pour augmenter la survie. Lors de la rupture du bouclier, administre automatiquement une injection d'adrénaline faible. A un temps de recharge fixe.",
       "es": "Un aumento de saqueo que intercambia algo de capacidad de carga para aumentar la supervivencia. Al romperse el escudo, administra automáticamente una inyección de adrenalina débil. Tiene un tiempo de reutilización fijo.",
       "pt": "Um aumento de saque que troca alguma capacidade de carga para aumentar a sobrevivência. Ao quebrar o escudo, administra automaticamente uma injeção de adrenalina fraca. Tem um tempo de recarga fixo.",
@@ -23469,7 +23469,7 @@
       },
       "Max Loadout Weight": {
         "en": "Max Loadout Weight",
-        "de": "Max. Ausrüstungsgewicht",
+        "de": "Max. Loadout-Gewicht",
         "fr": "Poids max. de l'équipement",
         "es": "Peso máx. del equipamiento",
         "pt": "Peso máx. do equipamento",
@@ -23599,7 +23599,7 @@
     "id": "extended_shotgun_mag_i",
     "name": {
       "en": "Extended Shotgun Mag I",
-      "de": "Erweitertes Schrotflinten-Magazin I",
+      "de": "Erweitertes Schrotflintenmagazin I",
       "fr": "Chargeur de fusil à pompe étendu I",
       "es": "Cargador de escopeta extendido I",
       "pt": "Carregador de espingarda estendido I",
@@ -23619,7 +23619,7 @@
     },
     "description": {
       "en": "Slightly extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
-      "de": "Erweitert die Munitionskapazität von Schrotflinten leicht. Kompatibel mit: Il Toro, Vulcano",
+      "de": "Erhöht die Munitionskapazität von Schrotflinten geringfügig. Kompatibel mit: Il Toro, Vulcano",
       "fr": "Augmente légèrement la capacité de munitions des fusils à pompe. Compatible avec : Il Toro, Vulcano",
       "es": "Extiende ligeramente la capacidad de munición de las escopetas. Compatible con: Il Toro, Vulcano",
       "pt": "Estende ligeiramente a capacidade de munição das espingardas. Compatível com: Il Toro, Vulcano",
@@ -23676,7 +23676,7 @@
     "id": "shotgun_choke_i",
     "name": {
       "en": "Shotgun Choke I",
-      "de": "Schrotflinten-Choke I",
+      "de": "Schrotflintenchoke I",
       "fr": "Choke de fusil à pompe I",
       "es": "Estrangulador de escopeta I",
       "pt": "Afogador de espingarda I",
@@ -23696,7 +23696,7 @@
     },
     "description": {
       "en": "Slightly reduces base dispersion. Compatible with: Il Toro, Vulcano",
-      "de": "Reduziert die Grundstreuung leicht. Kompatibel mit: Il Toro, Vulcano",
+      "de": "Verringert die Grundstreuung geringfügig. Kompatibel mit: Il Toro, Vulcano",
       "fr": "Réduit légèrement la dispersion de base. Compatible avec : Il Toro, Vulcano",
       "es": "Reduce ligeramente la dispersión base. Compatible con: Il Toro, Vulcano",
       "pt": "Reduz ligeiramente a dispersão base. Compatível com: Il Toro, Vulcano",
@@ -23721,7 +23721,7 @@
     "effects": {
       "Reduced Base Dispersion": {
         "en": "Reduced Base Dispersion",
-        "de": "Reduzierte Grundstreuung",
+        "de": "Verringerte Grundstreuung",
         "fr": "Dispersion de base réduite",
         "es": "Dispersión base reducida",
         "pt": "Dispersão base reduzida",
@@ -23773,7 +23773,7 @@
     },
     "description": {
       "en": "Slightly reduces vertical recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
-      "de": "Reduziert den vertikalen Rückstoß leicht. Kompatibel mit: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+      "de": "Verringert den vertikalen Rückstoß geringfügig. Kompatibel mit: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
       "fr": "Réduit légèrement le recul vertical. Compatible avec : Tempête, Arpège, Fondoir, Ferro, Brise-fuselage",
       "es": "Reduce ligeramente el retroceso vertical. Compatible con: Tempestad, Arpeggio, Crótalo, Ferro, Partecascos",
       "pt": "Reduz ligeiramente o recuo vertical. Compatível com: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
@@ -23798,7 +23798,7 @@
     "effects": {
       "Reduced Vertical Recoil": {
         "en": "Reduced Vertical Recoil",
-        "de": "Reduzierter vertikaler Rückstoß",
+        "de": "Verringerter vertikaler Rückstoß",
         "fr": "Recul vertical réduit",
         "es": "Retroceso vertical reducido",
         "pt": "Recuo vertical reduzido",
@@ -24208,7 +24208,7 @@
     "id": "shotgun_ammo",
     "name": {
       "en": "Shotgun Ammo",
-      "de": "Schrotflinten-Munition",
+      "de": "Schrotflintenmunition",
       "fr": "Cartouches de pompe",
       "es": "Munición de escopeta",
       "pt": "Munição de espingarda",
@@ -26978,7 +26978,7 @@
     "id": "vertical_grip_iii",
     "name": {
       "en": "Vertical Grip III",
-      "de": "Vertikalgriff III",
+      "de": "Vertikaler Griff III",
       "fr": "Poignée Verticale III",
       "es": "Empuñadura Vertical III",
       "pt": "Empunhadura Vertical III",
@@ -26998,7 +26998,7 @@
     },
     "description": {
       "en": "Significantly reduces vertical recoil. Compatible with: Tempest, Kettle, Hullcracker, Venator, Il Toro",
-      "de": "Reduziert den vertikalen Rückstoß erheblich. Kompatibel mit: Tempest, Kettle, Hullcracker, Venator, Il Toro",
+      "de": "Verringert den vertikalen Rückstoß erheblich. Kompatibel mit: Tempest, Kettle, Hullcracker, Venator, Il Toro",
       "fr": "Réduit considérablement le recul vertical. Compatible avec : Tempête, Fondoir, Brise-fuselage, Venator, Il Toro",
       "es": "Reduce significativamente el retroceso vertical. Compatible con: Tempestad, Caldero, Partecascos, Venator, Il Toro",
       "pt": "Reduz significativamente o recuo vertical. Compatível com: Tempest, Kettle, Hullcracker, Venator, Il Toro",
@@ -27023,7 +27023,7 @@
     "effects": {
       "Reduced Vertical Recoil": {
         "en": "Reduced Vertical Recoil",
-        "de": "Reduzierter vertikaler Rückstoß",
+        "de": "Verringerter vertikaler Rückstoß",
         "fr": "Recul vertical réduit",
         "es": "Retroceso vertical reducido",
         "pt": "Recuo vertical reduzido",
@@ -27044,7 +27044,7 @@
       },
       "Reduced ADS Speed": {
         "en": "Reduced ADS Speed",
-        "de": "Reduzierte Zielgeschwindigkeit",
+        "de": "Verringerte Geschwindigkeit zum Zielen mit Visier",
         "fr": "Vitesse de visée réduite",
         "es": "Velocidad de apuntado reducida",
         "pt": "Velocidade de mira reduzida",
@@ -28144,7 +28144,7 @@
     },
     "description": {
       "en": "Has decent damage output and accuracy.",
-      "de": "Hat ordentliche Schadensleistung und Genauigkeit.",
+      "de": "Verursacht ordentlichen Schaden bei annehmbarer Genauigkeit.",
       "fr": "A des dégâts et une précision corrects.",
       "es": "Tiene un daño y precisión decentes.",
       "pt": "Tem dano e precisão decentes.",
@@ -28894,7 +28894,7 @@
     "id": "hairpin_i",
     "name": {
       "en": "Hairpin I",
-      "de": "Haarnadel I",
+      "de": "Hairpin I",
       "fr": "Épingle I",
       "es": "Horquilla I",
       "pt": "Grampo de cabelo I",
@@ -28914,7 +28914,7 @@
     },
     "description": {
       "en": "Has a built-in silencer. Great for stealth, but tricky in combat.",
-      "de": "Hat einen eingebauten Schalldämpfer. Großartig für Heimlichkeit, aber schwierig im Kampf.",
+      "de": "Hat einen eingebauten Schalldämpfer. Herausragend, um unentdeckt zu bleiben, im Feuergefecht aber eher unpraktisch.",
       "fr": "A un silencieux intégré. Idéal pour la furtivité, mais délicat en combat.",
       "es": "Tiene un silenciador integrado. Excelente para sigilo, pero complicado en combate.",
       "pt": "Tem um silenciador integrado. Ótimo para furtividade, mas complicado em combate.",
@@ -29021,7 +29021,7 @@
       },
       "ARC Armor Penetration": {
         "en": "ARC Armor Penetration",
-        "de": "ARC-Rüstungsdurchdringung",
+        "de": "ARC-Panzerungsdurchdringung",
         "fr": "Pénétration d'armure ARC",
         "es": "Penetración de armadura ARC",
         "pt": "Penetração de armadura ARC",
@@ -29042,7 +29042,7 @@
       },
       "Special Trait": {
         "en": "Special Trait",
-        "de": "Besondere Eigenschaft",
+        "de": "Spezialmerkmal",
         "fr": "Trait spécial",
         "es": "Rasgo especial",
         "pt": "Característica especial",
@@ -29083,7 +29083,7 @@
     "id": "hairpin_ii",
     "name": {
       "en": "Hairpin II",
-      "de": "Haarnadel II",
+      "de": "Hairpin II",
       "fr": "Épingle II",
       "es": "Horquilla II",
       "pt": "Grampo de cabelo II",
@@ -29103,7 +29103,7 @@
     },
     "description": {
       "en": "Has a built-in silencer. Great for stealth, but tricky in combat.",
-      "de": "Hat einen eingebauten Schalldämpfer. Großartig für Heimlichkeit, aber schwierig im Kampf.",
+      "de": "Hat einen eingebauten Schalldämpfer. Herausragend, um unentdeckt zu bleiben, im Feuergefecht aber eher unpraktisch.",
       "fr": "A un silencieux intégré. Idéal pour la furtivité, mais délicat en combat.",
       "es": "Tiene un silenciador integrado. Excelente para sigilo, pero complicado en combate.",
       "pt": "Tem um silenciador integrado. Ótimo para furtividade, mas complicado em combate.",
@@ -29210,7 +29210,7 @@
       },
       "ARC Armor Penetration": {
         "en": "ARC Armor Penetration",
-        "de": "ARC-Rüstungsdurchdringung",
+        "de": "ARC-Panzerungsdurchdringung",
         "fr": "Pénétration d'armure ARC",
         "es": "Penetración de armadura ARC",
         "pt": "Penetração de armadura ARC",
@@ -29231,7 +29231,7 @@
       },
       "Special Trait": {
         "en": "Special Trait",
-        "de": "Besondere Eigenschaft",
+        "de": "Spezialmerkmal",
         "fr": "Trait spécial",
         "es": "Rasgo especial",
         "pt": "Característica especial",
@@ -29313,7 +29313,7 @@
     "id": "hairpin_iii",
     "name": {
       "en": "Hairpin III",
-      "de": "Haarnadel III",
+      "de": "Hairpin III",
       "fr": "Épingle III",
       "es": "Horquilla III",
       "pt": "Grampo de cabelo III",
@@ -29333,7 +29333,7 @@
     },
     "description": {
       "en": "Has a built-in silencer. Great for stealth, but tricky in combat.",
-      "de": "Hat einen eingebauten Schalldämpfer. Großartig für Heimlichkeit, aber schwierig im Kampf.",
+      "de": "Hat einen eingebauten Schalldämpfer. Herausragend, um unentdeckt zu bleiben, im Feuergefecht aber eher unpraktisch.",
       "fr": "A un silencieux intégré. Idéal pour la furtivité, mais délicat en combat.",
       "es": "Tiene un silenciador integrado. Excelente para sigilo, pero complicado en combate.",
       "pt": "Tem um silenciador integrado. Ótimo para furtividade, mas complicado em combate.",
@@ -29440,7 +29440,7 @@
       },
       "ARC Armor Penetration": {
         "en": "ARC Armor Penetration",
-        "de": "ARC-Rüstungsdurchdringung",
+        "de": "ARC-Panzerungsdurchdringung",
         "fr": "Pénétration d'armure ARC",
         "es": "Penetración de armadura ARC",
         "pt": "Penetração de armadura ARC",
@@ -29461,7 +29461,7 @@
       },
       "Special Trait": {
         "en": "Special Trait",
-        "de": "Besondere Eigenschaft",
+        "de": "Spezialmerkmal",
         "fr": "Trait spécial",
         "es": "Rasgo especial",
         "pt": "Característica especial",
@@ -29544,7 +29544,7 @@
     "id": "hairpin_iv",
     "name": {
       "en": "Hairpin IV",
-      "de": "Haarnadel IV",
+      "de": "Hairpin IV",
       "fr": "ÉpingleIV",
       "es": "Horquilla IV",
       "pt": "Grampo de cabelo IV",
@@ -29564,7 +29564,7 @@
     },
     "description": {
       "en": "Has a built-in silencer. Great for stealth, but tricky in combat.",
-      "de": "Hat einen eingebauten Schalldämpfer. Großartig für Heimlichkeit, aber schwierig im Kampf.",
+      "de": "Hat einen eingebauten Schalldämpfer. Herausragend, um unentdeckt zu bleiben, im Feuergefecht aber eher unpraktisch.",
       "fr": "A un silencieux intégré. Idéal pour la furtivité, mais délicat en combat.",
       "es": "Tiene un silenciador integrado. Excelente para sigilo, pero complicado en combate.",
       "pt": "Tem um silenciador integrado. Ótimo para furtividade, mas complicado em combate.",
@@ -29671,7 +29671,7 @@
       },
       "ARC Armor Penetration": {
         "en": "ARC Armor Penetration",
-        "de": "ARC-Rüstungsdurchdringung",
+        "de": "ARC-Panzerungsdurchdringung",
         "fr": "Pénétration d'armure ARC",
         "es": "Penetración de armadura ARC",
         "pt": "Penetração de armadura ARC",
@@ -29692,7 +29692,7 @@
       },
       "Special Trait": {
         "en": "Special Trait",
-        "de": "Besondere Eigenschaft",
+        "de": "Spezialmerkmal",
         "fr": "Trait spécial",
         "es": "Rasgo especial",
         "pt": "Característica especial",
@@ -31368,7 +31368,7 @@
     "id": "looting_mk3_survivor",
     "name": {
       "en": "Looting Mk. 3 (Survivor)",
-      "de": "Plünderungs-Mk. 3 (Überlebender)",
+      "de": "Beute-Marke 3 (Überlebend)",
       "fr": "Pillage Mk. 3 (Survivant)",
       "es": "Saqueo Ver. 3 (Superviviente)",
       "pt": "Saque Mk. 3 (Sobrevivente)",
@@ -31388,7 +31388,7 @@
     },
     "description": {
       "en": "A heavy-duty pack mule augment. Large weight capacity and large backpack space. While downed and stationary, health regenerates up to 75% of max downed health.",
-      "de": "Eine robuste Packesel-Erweiterung. Große Gewichtskapazität und großer Rucksackplatz. Während du am Boden liegst und stationär bist, regeneriert sich die Gesundheit bis zu 75% der maximalen Gesundheit im niedergeschlagenen Zustand.",
+      "de": "Ein robustes Packesel-Augment. Große Gewichtskapazität und viel Platz im Rucksack. Im entkräfteten und bewegungslosen Zustand erholt sich die Gesundheit auf bis zu 75% der max. Gesundheit im entkräfteten Zustand.",
       "fr": "Une amélioration de mulet de bât robuste. Grande capacité de poids et grand espace de sac à dos. Lorsque vous êtes à terre et immobile, la santé se régénère jusqu'à 75% de la santé maximale à terre.",
       "es": "Un aumento de mula de carga resistente. Gran capacidad de peso y gran espacio de mochila. Mientras estás derribado e inmóvil, la salud se regenera hasta el 75% de la salud máxima derribado.",
       "pt": "Um aumento de mula de carga resistente. Grande capacidade de peso e grande espaço de mochila. Enquanto caído e parado, a saúde regenera até 75% da saúde máxima caído.",
@@ -31432,7 +31432,7 @@
       },
       "Max Loadout Weight": {
         "en": "Max Loadout Weight",
-        "de": "Max. Ausrüstungsgewicht",
+        "de": "Max. Loadout-Gewicht",
         "fr": "Poids max. de l'équipement",
         "es": "Peso máximo de equipamiento",
         "pt": "Peso máximo de equipamento",
