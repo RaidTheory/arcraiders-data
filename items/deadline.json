@@ -41,7 +41,7 @@
   },
   "id": "deadline",
   "type": "Quick Use",
-  "value": 2700,
+  "value": 5000,
   "rarity": "Epic",
   "weightKg": 1,
   "stackSize": 1,
@@ -113,6 +113,11 @@
   "recyclesInto": {
     "explosive_compound": 1
   },
+    "craftBench": "explosives_bench",
+  "recipe": {
+    "explosive_compound": 3,
+    "arc_circuitry": 2
+  },
   "imageFilename": "https://cdn.arctracker.io/items/deadline.png",
-  "updatedAt": "11/13/2025"
+  "updatedAt": "11/20/2025"
 }

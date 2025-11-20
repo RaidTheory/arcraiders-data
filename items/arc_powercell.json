@@ -42,9 +42,10 @@
   },
   "type": "Topside Material",
   "rarity": "Common",
-  "value": 640,
+  "value": 270,
   "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/arc_powercell.png",
+  "updatedAt": "11/20/2025",
   "weightKg": 0.5,
   "stackSize": 5,
   "foundIn": "ARC",
@@ -112,6 +113,5 @@
       "sr": "Vreme Korišćenja",
       "value": "3s"
     }
-  },
-  "updatedAt": "11/03/2025"
+  }
 }

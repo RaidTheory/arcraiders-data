@@ -163,5 +163,6 @@
     "oil": 5
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 3
+  "stationLevelRequired": 3,
+  "isWeapon": true
 }

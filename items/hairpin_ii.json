@@ -226,5 +226,6 @@
   "craftBench": "weapon_bench",
   "upgradeCost": {
     "metal_parts": 8
-  }
+  },
+  "isWeapon": true
 }

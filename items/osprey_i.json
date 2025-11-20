@@ -180,5 +180,6 @@
     "wires": 7
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 2
+  "stationLevelRequired": 2,
+  "isWeapon": true
 }

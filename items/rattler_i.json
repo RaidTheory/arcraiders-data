@@ -161,5 +161,6 @@
     "rubber_parts": 12
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 1
+  "stationLevelRequired": 1,
+  "isWeapon": true
 }

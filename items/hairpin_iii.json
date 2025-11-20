@@ -227,5 +227,6 @@
   "upgradeCost": {
     "metal_parts": 6,
     "simple_gun_parts": 1
-  }
+  },
+  "isWeapon": true
 }

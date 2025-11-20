@@ -164,5 +164,6 @@
     "exodus_modules": 1
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 3
+  "stationLevelRequired": 3,
+  "isWeapon": true
 }

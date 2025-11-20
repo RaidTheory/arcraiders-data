@@ -179,5 +179,6 @@
     "mechanical_components": 3,
     "simple_gun_parts": 1
   },
-  "stationLevelRequired": 1
+  "stationLevelRequired": 1,
+  "isWeapon": true
 }
