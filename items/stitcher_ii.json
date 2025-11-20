@@ -48,7 +48,7 @@
     "rubber_parts": 6
   },
   "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-  "updatedAt": "10/31/2025",
+  "updatedAt": "11/20/2025",
   "weightKg": 5,
   "effects": {
     "Durability": {
@@ -156,29 +156,55 @@
       "sr": "ARC probijanje oklopa",
       "value": "Very Weak"
     },
-    "Upgrade Modifiers": {
-      "en": "Upgrade Modifiers",
-      "de": "Verbesserungsmodifikatoren",
-      "fr": "Modificateurs d'amélioration",
-      "es": "Modificadores de mejora",
-      "pt": "Modificadores de melhoria",
-      "pl": "Modyfikatory ulepszenia",
-      "no": "Oppgraderingsmodifikatorer",
-      "da": "Opgraderingsmodifikatorer",
-      "it": "Modificatori di potenziamento",
-      "ru": "Модификаторы улучшения",
-      "ja": "アップグレード修正",
-      "zh-TW": "升級修正",
-      "uk": "Модифікатори покращення",
-      "zh-CN": "升级修正",
-      "kr": "업그레이드 수정치",
-      "tr": "Yükseltme Değiştiricileri",
-      "hr": "Modifikatori nadogradnje",
-      "sr": "Modifikatori unapređenja",
-      "value": [
-        "16.6% Reduced Horizontal Recoil",
-        "13% Reduced Reload Time"
-      ]
+    "Reduced Horizontal Recoil": {
+      "en": "Reduced Horizontal Recoil",
+      "de": "Reduzierter horizontaler Rückstoß",
+      "fr": "Recul horizontal réduit",
+      "es": "Retroceso horizontal reducido",
+      "pt": "Recuo horizontal reduzido",
+      "pl": "Zmniejszony odrzut poziomy",
+      "no": "Redusert horisontal rekyl",
+      "da": "Reduceret horisontal rekyl",
+      "it": "Rinculo orizzontale ridotto",
+      "ru": "Снижение горизонтальной отдачи",
+      "ja": "水平反動軽減",
+      "zh-TW": "降低水平後座力",
+      "uk": "Зменшення горизонтальної віддачі",
+      "zh-CN": "降低水平后坐力",
+      "kr": "수평 반동 감소",
+      "tr": "Azaltılmış Yatay Tepme",
+      "hr": "Smanjen horizontalni trzaj",
+      "sr": "Smanjen horizontalni trzaj",
+      "value": "16.6%"
+    },
+    "Reduced Reload Time": {
+      "en": "Reduced Reload Time",
+      "de": "Verringerte Nachladezeit",
+      "fr": "Temps de rechargement réduit",
+      "es": "Tiempo de recarga reducido",
+      "pt": "Tempo de recarga reduzido",
+      "pl": "Skrócony czas przeładowania",
+      "no": "Redusert ladetid",
+      "da": "Reduceret genindlæsningstid",
+      "it": "Tempo di ricarica ridotto",
+      "ru": "Сокращённое время перезарядки",
+      "ja": "リロード時間短縮",
+      "zh-TW": "降低換彈時間",
+      "uk": "Скорочений час перезаряджання",
+      "zh-CN": "缩短装填时间",
+      "kr": "재장전 시간 감소",
+      "tr": "Azaltılmış yeniden doldurma süresi",
+      "hr": "Smanjeno vrijeme punjenja",
+      "sr": "Smanjeno vrijeme punjenja",
+      "value": "13%"
     }
-  }
+  },
+  "upgradeCost": {
+    "metal_parts": 8,
+    "rubber_parts": 12
+  },
+  "salvagesInto": {
+    "metal_parts": 6
+  },
+  "isWeapon": true
 }

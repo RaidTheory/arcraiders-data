@@ -10,7 +10,7 @@
     "no": "Venator IV",
     "da": "Venator IV",
     "it": "Venator IV",
-    "ru": "Venator IV",
+    "ru": "Охотник IV",
     "ja": "Venator IV",
     "zh-TW": "Venator IV",
     "uk": "Venator IV",
@@ -188,7 +188,7 @@
       "tr": "Artırılmış atış hızı",
       "hr": "Povećana brzina paljbe",
       "sr": "Povećana brzina paljbe",
-      "value": "66%"
+      "value": "40%"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -213,16 +213,17 @@
     }
   },
   "value": 17000,
-  "weightKg": 2,
+  "weightKg": 5,
   "recyclesInto": {
     "advanced_mechanical_components": 3,
     "medium_gun_parts": 3
   },
   "craftBench": "weapon_bench",
+  "updatedAt": "11/20/2025",
   "upgradeCost": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-  "updatedAt": "11/11/2025"
+  "isWeapon": true
 }

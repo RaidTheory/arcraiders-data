@@ -10,7 +10,7 @@
     "no": "Vulcano II",
     "da": "Vulcano II",
     "it": "Vulcano II",
-    "ru": "Vulcano II",
+    "ru": "Вулкан II",
     "ja": "Vulcano II",
     "zh-TW": "Vulcano II",
     "uk": "Vulcano II",
@@ -214,5 +214,6 @@
     "advanced_mechanical_components": 1,
     "heavy_gun_parts": 2
   },
-  "stationLevelRequired": 1
+  "stationLevelRequired": 1,
+  "isWeapon": true
 }

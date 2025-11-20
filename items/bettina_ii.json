@@ -10,7 +10,7 @@
     "no": "Bettina II",
     "da": "Bettina II",
     "it": "Bettina II",
-    "ru": "Bettina II",
+    "ru": "Беттина II",
     "ja": "Bettina II",
     "zh-TW": "Bettina II",
     "uk": "Bettina II",
@@ -199,5 +199,6 @@
   "upgradeCost": {
     "advanced_mechanical_components": 1,
     "heavy_gun_parts": 2
-  }
+  },
+  "isWeapon": true
 }

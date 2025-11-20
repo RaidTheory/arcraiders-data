@@ -10,7 +10,7 @@
     "no": "Ferro III",
     "da": "Ferro III",
     "it": "Ferro III",
-    "ru": "Ferro III",
+    "ru": "Ферро III",
     "ja": "Ferro III",
     "zh-TW": "Ferro III",
     "uk": "Ferro III",
@@ -181,5 +181,6 @@
   "upgradeCost": {
     "mechanical_components": 1,
     "simple_gun_parts": 1
-  }
+  },
+  "isWeapon": true
 }

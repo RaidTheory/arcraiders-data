@@ -10,7 +10,7 @@
     "no": "Il Toro I",
     "da": "Il Toro I",
     "it": "Il Toro I",
-    "ru": "Il Toro I",
+    "ru": "Эль-Торо I",
     "ja": "Il Toro I",
     "zh-TW": "Il Toro I",
     "uk": "Il Toro I",
@@ -162,5 +162,6 @@
     "simple_gun_parts": 6
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 1
+  "stationLevelRequired": 1,
+  "isWeapon": true
 }

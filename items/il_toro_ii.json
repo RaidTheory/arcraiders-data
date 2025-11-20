@@ -10,7 +10,7 @@
     "no": "Il Toro II",
     "da": "Il Toro II",
     "it": "Il Toro II",
-    "ru": "Il Toro II",
+    "ru": "Эль-Торо II",
     "ja": "イル・トロII",
     "zh-TW": "Il Toro II",
     "uk": "Il Toro II",
@@ -179,5 +179,6 @@
     "mechanical_components": 3,
     "simple_gun_parts": 1
   },
-  "stationLevelRequired": 1
+  "stationLevelRequired": 1,
+  "isWeapon": true
 }

@@ -10,7 +10,7 @@
     "no": "Ferro IV",
     "da": "Ferro IV",
     "it": "Ferro IV",
-    "ru": "Ferro IV",
+    "ru": "Ферро IV",
     "ja": "Ferro IV",
     "zh-TW": "Ferro IV",
     "uk": "Ferro IV",
@@ -185,5 +185,6 @@
       "sr": "Modifikatori Nadogradnje",
       "value": "39% Reduced Reload Time"
     }
-  }
+  },
+  "isWeapon": true
 }

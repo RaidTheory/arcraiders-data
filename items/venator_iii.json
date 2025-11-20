@@ -188,7 +188,7 @@
       "tr": "Artırılmış atış hızı",
       "hr": "Povećana brzina paljbe",
       "sr": "Povećana brzina paljbe",
-      "value": "44%"
+      "value": "26%"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -213,16 +213,17 @@
     }
   },
   "value": 13000,
-  "weightKg": 2,
+  "weightKg": 5,
   "recyclesInto": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 3
   },
   "craftBench": "weapon_bench",
+  "updatedAt": "11/20/2025",
   "upgradeCost": {
     "advanced_mechanical_components": 1,
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-  "updatedAt": "11/11/2025"
+  "isWeapon": true
 }

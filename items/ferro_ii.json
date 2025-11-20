@@ -10,7 +10,7 @@
     "no": "Ferro II",
     "da": "Ferro II",
     "it": "Ferro II",
-    "ru": "Ferro II",
+    "ru": "Ферро II",
     "ja": "Ferro II",
     "zh-TW": "Ferro II",
     "uk": "Ferro II",
@@ -152,5 +152,6 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "10/31/2025"
+  "updatedAt": "10/31/2025",
+  "isWeapon": true
 }

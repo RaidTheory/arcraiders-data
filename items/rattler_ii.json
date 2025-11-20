@@ -7,7 +7,7 @@
     "uk": "Rattler II",
     "zh-TW": "響尾蛇 II",
     "pt": "Rattler II",
-    "ru": "Rattler II",
+    "ru": "Трещетка II",
     "de": "Rattler II",
     "fr": "Crotale II",
     "zh-CN": "响尾蛇 II",
@@ -169,5 +169,6 @@
   "stealth": 14,
   "weightKg": 6,
   "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }

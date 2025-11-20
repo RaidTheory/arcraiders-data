@@ -4,7 +4,7 @@
     "en": "Hullcracker IV",
     "de": "Rumpfknacker IV",
     "uk": "Корпусолом IV",
-    "ru": "Корпусолом IV",
+    "ru": "Взломщик корпусов IV",
     "zh-TW": "破殼者 IV",
     "tr": "Gövde Kırıcı IV",
     "zh-CN": "破壳者 IV",
@@ -189,5 +189,6 @@
   "stealth": 1,
   "weightKg": 7,
   "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }

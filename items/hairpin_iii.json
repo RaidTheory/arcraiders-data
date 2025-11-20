@@ -10,7 +10,7 @@
     "no": "Hårnål III",
     "da": "Hårnål III",
     "it": "Forcina III",
-    "ru": "Шпилька III",
+    "ru": "Заколка III",
     "ja": "ヘアピン III",
     "zh-TW": "髮夾 III",
     "uk": "Шпилька III",
@@ -227,5 +227,6 @@
   "upgradeCost": {
     "metal_parts": 6,
     "simple_gun_parts": 1
-  }
+  },
+  "isWeapon": true
 }

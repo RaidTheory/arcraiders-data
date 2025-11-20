@@ -10,7 +10,7 @@
     "no": "Bettina III",
     "da": "Bettina III",
     "it": "Bettina III",
-    "ru": "Bettina III",
+    "ru": "Беттина III",
     "ja": "Bettina III",
     "zh-TW": "Bettina III",
     "uk": "Bettina III",
@@ -199,5 +199,6 @@
   "upgradeCost": {
     "advanced_mechanical_components": 1,
     "heavy_gun_parts": 2
-  }
+  },
+  "isWeapon": true
 }

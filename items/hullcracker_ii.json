@@ -4,7 +4,7 @@
     "en": "Hullcracker II",
     "de": "Rumpfknacker II",
     "uk": "Корпусолом II",
-    "ru": "Корпусолом II",
+    "ru": "Взломщик корпусов II",
     "zh-TW": "破殼者 II",
     "tr": "Gövde Kırıcı II",
     "zh-CN": "破壳者 II",
@@ -192,5 +192,6 @@
   "stealth": 1,
   "weightKg": 7,
   "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }

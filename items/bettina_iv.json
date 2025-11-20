@@ -10,7 +10,7 @@
     "no": "Bettina IV",
     "da": "Bettina IV",
     "it": "Bettina IV",
-    "ru": "Bettina IV",
+    "ru": "Беттина IV",
     "ja": "Bettina IV",
     "zh-TW": "Bettina IV",
     "uk": "Bettina IV",
@@ -199,5 +199,6 @@
   "upgradeCost": {
     "advanced_mechanical_components": 2,
     "heavy_gun_parts": 2
-  }
+  },
+  "isWeapon": true
 }
