@@ -22,10 +22,13 @@
     "hr": "Pravi Alat"
   },
   "trader": "Tian Wen",
+  "description": {
+    "de": "Du gehörst zu den Neuankömmlingen, oder? Ich brauche einen Freiwilligen, der dieses verbesserte Ferro ausprobiert - es sollte ARC-Panzerungen durchschneiden wie Butter. Baller Löcher in ein paar Maschinen und erstatte mir dann Bericht."
+  },  
   "objectives": [
     {
       "en": "Destroy a Fireball",
-      "de": "Zerstöre einen Feuerball",
+      "de": "Einen Feuerball zerstören",
       "fr": "Détruisez un Fireball",
       "es": "Destruye un Fireball",
       "pt": "Destrua um Fireball",
@@ -45,7 +48,7 @@
     },
     {
       "en": "Destroy a Hornet",
-      "de": "Zerstöre eine Hornisse",
+      "de": "Eine Hornisse zerstören",
       "fr": "Détruisez un Hornet",
       "es": "Destruye un Avispón",
       "pt": "Destrua um Hornet",
@@ -65,7 +68,7 @@
     },
     {
       "en": "Destroy a Turret",
-      "de": "Zerstöre einen Geschützturm",
+      "de": "Einen Geschützturm zerstören",
       "fr": "Détruisez une tourelle",
       "es": "Destruye una Torreta",
       "pt": "Destrua uma torreta",
