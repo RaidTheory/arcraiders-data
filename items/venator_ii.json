@@ -188,7 +188,7 @@
       "tr": "Artırılmış atış hızı",
       "hr": "Povećana brzina paljbe",
       "sr": "Povećana brzina paljbe",
-      "value": "22%"
+      "value": "13%"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -213,7 +213,7 @@
     }
   },
   "value": 10000,
-  "weightKg": 2,
+  "weightKg": 5,
   "recyclesInto": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 2
