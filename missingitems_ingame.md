@@ -1,13 +1,10 @@
 We currently are missing several in-game item images. If you want to contribute them, please feel free to open a pull request. The images should be 128x128 and should be cleaned up (aligned properly; no item count/level). You can use [ArcRaiders Item Cleaner](https://github.com/Drommedhar/ArcRaidersItemImageCleaner/) for that.
 
-- advanced_arc_powercell
-- agave
 - alarm_clock
 - angled_grip_iii
 - anvil_blueprint
 - anvil_splitter
 - arc_coolant
-- arc_flex_rubber
 - arc_synthetic_resin
 - arc_thermo_lining
 - backpack_black_hiker_color
@@ -69,9 +66,7 @@ We currently are missing several in-game item images. If you want to contribute 
 - esr_analyzer
 - experimental_seed_sample
 - expired_pasta
-- extended_barrel
 - extended_light_mag_i
-- extended_light_mag_ii
 - extended_light_mag_iii
 - extended_medium_mag_i
 - extended_medium_mag_ii
@@ -107,7 +102,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - kinetic_converter
 - lances_mixtape_5th_edition
 - launcher_ammo_blueprint
-- leaper_pulse_unit
 - li_l_smoke_grenade
 - lidar_scanner
 - light_bulb
@@ -131,7 +125,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - motor
 - mushroom
 - music_album
-- music_box
 - muzzle_brake_ii_blueprint
 - muzzle_brake_iii
 - noisemaker
@@ -183,7 +176,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - spectrometer
 - spectrum_analyzer
 - stable_stock_i
-- stable_stock_iii
 - statuette
 - stella_montis_archives_key
 - stella_montis_assembly_admin_key
