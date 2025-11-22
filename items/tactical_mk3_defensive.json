@@ -3,8 +3,8 @@
   "name": {
     "en": "Tactical Mk. 3 (Defensive)",
     "de": "Taktisch Mk. 3 (Verteidigung)",
-    "fr": "Tactique Mk. 3 (Défensif)",
-    "es": "Táctico Mk. 3 (Defensivo)",
+    "fr": "Tactique 3 (défense)",
+    "es": "Táctico Ver. 3 (Defensivo)",
     "pt": "Tático Mk. 3 (Defensivo)",
     "pl": "Taktyczny Mk. 3 (Obronny)",
     "no": "Taktisk Mk. 3 (Defensiv)",
@@ -50,7 +50,7 @@
     "advanced_electrical_components": 2,
     "processor": 3
   },
-  "craftBench": "gear_bench",
+  "craftBench": "equipment_bench",
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -92,7 +92,7 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. Težina Opreme",
       "sr": "Maks. Težina Opreme",
-      "value": 60.0
+      "value": 60
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -116,7 +116,7 @@
       "value": "Light, Medium, Heavy"
     }
   },
-  "weightKg": 5.0,
+  "weightKg": 5,
   "value": 5000,
   "imageFilename": "https://cdn.arctracker.io/items/tactical_iii_defensive.png",
   "updatedAt": "11/05/2025"

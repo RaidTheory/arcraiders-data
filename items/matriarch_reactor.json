@@ -1,0 +1,57 @@
+{
+  "id": "matriarch_reactor",
+  "name": {
+    "en": "Matriarch Reactor",
+    "pl": "Reaktor Matriarchy",
+    "it": "Reattore della Matriarca",
+    "zh-CN": "母巢反应堆",
+    "kr": "여왕 반응로",
+    "hr": "Matrijarhalni Reaktor",
+    "de": "Matriarchenreaktor",
+    "ru": "Реактор Матриарха",
+    "es": "Reactor de la Matriarca",
+    "zh-TW": "母巢反應爐",
+    "pt": "Reator da Matriarca",
+    "sr": "Matrijarhalni Reaktor",
+    "ja": "マトリアーク・リアクター",
+    "da": "Matriarkreactor",
+    "tr": "Anaerkil Reaktör",
+    "uk": "Реактор Матріарха",
+    "no": "Matriarkreactor",
+    "fr": "Réacteur de la Matriarche"
+  },
+  "description": {
+    "en": "Can be recycled into crafting materials.",
+    "pl": "Można przetworzyć na materiały do wytwarzania.",
+    "it": "Può essere riciclato in materiali da crafting.",
+    "zh-CN": "可回收为制作材料。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "es": "Puede reciclarse en materiales de fabricación.",
+    "zh-TW": "可回收為製作材料。",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "ja": "クラフト素材にリサイクルできます。",
+    "da": "Kan genbruges til håndværksmaterialer.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "uk": "Можна переробити на матеріали для крафту.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
+    "fr": "Peut être recyclé en matériaux d'artisanat."
+  },
+  "type": "Material",
+  "rarity": "Legendary",
+  "weightKg": 10,
+  "stackSize": 1,
+  "value": 13000,
+  "recyclesInto": {
+    "power_rod": 1,
+    "magnetic_accelerator": 1
+  },
+  "salvagesInto": {
+    "power_rod": 1
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/matriarch_reactor.png",
+  "updatedAt": "11/13/2025"
+}

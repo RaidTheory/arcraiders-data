@@ -10,7 +10,7 @@
     "no": "Hårnål I",
     "da": "Hårnål I",
     "it": "Forcina I",
-    "ru": "Шпилька I",
+    "ru": "Заколка I",
     "ja": "ヘアピン I",
     "zh-TW": "髮夾 I",
     "uk": "Шпилька I",
@@ -170,7 +170,7 @@
       "value": "Integrated Silencer"
     }
   },
-  "weightKg": 3.0,
+  "weightKg": 3,
   "value": 450,
   "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
   "updatedAt": "11/11/2025",
@@ -188,5 +188,6 @@
   "craftBench": [
     "workbench",
     "weapon_bench"
-  ]
+  ],
+  "isWeapon": true
 }

@@ -3,8 +3,8 @@
   "name": {
     "en": "Looting Mk. 3 (Survivor)",
     "de": "Plünderungs-Mk. 3 (Überlebender)",
-    "fr": "Pillage Mk. 3 (Survivant)",
-    "es": "Saqueo Mk. 3 (Superviviente)",
+    "fr": "Butin 3 (survie)",
+    "es": "Saqueo Ver. 3 (Superviviente)",
     "pt": "Saque Mk. 3 (Sobrevivente)",
     "pl": "Grabież Mk. 3 (Ocalały)",
     "no": "Plyndring Mk. 3 (Survivor)",
@@ -14,7 +14,7 @@
     "kr": "약탈 Mk. 3 (생존자)",
     "zh-CN": "掠夺 Mk. 3（幸存者）",
     "zh-TW": "掠奪 Mk. 3（倖存者）",
-    "ru": "Грабительский Mk. 3 (выживший)",
+    "ru": "Добыча 3 (Выживший)",
     "tr": "Yağmalama Mk. 3 (Hayatta Kalan)",
     "uk": "Мародерський Mk. 3 (вижилий)",
     "sr": "Pljačkaški Mk. 3 (Preživeli)",
@@ -83,7 +83,7 @@
       "uk": "Макс. вага спорядження",
       "sr": "Maks. težina opreme",
       "hr": "Maks. težina opreme",
-      "value": 80.0
+      "value": 80
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -108,8 +108,12 @@
     }
   },
   "value": 5000,
-  "weightKg": 4.0,
+  "weightKg": 4,
   "stackSize": 1,
+  "recyclesInto": {
+    "advanced_electrical_components": 1,
+    "processor": 1
+  },
   "craftBench": "equipment_bench",
   "recipe": {
     "advanced_mechanical_components": 2,

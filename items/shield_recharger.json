@@ -4,13 +4,13 @@
     "en": "Shield Recharger",
     "de": "Schildauflader",
     "fr": "Rechargeur de bouclier",
-    "es": "Recargador de escudo",
+    "es": "Cargador de escudos",
     "pt": "Recarregador de escudo",
     "pl": "Ładowarka tarczy",
     "no": "Skjoldlader",
     "da": "Skjoldoplader",
     "it": "Ricaricatore di scudo",
-    "ru": "Зарядник щита",
+    "ru": "Устройство для перезарядки щита",
     "ja": "シールドリチャージャー",
     "zh-TW": "護盾充能器",
     "uk": "Зарядник щита",
@@ -119,5 +119,8 @@
   "craftBench": [
     "workbench",
     "med_station"
-  ]
+  ],
+  "recyclesInto": {
+    "rubber_parts": 4
+  }
 }

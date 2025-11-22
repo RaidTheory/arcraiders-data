@@ -4,7 +4,7 @@
     "en": "Looting Mk. 3 (Cautious)",
     "de": "Plünderung Mk. 3 (Vorsichtig)",
     "fr": "Butin 3 (prudence)",
-    "es": "Saqueo Mk. 3 (Cauteloso)",
+    "es": "Saqueo Ver. 3 (Cauteloso)",
     "pt": "Saque Mk. 3 (Cauteloso)",
     "pl": "Grabież Mk. 3 (Ostrożny)",
     "no": "Plyndring Mk. 3 (Forsiktig)",
@@ -43,7 +43,7 @@
   "type": "Augment",
   "rarity": "Epic",
   "value": 5000,
-  "weightKg": 3.0,
+  "weightKg": 3,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -85,7 +85,7 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. Težina Opreme",
       "sr": "Maks. Težina Opreme",
-      "value": 70.0
+      "value": 70
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",

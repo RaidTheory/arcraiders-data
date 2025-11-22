@@ -14,8 +14,8 @@
     "pl": "Renegade IV",
     "no": "Renegade IV",
     "ja": "レネゲード IV",
-    "fr": "Renegade IV",
-    "es": "Renegade IV",
+    "fr": "Renégat IV",
+    "es": "Renegado IV",
     "hr": "Renegade IV",
     "pt": "Renegade IV",
     "da": "Renegade IV"
@@ -170,6 +170,7 @@
     }
   },
   "value": 17000,
+  "weightKg": 10,
   "upgradeCost": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 2
@@ -205,5 +206,6 @@
   "agility": 55.8,
   "stealth": 16,
   "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }

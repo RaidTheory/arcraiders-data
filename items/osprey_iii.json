@@ -4,7 +4,7 @@
     "en": "Osprey III",
     "de": "Osprey III",
     "uk": "Osprey III",
-    "ru": "Osprey III",
+    "ru": "Ястреб III",
     "zh-TW": "魚鷹 III",
     "tr": "Osprey III",
     "zh-CN": "鱼鹰 III",
@@ -14,7 +14,7 @@
     "pl": "Osprey III",
     "no": "Osprey III",
     "ja": "オスプレイ III",
-    "fr": "Osprey III",
+    "fr": "Balbuzard III",
     "es": "Osprey III",
     "hr": "Osprey III",
     "pt": "Osprey III",
@@ -197,11 +197,11 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
-  "recycledMaterial": {
+  "recyclesInto": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 3
   },
-  "salvagedMaterial": {
+  "salvagesInto": {
     "medium_gun_parts": 3
   },
   "description": {
@@ -232,7 +232,8 @@
   "stability": 89.4,
   "agility": 45.9,
   "stealth": 12,
-  "weight": 7.0,
+  "weightKg": 7,
   "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }

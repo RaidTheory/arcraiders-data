@@ -14,8 +14,8 @@
     "pl": "Renegade II",
     "no": "Renegade II",
     "ja": "レネゲード II",
-    "fr": "Renegade II",
-    "es": "Renegade II",
+    "fr": "Renégat II",
+    "es": "Renegado II",
     "hr": "Renegade II",
     "pt": "Renegade II",
     "da": "Renegade II"
@@ -170,6 +170,7 @@
     }
   },
   "value": 10000,
+  "weightKg": 10,
   "upgradeCost": {
     "advanced_mechanical_components": 1,
     "medium_gun_parts": 2
@@ -205,5 +206,6 @@
   "agility": 55.8,
   "stealth": 16,
   "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }

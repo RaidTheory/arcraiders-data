@@ -4,13 +4,13 @@
     "en": "Tactical Mk. 3 (Healing)",
     "de": "Taktisch Mk. 3 (Heilung)",
     "fr": "Tactique 3 (soins)",
-    "es": "Táctico Mk. 3 (Curación)",
+    "es": "Táctico Ver. 3 (Curación)",
     "pt": "Tático Mk. 3 (Cura)",
     "pl": "Taktyczny Mk. 3 (Leczenie)",
     "no": "Taktisk Mk. 3 (Helbredelse)",
     "da": "Taktisk Mk. 3 (Helbredelse)",
     "it": "Tattico Mk. 3 (Guarigione)",
-    "ru": "Тактический Mk. 3 (Лечение)",
+    "ru": "Стратегия 3 (Лечение)",
     "ja": "タクティカル Mk. 3 (治療)",
     "zh-TW": "戰術型 Mk. 3 (治療)",
     "uk": "Тактичний Mk. 3 (Лікування)",
@@ -87,7 +87,7 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. Težina Opreme",
       "sr": "Maks. Težina Opreme",
-      "value": 55.0
+      "value": 55
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -111,7 +111,7 @@
       "value": "Light, Medium"
     }
   },
-  "weightKg": 4.0,
+  "weightKg": 4,
   "value": 5000,
   "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing.png",
   "updatedAt": "11/05/2025"

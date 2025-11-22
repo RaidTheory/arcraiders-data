@@ -4,8 +4,8 @@
     "en": "Exodus Modules",
     "de": "Exodus-Module",
     "fr": "Modules de l'Exode",
-    "es": "Módulos Exodus",
-    "pt": "Módulos Exodus",
+    "es": "Módulos del Éxodo",
+    "pt": "Módulos de Êxodo",
     "pl": "Moduły Exodus",
     "no": "Exodus-moduler",
     "da": "Exodus-moduler",
@@ -23,8 +23,8 @@
   "description": {
     "en": "Used to craft a wide range of items. Used to craft: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
     "de": "Wird zur Herstellung verschidenster Gegenstände verwendet. Wird verwendet für: Tempest, Vulcano, Hüllenbrecher, Bobcat, Karabinerhacken",
-    "fr": "Permet de fabriquer une large gamme d'objets. Permet de fabriquer : Tempête, Vulcano, Brise-fuselage, Bobcat, Snap Hook",
-    "es": "Se usa para fabricar una amplia gama de objetos. Se usa para fabricar: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+    "fr": "Permet de fabriquer toute une panoplie d'objets. Permet de fabriquer : Tempête, Vulcano, Brise-fuselage, Lynx, Mousqueton",
+    "es": "Se usa para fabricar una amplia gama de objetos. Se usa para fabricar: Tempestad, Vulcano, Partecascos, Bobcat, Mosquetón",
     "pt": "Usado para fabricar uma ampla variedade de itens. Usado para fabricar: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
     "pl": "Używane do wytwarzania szerokiej gamy przedmiotów. Używane do wytworzenia: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
     "no": "Brukes til å lage et bredt spekter av gjenstander. Brukes til å lage: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
@@ -42,11 +42,11 @@
   },
   "type": "Topside Material",
   "rarity": "Epic",
-  "weightKg": 1.0,
+  "weightKg": 1,
   "stackSize": 3,
   "foundIn": "Exodus",
   "recyclesInto": {
-    "wires": 2,
+    "magnet": 2,
     "processor": 2
   },
   "salvagesInto": {

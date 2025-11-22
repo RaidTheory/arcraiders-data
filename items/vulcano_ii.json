@@ -10,7 +10,7 @@
     "no": "Vulcano II",
     "da": "Vulcano II",
     "it": "Vulcano II",
-    "ru": "Vulcano II",
+    "ru": "Вулкан II",
     "ja": "Vulcano II",
     "zh-TW": "Vulcano II",
     "uk": "Vulcano II",
@@ -42,7 +42,6 @@
   },
   "type": "Shotgun",
   "rarity": "Epic",
-  "_note": "not_in_serverslam",
   "damage": 58.5,
   "fireRate": 14.3,
   "range": 22.1,
@@ -52,15 +51,15 @@
   "increasedFireRate": 20,
   "reducedReloadTime": 26,
   "reducedDurabilityBurnRate": 46,
-  "crafting": {
-    "mechanical_components": 1,
-    "simple_gun_parts": 3
-  },
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
   "updatedAt": "11/12/2025",
   "value": 13000,
   "weightKg": 9.25,
   "stackSize": 1,
+  "recyclesInto": {
+    "advanced_mechanical_components": 2,
+    "heavy_gun_parts": 3
+  },
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -215,5 +214,6 @@
     "advanced_mechanical_components": 1,
     "heavy_gun_parts": 2
   },
-  "stationLevelRequired": 1
+  "stationLevelRequired": 1,
+  "isWeapon": true
 }

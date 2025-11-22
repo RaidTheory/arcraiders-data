@@ -45,7 +45,7 @@
   "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
   "updatedAt": "11/11/2025",
   "value": 5500,
-  "weightKg": 7.0,
+  "weightKg": 7,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -157,5 +157,6 @@
     "mechanical_components": 6,
     "simple_gun_parts": 6
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "isWeapon": true
 }

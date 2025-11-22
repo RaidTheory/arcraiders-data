@@ -5,7 +5,7 @@
     "de": "Equalizer",
     "uk": "Еквалайзер",
     "ru": "Уравнитель",
-    "zh-TW": "均衡者",
+    "zh-TW": "平衡者",
     "tr": "Eşitleyici",
     "zh-CN": "均衡者",
     "it": "Equalizzatore",
@@ -134,7 +134,7 @@
       "value": "Very Strong"
     }
   },
-  "weight": 14.0,
+  "weightKg": 14,
   "value": 27500,
   "recipe": {
     "magnetic_accelerator": 3,
@@ -144,11 +144,11 @@
   "craftBench": "weapon_bench",
   "stationLevelRequired": 3,
   "blueprintLocked": true,
-  "recycledMaterial": {
+  "recyclesInto": {
     "magnetic_accelerator": 2,
     "complex_gun_parts": 1
   },
-  "salvagedMaterial": {
+  "salvagesInto": {
     "magnetic_accelerator": 1
   },
   "repairCost": {
@@ -156,5 +156,6 @@
     "complex_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/equalizer.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }

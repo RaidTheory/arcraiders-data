@@ -1,0 +1,73 @@
+{
+  "id": "equipment_bench",
+  "name": {
+    "en": "Gear Bench",
+    "de": "Ausrüstungsbank",
+    "fr": "Établi à matériel",
+    "es": "Banco de equipo",
+    "pt": "Bancada de equipamento",
+    "pl": "Stół ekwipunku",
+    "no": "Utstyrsbenk",
+    "da": "Udstyrsbænk",
+    "ru": "Снаряжение",
+    "ja": "装備台",
+    "it": "Banco Equipaggiamento",
+    "kr": "장비 제작대",
+    "zh-CN": "装备工作台",
+    "zh-TW": "裝備工作台",
+    "uk": "Спорядження",
+    "tr": "Ekipman Tezgahı",
+    "hr": "Stol za Opremu",
+    "sr": "Sto za Opremu"
+  },
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 1,
+      "requirementItemIds": [
+        {
+          "itemId": "plastic_parts",
+          "quantity": 25
+        },
+        {
+          "itemId": "fabric",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "requirementItemIds": [
+        {
+          "itemId": "power_cable",
+          "quantity": 3
+        },
+        {
+          "itemId": "electrical_components",
+          "quantity": 5
+        },
+        {
+          "itemId": "hornet_driver",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "requirementItemIds": [
+        {
+          "itemId": "industrial_battery",
+          "quantity": 3
+        },
+        {
+          "itemId": "advanced_electrical_components",
+          "quantity": 5
+        },
+        {
+          "itemId": "bastion_cell",
+          "quantity": 6
+        }
+      ]
+    }
+  ]
+}

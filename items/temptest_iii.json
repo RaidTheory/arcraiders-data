@@ -192,6 +192,7 @@
     }
   },
   "value": 22000,
+  "weightKg": 11,
   "recyclesInto": {
     "advanced_mechanical_components": 4,
     "medium_gun_parts": 4
@@ -202,5 +203,6 @@
     "medium_gun_parts": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
-  "updatedAt": "11/11/2025"
+  "updatedAt": "11/11/2025",
+  "isWeapon": true
 }

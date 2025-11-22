@@ -4,13 +4,13 @@
     "en": "Tactical Mk. 2",
     "de": "Taktisch Mk. 2",
     "fr": "Tactique 2",
-    "es": "Táctico Mk. 2",
+    "es": "Táctico Ver. 2",
     "pt": "Tático Mk. 2",
     "pl": "Taktyczny Mk. 2",
     "no": "Taktisk Mk. 2",
     "da": "Taktisk Mk. 2",
     "it": "Tattico Mk. 2",
-    "ru": "Тактический Mk. 2",
+    "ru": "Стратегия 2",
     "ja": "タクティカル Mk. 2",
     "zh-TW": "戰術型 Mk. 2",
     "uk": "Тактичний Mk. 2",
@@ -86,7 +86,7 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. težina opreme",
       "sr": "Maks. težina opreme",
-      "value": 45.0
+      "value": 45
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -110,7 +110,11 @@
       "value": "Light, Medium"
     }
   },
-  "weightKg": 2.0,
+  "weightKg": 2,
+  "recyclesInto": {
+    "advanced_electrical_components": 1,
+    "processor": 1
+  },
   "recipe": {
     "electrical_components": 2,
     "magnet": 3

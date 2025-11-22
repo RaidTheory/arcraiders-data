@@ -10,7 +10,7 @@
     "no": "Middels ammunisjon",
     "da": "Mellem ammunition",
     "it": "Munizioni medie",
-    "ru": "Средние патроны",
+    "ru": "Патрон среднего калибра",
     "ja": "ミディアム弾薬",
     "zh-TW": "中型彈藥",
     "uk": "Середні патрони",
@@ -24,7 +24,7 @@
     "en": "Compatible with: Rattler, Tempest, Arpeggio, Renegade, Torrente",
     "de": "Kompatibel mit: Rattler, Tempest, Arpeggio, Renegade, Torrente",
     "fr": "Compatible avec : Crotale, Tempête, Arpège, Renégat, Torrente",
-    "es": "Compatible con: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+    "es": "Compatible con: Crótalo, Tempestad, Arpeggio, Renegado, Torrente",
     "pt": "Compatível com: Rattler, Tempest, Arpeggio, Renegade, Torrente",
     "pl": "Kompatybilna z: Rattler, Tempest, Arpeggio, Renegade, Torrente",
     "no": "Kompatibel med: Rattler, Tempest, Arpeggio, Renegade, Torrente",
@@ -49,10 +49,6 @@
     "Torrente"
   ],
   "imageFilename": "https://cdn.arctracker.io/items/medium_ammo.png",
-  "crafting": {
-    "metal_parts": 4,
-    "chemicals": 2
-  },
   "value": 6,
   "weightKg": 0.025,
   "stackSize": 80,

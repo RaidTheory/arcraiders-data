@@ -4,13 +4,13 @@
     "en": "Herbal Bandage",
     "de": "Kräuterverband",
     "fr": "Bandage aux herbes",
-    "es": "Vendaje herbal",
+    "es": "Venda herbal",
     "pt": "Bandagem herbal",
     "pl": "Bandaż ziołowy",
     "no": "Urtebandasje",
     "da": "Urtebandage",
     "it": "Benda alle erbe",
-    "ru": "Травяная повязка",
+    "ru": "Травяной бинт",
     "ja": "ハーブ包帯",
     "zh-TW": "草藥繃帶",
     "uk": "Трав'яна пов'язка",
@@ -116,5 +116,9 @@
     "durable_cloth": 1,
     "great_mullein": 1
   },
-  "craftBench": "med_station"
+  "craftBench": "med_station",
+  "recyclesInto": {
+    "assorted_seeds": 2,
+    "fabric": 5
+  }
 }

@@ -10,7 +10,7 @@
     "no": "Il Toro II",
     "da": "Il Toro II",
     "it": "Il Toro II",
-    "ru": "Il Toro II",
+    "ru": "Эль-Торо II",
     "ja": "イル・トロII",
     "zh-TW": "Il Toro II",
     "uk": "Il Toro II",
@@ -170,7 +170,7 @@
       "value": "17.5%"
     }
   },
-  "weightKg": 8.0,
+  "weightKg": 8,
   "value": 7000,
   "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
   "updatedAt": "11/12/2025",
@@ -179,5 +179,6 @@
     "mechanical_components": 3,
     "simple_gun_parts": 1
   },
-  "stationLevelRequired": 1
+  "stationLevelRequired": 1,
+  "isWeapon": true
 }

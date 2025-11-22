@@ -4,13 +4,13 @@
     "en": "Spotter Relay",
     "de": "Aufklärer-Relais",
     "fr": "Relais de Repérage",
-    "es": "Relé de Observación",
+    "es": "Repetidor de Vigía",
     "pt": "Relé de Observação",
     "pl": "Przekaźnik Obserwacyjny",
     "no": "Spotter-relé",
     "da": "Spotter-relæ",
     "it": "Relè di Avvistamento",
-    "ru": "Реле наблюдателя",
+    "ru": "Передатчик Наводчика",
     "ja": "スポッターリレー",
     "zh-TW": "偵察中繼器",
     "uk": "Реле спостерігача",
@@ -22,7 +22,7 @@
   },
   "rarity": "Uncommon",
   "type": "Recyclable",
-  "value": 5000,
+  "value": 2000,
   "recyclesInto": {
     "electrical_components": 2,
     "arc_alloy": 1
@@ -48,7 +48,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu."
   },
-  "weightKg": 1.0,
+  "weightKg": 1,
   "stackSize": 3,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/spotter_relay.png"

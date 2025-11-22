@@ -10,7 +10,7 @@
     "no": "Il Toro I",
     "da": "Il Toro I",
     "it": "Il Toro I",
-    "ru": "Il Toro I",
+    "ru": "Эль-Торо I",
     "ja": "Il Toro I",
     "zh-TW": "Il Toro I",
     "uk": "Il Toro I",
@@ -43,7 +43,7 @@
   "type": "Shotgun",
   "rarity": "Uncommon",
   "value": 5000,
-  "weightKg": 8.0,
+  "weightKg": 8,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -151,6 +151,10 @@
       "value": "Weak"
     }
   },
+  "recyclesInto": {
+    "mechanical_components": 2,
+    "simple_gun_parts": 2
+  },
   "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
   "updatedAt": "11/12/2025",
   "recipe": {
@@ -158,5 +162,6 @@
     "simple_gun_parts": 6
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 1
+  "stationLevelRequired": 1,
+  "isWeapon": true
 }

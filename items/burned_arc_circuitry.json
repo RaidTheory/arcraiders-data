@@ -3,7 +3,7 @@
   "name": {
     "en": "Burned Arc Circuitry",
     "de": "Durchgebrannte ARC-Schaltkreise",
-    "fr": "Circuits ARC brûlés",
+    "fr": "Câblage ARC brûlé",
     "es": "Circuitos ARC quemados",
     "pt": "Circuitos ARC queimados",
     "pl": "Spalone obwody ARC",
@@ -49,7 +49,7 @@
   "salvagesInto": {
     "arc_alloy": 1
   },
-  "weightKg": 1.0,
+  "weightKg": 1,
   "stackSize": 3,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/burned_arc_circuitry.png",

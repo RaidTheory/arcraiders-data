@@ -8,12 +8,12 @@
     "uk": "Rattler I",
     "zh-TW": "響尾蛇 I",
     "pt": "Rattler I",
-    "ru": "Rattler I",
+    "ru": "Трещетка I",
     "de": "Rattler I",
     "zh-CN": "响尾蛇 I",
     "no": "Rattler I",
     "tr": "Rattler I",
-    "es": "Rattler I",
+    "es": "Crótalo I",
     "sr": "Rattler I",
     "ja": "ラトラー I",
     "kr": "래틀러 I",
@@ -46,7 +46,7 @@
   "recyclesInto": {
     "metal_parts": 8
   },
-  "weightKg": 6.0,
+  "weightKg": 6,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -161,5 +161,6 @@
     "rubber_parts": 12
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 1
+  "stationLevelRequired": 1,
+  "isWeapon": true
 }

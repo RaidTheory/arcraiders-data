@@ -4,13 +4,13 @@
     "en": "Kettle IV",
     "de": "Kettle IV",
     "fr": "Fondoir IV",
-    "es": "Kettle IV",
+    "es": "Caldero IV",
     "pt": "Kettle IV",
     "pl": "Kettle IV",
     "no": "Kettle IV",
     "da": "Kettle IV",
     "it": "Kettle IV",
-    "ru": "Kettle IV",
+    "ru": "Чайник IV",
     "ja": "Kettle IV",
     "zh-TW": "Kettle IV",
     "uk": "Kettle IV",
@@ -43,7 +43,7 @@
   "type": "Weapon",
   "rarity": "Common",
   "value": 5000,
-  "weightKg": 7.0,
+  "weightKg": 7,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -152,5 +152,6 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "10/31/2025"
+  "updatedAt": "10/31/2025",
+  "isWeapon": true
 }

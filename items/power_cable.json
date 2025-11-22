@@ -10,7 +10,7 @@
     "no": "Strømkabel",
     "da": "Strømkabel",
     "it": "Cavo di alimentazione",
-    "ru": "Силовой кабель",
+    "ru": "Кабель питания",
     "ja": "電力ケーブル",
     "zh-TW": "電力電纜",
     "uk": "Силовий кабель",
@@ -47,7 +47,7 @@
     "wires": 4
   },
   "stackSize": 3,
-  "weightKg": 2.0,
+  "weightKg": 2,
   "foundIn": "Electrical, Residential, Commercial",
   "imageFilename": "https://cdn.arctracker.io/items/power_cable.png",
   "updatedAt": "11/03/2025"

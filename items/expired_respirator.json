@@ -47,7 +47,10 @@
     "rubber_parts": 8,
     "fabric": 4
   },
-  "weightKg": 2.0,
+  "salvagesInto": {
+    "rubber_parts": 5
+  },
+  "weightKg": 2,
   "stackSize": 3,
   "foundIn": "Medical",
   "imageFilename": "https://cdn.arctracker.io/items/expired_respirator.png",

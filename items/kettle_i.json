@@ -4,7 +4,7 @@
     "en": "Kettle I",
     "de": "Kettle I",
     "fr": "Fondoir I",
-    "es": "Kettle I",
+    "es": "Caldero I",
     "pt": "Kettle I",
     "pl": "Kettle I",
     "no": "Kettle I",
@@ -57,7 +57,7 @@
     "workbench",
     "weapon_bench"
   ],
-  "weightKg": 7.0,
+  "weightKg": 7,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -164,5 +164,6 @@
       "sr": "ARC probijanje oklopa",
       "value": "Very Weak"
     }
-  }
+  },
+  "isWeapon": true
 }

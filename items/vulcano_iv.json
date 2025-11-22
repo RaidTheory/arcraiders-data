@@ -176,7 +176,7 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
-  "recycledMaterial": {
+  "recyclesInto": {
     "advanced_mechanical_components": 4,
     "heavy_gun_parts": 5
   },
@@ -208,7 +208,8 @@
   "stability": 68.6,
   "agility": 70.3,
   "stealth": 15,
-  "weight": 8.0,
+  "weightKg": 8,
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }

@@ -22,10 +22,13 @@
     "hr": "Izvan Radara"
   },
   "trader": "Shani",
+  "description": {
+    "de": "Der Schaden hier unten war ziemlich übel, aber die Infrastruktur oben hat es noch schlimmer erwischt. Ich hab noch einige Antennen, die seit dem Sturm nicht mehr funktionieren."
+  },  
   "objectives": [
     {
       "en": "Visit a Field Depot",
-      "de": "Besuche ein Felddepot",
+      "de": "Ein Felddepot besuchen",
       "fr": "Visitez un dépôt de terrain",
       "es": "Visita un depósito de campo",
       "pt": "Visite um depósito de campo",
@@ -45,7 +48,7 @@
     },
     {
       "en": "Repair the antenna on the roof of the Field Depot",
-      "de": "Repariere die Antenne auf dem Dach des Felddepots",
+      "de": "Die Antenne auf dem Dach des Felddepots reparieren",
       "fr": "Réparez l'antenne sur le toit du dépôt de terrain",
       "es": "Repara la antena en el techo del depósito de campo",
       "pt": "Repare a antena no telhado do depósito de campo",

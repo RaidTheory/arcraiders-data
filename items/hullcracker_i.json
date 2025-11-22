@@ -4,13 +4,13 @@
     "en": "Hullcracker I",
     "de": "Hullcracker I",
     "fr": "Brise-fuselage I",
-    "es": "Hullcracker I",
+    "es": "Partecascos I",
     "pt": "Hullcracker I",
     "pl": "Hullcracker I",
     "no": "Hullcracker I",
     "da": "Hullcracker I",
     "it": "Hullcracker I",
-    "ru": "Hullcracker I",
+    "ru": "Взломщик корпусов I",
     "ja": "Hullcracker I",
     "zh-TW": "Hullcracker I",
     "uk": "Hullcracker I",
@@ -151,7 +151,11 @@
       "value": "Very Strong"
     }
   },
-  "weightKg": 7.0,
+  "weightKg": 7,
+  "recyclesInto": {
+    "advanced_mechanical_components": 2,
+    "heavy_gun_parts": 2
+  },
   "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
   "updatedAt": "11/12/2025",
   "recipe": {
@@ -160,5 +164,6 @@
     "exodus_modules": 1
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 3
+  "stationLevelRequired": 3,
+  "isWeapon": true
 }

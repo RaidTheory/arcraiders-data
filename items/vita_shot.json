@@ -3,14 +3,14 @@
   "name": {
     "en": "Vita Shot",
     "de": "Vita-Spritze",
-    "fr": "Injection Vita",
-    "es": "Inyección Vita",
+    "fr": "Dose de Vita",
+    "es": "Inyección de Vita",
     "pt": "Injeção Vita",
     "pl": "Zastrzyk Vita",
     "no": "Vita-sprøyte",
     "da": "Vita-indsprøjtning",
     "it": "Iniezione Vita",
-    "ru": "Вита-инъекция",
+    "ru": "Витаминная сыворотка",
     "ja": "ヴィタショット",
     "zh-TW": "活力注射劑",
     "uk": "Віта-ін'єкція",
@@ -45,6 +45,7 @@
   "rarity": "Rare",
   "weightKg": 0.4,
   "stackSize": 3,
+  "stationLevelRequired": 3,
   "effects": {
     "Healing": {
       "en": "Healing",

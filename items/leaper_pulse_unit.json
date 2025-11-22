@@ -3,14 +3,14 @@
   "name": {
     "en": "Leaper Pulse Unit",
     "de": "Springer-Pulseinheit",
-    "fr": "Unité d'impulsion de sauteur",
+    "fr": "Unité d'impulsion de Bondisseur",
     "es": "Unidad de pulso de saltador",
     "pt": "Unidade de pulso de saltador",
     "pl": "Jednostka pulsacyjna skoczka",
     "no": "Hopper-pulsenhet",
     "da": "Springer-pulsenhed",
     "it": "Unità a impulsi del saltatore",
-    "ru": "Импульсный блок прыгуна",
+    "ru": "Импульсный блок Прыгуна",
     "ja": "リーパーパルスユニット",
     "zh-TW": "跳躍者脈衝裝置",
     "uk": "Імпульсний блок стрибуна",
@@ -92,7 +92,7 @@
     "hr": "Može se reciklirati u materijale za izradu. Može se baciti kako bi se stvorila nasilna singularnost.",
     "sr": "Može se reciklirati u materijale za izradu. Može se baciti kako bi se stvorila nasilna singularnost."
   },
-  "weightKg": 1.0,
+  "weightKg": 1,
   "stackSize": 3,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png"

@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Auto detect text files and normalize to LF
+* text=auto eol=lf
+
+# Explicitly declare JSON files to use LF
+*.json text eol=lf
+*.md text eol=lf

@@ -3,9 +3,9 @@
   "updatedAt": "11/06/2025",
   "name": {
     "en": "Safe Passage",
-    "de": "Sichere Passage",
+    "de": "Sicherer Durchgang",
     "fr": "Passage sûr",
-    "es": "Paso seguro",
+    "es": "Salvoconducto",
     "pt": "Passagem segura",
     "pl": "Bezpieczne przejście",
     "no": "Trygg passasje",
@@ -22,10 +22,13 @@
     "hr": "Siguran Prolaz"
   },
   "trader": "Apollo",
+  "description": {
+	"de": "Ich hab Gerüchte über ein Singal gehört, das Shani aufgefangen hat. Die ARC passen sich ständig an, und ich bin mir sicher, dass das nicht ihr letztes Warnsignal sein wird. Na ja, wenn sie ein Wettrüsten wollen, dann kriegen sie eins."
+  },  
   "objectives": [
     {
       "en": "Destroy 2 ARC enemies using any explosive grenade",
-      "de": "Zerstöre 2 ARC-Gegner mit einer beliebigen Explosivgranate",
+      "de": "Zerstöre 2 ARC-Gegner mit einer Explosionsgranate",
       "fr": "Détruisez 2 ennemis ARC avec n'importe quelle grenade explosive",
       "es": "Destruye 2 enemigos ARC usando cualquier granada explosiva",
       "pt": "Destrua 2 inimigos ARC usando qualquer granada explosiva",

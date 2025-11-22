@@ -5,7 +5,7 @@
     "en": "Picking Up The Pieces",
     "de": "Die Scherben aufsammeln",
     "fr": "Ramasser les morceaux",
-    "es": "Recogiendo los pedazos",
+    "es": "Reconstrucción",
     "pt": "Juntando os pedaços",
     "pl": "Zbieranie kawałków",
     "no": "Plukke opp bitene",
@@ -24,7 +24,7 @@
   "trader": "Shani",
   "description": {
     "en": "The storm has mostly settled, but much of our infrastructure has taken a proper beating. If you're hoping to stay with us, I'll need you to pull your weight in the repair efforts.",
-    "de": "Der Sturm hat sich größtenteils gelegt, aber ein Großteil unserer Infrastruktur hat ordentlich einstecken müssen. Wenn du bei uns bleiben willst, musst du bei den Reparaturarbeiten mit anpacken.",
+    "de": "Der Sturm hat sich gelegt, aber große Teile unserer Infrastruktur haben ordentlich was abgekriegt. Wenn du bei uns bleiben willst, musst du deinen Beitrag zu den Reperaturarbeiten leisten.",
     "fr": "La tempête s'est calmée pour la plupart, mais une grande partie de notre infrastructure a été sérieusement endommagée. Si vous espérez rester avec nous, j'aurai besoin que vous participiez aux efforts de réparation.",
     "es": "La tormenta se ha calmado en su mayoría, pero gran parte de nuestra infraestructura ha recibido una buena paliza. Si esperas quedarte con nosotros, necesitaré que aportes tu parte en los esfuerzos de reparación.",
     "pt": "A tempestade já passou em grande parte, mas boa parte da nossa infraestrutura levou uma surra considerável. Se você espera ficar conosco, vou precisar que faça sua parte nos esforços de reparo.",
@@ -45,7 +45,7 @@
   "objectives": [
     {
       "en": "Visit any area on your map with a loot category icon",
-      "de": "Besuche einen beliebigen Bereich auf deiner Karte mit einem Beutekategorie-Symbol",
+      "de": "Ein beliebiges Gebiet auf deiner Karte besuchen, das mit einem Beutekategorie-Symbol markiert ist",
       "fr": "Visitez n'importe quelle zone sur votre carte avec une icône de catégorie de butin",
       "es": "Visita cualquier área en tu mapa con un icono de categoría de botín",
       "pt": "Visite qualquer área no seu mapa com um ícone de categoria de saque",
@@ -65,7 +65,7 @@
     },
     {
       "en": "Loot 3 containers",
-      "de": "Plündere 3 Behälter",
+      "de": "3 Container plündern",
       "fr": "Pillez 3 conteneurs",
       "es": "Saquea 3 contenedores",
       "pt": "Saqueia 3 contêineres",

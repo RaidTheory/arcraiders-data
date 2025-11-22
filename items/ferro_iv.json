@@ -10,7 +10,7 @@
     "no": "Ferro IV",
     "da": "Ferro IV",
     "it": "Ferro IV",
-    "ru": "Ferro IV",
+    "ru": "Ферро IV",
     "ja": "Ferro IV",
     "zh-TW": "Ferro IV",
     "uk": "Ferro IV",
@@ -57,7 +57,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
   "updatedAt": "11/03/2025",
-  "weightKg": 8.0,
+  "weightKg": 8,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -185,5 +185,6 @@
       "sr": "Modifikatori Nadogradnje",
       "value": "39% Reduced Reload Time"
     }
-  }
+  },
+  "isWeapon": true
 }

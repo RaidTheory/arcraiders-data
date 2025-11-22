@@ -9,11 +9,11 @@
     "pt": "Rattler IV",
     "ru": "Rattler IV",
     "de": "Rattler IV",
-    "fr": "Rattler IV",
+    "fr": "Crotale IV",
     "zh-CN": "响尾蛇 IV",
     "no": "Rattler IV",
     "tr": "Rattler IV",
-    "es": "Rattler IV",
+    "es": "Crótalo IV",
     "sr": "Rattler IV",
     "ja": "ラトラー IV",
     "kr": "래틀러 IV",
@@ -134,11 +134,11 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
-  "recycledMaterial": {
+  "recyclesInto": {
     "mechanical_components": 4,
     "simple_gun_parts": 2
   },
-  "salvagedMaterial": {
+  "salvagesInto": {
     "metal_parts": 14
   },
   "description": {
@@ -169,7 +169,8 @@
   "stability": 72.2,
   "agility": 54.8,
   "stealth": 14,
-  "weight": 6.0,
+  "weightKg": 6,
   "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }

@@ -10,7 +10,7 @@
     "no": "Rustent lukket medisinsk sett",
     "da": "Rustet lukket medicinsæt",
     "it": "Kit medico arrugginito chiuso",
-    "ru": "Заржавевшая аптечка",
+    "ru": "Аптечка со ржавым замком",
     "ja": "錆びついた救急箱",
     "zh-TW": "鏽死的醫療包",
     "uk": "Заіржавіла аптечка",
@@ -43,6 +43,7 @@
   "type": "Recyclable",
   "rarity": "Rare",
   "value": 1000,
+  "weightKg": 3,
   "recyclesInto": {
     "syringe": 2,
     "antiseptic": 1

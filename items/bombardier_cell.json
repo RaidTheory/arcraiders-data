@@ -10,7 +10,7 @@
     "no": "Bombardør-celle",
     "da": "Bombardør-celle",
     "it": "Cella del bombardiere",
-    "ru": "Ячейка бомбардира",
+    "ru": "Ячейка Бомбардира",
     "ja": "ボンバルディアセル",
     "zh-TW": "轟炸者電池",
     "uk": "Осередок бомбардира",
@@ -47,7 +47,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu."
   },
-  "weightKg": 1.0,
+  "weightKg": 1,
   "stackSize": 3,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/bombardier_cell.png",

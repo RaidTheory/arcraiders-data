@@ -4,7 +4,7 @@
     "en": "Renegade I",
     "de": "Renegade I",
     "fr": "Renégat I",
-    "es": "Renegade I",
+    "es": "Renegado I",
     "pt": "Renegade I",
     "pl": "Renegade I",
     "no": "Renegade I",
@@ -150,7 +150,11 @@
     }
   },
   "value": 7000,
-  "weightKg": 10.0,
+  "weightKg": 10,
+  "recyclesInto": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 2
+  },
   "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
   "updatedAt": "11/12/2025",
   "recipe": {
@@ -159,5 +163,6 @@
     "oil": 5
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 3
+  "stationLevelRequired": 3,
+  "isWeapon": true
 }

@@ -10,7 +10,7 @@
     "no": "Utvidet lett magasin III",
     "da": "Udvidet let magasin III",
     "it": "Caricatore leggero esteso III",
-    "ru": "Расширенный лёгкий магазин III",
+    "ru": "Увеличенный магазин для легкого оружия III",
     "ja": "拡張ライトマガジン III",
     "zh-TW": "延長輕型彈匣 III",
     "uk": "Розширений легкий магазин III",
@@ -68,5 +68,9 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_iii.png",
   "value": 5000,
-  "updatedAt": "10/30/2025"
+  "updatedAt": "10/30/2025",
+  "recyclesInto": {
+    "mod_components": 1,
+    "steel_spring": 2
+  }
 }
