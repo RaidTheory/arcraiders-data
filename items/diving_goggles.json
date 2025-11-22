@@ -42,9 +42,13 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "value": 640,
+  "recyclesInto": {
+    "rubber_parts": 12
+  },
   "weightKg": 2,
   "stackSize": 3,
   "foundIn": "Residential",
   "imageFilename": "https://cdn.arctracker.io/items/diving_goggles.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/21/2025"
 }
