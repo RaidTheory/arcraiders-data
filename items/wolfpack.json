@@ -43,6 +43,8 @@
   "type": "Quick Use",
   "rarity": "Epic",
   "weightKg": 1,
+  "stackSize": 1,
+  "value": 5000,
   "effects": {
     "Damage": {
       "en": "Damage",
@@ -88,10 +90,10 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/wolfpack.png",
-  "updatedAt": "10/30/2025",
+  "updatedAt": "11/21/2025",
   "recyclesInto": {
-    "crude_explosives": 2,
-    "synthesized_fuel": 2
+    "crude_explosives": 1,
+    "arc_motion_core": 1
   },
   "recipe": {
     "explosive_compound": 3,
