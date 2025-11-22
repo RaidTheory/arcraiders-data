@@ -23,7 +23,7 @@
     },
     "description": {
       "en": "Wearing a shield doesn't slow you down as much.",
-      "de": "Das Tragen eines Schildes verlangsamt dich nicht so stark.",
+      "de": "Das Tragen eines Schildes verlangsamt dich weniger.",
       "fr": "Porter un bouclier ne vous ralentit pas autant.",
       "es": "Llevar un escudo no te ralentiza tanto.",
       "pt": "Usar um escudo não te deixa tão lento.",
@@ -76,7 +76,7 @@
     "id": "cond_2l",
     "name": {
       "en": "Blast-Born",
-      "de": "Explosionsgeboren",
+      "de": "Schallgedämpft",
       "fr": "Audition renforcée",
       "es": "Nacido de la explosión",
       "pt": "Nascido da explosão",
@@ -96,7 +96,7 @@
     },
     "description": {
       "en": "Your hearing is less affected by nearby explosions.",
-      "de": "Dein Gehör wird weniger von nahegelegenen Explosionen beeinträchtigt.",
+      "de": "Dein Gehör wird durch nahe Explosionen weniger stark beeinträchtigt.",
       "fr": "Votre ouïe est moins affectée par les explosions à proximité.",
       "es": "Tu audición se ve menos afectada por explosiones cercanas.",
       "pt": "Sua audição é menos afetada por explosões próximas.",
@@ -116,7 +116,7 @@
     },
     "impactedSkill": {
       "en": "Hearing Enhancement",
-      "de": "Hörverbesserung",
+      "de": "Gehörverbesserung",
       "fr": "Amélioration de l'ouïe",
       "es": "Mejora de audición",
       "pt": "Melhoria de audição",
@@ -149,7 +149,7 @@
     "id": "cond_2r",
     "name": {
       "en": "Gentle Pressure",
-      "de": "Sanfter Druck",
+      "de": "Mit sanftem Druck",
       "fr": "Délicatesse",
       "es": "Presión suave",
       "pt": "Pressão suave",
@@ -169,7 +169,7 @@
     },
     "description": {
       "en": "You make less noise when breaching.",
-      "de": "Du machst weniger Lärm beim Aufbrechen.",
+      "de": "Du bist beim aufbrechen weniger laut.",
       "fr": "Vous faites moins de bruit lors d'une effraction.",
       "es": "Haces menos ruido al abrir brechas.",
       "pt": "Você faz menos barulho ao arrombar.",
@@ -242,7 +242,7 @@
     },
     "description": {
       "en": "When you're hurt in combat, regain a fixed amount of stamina. Has a cooldown between uses.",
-      "de": "Wenn du im Kampf verletzt wirst, erhältst du eine feste Menge Ausdauer zurück. Hat eine Abklingzeit zwischen den Verwendungen.",
+      "de": "Wenn du im Kampf verletzt wirst, erhältst du eine bestimmte Menge Ausdauer zurück. Hat eine bestimmte Abklingzeit bis zur nächsten Verwendung.",
       "fr": "Lorsque vous êtes blessé au combat, récupérez une quantité fixe d'endurance. A un temps de recharge entre les utilisations.",
       "es": "Cuando estás herido en combate, recuperas una cantidad fija de resistencia. Tiene un tiempo de reutilización entre usos.",
       "pt": "Quando você é ferido em combate, recupera uma quantidade fixa de resistência. Tem um tempo de recarga entre os usos.",
@@ -295,7 +295,7 @@
     "id": "cond_3r",
     "name": {
       "en": "Proficient Pryer",
-      "de": "Geübter Aufbrecher",
+      "de": "Geübter Schnüffler",
       "fr": "Indiscrétion habile",
       "es": "Forzador competente",
       "pt": "Arrombador proficiente",
@@ -315,7 +315,7 @@
     },
     "description": {
       "en": "Breaching doors and containers takes less time",
-      "de": "Das Aufbrechen von Türen und Behältern dauert weniger Zeit",
+      "de": "Das Aufbrechen von Türen und Containern geht schneller.",
       "fr": "L'effraction de portes et de conteneurs prend moins de temps",
       "es": "Abrir puertas y contenedores lleva menos tiempo",
       "pt": "Arrombar portas e contêineres leva menos tempo",
@@ -368,7 +368,7 @@
     "id": "cond_4l",
     "name": {
       "en": "Survivor's Stamina",
-      "de": "Überlebensausdauer",
+      "de": "Ausdauer des Überlebenden",
       "fr": "Endurance du survivant",
       "es": "Resistencia del superviviente",
       "pt": "Resistência do sobrevivente",
@@ -388,7 +388,7 @@
     },
     "description": {
       "en": "When you're critically hurt, your stamina regenerates faster.",
-      "de": "Wenn du kritisch verletzt bist, regeneriert sich deine Ausdauer schneller.",
+      "de": "Wenn du lebensgefährlich verletzt bist, regeneriert sich deine Ausdauer schneller.",
       "fr": "Lorsque vous êtes gravement blessé, votre endurance se régénère plus rapidement.",
       "es": "Cuando estás críticamente herido, tu resistencia se regenera más rápido.",
       "pt": "Quando você está criticamente ferido, sua resistência se regenera mais rápido.",
@@ -441,7 +441,7 @@
     "id": "cond_4r",
     "name": {
       "en": "Unburdened Roll",
-      "de": "Unbelastete Rolle",
+      "de": "Rolle ohne Ballast",
       "fr": "Roulade gratuite",
       "es": "Rodada sin carga",
       "pt": "Rolamento desobstruído",
@@ -461,7 +461,7 @@
     },
     "description": {
       "en": "If your shield breaks, your first Dodge Roll within a few seconds does not cost stamina.",
-      "de": "Wenn dein Schild bricht, kostet deine erste Ausweichrolle innerhalb weniger Sekunden keine Ausdauer.",
+      "de": "Wenn dein Schild bricht, kostet dich deine erste Ausweichrolle binnen weniger Sekunden keine Ausdauer.",
       "fr": "Si votre bouclier se brise, votre première roulade d'esquive en quelques secondes ne coûte pas d'endurance.",
       "es": "Si tu escudo se rompe, tu primera rodada de esquiva en unos segundos no cuesta resistencia.",
       "pt": "Se seu escudo quebrar, seu primeiro rolamento de esquiva em alguns segundos não custa resistência.",
@@ -514,7 +514,7 @@
     "id": "cond_5c",
     "name": {
       "en": "A Little Extra",
-      "de": "Ein bisschen extra",
+      "de": "Kleiner Bonus",
       "fr": "Petit Bonus",
       "es": "Un poco extra",
       "pt": "Um pouco extra",
@@ -587,7 +587,7 @@
     "id": "cond_5l",
     "name": {
       "en": "Downed But Determined",
-      "de": "Niedergeschlagen aber entschlossen",
+      "de": "Entkräftet, aber entschlossen",
       "fr": "À terre, mais avec détermination",
       "es": "Caído pero determinado",
       "pt": "Derrubado mas determinado",
@@ -607,7 +607,7 @@
     },
     "description": {
       "en": "When you're downed, it takes longer before you collapse.",
-      "de": "Wenn du niedergeschlagen bist, dauert es länger, bis du zusammenbrichst.",
+      "de": "Wenn du entkräftet bist, dauert es länger, bis du zusammenbrichst.",
       "fr": "Lorsque vous êtes abattu, il faut plus de temps avant de s'écrouler.",
       "es": "Cuando estás caído, tarda más en colapsar.",
       "pt": "Quando você está derrubado, leva mais tempo para colapsar.",
@@ -660,7 +660,7 @@
     "id": "cond_5r",
     "name": {
       "en": "Effortless Swing",
-      "de": "Müheloser Schwung",
+      "de": "Müheloser Schwinger",
       "fr": "Frappe agile",
       "es": "Golpe sin esfuerzo",
       "pt": "Balanço sem esforço",
@@ -680,7 +680,7 @@
     },
     "description": {
       "en": "Melee abilities cost less stamina. ",
-      "de": "Nahkampffähigkeiten kosten weniger Ausdauer. ",
+      "de": "Nahkampffähigkeiten kosten weniger Ausdauer.",
       "fr": "Les compétences de mêlée coûtent moins d'endurance. ",
       "es": "Las habilidades cuerpo a cuerpo cuestan menos resistencia. ",
       "pt": "Habilidades corpo a corpo custam menos resistência. ",
@@ -733,7 +733,7 @@
     "id": "cond_6c",
     "name": {
       "en": "Loaded Arms",
-      "de": "Beladene Arme",
+      "de": "Einsatzbereite Waffen",
       "fr": "Gros Bras",
       "es": "Brazos cargados",
       "pt": "Braços carregados",
@@ -753,7 +753,7 @@
     },
     "description": {
       "en": "Your equipped weapon has less impact on your encumbrance.",
-      "de": "Deine ausgewählte Waffe hat weniger Einfluss auf deine Belastung.",
+      "de": "Deine ausgerüstete Waffe hat weniger Einfluss auf deine Traglast.",
       "fr": "Votre arme équipée a moins d'impact sur votre encombrement.",
       "es": "Tu arma equipada tiene menos impacto en tu carga.",
       "pt": "Sua arma equipada tem menos impacto na sua carga.",
@@ -806,7 +806,7 @@
     "id": "cond_6l",
     "name": {
       "en": "Turtle Crawl",
-      "de": "Schildkrötenkriechen",
+      "de": "Wie eine Schildkröte",
       "fr": "Dernières forces",
       "es": "Arrastre de tortuga",
       "pt": "Rastejo de tartaruga",
@@ -826,7 +826,7 @@
     },
     "description": {
       "en": "While downed, you take less damage.",
-      "de": "Während du niedergeschlagen bist, erleidest du weniger Schaden.",
+      "de": "Du erleidest weniger Schaden, während du entkräftet bist.",
       "fr": "Lorsque vous êtes abattu, vous subissez moins de dégâts.",
       "es": "Mientras estás caído, recibes menos daño.",
       "pt": "Enquanto derrubado, você recebe menos dano.",
@@ -846,7 +846,7 @@
     },
     "impactedSkill": {
       "en": "Downed Damage Reduction",
-      "de": "Schadensreduzierung im Niedergeschlagenen Zustand",
+      "de": "Schadensreduzierung im entkräfteten Zustand",
       "fr": "Réduction des dégâts à terre",
       "es": "Reducción de daño caído",
       "pt": "Redução de dano derrubado",
@@ -878,7 +878,7 @@
     "id": "cond_6r",
     "name": {
       "en": "Sky-Clearing Swing",
-      "de": "Himmelklärender Schwung",
+      "de": "Befreiender Hieb",
       "fr": "Frappe antiaérienne",
       "es": "Golpe despejador de cielos",
       "pt": "Balanço limpador de céu",
@@ -898,7 +898,7 @@
     },
     "description": {
       "en": "You deal more melee damage to drones.",
-      "de": "Du verursachst mehr Nahkampfschaden an Drohnen.",
+      "de": "Du fügst Drohnen mehr Nahkampfschaden zu.",
       "fr": "Vous infligez plus de dégâts de mêlée aux drones.",
       "es": "Infliges más daño cuerpo a cuerpo a los drones.",
       "pt": "Você causa mais dano corpo a corpo em drones.",
@@ -951,7 +951,7 @@
     "id": "cond_7l",
     "name": {
       "en": "Back On Your Feet",
-      "de": "Wieder auf den Beinen",
+      "de": "Wieder auf den Füßen",
       "fr": "Remise sur pied",
       "es": "De vuelta en pie",
       "pt": "De volta aos pés",
@@ -971,7 +971,7 @@
     },
     "description": {
       "en": "When you're critically hurt, your health regenerates until a certain limit.",
-      "de": "Wenn du kritisch verletzt bist, regeneriert sich deine Gesundheit bis zu einer bestimmten Grenze.",
+      "de": "Wenn du lebensgefährlich verletzt bist, regeneriert sich deine Gesundheit bis zu einem gewissen Wert.",
       "fr": "Lorsque vous êtes gravement blessé, votre santé se régénère jusqu'à une certaine limite.",
       "es": "Cuando estás críticamente herido, tu salud se regenera hasta cierto límite.",
       "pt": "Quando você está criticamente ferido, sua saúde se regenera até certo limite.",
@@ -1044,7 +1044,7 @@
     },
     "description": {
       "en": "A single melee attack destroys a Tick, Pop, Wasp and Turret.",
-      "de": "Ein einzelner Nahkampfangriff zerstört eine Zecke, Pop, Wespe und Geschützturm.",
+      "de": "Wespen und Geschütztürme können nun mit einem Nahkampfangriff zerstört werden.",
       "fr": "Une seule attaque de mêlée détruit une Tique, Pop, Guêpe et Tourelle.",
       "es": "Un solo ataque cuerpo a cuerpo destruye una Garrapata, Pop, Avispa y Torreta.",
       "pt": "Um único ataque corpo a corpo destrói um Carrapato, Pop, Vespa e Torreta.",
@@ -1117,7 +1117,7 @@
     },
     "description": {
       "en": "You can climb and vault more quickly.",
-      "de": "Du kannst schneller klettern und überspringen.",
+      "de": "Du kannst schneller klettern und hechten.",
       "fr": "Vous pouvez grimper et sauter plus rapidement.",
       "es": "Puedes escalar y saltar más rápido.",
       "pt": "Você pode escalar e pular mais rápido.",
@@ -1190,7 +1190,7 @@
     },
     "description": {
       "en": "Moving around costs less stamina.",
-      "de": "Bewegung kostet weniger Ausdauer.",
+      "de": "Das Bewegen kostet weniger Ausdauer.",
       "fr": "Se déplacer coûte moins d'endurance.",
       "es": "Moverse cuesta menos resistencia.",
       "pt": "Mover-se custa menos resistência.",
@@ -1243,7 +1243,7 @@
     "id": "mob_2r",
     "name": {
       "en": "Slip and Slide",
-      "de": "Rutschen und Gleiten",
+      "de": "Rutschen und Flutschen",
       "fr": "Roi de la glisse",
       "es": "Deslizar y resbalar",
       "pt": "Escorregar e deslizar",
@@ -1263,7 +1263,7 @@
     },
     "description": {
       "en": "You can slide further and faster.",
-      "de": "Du kannst weiter und schneller rutschen.",
+      "de": "Du kannst schneller und weiter rutschen.",
       "fr": "Vous pouvez glisser plus loin et plus vite.",
       "es": "Puedes deslizarte más lejos y más rápido.",
       "pt": "Você pode deslizar mais longe e mais rápido.",
@@ -1316,7 +1316,7 @@
     "id": "mob_3l",
     "name": {
       "en": "Youthful Lungs",
-      "de": "Jugendliche Lungen",
+      "de": "Junge Lunge",
       "fr": "Jeunes poumons",
       "es": "Pulmones juveniles",
       "pt": "Pulmões jovens",
@@ -1336,7 +1336,7 @@
     },
     "description": {
       "en": "Increase your max stamina.",
-      "de": "Erhöhe deine maximale Ausdauer.",
+      "de": "Erhöht deine max. Ausdauer.",
       "fr": "Augmentez votre endurance maximale.",
       "es": "Aumenta tu resistencia máxima.",
       "pt": "Aumente sua resistência máxima.",
@@ -1389,7 +1389,7 @@
     "id": "mob_3r",
     "name": {
       "en": "Sturdy Ankles",
-      "de": "Robuste Knöchel",
+      "de": "Robuste Fußgelenke",
       "fr": "Chevilles robustes",
       "es": "Tobillos resistentes",
       "pt": "Tornozelos resistentes",
@@ -1409,7 +1409,7 @@
     },
     "description": {
       "en": "You take less fall damage when falling from a non-lethal height.",
-      "de": "Du erleidest weniger Fallschaden beim Fallen aus nicht-tödlicher Höhe.",
+      "de": "Wenn du aus einer nicht tödlichen Höhe fällst, erleidest du weniger Fallschaden.",
       "fr": "Vous subissez moins de dégâts de chute lorsque vous tombez d'une hauteur non mortelle.",
       "es": "Recibes menos daño por caída al caer desde una altura no letal.",
       "pt": "Você recebe menos dano de queda ao cair de uma altura não letal.",
@@ -1462,7 +1462,7 @@
     "id": "mob_4l",
     "name": {
       "en": "Carry The Momentum",
-      "de": "Schwung mitnehmen",
+      "de": "Den Schwung mitnehmen",
       "fr": "Sur sa lancée",
       "es": "Llevar el impulso",
       "pt": "Carregar o momento",
@@ -1482,7 +1482,7 @@
     },
     "description": {
       "en": "After a Sprint Dodge Roll, sprinting does not consume stamina for a short time. Has a cooldown between uses.",
-      "de": "Nach einer Sprint-Ausweichrolle verbraucht Sprinten für kurze Zeit keine Ausdauer. Hat eine Abklingzeit zwischen den Verwendungen.",
+      "de": "Für kurze Zeit nach einer Ausweichrolle verbraucht das Sprinten keine Ausdauer. Nach dem Einsatz läuft eine Abklingzeit.",
       "fr": "Après une roulade d'esquive en sprint, sprinter ne consomme pas d'endurance pendant un court instant. A un temps de recharge entre les utilisations.",
       "es": "Después de una rodada de esquiva en sprint, esprintar no consume resistencia por un corto tiempo. Tiene un tiempo de reutilización entre usos.",
       "pt": "Após um rolamento de esquiva em sprint, correr não consome resistência por um curto período. Tem um tempo de recarga entre os usos.",
@@ -1535,7 +1535,7 @@
     "id": "mob_4r",
     "name": {
       "en": "Calming Stroll",
-      "de": "Beruhigender Spaziergang",
+      "de": "Kleiner Spaziergang",
       "fr": "Promenade relaxante",
       "es": "Paseo calmante",
       "pt": "Passeio calmante",
@@ -1555,7 +1555,7 @@
     },
     "description": {
       "en": "While walking, your stamina regenerates as if you were standing still.",
-      "de": "Während des Gehens regeneriert sich deine Ausdauer, als würdest du stillstehen.",
+      "de": "Wenn du gehst, regeneriert sich deine Ausdauer genauso wie beim Stehen.",
       "fr": "En marchant, votre endurance se régénère comme si vous étiez immobile.",
       "es": "Mientras caminas, tu resistencia se regenera como si estuvieras quieto.",
       "pt": "Enquanto caminha, sua resistência se regenera como se estivesse parado.",
@@ -1608,7 +1608,7 @@
     "id": "mob_5c",
     "name": {
       "en": "Crawl Before You Walk",
-      "de": "Kriechen vor dem Gehen",
+      "de": "Auf allen Vieren",
       "fr": "Ramper avant de marcher",
       "es": "Gatear antes de caminar",
       "pt": "Rastejar antes de andar",
@@ -1628,7 +1628,7 @@
     },
     "description": {
       "en": "When you're downed, you crawl faster.",
-      "de": "Wenn du niedergeschlagen bist, kriechst du schneller.",
+      "de": "Du kriechst schneller, wenn du entkräftet bist.",
       "fr": "Lorsque vous êtes abattu, vous rampez plus vite.",
       "es": "Cuando estás caído, gateas más rápido.",
       "pt": "Quando você está derrubado, você rasteja mais rápido.",
@@ -1754,7 +1754,7 @@
     "id": "mob_5r",
     "name": {
       "en": "Off The Wall",
-      "de": "Von der Wand",
+      "de": "Weg von der Wand",
       "fr": "Grimper aux murs",
       "es": "Fuera de la pared",
       "pt": "Fora da parede",
@@ -1774,7 +1774,7 @@
     },
     "description": {
       "en": "You can Wall Leap further.",
-      "de": "Du kannst weiter von der Wand springen.",
+      "de": "Dein Wandsprung reicht weiter.",
       "fr": "Vous pouvez sauter plus loin du mur.",
       "es": "Puedes saltar más lejos de la pared.",
       "pt": "Você pode pular mais longe da parede.",
@@ -1827,7 +1827,7 @@
     "id": "mob_6c",
     "name": {
       "en": "Vigorous Vaulter",
-      "de": "Kraftvoller Springer",
+      "de": "Heftiger Hechter",
       "fr": "Sauteur vigoureux",
       "es": "Saltador vigoroso",
       "pt": "Saltador vigoroso",
@@ -1847,7 +1847,7 @@
     },
     "description": {
       "en": "Vaulting is no longer slowed down while exhausted.",
-      "de": "Überspringen wird nicht mehr verlangsamt, wenn du erschöpft bist.",
+      "de": "Du hechtest nicht länger langsamer, wenn du erschöpft bist.",
       "fr": "Le saut n'est plus ralenti lorsque vous êtes épuisé.",
       "es": "Saltar ya no se ralentiza cuando estás agotado.",
       "pt": "Pular não é mais desacelerado quando você está exausto.",
@@ -1920,7 +1920,7 @@
     },
     "description": {
       "en": "You can Sprint Dodge Roll further.",
-      "de": "Du kannst Sprint-Ausweichrollen weiter ausführen.",
+      "de": "Du sprintest nach einer Ausweichrolle weiter.",
       "fr": "Vous pouvez effectuer des roulades d'esquive en sprint plus loin.",
       "es": "Puedes hacer rodadas de esquiva en sprint más lejos.",
       "pt": "Você pode fazer rolamentos de esquiva em sprint mais longe.",
@@ -1973,7 +1973,7 @@
     "id": "mob_6r",
     "name": {
       "en": "Ready To Roll",
-      "de": "Bereit zum Rollen",
+      "de": "Auf die Plätze, Fertig, Rollen",
       "fr": "Roulade facilitée",
       "es": "Listo para rodar",
       "pt": "Pronto para rolar",
@@ -1993,7 +1993,7 @@
     },
     "description": {
       "en": "When falling, your timing window to perform a Recovery Roll is increased.",
-      "de": "Beim Fallen wird dein Zeitfenster für eine Erholungsrolle vergrößert.",
+      "de": "Das Zeit, um im Fallen eine Abfangrolle auszuführen, ist größer.",
       "fr": "En tombant, votre fenêtre de timing pour effectuer une roulade de récupération est augmentée.",
       "es": "Al caer, tu ventana de tiempo para realizar una rodada de recuperación aumenta.",
       "pt": "Ao cair, sua janela de tempo para realizar um rolamento de recuperação é aumentada.",
@@ -2046,7 +2046,7 @@
     "id": "mob_7l",
     "name": {
       "en": "Vaults on Vaults on Vaults",
-      "de": "Sprünge über Sprünge über Sprünge",
+      "de": "Und Hopp und Hopp und Hopp",
       "fr": "Maîrise des sauts",
       "es": "Saltos sobre saltos sobre saltos",
       "pt": "Saltos sobre saltos sobre saltos",
@@ -2066,7 +2066,7 @@
     },
     "description": {
       "en": "Vaulting no longer costs stamina.",
-      "de": "Überspringen kostet keine Ausdauer mehr.",
+      "de": "Hechten kostet keine Ausdauer mehr.",
       "fr": "Le saut ne coûte plus d'endurance.",
       "es": "Saltar ya no cuesta resistencia.",
       "pt": "Pular não custa mais resistência.",
@@ -2119,7 +2119,7 @@
     "id": "mob_7r",
     "name": {
       "en": "Vault Spring",
-      "de": "Sprungfeder",
+      "de": "Hechtsprung",
       "fr": "Saut sur ressort",
       "es": "Resorte de salto",
       "pt": "Mola de salto",
@@ -2139,7 +2139,7 @@
     },
     "description": {
       "en": "Lets you jump at the end of a vault.",
-      "de": "Ermöglicht es dir, am Ende eines Sprungs zu springen.",
+      "de": "Damit kannst du am Ende eines Hechtsprungs springen.",
       "fr": "Vous permet de sauter à la fin d'un saut.",
       "es": "Te permite saltar al final de un salto.",
       "pt": "Permite que você pule no final de um salto.",
@@ -2192,7 +2192,7 @@
     "id": "surv_1",
     "name": {
       "en": "Agile Croucher",
-      "de": "Flinker Hocker",
+      "de": "Gelenkiger Kriecher",
       "fr": "Accroupissement agile",
       "es": "Agachador ágil",
       "pt": "Agachador ágil",
@@ -2212,7 +2212,7 @@
     },
     "description": {
       "en": "Your movement speed while crouching is increased.",
-      "de": "Deine Bewegungsgeschwindigkeit beim Hocken ist erhöht.",
+      "de": "Du bewegst dich in geduckter Haltung schneller.",
       "fr": "Votre vitesse de déplacement en position accroupie est augmentée.",
       "es": "Tu velocidad de movimiento mientras estás agachado aumenta.",
       "pt": "Sua velocidade de movimento enquanto agachado é aumentada.",
@@ -2265,7 +2265,7 @@
     "id": "surv_2l",
     "name": {
       "en": "Looter's Instincts",
-      "de": "Plündererinstinkte",
+      "de": "Instinkte des Plünderers",
       "fr": "Instintcs de Raiders",
       "es": "Instintos de saqueador",
       "pt": "Instintos de saqueador",
@@ -2285,7 +2285,7 @@
     },
     "description": {
       "en": "When searching a container, loot is revealed faster.",
-      "de": "Beim Durchsuchen eines Behälters wird Beute schneller aufgedeckt.",
+      "de": "Wenn du einen Container durchsuchst, findest du Beute schneller.",
       "fr": "Lors de la fouille d'un conteneur, le butin est révélé plus rapidement.",
       "es": "Al buscar en un contenedor, el botín se revela más rápido.",
       "pt": "Ao procurar em um contêiner, o saque é revelado mais rápido.",
@@ -2338,7 +2338,7 @@
     "id": "surv_2r",
     "name": {
       "en": "Revitalizing Squat",
-      "de": "Belebende Hocke",
+      "de": "Erholsame Hocke",
       "fr": "Flexions revitalisantes",
       "es": "Agachada revitalizante",
       "pt": "Agachamento revitalizante",
@@ -2358,7 +2358,7 @@
     },
     "description": {
       "en": "Stamina regeneration while crouched is increased.",
-      "de": "Ausdauerregeneration beim Hocken ist erhöht.",
+      "de": "Die Ausdauerregeneration während des Duckens wird erhöht.",
       "fr": "La régénération d'endurance en position accroupie est augmentée.",
       "es": "La regeneración de resistencia mientras estás agachado aumenta.",
       "pt": "A regeneração de resistência enquanto agachado é aumentada.",
@@ -2411,7 +2411,7 @@
     "id": "surv_3l",
     "name": {
       "en": "Silent Scavenger",
-      "de": "Stiller Plünderer",
+      "de": "Leiser Beutemacher",
       "fr": "Pillage discret",
       "es": "Carroñero silencioso",
       "pt": "Catador silencioso",
@@ -2431,7 +2431,7 @@
     },
     "description": {
       "en": "You make less noise when looting",
-      "de": "Du machst weniger Lärm beim Plündern",
+      "de": "Du bist beim Plündern weniger laut.",
       "fr": "Vous faites moins de bruit en pillant",
       "es": "Haces menos ruido al saquear",
       "pt": "Você faz menos barulho ao saquear",
@@ -2484,7 +2484,7 @@
     "id": "surv_3r",
     "name": {
       "en": "In-Round Crafting",
-      "de": "Feldhandwerk",
+      "de": "Herstellung in der Runde",
       "fr": "Fabrication en cours de partie",
       "es": "Fabricación en ronda",
       "pt": "Fabricação em campo",
@@ -2504,7 +2504,7 @@
     },
     "description": {
       "en": "Unlocks the ability to field-craft items while topside.",
-      "de": "Schaltet die Fähigkeit frei, Gegenstände im Feld herzustellen.",
+      "de": "Schaltet die Fähigkeit frei, an der Oberfläche Gegenstände herzustellen.",
       "fr": "Débloque la capacité de fabriquer des objets sur le terrain.",
       "es": "Desbloquea la habilidad de fabricar objetos en el campo.",
       "pt": "Desbloqueia a habilidade de fabricar itens em campo.",
@@ -2557,7 +2557,7 @@
     "id": "surv_4l",
     "name": {
       "en": "Suffer In Silence",
-      "de": "Leise leiden",
+      "de": "Schweigend leidend",
       "fr": "Souffrir en silence",
       "es": "Sufrir en silencio",
       "pt": "Sofrer em silêncio",
@@ -2577,7 +2577,7 @@
     },
     "description": {
       "en": "While critically hurt, your movement makes less noise.",
-      "de": "Wenn du kritisch verletzt bist, macht deine Bewegung weniger Lärm.",
+      "de": "Wenn du lebensgefährlich verletzt bist, bewegst du dich weniger laut.",
       "fr": "Lorsque vous êtes gravement blessé, vos mouvements font moins de bruit.",
       "es": "Mientras estás críticamente herido, tu movimiento hace menos ruido.",
       "pt": "Enquanto criticamente ferido, seu movimento faz menos barulho.",
@@ -2630,7 +2630,7 @@
     "id": "surv_4r",
     "name": {
       "en": "Good As New",
-      "de": "Wie neu",
+      "de": "So gut wie neu",
       "fr": "Forme olympique",
       "es": "Como nuevo",
       "pt": "Como novo",
@@ -2650,7 +2650,7 @@
     },
     "description": {
       "en": "While under a healing effect, stamina regeneration is increased.",
-      "de": "Während eines Heilungseffekts ist die Ausdauerregeneration erhöht.",
+      "de": "Deine Audauerregeneration ist erhöht, wenn du unter dem Effekt einer Heilung stehst.",
       "fr": "Sous un effet de soin, la régénération d'endurance est augmentée.",
       "es": "Mientras estás bajo un efecto de curación, la regeneración de resistencia aumenta.",
       "pt": "Enquanto sob um efeito de cura, a regeneração de resistência é aumentada.",
@@ -2703,7 +2703,7 @@
     "id": "surv_5c",
     "name": {
       "en": "Traveling Tinkerer",
-      "de": "Reisender Bastler",
+      "de": "Fahrender Tüftler",
       "fr": "Bricolage Express",
       "es": "Manitas viajero",
       "pt": "Inventor viajante",
@@ -2795,7 +2795,7 @@
     },
     "description": {
       "en": "Increases the maximum amount of items you can carry.",
-      "de": "Erhöht die maximale Menge an Gegenständen, die du tragen kannst.",
+      "de": "Erhöht das Gewicht, das du maximal tragen kannst.",
       "fr": "Augmente la quantité maximale d'objets que vous pouvez transporter.",
       "es": "Aumenta la cantidad máxima de objetos que puedes llevar.",
       "pt": "Aumenta a quantidade máxima de itens que você pode carregar.",
@@ -2868,7 +2868,7 @@
     },
     "description": {
       "en": "Your stamina regeneration is less affected by being over-encumbered.",
-      "de": "Deine Ausdauerregeneration wird weniger durch Überbelastung beeinträchtigt.",
+      "de": "Deine Ausdauerregeneration wird durch Überlastung weniger stark beeinträchtigt.",
       "fr": "Votre régénération d'endurance est moins affectée par la surcharge.",
       "es": "Tu regeneración de resistencia se ve menos afectada por estar sobrecargado.",
       "pt": "Sua regeneração de resistência é menos afetada por estar sobrecarregado.",
@@ -2921,7 +2921,7 @@
     "id": "surv_6c",
     "name": {
       "en": "One Raider's Scraps",
-      "de": "Eines Raiders Reste",
+      "de": "Des einen Leid",
       "fr": "Rebuts",
       "es": "Restos de un asaltante",
       "pt": "Restos de um invasor",
@@ -2941,7 +2941,7 @@
     },
     "description": {
       "en": "When looting Raider containers, you have a small chance of finding additional field-crafted items.",
-      "de": "Beim Plündern von Raider-Behältern hast du eine kleine Chance, zusätzliche im Feld hergestellte Gegenstände zu finden.",
+      "de": "Beim Plündern von Raider-Containern besteht die kleine Chance, zusätzliche im Feld hergestellte Gegenstände zu finden.",
       "fr": "Lors du pillage de conteneurs de Raiders, vous avez une petite chance de trouver des objets fabriqués sur le terrain supplémentaires.",
       "es": "Al saquear contenedores de asaltantes, tienes una pequeña posibilidad de encontrar objetos fabricados en el campo adicionales.",
       "pt": "Ao saquear contêineres de invasores, você tem uma pequena chance de encontrar itens fabricados em campo adicionais.",
@@ -2994,7 +2994,7 @@
     "id": "surv_6l",
     "name": {
       "en": "Looter's Luck",
-      "de": "Plündererglück",
+      "de": "Plünderglück",
       "fr": "Chance du Raider",
       "es": "Suerte del saqueador",
       "pt": "Sorte do saqueador",
@@ -3014,7 +3014,7 @@
     },
     "description": {
       "en": "While looting, there's a chance to reveal twice as many items at once.",
-      "de": "Beim Plündern besteht die Chance, doppelt so viele Gegenstände auf einmal aufzudecken.",
+      "de": "Beim Plündern besteht die Chance, doppelt so viele Gegenstände gleichzeitig zu entdecken.",
       "fr": "En pillant, il y a une chance de révéler deux fois plus d'objets à la fois.",
       "es": "Al saquear, hay una posibilidad de revelar el doble de objetos a la vez.",
       "pt": "Ao saquear, há uma chance de revelar o dobro de itens de uma vez.",
@@ -3087,7 +3087,7 @@
     },
     "description": {
       "en": "After an ability drains your stamina, you recover more quickly.",
-      "de": "Nachdem eine Fähigkeit deine Ausdauer verbraucht, erholst du dich schneller.",
+      "de": "Nachdem eine Fähigkeit dir Ausdauer geraubt hat, stellst du sie schneller wieder her.",
       "fr": "Après qu'une compétence épuise votre endurance, vous récupérez plus rapidement.",
       "es": "Después de que una habilidad agota tu resistencia, te recuperas más rápido.",
       "pt": "Depois que uma habilidade esgota sua resistência, você se recupera mais rapidamente.",
@@ -3140,7 +3140,7 @@
     "id": "surv_7l",
     "name": {
       "en": "Security Breach",
-      "de": "Sicherheitsverletzung",
+      "de": "Sicherheitslücke",
       "fr": "Brèche de sécurité",
       "es": "Violación de seguridad",
       "pt": "Violação de segurança",
@@ -3160,7 +3160,7 @@
     },
     "description": {
       "en": "Lets you breach Security Lockers.",
-      "de": "Ermöglicht es dir, Sicherheitsschließfächer aufzubrechen.",
+      "de": "Damit kannst du Sicherheitsschließfächer aufbrechen.",
       "fr": "Vous permet de forcer les casiers de sécurité.",
       "es": "Te permite abrir casilleros de seguridad.",
       "pt": "Permite que você arrombar armários de segurança.",
@@ -3233,7 +3233,7 @@
     },
     "description": {
       "en": "Mines and explosive deployables can be defused when in close proximity.",
-      "de": "Minen und explosive Objekte können in unmittelbarer Nähe entschärft werden.",
+      "de": "Minen und explosive Gegenstände können aus unmittelbarer Nähe entschärft werden.",
       "fr": "Les mines et les explosifs déployables peuvent être désamorcés à proximité.",
       "es": "Las minas y explosivos desplegables pueden desactivarse cuando estás cerca.",
       "pt": "Minas e explosivos implantáveis podem ser desarmados quando próximos.",
