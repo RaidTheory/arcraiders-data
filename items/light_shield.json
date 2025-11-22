@@ -42,6 +42,10 @@
     "hr": "Lagani štit koji blokira malu količinu dolazne štete bez utjecaja na pokretljivost.",
     "sr": "Lagani štit koji blokira malu količinu dolazne štete bez uticaja na pokretljivost."
   },
+  "durability": 100,
+  "shieldCharge": 40,
+  "damageMitigation": 40,
+  "movementSpeedModifier": 0,
   "recyclesInto": {
     "plastic_parts": 4
   },
@@ -118,8 +122,5 @@
     "arc_alloy": 2,
     "plastic_parts": 4
   },
-  "craftBench": [
-    "workbench",
-    "equipment_bench"
-  ]
+  "craftBench": ["workbench", "equipment_bench"]
 }
