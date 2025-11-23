@@ -41,6 +41,9 @@
     "sr": "Anti-ARC projektili koje uglavnom koristi Hullcracker. Kompatibilno sa: Hullcracker"
   },
   "type": "Ammunition",
+  "compatibleWith": [
+    "Hullcracker"
+  ],
   "value": 250,
   "rarity": "Rare",
   "weightKg": 0.1,
