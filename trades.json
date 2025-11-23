@@ -111,7 +111,7 @@
   },
   {
     "trader": "Celeste",
-    "itemId": "processors",
+    "itemId": "processor",
     "quantity": 1,
     "cost": {
       "itemId": "assorted_seeds",
@@ -221,7 +221,7 @@
   },
   {
     "trader": "Celeste",
-    "itemId": "magnets",
+    "itemId": "magnet",
     "quantity": 1,
     "cost": {
       "itemId": "assorted_seeds",
@@ -342,10 +342,10 @@
   {
     "trader": "Tian Wen",
     "itemId": "launcher_ammo",
-    "quantity": 1,
+    "quantity": 6,
     "cost": {
       "itemId": "coins",
-      "quantity": 3000
+      "quantity": 4500
     },
     "dailyLimit": null
   },
@@ -581,7 +581,7 @@
   },
   {
     "trader": "Apollo",
-    "itemId": "orange_light_stick",
+    "itemId": "red_light_stick",
     "quantity": 1,
     "cost": {
       "itemId": "coins",
@@ -602,6 +602,16 @@
   {
     "trader": "Apollo",
     "itemId": "light_impact_grenade",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 810
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "gas_mine",
     "quantity": 1,
     "cost": {
       "itemId": "coins",
@@ -655,9 +665,19 @@
     "quantity": 1,
     "cost": {
       "itemId": "coins",
-      "quantity": 2400
+      "quantity": 3000
     },
-    "dailyLimit": 3
+    "dailyLimit": 6
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "seeker_grenade",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1920
+    },
+    "dailyLimit": 6
   },
   {
     "trader": "Apollo",
@@ -681,6 +701,16 @@
   },
   {
     "trader": "Apollo",
+    "itemId": "deadline",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 15000
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Apollo",
     "itemId": "jolt_mine",
     "quantity": 1,
     "cost": {
@@ -688,6 +718,16 @@
       "quantity": 2550
     },
     "dailyLimit": 3
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "pulse_mine",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 1410
+    },
+    "dailyLimit": 6
   },
   {
     "trader": "Apollo",
