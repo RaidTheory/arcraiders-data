@@ -40,6 +40,7 @@
     "hr": "Kompatibilno s: Il Toro, Vulcano",
     "sr": "Kompatibilno sa: Il Toro, Vulcano"
   },
+  "compatibleWith": ["Il Toro", "Vulcano"],
   "type": "Ammunition",
   "value": 20,
   "weightKg": 0.085,

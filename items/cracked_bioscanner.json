@@ -24,6 +24,7 @@
   "type": "Recyclable",
   "value": 1000,
   "weightKg": 2,
+  "stackSize": 3,
   "recyclesInto": {
     "rubber_parts": 3,
     "battery": 3

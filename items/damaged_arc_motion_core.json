@@ -43,6 +43,7 @@
   "type": "Recyclable",
   "rarity": "Uncommon",
   "weightKg": 0.25,
+  "stackSize": 5,
   "value": 640,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/damaged_arc_motion_core.png",
