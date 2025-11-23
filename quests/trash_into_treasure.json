@@ -3,9 +3,9 @@
   "updatedAt": "11/06/2025",
   "name": {
     "en": "Trash Into Treasure",
-    "de": "Müll zu Schätzen",
+    "de": "Des einen Müll ist des anderen Schatz",
     "fr": "Des déchets aux trésors",
-    "es": "Basura en tesoro",
+    "es": "Basura valiosa",
     "pt": "Lixo em tesouro",
     "pl": "Ze śmieci w skarb",
     "no": "Søppel til skatt",
@@ -22,10 +22,13 @@
     "hr": "Od Smeća do Blaga"
   },
   "trader": "Shani",
+"description": {
+    "de": "Für einen Raider gibt es keinen Schrott, das sind alles Wertstoffe, die recycelt werden wollen. Wenn du hier etwas erreichen willst, kannst du nicht darauf warten, dass dir alles auf dem Silbertablett serviert wird."
+  },  
   "objectives": [
     {
       "en": "Obtain 6 Wires",
-      "de": "Besorge 6 Drähte",
+      "de": "6 Kabel besorgen",
       "fr": "Obtenez 6 fils",
       "es": "Consigue 6 cables",
       "pt": "Obtenha 6 fios",
@@ -45,7 +48,7 @@
     },
     {
       "en": "Obtain 1 Battery",
-      "de": "Besorge 1 Batterie",
+      "de": "1 Akku besorgen",
       "fr": "Obtenez 1 batterie",
       "es": "Consigue 1 batería",
       "pt": "Obtenha 1 bateria",

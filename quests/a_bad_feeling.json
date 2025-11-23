@@ -3,9 +3,9 @@
   "updatedAt": "11/06/2025",
   "name": {
     "en": "A Bad Feeling",
-    "de": "Ein schlechtes Gefühl",
+    "de": "Ein ungutes Gefühl",
     "fr": "Un mauvais pressentiment",
-    "es": "Una mala sensación",
+    "es": "Un mal presentimiento",
     "pt": "Um mau pressentimento",
     "pl": "Złe przeczucie",
     "no": "En dårlig følelse",
@@ -22,10 +22,13 @@
     "hr": "Loš Predosjećaj"
   },
   "trader": "Celeste",
+  "description": {
+    "de": "Schon die kleinste Änderung am Verhalten der ARC könnte eine Katastrophe bedeuten. Und das Signal, das du gehört hast? Sowas haven wir noch nie aufgefangen. Wenn die irgendwas vorhaben, müssen wir das unbedint herausfinden."
+  },  
   "objectives": [
     {
       "en": "Find and search any ARC Probe or ARC Courier",
-      "de": "Finde und durchsuche eine beliebige ARC-Sonde oder einen ARC-Kurier",
+      "de": "Eine ARC-Sonde oder einen ARC-Kurier finden und durchsuchen",
       "fr": "Trouver et fouiller une Sonde ARC ou un Convoyeur ARC",
       "es": "Encuentra y registra cualquier sonda ARC o mensajero ARC",
       "pt": "Encontre e reviste qualquer sonda ARC ou mensageiro ARC",

@@ -3,9 +3,9 @@
   "updatedAt": "11/06/2025",
   "name": {
     "en": "Hatch Repairs",
-    "de": "Lukenreparaturen",
+    "de": "Lukenreparatur",
     "fr": "Réparations de trappes",
-    "es": "Reparaciones de escotillas",
+    "es": "Reparaciones de trampilla",
     "pt": "Reparos de escotilhas",
     "pl": "Naprawy włazów",
     "no": "Lukereparasjoner",
@@ -24,7 +24,7 @@
   "trader": "Shani",
   "description": {
     "en": "Our scouts have reported several Raider Hatches with leaking hydraulic pipes. They still work, but not for long. Mind patching one up, next time you're out there?",
-    "de": "Unsere Späher haben mehrere Raider-Luken mit undichten Hydraulikleitungen gemeldet. Sie funktionieren noch, aber nicht mehr lange. Würdest du eine reparieren, wenn du das nächste Mal dort draußen bist?",
+    "de": "Unsere Späher haben mehrere Raider-Luken gemeldet, bei denen die Hydraulikrohre Lecks haben. Sie funktionieren noch, aber es ist nur eine Frage der Zeit. Würdest du eines reparieren, wenn du das nächste Mal da draußen bist?",
     "fr": "Nos éclaireurs ont signalé plusieurs trappes de Raiders avec des tuyaux hydrauliques qui fuient. Elles fonctionnent encore, mais plus pour longtemps. Ça te dérangerait d'en réparer une la prochaine fois que tu seras là-bas ?",
     "es": "Nuestros exploradores han reportado varias escotillas de Saqueadores con tuberías hidráulicas con fugas. Todavía funcionan, pero no por mucho tiempo. ¿Te importaría reparar una la próxima vez que estés por allí?",
     "pt": "Nossos batedores relataram várias escotilhas de Saqueadores com tubos hidráulicos vazando. Elas ainda funcionam, mas não por muito tempo. Você se importaria de consertar uma na próxima vez que estiver lá fora?",
@@ -45,7 +45,7 @@
   "objectives": [
     {
       "en": "Repair the leaking hydraulic pipes near a Raider Hatch",
-      "de": "Repariere die undichten Hydraulikleitungen in der Nähe einer Raider-Luke",
+      "de": "Die undichten Hydraulikrohre nahe einer Raider-Luke reparieren",
       "fr": "Réparez les tuyaux hydrauliques qui fuient près d'une trappe de Raiders",
       "es": "Repara las tuberías hidráulicas con fugas cerca de una escotilla de Saqueadores",
       "pt": "Conserte os tubos hidráulicos vazando perto de uma escotilha de Saqueadores",
