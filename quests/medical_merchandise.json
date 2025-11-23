@@ -21,6 +21,11 @@
     "sr": "Medicinska Roba",
     "hr": "Medicinska Roba"
   },
+  "map": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "buried_city"
+  ],
   "trader": "Lance",
   "description": {
     "en": "I've become quite crafty at weaving bandages from Fabric, but to my shame, I haven't quite mastered weaving an x-ray machine or a pulse oximiter.",
@@ -119,6 +124,10 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10c"],
-  "nextQuestIds": ["ss10g"]
+  "previousQuestIds": [
+    "ss10c"
+  ],
+  "nextQuestIds": [
+    "ss10g"
+  ]
 }
