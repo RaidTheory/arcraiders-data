@@ -91,6 +91,10 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/vita_shot.png",
+  "recipe": {
+    "antiseptic": 1,
+    "syringe": 1
+  },
   "recyclesInto": {
     "chemicals": 4,
     "syringe": 1
