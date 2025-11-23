@@ -1,6 +1,6 @@
 {
   "id": "ss11b2",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Communication Hideout",
     "de": "Kommunikationsversteck",
@@ -21,7 +21,9 @@
     "sr": "Komunikaciono skrovište",
     "hr": "Komunikacijsko skrovište"
   },
-  "map": "buried_city",
+  "map": [
+    "buried_city"
+  ],
   "trader": "Shani",
   "description": {
     "en": "We've been losing signals in some areas of Buried City—my guess is that our equipment is acting up. You're quite skilled with repairs, aren't you? Could you check it out?",
