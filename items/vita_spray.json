@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A medical item that continuously restores health during use. Can be used on yourself or your allies.",
-    "de": "Ein medizinischer Gegenstand, der während der Anwendung kontinuierlich Gesundheit wiederherstellt. Kann bei sich selbst oder Verbündeten angewendet werden.",
+    "de": "Ein medizinischer Gegenstand, der während der Verwendung kontinuierlich Gesundheit wiederherstellt. Kann für dich selbst oder Verbündete benutzt werden.",
     "fr": "Un objet médical qui restaure de la santé en continu pendant l'utilisation. Il peut aussi bien vous servir à vous qu'à vos alliés.",
     "es": "Un objeto médico que restaura salud continuamente durante el uso. Puede usarse en ti mismo o en tus aliados.",
     "pt": "Um item médico que restaura saúde continuamente durante o uso. Pode ser usado em você mesmo ou em seus aliados.",
@@ -43,7 +43,7 @@
   "type": "Quick Use",
   "rarity": "Epic",
   "value": 3000,
-  "weightKg": 1,
+  "weightKg": 1.0,
   "stackSize": 1,
   "effects": {
     "Durability": {
@@ -69,7 +69,7 @@
     },
     "Healing": {
       "en": "Healing",
-      "de": "Heilung",
+      "de": "Heilen",
       "fr": "Soins",
       "es": "Curación",
       "pt": "Cura",
@@ -90,7 +90,7 @@
     },
     "Heal Capacity": {
       "en": "Heal Capacity",
-      "de": "Heilkapazität",
+      "de": "Heilungskapazität",
       "fr": "Capacité de soins",
       "es": "Capacidad de curación",
       "pt": "Capacidade de cura",

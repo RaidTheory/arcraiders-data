@@ -2,7 +2,7 @@
   "id": "surge_shield_recharger",
   "name": {
     "en": "Surge Shield Recharger",
-    "de": "Stoß-Schildauflader",
+    "de": "Sturm-Schildauflader",
     "fr": "Rechargeur de bouclier d'impulsion",
     "es": "Cargador de escudos de sobrecarga",
     "pt": "Recarregador de escudo de impulso",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A handheld kit that recharges a shield on use.",
-    "de": "Ein tragbares Kit, das bei Verwendung einen Schild auflädt.",
+    "de": "Ein tragbares Set, das bei Gebrauch einen Schild wieder auflädt.",
     "fr": "Un kit portatif qui recharge un bouclier.",
     "es": "Un kit portátil que recarga un escudo al usarse.",
     "pt": "Um kit portátil que recarrega um escudo ao ser usado.",
@@ -69,7 +69,7 @@
     },
     "Use Time": {
       "en": "Use Time",
-      "de": "Nutzungszeit",
+      "de": "Verwendungszeit",
       "fr": "Temps d'utilisation",
       "es": "Tiempo de uso",
       "pt": "Tempo de uso",

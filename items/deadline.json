@@ -1,7 +1,7 @@
 {
   "name": {
     "en": "Deadline",
-    "de": "Frist",
+    "de": "Deadline",
     "fr": "Mine à retardement",
     "es": "Ultimátum",
     "pt": "Prazo final",
@@ -41,9 +41,9 @@
   },
   "id": "deadline",
   "type": "Quick Use",
-  "value": 2700,
+  "value": 5000,
   "rarity": "Epic",
-  "weightKg": 1,
+  "weightKg": 1.0,
   "stackSize": 1,
   "effects": {
     "Damage": {
@@ -114,5 +114,5 @@
     "explosive_compound": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/deadline.png",
-  "updatedAt": "11/13/2025"
+  "updatedAt": "11/21/2025"
 }

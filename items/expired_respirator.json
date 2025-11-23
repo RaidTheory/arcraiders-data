@@ -2,7 +2,7 @@
   "id": "expired_respirator",
   "name": {
     "en": "Expired Respirator",
-    "de": "Abgelaufenes Atemschutzgerät",
+    "de": "Abgelaufenes Atemgerät",
     "fr": "Respirateur expiré",
     "es": "Respirador caducado",
     "pt": "Respirador expirado",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "The filters are clogged with sand and noxious fumes. Long past its lifespan.",
-    "de": "Die Filter sind mit Sand und giftigen Dämpfen verstopft. Weit über seine Lebensdauer hinaus.",
+    "de": "Die Filter sind mit Sand und giftigen Dämpfen verschmutzt. Hat seine Mindesthaltbarkeit längst überschritten.",
     "fr": "Les filtres sont obstrués par du sable et des fumées nocives. Bien au-delà de sa durée de vie.",
     "es": "Los filtros están obstruidos con arena y humos nocivos. Mucho más allá de su vida útil.",
     "pt": "Os filtros estão entupidos com areia e fumaça nociva. Muito além de sua vida útil.",
@@ -50,7 +50,7 @@
   "salvagesInto": {
     "rubber_parts": 5
   },
-  "weightKg": 2,
+  "weightKg": 2.0,
   "stackSize": 3,
   "foundIn": "Medical",
   "imageFilename": "https://cdn.arctracker.io/items/expired_respirator.png",

@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
-    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "fr": "Peut être recyclé en matériaux d'artisanat.",
     "es": "Se puede reciclar en materiales de fabricación.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -49,7 +49,7 @@
   "salvagesInto": {
     "arc_alloy": 1
   },
-  "weightKg": 1,
+  "weightKg": 1.0,
   "stackSize": 3,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/burned_arc_circuitry.png",
