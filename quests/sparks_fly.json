@@ -57,7 +57,7 @@
       "kr": "Trigger 'Nade 또는 Snap Blast로 Hornet 파괴",
       "ru": "Уничтожить Hornet с помощью Trigger 'Nade или Snap Blast",
       "zh-CN": "使用触发手雷或瞬爆摧毁黄蜂",
-      "ja": "Trigger 'NadeまたはSnap BlastでHornetを破壊する",
+      "ja": "トリガー・グレネードでホーネットを破壊する",
       "tr": "Trigger 'Nade veya Snap Blast ile bir Hornet'i yok et",
       "zh-TW": "使用觸發手雷或瞬爆摧毀黃蜂",
       "sr": "Uništi Hornet sa Trigger 'Nade ili Snap Blast",
@@ -89,6 +89,8 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss8a"],
+  "previousQuestIds": [
+    "ss8a"
+  ],
   "nextQuestIds": []
 }
