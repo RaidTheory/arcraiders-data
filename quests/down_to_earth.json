@@ -1,96 +1,89 @@
 {
   "id": "ss6",
-  "updatedAt": "11/06/2025",
   "name": {
-    "en": "Down To Earth",
-    "de": "Bodenständig",
-    "fr": "Les pieds sur terre",
-    "es": "Pies en la tierra",
-    "pt": "De volta à terra",
-    "pl": "Z powrotem na ziemię",
-    "no": "Ned på jorden",
     "da": "Ned på jorden",
+    "de": "Bodenständig",
+    "en": "Down To Earth",
+    "es": "Pies en la tierra",
+    "fr": "Les pieds sur terre",
+    "hr": "Spuštanje na Zemlju",
     "it": "Coi piedi per terra",
-    "uk": "Повернення на Землю",
-    "kr": "지상으로",
-    "ru": "Возвращение на Землю",
-    "zh-CN": "脚踏实地",
     "ja": "地上へ",
-    "tr": "Yere İniş",
-    "zh-TW": "腳踏實地",
+    "kr": "지상으로",
+    "no": "Ned på jorden",
+    "pl": "Z powrotem na ziemię",
+    "pt": "De volta à terra",
+    "ru": "Возвращение на Землю",
     "sr": "Spuštanje na Zemlju",
-    "hr": "Spuštanje na Zemlju"
+    "tr": "Yere İniş",
+    "uk": "Повернення на Землю",
+    "zh-CN": "脚踏实地",
+    "zh-TW": "腳踏實地"
   },
   "trader": "Shani",
   "description": {
     "de": "Raider berichten schon lange von seltsam aussehenden Kisten, die aus defekten ARC-Sondern fallen. Wenn wir die irgendwie öffnen könnten, verstehen wir vielleicht, wonach sie suchen."
-  },  
+  },
   "objectives": [
     {
-      "en": "Visit a Field Depot",
-      "de": "Ein Felddepot besuchen",
-      "fr": "Visitez un dépôt de terrain",
-      "es": "Visita un depósito de campo",
-      "pt": "Visite um depósito de campo",
-      "pl": "Odwiedź depot polowy",
-      "no": "Besøk et feltdepot",
       "da": "Besøg et feltdepot",
+      "de": "Ein Felddepot besuchen",
+      "en": "Visit a Field Depot",
+      "es": "Visita un depósito de campo",
+      "fr": "Visitez un dépôt de terrain",
+      "hr": "Posjetite Terenski Depo",
       "it": "Visita un deposito sul campo",
-      "uk": "Відвідайте польове сховище",
-      "kr": "야전 보급소 방문",
-      "ru": "Посетите полевое хранилище",
-      "zh-CN": "访问野外仓库",
       "ja": "フィールドデポを訪れる",
-      "tr": "Bir Saha Deposunu ziyaret et",
-      "zh-TW": "訪問野外倉庫",
+      "kr": "야전 보급소 방문",
+      "no": "Besøk et feltdepot",
+      "pl": "Odwiedź depot polowy",
+      "pt": "Visite um depósito de campo",
+      "ru": "Посетите полевое хранилище",
       "sr": "Posetite Terenski Depo",
-      "hr": "Posjetite Terenski Depo"
+      "tr": "Bir Saha Deposunu ziyaret et",
+      "uk": "Відвідайте польове сховище",
+      "zh-CN": "访问野外仓库",
+      "zh-TW": "訪問野外倉庫"
     },
     {
-      "en": "Deliver a Field Crate to Supply Station",
-      "de": "Feldkiste an ein Felddepot liefern",
-      "fr": "Livrez une caisse de terrain à la station de ravitaillement",
-      "es": "Entrega una caja de campo a la estación de suministros",
-      "pt": "Entregue uma caixa de campo à estação de suprimentos",
-      "pl": "Dostarcz skrzynię polową do stacji zaopatrzenia",
-      "no": "Lever en feltkasse til forsyningsstasjonen",
       "da": "Lever en feltkasse til forsyningsstationen",
+      "de": "Feldkiste an ein Felddepot liefern",
+      "en": "Deliver a Field Crate to Supply Station",
+      "es": "Entrega una caja de campo a la estación de suministros",
+      "fr": "Livrez une caisse de terrain à la station de ravitaillement",
+      "hr": "Dostavite Terensku Gajbu na Stanicu za Opskrbu",
       "it": "Consegna una cassa da campo alla stazione di rifornimento",
-      "uk": "Доставте польовий ящик на станцію постачання",
-      "kr": "야전 상자를 보급 기지에 배달",
-      "ru": "Доставьте полевой ящик на станцию снабжения",
-      "zh-CN": "将野外箱子运送到补给站",
       "ja": "フィールドクレートを補給ステーションに届ける",
-      "tr": "Saha Sandığını İkmal İstasyonuna teslim et",
-      "zh-TW": "將野外箱子運送到補給站",
+      "kr": "야전 상자를 보급 기지에 배달",
+      "no": "Lever en feltkasse til forsyningsstasjonen",
+      "pl": "Dostarcz skrzynię polową do stacji zaopatrzenia",
+      "pt": "Entregue uma caixa de campo à estação de suprimentos",
+      "ru": "Доставьте полевой ящик на станцию снабжения",
       "sr": "Dostavite Terensku Gajbu na Stanicu za Snabdevanje",
-      "hr": "Dostavite Terensku Gajbu na Stanicu za Opskrbu"
+      "tr": "Saha Sandığını İkmal İstasyonuna teslim et",
+      "uk": "Доставте польовий ящик на станцію постачання",
+      "zh-CN": "将野外箱子运送到补给站",
+      "zh-TW": "將野外箱子運送到補給站"
     },
     {
-      "en": "Collect the reward",
-      "de": "Belohnung einsammeln",
-      "fr": "Récupérez la récompense",
-      "es": "Recoge la recompensa",
-      "pt": "Colete a recompensa",
-      "pl": "Odbierz nagrodę",
-      "no": "Hent belønningen",
       "da": "Indsaml belønningen",
+      "de": "Belohnung einsammeln",
+      "en": "Collect the reward",
+      "es": "Recoge la recompensa",
+      "fr": "Récupérez la récompense",
+      "hr": "Prikupite nagradu",
       "it": "Raccogli la ricompensa",
-      "uk": "Отримайте винагороду",
-      "kr": "보상 수령",
-      "ru": "Получите награду",
-      "zh-CN": "领取奖励",
       "ja": "報酬を受け取る",
-      "tr": "Ödülü topla",
-      "zh-TW": "領取獎勵",
+      "kr": "보상 수령",
+      "no": "Hent belønningen",
+      "pl": "Odbierz nagrodę",
+      "pt": "Colete a recompensa",
+      "ru": "Получите награду",
       "sr": "Prikupite nagradu",
-      "hr": "Prikupite nagradu"
-    }
-  ],
-  "grantedItemIds": [
-    {
-      "itemId": "binoculars",
-      "quantity": 1
+      "tr": "Ödülü topla",
+      "uk": "Отримайте винагороду",
+      "zh-CN": "领取奖励",
+      "zh-TW": "領取獎勵"
     }
   ],
   "rewardItemIds": [
@@ -104,10 +97,13 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [
-    "ss5"
-  ],
-  "nextQuestIds": [
-    "ss9"
+  "previousQuestIds": ["ss5"],
+  "nextQuestIds": ["ss9"],
+  "updatedAt": "11/06/2025",
+  "grantedItemIds": [
+    {
+      "itemId": "binoculars",
+      "quantity": 1
+    }
   ]
 }
