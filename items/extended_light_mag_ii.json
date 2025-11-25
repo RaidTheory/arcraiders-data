@@ -67,6 +67,10 @@
       "value": "+10"
     }
   },
+  "recyclesInto": {
+    "steel_spring": 1,
+    "mechanical_components": 1
+  },
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_ii.png",
   "updatedAt": "10/30/2025"
 }
