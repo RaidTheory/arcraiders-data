@@ -10,7 +10,7 @@
     "no": "Osprey I",
     "da": "Osprey I",
     "it": "Osprey I",
-    "ru": "Оспрей I",
+    "ru": "Ястреб I",
     "ja": "オスプレイ I",
     "zh-TW": "魚鷹 I",
     "uk": "Оспрей I",
@@ -180,5 +180,6 @@
     "wires": 7
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 2
+  "stationLevelRequired": 2,
+  "isWeapon": true
 }

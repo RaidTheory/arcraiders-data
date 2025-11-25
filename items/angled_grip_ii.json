@@ -10,7 +10,7 @@
     "no": "Vinklet grep II",
     "da": "Vinklet greb II",
     "it": "Impugnatura angolata II",
-    "ru": "Угловая рукоять II",
+    "ru": "Угловая рукоятка II",
     "ja": "アングルグリップ II",
     "zh-TW": "斜角握把 II",
     "uk": "Кутова рукоятка II",
@@ -76,7 +76,13 @@
       "value": "30%"
     }
   },
-  "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Il Toro", "Stitcher"],
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Kettle",
+    "Il Toro",
+    "Stitcher"
+  ],
   "imageFilename": "https://cdn.arctracker.io/items/angled_grip_ii.png",
   "updatedAt": "11/05/2025"
 }

@@ -15,7 +15,7 @@
     "kr": "폐허 속 공개",
     "ru": "Раскрытие в руинах",
     "zh-CN": "废墟中的揭秘",
-    "ja": "廃墟での披露",
+    "ja": "早計な発表",
     "tr": "Harabelerde Açığa Çıkan",
     "zh-TW": "廢墟中的揭秘",
     "sr": "Otkrivanje u ruševinama",
@@ -24,7 +24,7 @@
   "trader": "Lance",
   "description": {
     "en": "I got my hands on a fancy new ESR analyzer; had a whole big reveal planned. One minute it's here, next minute—poof. Please help?",
-    "de": "Ich habe einen schicken neuen ESR-Analysator in die Hände bekommen; hatte eine große Enthüllung geplant. In der einen Minute ist er hier, in der nächsten – puff. Bitte hilf mir?",
+    "de": "Ich hab einen neuen ESR-Analysator in die Finger gekriegt, wollte da ganz groß mit rauskommen. Und dann 0 sack! 0 ist das Teil plötzlich verschwunden. Hilfst du mir?",
     "fr": "J'ai mis la main sur un nouvel analyseur de VS tout neuf. J'avais prévu de le présenter en grande pompe, mais il a disparu. Vous pouvez m'aider ?",
     "es": "Conseguí un nuevo y elegante analizador ESR; tenía planeada toda una gran revelación. Un minuto está aquí, al siguiente—puf. ¿Me ayudas?",
     "pt": "Consegui um novo e sofisticado analisador ESR; tinha toda uma grande revelação planejada. Num minuto está aqui, no próximo—puf. Pode ajudar?",
@@ -45,7 +45,7 @@
   "objectives": [
     {
       "en": "Search for an ESR Analyzer inside any pharmacy in Buried City",
-      "de": "Suche nach einem ESR-Analysator in einer beliebigen Apotheke in der Begrabenen Stadt",
+      "de": "In einer Apotheke in der Begrabenen Stadt nach einem ESR-Analysator suchen",
       "fr": "Trouver un analyseur VS dans une pharmacie de la ville enfouie",
       "es": "Busca un analizador ESR dentro de cualquier farmacia en la ciudad enterrada",
       "pt": "Procure por um analisador ESR dentro de qualquer farmácia na cidade enterrada",
@@ -57,7 +57,7 @@
       "kr": "매장된 도시의 약국에서 ESR 분석기 찾기",
       "ru": "Найдите ESR анализатор в любой аптеке Погребённого города",
       "zh-CN": "在埋没之城的任意药店中搜寻ESR分析仪",
-      "ja": "埋もれた街の薬局でESRアナライザーを探す",
+      "ja": "埋もれた街の薬局でESR分析装置を調査した",
       "tr": "Gömülü Şehir'deki herhangi bir eczanede ESR Analizörü ara",
       "zh-TW": "在埋沒之城的任意藥店中搜尋ESR分析儀",
       "sr": "Pretražite ESR analizator u bilo kojoj apoteci u Zakopanom gradu",
@@ -65,7 +65,7 @@
     },
     {
       "en": "Deliver the ESR Analyzer to Lance",
-      "de": "Liefere den ESR-Analysator an Lance",
+      "de": "Bring den ESR-Analysator zu Lance",
       "fr": "Livrer l'analyser de VS à Lance",
       "es": "Entrega el analizador ESR a Lance",
       "pt": "Entregue o analisador ESR para Lance",
@@ -77,7 +77,7 @@
       "kr": "ESR 분석기를 Lance에게 전달",
       "ru": "Доставьте ESR анализатор Лэнсу",
       "zh-CN": "将ESR分析仪交给Lance",
-      "ja": "ESRアナライザーをLanceに届ける",
+      "ja": "ランスにESR分析装置を届ける",
       "tr": "ESR Analizörünü Lance'e teslim et",
       "zh-TW": "將ESR分析儀交給Lance",
       "sr": "Dostavite ESR analizator Lance-u",

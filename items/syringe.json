@@ -47,6 +47,9 @@
     "plastic_parts": 3,
     "chemicals": 2
   },
+  "salvagesInto": {
+    "plastic_parts": 2
+  },
   "weightKg": 0.3,
   "stackSize": 5,
   "foundIn": "Medical",

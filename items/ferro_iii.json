@@ -10,8 +10,8 @@
     "no": "Ferro III",
     "da": "Ferro III",
     "it": "Ferro III",
-    "ru": "Ferro III",
-    "ja": "Ferro III",
+    "ru": "Ферро III",
+    "ja": "フェロ III",
     "zh-TW": "Ferro III",
     "uk": "Ferro III",
     "zh-CN": "Ferro III",
@@ -40,7 +40,7 @@
     "hr": "Zadaje snažan udarac, ali se mora puniti između svakog hica.",
     "sr": "Zadaje snažan udarac, ali mora da se punjenje između svakog hica."
   },
-  "type": "Weapon",
+  "type": "Battle Rifle",
   "rarity": "Common",
   "value": 2000,
   "weightKg": 8,
@@ -173,13 +173,14 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "11/17/2025",
+  "updatedAt": "11/24/2025",
   "recyclesInto": {
     "metal_parts": 6,
     "simple_gun_parts": 1
   },
   "upgradeCost": {
-    "mechanical_components": 1,
+    "metal_parts": 9,
     "simple_gun_parts": 1
-  }
+  },
+  "isWeapon": true
 }

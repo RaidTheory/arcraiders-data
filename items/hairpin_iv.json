@@ -10,7 +10,7 @@
     "no": "Hårnål IV",
     "da": "Hårnål IV",
     "it": "Forcina IV",
-    "ru": "Шпилька IV",
+    "ru": "Заколка IV",
     "ja": "ヘアピン IV",
     "zh-TW": "髮夾 IV",
     "uk": "Шпилька IV",
@@ -227,5 +227,6 @@
   "upgradeCost": {
     "mechanical_components": 1,
     "simple_gun_parts": 1
-  }
+  },
+  "isWeapon": true
 }

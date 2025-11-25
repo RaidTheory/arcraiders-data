@@ -10,8 +10,8 @@
     "no": "Hullcracker I",
     "da": "Hullcracker I",
     "it": "Hullcracker I",
-    "ru": "Hullcracker I",
-    "ja": "Hullcracker I",
+    "ru": "Взломщик корпусов I",
+    "ja": "ハルクラッカー I",
     "zh-TW": "Hullcracker I",
     "uk": "Hullcracker I",
     "zh-CN": "Hullcracker I",
@@ -164,5 +164,6 @@
     "exodus_modules": 1
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 3
+  "stationLevelRequired": 3,
+  "isWeapon": true
 }

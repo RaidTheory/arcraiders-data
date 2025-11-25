@@ -7,7 +7,7 @@
     "uk": "Rattler III",
     "zh-TW": "響尾蛇 III",
     "pt": "Rattler III",
-    "ru": "Rattler III",
+    "ru": "Трещетка III",
     "de": "Rattler III",
     "fr": "Crotale III",
     "zh-CN": "响尾蛇 III",
@@ -179,5 +179,6 @@
     "mechanical_components": 2,
     "simple_gun_parts": 1
   },
-  "stationLevelRequired": 1
+  "stationLevelRequired": 1,
+  "isWeapon": true
 }

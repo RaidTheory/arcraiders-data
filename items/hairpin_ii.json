@@ -10,7 +10,7 @@
     "no": "Hårnål II",
     "da": "Hårnål II",
     "it": "Forcina II",
-    "ru": "Шпилька II",
+    "ru": "Заколка II",
     "ja": "ヘアピン II",
     "zh-TW": "髮夾 II",
     "uk": "Шпилька II",
@@ -226,5 +226,6 @@
   "craftBench": "weapon_bench",
   "upgradeCost": {
     "metal_parts": 8
-  }
+  },
+  "isWeapon": true
 }

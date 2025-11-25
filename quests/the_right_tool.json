@@ -15,13 +15,16 @@
     "kr": "적절한 도구",
     "ru": "Правильный инструмент",
     "zh-CN": "正确的工具",
-    "ja": "適切な道具",
+    "ja": "正しい道具",
     "tr": "Doğru Araç",
     "zh-TW": "正確的工具",
     "sr": "Pravi Alat",
     "hr": "Pravi Alat"
   },
   "trader": "Tian Wen",
+  "description": {
+    "de": "Du gehörst zu den Neuankömmlingen, oder? Ich brauche einen Freiwilligen, der dieses verbesserte Ferro ausprobiert - es sollte ARC-Panzerungen durchschneiden wie Butter. Baller Löcher in ein paar Maschinen und erstatte mir dann Bericht."
+  },
   "objectives": [
     {
       "en": "Destroy a Fireball",
@@ -109,6 +112,10 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss5"],
-  "nextQuestIds": ["ss10"]
+  "previousQuestIds": [
+    "ss5"
+  ],
+  "nextQuestIds": [
+    "ss10"
+  ]
 }

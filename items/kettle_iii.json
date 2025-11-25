@@ -10,8 +10,8 @@
     "no": "Kettle III",
     "da": "Kettle III",
     "it": "Kettle III",
-    "ru": "Kettle III",
-    "ja": "Kettle III",
+    "ru": "Чайник III",
+    "ja": "ケトル III",
     "zh-TW": "Kettle III",
     "uk": "Kettle III",
     "zh-CN": "Kettle III",
@@ -40,7 +40,7 @@
     "hr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje.",
     "sr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje."
   },
-  "type": "Weapon",
+  "type": "Assault Rifle",
   "rarity": "Common",
   "value": 3000,
   "weightKg": 7,
@@ -176,5 +176,6 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "10/31/2025"
+  "updatedAt": "10/31/2025",
+  "isWeapon": true
 }

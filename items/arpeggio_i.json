@@ -157,5 +157,6 @@
     "mechanical_components": 6,
     "simple_gun_parts": 6
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "isWeapon": true
 }

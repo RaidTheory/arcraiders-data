@@ -11,7 +11,7 @@
     "da": "Burletta I",
     "it": "Burletta I",
     "ru": "Бурлетта I",
-    "ja": "ブルレッタ I",
+    "ja": "バーレッタ I",
     "zh-TW": "布雷塔 I",
     "uk": "Бурлетта I",
     "zh-CN": "布雷塔 I",
@@ -162,5 +162,6 @@
     "mechanical_components": 3,
     "simple_gun_parts": 3
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "isWeapon": true
 }

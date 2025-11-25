@@ -10,8 +10,8 @@
     "no": "Vulcano I",
     "da": "Vulcano I",
     "it": "Vulcano I",
-    "ru": "Vulcano I",
-    "ja": "Vulcano I",
+    "ru": "Вулкан I",
+    "ja": "ヴルカノ I",
     "zh-TW": "Vulcano I",
     "uk": "Vulcano I",
     "zh-CN": "Vulcano I",
@@ -172,5 +172,6 @@
       "da": "ARC rustningspenetration",
       "value": "Weak"
     }
-  }
+  },
+  "isWeapon": true
 }

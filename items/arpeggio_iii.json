@@ -199,5 +199,6 @@
   "upgradeCost": {
     "mechanical_components": 5,
     "medium_gun_parts": 1
-  }
+  },
+  "isWeapon": true
 }

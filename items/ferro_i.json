@@ -10,8 +10,8 @@
     "no": "Ferro I",
     "da": "Ferro I",
     "it": "Ferro I",
-    "ru": "Ferro I",
-    "ja": "Ferro I",
+    "ru": "Ферро I",
+    "ja": "フェロ I",
     "zh-TW": "Ferro I",
     "uk": "Ferro I",
     "zh-CN": "Ferro I",
@@ -171,5 +171,6 @@
   "craftBench": [
     "workbench",
     "weapon_bench"
-  ]
+  ],
+  "isWeapon": true
 }

@@ -10,8 +10,8 @@
     "no": "Vita-sprøyte",
     "da": "Vita-indsprøjtning",
     "it": "Iniezione Vita",
-    "ru": "Вита-инъекция",
-    "ja": "ヴィタショット",
+    "ru": "Витаминная сыворотка",
+    "ja": "ヴィータ注射",
     "zh-TW": "活力注射劑",
     "uk": "Віта-ін'єкція",
     "zh-CN": "活力注射剂",
@@ -91,6 +91,10 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/vita_shot.png",
+  "recipe": {
+    "antiseptic": 1,
+    "syringe": 1
+  },
   "recyclesInto": {
     "chemicals": 4,
     "syringe": 1
