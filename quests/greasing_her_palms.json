@@ -15,7 +15,7 @@
     "kr": "그녀에게 뇌물 주기",
     "ru": "Подмазать ей ладони",
     "zh-CN": "给她点好处",
-    "ja": "彼女への賄賂",
+    "ja": "潤いを求めて",
     "tr": "Avucunu Yağlamak",
     "zh-TW": "給她點好處",
     "sr": "Podmazivanje Njenih Dlanova",
@@ -57,7 +57,7 @@
       "kr": "댐 전장에서 수처리 제어 건물의 잠긴 방 방문하기",
       "ru": "На Дамбе посетите закрытую комнату в здании управления водоочисткой",
       "zh-CN": "在大坝战场，访问水处理控制大楼的上锁房间",
-      "ja": "ダム・バトルグラウンドで、水処理管理棟の施錠された部屋を訪れる",
+      "ja": "ダム戦場の水質管理センターにある鍵のかかった部屋に入る",
       "tr": "Baraj Savaş Alanında, Su Arıtma Kontrol binasındaki Kilitli Odayı ziyaret et",
       "zh-TW": "在大壩戰場，訪問水處理控制大樓的上鎖房間",
       "sr": "Na Bojnom Polju Brane, poseti Zaključanu Sobu u zgradi Kontrole Prečišćavanja Vode",
@@ -77,7 +77,7 @@
       "uk": "На Космопорті, огляньте ракетні двигуни біля будівлі збирання ракет",
       "ru": "На Космопорте осмотрите ракетные двигатели возле здания сборки ракет",
       "zh-CN": "在太空港，侦察火箭组装厂外的火箭推进器",
-      "ja": "スペースポートで、ロケット組立棟の外にあるロケット推進装置を調査する",
+      "ja": "宇宙港でロケット組み立て場の外にあるロケットスラスターを確認する",
       "tr": "Uzay Limanında, Roket Montaj binasının dışındaki roket iticilerini keşfet",
       "zh-TW": "在太空港，偵察火箭組裝廠外的火箭推進器",
       "sr": "Na Svemirskoj Luci, izviđaj raketne potisnice ispred Montaže Raketa",
@@ -97,7 +97,7 @@
       "kr": "매장된 도시에서 우주 여행 빌딩 6층의 바리케이드 지역 방문하기",
       "ru": "В Погребённом городе посетите баррикадированную зону на 6 этаже здания космических путешествий",
       "zh-CN": "在埋没之城，访问太空旅行大楼6层的路障区域",
-      "ja": "ベリード・シティで、宇宙旅行ビルの6階にあるバリケードエリアを訪れる",
+      "ja": "埋もれた街のスペーストラベル施設6階にあるバリケードが組まれた区画に入る",
       "tr": "Gömülü Şehir'de, Uzay Yolculuğu Binasının 6. katındaki barikatlanmış alanı ziyaret et",
       "zh-TW": "在埋沒之城，訪問太空旅行大樓6層的路障區域",
       "sr": "U Zakopanom Gradu, poseti barikadiranu oblast na spratu 6 zgrade Svemirskih Putovanja",
@@ -125,6 +125,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10"],
-  "nextQuestIds": ["ss10b", "ss10c"]
+  "previousQuestIds": [
+    "ss10"
+  ],
+  "nextQuestIds": [
+    "ss10b",
+    "ss10c"
+  ]
 }

@@ -11,7 +11,7 @@
     "da": "Ferro II",
     "it": "Ferro II",
     "ru": "Ферро II",
-    "ja": "Ferro II",
+    "ja": "フェロ II",
     "zh-TW": "Ferro II",
     "uk": "Ferro II",
     "zh-CN": "Ferro II",
@@ -151,7 +151,14 @@
       "value": "Strong"
     }
   },
+  "upgradeCost": {
+    "metal_parts": 7
+  },
+  "recyclesInto": {
+    "metal_parts": 4,
+    "simple_gun_parts": 3
+  },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "10/31/2025",
+  "updatedAt": "11/24/2025",
   "isWeapon": true
 }

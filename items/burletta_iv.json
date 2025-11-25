@@ -11,7 +11,7 @@
     "da": "Burletta IV",
     "it": "Burletta IV",
     "ru": "Бурлетта IV",
-    "ja": "ブルレッタ IV",
+    "ja": "バーレッタ IV",
     "zh-TW": "布雷塔 IV",
     "uk": "Бурлетта IV",
     "zh-CN": "布雷塔 IV",
@@ -42,12 +42,16 @@
   },
   "type": "Pistol",
   "rarity": "Uncommon",
-  "value": 9000,
+  "value": 10000,
   "weightKg": 4,
+  "upgradeCost": {
+    "mechanical_components": 4,
+    "light_gun_parts": 1
+  },
   "recyclesInto": {
     "mechanical_components": 4,
     "simple_gun_parts": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/24/2025"
 }

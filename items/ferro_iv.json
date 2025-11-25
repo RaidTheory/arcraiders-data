@@ -11,7 +11,7 @@
     "da": "Ferro IV",
     "it": "Ferro IV",
     "ru": "Ферро IV",
-    "ja": "Ferro IV",
+    "ja": "フェロ IV",
     "zh-TW": "Ferro IV",
     "uk": "Ferro IV",
     "zh-CN": "Ferro IV",
@@ -55,8 +55,12 @@
   "salvagesInto": {
     "metal_parts": 2
   },
+  "upgradeCost": {
+    "mechanical_components": 1,
+    "simple_gun_parts": 1
+  },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/24/2025",
   "weightKg": 8,
   "effects": {
     "Durability": {

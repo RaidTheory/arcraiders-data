@@ -11,7 +11,7 @@
     "da": "Burletta II",
     "it": "Burletta II",
     "ru": "Бурлетта II",
-    "ja": "ブルレッタ II",
+    "ja": "バーレッタ II",
     "zh-TW": "布雷塔 II",
     "uk": "Бурлетта II",
     "zh-CN": "布雷塔 II",
@@ -44,10 +44,14 @@
   "rarity": "Uncommon",
   "value": 5000,
   "weightKg": 4,
+  "upgradeCost": {
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  },
   "recyclesInto": {
     "mechanical_components": 2,
     "simple_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/24/2025"
 }
