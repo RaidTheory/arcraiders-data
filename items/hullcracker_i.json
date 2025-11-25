@@ -2,7 +2,7 @@
   "id": "hullcracker_i",
   "name": {
     "en": "Hullcracker I",
-    "de": "Hullcracker I",
+    "de": "Hüllenbrecher I",
     "fr": "Brise-fuselage I",
     "es": "Partecascos I",
     "pt": "Hullcracker I",
@@ -11,7 +11,7 @@
     "da": "Hullcracker I",
     "it": "Hullcracker I",
     "ru": "Взломщик корпусов I",
-    "ja": "Hullcracker I",
+    "ja": "ハルクラッカー I",
     "zh-TW": "Hullcracker I",
     "uk": "Hullcracker I",
     "zh-CN": "Hullcracker I",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Fires explosive projectiles that only detonate when hitting ARC.",
-    "de": "Feuert explosive Geschosse ab, die nur bei Treffern auf ARC detonieren.",
+    "de": "Schießt explosive Geschosse ab, die erst explodieren, wenn sie ARC treffen.",
     "fr": "Tire des projectiles explosifs qui ne détonent qu'en touchant des ARC.",
     "es": "Dispara proyectiles explosivos que solo detonan al golpear ARC.",
     "pt": "Dispara projéteis explosivos que só detonam ao atingir ARC.",
@@ -131,7 +131,7 @@
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
-      "de": "ARC-Rüstungsdurchdringung",
+      "de": "ARC-Panzerungsdurchdringung",
       "fr": "Pénétration d'armure ARC",
       "es": "Penetración de armadura ARC",
       "pt": "Penetração de armadura ARC",

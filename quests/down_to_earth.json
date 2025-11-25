@@ -15,7 +15,7 @@
     "kr": "지상으로",
     "ru": "Возвращение на Землю",
     "zh-CN": "脚踏实地",
-    "ja": "地上へ",
+    "ja": "フィールドワーク",
     "tr": "Yere İniş",
     "zh-TW": "腳踏實地",
     "sr": "Spuštanje na Zemlju",
@@ -24,7 +24,7 @@
   "trader": "Shani",
   "description": {
     "de": "Raider berichten schon lange von seltsam aussehenden Kisten, die aus defekten ARC-Sondern fallen. Wenn wir die irgendwie öffnen könnten, verstehen wir vielleicht, wonach sie suchen."
-  },  
+  },
   "objectives": [
     {
       "en": "Visit a Field Depot",
@@ -40,7 +40,7 @@
       "kr": "야전 보급소 방문",
       "ru": "Посетите полевое хранилище",
       "zh-CN": "访问野外仓库",
-      "ja": "フィールドデポを訪れる",
+      "ja": "フィールド貯蔵庫を訪れる",
       "tr": "Bir Saha Deposunu ziyaret et",
       "zh-TW": "訪問野外倉庫",
       "sr": "Posetite Terenski Depo",
@@ -60,7 +60,7 @@
       "kr": "야전 상자를 보급 기지에 배달",
       "ru": "Доставьте полевой ящик на станцию снабжения",
       "zh-CN": "将野外箱子运送到补给站",
-      "ja": "フィールドクレートを補給ステーションに届ける",
+      "ja": "フィールド・クレートをフィールド貯蔵庫に届ける",
       "tr": "Saha Sandığını İkmal İstasyonuna teslim et",
       "zh-TW": "將野外箱子運送到補給站",
       "sr": "Dostavite Terensku Gajbu na Stanicu za Snabdevanje",
@@ -80,7 +80,7 @@
       "kr": "보상 수령",
       "ru": "Получите награду",
       "zh-CN": "领取奖励",
-      "ja": "報酬を受け取る",
+      "ja": "報酬を収集する",
       "tr": "Ödülü topla",
       "zh-TW": "領取獎勵",
       "sr": "Prikupite nagradu",

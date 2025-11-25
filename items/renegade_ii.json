@@ -23,7 +23,7 @@
   "effects": {
     "Reduced Dispersion Recovery Time": {
       "en": "Reduced Dispersion Recovery Time",
-      "de": "Reduzierte Streuungserholungszeit",
+      "de": "Verringerte Streuungserholungszeit",
       "uk": "Зменшений час відновлення розкиду",
       "ru": "Уменьшенное время восстановления разброса",
       "zh-TW": "減少散布恢復時間",
@@ -149,7 +149,7 @@
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
-      "de": "ARC-Rüstungsdurchdringung",
+      "de": "ARC-Panzerungsdurchdringung",
       "uk": "Пробиття броні ARC",
       "ru": "Пробитие брони ARC",
       "zh-TW": "ARC 護甲穿透",
@@ -179,7 +179,7 @@
   "stationLevelRequired": 1,
   "description": {
     "en": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
-    "de": "Unterhebelrepetierer-Kampfgewehr mit hoher Schadensleistung, Präzision und Kopfschussschaden.",
+    "de": "Richtet bei Körpertreffern und insbesondere bei Kopfschüssen hohen Schaden an und ist präzise.",
     "uk": "Бойова гвинтівка з важільним механізмом з високою потужністю пошкоджень, точністю та пошкодженням від пострілів в голову.",
     "ru": "Боевая винтовка с рычажным перезаряжанием с высоким уроном, точностью и уроном в голову.",
     "zh-TW": "一把槓桿式戰鬥步槍，具有高傷害輸出、精準度和爆頭傷害。",

@@ -2,7 +2,7 @@
   "id": "tactical_mk2",
   "name": {
     "en": "Tactical Mk. 2",
-    "de": "Taktisch Mk. 2",
+    "de": "Taktisch-Marke 2",
     "fr": "Tactique 2",
     "es": "Táctico Ver. 2",
     "pt": "Tático Mk. 2",
@@ -11,7 +11,7 @@
     "da": "Taktisk Mk. 2",
     "it": "Tattico Mk. 2",
     "ru": "Стратегия 2",
-    "ja": "タクティカル Mk. 2",
+    "ja": "戦術MK2",
     "zh-TW": "戰術型 Mk. 2",
     "uk": "Тактичний Mk. 2",
     "zh-CN": "战术型 Mk. 2",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Adds more backpack space and an extra utility item slot.",
-    "de": "Fügt mehr Rucksackplatz und einen zusätzlichen Werkzeuggegenstand-Slot hinzu.",
+    "de": "Sorgt für mehr Platz im Rucksack und gewährt einen weiteren Platz für Gebrauchsgegenstände.",
     "fr": "Ajoute plus d'espace de sac à dos et un emplacement d'objet utilitaire supplémentaire.",
     "es": "Añade más espacio de mochila y una ranura adicional de objeto de utilidad.",
     "pt": "Adiciona mais espaço de mochila e um espaço extra de item utilitário.",
@@ -69,7 +69,7 @@
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
-      "de": "Max. Ausrüstungsgewicht",
+      "de": "Max. Loadout-Gewicht",
       "fr": "Poids max. de l'équipement",
       "es": "Peso máximo de equipamiento",
       "pt": "Peso máximo de equipamento",

@@ -11,7 +11,7 @@
     "da": "Il Toro I",
     "it": "Il Toro I",
     "ru": "Эль-Торо I",
-    "ja": "Il Toro I",
+    "ja": "イル・トーロ I",
     "zh-TW": "Il Toro I",
     "uk": "Il Toro I",
     "zh-CN": "Il Toro I",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
-    "de": "Hat eine große Streuung, starken Abfall und hohen Schadensausstoß.",
+    "de": "Hat eine hohe Streuung und geringe Reichweite, verursacht aber hohen Schaden.",
     "fr": "A une grande dispersion des balles, une chute brutale et des dégâts élevés.",
     "es": "Tiene una gran dispersión de balas, caída pronunciada y alto daño.",
     "pt": "Tem uma grande dispersão de balas, queda acentuada e alto dano.",
@@ -131,7 +131,7 @@
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
-      "de": "ARC-Rüstungsdurchdringung",
+      "de": "ARC-Panzerungsdurchdringung",
       "fr": "Pénétration d'armure ARC",
       "es": "Penetración de armadura ARC",
       "pt": "Penetração de armadura ARC",

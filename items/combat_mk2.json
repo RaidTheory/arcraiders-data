@@ -2,7 +2,7 @@
   "id": "combat_mk2",
   "name": {
     "en": "Combat Mk. 2",
-    "de": "Kampf Mk. 2",
+    "de": "Kampf-Marke 2",
     "fr": "Combat 2",
     "es": "Combate Ver. 2",
     "pt": "Combate Mk. 2",
@@ -11,7 +11,7 @@
     "da": "Kamp Mk. 2",
     "it": "Combattimento Mk. 2",
     "ru": "Бой 2",
-    "ja": "コンバット Mk. 2",
+    "ja": "戦闘MK2",
     "zh-TW": "戰鬥型 Mk. 2",
     "uk": "Бойовий Mk. 2",
     "zh-CN": "战斗型 Mk. 2",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A Combat augment more focused on maneuverability than absorbing damage.",
-    "de": "Eine Kampferweiterung, die mehr auf Manövrierfähigkeit als auf Schadensabsorption ausgerichtet ist.",
+    "de": "Ein Kampf-Augment, dessen Fokus mehr auf Manövrierfähigkeit und weniger auf Schadensabsorption liegt.",
     "fr": "Une augmentation de combat plus axée sur la manœuvrabilité que sur l'absorption des dégâts.",
     "es": "Un aumento de combate más enfocado en la maniobrabilidad que en absorber daño.",
     "pt": "Um aumento de combate mais focado em manobrabilidade do que em absorver dano.",
@@ -91,7 +91,7 @@
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
-      "de": "Max. Ausrüstungsgewicht",
+      "de": "Max. Loadout-Gewicht",
       "fr": "Poids max. de l'équipement",
       "es": "Peso máximo de equipamiento",
       "pt": "Peso máximo de equipamento",

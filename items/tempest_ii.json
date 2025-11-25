@@ -1,24 +1,24 @@
 {
-  "id": "temptest_iv",
+  "id": "temptest_ii",
   "name": {
-    "en": "Tempest IV",
-    "de": "Sturm IV",
-    "fr": "Tempête IV",
-    "es": "Tempestad IV",
-    "pt": "Tempestade IV",
-    "pl": "Burza IV",
-    "no": "Storm IV",
-    "da": "Storm IV",
-    "it": "Tempesta IV",
-    "ru": "Буря IV",
-    "ja": "テンペスト IV",
-    "zh-TW": "風暴 IV",
-    "uk": "Буря IV",
-    "zh-CN": "风暴 IV",
-    "kr": "템페스트 IV",
-    "tr": "Fırtına IV",
-    "hr": "Oluja IV",
-    "sr": "Олуја IV"
+    "en": "Tempest II",
+    "de": "Tempest II",
+    "fr": "Tempête II",
+    "es": "Tempestad II",
+    "pt": "Tempestade II",
+    "pl": "Burza II",
+    "no": "Storm II",
+    "da": "Storm II",
+    "it": "Tempesta II",
+    "ru": "Буря II",
+    "ja": "テンペスト II",
+    "zh-TW": "風暴 II",
+    "uk": "Буря II",
+    "zh-CN": "风暴 II",
+    "kr": "템페스트 II",
+    "tr": "Fırtına II",
+    "hr": "Oluja II",
+    "sr": "Олуја II"
   },
   "description": {
     "en": "Fully automatic assault rifle with moderate fire rate and accuracy.",
@@ -62,7 +62,7 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "130/130"
+      "value": "110/110"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -167,7 +167,7 @@
       "tr": "Azaltılmış Yatay Tepme",
       "hr": "Smanjen horizontalni trzaj",
       "sr": "Smanjen horizontalni trzaj",
-      "value": "50%"
+      "value": "16.6%"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -188,14 +188,14 @@
       "tr": "Azaltılmış yeniden doldurma süresi",
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vrijeme punjenja",
-      "value": "40%"
+      "value": "13%"
     }
   },
-  "value": 22000,
+  "value": 17000,
   "weightKg": 11,
   "recyclesInto": {
-    "advanced_mechanical_components": 5,
-    "medium_gun_parts": 4
+    "advanced_mechanical_components": 3,
+    "medium_gun_parts": 3
   },
   "craftBench": "weapon_bench",
   "upgradeCost": {
