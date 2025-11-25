@@ -24,7 +24,7 @@
   "rarity": "Rare",
   "description": {
     "en": "Can be recycled into crafting materials.",
-    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "fr": "Peut être recyclé en matériaux d'artisanat.",
     "es": "Puede reciclarse en materiales de fabricación.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -42,7 +42,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu."
   },
-  "weightKg": 2,
+  "weightKg": 2.0,
   "value": 1000,
   "recyclesInto": {
     "metal_parts": 6,

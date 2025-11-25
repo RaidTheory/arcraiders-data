@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A medical item that restores a large amount of health.",
-    "de": "Ein medizinischer Gegenstand, der eine große Menge Gesundheit wiederherstellt.",
+    "de": "Ein medizinischer Gegenstand, der viel Gesundheit wiederherstellt.",
     "fr": "Un objet médical qui restaure une grande quantité de santé.",
     "es": "Un objeto médico que restaura una gran cantidad de salud.",
     "pt": "Um item médico que restaura uma grande quantidade de saúde.",
@@ -48,7 +48,7 @@
   "stationLevelRequired": 3,
   "effects": {
     "Healing": {
-      "en": "Healing",
+      "en": "Heilen",
       "de": "Heilung",
       "fr": "Soins",
       "es": "Curación",
@@ -70,7 +70,7 @@
     },
     "Use Time": {
       "en": "Use Time",
-      "de": "Anwendungszeit",
+      "de": "Verwendungszeit",
       "fr": "Temps d'utilisation",
       "es": "Tiempo de uso",
       "pt": "Tempo de uso",

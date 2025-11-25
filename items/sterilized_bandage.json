@@ -2,7 +2,7 @@
   "id": "sterilized_bandage",
   "name": {
     "en": "Sterilized Bandage",
-    "de": "Sterilisierter Verband",
+    "de": "Steriler Verband",
     "fr": "Bandage stérilisé",
     "es": "Venda esterilizada",
     "pt": "Bandagem esterilizada",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A medical item that gradually restores a large amount of health over time.",
-    "de": "Ein medizinischer Gegenstand, der im Laufe der Zeit allmählich eine große Menge an Gesundheit wiederherstellt.",
+    "de": "Ein medizinischer Gegenstand, der allmählich viel Gesundheit wiederherstellt.",
     "fr": "Un objet médical qui restaure progressivement une grande quantité de santé au fil du temps.",
     "es": "Un objeto médico que restaura gradualmente una gran cantidad de salud con el tiempo.",
     "pt": "Um item médico que restaura gradualmente uma grande quantidade de saúde ao longo do tempo.",
@@ -48,7 +48,7 @@
   "effects": {
     "Healing": {
       "en": "Healing",
-      "de": "Heilung",
+      "de": "Heilen",
       "fr": "Soins",
       "es": "Curación",
       "pt": "Cura",

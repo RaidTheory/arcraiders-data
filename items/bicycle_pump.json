@@ -32,7 +32,7 @@
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
-    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "fr": "Peut être recyclé en matériaux d'artisanat.",
     "es": "Puede reciclarse en materiales de fabricación.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -50,7 +50,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu."
   },
-  "weightKg": 3,
+  "weightKg": 3.0,
   "foundIn": "Residential",
   "imageFilename": "https://cdn.arctracker.io/items/bicycle_pump.png",
   "updatedAt": "11/01/2025",

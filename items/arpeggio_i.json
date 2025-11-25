@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Has decent damage output and accuracy.",
-    "de": "Hat ordentliche Schadensleistung und Genauigkeit.",
+    "de": "Verursacht ordentlichen Schaden bei annehmbarer Genauigkeit.",
     "fr": "A des dégâts et une précision corrects.",
     "es": "Tiene un daño y precisión decentes.",
     "pt": "Tem dano e precisão decentes.",
@@ -45,7 +45,7 @@
   "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
   "updatedAt": "11/11/2025",
   "value": 5500,
-  "weightKg": 7,
+  "weightKg": 7.0,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -133,7 +133,7 @@
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
-      "de": "ARC-Panzerdurchdringung",
+      "de": "ARC-Panzerungsdurchdringung",
       "fr": "Pénétration d'armure ARC",
       "es": "Penetración de blindaje ARC",
       "pt": "Penetração de blindagem ARC",

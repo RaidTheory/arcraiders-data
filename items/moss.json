@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Can be used to regain a small amount of health.",
-    "de": "Kann verwendet werden, um eine kleine Menge Gesundheit wiederherzustellen.",
+    "de": "Kann zur Regeneration einer kleinen Menge Gesundheit benutzt werden. Zur Herstellung von: Defibrillator",
     "fr": "Peut être utilisé pour récupérer une petite quantité de santé.",
     "es": "Puede usarse para recuperar una pequeña cantidad de salud.",
     "pt": "Pode ser usado para recuperar uma pequena quantidade de vida.",
@@ -55,7 +55,7 @@
   "effects": {
     "Healing": {
       "en": "Healing",
-      "de": "Heilung",
+      "de": "Heilen",
       "fr": "Soins",
       "es": "Curación",
       "pt": "Cura",

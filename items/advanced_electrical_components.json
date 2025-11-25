@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
-    "de": "Wird zur Herstellung einer Vielzahl von Gegenständen verwendet. Kann zu Handwerksmaterialien recycelt werden. Wird verwendet für: Taktisch Mk. 3 (Defensiv), Kampf Mk. 3 (Flanke), Kampf Mk. 3 (Aggressiv), Plünderung Mk. 3 (Vorsichtig), Taktisch Mk. 3 (Heilung)",
+    "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Kann zu Herstellungsmaterialien recycelt werden. Zur Herstellung von: Taktisch-Marke 3 (Defensiv), Kampf-Marke 3 (Flankierend), Kampf-Marke 3 (Aggressiv), Beute-Marke 3 (Vorsichtig), Taktisch-Marke 3 (Heilung)",
     "fr": "Utilisés pour fabriquer une large gamme d'objets. Peuvent être recyclés en matériaux de fabrication. Utilisés pour fabriquer : Tactique 3 (défense), Combat 3 (contournement), Combat 3 (agression), Butin 3 (prudence), Tactique 3 (soins)",
     "es": "Se usan para fabricar una amplia gama de objetos. Se pueden reciclar en materiales de fabricación. Se usan para fabricar: Táctico Ver. 3 (Defensivo), Combate Ver. 3 (Flanqueo), Combate Ver. 3 (Agresivo), Saqueo Ver. 3 (Cauteloso), Táctico Ver. 3 (Curación)",
     "pt": "Usados para fabricar uma ampla gama de itens. Podem ser reciclados em materiais de fabricação. Usados para fabricar: Tático Mk. 3 (Defensivo), Combate Mk. 3 (Flanqueamento), Combate Mk.3 (Agressivo), Saque Mk. 3 (Cauteloso), Tático Mk. 3 (Cura)",
@@ -52,7 +52,7 @@
     "electrical_components": 1
   },
   "foundIn": "Electrical",
-  "weightKg": 1,
+  "weightKg": 1.0,
   "stackSize": 5,
   "updatedAt": "11/03/2025",
   "recipe": {

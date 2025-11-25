@@ -3,7 +3,7 @@
     "id": "expedition_project",
     "name": {
       "en": "Expedition Project",
-      "de": "Expeditionsprojekt",
+      "de": "Expedition",
       "fr": "Projet d'expédition",
       "es": "Proyecto de expedición",
       "pt": "Projeto de expedição",
@@ -23,7 +23,7 @@
     },
     "description": {
       "en": "Embark on a dangerous expedition beyond the Rust Belt. Expeditions are perilous. Your Raider will carry all their possessions into the unknown beyond the Rust Belt. In return, your next Raider gains a unique edge that lasts until the next Expedition departs.",
-      "de": "Begib dich auf eine gefährliche Expedition jenseits des Rostgürtels. Expeditionen sind gefährlich. Dein Raider wird all seinen Besitz ins Unbekannte jenseits des Rostgürtels tragen. Im Gegenzug erhält dein nächster Raider einen einzigartigen Vorteil, der bis zur Abreise der nächsten Expedition anhält.",
+      "de": "Expeditionen sind gefahrvoll. Dein Raider nimmt all seine Besitztümer und wagt sich in das unbekannte Land jenseits des Rostgürtels. Dafür erhält dein nächster Raider einen einzigartigen Vorteil, der bis zum Start der nächsten Expedition anhält.",
       "fr": "Embarquez pour une expédition dangereuse au-delà de la Ceinture de rouille. Les expéditions sont périlleuses. Votre Raider transportera tous ses biens dans l'inconnu au-delà de la Ceinture de rouille. En retour, votre prochain Raider gagne un avantage unique qui dure jusqu'au départ de la prochaine expédition.",
       "es": "Embárcate en una peligrosa expedición más allá del Cinturón de Óxido. Las expediciones son peligrosas. Tu Raider llevará todas sus posesiones hacia lo desconocido más allá del Cinturón de Óxido. A cambio, tu próximo Raider obtiene una ventaja única que dura hasta que parta la próxima expedición.",
       "pt": "Embarque em uma expedição perigosa além do Cinturão de Ferrugem. Expedições são perigosas. Seu Raider carregará todos os seus pertences para o desconhecido além do Cinturão de Ferrugem. Em troca, seu próximo Raider ganha uma vantagem única que dura até a partida da próxima expedição.",
@@ -46,7 +46,7 @@
         "phase": 1,
         "name": {
           "en": "Foundation",
-          "de": "Fundament",
+          "de": "Grundgestell",
           "fr": "Fondation",
           "es": "Fundación",
           "pt": "Fundação",
