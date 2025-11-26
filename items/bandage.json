@@ -5,7 +5,7 @@
     "de": "Verband",
     "fr": "Bandage",
     "es": "Venda",
-    "pt": "Bandagem",
+    "pt": "Atadura",
     "pl": "Bandaż",
     "no": "Bandasje",
     "da": "Bandage",
@@ -118,5 +118,8 @@
   "recipe": {
     "fabric": 5
   },
-  "craftBench": ["workbench", "med_station"]
+  "craftBench": [
+    "workbench",
+    "med_station"
+  ]
 }

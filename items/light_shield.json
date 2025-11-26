@@ -122,5 +122,8 @@
     "arc_alloy": 2,
     "plastic_parts": 4
   },
-  "craftBench": ["workbench", "equipment_bench"]
+  "craftBench": [
+    "workbench",
+    "equipment_bench"
+  ]
 }
