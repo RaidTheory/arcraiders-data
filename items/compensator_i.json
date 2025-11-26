@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Slightly reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-    "de": "Reduziert leicht die Streuung pro Schuss. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "de": "Verringert die Streuung pro Schuss geringfügig. Kompatibel mit: Arpeggio, Rattler, Kettle, Ferro, Anvil",
     "fr": "Réduit légèrement la dispersion par tir. Compatible avec : Arpège, Ferro, Renégat, Enclume, Sutureur",
     "es": "Reduce ligeramente la dispersión por disparo. Compatible con: Arpeggio, Ferro, Renegado, Yunque, Costurero",
     "pt": "Reduz ligeiramente a dispersão por tiro. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -69,7 +69,7 @@
   "effects": {
     "Reduced Per-Shot Dispersion": {
       "en": "Reduced Per-Shot Dispersion",
-      "de": "Reduzierte Streuung pro Schuss",
+      "de": "Verringerte Streuung pro Schuss",
       "fr": "Dispersion par tir réduite",
       "es": "Dispersión por disparo reducida",
       "pt": "Dispersão por tiro reduzida",
@@ -90,7 +90,7 @@
     },
     "Reduced Max Shot Dispersion": {
       "en": "Reduced Max Shot Dispersion",
-      "de": "Reduzierte maximale Schussstreuung",
+      "de": "Verringerte max. Streuung pro Schuss",
       "fr": "Dispersion maximale réduite",
       "es": "Dispersión máxima reducida",
       "pt": "Dispersão máxima reduzida",

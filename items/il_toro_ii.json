@@ -11,7 +11,7 @@
     "da": "Il Toro II",
     "it": "Il Toro II",
     "ru": "Эль-Торо II",
-    "ja": "イル・トロII",
+    "ja": "イル・トーロII",
     "zh-TW": "Il Toro II",
     "uk": "Il Toro II",
     "zh-CN": "Il Toro II",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
-    "de": "Hat eine große Streuung, starken Abfall und hohen Schadensausstoß.",
+    "de": "Hat eine hohe Streuung und geringe Reichweite, verursacht aber hohen Schaden.",
     "fr": "A une large dispersion des balles, une chute brutale et des dégâts élevés.",
     "es": "Tiene una gran dispersión de balas, caída pronunciada y alto daño.",
     "pt": "Tem grande dispersão de balas, queda acentuada e alto dano.",
@@ -129,7 +129,7 @@
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
-      "de": "ARC-Rüstungsdurchdringung",
+      "de": "ARC-Panzerungsdurchdringung",
       "fr": "Pénétration d'armure ARC",
       "es": "Penetración de armadura ARC",
       "pt": "Penetração de armadura ARC",

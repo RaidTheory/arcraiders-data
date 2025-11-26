@@ -11,7 +11,7 @@
     "da": "Landmåler-hvælv",
     "it": "Volta del Rilevatore",
     "ru": "Сейф Наблюдателя",
-    "ja": "サーベイヤーボルト",
+    "ja": "偵察機のボックス",
     "zh-TW": "勘測者保險庫",
     "uk": "Сховище геодезиста",
     "zh-CN": "勘测者保险库",
@@ -32,7 +32,7 @@
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
-    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "fr": "Peut être recyclé en matériaux d'artisanat.",
     "es": "Puede reciclarse en materiales de fabricación.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -51,8 +51,8 @@
     "sr": "Može se reciklirati u materijale za izradu."
   },
   "foundIn": "ARC",
-  "weightKg": 0.75,
+  "weightKg": 1,
   "stackSize": 3,
   "imageFilename": "https://cdn.arctracker.io/items/surveyor_vault.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/23/2025"
 }

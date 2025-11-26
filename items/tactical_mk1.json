@@ -2,7 +2,7 @@
   "id": "tactical_mk1",
   "name": {
     "en": "Tactical Mk. 1",
-    "de": "Taktisch Mk. 1",
+    "de": "Taktisch-Marke 1",
     "fr": "Tactique 1",
     "es": "Táctico Ver. 1",
     "pt": "Tático Mk. 1",
@@ -11,7 +11,7 @@
     "da": "Taktisk Mk. 1",
     "it": "Tattico Mk. 1",
     "ru": "Стратегия 1",
-    "ja": "タクティカル Mk. 1",
+    "ja": "戦術MK1",
     "zh-TW": "戰術型 Mk. 1",
     "uk": "Тактичний Mk. 1",
     "zh-CN": "战术型 Mk. 1",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Basic tactical augment. More Quick Use slots for more tactical choice, but limited survivability and slightly lower looting potential.",
-    "de": "Grundlegende taktische Erweiterung. Mehr Schnellzugriff-Slots für mehr taktische Auswahl, aber begrenzte Überlebensfähigkeit und etwas geringeres Plünderungspotenzial.",
+    "de": "Basis-Taktik-Augment. Mehr Schnelleinsatz-Plätze für größere taktische Auswahl, aber begrenzte Überlebensfähigkeit und etwas geringeres Plünderpotenzial.",
     "fr": "Augmentation tactique de base. Plus d'emplacements d'utilisation rapide pour plus de choix tactiques, mais survie limitée et potentiel de pillage légèrement inférieur.",
     "es": "Aumento táctico básico. Más ranuras de uso rápido para más opciones tácticas, pero supervivencia limitada y potencial de saqueo ligeramente menor.",
     "pt": "Aumento tático básico. Mais espaços de uso rápido para mais escolha tática, mas sobrevivência limitada e potencial de saque ligeiramente menor.",
@@ -72,7 +72,7 @@
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
-      "de": "Max. Ausrüstungsgewicht",
+      "de": "Max. Loadout-Gewicht",
       "fr": "Poids max. de l'équipement",
       "es": "Peso máximo de equipamiento",
       "pt": "Peso máximo de equipamento",
