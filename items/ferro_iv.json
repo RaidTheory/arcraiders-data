@@ -11,7 +11,7 @@
     "da": "Ferro IV",
     "it": "Ferro IV",
     "ru": "Ферро IV",
-    "ja": "Ferro IV",
+    "ja": "フェロ IV",
     "zh-TW": "Ferro IV",
     "uk": "Ferro IV",
     "zh-CN": "Ferro IV",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Packs a punch, but must be reloaded between every shot.",
-    "de": "Schlägt hart zu, muss aber nach jedem Schuss nachgeladen werden.",
+    "de": "Gute Durchschlagskraft, muss aber nach jedem Schuss nachgeladen werden.",
     "fr": "Frappe fort, mais doit être rechargé entre chaque tir.",
     "es": "Golpea fuerte, pero debe recargarse entre cada disparo.",
     "pt": "Dá um soco forte, mas deve ser recarregada entre cada tiro.",
@@ -55,8 +55,12 @@
   "salvagesInto": {
     "metal_parts": 2
   },
+  "upgradeCost": {
+    "mechanical_components": 1,
+    "simple_gun_parts": 1
+  },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/24/2025",
   "weightKg": 8,
   "effects": {
     "Durability": {
@@ -145,7 +149,7 @@
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
-      "de": "ARC-Rüstungsdurchdringung",
+      "de": "ARC-Panzerungsdurchdringung",
       "fr": "Pénétration d'armure ARC",
       "es": "Penetración de armadura ARC",
       "pt": "Penetração de armadura ARC",

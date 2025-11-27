@@ -3,7 +3,7 @@
   "name": {
     "en": "Extended Light Mag II",
     "de": "Erweitertes leichtes Magazin II",
-    "fr": "Chargeur léger étendu II",
+    "fr": "Chargeur Léger Étendu Ii",
     "es": "Cargador ligero extendido II",
     "pt": "Carregador leve estendido II",
     "pl": "Rozszerzony lekki magazynek II",
@@ -11,7 +11,7 @@
     "da": "Udvidet let magasin II",
     "it": "Caricatore leggero esteso II",
     "ru": "Увеличенный магазин для легкого оружия II",
-    "ja": "拡張ライトマガジンII",
+    "ja": "拡張小型弾倉 II",
     "zh-TW": "延長輕型彈匣 II",
     "uk": "Розширений легкий магазин II",
     "zh-CN": "延长轻型弹匣 II",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Moderately extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
-    "de": "Erweitert die Munitionskapazität kompatibler Waffen mit leichter Munition mäßig. Kompatibel mit: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
+    "de": "Erhöht die Munitionskapatität kompatibler Waffen mit leichter Munition moderat. Kompatibel mit: Kettle, Burletta, Stitcher, Hairpin, Bobcat",
     "fr": "Augmente modérément la capacité de munitions des armes compatibles utilisant des munitions légères. Compatible avec : Sutureur, Fondoir, Burletta, Hairpin, Bobcat",
     "es": "Extiende moderadamente la capacidad de munición de armas compatibles que usan munición ligera. Compatible con: Costurero, Caldero, Burletta, Horquilla, Bobcat",
     "pt": "Estende moderadamente a capacidade de munição de armas compatíveis que usam munição leve. Compatível com: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
@@ -66,6 +66,10 @@
       "sr": "Veličina okvira",
       "value": "+10"
     }
+  },
+  "recyclesInto": {
+    "steel_spring": 1,
+    "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_ii.png",
   "updatedAt": "10/30/2025"

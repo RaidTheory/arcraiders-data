@@ -2,7 +2,7 @@
   "id": "anvil_i",
   "name": {
     "en": "Anvil I",
-    "de": "Amboss I",
+    "de": "Anvil I",
     "fr": "Enclume I",
     "es": "Yunque I",
     "pt": "Bigorna I",
@@ -11,7 +11,7 @@
     "da": "Ambolt I",
     "it": "Incudine I",
     "ru": "Наковальня I",
-    "ja": "金床 I",
+    "ja": "アンヴィル I",
     "zh-TW": "鐵砧 I",
     "uk": "Ковадло I",
     "zh-CN": "铁砧 I",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
-    "de": "Einläufige Handkanone mit hohem Schaden und Kopfschussschaden, jedoch langsamer Handhabung.",
+    "de": "Richtet bei Körpertreffern und insbesondere bei Kopfschüssen hohen Schaden an, ist aber in der Benutzung langsam.",
     "fr": "Canon de poing à simple action infligeant de lourds dégâts, y compris aux tirs à la tête, mais au maniement lent.",
     "es": "Cañón de mano de acción simple con alto daño y daño a la cabeza, pero de manejo lento.",
     "pt": "Canhão de mão de ação simples com alto dano e dano de tiro na cabeça, porém com manuseio lento.",
@@ -129,7 +129,7 @@
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
-      "de": "ARC-Rüstungsdurchdringung",
+      "de": "ARC-Panzerungsdurchdringung",
       "fr": "Pénétration d’armure ARC",
       "es": "Penetración de armadura ARC",
       "pt": "Penetração de armadura ARC",

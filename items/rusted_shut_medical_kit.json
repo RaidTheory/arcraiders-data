@@ -11,7 +11,7 @@
     "da": "Rustet lukket medicinsæt",
     "it": "Kit medico arrugginito chiuso",
     "ru": "Аптечка со ржавым замком",
-    "ja": "錆びついた救急箱",
+    "ja": "閉まったまま錆びた医療キット",
     "zh-TW": "鏽死的醫療包",
     "uk": "Заіржавіла аптечка",
     "zh-CN": "锈死的医疗包",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A medical kit rusted shut, its contents unknown.",
-    "de": "Ein verrostetes medizinisches Set, dessen Inhalt unbekannt ist.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "fr": "Un kit médical rouillé fermé, son contenu est inconnu.",
     "es": "Un botiquín oxidado cerrado, su contenido es desconocido.",
     "pt": "Um kit médico enferrujado fechado, seu conteúdo é desconhecido.",
@@ -44,6 +44,7 @@
   "rarity": "Rare",
   "value": 1000,
   "weightKg": 3,
+  "foundIn": "Medical",
   "recyclesInto": {
     "syringe": 2,
     "antiseptic": 1
