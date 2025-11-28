@@ -15,7 +15,7 @@
       "arc_powercell",
       "arc_motion_core",
       "arc_circuitry",
-      "bastion_part"
+      "bastion_cell"
     ]
   },
   {
@@ -84,12 +84,16 @@
     "destroyXp": 500,
     "lootXp": 500,
     "drops": [
+      "advanced_arc_powercell",
       "arc_alloy",
-      "arc_powercell",
-      "arc_motion_core",
       "arc_circuitry",
-      "leaper_driver",
-      "energy_ammo"
+      "arc_flex_rubber",
+      "arc_motion_core",
+      "arc_performance_steel",
+      "arc_powercell",
+      "explosive_compound",
+      "leaper_pulse_unit",
+      "mechanical_components"
     ]
   },
   {
@@ -173,7 +177,7 @@
       "arc_synthetic_resin",
       "arc_thermo_lining",
       "arc_motion_core",
-      "sentinel_part",
+      "sentinel_firing_Core",
       "heavy_ammo"
     ]
   },
