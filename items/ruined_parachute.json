@@ -43,6 +43,9 @@
   "type": "Recyclable",
   "rarity": "Uncommon",
   "value": 640,
+  "recyclesInto": {
+    "fabric": 5
+  },
   "weightKg": 0.8,
   "stackSize": 3,
   "foundIn": "Exodus",

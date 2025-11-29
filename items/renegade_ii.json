@@ -199,6 +199,9 @@
   },
   "type": "Battle Rifle",
   "rarity": "Rare",
+  "recyclesInto": {
+    "medium_gun_parts": 2
+  },
   "damage": 35,
   "fireRate": 21,
   "range": 68.8,

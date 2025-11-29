@@ -43,6 +43,9 @@
   "type": "Recyclable",
   "rarity": "Common",
   "value": 90,
+  "recyclesInto": {
+    "metal_parts": 1
+  },
   "weightKg": 0.083,
   "stackSize": 3,
   "foundIn": "ARC",

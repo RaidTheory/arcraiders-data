@@ -1,5 +1,5 @@
 {
-  "id": "temptest_ii",
+  "id": "tempest_ii",
   "name": {
     "en": "Tempest II",
     "de": "Tempest II",
@@ -204,5 +204,8 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
   "updatedAt": "11/11/2025",
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "medium_gun_parts": 3
+  }
 }

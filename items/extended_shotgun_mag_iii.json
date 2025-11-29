@@ -44,6 +44,9 @@
   "value": 5000,
   "rarity": "Rare",
   "weightKg": 0.75,
+  "recyclesInto": {
+    "mechanical_components": 2
+  },
   "effects": {
     "Magazine Size": {
       "en": "Magazine Size",

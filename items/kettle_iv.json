@@ -44,6 +44,9 @@
   "rarity": "Common",
   "value": 5000,
   "weightKg": 7,
+  "recyclesInto": {
+    "simple_gun_parts": 2
+  },
   "effects": {
     "Durability": {
       "en": "Durability",

@@ -42,6 +42,9 @@
   },
   "type": "Assault Rifle",
   "rarity": "Common",
+  "recyclesInto": {
+    "metal_parts": 12
+  },
   "effects": {
     "Durability": {
       "en": "Durability",

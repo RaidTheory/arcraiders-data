@@ -163,5 +163,8 @@
   },
   "craftBench": "weapon_bench",
   "weightKg": 12,
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "medium_gun_parts": 2
+  }
 }

@@ -98,5 +98,8 @@
     "electrical_components": 1,
     "advanced_arc_powercell": 1
   },
-  "craftBench": "med_station"
+  "craftBench": "med_station",
+  "salvagesInto": {
+    "plastic_parts": 5
+  }
 }

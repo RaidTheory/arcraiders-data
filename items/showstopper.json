@@ -115,5 +115,8 @@
   "recyclesInto": {
     "electrical_components": 1,
     "battery": 2
+  },
+  "salvagesInto": {
+    "battery": 2
   }
 }

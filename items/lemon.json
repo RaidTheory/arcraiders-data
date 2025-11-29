@@ -43,7 +43,9 @@
   "type": "Nature",
   "rarity": "Uncommon",
   "value": 640,
-  "recyclesInto": {},
+  "recyclesInto": {
+    "assorted_seeds": 2
+  },
   "weightKg": 0.2,
   "stackSize": 10,
   "foundIn": "Nature",

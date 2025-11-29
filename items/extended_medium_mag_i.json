@@ -44,6 +44,9 @@
   "rarity": "Common",
   "value": 640,
   "weightKg": 0.25,
+  "recyclesInto": {
+    "plastic_parts": 3
+  },
   "effects": {
     "Magazine Size": {
       "en": "Magazine Size",

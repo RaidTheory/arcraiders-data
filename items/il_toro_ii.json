@@ -42,6 +42,9 @@
   },
   "type": "Shotgun",
   "rarity": "Uncommon",
+  "recyclesInto": {
+    "simple_gun_parts": 3
+  },
   "effects": {
     "Durability": {
       "en": "Durability",

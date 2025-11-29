@@ -45,6 +45,9 @@
   "value": 150,
   "weightKg": 0.15,
   "stackSize": 5,
+  "recyclesInto": {
+    "chemicals": 1
+  },
   "salvagesInto": {
     "chemicals": 1
   },

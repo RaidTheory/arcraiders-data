@@ -43,6 +43,9 @@
   "type": "Quick Use",
   "rarity": "Common",
   "value": 640,
+  "recyclesInto": {
+    "speaker_component": 1
+  },
   "weightKg": 0.3,
   "stackSize": 3,
   "effects": {

@@ -45,6 +45,9 @@
   "value": 2000,
   "rarity": "Rare",
   "weightKg": 0.2,
+  "recyclesInto": {
+    "durable_cloth": 1
+  },
   "effects": {
     "Healing": {
       "en": "Healing",
@@ -116,5 +119,8 @@
     "antiseptic": 1,
     "durable_cloth": 2
   },
-  "craftBench": "med_station"
+  "craftBench": "med_station",
+  "salvagesInto": {
+    "durable_cloth": 1
+  }
 }

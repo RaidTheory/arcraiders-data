@@ -45,6 +45,9 @@
   "value": 7000,
   "rarity": "Rare",
   "weightKg": 7,
+  "recyclesInto": {
+    "medium_gun_parts": 2
+  },
   "effects": {
     "Durability": {
       "en": "Durability",

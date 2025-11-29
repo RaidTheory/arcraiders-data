@@ -43,6 +43,9 @@
   "type": "Quick Use",
   "rarity": "Uncommon",
   "value": 640,
+  "recyclesInto": {
+    "fireball_burner": 1
+  },
   "weightKg": 1,
   "effects": {
     "Durability": {

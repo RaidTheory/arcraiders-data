@@ -99,5 +99,8 @@
     "crude_explosives": 2,
     "magnet": 1
   },
-  "craftBench": "explosives_bench"
+  "craftBench": "explosives_bench",
+  "salvagesInto": {
+    "chemicals": 2
+  }
 }

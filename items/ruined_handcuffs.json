@@ -43,6 +43,9 @@
   "type": "Recyclable",
   "rarity": "Uncommon",
   "value": 640,
+  "recyclesInto": {
+    "metal_parts": 4
+  },
   "weightKg": 0.8,
   "stackSize": 3,
   "foundIn": "Security",
