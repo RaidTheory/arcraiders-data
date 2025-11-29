@@ -177,5 +177,8 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
   "updatedAt": "10/31/2025",
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "simple_gun_parts": 1
+  }
 }

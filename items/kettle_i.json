@@ -165,5 +165,8 @@
       "value": "Very Weak"
     }
   },
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "metal_parts": 3
+  }
 }

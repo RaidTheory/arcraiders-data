@@ -51,5 +51,8 @@
   "recyclesInto": {
     "advanced_electrical_components": 1,
     "speaker_component": 1
+  },
+  "salvagesInto": {
+    "electrical_components": 2
   }
 }

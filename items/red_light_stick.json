@@ -48,6 +48,9 @@
   },
   "weightKg": 0.15,
   "stackSize": 5,
+  "salvagesInto": {
+    "chemicals": 1
+  },
   "effects": {
     "Illumination Radius": {
       "en": "Illumination Radius",

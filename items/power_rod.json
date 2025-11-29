@@ -55,5 +55,8 @@
     "advanced_electrical_components": 2,
     "arc_circuitry": 2
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "advanced_electrical_components": 1
+  }
 }

@@ -54,5 +54,8 @@
   "recipe": {
     "fabric": 14
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "fabric": 2
+  }
 }

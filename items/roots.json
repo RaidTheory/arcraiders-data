@@ -50,5 +50,8 @@
   "updatedAt": "10/31/2025",
   "weightKg": 0.2,
   "stackSize": 10,
-  "foundIn": "Nature"
+  "foundIn": "Nature",
+  "salvagesInto": {
+    "assorted_seeds": 1
+  }
 }

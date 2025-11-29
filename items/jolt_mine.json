@@ -120,5 +120,8 @@
     "electrical_components": 1,
     "battery": 1
   },
-  "craftBench": "explosives_bench"
+  "craftBench": "explosives_bench",
+  "salvagesInto": {
+    "battery": 1
+  }
 }

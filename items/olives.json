@@ -94,5 +94,8 @@
       "value": "1s"
     }
   },
-  "imageFilename": "https://cdn.arctracker.io/items/olives.png"
+  "imageFilename": "https://cdn.arctracker.io/items/olives.png",
+  "salvagesInto": {
+    "assorted_seeds": 2
+  }
 }

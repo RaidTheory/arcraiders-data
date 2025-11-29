@@ -56,5 +56,8 @@
     "medium_gun_parts": 2,
     "heavy_gun_parts": 2
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "simple_gun_parts": 2
+  }
 }

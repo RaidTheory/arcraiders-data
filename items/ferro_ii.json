@@ -160,5 +160,8 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
   "updatedAt": "11/24/2025",
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "metal_parts": 2
+  }
 }

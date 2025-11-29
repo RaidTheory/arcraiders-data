@@ -51,5 +51,8 @@
   "recyclesInto": {
     "battery": 3,
     "exodus_modules": 1
+  },
+  "salvagesInto": {
+    "battery": 3
   }
 }

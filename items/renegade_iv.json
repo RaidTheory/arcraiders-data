@@ -207,5 +207,8 @@
   "stealth": 16,
   "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
   "updatedAt": "11/12/2025",
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "medium_gun_parts": 3
+  }
 }

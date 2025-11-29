@@ -51,5 +51,8 @@
   "weightKg": 0.5,
   "stackSize": 3,
   "foundIn": "ARC",
-  "imageFilename": "https://cdn.arctracker.io/items/pop_trigger.png"
+  "imageFilename": "https://cdn.arctracker.io/items/pop_trigger.png",
+  "salvagesInto": {
+    "crude_explosives": 1
+  }
 }

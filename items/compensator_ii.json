@@ -105,5 +105,8 @@
     "mechanical_components": 2,
     "wires": 4
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "salvagesInto": {
+    "mechanical_components": 1
+  }
 }

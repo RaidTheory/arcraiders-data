@@ -53,5 +53,8 @@
   "craftBench": "utility_bench",
   "recyclesInto": {
     "speaker_component": 1
+  },
+  "salvagesInto": {
+    "speaker_component": 1
   }
 }

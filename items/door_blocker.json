@@ -54,5 +54,8 @@
     "metal_parts": 3,
     "rubber_parts": 3
   },
-  "craftBench": "utility_bench"
+  "craftBench": "utility_bench",
+  "salvagesInto": {
+    "metal_parts": 1
+  }
 }

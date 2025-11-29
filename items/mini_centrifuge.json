@@ -51,5 +51,8 @@
   "recyclesInto": {
     "advanced_mechanical_components": 1,
     "canister": 2
+  },
+  "salvagesInto": {
+    "mechanical_components": 2
   }
 }

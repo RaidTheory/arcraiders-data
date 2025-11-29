@@ -114,5 +114,8 @@
     "mod_components": 1,
     "duct_tape": 2
   },
-  "updatedAt": "10/30/2025"
+  "updatedAt": "10/30/2025",
+  "salvagesInto": {
+    "mechanical_components": 2
+  }
 }

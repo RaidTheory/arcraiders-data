@@ -54,5 +54,8 @@
   "recipe": {
     "simple_gun_parts": 4
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "simple_gun_parts": 1
+  }
 }

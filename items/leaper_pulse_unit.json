@@ -95,5 +95,8 @@
   "weightKg": 1,
   "stackSize": 3,
   "foundIn": "ARC",
-  "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png"
+  "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png",
+  "salvagesInto": {
+    "mechanical_components": 2
+  }
 }

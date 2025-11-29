@@ -48,6 +48,9 @@
   "recyclesInto": {
     "chemicals": 1
   },
+  "salvagesInto": {
+    "chemicals": 1
+  },
   "effects": {
     "Illumination Radius": {
       "en": "Illumination Radius",

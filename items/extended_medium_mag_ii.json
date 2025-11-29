@@ -73,5 +73,8 @@
     "mechanical_components": 2,
     "steel_spring": 3
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "salvagesInto": {
+    "mechanical_components": 1
+  }
 }

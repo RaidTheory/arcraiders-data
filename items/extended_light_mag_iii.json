@@ -72,5 +72,8 @@
   "recyclesInto": {
     "mod_components": 1,
     "steel_spring": 2
+  },
+  "salvagesInto": {
+    "mechanical_components": 2
   }
 }

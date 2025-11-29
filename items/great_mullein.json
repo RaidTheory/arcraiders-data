@@ -50,5 +50,8 @@
   "weightKg": 0.25,
   "foundIn": "Nature",
   "stackSize": 15,
-  "imageFilename": "https://cdn.arctracker.io/items/great_mullein.png"
+  "imageFilename": "https://cdn.arctracker.io/items/great_mullein.png",
+  "salvagesInto": {
+    "assorted_seeds": 1
+  }
 }

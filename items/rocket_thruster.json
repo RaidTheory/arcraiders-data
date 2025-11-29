@@ -51,5 +51,8 @@
   "recyclesInto": {
     "synthesized_fuel": 2,
     "metal_parts": 6
+  },
+  "salvagesInto": {
+    "synthesized_fuel": 1
   }
 }
