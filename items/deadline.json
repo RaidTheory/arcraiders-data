@@ -119,5 +119,8 @@
     "arc_circuitry": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/deadline.png",
-  "updatedAt": "11/21/2025"
+  "updatedAt": "11/21/2025",
+  "salvagesInto": {
+    "explosive_compound": 1
+  }
 }

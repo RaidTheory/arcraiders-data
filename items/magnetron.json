@@ -51,5 +51,8 @@
   "recyclesInto": {
     "magnetic_accelerator": 1,
     "spring": 1
+  },
+  "salvagesInto": {
+    "advanced_mechanical_components": 1
   }
 }

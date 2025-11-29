@@ -45,6 +45,9 @@
   "value": 7000,
   "rarity": "Rare",
   "weightKg": 7,
+  "recyclesInto": {
+    "medium_gun_parts": 2
+  },
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -181,5 +184,8 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "medium_gun_parts": 2
+  }
 }

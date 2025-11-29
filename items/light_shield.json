@@ -125,5 +125,8 @@
   "craftBench": [
     "workbench",
     "equipment_bench"
-  ]
+  ],
+  "salvagesInto": {
+    "arc_alloy": 1
+  }
 }

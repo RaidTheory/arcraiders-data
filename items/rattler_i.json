@@ -162,5 +162,8 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "metal_parts": 4
+  }
 }

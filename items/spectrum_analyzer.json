@@ -50,5 +50,8 @@
   "recyclesInto": {
     "sensors": 1,
     "exodus_modules": 1
+  },
+  "salvagesInto": {
+    "processor": 2
   }
 }

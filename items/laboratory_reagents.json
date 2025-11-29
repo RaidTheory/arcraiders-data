@@ -50,5 +50,8 @@
   },
   "foundIn": "Medical",
   "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "10/30/2025",
+  "salvagesInto": {
+    "crude_explosives": 3
+  }
 }

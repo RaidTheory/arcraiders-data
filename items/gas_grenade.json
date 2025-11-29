@@ -120,5 +120,8 @@
     "chemicals": 4,
     "rubber_parts": 2
   },
-  "craftBench": "explosives_bench"
+  "craftBench": "explosives_bench",
+  "salvagesInto": {
+    "chemicals": 1
+  }
 }

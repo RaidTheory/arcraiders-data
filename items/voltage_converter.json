@@ -51,5 +51,8 @@
   "recyclesInto": {
     "wires": 1,
     "rubber_parts": 1
+  },
+  "salvagesInto": {
+    "rubber_parts": 2
   }
 }

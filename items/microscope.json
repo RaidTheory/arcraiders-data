@@ -51,5 +51,8 @@
   "recyclesInto": {
     "advanced_mechanical_components": 1,
     "magnet": 3
+  },
+  "salvagesInto": {
+    "mechanical_components": 2
   }
 }

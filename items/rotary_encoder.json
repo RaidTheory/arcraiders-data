@@ -51,5 +51,8 @@
   "recyclesInto": {
     "electrical_components": 2,
     "processor": 2
+  },
+  "salvagesInto": {
+    "processor": 2
   }
 }

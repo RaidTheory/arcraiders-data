@@ -50,5 +50,8 @@
   "weightKg": 0.25,
   "stackSize": 15,
   "foundIn": "Exodus",
-  "imageFilename": "https://cdn.arctracker.io/items/magnet.png"
+  "imageFilename": "https://cdn.arctracker.io/items/magnet.png",
+  "salvagesInto": {
+    "metal_parts": 2
+  }
 }

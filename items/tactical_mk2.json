@@ -119,5 +119,8 @@
     "electrical_components": 2,
     "magnet": 3
   },
-  "craftBench": "equipment_bench"
+  "craftBench": "equipment_bench",
+  "salvagesInto": {
+    "electrical_components": 1
+  }
 }

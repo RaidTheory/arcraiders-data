@@ -122,5 +122,8 @@
   "craftBench": [
     "equipment_bench",
     "workbench"
-  ]
+  ],
+  "salvagesInto": {
+    "plastic_parts": 3
+  }
 }

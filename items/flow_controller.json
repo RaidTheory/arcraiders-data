@@ -51,5 +51,8 @@
   "recyclesInto": {
     "advanced_mechanical_components": 1,
     "sensors": 1
+  },
+  "salvagesInto": {
+    "mechanical_components": 2
   }
 }

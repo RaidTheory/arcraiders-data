@@ -199,6 +199,9 @@
   },
   "type": "Battle Rifle",
   "rarity": "Rare",
+  "recyclesInto": {
+    "medium_gun_parts": 2
+  },
   "damage": 35,
   "fireRate": 21,
   "range": 68.8,
@@ -207,5 +210,8 @@
   "stealth": 16,
   "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
   "updatedAt": "11/12/2025",
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "medium_gun_parts": 2
+  }
 }

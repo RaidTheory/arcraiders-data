@@ -119,5 +119,8 @@
     "plastic_parts": 6,
     "rubber_parts": 6
   },
-  "craftBench": "equipment_bench"
+  "craftBench": "equipment_bench",
+  "salvagesInto": {
+    "plastic_parts": 3
+  }
 }

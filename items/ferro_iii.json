@@ -182,5 +182,8 @@
     "metal_parts": 9,
     "simple_gun_parts": 1
   },
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "simple_gun_parts": 1
+  }
 }

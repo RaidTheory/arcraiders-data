@@ -163,5 +163,8 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "simple_gun_parts": 2
+  }
 }

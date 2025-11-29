@@ -56,5 +56,8 @@
     "steel_spring": 2,
     "mechanical_components": 2
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "mechanical_components": 1
+  }
 }

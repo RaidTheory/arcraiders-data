@@ -163,5 +163,8 @@
     "simple_gun_parts": 3
   },
   "craftBench": "weapon_bench",
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "simple_gun_parts": 2
+  }
 }

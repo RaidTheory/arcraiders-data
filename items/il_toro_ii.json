@@ -42,6 +42,9 @@
   },
   "type": "Shotgun",
   "rarity": "Uncommon",
+  "recyclesInto": {
+    "simple_gun_parts": 3
+  },
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -180,5 +183,8 @@
     "simple_gun_parts": 1
   },
   "stationLevelRequired": 1,
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "simple_gun_parts": 3
+  }
 }

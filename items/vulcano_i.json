@@ -173,5 +173,8 @@
       "value": "Weak"
     }
   },
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "heavy_gun_parts": 2
+  }
 }

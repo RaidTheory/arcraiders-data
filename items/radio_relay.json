@@ -51,5 +51,8 @@
   "recyclesInto": {
     "speaker_component": 2,
     "sensors": 2
+  },
+  "salvagesInto": {
+    "sensors": 2
   }
 }
