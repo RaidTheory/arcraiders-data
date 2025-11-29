@@ -1,6 +1,6 @@
 {
   "id": "ss10x12",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Bees!",
     "de": "Bienen!",
@@ -21,6 +21,9 @@
     "sr": "Pčele!",
     "hr": "Pčele!"
   },
+  "map": [
+    "the_blue_gate"
+  ],
   "trader": "Celeste",
   "description": {
     "en": "Bees! There are bees still around! While I'm no expert, our greenhouse crew desperately wants some.",

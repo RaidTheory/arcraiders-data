@@ -1,6 +1,6 @@
 {
   "id": "ss11b",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Lost in Transmission",
     "de": "Übertragung unterbrochen",
@@ -21,6 +21,9 @@
     "sr": "Izgubljeno u prenosu",
     "hr": "Izgubljeno u prijenosu"
   },
+  "map": [
+    "the_spaceport"
+  ],
   "trader": "Shani",
   "description": {
     "en": "I have equipment set up at the Spaceport, to monitor ARC's movements. My connection broke down just now — I need you to head to the Control Towers and help me retrieve my logs.",

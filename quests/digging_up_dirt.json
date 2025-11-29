@@ -1,6 +1,6 @@
 {
   "id": "ss10x16",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Digging Up Dirt",
     "de": "Schmutz ausgraben",
@@ -21,6 +21,9 @@
     "sr": "Iskopavanje prljavštine",
     "hr": "Iskopavanje prljavštine"
   },
+  "map": [
+    "buried_city"
+  ],
   "trader": "Celeste",
   "description": {
     "en": "We caught a break. One of our scouts saw a member of the Tubes Management make a dead drop inside the Santa Maria Houses in the Buried City. This might be our chance to dig up some dirt on them for a change. You in?",

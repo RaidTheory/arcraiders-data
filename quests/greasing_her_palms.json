@@ -1,6 +1,6 @@
 {
   "id": "ss10a",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/25/2025",
   "name": {
     "en": "Greasing Her Palms",
     "de": "Hände gerieben",
@@ -21,6 +21,11 @@
     "sr": "Podmazivanje Njenih Dlanova",
     "hr": "Podmazivanje Njezinih Dlanova"
   },
+  "map": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "buried_city"
+  ],
   "trader": "Celeste",
   "description": {
     "en": "Recently, I've been trying and failing to get Tian Wen to join our community projects. I may have to sweeten the deal. She's been complaining about the quality of salvage found on the market; think we could do her a solid?",

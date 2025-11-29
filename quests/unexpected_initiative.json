@@ -1,6 +1,6 @@
 {
   "id": "ss10q",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Unexpected Initiative",
     "de": "Unerwartete Initiative",
@@ -21,6 +21,9 @@
     "sr": "Neočekivana inicijativa",
     "hr": "Neočekivana inicijativa"
   },
+  "map": [
+    "buried_city"
+  ],
   "trader": "Tian Wen",
   "description": {
     "en": "I'm setting up a greenhouse, to help boost our food production. I'm doing Celeste a solid, alright? That's all. But enough about that. I've got all the details worked out, but I'll need supplies, and I'm not hauling them alone.",

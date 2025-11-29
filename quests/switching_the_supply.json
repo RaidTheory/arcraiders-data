@@ -1,6 +1,6 @@
 {
   "id": "ss10x7",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Switching the Supply",
     "de": "Umstellung der Versorgung",
@@ -21,6 +21,9 @@
     "sr": "Promena Snabdevanja",
     "hr": "Promjena Opskrbe"
   },
+  "map": [
+    "the_spaceport"
+  ],
   "trader": "Celeste",
   "description": {
     "en": "There is a reservoir beneath the Spaceport; if we manage to rout that water here, that should buy us time to deal with the contamination.",

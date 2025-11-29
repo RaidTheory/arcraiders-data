@@ -21,6 +21,11 @@
     "sr": "Oči na nebu",
     "hr": "Oči na nebu"
   },
+  "map": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "buried_city"
+  ],
   "trader": "Shani",
   "description": {
     "en": "Requires a zipline to get on top of the tower. Those LiDAR scanners you found work best when put in high locations. I've identified a few good spots around the Rust Belt; hope you're surefooted.",

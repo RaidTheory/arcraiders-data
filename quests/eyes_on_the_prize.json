@@ -1,6 +1,6 @@
 {
   "id": "ss10m",
-  "updatedAt": "11/12/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Eyes on the Prize",
     "de": "Die Augen auf den Preis",
@@ -21,6 +21,9 @@
     "sr": "Oči na Nagradi",
     "hr": "Oči na Nagradi"
   },
+  "map": [
+    "buried_city"
+  ],
   "trader": "Tian Wen",
   "description": {
     "en": "Everything's been calm around my drop-offs since you helped out, but that doesn't mean it'll stay that way for long. I've set up surveillance at one of my most used spots in Buried City, to prevent future tampering. Only problem is, it needs power to go live.",
