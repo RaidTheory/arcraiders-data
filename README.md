@@ -5,7 +5,6 @@ This repository contains compiled game data from the ARC Raiders Tech Test 2. Th
 ## Data Contents
 
 The repository includes structured JSON data for:
-
 - Missions
 - Items
 - Skill Nodes
@@ -40,7 +39,6 @@ All game content, including but not limited to game mechanics, items, names, and
 ## Attribution
 
 If you use this data in your project, please include attribution by linking to this repository:
-
 ```
 https://github.com/RaidTheory/arcraiders-data
 ```
@@ -58,5 +56,4 @@ Join our Discord community to discuss ARC Raiders, tools, and connect with other
 For questions or suggestions, please open an issue in this repository.
 
 ---
-
-_Note: This data is compiled from the ARC Raiders Tech Test 2 and may be subject to changes as the game evolves._
+*Note: This data is compiled from the ARC Raiders Tech Test 2 and may be subject to changes as the game evolves.* 
