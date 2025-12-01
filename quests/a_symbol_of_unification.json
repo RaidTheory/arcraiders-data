@@ -1,6 +1,6 @@
 {
   "id": "ss10r",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "A Symbol of Unification",
     "de": "Ein Symbol der Einheit",
@@ -21,6 +21,9 @@
     "sr": "Simbol ujedinjenja",
     "hr": "Simbol ujedinjenja"
   },
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Celeste",
   "description": {
     "en": "Y'know, back in the day we actually used to have a flag - well, a scrap of cloth more than anything. Still, seeing it meant you knew you had allies nearby, that you were on your own home turf. So, I was thinking...",

@@ -1,6 +1,6 @@
 {
   "id": "ss10j",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Straight Record",
     "de": "Gute Aufnahme",
@@ -21,6 +21,9 @@
     "sr": "Čist Račun",
     "hr": "Čist Račun"
   },
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Celeste",
   "description": {
     "en": "Back during the First Wave, my squad and I built a trap out by the Dam. Overloaded a generator, turned it into a makeshift ARC trap. Now I hear Raiders are using it to cut comms and spring ambushes on each other. I need you to end it.",

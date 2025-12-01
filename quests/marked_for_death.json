@@ -1,6 +1,6 @@
 {
   "id": "ss10i",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Marked for Death",
     "de": "Zum Tode verurteilt",
@@ -21,6 +21,9 @@
     "sr": "Obeležen za Smrt",
     "hr": "Obilježen za Smrt"
   },
+  "map": [
+    "buried_city"
+  ],
   "trader": "Tian Wen",
   "description": {
     "en": "Someone has been lifting supplies from my drop-off point in Buried City. I've set up a trap, but I need someone to check it for me.",

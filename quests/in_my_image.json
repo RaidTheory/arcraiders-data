@@ -1,6 +1,6 @@
 {
   "id": "12_in_my_image",
-  "updatedAt": "11/14/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "In My Image",
     "de": "Mein Ebenbild",
@@ -21,6 +21,9 @@
     "sr": "Po Mom Liku",
     "hr": "Po Mom Liku"
   },
+  "map": [
+    "stella_montis"
+  ],
   "trader": "Lance",
   "description": {
     "en": "I just treated one of the first Raiders who visited Stella Montis, and she said that she saw... others. Androids, very much like me.",
