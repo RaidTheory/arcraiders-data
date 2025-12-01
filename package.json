@@ -1,0 +1,14 @@
+{
+  "name": "arcraiders-data",
+  "type": "module",
+  "scripts": {
+    "check": "prettier --check .",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "prettier-plugin-sort-json": "^4.1.1",
+    "safe-stable-stringify": "^2.5.0"
+  },
+  "private": true
+}

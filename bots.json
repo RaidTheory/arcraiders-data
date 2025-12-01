@@ -2,12 +2,18 @@
   {
     "id": "arc_bastion",
     "name": "BASTION",
-    "image": "https://cdn.arctracker.io/bots/arc_bastion.png",
     "type": "Heavy Assault",
     "threat": "Critical",
     "description": "Massive, crab-like machines that are slow but devastating. They're capable of shredding shields and dealing massive damage with heavy attacks.",
     "weakness": "Destroy the canister on his rear, to expose it's weakpoint.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city", "stella_montis_lower", "stella_montis_upper"],
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city",
+      "stella_montis_lower",
+      "stella_montis_upper"
+    ],
     "destroyXp": 500,
     "lootXp": 250,
     "drops": [
@@ -16,17 +22,22 @@
       "arc_motion_core",
       "arc_circuitry",
       "bastion_cell"
-    ]
+    ],
+    "image": "https://cdn.arctracker.io/bots/arc_bastion.png"
   },
   {
     "id": "arc_bombardier",
     "name": "BOMBARDIER",
-    "image": "https://cdn.arctracker.io/bots/arc_bombardier.png",
     "type": "Heavy Artillery",
     "threat": "Critical",
     "description": "A massive artillery unit designed for long-range bombardment. Equipped with devastating explosive capabilities and heavy armor, it can rain destruction from great distances.",
-    "weakness":"Shooting at the yellow rear canister deals direct damage to it's core.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "weakness": "Shooting at the yellow rear canister deals direct damage to it's core.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city"
+    ],
     "destroyXp": 500,
     "lootXp": 300,
     "drops": [
@@ -34,34 +45,42 @@
       "advanced_arc_powercell",
       "bombardier_cell",
       "launcher_ammo"
-    ]
+    ],
+    "image": "https://cdn.arctracker.io/bots/arc_bombardier.png"
   },
   {
     "id": "arc_fireball",
     "name": "FIREBALL",
-    "image": "https://cdn.arctracker.io/bots/arc_fireball.png",
     "type": "Area Denial",
     "threat": "High",
     "description": "Small armored rolling ARC that spits flame. Opens front panel when near Raiders to burn them alive, exposing its soft core.",
-    "weakness":"Exposes it's core, when it's using the flamethrower.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city", "stella_montis_lower", "stella_montis_upper"],
+    "weakness": "Exposes it's core, when it's using the flamethrower.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city",
+      "stella_montis_lower",
+      "stella_montis_upper"
+    ],
     "destroyXp": 100,
     "lootXp": 100,
-    "drops": [
-      "arc_alloy",
-      "arc_powercell",
-      "fireball_burner"
-    ]
+    "drops": ["arc_alloy", "arc_powercell", "fireball_burner"],
+    "image": "https://cdn.arctracker.io/bots/arc_fireball.png"
   },
   {
     "id": "arc_hornet",
     "name": "HORNET",
-    "image": "https://cdn.arctracker.io/bots/arc_hornet.png",
     "type": "Medium Drone",
     "threat": "High",
     "description": "Medium-class drone with armored rotors. It fires focused, high-speed projectiles with a brief red laser warning. Designed to shred shields and light armor.",
-    "weakness":"Unarmored rear thrusters.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "weakness": "Unarmored rear thrusters.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city"
+    ],
     "destroyXp": 150,
     "lootXp": 250,
     "drops": [
@@ -70,17 +89,22 @@
       "hornet_driver",
       "simple_gun_parts",
       "medium_ammo"
-    ]
+    ],
+    "image": "https://cdn.arctracker.io/bots/arc_hornet.png"
   },
   {
     "id": "arc_leaper",
     "name": "LEAPER",
-    "image": "https://cdn.arctracker.io/bots/arc_leaper.png",
     "type": "Siege Engine",
     "threat": "Critical",
     "description": "Massive, arachnid-like siege engine with heavy armor and gravity-defying leap ability. Can clear impossible gaps and reach high vantage points.",
-    "weakness":"Fire is most effective. Additionally you can shoot into it's eye.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "weakness": "Fire is most effective. Additionally you can shoot into it's eye.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city"
+    ],
     "destroyXp": 500,
     "lootXp": 500,
     "drops": [
@@ -94,17 +118,17 @@
       "explosive_compound",
       "leaper_pulse_unit",
       "mechanical_components"
-    ]
+    ],
+    "image": "https://cdn.arctracker.io/bots/arc_leaper.png"
   },
   {
     "id": "arc_matriarch",
     "name": "MATRIARCH",
-    "image": "https://cdn.arctracker.io/bots/arc_matriarch.png",
     "type": "Boss",
     "threat": "Extreme",
     "description": "The Matriarch is an imposing ARC machine that makes the Queen look friendly and can be found during a specific map condition.",
-    "weakness":"Central glowing core, which becomes exposed when it attacks. Leg joints are vulnerable too, as well as the red areas on the crown.",
-    "maps":["dam_battlegrounds"],
+    "weakness": "Central glowing core, which becomes exposed when it attacks. Leg joints are vulnerable too, as well as the red areas on the crown.",
+    "maps": ["dam_battlegrounds"],
     "destroyXp": 1000,
     "lootXp": 500,
     "drops": [
@@ -116,17 +140,24 @@
       "arc_synthetic_resin",
       "magnetic_accelerator",
       "matriarch_reactor"
-    ]
+    ],
+    "image": "https://cdn.arctracker.io/bots/arc_matriarch.png"
   },
   {
     "id": "arc_pop",
     "name": "POP",
-    "image": "https://cdn.arctracker.io/bots/arc_pop.png",
     "type": "Explosive",
     "threat": "Moderate",
     "description": "Small explosive ARC that detonates when approached. Quick elimination required to prevent area damage.",
-    "weakness":"Just shoot it.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city", "stella_montis_lower", "stella_montis_upper"],
+    "weakness": "Just shoot it.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city",
+      "stella_montis_lower",
+      "stella_montis_upper"
+    ],
     "destroyXp": 50,
     "lootXp": 100,
     "drops": [
@@ -135,17 +166,22 @@
       "arc_thermo_lining",
       "crude_explosives",
       "pop_trigger"
-    ]
+    ],
+    "image": "https://cdn.arctracker.io/bots/arc_pop.png"
   },
   {
     "id": "arc_rocketeer",
     "name": "ROCKETEER",
-    "image": "https://cdn.arctracker.io/bots/arc_rocketeer.png",
     "type": "Flying Artillery",
     "threat": "Critical",
     "description": "A formidable flying ARC that dominates airspace with powerful rocket attacks and devastating area-of-effect damage. Designed to saturate areas with explosions.",
-    "weakness":"Destroy two thrusters or shoot it's core, which is located underneath it.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "weakness": "Destroy two thrusters or shoot it's core, which is located underneath it.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city"
+    ],
     "destroyXp": 500,
     "lootXp": 500,
     "drops": [
@@ -157,17 +193,22 @@
       "heavy_gun_parts",
       "rocketeer_driver",
       "heavy_ammo"
-    ]
+    ],
+    "image": "https://cdn.arctracker.io/bots/arc_rocketeer.png"
   },
   {
     "id": "arc_sentinel",
     "name": "SENTINEL",
-    "image": "https://cdn.arctracker.io/bots/arc_sentinel.png",
     "type": "Sniper Turret",
     "threat": "High",
     "description": "Stationary but deadly turrets that perch on high vantage points. They scan for targets with long-range precision and lock onto players from a distance.",
-    "weakness":"The yellow unarmored canister will be your main target.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "weakness": "The yellow unarmored canister will be your main target.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city"
+    ],
     "destroyXp": 200,
     "lootXp": 300,
     "drops": [
@@ -179,35 +220,35 @@
       "arc_motion_core",
       "sentinel_firing_core",
       "heavy_ammo"
-    ]
+    ],
+    "image": "https://cdn.arctracker.io/bots/arc_sentinel.png"
   },
   {
     "id": "arc_shredder",
     "name": "SHREDDER",
-    "image": "https://cdn.arctracker.io/bots/arc_shredder.png",
     "type": "Area Denial",
     "threat": "High",
     "description": "The Shredder appears in Stella Montis, challenging Raiders to stay sharp in close-quarter encounters.",
-    "weakness":"Primary weakness is the 'eye-bar' at it's head. You may see the orange core between it's armour plates, which you can shoot too.",
-    "maps":["stella_montis_lower", "stella_montis_upper"],
+    "weakness": "Primary weakness is the 'eye-bar' at it's head. You may see the orange core between it's armour plates, which you can shoot too.",
+    "maps": ["stella_montis_lower", "stella_montis_upper"],
     "destroyXp": 200,
     "lootXp": 250,
-    "drops": [
-      "arc_alloy",
-      "arc_powercel",
-      "shredder_gyro",
-      "shotgun_ammo"
-    ]
-  },	
+    "drops": ["arc_alloy", "arc_powercel", "shredder_gyro", "shotgun_ammo"],
+    "image": "https://cdn.arctracker.io/bots/arc_shredder.png"
+  },
   {
     "id": "arc_snitch",
     "name": "SNITCH",
-    "image": "https://cdn.arctracker.io/bots/arc_snitch.png",
     "type": "Scout Drone",
     "threat": "Moderate",
     "description": "A swift, unarmored scout drone with three rotors. While fragile, it acts as an aerial alarm system, calling in reinforcements when it spots Raiders.",
-    "weakness":"Thrusters or the underside plating.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "weakness": "Thrusters or the underside plating.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city"
+    ],
     "destroyXp": 100,
     "lootXp": 200,
     "drops": [
@@ -216,35 +257,40 @@
       "arc_synthetic_resin",
       "sensors",
       "snitch_scanner"
-    ]
+    ],
+    "image": "https://cdn.arctracker.io/bots/arc_snitch.png"
   },
   {
     "id": "arc_spotter",
     "name": "SPOTTER",
-    "image": "https://cdn.arctracker.io/bots/arc_spotter.png",
     "type": "Scout Drone",
     "threat": "High",
     "description": "Spotters are flying support drones for the Bombardier. They will point a laser at any Raider in line-of-sight so the Bombardier can accurately target them. If both Spotters are destroyed a new pair will respawn. When the Bombardier is destroyed the Spotters will fly away.",
-    "weakness":"Unarmored thrusters",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "weakness": "Unarmored thrusters",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city"
+    ],
     "destroyXp": 100,
     "lootXp": 200,
-    "drops": [
-      "spotter_relay",
-      "arc_alloy",
-      "arc_powercell",
-      "sensors"
-    ]
+    "drops": ["spotter_relay", "arc_alloy", "arc_powercell", "sensors"],
+    "image": "https://cdn.arctracker.io/bots/arc_spotter.png"
   },
   {
     "id": "arc_surveyor",
     "name": "SURVEYOR",
-    "image": "https://cdn.arctracker.io/bots/arc_surveyor.png",
     "type": "Reconnaissance",
     "threat": "Low",
     "description": "The largest of the rolling ARC. It stops periodically to transmit signals. Rarely attacks, usually runs away from Raiders. Breaks into many pieces as damage is taken.",
     "weakness": "Exposes his energy core when shooting his blue beam into the sky.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city"
+    ],
     "destroyXp": 200,
     "lootXp": 300,
     "drops": [
@@ -253,17 +299,17 @@
       "arc_motion_core",
       "arc_circuitry",
       "surveyor_vault"
-    ]
+    ],
+    "image": "https://cdn.arctracker.io/bots/arc_surveyor.png"
   },
   {
     "id": "arc_the_queen",
     "name": "THE QUEEN",
-    "image": "https://cdn.arctracker.io/bots/arc_the_queen.png",
     "type": "Boss",
     "threat": "Extreme",
     "description": "A colossal machine deployed during Harvester Events. It's the Goliath of the ARC forces with incredible durability and lethal arsenal. Requires full squad coordination.",
-    "weakness":"The yellow joints on her legs. Exposes her core when firing the laser.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate"],
+    "weakness": "The yellow joints on her legs. Exposes her core when firing the laser.",
+    "maps": ["dam_battlegrounds", "the_spaceport", "the_blue_gate"],
     "destroyXp": 1000,
     "lootXp": 1000,
     "drops": [
@@ -281,57 +327,65 @@
       "complex_gun_parts",
       "magnetic_accelerator",
       "queen_reactor"
-    ]
+    ],
+    "image": "https://cdn.arctracker.io/bots/arc_the_queen.png"
   },
   {
     "id": "arc_tick",
     "name": "TICK",
-    "image": "https://cdn.arctracker.io/bots/arc_tick.png",
     "type": "Ambush Predator",
     "threat": "Moderate",
     "description": "Small, spider-like robots that leap onto players, attaching themselves to your head. They're fast and disorienting, designed to punish careless Raiders.",
-    "weakness":"Just shoot it. It's also one-hit with your melee weapon.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city", "stella_montis_lower", "stella_montis_upper"],
+    "weakness": "Just shoot it. It's also one-hit with your melee weapon.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city",
+      "stella_montis_lower",
+      "stella_montis_upper"
+    ],
     "destroyXp": 50,
     "lootXp": 100,
-    "drops": [
-      "arc_alloy",
-      "tick_pod"
-    ]
+    "drops": ["arc_alloy", "tick_pod"],
+    "image": "https://cdn.arctracker.io/bots/arc_tick.png"
   },
   {
     "id": "arc_turret",
     "name": "TURRET",
-    "image": "https://cdn.arctracker.io/bots/arc_turret.png",
     "type": "Defense System",
     "threat": "Moderate",
     "description": "Small, unarmored turret providing close-quarters defense. Mounted on interior walls, it scans for movement and unleashes rapid fire when it spots Raiders.",
-    "weakness":"Unarmored. Shooting it is enough.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city", "stella_montis_lower", "stella_montis_upper"],
+    "weakness": "Unarmored. Shooting it is enough.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city",
+      "stella_montis_lower",
+      "stella_montis_upper"
+    ],
     "destroyXp": 100,
     "lootXp": 200,
-    "drops": [
-      "arc_alloy",
-      "light_ammo",
-      "simple_gun_parts"
-    ]
+    "drops": ["arc_alloy", "light_ammo", "simple_gun_parts"],
+    "image": "https://cdn.arctracker.io/bots/arc_turret.png"
   },
   {
     "id": "arc_wasp",
     "name": "WASP",
-    "image": "https://cdn.arctracker.io/bots/arc_wasp.png",
     "type": "Flying Drone",
     "threat": "Moderate",
     "description": "Flying, drone-like robots equipped with powerful machine guns. They operate in swarms, are fast, agile, and relentless. Their buzzing and screeching audio cues are your first warning.",
-    "weakness":"Unarmored thrusters.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "weakness": "Unarmored thrusters.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city"
+    ],
     "destroyXp": 100,
     "lootXp": 200,
-    "drops": [
-      "arc_alloy",
-      "arc_powercell",
-      "wasp_driver",
-      "light_ammo"
-    ]
+    "drops": ["arc_alloy", "arc_powercell", "wasp_driver", "light_ammo"],
+    "image": "https://cdn.arctracker.io/bots/arc_wasp.png"
   }
 ]
