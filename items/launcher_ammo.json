@@ -2,7 +2,7 @@
   "id": "launcher_ammo",
   "name": {
     "en": "Launcher Ammo",
-    "de": "Werfer-Munition",
+    "de": "Werfermunition",
     "fr": "Munitions de lanceur",
     "es": "Munición de lanzador",
     "pt": "Munição de lançador",
@@ -10,7 +10,7 @@
     "no": "Utskytningsammunisjon",
     "da": "Affyringsammunition",
     "it": "Munizioni lanciatore",
-    "ru": "Патроны для гранатомета",
+    "ru": "Патрон для ракетницы",
     "ja": "ランチャー弾薬",
     "zh-TW": "發射器彈藥",
     "uk": "Патрони для гранатомета",
@@ -22,9 +22,9 @@
   },
   "description": {
     "en": "Anti-ARC payloads used mainly by the Hullcracker. Compatible with: Hullcracker",
-    "de": "Anti-ARC-Geschosse, die hauptsächlich vom Hullcracker verwendet werden. Kompatibel mit: Hullcracker",
+    "de": "Anti-ARC-Munition, wird hauptsächlich für den Hüllenbrecher verwendet. Kompatibel mit: Hüllenbrecher",
     "fr": "Charges anti-ARC utilisées principalement par le Brise-fuselage. Compatible avec : Brise-fuselage",
-    "es": "Cargas anti-ARC usadas principalmente por el Hullcracker. Compatible con: Hullcracker",
+    "es": "Cargas anti-ARC usadas principalmente por el Partecascos. Compatible con: Partecascos",
     "pt": "Cargas anti-ARC usadas principalmente pelo Hullcracker. Compatível com: Hullcracker",
     "pl": "Ładunki przeciw-ARC używane głównie przez Hullcracker. Kompatybilny z: Hullcracker",
     "no": "Anti-ARC-ladninger brukt hovedsakelig av Hullcracker. Kompatibel med: Hullcracker",
@@ -41,15 +41,18 @@
     "sr": "Anti-ARC projektili koje uglavnom koristi Hullcracker. Kompatibilno sa: Hullcracker"
   },
   "type": "Ammunition",
-  "value": 200,
+  "compatibleWith": [
+    "Hullcracker"
+  ],
+  "value": 250,
   "rarity": "Rare",
   "weightKg": 0.1,
   "stackSize": 24,
   "imageFilename": "https://cdn.arctracker.io/items/launcher_ammo.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/20/2025",
   "recipe": {
-    "metal_parts": 4,
-    "explosive_compound": 1
+    "arc_motion_core": 1,
+    "crude_explosives": 2
   },
   "craftBench": "workbench"
 }

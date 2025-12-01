@@ -3,9 +3,9 @@
   "updatedAt": "11/06/2025",
   "name": {
     "en": "The Trifecta",
-    "de": "Die Trifecta",
+    "de": "Die Triade",
     "fr": "Trio gagnant",
-    "es": "La Trifecta",
+    "es": "Triplete",
     "pt": "A Trifecta",
     "pl": "Trifecta",
     "no": "Trifecta",
@@ -15,7 +15,7 @@
     "kr": "삼관왕",
     "ru": "Трифекта",
     "zh-CN": "三连胜",
-    "ja": "三連勝",
+    "ja": "トライフェクタ",
     "tr": "Üçlü Zafer",
     "zh-TW": "三連勝",
     "sr": "Trifekta",
@@ -24,7 +24,7 @@
   "trader": "Shani",
   "description": {
     "en": "Intel's all well and good, but it only gets us so far. If ARC's truly closing in, I need every Raider to prove they can handle their drones in a fight.",
-    "de": "Informationen sind ja schön und gut, aber sie bringen uns nur bis zu einem gewissen Punkt. Wenn ARC wirklich näher kommt, muss jeder Raider beweisen, dass er ihre Drohnen im Kampf bewältigen kann.",
+    "de": "Aufklärung ist gut und schön, aber damit kommen wir nicht weit. Wenn die ARC wirklich näher rücken, muss jeder Raider beweisen, dass er im Kampf mit seinen Drohnen umgehen kann.",
     "fr": "Les renseignements c'est bien beau, mais ça ne nous mène que jusqu'à un certain point. Si ARC se rapproche vraiment, j'ai besoin que chaque Raider prouve qu'il peut gérer leurs drones au combat.",
     "es": "La información está muy bien, pero solo nos lleva hasta cierto punto. Si ARC realmente se está acercando, necesito que cada Raider demuestre que puede manejar sus drones en combate.",
     "pt": "Inteligência é bom e tudo mais, mas só nos leva até certo ponto. Se a ARC está realmente se aproximando, preciso que cada Raider prove que pode lidar com seus drones numa luta.",
@@ -45,7 +45,7 @@
   "objectives": [
     {
       "en": "Destroy 2 Wasps",
-      "de": "Zerstöre 2 Wasps",
+      "de": "Eine Wespe zerstören",
       "fr": "Détruisez 2 Guêpes",
       "es": "Destruye 2 Wasps",
       "pt": "Destrua 2 Wasps",
@@ -57,7 +57,7 @@
       "kr": "Wasp 2대 파괴",
       "ru": "Уничтожить 2 Wasp",
       "zh-CN": "摧毁2个黄蜂",
-      "ja": "Waspを2機破壊する",
+      "ja": "ワスプを破壊する",
       "tr": "2 Wasp yok et",
       "zh-TW": "摧毀2個黃蜂",
       "sr": "Uništi 2 Waspa",
@@ -65,7 +65,7 @@
     },
     {
       "en": "Destroy 2 Hornets",
-      "de": "Zerstöre 2 Hornets",
+      "de": "Eine Hornisse zerstören",
       "fr": "Détruisez 2 Frelons",
       "es": "Destruye 2 Hornets",
       "pt": "Destrua 2 Hornets",
@@ -77,7 +77,7 @@
       "kr": "Hornet 2대 파괴",
       "ru": "Уничтожить 2 Hornet",
       "zh-CN": "摧毁2个大黄蜂",
-      "ja": "Hornetを2機破壊する",
+      "ja": "シャニのためにワスプドライバーを入手する",
       "tr": "2 Hornet yok et",
       "zh-TW": "摧毀2個大黃蜂",
       "sr": "Uništi 2 Horneta",
@@ -85,7 +85,7 @@
     },
     {
       "en": "Destroy 2 Snitches",
-      "de": "Zerstöre 2 Snitches",
+      "de": "Einen Spitzel zerstören",
       "fr": "Détruisez 2 Mouchards",
       "es": "Destruye 2 Snitches",
       "pt": "Destrua 2 Snitches",
@@ -97,7 +97,7 @@
       "kr": "Snitch 2대 파괴",
       "ru": "Уничтожить 2 Snitch",
       "zh-CN": "摧毁2个告密者",
-      "ja": "Snitchを2機破壊する",
+      "ja": "ホーネットを破壊する",
       "tr": "2 Snitch yok et",
       "zh-TW": "摧毀2個告密者",
       "sr": "Uništi 2 Snitcha",
@@ -105,7 +105,7 @@
     },
     {
       "en": "Get 2 Snitch Scanner for Shani",
-      "de": "Besorge 2 Snitch-Scanner für Shani",
+      "de": "Einen Spitzel-Scanner für Shani besorgen",
       "fr": "Obtenez 2 scanner de Mouchard pour Shani",
       "es": "Consigue 2 Snitch Scanner para Shani",
       "pt": "Consiga 2 Snitch Scanner para Shani",
@@ -117,7 +117,7 @@
       "kr": "Shani를 위한 Snitch Scanner 2개 획득",
       "ru": "Получить 2 Snitch Scanner для Шани",
       "zh-CN": "为莎妮获取2个告密者扫描仪",
-      "ja": "ShaniのためにSnitch Scannerを2個入手する",
+      "ja": "シャニのためにホーネットドライバーを入手する",
       "tr": "Shani için 2 Snitch Scanner al",
       "zh-TW": "為莎妮獲取2個告密者掃描儀",
       "sr": "Nabavi 2 Snitch Scannera za Shani",
@@ -125,9 +125,9 @@
     },
     {
       "en": "Get 2 Wasp Driver for Shani",
-      "de": "Besorge 2 Wasp-Treiber für Shani",
+      "de": "Einen Wespentreiber für Shani besorgen",
       "fr": "Obtenez 2 pilote de Guêpe pour Shani",
-      "es": "Consigue 2 Wasp Driver para Shani",
+      "es": "Consigue 2 controladores de Avispa para Shani",
       "pt": "Consiga 2 Wasp Driver para Shani",
       "pl": "Zdobądź 2 Wasp Drivery dla Shani",
       "no": "Skaff 2 Wasp Driver til Shani",
@@ -137,7 +137,7 @@
       "kr": "Shani를 위한 Wasp Driver 2개 획득",
       "ru": "Получить 2 Wasp Driver для Шани",
       "zh-CN": "为莎妮获取2个黄蜂驱动器",
-      "ja": "ShaniのためにWasp Driverを2個入手する",
+      "ja": "スニッチを破壊する",
       "tr": "Shani için 2 Wasp Driver al",
       "zh-TW": "為莎妮獲取2個黃蜂驅動器",
       "sr": "Nabavi 2 Wasp Drivera za Shani",
@@ -145,9 +145,9 @@
     },
     {
       "en": "Get 2 Hornet Driver for Shani",
-      "de": "Besorge 2 Hornet-Treiber für Shani",
+      "de": "Einen Hornissentreiber für Shani besorgen",
       "fr": "Obtenez 2 pilote de Frelon pour Shani",
-      "es": "Consigue 2 Hornet Driver para Shani",
+      "es": "Consigue 2 controladores de Avispón para Shani",
       "pt": "Consiga 2 Hornet Driver para Shani",
       "pl": "Zdobądź 2 Hornet Drivery dla Shani",
       "no": "Skaff 2 Hornet Driver til Shani",
@@ -157,7 +157,7 @@
       "kr": "Shani를 위한 Hornet Driver 2개 획득",
       "ru": "Получить 2 Hornet Driver для Шани",
       "zh-CN": "为莎妮获取2个大黄蜂驱动器",
-      "ja": "ShaniのためにHornet Driverを2個入手する",
+      "ja": "シャニのためスニッチスキャナを入手する",
       "tr": "Shani için 2 Hornet Driver al",
       "zh-TW": "為莎妮獲取2個大黃蜂驅動器",
       "sr": "Nabavi 2 Hornet Drivera za Shani",
@@ -167,15 +167,15 @@
   "requiredItemIds": [
     {
       "itemId": "snitch_scanner",
-      "quantity": 2
+      "quantity": 1
     },
     {
       "itemId": "wasp_driver",
-      "quantity": 2
+      "quantity": 1
     },
     {
       "itemId": "hornet_driver",
-      "quantity": 2
+      "quantity": 1
     }
   ],
   "grantedItemIds": [
@@ -202,7 +202,5 @@
   "previousQuestIds": [
     "ss6"
   ],
-  "nextQuestIds": [
-    "ss10b"
-  ]
+  "nextQuestIds": []
 }

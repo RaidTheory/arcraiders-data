@@ -13,7 +13,7 @@
     "sr": "Vulcano IV",
     "pl": "Vulcano IV",
     "no": "Vulcano IV",
-    "ja": "Vulcano IV",
+    "ja": "ヴルカノ IV",
     "fr": "Vulcano IV",
     "es": "Vulcano IV",
     "hr": "Vulcano IV",
@@ -210,5 +210,6 @@
   "stealth": 15,
   "weightKg": 8,
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }

@@ -3,7 +3,7 @@
   "updatedAt": "11/06/2025",
   "name": {
     "en": "Dormant Barons",
-    "de": "Ruhende Barone",
+    "de": "Schlafende Barone",
     "fr": "Barons dormants",
     "es": "Barones inactivos",
     "pt": "Barões adormecidos",
@@ -24,7 +24,7 @@
   "trader": "Shani",
   "description": {
     "en": "During the First Wave, the Barons did more damage than all the other machines combined. Now they're mere husks; fixed in place where they once fell... Still, their internals might hold the answer to keeping ARC at bay. So open one up, and bring me whatever is inside.",
-    "de": "Während der ersten Welle richteten die Barone mehr Schaden an als alle anderen Maschinen zusammen. Jetzt sind sie nur noch Hüllen; fixiert an dem Ort, wo sie einst fielen... Dennoch könnten ihre Innereien die Antwort darauf enthalten, wie man ARC in Schach hält. Also öffne einen und bring mir, was auch immer darin ist.",
+    "de": "Während der Ersten Welle haben die Barone mehr Schaden angerichtet als alle anderen Maschinen zusammen. Jetzt sind nur noch Hüllen von ihnen übrig, da wo sie einst gefallen sind... Aber in denen versteckt sich vielleicht die Antwort darauf, wie wir die ARC abwehren können. Mach eine auf und bring mir, was immer du findest.",
     "fr": "Pendant la première vague, les Barons ont fait plus de dégâts que toutes les autres machines réunies. Maintenant, ce ne sont que des carcasses ; fixées à l'endroit où elles sont tombées... Pourtant, leurs composants internes pourraient détenir la réponse pour tenir ARC à distance. Alors ouvrez-en un et apportez-moi ce qu'il y a à l'intérieur.",
     "es": "Durante la Primera Ola, los Barones causaron más daño que todas las otras máquinas juntas. Ahora son meros cascarones; fijos en el lugar donde cayeron... Aun así, sus componentes internos podrían contener la respuesta para mantener a ARC a raya. Así que abre uno y tráeme lo que haya dentro.",
     "pt": "Durante a Primeira Onda, os Barões causaram mais danos do que todas as outras máquinas juntas. Agora são meras cascas; fixos no lugar onde caíram... Ainda assim, seus componentes internos podem conter a resposta para manter a ARC afastada. Então abra um e me traga o que estiver dentro.",
@@ -45,7 +45,7 @@
   "objectives": [
     {
       "en": "Loot a Baron husk",
-      "de": "Plündere eine Baron-Hülle",
+      "de": "Plündere eine Baronhülle",
       "fr": "Pillez une carcasse de Baron",
       "es": "Saquea un cascarón de Barón",
       "pt": "Saqueia uma casca de Barão",
@@ -76,8 +76,7 @@
   ],
   "xp": 0,
   "previousQuestIds": [
-    "ss10a",
-    "ss9"
+    "ss10a"
   ],
   "nextQuestIds": [
     "ss10d",

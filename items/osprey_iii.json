@@ -4,7 +4,7 @@
     "en": "Osprey III",
     "de": "Osprey III",
     "uk": "Osprey III",
-    "ru": "Osprey III",
+    "ru": "Ястреб III",
     "zh-TW": "魚鷹 III",
     "tr": "Osprey III",
     "zh-CN": "鱼鹰 III",
@@ -234,5 +234,6 @@
   "stealth": 12,
   "weightKg": 7,
   "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }

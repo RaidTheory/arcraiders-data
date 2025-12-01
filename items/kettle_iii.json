@@ -4,14 +4,14 @@
     "en": "Kettle III",
     "de": "Kettle III",
     "fr": "Fondoir III",
-    "es": "Kettle III",
+    "es": "Caldero III",
     "pt": "Kettle III",
     "pl": "Kettle III",
     "no": "Kettle III",
     "da": "Kettle III",
     "it": "Kettle III",
-    "ru": "Kettle III",
-    "ja": "Kettle III",
+    "ru": "Чайник III",
+    "ja": "ケトル III",
     "zh-TW": "Kettle III",
     "uk": "Kettle III",
     "zh-CN": "Kettle III",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
-    "de": "Schnell und präzise, hat aber eine niedrige Geschossgeschwindigkeit und benötigt lange zum Nachladen.",
+    "de": "Es ist schnell und präzise, doch die Kugeln fliegen recht langsam und das Nachladen dauert lange.",
     "fr": "Rapide et précis, mais a une faible vélocité des balles et prend beaucoup de temps à recharger.",
     "es": "Rápido y preciso, pero tiene baja velocidad de bala y tarda mucho en recargarse.",
     "pt": "Rápido e preciso, mas tem baixa velocidade de bala e leva muito tempo para recarregar.",
@@ -40,7 +40,7 @@
     "hr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje.",
     "sr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje."
   },
-  "type": "Weapon",
+  "type": "Assault Rifle",
   "rarity": "Common",
   "value": 3000,
   "weightKg": 7,
@@ -131,7 +131,7 @@
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
-      "de": "ARC-Rüstungsdurchdringung",
+      "de": "ARC-Panzerungsdurchdringung",
       "fr": "Pénétration d'armure ARC",
       "es": "Penetración de armadura ARC",
       "pt": "Penetração de armadura ARC",
@@ -176,5 +176,6 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "10/31/2025"
+  "updatedAt": "10/31/2025",
+  "isWeapon": true
 }

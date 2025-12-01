@@ -11,7 +11,7 @@
     "da": "Agave",
     "it": "Agave",
     "ru": "Агава",
-    "ja": "アガベ",
+    "ja": "リュウゼツラン",
     "zh-TW": "龍舌蘭",
     "uk": "Агава",
     "zh-CN": "龙舌兰",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A piece of an agave leaf. Can be used to regain a small amount of health.",
-    "de": "Ein Stück eines Agavenblatts. Kann verwendet werden, um eine kleine Menge Gesundheit wiederherzustellen.",
+    "de": "Ein Stück von einem Agavenblatt. Kann zur Regeneration einer kleinen Menge Gesundheit benutzt werden.",
     "fr": "Un morceau de feuille d'agave. Peut être utilisé pour récupérer une petite quantité de santé.",
     "es": "Un trozo de hoja de agave. Se puede usar para recuperar una pequeña cantidad de salud.",
     "pt": "Um pedaço de folha de agave. Pode ser usado para recuperar uma pequena quantidade de saúde.",
@@ -49,7 +49,7 @@
   "effects": {
     "Healing": {
       "en": "Healing",
-      "de": "Heilung",
+      "de": "Heilen",
       "fr": "Soins",
       "es": "Curación",
       "pt": "Cura",
@@ -91,7 +91,7 @@
     },
     "Use Time": {
       "en": "Use Time",
-      "de": "Nutzungszeit",
+      "de": "Verwendungszeit",
       "fr": "Temps d'utilisation",
       "es": "Tiempo de uso",
       "pt": "Tempo de uso",

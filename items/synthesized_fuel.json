@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A canister of synthetic fuel blend.",
-    "de": "Ein Kanister mit synthetischer Kraftstoffmischung.",
+    "de": "Wird zur Herstellung von Gebrauchsgegenständen und Sprengstoffen verwendet. Kann zu Chemikalien recycelt werden. Zur Herstellung von: Trailblazer. Kann geworfen werden; explodiert, wenn abgeschossen.",
     "fr": "Un bidon de mélange de carburant synthétique.",
     "es": "Un recipiente de mezcla de combustible sintético.",
     "pt": "Um recipiente de mistura de combustível sintético.",
@@ -44,6 +44,7 @@
   "rarity": "Rare",
   "value": 700,
   "weightKg": 0.5,
+  "foundIn": "Exodus",
   "recyclesInto": {
     "oil": 1,
     "plastic_parts": 1

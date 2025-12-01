@@ -10,7 +10,7 @@
     "no": "Torrente I",
     "da": "Torrente I",
     "it": "Torrente I",
-    "ru": "Torrente I",
+    "ru": "Торренте I",
     "ja": "トレンテ I",
     "zh-TW": "奔流藍圖 I",
     "uk": "Torrente I",
@@ -162,5 +162,6 @@
     "steel_spring": 6
   },
   "craftBench": "weapon_bench",
-  "weightKg": 12
+  "weightKg": 12,
+  "isWeapon": true
 }

@@ -2,7 +2,7 @@
   "id": "wolfpack",
   "name": {
     "en": "Wolfpack",
-    "de": "Wolfsrudel",
+    "de": "Wolfpack",
     "fr": "Meute",
     "es": "Manada de lobos",
     "pt": "Alcateia",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A grenade that scatters into multiple homing missiles, each one targeting ARC and dealing explosive damage on impact.",
-    "de": "Eine Granate, die sich in mehrere zielsuchende Raketen aufteilt, die jeweils ARC anvisieren und bei Aufprall explosiven Schaden verursachen.",
+    "de": "Eine Granate, die sich in mehrere zielsuchende Raketen spaltet, welche auf ARC zufliegen und beim Aufprall Explosionsschaden verursachen.",
     "fr": "Une grenade qui se disperse en plusieurs missiles à tête chercheuse, chacun ciblant les machines ARC et infligeant des dégâts explosifs à l'impact.",
     "es": "Una granada que se dispersa en múltiples misiles teledirigidos, cada uno apuntando a ARC y causando daño explosivo al impactar.",
     "pt": "Uma granada que se dispersa em múltiplos mísseis teleguiados, cada um mirando ARC e causando dano explosivo no impacto.",
@@ -43,6 +43,8 @@
   "type": "Quick Use",
   "rarity": "Epic",
   "weightKg": 1,
+  "stackSize": 1,
+  "value": 5000,
   "effects": {
     "Damage": {
       "en": "Damage",
@@ -88,10 +90,10 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/wolfpack.png",
-  "updatedAt": "10/30/2025",
+  "updatedAt": "11/21/2025",
   "recyclesInto": {
-    "crude_explosives": 2,
-    "synthesized_fuel": 2
+    "crude_explosives": 1,
+    "arc_motion_core": 1
   },
   "recipe": {
     "explosive_compound": 3,

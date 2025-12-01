@@ -4,7 +4,7 @@
     "en": "Osprey IV",
     "de": "Osprey IV",
     "uk": "Osprey IV",
-    "ru": "Osprey IV",
+    "ru": "Ястреб IV",
     "zh-TW": "魚鷹 IV",
     "tr": "Osprey IV",
     "zh-CN": "鱼鹰 IV",
@@ -234,5 +234,6 @@
   "stealth": 12,
   "weightKg": 7,
   "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "isWeapon": true
 }
