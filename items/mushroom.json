@@ -27,7 +27,7 @@
   "updatedAt": "10/31/2025",
   "description": {
     "en": "Can be consumed to regain a small amount of health.",
-    "de": "Kann konsumiert werden, um eine kleine Menge Gesundheit wiederherzustellen.",
+    "de": "Kann zur Regeneration einer kleinen Menge Gesundheit verzehrt werden.",
     "fr": "Peut être consommé pour récupérer une petite quantité de santé.",
     "es": "Se puede consumir para recuperar una pequeña cantidad de salud.",
     "pt": "Pode ser consumido para recuperar uma pequena quantidade de saúde.",
@@ -50,7 +50,7 @@
   "effects": {
     "Healing": {
       "en": "Healing",
-      "de": "Heilung",
+      "de": "Heilen",
       "fr": "Soin",
       "es": "Curación",
       "pt": "Cura",

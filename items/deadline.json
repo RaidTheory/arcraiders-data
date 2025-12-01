@@ -1,8 +1,8 @@
 {
   "name": {
     "en": "Deadline",
-    "de": "Frist",
-    "fr": "Mine à retardement",
+    "de": "Deadline",
+    "fr": "Mine à Retardement",
     "es": "Ultimátum",
     "pt": "Prazo final",
     "pl": "Termin",
@@ -113,11 +113,11 @@
   "recyclesInto": {
     "explosive_compound": 1
   },
-    "craftBench": "explosives_bench",
+  "craftBench": "explosives_bench",
   "recipe": {
     "explosive_compound": 3,
     "arc_circuitry": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/deadline.png",
-  "updatedAt": "11/20/2025"
+  "updatedAt": "11/21/2025"
 }

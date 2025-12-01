@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Moderately reduces the amount of noise produced when firing. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-    "de": "Reduziert die beim Schießen erzeugte Geräuschmenge moderat. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "de": "Verringert die Lautstärke von Schüssen moderat. Kompatibel mit: Arpeggio, Rattler, Kettle, Ferro, Anvil",
     "fr": "Réduit modérément la quantité de bruit produite lors du tir. Compatible avec : Arpège, Ferro, Renégat, Enclume, Sutureur",
     "es": "Reduce moderadamente la cantidad de ruido producido al disparar. Compatible con: Arpeggio, Ferro, Renegado, Yunque, Costurero",
     "pt": "Reduz moderadamente a quantidade de ruído produzida ao disparar. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -47,7 +47,7 @@
   "effects": {
     "Reduced Noise": {
       "en": "Reduced Noise",
-      "de": "Reduziertes Geräusch",
+      "de": "Verringerte Lautstärke",
       "fr": "Bruit réduit",
       "es": "Ruido reducido",
       "pt": "Ruído reduzido",

@@ -2,7 +2,7 @@
   "name": {
     "en": "Ion Sputter",
     "de": "Ionenzerstäuber",
-    "fr": "Pulvérisateur ionique",
+    "fr": "Pulvérisateur Ionique",
     "es": "Pulverizador iónico",
     "pt": "Pulverizador de Íons",
     "pl": "Rozpylacz jonowy",
@@ -21,7 +21,7 @@
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
-    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "fr": "Peut être recyclé en matériaux d'artisanat.",
     "es": "Se puede reciclar en materiales de fabricación.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -42,11 +42,11 @@
   "id": "ion_sputter",
   "type": "Recyclable",
   "rarity": "Epic",
-  "weightKg": 3,
+  "weightKg": 1.5,
   "stackSize": 3,
   "foundIn": "Exodus",
   "imageFilename": "https://cdn.arctracker.io/items/ion_sputter.png",
-  "updatedAt": "11/14/2025",
+  "updatedAt": "11/24/2025",
   "value": 6000,
   "recyclesInto": {
     "voltage_converter": 4,

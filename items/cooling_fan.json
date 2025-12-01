@@ -2,15 +2,15 @@
   "id": "cooling_fan",
   "name": {
     "en": "Cooling Fan",
-    "de": "Kühlventilator",
-    "fr": "Ventilateur de refroidissement",
+    "de": "Kühlungslüfter",
+    "fr": "Ventilateur de Refroidissement",
     "es": "Ventilador de refrigeración",
     "pt": "Ventilador de resfriamento",
     "pl": "Wentylator chłodzący",
     "no": "Kjølevifte",
     "da": "Køleventilator",
     "it": "Ventola di raffreddamento",
-    "ru": "Вентилятор охлаждения",
+    "ru": "Охлаждающий вентилятор",
     "ja": "冷却ファン",
     "zh-TW": "冷卻風扇",
     "uk": "Охолоджувальний вентилятор",
@@ -29,7 +29,7 @@
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
-    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "fr": "Peut être recyclé en matériaux d'artisanat.",
     "es": "Puede reciclarse en materiales de fabricación.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -47,9 +47,8 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu."
   },
-  "weightKg": 1,
-  "stackSize": 3,
+  "weightKg": 3,
   "foundIn": "Technological",
   "imageFilename": "https://cdn.arctracker.io/items/cooling_fan.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/21/2025"
 }

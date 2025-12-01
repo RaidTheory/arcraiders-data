@@ -3,7 +3,7 @@
   "name": {
     "en": "Cooling Coil",
     "de": "Kühlspule",
-    "fr": "Serpentin de refroidissement",
+    "fr": "Serpentin de Refroidissement",
     "es": "Bobina de refrigeración",
     "pt": "Bobina de resfriamento",
     "pl": "Cewka chłodząca",
@@ -29,7 +29,7 @@
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
-    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "fr": "Peut être recyclé en matériaux d'artisanat.",
     "es": "Puede reciclarse en materiales de fabricación.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -48,7 +48,6 @@
     "sr": "Može se reciklirati u materijale za izradu."
   },
   "weightKg": 2,
-  "stackSize": 3,
   "foundIn": "Industrial",
   "imageFilename": "https://cdn.arctracker.io/items/cooling_coil.png",
   "updatedAt": "10/30/2025"

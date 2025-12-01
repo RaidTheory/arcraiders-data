@@ -21,7 +21,7 @@
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
-    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "fr": "Peut être recyclé en matériaux d'artisanat.",
     "es": "Se puede reciclar en materiales de fabricación.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -50,6 +50,6 @@
   "value": 6000,
   "recyclesInto": {
     "magnetic_accelerator": 1,
-    "spring": 1
+    "steel_spring": 1
   }
 }

@@ -1,8 +1,8 @@
 {
   "name": {
     "en": "Gas Mine",
-    "de": "Gasmine",
-    "fr": "Mine à gaz",
+    "de": "Sprungmine: Ausdauerverlust über Zeit",
+    "fr": "Mine Bondissance : Dégâts d'Endurance sur la Durée",
     "es": "Mina de gas",
     "pt": "Mina de gás",
     "pl": "Mina gazowa",
@@ -21,7 +21,7 @@
   },
   "description": {
     "en": "A proximity-triggered mine that pops up and deploys a gas cloud that rapidly drains stamina.",
-    "de": "Eine annäherungsgesteuerte Mine, die hochschnellt und eine Gaswolke freisetzt, die schnell Ausdauer entzieht.",
+    "de": "Eine Mine, die bei Annäherung explodiert und dabei eine Gaswolke erzeugt, welche schnell Ausdauer absaugt.",
     "fr": "Une mine à déclenchement de proximité qui surgit et déploie un nuage de gaz qui draine rapidement l'endurance.",
     "es": "Una mina activada por proximidad que emerge y despliega una nube de gas que drena rápidamente la resistencia.",
     "pt": "Uma mina ativada por proximidade que surge e libera uma nuvem de gás que drena rapidamente a stamina.",
@@ -48,7 +48,7 @@
   "effects": {
     "Stamina Drain": {
       "en": "Stamina Drain",
-      "de": "Ausdauerentzug",
+      "de": "Ausdauerverbrauch",
       "fr": "Drain d'endurance",
       "es": "Drenaje de resistencia",
       "pt": "Dreno de stamina",

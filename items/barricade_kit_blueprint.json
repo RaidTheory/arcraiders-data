@@ -2,8 +2,8 @@
   "id": "barricade_kit_blueprint",
   "name": {
     "en": "Barricade Kit Blueprint",
-    "de": "Barrikaden-Set Blaupause",
-    "fr": "Schéma de kit de barricade",
+    "de": "Bauplan: Barrikadenset",
+    "fr": "Schéma de Kit de Barricade",
     "es": "Plano de kit de barricada",
     "pt": "Projeto de kit de barricada",
     "pl": "Projekt zestawu barykady",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A deployable cover that can block incoming damage until it breaks.",
-    "de": "Eine einsetzbare Deckung, die eingehenden Schaden blockieren kann, bis sie zerstört wird.",
+    "de": "Eine einsetzbare Deckung, die Schaden abfängt, bis sie zerstört wird.",
     "fr": "Un abri déployable qui bloque les dégâts jusqu'à sa destruction.",
     "es": "Una cobertura desplegable que puede bloquear el daño entrante hasta que se rompa.",
     "pt": "Uma cobertura implantável que pode bloquear dano recebido até quebrar.",

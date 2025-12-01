@@ -1,6 +1,6 @@
 {
   "id": "ss10y",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "After Rain Comes",
     "de": "Nach dem Regen kommt",
@@ -21,6 +21,9 @@
     "sr": "Posle kiše dolazi",
     "hr": "Nakon kiše dolazi"
   },
+  "map": [
+    "buried_city"
+  ],
   "trader": "Celeste",
   "videoUrl": "https://youtu.be/jP__SkIV-9E",
   "description": {

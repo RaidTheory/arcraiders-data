@@ -2,8 +2,8 @@
   "id": "shotgun_ammo",
   "name": {
     "en": "Shotgun Ammo",
-    "de": "Schrotflinten-Munition",
-    "fr": "Cartouches de pompe",
+    "de": "Schrotflintenmunition",
+    "fr": "Cartouches de Pompe",
     "es": "Munición de escopeta",
     "pt": "Munição de espingarda",
     "pl": "Amunicja do strzelby",
@@ -40,7 +40,10 @@
     "hr": "Kompatibilno s: Il Toro, Vulcano",
     "sr": "Kompatibilno sa: Il Toro, Vulcano"
   },
-  "compatibleWith": ["Il Toro", "Vulcano"],
+  "compatibleWith": [
+    "Il Toro",
+    "Vulcano"
+  ],
   "type": "Ammunition",
   "value": 20,
   "weightKg": 0.085,

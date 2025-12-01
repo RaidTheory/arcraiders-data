@@ -2,8 +2,8 @@
   "id": "blaze_grenade_trap",
   "name": {
     "en": "Blaze Grenade Trap",
-    "de": "Flammengranaten-Falle",
-    "fr": "Piège à grenade incendiaire",
+    "de": "Laserfalle: Feuer",
+    "fr": "Piège à Grenade Flamboyante",
     "es": "Trampa de granada incendiaria",
     "pt": "Armadilha de granada incendiária",
     "pl": "Pułapka z granatem zapalającym",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A laser trip wire that detonates a Blaze Grenade.",
-    "de": "Ein Laser-Stolperdraht, der eine Flammengranate zündet.",
+    "de": "Ein Laser-Stolperdraht, der eine Flammengranate detonieren lässt.",
     "fr": "Un fil laser qui fait exploser une grenade incendiaire.",
     "es": "Un cable trampa láser que detona una granada incendiaria.",
     "pt": "Um fio de disparo a laser que detona uma granada incendiária.",

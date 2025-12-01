@@ -1,24 +1,24 @@
 {
-  "id": "temptest_iii",
+  "id": "tempest_ii",
   "name": {
-    "en": "Tempest III",
-    "de": "Sturm III",
-    "fr": "Tempête III",
-    "es": "Tempestad III",
-    "pt": "Tempestade III",
-    "pl": "Burza III",
-    "no": "Storm III",
-    "da": "Storm III",
-    "it": "Tempesta III",
-    "ru": "Буря III",
-    "ja": "テンペスト III",
-    "zh-TW": "風暴 III",
-    "uk": "Буря III",
-    "zh-CN": "风暴 III",
-    "kr": "템페스트 III",
-    "tr": "Fırtına III",
-    "hr": "Oluja III",
-    "sr": "Олуја III"
+    "en": "Tempest II",
+    "de": "Tempest II",
+    "fr": "Tempête II",
+    "es": "Tempestad II",
+    "pt": "Tempestade II",
+    "pl": "Burza II",
+    "no": "Storm II",
+    "da": "Storm II",
+    "it": "Tempesta II",
+    "ru": "Буря II",
+    "ja": "テンペスト II",
+    "zh-TW": "風暴 II",
+    "uk": "Буря II",
+    "zh-CN": "风暴 II",
+    "kr": "템페스트 II",
+    "tr": "Fırtına II",
+    "hr": "Oluja II",
+    "sr": "Олуја II"
   },
   "description": {
     "en": "Fully automatic assault rifle with moderate fire rate and accuracy.",
@@ -62,7 +62,7 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "120/120"
+      "value": "110/110"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -167,7 +167,7 @@
       "tr": "Azaltılmış Yatay Tepme",
       "hr": "Smanjen horizontalni trzaj",
       "sr": "Smanjen horizontalni trzaj",
-      "value": "33.3%"
+      "value": "16.6%"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -188,19 +188,19 @@
       "tr": "Azaltılmış yeniden doldurma süresi",
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vrijeme punjenja",
-      "value": "26%"
+      "value": "13%"
     }
   },
-  "value": 22000,
+  "value": 17000,
   "weightKg": 11,
   "recyclesInto": {
-    "advanced_mechanical_components": 4,
-    "medium_gun_parts": 4
+    "advanced_mechanical_components": 3,
+    "medium_gun_parts": 3
   },
   "craftBench": "weapon_bench",
   "upgradeCost": {
-    "advanced_mechanical_components": 4,
-    "medium_gun_parts": 4
+    "advanced_mechanical_components": 2,
+    "medium_gun_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
   "updatedAt": "11/11/2025",

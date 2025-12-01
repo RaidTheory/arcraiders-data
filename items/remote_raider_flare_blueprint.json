@@ -2,8 +2,8 @@
   "id": "remote_raider_flare_blueprint",
   "name": {
     "en": "Remote Raider Flare Blueprint",
-    "de": "Ferngesteuerte Raider-Leuchtrakete Blaupause",
-    "fr": "Schéma de fusée éclairante télécommandée",
+    "de": "Bauplan: Raider-Leuchtfackel mit Fernzündung",
+    "fr": "Schéma de Fusée Éclairante Télécommandée",
     "es": "Plano de Bengala de asaltante remota",
     "pt": "Plano do Sinalizador de invasor remoto",
     "pl": "Projekt zdalnej flary najeźdźcy",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A deployable device that, when manually triggered, launches a Raider Distress Flare.",
-    "de": "Ein einsetzbares Gerät, das bei manueller Auslösung eine Raider-Notleuchtrakete abfeuert.",
+    "de": "Ein einsetzbares Gerät, das bei manueller Auslösung ein Raider-Notsignal abfeuert.",
     "fr": "Un appareil déployable qui lance une fusée de détresse de Raider.",
     "es": "Un dispositivo desplegable que, al activarse manualmente, lanza una bengala de socorro de asaltante.",
     "pt": "Um dispositivo implantável que, quando acionado manualmente, lança um sinalizador de socorro de invasor.",

@@ -2,8 +2,8 @@
   "id": "diving_goggles",
   "name": {
     "en": "Diving Goggles",
-    "de": "Tauchbrille",
-    "fr": "Lunettes de plongée",
+    "de": "Taucherbrille",
+    "fr": "Lunettes de Plongée",
     "es": "Gafas de buceo",
     "pt": "Óculos de mergulho",
     "pl": "Gogle do nurkowania",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
-    "de": "Kann zu Handwerksmaterialien recycelt werden.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "fr": "Peut être recyclé en matériaux d'artisanat.",
     "es": "Se puede reciclar en materiales de fabricación.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -50,5 +50,5 @@
   "stackSize": 3,
   "foundIn": "Residential",
   "imageFilename": "https://cdn.arctracker.io/items/diving_goggles.png",
-  "updatedAt": "11/21/2025"
+  "updatedAt": "11/23/2025"
 }

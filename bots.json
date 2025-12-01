@@ -1,25 +1,6 @@
 [
   {
-    "id": "arc_surveyor",
-    "name": "ARC SURVEYOR",
-    "image": "https://cdn.arctracker.io/bots/arc_surveyor.png",
-    "type": "Reconnaissance",
-    "threat": "Low",
-    "description": "The largest of the rolling ARC. It stops periodically to transmit signals. Rarely attacks, usually runs away from Raiders. Breaks into many pieces as damage is taken.",
-    "weakness": "Exposes his energy core when shooting his blue beam into the sky.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
-    "destroyXp": 200,
-    "lootXp": 300,
-    "drops": [
-      "arc_alloy",
-      "arc_powercell",
-      "arc_motion_core",
-      "arc_circuitry",
-      "surveyor_vault"
-    ]
-  },
-  {
-    "id": "bastion",
+    "id": "arc_bastion",
     "name": "BASTION",
     "image": "https://cdn.arctracker.io/bots/arc_bastion.png",
     "type": "Heavy Assault",
@@ -34,11 +15,11 @@
       "arc_powercell",
       "arc_motion_core",
       "arc_circuitry",
-      "bastion_part"
+      "bastion_cell"
     ]
   },
   {
-    "id": "bombardier",
+    "id": "arc_bombardier",
     "name": "BOMBARDIER",
     "image": "https://cdn.arctracker.io/bots/arc_bombardier.png",
     "type": "Heavy Artillery",
@@ -47,7 +28,7 @@
     "weakness":"Shooting at the yellow rear canister deals direct damage to it's core.",
     "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
     "destroyXp": 500,
-    "lootXp": 500,
+    "lootXp": 300,
     "drops": [
       "arc_alloy",
       "advanced_arc_powercell",
@@ -56,7 +37,7 @@
     ]
   },
   {
-    "id": "fireball",
+    "id": "arc_fireball",
     "name": "FIREBALL",
     "image": "https://cdn.arctracker.io/bots/arc_fireball.png",
     "type": "Area Denial",
@@ -73,7 +54,7 @@
     ]
   },
   {
-    "id": "hornet",
+    "id": "arc_hornet",
     "name": "HORNET",
     "image": "https://cdn.arctracker.io/bots/arc_hornet.png",
     "type": "Medium Drone",
@@ -92,27 +73,53 @@
     ]
   },
   {
-    "id": "leaper",
+    "id": "arc_leaper",
     "name": "LEAPER",
-    "image": "https://cdn.arctracker.io/bots/arc_bison.png",
+    "image": "https://cdn.arctracker.io/bots/arc_leaper.png",
     "type": "Siege Engine",
     "threat": "Critical",
     "description": "Massive, arachnid-like siege engine with heavy armor and gravity-defying leap ability. Can clear impossible gaps and reach high vantage points.",
     "weakness":"Fire is most effective. Additionally you can shoot into it's eye.",
     "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
     "destroyXp": 500,
-    "lootXp": 600,
+    "lootXp": 500,
     "drops": [
+      "advanced_arc_powercell",
       "arc_alloy",
-      "arc_powercell",
-      "arc_motion_core",
       "arc_circuitry",
-      "leaper_driver",
-      "energy_ammo"
+      "arc_flex_rubber",
+      "arc_motion_core",
+      "arc_performance_steel",
+      "arc_powercell",
+      "explosive_compound",
+      "leaper_pulse_unit",
+      "mechanical_components"
     ]
   },
   {
-    "id": "pop",
+    "id": "arc_matriarch",
+    "name": "MATRIARCH",
+    "image": "https://cdn.arctracker.io/bots/arc_matriarch.png",
+    "type": "Boss",
+    "threat": "Extreme",
+    "description": "The Matriarch is an imposing ARC machine that makes the Queen look friendly and can be found during a specific map condition.",
+    "weakness":"Central glowing core, which becomes exposed when it attacks. Leg joints are vulnerable too, as well as the red areas on the crown.",
+    "maps":["dam_battlegrounds"],
+    "destroyXp": 1000,
+    "lootXp": 500,
+    "drops": [
+      "arc_alloy",
+      "arc_circuitry",
+      "arc_performance_steel",
+      "advanced_arc_powercell",
+      "arc_flex_rubber",
+      "arc_synthetic_resin",
+      "magnetic_accelerator",
+      "matriarch_reactor"
+    ]
+  },
+  {
+    "id": "arc_pop",
     "name": "POP",
     "image": "https://cdn.arctracker.io/bots/arc_pop.png",
     "type": "Explosive",
@@ -131,7 +138,7 @@
     ]
   },
   {
-    "id": "rocketeer",
+    "id": "arc_rocketeer",
     "name": "ROCKETEER",
     "image": "https://cdn.arctracker.io/bots/arc_rocketeer.png",
     "type": "Flying Artillery",
@@ -140,7 +147,7 @@
     "weakness":"Destroy two thrusters or shoot it's core, which is located underneath it.",
     "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
     "destroyXp": 500,
-    "lootXp": 200,
+    "lootXp": 500,
     "drops": [
       "arc_alloy",
       "arc_powercell",
@@ -153,7 +160,7 @@
     ]
   },
   {
-    "id": "sentinel",
+    "id": "arc_sentinel",
     "name": "SENTINEL",
     "image": "https://cdn.arctracker.io/bots/arc_sentinel.png",
     "type": "Sniper Turret",
@@ -170,12 +177,30 @@
       "arc_synthetic_resin",
       "arc_thermo_lining",
       "arc_motion_core",
-      "sentinel_part",
+      "sentinel_firing_core",
       "heavy_ammo"
     ]
   },
   {
-    "id": "snitch",
+    "id": "arc_shredder",
+    "name": "SHREDDER",
+    "image": "https://cdn.arctracker.io/bots/arc_shredder.png",
+    "type": "Area Denial",
+    "threat": "High",
+    "description": "The Shredder appears in Stella Montis, challenging Raiders to stay sharp in close-quarter encounters.",
+    "weakness":"Primary weakness is the 'eye-bar' at it's head. You may see the orange core between it's armour plates, which you can shoot too.",
+    "maps":["stella_montis_lower", "stella_montis_upper"],
+    "destroyXp": 200,
+    "lootXp": 250,
+    "drops": [
+      "arc_alloy",
+      "arc_powercel",
+      "shredder_gyro",
+      "shotgun_ammo"
+    ]
+  },	
+  {
+    "id": "arc_snitch",
     "name": "SNITCH",
     "image": "https://cdn.arctracker.io/bots/arc_snitch.png",
     "type": "Scout Drone",
@@ -194,7 +219,7 @@
     ]
   },
   {
-    "id": "spotter",
+    "id": "arc_spotter",
     "name": "SPOTTER",
     "image": "https://cdn.arctracker.io/bots/arc_spotter.png",
     "type": "Scout Drone",
@@ -212,7 +237,26 @@
     ]
   },
   {
-    "id": "the_queen",
+    "id": "arc_surveyor",
+    "name": "SURVEYOR",
+    "image": "https://cdn.arctracker.io/bots/arc_surveyor.png",
+    "type": "Reconnaissance",
+    "threat": "Low",
+    "description": "The largest of the rolling ARC. It stops periodically to transmit signals. Rarely attacks, usually runs away from Raiders. Breaks into many pieces as damage is taken.",
+    "weakness": "Exposes his energy core when shooting his blue beam into the sky.",
+    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "destroyXp": 200,
+    "lootXp": 300,
+    "drops": [
+      "arc_alloy",
+      "arc_powercell",
+      "arc_motion_core",
+      "arc_circuitry",
+      "surveyor_vault"
+    ]
+  },
+  {
+    "id": "arc_the_queen",
     "name": "THE QUEEN",
     "image": "https://cdn.arctracker.io/bots/arc_the_queen.png",
     "type": "Boss",
@@ -240,7 +284,7 @@
     ]
   },
   {
-    "id": "tick",
+    "id": "arc_tick",
     "name": "TICK",
     "image": "https://cdn.arctracker.io/bots/arc_tick.png",
     "type": "Ambush Predator",
@@ -256,7 +300,7 @@
     ]
   },
   {
-    "id": "turret",
+    "id": "arc_turret",
     "name": "TURRET",
     "image": "https://cdn.arctracker.io/bots/arc_turret.png",
     "type": "Defense System",
@@ -273,7 +317,7 @@
     ]
   },
   {
-    "id": "wasp",
+    "id": "arc_wasp",
     "name": "WASP",
     "image": "https://cdn.arctracker.io/bots/arc_wasp.png",
     "type": "Flying Drone",
@@ -288,47 +332,6 @@
       "arc_powercell",
       "wasp_driver",
       "light_ammo"
-    ]
-  }, 
-{
-    "id": "matriarch",
-    "name": "MATRIARCH",
-    "image": "https://cdn.arctracker.io/bots/arc_matriarch.png",
-    "type": "Queen of Queen's",
-    "threat": "Extreme",
-    "description": "Big walking Spider with heavy armour and energy shield. Can shoot gas grenades. Can call in  Fireball, Wasp, Leaper, Bastion, Bombardier and Rocketeer. Makes the queen look friendly.",
-    "weakness":"Central glowing core, which becomes exposed when it attacks. Leg joints are vulnerable too, as well as the red areas on the crown.",
-    "maps":["dam_battlegrounds"],
-    "destroyXp": 0,
-    "lootXp": 0,
-    "drops": [
-      "arc_alloy",
-      "arc_circuitry",
-      "arc_performance_steel",
-      "advanced_arc_powercell",
-      "arc_flex_rubber",
-      "arc_synthetic_resin",
-      "magnetic_accelerator",
-      "matriarch_reactor"
-    ]
-  }, 
-{
-    "id": "shredder",
-    "name": "SHREDDER",
-    "image": "https://cdn.arctracker.io/bots/arc_shredder.png",
-    "type": "Close quaters predator",
-    "threat": "High",
-    "description": "Close quarter enemy with high damage. Shoots 4 AOE bursts. Only found on Stella Montis.",
-    "weakness":"Primary weakness is the 'eye-bar' at it's head. You may see the orange core between it's armour plates, which you can shoot too.",
-    "maps":["stella_montis_lower", "stella_montis_upper"],
-    "destroyXp": 0,
-    "lootXp": 0,
-    "drops": [
-      "arc_alloy",
-      "arc_gyroscope",
-      "shotgun_ammo",
-      "simple_gun_parts",
-      "arc_powercell"
     ]
   }
 ]

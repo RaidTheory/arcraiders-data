@@ -2,8 +2,8 @@
   "id": "shotgun_choke_ii",
   "name": {
     "en": "Shotgun Choke II",
-    "de": "Schrotflinten-Choke II",
-    "fr": "Choke de fusil à pompe II",
+    "de": "Schrotflintenchoke II",
+    "fr": "Choke de Fusil à Pompe II",
     "es": "Estrangulador de escopeta II",
     "pt": "Afogador de espingarda II",
     "pl": "Dławik do strzelby II",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Moderately reduces base dispersion. Compatible with: Il Toro, Vulcano",
-    "de": "Reduziert die Grundstreuung mäßig. Kompatibel mit: Il Toro, Vulcano",
+    "de": "Verringert die Grundstreuung moderat. Kompatibel mit: Il Toro, Vulcano",
     "fr": "Réduit modérément la dispersion de base. Compatible avec : Il Toro, Vulcano",
     "es": "Reduce moderadamente la dispersión base. Compatible con: Il Toro, Vulcano",
     "pt": "Reduz moderadamente a dispersão base. Compatível com: Il Toro, Vulcano",
@@ -51,7 +51,7 @@
   "effects": {
     "Reduced Base Dispersion": {
       "en": "Reduced Base Dispersion",
-      "de": "Reduzierte Grundstreuung",
+      "de": "Verringerte Grundstreuung",
       "fr": "Dispersion de base réduite",
       "es": "Dispersión base reducida",
       "pt": "Dispersão base reduzida",
