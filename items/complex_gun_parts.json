@@ -3,7 +3,7 @@
   "name": {
     "en": "Complex Gun Parts",
     "de": "Komplexe Waffenteile",
-    "fr": "Pièces d'arme complexes",
+    "fr": "Pièces d'Arme Complexes",
     "es": "Piezas de arma complejas",
     "pt": "Peças de arma complexas",
     "pl": "Złożone części broni",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Used to craft advanced weapons. Used to craft: Equalizer, Jupiter",
-    "de": "Wird zur Herstellung fortschrittlichen Waffen verwendet. Wird verwendet für: Equalizer, Jupiter",
+    "de": "Wird zur Herstellung von fortschrittlichen Waffen verwendet. Zur Herstellung von: Equalizer, Aphelion, Jupiter",
     "fr": "Permet de fabriquer des armes avancées. Permet de fabriquer : Equalizer, Jupiter",
     "es": "Se usa para fabricar armas avanzadas. Se usa para fabricar: Equalizer, Jupiter",
     "pt": "Usado para fabricar armas avançadas. Usado para fabricar: Equalizer, Jupiter",
@@ -46,11 +46,11 @@
   "stackSize": 3,
   "foundIn": "Security",
   "imageFilename": "https://cdn.arctracker.io/items/complex_gun_parts.png",
-  "value": 2000,
+  "value": 3000,
   "recyclesInto": {
     "simple_gun_parts": 3
   },
-  "updatedAt": "11/03/2025",
+  "updatedAt": "11/21/2025",
   "recipe": {
     "light_gun_parts": 2,
     "medium_gun_parts": 2,

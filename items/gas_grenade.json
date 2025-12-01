@@ -3,7 +3,7 @@
   "name": {
     "en": "Gas Grenade",
     "de": "Gasgranate",
-    "fr": "Grenade à gaz",
+    "fr": "Grenade à Gaz",
     "es": "Granada de gas",
     "pt": "Granada de gás",
     "pl": "Granat gazowy",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A grenade that emits a lingering toxic cloud on impact, draining the stamina of any Raiders within its area of effect.",
-    "de": "Eine Granate, die bei Aufprall eine anhaltende Giftwolke freisetzt und die Ausdauer aller Raider in ihrem Wirkungsbereich entzieht.",
+    "de": "Eine Granate, die beim Aufprall eine Giftwolke ausstößt, die Raidern in ihrem Wirkungsbereich Ausdauer raubt.",
     "fr": "Une grenade qui génère un nuage toxique persistant à l'impact, drainant l'endurance de tous les Raiders se trouvant dans sa zone d'effet.",
     "es": "Una granada que emite una nube tóxica persistente al impactar, drenando la resistencia de cualquier saqueador dentro de su área de efecto.",
     "pt": "Uma granada que emite uma nuvem tóxica persistente no impacto, drenando a resistência de qualquer saqueador dentro de sua área de efeito.",
@@ -52,7 +52,7 @@
   "effects": {
     "Stamina Drain": {
       "en": "Stamina Drain",
-      "de": "Ausdauerentzug",
+      "de": "Ausdauerverbrauch",
       "fr": "Drain d'endurance",
       "es": "Drenaje de resistencia",
       "pt": "Dreno de resistência",

@@ -5,7 +5,7 @@
     "en": "Doctor's Orders",
     "de": "Ärztliche Anweisung",
     "fr": "Consignes du docteur",
-    "es": "Órdenes del doctor",
+    "es": "Receta del doctor",
     "pt": "Ordens do doutor",
     "pl": "Rozkazy doktora",
     "no": "Doktorens ordre",
@@ -15,7 +15,7 @@
     "kr": "의사의 명령",
     "ru": "Приказ доктора",
     "zh-CN": "医生的命令",
-    "ja": "医者の指示",
+    "ja": "ドクターの言いつけ",
     "tr": "Doktorun Emirleri",
     "zh-TW": "醫生的命令",
     "sr": "Doktorova Naredba",
@@ -57,7 +57,7 @@
       "kr": "소독제 2개 획득",
       "ru": "Получить 2 Антисептика",
       "zh-CN": "获得2个消毒剂",
-      "ja": "消毒液を2個入手する",
+      "ja": "注射器を1個手に入れる",
       "tr": "2 Antiseptik edin",
       "zh-TW": "獲得2個消毒劑",
       "sr": "Pribavi 2 Antiseptika",
@@ -77,7 +77,7 @@
       "kr": "주사기 1개 획득",
       "ru": "Получить 1 Шприц",
       "zh-CN": "获得1个注射器",
-      "ja": "注射器を1個入手する",
+      "ja": "消毒液を2個手に入れる",
       "tr": "1 Şırınga edin",
       "zh-TW": "獲得1個注射器",
       "sr": "Pribavi 1 Špric",
@@ -97,7 +97,7 @@
       "kr": "내구성 천 1개 획득",
       "ru": "Получить 1 Прочную ткань",
       "zh-CN": "获得1个耐用布料",
-      "ja": "丈夫な布を1個入手する",
+      "ja": "ビロードモウズイカを1個入手する",
       "tr": "1 Dayanıklı Kumaş edin",
       "zh-TW": "獲得1個耐用布料",
       "sr": "Pribavi 1 Izdržljivu Tkaninu",
@@ -117,7 +117,7 @@
       "kr": "큰 뮬레인 1개 획득",
       "ru": "Получить 1 Коровяк",
       "zh-CN": "获得1个毛蕊花",
-      "ja": "グレートマレインを1個入手する",
+      "ja": "丈夫な服を1個手に入れる",
       "tr": "1 Sığırkuyruğu edin",
       "zh-TW": "獲得1個毛蕊花",
       "sr": "Pribavi 1 Veliki Divizam",
@@ -157,6 +157,10 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10a"],
-  "nextQuestIds": ["ss10f"]
+  "previousQuestIds": [
+    "ss10a"
+  ],
+  "nextQuestIds": [
+    "ss10f"
+  ]
 }

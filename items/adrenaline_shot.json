@@ -2,8 +2,8 @@
   "id": "adrenaline_shot",
   "name": {
     "en": "Adrenaline Shot",
-    "de": "Adrenalin-Spritze",
-    "fr": "Dose d'adrénaline",
+    "de": "Adrenalinspritze",
+    "fr": "Dose d'Adrénaline",
     "es": "Inyección de adrenalina",
     "pt": "Injeção de adrenalina",
     "pl": "Zastrzyk adrenaliny",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A serum that fully restores stamina and temporarily increases stamina regeneration.",
-    "de": "Ein Serum, das die Ausdauer vollständig wiederherstellt und die Ausdauerregeneration vorübergehend erhöht.",
+    "de": "Ein Serum, das deine Ausdauer vollständig wiederherstellt und deine Ausdauerregeneration vorübergehend erhöht.",
     "fr": "Un sérum qui restaure intégralement l'endurance et augmente temporairement sa régénération.",
     "es": "Un suero que restaura completamente la resistencia y aumenta temporalmente la regeneración de resistencia.",
     "pt": "Um soro que restaura completamente a resistência e aumenta temporariamente a regeneração de resistência.",
@@ -94,7 +94,7 @@
     },
     "Use Time": {
       "en": "Use Time",
-      "de": "Anwendungszeit",
+      "de": "Verwendungszeit",
       "fr": "Temps d'utilisation",
       "es": "Tiempo de uso",
       "pt": "Tempo de uso",

@@ -1,6 +1,6 @@
 {
   "id": "ss10m",
-  "updatedAt": "11/12/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Eyes on the Prize",
     "de": "Die Augen auf den Preis",
@@ -15,12 +15,15 @@
     "kr": "목표에 집중",
     "ru": "Взгляд на приз",
     "zh-CN": "紧盯目标",
-    "ja": "目標を見据えて",
+    "ja": "目を離せない件",
     "tr": "Gözler Ödülde",
     "zh-TW": "緊盯目標",
     "sr": "Oči na Nagradi",
     "hr": "Oči na Nagradi"
   },
+  "map": [
+    "buried_city"
+  ],
   "trader": "Tian Wen",
   "description": {
     "en": "Everything's been calm around my drop-offs since you helped out, but that doesn't mean it'll stay that way for long. I've set up surveillance at one of my most used spots in Buried City, to prevent future tampering. Only problem is, it needs power to go live.",
@@ -57,7 +60,7 @@
       "kr": "남부 역 남서쪽의 한적한 옥상 테라스를 찾아 파란색 방수포를 찾기",
       "ru": "Найти уединённую террасу на крыше к юго-западу от Южной станции, ищите синие брезенты",
       "zh-CN": "找到南站西南方向的隐蔽屋顶露台，寻找蓝色防水布",
-      "ja": "南駅の南西にある人里離れた屋上テラスを見つけ、青いタープを探す",
+      "ja": "南ステーションの南西にある青い防水シートを探し、人けのない屋上を見つける",
       "tr": "Güney İstasyonu'nun güneybatısındaki tenha çatı terasını bul, mavi brandaları ara",
       "zh-TW": "找到南站西南方向的隱蔽屋頂露台，尋找藍色防水布",
       "sr": "Pronađi povučenu krovnu terasu jugozapadne od Južne Stanice, traži plave cerade",
@@ -77,7 +80,7 @@
       "kr": "전선 3개를 사용하여 태양광 패널 재배선하기",
       "ru": "Перемонтировать солнечную панель, используя 3 провода",
       "zh-CN": "使用3根电线重新连接太阳能板",
-      "ja": "ワイヤー3本を使って太陽光パネルを配線し直す",
+      "ja": "ワイヤーを3本使ってソーラーパネルを配線し直す",
       "tr": "3 Kablo kullanarak güneş panelini yeniden kablola",
       "zh-TW": "使用3根電線重新連接太陽能板",
       "sr": "Ponovo poveži solarni panel koristeći 3 Žice",

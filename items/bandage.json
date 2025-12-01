@@ -5,7 +5,7 @@
     "de": "Verband",
     "fr": "Bandage",
     "es": "Venda",
-    "pt": "Bandagem",
+    "pt": "Atadura",
     "pl": "Bandaż",
     "no": "Bandasje",
     "da": "Bandage",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A medical item that gradually restores health over time.",
-    "de": "Ein medizinischer Gegenstand, der Gesundheit allmählich über Zeit wiederherstellt.",
+    "de": "Ein medizinischer Gegenstand, der allmählich Gesundheit wiederherstellt.",
     "fr": "Un objet médical qui restaure progressivement de la santé.",
     "es": "Un objeto médico que restaura gradualmente la salud con el tiempo.",
     "pt": "Um item médico que restaura gradualmente a vida ao longo do tempo.",
@@ -51,7 +51,7 @@
   "effects": {
     "Healing": {
       "en": "Healing",
-      "de": "Heilung",
+      "de": "Heilen",
       "fr": "Soins",
       "es": "Curación",
       "pt": "Cura",
@@ -118,5 +118,8 @@
   "recipe": {
     "fabric": 5
   },
-  "craftBench": ["workbench", "med_station"]
+  "craftBench": [
+    "workbench",
+    "med_station"
+  ]
 }

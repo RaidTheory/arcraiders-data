@@ -5,7 +5,7 @@
     "en": "Sparks Fly",
     "de": "Fliegende Funken",
     "fr": "Pluie d'étincelles",
-    "es": "Chispas",
+    "es": "Las chispas vuelan",
     "pt": "Faíscas",
     "pl": "Iskry lecą",
     "no": "Gnister flyr",
@@ -24,7 +24,7 @@
   "trader": "Apollo",
   "description": {
     "en": "Those Hornet stings can really mess you up, if you're unlucky. And even if you destroy one, you're still wasting a ton of ammo. I've been working on a more elegant way to bring them down. Care to make some sparks fly?",
-    "de": "Stiche von diesen Hornissen können einem echt übel mitspielen, wenn man Pech hat. Und selbst wenn man eine erledigt, bergeudet man dabei eine Menge Munition. Ich arbeite an einer eleganteren Lösung, um sie vom Himmel zu holen. Willst du Funken fliegen lassen?",
+    "de": "Diese Hornet-Stiche können dich wirklich übel zurichten, wenn du Pech hast. Und selbst wenn du eine zerstörst, verschwendest du immer noch eine Menge Munition. Ich habe an einer eleganteren Methode gearbeitet, sie herunterzuholen. Lust, ein paar Funken fliegen zu lassen?",
     "fr": "Ces piqûres de Frelons peuvent vraiment vous gâcher la vie. Et même si vous en détruisez un, vous gaspillerez une tonne de munitions. J'ai réfléchi à une façon plus élégante de les éliminer. Ça vous dit de faire des étincelles ?",
     "es": "Esos aguijones de Avispón pueden hacerte mucho daño si no tienes suerte. E incluso si destruyes uno, sigues desperdiciando un montón de munición. He estado trabajando en una forma más elegante de derribarlos. ¿Te apetece hacer saltar algunas chispas?",
     "pt": "Essas picadas de Hornet podem te estragar muito, se você tiver azar. E mesmo se você destruir um, ainda está desperdiçando um monte de munição. Tenho trabalhado numa forma mais elegante de derrubá-los. Quer fazer algumas faíscas voarem?",
@@ -57,7 +57,7 @@
       "kr": "Trigger 'Nade 또는 Snap Blast로 Hornet 파괴",
       "ru": "Уничтожить Hornet с помощью Trigger 'Nade или Snap Blast",
       "zh-CN": "使用触发手雷或瞬爆摧毁黄蜂",
-      "ja": "Trigger 'NadeまたはSnap BlastでHornetを破壊する",
+      "ja": "トリガー・グレネードでホーネットを破壊する",
       "tr": "Trigger 'Nade veya Snap Blast ile bir Hornet'i yok et",
       "zh-TW": "使用觸發手雷或瞬爆摧毀黃蜂",
       "sr": "Uništi Hornet sa Trigger 'Nade ili Snap Blast",
@@ -89,6 +89,8 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss8a"],
+  "previousQuestIds": [
+    "ss8a"
+  ],
   "nextQuestIds": []
 }

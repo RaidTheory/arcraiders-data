@@ -2,7 +2,7 @@
   "id": "looting_mk1",
   "name": {
     "en": "Looting Mk. 1",
-    "de": "Plünderung Mk. 1",
+    "de": "Beute-Marke 1",
     "fr": "Butin 1",
     "es": "Saqueo Ver.1",
     "pt": "Saque Mk. 1",
@@ -11,7 +11,7 @@
     "da": "Plyndring Mk. 1",
     "it": "Saccheggio Mk. 1",
     "ru": "Добыча 1",
-    "ja": "ルーティング Mk. 1",
+    "ja": "略奪MK1",
     "zh-TW": "掠奪 Mk. 1",
     "uk": "Мародерство Mk. 1",
     "zh-CN": "掠夺 Mk. 1",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Basic looting augment. More backpack slots and weight capacity, but low defensive and tactical capability.",
-    "de": "Grundlegende Plünderungsverbesserung. Mehr Rucksackplätze und Tragfähigkeit, aber geringe Verteidigungs- und Taktikfähigkeit.",
+    "de": "Basis-Plünder-Augment. Mehr Rucksackplätze und Gewichtskapazität, aber nur geringste Verteidigungs- und taktische Kapazität.",
     "fr": "Augmentation de pillage basique. Plus d'emplacements de sac à dos et de capacité de poids, mais faible capacité défensive et tactique.",
     "es": "Aumento de saqueo básico. Más ranuras de mochila y capacidad de peso, pero baja capacidad defensiva y táctica.",
     "pt": "Aumento de saque básico. Mais espaços de mochila e capacidade de peso, mas baixa capacidade defensiva e tática.",
@@ -72,7 +72,7 @@
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
-      "de": "Max. Ausrüstungsgewicht",
+      "de": "Max. Loadout-Gewicht",
       "fr": "Poids max. de l'équipement",
       "es": "Peso máx. de equipamiento",
       "pt": "Peso máx. de equipamento",

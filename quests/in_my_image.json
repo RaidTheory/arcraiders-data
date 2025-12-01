@@ -1,11 +1,11 @@
 {
   "id": "12_in_my_image",
-  "updatedAt": "11/14/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "In My Image",
     "de": "Mein Ebenbild",
     "fr": "À mon image",
-    "es": "A mi imagen",
+    "es": "A mi semejanza",
     "pt": "À Minha Imagem",
     "pl": "Na mój obraz",
     "no": "I mitt bilde",
@@ -15,12 +15,15 @@
     "kr": "내 모습대로",
     "ru": "По моему образу",
     "zh-CN": "按我的样子",
-    "ja": "私の姿に",
+    "ja": "同じ姿",
     "tr": "Benim Suretimde",
     "zh-TW": "按我的樣子",
     "sr": "Po Mom Liku",
     "hr": "Po Mom Liku"
   },
+  "map": [
+    "stella_montis"
+  ],
   "trader": "Lance",
   "description": {
     "en": "I just treated one of the first Raiders who visited Stella Montis, and she said that she saw... others. Androids, very much like me.",
@@ -65,7 +68,7 @@
     },
     {
       "en": "Find and search 3 Androids",
-      "de": "Finde und durchsuche 3 Androiden",
+      "de": "Finde und durchsuche 3 Andoiden",
       "fr": "Trouver et fouiller 3 androïdes",
       "es": "Encuentra y registra 3 androides",
       "pt": "Encontre e revide 3 androides",
@@ -77,7 +80,7 @@
       "kr": "안드로이드 3기를 찾아 수색하기",
       "ru": "Найти и обыскать 3 андроида",
       "zh-CN": "找到并搜查3个安卓体",
-      "ja": "アンドロイドを3体見つけて捜索する",
+      "ja": "3のアンドロイドを探して調べる",
       "tr": "3 Android bul ve ara",
       "zh-TW": "找到並搜查3個安卓體",
       "sr": "Pronađi i pretresi 3 Androida",

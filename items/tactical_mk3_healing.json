@@ -2,7 +2,7 @@
   "id": "tactical_mk3_healing",
   "name": {
     "en": "Tactical Mk. 3 (Healing)",
-    "de": "Taktisch Mk. 3 (Heilung)",
+    "de": "Taktisch-Marke 3 (Heilung)",
     "fr": "Tactique 3 (soins)",
     "es": "Táctico Ver. 3 (Curación)",
     "pt": "Tático Mk. 3 (Cura)",
@@ -11,7 +11,7 @@
     "da": "Taktisk Mk. 3 (Helbredelse)",
     "it": "Tattico Mk. 3 (Guarigione)",
     "ru": "Стратегия 3 (Лечение)",
-    "ja": "タクティカル Mk. 3 (治療)",
+    "ja": "戦術MK3 (回復)",
     "zh-TW": "戰術型 Mk. 3 (治療)",
     "uk": "Тактичний Mk. 3 (Лікування)",
     "zh-CN": "战术型 Mk. 3 (治疗)",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A healing-focused augment which adds extra slots for healing items. When revived from being downed, releases a healing cloud that restores 20 health over 10 seconds. Has a 30-second cooldown.",
-    "de": "Ein auf Heilung fokussiertes Augment, das zusätzliche Slots für Heilgegenstände hinzufügt. Setzt beim Wiederbeleben eine Heilwolke frei, die 10 Sekunden lang 20 Gesundheit wiederherstellt. Hat eine Abklingzeit von 30 Sekunden.",
+    "de": "Ein heilungsorientiertes Aufment, das zusätzliche Plätze für heilende Gegenstände hinzufügt. Wenn du entkräftet bist und wiederbelebt wirst, wird eine Heilungswolke ausgelöst, die über 10 Sekunden 20 Gesundheit wiederherstellt. Hat eine Abklingzeit von 30 Sekunden.",
     "fr": "Une amélioration axée sur les soins qui ajoute des emplacements supplémentaires pour les objets de soin. Lors de la réanimation, libère un nuage de soin qui restaure 20 points de vie sur 10 secondes. A un temps de recharge de 30 secondes.",
     "es": "Un aumento centrado en la curación que añade ranuras adicionales para objetos de curación. Al ser reanimado, libera una nube curativa que restaura 20 de salud durante 10 segundos. Tiene un tiempo de reutilización de 30 segundos.",
     "pt": "Um aumento focado em cura que adiciona espaços extras para itens de cura. Ao ser reanimado, libera uma nuvem curativa que restaura 20 de vida ao longo de 10 segundos. Tem um tempo de recarga de 30 segundos.",
@@ -70,7 +70,7 @@
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
-      "de": "Max. Ausrüstungsgewicht",
+      "de": "Max. Loadout-Gewicht",
       "fr": "Poids max. de l'équipement",
       "es": "Peso máximo del equipamiento",
       "pt": "Peso máximo do equipamento",

@@ -2,8 +2,8 @@
   "id": "gas_grenade_trap",
   "name": {
     "en": "Gas Grenade Trap",
-    "de": "Gasgranaten-Falle",
-    "fr": "Piège à grenade à gaz",
+    "de": "Laserfalle: Gas",
+    "fr": "Piège à Grenade à Gaz",
     "es": "Trampa de granada de gas",
     "pt": "Armadilha de granada de gás",
     "pl": "Pułapka z granatem gazowym",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A laser trip wire that detonates a Gas Grenade.",
-    "de": "Ein Laser-Stolperdraht, der eine Gasgranate zündet.",
+    "de": "Ein Laser-Stolperdraht, der eine Gasgranate detonieren lässt.",
     "fr": "Un fil laser qui fait exploser une grenade à gaz.",
     "es": "Un cable trampa láser que detona una granada de gas.",
     "pt": "Um fio de disparo a laser que detona uma granada de gás.",

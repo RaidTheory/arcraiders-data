@@ -2,8 +2,8 @@
   "id": "launcher_ammo_blueprint",
   "name": {
     "en": "Launcher Ammo (Hullcracker) Blueprint",
-    "de": "Werfer-Munition (Hullcracker) Blaupause",
-    "fr": "Schéma de munitions de lanceur (Brise-fuselage)",
+    "de": "Bauplan: Werfermunition (Hüllenbrecher)",
+    "fr": "Schéma de Munitions de Lanceur (Brise-fuselage)",
     "es": "Plano de munición de lanzador (Partecascos)",
     "pt": "Projeto de munição de lançador (Hullcracker)",
     "pl": "Projekt amunicji do wyrzutni (Hullcracker)",
@@ -11,7 +11,7 @@
     "da": "Kastervåben-ammunition (Hullcracker) tegning",
     "it": "Progetto munizioni lanciatore (Hullcracker)",
     "ru": "Чертёж боеприпасов для гранатомёта (Hullcracker)",
-    "ja": "ランチャー弾薬（Hullcracker）設計図",
+    "ja": "ランチャー弾薬（ハルクラッカー）設計図",
     "zh-TW": "發射器彈藥（Hullcracker）藍圖",
     "uk": "Креслення боєприпасів для гранатомета (Hullcracker)",
     "zh-CN": "发射器弹药（Hullcracker）蓝图",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Anti-ARC payloads used mainly by the Hullcracker.",
-    "de": "Anti-ARC-Nutzlasten, die hauptsächlich vom Hullcracker verwendet werden.",
+    "de": "Anti-ARC-Munition, wird hauptsächlich für den Hüllenbrecher verwendet. Kompatibel mit: Hüllenbrecher",
     "fr": "Charges anti-ARC utilisées principalement par le Brise-fuselage.",
     "es": "Cargas anti-ARC usadas principalmente por el Partecascos.",
     "pt": "Cargas anti-ARC usadas principalmente pelo Hullcracker.",

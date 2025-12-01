@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Used to craft medical supplies and shields. Can be used to slowly restore small amounts of health.",
-    "de": "Wird zur Herstellung von medizinischen Vorräten und Schilden verwendet. Kann verwendet werden, um langsam kleine Mengen an Gesundheit wiederherzustellen.",
+    "de": "Wird zur Herstellung von medizinischen Objekten und Schilden verwendet. Zur Herstellung von: Verband, Strapazierfähiges Stoffstück. Kann zur allmählichen Regeneration einer kleinen Menge Gesundheit benutzt werden.",
     "fr": "Permet de fabriquer des fournitures médicales et des boucliers. Peut être utilisé pour restaurer lentement de petites quantités de santé.",
     "es": "Se usa para fabricar suministros médicos y escudos. Puede usarse para restaurar lentamente pequeñas cantidades de salud.",
     "pt": "Usado para fabricar suprimentos médicos e escudos. Pode ser usado para restaurar lentamente pequenas quantidades de saúde.",
@@ -51,7 +51,7 @@
   "effects": {
     "Healing": {
       "en": "Healing",
-      "de": "Heilung",
+      "de": "Heilen",
       "fr": "Soins",
       "es": "Curación",
       "pt": "Cura",
@@ -93,7 +93,7 @@
     },
     "Use Time": {
       "en": "Use Time",
-      "de": "Nutzungszeit",
+      "de": "Verwendungszeit",
       "fr": "Temps d'utilisation",
       "es": "Tiempo de uso",
       "pt": "Tempo de uso",

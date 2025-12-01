@@ -2,15 +2,15 @@
   "id": "vertical_grip_iii",
   "name": {
     "en": "Vertical Grip III",
-    "de": "Vertikalgriff III",
-    "fr": "Poignée verticale III",
+    "de": "Vertikaler Griff III",
+    "fr": "Poignée Verticale III",
     "es": "Empuñadura Vertical III",
     "pt": "Empunhadura Vertical III",
     "pl": "Chwyt Pionowy III",
     "no": "Vertikalt Grep III",
     "da": "Lodret Greb III",
     "it": "Impugnatura Verticale III",
-    "ja": "バーティカルグリップIII",
+    "ja": "縦グリップIII",
     "kr": "수직 손잡이 III",
     "zh-CN": "垂直握把III",
     "zh-TW": "垂直握把III",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Significantly reduces vertical recoil. Compatible with: Tempest, Kettle, Hullcracker, Venator, Il Toro",
-    "de": "Reduziert den vertikalen Rückstoß erheblich. Kompatibel mit: Tempest, Kettle, Hullcracker, Venator, Il Toro",
+    "de": "Verringert den vertikalen Rückstoß erheblich. Kompatibel mit: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "fr": "Réduit considérablement le recul vertical. Compatible avec : Tempête, Fondoir, Brise-fuselage, Venator, Il Toro",
     "es": "Reduce significativamente el retroceso vertical. Compatible con: Tempestad, Caldero, Partecascos, Venator, Il Toro",
     "pt": "Reduz significativamente o recuo vertical. Compatível com: Tempest, Kettle, Hullcracker, Venator, Il Toro",
@@ -47,7 +47,7 @@
   "effects": {
     "Reduced Vertical Recoil": {
       "en": "Reduced Vertical Recoil",
-      "de": "Reduzierter vertikaler Rückstoß",
+      "de": "Verringerter vertikaler Rückstoß",
       "fr": "Recul vertical réduit",
       "es": "Retroceso vertical reducido",
       "pt": "Recuo vertical reduzido",
@@ -68,7 +68,7 @@
     },
     "Reduced ADS Speed": {
       "en": "Reduced ADS Speed",
-      "de": "Reduzierte Zielgeschwindigkeit",
+      "de": "Verringerte Geschwindigkeit zum Zielen mit Visier",
       "fr": "Vitesse de visée réduite",
       "es": "Velocidad de apuntado reducida",
       "pt": "Velocidade de mira reduzida",

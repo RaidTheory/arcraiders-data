@@ -2,7 +2,7 @@
   "id": "hullcracker_ii",
   "name": {
     "en": "Hullcracker II",
-    "de": "Rumpfknacker II",
+    "de": "Hüllenbrecher II",
     "uk": "Корпусолом II",
     "ru": "Взломщик корпусов II",
     "zh-TW": "破殼者 II",
@@ -107,7 +107,7 @@
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
-      "de": "ARC-Rüstungsdurchdringung",
+      "de": "ARC-Panzerungsdurchdringung",
       "uk": "Пробиття броні ARC",
       "ru": "Пробитие брони ARC",
       "zh-TW": "ARC 護甲穿透",
@@ -164,7 +164,7 @@
   },
   "description": {
     "en": "Fires explosive projectiles that only detonate when hitting ARC.",
-    "de": "Feuert explosive Geschosse ab, die nur bei Treffern auf ARC detonieren.",
+    "de": "Schießt explosive Geschosse ab, die erst explodieren, wenn sie ARC treffen.",
     "uk": "Стріляє вибуховими снарядами, які детонують лише при влучанні в ARC.",
     "ru": "Стреляет разрывными снарядами, которые детонируют только при попадании в ARC.",
     "zh-TW": "發射爆炸性彈藥，僅在擊中 ARC 時引爆。",

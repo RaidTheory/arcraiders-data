@@ -11,7 +11,7 @@
     "da": "Ferro II",
     "it": "Ferro II",
     "ru": "Ферро II",
-    "ja": "Ferro II",
+    "ja": "フェロ II",
     "zh-TW": "Ferro II",
     "uk": "Ferro II",
     "zh-CN": "Ferro II",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Packs a punch, but must be reloaded between every shot.",
-    "de": "Schlägt hart zu, muss aber nach jedem Schuss nachgeladen werden.",
+    "de": "Gute Durchschlagskraft, muss aber nach jedem Schuss nachgeladen werden.",
     "fr": "Frappe fort, mais doit être rechargé entre chaque tir.",
     "es": "Golpea fuerte, pero debe recargarse entre cada disparo.",
     "pt": "Dá um soco forte, mas deve ser recarregado entre cada tiro.",
@@ -131,7 +131,7 @@
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
-      "de": "ARC-Rüstungsdurchdringung",
+      "de": "ARC-Panzerungsdurchdringung",
       "fr": "Pénétration d'armure ARC",
       "es": "Penetración de armadura ARC",
       "pt": "Penetração de armadura ARC",
@@ -151,7 +151,14 @@
       "value": "Strong"
     }
   },
+  "upgradeCost": {
+    "metal_parts": 7
+  },
+  "recyclesInto": {
+    "metal_parts": 4,
+    "simple_gun_parts": 3
+  },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "10/31/2025",
+  "updatedAt": "11/24/2025",
   "isWeapon": true
 }

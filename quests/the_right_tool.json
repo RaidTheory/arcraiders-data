@@ -15,7 +15,7 @@
     "kr": "적절한 도구",
     "ru": "Правильный инструмент",
     "zh-CN": "正确的工具",
-    "ja": "適切な道具",
+    "ja": "正しい道具",
     "tr": "Doğru Araç",
     "zh-TW": "正確的工具",
     "sr": "Pravi Alat",
@@ -23,8 +23,25 @@
   },
   "trader": "Tian Wen",
   "description": {
-    "de": "Du gehörst zu den Neuankömmlingen, oder? Ich brauche einen Freiwilligen, der dieses verbesserte Ferro ausprobiert - es sollte ARC-Panzerungen durchschneiden wie Butter. Baller Löcher in ein paar Maschinen und erstatte mir dann Bericht."
-  },  
+    "en": "You are one of the newcomers, right? I need a volunteer to test this upgraded Ferro  it should cut through ARC armor like butter. Put some holes in a few machines and then report back to me.",
+    "de": "Du gehörst zu den Neuankömmlingen, oder? Ich brauche einen Freiwilligen, der dieses verbesserte Ferro ausprobiert  es sollte ARC-Panzerungen durchschneiden wie Butter. Baller Löcher in ein paar Maschinen und erstatte mir dann Bericht.",
+    "fr": "Tu fais partie des nouveaux, n'est-ce pas ? J'ai besoin d'un volontaire pour tester ce Ferro amélioré  il devrait découper les armures ARC comme du beurre. Perce quelques machines et reviens me faire ton rapport.",
+    "es": "Eres de los recién llegados, ¿verdad? Necesito un voluntario para probar este Ferro mejorado; debería atravesar la armadura ARC como mantequilla. Haz algunos agujeros en unas cuantas máquinas y luego infórmame.",
+    "pt": "Você é um dos recém-chegados, certo? Preciso de um voluntário para testar este Ferro aprimorado  ele deve cortar armaduras ARC como manteiga. Encha algumas máquinas de balas e depois volte para me contar.",
+    "pl": "Jesteś jednym z nowoprzybyłych, prawda? Potrzebuję ochotnika, który przetestuje to ulepszone Ferro  powinno ciąć pancerz ARC jak masło. Zrób kilka dziur w maszynach, a potem zamelduj się u mnie.",
+    "no": "Du er en av de nyankomne, ikke sant? Jeg trenger en frivillig til å teste denne oppgraderte Ferroen  den burde skjære gjennom ARC-panser som smør. Fyll noen maskiner med hull og rapporter tilbake.",
+    "da": "Du er en af de nyankomne, ikke? Jeg har brug for en frivillig til at teste denne forbedrede Ferro  den burde skære gennem ARC-panser som smør. Skyd nogle huller i et par maskiner og rapporter så tilbage.",
+    "it": "Sei uno dei nuovi arrivati, giusto? Mi serve un volontario per provare questo Ferro potenziato  dovrebbe tagliare le armature ARC come il burro. Fai qualche buco in un paio di macchine e poi torna a riferire.",
+    "uk": "Ти з новоприбулих, так? Мені потрібен доброволець, щоб випробувати це покращене Ferro  воно має різати броню ARC, як масло. Зроби кілька дірок у машинах і потім доповідь мені.",
+    "kr": "신참 중 한 명이지? 이 개량된 페로를 시험할 자원봉사가 필요하다. ARC 장갑을 버터처럼 잘라낼 수 있을 거다. 몇 대의 기계에 구멍을 내고 나서 보고하러 와라.",
+    "ru": "Ты из новеньких, верно? Мне нужен доброволец, чтобы испытать этот улучшенный Ferro  он должен резать броню ARC как масло. Продырявь пару машин и потом доложи мне.",
+    "zh-CN": "你是新来的人，对吧？我需要一个志愿者来测试这把升级版的Ferro——它应该能像切黄油一样切开ARC装甲。把几台机器打成筛子，然后回来向我汇报。",
+    "ja": "新人の一人だな？ この改良型フェロを試してくれる志願者が必要だ。ARC装甲をバターのように切り裂けるはずだ。いくつかの機械に穴を開けて、後で報告に来い。",
+    "tr": "Yeni gelenlerden birisin, değil mi? Bu geliştirilmiş Ferro'yu deneyecek bir gönüllüye ihtiyacım var  ARC zırhını tereyağı gibi kesmeli. Birkaç makineyi delik deşik et ve sonra bana rapor ver.",
+    "zh-TW": "你是新來的吧？我需要一名志願者來測試這把強化過的 Ferro──理論上應該能像切奶油一樣切開 ARC 裝甲。把幾台機器打成蜂窩後再回來向我報告。",
+    "sr": "Ti si jedan od novajlija, zar ne? Treba mi dobrovoljac da isproba ovaj unapređeni Ferro  trebalo bi da seče ARC oklop kao puter. Izbuši par mašina i onda mi podnesi izveštaj.",
+    "hr": "Ti si jedan od novopridošlih, zar ne? Treba mi dobrovoljac koji će isprobati ovaj unaprijeđeni Ferro  trebao bi rezati ARC oklop kao maslac. Izbuši par strojeva i onda mi se javi s izvješćem."
+  },
   "objectives": [
     {
       "en": "Destroy a Fireball",
@@ -112,6 +129,10 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss5"],
-  "nextQuestIds": ["ss10"]
+  "previousQuestIds": [
+    "ss5"
+  ],
+  "nextQuestIds": [
+    "ss10"
+  ]
 }

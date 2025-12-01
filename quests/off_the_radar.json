@@ -15,7 +15,7 @@
     "kr": "레이더 밖으로",
     "ru": "Вне радара",
     "zh-CN": "脱离雷达",
-    "ja": "レーダー圏外",
+    "ja": "レーダー回避",
     "tr": "Radarın Dışında",
     "zh-TW": "脫離雷達",
     "sr": "Van Radara",
@@ -24,7 +24,7 @@
   "trader": "Shani",
   "description": {
     "de": "Der Schaden hier unten war ziemlich übel, aber die Infrastruktur oben hat es noch schlimmer erwischt. Ich hab noch einige Antennen, die seit dem Sturm nicht mehr funktionieren."
-  },  
+  },
   "objectives": [
     {
       "en": "Visit a Field Depot",
@@ -40,7 +40,7 @@
       "kr": "야전 보급소 방문",
       "ru": "Посетите полевое депо",
       "zh-CN": "访问野外补给站",
-      "ja": "フィールドデポを訪れる",
+      "ja": "フィールド貯蔵庫に向かう",
       "tr": "Bir Saha Deposunu ziyaret et",
       "zh-TW": "訪問野外補給站",
       "sr": "Posetite Terensko Skladište",
@@ -60,7 +60,7 @@
       "kr": "야전 보급소 지붕의 안테나 수리",
       "ru": "Отремонтируйте антенну на крыше полевого депо",
       "zh-CN": "修理野外补给站屋顶的天线",
-      "ja": "フィールドデポの屋根にあるアンテナを修理する",
+      "ja": "フィールド貯蔵庫の屋上のアンテナを修理する",
       "tr": "Saha Deposunun çatısındaki anteni onar",
       "zh-TW": "修理野外補給站屋頂的天線",
       "sr": "Popravite antenu na krovu Terenskog Skladišta",

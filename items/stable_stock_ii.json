@@ -2,8 +2,8 @@
   "id": "stable_stock_ii",
   "name": {
     "en": "Stable Stock II",
-    "de": "Stabiler Schaft II",
-    "fr": "Crosse stable II",
+    "de": "Stabiler Kolben II",
+    "fr": "Crosse Stable II",
     "es": "Culata estable II",
     "pt": "Coronha estável II",
     "pl": "Stabilna kolba II",
@@ -11,7 +11,7 @@
     "da": "Stabil kolbe II",
     "it": "Calcio stabile II",
     "ru": "Надежный приклад II",
-    "ja": "スタビライザーストック II",
+    "ja": "ステイブルストック II",
     "zh-TW": "穩定槍托 II",
     "uk": "Стабільний приклад II",
     "zh-CN": "稳定枪托 II",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Moderately improves dispersion & recoil recovery time.",
-    "de": "Verbessert mäßig Streuung und Rückstoßerholungszeit.",
+    "de": "Verringert die Zeit, in der du dich von Streuung und Rückstoß erholst, moderat.",
     "fr": "Améliore modérément la dispersion et le temps de récupération du recul.",
     "es": "Mejora moderadamente la dispersión y el tiempo de recuperación del retroceso.",
     "pt": "Melhora moderadamente a dispersão e o tempo de recuperação do recuo.",
@@ -79,7 +79,7 @@
     },
     "Reduced Recoil Recovery Time": {
       "en": "Reduced Recoil Recovery Time",
-      "de": "Reduzierte Rückstoßerholungszeit",
+      "de": "Verringerte Rückstoßerholungszeit",
       "fr": "Temps de récupération du recul réduit",
       "es": "Tiempo de recuperación del retroceso reducido",
       "pt": "Tempo de recuperação do recuo reduzido",
@@ -100,7 +100,7 @@
     },
     "Reduced Dispersion Recovery Time": {
       "en": "Reduced Dispersion Recovery Time",
-      "de": "Reduzierte Streuungserholungszeit",
+      "de": "Verringerte Streuungserholungszeit",
       "fr": "Temps de récupération de la dispersion réduit",
       "es": "Tiempo de recuperación de la dispersión reducido",
       "pt": "Tempo de recuperação da dispersão reduzido",

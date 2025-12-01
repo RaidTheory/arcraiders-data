@@ -11,7 +11,7 @@
     "da": "Burletta II",
     "it": "Burletta II",
     "ru": "Бурлетта II",
-    "ja": "ブルレッタ II",
+    "ja": "バーレッタ II",
     "zh-TW": "布雷塔 II",
     "uk": "Бурлетта II",
     "zh-CN": "布雷塔 II",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
-    "de": "Halbautomatische Pistole mit ordentlichem Schaden und Präzision. Kann so schnell abgefeuert werden, wie man den Abzug betätigen kann.",
+    "de": "Verursacht ordentlichen Schaden bei annehmbarer Genauigkeit.",
     "fr": "Pistolet semi-automatique avec des dégâts et une précision décents. Peut être tiré aussi vite que vous pouvez appuyer sur la gâchette.",
     "es": "Pistola semiautomática con daño y precisión decentes. Se puede disparar tan rápido como puedas apretar el gatillo.",
     "pt": "Pistola semiautomática com dano e precisão decentes. Pode ser disparada tão rápido quanto você conseguir puxar o gatilho.",
@@ -44,10 +44,14 @@
   "rarity": "Uncommon",
   "value": 5000,
   "weightKg": 4,
+  "upgradeCost": {
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  },
   "recyclesInto": {
     "mechanical_components": 2,
     "simple_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "11/24/2025"
 }

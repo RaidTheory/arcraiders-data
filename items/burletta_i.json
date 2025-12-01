@@ -11,7 +11,7 @@
     "da": "Burletta I",
     "it": "Burletta I",
     "ru": "Бурлетта I",
-    "ja": "ブルレッタ I",
+    "ja": "バーレッタ I",
     "zh-TW": "布雷塔 I",
     "uk": "Бурлетта I",
     "zh-CN": "布雷塔 I",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
-    "de": "Halbautomatische Pistole mit ordentlichem Schaden und Präzision. Kann so schnell abgefeuert werden, wie man den Abzug betätigen kann.",
+    "de": "Verursacht ordentlichen Schaden bei annehmbarer Genauigkeit.",
     "fr": "Pistolet semi-automatique avec des dégâts et une précision décents. Peut être tiré aussi vite que vous pouvez appuyer sur la gâchette.",
     "es": "Pistola semiautomática con daño y precisión decentes. Se puede disparar tan rápido como puedas apretar el gatillo.",
     "pt": "Pistola semiautomática com dano e precisão decentes. Pode ser disparada tão rápido quanto você conseguir puxar o gatilho.",
@@ -138,7 +138,7 @@
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
-      "de": "ARC-Rüstungsdurchdringung",
+      "de": "ARC-Panzerungsdurchdringung",
       "fr": "Pénétration d'armure ARC",
       "es": "Penetración de armadura ARC",
       "pt": "Penetração de armadura ARC",

@@ -1,6 +1,6 @@
 {
   "id": "ss10x8",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "A Warm Place to Rest",
     "de": "Ein warmer Ort zum Ausruhen",
@@ -15,12 +15,15 @@
     "kr": "쉴 수 있는 따뜻한 곳",
     "ru": "Тёплое место для отдыха",
     "zh-CN": "温暖的休息之所",
-    "ja": "休息できる暖かい場所",
+    "ja": "暖かい休息場所",
     "tr": "Dinlenmek İçin Sıcak Bir Yer",
     "zh-TW": "溫暖的休息之所",
     "sr": "Toplo mesto za odmor",
     "hr": "Toplo mjesto za odmor"
   },
+  "map": [
+    "buried_city"
+  ],
   "trader": "Apollo",
   "description": {
     "en": "A customer of mine saw a family taking cover in an old encampment in Buried City. I'll pay anyone who manages to find them and escort them back to safety.",
@@ -57,7 +60,7 @@
       "kr": "버려진 고속도로 야영지를 찾으세요",
       "ru": "Найдите заброшенный лагерь у шоссе",
       "zh-CN": "找到废弃的高速公路营地",
-      "ja": "放棄されたハイウェイキャンプを見つける",
+      "ja": "放棄された高速道路の野営地を見つける",
       "tr": "Terk Edilmiş Otoyol Kampını bulun",
       "zh-TW": "找到廢棄的高速公路營地",
       "sr": "Pronađi napušteni logor na autoputu",
@@ -77,7 +80,7 @@
       "kr": "생존자의 흔적을 찾으세요",
       "ru": "Ищите любые признаки выживших",
       "zh-CN": "搜寻任何幸存者的迹象",
-      "ja": "生存者の痕跡を探す",
+      "ja": "生存者の痕跡を探した",
       "tr": "Hayatta kalanların herhangi bir izini arayın",
       "zh-TW": "搜尋任何倖存者的跡象",
       "sr": "Traži znakove preživelih",

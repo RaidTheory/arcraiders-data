@@ -1,6 +1,6 @@
 {
   "id": "ss10x20",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Armored Transports",
     "de": "Gepanzerte Transporter",
@@ -15,12 +15,15 @@
     "kr": "장갑 수송대",
     "ru": "Бронированные транспорты",
     "zh-CN": "装甲运输队",
-    "ja": "装甲輸送車",
+    "ja": "装甲車両",
     "tr": "Zırhlı Nakliyeler",
     "zh-TW": "裝甲運輸隊",
     "sr": "Oklopni Transporti",
     "hr": "Oklopni Transporti"
   },
+  "map": [
+    "the_blue_gate"
+  ],
   "trader": "Shani",
   "description": {
     "en": "Ever since we expanded the tunnels to the Blue Gate, some rare pieces have started appearing on the black market.\n\nMeanwhile, I'm stuck here peddling battered old Rattlers. If I don't find new supply lines, I'll be left in the dust.",
@@ -57,7 +60,7 @@
       "kr": "검문소에 도달하기",
       "ru": "Добраться до контрольно-пропускного пункта",
       "zh-CN": "到达检查点",
-      "ja": "チェックポイントに到達する",
+      "ja": "チェックポイントに向かう",
       "tr": "Kontrol Noktasına Ulaş",
       "zh-TW": "到達檢查點",
       "sr": "Dođi do Kontrolnog Punkta",
@@ -77,7 +80,7 @@
       "kr": "경비 초소에서 장갑 순찰대 키 카드 찾기",
       "ru": "Обыскать караульные будки в поисках ключ-карты бронированного патруля",
       "zh-CN": "搜索警卫室寻找装甲巡逻钥匙卡",
-      "ja": "警備小屋で装甲パトロールキーカードを探す",
+      "ja": "衛兵の小屋で装甲パトロール車のキーカードを探す",
       "tr": "Zırhlı Devriye Anahtar Kartı için Nöbet Kulübelerini Ara",
       "zh-TW": "搜索警衛室尋找裝甲巡邏鑰匙卡",
       "sr": "Pretraži straže za Ključ Karticu Oklopne Patrole",
@@ -97,7 +100,7 @@
       "kr": "블루 게이트 검문소 근처의 교통 터널에 도달하기",
       "ru": "Добраться до транспортного туннеля возле КПП Синих Ворот",
       "zh-CN": "到达蓝门检查点附近的交通隧道",
-      "ja": "ブルーゲートチェックポイント近くの交通トンネルに到達する",
+      "ja": "ブルーゲート・チェックポイントの近くの交通トンネルに向かう",
       "tr": "Mavi Kapı Kontrol Noktası yakınındaki Trafik Tüneline Ulaş",
       "zh-TW": "到達藍門檢查點附近的交通隧道",
       "sr": "Dođi do Saobraćajnog Tunela blizu Kontrolnog Punkta Plave Kapije",
@@ -117,7 +120,7 @@
       "kr": "장갑 순찰차의 뒷문을 찾아 잠금 해제하기",
       "ru": "Найти и открыть заднюю дверь бронированного патрульного автомобиля",
       "zh-CN": "找到并解锁装甲巡逻车的后门",
-      "ja": "装甲パトロールカーの後部ドアを見つけて解錠する",
+      "ja": "装甲パトロールカーの後部ドアを見つけて開ける",
       "tr": "Zırhlı devriye aracının arka kapısını bul ve kilidi aç",
       "zh-TW": "找到並解鎖裝甲巡邏車的後門",
       "sr": "Pronađi i otključaj zadnja vrata oklopnog patrolnog vozila",

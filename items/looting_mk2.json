@@ -2,7 +2,7 @@
   "id": "looting_mk2",
   "name": {
     "en": "Looting Mk. 2",
-    "de": "Plünderung Mk. 2",
+    "de": "Beute-Marke 2",
     "fr": "Butin 2",
     "es": "Saqueo Ver. 2",
     "pt": "Saque Mk. 2",
@@ -11,7 +11,7 @@
     "da": "Plyndring Mk. 2",
     "it": "Saccheggio Mk. 2",
     "ru": "Добыча 2",
-    "ja": "ルーティング Mk. 2",
+    "ja": "略奪MK2",
     "zh-TW": "掠奪 Mk. 2",
     "uk": "Мародерство Mk. 2",
     "zh-CN": "掠夺 Mk. 2",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Significantly increases looting potential; adds slots for trinkets. Automatically throws off attached Ticks after 0.5s.",
-    "de": "Erhöht das Plünderungspotenzial erheblich; fügt Plätze für Schmuckstücke hinzu. Wirft automatisch angehängte Zecken nach 0.5s ab.",
+    "de": "Erhöht das Plünderungspotenzial erheblich; fügt Plätze für Zierden hinzu. Wirft befestigte Zecken nach 1 Sek. ab.",
     "fr": "Augmente considérablement le potentiel de pillage ; ajoute des emplacements pour les bibelots. Éjecte automatiquement les Tiques attachées après 0.5s.",
     "es": "Aumenta significativamente el potencial de saqueo; añade ranuras para baratijas. Arroja automáticamente las garrapatas adheridas después de 0.5s.",
     "pt": "Aumenta significativamente o potencial de saque; adiciona espaços para bugigangas. Remove automaticamente carrapatos anexados após 0.5s.",
@@ -66,7 +66,7 @@
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
-      "de": "Max. Ausrüstungsgewicht",
+      "de": "Max. Loadout-Gewicht",
       "fr": "Poids max. de l'équipement",
       "es": "Peso máx. de equipamiento",
       "pt": "Peso máx. de equipamento",
@@ -114,6 +114,10 @@
   "recipe": {
     "electrical_components": 2,
     "magnet": 3
+  },
+  "recyclesInto": {
+    "magnet": 1,
+    "electrical_components": 1
   },
   "craftBench": "equipment_bench"
 }

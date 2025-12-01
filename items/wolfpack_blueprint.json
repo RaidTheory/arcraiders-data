@@ -2,8 +2,8 @@
   "id": "wolfpack_blueprint",
   "name": {
     "en": "Wolfpack Blueprint",
-    "de": "Wolfpack-Bauplan",
-    "fr": "Schéma Wolfpack",
+    "de": "Bauplan: Wolfpack",
+    "fr": "Schéma de Meute",
     "es": "Plano Wolfpack",
     "pt": "Projeto Wolfpack",
     "pl": "Projekt Wolfpack",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
-    "de": "Eine ferngesteuerte Granate, die an Oberflächen und ARC haftet und bei Auslösung explosiven Schaden verursacht.",
+    "de": "Eine Granate, die sich in mehrere zielsuchende Raketen spaltet, welche auf ARC zufliegen und beim Aufprall Explosionsschaden verursachen.",
     "fr": "Une grenade à détonation à distance qui peut adhérer aux surfaces et aux ARC, infligeant des dégâts explosifs lorsqu'elle est déclenchée.",
     "es": "Una granada de detonación remota que puede adherirse a superficies y ARC, causando daño explosivo al activarse.",
     "pt": "Uma granada de detonação remota que pode grudar em superfícies e ARC, causando dano explosivo quando acionada.",

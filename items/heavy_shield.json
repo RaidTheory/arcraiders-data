@@ -3,7 +3,7 @@
   "name": {
     "en": "Heavy Shield",
     "de": "Schwerer Schild",
-    "fr": "Bouclier lourd",
+    "fr": "Bouclier Lourd",
     "es": "Escudo pesado",
     "pt": "Escudo pesado",
     "pl": "Ciężka tarcza",
@@ -11,7 +11,7 @@
     "da": "Tungt skjold",
     "it": "Scudo pesante",
     "ru": "Тяжелый щит",
-    "ja": "ヘビーシールド",
+    "ja": "大型シールド",
     "zh-TW": "重型護盾",
     "uk": "Важкий щит",
     "zh-CN": "重型护盾",
@@ -24,7 +24,7 @@
   "rarity": "Epic",
   "description": {
     "en": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility.",
-    "de": "Ein schwerer Schild, der einen großen Teil des eingehenden Schadens blockiert, aber erhebliche Mobilitätskosten verursacht.",
+    "de": "Ein schwerer Schild, der einen Großteil des eingehenden Schadens abwehrt, worunter allerdings die Mobilität deutlich leidet.",
     "fr": "Un bouclier lourd qui bloque une grande portion des dégâts entrants, mais entraîne un coût significatif en mobilité.",
     "es": "Un escudo pesado que bloquea una gran porción del daño entrante, pero conlleva un coste significativo de movilidad.",
     "pt": "Um escudo pesado que bloqueia uma grande porção do dano recebido, mas acarreta um custo significativo de mobilidade.",
@@ -93,7 +93,7 @@
     },
     "Damage Reduction": {
       "en": "Damage Reduction",
-      "de": "Schadensreduzierung",
+      "de": "Schadensreduktion",
       "fr": "Réduction des dégâts",
       "es": "Reducción de daño",
       "pt": "Redução de dano",
@@ -114,7 +114,7 @@
     },
     "15% Reduced Movement Speed": {
       "en": "15% Reduced Movement Speed",
-      "de": "15% reduzierte Bewegungsgeschwindigkeit",
+      "de": "15% verringerte Bewegungsgeschwindigkeit",
       "fr": "Vitesse de déplacement réduite de 15%",
       "es": "Velocidad de movimiento reducida un 15%",
       "pt": "Velocidade de movimento reduzida em 15%",

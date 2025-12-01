@@ -2,8 +2,8 @@
   "id": "shrapnel_grenade",
   "name": {
     "en": "Shrapnel Grenade",
-    "de": "Splittergranate",
-    "fr": "Grenade à fragmentation",
+    "de": "Schrapnellgranate",
+    "fr": "Grenade à Éclats",
     "es": "Granada de metralla",
     "pt": "Granada de estilhaços",
     "pl": "Granat odłamkowy",
@@ -11,7 +11,7 @@
     "da": "Splintgranat",
     "it": "Granata a frammentazione",
     "ru": "Осколочная граната",
-    "ja": "シュラプネルグレネード",
+    "ja": "シャープネル・グレネード",
     "zh-TW": "破片手榴彈",
     "uk": "Осколкова граната",
     "zh-CN": "破片手榴弹",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation. Weak against ARC armor plating",
-    "de": "Eine provisorische Zündergranate, die bei der Detonation in rasiermesserscharfe Splitter zerbirst. Schwach gegen ARC-Panzerung",
+    "de": "Eine improvisierte Zündgranate, die bei Detonation in messerscharfe Fragmente zerbirst. Schwach gegen ARC-Panzerung.",
     "fr": "Une grenade à fusée artisanale qui éclate en fragments tranchants lors de la détonation. Faible contre le blindage ARC",
     "es": "Una granada de mecha improvisada que estalla en fragmentos afilados al detonar. Débil contra el blindaje ARC",
     "pt": "Uma granada de fusível improvisada que explode em fragmentos afiados na detonação. Fraca contra blindagem ARC",

@@ -5,7 +5,7 @@
     "en": "With a Trace",
     "de": "Mit einer Spur",
     "fr": "Avec une trace",
-    "es": "Con un rastro",
+    "es": "Buscando un rastro",
     "pt": "Com um rastro",
     "pl": "Ze śladem",
     "no": "Med et spor",
@@ -24,7 +24,7 @@
   "trader": "Shani",
   "description": {
     "en": "That downed machine... We weren't the ones who did that. We know that there are stray survivors out there, but this? This goes far beyond a single person.",
-    "de": "Diese tunergeholte Maschine... Wir waren das nicht. Wir wissen, dass es da draußen den einen oder anderen Überlebenden gibt, aber das? Da steckt mehr als einer dahinter.",
+    "de": "Diese runtergeholte Maschine... Wir waren das nicht. Wir wissen, dass es da draußen den ein oder anderen Überlebenden gibt, aber das? Da steckt mehr als einer dahinter.",
     "fr": "Cette machine abattue... Ce n'est pas nous qui avons fait ça. Nous savons qu'il y a des survivants isolés là-bas, mais ça ? Ça va bien au-delà d'une seule personne.",
     "es": "Esa máquina derribada... No fuimos nosotros quienes hicimos eso. Sabemos que hay supervivientes dispersos por ahí, pero ¿esto? Esto va mucho más allá de una sola persona.",
     "pt": "Aquela máquina abatida... Não fomos nós que fizemos isso. Sabemos que há sobreviventes dispersos por aí, mas isso? Isso vai muito além de uma única pessoa.",
@@ -138,7 +138,5 @@
   "previousQuestIds": [
     "ss11a"
   ],
-  "nextQuestIds": [
-    "ss10x20"
-  ]
+  "nextQuestIds": []
 }

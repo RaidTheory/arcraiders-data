@@ -2,8 +2,8 @@
   "id": "trigger_nade_blueprint",
   "name": {
     "en": "Trigger Nade Blueprint",
-    "de": "Auslösegranaten-Bauplan",
-    "fr": "Schéma de grenade à déclenchement",
+    "de": "Bauplan: Abzuggranate",
+    "fr": "Schéma de Grenade à Déclenchement",
     "es": "Plano de Granada de gatillo",
     "pt": "Projeto de granada de ativação",
     "pl": "Projekt granatu wyzwalającego",
@@ -11,7 +11,7 @@
     "da": "Udløsergranattegning",
     "it": "Progetto granata ad attivazione",
     "ru": "Чертеж — Триггер-граната",
-    "ja": "トリガーグレネード設計図",
+    "ja": "トリガー・グレネード設計図",
     "zh-TW": "觸發手榴彈藍圖",
     "uk": "Креслення тригерної гранати",
     "zh-CN": "触发手榴弹蓝图",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
-    "de": "Eine ferngesteuerte Granate, die an Oberflächen und ARC haftet und bei Auslösung explosiven Schaden verursacht.",
+    "de": "Eine ferngezündete Granate, die an Oberflächen und ARC haften bleibt und bei Zündung Explosionsschaden verursacht.",
     "fr": "Une grenade à détonation à distance qui peut adhérer aux surfaces et aux ARC, infligeant des dégâts explosifs lorsqu'elle est déclenchée.",
     "es": "Una granada de detonación remota que puede adherirse a superficies y ARC, causando daño explosivo al activarse.",
     "pt": "Uma granada de detonação remota que pode grudar em superfícies e ARC, causando dano explosivo quando acionada.",

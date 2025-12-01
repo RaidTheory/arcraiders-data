@@ -2,8 +2,8 @@
   "id": "extended_medium_mag_i",
   "name": {
     "en": "Extended Medium Mag I",
-    "de": "Erweitertes mittleres Magazin I",
-    "fr": "Chargeur moyen étendu I",
+    "de": "Erweitertes mittelschweres Magazin I",
+    "fr": "Chargeur Moyen Étendu I",
     "es": "Cargador mediano extendido I",
     "pt": "Carregador médio estendido I",
     "pl": "Rozszerzony średni magazynek I",
@@ -11,7 +11,7 @@
     "da": "Udvidet mellemstort magasin I",
     "it": "Caricatore medio esteso I",
     "ru": "Увеличенный магазин для оружия среднего калибра I",
-    "ja": "拡張ミディアムマガジンI",
+    "ja": "拡張中型弾倉 I",
     "zh-TW": "延長中型彈匣 I",
     "uk": "Розширений середній магазин I",
     "zh-CN": "延长中型弹匣 I",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Moderately extends the ammo capacity of compatible weapons that use medium ammo. Compatible with: Arpeggio, Renegade, Venator, Tempest, Torrente",
-    "de": "Erweitert die Munitionskapazität kompatibler Waffen mit mittlerer Munition mäßig. Kompatibel mit: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "de": "Erhöht die Munitionskapazität kompatibler Waffen mit mittlerer Munition geringfügig. Kompatibel mit: Arpeggio, Renegade, Venator, Tempest, Torrente",
     "fr": "Augmente modérément la capacité de munitions des armes compatibles utilisant des munitions moyennes. Compatible avec : Arpège, Renégat, Venator, Tempête, Torrente",
     "es": "Extiende moderadamente la capacidad de munición de armas compatibles que usan munición mediana. Compatible con: Arpeggio, Renegado, Venator, Tempestad, Torrente",
     "pt": "Estende moderadamente a capacidade de munição de armas compatíveis que usam munição média. Compatível com: Arpeggio, Renegade, Venator, Tempest, Torrente",
@@ -64,11 +64,11 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
-      "value": "+8"
+      "value": "+4"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_i.png",
-  "updatedAt": "11/11/2025",
+  "updatedAt": "11/22/2025",
   "recipe": {
     "plastic_parts": 6,
     "steel_spring": 1

@@ -2,8 +2,8 @@
   "id": "defibrillator_blueprint",
   "name": {
     "en": "Defibrillator Blueprint",
-    "de": "Defibrillator-Blaupause",
-    "fr": "Schéma de défibrillateur",
+    "de": "Bauplan: Defibrillator",
+    "fr": "Schéma de Défibrillateur",
     "es": "Plano de desfibrilador",
     "pt": "Projeto de desfibrilador",
     "pl": "Projekt defibrylatora",
@@ -11,7 +11,7 @@
     "da": "Hjertestarter-tegning",
     "it": "Progetto defibrillatore",
     "ru": "Чертеж — Дефибриллятор",
-    "ja": "除細動器の設計図",
+    "ja": "蘇生装置の設計図",
     "zh-TW": "除顫器藍圖",
     "uk": "Креслення дефібрилятора",
     "zh-CN": "除颤器蓝图",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "An injection that quickly revives downed raiders and restores some health.",
-    "de": "Eine Injektion, die niedergeschlagene Raider schnell wiederbelebt und etwas Gesundheit wiederherstellt.",
+    "de": "Eine Injektion, die entkräftete Raider schnell wiederbelebt und etwas Gesundheit wiederherstellt.",
     "fr": "Une injection qui permet de réanimer rapidement les Raiders à terre et de leur redonner quelques points de santé.",
     "es": "Una inyección que revive rápidamente a los saqueadores caídos y restaura algo de salud.",
     "pt": "Uma injeção que revive rapidamente saqueadores caídos e restaura um pouco de saúde.",

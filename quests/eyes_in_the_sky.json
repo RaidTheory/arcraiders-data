@@ -21,6 +21,11 @@
     "sr": "Oči na nebu",
     "hr": "Oči na nebu"
   },
+  "map": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "buried_city"
+  ],
   "trader": "Shani",
   "description": {
     "en": "Requires a zipline to get on top of the tower. Those LiDAR scanners you found work best when put in high locations. I've identified a few good spots around the Rust Belt; hope you're surefooted.",
@@ -57,7 +62,7 @@
       "kr": "댐 전장에서 관제탑 꼭대기에 LiDAR 스캐너 설치",
       "ru": "На Поле боя у дамбы установите LiDAR сканер на вершине диспетчерской вышки",
       "zh-CN": "在大坝战场的控制塔顶部安装LiDAR扫描仪",
-      "ja": "ダム戦場で管制塔の頂上にLiDARスキャナーを設置する",
+      "ja": "ダム戦場の管制塔の頂上にLiDARスキャナを設置する",
       "tr": "Baraj Savaş Alanı'nda Kontrol Kulesi'nin tepesine bir LiDAR Tarayıcı kur",
       "zh-TW": "在大壩戰場的控制塔頂部安裝LiDAR掃描儀",
       "sr": "Na bojnom polju brane, instalirajte LiDAR skener na vrhu kontrolnog tornja",
@@ -77,7 +82,7 @@
       "kr": "우주 기지에서 통신탑에 LiDAR 스캐너 설치",
       "ru": "На Космопорте установите LiDAR сканер на коммуникационной вышке",
       "zh-CN": "在太空港的通讯塔安装LiDAR扫描仪",
-      "ja": "スペースポートで通信塔にLiDARスキャナーを設置する",
+      "ja": "宇宙港の通信塔にLiDARスキャナを設置する",
       "tr": "Uzay Limanı'nda İletişim Kulesi'ne bir LiDAR Tarayıcı kur",
       "zh-TW": "在太空港的通訊塔安裝LiDAR掃描儀",
       "sr": "Na svemirskoj luci, instalirajte LiDAR skener na komunikacionom tornju",
@@ -97,7 +102,7 @@
       "kr": "매장된 도시에서 갤러리아 간판 위에 LiDAR 스캐너 설치",
       "ru": "В Погребённом городе установите LiDAR сканер на вывеске Галереи",
       "zh-CN": "在埋没之城的购物中心招牌顶部安装LiDAR扫描仪",
-      "ja": "埋もれた街でガレリアの看板の上にLiDARスキャナーを設置する",
+      "ja": "埋もれた街でガレリアの標識の上にLiDARスキャナを設置する",
       "tr": "Gömülü Şehir'de Galleria tabelasının üstüne bir LiDAR Tarayıcı kur",
       "zh-TW": "在埋沒之城的購物中心招牌頂部安裝LiDAR掃描儀",
       "sr": "U Zakopanom gradu, instalirajte LiDAR skener na vrhu natpisa Galleria",

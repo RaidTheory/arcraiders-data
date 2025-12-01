@@ -2,8 +2,8 @@
   "id": "vertical_grip_ii",
   "name": {
     "en": "Vertical Grip II",
-    "de": "Vertikalgriff II",
-    "fr": "Poignée verticale II",
+    "de": "Vertikaler Griff II",
+    "fr": "Poignée Verticale II",
     "es": "Empuñadura vertical II",
     "pt": "Punho Vertical II",
     "pl": "Chwyt pionowy II",
@@ -11,7 +11,7 @@
     "da": "Vertikalt greb II",
     "it": "Impugnatura verticale II",
     "ru": "Вертикальная рукоятка II",
-    "ja": "バーティカルグリップ II",
+    "ja": "縦グリップ II",
     "zh-TW": "垂直握把 II",
     "uk": "Вертикальна рукоятка II",
     "zh-CN": "垂直握把 II",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
-    "de": "Reduziert den vertikalen Rückstoß mäßig. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "de": "Verringert den vertikalen Rückstoß moderat. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "fr": "Réduit modérément le recul vertical. Compatible avec : Arpège, Ferro, Venator, Il Toro, Sutureur",
     "es": "Reduce moderadamente el retroceso vertical. Compatible con: Arpeggio, Ferro, Venator, Il Toro, Costurero",
     "pt": "Reduz moderadamente o recuo vertical. Compatível com: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
@@ -51,7 +51,7 @@
   "effects": {
     "Reduced Vertical Recoil": {
       "en": "Reduced Vertical Recoil",
-      "de": "Reduzierter vertikaler Rückstoß",
+      "de": "Verringerter vertikaler Rückstoß",
       "fr": "Recul vertical réduit",
       "es": "Retroceso vertical reducido",
       "pt": "Recuo vertical reduzido",

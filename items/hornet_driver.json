@@ -3,7 +3,7 @@
   "name": {
     "en": "Hornet Driver",
     "de": "Hornissentreiber",
-    "fr": "Pilote de frelon",
+    "fr": "Pilote de Frelon",
     "es": "Controlador de Avispón",
     "pt": "Propulsor de vespa",
     "pl": "Napęd szerszenia",
@@ -23,7 +23,7 @@
   "tip": "The Hornet Driver is a rare item is dropped by Hornets that can be recycled into crafting materials.",
   "description": {
     "en": "Can be thrown and will briefly stun nearby targets",
-    "de": "Kann geworfen werden und betäubt kurzzeitig nahe Ziele",
+    "de": "Kann zu ARC-Legierung recycelt werden. Kann geworfen werden, um nahe Ziele kurzfristig zu betäuben.",
     "fr": "Peut être lancé et étourdira brièvement les cibles proches",
     "es": "Puede lanzarse y aturdirá brevemente a los objetivos cercanos",
     "pt": "Pode ser arremessado e atordoará brevemente alvos próximos",
@@ -76,7 +76,7 @@
     },
     "Raider Stun Duration": {
       "en": "Raider Stun Duration",
-      "de": "Plünderer-Betäubungsdauer",
+      "de": "Raider-Betäubungsdauer",
       "fr": "Durée d'étourdissement des Raiders",
       "es": "Duración de aturdimiento de saqueador",
       "pt": "Duração de atordoamento de saqueador",

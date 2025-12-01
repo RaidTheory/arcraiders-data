@@ -1,6 +1,6 @@
 {
   "id": "ss11b2",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Communication Hideout",
     "de": "Kommunikationsversteck",
@@ -15,13 +15,15 @@
     "kr": "통신 은신처",
     "ru": "Коммуникационное убежище",
     "zh-CN": "通讯藏身处",
-    "ja": "通信拠点",
+    "ja": "通信アジト",
     "tr": "İletişim Sığınağı",
     "zh-TW": "通訊藏身處",
     "sr": "Komunikaciono skrovište",
     "hr": "Komunikacijsko skrovište"
   },
-  "map": "buried_city",
+  "map": [
+    "buried_city"
+  ],
   "trader": "Shani",
   "description": {
     "en": "We've been losing signals in some areas of Buried City—my guess is that our equipment is acting up. You're quite skilled with repairs, aren't you? Could you check it out?",
@@ -58,7 +60,7 @@
       "kr": "구시가지의 붉은 탑에 도달",
       "ru": "Добраться до Красной башни в Старом городе",
       "zh-CN": "到达旧城区的红塔",
-      "ja": "旧市街の赤い塔に到達する",
+      "ja": "古い町のレッド・タワーに辿り着いた",
       "tr": "Eski Kasaba'daki Kızıl Kule'ye ulaş",
       "zh-TW": "到達舊城區的紅塔",
       "sr": "Stigni do Crvenog tornja u Starom gradu",
@@ -78,7 +80,7 @@
       "kr": "분실된 배터리 셀 찾기",
       "ru": "Найти недостающий аккумуляторный элемент",
       "zh-CN": "找到丢失的电池单元",
-      "ja": "紛失したバッテリーセルを見つける",
+      "ja": "なくなった電池を見つける",
       "tr": "Kayıp pil hücresini bul",
       "zh-TW": "找到遺失的電池單元",
       "sr": "Pronađi nedostajuću baterijsku ćeliju",
@@ -98,7 +100,7 @@
       "kr": "발전기에 배터리 셀 설치",
       "ru": "Установить аккумуляторный элемент в генератор",
       "zh-CN": "将电池单元安装到发电机中",
-      "ja": "発電機にバッテリーセルを取り付ける",
+      "ja": "発電機にバッテリーを入れる",
       "tr": "Pil hücresini Jeneratöre tak",
       "zh-TW": "將電池單元安裝到發電機中",
       "sr": "Instaliraj baterijsku ćeliju u Generator",
@@ -138,7 +140,7 @@
       "kr": "붉은 탑 근처의 안테나 터미널 부팅",
       "ru": "Загрузить терминал антенны возле Красной башни",
       "zh-CN": "启动红塔附近的天线终端",
-      "ja": "赤い塔近くのアンテナ端末を起動する",
+      "ja": "レッド・タワー付近のアンテナ端末を起動する",
       "tr": "Kızıl Kule yakınındaki anten terminalini başlat",
       "zh-TW": "啟動紅塔附近的天線終端",
       "sr": "Pokreni antenski terminal blizu Crvenog tornja",

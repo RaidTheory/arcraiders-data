@@ -2,8 +2,8 @@
   "id": "expired_pasta",
   "name": {
     "en": "Expired Pasta",
-    "de": "Abgelaufene Pasta",
-    "fr": "Pâtes périmées",
+    "de": "Abgelaufene Nudeln",
+    "fr": "Pâtes Périmées",
     "es": "Pasta caducada",
     "pt": "Massa vencida",
     "pl": "Przeterminowany makaron",
@@ -11,7 +11,7 @@
     "da": "Udløbet pasta",
     "it": "Pasta scaduta",
     "ru": "Просроченные макароны",
-    "ja": "期限切れパスタ",
+    "ja": "期限切れのパスタ",
     "zh-TW": "過期義大利麵",
     "uk": "Прострочена паста",
     "zh-CN": "过期意大利面",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Way pasta its prime. Can (reluctantly) be consumed to restore small amounts of health.",
-    "de": "Weit über das Haltbarkeitsdatum hinaus. Kann (widerwillig) konsumiert werden, um kleine Mengen Gesundheit wiederherzustellen.",
+    "de": "Völlig abgelaufene Nudeln. Kann (widerstrebend) zur Regeneration einer kleinen Menge Gesundheit verzehrt werden.",
     "fr": "Bien au-delà de sa date de péremption. Peut (à contrecœur) être consommé pour restaurer de petites quantités de santé.",
     "es": "Muy pasada de fecha. Se puede consumir (a regañadientes) para restaurar pequeñas cantidades de salud.",
     "pt": "Muito além do prazo de validade. Pode (relutantemente) ser consumida para restaurar pequenas quantidades de saúde.",
@@ -48,7 +48,7 @@
   "effects": {
     "Healing": {
       "en": "Healing",
-      "de": "Heilung",
+      "de": "Heilen",
       "fr": "Soin",
       "es": "Curación",
       "pt": "Cura",
@@ -69,7 +69,7 @@
     },
     "Use Time": {
       "en": "Use Time",
-      "de": "Nutzungszeit",
+      "de": "Verwendungszeit",
       "fr": "Temps d'utilisation",
       "es": "Tiempo de uso",
       "pt": "Tempo de uso",

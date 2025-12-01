@@ -2,7 +2,7 @@
   "id": "vita_shot_blueprint",
   "name": {
     "en": "Vita Shot Blueprint",
-    "de": "Vita-Spritze Blaupause",
+    "de": "Bauplan: Vita-Spritze",
     "fr": "Schéma de Dose de Vita",
     "es": "Plano de Inyección de Vita",
     "pt": "Plano da Injeção Vita",
@@ -11,7 +11,7 @@
     "da": "Vita-indsprøjtning Tegning",
     "it": "Progetto Iniezione Vita",
     "ru": "Чертёж Вита-инъекции",
-    "ja": "ヴィタショット設計図",
+    "ja": "ヴィータ注射設計図",
     "zh-TW": "活力注射劑藍圖",
     "uk": "Креслення Віта-ін'єкції",
     "zh-CN": "活力注射剂蓝图",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A medical item that restores a large amount of health.",
-    "de": "Ein medizinischer Gegenstand, der eine große Menge Gesundheit wiederherstellt.",
+    "de": "Ein medizinischer Gegenstand, der viel Gesundheit wiederherstellt.",
     "fr": "Un objet médical qui restaure une grande quantité de santé.",
     "es": "Un objeto médico que restaura una gran cantidad de salud.",
     "pt": "Um item médico que restaura uma grande quantidade de saúde.",

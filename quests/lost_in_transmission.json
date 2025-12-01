@@ -1,6 +1,6 @@
 {
   "id": "ss11b",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Lost in Transmission",
     "de": "Übertragung unterbrochen",
@@ -15,12 +15,15 @@
     "kr": "전송 중 손실",
     "ru": "Потеряно при передаче",
     "zh-CN": "传输中断",
-    "ja": "送信途絶",
+    "ja": "途絶えた信号",
     "tr": "İletimde Kayıp",
     "zh-TW": "傳輸中斷",
     "sr": "Izgubljeno u prenosu",
     "hr": "Izgubljeno u prijenosu"
   },
+  "map": [
+    "the_spaceport"
+  ],
   "trader": "Shani",
   "description": {
     "en": "I have equipment set up at the Spaceport, to monitor ARC's movements. My connection broke down just now — I need you to head to the Control Towers and help me retrieve my logs.",
@@ -77,7 +80,7 @@
       "kr": "관제탑 A6 꼭대기에 도달",
       "ru": "Добраться до вершины диспетчерской вышки A6",
       "zh-CN": "到达控制塔A6的顶部",
-      "ja": "管制塔A6の頂上に到達する",
+      "ja": "管制塔A6の最上階に向かう",
       "tr": "Kontrol Kulesi A6'nın tepesine ulaş",
       "zh-TW": "到達控制塔A6的頂部",
       "sr": "Stigni do vrha Kontrolnog tornja A6",

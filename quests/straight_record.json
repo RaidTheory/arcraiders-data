@@ -1,6 +1,6 @@
 {
   "id": "ss10j",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Straight Record",
     "de": "Gute Aufnahme",
@@ -15,12 +15,15 @@
     "kr": "정확한 기록",
     "ru": "Чистая запись",
     "zh-CN": "清白记录",
-    "ja": "正確な記録",
+    "ja": "過去のしがらみ",
     "tr": "Temiz Kayıt",
     "zh-TW": "清白紀錄",
     "sr": "Čist Račun",
     "hr": "Čist Račun"
   },
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Celeste",
   "description": {
     "en": "Back during the First Wave, my squad and I built a trap out by the Dam. Overloaded a generator, turned it into a makeshift ARC trap. Now I hear Raiders are using it to cut comms and spring ambushes on each other. I need you to end it.",
@@ -57,7 +60,7 @@
       "kr": "Victory Ridge에 도달하세요",
       "ru": "Доберитесь до Победного хребта",
       "zh-CN": "到达胜利岭",
-      "ja": "ビクトリーリッジに到達する",
+      "ja": "ビクトリー・リッジに向かう",
       "tr": "Victory Ridge'e ulaşın",
       "zh-TW": "到達勝利嶺",
       "sr": "Stigni do Victory Ridgea",
@@ -77,7 +80,7 @@
       "kr": "오래된 EMP 함정을 찾으세요",
       "ru": "Найдите старую ЭМИ-ловушку",
       "zh-CN": "找到旧的EMP陷阱",
-      "ja": "古いEMP罠を見つける",
+      "ja": "古いEMPトラップを見つける",
       "tr": "Eski EMP tuzağını bulun",
       "zh-TW": "找到舊的EMP陷阱",
       "sr": "Pronađi staru EMP zamku",
@@ -97,7 +100,7 @@
       "kr": "첫 번째 전원 스위치를 비활성화하세요",
       "ru": "Отключите первый выключатель питания",
       "zh-CN": "禁用第一个电源开关",
-      "ja": "最初の電源スイッチを無効にする",
+      "ja": "1~3つの電源スイッチを切る",
       "tr": "İlk güç anahtarını devre dışı bırakın",
       "zh-TW": "停用第一個電源開關",
       "sr": "Onesposobi prvi prekidač napajanja",
@@ -117,7 +120,7 @@
       "kr": "두 번째 전원 스위치를 비활성화하세요",
       "ru": "Отключите второй выключатель питания",
       "zh-CN": "禁用第二个电源开关",
-      "ja": "2番目の電源スイッチを無効にする",
+      "ja": "EMPトラップを停止する",
       "tr": "İkinci güç anahtarını devre dışı bırakın",
       "zh-TW": "停用第二個電源開關",
       "sr": "Onesposobi drugi prekidač napajanja",

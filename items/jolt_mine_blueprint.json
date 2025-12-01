@@ -2,8 +2,8 @@
   "id": "jolt_mine_blueprint",
   "name": {
     "en": "Jolt Mine Blueprint",
-    "de": "Schock-Mine Blaupause",
-    "fr": "Schéma de mine paralysante",
+    "de": "Bauplan: Schockmine",
+    "fr": "Schéma de Mine Étourdissante",
     "es": "Plano de mina aturdidora",
     "pt": "Projeto de mina atordoante",
     "pl": "Projekt miny paraliżującej",
@@ -11,7 +11,7 @@
     "da": "Chok-mine tegning",
     "it": "Progetto mina stordente",
     "ru": "Чертеж — Электрическая мина",
-    "ja": "ジョルトマイン設計図",
+    "ja": "ジョルト地雷設計図",
     "zh-TW": "震盪地雷藍圖",
     "uk": "Креслення міни-оглушувача",
     "zh-CN": "震荡地雷蓝图",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A proximity-triggered mine that pops up and stuns anything within its radius.",
-    "de": "Eine annäherungsaktivierte Mine, die hochspringt und alles in ihrem Radius betäubt.",
+    "de": "Eine Mine, die bei Annäherung explodiert und dabei alle in ihrem Radius betäubt.",
     "fr": "Une mine à déclenchement de proximité qui surgit et étourdit tout ce qui se trouve dans son rayon.",
     "es": "Una mina activada por proximidad que salta y aturde cualquier cosa dentro de su radio.",
     "pt": "Uma mina ativada por proximidade que salta e atordoa qualquer coisa dentro de seu raio.",

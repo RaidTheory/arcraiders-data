@@ -2,8 +2,8 @@
   "id": "blaze_grenade_blueprint",
   "name": {
     "en": "Blaze Grenade Blueprint",
-    "de": "Flammen-Granate Blaupause",
-    "fr": "Schéma de grenade flamboyante",
+    "de": "Bauplan: Flammengranate",
+    "fr": "Schéma de Grenade Flamboyante",
     "es": "Plano de granada de fuego",
     "pt": "Projeto de granada de fogo",
     "pl": "Projekt granatu płomiennego",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A grenade that detonates on impact, covering an area in fire that deals damage over time.",
-    "de": "Eine Granate, die beim Aufprall detoniert und ein Gebiet mit Feuer bedeckt, das im Laufe der Zeit Schaden verursacht.",
+    "de": "Eine Granate, die beim Aufprall explodiert und einen großen Bereich mit Feuer bedeckt, um Schaden über Zeit zu verursachen.",
     "fr": "Une grenade qui explose à l'impact et recouvre la zone de flammes qui infligent des dégâts au fil du temps.",
     "es": "Una granada que detona al impacto, cubriendo un área con fuego que causa daño con el tiempo.",
     "pt": "Uma granada que detona no impacto, cobrindo uma área com fogo que causa dano ao longo do tempo.",

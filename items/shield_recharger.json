@@ -3,7 +3,7 @@
   "name": {
     "en": "Shield Recharger",
     "de": "Schildauflader",
-    "fr": "Rechargeur de bouclier",
+    "fr": "Chargeur de Bouclier",
     "es": "Cargador de escudos",
     "pt": "Recarregador de escudo",
     "pl": "Ładowarka tarczy",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A handheld kit that gradually recharges shield over time.",
-    "de": "Ein tragbares Kit, das den Schild im Laufe der Zeit allmählich auflädt.",
+    "de": "Ein Hangerät, das Schilde im Laufe der Zeit wieder auflädt.",
     "fr": "Un kit portable qui recharge progressivement le bouclier au fil du temps.",
     "es": "Un kit portátil que recarga gradualmente el escudo con el tiempo.",
     "pt": "Um kit portátil que recarrega gradualmente o escudo ao longo do tempo.",
@@ -90,7 +90,7 @@
     },
     "Use Time": {
       "en": "Use Time",
-      "de": "Nutzungszeit",
+      "de": "Verwendungszeit",
       "fr": "Temps d'utilisation",
       "es": "Tiempo de uso",
       "pt": "Tempo de uso",

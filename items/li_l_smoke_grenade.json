@@ -2,8 +2,8 @@
   "id": "li_l_smoke_grenade",
   "name": {
     "en": "Li'l Smoke Grenade",
-    "de": "Kleine Rauchgranate",
-    "fr": "Petite grenade fumigène",
+    "de": "Mini-Rauchgranate",
+    "fr": "Petite Grenade Fumigène",
     "es": "Granada de humo pequeña",
     "pt": "Pequena granada de fumaça",
     "pl": "Mała granat dymny",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A grenade that pops a thick but small smoke cloud on impact, blocking visibility from ARC and other Raiders.",
-    "de": "Eine Granate, die bei Aufprall eine dichte, aber kleine Rauchwolke erzeugt und die Sicht von ARC und anderen Raidern blockiert.",
+    "de": "Eine Granate, die beim Aufprall eine dichte, aber kleine Rauchwolke entstehen lässt, die die Sicht von ARC und anderen Raidern einschränkt.",
     "fr": "Une grenade qui produit un nuage de fumée épais mais petit à l'impact, bloquant la visibilité d'ARC et des autres Raiders.",
     "es": "Una granada que genera una nube de humo densa pero pequeña al impactar, bloqueando la visibilidad de ARC y otros Raiders.",
     "pt": "Uma granada que cria uma nuvem de fumaça densa mas pequena ao impactar, bloqueando a visibilidade de ARC e outros Raiders.",
@@ -65,7 +65,7 @@
       "uk": "Тривалість",
       "sr": "Trajanje",
       "hr": "Trajanje",
-      "value": "5s"
+      "value": "6s"
     },
     "Radius": {
       "en": "Radius",
@@ -86,9 +86,9 @@
       "uk": "Радіус",
       "sr": "Radijus",
       "hr": "Radijus",
-      "value": "2m"
+      "value": "2,5m"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/li_l_smoke_grenade.png",
-  "updatedAt": "11/16/2025"
+  "updatedAt": "11/21/2025"
 }

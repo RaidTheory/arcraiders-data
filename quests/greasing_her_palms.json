@@ -1,6 +1,6 @@
 {
   "id": "ss10a",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/25/2025",
   "name": {
     "en": "Greasing Her Palms",
     "de": "Hände gerieben",
@@ -15,16 +15,21 @@
     "kr": "그녀에게 뇌물 주기",
     "ru": "Подмазать ей ладони",
     "zh-CN": "给她点好处",
-    "ja": "彼女への賄賂",
+    "ja": "潤いを求めて",
     "tr": "Avucunu Yağlamak",
     "zh-TW": "給她點好處",
     "sr": "Podmazivanje Njenih Dlanova",
     "hr": "Podmazivanje Njezinih Dlanova"
   },
+  "map": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "buried_city"
+  ],
   "trader": "Celeste",
   "description": {
     "en": "Recently, I've been trying and failing to get Tian Wen to join our community projects. I may have to sweeten the deal. She's been complaining about the quality of salvage found on the market; think we could do her a solid?",
-    "de": "Ich hab in letzter Zeit erfolglos versucht, Tian Wen für unsere Gemeinschaftsprojekte zu erwärmen. Vielleicht muss ich ihr das Gane schmackhafter machen. Sie hat sich über die Qualitẗ des Schrotts beschwert, a den sie kommt - können wir ihr da wohl eine kleine Freude bereiten?",
+    "de": "Ich hab in letzter Zeit erfolglos versucht, Tian Wen für unsere Gemeinschaftsprojekte zu erwärmen. Vielleicht muss ich iihr das Ganze schmackhafter machen. Sie hat sich über die Qualität des Schrotts beschwert, an den sie kommt - können wir ihr da wohl eine kleine Freude bereiten?",
     "fr": "Dernièrement, j'ai essayé, sans succès, de convaincre Tian Wen de rejoindre nos projets communautaires. Peut-être que si l'offre était plus attrayante... Elle se plaint de la qualité des pièces de récupération disponibles sur le marché. On devrait bien pouvoir lui rendre un service, non ?",
     "es": "Recientemente, he estado intentando sin éxito que Tian Wen se una a nuestros proyectos comunitarios. Puede que tenga que endulzar el trato. Ha estado quejándose de la calidad del salvamento que se encuentra en el mercado; ¿crees que podríamos hacerle un favor?",
     "pt": "Recentemente, tenho tentado e falhado em fazer a Tian Wen se juntar aos nossos projetos comunitários. Talvez eu tenha que adoçar o negócio. Ela tem reclamado sobre a qualidade da sucata encontrada no mercado; acha que poderíamos fazer um favor a ela?",
@@ -45,7 +50,7 @@
   "objectives": [
     {
       "en": "On Dam Battlegrounds, visit the Locked Room in the Water Treatment Control building",
-      "de": "Besuche auf den Damm-Schalftfeldern den verschlossenen Raum im Kontrollgebäude der Wasseraufbereitung",
+      "de": "Besuche auf den Damm-Schlachtfeldern den verschlossenen Raum im Kontrollgebäude der Wasseraufbereitung.",
       "fr": "Au champ de bataille du Barrage, visiter la salle verrouillée du bâtiment du Contrôle du traitement de l'eau",
       "es": "En Dam Battlegrounds, visita la sala cerrada en el edificio de control de tratamiento de agua",
       "pt": "Em Dam Battlegrounds, visite a sala trancada no prédio de controle de tratamento de água",
@@ -57,7 +62,7 @@
       "kr": "댐 전장에서 수처리 제어 건물의 잠긴 방 방문하기",
       "ru": "На Дамбе посетите закрытую комнату в здании управления водоочисткой",
       "zh-CN": "在大坝战场，访问水处理控制大楼的上锁房间",
-      "ja": "ダム・バトルグラウンドで、水処理管理棟の施錠された部屋を訪れる",
+      "ja": "ダム戦場の水質管理センターにある鍵のかかった部屋に入る",
       "tr": "Baraj Savaş Alanında, Su Arıtma Kontrol binasındaki Kilitli Odayı ziyaret et",
       "zh-TW": "在大壩戰場，訪問水處理控制大樓的上鎖房間",
       "sr": "Na Bojnom Polju Brane, poseti Zaključanu Sobu u zgradi Kontrole Prečišćavanja Vode",
@@ -65,7 +70,7 @@
     },
     {
       "en": "On Spaceport, scope out the rocket thrusters outside the Rocket Assembly",
-      "de": "Schau dir im Raumhafen die Schubdüsen außerhalb der Raktenmontage an",
+      "de": "Schau dir im Raumhafen die Schubdüsen außerhalb der Raketenmontage an.",
       "fr": "Au Port spatial, inspecter les propulseurs de la fusée à l'extérieur du Site d'assemblage des fusées",
       "es": "En Spaceport, inspecciona los propulsores de cohetero fuera del ensamblaje de cohetes",
       "pt": "Em Spaceport, examine os propulsores de foguete fora da montagem de foguetes",
@@ -77,7 +82,7 @@
       "uk": "На Космопорті, огляньте ракетні двигуни біля будівлі збирання ракет",
       "ru": "На Космопорте осмотрите ракетные двигатели возле здания сборки ракет",
       "zh-CN": "在太空港，侦察火箭组装厂外的火箭推进器",
-      "ja": "スペースポートで、ロケット組立棟の外にあるロケット推進装置を調査する",
+      "ja": "宇宙港でロケット組み立て場の外にあるロケットスラスターを確認する",
       "tr": "Uzay Limanında, Roket Montaj binasının dışındaki roket iticilerini keşfet",
       "zh-TW": "在太空港，偵察火箭組裝廠外的火箭推進器",
       "sr": "Na Svemirskoj Luci, izviđaj raketne potisnice ispred Montaže Raketa",
@@ -97,7 +102,7 @@
       "kr": "매장된 도시에서 우주 여행 빌딩 6층의 바리케이드 지역 방문하기",
       "ru": "В Погребённом городе посетите баррикадированную зону на 6 этаже здания космических путешествий",
       "zh-CN": "在埋没之城，访问太空旅行大楼6层的路障区域",
-      "ja": "ベリード・シティで、宇宙旅行ビルの6階にあるバリケードエリアを訪れる",
+      "ja": "埋もれた街のスペーストラベル施設6階にあるバリケードが組まれた区画に入る",
       "tr": "Gömülü Şehir'de, Uzay Yolculuğu Binasının 6. katındaki barikatlanmış alanı ziyaret et",
       "zh-TW": "在埋沒之城，訪問太空旅行大樓6層的路障區域",
       "sr": "U Zakopanom Gradu, poseti barikadiranu oblast na spratu 6 zgrade Svemirskih Putovanja",
@@ -125,6 +130,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10"],
-  "nextQuestIds": ["ss10b", "ss10c"]
+  "previousQuestIds": [
+    "ss10"
+  ],
+  "nextQuestIds": [
+    "ss10b",
+    "ss10c"
+  ]
 }

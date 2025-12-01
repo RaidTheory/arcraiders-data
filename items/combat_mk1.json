@@ -2,7 +2,7 @@
   "id": "combat_mk1",
   "name": {
     "en": "Combat Mk. 1",
-    "de": "Kampf Mk. 1",
+    "de": "Kampf-Marke 1",
     "fr": "Combat 1",
     "es": "Combate Ver. 1",
     "pt": "Combate Mk. 1",
@@ -11,7 +11,7 @@
     "da": "Kamp Mk. 1",
     "it": "Combattimento Mk. 1",
     "ru": "Бой 1",
-    "ja": "コンバット Mk. 1",
+    "ja": "戦闘MK1",
     "zh-TW": "戰鬥型 Mk. 1",
     "uk": "Бойовий Mk. 1",
     "zh-CN": "战斗型 Mk. 1",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
-    "de": "Grundlegende Kampferweiterung. Unterstützt stärkere Schilde, aber mit begrenzter Rucksackkapazität und Schnellzugriff-Slots.",
+    "de": "Basis-Kampf-Augment. Unterstützt stärkere Schilde, schränkt aber die Rucksackkapazität und die Schnelleinsatz-Plätze ein.",
     "fr": "Augmentation de combat de base. Prend en charge des boucliers plus puissants, mais avec une capacité de sac à dos et des emplacements d'utilisation rapide limités.",
     "es": "Aumento de combate básico. Soporta escudos más fuertes, pero con capacidad de mochila limitada y ranuras de uso rápido.",
     "pt": "Aumento de combate básico. Suporta escudos mais fortes, mas com capacidade de mochila limitada e espaços de uso rápido.",
@@ -74,7 +74,7 @@
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
-      "de": "Max. Ausrüstungsgewicht",
+      "de": "Max. Loadout-Gewicht",
       "fr": "Poids max. de l'équipement",
       "es": "Peso máximo de equipamiento",
       "pt": "Peso máximo de equipamento",

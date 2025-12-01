@@ -2,8 +2,8 @@
   "id": "lure_grenade_blueprint",
   "name": {
     "en": "Lure Grenade Blueprint",
-    "de": "Lockgranaten-Bauplan",
-    "fr": "Schéma de grenade leurre",
+    "de": "Bauplan: Ködergranate",
+    "fr": "Schéma de Grenade Leurre",
     "es": "Plano de granada señuelo",
     "pt": "Projeto de granada isca",
     "pl": "Projekt granatu wabika",
@@ -11,7 +11,7 @@
     "da": "Lokkegranattegning",
     "it": "Progetto granata esca",
     "ru": "Чертеж — Граната-приманка",
-    "ja": "囮グレネード設計図",
+    "ja": "ルアー・グレネード設計図",
     "zh-TW": "誘餌手榴彈藍圖",
     "uk": "Креслення гранати-принади",
     "zh-CN": "诱饵手榴弹蓝图",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A noisy device that sticks to surfaces, distracting nearby ARC machines and drawing their fire.",
-    "de": "Ein lautes Gerät, das an Oberflächen haftet, nahegelegene ARC-Maschinen ablenkt und ihr Feuer auf sich zieht.",
+    "de": "Ein lautes Gerät, das an Oberflächen haften bleibt, ARC-Maschinen in der Nähe ablenkt und ihre Schüsse auf sich zieht.",
     "fr": "Un dispositif bruyant qui adhère aux surfaces, distrayant les machines ARC à proximité et attirant leur tir.",
     "es": "Un dispositivo ruidoso que se adhiere a superficies, distrayendo a las máquinas ARC cercanas y atrayendo su fuego.",
     "pt": "Um dispositivo barulhento que gruda em superfícies, distraindo máquinas ARC próximas e atraindo seu fogo.",

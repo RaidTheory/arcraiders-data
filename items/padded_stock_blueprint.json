@@ -2,8 +2,8 @@
   "id": "padded_stock_blueprint",
   "name": {
     "en": "Padded Stock Blueprint",
-    "de": "Blaupause: Gepolsterter Schaft",
-    "fr": "Schéma : Crosse rembourrée",
+    "de": "Bauplan: Gepolsterter Schaft",
+    "fr": "Schéma : Crosse Rembourrée",
     "es": "Plano: Culata acolchada",
     "pt": "Projeto: Coronha acolchoada",
     "pl": "Schemat: Wyściełana kolba",
@@ -42,7 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/padded_stock_blueprint.png",
   "updatedAt": "11/19/2025"

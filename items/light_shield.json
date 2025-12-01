@@ -3,7 +3,7 @@
   "name": {
     "en": "Light Shield",
     "de": "Leichter Schild",
-    "fr": "Bouclier léger",
+    "fr": "Bouclier Léger",
     "es": "Escudo ligero",
     "pt": "Escudo leve",
     "pl": "Lekka tarcza",
@@ -11,7 +11,7 @@
     "da": "Let skjold",
     "it": "Scudo leggero",
     "ru": "Легкий щит",
-    "ja": "ライトシールド",
+    "ja": "小型シールド",
     "zh-TW": "輕型護盾",
     "uk": "Легкий щит",
     "zh-CN": "轻型护盾",
@@ -24,7 +24,7 @@
   "rarity": "Uncommon",
   "description": {
     "en": "A lightweight shield that blocks a small portion of incoming damage without impacting mobility.",
-    "de": "Ein leichter Schild, der einen kleinen Teil des eingehenden Schadens blockiert, ohne die Mobilität zu beeinträchtigen.",
+    "de": "Ein leichter Schild, der einen kleinen Teil des eingehenden Schadens abwehrt, ohne dass die Mobilität beeinträchtigt wird.",
     "fr": "Un bouclier léger qui bloque une petite portion des dégâts entrants sans impacter la mobilité.",
     "es": "Un escudo ligero que bloquea una pequeña porción del daño entrante sin afectar la movilidad.",
     "pt": "Um escudo leve que bloqueia uma pequena porção do dano recebido sem afetar a mobilidade.",
@@ -75,7 +75,7 @@
     },
     "Charge": {
       "en": "Charge",
-      "de": "Ladung",
+      "de": "Aufladen",
       "fr": "Charge",
       "es": "Carga",
       "pt": "Carga",
@@ -96,7 +96,7 @@
     },
     "Damage Reduction": {
       "en": "Damage Reduction",
-      "de": "Schadensreduzierung",
+      "de": "Schadensreduktion",
       "fr": "Réduction des dégâts",
       "es": "Reducción de daño",
       "pt": "Redução de dano",
@@ -122,5 +122,8 @@
     "arc_alloy": 2,
     "plastic_parts": 4
   },
-  "craftBench": ["workbench", "equipment_bench"]
+  "craftBench": [
+    "workbench",
+    "equipment_bench"
+  ]
 }

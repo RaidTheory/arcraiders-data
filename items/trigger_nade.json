@@ -2,7 +2,7 @@
   "id": "trigger_nade",
   "name": {
     "en": "Trigger 'Nade",
-    "de": "Auslöser-Granate",
+    "de": "Abzuggranate",
     "fr": "Grenade déclenchée",
     "es": "Granada de gatillo",
     "pt": "Granada de ativação",
@@ -11,7 +11,7 @@
     "da": "Udløser-granat",
     "it": "Granata a innesco",
     "ru": "Управляемая граната",
-    "ja": "トリガーグレネード",
+    "ja": "トリガー・グレネード",
     "zh-TW": "遙控手榴彈",
     "uk": "Керована граната",
     "zh-CN": "遥控手雷",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
-    "de": "Eine ferngesteuerte Granate, die an Oberflächen und ARC haften kann und bei Auslösung explosiven Schaden verursacht.",
+    "de": "Eine ferngezündete Granate, die an Oberflächen und ARC haften bleibt und bei Zündung Explosionsschaden verursacht.",
     "fr": "Une grenade à détonation à distance qui peut adhérer aux surfaces et aux ARC, infligeant des dégâts explosifs lorsqu'elle est déclenchée.",
     "es": "Una granada de detonación remota que puede adherirse a superficies y ARC, causando daño explosivo al activarse.",
     "pt": "Uma granada de detonação remota que pode grudar em superfícies e ARC, causando dano explosivo quando ativada.",

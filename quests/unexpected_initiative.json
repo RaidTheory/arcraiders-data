@@ -1,6 +1,6 @@
 {
   "id": "ss10q",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Unexpected Initiative",
     "de": "Unerwartete Initiative",
@@ -21,6 +21,9 @@
     "sr": "Neočekivana inicijativa",
     "hr": "Neočekivana inicijativa"
   },
+  "map": [
+    "buried_city"
+  ],
   "trader": "Tian Wen",
   "description": {
     "en": "I'm setting up a greenhouse, to help boost our food production. I'm doing Celeste a solid, alright? That's all. But enough about that. I've got all the details worked out, but I'll need supplies, and I'm not hauling them alone.",
@@ -57,7 +60,7 @@
       "kr": "매장된 도시의 그란디오소 아파트에 도달",
       "ru": "Добраться до Апартаментов Грандиозо в Погребённом Городе",
       "zh-CN": "到达埋没之城的格兰迪奥索公寓",
-      "ja": "埋もれた街のグランディオーソ・アパートメントに到達する",
+      "ja": "埋もれた街のグランディオーソ・アパートに向かう",
       "tr": "Gömülü Şehir'deki Grandioso Apartmanları'na ulaş",
       "zh-TW": "到達埋沒之城的格蘭迪奧索公寓",
       "sr": "Stigni do Grandioso apartmana u Zakopanom gradu",
@@ -77,7 +80,7 @@
       "kr": "그란디오소 아파트 옥상에서 비료 찾기",
       "ru": "Найти Удобрение на крыше Апартаментов Грандиозо",
       "zh-CN": "在格兰迪奥索公寓的屋顶搜寻肥料",
-      "ja": "グランディオーソ・アパートメントの屋上で肥料を探す",
+      "ja": "埋もれた街のピアッツァ・ローマに向かう",
       "tr": "Grandioso Apartmanları'nın çatısında Gübre ara",
       "zh-TW": "在格蘭迪奧索公寓的屋頂搜尋肥料",
       "sr": "Traži đubrivo na krovu Grandioso apartmana",
@@ -97,7 +100,7 @@
       "kr": "매장된 도시의 피아자 로마에 도달",
       "ru": "Добраться до Пьяцца Рома в Погребённом Городе",
       "zh-CN": "到达埋没之城的罗马广场",
-      "ja": "埋もれた街のピアッツァ・ローマに到達する",
+      "ja": "ピアッツァ・ローマにある壊れた屋上庭園で送水ポンプを探す",
       "tr": "Gömülü Şehir'deki Piazza Roma'ya ulaş",
       "zh-TW": "到達埋沒之城的羅馬廣場",
       "sr": "Stigni do Piazza Roma u Zakopanom gradu",
@@ -117,7 +120,7 @@
       "kr": "피아자 로마의 부서진 옥상 정원에서 물 펌프 찾기",
       "ru": "Найти Водяной Насос в разрушенных садах на крыше Пьяцца Рома",
       "zh-CN": "在罗马广场破损的屋顶花园中搜寻水泵",
-      "ja": "ピアッツァ・ローマの壊れた屋上庭園で水ポンプを探す",
+      "ja": "ティアン・ウェンに肥料を届ける",
       "tr": "Piazza Roma'daki kırık çatı bahçelerinde Su Pompası ara",
       "zh-TW": "在羅馬廣場破損的屋頂花園中搜尋水泵",
       "sr": "Traži vodenu pumpu u uništenim baštama na krovu u Piazza Roma",
@@ -137,7 +140,7 @@
       "kr": "티안 웬에게 물 펌프 전달",
       "ru": "Доставить Водяной Насос Тянь Вэню",
       "zh-CN": "将水泵交给田文",
-      "ja": "ティアン・ウェンに水ポンプを届ける",
+      "ja": "ティアン・ウェンに送水ポンプを届ける",
       "tr": "Tian Wen'e Su Pompası teslim et",
       "zh-TW": "將水泵交給田文",
       "sr": "Dostavi vodenu pumpu Tian Wenu",

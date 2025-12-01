@@ -3,7 +3,7 @@
   "name": {
     "en": "Medium Shield",
     "de": "Mittlerer Schild",
-    "fr": "Bouclier moyen",
+    "fr": "Bouclier Moyen",
     "es": "Escudo mediano",
     "pt": "Escudo médio",
     "pl": "Średnia tarcza",
@@ -11,7 +11,7 @@
     "da": "Mellemstort skjold",
     "it": "Scudo medio",
     "ru": "Средний щит",
-    "ja": "ミディアムシールド",
+    "ja": "中型シールド",
     "zh-TW": "中型護盾",
     "uk": "Середній щит",
     "zh-CN": "中型护盾",
@@ -24,7 +24,7 @@
   "rarity": "Rare",
   "description": {
     "en": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
-    "de": "Ein Standardschild, der einen mittleren Teil des eingehenden Schadens blockiert, mit moderaten Mobilitätskosten.",
+    "de": "Ein Standardschild, der einen mittleren Teil des eingehenden Schadens abwehrt, worunter allerdings auch die Mobilität moderat leidet.",
     "fr": "Un bouclier standard qui bloque une portion moyenne des dégâts entrants au prix d'un coût modéré en mobilité.",
     "es": "Un escudo estándar que bloquea una porción media del daño entrante a un coste moderado de movilidad.",
     "pt": "Um escudo padrão que bloqueia uma porção média do dano recebido a um custo moderado de mobilidade.",
@@ -94,7 +94,7 @@
     },
     "Damage Reduction": {
       "en": "Damage Reduction",
-      "de": "Schadensreduzierung",
+      "de": "Schadensreduktion",
       "fr": "Réduction des dégâts",
       "es": "Reducción de daño",
       "pt": "Redução de dano",
@@ -115,7 +115,7 @@
     },
     "Reduced Movement Speed": {
       "en": "Reduced Movement Speed",
-      "de": "Reduzierte Bewegungsgeschwindigkeit",
+      "de": "Verringerte Bewegungsgeschwindigkeit",
       "fr": "Vitesse de déplacement réduite",
       "es": "Velocidad de movimiento reducida",
       "pt": "Velocidade de movimento reduzida",
