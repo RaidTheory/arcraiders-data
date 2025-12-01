@@ -24,14 +24,10 @@ This data repository serves as the backbone for community developers to create t
 
 We welcome contributions from the ARC Raiders community! If you'd like to help improve the data:
 
-First install the [bun](https://bun.com/) javascript toolkit.
-
 1. Fork the repository
-2. Install dependencies with `bun install`
-3. Make your changes
-4. Format files with `bun run format`
-5. Submit a pull request with a clear description of your updates
-6. Include any relevant screenshots or references to verify the data
+2. Make your changes
+3. Submit a pull request with a clear description of your updates
+4. Include any relevant screenshots or references to verify the data
 
 Please ensure all contributed data is accurate.
 
