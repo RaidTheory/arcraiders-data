@@ -1,23 +1,24 @@
 {
+  "id": "ripped_safety_vest",
   "name": {
-    "en": "Ruined Tactical Vest",
-    "de": "Zerfetzte taktische Weste",
-    "fr": "Gilet Tactique en Ruine",
-    "es": "Chaleco táctico arruinado",
-    "pt": "Colete tático arruinado",
-    "pl": "Zniszczona kamizelka taktyczna",
-    "no": "Ødelagt taktisk vest",
-    "da": "Ødelagt taktisk vest",
-    "it": "Giubbotto tattico rovinato",
-    "ja": "壊れたタクティカルベスト",
-    "kr": "파손된 전술 조끼",
-    "zh-CN": "损毁的战术背心",
-    "zh-TW": "損毀的戰術背心",
-    "ru": "Испорченный тактический жилет",
-    "tr": "Harap Taktik Yelek",
-    "uk": "Зруйнований тактичний жилет",
-    "sr": "Uništen taktički prsluk",
-    "hr": "Uništen taktički prsluk"
+    "en": "Ripped Safety Vest",
+    "de": "Zerfetzte Sicherheitsweste",
+    "fr": "Gilet de sécurité déchiré",
+    "es": "Chaleco de seguridad rasgado",
+    "pt": "Colete de segurança rasgado",
+    "pl": "Podarty kamizelka odblaskowa",
+    "no": "Rivd sikkerhetsvest",
+    "da": "Flænget sikkerhedsvest",
+    "it": "Gilet di sicurezza strappato",
+    "ja": "破れたセーフティベスト",
+    "kr": "찢어진 안전 조끼",
+    "zh-CN": "破损的安全背心",
+    "zh-TW": "破損的安全背心",
+    "ru": "Рваный сигнальный жилет",
+    "tr": "Yırtık güvenlik yeleği",
+    "uk": "Розірваний сигнальний жилет",
+    "sr": "Iscepan sigurnosni prsluk",
+    "hr": "Isparani sigurnosni prsluk"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -39,20 +40,20 @@
     "sr": "Može se reciklirati u materijale za izradu.",
     "hr": "Može se reciklirati u materijale za izradu."
   },
-  "id": "ruined_tactical_vest",
   "type": "Recyclable",
   "rarity": "Uncommon",
   "value": 640,
   "recyclesInto": {
-    "fabric": 5,
+    "durable_cloth": 1,
     "magnet": 1
   },
   "salvagesInto": {
-    "fabric": 5
+    "fabric": 8
   },
   "weightKg": 0.8,
   "stackSize": 3,
-  "foundIn": "Security",
-  "imageFilename": "https://cdn.arctracker.io/items/ruined_tactical_vest.png",
-  "updatedAt": "11/19/2025"
+  "imageFilename": "https://cdn.arctracker.io/items/ripped_safety_vest.png",
+  "updatedAt": "11/29/2025"
 }
+
+

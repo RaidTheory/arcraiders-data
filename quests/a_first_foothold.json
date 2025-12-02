@@ -1,6 +1,6 @@
 {
   "id": "ss11",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "A First Foothold",
     "de": "Der erste Schritt",
@@ -21,6 +21,9 @@
     "sr": "Prvo Uporište",
     "hr": "Prvo Uporište"
   },
+  "map": [
+    "the_blue_gate"
+  ],
   "trader": "Shani",
   "description": {
     "en": "We've only just finished expanding the Tube network towards the Blue Gate, and we're still laboring away at the rest. My crew's been building new infrastructure around the valley to safeguard our Raiders, but the constant ARC threat has made it difficult to get anything done.",
