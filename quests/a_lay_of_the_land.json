@@ -1,11 +1,11 @@
 {
   "id": "ss10k",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "A Lay of the Land",
     "de": "Eine Lagebeschreibung",
     "fr": "Un aperçu du terrain",
-    "es": "Un reconocimiento del terreno",
+    "es": "Reconociendo el terreno",
     "pt": "Um reconhecimento do terreno",
     "pl": "Rozpoznanie terenu",
     "no": "Et overblikk over terrenget",
@@ -21,6 +21,9 @@
     "sr": "Pregled terena",
     "hr": "Pregled terena"
   },
+  "map": [
+    "the_spaceport"
+  ],
   "trader": "Shani",
   "videoUrl": "https://youtu.be/pWXjplDChHc",
   "description": {

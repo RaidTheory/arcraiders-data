@@ -1,6 +1,6 @@
 {
   "id": "12_cold_storage",
-  "updatedAt": "11/20/2025",
+  "updatedAt": "11/23/2025",
   "name": {
     "en": "Cold Storage",
     "de": "Tiefkühllagerung",
@@ -21,6 +21,9 @@
     "sr": "Hladnjača",
     "hr": "Hladnjača"
   },
+  "map": [
+    "stella_montis"
+  ],
   "trader": "Celeste",
   "videoUrl": "https://youtu.be/tc7nK7AmixQ",
   "description": {

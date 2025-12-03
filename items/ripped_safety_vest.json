@@ -1,24 +1,24 @@
 {
-  "id": "damaged_wasp_drive",
+  "id": "ripped_safety_vest",
   "name": {
-    "en": "Damaged Wasp Drive",
-    "de": "Beschädigter Wespen-Antrieb",
-    "fr": "Pilote de Guêpe endommagé",
-    "es": "Propulsor de Avispa dañado",
-    "pt": "Propulsor Wasp danificado",
-    "pl": "Uszkodzony napęd Wasp",
-    "no": "Skadet Wasp-drift",
-    "da": "Beskadiget Wasp-drev",
-    "it": "Propulsore Wasp danneggiato",
-    "ja": "破損したワスプドライブ",
-    "kr": "손상된 와스프 드라이브",
-    "zh-CN": "损坏的黄蜂驱动器",
-    "zh-TW": "損壞的黃蜂驅動器",
-    "ru": "Поврежденный привод Wasp",
-    "tr": "Hasarlı Wasp Sürücüsü",
-    "uk": "Пошкоджений привід Wasp",
-    "sr": "Oštećeni Wasp pogon",
-    "hr": "Oštećeni Wasp pogon"
+    "en": "Ripped Safety Vest",
+    "de": "Zerfetzte Sicherheitsweste",
+    "fr": "Gilet de sécurité déchiré",
+    "es": "Chaleco de seguridad rasgado",
+    "pt": "Colete de segurança rasgado",
+    "pl": "Podarty kamizelka odblaskowa",
+    "no": "Rivd sikkerhetsvest",
+    "da": "Flænget sikkerhedsvest",
+    "it": "Gilet di sicurezza strappato",
+    "ja": "破れたセーフティベスト",
+    "kr": "찢어진 안전 조끼",
+    "zh-CN": "破损的安全背心",
+    "zh-TW": "破損的安全背心",
+    "ru": "Рваный сигнальный жилет",
+    "tr": "Yırtık güvenlik yeleği",
+    "uk": "Розірваний сигнальний жилет",
+    "sr": "Iscepan sigurnosni prsluk",
+    "hr": "Isparani sigurnosni prsluk"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -27,7 +27,7 @@
     "es": "Puede reciclarse en materiales de fabricación.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
-    "no": "Kan resirkuleres til håndverksmateriell.",
+    "no": "Kan resirkuleres til håndverksmaterialer.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "it": "Può essere riciclato in materiali da crafting.",
     "ja": "クラフト素材にリサイクルできます。",
@@ -41,11 +41,19 @@
     "hr": "Može se reciklirati u materijale za izradu."
   },
   "type": "Recyclable",
-  "rarity": "Common",
-  "value": 270,
-  "weightKg": 0.25,
+  "rarity": "Uncommon",
+  "value": 640,
+  "recyclesInto": {
+    "durable_cloth": 1,
+    "magnet": 1
+  },
+  "salvagesInto": {
+    "fabric": 8
+  },
+  "weightKg": 0.8,
   "stackSize": 3,
-  "foundIn": "ARC",
-  "imageFilename": "https://cdn.arctracker.io/items/damaged_wasp_drive.png",
-  "updatedAt": "11/04/2025"
+  "imageFilename": "https://cdn.arctracker.io/items/ripped_safety_vest.png",
+  "updatedAt": "11/29/2025"
 }
+
+
