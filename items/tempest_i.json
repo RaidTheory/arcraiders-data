@@ -162,6 +162,9 @@
   "craftBench": "weapon_bench",
   "stationLevelRequired": 3,
   "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
-  "updatedAt": "11/11/2025",
-  "isWeapon": true
+  "updatedAt": "03/12/2025",
+  "isWeapon": true,
+  "salvagesInto": {
+    "medium_gun_parts": 2
+  }
 }

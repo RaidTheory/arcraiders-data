@@ -26,7 +26,7 @@
   "recyclesInto": {
     "assorted_seeds": 2
   },
-  "updatedAt": "10/31/2025",
+  "updatedAt": "03/12/2025",
   "description": {
     "en": "Used to craft medical supplies. Used to craft: Herbal Bandage, Antiseptic",
     "de": "Wird zur Herstellung medizinischer Objekte verwendet. Zur Herstellung von: Kräuterverband, Desinfektionsmittel",
@@ -50,5 +50,8 @@
   "weightKg": 0.25,
   "foundIn": "Nature",
   "stackSize": 15,
-  "imageFilename": "https://cdn.arctracker.io/items/great_mullein.png"
+  "imageFilename": "https://cdn.arctracker.io/items/great_mullein.png",
+  "salvagesInto": {
+    "assorted_seeds": 1
+  }
 }

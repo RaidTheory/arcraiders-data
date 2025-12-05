@@ -111,9 +111,12 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/showstopper.png",
-  "updatedAt": "10/30/2025",
+  "updatedAt": "03/12/2025",
   "recyclesInto": {
     "electrical_components": 1,
+    "battery": 2
+  },
+  "salvagesInto": {
     "battery": 2
   }
 }

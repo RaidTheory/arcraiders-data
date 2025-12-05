@@ -43,6 +43,9 @@
   "type": "Quick Use",
   "rarity": "Uncommon",
   "value": 640,
+  "recyclesInto": {
+    "fireball_burner": 1
+  },
   "weightKg": 1,
   "effects": {
     "Durability": {
@@ -89,5 +92,8 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/flame_spray.png",
-  "updatedAt": "11/04/2025"
+  "updatedAt": "03/12/2025",
+  "salvagesInto": {
+    "fireball_burner": 1
+  }
 }

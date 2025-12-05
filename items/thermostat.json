@@ -27,7 +27,7 @@
     "rubber_parts": 6,
     "sensors": 2
   },
-  "updatedAt": "11/05/2025",
+  "updatedAt": "03/12/2025",
   "description": {
     "en": "Can be recycled into crafting materials.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
@@ -51,5 +51,8 @@
   "weightKg": 2,
   "stackSize": 3,
   "foundIn": "Residential",
-  "imageFilename": "https://cdn.arctracker.io/items/thermostat.png"
+  "imageFilename": "https://cdn.arctracker.io/items/thermostat.png",
+  "salvagesInto": {
+    "sensors": 1
+  }
 }

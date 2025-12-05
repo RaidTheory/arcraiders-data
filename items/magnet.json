@@ -46,9 +46,12 @@
   "recyclesInto": {
     "metal_parts": 2
   },
-  "updatedAt": "10/31/2025",
+  "updatedAt": "03/12/2025",
   "weightKg": 0.25,
   "stackSize": 15,
   "foundIn": "Exodus",
-  "imageFilename": "https://cdn.arctracker.io/items/magnet.png"
+  "imageFilename": "https://cdn.arctracker.io/items/magnet.png",
+  "salvagesInto": {
+    "metal_parts": 2
+  }
 }
