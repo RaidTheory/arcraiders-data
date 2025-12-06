@@ -15,7 +15,7 @@
     "zh-TW": "活力注射劑",
     "uk": "Віта-ін'єкція",
     "zh-CN": "活力注射剂",
-    "kr": "비타 샷",
+    "kr": "회복 주사기",
     "tr": "Vita İğnesi",
     "hr": "Vita Injekcija",
     "sr": "Vita Injekcija"
@@ -48,8 +48,8 @@
   "stationLevelRequired": 3,
   "effects": {
     "Healing": {
-      "en": "Heilen",
-      "de": "Heilung",
+      "en": "Healing",
+      "de": "Heilen",
       "fr": "Soins",
       "es": "Curación",
       "pt": "Cura",
