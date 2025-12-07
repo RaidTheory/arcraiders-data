@@ -76,5 +76,12 @@
     "Vulcano"
   ],
   "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_ii.png",
-  "updatedAt": "11/05/2025"
+  "updatedAt": "12/07/2025",
+  "recipe": {
+    "mechanical_components": 2,
+    "wires": 4
+  },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
+  "blueprintLocked": true
 }

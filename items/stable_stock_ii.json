@@ -121,5 +121,12 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/stable_stock_ii.png",
-  "updatedAt": "11/05/2025"
+  "updatedAt": "12/07/2025",
+  "recipe": {
+    "mechanical_components": 2,
+    "duct_tape": 3
+  },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
+  "blueprintLocked": true
 }

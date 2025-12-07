@@ -45,10 +45,11 @@
   "value": 700,
   "weightKg": 0.5,
   "foundIn": "Exodus",
+  "stackSize": 5,
   "recyclesInto": {
     "oil": 1,
     "plastic_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "12/07/2025"
 }

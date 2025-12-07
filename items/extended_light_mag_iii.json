@@ -72,5 +72,12 @@
   "recyclesInto": {
     "mod_components": 1,
     "steel_spring": 2
-  }
+  },
+  "recipe": {
+    "mod_components": 2,
+    "steel_spring": 5
+  },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
+  "blueprintLocked": true
 }

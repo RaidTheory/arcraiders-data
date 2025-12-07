@@ -102,5 +102,7 @@
   "craftBench": "utility_bench",
   "salvagesInto": {
     "sensors": 1
-  }
+  },
+  "stationLevelRequired": 3,
+  "blueprintLocked": true
 }

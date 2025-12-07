@@ -27,7 +27,10 @@
     "rubber_parts": 7,
     "sensors": 1
   },
-  "updatedAt": "12/01/2025",
+  "salvagesInto": {
+    "sensors": 1
+  },
+  "updatedAt": "12/07/2025",
   "description": {
     "en": "Can be recycled into crafting materials.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",

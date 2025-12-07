@@ -53,6 +53,8 @@
     "duct_tape": 3
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
+  "blueprintLocked": true,
   "effects": {
     "Reduced Horizontal Recoil": {
       "en": "Reduced Horizontal Recoil",

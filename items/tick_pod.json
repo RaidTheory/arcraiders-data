@@ -45,11 +45,14 @@
   "rarity": "Uncommon",
   "imageFilename": "https://cdn.arctracker.io/items/tick_pod.png",
   "recyclesInto": {
-    "arc_alloy": 1,
-    "metal_parts": 1
+    "chemicals": 2,
+    "arc_alloy": 2
+  },
+  "salvagesInto": {
+    "arc_alloy": 1
   },
   "weightKg": 0.5,
   "stackSize": 3,
   "foundIn": "ARC",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "12/07/2025"
 }

@@ -45,6 +45,9 @@
   "type": "Nature",
   "value": 640,
   "foundIn": "Nature",
-  "recyclesInto": {},
-  "updatedAt": "10/30/2025"
+  "recyclesInto": {
+    "assorted_seeds": 3
+  },
+  "stackSize": 10,
+  "updatedAt": "12/07/2025"
 }

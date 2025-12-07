@@ -47,8 +47,11 @@
   "foundIn": "Mechanical",
   "recyclesInto": {
     "oil": 2,
-    "mechanical_components": 1
+    "mechanical_components": 2
+  },
+  "salvagesInto": {
+    "oil": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/motor.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "12/07/2025"
 }

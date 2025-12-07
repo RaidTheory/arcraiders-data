@@ -68,5 +68,12 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/shotgun_silencer.png",
-  "updatedAt": "11/02/2025"
+  "updatedAt": "12/07/2025",
+  "recipe": {
+    "mod_components": 2,
+    "wires": 8
+  },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
+  "blueprintLocked": true
 }

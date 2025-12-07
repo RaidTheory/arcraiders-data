@@ -89,7 +89,14 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_barrel.png",
-  "updatedAt": "11/14/2025",
+  "updatedAt": "12/07/2025",
+  "recipe": {
+    "mod_components": 2,
+    "wires": 8
+  },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
+  "blueprintLocked": true,
   "recyclesInto": {
     "mod_components": 1,
     "wires": 1

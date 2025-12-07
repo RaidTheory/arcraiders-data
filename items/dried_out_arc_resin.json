@@ -44,7 +44,11 @@
   "rarity": "Uncommon",
   "weightKg": 1,
   "stackSize": 3,
+  "value": 640,
+  "recyclesInto": {
+    "plastic_parts": 9
+  },
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/dried_out_arc_resin.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "12/07/2025"
 }

@@ -115,5 +115,12 @@
   "recyclesInto": {
     "electrical_components": 1,
     "battery": 2
-  }
+  },
+  "recipe": {
+    "advanced_electrical_components": 1,
+    "voltage_converter": 1
+  },
+  "craftBench": "explosives_bench",
+  "stationLevelRequired": 3,
+  "blueprintLocked": true
 }

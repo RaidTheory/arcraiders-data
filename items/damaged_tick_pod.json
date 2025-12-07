@@ -42,10 +42,16 @@
   },
   "type": "Recyclable",
   "rarity": "Common",
-  "value": 90,
+  "value": 270,
+  "recyclesInto": {
+    "arc_alloy": 1
+  },
+  "salvagesInto": {
+    "metal_parts": 1
+  },
   "weightKg": 0.083,
   "stackSize": 3,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/damaged_tick_pod.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "12/07/2025"
 }
