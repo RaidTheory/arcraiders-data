@@ -53,10 +53,11 @@
   "weightKg": 0.025,
   "stackSize": 80,
   "rarity": "Common",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "12/07/2025",
   "recipe": {
     "metal_parts": 3,
     "chemicals": 2
   },
-  "craftBench": "workbench"
+  "craftBench": "workbench",
+  "craftQuantity": 20
 }

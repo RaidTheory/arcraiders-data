@@ -46,7 +46,7 @@
     "Ferro",
     "Bettina"
   ],
-  "updatedAt": "11/03/2025",
+  "updatedAt": "12/07/2025",
   "value": 12,
   "weightKg": 0.05,
   "stackSize": 40,
@@ -56,5 +56,6 @@
     "metal_parts": 3,
     "chemicals": 2
   },
-  "craftBench": "workbench"
+  "craftBench": "workbench",
+  "craftQuantity": 10
 }
