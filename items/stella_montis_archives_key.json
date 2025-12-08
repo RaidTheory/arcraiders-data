@@ -41,7 +41,7 @@
     "fr": "Déverrouille une porte dans la Recherche Médicale à Stella Montis"
   },
   "type": "Key",
-  "rarity": "Uncommon",
+  "rarity": "Epic",
   "weightKg": 0.25,
   "stackSize": 1,
   "value": 100,
@@ -68,5 +68,6 @@
       "value": "Stella Montis"
     }
   },
-  "updatedAt": "11/13/2025"
+  "updatedAt": "12/07/2025",
+  "imageFilename": "https://cdn.arctracker.io/items/stella_montis_archives_key.png"
 }

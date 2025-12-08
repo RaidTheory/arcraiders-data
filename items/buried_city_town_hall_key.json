@@ -15,7 +15,7 @@
     "zh-TW": "埋沒之城市政廳鑰匙",
     "uk": "Ключ від ратуші Похованого міста",
     "zh-CN": "埋没之城市政厅钥匙",
-    "kr": "매장된 도시 시청 열쇠",
+    "kr": "파묻힌 도시 시청 열쇠",
     "tr": "Gömülü Şehir Belediye Binası Anahtarı",
     "hr": "Ključ Gradske Vijećnice Zakopanog Grada",
     "sr": "Ključ Gradske Većnice Zakopanog Grada"
@@ -35,7 +35,7 @@
     "zh-TW": "開啟埋沒之城市政廳的門",
     "uk": "Відкриває двері до ратуші Похованого міста",
     "zh-CN": "开启埋没之城市政厅的门",
-    "kr": "매장된 도시의 시청 문을 엽니다",
+    "kr": "파묻힌 도시의 시청 문을 엽니다",
     "tr": "Gömülü Şehir'deki Belediye Binası kapısını açar",
     "hr": "Otključava vrata Gradske Vijećnice u Zakopanom Gradu",
     "sr": "Otključava vrata Gradske Većnice u Zakopanom Gradu"
@@ -45,6 +45,7 @@
   "value": 100,
   "recyclesInto": {},
   "weightKg": 0.25,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/buried_city_town_hall_key.png",
-  "updatedAt": "10/31/2025"
+  "updatedAt": "12/07/2025"
 }

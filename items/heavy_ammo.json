@@ -15,7 +15,7 @@
     "zh-TW": "重型彈藥",
     "uk": "Важкі патрони",
     "zh-CN": "重型弹药",
-    "kr": "중화기 탄약",
+    "kr": "중량 총기 탄약",
     "tr": "Ağır Mermi",
     "hr": "Teško streljivo",
     "sr": "Teško streljivo"
@@ -46,7 +46,7 @@
     "Ferro",
     "Bettina"
   ],
-  "updatedAt": "11/03/2025",
+  "updatedAt": "12/07/2025",
   "value": 12,
   "weightKg": 0.05,
   "stackSize": 40,
@@ -56,5 +56,6 @@
     "metal_parts": 3,
     "chemicals": 2
   },
-  "craftBench": "workbench"
+  "craftBench": "workbench",
+  "craftQuantity": 10
 }

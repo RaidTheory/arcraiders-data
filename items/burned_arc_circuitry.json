@@ -15,7 +15,7 @@
     "zh-TW": "燒毀的Arc電路",
     "uk": "Згоріла схема Arc",
     "zh-CN": "烧毁的Arc电路",
-    "kr": "탄 Arc 회로",
+    "kr": "타버린 아크 회로",
     "tr": "Yanmış Arc Devresi",
     "hr": "Izgorjeli ARC Sklopovi",
     "sr": "Izgoreli ARC Sklopovi"
@@ -29,7 +29,7 @@
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "da": "Kan genbruges til håndværksmaterialer.",
-    "it": "Può essere riciclato in materiali da crafting.",
+    "it": "Si può riciclare in materiali da creazione.",
     "ru": "Можно переработать в материалы для крафта.",
     "ja": "クラフト素材にリサイクル可能。",
     "zh-TW": "可回收成製作材料。",
@@ -50,8 +50,8 @@
     "arc_alloy": 1
   },
   "weightKg": 1,
-  "stackSize": 3,
+  "stackSize": 5,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/burned_arc_circuitry.png",
-  "updatedAt": "11/04/2025"
+  "updatedAt": "12/07/2025"
 }

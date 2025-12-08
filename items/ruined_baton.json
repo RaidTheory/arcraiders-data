@@ -15,7 +15,7 @@
     "zh-TW": "損壞的警棍",
     "uk": "Зіпсована дубинка",
     "zh-CN": "损坏的警棍",
-    "kr": "망가진 경봉",
+    "kr": "망가진 경찰봉",
     "tr": "Harap Cop",
     "hr": "Uništena Palica",
     "sr": "Uništena Palica"
@@ -29,7 +29,7 @@
     "pl": "Można przetworzyć na materiały rzemieślnicze",
     "no": "Kan resirkuleres til håndverksmateriell",
     "da": "Kan genbruges til håndværksmaterialer",
-    "it": "Può essere riciclato in materiali da crafting",
+    "it": "Si può riciclare in materiali da creazione",
     "ru": "Можно переработать в материалы для крафта",
     "ja": "クラフト素材にリサイクルできる",
     "zh-TW": "可回收為製作材料",
@@ -45,7 +45,11 @@
   "foundIn": "Security",
   "value": 640,
   "weightKg": 0.8,
-  "recyclesInto": {},
+  "stackSize": 3,
+  "recyclesInto": {
+    "metal_parts": 6,
+    "rubber_parts": 3
+  },
   "imageFilename": "https://cdn.arctracker.io/items/ruined_baton.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "12/07/2025"
 }

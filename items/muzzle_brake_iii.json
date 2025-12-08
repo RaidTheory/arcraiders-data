@@ -96,7 +96,7 @@
       "pl": "Zwiększona szybkość zużycia wytrzymałości",
       "no": "Økt holdbarhetsforbrenningshastighet",
       "da": "Øget holdbarhedsforbrændingshastighed",
-      "it": "Tasso di consumo durabilità aumentato",
+      "it": "Tasso di consumo Tenuta aumentato",
       "ru": "Увеличенная скорость износа прочности",
       "ja": "耐久性消耗率増加",
       "zh-TW": "耐久度消耗速率增加",
@@ -110,5 +110,12 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_iii.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "12/07/2025",
+  "recipe": {
+    "mod_components": 2,
+    "wires": 8
+  },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
+  "blueprintLocked": true
 }

@@ -15,7 +15,7 @@
     "zh-TW": "埋沒之城醫院鑰匙",
     "uk": "Ключ від лікарні Похованого міста",
     "zh-CN": "埋没之城医院钥匙",
-    "kr": "매장된 도시 병원 열쇠",
+    "kr": "파묻힌 도시 병원 열쇠",
     "tr": "Gömülü Şehir Hastane Anahtarı",
     "hr": "Ključ bolnice zakopanog grada",
     "sr": "Ključ bolnice zakopanog grada"
@@ -35,7 +35,7 @@
     "zh-TW": "埋沒之城醫院內部區域的鑰匙。",
     "uk": "Ключ до приміщень у лікарні Похованого міста.",
     "zh-CN": "埋没之城医院内部区域的钥匙。",
-    "kr": "매장된 도시 병원 내부 구역의 열쇠.",
+    "kr": "파묻힌 도시 병원 내부 구역의 열쇠.",
     "tr": "Gömülü Şehir Hastanesi içindeki alanlara açılan anahtar.",
     "hr": "Ključ za područja unutar bolnice zakopanog grada.",
     "sr": "Ključ za oblasti unutar bolnice zakopanog grada."
@@ -44,6 +44,7 @@
   "rarity": "Rare",
   "value": 100,
   "weightKg": 0.25,
-  "recyclesInto": {},
-  "updatedAt": "10/30/2025"
+  "stackSize": 1,
+  "updatedAt": "12/07/2025",
+  "imageFilename": "https://cdn.arctracker.io/items/buried_city_hospital_key.png"
 }

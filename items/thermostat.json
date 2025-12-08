@@ -24,10 +24,13 @@
   "type": "Recyclable",
   "value": 1000,
   "recyclesInto": {
-    "rubber_parts": 6,
-    "sensors": 2
+    "rubber_parts": 7,
+    "sensors": 1
   },
-  "updatedAt": "12/03/2025",
+  "salvagesInto": {
+    "sensors": 1
+  },
+  "updatedAt": "12/07/2025",
   "description": {
     "en": "Can be recycled into crafting materials.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
@@ -37,7 +40,7 @@
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "da": "Kan genbruges til håndværksmaterialer.",
-    "it": "Può essere riciclato in materiali da crafting.",
+    "it": "Si può riciclare in materiali da creazione.",
     "ru": "Можно переработать в материалы для крафта.",
     "ja": "クラフト素材にリサイクルできます。",
     "zh-TW": "可回收為製作材料。",
@@ -51,8 +54,5 @@
   "weightKg": 2,
   "stackSize": 3,
   "foundIn": "Residential",
-  "imageFilename": "https://cdn.arctracker.io/items/thermostat.png",
-  "salvagesInto": {
-    "sensors": 1
-  }
+  "imageFilename": "https://cdn.arctracker.io/items/thermostat.png"
 }

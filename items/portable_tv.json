@@ -36,7 +36,7 @@
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "da": "Kan genbruges til håndværksmaterialer.",
-    "it": "Può essere riciclato in materiali da costruzione.",
+    "it": "Si può riciclare in materiali da costruzione.",
     "ru": "Можно переработать в материалы для крафта.",
     "ja": "クラフト素材にリサイクルできる。",
     "zh-TW": "可以回收成製作材料。",
@@ -49,8 +49,9 @@
   },
   "foundIn": "Residential",
   "weightKg": 3,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/portable_tv.png",
-  "updatedAt": "12/03/2025",
+  "updatedAt": "12/07/2025",
   "salvagesInto": {
     "wires": 4
   }

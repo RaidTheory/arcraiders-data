@@ -10,7 +10,7 @@
     "da": "Forlænget løb",
     "it": "Canna estesa",
     "ja": "延長バレル",
-    "kr": "연장 총열",
+    "kr": "확장형 총열",
     "zh-CN": "加长枪管",
     "zh-TW": "加長槍管",
     "ru": "Удлиненный ствол",
@@ -89,7 +89,14 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_barrel.png",
-  "updatedAt": "12/03/2025",
+  "updatedAt": "12/07/2025",
+  "recipe": {
+    "mod_components": 2,
+    "wires": 8
+  },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
+  "blueprintLocked": true,
   "recyclesInto": {
     "mod_components": 1,
     "wires": 1

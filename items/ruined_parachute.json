@@ -29,7 +29,7 @@
     "pl": "Może być przetworzony na materiały rzemieślnicze.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "da": "Kan genbruges til håndværksmaterialer.",
-    "it": "Può essere riciclato in materiali di fabbricazione.",
+    "it": "Si può riciclare in materiali di fabbricazione.",
     "ru": "Можно переработать в материалы для крафта.",
     "ja": "クラフト素材にリサイクルできます。",
     "zh-TW": "可以回收為製作材料。",
@@ -43,15 +43,15 @@
   "type": "Recyclable",
   "rarity": "Uncommon",
   "value": 640,
-  "recyclesInto": {
-    "fabric": 5
-  },
   "weightKg": 0.8,
   "stackSize": 3,
-  "foundIn": "Exodus",
-  "imageFilename": "https://cdn.arctracker.io/items/ruined_parachute.png",
-  "updatedAt": "12/03/2025",
+  "recyclesInto": {
+    "fabric": 10
+  },
   "salvagesInto": {
     "fabric": 5
-  }
+  },
+  "foundIn": "Exodus",
+  "imageFilename": "https://cdn.arctracker.io/items/ruined_parachute.png",
+  "updatedAt": "12/07/2025"
 }

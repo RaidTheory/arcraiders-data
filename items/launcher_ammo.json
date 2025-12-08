@@ -35,7 +35,7 @@
     "zh-TW": "主要由Hullcracker使用的反ARC彈頭。相容武器：Hullcracker",
     "uk": "Протиборонні боєприпаси, що використовуються в основному Hullcracker. Сумісно з: Hullcracker",
     "zh-CN": "主要由Hullcracker使用的反ARC弹头。兼容武器：Hullcracker",
-    "kr": "주로 Hullcracker가 사용하는 대ARC 탄두입니다. 호환 무기: Hullcracker",
+    "kr": "주로 헐크래커가 사용하는 대 아크 탄두입니다. 호환 무기: 헐크래커",
     "tr": "Esas olarak Hullcracker tarafından kullanılan Anti-ARC yükleri. Uyumlu silahlar: Hullcracker",
     "hr": "Anti-ARC projektili koje uglavnom koristi Hullcracker. Kompatibilno s: Hullcracker",
     "sr": "Anti-ARC projektili koje uglavnom koristi Hullcracker. Kompatibilno sa: Hullcracker"
@@ -49,10 +49,11 @@
   "weightKg": 0.1,
   "stackSize": 24,
   "imageFilename": "https://cdn.arctracker.io/items/launcher_ammo.png",
-  "updatedAt": "11/20/2025",
+  "updatedAt": "12/07/2025",
   "recipe": {
     "arc_motion_core": 1,
     "crude_explosives": 2
   },
-  "craftBench": "workbench"
+  "craftBench": "workbench",
+  "craftQuantity": 6
 }

@@ -29,7 +29,7 @@
     "pl": "Może być przetworzony na materiały rzemieślnicze.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "da": "Kan genbruges til håndværksmaterialer.",
-    "it": "Può essere riciclato in materiali di fabbricazione.",
+    "it": "Si può riciclare in materiali di fabbricazione.",
     "ru": "Можно переработать в материалы для крафта.",
     "ja": "クラフト素材にリサイクルできます。",
     "zh-TW": "可以回收為製作材料。",
@@ -44,13 +44,14 @@
   "rarity": "Common",
   "weightKg": 0.25,
   "value": 270,
+  "stackSize": 3,
   "recyclesInto": {
+    "arc_alloy": 1
+  },
+  "salvagesInto": {
     "metal_parts": 1
   },
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/damaged_wasp_driver.png",
-  "updatedAt": "12/03/2025",
-  "salvagesInto": {
-    "metal_parts": 1
-  }
+  "updatedAt": "12/07/2025"
 }

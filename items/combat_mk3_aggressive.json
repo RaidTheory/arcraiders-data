@@ -16,7 +16,7 @@
     "uk": "Бойовий Mk. 3 (Агресивний)",
     "sr": "Borbeni Mk. 3 (Agresivni)",
     "ja": "戦闘MK3（アグレッシブ）",
-    "kr": "전투 Mk. 3 (공격형)",
+    "kr": "전투 Mk. 3 (공격)",
     "pt": "Combate Mk. 3 (Agressivo)",
     "es": "Combate Ver. 3 (Agresivo)"
   },
@@ -36,7 +36,7 @@
     "uk": "Покращена версія аугментації Бойовий II. Підтримує більше типів щитів і має додатковий простір для гранат.",
     "sr": "Poboljšana verzija Combat II augmentacije. Podržava više vrsta štitova i dolazi sa dodatnim prostorom za granate.",
     "ja": "コンバット II オーグメントの改良版。より多くのシールドタイプに対応し、グレネード用の追加スペースを備えています。",
-    "kr": "전투 II 증강의 개선된 버전입니다. 더 많은 방패 유형을 지원하며 수류탄을 위한 추가 공간이 있습니다.",
+    "kr": "전투 II 증강의 개선된 버전입니다. 더 많은 실드 유형을 지원하며 수류탄을 위한 추가 공간이 있습니다.",
     "pt": "Uma versão melhorada do aumento Combate II. Suporta mais tipos de escudos e vem com espaço extra para granadas.",
     "es": "Una versión mejorada del aumento Combate II. Soporta más tipos de escudos y viene con espacio extra para granadas."
   },
@@ -206,7 +206,7 @@
       "uk": "Сумісність зі Щитом",
       "sr": "Kompatibilnost Štita",
       "ja": "シールド互換性",
-      "kr": "방패 호환성",
+      "kr": "실드 호환성",
       "pt": "Compatibilidade de Escudo",
       "es": "Compatibilidad de Escudo",
       "value": "Light, Medium, Heavy"

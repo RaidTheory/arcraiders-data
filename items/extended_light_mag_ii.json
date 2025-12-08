@@ -15,7 +15,7 @@
     "zh-TW": "延長輕型彈匣 II",
     "uk": "Розширений легкий магазин II",
     "zh-CN": "延长轻型弹匣 II",
-    "kr": "확장 경량 탄창 II",
+    "kr": "확장형 경량 탄창 II",
     "tr": "Genişletilmiş Hafif Şarjör II",
     "hr": "Produženi laki spremnik II",
     "sr": "Produženi laki okvir II"
@@ -54,7 +54,7 @@
       "pl": "Rozmiar magazynka",
       "no": "Magasinstørrelse",
       "da": "Magasinstørrelse",
-      "it": "Dimensione caricatore",
+      "it": "Dimensioni caricatore",
       "ru": "Размер магазина",
       "ja": "マガジンサイズ",
       "zh-TW": "彈匣容量",
@@ -72,8 +72,15 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_ii.png",
-  "updatedAt": "12/03/2025",
   "salvagesInto": {
     "mechanical_components": 1
-  }
+  },
+  "updatedAt": "12/07/2025",
+  "recipe": {
+    "mechanical_components": 2,
+    "steel_spring": 3
+  },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
+  "blueprintLocked": true
 }

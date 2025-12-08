@@ -15,7 +15,7 @@
     "zh-TW": "標記手榴彈",
     "uk": "Маркувальна граната",
     "zh-CN": "标记手榴弹",
-    "kr": "태깅 수류탄",
+    "kr": "표식 수류탄",
     "tr": "İşaretleme Bombası",
     "hr": "Granata za Označavanje",
     "sr": "Granata za Označavanje"
@@ -35,7 +35,7 @@
     "zh-TW": "延遲引爆的手榴彈，能標記區域內的掠奪者和ARC敵人，讓你能短暫追蹤他們的位置。",
     "uk": "Граната, що вибухає із затримкою та маркує рейдерів і ворогів ARC в області, дозволяючи вам короткочасно відстежувати їхнє місцезнаходження.",
     "zh-CN": "延迟引爆的手榴弹，能标记区域内的掠夺者和ARC敌人，让你能短暂追踪他们的位置。",
-    "kr": "지연 후 폭발하여 지역 내의 레이더와 ARC 적을 태그하여 잠시 동안 위치를 추적할 수 있게 하는 수류탄입니다.",
+    "kr": "지연 후 폭발하여 지역 내의 레이더와 아크을 태그하여 잠시 동안 위치를 추적할 수 있게 하는 수류탄입니다.",
     "tr": "Gecikmeli olarak patlayan ve bir alandaki Akıncıları ve ARC düşmanlarını işaretleyerek konumlarını kısa süreliğine takip etmenizi sağlayan bomba.",
     "hr": "Granata koja detonira nakon odgode, označavajući Razbojnike i ARC neprijatelje u području, omogućujući vam da kratko pratite njihovu lokaciju.",
     "sr": "Granata koja detonira nakon odlaganja, označavajući Razbojnike i ARC neprijatelje u području, omogućavajući vam da kratko pratite njihovu lokaciju."
@@ -102,5 +102,7 @@
   "craftBench": "utility_bench",
   "salvagesInto": {
     "sensors": 1
-  }
+  },
+  "stationLevelRequired": 3,
+  "blueprintLocked": true
 }

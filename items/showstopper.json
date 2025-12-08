@@ -61,7 +61,7 @@
       "zh-TW": "ARC暈眩持續時間",
       "uk": "Тривалість оглушення ARC",
       "zh-CN": "ARC晕眩持续时间",
-      "kr": "ARC 기절 지속시간",
+      "kr": "아크 기절 지속시간",
       "tr": "ARC Sersemletme Süresi",
       "hr": "Trajanje ARC Omamljivanja",
       "sr": "Trajanje ARC Omamljivanja",
@@ -76,7 +76,7 @@
       "pl": "Czas trwania ogłuszenia najeźdźcy",
       "no": "Raider bedøvelsesvarighet",
       "da": "Raider bedøvelsesvarighed",
-      "it": "Durata stordimento predone",
+      "it": "Durata stordimento Raider",
       "ru": "Длительность оглушения рейдера",
       "ja": "レイダースタン時間",
       "zh-TW": "掠奪者暈眩持續時間",
@@ -118,5 +118,12 @@
   },
   "salvagesInto": {
     "battery": 2
-  }
+  },
+  "recipe": {
+    "advanced_electrical_components": 1,
+    "voltage_converter": 1
+  },
+  "craftBench": "explosives_bench",
+  "stationLevelRequired": 3,
+  "blueprintLocked": true
 }

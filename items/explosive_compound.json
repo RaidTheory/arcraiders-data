@@ -15,7 +15,7 @@
     "zh-TW": "爆炸化合物",
     "uk": "Вибухова речовина",
     "zh-CN": "爆炸化合物",
-    "kr": "폭발 화합물",
+    "kr": "혼합 화약",
     "tr": "Patlayıcı Bileşik",
     "hr": "Eksplozivna smjesa",
     "sr": "Eksplozivna smesa"
@@ -29,7 +29,7 @@
     "pl": "Używany do tworzenia materiałów wybuchowych. Używany do tworzenia: Wolfpack, mina wybuchowa, granat zapalający, ciężki granat zapalnikowy",
     "no": "Brukes til å lage eksplosiver. Brukes til å lage: Wolfpack, eksplosiv mine, flammegranат, tung luntegranat",
     "da": "Bruges til at lave sprængstoffer. Bruges til at lave: Wolfpack, eksplosiv mine, flammegranат, tung lunтеgranat",
-    "it": "Usato per creare esplosivi. Usato per creare: Wolfpack, mina esplosiva, granata incendiaria, granata a miccia pesante",
+    "it": "Si usa per creare esplosivi. Si usa per creare: Trailblazer, Branco di lupi, Mina esplosiva, Granata incendiaria, Deadline",
     "ru": "Используется для создания взрывчатки. Используется для создания: Wolfpack, взрывная мина, огненная граната, тяжёлая граната с взрывателем",
     "ja": "爆発物の製作に使用される。製作可能: Wolfpack、爆発地雷、ブレイズグレネード、ヘビーフューズグレネード",
     "zh-TW": "用於製作爆裂物。可製作：Wolfpack、爆炸地雷、烈焰手榴彈、重型引信手榴彈",
@@ -47,13 +47,13 @@
   "stackSize": 5,
   "foundIn": "Industrial, Security",
   "imageFilename": "https://cdn.arctracker.io/items/explosive_compound.png",
-  "updatedAt": "12/03/2025",
+  "updatedAt": "12/07/2025",
   "recipe": {
     "crude_explosives": 2,
     "oil": 2
   },
   "recyclesInto": {
-    "chemicals": 2
+    "crude_explosives": 2
   },
   "craftBench": "refiner",
   "salvagesInto": {

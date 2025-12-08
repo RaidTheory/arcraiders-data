@@ -15,7 +15,7 @@
     "zh-TW": "垂直握把 II",
     "uk": "Вертикальна рукоятка II",
     "zh-CN": "垂直握把 II",
-    "kr": "수직 손잡이 II",
+    "kr": "수직 그립 II",
     "tr": "Dikey Kabza II",
     "hr": "Vertikalni Držač II",
     "sr": "Vertikalni Držač II"
@@ -79,5 +79,12 @@
     "Stitcher"
   ],
   "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
-  "updatedAt": "11/05/2025"
+  "updatedAt": "12/07/2025",
+  "recipe": {
+    "mechanical_components": 2,
+    "duct_tape": 3
+  },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
+  "blueprintLocked": true
 }

@@ -15,7 +15,7 @@
     "zh-TW": "損毀的防暴盾",
     "uk": "Зруйнований щит",
     "zh-CN": "损毁的防暴盾",
-    "kr": "파손된 진압 방패",
+    "kr": "망가진 진압 방패",
     "tr": "Harap Olmuş Çevik Kuvvet Kalkanı",
     "hr": "Uništeni protuštitni štit",
     "sr": "Uništeni štit za neredi"
@@ -29,7 +29,7 @@
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
     "da": "Kan genbruges til håndværksmaterialer.",
-    "it": "Può essere riciclato in materiali da crafting.",
+    "it": "Si può riciclare in materiali da creazione.",
     "ru": "Можно переработать в материалы для крафта.",
     "ja": "クラフト素材にリサイクル可能。",
     "zh-TW": "可回收為製作材料。",
@@ -44,9 +44,10 @@
   "rarity": "Rare",
   "value": 1000,
   "weightKg": 2,
+  "stackSize": 3,
   "foundIn": "Security",
   "imageFilename": "https://cdn.arctracker.io/items/ruined_riot_shield.png",
-  "updatedAt": "11/01/2025",
+  "updatedAt": "12/07/2025",
   "recyclesInto": {
     "plastic_parts": 10,
     "rubber_parts": 6

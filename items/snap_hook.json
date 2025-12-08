@@ -15,7 +15,7 @@
     "zh-TW": "扣鉤藍圖",
     "uk": "Карабін",
     "zh-CN": "快扣钩",
-    "kr": "스냅 후크",
+    "kr": "스냅 훅",
     "tr": "Mandal Kancası",
     "hr": "Brza Kuka",
     "sr": "Brza Kuka"
@@ -55,7 +55,7 @@
       "pl": "Wytrzymałość",
       "no": "Holdbarhet",
       "da": "Holdbarhed",
-      "it": "Durabilità",
+      "it": "Tenuta",
       "ru": "Прочность",
       "ja": "耐久性",
       "zh-TW": "耐久度",
@@ -90,7 +90,8 @@
     }
   },
   "recipe": {
-    "power_rod": 1,
+    "power_rod": 2,
+    "rope": 3,
     "exodus_modules": 1
   },
   "recyclesInto": {

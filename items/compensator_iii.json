@@ -96,7 +96,7 @@
       "pl": "Zwiększona szybkość zużycia wytrzymałości",
       "no": "Økt holdbarhetsforbrenningshastighet",
       "da": "Øget holdbarhedsforbrændingshastighed",
-      "it": "Tasso di consumo durabilità aumentato",
+      "it": "Tasso di consumo Tenuta aumentato",
       "ru": "Увеличение скорости износа",
       "ja": "耐久度消耗速度増加",
       "zh-TW": "增加耐久度消耗速度",
@@ -132,8 +132,10 @@
   "imageFilename": "https://cdn.arctracker.io/items/compensator_ii.png",
   "updatedAt": "11/03/2025",
   "recipe": {
-    "mechanical_components": 2,
+    "mod_components": 2,
     "wires": 8
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
+  "blueprintLocked": true
 }

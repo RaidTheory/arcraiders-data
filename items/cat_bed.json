@@ -9,7 +9,7 @@
     "pl": "Legowisko dla kota",
     "no": "Katteseng",
     "da": "Katteseng",
-    "it": "Lettino per gatti",
+    "it": "Cuccia del gatto",
     "ru": "Кошачья лежанка",
     "ja": "猫用ベッド",
     "zh-TW": "貓床",
@@ -42,10 +42,11 @@
   },
   "type": "Trinket",
   "value": 1000,
+  "recyclesInto": {},
   "weightKg": 0.5,
   "stackSize": 3,
   "foundIn": "Residential, Commercial",
   "imageFilename": "https://cdn.arctracker.io/items/cat_bed.png",
   "rarity": "Uncommon",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "12/07/2025"
 }

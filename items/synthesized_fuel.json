@@ -9,7 +9,7 @@
     "pl": "Syntetyczne paliwo",
     "no": "Syntetisert drivstoff",
     "da": "Syntetiseret brændstof",
-    "it": "Carburante sintetizzato",
+    "it": "Carburante sintetico",
     "ru": "Синтезированное топливо",
     "ja": "合成燃料",
     "zh-TW": "合成燃料",
@@ -29,7 +29,7 @@
     "pl": "Kanister syntetycznej mieszanki paliwowej.",
     "no": "En beholder med syntetisk drivstoffblanding.",
     "da": "En beholder med syntetisk brændstofblanding.",
-    "it": "Un contenitore di miscela di carburante sintetico.",
+    "it": "Si usa per creare oggetti funzionali ed esplosivi. Si può riciclare in sostanze chimiche.",
     "ru": "Канистра синтетической топливной смеси.",
     "ja": "合成燃料ブレンドの容器。",
     "zh-TW": "一罐合成燃料混合物。",
@@ -45,6 +45,7 @@
   "value": 700,
   "weightKg": 0.5,
   "foundIn": "Exodus",
+  "stackSize": 5,
   "recyclesInto": {
     "oil": 1,
     "plastic_parts": 1

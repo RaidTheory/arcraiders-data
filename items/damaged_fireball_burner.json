@@ -29,7 +29,7 @@
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
     "da": "Kan genbruges til håndværksmaterialer.",
-    "it": "Può essere riciclato in materiali da crafting.",
+    "it": "Si può riciclare in materiali da creazione.",
     "ja": "クラフト素材にリサイクルできます。",
     "kr": "제작 재료로 재활용할 수 있습니다.",
     "zh-CN": "可以回收为制作材料。",
@@ -42,9 +42,13 @@
   },
   "type": "Recyclable",
   "rarity": "Common",
+  "value": 270,
+  "recyclesInto": {
+    "arc_alloy": 1
+  },
   "weightKg": 1,
   "stackSize": 3,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/damaged_fireball_burner.png",
-  "updatedAt": "11/16/2025"
+  "updatedAt": "12/07/2025"
 }
