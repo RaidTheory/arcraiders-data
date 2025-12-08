@@ -50,13 +50,14 @@
     "Bobcat",
     "Stitcher"
   ],
-  "value": 0.76,
-  "weightKg": 0.00323,
+  "value": 4,
+  "weightKg": 0.017,
   "stackSize": 100,
-  "updatedAt": "11/03/2025",
+  "updatedAt": "12/07/2025",
   "recipe": {
     "metal_parts": 3,
     "chemicals": 2
   },
-  "craftBench": "workbench"
+  "craftBench": "workbench",
+  "craftQuantity": 25
 }
