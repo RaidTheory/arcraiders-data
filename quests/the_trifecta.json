@@ -167,15 +167,15 @@
   "requiredItemIds": [
     {
       "itemId": "snitch_scanner",
-      "quantity": 1
+      "quantity": 2
     },
     {
       "itemId": "wasp_driver",
-      "quantity": 1
+      "quantity": 2
     },
     {
       "itemId": "hornet_driver",
-      "quantity": 1
+      "quantity": 2
     }
   ],
   "grantedItemIds": [
