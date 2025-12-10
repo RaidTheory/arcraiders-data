@@ -124,6 +124,12 @@
       "hr": "Uključi struju pomoću prekidača ispod stubišta"
     }
   ],
+  "requiredItemIds": [
+    {
+      "itemId": "wires",
+      "quantity": 4
+    }
+  ],
   "rewardItemIds": [
     {
       "itemId": "helmet_radio_renegade",
