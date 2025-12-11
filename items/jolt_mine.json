@@ -110,7 +110,7 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "12/03/2025",
   "recyclesInto": {
     "battery": 1,
     "plastic_parts": 2
@@ -120,5 +120,8 @@
     "electrical_components": 1,
     "battery": 1
   },
-  "craftBench": "explosives_bench"
+  "craftBench": "explosives_bench",
+  "salvagesInto": {
+    "battery": 1
+  }
 }

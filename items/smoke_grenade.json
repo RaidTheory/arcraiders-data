@@ -101,5 +101,8 @@
   },
   "craftBench": "utility_bench",
   "stationLevelRequired": 2,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "salvagesInto": {
+    "chemicals": 3
+  }
 }

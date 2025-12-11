@@ -68,10 +68,13 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_iii.png",
   "value": 5000,
-  "updatedAt": "10/30/2025",
+  "updatedAt": "12/03/2025",
   "recyclesInto": {
     "mod_components": 1,
     "steel_spring": 2
+  },
+  "salvagesInto": {
+    "mechanical_components": 2
   },
   "recipe": {
     "mod_components": 2,

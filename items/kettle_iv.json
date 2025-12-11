@@ -44,6 +44,9 @@
   "rarity": "Common",
   "value": 5000,
   "weightKg": 7,
+  "recyclesInto": {
+    "simple_gun_parts": 2
+  },
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -152,6 +155,9 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "10/31/2025",
-  "isWeapon": true
+  "updatedAt": "12/03/2025",
+  "isWeapon": true,
+  "salvagesInto": {
+    "simple_gun_parts": 2
+  }
 }

@@ -71,7 +71,7 @@
       "value": "10m"
     }
   },
-  "updatedAt": "11/03/2025",
+  "updatedAt": "12/03/2025",
   "description": {
     "en": "Can be recycled into crafting materials. Can be thrown to create a violent singularity.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden. Kann geworfen werden, um eine heftige Singularität zu erzeugen.",
@@ -95,5 +95,8 @@
   "weightKg": 1,
   "stackSize": 3,
   "foundIn": "ARC",
-  "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png"
+  "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png",
+  "salvagesInto": {
+    "mechanical_components": 2
+  }
 }

@@ -43,6 +43,9 @@
   "type": "Quick Use",
   "rarity": "Common",
   "value": 640,
+  "recyclesInto": {
+    "speaker_component": 1
+  },
   "weightKg": 0.3,
   "stackSize": 3,
   "effects": {
@@ -90,5 +93,8 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/noisemaker.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "12/03/2025",
+  "salvagesInto": {
+    "speaker_component": 1
+  }
 }

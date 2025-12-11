@@ -159,6 +159,9 @@
     "simple_gun_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "11/24/2025",
-  "isWeapon": true
+  "updatedAt": "12/03/2025",
+  "isWeapon": true,
+  "salvagesInto": {
+    "metal_parts": 2
+  }
 }

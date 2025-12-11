@@ -50,9 +50,12 @@
   "weightKg": 0.5,
   "stackSize": 5,
   "foundIn": "Security, Raider",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "12/03/2025",
   "recipe": {
     "simple_gun_parts": 4
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "simple_gun_parts": 1
+  }
 }

@@ -42,6 +42,9 @@
   },
   "type": "Assault Rifle",
   "rarity": "Common",
+  "recyclesInto": {
+    "metal_parts": 12
+  },
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -172,7 +175,7 @@
   },
   "weightKg": 6,
   "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-  "updatedAt": "11/12/2025",
+  "updatedAt": "12/03/2025",
   "value": 5000,
   "craftBench": "weapon_bench",
   "upgradeCost": {
@@ -180,5 +183,8 @@
     "simple_gun_parts": 1
   },
   "stationLevelRequired": 1,
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "metal_parts": 12
+  }
 }

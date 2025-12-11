@@ -55,8 +55,8 @@
   "recyclesInto": {
     "crude_explosives": 2
   },
+  "craftBench": "refiner",
   "salvagesInto": {
     "crude_explosives": 1
-  },
-  "craftBench": "refiner"
+  }
 }

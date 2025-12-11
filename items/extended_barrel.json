@@ -100,5 +100,8 @@
   "recyclesInto": {
     "mod_components": 1,
     "wires": 1
+  },
+  "salvagesInto": {
+    "mechanical_components": 2
   }
 }
