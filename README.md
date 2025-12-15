@@ -40,10 +40,7 @@ All game content, including but not limited to game mechanics, items, names, and
 
 If you use this data in your project, please include attribution by linking to this repository:
 ```
-https://github.com/RaidTheory/arcraiders-data
-```
-
-Consider also adding a link to https://arctracker.io
+https://github.com/RaidTheory/arcraiders-data and https://arctracker.io
 
 ## Community
 

@@ -152,8 +152,9 @@
   "value": 13000,
   "weightKg": 11,
   "recipe": {
-    "advanced_mechanical_components": 2,
-    "medium_gun_parts": 1
+    "exodus_modules": 2,
+    "magnetic_accelerator": 1,
+    "medium_gun_parts": 3
   },
   "recyclesInto": {
     "advanced_mechanical_components": 2,

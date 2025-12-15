@@ -1,0 +1,166 @@
+{
+  "_readme": {
+    "description": "Map events rotation schedule for ARC Raiders",
+    "format": "Times in schedule are UTC hours (0-23). Add 'disabled: true' to eventTypes to temporarily disable an event.",
+    "example": "To add Night Raid at 5 PM UTC on Dam: schedule.dam-battleground.major['17'] = 'night-raid'"
+  },
+  "eventTypes": {
+    "night-raid": {
+      "displayName": "Night Raid",
+      "icon": "https://cdn.arctracker.io/map-events/night_raid.png",
+      "translationKey": "nightRaid"
+    },
+    "electromagnetic-storm": {
+      "displayName": "Electromagnetic Storm",
+      "icon": "https://cdn.arctracker.io/map-events/electromagnetic_storm.png",
+      "translationKey": "electromagneticStorm"
+    },
+    "matriarch": {
+      "displayName": "Matriarch",
+      "icon": "https://cdn.arctracker.io/map-events/matriarch.png",
+      "translationKey": "matriarch"
+    },
+    "harvester": {
+      "displayName": "Harvester",
+      "icon": "https://cdn.arctracker.io/map-events/harvester.png",
+      "translationKey": "harvester"
+    },
+    "lush-blooms": {
+      "displayName": "Lush Blooms",
+      "icon": "https://cdn.arctracker.io/map-events/lush_blooms.png",
+      "translationKey": "lushBlooms"
+    },
+    "prospecting-probes": {
+      "displayName": "Prospecting Probes",
+      "icon": "https://cdn.arctracker.io/map-events/prospecting_probes.png",
+      "translationKey": "prospectingProbes",
+      "disabled": true
+    },
+    "husk-graveyard": {
+      "displayName": "Husk Graveyard",
+      "icon": "https://cdn.arctracker.io/map-events/husk_graveyard.png",
+      "translationKey": "huskGraveyard",
+      "disabled": true
+    },
+    "uncovered-caches": {
+      "displayName": "Uncovered Caches",
+      "icon": "https://cdn.arctracker.io/map-events/uncovered_caches.png",
+      "translationKey": "uncoveredCaches"
+    },
+    "launch-tower-loot": {
+      "displayName": "Launch Tower Loot",
+      "icon": "https://cdn.arctracker.io/map-events/launch_tower_loot.png",
+      "translationKey": "launchTowerLoot"
+    },
+    "hidden-bunker": {
+      "displayName": "Hidden Bunker",
+      "icon": "https://cdn.arctracker.io/map-events/hidden_bunker.png",
+      "translationKey": "hiddenBunker",
+      "disabled": true
+    },
+    "none": {
+      "displayName": "None",
+      "icon": "",
+      "translationKey": "none"
+    }
+  },
+  "maps": {
+    "dam-battleground": {
+      "displayName": "Dam Battleground"
+    },
+    "buried-city": {
+      "displayName": "Buried City"
+    },
+    "the-spaceport": {
+      "displayName": "The Spaceport"
+    },
+    "blue-gate": {
+      "displayName": "Blue Gate"
+    },
+    "stella-montis": {
+      "displayName": "Stella Montis"
+    }
+  },
+  "schedule": {
+    "dam-battleground": {
+      "major": {
+        "2": "night-raid",
+        "10": "night-raid",
+        "18": "night-raid",
+        "22": "electromagnetic-storm"
+      },
+      "minor": {
+        "1": "lush-blooms",
+        "5": "uncovered-caches",
+        "9": "harvester",
+        "13": "matriarch",
+        "17": "lush-blooms",
+        "21": "harvester"
+      }
+    },
+    "buried-city": {
+      "major": {
+        "3": "night-raid",
+        "7": "night-raid",
+        "15": "night-raid",
+        "19": "night-raid",
+        "23": "night-raid"
+      },
+      "minor": {
+        "0": "lush-blooms",
+        "4": "uncovered-caches",
+        "8": "lush-blooms",
+        "12": "uncovered-caches",
+        "20": "uncovered-caches"
+      }
+    },
+    "the-spaceport": {
+      "major": {
+        "1": "electromagnetic-storm",
+        "4": "night-raid",
+        "16": "night-raid",
+        "19": "electromagnetic-storm",
+        "22": "night-raid"
+      },
+      "minor": {
+        "3": "matriarch",
+        "7": "launch-tower-loot",
+        "11": "harvester",
+        "15": "launch-tower-loot",
+        "19": "matriarch",
+        "23": "harvester"
+      }
+    },
+    "blue-gate": {
+      "major": {
+        "0": "night-raid",
+        "3": "electromagnetic-storm",
+        "6": "night-raid",
+        "12": "night-raid",
+        "18": "night-raid",
+        "21": "electromagnetic-storm"
+      },
+      "minor": {
+        "2": "matriarch",
+        "5": "lush-blooms",
+        "8": "matriarch",
+        "11": "harvester",
+        "17": "uncovered-caches",
+        "20": "harvester",
+        "23": "lush-blooms"
+      }
+    },
+    "stella-montis": {
+      "major": {
+        "2": "night-raid",
+        "4": "night-raid",
+        "8": "night-raid",
+        "14": "night-raid",
+        "16": "night-raid",
+        "21": "night-raid",
+        "22": "night-raid"
+      },
+      "minor": {}
+    }
+  }
+}
