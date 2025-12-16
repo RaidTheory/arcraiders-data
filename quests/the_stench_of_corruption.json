@@ -32,11 +32,11 @@
   "grantedItemIds": [],
   "rewardItemIds": [
     {
-      "itemId": "air-freshener",
+      "itemId": "air_freshener",
       "quantity": 1
     },
     {
-      "itemId": "dam-staff-room-key",
+      "itemId": "dam_staff_room_key",
       "quantity": 1
     },
     {
@@ -44,7 +44,7 @@
       "quantity": 3
     },
     {
-      "itemId": "warden-outfit",
+      "itemId": "warden_outfit",
       "quantity": 1
     }
   ],
