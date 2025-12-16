@@ -1,0 +1,63 @@
+{
+  "id": "fireworks_box",
+  "name": {
+    "en": "Fireworks Box",
+    "de": "Feuerwerkskiste",
+    "fr": "Boîte de feux d'artifice",
+    "es": "Caja de fuegos artificiales",
+    "pt": "Caixa de fogos de artifício",
+    "pl": "Pudełko fajerwerków",
+    "no": "Fyrverkeriboks",
+    "da": "Fyrværkerikasse",
+    "it": "Scatola di fuochi d'artificio",
+    "ru": "Коробка фейерверков",
+    "ja": "花火箱",
+    "zh-TW": "煙火箱",
+    "uk": "Коробка феєрверків",
+    "zh-CN": "烟花箱",
+    "kr": "불꽃놀이 상자",
+    "tr": "Havai Fişek Kutusu",
+    "hr": "Kutija vatrometa",
+    "sr": "Kutija vatrometa"
+  },
+  "description": {
+    "en": "A remotely triggered arrangement of dazzling fireworks, sure to put on a show.",
+    "de": "Eine ferngesteuerte Anordnung funkelnder Feuerwerkskörper – garantiert ein Spektakel.",
+    "fr": "Un assortiment de feux d'artifice éblouissants déclenché à distance, parfait pour faire le spectacle.",
+    "es": "Un conjunto de fuegos artificiales deslumbrantes activados a distancia, perfecto para dar espectáculo.",
+    "pt": "Um conjunto de fogos de artifício deslumbrantes acionado remotamente, feito para dar um show.",
+    "pl": "Zdalnie odpalany zestaw olśniewających fajerwerków — na pewno zrobi wrażenie.",
+    "no": "Et fjernutløst oppsett med blendende fyrverkeri – garantert show.",
+    "da": "Et fjernudløst arrangement af blændende fyrværkeri – helt sikkert et show.",
+    "it": "Un assortimento di fuochi d'artificio abbaglianti attivato a distanza, pronto a mettere in scena uno spettacolo.",
+    "ru": "Дистанционно запускаемый набор ослепительных фейерверков — настоящее шоу.",
+    "ja": "遠隔で起動する、まばゆい花火のセット。きっとショーになる。",
+    "zh-TW": "可遠端觸發的絢麗煙火組合，保證帶來一場表演。",
+    "uk": "Набір яскравих феєрверків із дистанційним запуском — справжнє шоу.",
+    "zh-CN": "可远程触发的绚丽烟花组合，保证带来一场表演。",
+    "kr": "원격으로 작동하는 눈부신 불꽃놀이 세트. 확실히 쇼를 보여줍니다.",
+    "tr": "Uzaktan tetiklenen göz kamaştırıcı havai fişek düzeni; tam bir gösteri.",
+    "hr": "Daljinski aktiviran raspored blještavog vatrometa, sigurno će napraviti predstavu.",
+    "sr": "Daljinski aktiviran raspored blještavog vatrometa, sigurno će napraviti predstavu."
+  },
+  "type": "Quick Use",
+  "rarity": "Rare",
+  "value": 2000,
+  "weightKg": 0.5,
+  "stackSize": 1,
+  "recyclesInto": {
+    "explosive_compound": 1
+  },
+  "salvagesInto": {
+    "explosive_compound": 1
+  },
+  "recipe": {
+    "explosive_compound": 1,
+    "pop_trigger": 3
+  },
+  "craftBench": "explosives_bench",
+  "stationLevelRequired": 2,
+  "blueprintLocked": true,
+  "imageFilename": "https://cdn.arctracker.io/items/fireworks_box.png",
+  "updatedAt": "12/16/2025"
+}
