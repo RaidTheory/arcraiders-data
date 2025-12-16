@@ -1,0 +1,135 @@
+{
+  "id": "groundbreaking",
+  "updatedAt": "12/16/2025",
+  "name": {
+    "en": "Groundbreaking",
+    "zh-CN": "破土动工",
+    "zh-TW": "破土動工",
+    "da": "Banebrydende arbejde",
+    "de": "Bahnbrechend",
+    "es": "Comenzando la obra",
+    "fr": "Coup d’envoi des travaux",
+    "it": "Lavori pionieristici",
+    "ja": "着工",
+    "ko": "착공",
+    "no": "Banebrytende arbeid",
+    "pl": "Przełomowe prace",
+    "pt": "Início das Obras",
+    "ru": "Начало работ",
+    "tr": "Temel Atma",
+    "uk": "Початок робіт"
+  },
+  "map": ["the_blue_gate"],
+  "trader": "Apollo",
+  "description": {
+    "en": "Data or no data: we'll learn how to make this place earthquake-proof. With a research this in-depth, there's bound to be a paper trail somewhere.",
+    "zh-CN": "不管有没有数据：我们都得学会让这里具备抗震能力。如此深入的研究，肯定会在某处留下文件线索。",
+    "zh-TW": "不管有沒有資料：我們都得學會讓這地方具備抗震能力。如此深入的研究，肯定會在某處留下文件線索。",
+    "da": "Data eller ej: Vi finder ud af, hvordan vi gør stedet jordskælvssikkert. Med så dybdegående forskning må der være et papirspor et sted.",
+    "de": "Daten hin oder her: Wir lernen, wie wir diesen Ort erdbebensicher machen. Bei so tiefgehender Forschung muss es irgendwo eine Spur aus Dokumenten geben.",
+    "es": "Con datos o sin datos: aprenderemos a hacer este lugar a prueba de terremotos. Con una investigación tan profunda, seguro que hay un rastro en papel en alguna parte.",
+    "fr": "Données ou pas : on apprendra à rendre cet endroit résistant aux séismes. Avec une recherche aussi poussée, il doit forcément y avoir une trace écrite quelque part.",
+    "it": "Dati o non dati: impareremo a rendere questo posto antisismico. Con una ricerca così approfondita, da qualche parte ci sarà sicuramente una traccia su carta.",
+    "ja": "データがあろうとなかろうと、ここを耐震化する方法を突き止める。これだけ綿密な研究なら、どこかに書類の痕跡が残っているはずだ。",
+    "ko": "데이터가 있든 없든, 이곳을 내진 설계로 만드는 방법을 알아낼 거야. 이렇게 깊이 파고든 연구라면 어딘가에 문서 흔적이 남아 있을 거다.",
+    "no": "Data eller ikke: Vi skal lære hvordan vi gjør dette stedet jordskjelvsikkert. Med så grundig forskning må det finnes et papirspor et sted.",
+    "pl": "Z danymi czy bez: dowiemy się, jak zrobić to miejsce odpornym na trzęsienia ziemi. Przy tak dogłębnych badaniach gdzieś na pewno jest papierowy ślad.",
+    "pt": "Com dados ou sem dados: vamos aprender a deixar este lugar à prova de terremotos. Com uma pesquisa tão aprofundada, com certeza existe uma trilha de documentos em algum lugar.",
+    "ru": "С данными или без: мы узнаем, как сделать это место сейсмоустойчивым. При таком глубоком исследовании где-то наверняка остался бумажный след.",
+    "tr": "Veri olsun ya da olmasın: burayı depreme dayanıklı hâle getirmeyi öğreneceğiz. Bu kadar derin bir araştırmanın bir yerde mutlaka evrak izi vardır.",
+    "uk": "Є дані чи немає: ми дізнаємося, як зробити це місце сейсмостійким. За такого ґрунтовного дослідження десь обов’язково лишився паперовий слід."
+  },
+  "objectives": [
+    {
+      "en": "Enter the locked room at Pilgrim's Peak",
+      "zh-CN": "进入朝圣者峰的上锁房间",
+      "zh-TW": "進入朝聖者峰的上鎖房間",
+      "da": "Gå ind i det aflåste rum ved Pilgrim's Peak",
+      "de": "Betritt den verschlossenen Raum am Pilgrim’s Peak",
+      "es": "Entra en la habitación cerrada de Pilgrim's Peak",
+      "fr": "Entrer dans la pièce verrouillée à Pilgrim’s Peak",
+      "it": "Entra nella stanza chiusa a chiave a Pilgrim’s Peak",
+      "ja": "ピルグリムズ・ピークの施錠された部屋に入る",
+      "ko": "필그림스 피크의 잠긴 방에 들어가기",
+      "no": "Gå inn i det låste rommet ved Pilgrim’s Peak",
+      "pl": "Wejdź do zamkniętego pomieszczenia na Pilgrim’s Peak",
+      "pt": "Entre na sala trancada em Pilgrim's Peak",
+      "ru": "Войдите в запертую комнату на Пилигримс-Пик",
+      "tr": "Pilgrim’s Peak’teki kilitli odaya gir",
+      "uk": "Увійди до замкненої кімнати на Пілігримс-Пік"
+    },
+    {
+      "en": "Search the room for any construction research",
+      "zh-CN": "搜查房间，寻找任何建筑研究资料",
+      "zh-TW": "搜查房間，尋找任何建築研究資料",
+      "da": "Gennemsøg rummet efter forskning i byggeri",
+      "de": "Durchsuche den Raum nach Bau-Forschungsunterlagen",
+      "es": "Registra la habitación en busca de investigaciones de construcción",
+      "fr": "Fouiller la pièce à la recherche de documents de recherche en construction",
+      "it": "Cerca nella stanza qualsiasi ricerca sulla costruzione",
+      "ja": "部屋を調べ、建設研究に関する資料を探す",
+      "ko": "방에서 건설 연구 자료를 찾아 수색",
+      "no": "Søk i rommet etter forskning om bygg og anlegg",
+      "pl": "Przeszukaj pomieszczenie w poszukiwaniu badań budowlanych",
+      "pt": "Revire a sala em busca de pesquisas de construção",
+      "ru": "Обыщите комнату в поисках строительных исследований",
+      "tr": "Odada inşaat araştırmasına dair bir şeyler ara",
+      "uk": "Обшукай кімнату в пошуках будь-яких будівельних досліджень"
+    },
+    {
+      "en": "Find the building pictured on the whiteboard",
+      "zh-CN": "找到白板上画着的建筑",
+      "zh-TW": "找到白板上畫著的建築",
+      "da": "Find bygningen, der er afbildet på whiteboardet",
+      "de": "Finde das Gebäude, das auf dem Whiteboard abgebildet ist",
+      "es": "Encuentra el edificio que aparece en la pizarra",
+      "fr": "Trouver le bâtiment représenté sur le tableau blanc",
+      "it": "Trova l’edificio raffigurato sulla lavagna",
+      "ja": "ホワイトボードに描かれた建物を見つける",
+      "ko": "화이트보드에 그려진 건물을 찾기",
+      "no": "Finn bygningen som er avbildet på tavlen",
+      "pl": "Znajdź budynek przedstawiony na tablicy",
+      "pt": "Encontre o prédio retratado no quadro branco",
+      "ru": "Найдите здание, изображённое на доске",
+      "tr": "Beyaz tahtada çizilen binayı bul",
+      "uk": "Знайди будівлю, зображену на дошці"
+    },
+    {
+      "en": "Photograph the abandoned housing project",
+      "zh-CN": "拍摄废弃住宅项目的照片",
+      "zh-TW": "拍攝廢棄住宅計畫的照片",
+      "da": "Fotografér det forladte boligbyggeri",
+      "de": "Fotografiere das verlassene Wohnbauprojekt",
+      "es": "Fotografía el proyecto de viviendas abandonado",
+      "fr": "Photographier le projet de logements abandonné",
+      "it": "Fotografa il complesso residenziale abbandonato",
+      "ja": "放棄された住宅開発計画を撮影する",
+      "ko": "버려진 주택 개발 사업을 사진 촬영",
+      "no": "Fotografer det forlatte boligprosjektet",
+      "pl": "Zrób zdjęcie opuszczonego osiedla",
+      "pt": "Fotografe o conjunto habitacional abandonado",
+      "ru": "Сфотографируйте заброшенный жилой комплекс",
+      "tr": "Terk edilmiş konut projesinin fotoğrafını çek",
+      "uk": "Сфотографуй покинутий житловий проєкт"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "blue_gate_communication_tower_key",
+      "quantity": 1
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "power_rod",
+      "quantity": 1
+    },
+    {
+      "itemId": "tangerine_warden_color",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [],
+  "nextQuestIds": []
+}
