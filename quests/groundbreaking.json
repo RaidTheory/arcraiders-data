@@ -1,0 +1,45 @@
+{
+  "id": "groundbreaking",
+  "updatedAt": "12/16/2025",
+  "name": {
+    "en": "Groundbreaking"
+  },
+  "map": ["the_blue_gate"],
+  "trader": "Apollo",
+  "description": {
+    "en": "Data or no data: we'll learn how to make this place earthquake-proof. With a research this in-depth, there's bound to be a paper trail somewhere."
+  },
+  "objectives": [
+    {
+      "en": "Enter the locked room at Pilgrim's Peak"
+    },
+    {
+      "en": "Search the room for any construction research"
+    },
+    {
+      "en": "Find the building pictured on the whiteboard"
+    },
+    {
+      "en": "Photograph the abandoned housing project"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "blue-gate-communication-tower-key",
+      "quantity": 1
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "power-rod",
+      "quantity": 1
+    },
+    {
+      "itemId": "tangerine-warden-color",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [],
+  "nextQuestIds": []
+}

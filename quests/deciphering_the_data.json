@@ -1,0 +1,37 @@
+{
+  "id": "deciphering_the_data",
+  "updatedAt": "12/16/2025",
+  "name": {
+    "en": "Deciphering the Data"
+  },
+  "map": ["the_spaceport"],
+  "trader": "Shani",
+  "description": {
+    "en": "If the data you found can keep the ceiling from collapsing, we have no time to spare. I know of a few magnetic decryptors around Acerra Spaceport, from back during the Exodus. They might still be working."
+  },
+  "objectives": [
+    {
+      "en": "Use the Magnetic Decryptor in the Fuel Control Building"
+    },
+    {
+      "en": "Reach the Arrival Building in Spaceport"
+    },
+    {
+      "en": "Use the Magnetic Decryptor on the top floor of the Arrival Building"
+    }
+  ],
+  "grantedItemIds": [],
+  "rewardItemIds": [
+    {
+      "itemId": "defibrillator",
+      "quantity": 3
+    },
+    {
+      "itemId": "trailblazer-grenade",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [],
+  "nextQuestIds": []
+}

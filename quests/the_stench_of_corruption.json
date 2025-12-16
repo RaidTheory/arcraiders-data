@@ -1,0 +1,54 @@
+{
+  "id": "the_stench_of_corruption",
+  "updatedAt": "12/16/2025",
+  "name": {
+    "en": "The Stench of Corruption"
+  },
+  "map": ["the_spaceport"],
+  "trader": "Shani",
+  "description": {
+    "en": "That key you found in the barrel truck... I won't jump to accusations just yet, but this reeks of an inside job. Could you investigate a hunch I have?"
+  },
+  "objectives": [
+    {
+      "en": "In one round"
+    },
+    {
+      "en": "Reach the southwest lobby of the Departure Building"
+    },
+    {
+      "en": "Find the staff locker room"
+    },
+    {
+      "en": "Search the room for any clues of the saboteur's identity"
+    },
+    {
+      "en": "Reach the tunnels below the Spaceport"
+    },
+    {
+      "en": "Use the key on any Flushing Terminal to override the bypass protocol"
+    }
+  ],
+  "grantedItemIds": [],
+  "rewardItemIds": [
+    {
+      "itemId": "air-freshener",
+      "quantity": 1
+    },
+    {
+      "itemId": "dam-staff-room-key",
+      "quantity": 1
+    },
+    {
+      "itemId": "noisemaker",
+      "quantity": 3
+    },
+    {
+      "itemId": "warden-outfit",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [],
+  "nextQuestIds": []
+}
