@@ -1,0 +1,48 @@
+{
+  "id": "a_toxic_trail",
+  "updatedAt": "12/16/2025",
+  "name": {
+    "en": "A Toxic Trail"
+  },
+  "map": ["dam_battlegrounds"],
+  "trader": "Shani",
+  "description": {
+    "en": "We've got clean water again, but we can't risk people falling ill if the saboteurs return. We need to root them out once and for all."
+  },
+  "objectives": [
+    {
+      "en": "Return to the water intake below the Water Treatment Control building"
+    },
+    {
+      "en": "Search the swamp for traces of the barrel's origins"
+    },
+    {
+      "en": "Take a photo of the barrel truck"
+    },
+    {
+      "en": "Search the truck for clues about the saboteur's identity."
+    }
+  ],
+  "grantedItemIds": [],
+  "rewardItemIds": [
+    {
+      "itemId": "tactical_mk_2",
+      "quantity": 1
+    },
+    {
+      "itemId": "zipline",
+      "quantity": 3
+    },
+    {
+      "itemId": "pulse_mine",
+      "quantity": 3
+    },
+    {
+      "itemId": "gas_mine",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [],
+  "nextQuestIds": []
+}
