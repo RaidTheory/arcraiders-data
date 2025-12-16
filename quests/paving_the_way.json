@@ -1,0 +1,44 @@
+{
+  "id": "paving_the_way",
+  "updatedAt": "12/16/2025",
+  "name": {
+    "en": "Paving the Way"
+  },
+  "map": ["dam_battlegrounds", "the_blue_gate", "buried_city"],
+  "trader": "Apollo",
+  "description": {
+    "en": "For an entire sector to collapse like that... No wonder people are scared. We need to reinforce beyond anything we've done before, and we can't do it alone."
+  },
+  "objectives": [
+    {
+      "en": "Go to any ENLICA building"
+    },
+    {
+      "en": "Search for a notice board with a note from the researcher"
+    },
+    {
+      "en": "on Buried City, reach the top floor above the Convinio in Piazza Roma"
+    },
+    {
+      "en": "Find the researcher's flat and search for any research data"
+    }
+  ],
+  "grantedItemIds": [],
+  "rewardItemIds": [
+    {
+      "itemId": "raider_hatch_key",
+      "quantity": 1
+    },
+    {
+      "itemId": "seeker_grenade",
+      "quantity": 3
+    },
+    {
+      "itemId": "advanced_electrical_components",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [],
+  "nextQuestIds": []
+}

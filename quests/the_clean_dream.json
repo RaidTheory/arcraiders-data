@@ -1,0 +1,46 @@
+{
+  "id": "the_clean_dream",
+  "updatedAt": "12/16/2025",
+  "name": {
+    "en": "The Clean Dream"
+  },
+  "map": ["the_spaceport", "the_blue_gate"],
+  "trader": "Apollo",
+  "description": {
+    "en": "You know what I've been dreaming of lately? A talking water distiller! Crazy, huh? But seriously, with purer compounds I could make explosives with more oumph! Would be something, right?"
+  },
+  "objectives": [
+    {
+      "en": "On spaceport, search 4 containers in the underground tunnels."
+    },
+    {
+      "en": "Find and monitor any Filtration System in the tunnels."
+    },
+    {
+      "en": "On The Blue Gate, visit the maintenance Bunker"
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "blue_light_stick",
+      "quantity": 1
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "deadline",
+      "quantity": 1
+    },
+    {
+      "itemId": "showstopper",
+      "quantity": 3
+    },
+    {
+      "itemId": "heavy_fuze_grenade",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": [],
+  "nextQuestIds": []
+}
