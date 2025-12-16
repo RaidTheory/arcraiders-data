@@ -1,0 +1,112 @@
+{
+  "id": "deciphering_the_data",
+  "updatedAt": "12/16/2025",
+  "name": {
+    "en": "Deciphering the Data",
+    "zh-CN": "破译数据",
+    "zh-TW": "破譯資料",
+    "da": "Afdækning af dataene",
+    "de": "Entschlüsselung der Daten",
+    "es": "Descifrando los datos",
+    "fr": "Déchiffrer les données",
+    "it": "Decifrare i dati",
+    "ja": "データの解読",
+    "ko": "데이터 해독",
+    "no": "Dekryptering av dataene",
+    "pl": "Odszyfrowywanie danych",
+    "pt": "Decifrando os Dados",
+    "ru": "Расшифровка данных",
+    "tr": "Verileri Çözümlemek",
+    "uk": "Розшифрування даних"
+  },
+  "map": ["the_spaceport"],
+  "trader": "Shani",
+  "description": {
+    "en": "If the data you found can keep the ceiling from collapsing, we have no time to spare. I know of a few magnetic decryptors around Acerra Spaceport, from back during the Exodus. They might still be working.",
+    "zh-CN": "如果你找到的数据能阻止天花板坍塌，我们就没时间浪费了。我知道在阿塞拉太空港附近有几台磁力解密器，是在“大撤离”时期留下的。它们也许还能用。",
+    "zh-TW": "如果你找到的資料能防止天花板坍塌，我們就沒有時間浪費了。我知道在阿塞拉太空港附近有幾台磁力解密器，是在「大撤離」時期留下的。它們也許還能用。",
+    "da": "Hvis de data, du fandt, kan forhindre loftet i at styrte sammen, har vi ikke tid at spilde. Jeg kender til nogle magnetiske dekryptorer omkring Acerra Spaceport fra tiden under Exodus. De virker måske stadig.",
+    "de": "Wenn die Daten, die du gefunden hast, verhindern können, dass die Decke einstürzt, dürfen wir keine Zeit verlieren. Ich kenne ein paar magnetische Entschlüsseler rund um den Raumhafen Acerra, noch aus der Zeit des Exodus. Vielleicht funktionieren sie noch.",
+    "es": "Si los datos que encontraste pueden evitar que el techo se desplome, no tenemos tiempo que perder. Conozco algunos descifradores magnéticos por Acerra Spaceport, de la época del Éxodo. Puede que todavía funcionen.",
+    "fr": "Si les données que tu as trouvées peuvent empêcher le plafond de s’effondrer, nous n’avons pas une seconde à perdre. Je connais quelques déchiffreurs magnétiques autour du spatioport d’Acerra, datant de l’Exode. Ils fonctionnent peut-être encore.",
+    "it": "Se i dati che hai trovato possono impedire che il soffitto crolli, non abbiamo tempo da perdere. Conosco alcuni decrittatori magnetici nei dintorni dello Spaceport di Acerra, risalenti all’epoca dell’Esodo. Potrebbero funzionare ancora.",
+    "ja": "見つけたデータが天井の崩落を防げるなら、時間を無駄にしている暇はない。エクソダスの頃に使われていた磁気デクリプターが、アセラ宇宙港周辺にいくつかあるはずだ。まだ動くかもしれない。",
+    "ko": "네가 찾은 데이터가 천장이 붕괴하는 걸 막을 수 있다면, 지체할 시간이 없어. 엑소더스 시절부터 아세라 우주항 주변에 자력 해독기가 몇 대 있어. 아직 작동할지도 몰라.",
+    "no": "Hvis dataene du fant kan hindre at taket raser sammen, har vi ikke tid å miste. Jeg vet om noen magnetiske dekryptorer rundt Acerra Spaceport, helt tilbake fra Exodus. De kan fortsatt virke.",
+    "pl": "Jeśli dane, które znalazłeś, mogą powstrzymać sufit przed zawaleniem, nie mamy czasu do stracenia. Wiem o kilku magnetycznych deszyfratorach w okolicach Acerra Spaceport, jeszcze z czasów Exodus. Mogą nadal działać.",
+    "pt": "Se os dados que você encontrou puderem impedir que o teto desabe, não temos tempo a perder. Eu conheço alguns decifradores magnéticos pelos arredores do Spaceport de Acerra, da época do Êxodo. Talvez ainda estejam funcionando.",
+    "ru": "Если найденные тобой данные могут удержать потолок от обрушения, времени у нас нет. Я знаю о нескольких магнитных дешифраторах вокруг космопорта Асерры — ещё со времён Исхода. Возможно, они всё ещё работают.",
+    "tr": "Bulduğun veriler tavanın çökmesini engelleyebilecekse, kaybedecek vaktimiz yok. Exodus zamanından kalma, Acerra Spaceport civarında birkaç manyetik şifre çözücü biliyorum. Hâlâ çalışıyor olabilirler.",
+    "uk": "Якщо дані, які ти знайшов, можуть утримати стелю від обвалу, у нас немає часу зволікати. Я знаю про кілька магнітних дешифраторів біля космопорту Асерри, ще з часів Виходу. Можливо, вони досі працюють."
+  },
+  "objectives": [
+    {
+      "en": "Use the Magnetic Decryptor in the Fuel Control Building",
+      "zh-CN": "在燃料控制大楼使用磁力解密器",
+      "zh-TW": "在燃料控制大樓使用磁力解密器",
+      "da": "Brug den magnetiske dekryptor i brændstofkontrolbygningen",
+      "de": "Benutze den Magnet-Entschlüsseler im Treibstoffkontrollgebäude",
+      "es": "Usa el descifrador magnético en el edificio de control de combustible",
+      "fr": "Utiliser le déchiffreur magnétique dans le bâtiment de contrôle du carburant",
+      "it": "Usa il decrittatore magnetico nell’edificio di controllo del carburante",
+      "ja": "燃料制御棟で磁気デクリプターを使用する",
+      "ko": "연료 제어 건물에서 자력 해독기 사용",
+      "no": "Bruk den magnetiske dekryptoren i drivstoffkontrollbygningen",
+      "pl": "Użyj magnetycznego deszyfratora w budynku kontroli paliwa",
+      "pt": "Use o decifrador magnético no prédio de controle de combustível",
+      "ru": "Используйте магнитный дешифратор в здании контроля топлива",
+      "tr": "Yakıt Kontrol Binası’nda Manyetik Şifre Çözücüyü kullan",
+      "uk": "Скористайся магнітним дешифратором у будівлі контролю палива"
+    },
+    {
+      "en": "Reach the Arrival Building in Spaceport",
+      "zh-CN": "抵达太空港的到达大楼",
+      "zh-TW": "抵達太空港的到達大樓",
+      "da": "Nå ankomstbygningen i Spaceport",
+      "de": "Erreiche das Ankunftsgebäude im Raumhafen",
+      "es": "Llega al edificio de llegadas del Spaceport",
+      "fr": "Rejoindre le bâtiment des arrivées du spatioport",
+      "it": "Raggiungi l’edificio Arrivi dello Spaceport",
+      "ja": "宇宙港の到着棟に到達する",
+      "ko": "우주항 도착 건물에 도달",
+      "no": "Nå ankomstbygningen i Spaceport",
+      "pl": "Dotarj do budynku przylotów w Spaceport",
+      "pt": "Chegue ao prédio de chegadas no Spaceport",
+      "ru": "Доберитесь до здания прибытия в космопорте",
+      "tr": "Spaceport’taki Varış Binası’na ulaş",
+      "uk": "Дістанься будівлі прибуття в космопорту"
+    },
+    {
+      "en": "Use the Magnetic Decryptor on the top floor of the Arrival Building",
+      "zh-CN": "在到达大楼顶层使用磁力解密器",
+      "zh-TW": "在到達大樓頂層使用磁力解密器",
+      "da": "Brug den magnetiske dekryptor på øverste etage i ankomstbygningen",
+      "de": "Benutze den Magnet-Entschlüsseler im obersten Stockwerk des Ankunftsgebäudes",
+      "es": "Usa el descifrador magnético en la planta superior del edificio de llegadas",
+      "fr": "Utiliser le déchiffreur magnétique au dernier étage du bâtiment des arrivées",
+      "it": "Usa il decrittatore magnetico all’ultimo piano dell’edificio Arrivi",
+      "ja": "到着棟の最上階で磁気デクリプターを使用する",
+      "ko": "도착 건물 최상층에서 자력 해독기 사용",
+      "no": "Bruk den magnetiske dekryptoren i øverste etasje i ankomstbygningen",
+      "pl": "Użyj magnetycznego deszyfratora na najwyższym piętrze budynku przylotów",
+      "pt": "Use o decifrador magnético no último andar do prédio de chegadas",
+      "ru": "Используйте магнитный дешифратор на верхнем этаже здания прибытия",
+      "tr": "Varış Binası’nın en üst katında Manyetik Şifre Çözücüyü kullan",
+      "uk": "Скористайся магнітним дешифратором на верхньому поверсі будівлі прибуття"
+    }
+  ],
+  "grantedItemIds": [],
+  "rewardItemIds": [
+    {
+      "itemId": "defibrillator",
+      "quantity": 3
+    },
+    {
+      "itemId": "trailblazer",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": ["a_toxic_trail"],
+  "nextQuestIds": []
+}
