@@ -2,7 +2,7 @@
   "id": "spaceport_warehouse_key",
   "name": {
     "en": "Spaceport Warehouse Key",
-    "de": "Raumhafen-Lagerhaus-Schlüssel",
+    "de": "Lagerhausschlüssel (Raumhafen)",
     "fr": "Clé de l'entrepôt du port spatial",
     "es": "Llave del almacén del espaciopuerto",
     "pt": "Chave do armazém do espaçoporto",
@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "A key to a warehouse in the Spaceport.",
-    "de": "Ein Schlüssel zu einem Lagerhaus im Raumhafen.",
+    "de": "Öffnet eine Tür im Versandlager im Raumhafen.",
     "fr": "Déverrouille une porte de l'entrepôt d'expédition dans le port spatial.",
     "es": "Una llave de un almacén en el espaciopuerto.",
     "pt": "Uma chave para um armazém no espaçoporto.",

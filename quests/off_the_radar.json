@@ -67,11 +67,13 @@
       "hr": "Popravite antenu na krovu Terenskog Skladišta"
     }
   ],
-  "rewardItemIds": [
+  "grantedItemIds": [
     {
       "itemId": "remote_raider_flare",
       "quantity": 2
-    },
+    }
+  ],
+  "rewardItemIds": [
     {
       "itemId": "defibrillator",
       "quantity": 2

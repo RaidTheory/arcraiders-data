@@ -3,7 +3,7 @@
   "updatedAt": "12/16/2025",
   "name": {
     "en": "The Clean Dream",
-    "de": "Der saubere Traum",
+    "de": "Der reine Traum",
     "fr": "Le rêve propre",
     "es": "El sueño limpio",
     "pt": "O sonho limpo",
@@ -49,7 +49,7 @@
   "objectives": [
     {
       "en": "On Spaceport, search 4 containers in the underground tunnels",
-      "de": "Durchsuche auf dem Raumhafen 4 Container in den unterirdischen Tunneln",
+      "de": "Durchsuche 4 Container in den unterirdischen Tunneln beim Raumhafen",
       "fr": "Sur le Spatioport, fouiller 4 conteneurs dans les tunnels souterrains",
       "es": "En el Espaciopuerto, busca en 4 contenedores en los túneles subterráneos",
       "pt": "No Espaçoporto, procura em 4 contentores nos túneis subterrâneos",
@@ -69,7 +69,7 @@
     },
     {
       "en": "Find and monitor any Filtration System in the tunnels",
-      "de": "Finde und überwache ein beliebiges Filtrationssystem in den Tunneln",
+      "de": "Finde und überwache ein beliebiges Filtersystem in den Tunneln",
       "fr": "Trouvez et surveillez n'importe quel système de filtration dans les tunnels",
       "es": "Encuentra y supervisa cualquier sistema de filtración en los túneles",
       "pt": "Encontre e monitore qualquer sistema de filtragem nos túneis",
@@ -89,7 +89,7 @@
     },
     {
       "en": "On The Blue Gate, visit the Maintenance Bunker",
-      "de": "Besuche am Blauen Tor den Wartungsbunker",
+      "de": "Geh zum Wartungsbunker beim Blauen Tor",
       "fr": "À Blue Gate, visitez le bunker de maintenance",
       "es": "En Blue Gate, visita el búnker de mantenimiento",
       "pt": "Em Blue Gate, visite o Bunker de Manutenção",
@@ -111,7 +111,7 @@
   "grantedItemIds": [
     {
       "itemId": "blue_light_stick",
-      "quantity": 1
+      "quantity": 5
     }
   ],
   "rewardItemIds": [
