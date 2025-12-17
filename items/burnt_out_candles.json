@@ -43,8 +43,9 @@
   "type": "Trinket",
   "rarity": "Common",
   "weightKg": 0.2,
-  "stackSize": 5,
-  "value": 1000,
+  "foundIn": "Residential, Old World",
+  "stackSize": 15,
+  "value": 640,
   "imageFilename": "https://cdn.arctracker.io/items/burnt_out_candles.png",
   "updatedAt": "12/16/2025"
 }
