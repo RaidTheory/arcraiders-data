@@ -3,7 +3,7 @@
     "id": "expedition_project",
     "name": {
       "en": "Expedition Project",
-      "de": "Expedition",
+      "de": "Expeditionsprojekt",
       "fr": "Projet d'expédition",
       "es": "Proyecto de expedición",
       "pt": "Projeto de expedição",
@@ -23,7 +23,7 @@
     },
     "description": {
       "en": "Embark on a dangerous expedition beyond the Rust Belt. Expeditions are perilous. Your Raider will carry all their possessions into the unknown beyond the Rust Belt. In return, your next Raider gains a unique edge that lasts until the next Expedition departs.",
-      "de": "Expeditionen sind gefahrvoll. Dein Raider nimmt all seine Besitztümer und wagt sich in das unbekannte Land jenseits des Rostgürtels. Dafür erhält dein nächster Raider einen einzigartigen Vorteil, der bis zum Start der nächsten Expedition anhält.",
+      "de": "Begib dich auf eine gefährliche Expedition jenseits des Rostgürtels. Expeditionen sind gefährlich. Dein Raider wird all seinen Besitz ins Unbekannte jenseits des Rostgürtels tragen. Im Gegenzug erhält dein nächster Raider einen einzigartigen Vorteil, der bis zur Abreise der nächsten Expedition anhält.",
       "fr": "Embarquez pour une expédition dangereuse au-delà de la Ceinture de rouille. Les expéditions sont périlleuses. Votre Raider transportera tous ses biens dans l'inconnu au-delà de la Ceinture de rouille. En retour, votre prochain Raider gagne un avantage unique qui dure jusqu'au départ de la prochaine expédition.",
       "es": "Embárcate en una peligrosa expedición más allá del Cinturón de Óxido. Las expediciones son peligrosas. Tu Raider llevará todas sus posesiones hacia lo desconocido más allá del Cinturón de Óxido. A cambio, tu próximo Raider obtiene una ventaja única que dura hasta que parta la próxima expedición.",
       "pt": "Embarque em uma expedição perigosa além do Cinturão de Ferrugem. Expedições são perigosas. Seu Raider carregará todos os seus pertences para o desconhecido além do Cinturão de Ferrugem. Em troca, seu próximo Raider ganha uma vantagem única que dura até a partida da próxima expedição.",
@@ -46,7 +46,7 @@
         "phase": 1,
         "name": {
           "en": "Foundation",
-          "de": "Grundgestell",
+          "de": "Fundament",
           "fr": "Fondation",
           "es": "Fundación",
           "pt": "Fundação",
@@ -331,26 +331,402 @@
       {
         "phase": 6,
         "name": {
-          "en": "Unknown",
-          "de": "Unbekannt",
-          "fr": "Inconnu",
-          "es": "Desconocido",
-          "pt": "Desconhecido",
-          "pl": "Nieznany",
-          "no": "Ukjent",
-          "da": "Ukendt",
-          "ru": "Неизвестно",
-          "ja": "未知",
-          "it": "Sconosciuto",
-          "kr": "미지",
-          "zh-CN": "未知",
-          "zh-TW": "未知",
-          "uk": "Невідомо",
-          "tr": "Bilinmeyen",
-          "hr": "Nepoznato",
-          "sr": "Nepoznato"
+          "en": "Final Preparations",
+          "de": "Letzte Vorbereitungen",
+          "fr": "Préparatifs finaux",
+          "es": "Preparativos finales",
+          "pt": "Preparativos finais",
+          "pl": "Ostatnie przygotowania",
+          "no": "Siste forberedelser",
+          "da": "Sidste forberedelser",
+          "ru": "Финальные приготовления",
+          "ja": "最終準備",
+          "it": "Preparativi finali",
+          "kr": "최종 준비",
+          "zh-CN": "最终准备",
+          "zh-TW": "最終準備",
+          "uk": "Фінальні приготування",
+          "tr": "Son Hazırlıklar",
+          "hr": "Završne Pripreme",
+          "sr": "Završne Pripreme"
         },
-        "requirementItemIds": []
+        "description": {
+          "en": "Commit to the Expedition to reset your progress. Each 1 million credits earns you 1 extra skill point after the reset.",
+          "de": "Lege dich auf die Expedition fest, um deinen Fortschritt zurückzusetzen. Je 1 Million Credits erhältst du nach dem Zurücksetzen 1 zusätzlichen Fertigkeitspunkt.",
+          "fr": "Engagez-vous dans l'expédition pour réinitialiser votre progression. Chaque tranche de 1 million de crédits vous rapporte 1 point de compétence supplémentaire après la réinitialisation.",
+          "es": "Comprométete con la Expedición para reiniciar tu progreso. Cada 1 millón de créditos te otorga 1 punto de habilidad adicional después del reinicio.",
+          "pt": "Comprometa-se com a Expedição para redefinir seu progresso. A cada 1 milhão de créditos, você ganha 1 ponto de habilidade extra após a redefinição.",
+          "pl": "Zdecyduj się na Ekspedycję, aby zresetować swój postęp. Każde 1 milion kredytów zapewnia 1 dodatkowy punkt umiejętności po resecie.",
+          "no": "Forplikt deg til ekspedisjonen for å tilbakestille fremgangen din. Hver 1 million kreditter gir deg 1 ekstra ferdighetspoeng etter tilbakestillingen.",
+          "da": "Forpligt dig til ekspeditionen for at nulstille din fremgang. For hver 1 million credits får du 1 ekstra færdighedspoint efter nulstillingen.",
+          "ru": "Подтвердите участие в Экспедиции, чтобы сбросить прогресс. За каждый 1 миллион кредитов вы получите 1 дополнительное очко навыка после сброса.",
+          "ja": "遠征に参加して進行状況をリセットする。リセット後、100万クレジットごとに追加のスキルポイントを1獲得する。",
+          "it": "Impegnati nell'Esplorazione per azzerare i tuoi progressi. Ogni 1 milione di crediti ti fa ottenere 1 punto abilità extra dopo l'azzeramento.",
+          "kr": "원정에 참가해 진행도를 초기화하세요. 초기화 후 100만 크레딧마다 추가 스킬 포인트 1을 획득합니다.",
+          "zh-CN": "确认加入远征以重置你的进度。重置后，每累计100万信用点可获得1点额外技能点。",
+          "zh-TW": "確認加入遠征以重置你的進度。重置後，每累計100萬信用點可獲得1點額外技能點。",
+          "uk": "Підтвердьте участь в Експедиції, щоб скинути свій прогрес. За кожен 1 мільйон кредитів ви отримаєте 1 додаткове очко навички після скидання.",
+          "tr": "İlerlemeyi sıfırlamak için Keşif'e bağlan. Sıfırlamadan sonra her 1 milyon kredi, sana 1 ekstra beceri puanı kazandırır.",
+          "hr": "Obveži se na Ekspediciju kako bi resetirao svoj napredak. Svakih 1 milijun kredita donosi ti 1 dodatni bod vještine nakon reseta.",
+          "sr": "Obaveži se na Ekspediciju da resetuješ svoj napredak. Svakih 1 milion kredita donosi ti 1 dodatni poen veštine nakon reseta."
+        },
+        "requirementItemIds": [],
+        "requirementCategories": [
+          {
+            "category": "Value",
+            "valueRequired": 5000000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "flickering_flames_project",
+    "name": {
+      "en": "Flickering Flames",
+      "de": "Flackernde Flammen",
+      "fr": "Flammes vacillantes",
+      "es": "Llamas parpadeantes",
+      "pt": "Chamas tremeluzentes",
+      "pl": "Migoczące płomienie",
+      "no": "Flakkende flammer",
+      "da": "Flakkende flammer",
+      "ru": "Мерцающее пламя",
+      "ja": "ゆらめく炎",
+      "it": "Fiamme tremolanti",
+      "kr": "깜빡이는 불꽃",
+      "zh-CN": "闪烁的火焰",
+      "zh-TW": "閃爍的火焰",
+      "uk": "Мерехтливе полум'я",
+      "tr": "Titreyen Alevler",
+      "hr": "Treperavi plamenovi",
+      "sr": "Treperavi plamenovi"
+    },
+    "description": {
+      "en": "A festival of resilient warmth, centered around the hardy candleberry bush. Speranzans have been known to host local celebrations, and being competitive, they seek to outdo each other at every turn. Some have managed to turn the homely candleberry bush into a banquet worthy of even the most discerning gourmands.",
+      "de": "Ein Fest der widerstandsfähigen Wärme, das sich um den robusten Kerzenbeeren-Busch dreht. Die Speranzaner sind dafür bekannt, lokale Feste zu veranstalten, und da sie wettbewerbsorientiert sind, versuchen sie sich bei jeder Gelegenheit zu übertreffen. Einige haben es geschafft, den schlichten Kerzenbeeren-Busch in ein Bankett zu verwandeln, das selbst der anspruchsvollsten Feinschmecker würdig ist.",
+      "fr": "Un festival de chaleur résiliente, centré autour du robuste arbuste à baies de bougie. Les Speranzans sont connus pour organiser des célébrations locales, et étant compétitifs, ils cherchent à se surpasser les uns les autres à chaque occasion. Certains ont réussi à transformer le modeste arbuste à baies de bougie en un banquet digne des gourmands les plus exigeants.",
+      "es": "Un festival de calidez resiliente, centrado en el resistente arbusto de bayas de vela. Los speranzanos son conocidos por organizar celebraciones locales, y siendo competitivos, buscan superarse unos a otros en cada oportunidad. Algunos han logrado convertir el humilde arbusto de bayas de vela en un banquete digno de los gourmands más exigentes.",
+      "pt": "Um festival de calor resiliente, centrado no resistente arbusto de candleberry. Os speranzanos são conhecidos por organizar celebrações locais, e sendo competitivos, buscam superar uns aos outros em cada oportunidade. Alguns conseguiram transformar o humilde arbusto de candleberry em um banquete digno dos gourmands mais exigentes.",
+      "pl": "Festiwal odpornego ciepła, skupiony wokół wytrzymałego krzewu świecowych jagód. Speranzanie słyną z organizowania lokalnych uroczystości, a będąc rywalizującymi, starają się prześcigać nawzajem przy każdej okazji. Niektórym udało się przemienić skromny krzew świecowych jagód w ucztę godną nawet najbardziej wymagających smakoszy.",
+      "no": "En festival med motstandsdyktig varme, sentrert rundt den hardføre stearinlys-bærbusken. Speranzanere er kjent for å arrangere lokale feiringer, og som konkurransemennesker prøver de å overgå hverandre ved enhver anledning. Noen har klart å forvandle den enkle stearinlys-bærbusken til et festmåltid verdig selv de mest kresne gourmands.",
+      "da": "En festival med modstandsdygtig varme, centreret omkring den hårdføre lysbærbusk. Speranzanere er kendt for at afholde lokale fejringer, og da de er konkurrencemindede, søger de at overgå hinanden ved enhver lejlighed. Nogle har formået at forvandle den beskedne lysbærbusk til et festmåltid værdigt selv de mest kræsne gourmands.",
+      "ru": "Праздник стойкого тепла, посвящённый выносливому кусту восковника. Сперанзанцы известны своими местными праздниками, и будучи соревновательными, они стремятся превзойти друг друга при каждой возможности. Некоторым удалось превратить скромный куст восковника в пиршество, достойное самых взыскательных гурманов.",
+      "ja": "丈夫なキャンドルベリーの茂みを中心とした、しなやかな温もりの祭典。スペランザンの人々は地元の祝祭を開催することで知られており、競争心旺盛な彼らはあらゆる機会で互いを凌ごうとします。中には、この素朴なキャンドルベリーの茂みを、最も目の肥えた美食家にもふさわしい宴に変えることに成功した者もいます。",
+      "it": "Un festival di calore resiliente, incentrato sul resistente cespuglio di candleberry. Gli Speranzani sono noti per organizzare celebrazioni locali, e essendo competitivi, cercano di superarsi a vicenda in ogni occasione. Alcuni sono riusciti a trasformare l'umile cespuglio di candleberry in un banchetto degno dei buongustai più esigenti.",
+      "kr": "견고한 캔들베리 덤불을 중심으로 한 회복력 있는 따뜻함의 축제입니다. 스페란잔 사람들은 지역 축하 행사를 개최하는 것으로 알려져 있으며, 경쟁심이 강한 그들은 매 순간 서로를 능가하려 합니다. 일부는 소박한 캔들베리 덤불을 가장 까다로운 미식가도 만족시킬 만한 연회로 바꾸는 데 성공했습니다.",
+      "zh-CN": "一个围绕着坚韧的蜡莓灌木举办的温暖节日。斯佩兰赞人以举办当地庆典而闻名，由于竞争意识强烈，他们总是试图在每一个机会上超越彼此。有些人已经成功地将朴素的蜡莓灌木变成了即使是最挑剔的美食家也值得享用的盛宴。",
+      "zh-TW": "一個圍繞著堅韌的蠟莓灌木舉辦的溫暖節日。斯佩蘭贊人以舉辦當地慶典而聞名，由於競爭意識強烈，他們總是試圖在每一個機會上超越彼此。有些人已經成功地將樸素的蠟莓灌木變成了即使是最挑剔的美食家也值得享用的盛宴。",
+      "uk": "Свято стійкого тепла, зосереджене навколо витривалого куща восковниці. Сперанзанці відомі своїми місцевими святкуваннями, і будучи конкурентними, вони прагнуть перевершити один одного при кожній нагоді. Деяким вдалося перетворити скромний кущ восковниці на бенкет, гідний найвибагливіших гурманів.",
+      "tr": "Dayanıklı mum çileği çalısı etrafında şekillenen dirençli sıcaklık festivali. Speranzalılar yerel kutlamalar düzenlemeleriyle tanınır ve rekabetçi oldukları için her fırsatta birbirlerini geçmeye çalışırlar. Bazıları mütevazı mum çileği çalısını en seçici gurmelere bile layık bir ziyafete dönüştürmeyi başarmıştır.",
+      "hr": "Festival otporne topline, usredotočen na izdržljivi grm svijećnjaka. Speranzanci su poznati po organiziranju lokalnih proslava, a budući da su natjecateljski nastrojeni, nastoje se nadmašiti jedni druge u svakoj prilici. Nekima je uspjelo pretvoriti skromni grm svijećnjaka u gozbu dostojnu čak i najzahtjevnijih gurmana.",
+      "sr": "Festival otporne topline, usredsređen na izdržljivi grm svećnjaka. Speranzanci su poznati po organizovanju lokalnih proslava, a budući da su takmičarski nastrojeni, nastoje da se nadmaše jedni druge u svakoj prilici. Nekima je uspelo da pretvore skromni grm svećnjaka u gozbu dostojnu čak i najzahtevnijih gurmana."
+    },
+    "phases": [
+      {
+        "phase": 1,
+        "name": {
+          "en": "Candlelight",
+          "de": "Kerzenlicht",
+          "fr": "Lueur de bougie",
+          "es": "Luz de vela",
+          "pt": "Luz de vela",
+          "pl": "Światło świec",
+          "no": "Stearinlys",
+          "da": "Stearinlys",
+          "ru": "Свет свечи",
+          "ja": "キャンドルの灯り",
+          "it": "Luce di candela",
+          "kr": "촛불",
+          "zh-CN": "烛光",
+          "zh-TW": "燭光",
+          "uk": "Свічкове світло",
+          "tr": "Mum Işığı",
+          "hr": "Svjetlost svijeće",
+          "sr": "Svetlost sveće"
+        },
+        "description": {
+          "en": "The namesake use for the candleberry, Speranzans boil the fruit into a thick wax that burns cleanly and fragrantly.",
+          "de": "Die namensgebende Verwendung der Kerzenbeere: Speranzaner kochen die Frucht zu einem dicken Wachs, das sauber und duftend brennt.",
+          "fr": "L'usage éponyme de la baie de bougie : les Speranzans font bouillir le fruit pour obtenir une cire épaisse qui brûle proprement et avec un parfum agréable.",
+          "es": "El uso que da nombre a las bayas de vela: los speranzanos hierven el fruto hasta obtener una cera espesa que arde limpia y fragante.",
+          "pt": "O uso que dá nome às bagas de vela: os speranzanos fervem o fruto até virar uma cera espessa que queima de forma limpa e perfumada.",
+          "pl": "Najbardziej oczywiste zastosowanie jagód świecowych: Speranzanie gotują owoce na gęsty wosk, który pali się czysto i pachnąco.",
+          "no": "Den navnegivende bruken av stearinbær: speranzanere koker frukten til en tykk voks som brenner rent og velduftende.",
+          "da": "Den navngivende brug af lysbær: Speranzanere koger frugten til en tyk voks, der brænder rent og velduftende.",
+          "ru": "Главное применение свечных ягод: сперанзанцы вываривают плоды до густого воска, который горит чисто и ароматно.",
+          "ja": "キャンドルベリーの名の由来となる使い方。スペランザンたちは果実を煮詰めて、きれいに燃えて香りも良い濃いロウにする。",
+          "it": "L'uso che dà il nome alle bacche di candela: gli Speranzani fanno bollire il frutto fino a ottenere una cera densa che brucia in modo pulito e profumato.",
+          "kr": "캔들베리의 이름 그대로의 용도: 스페란잔들은 열매를 끓여 깨끗하고 향기롭게 타는 진한 왁스로 만듭니다.",
+          "zh-CN": "蜡莓的招牌用途：斯佩兰赞人会把果实煮成浓稠的蜡，燃烧干净且散发清香。",
+          "zh-TW": "蠟莓的招牌用途：斯佩蘭贊人會把果實煮成濃稠的蠟，燃燒乾淨且散發清香。",
+          "uk": "Основне застосування свічкових ягід: сперанзанці виварюють плоди до густого воску, що горить чисто й пахуче.",
+          "tr": "Mum meyvelerinin adaş kullanımında Speranzalılar meyveyi kaynatıp temiz ve hoş kokulu yanan yoğun bir muma dönüştürür.",
+          "hr": "Imenjenska uporaba svijećnih bobica: Speranzanci kuhaju plod u gusti vosak koji gori čisto i mirisno.",
+          "sr": "Imenjska upotreba svećnih bobica: Speranzanci kuvaju plod u gust vosak koji gori čisto i mirisno."
+        },
+        "requirementItemIds": [
+          {
+            "itemId": "empty_wine_bottle",
+            "quantity": 1
+          },
+          {
+            "itemId": "plastic_parts",
+            "quantity": 25
+          },
+          {
+            "itemId": "durable_cloth",
+            "quantity": 5
+          },
+          {
+            "itemId": "candleberries",
+            "quantity": 20
+          }
+        ]
+      },
+      {
+        "phase": 2,
+        "name": {
+          "en": "Decorations",
+          "de": "Dekorationen",
+          "fr": "Décorations",
+          "es": "Decoraciones",
+          "pt": "Decorações",
+          "pl": "Dekoracje",
+          "no": "Dekorasjoner",
+          "da": "Dekorationer",
+          "ru": "Украшения",
+          "ja": "飾り付け",
+          "it": "Decorazioni",
+          "kr": "장식",
+          "zh-CN": "装饰",
+          "zh-TW": "裝飾",
+          "uk": "Декорації",
+          "tr": "Süslemeler",
+          "hr": "Dekoracije",
+          "sr": "Dekoracije"
+        },
+        "description": {
+          "en": "Many Speranzans have become surprisingly adept at the art of bringing beauty and greenery into the home.",
+          "de": "Viele Speranzaner sind überraschend geschickt darin geworden, Schönheit und Grün ins Zuhause zu bringen.",
+          "fr": "De nombreux Speranzans sont devenus étonnamment doués pour faire entrer beauté et verdure dans la maison.",
+          "es": "Muchos speranzanos se han vuelto sorprendentemente hábiles en el arte de llevar belleza y vegetación al hogar.",
+          "pt": "Muitos speranzanos tornaram-se surpreendentemente hábeis na arte de levar beleza e verde para dentro de casa.",
+          "pl": "Wielu Speranzan stało się zaskakująco biegłych w sztuce wnoszenia piękna i zieleni do domu.",
+          "no": "Mange speranzanere har blitt overraskende flinke i kunsten å bringe skjønnhet og grønt inn i hjemmet.",
+          "da": "Mange speranzanere er blevet overraskende dygtige til kunsten at bringe skønhed og grønt ind i hjemmet.",
+          "ru": "Многие сперанзанцы стали на удивление искусны в том, как привнести в дом красоту и зелень.",
+          "ja": "多くのスペランザンは、家に美しさと緑を取り入れる術に驚くほど長けてきた。",
+          "it": "Molti Speranzani sono diventati sorprendentemente abili nell'arte di portare bellezza e verde in casa.",
+          "kr": "많은 스페란잔들이 집 안에 아름다움과 초록을 들이는 일에 놀랄 만큼 능숙해졌습니다.",
+          "zh-CN": "许多斯佩兰赞人出人意料地擅长把美感与绿意带进家中。",
+          "zh-TW": "許多斯佩蘭贊人出人意料地擅長把美感與綠意帶進家中。",
+          "uk": "Багато сперанзанців несподівано вправно опанували мистецтво приносити до оселі красу й зелень.",
+          "tr": "Birçok Speranzalı, güzelliği ve yeşilliği eve taşıma sanatında şaşırtıcı derecede ustalaştı.",
+          "hr": "Mnogi Speranzanci postali su iznenađujuće vješti u umjetnosti unošenja ljepote i zelenila u dom.",
+          "sr": "Mnogi Speranzanci postali su iznenađujuće vešti u umetnosti unošenja lepote i zelenila u dom."
+        },
+        "requirementItemIds": [
+          {
+            "itemId": "candle_holder",
+            "quantity": 3
+          },
+          {
+            "itemId": "light_bulb",
+            "quantity": 3
+          },
+          {
+            "itemId": "industrial_battery",
+            "quantity": 1
+          },
+          {
+            "itemId": "candleberries",
+            "quantity": 50
+          }
+        ]
+      },
+      {
+        "phase": 3,
+        "name": {
+          "en": "Presents",
+          "de": "Geschenke",
+          "fr": "Cadeaux",
+          "es": "Regalos",
+          "pt": "Presentes",
+          "pl": "Prezenty",
+          "no": "Gaver",
+          "da": "Gaver",
+          "ru": "Подарки",
+          "ja": "贈り物",
+          "it": "Regali",
+          "kr": "선물",
+          "zh-CN": "礼物",
+          "zh-TW": "禮物",
+          "uk": "Подарунки",
+          "tr": "Hediyeler",
+          "hr": "Darovi",
+          "sr": "Pokloni"
+        },
+        "description": {
+          "en": "Crafty Speranzans have turned the candleberries into a wealth of gifts. These include perfumes and soaps, as well as gifts unrelated to the recipient's odors.",
+          "de": "Einfallsreiche Speranzaner haben die Kerzenbeeren in eine Fülle von Geschenken verwandelt. Dazu gehören Parfüms und Seifen, aber auch Geschenke, die nichts mit dem Geruch des Empfängers zu tun haben.",
+          "fr": "Les Speranzans ingénieux ont transformé les baies de bougie en une foule de cadeaux. On y trouve des parfums et des savons, ainsi que des présents sans rapport avec les odeurs du destinataire.",
+          "es": "Los ingeniosos speranzanos han convertido las bayas de vela en un sinfín de regalos. Incluyen perfumes y jabones, así como obsequios que no tienen relación con los olores del destinatario.",
+          "pt": "Speranzanos habilidosos transformaram as bagas de vela em uma grande variedade de presentes. Entre eles há perfumes e sabonetes, além de presentes sem relação com os odores do destinatário.",
+          "pl": "Pomysłowi Speranzanie zamienili jagody świecowe w prawdziwe bogactwo prezentów. Są wśród nich perfumy i mydła, a także podarki niezwiązane z zapachem obdarowywanej osoby.",
+          "no": "Oppfinnsomme speranzanere har gjort stearinbær om til et vell av gaver. Dette inkluderer parfymer og såper, samt gaver som ikke har noe med mottakerens lukt å gjøre.",
+          "da": "Snedige speranzanere har forvandlet lysbær til et væld af gaver. Det omfatter parfumer og sæber samt gaver, der ikke har noget med modtagerens lugt at gøre.",
+          "ru": "Изобретательные сперанзанцы превратили свечные ягоды в целое богатство подарков. Среди них — духи и мыло, а также подарки, не связанные с запахами получателя.",
+          "ja": "器用なスペランザンたちはキャンドルベリーをたくさんの贈り物に変えた。香水や石けんのほか、受け取る人の匂いとは無関係な贈り物も含まれる。",
+          "it": "Gli ingegnosi Speranzani hanno trasformato le bacche di candela in una ricchezza di regali. Tra questi ci sono profumi e saponi, oltre a doni non legati agli odori del destinatario.",
+          "kr": "손재주 좋은 스페란잔들은 캔들베리를 다양한 선물로 바꿔 놓았습니다. 향수와 비누는 물론, 받는 사람의 냄새와는 상관없는 선물도 포함되어 있습니다.",
+          "zh-CN": "心灵手巧的斯佩兰赞人把蜡莓变成了琳琅满目的礼物：香水、肥皂，以及与收礼人气味无关的各种赠品。",
+          "zh-TW": "心靈手巧的斯佩蘭贊人把蠟莓變成了琳瑯滿目的禮物：香水、肥皂，以及與收禮人味道無關的各種贈品。",
+          "uk": "Кмітливі сперанзанці перетворили свічкові ягоди на ціле багатство подарунків. Серед них — парфуми та мило, а також дарунки, не пов'язані із запахами одержувача.",
+          "tr": "Becerikli Speranzalılar mum meyvelerini sayısız hediyeye dönüştürdü. Bunlara parfümler ve sabunlar ile alıcının kokusuyla ilgisi olmayan hediyeler de dahil.",
+          "hr": "Spretni Speranzanci pretvorili su svijećne bobice u obilje darova. To uključuje parfeme i sapune, kao i darove nepovezane s mirisima primatelja.",
+          "sr": "Spretni Speranzanci pretvorili su svećne bobice u obilje poklona. Tu su parfemi i sapuni, kao i pokloni koji nisu povezani sa mirisima primaoca."
+        },
+        "requirementItemIds": [
+          {
+            "itemId": "snap_blast_grenade",
+            "quantity": 5
+          },
+          {
+            "itemId": "duct_tape",
+            "quantity": 10
+          },
+          {
+            "itemId": "film_reel",
+            "quantity": 1
+          },
+          {
+            "itemId": "candleberries",
+            "quantity": 60
+          }
+        ]
+      },
+      {
+        "phase": 4,
+        "name": {
+          "en": "Beverages",
+          "de": "Getränke",
+          "fr": "Boissons",
+          "es": "Bebidas",
+          "pt": "Bebidas",
+          "pl": "Napoje",
+          "no": "Drikkevarer",
+          "da": "Drikkevarer",
+          "ru": "Напитки",
+          "ja": "飲み物",
+          "it": "Bevande",
+          "kr": "음료",
+          "zh-CN": "饮品",
+          "zh-TW": "飲品",
+          "uk": "Напої",
+          "tr": "İçecekler",
+          "hr": "Napitci",
+          "sr": "Napitci"
+        },
+        "description": {
+          "en": "Candleberries can be crushed into refreshing juices, while the leaves and roots make for a tea that can drive out the toughest of colds.",
+          "de": "Kerzenbeeren lassen sich zu erfrischenden Säften zerdrücken, während Blätter und Wurzeln einen Tee ergeben, der selbst die hartnäckigsten Erkältungen vertreibt.",
+          "fr": "Les baies de bougie peuvent être écrasées en jus rafraîchissants, tandis que les feuilles et les racines servent à préparer un thé capable de chasser les rhumes les plus tenaces.",
+          "es": "Las bayas de vela pueden triturarse para hacer jugos refrescantes, mientras que las hojas y raíces sirven para preparar un té capaz de ahuyentar los resfriados más duros.",
+          "pt": "As bagas de vela podem ser esmagadas em sucos refrescantes, enquanto as folhas e raízes rendem um chá capaz de espantar até os resfriados mais difíceis.",
+          "pl": "Jagody świecowe można rozgnieść na orzeźwiające soki, a z liści i korzeni przygotować herbatę, która potrafi przegnać nawet najgorsze przeziębienie.",
+          "no": "Stearinbær kan knuses til forfriskende juice, mens bladene og røttene kan brygges til en te som kan jage bort selv de verste forkjølelsene.",
+          "da": "Lysbær kan knuses til forfriskende juice, mens blade og rødder kan brygges til en te, der kan jage selv de sejeste forkølelser væk.",
+          "ru": "Свечные ягоды можно растолочь в освежающие соки, а из листьев и корней приготовить чай, способный прогнать даже самые стойкие простуды.",
+          "ja": "キャンドルベリーは砕いて爽やかなジュースにでき、葉や根はどんなひどい風邪も追い払うお茶になる。",
+          "it": "Le bacche di candela possono essere pestate per ottenere succhi rinfrescanti, mentre foglie e radici danno vita a un tè capace di scacciare anche i raffreddori più duri.",
+          "kr": "캔들베리는 으깨서 상쾌한 주스로 만들 수 있고, 잎과 뿌리는 가장 심한 감기까지 물리칠 수 있는 차가 됩니다.",
+          "zh-CN": "蜡莓可以捣碎成清爽的果汁，而叶子和根部还能泡成茶，足以驱散最顽固的感冒。",
+          "zh-TW": "蠟莓可以搗碎成清爽的果汁，而葉子和根部還能泡成茶，足以驅散最頑固的感冒。",
+          "uk": "Свічкові ягоди можна розчавити на освіжаючі соки, а з листя та коріння заварити чай, що здатен прогнати навіть найміцнішу застуду.",
+          "tr": "Mum meyveleri ferahlatıcı meyve sularına ezilebilir; yaprakları ve kökleri ise en inatçı soğuk algınlıklarını bile söküp atabilecek bir çay yapar.",
+          "hr": "Svijećne bobice se mogu zgnječiti u osvježavajuće sokove, dok se od listova i korijenja može napraviti čaj koji može otjerati i najteže prehlade.",
+          "sr": "Svećne bobice se mogu zgnječiti u osvežavajuće sokove, dok se od listova i korenja može napraviti čaj koji može oterati i najteže prehlade."
+        },
+        "requirementItemIds": [
+          {
+            "itemId": "coffee_pot",
+            "quantity": 2
+          },
+          {
+            "itemId": "fireball_burner",
+            "quantity": 10
+          },
+          {
+            "itemId": "water_filter",
+            "quantity": 2
+          },
+          {
+            "itemId": "candleberries",
+            "quantity": 60
+          }
+        ]
+      },
+      {
+        "phase": 5,
+        "name": {
+          "en": "Meals",
+          "de": "Mahlzeiten",
+          "fr": "Repas",
+          "es": "Comidas",
+          "pt": "Refeições",
+          "pl": "Posiłki",
+          "no": "Måltider",
+          "da": "Måltider",
+          "ru": "Блюда",
+          "ja": "食事",
+          "it": "Pasti",
+          "kr": "식사",
+          "zh-CN": "餐食",
+          "zh-TW": "餐食",
+          "uk": "Страви",
+          "tr": "Yemekler",
+          "hr": "Obroci",
+          "sr": "Obroci"
+        },
+        "description": {
+          "en": "Though candleberry leaves are bitter, simmering them in stew and soups adds a touch of earthiness that nostalgic Speranzans have grown to love.",
+          "de": "Obwohl Kerzenbeerenblätter bitter sind, verleiht ihr Köcheln in Eintöpfen und Suppen eine erdige Note, die nostalgische Speranzaner lieben gelernt haben.",
+          "fr": "Bien que les feuilles des baies de bougie soient amères, les faire mijoter dans des ragoûts et des soupes ajoute une note terreuse que les Speranzans nostalgiques ont appris à aimer.",
+          "es": "Aunque las hojas de las bayas de vela son amargas, cocerlas a fuego lento en guisos y sopas añade un toque terroso que los speranzanos nostálgicos han llegado a adorar.",
+          "pt": "Embora as folhas das bagas de vela sejam amargas, cozinhá-las lentamente em ensopados e sopas adiciona um toque terroso que os speranzanos nostálgicos aprenderam a amar.",
+          "pl": "Choć liście jagód świecowych są gorzkie, ich gotowanie w gulaszach i zupach dodaje nuty ziemistości, którą nostalgiczni Speranzanie pokochali.",
+          "no": "Selv om stearinbær-blader er bitre, gir de en jordlig smak når de småkoker i gryter og supper – noe nostalgiske speranzanere har lært å elske.",
+          "da": "Selvom lysbær-blade er bitre, giver de en jordagtig smag, når de simrer i gryderetter og supper – noget nostalgiske speranzanere er kommet til at elske.",
+          "ru": "Хотя листья свечных ягод горькие, их томление в рагу и супах добавляет землистую нотку, которую ностальгирующие сперанзанцы полюбили.",
+          "ja": "キャンドルベリーの葉は苦いが、シチューやスープで煮込むと土の香りが加わり、懐かしさを覚えるスペランザンたちに愛されている。",
+          "it": "Sebbene le foglie delle bacche di candela siano amare, farle sobbollire in stufati e zuppe aggiunge una nota terrosa che gli Speranzani nostalgici hanno imparato ad amare.",
+          "kr": "캔들베리 잎은 쓰지만, 스튜와 수프에 오래 끓이면 흙내음이 살짝 더해져 향수를 품은 스페란잔들이 좋아하게 되었습니다.",
+          "zh-CN": "尽管蜡莓叶子略苦，但把它们慢炖进炖菜和汤里，会增添一丝泥土般的醇厚，怀旧的斯佩兰赞人也渐渐爱上了这种味道。",
+          "zh-TW": "儘管蠟莓葉子略苦，但把它們慢燉進燉菜和湯裡，會增添一絲泥土般的醇厚，懷舊的斯佩蘭贊人也漸漸愛上了這種味道。",
+          "uk": "Хоч листя свічкових ягід гірке, повільне томління в рагу та супах додає землістої нотки, яку ностальгійні сперанзанці полюбили.",
+          "tr": "Mum meyvelerinin yaprakları acı olsa da, yahni ve çorbalarda ağır ağır pişirmek nostaljik Speranzalıların sevdiği o topraksı dokunuşu katar.",
+          "hr": "Iako su listovi svijećnih bobica gorki, lagano krčkanje u varivima i juhama dodaje zemljani štih koji nostalgični Speranzanci obožavaju.",
+          "sr": "Iako su listovi svećnih bobica gorki, lagano krčkanje u čorbama i gulašima dodaje zemljanu notu koju nostalgični Speranzanci vole."
+        },
+        "requirementItemIds": [
+          {
+            "itemId": "mushroom",
+            "quantity": 7
+          },
+          {
+            "itemId": "frying_pan",
+            "quantity": 2
+          },
+          {
+            "itemId": "music_album",
+            "quantity": 2
+          },
+          {
+            "itemId": "candleberries",
+            "quantity": 70
+          }
+        ]
       }
     ]
   }
