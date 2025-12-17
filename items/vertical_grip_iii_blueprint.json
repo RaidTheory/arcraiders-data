@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Significantly reduces vertical recoil.",
-    "de": "Verringert den vertikalen Rückstoß erheblich. Kompatibel mit: Tempest, Kettle, Hullcracker, Venator, Il Toro",
+    "de": "Verringert den vertikalen Rückstoß erheblich.",
     "fr": "Réduit considérablement le recul vertical.",
     "es": "Reduce significativamente el retroceso vertical.",
     "pt": "Reduz significativamente o recuo vertical.",
@@ -42,6 +42,7 @@
   },
   "type": "Blueprint",
   "value": 5000,
+  "stackSize": 1,
   "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_iii_blueprint.png",
   "rarity": "Legendary",
