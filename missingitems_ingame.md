@@ -2,16 +2,13 @@ We currently are missing several in-game item images. If you want to contribute 
 
 - angled_grip_iii
 - anvil_splitter
-- arc_coolant
 - arc_synthetic_resin
 - arc_thermo_lining
 - backpack_black_hiker_color
 - banana
 - blaze_grenade_trap
 - bloated_tuna_can
-- blue_gate_communication_tower_key
 - blue_radio_renegade_color
-- breathtaking_snow_globe
 - broken_guidance_system
 - broken_handheld_radio
 - broken_taser
@@ -73,8 +70,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - light_bulb
 - lightweight_stock
 - lil_smoke_grenade
-- looting_mk1
-- looting_mk2
 - looting_mk3_cautious
 - lure_grenade_trap
 - major_aivas_patch
@@ -85,7 +80,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - motor
 - mushroom
 - muzzle_brake_iii
-- noisemaker
 - olives
 - padded_stock
 - painted_box
@@ -118,13 +112,10 @@ We currently are missing several in-game item images. If you want to contribute 
 - silver_teaspoon_set
 - smoke_grenade_trap
 - spaceport_trench_tower_key
-- spectrum_analyzer
 - stable_stock_i
 - statuette
-- stella_montis_archives_key
 - syringe
 - tactical_mk1
-- tactical_mk2
 - tactical_mk3_defensive
 - tattered_arc_lining
 - telemetry_transceiver
@@ -134,7 +125,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - temptest_iv
 - toaster
 - torn_book
-- unusable_weapon
 - vase
 - vertical_grip_iii
 - vulcano_i
