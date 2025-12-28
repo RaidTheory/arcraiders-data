@@ -41,7 +41,7 @@ All game content, including but not limited to game mechanics, items, names, and
 If you use this data in your project, please include attribution by linking to this repository:
 ```
 https://github.com/RaidTheory/arcraiders-data and https://arctracker.io
-
+```
 ## Community
 
 Join our Discord community to discuss ARC Raiders, tools, and connect with other community developers:
