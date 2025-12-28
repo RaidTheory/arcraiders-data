@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
-    "de": "Verringert den vertikalen Ruckstoss moderat. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "de": "Verringert den vertikalen Ruckstoß moderat.",
     "fr": "Reduit moderement le recul vertical. Compatible avec : Arpege, Ferro, Venator, Il Toro, Sutureur",
     "es": "Reduce moderadamente el retroceso vertical. Compatible con: Arpeggio, Ferro, Venator, Il Toro, Costurero",
     "pt": "Reduz moderadamente o recuo vertical. Compativel com: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
@@ -44,6 +44,7 @@
   "rarity": "Legendary",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
   "updatedAt": "12/07/2025"
 }
