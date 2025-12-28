@@ -43,6 +43,7 @@
   "type": "Refined Material",
   "rarity": "Epic",
   "weightKg": 2,
+  "stackSize": 3,
   "value": 5000,
   "recyclesInto": {
     "advanced_electrical_components": 1,
