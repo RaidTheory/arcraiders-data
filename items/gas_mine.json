@@ -114,6 +114,13 @@
     "chemicals": 1,
     "rubber_parts": 1
   },
+  "recipe": {
+    "chemicals": 4,
+    "rubber_parts": 2
+  },
+  "craftBench": "explosives_bench",
+  "stationLevelRequired": 1,
+  "blueprintLocked": true,
   "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
-  "updatedAt": "11/13/2025"
+  "updatedAt": "12/25/2025"
 }

@@ -111,5 +111,11 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/gas_grenade_trap.png",
   "stackSize": 3,
-  "updatedAt": "10/30/2025"
+  "updatedAt": "12/19/2025",
+  "recipe": {
+    "gas_grenade": 1,
+    "wires": 1
+  },
+  "craftBench": "workbench",
+  "stationLevelRequired": 1
 }

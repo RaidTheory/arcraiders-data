@@ -90,5 +90,11 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/blaze_grenade_trap.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "12/19/2025",
+  "recipe": {
+    "blaze_grenade": 1,
+    "wires": 1
+  },
+  "craftBench": "workbench",
+  "stationLevelRequired": 1
 }

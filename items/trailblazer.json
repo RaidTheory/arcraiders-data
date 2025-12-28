@@ -45,6 +45,12 @@
   "rarity": "Rare",
   "weightKg": 1,
   "stackSize": 3,
+  "recipe": {
+    "synthesized_fuel": 1,
+    "explosive_compound": 1
+  },
+  "craftBench": "explosives_bench",
+  "stationLevelRequired": 3,
   "effects": {
     "Damage": {
       "en": "Damage",
