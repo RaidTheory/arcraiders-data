@@ -1,6 +1,6 @@
 {
   "id": "deciphering_the_data",
-  "updatedAt": "12/16/2025",
+  "updatedAt": "12/29/2025",
   "name": {
     "en": "Deciphering the Data",
     "zh-CN": "破译数据",
@@ -107,6 +107,6 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["a_toxic_trail"],
-  "nextQuestIds": []
+  "previousQuestIds": ["paving_the_way"],
+  "nextQuestIds": ["groundbreaking"]
 }

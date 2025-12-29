@@ -1,6 +1,6 @@
 {
   "id": "ss10x5",
-  "updatedAt": "11/06/2025",
+  "updatedAt": "12/29/2025",
   "name": {
     "en": "Into the Fray",
     "de": "Mitten ins Gefecht",
@@ -113,5 +113,7 @@
     "ss10x4",
     "ss11b2"
   ],
-  "nextQuestIds": []
+  "nextQuestIds": [
+    "paving_the_way"
+  ]
 }
