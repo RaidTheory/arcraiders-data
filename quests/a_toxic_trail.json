@@ -1,6 +1,6 @@
 {
   "id": "a_toxic_trail",
-  "updatedAt": "12/16/2025",
+  "updatedAt": "12/29/2025",
   "name": {
     "en": "A Toxic Trail",
     "de": "Eine giftige Spur",
@@ -146,6 +146,10 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [],
-  "nextQuestIds": []
+  "previousQuestIds": [
+    "ss10x14"
+  ],
+  "nextQuestIds": [
+    "ss10x17"
+  ]
 }
