@@ -21,6 +21,12 @@
     "sr": "Mešoviti Signali",
     "hr": "Miješani Signali"
   },
+  "map": [
+    "buried_city",
+    "the_spaceport",
+    "the_blue_gate",
+    "dam_battlegrounds"
+  ],
   "trader": "Tian Wen",
   "description": {
     "en": "Have you spotted any Surveyors; the big round ones? They seem to be transmitting data back into orbit, and I can't help but think it's tied to that signal we picked up. Will you break one open, so we can try to decipher the data?",
