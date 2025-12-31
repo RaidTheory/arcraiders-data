@@ -21,6 +21,11 @@
     "sr": "Uspavani Baroni",
     "hr": "Uspavani Baroni"
   },
+  "map": [
+    "the_spaceport",
+    "dam_battlegrounds",
+    "the_blue_gate"
+  ],
   "trader": "Shani",
   "description": {
     "en": "During the First Wave, the Barons did more damage than all the other machines combined. Now they're mere husks; fixed in place where they once fell... Still, their internals might hold the answer to keeping ARC at bay. So open one up, and bring me whatever is inside.",
