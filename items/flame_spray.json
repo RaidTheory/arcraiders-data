@@ -89,5 +89,10 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/flame_spray.png",
-  "updatedAt": "11/04/2025"
+  "updatedAt": "12/31/2025",
+  "recipe": {
+    "air_freshener": 1,
+    "fireball_burner": 1
+  },
+  "craftBench": "Inventory"
 }
