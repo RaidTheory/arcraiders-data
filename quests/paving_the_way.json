@@ -1,6 +1,6 @@
 {
   "id": "paving_the_way",
-  "updatedAt": "12/16/2025",
+  "updatedAt": "12/29/2025",
   "name": {
     "en": "Paving the Way",
     "de": "Den Weg ebnen",
@@ -144,6 +144,10 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [],
-  "nextQuestIds": []
+  "previousQuestIds": [
+    "ss10x5"
+  ],
+  "nextQuestIds": [
+    "deciphering_the_data"
+  ]
 }
