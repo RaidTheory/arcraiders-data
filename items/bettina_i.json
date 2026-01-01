@@ -153,6 +153,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/bettina.png",
   "updatedAt": "11/09/2025",
+  "requiresBlueprint": "bettina_blueprint",
   "recipe": {
     "advanced_mechanical_components": 3,
     "heavy_gun_parts": 3,

@@ -111,6 +111,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
   "updatedAt": "11/03/2025",
+  "requiresBlueprint": "jolt_mine_blueprint",
   "recyclesInto": {
     "battery": 1,
     "plastic_parts": 2

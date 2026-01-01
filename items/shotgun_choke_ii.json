@@ -83,5 +83,6 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "requiresBlueprint": "shotgun_choke_ii_blueprint"
 }

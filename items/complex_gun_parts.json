@@ -51,6 +51,7 @@
     "simple_gun_parts": 3
   },
   "updatedAt": "11/21/2025",
+  "requiresBlueprint": "complex_gun_parts_blueprint",
   "recipe": {
     "light_gun_parts": 2,
     "medium_gun_parts": 2,

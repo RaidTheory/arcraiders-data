@@ -211,5 +211,6 @@
   "weightKg": 8,
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
   "updatedAt": "11/12/2025",
+  "requiresBlueprint": "vulcano_blueprint",
   "isWeapon": true
 }

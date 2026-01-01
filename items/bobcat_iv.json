@@ -52,6 +52,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/bobcat.png",
   "updatedAt": "11/25/2025",
+  "requiresBlueprint": "bobcat_blueprint",
   "weightKg": 7,
   "effects": {
     "Durability": {

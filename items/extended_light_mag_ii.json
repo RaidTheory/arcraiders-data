@@ -79,5 +79,6 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "requiresBlueprint": "extended_light_mag_ii_blueprint"
 }

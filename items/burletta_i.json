@@ -50,6 +50,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
   "updatedAt": "11/03/2025",
+  "requiresBlueprint": "burletta_blueprint",
   "weightKg": 4,
   "effects": {
     "Durability": {

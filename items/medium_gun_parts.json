@@ -51,6 +51,7 @@
   "stackSize": 5,
   "weightKg": 0.4,
   "updatedAt": "11/03/2025",
+  "requiresBlueprint": "medium_gun_parts_blueprint",
   "recipe": {
     "simple_gun_parts": 4
   },

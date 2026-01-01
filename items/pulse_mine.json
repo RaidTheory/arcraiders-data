@@ -77,5 +77,6 @@
   "imageFilename": "https://cdn.arctracker.io/items/pulse_mine.png",
   "updatedAt": "12/16/2025",
   "craftBench": "explosives_bench",
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "requiresBlueprint": "pulse_mine_blueprint"
 }

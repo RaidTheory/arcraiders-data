@@ -121,6 +121,7 @@
   "craftBench": "explosives_bench",
   "stationLevelRequired": 1,
   "blueprintLocked": true,
+  "requiresBlueprint": "gas_mine_blueprint",
   "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
   "updatedAt": "12/25/2025"
 }

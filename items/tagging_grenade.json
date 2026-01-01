@@ -104,5 +104,6 @@
     "sensors": 1
   },
   "stationLevelRequired": 3,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "requiresBlueprint": "tagging_grenade_blueprint"
 }

@@ -97,6 +97,7 @@
   "craftBench": "weapon_bench",
   "stationLevelRequired": 3,
   "blueprintLocked": true,
+  "requiresBlueprint": "angled_grip_iii_blueprint",
   "recyclesInto": {
     "mod_components": 1,
     "duct_tape": 2

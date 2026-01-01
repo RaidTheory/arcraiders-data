@@ -122,5 +122,6 @@
   },
   "craftBench": "explosives_bench",
   "stationLevelRequired": 3,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "requiresBlueprint": "showstopper_blueprint"
 }

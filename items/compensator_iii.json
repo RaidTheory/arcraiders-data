@@ -137,5 +137,6 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 3,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "requiresBlueprint": "compensator_iii_blueprint"
 }

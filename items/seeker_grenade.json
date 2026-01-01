@@ -100,5 +100,6 @@
   },
   "craftBench": "explosives_bench",
   "stationLevelRequired": 1,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "requiresBlueprint": "seeker_grenade_blueprint"
 }

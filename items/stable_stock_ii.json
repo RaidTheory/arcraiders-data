@@ -128,5 +128,6 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "requiresBlueprint": "stable_stock_ii_blueprint"
 }

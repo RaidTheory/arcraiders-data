@@ -94,6 +94,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/barricade_kit.png",
   "updatedAt": "11/13/2025",
+  "requiresBlueprint": "barricade_kit_blueprint",
   "recipe": {
     "mechanical_components": 1
   },

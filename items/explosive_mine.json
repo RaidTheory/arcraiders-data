@@ -56,6 +56,7 @@
   "craftBench": "explosives_bench",
   "stationLevelRequired": 3,
   "blueprintLocked": true,
+  "requiresBlueprint": "explosive_mine_blueprint",
   "effects": {
     "Damage": {
       "en": "Damage",

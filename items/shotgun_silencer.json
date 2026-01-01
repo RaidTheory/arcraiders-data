@@ -75,5 +75,6 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 3,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "requiresBlueprint": "shotgun_silencer_blueprint"
 }

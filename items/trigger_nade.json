@@ -91,6 +91,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/trigger_nade.png",
   "updatedAt": "11/03/2025",
+  "requiresBlueprint": "trigger_nade_blueprint",
   "recyclesInto": {
     "chemicals": 1,
     "processor": 1

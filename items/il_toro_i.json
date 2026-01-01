@@ -157,6 +157,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
   "updatedAt": "11/12/2025",
+  "requiresBlueprint": "il_toro_blueprint",
   "recipe": {
     "mechanical_components": 5,
     "simple_gun_parts": 6

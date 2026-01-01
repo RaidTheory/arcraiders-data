@@ -52,6 +52,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/bobcat.png",
   "updatedAt": "11/25/2025",
+  "requiresBlueprint": "bobcat_blueprint",
   "recipe": {
     "magnetic_accelerator": 1,
     "light_gun_parts": 3,

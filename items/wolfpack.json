@@ -91,6 +91,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/wolfpack.png",
   "updatedAt": "11/21/2025",
+  "requiresBlueprint": "wolfpack_blueprint",
   "recyclesInto": {
     "crude_explosives": 1,
     "arc_motion_core": 1

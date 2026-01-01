@@ -97,6 +97,7 @@
   "craftBench": "weapon_bench",
   "stationLevelRequired": 3,
   "blueprintLocked": true,
+  "requiresBlueprint": "extended_barrel_blueprint",
   "recyclesInto": {
     "mod_components": 1,
     "wires": 1

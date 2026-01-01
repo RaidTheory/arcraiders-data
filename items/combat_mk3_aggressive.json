@@ -221,6 +221,7 @@
   "craftBench": "equipment_bench",
   "stationLevelRequired": 3,
   "blueprintLocked": true,
+  "requiresBlueprint": "combat_mk3_aggressive_blueprint",
   "repairCost": {
     "advanced_electrical_components": 1,
     "processor": 2

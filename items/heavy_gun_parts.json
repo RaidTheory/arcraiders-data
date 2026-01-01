@@ -51,6 +51,7 @@
   "stackSize": 5,
   "foundIn": "Security, Raider",
   "updatedAt": "11/03/2025",
+  "requiresBlueprint": "heavy_gun_parts_blueprint",
   "recipe": {
     "simple_gun_parts": 4
   },

@@ -144,6 +144,7 @@
   "craftBench": "weapon_bench",
   "stationLevelRequired": 3,
   "blueprintLocked": true,
+  "requiresBlueprint": "equalizer_blueprint",
   "recyclesInto": {
     "magnetic_accelerator": 2,
     "complex_gun_parts": 1

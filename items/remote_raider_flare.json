@@ -51,6 +51,7 @@
   "weightKg": 0.2,
   "stackSize": 3,
   "updatedAt": "11/03/2025",
+  "requiresBlueprint": "remote_raider_flare_blueprint",
   "recipe": {
     "chemicals": 2,
     "rubber_parts": 4

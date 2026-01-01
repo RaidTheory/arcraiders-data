@@ -58,6 +58,7 @@
   "craftBench": "explosives_bench",
   "stationLevelRequired": 2,
   "blueprintLocked": true,
+  "requiresBlueprint": "fireworks_box_blueprint",
   "imageFilename": "https://cdn.arctracker.io/items/fireworks_box.png",
   "updatedAt": "12/16/2025"
 }

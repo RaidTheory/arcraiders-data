@@ -241,6 +241,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
   "updatedAt": "11/12/2025",
+  "requiresBlueprint": "vulcano_blueprint",
   "craftBench": "weapon_bench",
   "upgradeCost": {
     "advanced_mechanical_components": 2,

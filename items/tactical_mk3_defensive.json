@@ -53,6 +53,7 @@
   "craftBench": "equipment_bench",
   "stationLevelRequired": 3,
   "blueprintLocked": true,
+  "requiresBlueprint": "tactical_mk3_defensive_blueprint",
   "effects": {
     "Durability": {
       "en": "Durability",

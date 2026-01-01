@@ -101,5 +101,6 @@
   },
   "craftBench": "utility_bench",
   "stationLevelRequired": 2,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "requiresBlueprint": "smoke_grenade_blueprint"
 }

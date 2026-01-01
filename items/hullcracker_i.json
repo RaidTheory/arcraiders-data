@@ -158,6 +158,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
   "updatedAt": "11/12/2025",
+  "requiresBlueprint": "hullcracker_blueprint",
   "recipe": {
     "magnetic_accelerator": 1,
     "heavy_gun_parts": 3,

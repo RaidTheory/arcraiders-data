@@ -112,6 +112,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",
   "updatedAt": "10/30/2025",
+  "requiresBlueprint": "vita_spray_blueprint",
   "recyclesInto": {
     "antiseptic": 1,
     "canister": 2

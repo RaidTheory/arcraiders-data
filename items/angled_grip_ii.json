@@ -55,6 +55,7 @@
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
   "blueprintLocked": true,
+  "requiresBlueprint": "angled_grip_ii_blueprint",
   "effects": {
     "Reduced Horizontal Recoil": {
       "en": "Reduced Horizontal Recoil",
