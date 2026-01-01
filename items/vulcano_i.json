@@ -54,6 +54,7 @@
   "stationLevelRequired": 3,
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
   "updatedAt": "11/12/2025",
+  "requiresBlueprint": "vulcano_blueprint",
   "value": 10000,
   "weightKg": 8,
   "recyclesInto": {
