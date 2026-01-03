@@ -18,7 +18,9 @@
     "kr": "전선",
     "tr": "Kablolar",
     "hr": "Žice",
-    "sr": "Žice"
+    "sr": "Žice",
+    "pt-BR": "Fios",
+    "he": "חוטים"
   },
   "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials.",
   "description": {
@@ -39,7 +41,9 @@
     "kr": "다양한 아이템 제작에 사용됩니다. 제작 재료로 재활용 가능. 제작 가능: 화염 수류탄 함정, 연막 수류탄 함정, 미끼 수류탄 함정, 가스 수류탄 함정, 총구 제동기 I",
     "tr": "Geniş bir yelpazede eşya üretiminde kullanılır. Üretim malzemelerine geri dönüştürülebilir. Üretilebilir: Alev Bombası Tuzağı, Sis Bombası Tuzağı, Yem Bombası Tuzağı, Gaz Bombası Tuzağı, Namlu Freni I",
     "hr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Vatrena Zamka s Granatom, Dimna Zamka s Granatom, Zamka s Mamcem, Plinska Zamka s Granatom, Usporivač Cijevi I",
-    "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Vatrena Zamka sa Granatom, Dimna Zamka sa Granatom, Zamka sa Mamcem, Gasna Zamka sa Granatom, Usporivač Cevi I"
+    "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Vatrena Zamka sa Granatom, Dimna Zamka sa Granatom, Zamka sa Mamcem, Gasna Zamka sa Granatom, Usporivač Cevi I",
+    "pt-BR": "Usado para fabricar uma ampla variedade de itens. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Armadilha de Granada Incendiária, Armadilha de Granada de Fumaça, Armadilha de Granada Isca, Armadilha de Granada de Gás, Freio de Boca I",
+    "he": "משמש ליצירת מגוון רחב של פריטים. ניתן למחזור לחומרי יצירה. משמש ליצירת: מלכודת רימון תבערה, מלכודת רימון עשן, מלכודת רימון פיתיון, מלכודת רימון גז, בלם לוע I"
   },
   "type": "Topside Material",
   "rarity": "Uncommon",

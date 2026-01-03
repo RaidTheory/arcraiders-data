@@ -19,7 +19,9 @@
     "tr": "Toledo'ya Haraç",
     "zh-TW": "托萊多的貢品",
     "sr": "Danak Toledu",
-    "hr": "Danak Toledu"
+    "hr": "Danak Toledu",
+    "pt-BR": "Tributo a Toledo",
+    "he": "מנחה ל-Toledo"
   },
   "trader": "Celeste",
   "description": {
@@ -40,7 +42,9 @@
     "tr": "Resmi Toledo Tüp Yönetimi, \"onların\" Sapan tüplerini kullanmak için Güç Çubuklarımızdan birini talep ediyor. İsim sizi yanıltmasın, hiçbir şekilde resmi değiller; sadece çok güce sahip haydutlar. Bu konuda bana yardım edebilir misin?",
     "zh-TW": "托萊多官方管道管理局要求我們交出一根能量棒，以換取使用\"他們的\"彈弓管道。別被名字騙了，他們根本不是什麼官方機構；只是一群有權勢的暴徒。你能幫我處理這件事嗎？",
     "sr": "Zvanična Toledo Tubes uprava zahteva jedan od naših Power Rod-ova za korišćenje \"njihovih\" Slingshot cevi. Nemoj da te ime zavara, oni ni na koji način nisu zvanični; samo nasilnici sa puno moći. Možeš li mi pomoći oko ovoga?",
-    "hr": "Službeni Toledo Tubes Management zahtijeva jedan od naših Power Rod-ova za korištenje \"njihovih\" Slingshot cijevi. Nemoj da te ime zavara, oni ni na koji način nisu službeni; samo nasilnici s puno moći. Možeš li mi pomoći oko ovoga?"
+    "hr": "Službeni Toledo Tubes Management zahtijeva jedan od naših Power Rod-ova za korištenje \"njihovih\" Slingshot cijevi. Nemoj da te ime zavara, oni ni na koji način nisu službeni; samo nasilnici s puno moći. Možeš li mi pomoći oko ovoga?",
+    "pt-BR": "A Administração Oficial dos Tubos de Toledo está exigindo uma de nossas Hastes de Energia para o uso de \"seus\" tubos de Estilingue. Não se deixe enganar pelo nome, eles não são nada oficiais; são apenas bandidos com muito poder. Você poderia me ajudar com isso?",
+    "he": "ההנהלה הרשמית של צינורות Toledo דורשת את אחד ממוטות הכוח שלנו לשימוש בצינורות ה-Slingshot \"שלהם\". אל תיתן לשם להטעות אותך, הם ממש לא רשמיים; סתם בריונים עם הרבה כוח. תוכל לעזור לי עם זה?"
   },
   "objectives": [
     {
@@ -61,7 +65,9 @@
       "tr": "Celeste için bir Güç Çubuğu al",
       "zh-TW": "為塞萊斯特獲取一根能量棒",
       "sr": "Nabavi Power Rod za Celeste",
-      "hr": "Nabavi Power Rod za Celeste"
+      "hr": "Nabavi Power Rod za Celeste",
+      "pt-BR": "Obtenha uma Haste de Energia para a Celeste",
+      "he": "השג מוט כוח עבור Celeste"
     }
   ],
   "requiredItemIds": [

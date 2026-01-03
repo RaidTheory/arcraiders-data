@@ -19,7 +19,9 @@
     "tr": "Kırık Anıt",
     "zh-TW": "破碎的紀念碑",
     "sr": "Slomljeni Spomenik",
-    "hr": "Slomljeni Spomenik"
+    "hr": "Slomljeni Spomenik",
+    "pt-BR": "Monumento Quebrado",
+    "he": "אנדרטה שבורה"
   },
   "map": [
     "dam_battlegrounds"
@@ -43,7 +45,9 @@
     "tr": "Senin için araştırmanı istediğim başka bir özel yer var. İlk Dalga'dan kalma eski bir savaş alanı. Günümüzde Raider'lar, bir zamanlar taşıdıkları öneme rağmen genellikle böyle yerleri temizlerler. İnsanlar çabuk unutur. Unutmaları gerekenden daha çabuk.",
     "zh-TW": "我還有一個特殊地點需要你去搜索。一個古老的戰場，來自第一波。如今的掠奪者通常會把這樣的地方洗劫一空，儘管它們曾經意義重大。人們很快就會忘記。比應該忘記的速度還快。",
     "sr": "Imam još jedno posebno mesto koje treba da pretražiš za mene. Staro bojno polje, iz Prvog Talasa. Pljačkaši danas obično očiste takva mesta, uprkos značaju koji su nekada imala. Ljudi brzo zaboravljaju. Brže nego što bi trebalo.",
-    "hr": "Imam još jedno posebno mjesto koje trebaš pretražiti za mene. Staro bojno polje, iz Prvog Vala. Pljačkaši danas obično očiste takva mjesta, unatoč značaju koji su nekada imala. Ljudi brzo zaboravljaju. Brže nego što bi trebali."
+    "hr": "Imam još jedno posebno mjesto koje trebaš pretražiti za mene. Staro bojno polje, iz Prvog Vala. Pljačkaši danas obično očiste takva mjesta, unatoč značaju koji su nekada imala. Ljudi brzo zaboravljaju. Brže nego što bi trebali.",
+    "pt-BR": "Tenho outro local especial que preciso que você vasculhe para mim. Um antigo campo de batalha, da Primeira Onda. Os saqueadores de hoje costumam limpar lugares assim, apesar do significado que já tiveram. As pessoas esquecem rápido. Mais rápido do que deveriam.",
+    "he": "יש לי עוד אתר מיוחד שאני צריך שתסרקו בשבילי. שדה קרב ישן, מתקופת הגל הראשון. ה-Raiders של ימינו בדרך כלל מנקים מקומות כאלה, למרות החשיבות שהיתה להם פעם. אנשים שוכחים מהר. מהר מדי."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Hurda Sahası'nın yanındaki kutsal alana ulaş",
       "zh-TW": "到達廢料場旁的神聖之地",
       "sr": "Stigni do svetog tla kod Otpada",
-      "hr": "Stigni do svetog tla kod Otpada"
+      "hr": "Stigni do svetog tla kod Otpada",
+      "pt-BR": "Chegue ao solo sagrado perto do Ferro-Velho",
+      "he": "הגיעו אל האדמה המקודשת ליד מגרש הגרוטאות"
     },
     {
       "en": "Search for a compass near the broken-down vehicles",
@@ -84,7 +90,9 @@
       "tr": "Bozuk araçların yakınında bir pusula ara",
       "zh-TW": "在損壞的車輛附近搜索指南針",
       "sr": "Traži kompas blizu pokvarenih vozila",
-      "hr": "Traži kompas blizu pokvarenih vozila"
+      "hr": "Traži kompas blizu pokvarenih vozila",
+      "pt-BR": "Procure por uma bússola perto dos veículos quebrados",
+      "he": "חפשו מצפן ליד כלי הרכב ההרוסים"
     },
     {
       "en": "Search for the video tape near the cylindrical containers",
@@ -104,7 +112,9 @@
       "tr": "Silindirik konteynerlerin yakınında video kaseti ara",
       "zh-TW": "在圓柱形貨櫃附近搜索錄影帶",
       "sr": "Traži video traku blizu cilindričnih kontejnera",
-      "hr": "Traži video traku blizu cilindričnih kontejnera"
+      "hr": "Traži video traku blizu cilindričnih kontejnera",
+      "pt-BR": "Procure pela fita de vídeo perto dos contêineres cilíndricos",
+      "he": "חפשו את קלטת הווידאו ליד המכלים הגליליים"
     },
     {
       "en": "Search for the old field rations in the Raider camp",
@@ -124,7 +134,9 @@
       "tr": "Raider kampında eski saha rasyonlarını ara",
       "zh-TW": "在掠奪者營地搜索舊野戰口糧",
       "sr": "Traži stare terenske obroke u Pljačkaškom kampu",
-      "hr": "Traži stare terenske obroke u Pljačkaškom kampu"
+      "hr": "Traži stare terenske obroke u Pljačkaškom kampu",
+      "pt-BR": "Procure pelas antigas rações de campo no acampamento Raider",
+      "he": "חפשו את מנות הקרב הישנות במחנה ה-Raider"
     },
     {
       "en": "Deliver the First Wave Tape to Tian Wen",
@@ -144,7 +156,9 @@
       "tr": "İlk Dalga Kasetini Tian Wen'e teslim et",
       "zh-TW": "將第一波錄影帶交給田文",
       "sr": "Dostavi Traku Prvog Talasa Tian Wenu",
-      "hr": "Dostavi Traku Prvog Vala Tian Wenu"
+      "hr": "Dostavi Traku Prvog Vala Tian Wenu",
+      "pt-BR": "Entregue a Fita da Primeira Onda para Tian Wen",
+      "he": "מסרו את קלטת הגל הראשון ל-Tian Wen"
     },
     {
       "en": "Deliver First Wave Compass to Tian Wen",
@@ -164,7 +178,9 @@
       "tr": "İlk Dalga Pusulasını Tian Wen'e teslim et",
       "zh-TW": "將第一波指南針交給田文",
       "sr": "Dostavi Kompas Prvog Talasa Tian Wenu",
-      "hr": "Dostavi Kompas Prvog Vala Tian Wenu"
+      "hr": "Dostavi Kompas Prvog Vala Tian Wenu",
+      "pt-BR": "Entregue a Bússola da Primeira Onda para Tian Wen",
+      "he": "מסרו את מצפן הגל הראשון ל-Tian Wen"
     },
     {
       "en": "Deliver First Wave Rations to Tian Wen",
@@ -184,7 +200,9 @@
       "tr": "İlk Dalga Rasyonlarını Tian Wen'e teslim et",
       "zh-TW": "將第一波口糧交給田文",
       "sr": "Dostavi Obroke Prvog Talasa Tian Wenu",
-      "hr": "Dostavi Obroke Prvog Vala Tian Wenu"
+      "hr": "Dostavi Obroke Prvog Vala Tian Wenu",
+      "pt-BR": "Entregue as Rações da Primeira Onda para Tian Wen",
+      "he": "מסרו את מנות הגל הראשון ל-Tian Wen"
     }
   ],
   "requiredItemIds": [

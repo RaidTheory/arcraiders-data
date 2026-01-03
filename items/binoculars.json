@@ -18,7 +18,9 @@
     "kr": "쌍안경",
     "tr": "Dürbün",
     "hr": "Dalekozor",
-    "sr": "Dvogled"
+    "sr": "Dvogled",
+    "pt-BR": "Binóculos",
+    "he": "משקפת"
   },
   "description": {
     "en": "A basic pair of binoculars with two levels of magnification.",
@@ -38,7 +40,9 @@
     "kr": "두 단계의 배율을 가진 기본 쌍안경.",
     "tr": "İki büyütme seviyesine sahip temel bir dürbün.",
     "hr": "Osnovni dalekozor s dvije razine povećanja.",
-    "sr": "Osnovni dvogled sa dva nivoa uveličanja."
+    "sr": "Osnovni dvogled sa dva nivoa uveličanja.",
+    "pt-BR": "Um par básico de binóculos com dois níveis de ampliação.",
+    "he": "משקפת בסיסית עם שתי רמות הגדלה."
   },
   "type": "Quick Use",
   "updatedAt": "11/03/2025",
@@ -69,7 +73,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/binoculars.png",

@@ -18,7 +18,9 @@
     "es": "Rompe Cascos III",
     "hr": "Lomač Trupa III",
     "pt": "Quebra-cascos III",
-    "da": "Skrogknuser III"
+    "da": "Skrogknuser III",
+    "pt-BR": "Hullcracker III",
+    "he": "Hullcracker III"
   },
   "effects": {
     "Increased Fire Rate": {
@@ -40,7 +42,9 @@
       "hr": "Povećana Brzina Paljbe",
       "pt": "Taxa de Disparo Aumentada",
       "da": "Øget Skudhastighed",
-      "value": "35%"
+      "value": "35%",
+      "pt-BR": "Cadência de Tiro Aumentada",
+      "he": "קצב אש מוגבר"
     },
     "Durability": {
       "en": "Durability",
@@ -61,7 +65,9 @@
       "hr": "Izdržljivost",
       "pt": "Durabilidade",
       "da": "Holdbarhed",
-      "value": "120/120"
+      "value": "120/120",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -82,7 +88,9 @@
       "hr": "Veličina Okvira",
       "pt": "Tamanho do Carregador",
       "da": "Magasinstørrelse",
-      "value": 5
+      "value": 5,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -103,7 +111,9 @@
       "hr": "Režim Paljbe",
       "pt": "Modo de Disparo",
       "da": "Skydningstilstand",
-      "value": "Pump-Action"
+      "value": "Pump-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -124,7 +134,9 @@
       "hr": "ARC Probijanje Oklopa",
       "pt": "Penetração de Blindagem ARC",
       "da": "ARC Rustningspenetrering",
-      "value": "Very Strong"
+      "value": "Very Strong",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -145,7 +157,9 @@
       "hr": "Tip Municije",
       "pt": "Tipo de Munição",
       "da": "Ammunitionstype",
-      "value": "Launcher Ammo"
+      "value": "Launcher Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     }
   },
   "value": 17000,
@@ -180,7 +194,9 @@
     "es": "Dispara proyectiles explosivos que solo detonan al impactar ARC.",
     "hr": "Ispaljuje eksplozivne projektile koji detoniraju samo kada pogode ARC.",
     "pt": "Dispara projéteis explosivos que só detonam ao atingir ARC.",
-    "da": "Affyrer eksplosive projektiler, der kun detonerer ved træf på ARC."
+    "da": "Affyrer eksplosive projektiler, der kun detonerer ved træf på ARC.",
+    "pt-BR": "Dispara projéteis explosivos que só detonam ao atingir ARC.",
+    "he": "יורה קליעים נפיצים שמתפוצצים רק בעת פגיעה ב-ARC."
   },
   "type": "Special",
   "rarity": "Epic",

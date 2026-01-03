@@ -19,7 +19,9 @@
     "tr": "Tersine Çevirme",
     "zh-TW": "逆轉",
     "sr": "Preokret",
-    "hr": "Preokret"
+    "hr": "Preokret",
+    "pt-BR": "Reviravolta",
+    "he": "היפוך היוצרות"
   },
   "map": [
     "the_spaceport"
@@ -43,7 +45,9 @@
     "tr": "Bir planım var. OTTM'ye karşı kanıtları onlar ele geçirmeden önce kurtarırsak, onları sonsuza kadar başımızdan atabiliriz.",
     "zh-TW": "我有個計畫。如果我們能在OTTM之前找到對他們不利的證據，我們就能徹底擺脫他們。",
     "sr": "Imam plan. Ako povratimo dokaze protiv OTTM-a pre nego što oni dođu do njih, možda ćemo ih se rešiti jednom zauvek.",
-    "hr": "Imam plan. Ako povratimo dokaze protiv OTTM-a prije nego što oni dođu do njih, možda ćemo ih se riješiti jednom zauvijek."
+    "hr": "Imam plan. Ako povratimo dokaze protiv OTTM-a prije nego što oni dođu do njih, možda ćemo ih se riješiti jednom zauvijek.",
+    "pt-BR": "Tenho um plano. Se recuperarmos as evidências contra a OTTM antes que eles cheguem até elas, talvez consigamos nos livrar deles de uma vez por todas.",
+    "he": "יש לי תוכנית. אם נשיג את הראיות נגד ה-OTTM לפני שהם יגיעו אליהן, אולי נצליח להוריד אותם מהגב שלנו אחת ולתמיד."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Kuzey Siper Kulesi'ne git",
       "zh-TW": "前往北方戰壕塔",
       "sr": "Idi do Severne kule rova",
-      "hr": "Idi do Sjeverne kule rova"
+      "hr": "Idi do Sjeverne kule rova",
+      "pt-BR": "Vá para a Torre da Trincheira Norte",
+      "he": "לך אל מגדל ה-North Trench"
     },
     {
       "en": "Locate and upload the blackmail files to Celeste",
@@ -84,7 +90,9 @@
       "tr": "Şantaj dosyalarını bul ve Celeste'e yükle",
       "zh-TW": "找到勒索檔案並上傳給賽蕾絲特",
       "sr": "Pronađi i otpremi datoteke ucene Celeste",
-      "hr": "Pronađi i otpremi datoteke ucjene Celeste"
+      "hr": "Pronađi i otpremi datoteke ucjene Celeste",
+      "pt-BR": "Localize e faça o upload dos arquivos de chantagem para a Celeste",
+      "he": "אתר את קבצי הסחיטה והעלה אותם ל-Celeste"
     }
   ],
   "grantedItemIds": [

@@ -19,7 +19,9 @@
     "tr": "Geçmişin Reçeteleri",
     "zh-TW": "過去的處方",
     "sr": "Recepti iz prošlosti",
-    "hr": "Recepti iz prošlosti"
+    "hr": "Recepti iz prošlosti",
+    "pt-BR": "Prescrições do Passado",
+    "he": "מרשמים מהעבר"
   },
   "map": [
     "the_spaceport"
@@ -43,7 +45,9 @@
     "tr": "Bir süredir Uzay Limanı'ndaki tıbbi alana merak sardım. İçimden bir ses buranın tartışmasız şampiyonu olmak için ihtiyacım olan şeyin orada olduğunu söylüyor.",
     "zh-TW": "我對太空港的醫療區已經好奇了一段時間。直覺告訴我那裡有我成為這個地方無可爭議的冠軍所需要的東西。",
     "sr": "Već neko vreme sam radoznao o medicinskom delu u Svemirskoj luci. Nešto mi govori da tamo ima upravo ono što mi treba da postanem neosporan šampion ovog mesta.",
-    "hr": "Već neko vrijeme sam znatiželjan o medicinskom području u Svemirskoj luci. Nešto mi govori da tamo ima upravo ono što mi treba da postanem neosporan prvak ovog mjesta."
+    "hr": "Već neko vrijeme sam znatiželjan o medicinskom području u Svemirskoj luci. Nešto mi govori da tamo ima upravo ono što mi treba da postanem neosporan prvak ovog mjesta.",
+    "pt-BR": "Estou curioso sobre a área médica no Spaceport há algum tempo. Algo me diz que ela tem exatamente o que preciso para me tornar o campeão inegável deste lugar.",
+    "he": "אני סקרן לגבי האזור הרפואי בנמל החלל כבר זמן מה. משהו אומר לי שיש שם בדיוק את מה שאני צריך כדי להפוך לאלוף הבלתי מעורער של המקום הזה."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Uzay Limanı'ndaki Kalkış Binasını ziyaret edin",
       "zh-TW": "前往太空港的出發大樓",
       "sr": "Poseti zgradu polazaka u Svemirskoj luci",
-      "hr": "Posjeti zgradu polazaka u Svemirskoj luci"
+      "hr": "Posjeti zgradu polazaka u Svemirskoj luci",
+      "pt-BR": "Visite o Prédio de Embarque no Spaceport",
+      "he": "בקר בבניין ההמראות בנמל החלל"
     },
     {
       "en": "Find the Medical Exam Room inside the Departure Building",
@@ -84,7 +90,9 @@
       "tr": "Kalkış Binası içindeki Tıbbi Muayene Odasını bulun",
       "zh-TW": "在出發大樓內找到醫療檢查室",
       "sr": "Pronađi medicinsku ambulantu unutar zgrade polazaka",
-      "hr": "Pronađi medicinsku ambulantu unutar zgrade polazaka"
+      "hr": "Pronađi medicinsku ambulantu unutar zgrade polazaka",
+      "pt-BR": "Encontre a Sala de Exames Médicos dentro do Prédio de Embarque",
+      "he": "מצא את חדר הבדיקות הרפואיות בתוך בניין ההמראות"
     },
     {
       "en": "Search for the records",
@@ -104,7 +112,9 @@
       "tr": "Kayıtları arayın",
       "zh-TW": "搜尋記錄",
       "sr": "Traži zapise",
-      "hr": "Traži zapise"
+      "hr": "Traži zapise",
+      "pt-BR": "Procure pelos registros",
+      "he": "חפש את הרישומים"
     }
   ],
   "rewardItemIds": [

@@ -19,7 +19,9 @@
     "tr": "Pislik Çıkarmak",
     "zh-TW": "挖掘黑料",
     "sr": "Iskopavanje prljavštine",
-    "hr": "Iskopavanje prljavštine"
+    "hr": "Iskopavanje prljavštine",
+    "pt-BR": "Desenterrando Podres",
+    "he": "לחפש לכלוך"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Bir fırsat yakaladık. Gözcülerimizden biri, Tüp Yönetimi'nin bir üyesinin Gömülü Şehir'deki Santa Maria Evleri'nde gizli bir bırakma yaptığını gördü. Bu, onlar hakkında bir pislik çıkarmak için şansımız olabilir. Var mısın?",
     "zh-TW": "我們有突破了。我們的一名偵察員看到管道管理局的一名成員在埋藏之城的聖瑪麗亞住宅區進行了死信箱交接。這可能是我們挖掘他們黑料的機會。你要參與嗎？",
     "sr": "Imali smo sreće. Jedan od naših izviđača je video člana Tubes uprave kako pravi mrtvu dostavu unutar Santa Maria Houses u Zakopanom gradu. Ovo bi mogla biti naša prilika da iskopamo nešto prljavštine o njima za promenu. Pristupaš?",
-    "hr": "Imali smo sreće. Jedan od naših izviđača vidio je člana Tubes Managementa kako pravi mrtvu dostavu unutar Santa Maria Houses u Zakopanom gradu. Ovo bi mogla biti naša prilika da iskopamo nešto prljavštine o njima za promjenu. Pristupaš?"
+    "hr": "Imali smo sreće. Jedan od naših izviđača vidio je člana Tubes Managementa kako pravi mrtvu dostavu unutar Santa Maria Houses u Zakopanom gradu. Ovo bi mogla biti naša prilika da iskopamo nešto prljavštine o njima za promjenu. Pristupaš?",
+    "pt-BR": "Demos sorte. Um dos nossos batedores viu um membro da Gerência dos Tubos fazer uma entrega secreta dentro das Casas Santa Maria na Cidade Soterrada. Essa pode ser nossa chance de descobrir alguns podres sobre eles, para variar. Topa?",
+    "he": "התמזל מזלנו. אחד הגששים שלנו ראה חבר ב-Tubes Management מבצע מסירה חשאית בבתי סנטה מריה בתוך העיר הקבורה. אולי זו ההזדמנות שלנו להשיג עליהם קצת לכלוך לשם שינוי. אתה בפנים?"
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Eski Şehir'deki Santa Maria Evleri'ni bul",
       "zh-TW": "在舊城區找到聖瑪麗亞住宅",
       "sr": "Lociraj Santa Maria Houses u Starom gradu",
-      "hr": "Lociraj Santa Maria Houses u Starom gradu"
+      "hr": "Lociraj Santa Maria Houses u Starom gradu",
+      "pt-BR": "Localize as Casas Santa Maria na Cidade Velha",
+      "he": "אתר את בתי סנטה מריה בעיר העתיקה"
     },
     {
       "en": "Locate the Dead Drop inside the courtyard",
@@ -84,7 +90,9 @@
       "tr": "Avlunun içindeki gizli bırakma yerini bul",
       "zh-TW": "在庭院內找到死信箱",
       "sr": "Lociraj mrtvu dostavu unutar dvorišta",
-      "hr": "Lociraj mrtvu dostavu unutar dvorišta"
+      "hr": "Lociraj mrtvu dostavu unutar dvorišta",
+      "pt-BR": "Localize o Ponto de Entrega dentro do pátio",
+      "he": "אתר את נקודת המסירה בתוך החצר"
     }
   ],
   "rewardItemIds": [

@@ -18,7 +18,9 @@
     "kr": "연막탄 설계도",
     "tr": "Sis Bombasi Plani",
     "hr": "Dimna granata Nacrt",
-    "sr": "Dimna granata Nacrt"
+    "sr": "Dimna granata Nacrt",
+    "pt-BR": "Projeto de Granada de Fumaça",
+    "he": "שרטוט רימון עשן"
   },
   "description": {
     "en": "A grenade that creates a lingering smoke cloud on impact, blocking visibility from ARC and other Raiders.",
@@ -38,7 +40,9 @@
     "kr": "충격 시 지속되는 연막을 생성하여 아크와 다른 레이더의 시야를 차단하는 수류탄입니다.",
     "tr": "Carpma aninda kalici bir duman bulutu olusturarak ARC ve diger Akincilarin gorusunu engelleyen bomba.",
     "hr": "Granata koja stvara dugotrajan oblak dima pri udaru, blokirajuci vidljivost ARC-u i drugim Raiderima.",
-    "sr": "Granata koja stvara dugotrajan oblak dima pri udaru, blokirajuci vidljivost ARC-u i drugim Raiderima."
+    "sr": "Granata koja stvara dugotrajan oblak dima pri udaru, blokirajuci vidljivost ARC-u i drugim Raiderima.",
+    "pt-BR": "Uma granada que cria uma nuvem de fumaça persistente no impacto, bloqueando a visibilidade da ARC e de outros Raiders.",
+    "he": "רימון שיוצר ענן עשן מתמשך בעת הפגיעה, וחוסם את הראות של ARC ו-Raiders אחרים."
   },
   "type": "Blueprint",
   "rarity": "Legendary",

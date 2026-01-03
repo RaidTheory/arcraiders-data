@@ -18,7 +18,9 @@
     "kr": "산탄총 초크 II",
     "tr": "Pompalı Tüfek Çoku II",
     "hr": "Sačmarica čok II",
-    "sr": "Sačmarica čok II"
+    "sr": "Sačmarica čok II",
+    "pt-BR": "Estrangulador de Escopeta II",
+    "he": "צ'וק לרובה ציד II"
   },
   "description": {
     "en": "Moderately reduces base dispersion. Compatible with: Il Toro, Vulcano",
@@ -38,7 +40,9 @@
     "kr": "기본 분산을 적당히 감소시킵니다. 호환 무기: 일 토로, 불카노",
     "tr": "Temel dağılımı orta düzeyde azaltır. Uyumlu: Il Toro, Vulcano",
     "hr": "Umjereno smanjuje osnovnu raspršenost. Kompatibilno s: Il Toro, Vulcano",
-    "sr": "Umereno smanjuje osnovnu raspršenost. Kompatibilno sa: Il Toro, Vulcano"
+    "sr": "Umereno smanjuje osnovnu raspršenost. Kompatibilno sa: Il Toro, Vulcano",
+    "pt-BR": "Reduz moderadamente a dispersão base. Compatível com: Il Toro, Vulcano",
+    "he": "מפחית באופן בינוני את הפיזור הבסיסי. תואם ל: Il Toro, Vulcano"
   },
   "type": "Modification",
   "rarity": "Uncommon",
@@ -68,7 +72,9 @@
       "tr": "Azaltılmış Temel Dağılım",
       "hr": "Smanjena osnovna raspršenost",
       "sr": "Smanjena osnovna raspršenost",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Dispersão Base Reduzida",
+      "he": "פיזור בסיסי מופחת"
     }
   },
   "compatibleWith": [

@@ -19,7 +19,9 @@
     "tr": "Zafer Sırtı'nın Yankıları",
     "zh-TW": "勝利山脊的迴響",
     "sr": "Odjeci Pobedničkog grebena",
-    "hr": "Odjeci Pobjedničkog grebena"
+    "hr": "Odjeci Pobjedničkog grebena",
+    "pt-BR": "Ecos de Victory Ridge",
+    "he": "הדי רכס הניצחון"
   },
   "map": [
     "dam_battlegrounds"
@@ -43,7 +45,9 @@
     "tr": "Dün gece herhangi bir sarsıntı hissettin mi? Ben de hissetmedim. Ama görünüşe göre bir noktada yer kaymış ve bu süreçte enkaz tarafından kapatılmış eski bir İlk Dalga karakolu ortaya çıkmış. Başka biri gitmeden önce oraya hızlıca gitmenizi istiyorum.",
     "zh-TW": "你昨晚感覺到震動了嗎？我也沒有。但顯然地面在某個時候發生了移動，在這個過程中挖出了一個被碎片堵住的舊第一波前哨站。我希望你能在其他人之前快速進入那裡。",
     "sr": "Da li si osetio neke potrese sinoć? Ni ja. Ali izgleda da se tlo pomerilo u nekom trenutku, i u tom procesu je otkrilo staru Prvu talas ispostavu koja je bila blokirana krhotinama. Želeo bih da uđeš tamo brzo, pre nego što to uradi neko drugi.",
-    "hr": "Jesi li osjetio neke potrese sinoć? Ni ja. Ali izgleda da se tlo pomaknulo u nekom trenutku, i u tom procesu je otkrilo staru Prvu val ispostavu koja je bila blokirana krhotinama. Želio bih da uđeš tamo brzo, prije nego što to učini netko drugi."
+    "hr": "Jesi li osjetio neke potrese sinoć? Ni ja. Ali izgleda da se tlo pomaknulo u nekom trenutku, i u tom procesu je otkrilo staru Prvu val ispostavu koja je bila blokirana krhotinama. Želio bih da uđeš tamo brzo, prije nego što to učini netko drugi.",
+    "pt-BR": "Sentiu algum tremor ontem à noite? Nem eu. Mas aparentemente o solo se deslocou em algum momento e, no processo, desenterrou um antigo posto avançado da Primeira Onda que estava bloqueado por escombros. Gostaria que você entrasse lá rápido, antes de qualquer outra pessoa.",
+    "he": "הרגשת רעידות כלשהן הלילה? גם אני לא. אבל כנראה שהאדמה זזה בשלב מסוים, ובמהלך התהליך חשפה מוצב ישן מהגל הראשון שנחסם על ידי הריסות. אני רוצה שתיכנס לשם מהר, לפני שמישהו אחר יעשה את זה."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Zafer Sırtı'na ulaş",
       "zh-TW": "到達勝利山脊",
       "sr": "Stigni do Pobedničkog grebena",
-      "hr": "Stigni do Pobjedničkog grebena"
+      "hr": "Stigni do Pobjedničkog grebena",
+      "pt-BR": "Chegue a Victory Ridge",
+      "he": "הגע לרכס הניצחון"
     },
     {
       "en": "Retrieve the battle plans from the hideout under the broken highway",
@@ -84,7 +90,9 @@
       "tr": "Kırık otoyolun altındaki saklanma yerinden savaş planlarını al",
       "zh-TW": "從破損高速公路下的藏身處取回作戰計劃",
       "sr": "Preuzmi planove bitke iz skrovišta ispod slomljenog autoputa",
-      "hr": "Preuzmi planove bitke iz skrovišta ispod slomljenog autoputa"
+      "hr": "Preuzmi planove bitke iz skrovišta ispod slomljenog autoputa",
+      "pt-BR": "Recupere os planos de batalha do esconderijo sob a rodovia destruída",
+      "he": "השג את תוכניות הקרב מהמסתור שמתחת לכביש המהיר ההרוס"
     },
     {
       "en": "Deliver Major Alva's Patch to Celeste",
@@ -104,7 +112,9 @@
       "tr": "Binbaşı Alva'nın Yamasını Celeste'e teslim et",
       "zh-TW": "將阿爾瓦少校的徽章交給塞萊斯特",
       "sr": "Dostavi zakrpu Majora Alve Celeste",
-      "hr": "Dostavi zakrpu Majora Alve Celeste"
+      "hr": "Dostavi zakrpu Majora Alve Celeste",
+      "pt-BR": "Entregue o Emblema da Major Alva para Celeste",
+      "he": "העבר את התג של Major Alva ל-Celeste"
     }
   ],
   "rewardItemIds": [

@@ -19,7 +19,9 @@
     "tr": "Tedariki Değiştirme",
     "zh-TW": "切換供應",
     "sr": "Promena Snabdevanja",
-    "hr": "Promjena Opskrbe"
+    "hr": "Promjena Opskrbe",
+    "pt-BR": "Desviando o Abastecimento",
+    "he": "הטיית האספקה"
   },
   "map": [
     "the_spaceport"
@@ -43,7 +45,9 @@
     "tr": "Uzay Limanı'nın altında bir rezervuar var; eğer o suyu buraya yönlendirmeyi başarırsak, kirlenmeyle başa çıkmak için bize zaman kazandırır.",
     "zh-TW": "太空港下面有一個水庫；如果我們能把那裡的水引到這裡，就能為我們爭取時間來處理污染問題。",
     "sr": "Postoji rezervoar ispod Svemirske Luke; ako uspemo da preusmerimo tu vodu ovde, to bi trebalo da nam kupi vreme da se pozabavimo kontaminacijom.",
-    "hr": "Postoji rezervoar ispod Svemirske Luke; ako uspijemo preusmjeriti tu vodu ovamo, to bi nam trebalo kupiti vrijeme da se pozabavimo kontaminacijom."
+    "hr": "Postoji rezervoar ispod Svemirske Luke; ako uspijemo preusmjeriti tu vodu ovamo, to bi nam trebalo kupiti vrijeme da se pozabavimo kontaminacijom.",
+    "pt-BR": "Há um reservatório sob o Espaçoporto; se conseguirmos desviar essa água para cá, isso deve nos dar tempo para lidar com a contaminação.",
+    "he": "יש מאגר מים מתחת לנמל החלל; אם נצליח לנתב את המים משם לכאן, זה אמור לקנות לנו זמן לטפל בזיהום."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Uzay Limanı'nın altındaki tünelleri bul",
       "zh-TW": "找到太空港下的隧道",
       "sr": "Pronađi tunele ispod Svemirske Luke",
-      "hr": "Pronađi tunele ispod Svemirske Luke"
+      "hr": "Pronađi tunele ispod Svemirske Luke",
+      "pt-BR": "Encontre os túneis sob o Espaçoporto",
+      "he": "מצא את המנהרות מתחת לנמל החלל"
     },
     {
       "en": "Find and turn the valve in the tunnels under Spaceport",
@@ -84,7 +90,9 @@
       "tr": "Uzay Limanı altındaki tünellerde vanayı bul ve çevir",
       "zh-TW": "在太空港下的隧道中找到並轉動閥門",
       "sr": "Pronađi i okreni ventil u tunelima ispod Svemirske Luke",
-      "hr": "Pronađi i okreni ventil u tunelima ispod Svemirske Luke"
+      "hr": "Pronađi i okreni ventil u tunelima ispod Svemirske Luke",
+      "pt-BR": "Encontre e gire a válvula nos túneis sob o Espaçoporto",
+      "he": "מצא וסובב את השסתום במנהרות שמתחת לנמל החלל"
     }
   ],
   "rewardItemIds": [

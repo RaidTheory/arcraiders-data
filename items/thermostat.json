@@ -18,7 +18,9 @@
     "kr": "온도 조절기",
     "tr": "Termostat",
     "hr": "Termostat",
-    "sr": "Termostat"
+    "sr": "Termostat",
+    "pt-BR": "Termostato",
+    "he": "תרמוסטט"
   },
   "rarity": "Rare",
   "type": "Recyclable",
@@ -49,7 +51,9 @@
     "kr": "제작 재료로 재활용할 수 있습니다.",
     "tr": "İşleme malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למיחזור לחומרי יצירה."
   },
   "weightKg": 2,
   "stackSize": 3,

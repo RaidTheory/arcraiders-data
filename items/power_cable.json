@@ -18,7 +18,9 @@
     "kr": "전력 케이블",
     "tr": "Güç Kablosu",
     "hr": "Energetski Kabel",
-    "sr": "Energetski Kabl"
+    "sr": "Energetski Kabl",
+    "pt-BR": "Cabo de Energia",
+    "he": "כבל חשמל"
   },
   "description": {
     "en": "A heavy-duty cable used for transmitting electrical power.",
@@ -38,7 +40,9 @@
     "kr": "전력 전송용 고강도 케이블.",
     "tr": "Elektrik gücü iletimi için kullanılan ağır hizmet kablosu.",
     "hr": "Kabel za teške uvjete koji se koristi za prijenos električne energije.",
-    "sr": "Kabl za teške uslove koji se koristi za prenos električne energije."
+    "sr": "Kabl za teške uslove koji se koristi za prenos električne energije.",
+    "pt-BR": "Um cabo resistente usado para transmitir energia elétrica.",
+    "he": "כבל עמיד במיוחד המשמש להעברת כוח חשמלי."
   },
   "type": "Recyclable",
   "rarity": "Rare",

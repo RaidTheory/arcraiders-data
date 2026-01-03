@@ -19,7 +19,9 @@
     "tr": "Benim Suretimde",
     "zh-TW": "按我的樣子",
     "sr": "Po Mom Liku",
-    "hr": "Po Mom Liku"
+    "hr": "Po Mom Liku",
+    "pt-BR": "À Minha Imagem",
+    "he": "בצלמי"
   },
   "map": [
     "stella_montis"
@@ -43,7 +45,9 @@
     "tr": "Az önce Stella Montis'i ziyaret eden ilk Akıncılardan birini tedavi ettim ve bana şunu söyledi: ...başkalarını görmüş. Bana fazlasıyla benzeyen Androidler.",
     "zh-TW": "我剛治療了一位最早來到史特拉蒙蒂斯的掠奪者，她說她看到了……其他人。安卓，和我非常相像。",
     "sr": "Upravo sam lečila jednu od prvih Rejderki koje su posetile Stelu Montis, i rekla mi je da je videla... druge. Androide, veoma slične meni.",
-    "hr": "Upravo sam liječila jednu od prvih Rejderki koje su posjetile Stellu Montis, i rekla je da je vidjela... druge. Androide, vrlo slične meni."
+    "hr": "Upravo sam liječila jednu od prvih Rejderki koje su posjetile Stellu Montis, i rekla je da je vidjela... druge. Androide, vrlo slične meni.",
+    "pt-BR": "Acabei de tratar uma das primeiras Raiders que visitou Stella Montis, e ela disse que viu... outros. Androides, muito parecidos comigo.",
+    "he": "הרגע טיפלתי באחת ה-Raiders הראשונות שביקרה ב-Stella Montis, והיא אמרה שהיא ראתה... אחרים. אנדרואידים, ממש כמוני."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Stella Montis'e konuşlan",
       "zh-TW": "部署到史特拉蒙蒂斯",
       "sr": "Iskrcaj se u Stelu Montis",
-      "hr": "Iskrcaj se u Stellu Montis"
+      "hr": "Iskrcaj se u Stellu Montis",
+      "pt-BR": "Desembarque em Stella Montis",
+      "he": "צא ל-Stella Montis"
     },
     {
       "en": "Find and search 3 Androids",
@@ -84,7 +90,9 @@
       "tr": "3 Android bul ve ara",
       "zh-TW": "找到並搜查3個安卓體",
       "sr": "Pronađi i pretresi 3 Androida",
-      "hr": "Pronađi i pretresi 3 Androida"
+      "hr": "Pronađi i pretresi 3 Androida",
+      "pt-BR": "Encontre e vasculhe 3 Androides",
+      "he": "מצא ובצע חיפוש על 3 אנדרואידים"
     }
   ],
   "grantedItemIds": [
@@ -104,7 +112,9 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss5"],
+  "previousQuestIds": [
+    "ss5"
+  ],
   "nextQuestIds": [
     "12_cold_storage"
   ]

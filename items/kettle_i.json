@@ -18,7 +18,9 @@
     "kr": "케틀 I",
     "tr": "Kettle I",
     "hr": "Kettle I",
-    "sr": "Kettle I"
+    "sr": "Kettle I",
+    "pt-BR": "Kettle I",
+    "he": "קאטל I"
   },
   "description": {
     "en": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
@@ -38,7 +40,9 @@
     "kr": "빠르고 정확하지만 탄속이 느리고 재장전 시간이 깁니다.",
     "tr": "Hızlı ve isabetli, ancak düşük mermi hızına sahip ve yeniden doldurması uzun sürer.",
     "hr": "Brz i precizan, ali ima nisku brzinu metka i dugo traje punjenje.",
-    "sr": "Brz i precizan, ali ima nisku brzinu metka i dugo traje punjenje."
+    "sr": "Brz i precizan, ali ima nisku brzinu metka i dugo traje punjenje.",
+    "pt-BR": "Rápida e precisa, mas tem baixa velocidade de projétil e demora para recarregar.",
+    "he": "מהיר ומדויק, אך בעל מהירות קליע נמוכה וזמן טעינה ארוך."
   },
   "type": "Assault Rifle",
   "rarity": "Common",
@@ -78,7 +82,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -99,7 +105,9 @@
       "tr": "Mermi Tipi",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta municije",
-      "value": "Light Ammo"
+      "value": "Light Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -120,7 +128,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
-      "value": 20
+      "value": 20,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -141,7 +151,9 @@
       "tr": "Atış Modu",
       "hr": "Način pucanja",
       "sr": "Režim paljbe",
-      "value": "Semi-Automatic"
+      "value": "Semi-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -162,7 +174,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Very Weak"
+      "value": "Very Weak",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "isWeapon": true

@@ -18,7 +18,9 @@
     "kr": "합성 연료",
     "tr": "Sentezlenmiş Yakıt",
     "hr": "Sintetizirano Gorivo",
-    "sr": "Sintetizovano Gorivo"
+    "sr": "Sintetizovano Gorivo",
+    "pt-BR": "Combustível Sintetizado",
+    "he": "דלק מסונתז"
   },
   "description": {
     "en": "A canister of synthetic fuel blend.",
@@ -38,7 +40,9 @@
     "kr": "합성 연료 혼합물 용기.",
     "tr": "Sentetik yakıt karışımı bidonu.",
     "hr": "Kanister sintetičke mješavine goriva.",
-    "sr": "Kanister sintetičke mešavine goriva."
+    "sr": "Kanister sintetičke mešavine goriva.",
+    "pt-BR": "Um recipiente com uma mistura de combustível sintético.",
+    "he": "מיכל של תערובת דלק סינתטי."
   },
   "type": "Topside Material",
   "rarity": "Rare",

@@ -18,7 +18,9 @@
     "es": "Vulcano IV",
     "hr": "Vulcano IV",
     "pt": "Vulcano IV",
-    "da": "Vulcano IV"
+    "da": "Vulcano IV",
+    "pt-BR": "Vulcano IV",
+    "he": "וולקנו IV"
   },
   "effects": {
     "Increased Fire Rate": {
@@ -40,7 +42,9 @@
       "hr": "Povećana brzina paljbe",
       "pt": "Taxa de disparo aumentada",
       "da": "Øget skudhastighed",
-      "value": "30%"
+      "value": "30%",
+      "pt-BR": "Cadência de Tiro Aumentada",
+      "he": "קצב אש מוגבר"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -61,7 +65,9 @@
       "hr": "Smanjeno vrijeme punjenja",
       "pt": "Tempo de recarga reduzido",
       "da": "Reduceret genladningstid",
-      "value": "40%"
+      "value": "40%",
+      "pt-BR": "Tempo de Recarga Reduzido",
+      "he": "זמן טעינה מופחת"
     },
     "Durability": {
       "en": "Durability",
@@ -82,7 +88,9 @@
       "hr": "Izdržljivost",
       "pt": "Durabilidade",
       "da": "Holdbarhed",
-      "value": "130/130"
+      "value": "130/130",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -103,7 +111,9 @@
       "hr": "Tip municije",
       "pt": "Tipo de munição",
       "da": "Ammunitionstype",
-      "value": "Shotgun Ammo"
+      "value": "Shotgun Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -124,7 +134,9 @@
       "hr": "Veličina spremnika",
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
-      "value": 6
+      "value": 6,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -145,7 +157,9 @@
       "hr": "Način paljbe",
       "pt": "Modo de disparo",
       "da": "Skydemetode",
-      "value": "Semi-Automatic"
+      "value": "Semi-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -166,7 +180,9 @@
       "hr": "ARC probijanje oklopa",
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningsgennemtrængning",
-      "value": "Weak"
+      "value": "Weak",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "value": 22000,
@@ -198,7 +214,9 @@
     "es": "Escopeta semiautomática con buena dispersión pero caída brusca de daño",
     "hr": "Poluautomatska sačmara s dobrim rasipanjem metaka ali oštrim padom štete",
     "pt": "Espingarda semiautomática com boa dispersão mas queda acentuada de dano",
-    "da": "Halvautomatisk haglgevær med god spredning men kraftigt skadefald"
+    "da": "Halvautomatisk haglgevær med god spredning men kraftigt skadefald",
+    "pt-BR": "Escopeta semiautomática com boa dispersão de projéteis, mas com queda de dano acentuada",
+    "he": "רובה ציד חצי-אוטומטי עם פיזור כדורים טוב אך ירידה חדה בנזק למרחק"
   },
   "type": "Shotgun",
   "rarity": "Epic",

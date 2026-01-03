@@ -18,7 +18,9 @@
     "kr": "발사기 탄약",
     "tr": "Fırlatıcı Mermisi",
     "hr": "Streljivo za Bacač",
-    "sr": "Streljivo za Bacač"
+    "sr": "Streljivo za Bacač",
+    "pt-BR": "Munição de Lançador",
+    "he": "תחמושת למשגר"
   },
   "description": {
     "en": "Anti-ARC payloads used mainly by the Hullcracker. Compatible with: Hullcracker",
@@ -38,7 +40,9 @@
     "kr": "주로 헐크래커가 사용하는 대 아크 탄두입니다. 호환 무기: 헐크래커",
     "tr": "Esas olarak Hullcracker tarafından kullanılan Anti-ARC yükleri. Uyumlu silahlar: Hullcracker",
     "hr": "Anti-ARC projektili koje uglavnom koristi Hullcracker. Kompatibilno s: Hullcracker",
-    "sr": "Anti-ARC projektili koje uglavnom koristi Hullcracker. Kompatibilno sa: Hullcracker"
+    "sr": "Anti-ARC projektili koje uglavnom koristi Hullcracker. Kompatibilno sa: Hullcracker",
+    "pt-BR": "Cargas anti-ARC usadas principalmente pelo Hullcracker. Compatível com: Hullcracker",
+    "he": "מטענים נגד ARC המשמשים בעיקר את ה-Hullcracker. תואם ל: Hullcracker"
   },
   "type": "Ammunition",
   "compatibleWith": [

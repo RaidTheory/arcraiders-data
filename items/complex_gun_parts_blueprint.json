@@ -18,7 +18,9 @@
     "kr": "정교한 총기 부품 설계도",
     "tr": "Karmaşık Silah Parçaları Planı",
     "hr": "Nacrt za složene dijelove oružja",
-    "sr": "Nacrt za složene delove oružja"
+    "sr": "Nacrt za složene delove oružja",
+    "pt-BR": "Diagrama de Peças de Arma Complexas",
+    "he": "שרטוט חלקי נשק מורכבים"
   },
   "description": {
     "en": "Used to craft advanced weapons.",
@@ -38,7 +40,9 @@
     "kr": "고급 무기 제작에 사용됩니다.",
     "tr": "Gelişmiş silahlar üretmek için kullanılır.",
     "hr": "Koristi se za izradu naprednog oružja.",
-    "sr": "Koristi se za izradu naprednog oružja."
+    "sr": "Koristi se za izradu naprednog oružja.",
+    "pt-BR": "Usado para fabricar armas avançadas.",
+    "he": "משמש לייצור כלי נשק מתקדמים."
   },
   "type": "Blueprint",
   "value": 5000,

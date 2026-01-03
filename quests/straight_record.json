@@ -4,7 +4,7 @@
   "name": {
     "en": "Straight Record",
     "de": "Gute Aufnahme",
-    "fr":"Enregistrement direct",
+    "fr": "Enregistrement direct",
     "es": "Registro limpio",
     "pt": "Registro limpo",
     "pl": "Czyste konto",
@@ -19,7 +19,9 @@
     "tr": "Temiz Kayıt",
     "zh-TW": "清白紀錄",
     "sr": "Čist Račun",
-    "hr": "Čist Račun"
+    "hr": "Čist Račun",
+    "pt-BR": "Acertando as Contas",
+    "he": "להעמיד דברים על דיוקם"
   },
   "map": [
     "dam_battlegrounds"
@@ -43,7 +45,9 @@
     "tr": "İlk Dalga sırasında, ekibimle birlikte Baraj yakınında bir tuzak kurduk. Bir jeneratörü aşırı yükleyip geçici bir ARC tuzağına dönüştürdük. Şimdi Akıncıların bunu iletişimi kesmek ve birbirlerine pusu kurmak için kullandığını duyuyorum. Buna son vermeni istiyorum.",
     "zh-TW": "在第一波行動期間，我和我的小隊在大壩附近建造了一個陷阱。我們讓發電機超載，把它變成了一個臨時的ARC陷阱。現在我聽說掠奪者們用它來切斷通訊，互相伏擊。我需要你結束這一切。",
     "sr": "Tokom Prvog Talasa, moj odred i ja smo napravili zamku kod Brane. Preopteretili smo generator i pretvorili ga u improvizovanu ARC zamku. Sada čujem da je Pljačkaši koriste da preseku komunikacije i postavljaju zasede jedni drugima. Moraš da okončaš to.",
-    "hr": "Tijekom Prvog Vala, moj odred i ja smo napravili zamku kod Brane. Preopteretili smo generator i pretvorili ga u improviziranu ARC zamku. Sad čujem da je Pljačkaši koriste za prekid komunikacija i postavljanje zasjeda jedni drugima. Moraš to okončati."
+    "hr": "Tijekom Prvog Vala, moj odred i ja smo napravili zamku kod Brane. Preopteretili smo generator i pretvorili ga u improviziranu ARC zamku. Sad čujem da je Pljačkaši koriste za prekid komunikacija i postavljanje zasjeda jedni drugima. Moraš to okončati.",
+    "pt-BR": "Lá na Primeira Onda, meu esquadrão e eu construímos uma armadilha perto da Represa. Sobrecarregamos um gerador, transformando-o em uma armadilha improvisada para a ARC. Agora ouvi dizer que os Raiders estão usando isso para cortar as comunicações e armar emboscadas uns para os outros. Preciso que você acabe com isso.",
+    "he": "בזמן הגל הראשון, הצוות שלי ואני בנינו מלכודת ליד הסכר. העמסנו יתר על גנרטור והפכנו אותו למלכודת ARC מאולתרת. עכשיו אני שומע ש-Raiders משתמשים בה כדי לנתק קשר ולהציב מארבים אחד לשני. אני צריך שתשים לזה סוף."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Victory Ridge'e ulaşın",
       "zh-TW": "到達勝利嶺",
       "sr": "Stigni do Victory Ridgea",
-      "hr": "Stigni do Victory Ridgea"
+      "hr": "Stigni do Victory Ridgea",
+      "pt-BR": "Chegue a Victory Ridge",
+      "he": "הגע לרכס הניצחון"
     },
     {
       "en": "Find the old EMP trap",
@@ -84,7 +90,9 @@
       "tr": "Eski EMP tuzağını bulun",
       "zh-TW": "找到舊的EMP陷阱",
       "sr": "Pronađi staru EMP zamku",
-      "hr": "Pronađi staru EMP zamku"
+      "hr": "Pronađi staru EMP zamku",
+      "pt-BR": "Encontre a antiga armadilha de PEM",
+      "he": "מצא את מלכודת ה-EMP הישנה"
     },
     {
       "en": "Disable the first power switch",
@@ -104,7 +112,9 @@
       "tr": "İlk güç anahtarını devre dışı bırakın",
       "zh-TW": "停用第一個電源開關",
       "sr": "Onesposobi prvi prekidač napajanja",
-      "hr": "Onesposobi prvi prekidač napajanja"
+      "hr": "Onesposobi prvi prekidač napajanja",
+      "pt-BR": "Desative o primeiro interruptor de energia",
+      "he": "נטרל את מתג החשמל הראשון"
     },
     {
       "en": "Disable the second power switch",
@@ -124,7 +134,9 @@
       "tr": "İkinci güç anahtarını devre dışı bırakın",
       "zh-TW": "停用第二個電源開關",
       "sr": "Onesposobi drugi prekidač napajanja",
-      "hr": "Onesposobi drugi prekidač napajanja"
+      "hr": "Onesposobi drugi prekidač napajanja",
+      "pt-BR": "Desative o segundo interruptor de energia",
+      "he": "נטרל את מתג החשמל השני"
     },
     {
       "en": "Disable the third power switch",
@@ -144,7 +156,9 @@
       "tr": "Üçüncü güç anahtarını devre dışı bırakın",
       "zh-TW": "停用第三個電源開關",
       "sr": "Onesposobi treći prekidač napajanja",
-      "hr": "Onesposobi treći prekidač napajanja"
+      "hr": "Onesposobi treći prekidač napajanja",
+      "pt-BR": "Desative o terceiro interruptor de energia",
+      "he": "נטרל את מתג החשמל השלישי"
     },
     {
       "en": "Shut down the EMP trap",
@@ -164,7 +178,9 @@
       "tr": "EMP tuzağını kapatın",
       "zh-TW": "關閉EMP陷阱",
       "sr": "Isključi EMP zamku",
-      "hr": "Isključi EMP zamku"
+      "hr": "Isključi EMP zamku",
+      "pt-BR": "Desligue a armadilha de PEM",
+      "he": "כבה את מלכודת ה-EMP"
     }
   ],
   "grantedItemIds": [

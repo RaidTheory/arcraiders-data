@@ -18,7 +18,9 @@
     "kr": "총구 제동기 I",
     "tr": "Namlu Freni I",
     "hr": "Kočnica Cijevi I",
-    "sr": "Kočnica Cijevi I"
+    "sr": "Kočnica Cijevi I",
+    "pt-BR": "Freio de Boca I",
+    "he": "בלם לוע I"
   },
   "description": {
     "en": "Slightly reduces both vertical recoil & horizontal recoil. Compatible with: Rattler, Ferro, Burletta, Stitcher, Tempest",
@@ -38,7 +40,9 @@
     "kr": "수직 반동과 수평 반동을 약간 감소시킵니다. 호환 무기: 래틀러, 페로, 부를레타, 스티처, 템페스트",
     "tr": "Hem dikey hem de yatay geri tepmesini hafifçe azaltır. Uyumlu silahlar: Rattler, Ferro, Burletta, Stitcher, Tempest",
     "hr": "Blago smanjuje vertikalni i horizontalni trzaj. Kompatibilno s: Rattler, Ferro, Burletta, Stitcher, Tempest",
-    "sr": "Blago smanjuje vertikalni i horizontalni trzaj. Kompatibilno sa: Rattler, Ferro, Burletta, Stitcher, Tempest"
+    "sr": "Blago smanjuje vertikalni i horizontalni trzaj. Kompatibilno sa: Rattler, Ferro, Burletta, Stitcher, Tempest",
+    "pt-BR": "Reduz levemente o recuo vertical e o recuo horizontal. Compatível com: Rattler, Ferro, Burletta, Stitcher, Tempest",
+    "he": "מפחית מעט את הרתע האנכי והאופקי. תואם ל: Rattler, Ferro, Burletta, Stitcher, Tempest"
   },
   "type": "Modification",
   "rarity": "Common",
@@ -67,7 +71,9 @@
       "tr": "Azaltılmış Dikey Geri Tepme",
       "hr": "Smanjen Vertikalni Trzaj",
       "sr": "Smanjen Vertikalni Trzaj",
-      "value": "15%"
+      "value": "15%",
+      "pt-BR": "Recuo Vertical Reduzido",
+      "he": "רתע אנכי מופחת"
     },
     "Reduced Horizontal Recoil": {
       "en": "Reduced Horizontal Recoil",
@@ -88,7 +94,9 @@
       "tr": "Azaltılmış Yatay Geri Tepme",
       "hr": "Smanjen Horizontalni Trzaj",
       "sr": "Smanjen Horizontalni Trzaj",
-      "value": "15%"
+      "value": "15%",
+      "pt-BR": "Recuo Horizontal Reduzido",
+      "he": "רתע אופקי מופחת"
     }
   },
   "updatedAt": "11/10/2025",

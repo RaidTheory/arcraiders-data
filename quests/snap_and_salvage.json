@@ -19,7 +19,9 @@
     "tr": "Çek ve Kurtar",
     "zh-TW": "拍照與打撈",
     "sr": "Slikaj i Spasi",
-    "hr": "Slikaj i Spasi"
+    "hr": "Slikaj i Spasi",
+    "pt-BR": "Fotografar e Coletar",
+    "he": "צלם ואסוף"
   },
   "map": [
     "stella_montis"
@@ -43,7 +45,9 @@
     "tr": "Şu anda tüm Speranza, Stella Montis hakkında konuşuyor ve kabul etmeliyim ki benim de ilgimi çekti. Neyin ne olduğunu başkaları çözsün; beni ilgilendiren içerideki teknoloji.",
     "zh-TW": "現在整個斯佩蘭札都在談論史特拉蒙蒂斯，我得承認，這也引起了我的興趣。就讓別人去弄清楚那些來龍去脈吧；我只對裡面的科技感興趣。",
     "sr": "Cela Speranza bruji o Stela Montisu ovih dana, i moram da priznam da je privukao i moju pažnju. Neka se drugi bave time šta je i kako je; mene zanima tehnologija unutra.",
-    "hr": "Cijela Speranza bruji o Stella Montis ovih dana i moram priznati da je privukla i moju pažnju. Neka se drugi bave time što i kako; mene zanima tehnologija unutra."
+    "hr": "Cijela Speranza bruji o Stella Montis ovih dana i moram priznati da je privukla i moju pažnju. Neka se drugi bave time što i kako; mene zanima tehnologija unutra.",
+    "pt-BR": "Speranza inteira está falando sobre Stella Montis agora, e admito que chamou minha atenção. Deixe os outros resolverem os porquês e comos; estou interessado na tecnologia lá dentro.",
+    "he": "כל ספרנצה מדברת על סטלה מונטיס כרגע, ואני מודה שזה תפס את תשומת ליבי. תן לאחרים לשבור את הראש על ה\"מה\" וה\"איך\"; אותי מעניינת הטכנולוגיה שבפנים."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Kum Havuzu'ndaki gezicilerden herhangi birinin fotoğrafını çek",
       "zh-TW": "在沙盒區域為任意一台漫遊者拍一張照片",
       "sr": "Fotografiši bilo koji od rovera u Sandboxu",
-      "hr": "Fotografiraj bilo koji od rovera u Sandboxu"
+      "hr": "Fotografiraj bilo koji od rovera u Sandboxu",
+      "pt-BR": "Tire uma foto de qualquer um dos Rovers em Sandbox",
+      "he": "צלם תמונה של אחד מהרוברים בארגז החול"
     },
     {
       "en": "Search the papers in the Security Checkpoint room by the Lobby",
@@ -84,7 +90,9 @@
       "tr": "Lobinin yanındaki Güvenlik Kontrol odasındaki evrakları ara",
       "zh-TW": "搜查大廳旁安全檢查室裡的文件",
       "sr": "Pretraži papire u sobi Sigurnosne Kontrolne Tačke pored lobija",
-      "hr": "Pretraži papire u sobi Sigurnosne Kontrolne Točke pored predvorja"
+      "hr": "Pretraži papire u sobi Sigurnosne Kontrolne Točke pored predvorja",
+      "pt-BR": "Vasculhe os papéis na sala do Ponto de Controle de Segurança perto do Lobby",
+      "he": "חפש בניירות בחדר הבידוק הביטחוני ליד הלובי"
     },
     {
       "en": "Deliver a Magnetron to Tian Wen",
@@ -104,7 +112,9 @@
       "tr": "Tian Wen'e bir Magnetron teslim et",
       "zh-TW": "將一個磁控管交給田文",
       "sr": "Dostavi jedan Magnetron Tian Wenu",
-      "hr": "Dostavi jedan Magnetron Tian Wenu"
+      "hr": "Dostavi jedan Magnetron Tian Wenu",
+      "pt-BR": "Entregue um Magnetron para Tian Wen",
+      "he": "מסור מגנטרון ל-Tian Wen"
     },
     {
       "en": "Deliver a Flow Controller to Tian Wen",
@@ -124,7 +134,9 @@
       "tr": "Tian Wen'e bir Akış Denetleyicisi teslim et",
       "zh-TW": "將一個流量控制器交給田文",
       "sr": "Dostavi jedan Flow Controller Tian Wenu",
-      "hr": "Dostavi jedan Flow Controller Tian Wenu"
+      "hr": "Dostavi jedan Flow Controller Tian Wenu",
+      "pt-BR": "Entregue um Controlador de Fluxo para Tian Wen",
+      "he": "מסור בקר זרימה ל-Tian Wen"
     }
   ],
   "grantedItemIds": [],

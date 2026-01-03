@@ -18,7 +18,9 @@
     "kr": "번호판",
     "tr": "Plaka",
     "hr": "Registarska Pločica",
-    "sr": "Registarska Pločica"
+    "sr": "Registarska Pločica",
+    "pt-BR": "Placa de Veículo",
+    "he": "לוחית רישוי"
   },
   "rarity": "Uncommon",
   "type": "Recyclable",
@@ -48,7 +50,9 @@
     "kr": "금속 부품으로 재활용할 수 있습니다.",
     "tr": "Metal parçalara geri dönüştürülebilir.",
     "hr": "Može se reciklirati u metalne dijelove.",
-    "sr": "Može se reciklirati u metalne delove."
+    "sr": "Može se reciklirati u metalne delove.",
+    "pt-BR": "Pode ser reciclado em peças de metal.",
+    "he": "ניתן למחזור לחלקי מתכת."
   },
   "weightKg": 0.8,
   "stackSize": 3,

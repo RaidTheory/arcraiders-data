@@ -18,7 +18,9 @@
     "kr": "미끼 수류탄 함정",
     "tr": "Yem Bombası Tuzağı",
     "hr": "Zamka s mamac granatom",
-    "sr": "Zamka sa mamac granatom"
+    "sr": "Zamka sa mamac granatom",
+    "pt-BR": "Armadilha de Granada de Isca",
+    "he": "מלכודת רימון פיתיון"
   },
   "description": {
     "en": "A laser trip wire that detonates a Lure Grenade.",
@@ -38,7 +40,9 @@
     "kr": "미끼 수류탄을 폭발시키는 레이저 트립 와이어입니다.",
     "tr": "Bir Yem Bombasını patlatan lazer tuzak teli.",
     "hr": "Laserska žica zamka koja detonira mamac granatu.",
-    "sr": "Laserska žica zamka koja detonira mamac granatu."
+    "sr": "Laserska žica zamka koja detonira mamac granatu.",
+    "pt-BR": "Um fio de ativação a laser que detona uma Granada de Isca.",
+    "he": "חוט לייזר המפוצץ רימון פיתיון."
   },
   "type": "Quick Use",
   "value": 1000,
@@ -65,7 +69,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "15s"
+      "value": "15s",
+      "pt-BR": "Duração",
+      "he": "משך זמן"
     },
     "Radius": {
       "en": "Radius",
@@ -86,7 +92,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "50m"
+      "value": "50m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_trap.png",

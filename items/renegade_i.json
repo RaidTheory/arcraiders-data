@@ -18,7 +18,9 @@
     "kr": "레니게이드 I",
     "tr": "Renegade I",
     "hr": "Renegade I",
-    "sr": "Renegade I"
+    "sr": "Renegade I",
+    "pt-BR": "Renegade I",
+    "he": "רנגייד I"
   },
   "description": {
     "en": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
@@ -38,7 +40,9 @@
     "kr": "높은 피해량, 정확도, 헤드샷 피해를 가지고 있습니다.",
     "tr": "Yüksek hasar çıkışı, isabetlilik ve kafadan vuruş hasarına sahiptir.",
     "hr": "Ima visoku štetu, preciznost i štetu od pogotka u glavu.",
-    "sr": "Ima visoku štetu, preciznost i štetu od pogotka u glavu."
+    "sr": "Ima visoku štetu, preciznost i štetu od pogotka u glavu.",
+    "pt-BR": "Rifle de batalha de ação por alavanca com alto dano, precisão e dano de tiro na cabeça.",
+    "he": "רובה קרב בעל מנגנון מנוף עם נזק גבוה, דיוק רב ונזק פגיעות ראש."
   },
   "type": "Battle Rifle",
   "rarity": "Rare",
@@ -62,7 +66,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -83,7 +89,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Municije",
       "sr": "Vrsta Municije",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -104,7 +112,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
-      "value": 8
+      "value": 8,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -125,7 +135,9 @@
       "tr": "Atış Modu",
       "hr": "Način Pucanja",
       "sr": "Način Pucanja",
-      "value": "Lever-Action"
+      "value": "Lever-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -146,7 +158,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "value": 7000,

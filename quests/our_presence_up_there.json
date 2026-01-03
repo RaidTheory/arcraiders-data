@@ -19,7 +19,9 @@
     "tr": "Oradaki Varlığımız",
     "zh-TW": "我們在那裡的存在",
     "sr": "Naše Prisustvo Tamo Gore",
-    "hr": "Naša Prisutnost Tamo Gore"
+    "hr": "Naša Prisutnost Tamo Gore",
+    "pt-BR": "Nossa Presença Lá em Cima",
+    "he": "הנוכחות שלנו שם למעלה"
   },
   "map": [
     "dam_battlegrounds"
@@ -44,7 +46,9 @@
     "tr": "ARC değişiyor olabilir ama sonunda biz de onunla birlikte değişiyoruz. Şu karakolları bitirelim ve onları takip etme, kuşatma ve paramparça etme şeklimizde devrim yapalım.",
     "zh-TW": "ARC可能在改變，但我們終於也在隨之改變。讓我們完成這些前哨站，徹底改變我們追蹤、側翼包抄和粉碎他們的方式。",
     "sr": "ARC se možda menja, ali mi se konačno menjamo sa njim. Hajde da završimo te isturene položaje i revolucionišemo način na koji ih pratimo, napadamo sa boka i lomimo ih u paramparčad.",
-    "hr": "ARC se možda mijenja, ali mi se konačno mijenjamo s njim. Hajde da završimo te isturene položaje i revolucioniramo način na koji ih pratimo, napadamo s boka i lomimo ih u paramparčad."
+    "hr": "ARC se možda mijenja, ali mi se konačno mijenjamo s njim. Hajde da završimo te isturene položaje i revolucioniramo način na koji ih pratimo, napadamo s boka i lomimo ih u paramparčad.",
+    "pt-BR": "A ARC pode estar mudando, mas finalmente estamos mudando com ela. Vamos terminar aqueles postos avançados e revolucionar a maneira como os rastreamos, flanqueamos e os despedaçamos.",
+    "he": "אולי ARC משתנה, אבל סוף סוף אנחנו משתנים איתו. בוא נסיים עם המוצבים האלה ונחולל מהפכה בדרך שבה אנחנו עוקבים אחריהם, מאגפים אותם, ומרסקים אותם לרסיסים."
   },
   "objectives": [
     {
@@ -65,7 +69,9 @@
       "tr": "Barajdaki Desen Evini Ziyaret Et",
       "zh-TW": "訪問大壩的圖案屋",
       "sr": "Poseti Kuću Uzoraka u Brani",
-      "hr": "Posjeti Kuću Uzoraka u Brani"
+      "hr": "Posjeti Kuću Uzoraka u Brani",
+      "pt-BR": "Visite a Pattern House na Represa",
+      "he": "בקר ב-Pattern House שב-The Dam"
     },
     {
       "en": "Find and interact with the Power Switch",
@@ -85,7 +91,9 @@
       "tr": "Güç Anahtarını Bul ve Etkileşime Geç",
       "zh-TW": "找到並與電源開關互動",
       "sr": "Pronađi i interaguj sa Prekidačem Napajanja",
-      "hr": "Pronađi i interagiraj s Prekidačem Napajanja"
+      "hr": "Pronađi i interagiraj s Prekidačem Napajanja",
+      "pt-BR": "Encontre e interaja com o Interruptor de Energia",
+      "he": "מצא את מתג החשמל ובצע איתו אינטראקציה"
     },
     {
       "en": "Complete the antenna installation on the roof",
@@ -105,7 +113,9 @@
       "tr": "Çatıdaki Anten Kurulumunu Tamamla",
       "zh-TW": "完成屋頂天線安裝",
       "sr": "Završi instalaciju antene na krovu",
-      "hr": "Završi instalaciju antene na krovu"
+      "hr": "Završi instalaciju antene na krovu",
+      "pt-BR": "Complete a instalação da antena no telhado",
+      "he": "השלם את התקנת האנטנה על הגג"
     }
   ],
   "rewardItemIds": [

@@ -18,7 +18,9 @@
     "kr": "찢어진 담요",
     "tr": "Yırtık Battaniye",
     "hr": "Poderana Deka",
-    "sr": "Poderana Ćebe"
+    "sr": "Poderana Ćebe",
+    "pt-BR": "Cobertor Rasgado",
+    "he": "שמיכה קרועה"
   },
   "description": {
     "en": "Can be recycled into fabric.",
@@ -38,7 +40,9 @@
     "kr": "천으로 재활용할 수 있습니다.",
     "tr": "Kumaşa geri dönüştürülebilir.",
     "hr": "Može se reciklirati u tkaninu.",
-    "sr": "Može se reciklirati u tkaninu."
+    "sr": "Može se reciklirati u tkaninu.",
+    "pt-BR": "Pode ser reciclado em tecido.",
+    "he": "ניתן למיחזור לבד."
   },
   "type": "Recyclable",
   "rarity": "Rare",

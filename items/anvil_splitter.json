@@ -18,7 +18,9 @@
     "kr": "앤빌 스플리터",
     "tr": "Örs Bölücü",
     "hr": "Nakovanj Razdvajač",
-    "sr": "Nakovanj Razdvajač"
+    "sr": "Nakovanj Razdvajač",
+    "pt-BR": "Anvil Splitter",
+    "he": "מפצל אנוויל"
   },
   "description": {
     "en": "Tech mod for the Anvil that replaces its bullets with ones that split into 4 weaker projectiles.",
@@ -38,7 +40,9 @@
     "kr": "앤빌용 기술 모드로, 총알을 4개의 약한 발사체로 분열되는 것으로 교체합니다.",
     "tr": "Örs için mermilerini 4 zayıf mermiye bölünen mermilerle değiştiren teknoloji modu.",
     "hr": "Tehnički mod za Nakovanj koji zamjenjuje njegove metke onima koji se dijele na 4 slabija projektila.",
-    "sr": "Tehnički mod za Nakovanj koji zamenjuje njegove metke onima koji se dele na 4 slabija projektila."
+    "sr": "Tehnički mod za Nakovanj koji zamenjuje njegove metke onima koji se dele na 4 slabija projektila.",
+    "pt-BR": "Mod tecnológico para o Anvil que substitui suas balas por outras que se dividem em 4 projéteis mais fracos.",
+    "he": "מוד טכני עבור ה-אנוויל שמחליף את הקליעים שלו בכאלו המתפצלים ל-4 קליעים חלשים יותר."
   },
   "type": "Modification",
   "rarity": "Legendary",
@@ -63,7 +67,9 @@
       "tr": "Atış Başına Mermi",
       "hr": "Projektila po Pucnju",
       "sr": "Projektila po Pucnju",
-      "value": "+3"
+      "value": "+3",
+      "pt-BR": "Projéteis por Disparo",
+      "he": "קליעים לכל ירייה"
     },
     "Reduced Projectile Damage": {
       "en": "Reduced Projectile Damage",
@@ -84,7 +90,9 @@
       "tr": "Azaltılmış Mermi Hasarı",
       "hr": "Smanjena Šteta Projektila",
       "sr": "Smanjena Šteta Projektila",
-      "value": "70%"
+      "value": "70%",
+      "pt-BR": "Dano de Projétil Reduzido",
+      "he": "נזק קליעים מופחת"
     }
   },
   "value": 7000,

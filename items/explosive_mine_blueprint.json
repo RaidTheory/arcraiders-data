@@ -18,7 +18,9 @@
     "kr": "폭발 지뢰 설계도",
     "tr": "Patlayici Mayin Plani",
     "hr": "Eksplozivna mina Nacrt",
-    "sr": "Eksplozivna mina Nacrt"
+    "sr": "Eksplozivna mina Nacrt",
+    "pt-BR": "Projeto de Mina Explosiva",
+    "he": "שרטוט למוקש נפיץ"
   },
   "description": {
     "en": "A proximity-triggered explosive device that detonates when enemies approach.",
@@ -38,7 +40,9 @@
     "kr": "적이 접근하면 폭발하는 근접 감지 폭발 장치입니다.",
     "tr": "Dusmanlar yaklastiginda patlayan yakinlik tetiklemeli patlayici cihaz.",
     "hr": "Eksplozivni uredaj aktiviran blizinom koji detonira kada se neprijatelji priblize.",
-    "sr": "Eksplozivni uredaj aktiviran blizinom koji detonira kada se neprijatelji priblize."
+    "sr": "Eksplozivni uredaj aktiviran blizinom koji detonira kada se neprijatelji priblize.",
+    "pt-BR": "Um dispositivo explosivo acionado por proximidade que detona quando inimigos se aproximam.",
+    "he": "מוקש נפיץ המופעל בקרבה ומתפוצץ כאשר אויבים מתקרבים."
   },
   "type": "Blueprint",
   "rarity": "Legendary",

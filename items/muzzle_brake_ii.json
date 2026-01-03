@@ -18,7 +18,9 @@
     "kr": "총구 제동기 II",
     "tr": "Namlu Freni II",
     "hr": "Usporivač cijevi II",
-    "sr": "Usporivač cevi II"
+    "sr": "Usporivač cevi II",
+    "pt-BR": "Freio de Boca II",
+    "he": "בלם לוע II"
   },
   "description": {
     "en": "Moderately reduces both vertical recoil & horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Renegade",
@@ -38,7 +40,9 @@
     "kr": "수직 반동과 수평 반동을 적당히 감소시킵니다. 호환 무기: 템페스트, 아르페지오, 케틀, 페로, 레니게이드",
     "tr": "Hem dikey hem de yatay tepmeyi orta düzeyde azaltır. Uyumlu silahlar: Tempest, Arpeggio, Kettle, Ferro, Renegade",
     "hr": "Umjereno smanjuje i vertikalni i horizontalni trzaj. Kompatibilno s: Tempest, Arpeggio, Kettle, Ferro, Renegade",
-    "sr": "Umereno smanjuje i vertikalni i horizontalni trzaj. Kompatibilno sa: Tempest, Arpeggio, Kettle, Ferro, Renegade"
+    "sr": "Umereno smanjuje i vertikalni i horizontalni trzaj. Kompatibilno sa: Tempest, Arpeggio, Kettle, Ferro, Renegade",
+    "pt-BR": "Reduz moderadamente o recuo vertical e o recuo horizontal. Compatível com: Tempest, Arpeggio, Kettle, Ferro, Renegade",
+    "he": "מפחית במידה בינונית את הרתע האנכי והאופקי. תואם ל: Tempest, Arpeggio, Kettle, Ferro, Renegade"
   },
   "type": "Modification",
   "rarity": "Uncommon",
@@ -73,7 +77,9 @@
       "tr": "Azaltılmış Dikey Tepme",
       "hr": "Smanjen vertikalni trzaj",
       "sr": "Smanjen vertikalni trzaj",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Recuo Vertical Reduzido",
+      "he": "רתע אנכי מופחת"
     },
     "Reduced Horizontal Recoil": {
       "en": "Reduced Horizontal Recoil",
@@ -94,7 +100,9 @@
       "tr": "Azaltılmış Yatay Tepme",
       "hr": "Smanjen horizontalni trzaj",
       "sr": "Smanjen horizontalni trzaj",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Recuo Horizontal Reduzido",
+      "he": "רתע אופקי מופחת"
     }
   },
   "compatibleWith": [

@@ -18,7 +18,9 @@
     "kr": "헐크래커 I",
     "tr": "Hullcracker I",
     "hr": "Hullcracker I",
-    "sr": "Hullcracker I"
+    "sr": "Hullcracker I",
+    "pt-BR": "Hullcracker I",
+    "he": "Hullcracker I"
   },
   "description": {
     "en": "Fires explosive projectiles that only detonate when hitting ARC.",
@@ -38,7 +40,9 @@
     "kr": "아크에 명중했을 때만 폭발하는 폭발성 발사체를 발사합니다.",
     "tr": "Yalnızca ARC'ye çarptığında patlayan patlayıcı mermiler atar.",
     "hr": "Ispaljuje eksplozivne projektile koji detoniraju samo pri pogotku ARC-a.",
-    "sr": "Ispaljuje eksplozivne projektile koji detoniraju samo pri pogotku ARC-a."
+    "sr": "Ispaljuje eksplozivne projektile koji detoniraju samo pri pogotku ARC-a.",
+    "pt-BR": "Dispara projéteis explosivos que detonam apenas ao atingir ARC.",
+    "he": "יורה קליעים נפיצים שמתפוצצים רק בעת פגיעה ב-ARC."
   },
   "type": "Special",
   "rarity": "Epic",
@@ -64,7 +68,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -85,7 +91,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Municije",
-      "value": "Launcher Ammo"
+      "value": "Launcher Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -106,7 +114,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Okvira",
-      "value": 5
+      "value": 5,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -127,7 +137,9 @@
       "tr": "Atış Modu",
       "hr": "Način Pucanja",
       "sr": "Režim Pucanja",
-      "value": "Pump-Action"
+      "value": "Pump-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -148,7 +160,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
-      "value": "Very Strong"
+      "value": "Very Strong",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "weightKg": 7,

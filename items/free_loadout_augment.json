@@ -18,7 +18,9 @@
     "tr": "Ücretsiz donanım güçlendirmesi",
     "uk": "Безкоштовне покращення спорядження",
     "sr": "Besplatno poboljšanje opreme",
-    "hr": "Besplatno poboljšanje opreme"
+    "hr": "Besplatno poboljšanje opreme",
+    "pt-BR": "Aprimoramento de Equipamento Gratuito",
+    "he": "שדרוג ציוד חינם"
   },
   "description": {
     "en": "Basic augment for rookie Raiders, offering slightly more backpack space and carry capacity.",
@@ -38,7 +40,9 @@
     "tr": "Acemi Akıncılar için temel güçlendirme, biraz daha fazla sırt çantası alanı ve taşıma kapasitesi sunar.",
     "uk": "Базове покращення для новачків-рейдерів, що надає трохи більше місця в рюкзаку та вантажопідйомності.",
     "sr": "Osnovno poboljšanje za početničke Raidere, nudi malo više prostora u rancu i nosivosti.",
-    "hr": "Osnovno poboljšanje za početničke Raidere, nudi malo više prostora u ruksaku i nosivosti."
+    "hr": "Osnovno poboljšanje za početničke Raidere, nudi malo više prostora u ruksaku i nosivosti.",
+    "pt-BR": "Aprimoramento básico para Raiders novatos, oferecendo um pouco mais de espaço na mochila e capacidade de carga.",
+    "he": "שדרוג בסיסי לריידרים מתחילים, המציע מעט יותר מקום בתיק וקיבולת נשיאה."
   },
   "type": "Augment",
   "rarity": "Common",
@@ -62,7 +66,9 @@
       "uk": "Міцність",
       "sr": "Izdržljivost",
       "hr": "Izdržljivost",
-      "value": 100
+      "value": 100,
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Max Loadout Weight": null,
     "Shield Compatibility": null

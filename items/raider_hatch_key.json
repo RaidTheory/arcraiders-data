@@ -18,7 +18,9 @@
     "kr": "레이더 해치 키",
     "tr": "Akıncı Ambar Kapağı Anahtarı",
     "hr": "Ključ Raiderskog Otvora",
-    "sr": "Ključ Rejderskog Otvora"
+    "sr": "Ključ Rejderskog Otvora",
+    "pt-BR": "Chave da Escotilha Raider",
+    "he": "מפתח לצוהר ריידר"
   },
   "type": "Key",
   "description": {
@@ -39,7 +41,9 @@
     "kr": "레이더 해치를 엽니다.",
     "tr": "Bir Akıncı Ambar Kapağını açar.",
     "hr": "Otključava Raiderski Otvor.",
-    "sr": "Otključava Rejderski Otvor."
+    "sr": "Otključava Rejderski Otvor.",
+    "pt-BR": "Destranca uma Escotilha Raider.",
+    "he": "פותח צוהר ריידר."
   },
   "rarity": "Rare",
   "value": 2000,

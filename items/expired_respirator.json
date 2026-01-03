@@ -18,7 +18,9 @@
     "kr": "유통기한 지난 인공호흡기",
     "tr": "Süresi Dolmuş Solunum Cihazı",
     "hr": "Istekli respirator",
-    "sr": "Istekli respirator"
+    "sr": "Istekli respirator",
+    "pt-BR": "Respirador Vencido",
+    "he": "מנשם פג תוקף"
   },
   "description": {
     "en": "The filters are clogged with sand and noxious fumes. Long past its lifespan.",
@@ -38,7 +40,9 @@
     "kr": "필터가 모래와 유독 가스로 막혀 있습니다. 수명이 한참 지났습니다.",
     "tr": "Filtreler kum ve zararlı dumanlarla tıkanmış. Ömrünü çoktan doldurmuş.",
     "hr": "Filteri su začepljeni pijeskom i otrovnim isparenjima. Davno je prošao svoj vijek trajanja.",
-    "sr": "Filteri su začepljeni peskom i otrovnim isparenjima. Davno je prošao svoj vek trajanja."
+    "sr": "Filteri su začepljeni peskom i otrovnim isparenjima. Davno je prošao svoj vek trajanja.",
+    "pt-BR": "Os filtros estão entupidos com areia e vapores nocivos. Muito além de sua vida útil.",
+    "he": "המסננים סתומים בחול ובאדים רעילים. עבר זמן רב מאז תום תוחלת החיים שלו."
   },
   "type": "Recyclable",
   "rarity": "Rare",

@@ -18,7 +18,9 @@
     "tr": "Hasarlı Ateş Topu Yakıcı",
     "uk": "Пошкоджений вогняний палач",
     "sr": "Оштећени бацач ватрених лопти",
-    "hr": "Oštećeni bacač vatrenih kugli"
+    "hr": "Oštećeni bacač vatrenih kugli",
+    "pt-BR": "Queimador de Bola de Fogo Danificado",
+    "he": "מבער כדור-אש פגום"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "tr": "İşleme malzemelerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "sr": "Може се рециклирати у материјале за израду.",
-    "hr": "Može se reciklirati u materijale za izradu."
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למיחזור לחומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Common",

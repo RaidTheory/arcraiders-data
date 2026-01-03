@@ -18,7 +18,9 @@
     "kr": "중량 실드",
     "tr": "Ağır Kalkan",
     "hr": "Teški Štit",
-    "sr": "Teški Štit"
+    "sr": "Teški Štit",
+    "pt-BR": "Escudo Pesado",
+    "he": "מגן כבד"
   },
   "type": "Shield",
   "rarity": "Epic",
@@ -40,7 +42,9 @@
     "kr": "대량의 피해를 막아주는 준중량 실드입니다. 이동 속도가 크게 감소합니다.",
     "tr": "Gelen hasarın büyük bir kısmını engelleyen ağır bir kalkan. Hareketliliği önemli ölçüde azaltır.",
     "hr": "Teški štit koji blokira veliku količinu dolazne štete, ali značajno smanjuje pokretljivost.",
-    "sr": "Teški štit koji blokira veliku količinu dolazne štete, ali značajno smanjuje pokretljivost."
+    "sr": "Teški štit koji blokira veliku količinu dolazne štete, ali značajno smanjuje pokretljivost.",
+    "pt-BR": "Um escudo pesado que bloqueia grande parte do dano recebido, mas prejudica significativamente a mobilidade.",
+    "he": "מגן כבד החוסם חלק נכבד מהנזק הנכנס, אך גובה מחיר משמעותי בניידות."
   },
   "durability": 140,
   "shieldCharge": 120,
@@ -68,7 +72,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Charge": {
       "en": "Charge",
@@ -89,7 +95,9 @@
       "tr": "Şarj",
       "hr": "Punjenje",
       "sr": "Punjenje",
-      "value": 80
+      "value": 80,
+      "pt-BR": "Carga",
+      "he": "טעינה"
     },
     "Damage Reduction": {
       "en": "Damage Reduction",
@@ -110,7 +118,9 @@
       "tr": "Hasar Azaltma",
       "hr": "Smanjenje Štete",
       "sr": "Smanjenje Štete",
-      "value": "52.5%"
+      "value": "52.5%",
+      "pt-BR": "Redução de Dano",
+      "he": "הפחתת נזק"
     },
     "15% Reduced Movement Speed": {
       "en": "15% Reduced Movement Speed",
@@ -131,7 +141,9 @@
       "tr": "%15 Azaltılmış Hareket Hızı",
       "hr": "15% Smanjena Brzina Kretanja",
       "sr": "15% Smanjena Brzina Kretanja",
-      "value": ""
+      "value": "",
+      "pt-BR": "Velocidade de Movimento Reduzida em 15%",
+      "he": "מהירות תנועה מופחתת ב-15%"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/heavy_shield.png",

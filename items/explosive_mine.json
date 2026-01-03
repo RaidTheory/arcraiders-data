@@ -18,7 +18,9 @@
     "kr": "폭발 지뢰",
     "tr": "Patlayici Mayin",
     "hr": "Eksplozivna mina",
-    "sr": "Eksplozivna mina"
+    "sr": "Eksplozivna mina",
+    "pt-BR": "Mina Explosiva",
+    "he": "מוקש נפיץ"
   },
   "description": {
     "en": "A proximity-triggered explosive device that detonates when enemies approach.",
@@ -38,7 +40,9 @@
     "kr": "적이 접근하면 폭발하는 근접 감지 폭발 장치입니다.",
     "tr": "Dusmanlar yaklastiginda patlayan yakinlik tetiklemeli patlayici cihaz.",
     "hr": "Eksplozivni uredaj aktiviran blizinom koji detonira kada se neprijatelji priblize.",
-    "sr": "Eksplozivni uredaj aktiviran blizinom koji detonira kada se neprijatelji priblize."
+    "sr": "Eksplozivni uredaj aktiviran blizinom koji detonira kada se neprijatelji priblize.",
+    "pt-BR": "Um dispositivo explosivo acionado por proximidade que detona quando inimigos se aproximam.",
+    "he": "מוקש נפיץ המופעל בקרבה ומתפוצץ כאשר אויבים מתקרבים."
   },
   "type": "Quick Use",
   "rarity": "Rare",
@@ -76,7 +80,9 @@
       "tr": "Hasar",
       "hr": "Steta",
       "sr": "Steta",
-      "value": 100
+      "value": 100,
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Radius": {
       "en": "Radius",
@@ -97,7 +103,9 @@
       "tr": "Yaricap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "5m"
+      "value": "5m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/explosive_mine.png",

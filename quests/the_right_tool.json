@@ -19,7 +19,9 @@
     "tr": "Doğru Araç",
     "zh-TW": "正確的工具",
     "sr": "Pravi Alat",
-    "hr": "Pravi Alat"
+    "hr": "Pravi Alat",
+    "pt-BR": "A Ferramenta Certa",
+    "he": "הכלי הנכון"
   },
   "trader": "Tian Wen",
   "description": {
@@ -40,7 +42,9 @@
     "tr": "Yeni gelenlerden birisin, değil mi? Bu geliştirilmiş Ferro'yu deneyecek bir gönüllüye ihtiyacım var  ARC zırhını tereyağı gibi kesmeli. Birkaç makineyi delik deşik et ve sonra bana rapor ver.",
     "zh-TW": "你是新來的吧？我需要一名志願者來測試這把強化過的 Ferro──理論上應該能像切奶油一樣切開 ARC 裝甲。把幾台機器打成蜂窩後再回來向我報告。",
     "sr": "Ti si jedan od novajlija, zar ne? Treba mi dobrovoljac da isproba ovaj unapređeni Ferro  trebalo bi da seče ARC oklop kao puter. Izbuši par mašina i onda mi podnesi izveštaj.",
-    "hr": "Ti si jedan od novopridošlih, zar ne? Treba mi dobrovoljac koji će isprobati ovaj unaprijeđeni Ferro  trebao bi rezati ARC oklop kao maslac. Izbuši par strojeva i onda mi se javi s izvješćem."
+    "hr": "Ti si jedan od novopridošlih, zar ne? Treba mi dobrovoljac koji će isprobati ovaj unaprijeđeni Ferro  trebao bi rezati ARC oklop kao maslac. Izbuši par strojeva i onda mi se javi s izvješćem.",
+    "pt-BR": "Você é um dos novatos, certo? Preciso de um voluntário para testar este Ferro aprimorado, deve cortar a blindagem ARC como manteiga. Faça alguns buracos em algumas máquinas e depois volte para se apresentar.",
+    "he": "אתם מהחדשים, נכון? אני צריך מתנדב שינסה את ה-Ferro המשודרג הזה – הוא אמור לחתוך שריון ARC כמו חמאה. עשו כמה חורים בכמה מכונות ותחזרו לדווח לי."
   },
   "objectives": [
     {
@@ -61,7 +65,9 @@
       "tr": "Bir Fireball'u yok et",
       "zh-TW": "摧毀火球",
       "sr": "Uništite Vatrenu Kuglu",
-      "hr": "Uništite Vatrenu Kuglu"
+      "hr": "Uništite Vatrenu Kuglu",
+      "pt-BR": "Destrua uma Bola de Fogo",
+      "he": "השמידו Fireball"
     },
     {
       "en": "Destroy a Hornet",
@@ -81,7 +87,9 @@
       "tr": "Bir Hornet'i yok et",
       "zh-TW": "摧毀大黃蜂",
       "sr": "Uništite Stršljena",
-      "hr": "Uništite Stršljena"
+      "hr": "Uništite Stršljena",
+      "pt-BR": "Destrua uma Vespa",
+      "he": "השמידו Hornet"
     },
     {
       "en": "Destroy a Turret",
@@ -101,7 +109,9 @@
       "tr": "Bir Taret'i yok et",
       "zh-TW": "摧毀砲塔",
       "sr": "Uništite Kupolu",
-      "hr": "Uništite Kupolu"
+      "hr": "Uništite Kupolu",
+      "pt-BR": "Destrua uma Torreta",
+      "he": "השמידו צריח"
     }
   ],
   "grantedItemIds": [

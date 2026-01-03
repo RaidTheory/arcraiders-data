@@ -19,7 +19,9 @@
     "tr": "Yere İniş",
     "zh-TW": "腳踏實地",
     "sr": "Spuštanje na Zemlju",
-    "hr": "Spuštanje na Zemlju"
+    "hr": "Spuštanje na Zemlju",
+    "pt-BR": "Pés no Chão",
+    "he": "רגליים על הקרקע"
   },
   "map": [
     "buried_city",
@@ -49,7 +51,9 @@
       "tr": "Bir Saha Deposunu ziyaret et",
       "zh-TW": "訪問野外倉庫",
       "sr": "Posetite Terenski Depo",
-      "hr": "Posjetite Terenski Depo"
+      "hr": "Posjetite Terenski Depo",
+      "pt-BR": "Visite um Depósito de Campo",
+      "he": "בקר במחסן שדה"
     },
     {
       "en": "Deliver a Field Crate to Supply Station",
@@ -69,7 +73,9 @@
       "tr": "Saha Sandığını İkmal İstasyonuna teslim et",
       "zh-TW": "將野外箱子運送到補給站",
       "sr": "Dostavite Terensku Gajbu na Stanicu za Snabdevanje",
-      "hr": "Dostavite Terensku Gajbu na Stanicu za Opskrbu"
+      "hr": "Dostavite Terensku Gajbu na Stanicu za Opskrbu",
+      "pt-BR": "Entregue um Caixote de Campo na Estação de Suprimentos",
+      "he": "העבר ארגז שדה לתחנת אספקה"
     },
     {
       "en": "Collect the reward",
@@ -89,7 +95,9 @@
       "tr": "Ödülü topla",
       "zh-TW": "領取獎勵",
       "sr": "Prikupite nagradu",
-      "hr": "Prikupite nagradu"
+      "hr": "Prikupite nagradu",
+      "pt-BR": "Colete a recompensa",
+      "he": "אסוף את הפרס"
     }
   ],
   "grantedItemIds": [

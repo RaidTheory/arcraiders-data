@@ -18,7 +18,9 @@
     "kr": "안정형 개머리판 I",
     "tr": "Sabit Dipçik I",
     "hr": "Stabilna Kundak I",
-    "sr": "Stabilna Kundak I"
+    "sr": "Stabilna Kundak I",
+    "pt-BR": "Coronha Estável I",
+    "he": "קת יציבה I"
   },
   "description": {
     "en": "Slightly improves dispersion & recoil recovery time.",
@@ -38,7 +40,9 @@
     "kr": "분산도 및 반동 회복 시간을 약간 개선합니다.",
     "tr": "Dağılım ve geri tepme toparlanma süresini hafifçe iyileştirir.",
     "hr": "Blago poboljšava raspršenje i vrijeme oporavka trzaja.",
-    "sr": "Blago poboljšava rasipanje i vreme oporavka trzaja."
+    "sr": "Blago poboljšava rasipanje i vreme oporavka trzaja.",
+    "pt-BR": "Melhora levemente a dispersão e o tempo de recuperação de recuo.",
+    "he": "משפרת קלות את הפיזור ואת זמן ההתאוששות מהרתע."
   },
   "type": "Modification",
   "rarity": "Common",
@@ -82,7 +86,9 @@
       "tr": "Geri Tepme Toparlanma Süresi Azaltma",
       "hr": "Smanjeno Vrijeme Oporavka Trzaja",
       "sr": "Smanjeno Vreme Oporavka Trzaja",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Tempo de Recuperação de Recuo Reduzido",
+      "he": "זמן התאוששות מרתע מופחת"
     },
     "Reduced Dispersion Recovery Time": {
       "en": "Reduced Dispersion Recovery Time",
@@ -103,7 +109,9 @@
       "tr": "Dağılım Toparlanma Süresi Azaltma",
       "hr": "Smanjeno Vrijeme Oporavka Raspršenja",
       "sr": "Smanjeno Vreme Oporavka Rasipanja",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Tempo de Recuperação de Dispersão Reduzido",
+      "he": "זמן התאוששות מפיזור מופחת"
     }
   },
   "updatedAt": "11/03/2025",

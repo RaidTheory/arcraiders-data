@@ -18,7 +18,9 @@
     "kr": "노획 마크 2",
     "tr": "Yağmalama Mk. 2",
     "hr": "Pljačkanje Mk. 2",
-    "sr": "Pljačkanje Mk. 2"
+    "sr": "Pljačkanje Mk. 2",
+    "pt-BR": "Saque Mk. 2",
+    "he": "ביזה Mk. 2"
   },
   "description": {
     "en": "Significantly increases looting potential; adds slots for trinkets. Automatically throws off attached Ticks after 0.5s.",
@@ -38,7 +40,9 @@
     "kr": "약탈 잠재력을 크게 증가시키고 장신구 슬롯을 추가한다. 0.5초 후 부착된 틱를 자동으로 떨어뜨린다.",
     "tr": "Yağmalama potansiyelini önemli ölçüde artırır; biblolar için yuva ekler. 0.5 saniye sonra yapışan Keneleri otomatik olarak atar.",
     "hr": "Značajno povećava potencijal pljačkanja; dodaje slotove za sitnice. Automatski odbacuje pričvršćene Krpelje nakon 0.5s.",
-    "sr": "Značajno povećava potencijal pljačkanja; dodaje slotove za sitnice. Automatski odbacuje pričvršćene Krpelje nakon 0.5s."
+    "sr": "Značajno povećava potencijal pljačkanja; dodaje slotove za sitnice. Automatski odbacuje pričvršćene Krpelje nakon 0.5s.",
+    "pt-BR": "Aumenta significativamente o potencial de saque; adiciona espaços para bugigangas. Remove automaticamente Ticks presos após 0,5s.",
+    "he": "מגדיל משמעותית את פוטנציאל הביזה; מוסיף מקומות לקישוטים. מעיף אוטומטית קרציות שנצמדו לאחר 0.5 שניות."
   },
   "type": "Augment",
   "rarity": "Rare",
@@ -62,7 +66,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
@@ -83,7 +89,9 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. Težina Opreme",
       "sr": "Maks. Težina Opreme",
-      "value": 60
+      "value": 60,
+      "pt-BR": "Peso Máximo de Carga",
+      "he": "משקל ציוד מירבי"
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -104,7 +112,9 @@
       "tr": "Kalkan Uyumluluğu",
       "hr": "Kompatibilnost Štita",
       "sr": "Kompatibilnost Štita",
-      "value": "Light"
+      "value": "Light",
+      "pt-BR": "Compatibilidade de Escudo",
+      "he": "תאימות מגן"
     }
   },
   "weightKg": 2,

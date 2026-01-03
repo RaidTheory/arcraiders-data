@@ -18,7 +18,9 @@
     "kr": "트리거 수류탄",
     "tr": "Tetikli Bomba",
     "hr": "Daljinska Granata",
-    "sr": "Daljinska Granata"
+    "sr": "Daljinska Granata",
+    "pt-BR": "Granada de Detonação",
+    "he": "רימון טריגר"
   },
   "description": {
     "en": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
@@ -38,7 +40,9 @@
     "kr": "표면과 아크에 부착할 수 있는 원격 기폭 수류탄으로, 기폭 시 폭발 피해를 입힙니다.",
     "tr": "Yüzeylere ve ARC'ye yapışabilen, tetiklendiğinde patlayıcı hasar veren uzaktan patlatmalı bomba.",
     "hr": "Granata s daljinskom detonacijom koja se može zalijepiti za površine i ARC, nanoseći eksplozivnu štetu kada se aktivira.",
-    "sr": "Granata sa daljinskom detonacijom koja se može zalepiti za površine i ARC, nanoseći eksplozivnu štetu kada se aktivira."
+    "sr": "Granata sa daljinskom detonacijom koja se može zalepiti za površine i ARC, nanoseći eksplozivnu štetu kada se aktivira.",
+    "pt-BR": "Uma granada de detonação remota que pode aderir a superfícies e aos ARC, causando dano explosivo quando acionada.",
+    "he": "רימון המופעל מרחוק שיכול להיצמד למשטחים ול-ARC, וגורם נזק פיצוץ בעת ההפעלה."
   },
   "type": "Quick Use",
   "rarity": "Rare",
@@ -65,7 +69,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": 90
+      "value": 90,
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Radius": {
       "en": "Radius",
@@ -86,7 +92,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "7.5m"
+      "value": "7.5m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/trigger_nade.png",

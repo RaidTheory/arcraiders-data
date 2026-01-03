@@ -18,7 +18,9 @@
     "kr": "댐 감시실 열쇠",
     "tr": "Baraj Gözetleme Anahtarı",
     "hr": "Ključ Nadzora Brane",
-    "sr": "Ključ Nadzora Brane"
+    "sr": "Ključ Nadzora Brane",
+    "pt-BR": "Chave da Vigilância da Represa",
+    "he": "מפתח חדר ניטור בסכר"
   },
   "description": {
     "en": "Unlocks a door in the Water Treatment Control building on Dam Battlegrounds.",
@@ -38,7 +40,9 @@
     "kr": "댐 전장의 수처리 관제 건물 문을 엽니다.",
     "tr": "Baraj Savaş Alanı'ndaki Su Arıtma Kontrol binasında bir kapıyı açar.",
     "hr": "Otključava vrata u zgradi Kontrole Prečišćavanja Vode na Bojnom Polju Brane.",
-    "sr": "Otključava vrata u zgradi Kontrole Prečišćavanja Vode na Bojnom Polju Brane."
+    "sr": "Otključava vrata u zgradi Kontrole Prečišćavanja Vode na Bojnom Polju Brane.",
+    "pt-BR": "Destranca uma porta no prédio de Controle de Tratamento de Água no Campo de Batalha da Represa.",
+    "he": "פותח דלת בבניין בקרת הטיפול במים במפת Dam Battlegrounds."
   },
   "type": "Key",
   "value": 100,

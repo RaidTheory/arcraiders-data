@@ -18,7 +18,9 @@
     "tr": "Hasarlı ARC Güç Hücresi",
     "uk": "Пошкоджена енергоклітина ARC",
     "hr": "Oštećena ARC energetska ćelija",
-    "sr": "Oštećena ARC energetska ćelija"
+    "sr": "Oštećena ARC energetska ćelija",
+    "pt-BR": "Célula de Energia ARC Danificada",
+    "he": "תא כוח ARC פגום"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "tr": "İşleme malzemelerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למיחזור לחומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Common",

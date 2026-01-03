@@ -19,7 +19,9 @@
     "tr": "Meselenin Özü",
     "ja": "問題の根源",
     "zh-CN": "问题的根源",
-    "sr": "Корен проблема"
+    "sr": "Корен проблема",
+    "pt-BR": "A Raiz da Questão",
+    "he": "שורש העניין"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Şanslıyız. Geçen sefer bulduğunuz notlar baş araştırmacı tarafından yazılmış. Proje iptal edildiğinde, tohum örneklerinden bazılarını alıp güvenli bir yere mühürlemiş gibi görünüyor.",
     "ja": "運が良かった。前回見つけたメモは主任研究員が書いたものだ。プロジェクトが中止になったとき、彼女は種子サンプルのいくつかを持ち出し、安全な場所に封印したようだ。",
     "zh-CN": "我们很幸运。你上次找到的笔记是首席研究员写的。当项目终止时，她似乎带走了一些种子样本，并将它们封存在一个安全的地方。",
-    "sr": "Имамо среће. Белешке које сте пронашли прошли put написала је главна истраживачица. Када је пројекат пропао, изгледа да је узела неке узорке семена и запечатила их на сигурном месту."
+    "sr": "Имамо среће. Белешке које сте пронашли прошли put написала је главна истраживачица. Када је пројекат пропао, изгледа да је узела неке узорке семена и запечатила их на сигурном месту.",
+    "pt-BR": "Estamos com sorte. As anotações que você encontrou da última vez foram escritas pela pesquisadora-chefe. Quando o projeto fracassou, parece que ela pegou algumas amostras de sementes e as selou em um local seguro.",
+    "he": "יש לנו מזל. הרשימות שמצאתם בפעם הקודמת נכתבו על ידי החוקרת הראשית. כשהפרויקט קרס, נראה שהיא לקחה חלק מדגימות הזרעים ונעלה אותן במיקום מאובטח."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Araştırma Binasına git",
       "ja": "研究棟に行く",
       "zh-CN": "前往研究大楼",
-      "sr": "Идите до Истраживачке зграде"
+      "sr": "Идите до Истраживачке зграде",
+      "pt-BR": "Vá para o Prédio de Pesquisa",
+      "he": "לכו לבניין המחקר"
     },
     {
       "en": "Search for the seed vault in the \"room with a great view\"",
@@ -84,7 +90,9 @@
       "tr": "\"Harika manzaralı odada\" tohum kasasını ara",
       "ja": "「景色が綺麗な部屋」の中にある種子保管室を探す",
       "zh-CN": "在「景观绝佳的房间」中寻找种子库",
-      "sr": "Потражите трезор са семеном у \"соби са прелепим погледом\""
+      "sr": "Потражите трезор са семеном у \"соби са прелепим погледом\"",
+      "pt-BR": "Procure pelo cofre de sementes na \"sala com uma ótima vista\"",
+      "he": "חפשו את כספת הזרעים ב\"חדר עם הנוף המצוין\""
     },
     {
       "en": "Deliver the Experimental Seed Sample to Celeste",
@@ -104,7 +112,9 @@
       "tr": "Deneysel Tohum Örneğini Celeste'e teslim et",
       "ja": "セレステに実験的な種子のサンプルを届ける",
       "zh-CN": "将实验种子样本交给塞莱斯特",
-      "sr": "Доставите експериментални узорак семена Celeste"
+      "sr": "Доставите експериментални узорак семена Celeste",
+      "pt-BR": "Entregue a Amostra de Semente Experimental para Celeste",
+      "he": "מסור את דגימת הזרע הנסיונית ל-Celeste"
     }
   ],
   "rewardItemIds": [

@@ -18,7 +18,9 @@
     "kr": "아르페지오 I",
     "tr": "Arpej I",
     "hr": "Arpeđo I",
-    "sr": "Arpeđo I"
+    "sr": "Arpeđo I",
+    "pt-BR": "Arpeggio I",
+    "he": "ארפג'יו I"
   },
   "description": {
     "en": "Has decent damage output and accuracy.",
@@ -38,7 +40,9 @@
     "kr": "적절한 데미지와 정확도를 가지고 있습니다.",
     "tr": "Makul hasar çıkışı ve isabetliliğe sahiptir.",
     "hr": "Ima pristojnu štetu i preciznost.",
-    "sr": "Ima pristojnu štetu i preciznost."
+    "sr": "Ima pristojnu štetu i preciznost.",
+    "pt-BR": "Possui dano e precisão decentes.",
+    "he": "בעל נזק ודיוק סבירים."
   },
   "type": "Assault Rifle",
   "rarity": "Uncommon",
@@ -66,7 +70,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -87,7 +93,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Municije",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -108,7 +116,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Okvira",
-      "value": 24
+      "value": 24,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -129,7 +139,9 @@
       "tr": "Atış Modu",
       "hr": "Način Pucanja",
       "sr": "Režim Paljbe",
-      "value": "3-Round Burst"
+      "value": "3-Round Burst",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -150,7 +162,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "recipe": {

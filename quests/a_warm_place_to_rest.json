@@ -19,7 +19,9 @@
     "tr": "Dinlenmek İçin Sıcak Bir Yer",
     "zh-TW": "溫暖的休息之所",
     "sr": "Toplo mesto za odmor",
-    "hr": "Toplo mjesto za odmor"
+    "hr": "Toplo mjesto za odmor",
+    "pt-BR": "Um Lugar Quente para Descansar",
+    "he": "מקום חם למנוחה"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Müşterilerimden biri Gömülü Şehir'deki eski bir kampda sığınan bir aile gördü. Onları bulup güvenli bir yere geri götürmeyi başaran herkese ödeme yapacağım.",
     "zh-TW": "我的一位客戶看到一家人在埋沒之城的舊營地避難。我會付錢給任何能找到他們並護送他們安全返回的人。",
     "sr": "Moj mušterija je video porodicu kako se sklanja u starom logoru u Zatrpanom gradu. Platiću svakome ko uspe da ih pronađe i bezbedno ih dovede nazad.",
-    "hr": "Moj kupac je vidio obitelj kako se sklanja u starom logoru u Zatrpanom gradu. Platit ću svakome tko uspije pronaći ih i sigurno ih dovesti natrag."
+    "hr": "Moj kupac je vidio obitelj kako se sklanja u starom logoru u Zatrpanom gradu. Platit ću svakome tko uspije pronaći ih i sigurno ih dovesti natrag.",
+    "pt-BR": "Um cliente meu viu uma família se abrigando em um antigo acampamento na Cidade Soterrada. Pagarei a quem conseguir encontrá-los e trazê-los em segurança.",
+    "he": "לקוח שלי ראה משפחה תופסת מחסה במאהל ישן בעיר הקבורה. אני אשלם למי שיצליח למצוא אותם וללוות אותם חזרה למקום מבטחים."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Terk Edilmiş Otoyol Kampını bulun",
       "zh-TW": "找到廢棄的高速公路營地",
       "sr": "Pronađi napušteni logor na autoputu",
-      "hr": "Pronađi napušteni logor na autocesti"
+      "hr": "Pronađi napušteni logor na autocesti",
+      "pt-BR": "Localize o Acampamento da Rodovia Abandonada",
+      "he": "אתר את מחנה הכביש המהיר הנטוש"
     },
     {
       "en": "Search for any signs of survivors",
@@ -84,7 +90,9 @@
       "tr": "Hayatta kalanların herhangi bir izini arayın",
       "zh-TW": "搜尋任何倖存者的跡象",
       "sr": "Traži znakove preživelih",
-      "hr": "Traži znakove preživjelih"
+      "hr": "Traži znakove preživjelih",
+      "pt-BR": "Procure por sinais de sobreviventes",
+      "he": "חפש סימנים לניצולים"
     },
     {
       "en": "Follow the red markers",
@@ -104,7 +112,9 @@
       "tr": "Kırmızı işaretçileri takip edin",
       "zh-TW": "跟隨紅色標記",
       "sr": "Prati crvene markere",
-      "hr": "Prati crvene markere"
+      "hr": "Prati crvene markere",
+      "pt-BR": "Siga os marcadores vermelhos",
+      "he": "עקוב אחר הסימנים האדומים"
     },
     {
       "en": "Inspect the grave",
@@ -124,7 +134,9 @@
       "tr": "Mezarı inceleyin",
       "zh-TW": "檢查墳墓",
       "sr": "Preglej grob",
-      "hr": "Preglej grob"
+      "hr": "Preglej grob",
+      "pt-BR": "Inspecione a sepultura",
+      "he": "בדוק את הקבר"
     }
   ],
   "rewardItemIds": [

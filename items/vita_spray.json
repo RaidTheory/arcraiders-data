@@ -18,7 +18,9 @@
     "kr": "회복 스프레이",
     "tr": "Vita Spreyi",
     "hr": "Vita Sprej",
-    "sr": "Vita Sprej"
+    "sr": "Vita Sprej",
+    "pt-BR": "Spray Vita",
+    "he": "Vita Spray"
   },
   "description": {
     "en": "A medical item that continuously restores health during use. Can be used on yourself or your allies.",
@@ -38,7 +40,9 @@
     "kr": "사용 중 지속적으로 체력을 회복하는 의료 아이템. 자신이나 아군에게 사용할 수 있습니다.",
     "tr": "Kullanım sırasında sürekli olarak sağlık yenileyen tıbbi bir eşya. Kendinize veya müttefiklerinize kullanılabilir.",
     "hr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tijekom korištenja. Može se koristiti na sebi ili saveznicima.",
-    "sr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tokom korišćenja. Može se koristiti na sebi ili saveznicima."
+    "sr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tokom korišćenja. Može se koristiti na sebi ili saveznicima.",
+    "pt-BR": "Um item médico que restaura saúde continuamente durante o uso. Pode ser usado em você ou em seus aliados.",
+    "he": "פריט רפואי שמחזיר בריאות באופן רציף בזמן השימוש. ניתן לשימוש על עצמך או על בני בריתך."
   },
   "type": "Quick Use",
   "rarity": "Epic",
@@ -65,7 +69,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Healing": {
       "en": "Healing",
@@ -86,7 +92,9 @@
       "tr": "İyileştirme",
       "hr": "Liječenje",
       "sr": "Lečenje",
-      "value": "10/s"
+      "value": "10/s",
+      "pt-BR": "Cura",
+      "he": "ריפוי"
     },
     "Heal Capacity": {
       "en": "Heal Capacity",
@@ -107,7 +115,9 @@
       "tr": "İyileştirme Kapasitesi",
       "hr": "Kapacitet Liječenja",
       "sr": "Kapacitet Lečenja",
-      "value": 150
+      "value": 150,
+      "pt-BR": "Capacidade de Cura",
+      "he": "קיבולת ריפוי"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",

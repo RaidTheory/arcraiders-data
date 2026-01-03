@@ -18,7 +18,9 @@
     "ja": "ラトラー II",
     "kr": "래틀러 II",
     "pl": "Rattler II",
-    "hr": "Rattler II"
+    "hr": "Rattler II",
+    "pt-BR": "Rattler II",
+    "he": "רטלר II"
   },
   "effects": {
     "Magazine Size": {
@@ -40,7 +42,9 @@
       "kr": "탄창 크기",
       "pl": "Pojemność Magazynka",
       "hr": "Veličina Okvira",
-      "value": 16
+      "value": 16,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Durability": {
       "en": "Durability",
@@ -61,7 +65,9 @@
       "kr": "내구도",
       "pl": "Wytrzymałość",
       "hr": "Izdržljivost",
-      "value": "110/110"
+      "value": "110/110",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -82,7 +88,9 @@
       "kr": "탄약 유형",
       "pl": "Typ Amunicji",
       "hr": "Tip Municije",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -103,7 +111,9 @@
       "kr": "발사 모드",
       "pl": "Tryb Ognia",
       "hr": "Način Pucanja",
-      "value": "Fully-Automatic"
+      "value": "Fully-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -124,7 +134,9 @@
       "kr": "아크 장갑판 관통력",
       "pl": "Przebicie Pancerza ARC",
       "hr": "ARC Probijanje Oklopa",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "value": 3000,
@@ -157,7 +169,9 @@
     "ja": "フルオート式アサルトライフル。安価な攻撃オプションだが、一度に2発ずつリロードする必要がある。",
     "kr": "완전 자동 돌격 소총. 저렴한 공격 옵션이지만, 한 번에 2발씩 재장전해야 합니다.",
     "pl": "W pełni automatyczny karabin szturmowy. Tania opcja ofensywna, ale musi być przeładowywany po 2 pociski na raz.",
-    "hr": "Potpuno automatska jurišna puška. Jeftina ofenzivna opcija, ali se mora puniti po 2 metka odjednom."
+    "hr": "Potpuno automatska jurišna puška. Jeftina ofenzivna opcija, ali se mora puniti po 2 metka odjednom.",
+    "pt-BR": "Fuzil de assalto totalmente automático. Uma opção ofensiva barata, mas deve ser recarregado 2 balas por vez.",
+    "he": "רובה סער אוטומטי מלא. אפשרות התקפית זולה, אך נטען ב-2 כדורים בכל פעם."
   },
   "type": "Assault Rifle",
   "rarity": "Common",

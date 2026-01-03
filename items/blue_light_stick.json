@@ -18,7 +18,9 @@
     "kr": "파란색 야광봉",
     "tr": "Mavi Işık Çubuğu",
     "hr": "Plavi Svjetleći Štapić",
-    "sr": "Plavi Svetleći Štapić"
+    "sr": "Plavi Svetleći Štapić",
+    "pt-BR": "Bastão de Luz Azul",
+    "he": "מקל תאורה כחול"
   },
   "description": {
     "en": "A throwable chemical light that illuminates the area around it.",
@@ -38,7 +40,9 @@
     "kr": "던질 수 있는 화학 조명. 주변 지역을 밝힙니다.",
     "tr": "Etrafındaki alanı aydınlatan fırlatılabilir kimyasal ışık.",
     "hr": "Kemijsko svjetlo za bacanje koje osvjetljava područje oko sebe.",
-    "sr": "Hemijsko svetlo za bacanje koje osvetljava područje oko sebe."
+    "sr": "Hemijsko svetlo za bacanje koje osvetljava područje oko sebe.",
+    "pt-BR": "Uma luz química arremessável que ilumina a área ao redor.",
+    "he": "אמצעי תאורה כימי להשלכה המאיר את השטח סביבו."
   },
   "type": "Quick Use",
   "rarity": "Common",
@@ -65,7 +69,9 @@
       "tr": "Aydınlatma Yarıçapı",
       "hr": "Radijus Osvjetljenja",
       "sr": "Radijus Osvetljenja",
-      "value": "7m"
+      "value": "7m",
+      "pt-BR": "Raio de Iluminação",
+      "he": "רדיוס תאורה"
     },
     "Duration": {
       "en": "Duration",
@@ -86,7 +92,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "40s"
+      "value": "40s",
+      "pt-BR": "Duração",
+      "he": "משך זמן"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/blue_light_stick.png",

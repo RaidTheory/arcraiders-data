@@ -18,7 +18,9 @@
     "kr": "산탄총 초크 I",
     "tr": "Pompalı Çok I",
     "hr": "Sačmarski Čok I",
-    "sr": "Sačmarski Čok I"
+    "sr": "Sačmarski Čok I",
+    "pt-BR": "Estrangulador de Escopeta I",
+    "he": "צ'וק לרובה ציד I"
   },
   "description": {
     "en": "Slightly reduces base dispersion. Compatible with: Il Toro, Vulcano",
@@ -38,7 +40,9 @@
     "kr": "기본 분산을 약간 감소시킨다. 호환 무기: 일 토로, 불카노",
     "tr": "Temel dağılımı hafifçe azaltır. Uyumlu: Il Toro, Vulcano",
     "hr": "Blago smanjuje osnovnu raspršenost. Kompatibilno s: Il Toro, Vulcano",
-    "sr": "Blago smanjuje osnovnu raspršenost. Kompatibilno sa: Il Toro, Vulcano"
+    "sr": "Blago smanjuje osnovnu raspršenost. Kompatibilno sa: Il Toro, Vulcano",
+    "pt-BR": "Reduz levemente a dispersão base. Compatível com: Il Toro, Vulcano",
+    "he": "מפחית מעט את הפיזור הבסיסי. תואם ל: Il Toro, Vulcano"
   },
   "type": "Modification",
   "rarity": "Common",
@@ -64,7 +68,9 @@
       "tr": "Azaltılmış Temel Dağılım",
       "hr": "Smanjena Osnovna Raspršenost",
       "sr": "Smanjena Osnovna Raspršenost",
-      "value": "10%"
+      "value": "10%",
+      "pt-BR": "Dispersão Base Reduzida",
+      "he": "פיזור בסיסי מופחת"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_i.png",

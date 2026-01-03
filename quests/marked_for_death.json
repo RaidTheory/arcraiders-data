@@ -19,7 +19,9 @@
     "tr": "Ölüme Mahkum",
     "zh-TW": "死亡標記",
     "sr": "Obeležen za Smrt",
-    "hr": "Obilježen za Smrt"
+    "hr": "Obilježen za Smrt",
+    "pt-BR": "Marcado para Morrer",
+    "he": "מסומן למוות"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Biri Gömülü Şehir'deki teslimat noktamdan malzeme çalıyor. Bir tuzak kurdum ama benim için kontrol edecek birine ihtiyacım var.",
     "zh-TW": "有人一直在埋葬之城的投放點偷我的補給。我設了個陷阱，但需要有人幫我去檢查一下。",
     "sr": "Neko je krao zalihe sa mog mesta za dostavu u Zakopanom Gradu. Postavio sam zamku, ali mi treba neko da je proveri.",
-    "hr": "Netko je krao zalihe s mog mjesta za dostavu u Zakopanom Gradu. Postavio sam zamku, ali mi treba netko da je provjeri."
+    "hr": "Netko je krao zalihe s mog mjesta za dostavu u Zakopanom Gradu. Postavio sam zamku, ali mi treba netko da je provjeri.",
+    "pt-BR": "Alguém tem roubado suprimentos do meu ponto de entrega na Cidade Enterrada. Preparei uma armadilha, mas preciso que alguém a verifique para mim.",
+    "he": "מישהו גונב אספקה מנקודת האיסוף שלי בעיר הקבורה. הכנתי מלכודת, אבל אני צריך מישהו שיבדוק אותה עבורי."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Gömülü Şehir'in Varoşlarındaki Su Durante Depolarına ulaş",
       "zh-TW": "前往埋葬之城郊區的蘇·杜蘭特倉庫",
       "sr": "Stigni do Su Durante Skladišta u Predgrađu u Zakopanom Gradu",
-      "hr": "Stigni do Su Durante Skladišta u Predgrađu u Zakopanom Gradu"
+      "hr": "Stigni do Su Durante Skladišta u Predgrađu u Zakopanom Gradu",
+      "pt-BR": "Chegue aos Armazéns Su Durante nos Arredores da Cidade Enterrada",
+      "he": "הגע למחסני Su Durante בפרוורים של העיר הקבורה"
     },
     {
       "en": "Search for Tian Wen's cache near the Warehouses",
@@ -84,7 +90,9 @@
       "tr": "Depoların yakınında Tian Wen'in zulasını ara",
       "zh-TW": "在倉庫附近搜尋田文的儲藏點",
       "sr": "Traži Tian Wen-ovu ostavu blizu Skladišta",
-      "hr": "Traži Tian Wen-ovu ostavu blizu Skladišta"
+      "hr": "Traži Tian Wen-ovu ostavu blizu Skladišta",
+      "pt-BR": "Procure pelo esconderijo de Tian Wen perto dos Armazéns",
+      "he": "חפש את המטמון של Tian Wen ליד המחסנים"
     },
     {
       "en": "Follow the clues",
@@ -104,7 +112,9 @@
       "tr": "İpuçlarını takip et",
       "zh-TW": "跟隨線索",
       "sr": "Prati tragove",
-      "hr": "Prati tragove"
+      "hr": "Prati tragove",
+      "pt-BR": "Siga as pistas",
+      "he": "עקוב אחר הרמזים"
     }
   ],
   "rewardItemIds": [

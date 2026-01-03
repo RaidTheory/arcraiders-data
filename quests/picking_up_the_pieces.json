@@ -19,7 +19,9 @@
     "tr": "Parçaları Toplama",
     "zh-TW": "收拾殘局",
     "sr": "Sakupljanje Delova",
-    "hr": "Sakupljanje Komada"
+    "hr": "Sakupljanje Komada",
+    "pt-BR": "Juntando os Cacos",
+    "he": "לאסוף את השברים"
   },
   "trader": "Shani",
   "description": {
@@ -40,7 +42,9 @@
     "tr": "Fırtına büyük ölçüde dindi, ancak altyapımız ciddi hasar aldı. Bizimle kalmayı umuyorsan, onarım çalışmalarında üzerine düşeni yapmanı isteyeceğim.",
     "zh-TW": "風暴基本平息了，但我們的基礎設施遭受了嚴重破壞。如果你想留在我們這裡，我需要你在修復工作中出一份力。",
     "sr": "Oluja se uglavnom smirila, ali naša infrastruktura je prilično stradala. Ako nameravate da ostanete sa nama, moraću da tražim od vas da doprinesete u naporu popravke.",
-    "hr": "Oluja se uglavnom smirila, ali naša infrastruktura je prilično stradala. Ako se nadate da ćete ostati s nama, morat ću od vas tražiti da doprinesete u naporu popravka."
+    "hr": "Oluja se uglavnom smirila, ali naša infrastruktura je prilično stradala. Ako se nadate da ćete ostati s nama, morat ću od vas tražiti da doprinesete u naporu popravka.",
+    "pt-BR": "A tempestade praticamente passou, mas grande parte da nossa infraestrutura sofreu um belo estrago. Se espera ficar conosco, precisarei que faça sua parte nos esforços de reparo.",
+    "he": "הסערה שככה ברובה, אבל הרבה מהתשתית שלנו חטפה מכה רצינית. אם אתה מקווה להישאר איתנו, אני צריך שתיתן יד במאמצי התיקון."
   },
   "objectives": [
     {
@@ -61,7 +65,9 @@
       "tr": "Haritanızda ganimet kategorisi simgesi olan herhangi bir bölgeyi ziyaret edin",
       "zh-TW": "訪問地圖上任何帶有戰利品類別圖示的區域",
       "sr": "Posetite bilo koje područje na vašoj mapi sa ikonom kategorije plijena",
-      "hr": "Posjetite bilo koje područje na vašoj karti sa ikonom kategorije plijena"
+      "hr": "Posjetite bilo koje područje na vašoj karti sa ikonom kategorije plijena",
+      "pt-BR": "Visite qualquer área no seu mapa com um ícone de categoria de saque",
+      "he": "בקר בכל אזור במפה שלך עם אייקון של קטגוריית שלל"
     },
     {
       "en": "Loot 3 containers",
@@ -81,7 +87,9 @@
       "tr": "3 konteyner yağmala",
       "zh-TW": "搜刮3個容器",
       "sr": "Opljačkajte 3 kontejnera",
-      "hr": "Opljačkajte 3 kontejnera"
+      "hr": "Opljačkajte 3 kontejnera",
+      "pt-BR": "Saqueie 3 contêineres",
+      "he": "אסוף שלל מ-3 מכלים"
     }
   ],
   "rewardItemIds": [

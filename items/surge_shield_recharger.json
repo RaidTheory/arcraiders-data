@@ -18,7 +18,9 @@
     "kr": "급속 실드 충전기",
     "tr": "Surge Kalkan Şarj Cihazı",
     "hr": "Punjač Surge Štita",
-    "sr": "Punjač Surge Štita"
+    "sr": "Punjač Surge Štita",
+    "pt-BR": "Recarregador de Escudo de Surto",
+    "he": "מטען מגן נחשול"
   },
   "description": {
     "en": "A handheld kit that recharges a shield on use.",
@@ -38,7 +40,9 @@
     "kr": "사용 시 실드를 충전하는 휴대용 키트.",
     "tr": "Kullanıldığında kalkanı şarj eden el tipi bir kit.",
     "hr": "Ručni komplet koji puni štit pri korištenju.",
-    "sr": "Ručni komplet koji puni štit pri korišćenju."
+    "sr": "Ručni komplet koji puni štit pri korišćenju.",
+    "pt-BR": "Um kit portátil que recarrega o escudo ao ser usado.",
+    "he": "ערכה ידנית המטעינה את המגן בעת השימוש."
   },
   "type": "Quick Use",
   "value": 1200,
@@ -65,7 +69,9 @@
       "tr": "Şarj",
       "hr": "Punjenje",
       "sr": "Punjenje",
-      "value": 50
+      "value": 50,
+      "pt-BR": "Recarga",
+      "he": "טעינה"
     },
     "Use Time": {
       "en": "Use Time",
@@ -86,7 +92,9 @@
       "tr": "Kullanım Süresi",
       "hr": "Vrijeme Korištenja",
       "sr": "Vreme Korišćenja",
-      "value": "5s"
+      "value": "5s",
+      "pt-BR": "Tempo de Uso",
+      "he": "זמן שימוש"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/surge_shield_recharger.png",

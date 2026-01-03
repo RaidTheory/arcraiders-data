@@ -18,7 +18,9 @@
     "kr": "템페스트 II",
     "tr": "Fırtına II",
     "hr": "Oluja II",
-    "sr": "Олуја II"
+    "sr": "Олуја II",
+    "pt-BR": "Tempest II",
+    "he": "טמפסט II"
   },
   "description": {
     "en": "Fully automatic assault rifle with moderate fire rate and accuracy.",
@@ -38,7 +40,9 @@
     "kr": "완전 자동 돌격소총으로, 발사 속도와 정확도가 보통입니다.",
     "tr": "Tam otomatik bir saldırı tüfeği, orta düzeyde atış hızı ve isabet oranına sahiptir.",
     "hr": "Potpuno automatska jurišna puška s umjerenom brzinom paljbe i preciznošću.",
-    "sr": "Потпуно аутоматска јуришна пушка са умереном брзином паљбе и прецизношћу."
+    "sr": "Потпуно аутоматска јуришна пушка са умереном брзином паљбе и прецизношћу.",
+    "pt-BR": "Fuzil de assalto totalmente automático com cadência de tiro e precisão moderadas.",
+    "he": "רובה סער אוטומטי מלא בעל קצב אש ודיוק בינוניים."
   },
   "type": "Assault Rifle",
   "rarity": "Epic",
@@ -62,7 +66,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "110/110"
+      "value": "110/110",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -83,7 +89,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Streljiva",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -104,7 +112,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
-      "value": 25
+      "value": 25,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -125,7 +135,9 @@
       "tr": "Atış Modu",
       "hr": "Način Pucanja",
       "sr": "Način Pucanja",
-      "value": "Fully-Automatic"
+      "value": "Fully-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -146,7 +158,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     },
     "Reduced Horizontal Recoil": {
       "en": "Reduced Horizontal Recoil",
@@ -167,7 +181,9 @@
       "tr": "Azaltılmış Yatay Tepme",
       "hr": "Smanjen horizontalni trzaj",
       "sr": "Smanjen horizontalni trzaj",
-      "value": "16.6%"
+      "value": "16.6%",
+      "pt-BR": "Recuo Horizontal Reduzido",
+      "he": "רתע אופקי מופחת"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -188,7 +204,9 @@
       "tr": "Azaltılmış yeniden doldurma süresi",
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vrijeme punjenja",
-      "value": "13%"
+      "value": "13%",
+      "pt-BR": "Tempo de Recarga Reduzido",
+      "he": "זמן טעינה מופחת"
     }
   },
   "value": 17000,

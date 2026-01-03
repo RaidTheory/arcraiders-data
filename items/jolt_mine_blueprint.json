@@ -18,7 +18,9 @@
     "kr": "충격 지뢰 설계도",
     "tr": "Sarsıcı Mayın Planı",
     "hr": "Nacrt za Jolt minu",
-    "sr": "Nacrt za Jolt minu"
+    "sr": "Nacrt za Jolt minu",
+    "pt-BR": "Projeto da Mina de Choque",
+    "he": "שרטוט מוקש הלם"
   },
   "description": {
     "en": "A proximity-triggered mine that pops up and stuns anything within its radius.",
@@ -38,7 +40,9 @@
     "kr": "근접 시 작동하여 튀어 오르고 반경 내의 모든 것을 기절시키는 지뢰.",
     "tr": "Yakınlık tetiklemeli bir mayın, fırlayarak yarıçapı içindeki her şeyi sersemletir.",
     "hr": "Mina aktivirana blizinom koja iskoči i omamljuje sve u svom radijusu.",
-    "sr": "Mina aktivirana blizinom koja iskoči i omamljuje sve u svom radijusu."
+    "sr": "Mina aktivirana blizinom koja iskoči i omamljuje sve u svom radijusu.",
+    "pt-BR": "Uma mina acionada por proximidade que salta e atordoa qualquer coisa dentro de seu raio.",
+    "he": "מוקש קרבה הקופץ מעלה ומהמם כל דבר ברדיוס שלו."
   },
   "type": "Blueprint",
   "value": 5000,

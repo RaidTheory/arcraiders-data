@@ -18,7 +18,9 @@
     "kr": "카메라 렌즈",
     "tr": "Kamera Lensi",
     "hr": "Objektiv Kamere",
-    "sr": "Objektiv Kamere"
+    "sr": "Objektiv Kamere",
+    "pt-BR": "Lente de Câmera",
+    "he": "עדשת מצלמה"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "kr": "제작 재료로 재활용 가능.",
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclada em materiais de fabricação.",
+    "he": "ניתן למחזור לחומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Uncommon",

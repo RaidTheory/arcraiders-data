@@ -18,7 +18,9 @@
     "kr": "화염 수류탄",
     "tr": "Alev Bombası",
     "hr": "Vatrena Granata",
-    "sr": "Vatrena Granata"
+    "sr": "Vatrena Granata",
+    "pt-BR": "Granada Incendiária",
+    "he": "רימון תבערה"
   },
   "description": {
     "en": "A grenade that detonates on impact, covering an area in fire that deals damage over time.",
@@ -38,7 +40,9 @@
     "kr": "충격 시 폭발하여 지속 피해를 주는 화염으로 지역을 뒤덮는 수류탄입니다.",
     "tr": "Çarpma anında patlayan ve bir alanı zaman içinde hasar veren ateşle kaplayan bomba.",
     "hr": "Granata koja eksplodira pri udaru, prekrivajući područje vatrom koja nanosi štetu tijekom vremena.",
-    "sr": "Granata koja eksplodira pri udaru, prekrivajući područje vatrom koja nanosi štetu tokom vremena."
+    "sr": "Granata koja eksplodira pri udaru, prekrivajući područje vatrom koja nanosi štetu tokom vremena.",
+    "pt-BR": "Uma granada que detona ao impacto, cobrindo uma área com fogo que causa dano ao longo do tempo.",
+    "he": "רימון המתפוצץ בעת פגיעה, מכסה שטח באש הגורמת נזק לאורך זמן."
   },
   "type": "Quick Use",
   "rarity": "Rare",
@@ -70,7 +74,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": "5/s"
+      "value": "5/s",
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Duration": {
       "en": "Duration",
@@ -91,7 +97,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "10s"
+      "value": "10s",
+      "pt-BR": "Duração",
+      "he": "משך"
     },
     "Radius": {
       "en": "Radius",
@@ -112,7 +120,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "10m"
+      "value": "10m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "updatedAt": "12/31/2025",

@@ -18,7 +18,9 @@
     "kr": "전투 마크 1",
     "tr": "Savaş Mk. 1",
     "hr": "Borbeni Mk. 1",
-    "sr": "Borbeni Mk. 1"
+    "sr": "Borbeni Mk. 1",
+    "pt-BR": "Combate Mk. 1",
+    "he": "לחימה סימן 1"
   },
   "description": {
     "en": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
@@ -38,7 +40,9 @@
     "kr": "기본 전투 강화. 더 강력한 실드를 지원하지만, 배낭 용량과 빠른 사용 슬롯이 제한적입니다.",
     "tr": "Temel savaş güçlendirmesi. Daha güçlü kalkanları destekler, ancak sınırlı sırt çantası kapasitesi ve Hızlı Kullanım yuvaları ile.",
     "hr": "Osnovno borbeno poboljšanje. Podržava jače štitove, ali s ograničenim kapacitetom ruksaka i mjestima za brzu upotrebu.",
-    "sr": "Osnovno borbeno poboljšanje. Podržava jače štitove, ali sa ograničenim kapacitetom ranca i mestima za brzu upotrebu."
+    "sr": "Osnovno borbeno poboljšanje. Podržava jače štitove, ali sa ograničenim kapacitetom ranca i mestima za brzu upotrebu.",
+    "pt-BR": "Aprimoramento básico de combate. Suporta escudos mais fortes, mas com capacidade da mochila e espaços de uso rápido limitados.",
+    "he": "תוסף לחימה בסיסי. תומך במגנים חזקים יותר, אך בעל קיבולת תיק גב וחריצי שימוש מהיר מוגבלים."
   },
   "type": "Augment",
   "rarity": "Uncommon",
@@ -70,7 +74,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
@@ -91,7 +97,9 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. težina opreme",
       "sr": "Maks. težina opreme",
-      "value": 45
+      "value": 45,
+      "pt-BR": "Peso Máximo de Carga",
+      "he": "משקל ציוד מירבי"
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -112,7 +120,9 @@
       "tr": "Kalkan Uyumluluğu",
       "hr": "Kompatibilnost štita",
       "sr": "Kompatibilnost štita",
-      "value": "Light, Medium"
+      "value": "Light, Medium",
+      "pt-BR": "Compatibilidade de Escudo",
+      "he": "תאימות מגן"
     }
   },
   "recipe": {

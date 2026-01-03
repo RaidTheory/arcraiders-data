@@ -17,7 +17,9 @@
     "tr": "Stella Montis Güvenlik Kontrol Noktası Anahtarı",
     "uk": "Ключ від контрольно-перепускного пункту Стелла Монтіс",
     "sr": "Ključ bezbednosne kontrolne tačke Stella Montis",
-    "hr": "Ključ sigurnosne kontrolne točke Stella Montis"
+    "hr": "Ključ sigurnosne kontrolne točke Stella Montis",
+    "pt-BR": "Chave do Posto de Segurança de Stella Montis",
+    "he": "מפתח לעמדת הבידוק הביטחוני בסטלה מונטיס"
   },
   "description": {
     "en": "Unlocks a door in the Security Checkpoint in Stella Montis",
@@ -37,7 +39,9 @@
     "tr": "Stella Montis'teki Güvenlik Kontrol Noktasında bir kapıyı açar",
     "uk": "Відкриває двері на контрольно-перепускному пункті в Стелла Монтіс",
     "sr": "Otključava vrata na bezbednosnoj kontrolnoj tački u Stella Montis",
-    "hr": "Otključava vrata na sigurnosnoj kontrolnoj točki u Stella Montis"
+    "hr": "Otključava vrata na sigurnosnoj kontrolnoj točki u Stella Montis",
+    "pt-BR": "Destranca uma porta no Posto de Segurança em Stella Montis",
+    "he": "פותח דלת בעמדת הבידוק הביטחוני בסטלה מונטיס"
   },
   "id": "stella_montis_security_checkpoint_key",
   "type": "Key",

@@ -18,7 +18,9 @@
     "kr": "보정기 III",
     "tr": "Kompansatör III",
     "hr": "Kompenzator III",
-    "sr": "Kompenzator III"
+    "sr": "Kompenzator III",
+    "pt-BR": "Compensador III",
+    "he": "מפצה סטייה III"
   },
   "description": {
     "en": "Moderately reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -38,7 +40,9 @@
     "kr": "발사당 분산도를 적당히 감소시킵니다. 호환 무기: 아르페지오, 페로, 레니게이드, 앤빌, 스티처",
     "tr": "Atış başına dağılmayı orta düzeyde azaltır. Uyumlu: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "hr": "Umjereno smanjuje raspršenje po pucnju. Kompatibilno s: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-    "sr": "Umereno smanjuje raspršenje po pucnju. Kompatibilno sa: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
+    "sr": "Umereno smanjuje raspršenje po pucnju. Kompatibilno sa: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "pt-BR": "Reduz moderadamente a dispersão por disparo. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "he": "מפחית באופן בינוני את פיזור הירי. תואם ל: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
   },
   "type": "Modification",
   "value": 5000,
@@ -64,7 +68,9 @@
       "tr": "Azaltılmış Atış Başına Dağılma",
       "hr": "Smanjeno Raspršenje po Pucnju",
       "sr": "Smanjeno Raspršenje po Pucnju",
-      "value": "60%"
+      "value": "60%",
+      "pt-BR": "Dispersão por Disparo Reduzida",
+      "he": "פיזור לכל ירייה מופחת"
     },
     "Reduced Max Shot Dispersion": {
       "en": "Reduced Max Shot Dispersion",
@@ -85,7 +91,9 @@
       "tr": "Azaltılmış Maksimum Atış Dağılması",
       "hr": "Smanjeno Maksimalno Raspršenje Pucnja",
       "sr": "Smanjeno Maksimalno Raspršenje Pucnja",
-      "value": "30%"
+      "value": "30%",
+      "pt-BR": "Dispersão Máxima de Disparo Reduzida",
+      "he": "פיזור ירי מרבי מופחת"
     },
     "Increased Durability Burn Rate": {
       "en": "Increased Durability Burn Rate",
@@ -106,7 +114,9 @@
       "tr": "Artırılmış Dayanıklılık Tükenme Oranı",
       "hr": "Povećana stopa trošenja izdržljivosti",
       "sr": "Povećana stopa trošenja izdržljivosti",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Taxa de Desgaste de Durabilidade Aumentada",
+      "he": "קצב שחיקת עמידות מוגבר"
     }
   },
   "recyclesInto": {

@@ -18,7 +18,9 @@
     "kr": "폭죽",
     "tr": "Maytap",
     "hr": "Petarda",
-    "sr": "Petarda"
+    "sr": "Petarda",
+    "pt-BR": "Bombinha",
+    "he": "חזיז"
   },
   "description": {
     "en": "A device that sparks and pops in a pleasant manner.",
@@ -38,7 +40,9 @@
     "kr": "불꽃이 튀고 기분 좋게 톡톡 터지는 장치.",
     "tr": "Hoş bir şekilde kıvılcımlanan ve patlayan bir cihaz.",
     "hr": "Uređaj koji ugodno iskri i puca.",
-    "sr": "Uređaj koji prijatno varniči i puca."
+    "sr": "Uređaj koji prijatno varniči i puca.",
+    "pt-BR": "Um dispositivo que solta faíscas e estalos de forma agradável.",
+    "he": "מכשיר שיוצר ניצוצות ופיצפוצים בצורה נעימה."
   },
   "type": "Quick Use",
   "rarity": "Common",
@@ -71,7 +75,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "7.5s"
+      "value": "7.5s",
+      "pt-BR": "Duração",
+      "he": "משך"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/firecracker.png",

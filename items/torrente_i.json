@@ -18,7 +18,9 @@
     "kr": "토렌테 I",
     "tr": "Torrente I",
     "hr": "Torrente I",
-    "sr": "Torrente I"
+    "sr": "Torrente I",
+    "pt-BR": "Torrente I",
+    "he": "Torrente I"
   },
   "description": {
     "en": "Has a large ammo capacity, but is only accurate while crouched",
@@ -38,7 +40,9 @@
     "tr": "Yüksek mermi kapasitesine sahiptir, ancak sadece çömelirken isabetlidir.",
     "uk": "Має велику місткість боєзапасу, але є точною лише під час присідання.",
     "sr": "Ima veliki kapacitet municije, ali je precizno samo dok ste čučnuti.",
-    "hr": "Ima veliki kapacitet streljiva, ali je precizno samo dok ste u čučnju."
+    "hr": "Ima veliki kapacitet streljiva, ali je precizno samo dok ste u čučnju.",
+    "pt-BR": "Tem grande capacidade de munição, mas só é precisa quando agachado",
+    "he": "בעל קיבולת תחמושת גדולה, אך מדויק רק במצב כריעה"
   },
   "type": "LMG",
   "rarity": "Rare",
@@ -63,7 +67,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -84,7 +90,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta streljiva",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -105,7 +113,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina spremnika",
-      "value": 60
+      "value": 60,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -126,7 +136,9 @@
       "tr": "Atış Modu",
       "hr": "Način pucanja",
       "sr": "Način pucanja",
-      "value": "Fully-Automatic"
+      "value": "Fully-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -147,7 +159,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "recyclesInto": {

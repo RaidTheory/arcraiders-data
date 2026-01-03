@@ -18,7 +18,9 @@
     "kr": "울프팩",
     "tr": "Kurt Sürüsü",
     "hr": "Čopor Vukova",
-    "sr": "Čopor Vukova"
+    "sr": "Čopor Vukova",
+    "pt-BR": "Alcateia",
+    "he": "להקת זאבים"
   },
   "description": {
     "en": "A grenade that scatters into multiple homing missiles, each one targeting ARC and dealing explosive damage on impact.",
@@ -38,7 +40,9 @@
     "kr": "여러 개의 유도 미사일로 흩어지는 수류탄. 각 미사일은 아크를 표적으로 삼아 충격 시 폭발 피해를 입힙니다.",
     "tr": "Birden fazla güdümlü füzeye dağılan bomba, her biri ARC'yi hedef alır ve çarpma anında patlayıcı hasar verir.",
     "hr": "Granata koja se raspršuje u više samonavođenih projektila, od kojih svaki cilja ARC i nanosi eksplozivnu štetu pri udaru.",
-    "sr": "Granata koja se raspršuje u više samonavođenih projektila, od kojih svaki cilja ARC i nanosi eksplozivnu štetu pri udaru."
+    "sr": "Granata koja se raspršuje u više samonavođenih projektila, od kojih svaki cilja ARC i nanosi eksplozivnu štetu pri udaru.",
+    "pt-BR": "Uma granada que se espalha em vários mísseis teleguiados, cada um mirando nos ARC e causando dano explosivo no impacto.",
+    "he": "רימון שמתפצל למספר טילים מתבייתים, כאשר כל אחד מהם מתמקד ב-ARC וגורם נזק פיצוץ בפגיעה."
   },
   "type": "Quick Use",
   "rarity": "Epic",
@@ -65,7 +69,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": "166 x12"
+      "value": "166 x12",
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Homing Range": {
       "en": "Homing Range",
@@ -86,7 +92,9 @@
       "tr": "Güdüm Menzili",
       "hr": "Domet Navođenja",
       "sr": "Domet Navođenja",
-      "value": "100m"
+      "value": "100m",
+      "pt-BR": "Alcance de Rastreamento",
+      "he": "טווח התבייתות"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/wolfpack.png",

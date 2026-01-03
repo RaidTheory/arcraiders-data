@@ -19,7 +19,9 @@
       "kr": "무게에 익숙함",
       "uk": "Звик до ваги",
       "hr": "Naviknut na Težinu",
-      "sr": "Naviknut na Težinu"
+      "sr": "Naviknut na Težinu",
+      "pt-BR": "Acostumado com o Peso",
+      "he": "מורגל למשקל"
     },
     "description": {
       "en": "Wearing a shield doesn't slow you down as much.",
@@ -39,7 +41,9 @@
       "kr": "실드를 착용해도 이동 속도가 크게 감소하지 않습니다.",
       "uk": "Носіння щита не так сильно сповільнює вас.",
       "hr": "Nošenje štita te ne usporava toliko.",
-      "sr": "Nošenje štita te ne usporava toliko."
+      "sr": "Nošenje štita te ne usporava toliko.",
+      "pt-BR": "Usar um escudo não reduz tanto a sua velocidade.",
+      "he": "לבישת מגן מאטה אותך במידה פחותה."
     },
     "impactedSkill": {
       "en": "Movement Speed",
@@ -59,7 +63,9 @@
       "kr": "이동 속도",
       "uk": "Швидкість пересування",
       "hr": "Brzina Kretanja",
-      "sr": "Brzina Kretanja"
+      "sr": "Brzina Kretanja",
+      "pt-BR": "Velocidade de Movimento",
+      "he": "מהירות תנועה"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -92,7 +98,9 @@
       "kr": "폭발 태생",
       "uk": "Народжений вибухом",
       "hr": "Rođen u Eksploziji",
-      "sr": "Rođen u Eksploziji"
+      "sr": "Rođen u Eksploziji",
+      "pt-BR": "Nascido da Explosão",
+      "he": "מחושל בפיצוצים"
     },
     "description": {
       "en": "Your hearing is less affected by nearby explosions.",
@@ -112,7 +120,9 @@
       "kr": "근처 폭발로 인한 청력 영향이 감소합니다.",
       "uk": "Ваш слух менше страждає від близьких вибухів.",
       "hr": "Tvoj sluh je manje pogođen obližnjim eksplozijama.",
-      "sr": "Tvoj sluh je manje pogođen obližnjim eksplozijama."
+      "sr": "Tvoj sluh je manje pogođen obližnjim eksplozijama.",
+      "pt-BR": "Sua audição é menos afetada por explosões próximas.",
+      "he": "השמיעה שלך מושפעת פחות מפיצוצים בקרבת מקום."
     },
     "impactedSkill": {
       "en": "Hearing Enhancement",
@@ -132,7 +142,9 @@
       "kr": "청력 향상",
       "uk": "Покращення слуху",
       "hr": "Poboljšanje Sluha",
-      "sr": "Poboljšanje Sluha"
+      "sr": "Poboljšanje Sluha",
+      "pt-BR": "Aprimoramento Auditivo",
+      "he": "שיפור שמיעה"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -143,7 +155,9 @@
       "x": 20,
       "y": 65
     },
-    "prerequisiteNodeIds": ["cond_1"]
+    "prerequisiteNodeIds": [
+      "cond_1"
+    ]
   },
   {
     "id": "cond_2r",
@@ -165,7 +179,9 @@
       "kr": "부드러운 압력",
       "uk": "М'який тиск",
       "hr": "Nježan Pritisak",
-      "sr": "Nežan Pritisak"
+      "sr": "Nežan Pritisak",
+      "pt-BR": "Pressão Suave",
+      "he": "לחץ עדין"
     },
     "description": {
       "en": "You make less noise when breaching.",
@@ -185,7 +201,9 @@
       "kr": "돌파 시 소음이 감소합니다.",
       "uk": "Ви створюєте менше шуму при зломі.",
       "hr": "Praviš manje buke prilikom provale.",
-      "sr": "Praviš manje buke prilikom provale."
+      "sr": "Praviš manje buke prilikom provale.",
+      "pt-BR": "Você faz menos barulho ao arrombar.",
+      "he": "אתה מייצר פחות רעש בעת פריצה."
     },
     "impactedSkill": {
       "en": "Noise Reduction",
@@ -205,7 +223,9 @@
       "kr": "소음 감소",
       "uk": "Зниження шуму",
       "hr": "Smanjenje Buke",
-      "sr": "Smanjenje Buke"
+      "sr": "Smanjenje Buke",
+      "pt-BR": "Redução de Ruído",
+      "he": "הפחתת רעש"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -216,7 +236,9 @@
       "x": 30,
       "y": 65
     },
-    "prerequisiteNodeIds": ["cond_1"]
+    "prerequisiteNodeIds": [
+      "cond_1"
+    ]
   },
   {
     "id": "cond_3l",
@@ -238,7 +260,9 @@
       "kr": "싸움 또는 도주",
       "uk": "Бий або тікай",
       "hr": "Borba ili Bijeg",
-      "sr": "Borba ili Beg"
+      "sr": "Borba ili Beg",
+      "pt-BR": "Lutar ou Fugir",
+      "he": "הילחם או ברח"
     },
     "description": {
       "en": "When you're hurt in combat, regain a fixed amount of stamina. Has a cooldown between uses.",
@@ -258,7 +282,9 @@
       "kr": "전투 중 피해를 입으면 고정된 양의 스태미나를 회복합니다. 사용 간 재사용 대기시간이 있습니다.",
       "uk": "Коли ви отримуєте пошкодження в бою, відновлюється фіксована кількість витривалості. Має час відновлення між використаннями.",
       "hr": "Kada si ranjen u borbi, povrati fiksnu količinu izdržljivosti. Ima vrijeme hlađenja između korištenja.",
-      "sr": "Kada si ranjen u borbi, povrati fiksnu količinu izdržljivosti. Ima vreme hlađenja između korišćenja."
+      "sr": "Kada si ranjen u borbi, povrati fiksnu količinu izdržljivosti. Ima vreme hlađenja između korišćenja.",
+      "pt-BR": "Ao ser ferido em combate, recupere uma quantidade fixa de estamina. Possui um tempo de recarga entre os usos.",
+      "he": "כאשר אתה נפגע בקרב, כמות קבועה של סיבולת מתחדשת. קיימת תקופת צינון בין שימושים."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -278,7 +304,9 @@
       "kr": "스태미나 재생",
       "uk": "Відновлення витривалості",
       "hr": "Regeneracija Izdržljivosti",
-      "sr": "Regeneracija Izdržljivosti"
+      "sr": "Regeneracija Izdržljivosti",
+      "pt-BR": "Regeneração de Estamina",
+      "he": "התחדשות סיבולת"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -289,7 +317,9 @@
       "x": 20,
       "y": 55
     },
-    "prerequisiteNodeIds": ["cond_2l"]
+    "prerequisiteNodeIds": [
+      "cond_2l"
+    ]
   },
   {
     "id": "cond_3r",
@@ -311,7 +341,9 @@
       "kr": "숙련된 파괴자",
       "uk": "Досвідчений зломщик",
       "hr": "Vješt Provalnik",
-      "sr": "Vešt Provalnik"
+      "sr": "Vešt Provalnik",
+      "pt-BR": "Arrombador Proficiente",
+      "he": "פורץ מיומן"
     },
     "description": {
       "en": "Breaching doors and containers takes less time",
@@ -331,7 +363,9 @@
       "kr": "문과 컨테이너 돌파 시간이 감소합니다",
       "uk": "Злом дверей та контейнерів займає менше часу",
       "hr": "Provala vrata i kontejnera traje kraće",
-      "sr": "Provala vrata i kontejnera traje kraće"
+      "sr": "Provala vrata i kontejnera traje kraće",
+      "pt-BR": "Arrombar portas e contêineres leva menos tempo",
+      "he": "פריצת דלתות ומכולות אורכת פחות זמן"
     },
     "impactedSkill": {
       "en": "Breach Time Reduction",
@@ -351,7 +385,9 @@
       "kr": "돌파 시간 감소",
       "uk": "Скорочення часу злому",
       "hr": "Smanjenje Vremena Provale",
-      "sr": "Smanjenje Vremena Provale"
+      "sr": "Smanjenje Vremena Provale",
+      "pt-BR": "Redução de Tempo de Arrombamento",
+      "he": "קיצור זמן פריצה"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -362,7 +398,9 @@
       "x": 30,
       "y": 55
     },
-    "prerequisiteNodeIds": ["cond_2r"]
+    "prerequisiteNodeIds": [
+      "cond_2r"
+    ]
   },
   {
     "id": "cond_4l",
@@ -384,7 +422,9 @@
       "kr": "생존자의 스태미나",
       "uk": "Витривалість вижившого",
       "hr": "Izdržljivost Preživjelog",
-      "sr": "Izdržljivost Preživelog"
+      "sr": "Izdržljivost Preživelog",
+      "pt-BR": "Estamina de Sobrevivente",
+      "he": "סיבולת של שורד"
     },
     "description": {
       "en": "When you're critically hurt, your stamina regenerates faster.",
@@ -404,7 +444,9 @@
       "kr": "치명상을 입었을 때 스태미나가 더 빠르게 재생됩니다.",
       "uk": "Коли ви критично поранені, ваша витривалість відновлюється швидше.",
       "hr": "Kada si kritično ranjen, tvoja izdržljivost se regenerira brže.",
-      "sr": "Kada si kritično ranjen, tvoja izdržljivost se regeneriše brže."
+      "sr": "Kada si kritično ranjen, tvoja izdržljivost se regeneriše brže.",
+      "pt-BR": "Quando você está gravemente ferido, sua estamina se regenera mais rápido.",
+      "he": "כאשר אתה פצוע אנושות, הסיבולת שלך מתחדשת מהר יותר."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -424,7 +466,9 @@
       "kr": "스태미나 재생",
       "uk": "Відновлення витривалості",
       "hr": "Regeneracija Izdržljivosti",
-      "sr": "Regeneracija Izdržljivosti"
+      "sr": "Regeneracija Izdržljivosti",
+      "pt-BR": "Regeneração de Estamina",
+      "he": "התחדשות סיבולת"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -435,7 +479,9 @@
       "x": 20,
       "y": 45
     },
-    "prerequisiteNodeIds": ["cond_3l"]
+    "prerequisiteNodeIds": [
+      "cond_3l"
+    ]
   },
   {
     "id": "cond_4r",
@@ -457,7 +503,9 @@
       "kr": "부담 없는 구르기",
       "uk": "Полегшений перекат",
       "hr": "Neopterećeno Kotrljanje",
-      "sr": "Neopterećeno Kotrljanje"
+      "sr": "Neopterećeno Kotrljanje",
+      "pt-BR": "Rolamento Leve",
+      "he": "גלגול משוחרר"
     },
     "description": {
       "en": "If your shield breaks, your first Dodge Roll within a few seconds does not cost stamina.",
@@ -477,7 +525,9 @@
       "kr": "실드가 부서지면 몇 초 내의 첫 번째 회피 구르기가 스태미나를 소모하지 않습니다.",
       "uk": "Якщо ваш щит ламається, перший перекат протягом кількох секунд не витрачає витривалість.",
       "hr": "Ako ti se štit slomi, tvoje prvo Kotrljanje Izbjegavanja u roku od nekoliko sekundi ne troši izdržljivost.",
-      "sr": "Ako ti se štit slomi, tvoje prvo Kotrljanje Izbegavanja u roku od nekoliko sekundi ne troši izdržljivost."
+      "sr": "Ako ti se štit slomi, tvoje prvo Kotrljanje Izbegavanja u roku od nekoliko sekundi ne troši izdržljivost.",
+      "pt-BR": "Se o seu escudo quebrar, seu primeiro Rolamento de Esquiva dentro de alguns segundos não custa estamina.",
+      "he": "אם המגן שלך נשבר, גלגול החמיקה הראשון שתבצע בתוך מספר שניות לא יצרוך סיבולת."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -497,7 +547,9 @@
       "kr": "스태미나 재생",
       "uk": "Відновлення витривалості",
       "hr": "Regeneracija Izdržljivosti",
-      "sr": "Regeneracija Izdržljivosti"
+      "sr": "Regeneracija Izdržljivosti",
+      "pt-BR": "Regeneração de Estamina",
+      "he": "חידוש סיבולת"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -508,7 +560,9 @@
       "x": 30,
       "y": 45
     },
-    "prerequisiteNodeIds": ["cond_3r"]
+    "prerequisiteNodeIds": [
+      "cond_3r"
+    ]
   },
   {
     "id": "cond_5c",
@@ -530,7 +584,9 @@
       "kr": "약간의 추가",
       "uk": "Трохи додатково",
       "hr": "Malo Ekstra",
-      "sr": "Malo Ekstra"
+      "sr": "Malo Ekstra",
+      "pt-BR": "Um Pouco a Mais",
+      "he": "תוספת קטנה"
     },
     "description": {
       "en": "Breaching an object generates resources.",
@@ -550,7 +606,9 @@
       "kr": "물체를 돌파하면 자원이 생성됩니다.",
       "uk": "Злом об'єкта генерує ресурси.",
       "hr": "Provala objekta generira resurse.",
-      "sr": "Provala objekta generiše resurse."
+      "sr": "Provala objekta generiše resurse.",
+      "pt-BR": "Arrombar um objeto gera recursos.",
+      "he": "פריצת חפץ מייצרת משאבים."
     },
     "impactedSkill": {
       "en": "Resource Generation",
@@ -570,7 +628,9 @@
       "kr": "자원 생성",
       "uk": "Генерація ресурсів",
       "hr": "Generiranje Resursa",
-      "sr": "Generisanje Resursa"
+      "sr": "Generisanje Resursa",
+      "pt-BR": "Geração de Recursos",
+      "he": "ייצור משאבים"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -581,7 +641,10 @@
       "x": 25,
       "y": 35
     },
-    "prerequisiteNodeIds": ["cond_4l", "cond_4r"]
+    "prerequisiteNodeIds": [
+      "cond_4l",
+      "cond_4r"
+    ]
   },
   {
     "id": "cond_5l",
@@ -603,7 +666,9 @@
       "kr": "쓰러졌지만 결연함",
       "uk": "Збитий, але рішучий",
       "hr": "Oboren ali Odlučan",
-      "sr": "Oboren ali Odlučan"
+      "sr": "Oboren ali Odlučan",
+      "pt-BR": "Derrubado, Mas Determinado",
+      "he": "מנוטרל אך נחוש"
     },
     "description": {
       "en": "When you're downed, it takes longer before you collapse.",
@@ -623,7 +688,9 @@
       "kr": "쓰러졌을 때 완전히 무력화되기까지 시간이 더 오래 걸립니다.",
       "uk": "Коли вас збивають, до повного падіння проходить більше часу.",
       "hr": "Kada si oboren, treba duže prije nego što se sruši.",
-      "sr": "Kada si oboren, treba duže pre nego što se sruši."
+      "sr": "Kada si oboren, treba duže pre nego što se sruši.",
+      "pt-BR": "Quando você é derrubado, leva mais tempo até sucumbir.",
+      "he": "כאשר אתה מנוטרל, לוקח יותר זמן עד שאתה מתמוטט."
     },
     "impactedSkill": {
       "en": "Downed Duration",
@@ -643,7 +710,9 @@
       "kr": "쓰러진 지속시간",
       "uk": "Тривалість стану збитого",
       "hr": "Trajanje Oborenog Stanja",
-      "sr": "Trajanje Oborenog Stanja"
+      "sr": "Trajanje Oborenog Stanja",
+      "pt-BR": "Duração do Estado Derrubado",
+      "he": "משך זמן נטרול"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -654,7 +723,9 @@
       "x": 20,
       "y": 35
     },
-    "prerequisiteNodeIds": ["cond_4l"]
+    "prerequisiteNodeIds": [
+      "cond_4l"
+    ]
   },
   {
     "id": "cond_5r",
@@ -676,7 +747,9 @@
       "kr": "수월한 휘두르기",
       "uk": "Легкий замах",
       "hr": "Zamah Bez Napora",
-      "sr": "Zamah Bez Napora"
+      "sr": "Zamah Bez Napora",
+      "pt-BR": "Golpe Sem Esforço",
+      "he": "הנפה ללא מאמץ"
     },
     "description": {
       "en": "Melee abilities cost less stamina. ",
@@ -696,7 +769,9 @@
       "kr": "근접 능력의 스태미나 소모가 감소합니다. ",
       "uk": "Здібності ближнього бою витрачають менше витривалості. ",
       "hr": "Sposobnosti bliskog boja troše manje izdržljivosti. ",
-      "sr": "Sposobnosti bliskog boja troše manje izdržljivosti. "
+      "sr": "Sposobnosti bliskog boja troše manje izdržljivosti. ",
+      "pt-BR": "Habilidades corpo a corpo custam menos estamina. ",
+      "he": "יכולות קפא\"פ צורכות פחות סיבולת. "
     },
     "impactedSkill": {
       "en": "Stamina Cost Reduction",
@@ -716,7 +791,9 @@
       "kr": "스태미나 소모 감소",
       "uk": "Зниження витрат витривалості",
       "hr": "Smanjenje Troška Izdržljivosti",
-      "sr": "Smanjenje Troška Izdržljivosti"
+      "sr": "Smanjenje Troška Izdržljivosti",
+      "pt-BR": "Redução de Custo de Estamina",
+      "he": "הפחתת עלות סיבולת"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -727,7 +804,9 @@
       "x": 30,
       "y": 35
     },
-    "prerequisiteNodeIds": ["cond_4r"]
+    "prerequisiteNodeIds": [
+      "cond_4r"
+    ]
   },
   {
     "id": "cond_6c",
@@ -749,7 +828,9 @@
       "kr": "무장 적응",
       "uk": "Звичне озброєння",
       "hr": "Naoružane Ruke",
-      "sr": "Naoružane Ruke"
+      "sr": "Naoružane Ruke",
+      "pt-BR": "Braços Carregados",
+      "he": "זרועות עמוסות"
     },
     "description": {
       "en": "Your equipped weapon has less impact on your encumbrance.",
@@ -769,7 +850,9 @@
       "kr": "장착한 무기가 무게 부담에 미치는 영향이 감소합니다.",
       "uk": "Екіпірована зброя менше впливає на ваше навантаження.",
       "hr": "Vaše opremljeno oružje ima manji utjecaj na vaše opterećenje.",
-      "sr": "Vaše opremljeno oružje ima manji uticaj na vaše opterećenje."
+      "sr": "Vaše opremljeno oružje ima manji uticaj na vaše opterećenje.",
+      "pt-BR": "Sua arma equipada tem menos impacto na sua sobrecarga.",
+      "he": "לנשק המצויד שלך יש פחות השפעה על העומס שלך."
     },
     "impactedSkill": {
       "en": "Encumbrance Reduction",
@@ -789,7 +872,9 @@
       "kr": "무게 부담 감소",
       "uk": "Зниження навантаження",
       "hr": "Smanjenje Opterećenja",
-      "sr": "Smanjenje Opterećenja"
+      "sr": "Smanjenje Opterećenja",
+      "pt-BR": "Redução de Sobrecarga",
+      "he": "הפחתת עומס"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -800,7 +885,9 @@
       "x": 25,
       "y": 25
     },
-    "prerequisiteNodeIds": ["cond_5c"]
+    "prerequisiteNodeIds": [
+      "cond_5c"
+    ]
   },
   {
     "id": "cond_6l",
@@ -822,7 +909,9 @@
       "kr": "거북이 기어가기",
       "uk": "Черепаший панцир",
       "hr": "Kornjačino Puzanje",
-      "sr": "Kornjačino Puzanje"
+      "sr": "Kornjačino Puzanje",
+      "pt-BR": "Rastejo de Tartaruga",
+      "he": "זחילת צב"
     },
     "description": {
       "en": "While downed, you take less damage.",
@@ -842,7 +931,9 @@
       "kr": "쓰러진 상태에서 받는 피해가 감소합니다.",
       "uk": "У стані при смерті ви отримуєте менше пошкоджень.",
       "hr": "Dok ste oboreni, primate manje štete.",
-      "sr": "Dok ste oboreni, primate manje štete."
+      "sr": "Dok ste oboreni, primate manje štete.",
+      "pt-BR": "Enquanto derrubado, você sofre menos dano.",
+      "he": "בזמן נטרול, אתה סופג פחות נזק."
     },
     "impactedSkill": {
       "en": "Downed Damage Reduction",
@@ -862,7 +953,9 @@
       "kr": "쓰러짐 피해 감소",
       "uk": "Зниження пошкоджень при смерті",
       "hr": "Smanjenje Štete Dok Ste Oboreni",
-      "sr": "Smanjenje Štete Dok Ste Oboreni"
+      "sr": "Smanjenje Štete Dok Ste Oboreni",
+      "pt-BR": "Redução de Dano Enquanto Derrubado",
+      "he": "הפחתת נזק בנטרול"
     },
     "category": "CONDITIONING",
     "maxPoints": 5,
@@ -872,7 +965,9 @@
       "x": 20,
       "y": 25
     },
-    "prerequisiteNodeIds": ["cond_5l"]
+    "prerequisiteNodeIds": [
+      "cond_5l"
+    ]
   },
   {
     "id": "cond_6r",
@@ -894,7 +989,9 @@
       "kr": "하늘 쓸어내기",
       "uk": "Удар по небу",
       "hr": "Zamah Koji Čisti Nebo",
-      "sr": "Zamah Koji Čisti Nebo"
+      "sr": "Zamah Koji Čisti Nebo",
+      "pt-BR": "Golpe Limpa-Céus",
+      "he": "הנפה מטהרת שמיים"
     },
     "description": {
       "en": "You deal more melee damage to drones.",
@@ -914,7 +1011,9 @@
       "kr": "드론에게 더 많은 근접 피해를 입힙니다.",
       "uk": "Ви завдаєте більше пошкоджень дронам у ближньому бою.",
       "hr": "Nanosите veću štetu u bliskoj borbi dronovima.",
-      "sr": "Nanosите veću štetu u bliskoj borbi dronovima."
+      "sr": "Nanosите veću štetu u bliskoj borbi dronovima.",
+      "pt-BR": "Você causa mais dano corpo a corpo a drones.",
+      "he": "אתה גורם ליותר נזק קפא\"פ לרחפנים."
     },
     "impactedSkill": {
       "en": "Melee Damage",
@@ -934,7 +1033,9 @@
       "kr": "근접 피해",
       "uk": "Пошкодження в ближньому бою",
       "hr": "Šteta u Bliskoj Borbi",
-      "sr": "Šteta u Bliskoj Borbi"
+      "sr": "Šteta u Bliskoj Borbi",
+      "pt-BR": "Dano Corpo a Corpo",
+      "he": "נזק קפא\"פ"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -945,7 +1046,9 @@
       "x": 30,
       "y": 25
     },
-    "prerequisiteNodeIds": ["cond_5r"]
+    "prerequisiteNodeIds": [
+      "cond_5r"
+    ]
   },
   {
     "id": "cond_7l",
@@ -967,7 +1070,9 @@
       "kr": "다시 일어서기",
       "uk": "Знову на ногах",
       "hr": "Ponovno na Nogama",
-      "sr": "Ponovo na Nogama"
+      "sr": "Ponovo na Nogama",
+      "pt-BR": "De Volta à Ativa",
+      "he": "בחזרה על הרגליים"
     },
     "description": {
       "en": "When you're critically hurt, your health regenerates until a certain limit.",
@@ -987,7 +1092,9 @@
       "kr": "치명상을 입었을 때, 일정 한도까지 체력이 재생됩니다.",
       "uk": "Коли ви критично поранені, ваше здоров'я відновлюється до певної межі.",
       "hr": "Kada ste kritično ozlijeđeni, vaše se zdravlje regenerira do određene granice.",
-      "sr": "Kada ste kritično povređeni, vaše se zdravlje regeneriše do određene granice."
+      "sr": "Kada ste kritično povređeni, vaše se zdravlje regeneriše do određene granice.",
+      "pt-BR": "Quando você está gravemente ferido, sua saúde se regenera até um certo limite.",
+      "he": "כאשר אתה פצוע אנושות, הבריאות שלך מתחדשת עד גבול מסוים."
     },
     "impactedSkill": {
       "en": "Health Regeneration",
@@ -1007,7 +1114,9 @@
       "kr": "체력 재생",
       "uk": "Відновлення здоров'я",
       "hr": "Regeneracija Zdravlja",
-      "sr": "Regeneracija Zdravlja"
+      "sr": "Regeneracija Zdravlja",
+      "pt-BR": "Regeneração de Saúde",
+      "he": "התחדשות בריאות"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -1018,7 +1127,10 @@
       "x": 20,
       "y": 15
     },
-    "prerequisiteNodeIds": ["cond_6l", "cond_6c"]
+    "prerequisiteNodeIds": [
+      "cond_6l",
+      "cond_6c"
+    ]
   },
   {
     "id": "cond_7r",
@@ -1040,7 +1152,9 @@
       "kr": "파리채",
       "uk": "Мухобійка",
       "hr": "Muholovka",
-      "sr": "Muholovka"
+      "sr": "Muholovka",
+      "pt-BR": "Mata-moscas",
+      "he": "מחבט זבובים"
     },
     "description": {
       "en": "A single melee attack destroys a Tick, Pop, Wasp and Turret.",
@@ -1060,7 +1174,9 @@
       "kr": "근접 공격 한 번으로 틱, 팝, 와스프, 터렛을 파괴합니다.",
       "uk": "Одна атака ближнього бою знищує кліща, попа, осу та турель.",
       "hr": "Jedan napad u bliskoj borbi uništava Ticka, Popa, Waspa i Turret.",
-      "sr": "Jedan napad u bliskoj borbi uništava Ticka, Popa, Waspa i Turret."
+      "sr": "Jedan napad u bliskoj borbi uništava Ticka, Popa, Waspa i Turret.",
+      "pt-BR": "Um único ataque corpo a corpo destrói um Tick, Pop, Wasp e uma Torreta.",
+      "he": "מכת קפא\"פ יחידה משמידה Tick,‏ Pop,‏ Wasp וצריח."
     },
     "impactedSkill": {
       "en": "Melee Damage",
@@ -1080,7 +1196,9 @@
       "kr": "근접 피해",
       "uk": "Пошкодження в ближньому бою",
       "hr": "Šteta u Bliskoj Borbi",
-      "sr": "Šteta u Bliskoj Borbi"
+      "sr": "Šteta u Bliskoj Borbi",
+      "pt-BR": "Dano Corpo a Corpo",
+      "he": "נזק קפא\"פ"
     },
     "knownValue": [],
     "category": "CONDITIONING",
@@ -1091,7 +1209,10 @@
       "x": 30,
       "y": 15
     },
-    "prerequisiteNodeIds": ["cond_6r", "cond_6c"]
+    "prerequisiteNodeIds": [
+      "cond_6r",
+      "cond_6c"
+    ]
   },
   {
     "id": "mob_1",
@@ -1113,7 +1234,9 @@
       "kr": "민첩한 등반가",
       "uk": "Спритний скелелаз",
       "hr": "Okretni Penjač",
-      "sr": "Okretni Penjač"
+      "sr": "Okretni Penjač",
+      "pt-BR": "Escalador Ágil",
+      "he": "מטפס זריז"
     },
     "description": {
       "en": "You can climb and vault more quickly.",
@@ -1133,7 +1256,9 @@
       "kr": "더 빠르게 오르고 넘을 수 있습니다.",
       "uk": "Ви можете швидше лазити та перестрибувати.",
       "hr": "Možete se penjati i preskakati brže.",
-      "sr": "Možete se penjati i preskakati brže."
+      "sr": "Možete se penjati i preskakati brže.",
+      "pt-BR": "Você pode escalar e saltar mais rapidamente.",
+      "he": "ניתן לטפס ולדלג מהר יותר."
     },
     "impactedSkill": {
       "en": "Climb and Vault Speed",
@@ -1153,7 +1278,9 @@
       "kr": "오르기 및 넘기 속도",
       "uk": "Швидкість лазіння та перестрибування",
       "hr": "Brzina Penjanja i Preskakanja",
-      "sr": "Brzina Penjanja i Preskakanja"
+      "sr": "Brzina Penjanja i Preskakanja",
+      "pt-BR": "Velocidade de Escalada e Salto",
+      "he": "מהירות טיפוס ודילוג"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1186,7 +1313,9 @@
       "kr": "마라톤 주자",
       "uk": "Марафонець",
       "hr": "Maratonac",
-      "sr": "Maratonac"
+      "sr": "Maratonac",
+      "pt-BR": "Maratonista",
+      "he": "רץ מרתון"
     },
     "description": {
       "en": "Moving around costs less stamina.",
@@ -1206,7 +1335,9 @@
       "kr": "이동 시 소모되는 스태미나가 감소합니다.",
       "uk": "Пересування вимагає менше витривалості.",
       "hr": "Kretanje troši manje izdržljivosti.",
-      "sr": "Kretanje troši manje izdržljivosti."
+      "sr": "Kretanje troši manje izdržljivosti.",
+      "pt-BR": "Movimentar-se custa menos vigor.",
+      "he": "תנועה עולה פחות סיבולת."
     },
     "impactedSkill": {
       "en": "Stamina Cost Reduction",
@@ -1226,7 +1357,9 @@
       "kr": "스태미나 소모 감소",
       "uk": "Зниження витрат витривалості",
       "hr": "Smanjenje Troška Izdržljivosti",
-      "sr": "Smanjenje Troška Izdržljivosti"
+      "sr": "Smanjenje Troška Izdržljivosti",
+      "pt-BR": "Redução de Custo de Vigor",
+      "he": "הפחתת עלות סיבולת"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1237,7 +1370,9 @@
       "x": 45,
       "y": 65
     },
-    "prerequisiteNodeIds": ["mob_1"]
+    "prerequisiteNodeIds": [
+      "mob_1"
+    ]
   },
   {
     "id": "mob_2r",
@@ -1259,7 +1394,9 @@
       "kr": "미끄러지기",
       "uk": "Ковзання",
       "hr": "Klizanje",
-      "sr": "Klizanje"
+      "sr": "Klizanje",
+      "pt-BR": "Deslize",
+      "he": "החלקה חלקה"
     },
     "description": {
       "en": "You can slide further and faster.",
@@ -1279,7 +1416,9 @@
       "kr": "더 멀리, 더 빠르게 미끄러질 수 있습니다.",
       "uk": "Ви можете ковзати далі та швидше.",
       "hr": "Možete kliziti dalje i brže.",
-      "sr": "Možete kliziti dalje i brže."
+      "sr": "Možete kliziti dalje i brže.",
+      "pt-BR": "Você pode deslizar para mais longe e mais rápido.",
+      "he": "ניתן לגלוש רחוק ומהר יותר."
     },
     "impactedSkill": {
       "en": "Slide Distance",
@@ -1299,7 +1438,9 @@
       "kr": "미끄러지기 거리",
       "uk": "Дальність ковзання",
       "hr": "Udaljenost Klizanja",
-      "sr": "Udaljenost Klizanja"
+      "sr": "Udaljenost Klizanja",
+      "pt-BR": "Distância do Deslize",
+      "he": "מרחק גלישה"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1310,7 +1451,9 @@
       "x": 55,
       "y": 65
     },
-    "prerequisiteNodeIds": ["mob_1"]
+    "prerequisiteNodeIds": [
+      "mob_1"
+    ]
   },
   {
     "id": "mob_3l",
@@ -1332,7 +1475,9 @@
       "kr": "젊은 폐",
       "uk": "Молоді легені",
       "hr": "Mladalačka Pluća",
-      "sr": "Mladalačka Pluća"
+      "sr": "Mladalačka Pluća",
+      "pt-BR": "Pulmões Jovens",
+      "he": "ריאות צעירות"
     },
     "description": {
       "en": "Increase your max stamina.",
@@ -1352,7 +1497,9 @@
       "kr": "최대 스태미나가 증가합니다.",
       "uk": "Збільшує максимальну витривалість.",
       "hr": "Povećajte svoju maksimalnu izdržljivost.",
-      "sr": "Povećajte svoju maksimalnu izdržljivost."
+      "sr": "Povećajte svoju maksimalnu izdržljivost.",
+      "pt-BR": "Aumenta seu vigor máximo.",
+      "he": "הגדלת הסיבולת המרבית."
     },
     "impactedSkill": {
       "en": "Max Stamina",
@@ -1372,7 +1519,9 @@
       "kr": "최대 스태미나",
       "uk": "Максимальна витривалість",
       "hr": "Maksimalna Izdržljivost",
-      "sr": "Maksimalna Izdržljivost"
+      "sr": "Maksimalna Izdržljivost",
+      "pt-BR": "Vigor Máximo",
+      "he": "סיבולת מרבית"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1383,7 +1532,9 @@
       "x": 45,
       "y": 55
     },
-    "prerequisiteNodeIds": ["mob_2l"]
+    "prerequisiteNodeIds": [
+      "mob_2l"
+    ]
   },
   {
     "id": "mob_3r",
@@ -1405,7 +1556,9 @@
       "kr": "튼튼한 발목",
       "uk": "Міцні щиколотки",
       "hr": "Čvrsti Gležnjevi",
-      "sr": "Čvrsti Gležnjevi"
+      "sr": "Čvrsti Gležnjevi",
+      "pt-BR": "Tornozelos Resistentes",
+      "he": "קרסוליים חזקים"
     },
     "description": {
       "en": "You take less fall damage when falling from a non-lethal height.",
@@ -1425,7 +1578,9 @@
       "kr": "치명적이지 않은 높이에서 떨어질 때 받는 낙하 피해가 감소합니다.",
       "uk": "Ви отримуєте менше пошкоджень від падіння з несмертельної висоти.",
       "hr": "Primate manje štete od pada kada padate s nesmrtonosne visine.",
-      "sr": "Primate manje štete od pada kada padate sa nesmrtonosne visine."
+      "sr": "Primate manje štete od pada kada padate sa nesmrtonosne visine.",
+      "pt-BR": "Você sofre menos dano de queda ao cair de uma altura não letal.",
+      "he": "ספיגת פחות נזק נפילה בעת נפילה מגובה שאינו קטלני."
     },
     "impactedSkill": {
       "en": "Fall Damage Reduction",
@@ -1445,7 +1600,9 @@
       "kr": "낙하 피해 감소",
       "uk": "Зниження пошкоджень від падіння",
       "hr": "Smanjenje Štete od Pada",
-      "sr": "Smanjenje Štete od Pada"
+      "sr": "Smanjenje Štete od Pada",
+      "pt-BR": "Redução de Dano de Queda",
+      "he": "הפחתת נזק נפילה"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1456,7 +1613,9 @@
       "x": 55,
       "y": 55
     },
-    "prerequisiteNodeIds": ["mob_2r"]
+    "prerequisiteNodeIds": [
+      "mob_2r"
+    ]
   },
   {
     "id": "mob_4l",
@@ -1478,7 +1637,9 @@
       "kr": "기세 유지",
       "uk": "Зберегти імпульс",
       "hr": "Zadrži Zamah",
-      "sr": "Zadrži Zamah"
+      "sr": "Zadrži Zamah",
+      "pt-BR": "Manter o Impulso",
+      "he": "שימור תנופה"
     },
     "description": {
       "en": "After a Sprint Dodge Roll, sprinting does not consume stamina for a short time. Has a cooldown between uses.",
@@ -1498,7 +1659,9 @@
       "kr": "질주 회피 구르기 후, 짧은 시간 동안 질주 시 스태미나를 소모하지 않습니다. 사용 간 재사용 대기시간이 있습니다.",
       "uk": "Після перекату в спринті біг не витрачає витривалість протягом короткого часу. Має час відновлення між використаннями.",
       "hr": "Nakon Sprintnog Kotrljanja za Izbjegavanje, trčanje ne troši izdržljivost kratko vrijeme. Ima vrijeme hlađenja između korištenja.",
-      "sr": "Nakon Sprintnog Kotrljanja za Izbegavanje, trčanje ne troši izdržljivost kratko vreme. Ima vreme hlađenja između korišćenja."
+      "sr": "Nakon Sprintnog Kotrljanja za Izbegavanje, trčanje ne troši izdržljivost kratko vreme. Ima vreme hlađenja između korišćenja.",
+      "pt-BR": "Após um Rolamento de Esquiva em Corrida, correr não consome vigor por um curto período. Tem um tempo de recarga entre os usos.",
+      "he": "לאחר גלגול התחמקות בריצה, הריצה אינה צורכת סיבולת לזמן קצר. ישנו זמן צינון בין שימושים."
     },
     "impactedSkill": {
       "en": "Stamina Cost Reduction",
@@ -1518,7 +1681,9 @@
       "kr": "스태미나 소모 감소",
       "uk": "Зменшення витрат витривалості",
       "hr": "Smanjenje Troška Izdržljivosti",
-      "sr": "Smanjenje Troška Izdržljivosti"
+      "sr": "Smanjenje Troška Izdržljivosti",
+      "pt-BR": "Redução de Custo de Vigor",
+      "he": "הפחתת עלות סיבולת"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1529,7 +1694,9 @@
       "x": 45,
       "y": 45
     },
-    "prerequisiteNodeIds": ["mob_3l"]
+    "prerequisiteNodeIds": [
+      "mob_3l"
+    ]
   },
   {
     "id": "mob_4r",
@@ -1551,7 +1718,9 @@
       "kr": "차분한 산책",
       "uk": "Спокійна прогулянка",
       "hr": "Umirujuća Šetnja",
-      "sr": "Umirujuća Šetnja"
+      "sr": "Umirujuća Šetnja",
+      "pt-BR": "Caminhada Tranquila",
+      "he": "הליכה מרגיעה"
     },
     "description": {
       "en": "While walking, your stamina regenerates as if you were standing still.",
@@ -1571,7 +1740,9 @@
       "kr": "걷는 동안 스태미나가 정지 상태처럼 재생됩니다.",
       "uk": "Під час ходьби ваша витривалість відновлюється так само, як при стоянні на місці.",
       "hr": "Dok hodate, vaša izdržljivost se regenerira kao da stojite mirno.",
-      "sr": "Dok hodate, vaša izdržljivost se regeneriše kao da stojite mirno."
+      "sr": "Dok hodate, vaša izdržljivost se regeneriše kao da stojite mirno.",
+      "pt-BR": "Enquanto caminha, seu vigor se regenera como se você estivesse parado.",
+      "he": "בזמן הליכה, הסיבולת שלך מתחדשת כאילו עמדת במקום."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -1591,7 +1762,9 @@
       "kr": "스태미나 재생",
       "uk": "Відновлення витривалості",
       "hr": "Regeneracija Izdržljivosti",
-      "sr": "Regeneracija Izdržljivosti"
+      "sr": "Regeneracija Izdržljivosti",
+      "pt-BR": "Regeneração de Vigor",
+      "he": "חידוש סיבולת"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1602,7 +1775,9 @@
       "x": 55,
       "y": 45
     },
-    "prerequisiteNodeIds": ["mob_3r"]
+    "prerequisiteNodeIds": [
+      "mob_3r"
+    ]
   },
   {
     "id": "mob_5c",
@@ -1624,7 +1799,9 @@
       "kr": "걷기 전에 기어가기",
       "uk": "Спочатку повзи",
       "hr": "Puzi Prije Nego Hodaš",
-      "sr": "Puzi Pre Nego Hodaš"
+      "sr": "Puzi Pre Nego Hodaš",
+      "pt-BR": "Rastejar Antes de Andar",
+      "he": "לזחול לפני שהולכים"
     },
     "description": {
       "en": "When you're downed, you crawl faster.",
@@ -1644,7 +1821,9 @@
       "kr": "쓰러졌을 때 더 빠르게 기어갑니다.",
       "uk": "Коли ви збиті з ніг, ви повзаєте швидше.",
       "hr": "Kada ste oboreni, puzite brže.",
-      "sr": "Kada ste oboreni, puzite brže."
+      "sr": "Kada ste oboreni, puzite brže.",
+      "pt-BR": "Quando você está abatido, você rasteja mais rápido.",
+      "he": "כאשר אתה מנוטרל, מהירות הזחילה שלך גבוהה יותר."
     },
     "impactedSkill": {
       "en": "Movement Speed",
@@ -1664,7 +1843,9 @@
       "kr": "이동 속도",
       "uk": "Швидкість пересування",
       "hr": "Brzina Kretanja",
-      "sr": "Brzina Kretanja"
+      "sr": "Brzina Kretanja",
+      "pt-BR": "Velocidade de Movimento",
+      "he": "מהירות תנועה"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1675,7 +1856,10 @@
       "x": 50,
       "y": 35
     },
-    "prerequisiteNodeIds": ["mob_4l", "mob_4r"]
+    "prerequisiteNodeIds": [
+      "mob_4l",
+      "mob_4r"
+    ]
   },
   {
     "id": "mob_5l",
@@ -1697,7 +1881,9 @@
       "kr": "수월한 구르기",
       "uk": "Легкий перекат",
       "hr": "Kotrljanje Bez Napora",
-      "sr": "Kotrljanje Bez Napora"
+      "sr": "Kotrljanje Bez Napora",
+      "pt-BR": "Rolamento Sem Esforço",
+      "he": "גלגול ללא מאמץ"
     },
     "description": {
       "en": "Dodge Rolls cost less stamina.",
@@ -1717,7 +1903,9 @@
       "kr": "회피 구르기의 스태미나 소모가 감소합니다.",
       "uk": "Перекати витрачають менше витривалості.",
       "hr": "Kotrljanja za Izbjegavanje troše manje izdržljivosti.",
-      "sr": "Kotrljanja za Izbegavanje troše manje izdržljivosti."
+      "sr": "Kotrljanja za Izbegavanje troše manje izdržljivosti.",
+      "pt-BR": "Rolamentos de Esquiva custam menos vigor.",
+      "he": "גלגולי התחמקות צורכים פחות סיבולת."
     },
     "impactedSkill": {
       "en": "Stamina Cost Reduction",
@@ -1737,7 +1925,9 @@
       "kr": "스태미나 소모 감소",
       "uk": "Зменшення витрат витривалості",
       "hr": "Smanjenje Troška Izdržljivosti",
-      "sr": "Smanjenje Troška Izdržljivosti"
+      "sr": "Smanjenje Troška Izdržljivosti",
+      "pt-BR": "Redução de Custo de Vigor",
+      "he": "הפחתת עלות סיבולת"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1748,7 +1938,9 @@
       "x": 45,
       "y": 35
     },
-    "prerequisiteNodeIds": ["mob_4l"]
+    "prerequisiteNodeIds": [
+      "mob_4l"
+    ]
   },
   {
     "id": "mob_5r",
@@ -1770,7 +1962,9 @@
       "kr": "벽 도약",
       "uk": "Від стіни",
       "hr": "Sa Zida",
-      "sr": "Sa Zida"
+      "sr": "Sa Zida",
+      "pt-BR": "Salto da Parede",
+      "he": "זינוק מהקיר"
     },
     "description": {
       "en": "You can Wall Leap further.",
@@ -1790,7 +1984,9 @@
       "kr": "벽 도약을 더 멀리 할 수 있습니다.",
       "uk": "Ви можете стрибати від стіни далі.",
       "hr": "Možete skočiti dalje sa zida.",
-      "sr": "Možete skočiti dalje sa zida."
+      "sr": "Možete skočiti dalje sa zida.",
+      "pt-BR": "Você pode saltar da parede para mais longe.",
+      "he": "אתה יכול לנתר רחוק יותר מהקיר."
     },
     "impactedSkill": {
       "en": "Wall Leap Distance",
@@ -1810,7 +2006,9 @@
       "kr": "벽 도약 거리",
       "uk": "Дальність стрибка від стіни",
       "hr": "Udaljenost Skoka sa Zida",
-      "sr": "Udaljenost Skoka sa Zida"
+      "sr": "Udaljenost Skoka sa Zida",
+      "pt-BR": "Distância do Salto na Parede",
+      "he": "מרחק ניתור מהקיר"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1821,7 +2019,9 @@
       "x": 55,
       "y": 35
     },
-    "prerequisiteNodeIds": ["mob_4r"]
+    "prerequisiteNodeIds": [
+      "mob_4r"
+    ]
   },
   {
     "id": "mob_6c",
@@ -1843,7 +2043,9 @@
       "kr": "활기찬 도약자",
       "uk": "Енергійний стрибун",
       "hr": "Energični Preskakač",
-      "sr": "Energični Preskakač"
+      "sr": "Energični Preskakač",
+      "pt-BR": "Saltador Vigoroso",
+      "he": "דילוג נמרץ"
     },
     "description": {
       "en": "Vaulting is no longer slowed down while exhausted.",
@@ -1863,7 +2065,9 @@
       "kr": "탈진 상태에서도 넘기 속도가 느려지지 않습니다.",
       "uk": "Стрибки через перешкоди більше не сповільнюються при виснаженні.",
       "hr": "Preskakanje više nije usporeno dok ste iscrpljeni.",
-      "sr": "Preskakanje više nije usporeno dok ste iscrpljeni."
+      "sr": "Preskakanje više nije usporeno dok ste iscrpljeni.",
+      "pt-BR": "Pular obstáculos não fica mais lento enquanto estiver exausto.",
+      "he": "הדילוג אינו מואט יותר בזמן תשישות."
     },
     "impactedSkill": {
       "en": "Climb and Vault Speed",
@@ -1883,7 +2087,9 @@
       "kr": "등반 및 넘기 속도",
       "uk": "Швидкість лазіння та стрибків",
       "hr": "Brzina Penjanja i Preskakanja",
-      "sr": "Brzina Penjanja i Preskakanja"
+      "sr": "Brzina Penjanja i Preskakanja",
+      "pt-BR": "Velocidade de Escalada e Pulo",
+      "he": "מהירות טיפוס ודילוג"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1894,7 +2100,9 @@
       "x": 50,
       "y": 25
     },
-    "prerequisiteNodeIds": ["mob_5c"]
+    "prerequisiteNodeIds": [
+      "mob_5c"
+    ]
   },
   {
     "id": "mob_6l",
@@ -1916,7 +2124,9 @@
       "kr": "영웅적 도약",
       "uk": "Героїчний стрибок",
       "hr": "Herojski Skok",
-      "sr": "Herojski Skok"
+      "sr": "Herojski Skok",
+      "pt-BR": "Salto Heroico",
+      "he": "זינוק הירואי"
     },
     "description": {
       "en": "You can Sprint Dodge Roll further.",
@@ -1936,7 +2146,9 @@
       "kr": "질주 회피 구르기를 더 멀리 할 수 있습니다.",
       "uk": "Ви можете перекочуватися в спринті далі.",
       "hr": "Možete se Sprintno Kotrljati za Izbjegavanje dalje.",
-      "sr": "Možete se Sprintno Kotrljati za Izbegavanje dalje."
+      "sr": "Možete se Sprintno Kotrljati za Izbegavanje dalje.",
+      "pt-BR": "Você pode ir mais longe com o Rolamento de Esquiva em Corrida.",
+      "he": "אתה יכול לבצע גלגול התחמקות בריצה למרחק רב יותר."
     },
     "impactedSkill": {
       "en": "Roll Distance",
@@ -1956,7 +2168,9 @@
       "kr": "구르기 거리",
       "uk": "Дальність перекату",
       "hr": "Udaljenost Kotrljanja",
-      "sr": "Udaljenost Kotrljanja"
+      "sr": "Udaljenost Kotrljanja",
+      "pt-BR": "Distância de Rolamento",
+      "he": "מרחק גלגול"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -1967,7 +2181,9 @@
       "x": 45,
       "y": 25
     },
-    "prerequisiteNodeIds": ["mob_5l"]
+    "prerequisiteNodeIds": [
+      "mob_5l"
+    ]
   },
   {
     "id": "mob_6r",
@@ -1989,7 +2205,9 @@
       "kr": "구르기 준비",
       "uk": "Готовий до перекату",
       "hr": "Spreman za Kotrljanje",
-      "sr": "Spreman za Kotrljanje"
+      "sr": "Spreman za Kotrljanje",
+      "pt-BR": "Pronto para Rolar",
+      "he": "מוכן לגלגול"
     },
     "description": {
       "en": "When falling, your timing window to perform a Recovery Roll is increased.",
@@ -2009,7 +2227,9 @@
       "kr": "낙하 시 회복 구르기를 수행할 수 있는 타이밍 여유가 증가합니다.",
       "uk": "При падінні часове вікно для виконання відновлювального перекату збільшується.",
       "hr": "Kada padate, vaš vremenski prozor za izvođenje Kotrljanja za Oporavak je povećan.",
-      "sr": "Kada padate, vaš vremenski prozor za izvođenje Kotrljanja za Oporavak je povećan."
+      "sr": "Kada padate, vaš vremenski prozor za izvođenje Kotrljanja za Oporavak je povećan.",
+      "pt-BR": "Ao cair, a janela de tempo para realizar um Rolamento de Recuperação é aumentada.",
+      "he": "בעת נפילה, חלון הזמן לביצוע גלגול התאוששות גדל."
     },
     "impactedSkill": {
       "en": "Recover Roll Window",
@@ -2029,7 +2249,9 @@
       "kr": "회복 구르기 여유",
       "uk": "Вікно відновлювального перекату",
       "hr": "Prozor Kotrljanja za Oporavak",
-      "sr": "Prozor Kotrljanja za Oporavak"
+      "sr": "Prozor Kotrljanja za Oporavak",
+      "pt-BR": "Janela de Rolamento de Recuperação",
+      "he": "חלון גלגול התאוששות"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -2040,7 +2262,9 @@
       "x": 55,
       "y": 25
     },
-    "prerequisiteNodeIds": ["mob_5r"]
+    "prerequisiteNodeIds": [
+      "mob_5r"
+    ]
   },
   {
     "id": "mob_7l",
@@ -2062,7 +2286,9 @@
       "kr": "넘고 넘고 또 넘기",
       "uk": "Стрибок за стрибком",
       "hr": "Preskakanja na Preskakanja na Preskakanja",
-      "sr": "Preskakanja na Preskakanja na Preskakanja"
+      "sr": "Preskakanja na Preskakanja na Preskakanja",
+      "pt-BR": "Saltos e Mais Saltos",
+      "he": "דילוגים על גבי דילוגים"
     },
     "description": {
       "en": "Vaulting no longer costs stamina.",
@@ -2082,7 +2308,9 @@
       "kr": "넘기가 더 이상 스태미나를 소모하지 않습니다.",
       "uk": "Стрибки через перешкоди більше не витрачають витривалість.",
       "hr": "Preskakanje više ne troši izdržljivost.",
-      "sr": "Preskakanje više ne troši izdržljivost."
+      "sr": "Preskakanje više ne troši izdržljivost.",
+      "pt-BR": "Saltar obstáculos não consome mais estamina.",
+      "he": "דילוג מעל מכשולים אינו צורך סיבולת יותר."
     },
     "impactedSkill": {
       "en": "Stamina Cost Reduction",
@@ -2102,7 +2330,9 @@
       "kr": "스태미나 소모 감소",
       "uk": "Зменшення витрат витривалості",
       "hr": "Smanjenje Troška Izdržljivosti",
-      "sr": "Smanjenje Troška Izdržljivosti"
+      "sr": "Smanjenje Troška Izdržljivosti",
+      "pt-BR": "Redução de Custo de Estamina",
+      "he": "הפחתת עלות סיבולת"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -2113,7 +2343,10 @@
       "x": 45,
       "y": 15
     },
-    "prerequisiteNodeIds": ["mob_6l", "mob_6c"]
+    "prerequisiteNodeIds": [
+      "mob_6l",
+      "mob_6c"
+    ]
   },
   {
     "id": "mob_7r",
@@ -2135,7 +2368,9 @@
       "kr": "도약 스프링",
       "uk": "Стрибок з розбігу",
       "hr": "Odskočno Preskakanje",
-      "sr": "Odskočno Preskakanje"
+      "sr": "Odskočno Preskakanje",
+      "pt-BR": "Salto com Impulso",
+      "he": "זינוק דילוג"
     },
     "description": {
       "en": "Lets you jump at the end of a vault.",
@@ -2155,7 +2390,9 @@
       "kr": "넘기 끝에 점프할 수 있게 합니다.",
       "uk": "Дозволяє стрибати в кінці стрибка через перешкоду.",
       "hr": "Omogućava vam da skočite na kraju preskakanja.",
-      "sr": "Omogućava vam da skočite na kraju preskakanja."
+      "sr": "Omogućava vam da skočite na kraju preskakanja.",
+      "pt-BR": "Permite pular ao final de um salto de obstáculo.",
+      "he": "מאפשר לך לקפוץ בסיום דילוג מעל מכשול."
     },
     "impactedSkill": {
       "en": "Vault Jump",
@@ -2175,7 +2412,9 @@
       "kr": "도약 점프",
       "uk": "Стрибок з перешкоди",
       "hr": "Skok Preskakanja",
-      "sr": "Skok Preskakanja"
+      "sr": "Skok Preskakanja",
+      "pt-BR": "Salto de Obstáculo",
+      "he": "קפיצת דילוג"
     },
     "knownValue": [],
     "category": "MOBILITY",
@@ -2186,7 +2425,10 @@
       "x": 55,
       "y": 15
     },
-    "prerequisiteNodeIds": ["mob_6r", "mob_6c"]
+    "prerequisiteNodeIds": [
+      "mob_6r",
+      "mob_6c"
+    ]
   },
   {
     "id": "surv_1",
@@ -2208,7 +2450,9 @@
       "kr": "민첩한 웅크리기",
       "uk": "Спритний присідач",
       "hr": "Okretni Čučavac",
-      "sr": "Okretni Čučavac"
+      "sr": "Okretni Čučavac",
+      "pt-BR": "Agachamento Ágil",
+      "he": "כורע זריז"
     },
     "description": {
       "en": "Your movement speed while crouching is increased.",
@@ -2228,7 +2472,9 @@
       "kr": "웅크린 상태에서 이동 속도가 증가합니다.",
       "uk": "Швидкість пересування навпочіпки збільшена.",
       "hr": "Vaša brzina kretanja dok čučite je povećana.",
-      "sr": "Vaša brzina kretanja dok čučite je povećana."
+      "sr": "Vaša brzina kretanja dok čučite je povećana.",
+      "pt-BR": "Sua velocidade de movimento enquanto agachado é aumentada.",
+      "he": "מהירות התנועה שלך בזמן כריעה מוגברת."
     },
     "impactedSkill": {
       "en": "Movement Speed",
@@ -2248,7 +2494,9 @@
       "kr": "이동 속도",
       "uk": "Швидкість пересування",
       "hr": "Brzina Kretanja",
-      "sr": "Brzina Kretanja"
+      "sr": "Brzina Kretanja",
+      "pt-BR": "Velocidade de Movimento",
+      "he": "מהירות תנועה"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2281,7 +2529,9 @@
       "kr": "약탈자의 본능",
       "uk": "Інстинкти мародера",
       "hr": "Instinkti Pljačkaša",
-      "sr": "Instinkti Pljačkaša"
+      "sr": "Instinkti Pljačkaša",
+      "pt-BR": "Instintos de Saqueador",
+      "he": "אינסטינקטים של בוזז"
     },
     "description": {
       "en": "When searching a container, loot is revealed faster.",
@@ -2301,7 +2551,9 @@
       "kr": "컨테이너를 수색할 때 전리품이 더 빠르게 드러납니다.",
       "uk": "При обшуку контейнера здобич виявляється швидше.",
       "hr": "Prilikom pretraživanja spremnika, plijen se otkriva brže.",
-      "sr": "Prilikom pretraživanja kontejnera, plen se otkriva brže."
+      "sr": "Prilikom pretraživanja kontejnera, plen se otkriva brže.",
+      "pt-BR": "Ao vasculhar um recipiente, o saque é revelado mais rapidamente.",
+      "he": "בעת חיפוש במיכל, השלל נחשף מהר יותר."
     },
     "impactedSkill": {
       "en": "Loot Speed",
@@ -2321,7 +2573,9 @@
       "kr": "약탈 속도",
       "uk": "Швидкість мародерства",
       "hr": "Brzina Pljačkanja",
-      "sr": "Brzina Pljačkanja"
+      "sr": "Brzina Pljačkanja",
+      "pt-BR": "Velocidade de Saque",
+      "he": "מהירות ביזה"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2332,7 +2586,9 @@
       "x": 70,
       "y": 65
     },
-    "prerequisiteNodeIds": ["surv_1"]
+    "prerequisiteNodeIds": [
+      "surv_1"
+    ]
   },
   {
     "id": "surv_2r",
@@ -2354,7 +2610,9 @@
       "kr": "활력의 웅크리기",
       "uk": "Відновлювальний присід",
       "hr": "Revitalizirajući Čučanj",
-      "sr": "Revitalizujući Čučanj"
+      "sr": "Revitalizujući Čučanj",
+      "pt-BR": "Agachamento Revitalizante",
+      "he": "כריעה מרעננת"
     },
     "description": {
       "en": "Stamina regeneration while crouched is increased.",
@@ -2374,7 +2632,9 @@
       "kr": "웅크린 상태에서 스태미나 재생이 증가합니다.",
       "uk": "Відновлення витривалості навпочіпки збільшене.",
       "hr": "Regeneracija izdržljivosti dok čučite je povećana.",
-      "sr": "Regeneracija izdržljivosti dok čučite je povećana."
+      "sr": "Regeneracija izdržljivosti dok čučite je povećana.",
+      "pt-BR": "A regeneração de estamina enquanto agachado é aumentada.",
+      "he": "התחדשות הסיבולת בזמן כריעה מוגברת."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -2394,7 +2654,9 @@
       "kr": "스태미나 재생",
       "uk": "Відновлення витривалості",
       "hr": "Regeneracija Izdržljivosti",
-      "sr": "Regeneracija Izdržljivosti"
+      "sr": "Regeneracija Izdržljivosti",
+      "pt-BR": "Regeneração de Estamina",
+      "he": "התחדשות סיבולת"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2405,7 +2667,9 @@
       "x": 80,
       "y": 65
     },
-    "prerequisiteNodeIds": ["surv_1"]
+    "prerequisiteNodeIds": [
+      "surv_1"
+    ]
   },
   {
     "id": "surv_3l",
@@ -2427,7 +2691,9 @@
       "kr": "조용한 청소부",
       "uk": "Тихий падальник",
       "hr": "Tihi Sakupljač",
-      "sr": "Tihi Sakupljač"
+      "sr": "Tihi Sakupljač",
+      "pt-BR": "Saqueador Silencioso",
+      "he": "מלקט שקט"
     },
     "description": {
       "en": "You make less noise when looting",
@@ -2447,7 +2713,9 @@
       "kr": "약탈할 때 소음이 줄어듭니다",
       "uk": "Ви створюєте менше шуму при мародерстві",
       "hr": "Pravite manje buke prilikom pljačkanja",
-      "sr": "Pravite manje buke prilikom pljačkanja"
+      "sr": "Pravite manje buke prilikom pljačkanja",
+      "pt-BR": "Você faz menos barulho ao saquear",
+      "he": "אתה מייצר פחות רעש בעת איסוף שלל"
     },
     "impactedSkill": {
       "en": "Noise Reduction",
@@ -2467,7 +2735,9 @@
       "kr": "소음 감소",
       "uk": "Зменшення шуму",
       "hr": "Smanjenje Buke",
-      "sr": "Smanjenje Buke"
+      "sr": "Smanjenje Buke",
+      "pt-BR": "Redução de Ruído",
+      "he": "הפחתת רעש"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2478,7 +2748,9 @@
       "x": 70,
       "y": 55
     },
-    "prerequisiteNodeIds": ["surv_2l"]
+    "prerequisiteNodeIds": [
+      "surv_2l"
+    ]
   },
   {
     "id": "surv_3r",
@@ -2500,7 +2772,9 @@
       "kr": "라운드 내 제작",
       "uk": "Крафт у раунді",
       "hr": "Izrada Tijekom Runde",
-      "sr": "Izrada Tokom Runde"
+      "sr": "Izrada Tokom Runde",
+      "pt-BR": "Fabricação em Partida",
+      "he": "יצירה במהלך הסבב"
     },
     "description": {
       "en": "Unlocks the ability to field-craft items while topside.",
@@ -2520,7 +2794,9 @@
       "kr": "지상에 있는 동안 현장 제작 능력을 해제합니다.",
       "uk": "Відкриває можливість створювати предмети в польових умовах на поверхні.",
       "hr": "Otključava mogućnost izrade predmeta na terenu dok ste gore.",
-      "sr": "Otključava mogućnost izrade predmeta na terenu dok ste gore."
+      "sr": "Otključava mogućnost izrade predmeta na terenu dok ste gore.",
+      "pt-BR": "Desbloqueia a habilidade de fabricar itens em campo enquanto estiver na superfície.",
+      "he": "פותח את האפשרות ליצור חפצים בשטח בזמן שהייה על פני השטח."
     },
     "impactedSkill": {
       "en": "Field Crafting",
@@ -2540,7 +2816,9 @@
       "kr": "현장 제작",
       "uk": "Польовий крафт",
       "hr": "Terenska Izrada",
-      "sr": "Terenska Izrada"
+      "sr": "Terenska Izrada",
+      "pt-BR": "Fabricação de Campo",
+      "he": "יצירה בשטח"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2551,7 +2829,9 @@
       "x": 80,
       "y": 55
     },
-    "prerequisiteNodeIds": ["surv_2r"]
+    "prerequisiteNodeIds": [
+      "surv_2r"
+    ]
   },
   {
     "id": "surv_4l",
@@ -2573,7 +2853,9 @@
       "kr": "침묵 속의 고통",
       "uk": "Страждати мовчки",
       "hr": "Pati U Tišini",
-      "sr": "Pati U Tišini"
+      "sr": "Pati U Tišini",
+      "pt-BR": "Sofrer em Silêncio",
+      "he": "סבל בדממה"
     },
     "description": {
       "en": "While critically hurt, your movement makes less noise.",
@@ -2593,7 +2875,9 @@
       "kr": "치명상을 입었을 때 이동 시 소음이 줄어듭니다.",
       "uk": "У критичному стані ваші рухи створюють менше шуму.",
       "hr": "Dok ste kritično ranjeni, vaše kretanje pravi manje buke.",
-      "sr": "Dok ste kritično ranjeni, vaše kretanje pravi manje buke."
+      "sr": "Dok ste kritično ranjeni, vaše kretanje pravi manje buke.",
+      "pt-BR": "Enquanto estiver criticamente ferido, sua movimentação faz menos barulho.",
+      "he": "בזמן פציעה קשה, התנועה שלך מייצרת פחות רעש."
     },
     "impactedSkill": {
       "en": "Noise Reduction",
@@ -2613,7 +2897,9 @@
       "kr": "소음 감소",
       "uk": "Зменшення шуму",
       "hr": "Smanjenje Buke",
-      "sr": "Smanjenje Buke"
+      "sr": "Smanjenje Buke",
+      "pt-BR": "Redução de Ruído",
+      "he": "הפחתת רעש"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2624,7 +2910,9 @@
       "x": 70,
       "y": 45
     },
-    "prerequisiteNodeIds": ["surv_3l"]
+    "prerequisiteNodeIds": [
+      "surv_3l"
+    ]
   },
   {
     "id": "surv_4r",
@@ -2646,7 +2934,9 @@
       "kr": "새것처럼",
       "uk": "Як новенький",
       "hr": "Kao Nov",
-      "sr": "Kao Nov"
+      "sr": "Kao Nov",
+      "pt-BR": "Novinho em Folha",
+      "he": "כמו חדש"
     },
     "description": {
       "en": "While under a healing effect, stamina regeneration is increased.",
@@ -2666,7 +2956,9 @@
       "kr": "치유 효과를 받는 동안 스태미나 재생이 증가합니다.",
       "uk": "Під дією лікування відновлення витривалості збільшене.",
       "hr": "Dok ste pod efektom liječenja, regeneracija izdržljivosti je povećana.",
-      "sr": "Dok ste pod efektom lečenja, regeneracija izdržljivosti je povećana."
+      "sr": "Dok ste pod efektom lečenja, regeneracija izdržljivosti je povećana.",
+      "pt-BR": "Enquanto estiver sob efeito de cura, a regeneração de estamina aumenta.",
+      "he": "בזמן השפעת ריפוי, חידוש הסיבולת מוגבר."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -2686,7 +2978,9 @@
       "kr": "스태미나 재생",
       "uk": "Відновлення витривалості",
       "hr": "Regeneracija Izdržljivosti",
-      "sr": "Regeneracija Izdržljivosti"
+      "sr": "Regeneracija Izdržljivosti",
+      "pt-BR": "Regeneração de Estamina",
+      "he": "חידוש סיבולת"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2697,7 +2991,9 @@
       "x": 80,
       "y": 45
     },
-    "prerequisiteNodeIds": ["surv_3r"]
+    "prerequisiteNodeIds": [
+      "surv_3r"
+    ]
   },
   {
     "id": "surv_5c",
@@ -2719,7 +3015,9 @@
       "kr": "여행하는 땜장이",
       "uk": "Мандрівний майстер",
       "hr": "Putujući Majstor",
-      "sr": "Putujući Majstor"
+      "sr": "Putujući Majstor",
+      "pt-BR": "Artesão Viajante",
+      "he": "מתקן נודד"
     },
     "description": {
       "en": "Unlocks additional items to field craft.",
@@ -2739,7 +3037,9 @@
       "kr": "현장 제작할 수 있는 추가 아이템을 해제합니다.",
       "uk": "Відкриває додаткові предмети для польового крафту.",
       "hr": "Otključava dodatne predmete za terensku izradu.",
-      "sr": "Otključava dodatne predmete za terensku izradu."
+      "sr": "Otključava dodatne predmete za terensku izradu.",
+      "pt-BR": "Desbloqueia itens adicionais para fabricação de campo.",
+      "he": "פותח פריטים נוספים ליצירה בשטח."
     },
     "impactedSkill": {
       "en": "Field Crafting",
@@ -2759,7 +3059,9 @@
       "kr": "현장 제작",
       "uk": "Польовий крафт",
       "hr": "Terenska Izrada",
-      "sr": "Terenska Izrada"
+      "sr": "Terenska Izrada",
+      "pt-BR": "Fabricação de Campo",
+      "he": "יצירה בשטח"
     },
     "category": "SURVIVAL",
     "maxPoints": 1,
@@ -2769,7 +3071,10 @@
       "x": 75,
       "y": 35
     },
-    "prerequisiteNodeIds": ["surv_4l", "surv_4r"]
+    "prerequisiteNodeIds": [
+      "surv_4l",
+      "surv_4r"
+    ]
   },
   {
     "id": "surv_5l",
@@ -2791,7 +3096,9 @@
       "kr": "넓은 어깨",
       "uk": "Широкі плечі",
       "hr": "Široka Ramena",
-      "sr": "Široka Ramena"
+      "sr": "Široka Ramena",
+      "pt-BR": "Ombros Largos",
+      "he": "כתפיים רחבות"
     },
     "description": {
       "en": "Increases the maximum amount of items you can carry.",
@@ -2811,7 +3118,9 @@
       "kr": "휴대할 수 있는 최대 아이템 수가 증가합니다.",
       "uk": "Збільшує максимальну кількість предметів, які ви можете нести.",
       "hr": "Povećava maksimalnu količinu predmeta koje možete nositi.",
-      "sr": "Povećava maksimalnu količinu predmeta koje možete nositi."
+      "sr": "Povećava maksimalnu količinu predmeta koje možete nositi.",
+      "pt-BR": "Aumenta a quantidade máxima de itens que você pode carregar.",
+      "he": "מגדיל את כמות הפריטים המקסימלית שניתן לשאת."
     },
     "impactedSkill": {
       "en": "Max Inventory",
@@ -2831,9 +3140,13 @@
       "kr": "최대 인벤토리",
       "uk": "Макс. інвентар",
       "hr": "Maksimalni Inventar",
-      "sr": "Maksimalni Inventar"
+      "sr": "Maksimalni Inventar",
+      "pt-BR": "Inventário Máximo",
+      "he": "מלאי מירבי"
     },
-    "knownValue": ["+2 kg per point"],
+    "knownValue": [
+      "+2 kg per point"
+    ],
     "category": "SURVIVAL",
     "maxPoints": 5,
     "iconName": "broad_shoulders.png",
@@ -2842,7 +3155,9 @@
       "x": 70,
       "y": 35
     },
-    "prerequisiteNodeIds": ["surv_4l"]
+    "prerequisiteNodeIds": [
+      "surv_4l"
+    ]
   },
   {
     "id": "surv_5r",
@@ -2864,7 +3179,9 @@
       "kr": "완고한 노새",
       "uk": "Впертий мул",
       "hr": "Tvrdoglava Mazga",
-      "sr": "Tvrdoglava Mazga"
+      "sr": "Tvrdoglava Mazga",
+      "pt-BR": "Mula Teimosa",
+      "he": "פרד עקשן"
     },
     "description": {
       "en": "Your stamina regeneration is less affected by being over-encumbered.",
@@ -2884,7 +3201,9 @@
       "kr": "과적 상태에서 스태미나 재생이 덜 영향을 받습니다.",
       "uk": "Відновлення витривалості менше залежить від перевантаження.",
       "hr": "Vaša regeneracija izdržljivosti je manje pogođena preopterećenošću.",
-      "sr": "Vaša regeneracija izdržljivosti je manje pogođena preopterećenošću."
+      "sr": "Vaša regeneracija izdržljivosti je manje pogođena preopterećenošću.",
+      "pt-BR": "Sua regeneração de estamina é menos afetada ao estar sobrecarregado.",
+      "he": "חידוש הסיבולת שלך מושפע פחות מעומס יתר."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -2904,7 +3223,9 @@
       "kr": "스태미나 재생",
       "uk": "Відновлення витривалості",
       "hr": "Regeneracija Izdržljivosti",
-      "sr": "Regeneracija Izdržljivosti"
+      "sr": "Regeneracija Izdržljivosti",
+      "pt-BR": "Regeneração de Estamina",
+      "he": "חידוש סיבולת"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2915,7 +3236,9 @@
       "x": 80,
       "y": 35
     },
-    "prerequisiteNodeIds": ["surv_4r"]
+    "prerequisiteNodeIds": [
+      "surv_4r"
+    ]
   },
   {
     "id": "surv_6c",
@@ -2937,7 +3260,9 @@
       "zh-CN": "掠夺者的残渣",
       "zh-TW": "廢物中撿寶",
       "hr": "Ostaci Jednog Pljačkaša",
-      "sr": "Ostaci Jednog Pljačkaša"
+      "sr": "Ostaci Jednog Pljačkaša",
+      "pt-BR": "Sucata de um Raider",
+      "he": "שאריות של ריידר"
     },
     "description": {
       "en": "When looting Raider containers, you have a small chance of finding additional field-crafted items.",
@@ -2957,7 +3282,9 @@
       "zh-CN": "搜刮掠夺者容器时，你有小概率找到额外的野外制作物品。",
       "zh-TW": "搜刮掠手容器時，您有小機率找到額外的實地製作物品。",
       "hr": "Prilikom pljačkanja kontejnera Pljačkaša, imate malu šansu da pronađete dodatne predmete izrađene na terenu.",
-      "sr": "Prilikom pljačkanja kontejnera Pljačkaša, imate malu šansu da pronađete dodatne predmete izrađene na terenu."
+      "sr": "Prilikom pljačkanja kontejnera Pljačkaša, imate malu šansu da pronađete dodatne predmete izrađene na terenu.",
+      "pt-BR": "Ao saquear contêineres de Raiders, você tem uma pequena chance de encontrar itens adicionais fabricados em campo.",
+      "he": "בעת חיפוש בארגזי ריידרים, יש סיכוי קטן למצוא פריטים נוספים שיוצרו בשטח."
     },
     "impactedSkill": {
       "en": "Loot Find Chance",
@@ -2977,7 +3304,9 @@
       "zh-CN": "战利品发现几率",
       "zh-TW": "戰利品發現機率",
       "hr": "Šansa za Pronalazak Plijena",
-      "sr": "Šansa za Pronalazak Plijena"
+      "sr": "Šansa za Pronalazak Plijena",
+      "pt-BR": "Chance de Encontrar Saque",
+      "he": "סיכוי למציאת שלל"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -2988,7 +3317,9 @@
       "x": 75,
       "y": 25
     },
-    "prerequisiteNodeIds": ["surv_5c"]
+    "prerequisiteNodeIds": [
+      "surv_5c"
+    ]
   },
   {
     "id": "surv_6l",
@@ -3010,7 +3341,9 @@
       "zh-CN": "拾荒者的幸运",
       "zh-TW": "搜刮者好運",
       "hr": "Sreća Pljačkaša",
-      "sr": "Sreća Pljačkaša"
+      "sr": "Sreća Pljačkaša",
+      "pt-BR": "Sorte de Saqueador",
+      "he": "מזל של בוזז"
     },
     "description": {
       "en": "While looting, there's a chance to reveal twice as many items at once.",
@@ -3030,7 +3363,9 @@
       "zh-CN": "搜刮时，有机会一次发现两倍数量的物品。",
       "zh-TW": "搜刮時，有機會發現兩倍物品。",
       "hr": "Tijekom pljačkanja, postoji šansa da odjednom otkrijete dvostruko više predmeta.",
-      "sr": "Tokom pljačkanja, postoji šansa da odjednom otkrijete dvostruko više predmeta."
+      "sr": "Tokom pljačkanja, postoji šansa da odjednom otkrijete dvostruko više predmeta.",
+      "pt-BR": "Ao saquear, há uma chance de revelar o dobro de itens de uma só vez.",
+      "he": "בעת איסוף שלל, יש סיכוי לגלות כמות כפולה של פריטים בבת אחת."
     },
     "impactedSkill": {
       "en": "Loot Search Speed",
@@ -3050,7 +3385,9 @@
       "zh-CN": "战利品搜索速度",
       "zh-TW": "戰利品加倍",
       "hr": "Brzina Pretraživanja Plijena",
-      "sr": "Brzina Pretraživanja Plijena"
+      "sr": "Brzina Pretraživanja Plijena",
+      "pt-BR": "Velocidade de Busca de Saque",
+      "he": "מהירות חיפוש שלל"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -3061,7 +3398,9 @@
       "x": 70,
       "y": 25
     },
-    "prerequisiteNodeIds": ["surv_5l"]
+    "prerequisiteNodeIds": [
+      "surv_5l"
+    ]
   },
   {
     "id": "surv_6r",
@@ -3083,7 +3422,9 @@
       "zh-CN": "三次深呼吸",
       "zh-TW": "三下深呼吸",
       "hr": "Tri Duboka Udaha",
-      "sr": "Tri Duboka Udaha"
+      "sr": "Tri Duboka Udaha",
+      "pt-BR": "Três Respirações Profundas",
+      "he": "שלוש נשימות עמוקות"
     },
     "description": {
       "en": "After an ability drains your stamina, you recover more quickly.",
@@ -3103,7 +3444,9 @@
       "zh-CN": "在技能消耗你的耐力后，你恢复得更快。",
       "zh-TW": "體力被技能耗盡後，體力恢復速度加快。",
       "hr": "Nakon što sposobnost istroši vašu izdržljivost, oporavljate se brže.",
-      "sr": "Nakon što sposobnost istroši vašu izdržljivost, oporavljate se brže."
+      "sr": "Nakon što sposobnost istroši vašu izdržljivost, oporavljate se brže.",
+      "pt-BR": "Após uma habilidade drenar sua estamina, você se recupera mais rapidamente.",
+      "he": "לאחר שיכולת מרוקנת את הסיבולת שלך, ההתאוששות מהירה יותר."
     },
     "impactedSkill": {
       "en": "Stamina Regeneration",
@@ -3123,7 +3466,9 @@
       "zh-CN": "耐力恢复",
       "zh-TW": "體力恢復速度",
       "hr": "Regeneracija Izdržljivosti",
-      "sr": "Regeneracija Izdržljivosti"
+      "sr": "Regeneracija Izdržljivosti",
+      "pt-BR": "Regeneração de Estamina",
+      "he": "התחדשות סיבולת"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -3134,7 +3479,9 @@
       "x": 80,
       "y": 25
     },
-    "prerequisiteNodeIds": ["surv_5r"]
+    "prerequisiteNodeIds": [
+      "surv_5r"
+    ]
   },
   {
     "id": "surv_7l",
@@ -3156,7 +3503,9 @@
       "zh-CN": "安全突破",
       "zh-TW": "保全漏洞",
       "hr": "Probijanje Sigurnosti",
-      "sr": "Probijanje Sigurnosti"
+      "sr": "Probijanje Sigurnosti",
+      "pt-BR": "Violação de Segurança",
+      "he": "פריצת אבטחה"
     },
     "description": {
       "en": "Lets you breach Security Lockers.",
@@ -3176,7 +3525,9 @@
       "zh-CN": "让你能够突破安全储物柜。",
       "zh-TW": "可突破保全儲物櫃。",
       "hr": "Omogućava vam probijanje sigurnosnih ormarića.",
-      "sr": "Omogućava vam probijanje sigurnosnih ormarića."
+      "sr": "Omogućava vam probijanje sigurnosnih ormarića.",
+      "pt-BR": "Permite arrombar Armários de Segurança.",
+      "he": "מאפשר לפרוץ לארוניות אבטחה."
     },
     "impactedSkill": {
       "en": "Security Breach",
@@ -3196,7 +3547,9 @@
       "zh-CN": "安全突破",
       "zh-TW": "保全設施可突破",
       "hr": "Probijanje Sigurnosti",
-      "sr": "Probijanje Sigurnosti"
+      "sr": "Probijanje Sigurnosti",
+      "pt-BR": "Violação de Segurança",
+      "he": "פריצת אבטחה"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -3207,7 +3560,10 @@
       "x": 70,
       "y": 15
     },
-    "prerequisiteNodeIds": ["surv_6l", "surv_6c"]
+    "prerequisiteNodeIds": [
+      "surv_6l",
+      "surv_6c"
+    ]
   },
   {
     "id": "surv_7r",
@@ -3229,7 +3585,9 @@
       "zh-CN": "扫雷专家",
       "zh-TW": "掃雷工",
       "hr": "Razminiranje",
-      "sr": "Razminiranje"
+      "sr": "Razminiranje",
+      "pt-BR": "Caça-Minas",
+      "he": "מנטרל מוקשים"
     },
     "description": {
       "en": "Mines and explosive deployables can be defused when in close proximity.",
@@ -3249,7 +3607,9 @@
       "zh-CN": "靠近时可以拆除地雷和爆炸性部署物。",
       "zh-TW": "陷阱類部署物，靠近可拆除。",
       "hr": "Mine i eksplozivne naprave mogu se deaktivirati kada ste u neposrednoj blizini.",
-      "sr": "Mine i eksplozivne naprave mogu se deaktivirati kada ste u neposrednoj blizini."
+      "sr": "Mine i eksplozivne naprave mogu se deaktivirati kada ste u neposrednoj blizini.",
+      "pt-BR": "Minas e dispositivos explosivos podem ser desarmados quando estiver próximo.",
+      "he": "ניתן לנטרל מוקשים ומטעני חבלה מטווח קרוב."
     },
     "impactedSkill": {
       "en": "Explosive Defuse",
@@ -3269,7 +3629,9 @@
       "zh-CN": "爆炸物拆除",
       "zh-TW": "爆炸物拆除",
       "hr": "Deaktiviranje Eksploziva",
-      "sr": "Deaktiviranje Eksploziva"
+      "sr": "Deaktiviranje Eksploziva",
+      "pt-BR": "Desarme de Explosivos",
+      "he": "נטרול חומרי נפץ"
     },
     "knownValue": [],
     "category": "SURVIVAL",
@@ -3280,6 +3642,9 @@
       "x": 80,
       "y": 15
     },
-    "prerequisiteNodeIds": ["surv_6r", "surv_6c"]
+    "prerequisiteNodeIds": [
+      "surv_6r",
+      "surv_6c"
+    ]
   }
 ]

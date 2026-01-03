@@ -18,7 +18,9 @@
     "kr": "토렌테 IV",
     "tr": "Torrente IV",
     "hr": "Torrente IV",
-    "sr": "Torrente IV"
+    "sr": "Torrente IV",
+    "pt-BR": "Torrente IV",
+    "he": "טורנטה IV"
   },
   "description": {
     "en": "Has a large ammo capacity, but is only accurate while crouched.",
@@ -38,7 +40,9 @@
     "kr": "탄약 용량이 크지만 웅크리고 있을 때만 정확합니다.",
     "tr": "Büyük mermi kapasitesine sahiptir, ancak yalnızca çömelirken isabetlidir.",
     "hr": "Ima veliki kapacitet streljiva, ali je precizan samo dok ste čučeći.",
-    "sr": "Ima veliki kapacitet municije, ali je precizan samo dok ste čučeći."
+    "sr": "Ima veliki kapacitet municije, ali je precizan samo dok ste čučeći.",
+    "pt-BR": "Possui grande capacidade de munição, mas só é precisa ao agachar.",
+    "he": "בעל קיבולת תחמושת גדולה, אך מדויק רק במצב כריעה."
   },
   "type": "LMG",
   "value": 16000,
@@ -63,7 +67,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "130/130"
+      "value": "130/130",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -84,7 +90,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta streljiva",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -105,7 +113,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina spremnika",
-      "value": 90
+      "value": 90,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -126,7 +136,9 @@
       "tr": "Azaltılmış doldurma süresi",
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vreme punjenja",
-      "value": "45%"
+      "value": "45%",
+      "pt-BR": "Tempo de Recarga Reduzido",
+      "he": "זמן טעינה מופחת"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -147,7 +159,9 @@
       "tr": "Atış Modu",
       "hr": "Način pucanja",
       "sr": "Način pucanja",
-      "value": "Fully-Automatic"
+      "value": "Fully-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -168,7 +182,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "upgradeCost": {

@@ -19,7 +19,9 @@
     "tr": "Arılar!",
     "zh-TW": "蜜蜂！",
     "sr": "Pčele!",
-    "hr": "Pčele!"
+    "hr": "Pčele!",
+    "pt-BR": "Abelhas!",
+    "he": "דבורים!"
   },
   "map": [
     "the_blue_gate"
@@ -43,7 +45,9 @@
     "tr": "Arılar! Hala etrafta arılar var! Uzman olmamakla birlikte, sera ekibimiz onları çok istiyor.",
     "zh-TW": "蜜蜂！這裡還有蜜蜂！雖然我不是專家，但我們的溫室團隊非常需要一些。",
     "sr": "Pčele! Još uvek ima pčela naokolo! Iako nisam stručnjak, naša ekipa u stakleniku očajnički želi neke.",
-    "hr": "Pčele! Još uvijek ima pčela naokolo! Iako nisam stručnjak, naša ekipa u stakleniku očajnički želi neke."
+    "hr": "Pčele! Još uvijek ima pčela naokolo! Iako nisam stručnjak, naša ekipa u stakleniku očajnički želi neke.",
+    "pt-BR": "Abelhas! Ainda existem abelhas por aí! Embora eu não seja especialista, nossa equipe da estufa quer algumas desesperadamente.",
+    "he": "דבורים! עדיין יש דבורים בסביבה! אני אמנם לא מומחה, אבל צוות החממה שלנו נואש להשיג כמה."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Mavi Kapı'daki Zeytin Korusuna ulaş",
       "zh-TW": "到達藍門的橄欖林",
       "sr": "Stigni do maslinika u Plavim Vratima",
-      "hr": "Stigni do maslinika u Plavim Vratima"
+      "hr": "Stigni do maslinika u Plavim Vratima",
+      "pt-BR": "Chegue ao Olive Grove em Blue Gate",
+      "he": "הגיעו אל מטע הזיתים ב-Blue Gate"
     },
     {
       "en": "Search for bee hives around the Olive Grove",
@@ -84,7 +90,9 @@
       "tr": "Zeytin Korusu çevresinde arı kovanlarını ara",
       "zh-TW": "在橄欖林周圍尋找蜂巢",
       "sr": "Traži pčelinje košnice oko maslinika",
-      "hr": "Traži pčelinje košnice oko maslinika"
+      "hr": "Traži pčelinje košnice oko maslinika",
+      "pt-BR": "Procure por colmeias ao redor do Olive Grove",
+      "he": "חפשו כוורות דבורים ברחבי מטע הזיתים"
     }
   ],
   "grantedItemIds": [

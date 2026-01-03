@@ -18,7 +18,9 @@
     "kr": "와스프 드라이버",
     "tr": "Eşekarısı Sürücü",
     "hr": "Osinjak",
-    "sr": "Osinjak"
+    "sr": "Osinjak",
+    "pt-BR": "Controlador de Vespa",
+    "he": "ווספ דרייבר"
   },
   "tip": "The Wasp Driver is a rare item is dropped by Wasps that can be recycled into crafting materials.",
   "description": {
@@ -39,7 +41,9 @@
     "kr": "아크 합금으로 재활용 가능. 투척할 수 있으며, 총에 맞으면 폭발합니다.",
     "tr": "ARC Alaşımına geri dönüştürülebilir. Fırlatılabilir ve vurulursa patlar.",
     "hr": "Može se reciklirati u ARC leguru. Može se baciti i eksplodirat će ako se pogodi.",
-    "sr": "Može se reciklirati u ARC leguru. Može se baciti i eksplodiraće ako se pogodi."
+    "sr": "Može se reciklirati u ARC leguru. Može se baciti i eksplodiraće ako se pogodi.",
+    "pt-BR": "Pode ser reciclado em Liga ARC. Pode ser arremessado e explodirá se for alvejado.",
+    "he": "ניתן למחזור ל-סגסוגת ARC. ניתן לזריקה, ויתפוצץ אם יורים עליו."
   },
   "type": "Recyclable",
   "rarity": "Rare",
@@ -75,7 +79,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": 80
+      "value": 80,
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Radius": {
       "en": "Radius",
@@ -96,7 +102,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "5m"
+      "value": "5m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "updatedAt": "11/03/2025"

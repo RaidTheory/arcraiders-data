@@ -19,7 +19,9 @@
     "tr": "Çatışmanın İçine",
     "zh-TW": "投入戰鬥",
     "sr": "U Borbu",
-    "hr": "U Borbu"
+    "hr": "U Borbu",
+    "pt-BR": "Ao Combate",
+    "he": "אל תוך הקרב"
   },
   "trader": "Shani",
   "description": {
@@ -40,7 +42,9 @@
     "tr": "Eskiden oradaki dünya onlarındı. İddialarına meydan okuyacak kimse yoktu. Ama işte buradayız. Daha fazla karakol. Daha fazla istihbarat. Daha fazla ateş gücü. Yanlış bilmiyorsam, içimizde hala epey bir mücadele ruhu var.",
     "zh-TW": "那裡曾經是他們的世界，在上面。沒有人挑戰他們的統治。然而我們來了。更多的前哨站。更多的情報。更多的火力。如果我沒搞錯的話，我們還有相當多的戰鬥力。",
     "sr": "Nekada je to bio njihov svet, tamo gore. Niko da ospori njihov zahtev. Pa ipak, evo nas. Više isturenih položaja. Više informacija. Više vatrene moći. Da ne znam bolje, rekao bih da još imamo dosta borbe u sebi.",
-    "hr": "Nekada je to bio njihov svijet, tamo gore. Nitko da ospori njihov zahtjev. Pa ipak, evo nas. Više isturenih položaja. Više informacija. Više vatrene moći. Da ne znam bolje, rekao bih da još imamo dosta borbe u sebi."
+    "hr": "Nekada je to bio njihov svijet, tamo gore. Nitko da ospori njihov zahtjev. Pa ipak, evo nas. Više isturenih položaja. Više informacija. Više vatrene moći. Da ne znam bolje, rekao bih da još imamo dosta borbe u sebi.",
+    "pt-BR": "Costumava ser o mundo deles, lá em cima. Ninguém para contestar sua reivindicação. Mas aqui estamos nós. Mais postos avançados. Mais inteligência. Mais poder de fogo. Se eu não soubesse, diria que ainda temos bastante luta dentro de nós.",
+    "he": "פעם זה היה העולם שלהם, שם למעלה. אף אחד לא ערער על הבעלות שלהם. ובכל זאת, הנה אנחנו. עוד מוצבים. עוד מודיעין. עוד כוח אש. אם לא הייתי יודע אחרת, הייתי אומר שנשאר בנו עוד לא מעט כוח להילחם."
   },
   "objectives": [
     {
@@ -61,7 +65,9 @@
       "tr": "Bir Sıçrayıcı yok et",
       "zh-TW": "摧毀一個跳躍者",
       "sr": "Uništi Skakača",
-      "hr": "Uništi Skakača"
+      "hr": "Uništi Skakača",
+      "pt-BR": "Destrua um Leaper",
+      "he": "השמד Leaper"
     },
     {
       "en": "Obtain a Leaper Pulse Unit",
@@ -81,7 +87,9 @@
       "tr": "Bir Sıçrayıcı Nabız Ünitesi edin",
       "zh-TW": "獲得跳躍者脈衝裝置",
       "sr": "Pribavi Pulsnu Jedinicu Skakača",
-      "hr": "Pribavi Pulsnu Jedinicu Skakača"
+      "hr": "Pribavi Pulsnu Jedinicu Skakača",
+      "pt-BR": "Obtenha uma Unidade de Pulso de Leaper",
+      "he": "השג יחידת פולס של Leaper"
     }
   ],
   "requiredItemIds": [

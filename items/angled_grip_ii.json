@@ -18,7 +18,9 @@
     "kr": "앵글 그립 II",
     "tr": "Açılı Kabza II",
     "hr": "Kutni rukohvat II",
-    "sr": "Kutni rukohvat II"
+    "sr": "Kutni rukohvat II",
+    "pt-BR": "Empunhadura Angular II",
+    "he": "מאחז זוויתי II"
   },
   "description": {
     "en": "Moderately reduces horizontal recoil. Compatible with: Arpeggio, Ferro, Il Toro, Stitcher",
@@ -38,7 +40,9 @@
     "kr": "수평 반동을 적당히 감소시킵니다. 호환 무기: 아르페지오, 페로, 일 토로, 스티처",
     "tr": "Yatay geri tepmesini orta düzeyde azaltır. Uyumlu: Arpeggio, Ferro, Il Toro, Stitcher",
     "hr": "Umjereno smanjuje horizontalni trzaj. Kompatibilno s: Arpeggio, Ferro, Il Toro, Stitcher",
-    "sr": "Umjereno smanjuje horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Il Toro, Stitcher"
+    "sr": "Umjereno smanjuje horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Il Toro, Stitcher",
+    "pt-BR": "Reduz moderadamente o recuo horizontal. Compatível com: Arpeggio, Ferro, Il Toro, Stitcher",
+    "he": "מפחית באופן בינוני את הרתע האופקי. תואם ל: Arpeggio, Ferro, Il Toro, Stitcher"
   },
   "type": "Modification",
   "value": 2000,
@@ -75,7 +79,9 @@
       "tr": "Azaltılmış Yatay Geri Tepme",
       "hr": "Smanjen horizontalni trzaj",
       "sr": "Smanjen horizontalni trzaj",
-      "value": "30%"
+      "value": "30%",
+      "pt-BR": "Recuo Horizontal Reduzido",
+      "he": "רתע אופקי מופחת"
     }
   },
   "compatibleWith": [

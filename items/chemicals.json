@@ -18,7 +18,9 @@
     "kr": "화학품",
     "tr": "Kimyasallar",
     "hr": "Kemikalije",
-    "sr": "Hemikalije"
+    "sr": "Hemikalije",
+    "pt-BR": "Produtos Químicos",
+    "he": "כימיקלים"
   },
   "description": {
     "en": "Used to craft medical supplies, explosives, and utility items. Used to craft: Heavy Ammo, Medium Ammo, Shotgun Ammo, Light Ammo, Light Impact Grenade",
@@ -38,7 +40,9 @@
     "kr": "의료 용품, 폭발물, 유틸리티 아이템 제작에 사용. 제작 용도: 준중량 탄약, 중량 탄약, 산탄총 탄약, 경량 탄약, 경량 충격 수류탄",
     "tr": "Tıbbi malzeme, patlayıcı ve yardımcı eşya üretiminde kullanılır. Üretimde kullanılır: Ağır Cephane, Orta Cephane, Av Tüfeği Cephanesi, Hafif Cephane, Hafif Darbe Bombası",
     "hr": "Koristi se za izradu medicinskih potrepština, eksploziva i pomoćnih predmeta. Koristi se za izradu: Teška Municija, Srednja Municija, Sačmarska Municija, Laka Municija, Laka Udarna Granata",
-    "sr": "Koristi se za izradu medicinskih potrepština, eksploziva i pomoćnih predmeta. Koristi se za izradu: Teška Municija, Srednja Municija, Sačmarska Municija, Laka Municija, Laka Udarna Granata"
+    "sr": "Koristi se za izradu medicinskih potrepština, eksploziva i pomoćnih predmeta. Koristi se za izradu: Teška Municija, Srednja Municija, Sačmarska Municija, Laka Municija, Laka Udarna Granata",
+    "pt-BR": "Usado para fabricar suprimentos médicos, explosivos e itens utilitários. Usado para fabricar: Munição Pesada, Munição Média, Munição de Escopeta, Munição Leve, Granada de Impacto Leve",
+    "he": "משמש ליצירת ציוד רפואי, חומרי נפץ ופריטי עזר. משמש ליצירת: תחמושת כבדה, תחמושת בינונית, תחמושת שוטגאן, תחמושת קלה, רימון פגיעה קל"
   },
   "type": "Basic Material",
   "rarity": "Common",

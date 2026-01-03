@@ -19,7 +19,9 @@
     "tr": "Radarın Dışında",
     "zh-TW": "脫離雷達",
     "sr": "Van Radara",
-    "hr": "Izvan Radara"
+    "hr": "Izvan Radara",
+    "pt-BR": "Fora do Radar",
+    "he": "מתחת לרדאר"
   },
   "map": [
     "buried_city",
@@ -49,7 +51,9 @@
       "tr": "Bir Saha Deposunu ziyaret et",
       "zh-TW": "訪問野外補給站",
       "sr": "Posetite Terensko Skladište",
-      "hr": "Posjetite Terensko Skladište"
+      "hr": "Posjetite Terensko Skladište",
+      "pt-BR": "Visite um Depósito de Campo",
+      "he": "בקר במחסן שטח"
     },
     {
       "en": "Repair the antenna on the roof of the Field Depot",
@@ -69,7 +73,9 @@
       "tr": "Saha Deposunun çatısındaki anteni onar",
       "zh-TW": "修理野外補給站屋頂的天線",
       "sr": "Popravite antenu na krovu Terenskog Skladišta",
-      "hr": "Popravite antenu na krovu Terenskog Skladišta"
+      "hr": "Popravite antenu na krovu Terenskog Skladišta",
+      "pt-BR": "Repare a antena no telhado do Depósito de Campo",
+      "he": "תקן את האנטנה על גג מחסן השטח"
     }
   ],
   "grantedItemIds": [

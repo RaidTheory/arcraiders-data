@@ -18,7 +18,9 @@
     "kr": "산탄총 소음기",
     "tr": "Pompalı Tüfek Susturucusu",
     "hr": "Prigušivač za sačmaru",
-    "sr": "Prigušivač za sačmaru"
+    "sr": "Prigušivač za sačmaru",
+    "pt-BR": "Silenciador de Escopeta",
+    "he": "משתיק קול לרובה ציד"
   },
   "description": {
     "en": "Moderately reduces the amount of noise produced when firing.",
@@ -38,7 +40,9 @@
     "kr": "발사 시 발생하는 소음을 적당히 감소시킵니다.",
     "tr": "Ateş ederken çıkan gürültüyü orta düzeyde azaltır.",
     "hr": "Umjereno smanjuje količinu buke pri pucanju.",
-    "sr": "Umereno smanjuje količinu buke pri pucanju."
+    "sr": "Umereno smanjuje količinu buke pri pucanju.",
+    "pt-BR": "Reduz moderadamente a quantidade de ruído produzido ao disparar.",
+    "he": "מפחית במידה בינונית את עוצמת הרעש בעת הירי."
   },
   "type": "Modification",
   "value": 5000,
@@ -64,7 +68,9 @@
       "tr": "Azaltılmış Gürültü",
       "hr": "Smanjena buka",
       "sr": "Smanjena buka",
-      "value": "50%"
+      "value": "50%",
+      "pt-BR": "Ruído reduzido",
+      "he": "רעש מופחת"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/shotgun_silencer.png",

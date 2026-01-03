@@ -19,7 +19,9 @@
     "tr": "İletişim Sığınağı",
     "zh-TW": "通訊藏身處",
     "sr": "Komunikaciono skrovište",
-    "hr": "Komunikacijsko skrovište"
+    "hr": "Komunikacijsko skrovište",
+    "pt-BR": "Esconderijo de Comunicação",
+    "he": "מסתור התקשורת"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Gömülü Şehir'in bazı bölgelerinde sinyal kaybediyoruz—sanırım ekipmanımız bozuldu. Onarımlarda oldukça yeteneklisin, değil mi? Kontrol edebilir misin?",
     "zh-TW": "我們在埋葬之城的某些區域失去了訊號——我猜是我們的設備出了問題。你很擅長維修，對吧？能去檢查一下嗎？",
     "sr": "Gubimo signale u nekim delovima Zakopanog grada—pretpostavljam da nam oprema pravi probleme. Prilično si veš u popravkama, zar ne? Možeš li da proveriš?",
-    "hr": "Gubimo signale u nekim dijelovima Zakopanog grada—pretpostavljam da nam oprema pravi probleme. Prilično si vješt u popravcima, zar ne? Možeš li to provjeriti?"
+    "hr": "Gubimo signale u nekim dijelovima Zakopanog grada—pretpostavljam da nam oprema pravi probleme. Prilično si vješt u popravcima, zar ne? Možeš li to provjeriti?",
+    "pt-BR": "Temos perdido sinais em algumas áreas da Cidade Enterrada — meu palpite é que nosso equipamento está com defeito. Você é bem habilidoso com reparos, não é? Poderia dar uma olhada?",
+    "he": "אנחנו מאבדים אותות בכמה אזורים של העיר הקבורה—הניחוש שלי הוא שהציוד שלנו עושה בעיות. אתה די מוכשר בתיקונים, לא? תוכל לבדוק את זה?"
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Eski Kasaba'daki Kızıl Kule'ye ulaş",
       "zh-TW": "到達舊城區的紅塔",
       "sr": "Stigni do Crvenog tornja u Starom gradu",
-      "hr": "Stigni do Crvenog tornja u Starom gradu"
+      "hr": "Stigni do Crvenog tornja u Starom gradu",
+      "pt-BR": "Chegue à Torre Vermelha na Cidade Velha",
+      "he": "הגע למגדל האדום בעיר העתיקה"
     },
     {
       "en": "Find missing battery cell",
@@ -84,7 +90,9 @@
       "tr": "Kayıp pil hücresini bul",
       "zh-TW": "找到遺失的電池單元",
       "sr": "Pronađi nedostajuću baterijsku ćeliju",
-      "hr": "Pronađi nedostajuću baterijsku ćeliju"
+      "hr": "Pronađi nedostajuću baterijsku ćeliju",
+      "pt-BR": "Encontre a célula de bateria perdida",
+      "he": "מצא את תא הסוללה החסר"
     },
     {
       "en": "Install the battery cell in the Generator",
@@ -104,7 +112,9 @@
       "tr": "Pil hücresini Jeneratöre tak",
       "zh-TW": "將電池單元安裝到發電機中",
       "sr": "Instaliraj baterijsku ćeliju u Generator",
-      "hr": "Instaliraj baterijsku ćeliju u Generator"
+      "hr": "Instaliraj baterijsku ćeliju u Generator",
+      "pt-BR": "Instale a célula de bateria no Gerador",
+      "he": "התקן את תא הסוללה בגנרטור"
     },
     {
       "en": "Enable the power on the Generator",
@@ -124,7 +134,9 @@
       "tr": "Jeneratörün gücünü aç",
       "zh-TW": "啟動發電機電源",
       "sr": "Uključi napajanje na Generatoru",
-      "hr": "Uključi napajanje na Generatoru"
+      "hr": "Uključi napajanje na Generatoru",
+      "pt-BR": "Ative a energia no Gerador",
+      "he": "הפעל את החשמל בגנרטור"
     },
     {
       "en": "Boot the antenna terminal near the Red Tower",
@@ -144,7 +156,9 @@
       "tr": "Kızıl Kule yakınındaki anten terminalini başlat",
       "zh-TW": "啟動紅塔附近的天線終端",
       "sr": "Pokreni antenski terminal blizu Crvenog tornja",
-      "hr": "Pokreni antenski terminal blizu Crvenog tornja"
+      "hr": "Pokreni antenski terminal blizu Crvenog tornja",
+      "pt-BR": "Inicialize o terminal da antena perto da Torre Vermelha",
+      "he": "אתחל את מסוף האנטנה ליד המגדל האדום"
     }
   ],
   "tips": [

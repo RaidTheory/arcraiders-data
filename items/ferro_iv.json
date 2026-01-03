@@ -18,7 +18,9 @@
     "kr": "페로 IV",
     "tr": "Ferro IV",
     "hr": "Ferro IV",
-    "sr": "Ferro IV"
+    "sr": "Ferro IV",
+    "pt-BR": "Ferro IV",
+    "he": "פרו IV"
   },
   "description": {
     "en": "Packs a punch, but must be reloaded between every shot.",
@@ -38,7 +40,9 @@
     "kr": "강력한 한 방을 날리지만, 매 발사마다 재장전이 필요합니다.",
     "tr": "Güçlü bir darbe indirir, ancak her atıştan sonra yeniden doldurulmalıdır.",
     "hr": "Zadaje snažan udarac, ali se mora puniti nakon svakog hica.",
-    "sr": "Zadaje snažan udarac, ali se mora puniti nakon svakog hica."
+    "sr": "Zadaje snažan udarac, ali se mora puniti nakon svakog hica.",
+    "pt-BR": "É potente, mas precisa ser recarregada a cada disparo.",
+    "he": "מכה חזק, אך דורש טעינה מחדש בין כל ירייה."
   },
   "type": "Battle Rifle",
   "rarity": "Common",
@@ -82,7 +86,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "130/130"
+      "value": "130/130",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -103,7 +109,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Streljiva",
-      "value": "Heavy Ammo"
+      "value": "Heavy Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -124,7 +132,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
-      "value": 1
+      "value": 1,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -145,7 +155,9 @@
       "tr": "Atış Modu",
       "hr": "Način Pucanja",
       "sr": "Način Pucanja",
-      "value": "Break-Action"
+      "value": "Break-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -166,7 +178,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
-      "value": "Strong"
+      "value": "Strong",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     },
     "Upgrade Modifiers": {
       "en": "Upgrade Modifiers",
@@ -187,7 +201,9 @@
       "tr": "Yükseltme Değiştiricileri",
       "hr": "Modifikatori Nadogradnje",
       "sr": "Modifikatori Nadogradnje",
-      "value": "39% Reduced Reload Time"
+      "value": "39% Reduced Reload Time",
+      "pt-BR": "Modificadores de Melhoria",
+      "he": "משני שדרוג"
     }
   },
   "isWeapon": true

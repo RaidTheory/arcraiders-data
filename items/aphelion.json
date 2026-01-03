@@ -18,7 +18,9 @@
     "kr": "아펠리온",
     "tr": "Afelion",
     "hr": "Aphelion",
-    "sr": "Aphelion"
+    "sr": "Aphelion",
+    "pt-BR": "Aphelion",
+    "he": "אפליון"
   },
   "description": {
     "en": "An experimental ARC beam weapon powered by a Matriarch Reactor.",
@@ -38,7 +40,9 @@
     "kr": "마트리아크 리액터로 작동하는 실험용 아크 빔 무기.",
     "tr": "Matriarch Reaktoru ile calisan deneysel bir ARC isin silahi.",
     "hr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom.",
-    "sr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom."
+    "sr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom.",
+    "pt-BR": "Uma arma de feixe ARC experimental alimentada por um Reator Matriarca.",
+    "he": "נשק קרן ARC ניסיוני המופעל על ידי כור מטריארך."
   },
   "type": "Special",
   "rarity": "Legendary",
@@ -62,7 +66,9 @@
       "tr": "Dayaniklilik",
       "hr": "Izdrzljivost",
       "sr": "Izdrzljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -83,7 +89,9 @@
       "tr": "Mermi Turu",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta streljiva",
-      "value": "Energy Clip"
+      "value": "Energy Clip",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -104,7 +112,9 @@
       "tr": "Atis Modu",
       "hr": "Nacin pucanja",
       "sr": "Nacin pucanja",
-      "value": "Fully-Automatic"
+      "value": "Fully-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -125,7 +135,9 @@
       "tr": "ARC Zirh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Very Strong"
+      "value": "Very Strong",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "weightKg": 14,

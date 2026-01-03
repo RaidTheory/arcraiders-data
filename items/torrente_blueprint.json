@@ -18,7 +18,9 @@
     "kr": "토렌테 설계도",
     "tr": "Torrente Planı",
     "hr": "Torrente Nacrt",
-    "sr": "Torrente Nacrt"
+    "sr": "Torrente Nacrt",
+    "pt-BR": "Projeto da Torrente",
+    "he": "שרטוט Torrente"
   },
   "description": {
     "en": "Has a large ammo capacity, but is only accurate while crouched.",
@@ -38,7 +40,9 @@
     "kr": "탄약 용량이 크지만 웅크릴 때만 정확합니다.",
     "tr": "Büyük mermi kapasitesine sahiptir, ancak sadece çömelirken isabetlidir.",
     "hr": "Ima veliki kapacitet streljiva, ali je precizan samo dok ste čučeći.",
-    "sr": "Ima veliki kapacitet streljiva, ali je precizan samo dok ste čučeći."
+    "sr": "Ima veliki kapacitet streljiva, ali je precizan samo dok ste čučeći.",
+    "pt-BR": "Tem grande capacidade de munição, mas só é precisa quando agachado.",
+    "he": "בעל קיבולת תחמושת גדולה, אך מדויק רק במצב כריעה."
   },
   "type": "Blueprint",
   "weightKg": 0,

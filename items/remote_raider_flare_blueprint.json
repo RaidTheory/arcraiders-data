@@ -18,7 +18,9 @@
     "kr": "원격 레이더 신호탄 설계도",
     "tr": "Uzaktan Akıncı İşaret Fişeği Planı",
     "hr": "Nacrt Daljinske Raider Rakete",
-    "sr": "Nacrt Daljinske Raider Rakete"
+    "sr": "Nacrt Daljinske Raider Rakete",
+    "pt-BR": "Projeto de Sinalizador Remoto de Raider",
+    "he": "שרטוט לנור ריידר נשלט-מרחוק"
   },
   "description": {
     "en": "A deployable device that, when manually triggered, launches a Raider Distress Flare.",
@@ -38,7 +40,9 @@
     "kr": "수동으로 작동시키면 레이더 조난 신호탄을 발사하는 배치 가능한 장치.",
     "tr": "Manuel olarak tetiklendiğinde Akıncı Tehlike İşaret Fişeği fırlatılan konuşlandırılabilir bir cihaz.",
     "hr": "Uređaj za postavljanje koji, kada se ručno aktivira, ispaljuje Raider raketu za pomoć.",
-    "sr": "Uređaj za postavljanje koji, kada se ručno aktivira, ispaljuje Raider raketu za pomoć."
+    "sr": "Uređaj za postavljanje koji, kada se ručno aktivira, ispaljuje Raider raketu za pomoć.",
+    "pt-BR": "Um dispositivo implantável que, quando acionado manualmente, lança um Sinalizador de Socorro de Raider.",
+    "he": "התקן הניתן לפריסה, אשר בהפעלה ידנית משגר נור מצוקה של ריידר."
   },
   "type": "Blueprint",
   "rarity": "Legendary",

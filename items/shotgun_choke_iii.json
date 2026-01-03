@@ -18,7 +18,9 @@
     "kr": "산탄총 초크 III",
     "tr": "Av Tüfeği Çoku III",
     "hr": "Sačmarica Prigušnica III",
-    "sr": "Sačmarica Prigušnica III"
+    "sr": "Sačmarica Prigušnica III",
+    "pt-BR": "Estrangulador de Escopeta III",
+    "he": "צ'וק לרובה ציד III"
   },
   "description": {
     "en": "Significantly reduces base dispersion.",
@@ -38,7 +40,9 @@
     "kr": "기본 분산도를 크게 감소시킵니다.",
     "tr": "Temel dağılmayı önemli ölçüde azaltır.",
     "hr": "Značajno smanjuje osnovno raspršenje.",
-    "sr": "Značajno smanjuje osnovno raspršenje."
+    "sr": "Značajno smanjuje osnovno raspršenje.",
+    "pt-BR": "Reduz significativamente a dispersão base.",
+    "he": "מפחית משמעותית את הפיזור הבסיסי."
   },
   "type": "Modification",
   "rarity": "Rare",
@@ -64,7 +68,9 @@
       "tr": "Uyumlu",
       "hr": "Kompatibilno S",
       "sr": "Kompatibilno Sa",
-      "value": "Il Toro, Vulcano"
+      "value": "Il Toro, Vulcano",
+      "pt-BR": "Compatível com",
+      "he": "תואם ל"
     },
     "Reduced Base Dispersion": {
       "en": "Reduced Base Dispersion",
@@ -85,7 +91,9 @@
       "tr": "Azaltılmış Temel Dağılma",
       "hr": "Smanjeno Osnovno Raspršenje",
       "sr": "Smanjeno Osnovno Raspršenje",
-      "value": "30%"
+      "value": "30%",
+      "pt-BR": "Dispersão base reduzida",
+      "he": "פיזור בסיסי מופחת"
     },
     "Increased Durability Burn Rate": {
       "en": "Increased Durability Burn Rate",
@@ -106,7 +114,9 @@
       "tr": "Artırılmış Dayanıklılık Tükenme Oranı",
       "hr": "Povećana Stopa Trošenja Izdržljivosti",
       "sr": "Povećana Stopa Trošenja Izdržljivosti",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Taxa de consumo de durabilidade aumentada",
+      "he": "קצב שחיקת עמידות מוגבר"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_iii.png",

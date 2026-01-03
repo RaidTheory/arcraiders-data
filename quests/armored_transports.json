@@ -19,7 +19,9 @@
     "tr": "Zırhlı Nakliyeler",
     "zh-TW": "裝甲運輸隊",
     "sr": "Oklopni Transporti",
-    "hr": "Oklopni Transporti"
+    "hr": "Oklopni Transporti",
+    "pt-BR": "Transportes Blindados",
+    "he": "מובילים משוריינים"
   },
   "map": [
     "the_blue_gate"
@@ -43,7 +45,9 @@
     "tr": "Tünelleri Mavi Kapı'ya genişlettiğimizden beri kara pazarda bazı nadir parçalar görünmeye başladı.\n\nBu arada ben burada eski hırpalanmış Rattler'lar satmakla uğraşıyorum. Yeni tedarik hatları bulmazsam geride kalacağım.",
     "zh-TW": "自從我們將隧道擴展到藍門以來，一些稀有物品開始在黑市上出現。\n\n而我卻困在這裡兜售破舊的響尾蛇。如果我找不到新的供應線，就會被淘汰。",
     "sr": "Otkako smo proširili tunele do Plave Kapije, neki retki predmeti su se počeli pojavljivati na crnom tržištu.\n\nU međuvremenu, ja sam zaglavljen ovde prodajući izlupane stare Rattlere. Ako ne pronađem nove linije snabdevanja, ostaću u prašini.",
-    "hr": "Otkako smo proširili tunele do Plavih Vrata, neki rijetki predmeti su se počeli pojavljivati na crnom tržištu.\n\nU međuvremenu, ja sam zaglavljen ovdje prodajući izlupane stare Rattlere. Ako ne pronađem nove linije opskrbe, ostat ću u prašini."
+    "hr": "Otkako smo proširili tunele do Plavih Vrata, neki rijetki predmeti su se počeli pojavljivati na crnom tržištu.\n\nU međuvremenu, ja sam zaglavljen ovdje prodajući izlupane stare Rattlere. Ako ne pronađem nove linije opskrbe, ostat ću u prašini.",
+    "pt-BR": "Desde que expandimos os túneis para o Blue Gate, algumas peças raras começaram a aparecer no mercado negro.\n\nEnquanto isso, estou preso aqui vendendo velhas Rattlers surradas. Se eu não encontrar novas linhas de suprimento, vou comer poeira.",
+    "he": "מאז שהרחבנו את המנהרות ל-Blue Gate, כמה פריטים נדירים התחילו להופיע בשוק השחור.\n\nבינתיים, אני תקוע כאן ומוכר רטלרים ישנים וחבוטים. אם לא אמצא קווי אספקה חדשים, אני אשאר מאחור."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Kontrol Noktasına Ulaş",
       "zh-TW": "到達檢查點",
       "sr": "Dođi do Kontrolnog Punkta",
-      "hr": "Dođi do Kontrolnog Punkta"
+      "hr": "Dođi do Kontrolnog Punkta",
+      "pt-BR": "Chegue ao Posto de Controle",
+      "he": "הגע למחסום"
     },
     {
       "en": "Search the Guard huts for a Armored Patrol Key Card",
@@ -84,7 +90,9 @@
       "tr": "Zırhlı Devriye Anahtar Kartı için Nöbet Kulübelerini Ara",
       "zh-TW": "搜索警衛室尋找裝甲巡邏鑰匙卡",
       "sr": "Pretraži straže za Ključ Karticu Oklopne Patrole",
-      "hr": "Pretraži straže za Ključ Karticu Oklopne Patrole"
+      "hr": "Pretraži straže za Ključ Karticu Oklopne Patrole",
+      "pt-BR": "Vasculhe as guaritas em busca de um Cartão de Acesso da Patrulha Blindada",
+      "he": "חפש בצריפי השמירה כרטיס מפתח לסיור משוריין"
     },
     {
       "en": "Reach the Traffic Tunnel near the Blue Gate Checkpoint",
@@ -104,7 +112,9 @@
       "tr": "Mavi Kapı Kontrol Noktası yakınındaki Trafik Tüneline Ulaş",
       "zh-TW": "到達藍門檢查點附近的交通隧道",
       "sr": "Dođi do Saobraćajnog Tunela blizu Kontrolnog Punkta Plave Kapije",
-      "hr": "Dođi do Prometnog Tunela blizu Kontrolnog Punkta Plavih Vrata"
+      "hr": "Dođi do Prometnog Tunela blizu Kontrolnog Punkta Plavih Vrata",
+      "pt-BR": "Chegue ao Túnel de Tráfego perto do Posto de Controle do Blue Gate",
+      "he": "הגע למנהרת התנועה ליד מחסום ה-Blue Gate"
     },
     {
       "en": "Find and unlock the rear door of an armored patrol car",
@@ -124,7 +134,9 @@
       "tr": "Zırhlı devriye aracının arka kapısını bul ve kilidi aç",
       "zh-TW": "找到並解鎖裝甲巡邏車的後門",
       "sr": "Pronađi i otključaj zadnja vrata oklopnog patrolnog vozila",
-      "hr": "Pronađi i otključaj stražnja vrata oklopnog patrolnog vozila"
+      "hr": "Pronađi i otključaj stražnja vrata oklopnog patrolnog vozila",
+      "pt-BR": "Encontre e destranque a porta traseira de um carro de patrulha blindado",
+      "he": "מצא ופתח את הדלת האחורית של רכב סיור משוריין"
     }
   ],
   "rewardItemIds": [

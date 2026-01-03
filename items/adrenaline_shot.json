@@ -18,7 +18,9 @@
     "kr": "아드레날린 주사",
     "tr": "Adrenalin İğnesi",
     "hr": "Injekcija adrenalina",
-    "sr": "Injekcija adrenalina"
+    "sr": "Injekcija adrenalina",
+    "pt-BR": "Injeção de Adrenalina",
+    "he": "זריקת אדרנלין"
   },
   "description": {
     "en": "A serum that fully restores stamina and temporarily increases stamina regeneration.",
@@ -38,7 +40,9 @@
     "kr": "스태미나를 완전히 회복하고 일시적으로 스태미나 재생을 증가시키는 혈청.",
     "tr": "Dayanıklılığı tamamen geri yükleyen ve geçici olarak dayanıklılık yenilenmesini artıran bir serum.",
     "hr": "Serum koji potpuno obnavlja izdržljivost i privremeno povećava regeneraciju izdržljivosti.",
-    "sr": "Serum koji potpuno obnavlja izdržljivost i privremeno povećava regeneraciju izdržljivosti."
+    "sr": "Serum koji potpuno obnavlja izdržljivost i privremeno povećava regeneraciju izdržljivosti.",
+    "pt-BR": "Um soro que restaura completamente o vigor e aumenta temporariamente a regeneração de vigor.",
+    "he": "סרום שממלא את הסיבולת במלואה ומגביר זמנית את קצב התאוששות הסיבולת."
   },
   "type": "Quick Use",
   "value": 300,
@@ -69,7 +73,9 @@
       "tr": "Dayanıklılık Yenilenmesi",
       "hr": "Regeneracija izdržljivosti",
       "sr": "Regeneracija izdržljivosti",
-      "value": "5/s"
+      "value": "5/s",
+      "pt-BR": "Regeneração de Vigor",
+      "he": "התאוששות סיבולת"
     },
     "Duration": {
       "en": "Duration",
@@ -90,7 +96,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "10s"
+      "value": "10s",
+      "pt-BR": "Duração",
+      "he": "משך זמן"
     },
     "Use Time": {
       "en": "Use Time",
@@ -111,7 +119,9 @@
       "tr": "Kullanım Süresi",
       "hr": "Vrijeme korištenja",
       "sr": "Vreme korišćenja",
-      "value": "1s"
+      "value": "1s",
+      "pt-BR": "Tempo de Uso",
+      "he": "זמן שימוש"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/adrenaline_shot.png",

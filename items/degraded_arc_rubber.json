@@ -18,7 +18,9 @@
     "kr": "타버린 아크 고무",
     "tr": "Bozulmuş ARC Kauçuğu",
     "hr": "Degradirana ARC Guma",
-    "sr": "Degradirana ARC Guma"
+    "sr": "Degradirana ARC Guma",
+    "pt-BR": "Borracha ARC Degradada",
+    "he": "גומי ARC שחוק"
   },
   "description": {
     "en": "Obtained from ARC enemies or activities. Can be recycled into rubber.",
@@ -38,7 +40,9 @@
     "kr": "아크 적이나 활동에서 획득. 고무로 재활용 가능.",
     "tr": "ARC düşmanlarından veya etkinliklerden elde edilir. Kauçuğa geri dönüştürülebilir.",
     "hr": "Dobiva se od ARC neprijatelja ili aktivnosti. Može se reciklirati u gumu.",
-    "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Može se reciklirati u gumu."
+    "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Može se reciklirati u gumu.",
+    "pt-BR": "Obtida de inimigos ou atividades ARC. Pode ser reciclada em borracha.",
+    "he": "מתקבל מאויבי ARC או מפעילויות. ניתן למיחזור לגומי."
   },
   "type": "Recyclable",
   "rarity": "Uncommon",

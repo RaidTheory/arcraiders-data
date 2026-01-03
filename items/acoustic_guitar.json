@@ -18,7 +18,9 @@
     "kr": "어쿠스틱 기타",
     "tr": "Akustik Gitar",
     "hr": "Akustična gitara",
-    "sr": "Akustična gitara"
+    "sr": "Akustična gitara",
+    "pt-BR": "Violão",
+    "he": "גיטרה אקוסטית"
   },
   "description": {
     "en": "A playable acoustic guitar used to attract ARC's attention, and impress other Raiders.",
@@ -38,13 +40,15 @@
     "kr": "ARC의 관심을 끌고 다른 레이더들에게 깊은 인상을 남기기 위해 연주할 수 있는 어쿠스틱 기타입니다.",
     "tr": "ARC'nin dikkatini çekmek ve diğer Raider'ları etkilemek için kullanılan, çalınabilir bir akustik gitar.",
     "hr": "Akustična gitara na kojoj se može svirati, koristi se za privlačenje ARC-ove pažnje i impresioniranje drugih Raidera.",
-    "sr": "Akustična gitara na kojoj se može svirati, koristi se za privlačenje ARC-ove pažnje i impresioniranje drugih Rajdera."
+    "sr": "Akustična gitara na kojoj se može svirati, koristi se za privlačenje ARC-ove pažnje i impresioniranje drugih Rajdera.",
+    "pt-BR": "Um violão tocável usado para atrair a atenção das ARC e impressionar outros Raiders.",
+    "he": "גיטרה אקוסטית שניתן לנגן בה כדי למשוך את תשומת הלב של ARC, ולהרשים ריידרים אחרים."
   },
   "type": "Quick Use",
   "rarity": "Legendary",
   "value": 7000,
   "recyclesInto": {},
-  "weightKg": 1.0,
+  "weightKg": 1,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/acoustic_guitar.png",
   "updatedAt": "12/17/2025"

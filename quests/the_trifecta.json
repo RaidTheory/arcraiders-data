@@ -19,7 +19,9 @@
     "tr": "Üçlü Zafer",
     "zh-TW": "三連勝",
     "sr": "Trifekta",
-    "hr": "Trifekta"
+    "hr": "Trifekta",
+    "pt-BR": "A Tríade",
+    "he": "השילוש"
   },
   "map": [
     "buried_city",
@@ -46,7 +48,9 @@
     "tr": "İstihbarat iyi güzel ama bizi ancak buraya kadar getirir. Eğer ARC gerçekten yaklaşıyorsa, her Raider'ın bir çatışmada drone'larıyla başa çıkabileceğini kanıtlaması gerekiyor.",
     "zh-TW": "情報固然很好，但只能幫我們到這裡。如果ARC真的逼近了，我需要每個掠奪者證明他們能在戰鬥中對付那些無人機。",
     "sr": "Informacije su dobre i korisne, ali nas samo donekle dovode. Ako se ARC zaista približava, potrebno mi je da svaki Raider dokaže da može da se nosi sa njihovim dronovima u borbi.",
-    "hr": "Informacije su dobre i korisne, ali nas samo donekle dovode. Ako se ARC zaista približava, potrebno mi je da svaki Raider dokaže da se može nositi s njihovim dronovima u borbi."
+    "hr": "Informacije su dobre i korisne, ali nas samo donekle dovode. Ako se ARC zaista približava, potrebno mi je da svaki Raider dokaže da se može nositi s njihovim dronovima u borbi.",
+    "pt-BR": "Inteligência é muito bom e tudo mais, mas tem limite. Se a ARC está realmente fechando o cerco, preciso que todo Raider prove que consegue dar conta dos drones deles numa luta.",
+    "he": "מודיעין זה טוב ויפה, אבל הוא לוקח אותנו רק עד גבול מסוים. אם ARC באמת סוגרים עלינו, אני צריך שכל ריידר יוכיח שהוא מסוגל להתמודד עם הרחפנים שלהם בקרב."
   },
   "objectives": [
     {
@@ -67,7 +71,9 @@
       "tr": "2 Wasp yok et",
       "zh-TW": "摧毀2個黃蜂",
       "sr": "Uništi 2 Waspa",
-      "hr": "Uništi 2 Waspa"
+      "hr": "Uništi 2 Waspa",
+      "pt-BR": "Destrua 2 Wasps",
+      "he": "השמד 2 צרעות"
     },
     {
       "en": "Get 2 Wasp Driver for Shani",
@@ -87,7 +93,9 @@
       "tr": "Shani için 2 Wasp Driver al",
       "zh-TW": "為莎妮獲取2個黃蜂驅動器",
       "sr": "Nabavi 2 Wasp Drivera za Shani",
-      "hr": "Nabavi 2 Wasp Drivera za Shani"
+      "hr": "Nabavi 2 Wasp Drivera za Shani",
+      "pt-BR": "Obtenha 2 Controladores de Wasp para Shani",
+      "he": "השג 2 דרייברים של צרעה עבור Shani"
     },
     {
       "en": "Destroy 2 Hornets",
@@ -107,7 +115,9 @@
       "tr": "2 Hornet yok et",
       "zh-TW": "摧毀2個大黃蜂",
       "sr": "Uništi 2 Horneta",
-      "hr": "Uništi 2 Horneta"
+      "hr": "Uništi 2 Horneta",
+      "pt-BR": "Destrua 2 Hornets",
+      "he": "השמד 2 דבורים"
     },
     {
       "en": "Get 2 Hornet Driver for Shani",
@@ -127,7 +137,9 @@
       "tr": "Shani için 2 Hornet Driver al",
       "zh-TW": "為莎妮獲取2個大黃蜂驅動器",
       "sr": "Nabavi 2 Hornet Drivera za Shani",
-      "hr": "Nabavi 2 Hornet Drivera za Shani"
+      "hr": "Nabavi 2 Hornet Drivera za Shani",
+      "pt-BR": "Obtenha 2 Controladores de Hornet para Shani",
+      "he": "השג 2 דרייברים של דבור עבור Shani"
     },
     {
       "en": "Destroy 2 Snitches",
@@ -147,7 +159,9 @@
       "tr": "2 Snitch yok et",
       "zh-TW": "摧毀2個告密者",
       "sr": "Uništi 2 Snitcha",
-      "hr": "Uništi 2 Snitcha"
+      "hr": "Uništi 2 Snitcha",
+      "pt-BR": "Destrua 2 Snitches",
+      "he": "השמד 2 מלשנים"
     },
     {
       "en": "Get 2 Snitch Scanner for Shani",
@@ -167,7 +181,9 @@
       "tr": "Shani için 2 Snitch Scanner al",
       "zh-TW": "為莎妮獲取2個告密者掃描儀",
       "sr": "Nabavi 2 Snitch Scannera za Shani",
-      "hr": "Nabavi 2 Snitch Scannera za Shani"
+      "hr": "Nabavi 2 Snitch Scannera za Shani",
+      "pt-BR": "Obtenha 2 Scanners de Snitch para Shani",
+      "he": "השג 2 סורקי מלשן עבור Shani"
     }
   ],
   "requiredItemIds": [

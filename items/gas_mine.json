@@ -17,7 +17,9 @@
     "tr": "Gaz Mayını",
     "uk": "Газова міна",
     "sr": "Gasna mina",
-    "hr": "Plinska mina"
+    "hr": "Plinska mina",
+    "pt-BR": "Mina de Gás",
+    "he": "מוקש גז"
   },
   "description": {
     "en": "A proximity-triggered mine that pops up and deploys a gas cloud that rapidly drains stamina.",
@@ -37,7 +39,9 @@
     "tr": "Yakınlık tetiklemeli bir mayın, fırlayarak dayanıklılığı hızla tüketen bir gaz bulutu yayar.",
     "uk": "Міна з датчиком наближення, яка вистрибує і випускає газову хмару, що швидко виснажує витривалість.",
     "sr": "Mina aktivirana blizinom koja iskoči i oslobađa oblak gasa koji brzo iscrpljuje izdržljivost.",
-    "hr": "Mina aktivirana blizinom koja iskoči i oslobađa oblak plina koji brzo iscrpljuje izdržljivost."
+    "hr": "Mina aktivirana blizinom koja iskoči i oslobađa oblak plina koji brzo iscrpljuje izdržljivost.",
+    "pt-BR": "Uma mina acionada por proximidade que salta e libera uma nuvem de gás que drena estamina rapidamente.",
+    "he": "מוקש המופעל בקרבה, הקופץ מעלה ומפזר ענן גז המדלדל את הסיבולת במהירות."
   },
   "id": "gas_mine",
   "type": "Quick Use",
@@ -65,7 +69,9 @@
       "uk": "Виснаження витривалості",
       "sr": "Iscrpljivanje izdržljivosti",
       "hr": "Iscrpljivanje izdržljivosti",
-      "value": "25/s"
+      "value": "25/s",
+      "pt-BR": "Drenagem de Estamina",
+      "he": "דלדול סיבולת"
     },
     "Duration": {
       "en": "Duration",
@@ -86,7 +92,9 @@
       "uk": "Тривалість",
       "sr": "Trajanje",
       "hr": "Trajanje",
-      "value": "20s"
+      "value": "20s",
+      "pt-BR": "Duração",
+      "he": "משך"
     },
     "Radius": {
       "en": "Radius",
@@ -107,7 +115,9 @@
       "uk": "Радіус",
       "sr": "Radijus",
       "hr": "Radijus",
-      "value": "7.5m"
+      "value": "7.5m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "recyclesInto": {

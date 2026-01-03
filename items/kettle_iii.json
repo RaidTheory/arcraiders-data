@@ -18,7 +18,9 @@
     "kr": "케틀 III",
     "tr": "Kettle III",
     "hr": "Kettle III",
-    "sr": "Kettle III"
+    "sr": "Kettle III",
+    "pt-BR": "Kettle III",
+    "he": "קטל III"
   },
   "description": {
     "en": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
@@ -38,7 +40,9 @@
     "kr": "빠르고 정확하지만, 탄속이 느리고 재장전 시간이 깁니다.",
     "tr": "Hızlı ve isabetli, ancak düşük mermi hızına sahip ve yeniden dolması uzun sürer.",
     "hr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje.",
-    "sr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje."
+    "sr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje.",
+    "pt-BR": "Rápido e preciso, mas tem baixa velocidade de projétil e demora para recarregar.",
+    "he": "מהיר ומדויק, אך בעל מהירות קליע נמוכה וזמן טעינה ארוך."
   },
   "type": "Assault Rifle",
   "rarity": "Common",
@@ -64,7 +68,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "120/120"
+      "value": "120/120",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -85,7 +91,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta municije",
-      "value": "Light Ammo"
+      "value": "Light Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -106,7 +114,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
-      "value": 20
+      "value": 20,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -127,7 +137,9 @@
       "tr": "Atış Modu",
       "hr": "Način pucanja",
       "sr": "Režim pucanja",
-      "value": "Semi-Automatic"
+      "value": "Semi-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -148,7 +160,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Very Weak"
+      "value": "Very Weak",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     },
     "Upgrade Modifiers": {
       "en": "Upgrade Modifiers",
@@ -172,7 +186,9 @@
       "value": [
         "50% Increased Bullet Velocity",
         "26% Reduced Reload Time"
-      ]
+      ],
+      "pt-BR": "Modificadores de Melhoria",
+      "he": "מקדמי שדרוג"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",

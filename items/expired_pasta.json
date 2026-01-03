@@ -18,7 +18,9 @@
     "kr": "유통기한 지난 파스타",
     "tr": "Son Kullanma Tarihi Geçmiş Makarna",
     "hr": "Istekle Tjestenine",
-    "sr": "Istekle Testenine"
+    "sr": "Istekle Testenine",
+    "pt-BR": "Macarrão Vencido",
+    "he": "פסטה פגת תוקף"
   },
   "description": {
     "en": "Way pasta its prime. Can (reluctantly) be consumed to restore small amounts of health.",
@@ -38,7 +40,9 @@
     "kr": "유통기한이 한참 지났다. (마지못해) 섭취하여 소량의 체력을 회복할 수 있다.",
     "tr": "En iyi dönemini çoktan geçmiş. Küçük miktarda can yenilemek için (isteksizce) tüketilebilir.",
     "hr": "Daleko prošao rok trajanja. Može se (nevoljko) konzumirati za obnavljanje male količine zdravlja.",
-    "sr": "Daleko prošao rok trajanja. Može se (nevoljko) konzumirati za obnavljanje male količine zdravlja."
+    "sr": "Daleko prošao rok trajanja. Može se (nevoljko) konzumirati za obnavljanje male količine zdravlja.",
+    "pt-BR": "Já passou (e muito) da validade. Pode ser consumido (a contragosto) para restaurar pequenas quantidades de saúde.",
+    "he": "עברה את שיאה ממזמן. ניתנת (בחוסר רצון) לאכילה כדי להשיב כמות קטנה של בריאות."
   },
   "type": "Trinket",
   "value": 1000,
@@ -65,7 +69,9 @@
       "tr": "İyileştirme",
       "hr": "Liječenje",
       "sr": "Lečenje",
-      "value": 15
+      "value": 15,
+      "pt-BR": "Cura",
+      "he": "ריפוי"
     },
     "Use Time": {
       "en": "Use Time",
@@ -86,7 +92,9 @@
       "tr": "Kullanım Süresi",
       "hr": "Vrijeme Korištenja",
       "sr": "Vreme Korišćenja",
-      "value": "1s"
+      "value": "1s",
+      "pt-BR": "Tempo de Uso",
+      "he": "זמן שימוש"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/expired_pasta.png",

@@ -17,7 +17,9 @@
     "tr": "Nabız Mayını",
     "uk": "Імпульсна міна",
     "sr": "Pulsna mina",
-    "hr": "Pulsna mina"
+    "hr": "Pulsna mina",
+    "pt-BR": "Mina de Pulso",
+    "he": "מוקש פעימה"
   },
   "description": {
     "en": "A proximity-triggered mine that pops up and knocks back anything within its radius.",
@@ -37,7 +39,9 @@
     "tr": "Yakınlık tetiklemeli bir mayın, fırlayarak yarıçapı içindeki her şeyi geri iter.",
     "uk": "Міна з датчиком наближення, яка вистрибує і відкидає все в радіусі дії.",
     "sr": "Mina aktivirana blizinom koja iskoči i odbaci sve u svom radijusu.",
-    "hr": "Mina aktivirana blizinom koja iskoči i odbaci sve u svom radijusu."
+    "hr": "Mina aktivirana blizinom koja iskoči i odbaci sve u svom radijusu.",
+    "pt-BR": "Uma mina acionada por proximidade que salta e repele qualquer coisa dentro de seu raio.",
+    "he": "מוקש קרבה שקופץ מעלה והודף לאחור כל דבר בטווח שלו."
   },
   "id": "pulse_mine",
   "type": "Quick Use",
@@ -65,7 +69,9 @@
       "uk": "Радіус",
       "sr": "Radijus",
       "hr": "Radijus",
-      "value": "7.5m"
+      "value": "7.5m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "recyclesInto": {

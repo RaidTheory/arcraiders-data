@@ -18,7 +18,9 @@
     "kr": "전술 마크 2",
     "tr": "Taktik Mk. 2",
     "hr": "Taktički Mk. 2",
-    "sr": "Taktički Mk. 2"
+    "sr": "Taktički Mk. 2",
+    "pt-BR": "Tático Mk. 2",
+    "he": "טקטי Mk. 2"
   },
   "description": {
     "en": "Adds more backpack space and an extra utility item slot.",
@@ -38,7 +40,9 @@
     "kr": "더 많은 배낭 공간과 추가 유틸리티 아이템 슬롯을 추가합니다.",
     "tr": "Daha fazla sırt çantası alanı ve ekstra bir yardımcı eşya yuvası ekler.",
     "hr": "Dodaje više prostora u ruksaku i dodatno mjesto za pomoćni predmet.",
-    "sr": "Dodaje više prostora u rancu i dodatno mesto za pomoćni predmet."
+    "sr": "Dodaje više prostora u rancu i dodatno mesto za pomoćni predmet.",
+    "pt-BR": "Adiciona mais espaço na mochila e um espaço extra para item utilitário.",
+    "he": "מוסיף מקום בתיק הגב ותא נוסף לפריטי עזר."
   },
   "type": "Augment",
   "rarity": "Rare",
@@ -65,7 +69,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
@@ -86,7 +92,9 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. težina opreme",
       "sr": "Maks. težina opreme",
-      "value": 45
+      "value": 45,
+      "pt-BR": "Peso Máximo de Carga",
+      "he": "משקל ציוד מרבי"
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -107,7 +115,9 @@
       "tr": "Kalkan Uyumluluğu",
       "hr": "Kompatibilnost štita",
       "sr": "Kompatibilnost štita",
-      "value": "Light, Medium"
+      "value": "Light, Medium",
+      "pt-BR": "Compatibilidade de Escudo",
+      "he": "תאימות מגן"
     }
   },
   "weightKg": 2,

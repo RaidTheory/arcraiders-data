@@ -18,7 +18,9 @@
     "kr": "가스 수류탄",
     "tr": "Gaz Bombası",
     "hr": "Plinska granata",
-    "sr": "Plinska granata"
+    "sr": "Plinska granata",
+    "pt-BR": "Granada de Gás",
+    "he": "רימון גז"
   },
   "description": {
     "en": "A grenade that emits a lingering toxic cloud on impact, draining the stamina of any Raiders within its area of effect.",
@@ -38,7 +40,9 @@
     "kr": "충돌 시 지속되는 독성 구름을 방출하여 효과 범위 내의 모든 레이더의 스태미나를 소모시키는 수류탄.",
     "tr": "Çarpma anında kalıcı zehirli bir bulut yayan ve etki alanındaki tüm Akıncıların dayanıklılığını tüketen bir bomba.",
     "hr": "Granata koja pri udaru ispušta dugotrajni otrovni oblak, iscrpljujući izdržljivost svih pljačkaša unutar svog područja djelovanja.",
-    "sr": "Granata koja pri udaru ispušta dugotrajni otrovni oblak, iscrpljujući izdržljivost svih pljačkaša unutar svog područja dejstva."
+    "sr": "Granata koja pri udaru ispušta dugotrajni otrovni oblak, iscrpljujući izdržljivost svih pljačkaša unutar svog područja dejstva.",
+    "pt-BR": "Uma granada que emite uma nuvem tóxica persistente no impacto, drenando o vigor de quaisquer Raiders dentro de sua área de efeito.",
+    "he": "רימון הפולט ענן רעיל מתמשך בעת הפגיעה, ומרוקן את הסיבולת של כל ריידר הנמצא בטווח ההשפעה שלו."
   },
   "type": "Quick Use",
   "rarity": "Common",
@@ -69,7 +73,9 @@
       "tr": "Dayanıklılık Tüketimi",
       "hr": "Iscrpljivanje izdržljivosti",
       "sr": "Iscrpljivanje izdržljivosti",
-      "value": "25/s"
+      "value": "25/s",
+      "pt-BR": "Drenagem de Estamina",
+      "he": "דלדול סיבולת"
     },
     "Duration": {
       "en": "Duration",
@@ -90,7 +96,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "20s"
+      "value": "20s",
+      "pt-BR": "Duração",
+      "he": "משך"
     },
     "Radius": {
       "en": "Radius",
@@ -111,7 +119,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "7.5m"
+      "value": "7.5m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/gas_grenade.png",

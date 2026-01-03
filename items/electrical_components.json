@@ -18,7 +18,9 @@
     "kr": "전기 부품",
     "tr": "Elektrik Bileşenleri",
     "hr": "Električne Komponente",
-    "sr": "Električne Komponente"
+    "sr": "Električne Komponente",
+    "pt-BR": "Componentes Elétricos",
+    "he": "רכיבים חשמליים"
   },
   "description": {
     "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Shield Recharger, Lure Grenade",
@@ -38,7 +40,9 @@
     "kr": "다양한 아이템 제작에 사용. 제작 재료로 재활용 가능. 제작 용도: 전술 마크 2, 전투 마크 2, 노획 마크 2, 급속 실드 충전기, 미끼 수류탄",
     "tr": "Çok çeşitli eşyalar üretmek için kullanılır. Üretim malzemelerine geri dönüştürülebilir. Üretim için kullanılır: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Kalkan Şarj Cihazı, Yem Bombası",
     "hr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Shield Recharger, Lure Granata",
-    "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Shield Recharger, Lure Granata"
+    "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Shield Recharger, Lure Granata",
+    "pt-BR": "Usado para criar uma grande variedade de itens. Pode ser reciclado em materiais de criação. Usado para criar: Tático Mk. 2, Combate Mk. 2, Saque Mk. 2, Recarregador de Escudo de Surto, Granada de Isca",
+    "he": "משמש ליצירת מגוון רחב של פריטים. ניתן למיחזור לחומרי יצירה. משמש ליצירת: טקטי Mk. 2, קרבי Mk. 2, ביזה Mk. 2, מטען מגן נחשול, רימון פיתיון"
   },
   "type": "Refined Material",
   "value": 640,

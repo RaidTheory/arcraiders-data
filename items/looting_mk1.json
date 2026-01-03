@@ -18,7 +18,9 @@
     "kr": "노획 마크 1",
     "tr": "Yağmalama Mk. 1",
     "hr": "Pljačkanje Mk. 1",
-    "sr": "Pljačkanje Mk. 1"
+    "sr": "Pljačkanje Mk. 1",
+    "pt-BR": "Saque Mk. 1",
+    "he": "ביזה Mk. 1"
   },
   "description": {
     "en": "Basic looting augment. More backpack slots and weight capacity, but low defensive and tactical capability.",
@@ -38,7 +40,9 @@
     "kr": "기본 약탈 증강. 배낭 슬롯과 무게 용량이 증가하지만 방어 및 전술 능력이 낮습니다.",
     "tr": "Temel yağmalama güçlendirmesi. Daha fazla sırt çantası yuvası ve ağırlık kapasitesi, ancak düşük savunma ve taktik yetenek.",
     "hr": "Osnovno poboljšanje za pljačkanje. Više mjesta u ruksaku i nosivosti, ali niska obrambena i taktička sposobnost.",
-    "sr": "Osnovno poboljšanje za pljačkanje. Više mesta u rancu i nosivosti, ali niska odbrambena i taktička sposobnost."
+    "sr": "Osnovno poboljšanje za pljačkanje. Više mesta u rancu i nosivosti, ali niska odbrambena i taktička sposobnost.",
+    "pt-BR": "Aprimoramento básico de saque. Mais espaços na mochila e capacidade de peso, mas baixa capacidade defensiva e tática.",
+    "he": "תוסף ביזה בסיסי. יותר מקומות בתיק ויכולת נשיאת משקל, אך יכולות הגנתיות וטקטיות נמוכות."
   },
   "type": "Augment",
   "rarity": "Uncommon",
@@ -68,7 +72,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
@@ -89,7 +95,9 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. Težina Opreme",
       "sr": "Maks. Težina Opreme",
-      "value": 50
+      "value": 50,
+      "pt-BR": "Peso Máximo do Equipamento",
+      "he": "משקל ציוד מירבי"
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -110,7 +118,9 @@
       "tr": "Kalkan Uyumluluğu",
       "hr": "Kompatibilnost Štita",
       "sr": "Kompatibilnost Štita",
-      "value": "Light"
+      "value": "Light",
+      "pt-BR": "Compatibilidade de Escudo",
+      "he": "תאימות מגן"
     }
   },
   "updatedAt": "11/03/2025",

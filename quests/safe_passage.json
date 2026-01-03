@@ -19,7 +19,9 @@
     "tr": "Güvenli Geçiş",
     "zh-TW": "安全通道",
     "sr": "Siguran Prolaz",
-    "hr": "Siguran Prolaz"
+    "hr": "Siguran Prolaz",
+    "pt-BR": "Passagem Segura",
+    "he": "מעבר בטוח"
   },
   "trader": "Apollo",
   "description": {
@@ -44,7 +46,9 @@
       "tr": "Herhangi bir patlayıcı bomba kullanarak 2 ARC düşmanını yok et",
       "zh-TW": "使用任意爆炸手榴彈摧毀2個ARC敵人",
       "sr": "Uništite 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu",
-      "hr": "Uništite 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu"
+      "hr": "Uništite 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu",
+      "pt-BR": "Destrua 2 inimigos ARC usando qualquer granada explosiva",
+      "he": "השמד 2 אויבי ARC באמצעות רימון נפיץ כלשהו"
     }
   ],
   "grantedItemIds": [

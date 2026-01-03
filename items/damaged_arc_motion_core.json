@@ -18,7 +18,9 @@
     "tr": "Hasarlı ARC Hareket Çekirdeği",
     "uk": "Пошкоджене ядро руху ARC",
     "sr": "Oštećeno ARC jezgro pokreta",
-    "hr": "Oštećena ARC jezgra pokreta"
+    "hr": "Oštećena ARC jezgra pokreta",
+    "pt-BR": "Núcleo de Movimento ARC Danificado",
+    "he": "ליבת תנועת ARC פגומה"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "sr": "Može se reciklirati u materijale za izradu.",
-    "hr": "Može se reciklirati u materijale za izradu."
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למיחזור לחומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Uncommon",

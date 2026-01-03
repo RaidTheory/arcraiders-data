@@ -19,7 +19,9 @@
     "tr": "Celeste'in Günlükleri",
     "zh-TW": "賽蕾絲特的日記",
     "sr": "Celestini Dnevnici",
-    "hr": "Celestini Dnevnici"
+    "hr": "Celestini Dnevnici",
+    "pt-BR": "Diários de Celeste",
+    "he": "היומנים של סלסט"
   },
   "map": [
     "dam_battlegrounds"
@@ -43,7 +45,9 @@
     "tr": "Tamam, bu biraz garip... Geçen sefer yüzeye çıktığımda karakol denetimlerinde iki günlüğümü kaybettim. Oraya gidip başkası onlara rastlamadan önce bulabilir misin?",
     "zh-TW": "好吧，這有點尷尬……我上次去地面檢查前哨站時弄丟了兩本日記。你能去那裡幫我找回來嗎？最好在別人發現之前找到它們。",
     "sr": "Dobro, ovo je nezgodno... Izgubila sam dva svoja dnevnika tokom inspekcije isturenih položaja prošli put kad sam bila na površini. Možeš li otići tamo i pokušati da ih pronađeš pre nego što neko drugi naiđe na njih?",
-    "hr": "U redu, ovo je neugodno... Izgubila sam dva svoja dnevnika tijekom inspekcije isturenih položaja prošli put kad sam bila na površini. Možeš li otići tamo i pokušati ih pronaći prije nego što netko drugi naiđe na njih?"
+    "hr": "U redu, ovo je neugodno... Izgubila sam dva svoja dnevnika tijekom inspekcije isturenih položaja prošli put kad sam bila na površini. Možeš li otići tamo i pokušati ih pronaći prije nego što netko drugi naiđe na njih?",
+    "pt-BR": "Ok, isso é meio constrangedor... Eu perdi dois dos meus diários durante algumas inspeções em postos avançados na última vez que fui à superfície. Você poderia ir lá e tentar recuperá-los antes que outra pessoa os encontre?",
+    "he": "אוקיי, אז זה מביך... איבדתי שניים מהיומנים שלי במהלך בדיקות במוצב בפעם האחרונה שעליתי לפני השטח. תוכל לצאת לשם ולנסות למצוא אותם לפני שמישהו אחר יתקל בהם?"
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Güney Bataklık Karakolundan Celeste'in Günlüklerini Al",
       "zh-TW": "從南部沼澤前哨站取回賽蕾絲特的日記",
       "sr": "Preuzmi Celestine Dnevnike sa Južnog Močvarnog Isturenog Položaja",
-      "hr": "Preuzmi Celestine Dnevnike s Južnog Močvarnog Isturenog Položaja"
+      "hr": "Preuzmi Celestine Dnevnike s Južnog Močvarnog Isturenog Položaja",
+      "pt-BR": "Recupere os Diários de Celeste do Posto Avançado do Pântano Sul",
+      "he": "השג את היומנים של סלסט ממוצב הביצה הדרומית"
     },
     {
       "en": "Retrieve Celeste's Journals from the northern outpost overlooking the Red Lakes",
@@ -84,7 +90,9 @@
       "tr": "Kızıl Göllere bakan kuzey karakolundan Celeste'in Günlüklerini Al",
       "zh-TW": "從俯瞰紅湖的北部前哨站取回賽蕾絲特的日記",
       "sr": "Preuzmi Celestine Dnevnike sa severnog isturenog položaja koji gleda na Crvena Jezera",
-      "hr": "Preuzmi Celestine Dnevnike sa sjevernog isturenog položaja koji gleda na Crvena Jezera"
+      "hr": "Preuzmi Celestine Dnevnike sa sjevernog isturenog položaja koji gleda na Crvena Jezera",
+      "pt-BR": "Recupere os Diários de Celeste do posto avançado ao norte com vista para os Lagos Vermelhos",
+      "he": "השג את היומנים של סלסט מהמוצב הצפוני המשקיף על האגמים האדומים"
     },
     {
       "en": "Deliver 2 Journals to Celeste",
@@ -104,7 +112,9 @@
       "tr": "Celeste'e 2 Günlük Teslim Et",
       "zh-TW": "將2本日記交給賽蕾絲特",
       "sr": "Dostavi 2 Dnevnika Celeste",
-      "hr": "Dostavi 2 Dnevnika Celeste"
+      "hr": "Dostavi 2 Dnevnika Celeste",
+      "pt-BR": "Entregue 2 Diários para Celeste",
+      "he": "מסור 2 יומנים לסלסט"
     }
   ],
   "requiredItemIds": [

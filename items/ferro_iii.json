@@ -18,7 +18,9 @@
     "kr": "페로 III",
     "tr": "Ferro III",
     "hr": "Ferro III",
-    "sr": "Ferro III"
+    "sr": "Ferro III",
+    "pt-BR": "Ferro III",
+    "he": "פרו III"
   },
   "description": {
     "en": "Packs a punch, but must be reloaded between every shot.",
@@ -38,7 +40,9 @@
     "kr": "강력한 한 방을 날리지만, 매 발사마다 재장전이 필요합니다.",
     "tr": "Güçlü bir darbe indirir, ancak her atıştan sonra yeniden doldurulmalıdır.",
     "hr": "Zadaje snažan udarac, ali se mora puniti između svakog hica.",
-    "sr": "Zadaje snažan udarac, ali mora da se punjenje između svakog hica."
+    "sr": "Zadaje snažan udarac, ali mora da se punjenje između svakog hica.",
+    "pt-BR": "Causa um grande impacto, mas precisa ser recarregada a cada disparo.",
+    "he": "עוצמתי במיוחד, אך דורש טעינה מחדש בין כל ירייה."
   },
   "type": "Battle Rifle",
   "rarity": "Common",
@@ -64,7 +68,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "120/120"
+      "value": "120/120",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -85,7 +91,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta municije",
-      "value": "Heavy Ammo"
+      "value": "Heavy Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -106,7 +114,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
-      "value": 1
+      "value": 1,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -127,7 +137,9 @@
       "tr": "Atış Modu",
       "hr": "Način pucanja",
       "sr": "Režim pucanja",
-      "value": "Break-Action"
+      "value": "Break-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -148,7 +160,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Strong"
+      "value": "Strong",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     },
     "Upgrade Modifiers": {
       "en": "Upgrade Modifiers",
@@ -169,7 +183,9 @@
       "tr": "Yükseltme Değiştiricileri",
       "hr": "Modifikatori nadogradnje",
       "sr": "Modifikatori nadogradnje",
-      "value": "26% Reduced Reload Time"
+      "value": "26% Reduced Reload Time",
+      "pt-BR": "Modificadores de Melhoria",
+      "he": "משתני שדרוג"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",

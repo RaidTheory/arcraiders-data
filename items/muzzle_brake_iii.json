@@ -18,7 +18,9 @@
     "kr": "총구 제동기 III",
     "tr": "Namlu Freni III",
     "hr": "Kočnica Cijevi III",
-    "sr": "Kočnica Cevi III"
+    "sr": "Kočnica Cevi III",
+    "pt-BR": "Freio de Boca III",
+    "he": "בלם לוע III"
   },
   "description": {
     "en": "Significantly reduces both vertical recoil & horizontal recoil. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -38,7 +40,9 @@
     "kr": "수직 반동과 수평 반동을 모두 크게 감소시킵니다. 호환 무기: 아르페지오, 페로, 레니게이드, 앤빌, 스티처",
     "tr": "Hem dikey geri tepmeyi hem de yatay geri tepmeyi önemli ölçüde azaltır. Uyumlu: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "hr": "Značajno smanjuje i vertikalni i horizontalni trzaj. Kompatibilno s: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-    "sr": "Značajno smanjuje i vertikalni i horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
+    "sr": "Značajno smanjuje i vertikalni i horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "pt-BR": "Reduz significativamente tanto o recuo vertical quanto o horizontal. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "he": "מפחית משמעותית הן רתע אנכי והן רתע אופקי. תואם ל: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
   },
   "type": "Modification",
   "value": 5000,
@@ -64,7 +68,9 @@
       "tr": "Azaltılmış Dikey Geri Tepme",
       "hr": "Smanjen Vertikalni Trzaj",
       "sr": "Smanjen Vertikalni Trzaj",
-      "value": "25%"
+      "value": "25%",
+      "pt-BR": "Recuo Vertical Reduzido",
+      "he": "רתע אנכי מופחת"
     },
     "Reduced Horizontal Recoil": {
       "en": "Reduced Horizontal Recoil",
@@ -85,7 +91,9 @@
       "tr": "Azaltılmış Yatay Geri Tepme",
       "hr": "Smanjen Horizontalni Trzaj",
       "sr": "Smanjen Horizontalni Trzaj",
-      "value": "25%"
+      "value": "25%",
+      "pt-BR": "Recuo Horizontal Reduzido",
+      "he": "רתע אופקי מופחת"
     },
     "Increased Durability Burn Rate": {
       "en": "Increased Durability Burn Rate",
@@ -106,7 +114,9 @@
       "tr": "Artırılmış Dayanıklılık Tükenme Oranı",
       "hr": "Povećana Stopa Trošenja Izdržljivosti",
       "sr": "Povećana Stopa Trošenja Izdržljivosti",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Taxa de Desgaste de Durabilidade Aumentada",
+      "he": "קצב שחיקת עמידות מוגבר"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_iii.png",

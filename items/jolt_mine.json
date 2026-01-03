@@ -18,7 +18,9 @@
     "kr": "충격 지뢰",
     "tr": "Şok Mayını",
     "hr": "Omamljujuća Mina",
-    "sr": "Omamljujuća Mina"
+    "sr": "Omamljujuća Mina",
+    "pt-BR": "Mina de Choque",
+    "he": "מוקש הלם"
   },
   "description": {
     "en": "A proximity-triggered mine that pops up and stuns anything within its radius.",
@@ -38,7 +40,9 @@
     "kr": "근접 작동 지뢰로, 튀어 올라 범위 내의 모든 것을 기절시킵니다.",
     "tr": "Yakınlık tetiklemeli bir mayın, fırlayarak yarıçapı içindeki her şeyi sersemletir.",
     "hr": "Mina aktivirana blizinom koja iskoči i omami sve unutar svog radijusa.",
-    "sr": "Mina aktivirana blizinom koja iskoči i omami sve unutar svog radijusa."
+    "sr": "Mina aktivirana blizinom koja iskoči i omami sve unutar svog radijusa.",
+    "pt-BR": "Uma mina acionada por proximidade que salta e atordoa qualquer coisa dentro de seu raio.",
+    "he": "מוקש קרבה הקופץ מעלה ומהמם כל דבר ברדיוס שלו."
   },
   "type": "Quick Use",
   "rarity": "Rare",
@@ -64,7 +68,9 @@
       "tr": "ARC Sersemletme Süresi",
       "hr": "Trajanje ARC Omamljivanja",
       "sr": "Trajanje ARC Omamljivanja",
-      "value": "10s"
+      "value": "10s",
+      "pt-BR": "Duração do Atordoamento em ARC",
+      "he": "משך הלם ARC"
     },
     "Raider Stun Duration": {
       "en": "Raider Stun Duration",
@@ -85,7 +91,9 @@
       "tr": "Akıncı Sersemletme Süresi",
       "hr": "Trajanje Omamljivanja Pljačkaša",
       "sr": "Trajanje Omamljivanja Pljačkaša",
-      "value": "4s"
+      "value": "4s",
+      "pt-BR": "Duração do Atordoamento em Raider",
+      "he": "משך הלם ריידר"
     },
     "Radius": {
       "en": "Radius",
@@ -106,7 +114,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "5m"
+      "value": "5m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",

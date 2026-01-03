@@ -18,7 +18,9 @@
     "kr": "밥캣 IV",
     "tr": "Bobcat IV",
     "hr": "Bobcat IV",
-    "sr": "Bobcat IV"
+    "sr": "Bobcat IV",
+    "pt-BR": "Bobcat IV",
+    "he": "בובקאט IV"
   },
   "description": {
     "en": "Fully automatic SMG with high fire rate but low accuracy.",
@@ -38,7 +40,9 @@
     "kr": "높은 연사력을 가지지만 정확도가 낮은 완전 자동 SMG.",
     "tr": "Yüksek atış hızına sahip ancak düşük isabetli tam otomatik SMG.",
     "hr": "Potpuno automatski SMG s visokom brzinom paljbe ali niskom preciznošću.",
-    "sr": "Potpuno automatski SMG sa visokom brzinom paljbe ali niskom preciznošću."
+    "sr": "Potpuno automatski SMG sa visokom brzinom paljbe ali niskom preciznošću.",
+    "pt-BR": "Submetralhadora totalmente automática com alta cadência de tiro, mas baixa precisão.",
+    "he": "תת-מקלע אוטומטי מלא עם קצב אש גבוה אך דיוק נמוך."
   },
   "type": "SMG",
   "rarity": "Epic",
@@ -73,7 +77,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "130/130"
+      "value": "130/130",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -94,7 +100,9 @@
       "tr": "Mermi Tipi",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta municije",
-      "value": "Light Ammo"
+      "value": "Light Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -115,7 +123,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
-      "value": 20
+      "value": 20,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -136,7 +146,9 @@
       "tr": "Atış Modu",
       "hr": "Način pucanja",
       "sr": "Režim paljbe",
-      "value": "Fully-Automatic"
+      "value": "Fully-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -157,7 +169,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Very Weak"
+      "value": "Very Weak",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     },
     "Damage": {
       "en": "Damage",
@@ -178,7 +192,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": 6
+      "value": 6,
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Fire Rate": {
       "en": "Fire Rate",
@@ -199,7 +215,9 @@
       "tr": "Atış Hızı",
       "hr": "Brzina paljbe",
       "sr": "Brzina paljbe",
-      "value": 66.7
+      "value": 66.7,
+      "pt-BR": "Cadência de Tiro",
+      "he": "קצב אש"
     },
     "Range": {
       "en": "Range",
@@ -220,7 +238,9 @@
       "tr": "Menzil",
       "hr": "Domet",
       "sr": "Domet",
-      "value": 44
+      "value": 44,
+      "pt-BR": "Alcance",
+      "he": "טווח"
     },
     "Stability": {
       "en": "Stability",
@@ -241,7 +261,9 @@
       "tr": "Denge",
       "hr": "Stabilnost",
       "sr": "Stabilnost",
-      "value": 45.9
+      "value": 45.9,
+      "pt-BR": "Estabilidade",
+      "he": "יציבות"
     },
     "Agility": {
       "en": "Agility",
@@ -262,7 +284,9 @@
       "tr": "Çeviklik",
       "hr": "Okretnost",
       "sr": "Okretnost",
-      "value": 73.1
+      "value": 73.1,
+      "pt-BR": "Agilidade",
+      "he": "זריזות"
     },
     "Stealth": {
       "en": "Stealth",
@@ -283,7 +307,9 @@
       "tr": "Gizlilik",
       "hr": "Prikrivanje",
       "sr": "Prikrivanje",
-      "value": 21
+      "value": 21,
+      "pt-BR": "Furtividade",
+      "he": "התגנבות"
     },
     "Reduced Max Shot Dispersion": {
       "en": "Reduced Max Shot Dispersion",
@@ -304,7 +330,9 @@
       "tr": "Azaltılmış Maksimum Atış Dağılımı",
       "hr": "Smanjena maksimalna disperzija",
       "sr": "Smanjena maksimalna disperzija",
-      "value": "50%"
+      "value": "50%",
+      "pt-BR": "Dispersão Máxima Reduzida",
+      "he": "פיזור ירי מקסימלי מופחת"
     },
     "Reduced Horizontal Recoil": {
       "en": "Reduced Horizontal Recoil",
@@ -325,7 +353,9 @@
       "tr": "Azaltılmış Yatay Tepme",
       "hr": "Smanjen horizontalni trzaj",
       "sr": "Smanjen horizontalni trzaj",
-      "value": "45%"
+      "value": "45%",
+      "pt-BR": "Recuo Horizontal Reduzido",
+      "he": "רתע אופקי מופחת"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -346,7 +376,9 @@
       "tr": "Azaltılmış yeniden doldurma süresi",
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vrijeme punjenja",
-      "value": "40%"
+      "value": "40%",
+      "pt-BR": "Tempo de Recarga Reduzido",
+      "he": "זמן טעינה מחדש מופחת"
     }
   },
   "upgradeCost": {

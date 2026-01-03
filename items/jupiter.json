@@ -18,7 +18,9 @@
     "es": "Júpiter",
     "hr": "Jupiter",
     "pt": "Júpiter",
-    "da": "Jupiter"
+    "da": "Jupiter",
+    "pt-BR": "Júpiter",
+    "he": "יופיטר"
   },
   "description": {
     "en": "A bolt-action sniper rifle with exceptional damage output and accuracy, but slow handling.",
@@ -38,7 +40,9 @@
     "es": "Un rifle de francotirador de cerrojo con daño y precisión excepcionales, pero manejo lento.",
     "hr": "Repetirna snajperska puška s iznimnom snagom i preciznošću, ali sporim rukovanjem.",
     "pt": "Um rifle sniper de ferrolho com dano e precisão excepcionais, mas manuseio lento.",
-    "da": "En bolt-action sniperriffel med exceptionel skadeeffekt og præcision, men langsom håndtering."
+    "da": "En bolt-action sniperriffel med exceptionel skadeeffekt og præcision, men langsom håndtering.",
+    "pt-BR": "Um rifle de precisão de ação por ferrolho com dano e precisão excepcionais, mas manuseio lento.",
+    "he": "רובה צלפים בריחי עם נזק ודיוק יוצאי דופן, אך תפעול איטי."
   },
   "type": "Sniper Rifle",
   "rarity": "Legendary",
@@ -68,7 +72,9 @@
       "hr": "Tip streljiva",
       "pt": "Tipo de munição",
       "da": "Ammunitionstype",
-      "value": "Energy Clip"
+      "value": "Energy Clip",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -89,7 +95,9 @@
       "hr": "Veličina spremnika",
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
-      "value": 5
+      "value": 5,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -110,7 +118,9 @@
       "hr": "Način paljbe",
       "pt": "Modo de disparo",
       "da": "Skydemetode",
-      "value": "Bolt-Action"
+      "value": "Bolt-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -131,7 +141,9 @@
       "hr": "ARC probijanje oklopa",
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningspenetrering",
-      "value": "Very Strong"
+      "value": "Very Strong",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     },
     "Special Trait": {
       "en": "Special Trait",
@@ -152,7 +164,9 @@
       "hr": "Posebna osobina",
       "pt": "Traço especial",
       "da": "Særlig egenskab",
-      "value": "Experimental"
+      "value": "Experimental",
+      "pt-BR": "Característica Especial",
+      "he": "תכונה מיוחדת"
     }
   },
   "weightKg": 9,

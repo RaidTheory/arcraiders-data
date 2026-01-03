@@ -19,7 +19,9 @@
     "tr": "Harabelerde Açığa Çıkan",
     "zh-TW": "廢墟中的揭秘",
     "sr": "Otkrivanje u ruševinama",
-    "hr": "Otkrivanje u ruševinama"
+    "hr": "Otkrivanje u ruševinama",
+    "pt-BR": "Uma Revelação em Ruínas",
+    "he": "חשיפה בין ההריסות"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Yeni bir ESR analizörü ele geçirdim; büyük bir tanıtım planlamıştım. Bir dakika buradaydı, sonraki dakika—yok oldu. Yardım eder misin?",
     "zh-TW": "我搞到了一台全新的ESR分析儀；本來計劃了一場盛大的揭幕。前一分鐘還在這兒，下一分鐘——噗，不見了。能幫幫忙嗎？",
     "sr": "Došao sam do novog ESR analizatora; imao sam planiran veliki trenutak otkrivanja. Jedan trenutak je tu, sledeći trenutak—nestao. Molim te, pomozi?",
-    "hr": "Došao sam do novog ESR analizatora; imao sam planiran veliki trenutak otkrivanja. Jedan trenutak je tu, sljedeći trenutak—nestao. Molim te, pomozi?"
+    "hr": "Došao sam do novog ESR analizatora; imao sam planiran veliki trenutak otkrivanja. Jedan trenutak je tu, sljedeći trenutak—nestao. Molim te, pomozi?",
+    "pt-BR": "Consegui um novo analisador ESR sofisticado; tinha toda uma grande revelação planejada. Num minuto ele está aqui, no minuto seguinte... puf. Por favor, ajude?",
+    "he": "השגתי מנתח ESR חדש ומשוכלל; תכננתי חשיפה גדולה. רגע אחד הוא כאן, וברגע הבא—פוף. עזרה, בבקשה?"
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Gömülü Şehir'deki herhangi bir eczanede ESR Analizörü ara",
       "zh-TW": "在埋沒之城的任意藥店中搜尋ESR分析儀",
       "sr": "Pretražite ESR analizator u bilo kojoj apoteci u Zakopanom gradu",
-      "hr": "Pretražite ESR analizator u bilo kojoj ljekarni u Zakopanom gradu"
+      "hr": "Pretražite ESR analizator u bilo kojoj ljekarni u Zakopanom gradu",
+      "pt-BR": "Procure por um Analisador ESR dentro de qualquer farmácia na Cidade Soterrada",
+      "he": "חפש מנתח ESR בתוך כל בית מרקחת בעיר הקבורה"
     },
     {
       "en": "Deliver the ESR Analyzer to Lance",
@@ -84,7 +90,9 @@
       "tr": "ESR Analizörünü Lance'e teslim et",
       "zh-TW": "將ESR分析儀交給Lance",
       "sr": "Dostavite ESR analizator Lance-u",
-      "hr": "Dostavite ESR analizator Lanceu"
+      "hr": "Dostavite ESR analizator Lanceu",
+      "pt-BR": "Entregue o Analisador ESR para Lance",
+      "he": "מסור את מנתח ה-ESR ללאנס"
     }
   ],
   "rewardItemIds": [

@@ -18,7 +18,9 @@
     "kr": "베티나 IV",
     "tr": "Bettina IV",
     "hr": "Bettina IV",
-    "sr": "Bettina IV"
+    "sr": "Bettina IV",
+    "pt-BR": "Bettina IV",
+    "he": "בטינה IV"
   },
   "description": {
     "en": "Has slow fire rate and high damage output.",
@@ -38,7 +40,9 @@
     "kr": "낮은 연사력과 높은 피해량을 가지고 있습니다.",
     "tr": "Düşük atış hızına ve yüksek hasar çıkışına sahiptir.",
     "hr": "Ima sporu brzinu pucanja i visoku štetu.",
-    "sr": "Ima sporu brzinu pucanja i visoku štetu."
+    "sr": "Ima sporu brzinu pucanja i visoku štetu.",
+    "pt-BR": "Possui cadência de tiro baixa e dano elevado.",
+    "he": "בעל קצב אש איטי ונזק גבוה."
   },
   "type": "Assault Rifle",
   "value": 17000,
@@ -64,7 +68,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "130/130"
+      "value": "130/130",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -85,7 +91,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Streljiva",
-      "value": "Heavy Ammo"
+      "value": "Heavy Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -106,7 +114,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
-      "value": 20
+      "value": 20,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -127,7 +137,9 @@
       "tr": "Atış Modu",
       "hr": "Način Pucanja",
       "sr": "Način Pucanja",
-      "value": "Fully-Automatic"
+      "value": "Fully-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -148,7 +160,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
-      "value": "Strong"
+      "value": "Strong",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     },
     "Increased Fire Rate": {
       "en": "Increased Fire Rate",
@@ -169,7 +183,9 @@
       "tr": "Artırılmış atış hızı",
       "hr": "Povećana brzina paljbe",
       "sr": "Povećana brzina paljbe",
-      "value": "15%"
+      "value": "15%",
+      "pt-BR": "Cadência de Tiro Aumentada",
+      "he": "קצב אש מוגבר"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -190,7 +206,9 @@
       "tr": "Azaltılmış yeniden doldurma süresi",
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vrijeme punjenja",
-      "value": "33.3%"
+      "value": "33.3%",
+      "pt-BR": "Tempo de Recarga Reduzido",
+      "he": "זמן טעינה מופחת"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/bettina.png",

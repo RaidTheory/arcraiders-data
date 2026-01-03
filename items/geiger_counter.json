@@ -17,7 +17,9 @@
     "tr": "Geiger Sayacı",
     "uk": "Лічильник Гейгера",
     "sr": "Gajgerov Brojač",
-    "hr": "Geigerov Brojač"
+    "hr": "Geigerov Brojač",
+    "pt-BR": "Contador Geiger",
+    "he": "מונה גייגר"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -37,7 +39,9 @@
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "sr": "Može se reciklirati u materijale za izradu.",
-    "hr": "Može se reciklirati u materijale za izradu."
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן לפירוק לחומרי יצירה."
   },
   "id": "geiger_counter",
   "type": "Recyclable",

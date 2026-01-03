@@ -19,7 +19,9 @@
     "tr": "Yol Açmak",
     "zh-TW": "鋪路",
     "sr": "Utiranje puta",
-    "hr": "Utiranje puta"
+    "hr": "Utiranje puta",
+    "pt-BR": "Abrindo Caminho",
+    "he": "סלילת הדרך"
   },
   "map": [
     "dam_battlegrounds",
@@ -45,7 +47,9 @@
     "tr": "Bütün bir sektörün böyle çökmesi... İnsanların korkması şaşırtıcı değil. Daha önce yaptığımız her şeyin ötesinde güçlendirmemiz gerekiyor ve bunu tek başımıza yapamayız.",
     "zh-TW": "整個區域就這樣坍塌了...難怪人們害怕。我們需要進行前所未有的加固，而且我們不能獨自完成。",
     "sr": "Da se ceo sektor tako sruši... Nije čudo što su ljudi uplašeni. Moramo da ojačamo više nego ikada pre, i ne možemo to sami.",
-    "hr": "Da se cijeli sektor tako sruši... Nije čudo što su ljudi uplašeni. Moramo ojačati više nego ikada prije, i ne možemo to sami."
+    "hr": "Da se cijeli sektor tako sruši... Nije čudo što su ljudi uplašeni. Moramo ojačati više nego ikada prije, i ne možemo to sami.",
+    "pt-BR": "Para um setor inteiro colapsar assim... Não é à toa que as pessoas estão assustadas. Precisamos nos reforçar além de qualquer coisa que já fizemos, e não podemos fazer isso sozinhos.",
+    "he": "שסקטור שלם יקרוס ככה... לא פלא שאנשים מפחדים. אנחנו צריכים להתחזק מעבר לכל מה שעשינו בעבר, ואנחנו לא יכולים לעשות את זה לבד."
   },
   "objectives": [
     {
@@ -66,7 +70,9 @@
       "tr": "Herhangi bir ENELICA binasına git",
       "zh-TW": "前往任何ENELICA建築",
       "sr": "Idi do bilo koje ENELICA zgrade",
-      "hr": "Idi do bilo koje ENELICA zgrade"
+      "hr": "Idi do bilo koje ENELICA zgrade",
+      "pt-BR": "Vá para qualquer prédio da ENELICA",
+      "he": "גש לכל בניין של ENELICA"
     },
     {
       "en": "Search for a notice board with a note from the researcher",
@@ -86,7 +92,9 @@
       "tr": "Araştırmacıdan bir not bulunan ilan panosunu ara",
       "zh-TW": "尋找一塊有研究員留言的公告板",
       "sr": "Potraži oglasnu tablu sa porukom od istraživača",
-      "hr": "Potraži oglasnu ploču s porukom od istraživača"
+      "hr": "Potraži oglasnu ploču s porukom od istraživača",
+      "pt-BR": "Procure por um quadro de avisos com um bilhete do pesquisador",
+      "he": "חפש לוח מודעות עם פתק מהחוקר"
     },
     {
       "en": "On Buried City, reach the top floor above the Convinio in Piazza Roma",
@@ -106,7 +114,9 @@
       "tr": "Buried City'de Piazza Roma'daki Convinio'nun üstündeki en üst kata ulaş",
       "zh-TW": "在埋沒之城，前往羅馬廣場Convinio上方的頂樓",
       "sr": "Na Buried City, dođi do najvišeg sprata iznad Convinio prodavnice na Piazza Roma",
-      "hr": "Na Buried City, dođi do najvišeg kata iznad Convinio trgovine na Piazza Roma"
+      "hr": "Na Buried City, dođi do najvišeg kata iznad Convinio trgovine na Piazza Roma",
+      "pt-BR": "Na Cidade Soterrada, chegue ao último andar acima do Convinio na Piazza Roma",
+      "he": "בעיר הקבורה, הגע לקומה העליונה מעל הקונוויניו בפיאצה רומא"
     },
     {
       "en": "Find the researcher's flat and search for any research data",
@@ -126,7 +136,9 @@
       "tr": "Araştırmacının dairesini bul ve herhangi bir araştırma verisi ara",
       "zh-TW": "找到研究員的公寓並搜尋任何研究資料",
       "sr": "Pronađi istraživačev stan i pretraži ga za bilo kakve istraživačke podatke",
-      "hr": "Pronađi istraživačev stan i pretraži ga za bilo kakve istraživačke podatke"
+      "hr": "Pronađi istraživačev stan i pretraži ga za bilo kakve istraživačke podatke",
+      "pt-BR": "Encontre o apartamento do pesquisador e procure por quaisquer dados de pesquisa",
+      "he": "מצא את דירת החוקר וחפש נתוני מחקר"
     }
   ],
   "rewardItemIds": [

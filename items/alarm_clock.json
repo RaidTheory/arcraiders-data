@@ -18,7 +18,9 @@
     "kr": "알람 시계",
     "tr": "Çalar Saat",
     "hr": "Budilica",
-    "sr": "Budilnik"
+    "sr": "Budilnik",
+    "pt-BR": "Despertador",
+    "he": "שעון מעורר"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "kr": "제작 재료로 재활용 가능.",
     "tr": "İşleme malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למיחזור עבור חומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Rare",

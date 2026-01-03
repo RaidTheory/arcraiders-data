@@ -19,7 +19,9 @@
     "tr": "Endüstriyel Casusluk",
     "zh-TW": "工業間諜",
     "sr": "Industrijska Špijunaža",
-    "hr": "Industrijska Špijunaža"
+    "hr": "Industrijska Špijunaža",
+    "pt-BR": "Espionagem Industrial",
+    "he": "ריגול תעשייתי"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Kendi zulalarım güvende olduğuna göre, bunun bir daha olmaması için rakipleri daha yakından takip etme zamanı geldi sanırım.",
     "zh-TW": "我自己的藏匿點已經安全了，我想是時候密切關注一下競爭對手了，這樣就不會再發生這種事。",
     "sr": "Pošto su moje zalihe obezbeđene, mislim da je vreme da bolje pratim konkurenciju kako se ovo ne bi ponovilo.",
-    "hr": "Sad kad su moje zalihe osigurane, mislim da je vrijeme da bolje pratim konkurenciju kako se ovo ne bi ponovilo."
+    "hr": "Sad kad su moje zalihe osigurane, mislim da je vrijeme da bolje pratim konkurenciju kako se ovo ne bi ponovilo.",
+    "pt-BR": "Com meus próprios estoques protegidos, acho que pode ser hora de ficar de olho na concorrência para que isso não aconteça de novo.",
+    "he": "עכשיו כשהמאגרים שלי מאובטחים, אני חושב שהגיע הזמן לפקוח עין מקרוב יותר על המתחרים כדי שזה לא יקרה שוב."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Varoşlardaki Benzin İstasyonu yakınında Tian Wen'in silah zulasını bulun",
       "zh-TW": "在郊區加油站附近找到田文的武器藏匿點",
       "sr": "Pronađi Tian Wenovu ostavu oružja blizu benzinske pumpe u Predgrađu",
-      "hr": "Pronađi Tian Wenovu ostavu oružja blizu benzinske postaje u Predgrađu"
+      "hr": "Pronađi Tian Wenovu ostavu oružja blizu benzinske postaje u Predgrađu",
+      "pt-BR": "Encontre o esconderijo de armas de Tian Wen perto do Posto de Gasolina nos Arredores",
+      "he": "מצא את מחסן הנשק של Tian Wen ליד תחנת הדלק ב-Outskirts"
     },
     {
       "en": "Deliver the Burletta to the rival weapon cache",
@@ -84,7 +90,9 @@
       "tr": "Burletta'yı rakip silah zulasına teslim edin",
       "zh-TW": "將Burletta送到對手的武器藏匿點",
       "sr": "Dostavi Burlettu do rivalske ostave oružja",
-      "hr": "Dostavi Burlettu do suparničke ostave oružja"
+      "hr": "Dostavi Burlettu do suparničke ostave oružja",
+      "pt-BR": "Entregue a Burletta no esconderijo de armas rival",
+      "he": "העבר את ה-Burletta למחסן הנשק היריב"
     },
     {
       "en": "Plant a bug on the weapon cache",
@@ -104,7 +112,9 @@
       "tr": "Silah zulasına dinleme cihazı yerleştirin",
       "zh-TW": "在武器藏匿點安裝竊聽器",
       "sr": "Postavi prisluškivač na ostavu oružja",
-      "hr": "Postavi prisluškivač na ostavu oružja"
+      "hr": "Postavi prisluškivač na ostavu oružja",
+      "pt-BR": "Coloque uma escuta no esconderijo de armas",
+      "he": "שתול מכשיר ציתות במחסן הנשק"
     }
   ],
   "grantedItemIds": [

@@ -18,7 +18,9 @@
     "hr": "Mješavina voća",
     "zh-CN": "水果拼盘",
     "tr": "Meyve Karışımı",
-    "fr": "Mélange de Fruits"
+    "fr": "Mélange de Fruits",
+    "pt-BR": "Mix de Frutas",
+    "he": "תערובת פירות"
   },
   "description": {
     "en": "A food item that moderately increases both health and stamina.",
@@ -38,7 +40,9 @@
     "hr": "Hrana koja umjereno povećava i zdravlje i izdržljivost.",
     "zh-CN": "一种能适度增加生命值和耐力的食物。",
     "tr": "Hem sağlığı hem de dayanıklılığı orta düzeyde artıran bir yiyecek.",
-    "fr": "Un aliment qui augmente modérément la santé et l'endurance."
+    "fr": "Un aliment qui augmente modérément la santé et l'endurance.",
+    "pt-BR": "Um alimento que aumenta moderadamente a saúde e o vigor.",
+    "he": "פריט מזון המגדיל במידה בינונית את הבריאות והסיבולת."
   },
   "type": "Quick Use",
   "rarity": "Uncommon",
@@ -65,7 +69,9 @@
       "zh-CN": "治疗",
       "tr": "İyileştirme",
       "fr": "Soin",
-      "value": 25
+      "value": 25,
+      "pt-BR": "Cura",
+      "he": "ריפוי"
     },
     "Stamina": {
       "en": "Stamina",
@@ -86,7 +92,9 @@
       "zh-CN": "耐力",
       "tr": "Dayanıklılık",
       "fr": "Endurance",
-      "value": 50
+      "value": 50,
+      "pt-BR": "Vigor",
+      "he": "סיבולת"
     },
     "Use Time": {
       "en": "Use Time",
@@ -107,7 +115,9 @@
       "zh-CN": "使用时间",
       "tr": "Kullanım Süresi",
       "fr": "Temps d'Utilisation",
-      "value": "2s"
+      "value": "2s",
+      "pt-BR": "Tempo de Uso",
+      "he": "זמן שימוש"
     }
   },
   "recipe": {

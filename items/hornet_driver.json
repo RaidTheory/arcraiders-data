@@ -18,7 +18,9 @@
     "kr": "호넷 드라이버",
     "tr": "Eşekarısı Sürücüsü",
     "hr": "Stršljenov Pogon",
-    "sr": "Stršljenov Pogon"
+    "sr": "Stršljenov Pogon",
+    "pt-BR": "Hornet Driver",
+    "he": "הורנט דרייבר"
   },
   "tip": "The Hornet Driver is a rare item is dropped by Hornets that can be recycled into crafting materials.",
   "description": {
@@ -39,7 +41,9 @@
     "kr": "던져서 근처 대상을 잠시 기절시킬 수 있습니다",
     "tr": "Fırlatılabilir ve yakındaki hedefleri kısa süreliğine sersemletir",
     "hr": "Može se baciti i nakratko će omamiti obližnje mete",
-    "sr": "Može se baciti i nakratko će omamiti obližnje mete"
+    "sr": "Može se baciti i nakratko će omamiti obližnje mete",
+    "pt-BR": "Pode ser arremessado e atordoa brevemente alvos próximos",
+    "he": "ניתן להשלכה ויגרום להלם קצר למטרות סמוכות"
   },
   "type": "Recyclable",
   "rarity": "Rare",
@@ -72,7 +76,9 @@
       "tr": "ARC Sersemletme Süresi",
       "hr": "Trajanje ARC Omamljivanja",
       "sr": "Trajanje ARC Omamljivanja",
-      "value": "10s"
+      "value": "10s",
+      "pt-BR": "Duração de Atordoamento em ARC",
+      "he": "משך הלם ARC"
     },
     "Raider Stun Duration": {
       "en": "Raider Stun Duration",
@@ -93,7 +99,9 @@
       "tr": "Akıncı Sersemletme Süresi",
       "hr": "Trajanje Omamljivanja Pljačkaša",
       "sr": "Trajanje Omamljivanja Pljačkaša",
-      "value": "0.5s"
+      "value": "0.5s",
+      "pt-BR": "Duração de Atordoamento em Raider",
+      "he": "משך הלם ריידר"
     },
     "Radius": {
       "en": "Radius",
@@ -114,7 +122,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "6m"
+      "value": "6m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "foundIn": "ARC",

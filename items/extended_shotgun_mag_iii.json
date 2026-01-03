@@ -18,7 +18,9 @@
     "tr": "Genişletilmiş Pompalı Şarjör III",
     "uk": "Розширений магазин для дробовика III",
     "sr": "Produženi šaržer za sačmaru III",
-    "hr": "Produženi šaržer za sačmaru III"
+    "hr": "Produženi šaržer za sačmaru III",
+    "pt-BR": "Carregador Estendido de Escopeta III",
+    "he": "מחסנית מוגדלת לרובה ציד III"
   },
   "description": {
     "en": "Significantly extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
@@ -38,7 +40,9 @@
     "tr": "Pompalı tüfeklerin mermi kapasitesini önemli ölçüde artırır. Uyumlu: Il Toro, Vulcano",
     "uk": "Значно збільшує ємність боєприпасів дробовиків. Сумісно з: Il Toro, Vulcano",
     "sr": "Značajno proširuje kapacitet municije za sačmare. Kompatibilno sa: Il Toro, Vulcano",
-    "hr": "Značajno proširuje kapacitet municije za sačmare. Kompatibilno s: Il Toro, Vulcano"
+    "hr": "Značajno proširuje kapacitet municije za sačmare. Kompatibilno s: Il Toro, Vulcano",
+    "pt-BR": "Aumenta significativamente a capacidade de munição de escopetas. Compatível com: Il Toro, Vulcano",
+    "he": "מגדיל באופן משמעותי את קיבולת התחמושת של רובי ציד. תואם ל: Il Toro, Vulcano"
   },
   "type": "Modification",
   "value": 5000,
@@ -64,7 +68,9 @@
       "uk": "Розмір магазину",
       "sr": "Veličina šaržera",
       "hr": "Veličina šaržera",
-      "value": "+6"
+      "value": "+6",
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     }
   },
   "upgradeCost": {

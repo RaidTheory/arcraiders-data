@@ -18,7 +18,9 @@
     "kr": "스니치 스캐너",
     "tr": "İhbarcı Tarayıcı",
     "hr": "Dojavljivač",
-    "sr": "Dojavljivač"
+    "sr": "Dojavljivač",
+    "pt-BR": "Scanner de Delator",
+    "he": "סורק Snitch"
   },
   "description": {
     "en": "Can be recycled into ARC Alloy. Can be thrown to call in ARC.",
@@ -38,7 +40,9 @@
     "kr": "아크 합금으로 재활용 가능. 투척하여 아크를 호출할 수 있습니다.",
     "tr": "ARC Alaşımına geri dönüştürülebilir. ARC çağırmak için fırlatılabilir.",
     "hr": "Može se reciklirati u ARC leguru. Može se baciti kako bi se pozvao ARC.",
-    "sr": "Može se reciklirati u ARC leguru. Može se baciti kako bi se pozvao ARC."
+    "sr": "Može se reciklirati u ARC leguru. Može se baciti kako bi se pozvao ARC.",
+    "pt-BR": "Pode ser reciclado em Liga ARC. Pode ser arremessado para chamar a ARC.",
+    "he": "ניתן למחזור ל-ARC Alloy. ניתן לזריקה כדי לזמן ARC."
   },
   "type": "Recyclable",
   "rarity": "Uncommon",

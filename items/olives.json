@@ -18,7 +18,9 @@
     "kr": "올리브",
     "tr": "Zeytinler",
     "hr": "Masline",
-    "sr": "Masline"
+    "sr": "Masline",
+    "pt-BR": "Azeitonas",
+    "he": "זיתים"
   },
   "rarity": "Uncommon",
   "type": "Nature",
@@ -45,7 +47,9 @@
     "kr": "소량의 스태미나를 회복하기 위해 섭취할 수 있다.",
     "tr": "Az miktarda dayanıklılık için tüketilebilir.",
     "hr": "Može se konzumirati za malu količinu izdržljivosti.",
-    "sr": "Može se konzumirati za malu količinu izdržljivosti."
+    "sr": "Može se konzumirati za malu količinu izdržljivosti.",
+    "pt-BR": "Pode ser consumido para obter uma pequena quantidade de vigor.",
+    "he": "ניתן לצריכה עבור כמות קטנה של סיבולת."
   },
   "weightKg": 0.2,
   "stackSize": 10,
@@ -70,7 +74,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": 20
+      "value": 20,
+      "pt-BR": "Vigor",
+      "he": "סיבולת"
     },
     "Use Time": {
       "en": "Use Time",
@@ -91,7 +97,9 @@
       "tr": "Kullanım Süresi",
       "hr": "Vrijeme Korištenja",
       "sr": "Vreme Korišćenja",
-      "value": "1s"
+      "value": "1s",
+      "pt-BR": "Tempo de Uso",
+      "he": "זמן שימוש"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/olives.png"

@@ -18,7 +18,9 @@
     "kr": "일 토로 II",
     "tr": "Il Toro II",
     "hr": "Il Toro II",
-    "sr": "Il Toro II"
+    "sr": "Il Toro II",
+    "pt-BR": "Il Toro II",
+    "he": "איל טורו II"
   },
   "description": {
     "en": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
@@ -38,7 +40,9 @@
     "kr": "넓은 탄 퍼짐, 급격한 감쇠, 높은 데미지를 가지고 있습니다.",
     "tr": "Geniş mermi yayılımı, keskin düşüş ve yüksek hasar çıkışına sahiptir.",
     "hr": "Ima veliko rasipanje metaka, oštar pad štete i visoku izlaznu štetu.",
-    "sr": "Ima veliko rasipanje metaka, oštar pad štete i visoku izlaznu štetu."
+    "sr": "Ima veliko rasipanje metaka, oštar pad štete i visoku izlaznu štetu.",
+    "pt-BR": "Escopeta de ação por bombeamento com grande dispersão, queda acentuada e alto dano.",
+    "he": "רובה ציד Pump-action עם פיזור כדורים רחב, דעיכה חדה למרחק ונזק גבוה."
   },
   "type": "Shotgun",
   "rarity": "Uncommon",
@@ -62,7 +66,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "110/110"
+      "value": "110/110",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -83,7 +89,9 @@
       "tr": "Mermi Tipi",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta streljiva",
-      "value": "Shotgun Ammo"
+      "value": "Shotgun Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -104,7 +112,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina spremnika",
-      "value": 6
+      "value": 6,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -125,7 +135,9 @@
       "tr": "Ateş Modu",
       "hr": "Način pucanja",
       "sr": "Način pucanja",
-      "value": "Pump-Action"
+      "value": "Pump-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -146,7 +158,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Weak"
+      "value": "Weak",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     },
     "Increased Fire Rate": {
       "en": "Increased Fire Rate",
@@ -167,7 +181,9 @@
       "hr": "Povećana Brzina Paljbe",
       "pt": "Taxa de Disparo Aumentada",
       "da": "Øget Skudhastighed",
-      "value": "17.5%"
+      "value": "17.5%",
+      "pt-BR": "Cadência de Tiro Aumentada",
+      "he": "קצב אש מוגבר"
     }
   },
   "weightKg": 8,

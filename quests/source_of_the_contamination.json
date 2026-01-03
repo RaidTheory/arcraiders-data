@@ -19,7 +19,9 @@
     "tr": "Kirlenmenin Kaynağı",
     "zh-TW": "污染源",
     "sr": "Izvor Kontaminacije",
-    "hr": "Izvor Kontaminacije"
+    "hr": "Izvor Kontaminacije",
+    "pt-BR": "Fonte da Contaminação",
+    "he": "מקור הזיהום"
   },
   "map": [
     "dam_battlegrounds"
@@ -43,7 +45,9 @@
     "tr": "Suyumuzun kurcalandığını söylemiyorum ama numunelerinize dayanarak bu ihtimali de göz ardı edemem. Baraj'a geri dönüp neyin yanlış olduğuna bakabilir misiniz?",
     "zh-TW": "我不是說我們的水被人動了手腳，但根據你的樣本，我也不能排除這種可能性。你能回到大壩看看出了什麼問題嗎？",
     "sr": "Ne kažem da je neko petljao po našoj vodi, ali na osnovu tvojih uzoraka, ne mogu ni isključiti tu mogućnost. Možeš li se vratiti do Brane i videti šta nije u redu?",
-    "hr": "Ne kažem da je netko petljao po našoj vodi, ali na temelju tvojih uzoraka, ne mogu ni isključiti tu mogućnost. Možeš li se vratiti do Brane i vidjeti što nije u redu?"
+    "hr": "Ne kažem da je netko petljao po našoj vodi, ali na temelju tvojih uzoraka, ne mogu ni isključiti tu mogućnost. Možeš li se vratiti do Brane i vidjeti što nije u redu?",
+    "pt-BR": "Não estou dizendo que mexeram na nossa água, mas com base nas suas amostras, também não posso descartar essa possibilidade. Você poderia voltar à Represa e ver o que há de errado?",
+    "he": "אני לא אומר שמישהו התעסק עם המים שלנו, אבל על סמך הדגימות שלך, אני לא יכול לשלול את האפשרות הזו. תוכל לחזור אל הסכר ולבדוק מה הבעיה?"
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Baraj'daki Su Arıtma Binasına ulaş",
       "zh-TW": "到達大壩的水處理建築",
       "sr": "Stigni do Zgrade za Prečišćavanje Vode u Brani",
-      "hr": "Stigni do Zgrade za Pročišćavanje Vode u Brani"
+      "hr": "Stigni do Zgrade za Pročišćavanje Vode u Brani",
+      "pt-BR": "Chegue ao Prédio de Tratamento de Água na Represa",
+      "he": "הגע למבנה טיהור המים בסכר"
     },
     {
       "en": "Search for the Flood Spill Intake near the Swamp",
@@ -84,7 +90,9 @@
       "tr": "Bataklık yakınındaki Taşkın Dökülme Girişini ara",
       "zh-TW": "在沼澤附近尋找洩洪進水口",
       "sr": "Traži Ulaz za Poplavni Preliv blizu Močvare",
-      "hr": "Traži Ulaz za Poplavni Preljev blizu Močvare"
+      "hr": "Traži Ulaz za Poplavni Preljev blizu Močvare",
+      "pt-BR": "Procure pela Entrada do Vertedouro perto do Pântano",
+      "he": "חפש את פתח יניקת ההצפה ליד הביצה"
     },
     {
       "en": "Investigate any suspicious objects",
@@ -104,7 +112,9 @@
       "tr": "Şüpheli nesneleri araştır",
       "zh-TW": "調查任何可疑物體",
       "sr": "Istraži sve sumnjive objekte",
-      "hr": "Istraži sve sumnjive objekte"
+      "hr": "Istraži sve sumnjive objekte",
+      "pt-BR": "Investigue quaisquer objetos suspeitos",
+      "he": "חקור חפצים חשודים"
     }
   ],
   "rewardItemIds": [

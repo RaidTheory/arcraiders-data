@@ -17,7 +17,9 @@
     "tr": "Numune Temizleyici",
     "uk": "Очисник зразків",
     "sr": "Čistač uzoraka",
-    "hr": "Čistač uzoraka"
+    "hr": "Čistač uzoraka",
+    "pt-BR": "Limpador de Amostras",
+    "he": "מנקה דגימות"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -37,7 +39,9 @@
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "sr": "Može se reciklirati u materijale za izradu.",
-    "hr": "Može se reciklirati u materijale za izradu."
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de criação.",
+    "he": "ניתן למחזור לחומרי יצירה."
   },
   "id": "sample_cleaner",
   "type": "Recyclable",

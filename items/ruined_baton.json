@@ -18,7 +18,9 @@
     "kr": "망가진 경찰봉",
     "tr": "Harap Cop",
     "hr": "Uništena Palica",
-    "sr": "Uništena Palica"
+    "sr": "Uništena Palica",
+    "pt-BR": "Cassetete Arruinado",
+    "he": "אלה הרוסה"
   },
   "description": {
     "en": "Can be recycled into crafting materials",
@@ -38,7 +40,9 @@
     "kr": "제작 재료로 재활용 가능",
     "tr": "İşleme malzemelerine geri dönüştürülebilir",
     "hr": "Može se reciklirati u materijale za izradu",
-    "sr": "Može se reciklirati u materijale za izradu"
+    "sr": "Može se reciklirati u materijale za izradu",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação",
+    "he": "ניתן למיחזור לחומרי יצירה"
   },
   "type": "Recyclable",
   "rarity": "Uncommon",

@@ -18,7 +18,9 @@
     "kr": "부서진 유도 시스템",
     "tr": "Kırık Güdüm Sistemi",
     "hr": "Pokvareni Sustav Navođenja",
-    "sr": "Pokvareni Sistem Navođenja"
+    "sr": "Pokvareni Sistem Navođenja",
+    "pt-BR": "Sistema de Orientação Quebrado",
+    "he": "מערכת הנחיה שבורה"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "kr": "제작 재료로 재활용 가능.",
     "tr": "İşleme malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למחזור לחומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Rare",

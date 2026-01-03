@@ -18,7 +18,9 @@
     "kr": "가스 수류탄 함정",
     "tr": "Gaz Bombası Tuzağı",
     "hr": "Zamka s Plinskom Granatom",
-    "sr": "Zamka sa Gasnom Granatom"
+    "sr": "Zamka sa Gasnom Granatom",
+    "pt-BR": "Armadilha de Granada de Gás",
+    "he": "מלכודת רימון גז"
   },
   "description": {
     "en": "A laser trip wire that detonates a Gas Grenade.",
@@ -38,7 +40,9 @@
     "kr": "가스 수류탄을 폭발시키는 레이저 트립 와이어.",
     "tr": "Bir Gaz Bombasını patlatan lazer tuzak teli.",
     "hr": "Laserska žica zamka koja detonira Plinsku Granatu.",
-    "sr": "Laserska žica zamka koja detonira Gasnu Granatu."
+    "sr": "Laserska žica zamka koja detonira Gasnu Granatu.",
+    "pt-BR": "Um fio de acionamento a laser que detona uma Granada de Gás.",
+    "he": "חוט תיל לייזר המפוצץ רימון גז."
   },
   "type": "Quick Use",
   "rarity": "Common",
@@ -64,7 +68,9 @@
       "tr": "Dayanıklılık Tükenmesi",
       "hr": "Iscrpljivanje Izdržljivosti",
       "sr": "Iscrpljivanje Izdržljivosti",
-      "value": "25/s"
+      "value": "25/s",
+      "pt-BR": "Drenagem de Estamina",
+      "he": "דלדול סיבולת"
     },
     "Duration": {
       "en": "Duration",
@@ -85,7 +91,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "20s"
+      "value": "20s",
+      "pt-BR": "Duração",
+      "he": "משך"
     },
     "Radius": {
       "en": "Radius",
@@ -106,7 +114,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "7.5m"
+      "value": "7.5m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/gas_grenade_trap.png",

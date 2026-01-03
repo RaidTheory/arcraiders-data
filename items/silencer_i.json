@@ -18,7 +18,9 @@
     "kr": "소음기 I",
     "tr": "Susturucu I",
     "hr": "Prigušivač I",
-    "sr": "Prigušivač I"
+    "sr": "Prigušivač I",
+    "pt-BR": "Silenciador I",
+    "he": "משתיק I"
   },
   "description": {
     "en": "Slightly reduces the amount of noise produced when firing.",
@@ -38,7 +40,9 @@
     "kr": "발사 시 발생하는 소음을 약간 감소시킵니다.",
     "tr": "Ateş ederken üretilen gürültü miktarını hafifçe azaltır.",
     "hr": "Blago smanjuje količinu buke proizvedene pri pucanju.",
-    "sr": "Blago smanjuje količinu buke proizvedene pri pucanju."
+    "sr": "Blago smanjuje količinu buke proizvedene pri pucanju.",
+    "pt-BR": "Reduz levemente a quantidade de ruído produzido ao disparar.",
+    "he": "מפחית מעט את עוצמת הרעש בעת הירי."
   },
   "type": "Modification",
   "updatedAt": "12/31/2025",
@@ -63,7 +67,9 @@
       "tr": "Gürültü Azaltma",
       "hr": "Smanjenje Buke",
       "sr": "Smanjenje Buke",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Redução de Ruído",
+      "he": "הפחתת רעש"
     }
   },
   "value": 2000,

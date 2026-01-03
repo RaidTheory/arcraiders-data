@@ -19,7 +19,9 @@
     "tr": "Moloz Yığınına Dönmüş",
     "zh-TW": "化為廢墟",
     "sr": "Svedeno na Ruševine",
-    "hr": "Svedeno na Ruševine"
+    "hr": "Svedeno na Ruševine",
+    "pt-BR": "Reduzido a Escombros",
+    "he": "הפך לעיי חורבות"
   },
   "map": [
     "the_blue_gate"
@@ -43,7 +45,9 @@
     "tr": "O çökmüş otoyol beni endişelendiriyor; yakın zamanda olmuş gibi görünüyor. Üst Taraf'ın çoğu harabe olabilir ama çoğu çok eskiden kalma.",
     "zh-TW": "那條倒塌的高速公路讓我擔心；看起來是最近發生的。地表的大部分可能都是廢墟，但大多數都是很久以前的。",
     "sr": "Taj srušeni autoput me brine; izgleda da je skorašnji. Veći deo Gornje Strane je možda u ruševinama, ali većina toga je od pre mnogo vremena.",
-    "hr": "Taj srušeni autoput me brine; izgleda da je nedavan. Veći dio Gornje Strane je možda u ruševinama, ali većina toga je od prije mnogo vremena."
+    "hr": "Taj srušeni autoput me brine; izgleda da je nedavan. Veći dio Gornje Strane je možda u ruševinama, ali većina toga je od prije mnogo vremena.",
+    "pt-BR": "Aquela rodovia desmoronada me preocupa; parece ser recente. Grande parte da Superfície pode estar em ruínas, mas a maioria é de muito tempo atrás.",
+    "he": "הכביש המהיר שקרס מדאיג אותי; נראה שזה קרה לאחרונה. חלקים גדולים מפני השטח אולי הרוסים, אבל רוב ההרס הוא מלפני עידנים."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Çökmüş Otoyolun fotoğrafını çek",
       "zh-TW": "拍攝倒塌的高速公路照片",
       "sr": "Uslikaj Srušeni Autoput",
-      "hr": "Uslikaj Srušeni Autoput"
+      "hr": "Uslikaj Srušeni Autoput",
+      "pt-BR": "Tire uma foto da Rodovia Desmoronada",
+      "he": "צלם תמונה של הכביש המהיר שקרס"
     },
     {
       "en": "Go to the Broken Earth",
@@ -84,7 +90,9 @@
       "tr": "Kırık Toprak'a git",
       "zh-TW": "前往破碎大地",
       "sr": "Idi do Slomljene Zemlje",
-      "hr": "Idi do Slomljene Zemlje"
+      "hr": "Idi do Slomljene Zemlje",
+      "pt-BR": "Vá para Broken Earth",
+      "he": "לך אל האדמה השבורה"
     },
     {
       "en": "Follow the trail of destruction through the Broken Earth",
@@ -104,7 +112,9 @@
       "tr": "Kırık Toprak boyunca yıkım izini takip et",
       "zh-TW": "沿著破壞痕跡穿過破碎大地",
       "sr": "Prati trag razaranja kroz Slomljenu Zemlju",
-      "hr": "Prati trag razaranja kroz Slomljenu Zemlju"
+      "hr": "Prati trag razaranja kroz Slomljenu Zemlju",
+      "pt-BR": "Siga o rastro de destruição através de Broken Earth",
+      "he": "עקוב אחר נתיב ההרס דרך האדמה השבורה"
     },
     {
       "en": "Investigate the unknown ARC machines",
@@ -124,7 +134,9 @@
       "tr": "Bilinmeyen ARC makinelerini araştır",
       "zh-TW": "調查未知的ARC機器",
       "sr": "Istraži nepoznate ARC mašine",
-      "hr": "Istraži nepoznate ARC strojeve"
+      "hr": "Istraži nepoznate ARC strojeve",
+      "pt-BR": "Investigue as máquinas ARC desconhecidas",
+      "he": "חקור את מכונות ה-ARC הלא מוכרות"
     }
   ],
   "grantedItemIds": [

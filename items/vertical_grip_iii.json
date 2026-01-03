@@ -18,7 +18,9 @@
     "tr": "Dikey Kabza III",
     "uk": "Вертикальна рукоятка III",
     "sr": "Vertikalni rukohvat III",
-    "hr": "Okomiti rukohvat III"
+    "hr": "Okomiti rukohvat III",
+    "pt-BR": "Empunhadura Vertical III",
+    "he": "ידית אחיזה אנכית III"
   },
   "description": {
     "en": "Significantly reduces vertical recoil. Compatible with: Tempest, Kettle, Hullcracker, Venator, Il Toro",
@@ -38,7 +40,9 @@
     "tr": "Dikey geri tepmesini önemli ölçüde azaltır. Uyumlu silahlar: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "uk": "Значно зменшує вертикальну віддачу. Сумісно з: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "sr": "Značajno smanjuje vertikalni trzaj. Kompatibilno sa: Tempest, Kettle, Hullcracker, Venator, Il Toro",
-    "hr": "Značajno smanjuje okomiti trzaj. Kompatibilno s: Tempest, Kettle, Hullcracker, Venator, Il Toro"
+    "hr": "Značajno smanjuje okomiti trzaj. Kompatibilno s: Tempest, Kettle, Hullcracker, Venator, Il Toro",
+    "pt-BR": "Reduz significativamente o recuo vertical. Compatível com: Tempest, Kettle, Hullcracker, Venator, Il Toro",
+    "he": "מפחיתה באופן משמעותי את הרתע האנכי. תואמת ל: Tempest, Kettle, Hullcracker, Venator, Il Toro"
   },
   "type": "Modification",
   "value": 5000,
@@ -64,7 +68,9 @@
       "uk": "Зменшена вертикальна віддача",
       "sr": "Smanjen vertikalni trzaj",
       "hr": "Smanjen okomiti trzaj",
-      "value": "40%"
+      "value": "40%",
+      "pt-BR": "Recuo Vertical Reduzido",
+      "he": "רתע אנכי מופחת"
     },
     "Reduced ADS Speed": {
       "en": "Reduced ADS Speed",
@@ -85,7 +91,9 @@
       "uk": "Зменшена швидкість прицілювання",
       "sr": "Smanjena brzina nišanjenja",
       "hr": "Smanjena brzina nišanjenja",
-      "value": "30%"
+      "value": "30%",
+      "pt-BR": "Velocidade de Mira Reduzida",
+      "he": "מהירות כניסה לכוונת מופחתת"
     }
   },
   "craftBench": "weapon_bench",

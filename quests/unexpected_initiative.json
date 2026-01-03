@@ -19,7 +19,9 @@
     "tr": "Beklenmedik Girişim",
     "zh-TW": "意外的主動",
     "sr": "Neočekivana inicijativa",
-    "hr": "Neočekivana inicijativa"
+    "hr": "Neočekivana inicijativa",
+    "pt-BR": "Iniciativa Inesperada",
+    "he": "יוזמה בלתי צפויה"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Gıda üretimimizi artırmaya yardımcı olmak için bir sera kuruyorum. Celeste'e iyilik yapıyorum, tamam mı? Hepsi bu. Ama bu kadar yeter. Tüm detayları hallettim ama malzemelere ihtiyacım var ve onları tek başıma taşımayacağım.",
     "zh-TW": "我正在建造一個溫室，以幫助提高我們的食物產量。我是在幫塞萊斯特一個忙，明白嗎？就是這樣。但別再說這個了。我已經把所有細節都安排好了，但我需要補給品，而且我不會一個人搬運它們。",
     "sr": "Postavljam staklenicu, da pomognem u povećanju naše proizvodnje hrane. Činim Celeste uslugu, u redu? To je sve. Ali dosta o tome. Razradio sam sve detalje, ali će mi trebati zalihe, i neću ih nositi sam.",
-    "hr": "Postavljam staklenicu, da pomognem u povećanju naše proizvodnje hrane. Činim Celeste uslugu, u redu? To je sve. Ali dosta o tome. Razradio sam sve detalje, ali trebat će mi zalihe, i neću ih nositi sam."
+    "hr": "Postavljam staklenicu, da pomognem u povećanju naše proizvodnje hrane. Činim Celeste uslugu, u redu? To je sve. Ali dosta o tome. Razradio sam sve detalje, ali trebat će mi zalihe, i neću ih nositi sam.",
+    "pt-BR": "Estou montando uma estufa para ajudar a aumentar nossa produção de alimentos. Estou fazendo um favor para a Celeste, beleza? Só isso. Mas chega de papo. Tenho todos os detalhes planejados, mas vou precisar de suprimentos e não vou carregá-los sozinho.",
+    "he": "אני מקים חממה כדי לעזור להגביר את ייצור המזון שלנו. אני עושה טובה ל-Celeste, בסדר? זה הכל. אבל מספיק עם זה. כל הפרטים סגורים, אבל אני צריך אספקה, ואני לא מתכוון לסחוב אותה לבד."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Gömülü Şehir'deki Grandioso Apartmanları'na ulaş",
       "zh-TW": "到達埋沒之城的格蘭迪奧索公寓",
       "sr": "Stigni do Grandioso apartmana u Zakopanom gradu",
-      "hr": "Stigni do Grandioso apartmana u Zakopanom gradu"
+      "hr": "Stigni do Grandioso apartmana u Zakopanom gradu",
+      "pt-BR": "Chegue aos Apartamentos Grandioso na Cidade Enterrada",
+      "he": "הגע אל דירות Grandioso ב-Buried City"
     },
     {
       "en": "Search for Fertilizer on the rooftop of the Grandioso Apartments",
@@ -84,7 +90,9 @@
       "tr": "Grandioso Apartmanları'nın çatısında Gübre ara",
       "zh-TW": "在格蘭迪奧索公寓的屋頂搜尋肥料",
       "sr": "Traži đubrivo na krovu Grandioso apartmana",
-      "hr": "Traži gnojivo na krovu Grandioso apartmana"
+      "hr": "Traži gnojivo na krovu Grandioso apartmana",
+      "pt-BR": "Procure por Fertilizante no terraço dos Apartamentos Grandioso",
+      "he": "חפש דשן על הגג של דירות Grandioso"
     },
     {
       "en": "Reach Piazza Roma in Buried City",
@@ -104,7 +112,9 @@
       "tr": "Gömülü Şehir'deki Piazza Roma'ya ulaş",
       "zh-TW": "到達埋沒之城的羅馬廣場",
       "sr": "Stigni do Piazza Roma u Zakopanom gradu",
-      "hr": "Stigni do Piazza Roma u Zakopanom gradu"
+      "hr": "Stigni do Piazza Roma u Zakopanom gradu",
+      "pt-BR": "Chegue à Piazza Roma na Cidade Enterrada",
+      "he": "הגע ל-Piazza Roma ב-Buried City"
     },
     {
       "en": "Search for a Water Pump in the broken rooftop gardens at Piazza Roma",
@@ -124,7 +134,9 @@
       "tr": "Piazza Roma'daki kırık çatı bahçelerinde Su Pompası ara",
       "zh-TW": "在羅馬廣場破損的屋頂花園中搜尋水泵",
       "sr": "Traži vodenu pumpu u uništenim baštama na krovu u Piazza Roma",
-      "hr": "Traži vodenu pumpu u uništenim vrtovima na krovu u Piazza Roma"
+      "hr": "Traži vodenu pumpu u uništenim vrtovima na krovu u Piazza Roma",
+      "pt-BR": "Procure por uma Bomba d'Água nos jardins destruídos do terraço na Piazza Roma",
+      "he": "חפש משאבת מים בגני הגג ההרוסים ב-Piazza Roma"
     },
     {
       "en": "Deliver a Water Pump to Tian Wen",
@@ -144,7 +156,9 @@
       "tr": "Tian Wen'e Su Pompası teslim et",
       "zh-TW": "將水泵交給田文",
       "sr": "Dostavi vodenu pumpu Tian Wenu",
-      "hr": "Dostavi vodenu pumpu Tian Wenu"
+      "hr": "Dostavi vodenu pumpu Tian Wenu",
+      "pt-BR": "Entregue uma Bomba d'Água para Tian Wen",
+      "he": "מסור משאבת מים ל-Tian Wen"
     },
     {
       "en": "Deliver Fertilizer to Tian Wen",
@@ -164,7 +178,9 @@
       "tr": "Tian Wen'e Gübre teslim et",
       "zh-TW": "將肥料交給田文",
       "sr": "Dostavi đubrivo Tian Wenu",
-      "hr": "Dostavi gnojivo Tian Wenu"
+      "hr": "Dostavi gnojivo Tian Wenu",
+      "pt-BR": "Entregue Fertilizante para Tian Wen",
+      "he": "מסור דשן ל-Tian Wen"
     }
   ],
   "requiredItemIds": [

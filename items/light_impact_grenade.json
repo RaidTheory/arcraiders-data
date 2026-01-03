@@ -18,7 +18,9 @@
     "kr": "경량 충격 수류탄",
     "tr": "Hafif Çarpma Bombası",
     "hr": "Laka Udarna Granata",
-    "sr": "Laka Udarna Granata"
+    "sr": "Laka Udarna Granata",
+    "pt-BR": "Granada de Impacto Leve",
+    "he": "רימון פגיעה קל"
   },
   "description": {
     "en": "A grenade that detonates on impact, dealing explosive damage in a small radius.",
@@ -38,7 +40,9 @@
     "kr": "충격 시 폭발하여 작은 반경에 폭발 피해를 입히는 수류탄.",
     "tr": "Çarpma anında patlayan ve küçük bir yarıçapta patlayıcı hasar veren bomba.",
     "hr": "Granata koja detonira pri udaru, nanoseći eksplozivnu štetu u malom radijusu.",
-    "sr": "Granata koja detonira pri udaru, nanoseći eksplozivnu štetu u malom radijusu."
+    "sr": "Granata koja detonira pri udaru, nanoseći eksplozivnu štetu u malom radijusu.",
+    "pt-BR": "Uma granada que detona no impacto, causando dano explosivo em um raio pequeno.",
+    "he": "רימון שמתפוצץ עם הפגיעה וגורם נזק פיצוץ ברדיוס קטן."
   },
   "type": "Quick Use",
   "rarity": "Common",
@@ -73,7 +77,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": 30
+      "value": 30,
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Radius": {
       "en": "Radius",
@@ -94,7 +100,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "2.5m"
+      "value": "2.5m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "updatedAt": "11/03/2025",

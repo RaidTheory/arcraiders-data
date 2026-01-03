@@ -19,7 +19,9 @@
     "tr": "Yeni Bir Bitki Türü",
     "zh-TW": "新型植物",
     "sr": "Nova vrsta biljke",
-    "hr": "Nova vrsta biljke"
+    "hr": "Nova vrsta biljke",
+    "pt-BR": "Um Novo Tipo de Planta",
+    "he": "סוג חדש של צמח"
   },
   "trader": "Lance",
   "description": {
@@ -40,7 +42,9 @@
     "tr": "Bazı izciler bu garip bitkilerin bölgeye yayıldığına dair raporlar getiriyorlar. Bu, eski dostun Lance'in bunun ilginç kullanımları olabileceğini düşünmesine neden oluyor.",
     "zh-TW": "一些偵察兵帶回了關於這些奇怪植物在該地區蔓延的報告。這讓你的老朋友蘭斯覺得它可能有一些有趣的用途。",
     "sr": "Neki izviđači su doneli izveštaje o čudnim biljkama koje se šire po oblasti. Ovo je navelo tvog starog prijatelja Lancea da pomisli kako bi mogle imati zanimljivu upotrebu.",
-    "hr": "Neki izviđači su donijeli izvještaje o čudnim biljkama koje se šire po području. Ovo je navelo tvog starog prijatelja Lancea da pomisli kako bi mogle imati zanimljivu upotrebu."
+    "hr": "Neki izviđači su donijeli izvještaje o čudnim biljkama koje se šire po području. Ovo je navelo tvog starog prijatelja Lancea da pomisli kako bi mogle imati zanimljivu upotrebu.",
+    "pt-BR": "Alguns batedores têm trazido relatórios dessas plantas estranhas se espalhando pela área. Agora, isso faz seu velho amigo Lance pensar que ela pode ter alguns usos interessantes.",
+    "he": "כמה סיירים חזרו עם דיווחים על הצמחים המוזרים האלה שמתפשטים לאזור. עכשיו, זה גורם לחבר הוותיק שלכם Lance לחשוב שיש להם אולי שימושים מעניינים."
   },
   "objectives": [
     {
@@ -61,7 +65,9 @@
       "tr": "Eski Savaş Alanı'ndaki Baron Kabuğu yakınında yeni bitkiyi ara",
       "zh-TW": "在舊戰場的男爵殘骸附近尋找新植物",
       "sr": "Traži novu biljku blizu Baronove ljuske na Starom bojištu",
-      "hr": "Traži novu biljku blizu Baronove ljuske na Starom bojištu"
+      "hr": "Traži novu biljku blizu Baronove ljuske na Starom bojištu",
+      "pt-BR": "Procure pela nova planta perto da Carcaça do Barão no Antigo Campo de Batalha",
+      "he": "חפש את הצמח החדש ליד ה-Baron Husk ב-Old Battleground"
     },
     {
       "en": "Deliver the Possibly Toxic Plant to Lance",
@@ -81,7 +87,9 @@
       "tr": "Muhtemelen Zehirli Bitkiyi Lance'e teslim et",
       "zh-TW": "將可能有毒的植物交給蘭斯",
       "sr": "Dostavi moguće otrovnu biljku Lanceu",
-      "hr": "Dostavi moguće otrovnu biljku Lanceu"
+      "hr": "Dostavi moguće otrovnu biljku Lanceu",
+      "pt-BR": "Entregue a Planta Possivelmente Tóxica para o Lance",
+      "he": "מסור את הצמח החשוד כרעיל ל-Lance"
     }
   ],
   "rewardItemIds": [

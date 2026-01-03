@@ -19,7 +19,9 @@
     "tr": "Gölgelerden Çıkış",
     "zh-TW": "走出陰影",
     "sr": "Iz Senki",
-    "hr": "Iz Sjene"
+    "hr": "Iz Sjene",
+    "pt-BR": "Fora das Sombras",
+    "he": "מתוך הצללים"
   },
   "map": [
     "buried_city",
@@ -46,7 +48,9 @@
     "tr": "Bayrakları gördün mü? Sinme zamanı bitti. Duyduğuma göre savaşta fazlasıyla test edilmişsin; bir Roketçi ile başa çıkabileceğini düşünüyor musun?",
     "zh-TW": "你看到那些旗幟了嗎？躲藏的時候結束了。據我所知，你已經久經沙場了；你覺得你能對付火箭兵嗎？",
     "sr": "Jesi li video zastave? Vreme kukavičluka je prošlo. Čujem da si više nego iskušan u borbi; misliš li da možeš da se suočiš sa Rocketeerom?",
-    "hr": "Jesi li vidio zastave? Vrijeme kukavičluka je prošlo. Čujem da si više nego iskušan u borbi; misliš li da se možeš suočiti s Rocketeerom?"
+    "hr": "Jesi li vidio zastave? Vrijeme kukavičluka je prošlo. Čujem da si više nego iskušan u borbi; misliš li da se možeš suočiti s Rocketeerom?",
+    "pt-BR": "Viu as bandeiras? A hora de se acovardar acabou. Você foi mais do que testado em batalha, pelo que ouvi; acha que consegue enfrentar um Rocketeer?",
+    "he": "ראית את הדגלים? הזמן לפחד נגמר. שמעתי שכבר הוכחת את עצמך בקרב; חושב שאתה יכול להתמודד עם רוקטיר?"
   },
   "objectives": [
     {
@@ -67,7 +71,9 @@
       "tr": "Bir Roketçi yok et",
       "zh-TW": "摧毀一名火箭兵",
       "sr": "Uništi Rocketeera",
-      "hr": "Uništi Rocketeera"
+      "hr": "Uništi Rocketeera",
+      "pt-BR": "Destrua um Rocketeer",
+      "he": "השמד רוקטיר"
     },
     {
       "en": "Obtain a Rocketeer Driver",
@@ -87,7 +93,9 @@
       "tr": "Bir Roketçi Sürücüsü edin",
       "zh-TW": "獲得火箭兵驅動器",
       "sr": "Pribavi Rocketeer Driver",
-      "hr": "Pribavi Rocketeer Driver"
+      "hr": "Pribavi Rocketeer Driver",
+      "pt-BR": "Obtenha um Driver de Rocketeer",
+      "he": "השג דרייבר של רוקטיר"
     }
   ],
   "requiredItemIds": [

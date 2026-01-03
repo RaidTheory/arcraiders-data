@@ -19,7 +19,9 @@
     "tr": "Binbaşının Sandığı",
     "zh-TW": "少校的儲物箱",
     "sr": "Majorov sanduk",
-    "hr": "Majorov sanduk"
+    "hr": "Majorov sanduk",
+    "pt-BR": "O Baú da Major",
+    "he": "התיבה של המייג'ור"
   },
   "map": [
     "dam_battlegrounds"
@@ -43,7 +45,9 @@
     "tr": "Başka bir işim var. Bu.. annemle ilgili. Seni daha önce gönderdiğim İlk Dalga bölgeleri hatırlıyor musun? Aslında annemin bir şeyini bulmanı umuyordum. O, Yağmacı direnişinde savaştı. Uzak bir ihtimaldi; ama şimdi gerçek bir ipucum var.",
     "zh-TW": "我還有一個任務。是關於我媽媽的。還記得我之前讓你去的那些第一波遺址嗎？其實我希望你能找到我母親的東西。她曾在掠奪者抵抗軍中戰鬥。這是個渺茫的希望；但現在我有了真正的線索。",
     "sr": "Imam još jedan posao. Radi se.. o mojoj majci. Ona mesta Prvog talasa na koja sam te slao ranije? Zapravo sam se nadao da ćeš naći nešto što je pripadalo mojoj majci. Borila se u otporu Pljačkaša. Bila je mala šansa; ali sada imam pravi trag.",
-    "hr": "Imam još jedan posao. Radi se.. o mojoj majci. Ona mjesta Prvog vala na koja sam te slao ranije? Zapravo sam se nadao da ćeš naći nešto što je pripadalo mojoj majci. Borila se u otporu Pljačkaša. Bila je mala šansa; ali sada imam pravi trag."
+    "hr": "Imam još jedan posao. Radi se.. o mojoj majci. Ona mjesta Prvog vala na koja sam te slao ranije? Zapravo sam se nadao da ćeš naći nešto što je pripadalo mojoj majci. Borila se u otporu Pljačkaša. Bila je mala šansa; ali sada imam pravi trag.",
+    "pt-BR": "Tenho outro trabalho. É... sobre minha mãe. Aqueles locais da Primeira Onda para onde te enviei antes? Na verdade, eu esperava que você encontrasse algo da minha mãe. Ela lutou na resistência Raider. Era um tiro no escuro, mas agora tenho uma pista real.",
+    "he": "יש לי עבודה נוספת. זה... בקשר לאמא שלי. אתרי \"הגל הראשון\" ששלחתי אתכם אליהם קודם? קיוויתי שתמצאו משהו ששייך לאמא שלי. היא נלחמה במחתרת ה-Raiders. זה היה סיכוי קלוש, אבל עכשיו יש לי קצה חוט אמיתי."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Baraj'ın kuzeybatısındaki dairelerde Binbaşı Aiva'nın hatıralarını ara",
       "zh-TW": "在大壩西北方的公寓中搜尋艾娃少校的紀念品",
       "sr": "Traži uspomene Major Aive u stanovima severozapadnog od Brane",
-      "hr": "Traži uspomene Major Aive u stanovima sjeverozapadno od Brane"
+      "hr": "Traži uspomene Major Aive u stanovima sjeverozapadno od Brane",
+      "pt-BR": "Procure pelas lembranças da Major Aiva nos apartamentos a noroeste da Represa",
+      "he": "חפשו את המזכרות של המייג'ור Aiva בדירות צפונית-מערבית לסכר"
     },
     {
       "en": "Deliver Major Aiva's Mementos to Tian Wen",
@@ -84,7 +90,9 @@
       "tr": "Binbaşı Aiva'nın Hatıralarını Tian Wen'e teslim et",
       "zh-TW": "將艾娃少校的紀念品交給田文",
       "sr": "Dostavi uspomene Major Aive Tian Wenu",
-      "hr": "Dostavi uspomene Major Aive Tian Wenu"
+      "hr": "Dostavi uspomene Major Aive Tian Wenu",
+      "pt-BR": "Entregue as Lembranças da Major Aiva para Tian Wen",
+      "he": "מסרו את המזכרות של המייג'ור Aiva ל-Tian Wen"
     }
   ],
   "requiredItemIds": [

@@ -19,7 +19,9 @@
     "tr": "Doktorun Emirleri",
     "zh-TW": "醫生的命令",
     "sr": "Doktorova Naredba",
-    "hr": "Doktorova Naredba"
+    "hr": "Doktorova Naredba",
+    "pt-BR": "Ordens do Médico",
+    "he": "הוראות הרופא"
   },
   "trader": "Celeste",
   "description": {
@@ -40,7 +42,9 @@
     "tr": "Bak çaylak: seni tedavi etmemi istiyorsan, o değerli uzuvlarının sargıya değer olduğunu kanıtlasan iyi olur.",
     "zh-TW": "聽著，新手：如果你想讓我治療你，最好證明你那寶貴的四肢值得包紮。",
     "sr": "Slušaj, pridošlice: ako želiš da te lečim, bolje dokaži da tvoji dragoceni udovi zaslužuju zavoj.",
-    "hr": "Slušaj, pridošlice: ako želiš da te liječim, bolje dokaži da tvoji dragocjeni udovi zaslužuju zavoj."
+    "hr": "Slušaj, pridošlice: ako želiš da te liječim, bolje dokaži da tvoji dragocjeni udovi zaslužuju zavoj.",
+    "pt-BR": "Escuta, novato: se quiser que eu te trate, é melhor provar que esses seus membros preciosos valem a pena enfaixar.",
+    "he": "תקשיב, טירון: אם אתה רוצה שאטפל בך, כדאי שתוכיח שהגפיים היקרות שלך בכלל שוות חבישה."
   },
   "objectives": [
     {
@@ -61,7 +65,9 @@
       "tr": "1 Şırınga edin",
       "zh-TW": "獲得1個注射器",
       "sr": "Pribavi 1 Špric",
-      "hr": "Pribavi 1 Štrcaljku"
+      "hr": "Pribavi 1 Štrcaljku",
+      "pt-BR": "Obtenha 1 Seringa",
+      "he": "השג 1 מזרק"
     },
     {
       "en": "Obtain 2 Antiseptic",
@@ -81,7 +87,9 @@
       "tr": "2 Antiseptik edin",
       "zh-TW": "獲得2個消毒劑",
       "sr": "Pribavi 2 Antiseptika",
-      "hr": "Pribavi 2 Antiseptika"
+      "hr": "Pribavi 2 Antiseptika",
+      "pt-BR": "Obtenha 2 Antissépticos",
+      "he": "השג 2 חומר חיטוי"
     },
     {
       "en": "Obtain 1 Durable Cloth",
@@ -101,7 +109,9 @@
       "tr": "1 Dayanıklı Kumaş edin",
       "zh-TW": "獲得1個耐用布料",
       "sr": "Pribavi 1 Izdržljivu Tkaninu",
-      "hr": "Pribavi 1 Izdržljivu Tkaninu"
+      "hr": "Pribavi 1 Izdržljivu Tkaninu",
+      "pt-BR": "Obtenha 1 Tecido Durável",
+      "he": "השג 1 בד עמיד"
     },
     {
       "en": "Obtain 1 Great Mullein",
@@ -121,7 +131,9 @@
       "tr": "1 Sığırkuyruğu edin",
       "zh-TW": "獲得1個毛蕊花",
       "sr": "Pribavi 1 Veliki Divizam",
-      "hr": "Pribavi 1 Veliki Divizam"
+      "hr": "Pribavi 1 Veliki Divizam",
+      "pt-BR": "Obtenha 1 Verbasco",
+      "he": "השג 1 בוצין"
     }
   ],
   "requiredItemIds": [

@@ -18,7 +18,9 @@
     "ja": "戦闘MK3（アグレッシブ）",
     "kr": "전투 마크 3 (공격)",
     "pt": "Combate Mk. 3 (Agressivo)",
-    "es": "Combate Ver. 3 (Agresivo)"
+    "es": "Combate Ver. 3 (Agresivo)",
+    "pt-BR": "Combate Mk. 3 (Agressivo)",
+    "he": "לחימה סימן 3 (אגרסיבי)"
   },
   "description": {
     "en": "An improved version of the Combat II augment. Supports more shield types, and comes with extra space for grenades.",
@@ -38,7 +40,9 @@
     "ja": "コンバット II オーグメントの改良版。より多くのシールドタイプに対応し、グレネード用の追加スペースを備えています。",
     "kr": "전투 II 증강의 개선된 버전입니다. 더 많은 실드 유형을 지원하며 수류탄을 위한 추가 공간이 있습니다.",
     "pt": "Uma versão melhorada do aumento Combate II. Suporta mais tipos de escudos e vem com espaço extra para granadas.",
-    "es": "Una versión mejorada del aumento Combate II. Soporta más tipos de escudos y viene con espacio extra para granadas."
+    "es": "Una versión mejorada del aumento Combate II. Soporta más tipos de escudos y viene con espacio extra para granadas.",
+    "pt-BR": "Uma versão aprimorada do aprimoramento Combate II. Suporta mais tipos de escudos e vem com espaço extra para granadas.",
+    "he": "גרסה משופרת של תוסף לחימה 2. תומכת ביותר סוגי מגנים, ומגיעה עם מקום נוסף לרימונים."
   },
   "type": "Augment",
   "rarity": "Epic",
@@ -62,7 +66,9 @@
       "kr": "체력 재생",
       "pt": "Regeneração de Saúde",
       "es": "Regeneración de Salud",
-      "value": "Restores 2 health every 5 seconds. When damage is taken the effect is paused for 30 seconds."
+      "value": "Restores 2 health every 5 seconds. When damage is taken the effect is paused for 30 seconds.",
+      "pt-BR": "Regeneração de Saúde",
+      "he": "התחדשות בריאות"
     },
     "Backpack Slots": {
       "en": "Backpack Slots",
@@ -83,7 +89,9 @@
       "kr": "배낭 슬롯",
       "pt": "Espaços de Mochila",
       "es": "Espacios de Mochila",
-      "value": 18
+      "value": 18,
+      "pt-BR": "Espaços da Mochila",
+      "he": "חריצי תיק גב"
     },
     "Safe Pocket Slots": {
       "en": "Safe Pocket Slots",
@@ -104,7 +112,9 @@
       "kr": "안전 포켓 슬롯",
       "pt": "Espaços de Bolso Seguro",
       "es": "Espacios de Bolsillo Seguro",
-      "value": 1
+      "value": 1,
+      "pt-BR": "Espaços do Bolso Seguro",
+      "he": "חריצי כיס בטוח"
     },
     "Quick Use Slots": {
       "en": "Quick Use Slots",
@@ -125,7 +135,9 @@
       "kr": "빠른 사용 슬롯",
       "pt": "Espaços de Uso Rápido",
       "es": "Espacios de Uso Rápido",
-      "value": 4
+      "value": 4,
+      "pt-BR": "Espaços de Uso Rápido",
+      "he": "חריצי שימוש מהיר"
     },
     "Weapon Slots": {
       "en": "Weapon Slots",
@@ -146,7 +158,9 @@
       "kr": "무기 슬롯",
       "pt": "Espaços de Armas",
       "es": "Espacios de Armas",
-      "value": 2
+      "value": 2,
+      "pt-BR": "Espaços de Arma",
+      "he": "חריצי נשק"
     },
     "Grenade Use Slots": {
       "en": "Grenade Use Slots",
@@ -167,7 +181,9 @@
       "kr": "수류탄 사용 슬롯",
       "pt": "Espaços de Uso de Granadas",
       "es": "Espacios de Uso de Granadas",
-      "value": 2
+      "value": 2,
+      "pt-BR": "Slots de Uso de Granadas",
+      "he": "חריצי רימונים"
     },
     "Weight Limit": {
       "en": "Weight Limit",
@@ -188,7 +204,9 @@
       "kr": "무게 제한",
       "pt": "Limite de Peso",
       "es": "Límite de Peso",
-      "value": 65
+      "value": 65,
+      "pt-BR": "Limite de Peso",
+      "he": "מגבלת משקל"
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -209,7 +227,9 @@
       "kr": "실드 호환성",
       "pt": "Compatibilidade de Escudo",
       "es": "Compatibilidad de Escudo",
-      "value": "Light, Medium, Heavy"
+      "value": "Light, Medium, Heavy",
+      "pt-BR": "Compatibilidade de Escudo",
+      "he": "תאימות מגן"
     }
   },
   "weightKg": 5,

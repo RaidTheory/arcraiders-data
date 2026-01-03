@@ -18,7 +18,9 @@
     "es": "Plano del Ecualizador",
     "hr": "Nacrt Izjednačivača",
     "pt": "Projeto do Equalizador",
-    "da": "Equalizer-tegning"
+    "da": "Equalizer-tegning",
+    "pt-BR": "Diagrama da Equalizer",
+    "he": "שרטוט Equalizer"
   },
   "description": {
     "en": "A high capacity experimental beam rifle.",
@@ -38,7 +40,9 @@
     "es": "Un rifle de rayos experimental de alta capacidad.",
     "hr": "Eksperimentalna zrakasta puška velikog kapaciteta.",
     "pt": "Um rifle de raios experimental de alta capacidade.",
-    "da": "En eksperimentel stråleriffel med høj kapacitet."
+    "da": "En eksperimentel stråleriffel med høj kapacitet.",
+    "pt-BR": "Um rifle de feixe experimental de alta capacidade.",
+    "he": "רובה קרן ניסיוני בעל קיבולת גבוהה."
   },
   "type": "Blueprint",
   "rarity": "Legendary",

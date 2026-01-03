@@ -19,7 +19,9 @@
     "tr": "Kütüphane Kurma",
     "zh-TW": "建立圖書館",
     "sr": "Izgradnja biblioteke",
-    "hr": "Izgradnja knjižnice"
+    "hr": "Izgradnja knjižnice",
+    "pt-BR": "Construindo uma Biblioteca",
+    "he": "בניית ספרייה"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Kütüphane seçimimiz oldukça bayatladı. Gömülü Şehir'e gidip okumamız için bir şeyler bulabilir misin? Herkes için bir şeyler getirdiğinden emin ol.",
     "zh-TW": "我們圖書館的藏書已經相當陳舊了。你能去埋藏之城找些新書給我們讀嗎？確保給每個人都帶點東西。",
     "sr": "Naša bibliotečka selekcija je postala prilično zastarela. Možeš li otići do Zatrpanog grada i naći nešto novo za čitanje? Pobrini se da doneseš nešto za sve.",
-    "hr": "Naša knjižnična selekcija je postala prilično zastarjela. Možeš li otići do Zatrpanog grada i naći nešto novo za čitanje? Pobrini se da doneseš nešto za sve."
+    "hr": "Naša knjižnična selekcija je postala prilično zastarjela. Možeš li otići do Zatrpanog grada i naći nešto novo za čitanje? Pobrini se da doneseš nešto za sve.",
+    "pt-BR": "Nossa seleção da biblioteca ficou bem ultrapassada. Poderia ir até Buried City e encontrar algo mais para a gente ler? Certifique-se de trazer algo para todos.",
+    "he": "מבחר הספרים בספרייה שלנו התיישן למדי. תוכלו לצאת ל-Buried City ולמצוא לנו משהו חדש לקרוא? ודאו שאתם מביאים משהו לכל אחד."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Şehir Merkezi'ndeki Kütüphane'yi bul",
       "zh-TW": "在市中心找到圖書館",
       "sr": "Pronađi biblioteku u centru grada",
-      "hr": "Pronađi knjižnicu u centru grada"
+      "hr": "Pronađi knjižnicu u centru grada",
+      "pt-BR": "Localize a Biblioteca no Centro da Cidade",
+      "he": "אתר את הספרייה במרכז העיר"
     },
     {
       "en": "Find 1 romance book",
@@ -84,7 +90,9 @@
       "tr": "1 romantik kitap bul",
       "zh-TW": "找到1本愛情小說",
       "sr": "Pronađi 1 ljubavni roman",
-      "hr": "Pronađi 1 ljubavni roman"
+      "hr": "Pronađi 1 ljubavni roman",
+      "pt-BR": "Encontre 1 livro de romance",
+      "he": "מצא ספר רומנטיקה 1"
     },
     {
       "en": "Find 1 detective book",
@@ -104,7 +112,9 @@
       "tr": "1 dedektif kitabı bul",
       "zh-TW": "找到1本偵探小說",
       "sr": "Pronađi 1 detektivski roman",
-      "hr": "Pronađi 1 detektivski roman"
+      "hr": "Pronađi 1 detektivski roman",
+      "pt-BR": "Encontre 1 livro de detetive",
+      "he": "מצא ספר בילוש 1"
     },
     {
       "en": "Find 1 adventure book",
@@ -124,7 +134,9 @@
       "tr": "1 macera kitabı bul",
       "zh-TW": "找到1本冒險小說",
       "sr": "Pronađi 1 avanturistički roman",
-      "hr": "Pronađi 1 pustolovni roman"
+      "hr": "Pronađi 1 pustolovni roman",
+      "pt-BR": "Encontre 1 livro de aventura",
+      "he": "מצא ספר הרפתקאות 1"
     },
     {
       "en": "Deliver 3 books to Apollo",
@@ -144,7 +156,9 @@
       "tr": "Apollo'ya 3 kitap teslim et",
       "zh-TW": "將3本書交給阿波羅",
       "sr": "Dostavi 3 knjige Apolonu",
-      "hr": "Dostavi 3 knjige Apolonu"
+      "hr": "Dostavi 3 knjige Apolonu",
+      "pt-BR": "Entregue 3 livros para Apollo",
+      "he": "מסור 3 ספרים לאפולו"
     }
   ],
   "rewardItemIds": [

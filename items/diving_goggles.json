@@ -18,7 +18,9 @@
     "kr": "다이빙 고글",
     "tr": "Dalış Gözlüğü",
     "hr": "Ronilačke Naočale",
-    "sr": "Ronilačke Naočare"
+    "sr": "Ronilačke Naočare",
+    "pt-BR": "Óculos de Mergulho",
+    "he": "משקפת צלילה"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "kr": "제작 재료로 재활용 가능.",
     "tr": "İşleme malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de criação.",
+    "he": "ניתן למיחזור לחומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Rare",

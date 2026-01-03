@@ -18,7 +18,9 @@
     "kr": "앵글 그립 I",
     "tr": "Açılı Kabza I",
     "hr": "Kutna Ručka I",
-    "sr": "Kutna Ručka I"
+    "sr": "Kutna Ručka I",
+    "pt-BR": "Empunhadura Angular I",
+    "he": "מאחז זוויתי I"
   },
   "description": {
     "en": "Slightly reduces horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
@@ -38,7 +40,9 @@
     "kr": "수평 반동을 약간 감소시킨다. 호환 무기: 템페스트, 아르페지오, 케틀, 페로, 헐크래커",
     "tr": "Yatay geri tepmesini hafifçe azaltır. Uyumlu: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
     "hr": "Blago smanjuje horizontalni trzaj. Kompatibilno s: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
-    "sr": "Blago smanjuje horizontalni trzaj. Kompatibilno sa: Tempest, Arpeggio, Kettle, Ferro, Hullcracker"
+    "sr": "Blago smanjuje horizontalni trzaj. Kompatibilno sa: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+    "pt-BR": "Reduz levemente o recuo horizontal. Compatível com: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+    "he": "מפחית מעט את הרתע האופקי. תואם ל: Tempest, Arpeggio, Kettle, Ferro, Hullcracker"
   },
   "type": "Modification",
   "rarity": "Common",
@@ -64,7 +68,9 @@
       "tr": "Azaltılmış Yatay Geri Tepme",
       "hr": "Smanjen Horizontalni Trzaj",
       "sr": "Smanjen Horizontalni Trzaj",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Recuo Horizontal Reduzido",
+      "he": "רתע אופקי מופחת"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/angled_grip_i.png",

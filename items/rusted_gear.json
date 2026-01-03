@@ -18,7 +18,9 @@
     "kr": "녹슨 톱니바퀴",
     "tr": "Paslı Dişli",
     "hr": "Zahrđali Zupčanik",
-    "sr": "Zahrđali Zupčanik"
+    "sr": "Zahrđali Zupčanik",
+    "pt-BR": "Engrenagem Enferrujada",
+    "he": "גלגל שיניים חלוד"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "kr": "제작 재료로 재활용 가능.",
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de criação.",
+    "he": "ניתן למחזור לחומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Rare",

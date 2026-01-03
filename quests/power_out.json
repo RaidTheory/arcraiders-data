@@ -19,7 +19,9 @@
     "tr": "Elektrik Kesintisi",
     "zh-TW": "斷電",
     "sr": "Nestanak struje",
-    "hr": "Nestanak struje"
+    "hr": "Nestanak struje",
+    "pt-BR": "Sem Energia",
+    "he": "הפסקת חשמל"
   },
   "map": [
     "the_spaceport"
@@ -43,7 +45,9 @@
     "tr": "Bu kötü şansın ötesinde bir şey. Bir şey—ya da biri—elektrik trafo merkezlerimizden bazılarını devre dışı bıraktı. Tamir etmesi için gönderdiğim mühendis geri dönmedi, bu yüzden mevcut tüm Akıncıların bunu araştırmasına ihtiyacım var. Bu seni de içeriyor.",
     "zh-TW": "這已經超出了倒楣的範疇。某種東西——或者某個人——破壞了我們的一些變電站。我派去修理的工程師還沒有回來，所以我需要所有可用的掠奪者去調查。包括你。",
     "sr": "Ovo prevazilazi lošu sreću. Nešto—ili neko—je onesposobio neke od naših električnih podstanica. Inženjer kojeg sam poslao da to popravi se nije vratio, tako da mi trebaju svi dostupni Rejderi da to ispitaju. To uključuje i tebe.",
-    "hr": "Ovo prelazi lošu sreću. Nešto—ili netko—je onesposobio neke od naših električnih podstanica. Inženjer kojeg sam poslao da to popravi se nije vratio, tako da mi trebaju svi dostupni Rejderi da to ispitaju. To uključuje i tebe."
+    "hr": "Ovo prelazi lošu sreću. Nešto—ili netko—je onesposobio neke od naših električnih podstanica. Inženjer kojeg sam poslao da to popravi se nije vratio, tako da mi trebaju svi dostupni Rejderi da to ispitaju. To uključuje i tebe.",
+    "pt-BR": "Isso vai além de má sorte. Algo — ou alguém — derrubou algumas das nossas subestações elétricas. O engenheiro que enviei para consertar não voltou, então preciso que todos os Raiders disponíveis investiguem isso. Isso inclui você.",
+    "he": "זה מעבר לחוסר מזל. משהו – או מישהו – השבית חלק מתחנות המשנה החשמליות שלנו. המהנדס ששלחתי לתקן את זה לא חזר, אז אני צריך שכל הריידרים הפנויים יבדקו את זה. זה כולל אותך."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Uzay Limanı'nın güneyinde, Kontrol Noktası'nın yanındaki Elektrik Trafo Merkezini bulun",
       "zh-TW": "找到太空港南邊檢查站旁的變電站",
       "sr": "Pronađi električnu podstanicu južno od Svemirske luke, pored kontrolnog punkta",
-      "hr": "Pronađi električnu podstanicu južno od Svemirske luke, pored kontrolnog punkta"
+      "hr": "Pronađi električnu podstanicu južno od Svemirske luke, pored kontrolnog punkta",
+      "pt-BR": "Encontre a Subestação Elétrica ao sul do Espaçoporto, ao lado do Checkpoint",
+      "he": "מצא את תחנת המשנה החשמלית דרומית לנמל החלל, ליד המחסום"
     },
     {
       "en": "Find any sign of the missing engineer",
@@ -84,7 +90,9 @@
       "tr": "Kayıp mühendisin herhangi bir izini bulun",
       "zh-TW": "尋找失蹤工程師的任何跡象",
       "sr": "Pronađi bilo kakav trag nestalog inženjera",
-      "hr": "Pronađi bilo kakav trag nestalog inženjera"
+      "hr": "Pronađi bilo kakav trag nestalog inženjera",
+      "pt-BR": "Encontre qualquer sinal do engenheiro desaparecido",
+      "he": "מצא סימן כלשהו למהנדס הנעדר"
     },
     {
       "en": "Carry the fuse/battery back to the Electrical Substation",
@@ -104,7 +112,9 @@
       "tr": "Sigortayı/bataryayı Elektrik Trafo Merkezine geri taşıyın",
       "zh-TW": "將保險絲/電池帶回變電站",
       "sr": "Odnesi osigurač/bateriju nazad do električne podstanice",
-      "hr": "Odnesi osigurač/bateriju natrag do električne podstanice"
+      "hr": "Odnesi osigurač/bateriju natrag do električne podstanice",
+      "pt-BR": "Leve o fusível/bateria de volta para a Subestação Elétrica",
+      "he": "קח את הנתיך/סוללה בחזרה לתחנת המשנה החשמלית"
     },
     {
       "en": "Enable the power switch on the Fuse Box",
@@ -124,7 +134,9 @@
       "tr": "Sigorta Kutusundaki güç anahtarını etkinleştirin",
       "zh-TW": "啟動保險絲盒上的電源開關",
       "sr": "Uključi prekidač na kutiji sa osiguračima",
-      "hr": "Uključi prekidač na kutiji s osiguračima"
+      "hr": "Uključi prekidač na kutiji s osiguračima",
+      "pt-BR": "Ative o interruptor de energia na Caixa de Fusíveis",
+      "he": "הפעל את מתג הכוח בתיבת הנתיכים"
     }
   ],
   "rewardItemIds": [

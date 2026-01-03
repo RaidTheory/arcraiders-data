@@ -18,7 +18,9 @@
     "kr": "전술 마크 3 (치유)",
     "tr": "Taktik Mk. 3 (İyileştirme)",
     "hr": "Taktički Mk. 3 (Liječenje)",
-    "sr": "Taktički Mk. 3 (Lečenje)"
+    "sr": "Taktički Mk. 3 (Lečenje)",
+    "pt-BR": "Tático Mk. 3 (Cura)",
+    "he": "טקטי Mk. 3 (ריפוי)"
   },
   "description": {
     "en": "A healing-focused augment which adds extra slots for healing items. When revived from being downed, releases a healing cloud that restores 20 health over 10 seconds. Has a 30-second cooldown.",
@@ -38,7 +40,9 @@
     "kr": "치유에 특화된 증강 장비로 치유 아이템 슬롯을 추가합니다. 다운 상태에서 소생하면 10초에 걸쳐 20의 체력을 회복하는 치유 구름을 방출합니다. 재사용 대기시간 30초.",
     "tr": "İyileştirme öğeleri için ekstra yuva ekleyen iyileştirme odaklı bir güçlendirme. Yere düşmüş haldeyken canlandırıldığında, 10 saniye boyunca 20 can yenileyen bir iyileştirme bulutu salar. 30 saniyelik bekleme süresi vardır.",
     "hr": "Nadogradnja fokusirana na liječenje koja dodaje dodatne slotove za predmete liječenja. Kada se oživite nakon obaranja, oslobađa oblak liječenja koji vraća 20 zdravlja tijekom 10 sekundi. Ima vrijeme ponovnog punjenja od 30 sekundi.",
-    "sr": "Nadogradnja fokusirana na lečenje koja dodaje dodatne slotove za predmete lečenja. Kada se oživite nakon obaranja, oslobađa oblak lečenja koji vraća 20 zdravlja tokom 10 sekundi. Ima vreme ponovnog punjenja od 30 sekundi."
+    "sr": "Nadogradnja fokusirana na lečenje koja dodaje dodatne slotove za predmete lečenja. Kada se oživite nakon obaranja, oslobađa oblak lečenja koji vraća 20 zdravlja tokom 10 sekundi. Ima vreme ponovnog punjenja od 30 sekundi.",
+    "pt-BR": "Um aprimoramento de cura que adiciona espaços extras para itens de cura. Ao ser reanimado após ser derrubado, libera uma nuvem de cura que restaura 20 de vida ao longo de 10 segundos. Tem um tempo de recarga de 30 segundos.",
+    "he": "תוסף המתמקד בריפוי ומוסיף מקום נוסף לחפצי ריפוי. בעת החייאה מנפילה, משחרר ענן ריפוי המחזיר 20 בריאות במשך 10 שניות. זמן טעינה של 30 שניות."
   },
   "type": "Augment",
   "rarity": "Epic",
@@ -66,7 +70,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
@@ -87,7 +93,9 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. Težina Opreme",
       "sr": "Maks. Težina Opreme",
-      "value": 55
+      "value": 55,
+      "pt-BR": "Peso Máximo do Equipamento",
+      "he": "משקל ציוד מקסימלי"
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -108,7 +116,9 @@
       "tr": "Kalkan Uyumluluğu",
       "hr": "Kompatibilnost Štita",
       "sr": "Kompatibilnost Štita",
-      "value": "Light, Medium"
+      "value": "Light, Medium",
+      "pt-BR": "Compatibilidade de Escudo",
+      "he": "תאימות מגן"
     }
   },
   "weightKg": 4,

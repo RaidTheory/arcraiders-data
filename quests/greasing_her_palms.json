@@ -19,7 +19,9 @@
     "tr": "Avucunu Yağlamak",
     "zh-TW": "給她點好處",
     "sr": "Podmazivanje Njenih Dlanova",
-    "hr": "Podmazivanje Njezinih Dlanova"
+    "hr": "Podmazivanje Njezinih Dlanova",
+    "pt-BR": "Molhando a Mão Dela",
+    "he": "שימון הידיים"
   },
   "map": [
     "dam_battlegrounds",
@@ -45,7 +47,9 @@
     "tr": "Son zamanlarda Tian Wen'i topluluk projelerimize katılmaya ikna etmeye çalışıyorum ama başarısız oluyorum. Anlaşmayı tatlandırmam gerekebilir. Pazarda bulunan hurda kalitesinden şikayet ediyor; ona bir iyilik yapabilir miyiz sence?",
     "zh-TW": "最近，我一直在嘗試讓田文加入我們的社區項目，但都失敗了。我可能得讓交易更有吸引力。她一直在抱怨市場上找到的廢料品質不好；你覺得我們能幫她個忙嗎？",
     "sr": "Nedavno sam pokušavao i nisam uspevao da nateram Tian Wen da se pridruži našim zajedničkim projektima. Možda moram da zaslađim ponudu. Žalila se na kvalitet otpada koji se nalazi na tržištu; misliš da bismo mogli da joj učinimo uslugu?",
-    "hr": "Nedavno sam pokušavao i nisam uspio natjerati Tian Wen da se pridruži našim zajedničkim projektima. Možda moram zasladiti ponudu. Žalila se na kvalitetu otpada koji se nalazi na tržištu; misliš da bismo joj mogli učiniti uslugu?"
+    "hr": "Nedavno sam pokušavao i nisam uspio natjerati Tian Wen da se pridruži našim zajedničkim projektima. Možda moram zasladiti ponudu. Žalila se na kvalitetu otpada koji se nalazi na tržištu; misliš da bismo joj mogli učiniti uslugu?",
+    "pt-BR": "Recentemente, tenho tentado, sem sucesso, trazer a Tian Wen para nossos projetos comunitários. Talvez eu tenha que melhorar a oferta. Ela tem reclamado da qualidade da sucata encontrada no mercado; acha que podemos fazer um favor para ela?",
+    "he": "לאחרונה אני מנסה ללא הצלחה לצרף את Tian Wen לפרויקטים הקהילתיים שלנו. אולי אצטרך להמתיק את העסקה. היא מתלוננת על איכות הגרוטאות שיש בשוק; חושב שנוכל לעשות לה ג'סטה?"
   },
   "objectives": [
     {
@@ -66,7 +70,9 @@
       "tr": "Baraj Savaş Alanında, Su Arıtma Kontrol binasındaki Kilitli Odayı ziyaret et",
       "zh-TW": "在大壩戰場，訪問水處理控制大樓的上鎖房間",
       "sr": "Na Bojnom Polju Brane, poseti Zaključanu Sobu u zgradi Kontrole Prečišćavanja Vode",
-      "hr": "Na Bojnom Polju Brane, posjeti Zaključanu Sobu u zgradi Kontrole Pročišćavanja Vode"
+      "hr": "Na Bojnom Polju Brane, posjeti Zaključanu Sobu u zgradi Kontrole Pročišćavanja Vode",
+      "pt-BR": "Nos Campos de Batalha da Represa, visite a Sala Trancada no prédio de Controle de Tratamento de Água",
+      "he": "ב-Dam Battlegrounds, בקר בחדר הנעול בבניין בקרת הטיפול במים"
     },
     {
       "en": "On Spaceport, scope out the rocket thrusters outside the Rocket Assembly",
@@ -86,7 +92,9 @@
       "tr": "Uzay Limanında, Roket Montaj binasının dışındaki roket iticilerini keşfet",
       "zh-TW": "在太空港，偵察火箭組裝廠外的火箭推進器",
       "sr": "Na Svemirskoj Luci, izviđaj raketne potisnice ispred Montaže Raketa",
-      "hr": "Na Svemirskoj Luci, izviđaj raketne potisnice ispred Montaže Raketa"
+      "hr": "Na Svemirskoj Luci, izviđaj raketne potisnice ispred Montaže Raketa",
+      "pt-BR": "No Espaçoporto, examine os propulsores do foguete fora da Montagem de Foguetes",
+      "he": "ב-Spaceport, תצפת על מבערי הרקטה מחוץ ל-Rocket Assembly"
     },
     {
       "en": "On Buried City, visit the barricaded area on floor 6 of the Space Travel Building",
@@ -106,7 +114,9 @@
       "tr": "Gömülü Şehir'de, Uzay Yolculuğu Binasının 6. katındaki barikatlanmış alanı ziyaret et",
       "zh-TW": "在埋沒之城，訪問太空旅行大樓6層的路障區域",
       "sr": "U Zakopanom Gradu, poseti barikadiranu oblast na spratu 6 zgrade Svemirskih Putovanja",
-      "hr": "U Zakopanom Gradu, posjeti barikadiranu oblast na katu 6 zgrade Svemirskih Putovanja"
+      "hr": "U Zakopanom Gradu, posjeti barikadiranu oblast na katu 6 zgrade Svemirskih Putovanja",
+      "pt-BR": "Na Cidade Soterrada, visite a área barricada no 6º andar do Prédio de Viagens Espaciais",
+      "he": "ב-Buried City, בקר באזור המבוצר בקומה 6 של בניין ה-Space Travel"
     }
   ],
   "grantedItemIds": [

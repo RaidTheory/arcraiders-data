@@ -18,7 +18,9 @@
     "kr": "베나토르 III",
     "tr": "Venator III",
     "hr": "Venator III",
-    "sr": "Venator III"
+    "sr": "Venator III",
+    "pt-BR": "Venator III",
+    "he": "ונטור III"
   },
   "description": {
     "en": "Semi-automatic pistol. Fires two shots at a time.",
@@ -38,7 +40,9 @@
     "kr": "반자동 권총. 한 번에 두 발을 발사합니다.",
     "tr": "Yarı otomatik tabanca. Aynı anda iki mermi atar.",
     "hr": "Poluautomatski pištolj. Ispaljuje dva hica odjednom.",
-    "sr": "Poluautomatski pištolj. Ispaljuje dva hica odjednom."
+    "sr": "Poluautomatski pištolj. Ispaljuje dva hica odjednom.",
+    "pt-BR": "Pistola semiautomática. Dispara dois tiros por vez.",
+    "he": "אקדח חצי-אוטומטי. יורה שני כדורים בבת אחת."
   },
   "type": "Pistol",
   "rarity": "Rare",
@@ -62,7 +66,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "120/120"
+      "value": "120/120",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -83,7 +89,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Streljiva",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -104,7 +112,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
-      "value": 10
+      "value": 10,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -125,7 +135,9 @@
       "tr": "Atış Modu",
       "hr": "Način Pucanja",
       "sr": "Način Pucanja",
-      "value": "Semi-Automatic"
+      "value": "Semi-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -146,7 +158,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     },
     "Special Trait": {
       "en": "Special Trait",
@@ -167,7 +181,9 @@
       "tr": "Özel Özellik",
       "hr": "Posebna Osobina",
       "sr": "Posebna Osobina",
-      "value": "Twin Shot"
+      "value": "Twin Shot",
+      "pt-BR": "Atributo Especial",
+      "he": "תכונה מיוחדת"
     },
     "Increased Fire Rate": {
       "en": "Increased Fire Rate",
@@ -188,7 +204,9 @@
       "tr": "Artırılmış atış hızı",
       "hr": "Povećana brzina paljbe",
       "sr": "Povećana brzina paljbe",
-      "value": "26%"
+      "value": "26%",
+      "pt-BR": "Cadência de Tiro Aumentada",
+      "he": "קצב אש מוגבר"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -209,7 +227,9 @@
       "tr": "Azaltılmış yeniden doldurma süresi",
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vrijeme punjenja",
-      "value": "33%"
+      "value": "33%",
+      "pt-BR": "Tempo de Recarga Reduzido",
+      "he": "זמן טעינה מופחת"
     }
   },
   "value": 13000,

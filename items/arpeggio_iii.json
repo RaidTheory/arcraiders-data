@@ -18,7 +18,9 @@
     "kr": "아르페지오 III",
     "tr": "Arpej III",
     "hr": "Arpeđo III",
-    "sr": "Arpeđo III"
+    "sr": "Arpeđo III",
+    "pt-BR": "Arpeggio III",
+    "he": "ארפג'יו III"
   },
   "description": {
     "en": "Has decent damage output and accuracy.",
@@ -38,7 +40,9 @@
     "kr": "적절한 데미지와 정확도를 가지고 있습니다.",
     "tr": "Makul hasar çıkışı ve isabetliliğe sahiptir.",
     "hr": "Ima pristojnu štetu i preciznost.",
-    "sr": "Ima pristojnu štetu i preciznost."
+    "sr": "Ima pristojnu štetu i preciznost.",
+    "pt-BR": "Possui dano e precisão decentes.",
+    "he": "בעל נזק ודיוק סבירים."
   },
   "type": "Assault Rifle",
   "rarity": "Uncommon",
@@ -66,7 +70,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "120/120"
+      "value": "120/120",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -87,7 +93,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Municije",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -108,7 +116,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Okvira",
-      "value": 24
+      "value": 24,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -129,7 +139,9 @@
       "tr": "Atış Modu",
       "hr": "Način Pucanja",
       "sr": "Režim Paljbe",
-      "value": "3-Round Burst"
+      "value": "3-Round Burst",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -150,7 +162,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     },
     "Increased Fire Rate": {
       "en": "Increased Fire Rate",
@@ -171,7 +185,9 @@
       "tr": "Artırılmış atış hızı",
       "hr": "Povećana brzina paljbe",
       "sr": "Povećana brzina paljbe",
-      "value": "40%"
+      "value": "40%",
+      "pt-BR": "Cadência de Tiro Aumentada",
+      "he": "קצב אש מוגבר"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -192,7 +208,9 @@
       "tr": "Azaltılmış yeniden doldurma süresi",
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vrijeme punjenja",
-      "value": "25%"
+      "value": "25%",
+      "pt-BR": "Tempo de Recarga Reduzido",
+      "he": "זמן טעינה מופחת"
     }
   },
   "craftBench": "weapon_bench",

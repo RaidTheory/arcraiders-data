@@ -18,7 +18,9 @@
     "kr": "노획 마크 3 (신중)",
     "tr": "Yağmalama Mk. 3 (Temkinli)",
     "hr": "Pljačkanje Mk. 3 (Oprezno)",
-    "sr": "Pljačkanje Mk. 3 (Oprezno)"
+    "sr": "Pljačkanje Mk. 3 (Oprezno)",
+    "pt-BR": "Saque Mk. 3 (Cauteloso)",
+    "he": "ביזה Mk. 3 (זהיר)"
   },
   "description": {
     "en": "A looting augment that swaps some carry capacity to increase survivability. Upon Shield break, automatically administers a weak Adrenaline Shot. Has a fixed cooldown.",
@@ -38,7 +40,9 @@
     "kr": "일부 운반 능력을 생존력 향상으로 교환하는 약탈 증강 장치. 실드 파괴 시 약한 아드레날린 주사를 자동으로 투여한다. 고정 재사용 대기시간이 있다.",
     "tr": "Hayatta kalma şansını artırmak için taşıma kapasitesinin bir kısmını takas eden bir yağmalama güçlendirmesi. Kalkan kırıldığında otomatik olarak zayıf bir Adrenalin İğnesi uygular. Sabit bir bekleme süresi vardır.",
     "hr": "Nadogradnja za pljačkanje koja zamjenjuje dio nosivosti za povećanje preživljavanja. Kod probijanja Štita, automatski primjenjuje slabu Injekciju Adrenalina. Ima fiksno vrijeme ponovnog punjenja.",
-    "sr": "Nadogradnja za pljačkanje koja zamenjuje deo nosivosti za povećanje preživljavanja. Kod probijanja Štita, automatski primenjuje slabu Injekciju Adrenalina. Ima fiksno vreme ponovnog punjenja."
+    "sr": "Nadogradnja za pljačkanje koja zamenjuje deo nosivosti za povećanje preživljavanja. Kod probijanja Štita, automatski primenjuje slabu Injekciju Adrenalina. Ima fiksno vreme ponovnog punjenja.",
+    "pt-BR": "Um aumento de saque que troca parte da capacidade de carga para aumentar a sobrevivência. Ao quebrar o Escudo, administra automaticamente uma Injeção de Adrenalina fraca. Possui um tempo de recarga fixo.",
+    "he": "תוסף ביזה הממיר חלק מקיבולת הנשיאה לטובת הגברת השרידות. בעת שבירת מגן, מזריק אוטומטית מנת אדרנלין חלשה. בעל זמן טעינה קבוע."
   },
   "type": "Augment",
   "rarity": "Epic",
@@ -64,7 +68,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
@@ -85,7 +91,9 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. Težina Opreme",
       "sr": "Maks. Težina Opreme",
-      "value": 70
+      "value": 70,
+      "pt-BR": "Peso Máximo de Carga",
+      "he": "משקל ציוד מירבי"
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -106,7 +114,9 @@
       "tr": "Kalkan Uyumluluğu",
       "hr": "Kompatibilnost Štita",
       "sr": "Kompatibilnost Štita",
-      "value": "Light"
+      "value": "Light",
+      "pt-BR": "Compatibilidade de Escudo",
+      "he": "תאימות מגן"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_cautious.png",

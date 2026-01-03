@@ -19,7 +19,9 @@
     "tr": "Dönen Dolaplar",
     "zh-TW": "周而復始",
     "sr": "Što ide okolo",
-    "hr": "Što ide okolo"
+    "hr": "Što ide okolo",
+    "pt-BR": "O Que Vai, Volta",
+    "he": "הכל חוזר"
   },
   "trader": "Apollo",
   "description": {
@@ -40,7 +42,9 @@
     "tr": "ARC teknolojisini sıfırdan inşa edemeyiz ama senin kurtardığın parçalardan kurcalayabileceğim çok şey var. Şu anda farklı ARC parçalarını yeniden kullanmaya çalışıyorum. Benim için birkaç deney yapmana sakıncası var mı?",
     "zh-TW": "我們無法從零開始製造ARC科技，但我可以用你回收的零件進行改造。我目前正在嘗試改裝不同的ARC部件。你能幫我做些實驗嗎？",
     "sr": "Ne možemo graditi ARC tehnologiju od nule, ali ima dosta toga što mogu da majstorim od delova koje spašavaš. Trenutno pokušavam da prenamenim različite ARC delove. Bi li mogao da izvedeš neke eksperimente za mene?",
-    "hr": "Ne možemo graditi ARC tehnologiju od nule, ali ima dosta toga što mogu petljati od dijelova koje spašavaš. Trenutno pokušavam prenamjeniti različite ARC dijelove. Bi li mogao izvesti neke eksperimente za mene?"
+    "hr": "Ne možemo graditi ARC tehnologiju od nule, ali ima dosta toga što mogu petljati od dijelova koje spašavaš. Trenutno pokušavam prenamjeniti različite ARC dijelove. Bi li mogao izvesti neke eksperimente za mene?",
+    "pt-BR": "Não podemos construir tecnologia ARC do zero, mas há muito que posso aproveitar das peças que você recupera. Estou tentando readaptar diferentes peças ARC no momento. Se importa em fazer alguns experimentos para mim?",
+    "he": "אנחנו לא יכולים לבנות טכנולוגיית ARC מאפס, אבל יש הרבה שאני יכול לאלתר מהחלקים שאתה אוסף. כרגע אני מנסה להשמיש מחדש חלקי ARC שונים. אכפת לך להריץ כמה ניסויים בשבילי?"
   },
   "objectives": [
     {
@@ -61,7 +65,9 @@
       "tr": "Fireball Burner kullanarak herhangi bir ARC düşmanını yok et",
       "zh-TW": "使用火球燃燒器摧毀任意ARC敵人",
       "sr": "Uništi bilo kog ARC neprijatelja koristeći Fireball Burner",
-      "hr": "Uništi bilo kojeg ARC neprijatelja koristeći Fireball Burner"
+      "hr": "Uništi bilo kojeg ARC neprijatelja koristeći Fireball Burner",
+      "pt-BR": "Destrua qualquer inimigo ARC usando um Queimador de Bolas de Fogo",
+      "he": "השמד כל אויב ARC באמצעות מבער כדורי אש"
     }
   ],
   "grantedItemIds": [

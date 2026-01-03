@@ -18,7 +18,9 @@
     "es": "Il Toro III",
     "hr": "Il Toro III",
     "pt": "Il Toro III",
-    "da": "Il Toro III"
+    "da": "Il Toro III",
+    "pt-BR": "Il Toro III",
+    "he": "איל טורו III"
   },
   "effects": {
     "Increased Fire Rate": {
@@ -40,7 +42,9 @@
       "hr": "Povećana brzina paljbe",
       "pt": "Taxa de disparo aumentada",
       "da": "Øget skudhastighed",
-      "value": "35%"
+      "value": "35%",
+      "pt-BR": "Cadência de Tiro Aumentada",
+      "he": "קצב אש מוגבר"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -61,7 +65,9 @@
       "hr": "Veličina spremnika",
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
-      "value": 7
+      "value": 7,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Durability": {
       "en": "Durability",
@@ -82,7 +88,9 @@
       "hr": "Izdržljivost",
       "pt": "Durabilidade",
       "da": "Holdbarhed",
-      "value": "120/120"
+      "value": "120/120",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -103,7 +111,9 @@
       "hr": "Vrsta streljiva",
       "pt": "Tipo de munição",
       "da": "Ammunitionstype",
-      "value": "Shotgun Ammo"
+      "value": "Shotgun Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -124,7 +134,9 @@
       "hr": "Način paljbe",
       "pt": "Modo de disparo",
       "da": "Skydningstilstand",
-      "value": "Pump-Action"
+      "value": "Pump-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -145,7 +157,9 @@
       "hr": "ARC probijanje oklopa",
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningsgennemtrængning",
-      "value": "Weak"
+      "value": "Weak",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "value": 10000,
@@ -177,7 +191,9 @@
     "es": "Escopeta de acción de bombeo con gran dispersión de balas, caída pronunciada y alto daño.",
     "hr": "Pumparica s velikim rasipanjem metaka, oštrim padom i visokim izlazom štete.",
     "pt": "Espingarda de ação de bomba com grande dispersão de balas, queda acentuada e alto dano.",
-    "da": "Pumphagl med stor spredning, kraftigt fald og høj skadeeffekt."
+    "da": "Pumphagl med stor spredning, kraftigt fald og høj skadeeffekt.",
+    "pt-BR": "Escopeta de ação por bomba com grande dispersão, decaimento acentuado e alto dano.",
+    "he": "רובה ציד עם טעינת משאבה, בעל פיזור קליעים רחב, דעיכה חדה, ונזק גבוה."
   },
   "type": "Shotgun",
   "rarity": "Uncommon",

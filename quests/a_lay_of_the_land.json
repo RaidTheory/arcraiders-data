@@ -19,7 +19,9 @@
     "tr": "Arazinin Keşfi",
     "zh-TW": "地形勘察",
     "sr": "Pregled terena",
-    "hr": "Pregled terena"
+    "hr": "Pregled terena",
+    "pt-BR": "Reconhecimento do Terreno",
+    "he": "הכרת השטח"
   },
   "map": [
     "the_spaceport"
@@ -44,7 +46,9 @@
     "tr": "O uzaktaki gümbürtüler her geçen gün daha az uzak hale geliyor. Sarsıntıları izlememize yardımcı olabilecek bazı LiDAR tarayıcıları hakkında bir ipucum var. Başının üstünde bir çatı tutmak istersin, değil mi?",
     "zh-TW": "那些遙遠的隆隆聲每天都在變得越來越近。我有一些LiDAR掃描儀的線索，可以幫助我們監測震動。你總想頭頂有個屋頂吧？",
     "sr": "Ta daleka tutnjava postaje sve bliža svakim danom. Imam trag o nekim LiDAR skenerima koji bi nam mogli pomoći da pratimo podrhtavanja. Želiš da zadržiš krov nad glavom, zar ne?",
-    "hr": "Ta daleka tutnjava postaje sve bliža svakim danom. Imam trag o nekim LiDAR skenerima koji bi nam mogli pomoći pratiti podrhtavanja. Želiš zadržati krov nad glavom, zar ne?"
+    "hr": "Ta daleka tutnjava postaje sve bliža svakim danom. Imam trag o nekim LiDAR skenerima koji bi nam mogli pomoći pratiti podrhtavanja. Želiš zadržati krov nad glavom, zar ne?",
+    "pt-BR": "Aqueles estrondos distantes estão ficando menos distantes a cada dia que passa. Tenho uma pista sobre alguns scanners LiDAR que podem nos ajudar a monitorar os tremores. Você quer manter um teto sobre sua cabeça, não quer?",
+    "he": "הרעמים המרוחקים האלה הופכים לפחות מרוחקים מיום ליום. יש לי קצה חוט לגבי כמה סורקי LiDAR שעשויים לעזור לנו לנטר את הרעידות. אתם רוצים לשמור על קורת גג מעל הראש, לא?"
   },
   "objectives": [
     {
@@ -65,7 +69,9 @@
       "tr": "Jiangsu Deposu'na ulaş",
       "zh-TW": "抵達江蘇倉庫",
       "sr": "Dođite do skladišta Jiangsu",
-      "hr": "Dođite do skladišta Jiangsu"
+      "hr": "Dođite do skladišta Jiangsu",
+      "pt-BR": "Chegue ao Armazém Jiangsu",
+      "he": "הגע למחסן Jiangsu"
     },
     {
       "en": "Find the shipping notes in the foreman's office",
@@ -85,7 +91,9 @@
       "tr": "Ustabaşının ofisinde sevkiyat notlarını bul",
       "zh-TW": "在工頭辦公室找到運輸記錄",
       "sr": "Pronađite transportne beleške u kancelariji nadzornika",
-      "hr": "Pronađite transportne bilješke u uredu nadzornika"
+      "hr": "Pronađite transportne bilješke u uredu nadzornika",
+      "pt-BR": "Encontre as notas de remessa no escritório do capataz",
+      "he": "מצא את תעודות המשלוח במשרד מנהל העבודה"
     },
     {
       "en": "Locate the scanners on the upper floor of Control Tower A6",
@@ -105,7 +113,9 @@
       "tr": "Kontrol Kulesi A6'nın üst katında tarayıcıları bul",
       "zh-TW": "在A6控制塔上層找到掃描儀",
       "sr": "Locirajte skenere na gornjem spratu kontrolnog tornja A6",
-      "hr": "Locirajte skenere na gornjem katu kontrolnog tornja A6"
+      "hr": "Locirajte skenere na gornjem katu kontrolnog tornja A6",
+      "pt-BR": "Localize os scanners no andar superior da Torre de Controle A6",
+      "he": "אתר את הסורקים בקומה העליונה של מגדל פיקוח A6"
     },
     {
       "en": "Deliver 1 LiDAR Scanners to Shani",
@@ -125,7 +135,9 @@
       "tr": "1 LiDAR Tarayıcıyı Shani'ye teslim et",
       "zh-TW": "將1個LiDAR掃描儀交給Shani",
       "sr": "Dostavite 1 LiDAR skener Shani",
-      "hr": "Dostavite 1 LiDAR skener Shani"
+      "hr": "Dostavite 1 LiDAR skener Shani",
+      "pt-BR": "Entregue 1 Scanner LiDAR para Shani",
+      "he": "מסור 1 סורקי LiDAR ל-Shani"
     }
   ],
   "rewardItemIds": [

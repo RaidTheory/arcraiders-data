@@ -17,7 +17,9 @@
     "tr": "Uzatılmış Namlu",
     "uk": "Подовжений ствол",
     "sr": "Produžena cev",
-    "hr": "Produžena cijev"
+    "hr": "Produžena cijev",
+    "pt-BR": "Cano Estendido",
+    "he": "קנה מוארך"
   },
   "description": {
     "en": "Moderately increases bullet velocity. Compatible with: Tempest, Arpeggio, Ferro, Renegade, Anvil",
@@ -37,7 +39,9 @@
     "tr": "Mermi hızını orta düzeyde artırır. Uyumlu silahlar: Tempest, Arpeggio, Ferro, Renegade, Anvil",
     "uk": "Помірно збільшує швидкість кулі. Сумісно з: Tempest, Arpeggio, Ferro, Renegade, Anvil",
     "sr": "Umereno povećava brzinu metka. Kompatibilno sa: Tempest, Arpeggio, Ferro, Renegade, Anvil",
-    "hr": "Umjereno povećava brzinu metka. Kompatibilno s: Tempest, Arpeggio, Ferro, Renegade, Anvil"
+    "hr": "Umjereno povećava brzinu metka. Kompatibilno s: Tempest, Arpeggio, Ferro, Renegade, Anvil",
+    "pt-BR": "Aumenta moderadamente a velocidade do projétil. Compatível com: Tempest, Arpeggio, Ferro, Renegade, Anvil",
+    "he": "מגביר באופן מתון את מהירות הקליע. תואם ל: Tempest, Arpeggio, Ferro, Renegade, Anvil"
   },
   "id": "extended_barrel",
   "type": "Modification",
@@ -64,7 +68,9 @@
       "uk": "Збільшена швидкість кулі",
       "sr": "Povećana brzina metka",
       "hr": "Povećana brzina metka",
-      "value": "25%"
+      "value": "25%",
+      "pt-BR": "Aumento da Velocidade do Projétil",
+      "he": "מהירות קליע מוגברת"
     },
     "Increased Vertical Recoil": {
       "en": "Increased Vertical Recoil",
@@ -85,7 +91,9 @@
       "uk": "Збільшена вертикальна віддача",
       "sr": "Povećan vertikalni trzaj",
       "hr": "Povećan vertikalni trzaj",
-      "value": "15%"
+      "value": "15%",
+      "pt-BR": "Aumento do Recuo Vertical",
+      "he": "רתע אנכי מוגבר"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_barrel.png",

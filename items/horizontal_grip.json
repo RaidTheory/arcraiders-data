@@ -18,7 +18,9 @@
     "ja": "横グリップ",
     "kr": "수평 그립",
     "pl": "Chwyt Horyzontalny",
-    "hr": "Horizontalni Rukohvat"
+    "hr": "Horizontalni Rukohvat",
+    "pt-BR": "Empunhadura Horizontal",
+    "he": "ידית אחיזה אופקית"
   },
   "description": {
     "en": "Moderately reduces both vertical recoil and horizontal recoil.",
@@ -38,7 +40,9 @@
     "ja": "垂直反動と水平反動を適度に軽減します。",
     "kr": "수직 반동과 수평 반동을 적당히 감소시킵니다.",
     "pl": "Umiarkowanie zmniejsza odrzut pionowy i poziomy.",
-    "hr": "Umjereno smanjuje i vertikalni i horizontalni trzaj."
+    "hr": "Umjereno smanjuje i vertikalni i horizontalni trzaj.",
+    "pt-BR": "Reduz moderadamente o recuo vertical e horizontal.",
+    "he": "מפחית בצורה מתונה הן את הרתע האנכי והן את הרתע האופקי."
   },
   "type": "Modification",
   "rarity": "Epic",
@@ -62,7 +66,9 @@
       "kr": "수평 반동 감소",
       "pl": "Zredukowany Odrzut Poziomy",
       "hr": "Smanjeni Horizontalni Trzaj",
-      "value": "30%"
+      "value": "30%",
+      "pt-BR": "Recuo Horizontal Reduzido",
+      "he": "רתע אופקי מופחת"
     },
     "Reduced Vertical Recoil": {
       "en": "Reduced Vertical Recoil",
@@ -83,7 +89,9 @@
       "kr": "수직 반동 감소",
       "pl": "Zredukowany Odrzut Pionowy",
       "hr": "Smanjeni Vertikalni Trzaj",
-      "value": "30%"
+      "value": "30%",
+      "pt-BR": "Recuo Vertical Reduzido",
+      "he": "רתע אנכי מופחת"
     },
     "Reduced ADS Speed": {
       "en": "Reduced ADS Speed",
@@ -104,7 +112,9 @@
       "kr": "조준 속도 감소",
       "pl": "Zmniejszona Szybkość Celowania",
       "hr": "Smanjena Brzina Nišanjenja",
-      "value": "30%"
+      "value": "30%",
+      "pt-BR": "Velocidade de Mira Reduzida",
+      "he": "מהירות כוונת מופחתת"
     }
   },
   "value": 7000,

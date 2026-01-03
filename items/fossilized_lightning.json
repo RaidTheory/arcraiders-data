@@ -18,7 +18,9 @@
     "kr": "화석화된 번개",
     "tr": "Fosilleşmiş Yıldırım",
     "hr": "Fosilizirana munja",
-    "sr": "Fosilizovana munja"
+    "sr": "Fosilizovana munja",
+    "pt-BR": "Relâmpago Fossilizado",
+    "he": "ברק מאובן"
   },
   "description": {
     "en": "An item that has a chance to spawn after lightning strikes.",
@@ -38,7 +40,9 @@
     "kr": "번개가 내리친 후 일정 확률로 생성되는 아이템입니다.",
     "tr": "Yıldırım düştükten sonra ortaya çıkma şansı olan bir eşya.",
     "hr": "Predmet koji ima šansu pojaviti se nakon udara munje.",
-    "sr": "Predmet koji ima šansu da se pojavi nakon udara munje."
+    "sr": "Predmet koji ima šansu da se pojavi nakon udara munje.",
+    "pt-BR": "Um item que tem chance de aparecer após a queda de um raio.",
+    "he": "פריט שיש לו סיכוי להופיע לאחר פגיעת ברק."
   },
   "type": "Topside Material",
   "rarity": "Epic",

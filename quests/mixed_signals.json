@@ -19,7 +19,9 @@
     "tr": "Karışık Sinyaller",
     "zh-TW": "混雜信號",
     "sr": "Mešoviti Signali",
-    "hr": "Miješani Signali"
+    "hr": "Miješani Signali",
+    "pt-BR": "Sinais Mistos",
+    "he": "אותות מעורבים"
   },
   "map": [
     "buried_city",
@@ -46,7 +48,9 @@
     "tr": "Hiç Surveyor gördün mü; şu büyük yuvarlak olanlardan? Yörüngeye veri iletiyorlar gibi görünüyor ve yakaladığımız sinyalle bağlantılı olduğunu düşünmeden edemiyorum. Birini parçalayıp veriyi çözmeyi deneyebilir miyiz?",
     "zh-TW": "你見過勘測者嗎？就是那些又大又圓的傢伙。它們似乎在向軌道傳輸數據，我不禁覺得這與我們接收到的信號有關。你能破壞一個，讓我們試著解密數據嗎？",
     "sr": "Da li si primetio neke Istraživače; one velike okrugle? Izgleda da prenose podatke nazad u orbitu, i ne mogu a da ne pomislim da je to povezano sa onim signalom koji smo uhvatili. Hoćeš li razbiti jednog, da možemo pokušati da dešifrujemo podatke?",
-    "hr": "Jesi li primijetio neke Istraživače; one velike okrugle? Čini se da prenose podatke natrag u orbitu, i ne mogu a da ne pomislim da je to povezano s onim signalom koji smo uhvatili. Hoćeš li razbiti jednog, da možemo pokušati dešifrirati podatke?"
+    "hr": "Jesi li primijetio neke Istraživače; one velike okrugle? Čini se da prenose podatke natrag u orbitu, i ne mogu a da ne pomislim da je to povezano s onim signalom koji smo uhvatili. Hoćeš li razbiti jednog, da možemo pokušati dešifrirati podatke?",
+    "pt-BR": "Você avistou algum Surveyor; aqueles grandes e redondos? Eles parecem estar transmitindo dados de volta para a órbita, e não consigo deixar de pensar que isso está ligado àquele sinal que captamos. Você pode abrir um deles, para que possamos tentar decifrar os dados?",
+    "he": "יצא לך לראות Surveyors; הגדולים והעגולים האלה? נראה שהם משדרים נתונים חזרה למסלול הלווייני, ואני לא יכול שלא לחשוב שזה קשור לאות שקלטנו. תוכל לפרוץ אחד מהם, כדי שנוכל לנסות לפענח את הנתונים?"
   },
   "objectives": [
     {
@@ -67,7 +71,9 @@
       "tr": "Bir ARC Surveyor'ı yok et",
       "zh-TW": "摧毀一個ARC勘測者",
       "sr": "Uništi ARC Istraživača",
-      "hr": "Uništi ARC Istraživača"
+      "hr": "Uništi ARC Istraživača",
+      "pt-BR": "Destrua um Surveyor ARC",
+      "he": "השמד ARC Surveyor"
     },
     {
       "en": "Obtain 1 Surveyor Vault",
@@ -87,7 +93,9 @@
       "tr": "1 Surveyor Kasası edin",
       "zh-TW": "獲得1個勘測者保險庫",
       "sr": "Pribavi 1 Trezor Istraživača",
-      "hr": "Pribavi 1 Trezor Istraživača"
+      "hr": "Pribavi 1 Trezor Istraživača",
+      "pt-BR": "Obtenha 1 Cofre de Surveyor",
+      "he": "השג 1 Surveyor Vault"
     }
   ],
   "requiredItemIds": [

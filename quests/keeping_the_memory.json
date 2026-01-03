@@ -19,7 +19,9 @@
     "tr": "Anıyı Korumak",
     "zh-TW": "保存記憶",
     "sr": "Čuvanje Uspomene",
-    "hr": "Čuvanje Uspomene"
+    "hr": "Čuvanje Uspomene",
+    "pt-BR": "Mantendo a Memória",
+    "he": "לשמר את הזיכרון"
   },
   "map": [
     "dam_battlegrounds"
@@ -43,7 +45,9 @@
     "tr": "Seni o tuzağın peşine gönderdiğimde biraz soğukkanlılığımı kaybettim. Genelde öfkemi kaybetmem ama İlk Dalga... O zamanlar çok şey yaşadık. Birçok insanı kaybettik. Benim için hala taze bir yara ama anlamanı istiyorum.",
     "zh-TW": "當我派你去處理那個陷阱時，我有點失控了。我通常不會發脾氣，但第一波行動...那時我們經歷了很多。失去了很多人。這對我來說仍然是一個未癒合的傷口，但我希望你能理解。",
     "sr": "Malo sam se iznervirao kada sam te poslao po tu zamku. Obično ne gubim živce, ali Prvi Talas... Prošli smo kroz mnogo toga tada. Izgubili smo mnogo ljudi. Još uvek je svež bol za mene, ali želim da razumeš.",
-    "hr": "Malo sam se iznervirao kad sam te poslao po tu zamku. Obično ne gubim živce, ali Prvi Val... Prošli smo kroz mnogo toga tada. Izgubili smo mnogo ljudi. Još uvijek je svježa rana za mene, ali želim da razumiješ."
+    "hr": "Malo sam se iznervirao kad sam te poslao po tu zamku. Obično ne gubim živce, ali Prvi Val... Prošli smo kroz mnogo toga tada. Izgubili smo mnogo ljudi. Još uvijek je svježa rana za mene, ali želim da razumiješ.",
+    "pt-BR": "Perdi um pouco a cabeça quando enviei você atrás daquela armadilha. Geralmente não perco a calma, mas a Primeira Onda... Passamos por muita coisa naquela época. Perdemos muita gente. Ainda é uma ferida aberta para mim, mas quero que você entenda.",
+    "he": "איבדתי את קור הרוח כששלחתי אותך למלכודת ההיא. אני בדרך כלל לא מאבד את העשתונות, אבל ה-First Wave... עברנו הרבה אז. איבדנו הרבה אנשים. זה עדיין פצע פתוח אצלי, אבל חשוב לי שתבין."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Formicai Tepeleri'ndeki enkaza ulaşın",
       "zh-TW": "到達Formicai山丘的殘骸處",
       "sr": "Stigni do olupine u Formicai Hillsu",
-      "hr": "Stigni do olupine u Formicai Hillsu"
+      "hr": "Stigni do olupine u Formicai Hillsu",
+      "pt-BR": "Chegue aos destroços nas Colinas Formicai",
+      "he": "הגע להריסות ב-Formicai Hills"
     },
     {
       "en": "Search for the missing helmet",
@@ -84,7 +90,9 @@
       "tr": "Kayıp kaskı arayın",
       "zh-TW": "尋找遺失的頭盔",
       "sr": "Potraži nestalu kacigu",
-      "hr": "Potraži nestalu kacigu"
+      "hr": "Potraži nestalu kacigu",
+      "pt-BR": "Procure pelo capacete desaparecido",
+      "he": "חפש את הקסדה החסרה"
     },
     {
       "en": "Return the helmet to the memorial",
@@ -104,7 +112,9 @@
       "tr": "Kaskı anıta geri götürün",
       "zh-TW": "將頭盔歸還到紀念碑",
       "sr": "Vrati kacigu na spomenik",
-      "hr": "Vrati kacigu na spomenik"
+      "hr": "Vrati kacigu na spomenik",
+      "pt-BR": "Devolva o capacete ao memorial",
+      "he": "החזר את הקסדה לאנדרטה"
     }
   ],
   "rewardItemIds": [

@@ -18,7 +18,9 @@
     "kr": "쇼스토퍼",
     "tr": "Gösteri Durdurucu",
     "hr": "Showstopper",
-    "sr": "Showstopper"
+    "sr": "Showstopper",
+    "pt-BR": "Showstopper",
+    "he": "שואו-סטופר"
   },
   "description": {
     "en": "A grenade that detonates after a delay, stunning enemies within its radius.",
@@ -38,7 +40,9 @@
     "kr": "지연 후 폭발하여 범위 내 적을 기절시키는 수류탄입니다.",
     "tr": "Bir gecikmeden sonra patlayan ve yarıçapındaki düşmanları sersemletеn bir bomba.",
     "hr": "Granata koja detonira nakon odgode, omamljujući neprijatelje u svom radijusu.",
-    "sr": "Granata koja detonira nakon odlaganja, omamljujući neprijatelje u svom radijusu."
+    "sr": "Granata koja detonira nakon odlaganja, omamljujući neprijatelje u svom radijusu.",
+    "pt-BR": "Uma granada que detona após um atraso, atordoando inimigos dentro do seu raio.",
+    "he": "רימון שמתפוצץ לאחר השהיה, ומהמם אויבים ברדיוס הפיצוץ."
   },
   "type": "Quick Use",
   "rarity": "Rare",
@@ -65,7 +69,9 @@
       "tr": "ARC Sersemletme Süresi",
       "hr": "Trajanje ARC Omamljivanja",
       "sr": "Trajanje ARC Omamljivanja",
-      "value": "10s"
+      "value": "10s",
+      "pt-BR": "Duração de atordoamento (ARC)",
+      "he": "משך הלם ל-ARC"
     },
     "Raider Stun Duration": {
       "en": "Raider Stun Duration",
@@ -86,7 +92,9 @@
       "tr": "Akıncı Sersemletme Süresi",
       "hr": "Trajanje Raider Omamljivanja",
       "sr": "Trajanje Rejder Omamljivanja",
-      "value": "2s"
+      "value": "2s",
+      "pt-BR": "Duração de atordoamento (Raider)",
+      "he": "משך הלם לריידר"
     },
     "Radius": {
       "en": "Radius",
@@ -107,7 +115,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "6m"
+      "value": "6m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/showstopper.png",

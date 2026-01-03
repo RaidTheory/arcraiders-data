@@ -18,7 +18,9 @@
     "kr": "직물",
     "tr": "Kumaş",
     "hr": "Tkanina",
-    "sr": "Tkanina"
+    "sr": "Tkanina",
+    "pt-BR": "Tecido",
+    "he": "בד"
   },
   "description": {
     "en": "Used to craft medical supplies and shields. Can be used to slowly restore small amounts of health.",
@@ -38,7 +40,9 @@
     "kr": "의료 용품과 방어막 제작에 사용됩니다. 사용하면 소량의 체력을 천천히 회복할 수 있습니다.",
     "tr": "Tıbbi malzeme ve kalkan üretmek için kullanılır. Küçük miktarda canı yavaşça yenilemek için kullanılabilir.",
     "hr": "Koristi se za izradu medicinskih potrepština i štitova. Može se koristiti za polaganu obnovu malih količina zdravlja.",
-    "sr": "Koristi se za izradu medicinskih potrepština i štitova. Može se koristiti za polaganu obnovu malih količina zdravlja."
+    "sr": "Koristi se za izradu medicinskih potrepština i štitova. Može se koristiti za polaganu obnovu malih količina zdravlja.",
+    "pt-BR": "Usado para fabricar suprimentos médicos e escudos. Pode ser usado para restaurar lentamente pequenas quantidades de saúde.",
+    "he": "משמש ליצירת ציוד רפואי ומגנים. יכול לשמש לשחזור איטי של כמות קטנה של בריאות."
   },
   "type": "Basic Material",
   "rarity": "Common",
@@ -68,7 +72,9 @@
       "tr": "İyileştirme",
       "hr": "Liječenje",
       "sr": "Lečenje",
-      "value": "0.4/s"
+      "value": "0.4/s",
+      "pt-BR": "Cura",
+      "he": "ריפוי"
     },
     "Duration": {
       "en": "Duration",
@@ -89,7 +95,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "25s"
+      "value": "25s",
+      "pt-BR": "Duração",
+      "he": "משך זמן"
     },
     "Use Time": {
       "en": "Use Time",
@@ -110,7 +118,9 @@
       "tr": "Kullanım Süresi",
       "hr": "Vrijeme Korištenja",
       "sr": "Vreme Korišćenja",
-      "value": "1s"
+      "value": "1s",
+      "pt-BR": "Tempo de Uso",
+      "he": "זמן שימוש"
     }
   },
   "updatedAt": "10/30/2025"

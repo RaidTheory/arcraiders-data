@@ -18,7 +18,9 @@
     "kr": "준중량 실드",
     "tr": "Orta Kalkan",
     "hr": "Srednji Štit",
-    "sr": "Srednji Štit"
+    "sr": "Srednji Štit",
+    "pt-BR": "Escudo Médio",
+    "he": "מגן בינוני"
   },
   "type": "Shield",
   "rarity": "Rare",
@@ -40,7 +42,9 @@
     "kr": "중간 정도의 피해를 막아주는 표준 실드입니다. 이동 속도가 적당히 감소합니다.",
     "tr": "Gelen hasarın orta bir kısmını engelleyen standart bir kalkan. Hareketliliği orta düzeyde azaltır.",
     "hr": "Standardni štit koji blokira srednju količinu dolazne štete uz umjereno smanjenje pokretljivosti.",
-    "sr": "Standardni štit koji blokira srednju količinu dolazne štete uz umereno smanjenje pokretljivosti."
+    "sr": "Standardni štit koji blokira srednju količinu dolazne štete uz umereno smanjenje pokretljivosti.",
+    "pt-BR": "Um escudo padrão que bloqueia uma porção média do dano recebido com um custo moderado de mobilidade.",
+    "he": "מגן סטנדרטי החוסם חלק בינוני מהנזק הנכנס במחיר מתון לניידות."
   },
   "durability": 100,
   "shieldCharge": 70,
@@ -69,7 +73,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Charge": {
       "en": "Charge",
@@ -90,7 +96,9 @@
       "tr": "Şarj",
       "hr": "Punjenje",
       "sr": "Punjenje",
-      "value": 70
+      "value": 70,
+      "pt-BR": "Carga",
+      "he": "טעינה"
     },
     "Damage Reduction": {
       "en": "Damage Reduction",
@@ -111,7 +119,9 @@
       "tr": "Hasar Azaltma",
       "hr": "Smanjenje Štete",
       "sr": "Smanjenje Štete",
-      "value": "42.5%"
+      "value": "42.5%",
+      "pt-BR": "Redução de Dano",
+      "he": "הפחתת נזק"
     },
     "Reduced Movement Speed": {
       "en": "Reduced Movement Speed",
@@ -132,7 +142,9 @@
       "tr": "Azaltılmış Hareket Hızı",
       "hr": "Smanjena Brzina Kretanja",
       "sr": "Smanjena Brzina Kretanja",
-      "value": "5%"
+      "value": "5%",
+      "pt-BR": "Velocidade de Movimento Reduzida",
+      "he": "מהירות תנועה מופחתת"
     }
   },
   "recyclesInto": {

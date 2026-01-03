@@ -18,7 +18,9 @@
     "kr": "모드 부품",
     "tr": "Mod Bileşenleri",
     "hr": "Komponente za modove",
-    "sr": "Komponente za modove"
+    "sr": "Komponente za modove",
+    "pt-BR": "Componentes de Modificação",
+    "he": "רכיבי מודים"
   },
   "description": {
     "en": "Used to craft weapon mods. Can be recycled into crafting materials. Used to craft: Lightweight Stock, Shotgun Choke III, Extended Shotgun Mag III, Padded Stock, Compensator III",
@@ -38,7 +40,9 @@
     "kr": "무기 모드 제작에 사용됩니다. 제작 재료로 재활용할 수 있습니다. 제작 가능: 경량 개머리판, 산탄총 초크 III, 확장형 산탄총 탄창 III, 패드 장착 개머리판, 보정기 III",
     "tr": "Silah modları üretmek için kullanılır. Üretim malzemelerine geri dönüştürülebilir. Üretilebilir: Hafif Dipçik, Av Tüfeği Choke III, Uzatılmış Av Tüfeği Şarjörü III, Yastıklı Dipçik, Kompansatör III",
     "hr": "Koristi se za izradu modova za oružje. Može se reciklirati u materijale za izradu. Koristi se za izradu: Lagana kundak, Sačmarica choke III, Prošireni spremnik za sačmaricu III, Podstavljeni kundak, Kompenzator III",
-    "sr": "Koristi se za izradu modova za oružje. Može se reciklirati u materijale za izradu. Koristi se za izradu: Lagana kundak, Sačmarica choke III, Prošireni okvir za sačmaricu III, Podstavljeni kundak, Kompenzator III"
+    "sr": "Koristi se za izradu modova za oružje. Može se reciklirati u materijale za izradu. Koristi se za izradu: Lagana kundak, Sačmarica choke III, Prošireni okvir za sačmaricu III, Podstavljeni kundak, Kompenzator III",
+    "pt-BR": "Usado para fabricar modificações de armas. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Coronha Leve, Estrangulador de Escopeta III, Carregador Estendido de Escopeta III, Coronha Acolchoada, Compensador III",
+    "he": "משמש ליצירת מודים לנשק. ניתן למחזור לחומרי יצירה. משמש ליצירת: קת קלת-משקל, חנק לרובה ציד III, מחסנית מורחבת לרובה ציד III, קת מרופדת, מפצה III"
   },
   "type": "Refined Material",
   "rarity": "Rare",

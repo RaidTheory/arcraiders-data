@@ -18,7 +18,9 @@
     "kr": "밥캣 설계도",
     "tr": "Bobcat Planı",
     "hr": "Nacrt Bobcat",
-    "sr": "Nacrt Bobcat"
+    "sr": "Nacrt Bobcat",
+    "pt-BR": "Projeto de Bobcat",
+    "he": "שרטוט בובקאט (Bobcat)"
   },
   "description": {
     "en": "Fully automatic SMG with high fire rate but low accuracy.",
@@ -38,7 +40,9 @@
     "kr": "높은 연사력을 가지지만 정확도가 낮은 완전 자동 SMG.",
     "tr": "Yüksek atış hızına sahip ancak düşük isabetli tam otomatik SMG.",
     "hr": "Potpuno automatski SMG s visokom brzinom paljbe ali niskom preciznošću.",
-    "sr": "Potpuno automatski SMG sa visokom brzinom paljbe ali niskom preciznošću."
+    "sr": "Potpuno automatski SMG sa visokom brzinom paljbe ali niskom preciznošću.",
+    "pt-BR": "Submetralhadora totalmente automática com alta cadência de tiro, mas baixa precisão.",
+    "he": "תת-מקלע אוטומטי מלא בעל קצב אש גבוה אך דיוק נמוך."
   },
   "type": "Blueprint",
   "value": 5000,

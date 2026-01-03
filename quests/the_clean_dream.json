@@ -19,7 +19,9 @@
     "tr": "Temiz Rüya",
     "zh-TW": "清潔之夢",
     "sr": "Čist san",
-    "hr": "Čisti san"
+    "hr": "Čisti san",
+    "pt-BR": "O Sonho Limpo",
+    "he": "החלום הנקי"
   },
   "map": [
     "the_spaceport",
@@ -44,7 +46,9 @@
     "tr": "Son zamanlarda neyin hayalini kurduğumu biliyor musun? Konuşan bir su damıtıcısı! Çılgınca, değil mi? Ama cidden, daha saf bileşiklerle daha güçlü patlayıcılar yapabilirim! Harika olmaz mı?",
     "zh-TW": "你知道我最近在夢想什麼嗎？一個會說話的淨水器！瘋狂吧？但說真的，有了更純淨的化合物，我就能製造更強勁的炸藥！那不是很棒嗎？",
     "sr": "Znaš o čemu sanjam u poslednje vreme? O destileru vode koji priča! Ludo, zar ne? Ali ozbiljno, sa čistijim jedinjenjima mogao bih da pravim eksploziv sa više snage! To bi bilo nešto, zar ne?",
-    "hr": "Znaš o čemu sanjam u posljednje vrijeme? O destileru vode koji priča! Ludo, zar ne? Ali ozbiljno, s čišćim spojevima mogao bih praviti eksploziv s više snage! To bi bilo nešto, zar ne?"
+    "hr": "Znaš o čemu sanjam u posljednje vrijeme? O destileru vode koji priča! Ludo, zar ne? Ali ozbiljno, s čišćim spojevima mogao bih praviti eksploziv s više snage! To bi bilo nešto, zar ne?",
+    "pt-BR": "Sabe com o que tenho sonhado ultimamente? Um destilador de água falante! Loucura, né? Mas falando sério, com compostos mais puros eu poderia fazer explosivos com mais potência! Seria incrível, né?",
+    "he": "אתם יודעים על מה חלמתי לאחרונה? מזקק מים מדבר! מטורף, אה? אבל ברצינות, עם תרכובות טהורות יותר אני יכול להכין חומרי נפץ עם יותר עוצמה! זה יהיה משהו, נכון?"
   },
   "objectives": [
     {
@@ -65,7 +69,9 @@
       "tr": "Uzay Limanı'nda yeraltı tünellerinde 4 konteyneri ara",
       "zh-TW": "在太空港，搜索地下隧道中的4個貨櫃",
       "sr": "Na Svemirskoj luci, pretraži 4 kontejnera u podzemnim tunelima",
-      "hr": "Na Svemirskoj luci, pretraži 4 kontejnera u podzemnim tunelima"
+      "hr": "Na Svemirskoj luci, pretraži 4 kontejnera u podzemnim tunelima",
+      "pt-BR": "No Porto Espacial, vasculhe 4 contêineres nos túneis subterrâneos",
+      "he": "בנמל החלל, חפשו ב-4 מכולות במנהרות התת-קרקעיות"
     },
     {
       "en": "Find and monitor any Filtration System in the tunnels",
@@ -85,7 +91,9 @@
       "tr": "Tünellerde herhangi bir Filtrasyon Sistemini bul ve izle",
       "zh-TW": "在隧道中找到並監控任何過濾系統",
       "sr": "Pronađi i nadgledaj bilo koji sistem filtracije u tunelima",
-      "hr": "Pronađi i nadgledaj bilo koji sustav filtracije u tunelima"
+      "hr": "Pronađi i nadgledaj bilo koji sustav filtracije u tunelima",
+      "pt-BR": "Encontre e monitore qualquer Sistema de Filtragem nos túneis",
+      "he": "מצאו ונטרו מערכת סינון כלשהי במנהרות"
     },
     {
       "en": "On The Blue Gate, visit the Maintenance Bunker",
@@ -105,7 +113,9 @@
       "tr": "Blue Gate'de, Bakım Sığınağını ziyaret et",
       "zh-TW": "在藍色之門，前往維修地堡",
       "sr": "Na Blue Gate, poseti Bunker za održavanje",
-      "hr": "Na Blue Gate, posjeti Bunker za održavanje"
+      "hr": "Na Blue Gate, posjeti Bunker za održavanje",
+      "pt-BR": "No Portão Azul, visite o Bunker de Manutenção",
+      "he": "בשער הכחול, בקרו בבונקר התחזוקה"
     },
     {
       "en": "Monitor the Purification System in the bunker",
@@ -125,7 +135,9 @@
       "tr": "Sığınakta Arıtma Sistemini izle",
       "zh-TW": "在地堡中監控淨化系統",
       "sr": "Nadgledaj sistem za prečišćavanje u bunkeru",
-      "hr": "Nadgledaj sustav pročišćavanja u bunkeru"
+      "hr": "Nadgledaj sustav pročišćavanja u bunkeru",
+      "pt-BR": "Monitore o Sistema de Purificação no bunker",
+      "he": "נטרו את מערכת הטיהור בבונקר"
     },
     {
       "en": "Find and photograph the blueprints in the bunker",
@@ -145,7 +157,9 @@
       "tr": "Sığınakta planları bul ve fotoğrafla",
       "zh-TW": "在地堡中找到並拍攝藍圖",
       "sr": "Pronađi i fotografiši nacrte u bunkeru",
-      "hr": "Pronađi i fotografiraj nacrte u bunkeru"
+      "hr": "Pronađi i fotografiraj nacrte u bunkeru",
+      "pt-BR": "Encontre e fotografe os projetos no bunker",
+      "he": "מצאו וצלמו את השרטוטים בבונקר"
     }
   ],
   "grantedItemIds": [
@@ -169,6 +183,8 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss11bx"],
+  "previousQuestIds": [
+    "ss11bx"
+  ],
   "nextQuestIds": []
 }

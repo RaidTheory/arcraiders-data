@@ -18,7 +18,9 @@
     "kr": "화염 분사기",
     "tr": "Alev Püskürtücü",
     "hr": "Plamen Sprej",
-    "sr": "Plamen Sprej"
+    "sr": "Plamen Sprej",
+    "pt-BR": "Spray de Chamas",
+    "he": "תרסיס להבה"
   },
   "description": {
     "en": "A classic makeshift weapon, sure to leave scorch marks.",
@@ -38,7 +40,9 @@
     "kr": "그을린 자국을 남길 것이 확실한 고전적인 즉석 무기.",
     "tr": "Yanık izleri bırakacağı kesin klasik derme çatma bir silah.",
     "hr": "Klasično improvizovano oružje, sigurno će ostaviti tragove opeklina.",
-    "sr": "Klasično improvizovano oružje, sigurno će ostaviti tragove opeklina."
+    "sr": "Klasično improvizovano oružje, sigurno će ostaviti tragove opeklina.",
+    "pt-BR": "Uma arma improvisada clássica, com certeza deixará marcas de queimadura.",
+    "he": "נשק מאולתר קלאסי, בטוח שישאיר סימני חריכה."
   },
   "type": "Quick Use",
   "rarity": "Uncommon",
@@ -64,7 +68,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Damage": {
       "en": "Damage",
@@ -85,7 +91,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": "10/s"
+      "value": "10/s",
+      "pt-BR": "Dano",
+      "he": "נזק"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/flame_spray.png",

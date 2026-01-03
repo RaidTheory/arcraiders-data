@@ -19,7 +19,9 @@
     "tr": "Gökyüzündeki Gözler",
     "zh-TW": "天空之眼",
     "sr": "Oči na nebu",
-    "hr": "Oči na nebu"
+    "hr": "Oči na nebu",
+    "pt-BR": "Olhos no Céu",
+    "he": "עיניים בשמיים"
   },
   "map": [
     "buried_city",
@@ -45,7 +47,9 @@
     "tr": "Kulenin tepesine çıkmak için zipline gerekiyor. Bulduğun LiDAR tarayıcıları yüksek yerlere konulduğunda en iyi çalışıyor. Rust Belt çevresinde birkaç iyi nokta belirledim; umarım ayakların sağlamdır.",
     "zh-TW": "需要滑索才能到達塔頂。你找到的那些LiDAR掃描儀在高處效果最好。我在鏽帶周圍找到了幾個好位置；希望你腳步穩健。",
     "sr": "Potrebna je užad za spuštanje da se popnete na vrh tornja. Ti LiDAR skeneri koje ste pronašli najbolje funkcionišu kada se postave na visokim lokacijama. Identifikovao sam nekoliko dobrih mesta oko Pojasa hrđe; nadam se da ste sigurni na nogama.",
-    "hr": "Potrebna je užad za spuštanje da se popnete na vrh tornja. Ti LiDAR skeneri koje ste pronašli najbolje funkcioniraju kada se postave na visokim lokacijama. Identificirao sam nekoliko dobrih mjesta oko Pojasa hrđe; nadam se da ste sigurni na nogama."
+    "hr": "Potrebna je užad za spuštanje da se popnete na vrh tornja. Ti LiDAR skeneri koje ste pronašli najbolje funkcioniraju kada se postave na visokim lokacijama. Identificirao sam nekoliko dobrih mjesta oko Pojasa hrđe; nadam se da ste sigurni na nogama.",
+    "pt-BR": "Requer uma tirolesa para chegar ao topo da torre. Aqueles scanners LiDAR que você encontrou funcionam melhor quando colocados em locais altos. Identifiquei alguns bons pontos ao redor de Rust Belt; espero que você tenha o pé firme.",
+    "he": "דורש אומגה כדי להגיע לראש המגדל. סורקי ה-LiDAR שמצאת עובדים הכי טוב כשהם מוצבים במקומות גבוהים. זיהיתי כמה נקודות טובות ברחבי ה-Rust Belt; אני מקווה שאתה יציב על הרגליים."
   },
   "objectives": [
     {
@@ -66,7 +70,9 @@
       "tr": "Baraj Savaş Alanı'nda Kontrol Kulesi'nin tepesine bir LiDAR Tarayıcı kur",
       "zh-TW": "在大壩戰場的控制塔頂部安裝LiDAR掃描儀",
       "sr": "Na bojnom polju brane, instalirajte LiDAR skener na vrhu kontrolnog tornja",
-      "hr": "Na bojnom polju brane, instalirajte LiDAR skener na vrhu kontrolnog tornja"
+      "hr": "Na bojnom polju brane, instalirajte LiDAR skener na vrhu kontrolnog tornja",
+      "pt-BR": "Em Dam Battlegrounds, instale um Scanner LiDAR no topo da Torre de Controle",
+      "he": "ב-Dam Battlegrounds, התקן סורק LiDAR בראש מגדל הפיקוח"
     },
     {
       "en": "On Spaceport, install a LiDAR Scanner at the Communications Tower",
@@ -86,7 +92,9 @@
       "tr": "Uzay Limanı'nda İletişim Kulesi'ne bir LiDAR Tarayıcı kur",
       "zh-TW": "在太空港的通訊塔安裝LiDAR掃描儀",
       "sr": "Na svemirskoj luci, instalirajte LiDAR skener na komunikacionom tornju",
-      "hr": "Na svemirskoj luci, instalirajte LiDAR skener na komunikacijskom tornju"
+      "hr": "Na svemirskoj luci, instalirajte LiDAR skener na komunikacijskom tornju",
+      "pt-BR": "Em Spaceport, instale um Scanner LiDAR na Torre de Comunicações",
+      "he": "ב-Spaceport, התקן סורק LiDAR במגדל התקשורת"
     },
     {
       "en": "On Buried City, install a LiDAR Scanner on top of the Galleria sign",
@@ -106,7 +114,9 @@
       "tr": "Gömülü Şehir'de Galleria tabelasının üstüne bir LiDAR Tarayıcı kur",
       "zh-TW": "在埋沒之城的購物中心招牌頂部安裝LiDAR掃描儀",
       "sr": "U Zakopanom gradu, instalirajte LiDAR skener na vrhu natpisa Galleria",
-      "hr": "U Zakopanom gradu, instalirajte LiDAR skener na vrhu natpisa Galleria"
+      "hr": "U Zakopanom gradu, instalirajte LiDAR skener na vrhu natpisa Galleria",
+      "pt-BR": "Na Cidade Soterrada, instale um Scanner LiDAR no topo do letreiro da Galleria",
+      "he": "ב-Buried City, התקן סורק LiDAR בראש השלט של ה-Galleria"
     }
   ],
   "grantedItemIds": [

@@ -2,24 +2,26 @@
   {
     "id": "expedition_project",
     "name": {
-      "en": "Expedition Project",
-      "de": "Expeditionsprojekt",
-      "fr": "Projet d'expédition",
-      "es": "Proyecto de expedición",
-      "pt": "Projeto de expedição",
-      "pl": "Projekt ekspedycji",
-      "no": "Ekspedisjonsprosjekt",
-      "da": "Ekspeditionsprojekt",
-      "ru": "Проект экспедиции",
-      "ja": "遠征",
-      "it": "Progetto di spedizione",
-      "kr": "원정 프로젝트",
-      "zh-CN": "远征项目",
-      "zh-TW": "遠征專案",
-      "uk": "Проект експедиції",
-      "tr": "Keşif Projesi",
-      "hr": "Projekt Ekspedicije",
-      "sr": "Projekat Ekspedicije"
+      "en": "Expedition Project (Season 2)",
+      "de": "Expeditionsprojekt (Saison 2)",
+      "fr": "Projet d'expédition (Saison 2)",
+      "es": "Proyecto de expedición (Temporada 2)",
+      "pt": "Projeto de expedição (Temporada 2)",
+      "pl": "Projekt ekspedycji (Sezon 2)",
+      "no": "Ekspedisjonsprosjekt (Sesong 2)",
+      "da": "Ekspeditionsprojekt (Sæson 2)",
+      "ru": "Проект экспедиции (Сезон 2)",
+      "ja": "探検プロジェクト (シーズン2)",
+      "it": "Progetto di spedizione (Stagione 2)",
+      "kr": "원정 프로젝트 (시즌 2)",
+      "zh-CN": "远征项目 (第2赛季)",
+      "zh-TW": "遠征專案 (第2賽季)",
+      "uk": "Проект експедиції (Сезон 2)",
+      "tr": "Keşif Projesi (Sezon 2)",
+      "hr": "Projekt Ekspedicije (Sezona 2)",
+      "sr": "Projekat Ekspedicije (Sezona 2)",
+      "pt-BR": "Projeto de Expedição (Temporada 2)",
+      "he": "פרויקט משלחת (עונה 2)"
     },
     "description": {
       "en": "Embark on a dangerous expedition beyond the Rust Belt. Expeditions are perilous. Your Raider will carry all their possessions into the unknown beyond the Rust Belt. In return, your next Raider gains a unique edge that lasts until the next Expedition departs.",
@@ -31,7 +33,7 @@
       "no": "Dra på en farlig ekspedisjon utenfor Rustbeltet. Ekspedisjoner er farlige. Din Raider vil bære alle sine eiendeler inn i det ukjente utenfor Rustbeltet. I retur får din neste Raider en unik fordel som varer til neste ekspedisjon drar.",
       "da": "Begiv dig ud på en farlig ekspedition ud over Rustbæltet. Ekspeditioner er farlige. Din Raider vil bære alle sine ejendele ind i det ukendte ud over Rustbæltet. Til gengæld får din næste Raider en unik fordel, der varer indtil næste ekspedition afrejser.",
       "ru": "Отправьтесь в опасную экспедицию за пределы Ржавого пояса. Экспедиции полны опасностей. Ваш рейдер возьмёт с собой всё своё имущество в неизведанные земли за Ржавым поясом. Взамен ваш следующий рейдер получит уникальное преимущество, которое продлится до отправления следующей экспедиции.",
-      "ja": "キャラバンを作成し、あなたのレイダーをラストベルトの彼方の地へ遠征に送り出します。遠征は危険に満ちているため、あなたのレイダーは持ち物をすべて持ってラストベルトのかなたの未知の領域へ挑みます。その代わり、次のレイダーは、次の遠征が旅立つ時まで継続する特別なバフを得ることができます。",
+      "ja": "ラストベルトの向こうへ危険な探検に出発しましょう。探検は危険に満ちています。あなたのレイダーは全ての所持品を持ってラストベルトの向こうの未知の世界へ向かいます。その代わり、次のレイダーは次の探検が出発するまで続く独自の優位性を得ます。",
       "it": "Intraprendi una spedizione pericolosa oltre la Cintura di Ruggine. Le spedizioni sono rischiose. Il tuo Razziatore porterà tutti i suoi averi nell'ignoto oltre la Cintura di Ruggine. In cambio, il tuo prossimo Razziatore otterrà un vantaggio unico che durerà fino alla partenza della prossima Spedizione.",
       "kr": "러스트 벨트 너머로 위험한 원정을 떠나세요. 원정은 위험으로 가득합니다. 당신의 레이더는 모든 소지품을 가지고 러스트 벨트 너머의 미지의 세계로 향합니다. 그 대가로 다음 레이더는 다음 원정이 출발할 때까지 지속되는 고유한 이점을 얻습니다.",
       "zh-CN": "踏上前往锈带之外的危险远征。远征充满危险。你的掠夺者将携带所有财物前往锈带之外的未知世界。作为回报，你的下一个掠夺者将获得持续到下次远征出发的独特优势。",
@@ -39,7 +41,9 @@
       "uk": "Вирушайте у небезпечну експедицію за межі Іржавого поясу. Експедиції сповнені небезпек. Ваш рейдер візьме з собою все своє майно в невідомі землі за Іржавим поясом. Натомість ваш наступний рейдер отримає унікальну перевагу, яка триватиме до відправлення наступної експедиції.",
       "tr": "Pas Kuşağı'nın ötesine tehlikeli bir keşfe çıkın. Keşifler tehlikelidir. Akıncınız tüm eşyalarını Pas Kuşağı'nın ötesindeki bilinmeyene taşıyacak. Karşılığında, bir sonraki Akıncınız bir sonraki Keşif ayrılana kadar sürecek benzersiz bir avantaj kazanır.",
       "hr": "Krenite na opasnu ekspediciju izvan Pojasa Hrđe. Ekspedicije su opasne. Vaš Pljačkaš će ponijeti svu svoju imovinu u nepoznato izvan Pojasa Hrđe. Zauzvrat, vaš sljedeći Pljačkaš dobiva jedinstvenu prednost koja traje do polaska sljedeće Ekspedicije.",
-      "sr": "Krenite na opasnu ekspediciju izvan Pojasa Rđe. Ekspedicije su opasne. Vaš Pljačkaš će poneti svu svoju imovinu u nepoznato izvan Pojasa Rđe. Zauzvrat, vaš sledeći Pljačkaš dobija jedinstvenu prednost koja traje do polaska sledeće Ekspedicije."
+      "sr": "Krenite na opasnu ekspediciju izvan Pojasa Rđe. Ekspedicije su opasne. Vaš Pljačkaš će poneti svu svoju imovinu u nepoznato izvan Pojasa Rđe. Zauzvrat, vaš sledeći Pljačkaš dobija jedinstvenu prednost koja traje do polaska sledeće Ekspedicije.",
+      "pt-BR": "Embarque em uma expedição perigosa além do Cinturão da Ferrugem. As expedições são perigosas. Seu Raider levará todos os seus pertences para o desconhecido além do Cinturão da Ferrugem. Em troca, seu próximo Raider ganha uma vantagem única que dura até a partida da próxima Expedição.",
+      "he": "צאו למשלחת מסוכנת אל מעבר לחגורת החלודה. המשלחות טומנות בחובן סכנות רבות. הריידר שלכם ייקח את כל רכושו אל הלא-נודע שמחוץ לחגורת החלודה. בתמורה, הריידר הבא שלכם יזכה ביתרון ייחודי שיישמר עד ליציאת המשלחת הבאה."
     },
     "phases": [
       {
@@ -62,7 +66,9 @@
           "uk": "Фундамент",
           "tr": "Temel",
           "hr": "Temelj",
-          "sr": "Temelj"
+          "sr": "Temelj",
+          "pt-BR": "Fundação",
+          "he": "יסודות"
         },
         "requirementItemIds": [
           {
@@ -103,7 +109,9 @@
           "uk": "Основні системи",
           "tr": "Temel Sistemler",
           "hr": "Osnovni Sustavi",
-          "sr": "Osnovni Sistemi"
+          "sr": "Osnovni Sistemi",
+          "pt-BR": "Sistemas Centrais",
+          "he": "מערכות ליבה"
         },
         "description": {
           "en": "Connecting wiring, ventilation, and essential power systems",
@@ -123,7 +131,416 @@
           "uk": "Підключення проводки, вентиляції та основних енергосистем",
           "tr": "Kablolama, havalandırma ve temel güç sistemlerinin bağlanması",
           "hr": "Povezivanje ožičenja, ventilacije i osnovnih energetskih sustava",
-          "sr": "Povezivanje ožičenja, ventilacije i osnovnih energetskih sistema"
+          "sr": "Povezivanje ožičenja, ventilacije i osnovnih energetskih sistema",
+          "pt-BR": "Conectando fiação, ventilação e sistemas de energia essenciais",
+          "he": "חיבור חיווט, אוורור ומערכות חשמל חיוניות"
+        },
+        "requirementItemIds": [
+          {
+            "itemId": "durable_cloth",
+            "quantity": 35
+          },
+          {
+            "itemId": "wires",
+            "quantity": 25
+          },
+          {
+            "itemId": "electrical_components",
+            "quantity": 20
+          },
+          {
+            "itemId": "cooling_coil",
+            "quantity": 4
+          }
+        ]
+      },
+      {
+        "phase": 3,
+        "name": {
+          "en": "Framework",
+          "de": "Rahmen",
+          "fr": "Structure",
+          "es": "Marco",
+          "pt": "Estrutura",
+          "pl": "Struktura",
+          "no": "Rammeverk",
+          "da": "Ramme",
+          "ru": "Каркас",
+          "ja": "骨組み",
+          "it": "Struttura",
+          "kr": "골조",
+          "zh-CN": "框架",
+          "zh-TW": "框架",
+          "uk": "Каркас",
+          "tr": "Çerçeve",
+          "hr": "Okvir",
+          "sr": "Okvir",
+          "pt-BR": "Estrutura",
+          "he": "שלד מבנה"
+        },
+        "description": {
+          "en": "Building the walls and roof, installing core systems and defining the interior layout",
+          "de": "Wände und Dach bauen, Kernsysteme installieren und Inneneinrichtung definieren",
+          "fr": "Construction des murs et du toit, installation des systèmes essentiels et définition de l'aménagement intérieur",
+          "es": "Construyendo las paredes y el techo, instalando sistemas centrales y definiendo el diseño interior",
+          "pt": "Construindo as paredes e o teto, instalando sistemas centrais e definindo o layout interior",
+          "pl": "Budowanie ścian i dachu, instalowanie głównych systemów i definiowanie układu wnętrza",
+          "no": "Bygge vegger og tak, installere kjernesystemer og definere det indre oppsettet",
+          "da": "Bygning af vægge og tag, installation af kernesystemer og definition af det indvendige layout",
+          "ru": "Возведение стен и крыши, установка основных систем и планировка внутреннего пространства",
+          "ja": "壁と屋根の建設、コアシステムの設置、内部レイアウトの決定",
+          "it": "Costruzione di pareti e tetto, installazione dei sistemi principali e definizione del layout interno",
+          "kr": "벽과 지붕 건설, 핵심 시스템 설치 및 내부 배치 설정",
+          "zh-CN": "建造墙壁和屋顶，安装核心系统并规划内部布局",
+          "zh-TW": "建造牆壁和屋頂，安裝核心系統並規劃內部佈局",
+          "uk": "Зведення стін і даху, встановлення основних систем та планування внутрішнього простору",
+          "tr": "Duvarların ve çatının inşası, temel sistemlerin kurulumu ve iç düzenin belirlenmesi",
+          "hr": "Gradnja zidova i krova, instalacija osnovnih sustava i definiranje unutarnjeg rasporeda",
+          "sr": "Gradnja zidova i krova, instalacija osnovnih sistema i definisanje unutrašnjeg rasporeda",
+          "pt-BR": "Construindo as paredes e o telhado, instalando sistemas centrais e definindo o layout interior",
+          "he": "בניית הקירות והגג, התקנת מערכות ליבה והגדרת הפריסה הפנימית"
+        },
+        "requirementItemIds": [
+          {
+            "itemId": "light_bulb",
+            "quantity": 4
+          },
+          {
+            "itemId": "battery",
+            "quantity": 30
+          },
+          {
+            "itemId": "shredder_gyro",
+            "quantity": 10
+          },
+          {
+            "itemId": "exodus_modules",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "phase": 4,
+        "name": {
+          "en": "Outfitting",
+          "de": "Ausrüstung",
+          "fr": "Équipement",
+          "es": "Equipamiento",
+          "pt": "Equipamento",
+          "pl": "Wyposażenie",
+          "no": "Utstyr",
+          "da": "Udstyr",
+          "ru": "Оснащение",
+          "ja": "装備",
+          "it": "Equipaggiamento",
+          "kr": "장비 설치",
+          "zh-CN": "装备",
+          "zh-TW": "裝備",
+          "uk": "Оснащення",
+          "tr": "Donatım",
+          "hr": "Opremanje",
+          "sr": "Opremanje",
+          "pt-BR": "Aparelhamento",
+          "he": "אבזור"
+        },
+        "description": {
+          "en": "Adding storage, workbenches, utilities, and personal touches",
+          "de": "Lagerung, Werkbänke, Versorgungseinrichtungen und persönliche Akzente hinzufügen",
+          "fr": "Ajout de rangement, d'établis, d'utilitaires et de touches personnelles",
+          "es": "Añadiendo almacenamiento, bancos de trabajo, utilidades y toques personales",
+          "pt": "Adicionando armazenamento, bancadas de trabalho, utilidades e toques pessoais",
+          "pl": "Dodawanie magazynu, stółów warsztatowych, narzędzi i osobistych akcentów",
+          "no": "Legge til lagring, arbeidsbenker, verktøy og personlige detaljer",
+          "da": "Tilføjelse af opbevaring, arbejdsbænke, værktøj og personlige berøringer",
+          "ru": "Добавление хранилищ, верстаков, коммунальных систем и личных штрихов",
+          "ja": "収納、作業台、設備、個人的な装飾の追加",
+          "it": "Aggiunta di depositi, banchi da lavoro, utilità e tocchi personali",
+          "kr": "저장소, 작업대, 유틸리티 및 개인적인 요소 추가",
+          "zh-CN": "添加储物空间、工作台、设施和个性化装饰",
+          "zh-TW": "添加儲物空間、工作台、設施和個性化裝飾",
+          "uk": "Додавання сховищ, верстаків, комунальних систем та особистих штрихів",
+          "tr": "Depolama, tezgahlar, tesisatlar ve kişisel dokunuşların eklenmesi",
+          "hr": "Dodavanje skladišta, radnih stolova, komunalija i osobnih detalja",
+          "sr": "Dodavanje skladišta, radnih stolova, komunalija i ličnih detalja",
+          "pt-BR": "Adicionando armazenamento, bancadas, utilitários e toques pessoais",
+          "he": "הוספת מקומות אחסון, שולחנות עבודה, תשתיות ונגיעות אישיות"
+        },
+        "requirementItemIds": [
+          {
+            "itemId": "frequency_modulation_box",
+            "quantity": 5
+          },
+          {
+            "itemId": "advanced_electrical_components",
+            "quantity": 5
+          },
+          {
+            "itemId": "ion_sputter",
+            "quantity": 3
+          },
+          {
+            "itemId": "leaper_pulse_unit",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "phase": 5,
+        "name": {
+          "en": "Load Stage",
+          "de": "Ladephase",
+          "fr": "Étape de chargement",
+          "es": "Fase de carga",
+          "pt": "Fase de carregamento",
+          "pl": "Faza ładowania",
+          "no": "Lastestadium",
+          "da": "Lastefase",
+          "ru": "Этап загрузки",
+          "ja": "積載段階",
+          "it": "Fase di carico",
+          "kr": "적재 단계",
+          "zh-CN": "装载阶段",
+          "zh-TW": "裝載階段",
+          "uk": "Етап завантаження",
+          "tr": "Yükleme Aşaması",
+          "hr": "Faza Utovara",
+          "sr": "Faza Utovara",
+          "pt-BR": "Fase de Carregamento",
+          "he": "שלב ההעמסה"
+        },
+        "description": {
+          "en": "Loading the caravan with vital supplies. Combat gear, survival equipment, provisions, and repair materials are needed to fully prepare for the Expedition. You need to submit the coin value of items to each category.",
+          "de": "Beladen der Karawane mit lebenswichtigen Vorräten. Kampfausrüstung, Überlebensausrüstung, Proviant und Reparaturmaterialien werden benötigt, um sich vollständig auf die Expedition vorzubereiten. Sie müssen den Münzwert der Gegenstände für jede Kategorie einreichen.",
+          "fr": "Chargement de la caravane avec des fournitures vitales. Équipement de combat, équipement de survie, provisions et matériaux de réparation sont nécessaires pour préparer complètement l'expédition. Vous devez soumettre la valeur en pièces des objets pour chaque catégorie.",
+          "es": "Cargando la caravana con suministros vitales. Se necesita equipo de combate, equipo de supervivencia, provisiones y materiales de reparación para prepararse completamente para la Expedición. Necesitas enviar el valor en monedas de los objetos a cada categoría.",
+          "pt": "Carregando a caravana com suprimentos vitais. Equipamento de combate, equipamento de sobrevivência, provisões e materiais de reparo são necessários para se preparar totalmente para a Expedição. Você precisa enviar o valor em moedas dos itens para cada categoria.",
+          "pl": "Ładowanie karawany niezbędnymi zapasami. Sprzęt bojowy, sprzęt przetrwania, prowiant i materiały naprawcze są potrzebne do pełnego przygotowania się na ekspedycję. Musisz przesyłać wartość monet przedmiotów do każdej kategorii.",
+          "no": "Laste karavanen med vitale forsyninger. Kamputstyr, overlevingsutstyr, proviant og reparasjonsmaterialer er nødvendig for å forberede seg fullt ut på ekspedisjonen. Du må sende inn mynteverdien av gjenstander til hver kategori.",
+          "da": "Lastning af karavanen med vitale forsyninger. Kampudstyr, overlevelsesudstyr, proviant og reparationsmaterialer er nødvendige for fuldt ud at forberede sig på ekspeditionen. Du skal indsende møntværdien af ​​genstande til hver kategori.",
+          "ru": "Загрузка каравана жизненно важными припасами. Боевое снаряжение, оборудование для выживания, провизия и ремонтные материалы необходимы для полной подготовки к экспедиции. Вам нужно внести стоимость предметов в монетах для каждой категории.",
+          "ja": "キャラバンに重要な物資を積み込みます。探検の準備を完全に整えるには、戦闘装備、サバイバル装備、食料、修理材料が必要です。各カテゴリにアイテムのコイン価値を提出する必要があります。",
+          "it": "Caricamento della carovana con rifornimenti vitali. Equipaggiamento da combattimento, attrezzatura di sopravvivenza, provviste e materiali di riparazione sono necessari per prepararsi completamente alla Spedizione. È necessario fornire il valore in monete degli oggetti per ogni categoria.",
+          "kr": "필수 보급품으로 대상을 적재합니다. 원정을 완전히 준비하려면 전투 장비, 생존 장비, 식량 및 수리 재료가 필요합니다. 각 카테고리에 아이템의 코인 가치를 제출해야 합니다.",
+          "zh-CN": "为商队装载重要补给。需要战斗装备、生存装备、补给品和修理材料来充分准备远征。你需要为每个类别提交物品的金币价值。",
+          "zh-TW": "為商隊裝載重要補給。需要戰鬥裝備、生存裝備、補給品和修理材料來充分準備遠征。你需要為每個類別提交物品的金幣價值。",
+          "uk": "Завантаження каравану життєво важливими припасами. Бойове спорядження, обладнання для виживання, провізія та ремонтні матеріали необхідні для повної підготовки до експедиції. Вам потрібно внести вартість предметів у монетах для кожної категорії.",
+          "tr": "Kervanın hayati malzemelerle yüklenmesi. Keşif için tam olarak hazırlanmak üzere savaş ekipmanı, hayatta kalma ekipmanı, erzak ve onarım malzemeleri gereklidir. Her kategoriye öğelerin madeni para değerini göndermeniz gerekir.",
+          "hr": "Utovar karavane s vitalnim zalihama. Borbena oprema, oprema za preživljavanje, namirnice i materijali za popravak potrebni su za potpunu pripremu za Ekspediciju. Morate dostaviti vrijednost predmeta u novcu za svaku kategoriju.",
+          "sr": "Utovar karavana sa vitalnim zalihama. Borbena oprema, oprema za preživljavanje, namirnice i materijali za popravku potrebni su za potpunu pripremu za Ekspediciju. Morate dostaviti vrednost predmeta u novcu za svaku kategoriju.",
+          "pt-BR": "Carregando a caravana com suprimentos vitais. Equipamentos de combate, equipamentos de sobrevivência, provisões e materiais de reparo são necessários para se preparar totalmente para a Expedição. Você precisa enviar o valor em moedas dos itens para cada categoria.",
+          "he": "העמסת השיירה באספקה חיונית. ציוד לחימה, ציוד הישרדות, מצרכים וחומרי תיקון נדרשים כדי להתכונן למשלחת באופן מלא. עליכם להגיש את שווי הפריטים במטבעות עבור כל קטגוריה."
+        },
+        "requirementItemIds": [],
+        "requirementCategories": [
+          {
+            "category": "Combat Items",
+            "valueRequired": 200000
+          },
+          {
+            "category": "Survival Items",
+            "valueRequired": 100000
+          },
+          {
+            "category": "Provisions",
+            "valueRequired": 150000
+          },
+          {
+            "category": "Materials",
+            "valueRequired": 300000
+          }
+        ]
+      },
+      {
+        "phase": 6,
+        "name": {
+          "en": "Final Preparations",
+          "de": "Letzte Vorbereitungen",
+          "fr": "Préparatifs finaux",
+          "es": "Preparativos finales",
+          "pt": "Preparativos finais",
+          "pl": "Ostatnie przygotowania",
+          "no": "Siste forberedelser",
+          "da": "Sidste forberedelser",
+          "ru": "Финальные приготовления",
+          "ja": "最終準備",
+          "it": "Preparativi finali",
+          "kr": "최종 준비",
+          "zh-CN": "最终准备",
+          "zh-TW": "最終準備",
+          "uk": "Фінальні приготування",
+          "tr": "Son Hazırlıklar",
+          "hr": "Završne Pripreme",
+          "sr": "Završne Pripreme",
+          "pt-BR": "Preparativos Finais",
+          "he": "הכנות אחרונות"
+        },
+        "description": {
+          "en": "Commit to the Expedition to reset your progress. Each 1 million credits earns you 1 extra skill point after the reset.",
+          "de": "Lege dich auf die Expedition fest, um deinen Fortschritt zurückzusetzen. Je 1 Million Credits erhältst du nach dem Zurücksetzen 1 zusätzlichen Fertigkeitspunkt.",
+          "fr": "Engagez-vous dans l'expédition pour réinitialiser votre progression. Chaque tranche de 1 million de crédits vous rapporte 1 point de compétence supplémentaire après la réinitialisation.",
+          "es": "Comprométete con la Expedición para reiniciar tu progreso. Cada 1 millón de créditos te otorga 1 punto de habilidad adicional después del reinicio.",
+          "pt": "Comprometa-se com a Expedição para redefinir seu progresso. A cada 1 milhão de créditos, você ganha 1 ponto de habilidade extra após a redefinição.",
+          "pl": "Zdecyduj się na Ekspedycję, aby zresetować swój postęp. Każde 1 milion kredytów zapewnia 1 dodatkowy punkt umiejętności po resecie.",
+          "no": "Forplikt deg til ekspedisjonen for å tilbakestille fremgangen din. Hver 1 million kreditter gir deg 1 ekstra ferdighetspoeng etter tilbakestillingen.",
+          "da": "Forpligt dig til ekspeditionen for at nulstille din fremgang. For hver 1 million credits får du 1 ekstra færdighedspoint efter nulstillingen.",
+          "ru": "Подтвердите участие в Экспедиции, чтобы сбросить прогресс. За каждый 1 миллион кредитов вы получите 1 дополнительное очко навыка после сброса.",
+          "ja": "遠征に参加して進行状況をリセットする。リセット後、100万クレジットごとに追加のスキルポイントを1獲得する。",
+          "it": "Impegnati nell'Esplorazione per azzerare i tuoi progressi. Ogni 1 milione di crediti ti fa ottenere 1 punto abilità extra dopo l'azzeramento.",
+          "kr": "원정에 참가해 진행도를 초기화하세요. 초기화 후 100만 크레딧마다 추가 스킬 포인트 1을 획득합니다.",
+          "zh-CN": "确认加入远征以重置你的进度。重置后，每累计100万信用点可获得1点额外技能点。",
+          "zh-TW": "確認加入遠征以重置你的進度。重置後，每累計100萬信用點可獲得1點額外技能點。",
+          "uk": "Підтвердьте участь в Експедиції, щоб скинути свій прогрес. За кожен 1 мільйон кредитів ви отримаєте 1 додаткове очко навички після скидання.",
+          "tr": "İlerlemeyi sıfırlamak için Keşif'e bağlan. Sıfırlamadan sonra her 1 milyon kredi, sana 1 ekstra beceri puanı kazandırır.",
+          "hr": "Obveži se na Ekspediciju kako bi resetirao svoj napredak. Svakih 1 milijun kredita donosi ti 1 dodatni bod vještine nakon reseta.",
+          "sr": "Obaveži se na Ekspediciju da resetuješ svoj napredak. Svakih 1 milion kredita donosi ti 1 dodatni poen veštine nakon reseta.",
+          "pt-BR": "Comprometa-se com a Expedição para reiniciar seu progresso. Cada 1 milhão de créditos garante 1 ponto de habilidade extra após a reinicialização.",
+          "he": "התחייבו למשלחת כדי לאפס את ההתקדמות שלכם. כל מיליון קרדיטים מזכים אתכם בנקודת מיומנות אחת נוספת לאחר האיפוס."
+        },
+        "requirementItemIds": [],
+        "requirementCategories": [
+          {
+            "category": "Value",
+            "valueRequired": 5000000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expedition_project_s1",
+    "name": {
+      "en": "Expedition Project (Season 1)",
+      "de": "Expeditionsprojekt (Saison 1)",
+      "fr": "Projet d'expédition (Saison 1)",
+      "es": "Proyecto de expedición (Temporada 1)",
+      "pt": "Projeto de expedição (Temporada 1)",
+      "pl": "Projekt ekspedycji (Sezon 1)",
+      "no": "Ekspedisjonsprosjekt (Sesong 1)",
+      "da": "Ekspeditionsprojekt (Sæson 1)",
+      "ru": "Проект экспедиции (Сезон 1)",
+      "ja": "探検プロジェクト (シーズン1)",
+      "it": "Progetto di spedizione (Stagione 1)",
+      "kr": "원정 프로젝트 (시즌 1)",
+      "zh-CN": "远征项目 (第1赛季)",
+      "zh-TW": "遠征專案 (第1賽季)",
+      "uk": "Проект експедиції (Сезон 1)",
+      "tr": "Keşif Projesi (Sezon 1)",
+      "hr": "Projekt Ekspedicije (Sezona 1)",
+      "sr": "Projekat Ekspedicije (Sezona 1)",
+      "pt-BR": "Projeto de Expedição (Temporada 1)",
+      "he": "פרויקט משלחת (עונה 1)"
+    },
+    "description": {
+      "en": "Embark on a dangerous expedition beyond the Rust Belt. Expeditions are perilous. Your Raider will carry all their possessions into the unknown beyond the Rust Belt. In return, your next Raider gains a unique edge that lasts until the next Expedition departs.",
+      "de": "Begib dich auf eine gefährliche Expedition jenseits des Rostgürtels. Expeditionen sind gefährlich. Dein Raider wird all seinen Besitz ins Unbekannte jenseits des Rostgürtels tragen. Im Gegenzug erhält dein nächster Raider einen einzigartigen Vorteil, der bis zur Abreise der nächsten Expedition anhält.",
+      "fr": "Embarquez pour une expédition dangereuse au-delà de la Ceinture de rouille. Les expéditions sont périlleuses. Votre Raider transportera tous ses biens dans l'inconnu au-delà de la Ceinture de rouille. En retour, votre prochain Raider gagne un avantage unique qui dure jusqu'au départ de la prochaine expédition.",
+      "es": "Embárcate en una peligrosa expedición más allá del Cinturón de Óxido. Las expediciones son peligrosas. Tu Raider llevará todas sus posesiones hacia lo desconocido más allá del Cinturón de Óxido. A cambio, tu próximo Raider obtiene una ventaja única que dura hasta que parta la próxima expedición.",
+      "pt": "Embarque em uma expedição perigosa além do Cinturão de Ferrugem. Expedições são perigosas. Seu Raider carregará todos os seus pertences para o desconhecido além do Cinturão de Ferrugem. Em troca, seu próximo Raider ganha uma vantagem única que dura até a partida da próxima expedição.",
+      "pl": "Wyrusz na niebezpieczną ekspedycję poza Pas Rdzy. Ekspedycje są ryzykowne. Twój Raider zabierze wszystkie swoje rzeczy w nieznane poza Pasem Rdzy. W zamian, twój następny Raider zyskuje unikalną przewagę, która trwa do momentu rozpoczęcia następnej ekspedycji.",
+      "no": "Dra på en farlig ekspedisjon utenfor Rustbeltet. Ekspedisjoner er farlige. Din Raider vil bære alle sine eiendeler inn i det ukjente utenfor Rustbeltet. I retur får din neste Raider en unik fordel som varer til neste ekspedisjon drar.",
+      "da": "Begiv dig ud på en farlig ekspedition ud over Rustbæltet. Ekspeditioner er farlige. Din Raider vil bære alle sine ejendele ind i det ukendte ud over Rustbæltet. Til gengæld får din næste Raider en unik fordel, der varer indtil næste ekspedition afrejser.",
+      "ru": "Отправьтесь в опасную экспедицию за пределы Ржавого пояса. Экспедиции полны опасностей. Ваш рейдер возьмёт с собой всё своё имущество в неизведанные земли за Ржавым поясом. Взамен ваш следующий рейдер получит уникальное преимущество, которое продлится до отправления следующей экспедиции.",
+      "ja": "ラストベルトの向こうへ危険な探検に出発しましょう。探検は危険に満ちています。あなたのレイダーは全ての所持品を持ってラストベルトの向こうの未知の世界へ向かいます。その代わり、次のレイダーは次の探検が出発するまで続く独自の優位性を得ます。",
+      "it": "Intraprendi una spedizione pericolosa oltre la Cintura di Ruggine. Le spedizioni sono rischiose. Il tuo Razziatore porterà tutti i suoi averi nell'ignoto oltre la Cintura di Ruggine. In cambio, il tuo prossimo Razziatore otterrà un vantaggio unico che durerà fino alla partenza della prossima Spedizione.",
+      "kr": "러스트 벨트 너머로 위험한 원정을 떠나세요. 원정은 위험으로 가득합니다. 당신의 레이더는 모든 소지품을 가지고 러스트 벨트 너머의 미지의 세계로 향합니다. 그 대가로 다음 레이더는 다음 원정이 출발할 때까지 지속되는 고유한 이점을 얻습니다.",
+      "zh-CN": "踏上前往锈带之外的危险远征。远征充满危险。你的掠夺者将携带所有财物前往锈带之外的未知世界。作为回报，你的下一个掠夺者将获得持续到下次远征出发的独特优势。",
+      "zh-TW": "踏上前往鏽帶之外的危險遠征。遠征充滿危險。你的掠奪者將攜帶所有財物前往鏽帶之外的未知世界。作為回報，你的下一個掠奪者將獲得持續到下次遠征出發的獨特優勢。",
+      "uk": "Вирушайте у небезпечну експедицію за межі Іржавого поясу. Експедиції сповнені небезпек. Ваш рейдер візьме з собою все своє майно в невідомі землі за Іржавим поясом. Натомість ваш наступний рейдер отримає унікальну перевагу, яка триватиме до відправлення наступної експедиції.",
+      "tr": "Pas Kuşağı'nın ötesine tehlikeli bir keşfe çıkın. Keşifler tehlikelidir. Akıncınız tüm eşyalarını Pas Kuşağı'nın ötesindeki bilinmeyene taşıyacak. Karşılığında, bir sonraki Akıncınız bir sonraki Keşif ayrılana kadar sürecek benzersiz bir avantaj kazanır.",
+      "hr": "Krenite na opasnu ekspediciju izvan Pojasa Hrđe. Ekspedicije su opasne. Vaš Pljačkaš će ponijeti svu svoju imovinu u nepoznato izvan Pojasa Hrđe. Zauzvrat, vaš sljedeći Pljačkaš dobiva jedinstvenu prednost koja traje do polaska sljedeće Ekspedicije.",
+      "sr": "Krenite na opasnu ekspediciju izvan Pojasa Rđe. Ekspedicije su opasne. Vaš Pljačkaš će poneti svu svoju imovinu u nepoznato izvan Pojasa Rđe. Zauzvrat, vaš sledeći Pljačkaš dobija jedinstvenu prednost koja traje do polaska sledeće Ekspedicije.",
+      "pt-BR": "Embarque em uma expedição perigosa além do Cinturão da Ferrugem. As expedições são perigosas. Seu Raider levará todos os seus pertences para o desconhecido além do Cinturão da Ferrugem. Em troca, seu próximo Raider ganha uma vantagem única que dura até a partida da próxima Expedição.",
+      "he": "צאו למשלחת מסוכנת אל מעבר לחגורת החלודה. המשלחות טומנות בחובן סכנות רבות. הריידר שלכם ייקח את כל רכושו אל הלא-נודע שמחוץ לחגורת החלודה. בתמורה, הריידר הבא שלכם יזכה ביתרון ייחודי שיישמר עד ליציאת המשלחת הבאה."
+    },
+    "phases": [
+      {
+        "phase": 1,
+        "name": {
+          "en": "Foundation",
+          "de": "Fundament",
+          "fr": "Fondation",
+          "es": "Fundación",
+          "pt": "Fundação",
+          "pl": "Fundament",
+          "no": "Grunnlag",
+          "da": "Fundament",
+          "ru": "Фундамент",
+          "ja": "基礎",
+          "it": "Fondamenta",
+          "kr": "기초",
+          "zh-CN": "地基",
+          "zh-TW": "地基",
+          "uk": "Фундамент",
+          "tr": "Temel",
+          "hr": "Temelj",
+          "sr": "Temelj",
+          "pt-BR": "Fundação",
+          "he": "יסודות"
+        },
+        "requirementItemIds": [
+          {
+            "itemId": "metal_parts",
+            "quantity": 150
+          },
+          {
+            "itemId": "rubber_parts",
+            "quantity": 200
+          },
+          {
+            "itemId": "arc_alloy",
+            "quantity": 80
+          },
+          {
+            "itemId": "steel_spring",
+            "quantity": 15
+          }
+        ]
+      },
+      {
+        "phase": 2,
+        "name": {
+          "en": "Core Systems",
+          "de": "Kernsysteme",
+          "fr": "Systèmes essentiels",
+          "es": "Sistemas centrales",
+          "pt": "Sistemas centrais",
+          "pl": "Główne systemy",
+          "no": "Kjernesystemer",
+          "da": "Kernesystemer",
+          "ru": "Основные системы",
+          "ja": "コアシステム",
+          "it": "Sistemi principali",
+          "kr": "핵심 시스템",
+          "zh-CN": "核心系统",
+          "zh-TW": "核心系統",
+          "uk": "Основні системи",
+          "tr": "Temel Sistemler",
+          "hr": "Osnovni Sustavi",
+          "sr": "Osnovni Sistemi",
+          "pt-BR": "Sistemas Centrais",
+          "he": "מערכות ליבה"
+        },
+        "description": {
+          "en": "Connecting wiring, ventilation, and essential power systems",
+          "de": "Verkabelung, Belüftung und wesentliche Stromversorgungssysteme verbinden",
+          "fr": "Connexion du câblage, de la ventilation et des systèmes électriques essentiels",
+          "es": "Conectando cableado, ventilación y sistemas de energía esenciales",
+          "pt": "Conectando fiação, ventilação e sistemas de energia essenciais",
+          "pl": "Podłączanie okablowania, wentylacji i podstawowych systemów zasilania",
+          "no": "Koble til ledninger, ventilasjon og essensielle strømsystemer",
+          "da": "Tilslutning af ledninger, ventilation og essentielle strømsystemer",
+          "ru": "Подключение проводки, вентиляции и основных энергосистем",
+          "ja": "配線、換気、必須電力システムの接続",
+          "it": "Collegamento di cablaggio, ventilazione e sistemi di alimentazione essenziali",
+          "kr": "배선, 환기 및 필수 전력 시스템 연결",
+          "zh-CN": "连接线路、通风和基本电力系统",
+          "zh-TW": "連接線路、通風和基本電力系統",
+          "uk": "Підключення проводки, вентиляції та основних енергосистем",
+          "tr": "Kablolama, havalandırma ve temel güç sistemlerinin bağlanması",
+          "hr": "Povezivanje ožičenja, ventilacije i osnovnih energetskih sustava",
+          "sr": "Povezivanje ožičenja, ventilacije i osnovnih energetskih sistema",
+          "pt-BR": "Conectando fiação, ventilação e sistemas de energia essenciais",
+          "he": "חיבור חיווט, אוורור ומערכות חשמל חיוניות"
         },
         "requirementItemIds": [
           {
@@ -164,7 +581,9 @@
           "uk": "Каркас",
           "tr": "Çerçeve",
           "hr": "Okvir",
-          "sr": "Okvir"
+          "sr": "Okvir",
+          "pt-BR": "Estrutura",
+          "he": "שלד מבנה"
         },
         "description": {
           "en": "Building the walls and roof, installing core systems and defining the interior layout",
@@ -184,7 +603,9 @@
           "uk": "Зведення стін і даху, встановлення основних систем та планування внутрішнього простору",
           "tr": "Duvarların ve çatının inşası, temel sistemlerin kurulumu ve iç düzenin belirlenmesi",
           "hr": "Gradnja zidova i krova, instalacija osnovnih sustava i definiranje unutarnjeg rasporeda",
-          "sr": "Gradnja zidova i krova, instalacija osnovnih sistema i definisanje unutrašnjeg rasporeda"
+          "sr": "Gradnja zidova i krova, instalacija osnovnih sistema i definisanje unutrašnjeg rasporeda",
+          "pt-BR": "Construindo as paredes e o telhado, instalando sistemas centrais e definindo o layout interior",
+          "he": "בניית הקירות והגג, התקנת מערכות ליבה והגדרת הפריסה הפנימית"
         },
         "requirementItemIds": [
           {
@@ -225,7 +646,9 @@
           "uk": "Оснащення",
           "tr": "Donatım",
           "hr": "Opremanje",
-          "sr": "Opremanje"
+          "sr": "Opremanje",
+          "pt-BR": "Instalações",
+          "he": "הצטיידות"
         },
         "description": {
           "en": "Adding storage, workbenches, utilities, and personal touches",
@@ -245,7 +668,9 @@
           "uk": "Додавання сховищ, верстаків, комунальних систем та особистих штрихів",
           "tr": "Depolama, tezgahlar, tesisatlar ve kişisel dokunuşların eklenmesi",
           "hr": "Dodavanje skladišta, radnih stolova, komunalija i osobnih detalja",
-          "sr": "Dodavanje skladišta, radnih stolova, komunalija i ličnih detalja"
+          "sr": "Dodavanje skladišta, radnih stolova, komunalija i ličnih detalja",
+          "pt-BR": "Adicionando armazenamento, bancadas, utilitários e toques pessoais",
+          "he": "הוספת אחסון, שולחנות עבודה, עזרים ונגיעות אישיות"
         },
         "requirementItemIds": [
           {
@@ -286,7 +711,9 @@
           "uk": "Етап завантаження",
           "tr": "Yükleme Aşaması",
           "hr": "Faza Utovara",
-          "sr": "Faza Utovara"
+          "sr": "Faza Utovara",
+          "pt-BR": "Etapa de Carregamento",
+          "he": "שלב ההעמסה"
         },
         "description": {
           "en": "Loading the caravan with vital supplies. Combat gear, survival equipment, provisions, and repair materials are needed to fully prepare for the Expedition. You need to submit the coin value of items to each category.",
@@ -306,7 +733,9 @@
           "uk": "Завантаження каравану життєво важливими припасами. Бойове спорядження, обладнання для виживання, провізія та ремонтні матеріали необхідні для повної підготовки до експедиції. Вам потрібно внести вартість предметів у монетах для кожної категорії.",
           "tr": "Kervanın hayati malzemelerle yüklenmesi. Keşif için tam olarak hazırlanmak üzere savaş ekipmanı, hayatta kalma ekipmanı, erzak ve onarım malzemeleri gereklidir. Her kategoriye öğelerin madeni para değerini göndermeniz gerekir.",
           "hr": "Utovar karavane s vitalnim zalihama. Borbena oprema, oprema za preživljavanje, namirnice i materijali za popravak potrebni su za potpunu pripremu za Ekspediciju. Morate dostaviti vrijednost predmeta u novcu za svaku kategoriju.",
-          "sr": "Utovar karavana sa vitalnim zalihama. Borbena oprema, oprema za preživljavanje, namirnice i materijali za popravku potrebni su za potpunu pripremu za Ekspediciju. Morate dostaviti vrednost predmeta u novcu za svaku kategoriju."
+          "sr": "Utovar karavana sa vitalnim zalihama. Borbena oprema, oprema za preživljavanje, namirnice i materijali za popravku potrebni su za potpunu pripremu za Ekspediciju. Morate dostaviti vrednost predmeta u novcu za svaku kategoriju.",
+          "pt-BR": "Carregando a caravana com suprimentos vitais. Equipamento de combate, equipamento de sobrevivência, provisões e materiais de reparo são necessários para o preparo total para a Expedição. Você precisa enviar o valor em moedas dos itens para cada categoria.",
+          "he": "העמסת השיירה באספקה חיונית. ציוד קרב, ציוד הישרדות, צידה וחומרי תיקון נדרשים להכנה מלאה למשלחת. עליך להזין את השווי הכספי של הפריטים בכל קטגוריה."
         },
         "requirementItemIds": [],
         "requirementCategories": [
@@ -348,7 +777,9 @@
           "uk": "Фінальні приготування",
           "tr": "Son Hazırlıklar",
           "hr": "Završne Pripreme",
-          "sr": "Završne Pripreme"
+          "sr": "Završne Pripreme",
+          "pt-BR": "Preparativos Finais",
+          "he": "הכנות אחרונות"
         },
         "description": {
           "en": "Commit to the Expedition to reset your progress. Each 1 million credits earns you 1 extra skill point after the reset.",
@@ -368,7 +799,9 @@
           "uk": "Підтвердьте участь в Експедиції, щоб скинути свій прогрес. За кожен 1 мільйон кредитів ви отримаєте 1 додаткове очко навички після скидання.",
           "tr": "İlerlemeyi sıfırlamak için Keşif'e bağlan. Sıfırlamadan sonra her 1 milyon kredi, sana 1 ekstra beceri puanı kazandırır.",
           "hr": "Obveži se na Ekspediciju kako bi resetirao svoj napredak. Svakih 1 milijun kredita donosi ti 1 dodatni bod vještine nakon reseta.",
-          "sr": "Obaveži se na Ekspediciju da resetuješ svoj napredak. Svakih 1 milion kredita donosi ti 1 dodatni poen veštine nakon reseta."
+          "sr": "Obaveži se na Ekspediciju da resetuješ svoj napredak. Svakih 1 milion kredita donosi ti 1 dodatni poen veštine nakon reseta.",
+          "pt-BR": "Confirme a Expedição para redefinir seu progresso. Cada 1 milhão de créditos garante 1 ponto de habilidade extra após a redefinição.",
+          "he": "התחייבות למשלחת תאפס את ההתקדמות שלך. כל מיליון קרדיטים יעניקו לך נקודת מיומנות אחת נוספת לאחר האיפוס."
         },
         "requirementItemIds": [],
         "requirementCategories": [
@@ -392,7 +825,7 @@
       "no": "Flakkende flammer",
       "da": "Flakkende flammer",
       "ru": "Мерцающее пламя",
-      "ja": "揺らめく炎",
+      "ja": "ゆらめく炎",
       "it": "Fiamme tremolanti",
       "kr": "깜빡이는 불꽃",
       "zh-CN": "闪烁的火焰",
@@ -400,7 +833,9 @@
       "uk": "Мерехтливе полум'я",
       "tr": "Titreyen Alevler",
       "hr": "Treperavi plamenovi",
-      "sr": "Treperavi plamenovi"
+      "sr": "Treperavi plamenovi",
+      "pt-BR": "Chamas Cintilantes",
+      "he": "להבות מרצדות"
     },
     "description": {
       "en": "A festival of resilient warmth, centered around the hardy candleberry bush. Speranzans have been known to host local celebrations, and being competitive, they seek to outdo each other at every turn. Some have managed to turn the homely candleberry bush into a banquet worthy of even the most discerning gourmands.",
@@ -412,7 +847,7 @@
       "no": "En festival med motstandsdyktig varme, sentrert rundt den hardføre stearinlys-bærbusken. Speranzanere er kjent for å arrangere lokale feiringer, og som konkurransemennesker prøver de å overgå hverandre ved enhver anledning. Noen har klart å forvandle den enkle stearinlys-bærbusken til et festmåltid verdig selv de mest kresne gourmands.",
       "da": "En festival med modstandsdygtig varme, centreret omkring den hårdføre lysbærbusk. Speranzanere er kendt for at afholde lokale fejringer, og da de er konkurrencemindede, søger de at overgå hinanden ved enhver lejlighed. Nogle har formået at forvandle den beskedne lysbærbusk til et festmåltid værdigt selv de mest kræsne gourmands.",
       "ru": "Праздник стойкого тепла, посвящённый выносливому кусту восковника. Сперанзанцы известны своими местными праздниками, и будучи соревновательными, они стремятся превзойти друг друга при каждой возможности. Некоторым удалось превратить скромный куст восковника в пиршество, достойное самых взыскательных гурманов.",
-      "ja": "丈夫なキャンドルベリーの茂みを中心に据えた、温かさあふれる祭典。スペランザンの住民はローカルな祭典を主催することで知られており、競争心が強いため、常に競い合っている。素朴なキャンドルベリーの茂みを、最も舌の肥えた大食漢でさえも満足するような宴へと変貌させる人もいる。",
+      "ja": "丈夫なキャンドルベリーの茂みを中心とした、しなやかな温もりの祭典。スペランザンの人々は地元の祝祭を開催することで知られており、競争心旺盛な彼らはあらゆる機会で互いを凌ごうとします。中には、この素朴なキャンドルベリーの茂みを、最も目の肥えた美食家にもふさわしい宴に変えることに成功した者もいます。",
       "it": "Un festival di calore resiliente, incentrato sul resistente cespuglio di candleberry. Gli Speranzani sono noti per organizzare celebrazioni locali, e essendo competitivi, cercano di superarsi a vicenda in ogni occasione. Alcuni sono riusciti a trasformare l'umile cespuglio di candleberry in un banchetto degno dei buongustai più esigenti.",
       "kr": "견고한 캔들베리 덤불을 중심으로 한 회복력 있는 따뜻함의 축제입니다. 스페란잔 사람들은 지역 축하 행사를 개최하는 것으로 알려져 있으며, 경쟁심이 강한 그들은 매 순간 서로를 능가하려 합니다. 일부는 소박한 캔들베리 덤불을 가장 까다로운 미식가도 만족시킬 만한 연회로 바꾸는 데 성공했습니다.",
       "zh-CN": "一个围绕着坚韧的蜡莓灌木举办的温暖节日。斯佩兰赞人以举办当地庆典而闻名，由于竞争意识强烈，他们总是试图在每一个机会上超越彼此。有些人已经成功地将朴素的蜡莓灌木变成了即使是最挑剔的美食家也值得享用的盛宴。",
@@ -420,7 +855,9 @@
       "uk": "Свято стійкого тепла, зосереджене навколо витривалого куща восковниці. Сперанзанці відомі своїми місцевими святкуваннями, і будучи конкурентними, вони прагнуть перевершити один одного при кожній нагоді. Деяким вдалося перетворити скромний кущ восковниці на бенкет, гідний найвибагливіших гурманів.",
       "tr": "Dayanıklı mum çileği çalısı etrafında şekillenen dirençli sıcaklık festivali. Speranzalılar yerel kutlamalar düzenlemeleriyle tanınır ve rekabetçi oldukları için her fırsatta birbirlerini geçmeye çalışırlar. Bazıları mütevazı mum çileği çalısını en seçici gurmelere bile layık bir ziyafete dönüştürmeyi başarmıştır.",
       "hr": "Festival otporne topline, usredotočen na izdržljivi grm svijećnjaka. Speranzanci su poznati po organiziranju lokalnih proslava, a budući da su natjecateljski nastrojeni, nastoje se nadmašiti jedni druge u svakoj prilici. Nekima je uspjelo pretvoriti skromni grm svijećnjaka u gozbu dostojnu čak i najzahtjevnijih gurmana.",
-      "sr": "Festival otporne topline, usredsređen na izdržljivi grm svećnjaka. Speranzanci su poznati po organizovanju lokalnih proslava, a budući da su takmičarski nastrojeni, nastoje da se nadmaše jedni druge u svakoj prilici. Nekima je uspelo da pretvore skromni grm svećnjaka u gozbu dostojnu čak i najzahtevnijih gurmana."
+      "sr": "Festival otporne topline, usredsređen na izdržljivi grm svećnjaka. Speranzanci su poznati po organizovanju lokalnih proslava, a budući da su takmičarski nastrojeni, nastoje da se nadmaše jedni druge u svakoj prilici. Nekima je uspelo da pretvore skromni grm svećnjaka u gozbu dostojnu čak i najzahtevnijih gurmana.",
+      "pt-BR": "Um festival de calor resiliente, centrado no robusto arbusto de baga-de-cera. Os Speranzanos são conhecidos por sediar celebrações locais e, sendo competitivos, buscam superar uns aos outros a cada passo. Alguns conseguiram transformar o singelo arbusto de baga-de-cera em um banquete digno até dos gourmands mais exigentes.",
+      "he": "פסטיבל של חמימות ועמידות, המתרכז סביב שיח הקנדלברי הקשוח. הספרנזים ידועים בעריכת חגיגות מקומיות, ובהיותם תחרותיים, הם מנסים להתעלות זה על זה בכל הזדמנות. חלקם הצליחו להפוך את שיח הקנדלברי הפשוט למשתה הראוי אפילו לאניני הטעם הגדולים ביותר."
     },
     "phases": [
       {
@@ -443,7 +880,9 @@
           "uk": "Свічкове світло",
           "tr": "Mum Işığı",
           "hr": "Svjetlost svijeće",
-          "sr": "Svetlost sveće"
+          "sr": "Svetlost sveće",
+          "pt-BR": "Luz de Velas",
+          "he": "אור נרות"
         },
         "description": {
           "en": "The namesake use for the candleberry, Speranzans boil the fruit into a thick wax that burns cleanly and fragrantly.",
@@ -463,7 +902,9 @@
           "uk": "Основне застосування свічкових ягід: сперанзанці виварюють плоди до густого воску, що горить чисто й пахуче.",
           "tr": "Mum meyvelerinin adaş kullanımında Speranzalılar meyveyi kaynatıp temiz ve hoş kokulu yanan yoğun bir muma dönüştürür.",
           "hr": "Imenjenska uporaba svijećnih bobica: Speranzanci kuhaju plod u gusti vosak koji gori čisto i mirisno.",
-          "sr": "Imenjska upotreba svećnih bobica: Speranzanci kuvaju plod u gust vosak koji gori čisto i mirisno."
+          "sr": "Imenjska upotreba svećnih bobica: Speranzanci kuvaju plod u gust vosak koji gori čisto i mirisno.",
+          "pt-BR": "O uso que dá nome à baga-de-cera; os Speranzanos fervem a fruta em uma cera espessa que queima de forma limpa e perfumada.",
+          "he": "השימוש שעל שמו נקרא הצמח; הספרנזים מרתיחים את פרי הקנדלברי לכדי שעווה סמיכה, הבוערת בנקיות ומפיצה ניחוח נעים."
         },
         "requirementItemIds": [
           {
@@ -504,7 +945,9 @@
           "uk": "Декорації",
           "tr": "Süslemeler",
           "hr": "Dekoracije",
-          "sr": "Dekoracije"
+          "sr": "Dekoracije",
+          "pt-BR": "Decorações",
+          "he": "קישוטים"
         },
         "description": {
           "en": "Many Speranzans have become surprisingly adept at the art of bringing beauty and greenery into the home.",
@@ -524,7 +967,9 @@
           "uk": "Багато сперанзанців несподівано вправно опанували мистецтво приносити до оселі красу й зелень.",
           "tr": "Birçok Speranzalı, güzelliği ve yeşilliği eve taşıma sanatında şaşırtıcı derecede ustalaştı.",
           "hr": "Mnogi Speranzanci postali su iznenađujuće vješti u umjetnosti unošenja ljepote i zelenila u dom.",
-          "sr": "Mnogi Speranzanci postali su iznenađujuće vešti u umetnosti unošenja lepote i zelenila u dom."
+          "sr": "Mnogi Speranzanci postali su iznenađujuće vešti u umetnosti unošenja lepote i zelenila u dom.",
+          "pt-BR": "Muitos Speranzanos se tornaram surpreendentemente hábeis na arte de trazer beleza e vegetação para o lar.",
+          "he": "ספרנזים רבים פיתחו מיומנות מפתיעה באומנות הכנסת היופי והצמחייה אל תוך הבית."
         },
         "requirementItemIds": [
           {
@@ -565,7 +1010,9 @@
           "uk": "Подарунки",
           "tr": "Hediyeler",
           "hr": "Darovi",
-          "sr": "Pokloni"
+          "sr": "Pokloni",
+          "pt-BR": "Presentes",
+          "he": "מתנות"
         },
         "description": {
           "en": "Crafty Speranzans have turned the candleberries into a wealth of gifts. These include perfumes and soaps, as well as gifts unrelated to the recipient's odors.",
@@ -585,7 +1032,9 @@
           "uk": "Кмітливі сперанзанці перетворили свічкові ягоди на ціле багатство подарунків. Серед них — парфуми та мило, а також дарунки, не пов'язані із запахами одержувача.",
           "tr": "Becerikli Speranzalılar mum meyvelerini sayısız hediyeye dönüştürdü. Bunlara parfümler ve sabunlar ile alıcının kokusuyla ilgisi olmayan hediyeler de dahil.",
           "hr": "Spretni Speranzanci pretvorili su svijećne bobice u obilje darova. To uključuje parfeme i sapune, kao i darove nepovezane s mirisima primatelja.",
-          "sr": "Spretni Speranzanci pretvorili su svećne bobice u obilje poklona. Tu su parfemi i sapuni, kao i pokloni koji nisu povezani sa mirisima primaoca."
+          "sr": "Spretni Speranzanci pretvorili su svećne bobice u obilje poklona. Tu su parfemi i sapuni, kao i pokloni koji nisu povezani sa mirisima primaoca.",
+          "pt-BR": "Speranzanos criativos transformaram as bagas-de-cera em uma riqueza de presentes. Estes incluem perfumes e sabonetes, bem como presentes não relacionados aos odores do destinatário.",
+          "he": "ספרנזים יצירתיים הפכו את הקנדלברי לשפע של מתנות. אלו כוללות בשמים וסבונים, כמו גם מתנות שאינן קשורות לריחות של המקבל."
         },
         "requirementItemIds": [
           {
@@ -626,7 +1075,9 @@
           "uk": "Напої",
           "tr": "İçecekler",
           "hr": "Napitci",
-          "sr": "Napitci"
+          "sr": "Napitci",
+          "pt-BR": "Bebidas",
+          "he": "משקאות"
         },
         "description": {
           "en": "Candleberries can be crushed into refreshing juices, while the leaves and roots make for a tea that can drive out the toughest of colds.",
@@ -646,7 +1097,9 @@
           "uk": "Свічкові ягоди можна розчавити на освіжаючі соки, а з листя та коріння заварити чай, що здатен прогнати навіть найміцнішу застуду.",
           "tr": "Mum meyveleri ferahlatıcı meyve sularına ezilebilir; yaprakları ve kökleri ise en inatçı soğuk algınlıklarını bile söküp atabilecek bir çay yapar.",
           "hr": "Svijećne bobice se mogu zgnječiti u osvježavajuće sokove, dok se od listova i korijenja može napraviti čaj koji može otjerati i najteže prehlade.",
-          "sr": "Svećne bobice se mogu zgnječiti u osvežavajuće sokove, dok se od listova i korenja može napraviti čaj koji može oterati i najteže prehlade."
+          "sr": "Svećne bobice se mogu zgnječiti u osvežavajuće sokove, dok se od listova i korenja može napraviti čaj koji može oterati i najteže prehlade.",
+          "pt-BR": "Bagas-de-cera podem ser esmagadas em sucos refrescantes, enquanto as folhas e raízes fazem um chá capaz de curar até os resfriados mais fortes.",
+          "he": "ניתן לסחוט את פרי הקנדלברי למיצים מרעננים, בעוד שהעלים והשורשים משמשים לחליטת תה שיכול לגרש גם את הצינון הקשה ביותר."
         },
         "requirementItemIds": [
           {
@@ -687,7 +1140,9 @@
           "uk": "Страви",
           "tr": "Yemekler",
           "hr": "Obroci",
-          "sr": "Obroci"
+          "sr": "Obroci",
+          "pt-BR": "Refeições",
+          "he": "ארוחות"
         },
         "description": {
           "en": "Though candleberry leaves are bitter, simmering them in stew and soups adds a touch of earthiness that nostalgic Speranzans have grown to love.",
@@ -707,7 +1162,9 @@
           "uk": "Хоч листя свічкових ягід гірке, повільне томління в рагу та супах додає землістої нотки, яку ностальгійні сперанзанці полюбили.",
           "tr": "Mum meyvelerinin yaprakları acı olsa da, yahni ve çorbalarda ağır ağır pişirmek nostaljik Speranzalıların sevdiği o topraksı dokunuşu katar.",
           "hr": "Iako su listovi svijećnih bobica gorki, lagano krčkanje u varivima i juhama dodaje zemljani štih koji nostalgični Speranzanci obožavaju.",
-          "sr": "Iako su listovi svećnih bobica gorki, lagano krčkanje u čorbama i gulašima dodaje zemljanu notu koju nostalgični Speranzanci vole."
+          "sr": "Iako su listovi svećnih bobica gorki, lagano krčkanje u čorbama i gulašima dodaje zemljanu notu koju nostalgični Speranzanci vole.",
+          "pt-BR": "Embora as folhas de baga-de-cera sejam amargas, cozinhá-las lentamente em ensopados e sopas adiciona um toque terroso que os Speranzanos nostálgicos passaram a amar.",
+          "he": "למרות מרירותם של עלי הקנדלברי, בישולם בנזידים ובמרקים מוסיף טעם אדמה עדין שהספרנזים הנוסטלגיים למדו לאהוב."
         },
         "requirementItemIds": [
           {

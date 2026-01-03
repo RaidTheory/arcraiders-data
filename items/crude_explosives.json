@@ -18,7 +18,9 @@
     "kr": "조잡한 폭발물",
     "tr": "Ham Patlayıcılar",
     "hr": "Sirovi eksploziv",
-    "sr": "Sirovi eksploziv"
+    "sr": "Sirovi eksploziv",
+    "pt-BR": "Explosivos Rudimentares",
+    "he": "חומרי נפץ גולמיים"
   },
   "description": {
     "en": "Used to craft explosives. Can be recycled into crafting materials. Used to craft: Launcher Ammo, Explosive Compound, Snap Blast Grenade, Shrapnel Grenade, Trigger 'Nade",
@@ -38,7 +40,9 @@
     "kr": "폭발물 제작에 사용됩니다. 제작 재료로 재활용할 수 있습니다. 제작 가능: 발사기 탄약, 혼합 화약, 스냅 블라스트 수류탄, 파편 수류탄, 트리거 수류탄",
     "tr": "Patlayıcı üretmek için kullanılır. Üretim malzemelerine geri dönüştürülebilir. Üretilebilir: Fırlatıcı Mühimmatı, Patlayıcı Bileşik, Ani Patlama Bombası, Şarapnel Bombası, Tetikli Bomba",
     "hr": "Koristi se za izradu eksploziva. Može se reciklirati u materijale za izradu. Koristi se za izradu: Municija za bacač, Eksplozivna smjesa, Snap Blast granata, Šrapnel granata, Trigger 'Nade",
-    "sr": "Koristi se za izradu eksploziva. Može se reciklirati u materijale za izradu. Koristi se za izradu: Municija za bacač, Eksplozivna smeša, Snap Blast granata, Šrapnel granata, Trigger 'Nade"
+    "sr": "Koristi se za izradu eksploziva. Može se reciklirati u materijale za izradu. Koristi se za izradu: Municija za bacač, Eksplozivna smeša, Snap Blast granata, Šrapnel granata, Trigger 'Nade",
+    "pt-BR": "Usado para fabricar explosivos. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Munição de Lançador, Composto Explosivo, Granada de Impacto, Granada de Estilhaços, Granada de Acionamento",
+    "he": "משמש ליצירת חומרי נפץ. ניתן למיחזור לחומרי יצירה. משמש ליצירת: תחמושת משגר, תרכובת נפץ, רימון פיצוץ מהיר, רימון רסס, רימון הפעלה"
   },
   "rarity": "Uncommon",
   "type": "Refined Material",
@@ -70,7 +74,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": 15
+      "value": 15,
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Radius": {
       "en": "Radius",
@@ -91,7 +97,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "1.5m"
+      "value": "1.5m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "foundIn": "Industrial, Security",

@@ -17,7 +17,9 @@
     "tr": "Radyo Rölesi",
     "uk": "Радіорелейна станція",
     "sr": "Radio relej",
-    "hr": "Radio relej"
+    "hr": "Radio relej",
+    "pt-BR": "Relé de Rádio",
+    "he": "ממסר רדיו"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -37,7 +39,9 @@
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "sr": "Može se reciklirati u materijale za izradu.",
-    "hr": "Može se reciklirati u materijale za izradu."
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למחזור לחומרי יצירה."
   },
   "id": "radio_relay",
   "type": "Recyclable",

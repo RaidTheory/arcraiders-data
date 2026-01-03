@@ -18,7 +18,9 @@
     "kr": "빈 와인병",
     "tr": "Boş Şarap Şişesi",
     "hr": "Prazna Boca Vina",
-    "sr": "Prazna Flaša Vina"
+    "sr": "Prazna Flaša Vina",
+    "pt-BR": "Garrafa de Vinho Vazia",
+    "he": "בקבוק יין ריק"
   },
   "description": {
     "en": "Yes, it really is empty.",
@@ -38,7 +40,9 @@
     "kr": "네, 정말로 비어 있습니다.",
     "tr": "Evet, gerçekten boş.",
     "hr": "Da, stvarno je prazna.",
-    "sr": "Da, zaista je prazna."
+    "sr": "Da, zaista je prazna.",
+    "pt-BR": "Sim, está realmente vazia.",
+    "he": "כן, הוא באמת ריק."
   },
   "type": "Trinket",
   "value": 1000,

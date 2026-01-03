@@ -17,7 +17,9 @@
     "tr": "Son Tarih",
     "uk": "Кінцевий термін",
     "sr": "Rok",
-    "hr": "Rok"
+    "hr": "Rok",
+    "pt-BR": "Deadline",
+    "he": "דדליין"
   },
   "description": {
     "en": "A mine that deals damage to anything within its radius once the timer runs out.",
@@ -37,7 +39,9 @@
     "tr": "Zamanlayıcı bittiğinde yarıçapı içindeki her şeye hasar veren bir mayın.",
     "uk": "Міна, яка завдає шкоди всьому в радіусі дії після закінчення таймера.",
     "sr": "Mina koja nanosi štetu svemu u svom radijusu kada istekne tajmer.",
-    "hr": "Mina koja nanosi štetu svemu u svom radijusu kada istekne mjerač vremena."
+    "hr": "Mina koja nanosi štetu svemu u svom radijusu kada istekne mjerač vremena.",
+    "pt-BR": "Uma mina que causa dano a qualquer coisa dentro de seu raio assim que o tempo acaba.",
+    "he": "מוקש הגורם נזק לכל דבר ברדיוס שלו ברגע שהטיימר נגמר."
   },
   "id": "deadline",
   "type": "Quick Use",
@@ -65,7 +69,9 @@
       "uk": "Шкода",
       "sr": "Šteta",
       "hr": "Šteta",
-      "value": 1000
+      "value": 1000,
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Radius": {
       "en": "Radius",
@@ -86,7 +92,9 @@
       "uk": "Радіус",
       "sr": "Radijus",
       "hr": "Radijus",
-      "value": "10m"
+      "value": "10m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     },
     "Timer Duration": {
       "en": "Timer Duration",
@@ -107,7 +115,9 @@
       "uk": "Тривалість таймера",
       "sr": "Trajanje tajmera",
       "hr": "Trajanje mjerača vremena",
-      "value": "6s"
+      "value": "6s",
+      "pt-BR": "Duração do Temporizador",
+      "he": "משך טיימר"
     }
   },
   "recyclesInto": {

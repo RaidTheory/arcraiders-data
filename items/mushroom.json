@@ -18,7 +18,9 @@
     "kr": "버섯",
     "tr": "Mantar",
     "hr": "Gljiva",
-    "sr": "Gljiva"
+    "sr": "Gljiva",
+    "pt-BR": "Cogumelo",
+    "he": "פטרייה"
   },
   "rarity": "Uncommon",
   "type": "Nature",
@@ -43,7 +45,9 @@
     "kr": "소량의 체력을 회복하기 위해 섭취할 수 있다.",
     "tr": "Az miktarda can kazanmak için tüketilebilir.",
     "hr": "Može se konzumirati za povrat male količine zdravlja.",
-    "sr": "Može se konzumirati za povrat male količine zdravlja."
+    "sr": "Može se konzumirati za povrat male količine zdravlja.",
+    "pt-BR": "Pode ser consumido para recuperar uma pequena quantidade de vida.",
+    "he": "ניתנת לצריכה כדי להשיב כמות קטנה של בריאות."
   },
   "weightKg": 0.2,
   "foundIn": "Nature",
@@ -67,7 +71,9 @@
       "tr": "İyileştirme",
       "hr": "Iscjeljenje",
       "sr": "Isceljenje",
-      "value": 15
+      "value": 15,
+      "pt-BR": "Cura",
+      "he": "ריפוי"
     },
     "Use Time": {
       "en": "Use Time",
@@ -88,7 +94,9 @@
       "tr": "Kullanım Süresi",
       "hr": "Vrijeme Korištenja",
       "sr": "Vreme Korišćenja",
-      "value": "1s"
+      "value": "1s",
+      "pt-BR": "Tempo de Uso",
+      "he": "זמן שימוש"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/mushroom.png"

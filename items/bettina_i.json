@@ -18,7 +18,9 @@
     "tr": "Bettina I",
     "uk": "Беттіна I",
     "sr": "Bettina I",
-    "hr": "Bettina I"
+    "hr": "Bettina I",
+    "pt-BR": "Bettina I",
+    "he": "בטינה I"
   },
   "description": {
     "en": "Has slow fire rate and high damage output.",
@@ -38,7 +40,9 @@
     "tr": "Yavaş ateş hızına ve yüksek hasar çıkışına sahiptir.",
     "uk": "Має повільну швидкість вогню та високий вихідний урон.",
     "sr": "Ima sporu brzinu paljbe i visok izlazni štetu.",
-    "hr": "Ima sporu brzinu paljbe i visoku izlaznu štetu."
+    "hr": "Ima sporu brzinu paljbe i visoku izlaznu štetu.",
+    "pt-BR": "Tem cadência de tiro lenta e causa alto dano.",
+    "he": "בעל קצב אש איטי ונזק גבוה."
   },
   "type": "Assault Rifle",
   "value": 8000,
@@ -64,7 +68,9 @@
       "uk": "Міцність",
       "sr": "Izdržljivost",
       "hr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -85,7 +91,9 @@
       "uk": "Тип боєприпасів",
       "sr": "Tip municije",
       "hr": "Tip streljiva",
-      "value": "Heavy Ammo"
+      "value": "Heavy Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -106,7 +114,9 @@
       "uk": "Розмір магазину",
       "sr": "Veličina okvira",
       "hr": "Veličina spremnika",
-      "value": 20
+      "value": 20,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -127,7 +137,9 @@
       "uk": "Режим стрільби",
       "sr": "Režim paljbe",
       "hr": "Način paljbe",
-      "value": "Fully-Automatic"
+      "value": "Fully-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -148,7 +160,9 @@
       "uk": "Пробиття броні ARC",
       "sr": "ARC probijanje oklopa",
       "hr": "ARC probijanje oklopa",
-      "value": "Strong"
+      "value": "Strong",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/bettina.png",

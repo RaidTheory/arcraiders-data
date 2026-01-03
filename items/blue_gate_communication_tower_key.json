@@ -18,7 +18,9 @@
     "da": "Nøgle til Kommunikationstårnet ved den Blå Port",
     "no": "Nøkkel til Kommunikasjonstårnet ved den Blå Porten",
     "tr": "Mavi Kapı İletişim Kulesi Anahtarı",
-    "ja": "ブルーゲート通信塔の鍵"
+    "ja": "ブルーゲート通信塔の鍵",
+    "pt-BR": "Chave da Torre de Comunicação do Portão Azul",
+    "he": "מפתח מגדל התקשורת של השער הכחול"
   },
   "description": {
     "en": "Unlocks a door by the Communication Tower near the Blue Gate",
@@ -38,7 +40,9 @@
     "da": "Låser en dør op ved Kommunikationstårnet nær den Blå Port",
     "no": "Låser opp en dør ved Kommunikasjonstårnet nær den Blå Porten",
     "tr": "Mavi Kapı yakınındaki İletişim Kulesi yanındaki bir kapıyı açar",
-    "ja": "ブルーゲート近くの通信塔のそばにあるドアを開錠する"
+    "ja": "ブルーゲート近くの通信塔のそばにあるドアを開錠する",
+    "pt-BR": "Destranca uma porta junto à Torre de Comunicação, perto do Portão Azul",
+    "he": "פותח דלת ליד מגדל התקשורת בקרבת השער הכחול"
   },
   "type": "Key",
   "rarity": "Rare",

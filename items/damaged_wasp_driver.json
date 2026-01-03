@@ -18,7 +18,9 @@
     "kr": "손상된 와스프 드라이버",
     "tr": "Hasarlı Wasp Sürücüsü",
     "hr": "Oštećeni Wasp pogon",
-    "sr": "Oštećeni Wasp pogon"
+    "sr": "Oštećeni Wasp pogon",
+    "pt-BR": "Controlador de Wasp Danificado",
+    "he": "דרייבר וואספ פגום"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "kr": "제작 재료로 재활용할 수 있습니다.",
     "tr": "İşleme malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למיחזור לחומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Common",

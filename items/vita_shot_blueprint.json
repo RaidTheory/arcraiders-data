@@ -18,7 +18,9 @@
     "kr": "회복 주사기 설계도",
     "tr": "Vita İğnesi Planı",
     "hr": "Nacrt Vita Injekcije",
-    "sr": "Nacrt Vita Injekcije"
+    "sr": "Nacrt Vita Injekcije",
+    "pt-BR": "Diagrama da Injeção Vita",
+    "he": "תוכנית Vita Shot"
   },
   "description": {
     "en": "A medical item that restores a large amount of health.",
@@ -38,7 +40,9 @@
     "kr": "많은 양의 체력을 회복하는 의료 아이템.",
     "tr": "Büyük miktarda sağlık yenileyen tıbbi bir eşya.",
     "hr": "Medicinski predmet koji obnavlja veliku količinu zdravlja.",
-    "sr": "Medicinski predmet koji obnavlja veliku količinu zdravlja."
+    "sr": "Medicinski predmet koji obnavlja veliku količinu zdravlja.",
+    "pt-BR": "Um item médico que restaura uma grande quantidade de saúde.",
+    "he": "פריט רפואי שמחזיר כמות גדולה של בריאות."
   },
   "type": "Blueprint",
   "rarity": "Legendary",

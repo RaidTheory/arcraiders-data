@@ -19,7 +19,9 @@
     "tr": "Yağmurdan Sonra",
     "zh-TW": "雨過天晴",
     "sr": "Posle kiše dolazi",
-    "hr": "Nakon kiše dolazi"
+    "hr": "Nakon kiše dolazi",
+    "pt-BR": "Depois da Chuva",
+    "he": "אחרי הגשם מגיע"
   },
   "map": [
     "buried_city"
@@ -44,7 +46,9 @@
     "tr": "Biliyorum, biliyorum! Sektörde elektrik kesildi— Ah, hey. Ani bir sel, Gömülü Şehir'deki güneş panellerimizden bazılarını yok etti ve jeneratörler de ancak bu kadar dayanabilir. Oraya çıktığında hepimize bir iyilik yap, tamam mı?",
     "zh-TW": "我知道，我知道！那個區域停電了——哦，嘿。一場山洪沖毀了我們在埋沒之城的一些太陽能板，而發電機也撐不了多久。你去那兒的時候幫幫我們，好嗎？",
     "sr": "Znam, znam! Struja je pala u sektoru— O, hej. Bujica je uništila neke naše solarne panele u Zatrpanom Gradu, a generatori mogu da izdrže samo određeno vreme. Učini nam svima uslugu kad budeš tamo gore, OK?",
-    "hr": "Znam, znam! Struja je pala u sektoru— O, hej. Bujica je uništila neke naše solarne panele u Zatrpanom Gradu, a generatori mogu izdržati samo određeno vrijeme. Učini nam svima uslugu kad budeš tamo gore, OK?"
+    "hr": "Znam, znam! Struja je pala u sektoru— O, hej. Bujica je uništila neke naše solarne panele u Zatrpanom Gradu, a generatori mogu izdržati samo određeno vrijeme. Učini nam svima uslugu kad budeš tamo gore, OK?",
+    "pt-BR": "Eu sei, eu sei! A energia caiu no setor— Ah, oi. Uma inundação repentina acabou com alguns dos nossos painéis solares em Buried City, e os geradores só aguentam por um tempo. Quebra esse galho pra gente quando estiver lá em cima, beleza?",
+    "he": "אני יודע, אני יודע! החשמל נפל בסקטור— אה, היי. שיטפון פתאומי הרס חלק מהפאנלים הסולאריים שלנו ב-Buried City, והגנרטורים יחזיקו מעמד רק לזמן מוגבל. תעשה לכולנו טובה כשתהיה שם למעלה, אוקיי?"
   },
   "objectives": [
     {
@@ -65,7 +69,9 @@
       "tr": "Grandioso Apartmanları yakınındaki sular altında kalan güneş panellerini bul",
       "zh-TW": "在格蘭迪奧索公寓附近找到被淹沒的太陽能板",
       "sr": "Pronađi poplavljene solarne panele u blizini Grandioso Apartmana",
-      "hr": "Pronađi poplavljene solarne panele u blizini Grandioso Apartmana"
+      "hr": "Pronađi poplavljene solarne panele u blizini Grandioso Apartmana",
+      "pt-BR": "Encontre os painéis solares inundados perto dos Apartamentos Grandioso",
+      "he": "מצא את הפאנלים הסולאריים המוצפים ליד ה-Grandioso Apartments"
     },
     {
       "en": "Repair the solar panels using 5 Wires and 2 Batteries",
@@ -85,7 +91,9 @@
       "tr": "5 Kablo ve 2 Pil kullanarak güneş panellerini onar",
       "zh-TW": "使用5根電線和2個電池修理太陽能板",
       "sr": "Popravi solarne panele koristeći 5 Žica i 2 Baterije",
-      "hr": "Popravi solarne panele koristeći 5 Žica i 2 Baterije"
+      "hr": "Popravi solarne panele koristeći 5 Žica i 2 Baterije",
+      "pt-BR": "Conserte os painéis solares usando 5 Fios e 2 Baterias",
+      "he": "תקן את הפאנלים הסולאריים באמצעות 5 כבלים ו-2 סוללות"
     }
   ],
   "requiredItemIds": [

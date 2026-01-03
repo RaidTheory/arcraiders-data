@@ -18,7 +18,9 @@
     "kr": "빨간 야광봉 설계도",
     "tr": "Kırmızı Işık Çubuğu Planı",
     "hr": "Nacrt za Crvenu Svjetleću Štapić",
-    "sr": "Nacrt za Crvenu Svetleću Štapić"
+    "sr": "Nacrt za Crvenu Svetleću Štapić",
+    "pt-BR": "Projeto de Bastão de Luz Vermelha",
+    "he": "שרטוט למקלור אדום"
   },
   "description": {
     "en": "A throwable chemical light that illuminates the area around it.",
@@ -38,7 +40,9 @@
     "kr": "던질 수 있는 화학 조명으로 주변 지역을 밝힙니다.",
     "tr": "Etrafındaki alanı aydınlatan fırlatılabilir kimyasal ışık.",
     "hr": "Kemijsko svjetlo za bacanje koje osvjetljava područje oko sebe.",
-    "sr": "Hemijsko svetlo za bacanje koje osvetljava područje oko sebe."
+    "sr": "Hemijsko svetlo za bacanje koje osvetljava područje oko sebe.",
+    "pt-BR": "Uma luz química arremessável que ilumina a área ao seu redor.",
+    "he": "מקלור כימי להשלכה המאיר את האזור סביבו."
   },
   "type": "Blueprint",
   "value": 5000,

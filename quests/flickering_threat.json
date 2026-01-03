@@ -19,7 +19,9 @@
     "tr": "Titreyen Tehdit",
     "zh-TW": "閃爍的威脅",
     "sr": "Treperава Pretnja",
-    "hr": "Treperава Prijetnja"
+    "hr": "Treperава Prijetnja",
+    "pt-BR": "Ameaça Instável",
+    "he": "איום מהבהב"
   },
   "map": [
     "dam_battlegrounds"
@@ -43,7 +45,9 @@
     "tr": "Mühendisim hala yaralarından iyileşiyor ve günlerdir sersemleşmiş durumda. İyileşene kadar yarı kapasitede çalışmayı göze alamayız; bu arada onun yerine anahtarı alacak birine ihtiyacım var.",
     "zh-TW": "我的工程師還在養傷，已經神智不清好幾天了。我們不能等他痊癒才恢復全部電力供應；我需要有人在這期間接手他的扳手。",
     "sr": "Moj uobičajeni inženjer se još uvek oporavlja od rana i danima je omamljen. Ne možemo sebi priuštiti da radimo na pola snage dok se ne oporavi; potreban mi je neko ko će preuzeti njegov ključ u međuvremenu.",
-    "hr": "Moj uobičajeni inženjer se još uvijek oporavlja od rana i danima je omamljen. Ne možemo si priuštiti da radimo na pola snage dok se ne oporavi; potreban mi je netko tko će preuzeti njegov ključ u međuvremenu."
+    "hr": "Moj uobičajeni inženjer se još uvijek oporavlja od rana i danima je omamljen. Ne možemo si priuštiti da radimo na pola snage dok se ne oporavi; potreban mi je netko tko će preuzeti njegov ključ u međuvremenu.",
+    "pt-BR": "Meu engenheiro habitual ainda está se recuperando dos ferimentos e tem estado fora de si há dias. Não podemos nos dar ao luxo de operar com meia capacidade até ele sarar; preciso de alguém para assumir o trabalho enquanto isso.",
+    "he": "המהנדס הקבוע שלי עדיין מחלים מפצעיו, והוא מסובב לגמרי כבר ימים. אנחנו לא יכולים להרשות לעצמנו לפעול בחצי כוח עד שהוא יחלים; אני צריך שמישהו ירים את מפתח הברגים במקומו בינתיים."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Jeneratör Odasını bul",
       "zh-TW": "找到發電機房",
       "sr": "Pronađi sobu sa generatorom",
-      "hr": "Pronađi sobu s generatorom"
+      "hr": "Pronađi sobu s generatorom",
+      "pt-BR": "Encontre a Sala do Gerador",
+      "he": "מצא את חדר הגנרטור"
     },
     {
       "en": "Repair the Generator",
@@ -84,7 +90,9 @@
       "tr": "Jeneratörü tamir et",
       "zh-TW": "修理發電機",
       "sr": "Popravi generator",
-      "hr": "Popravi generator"
+      "hr": "Popravi generator",
+      "pt-BR": "Repare o Gerador",
+      "he": "תקן את הגנרטור"
     },
     {
       "en": "Find the Ventilation Shaft",
@@ -104,7 +112,9 @@
       "tr": "Havalandırma Bacasını bul",
       "zh-TW": "找到通風井",
       "sr": "Pronađi ventilacioni otvor",
-      "hr": "Pronađi ventilacijsko okno"
+      "hr": "Pronađi ventilacijsko okno",
+      "pt-BR": "Encontre o Duto de Ventilação",
+      "he": "מצא את פיר האוורור"
     },
     {
       "en": "Enable the power via the power switch underneath the stairs",
@@ -124,7 +134,9 @@
       "tr": "Merdivenlerin altındaki güç düğmesi ile gücü etkinleştir",
       "zh-TW": "透過樓梯下方的電源開關啟動電力",
       "sr": "Uključi struju pomoću prekidača ispod stepenica",
-      "hr": "Uključi struju pomoću prekidača ispod stubišta"
+      "hr": "Uključi struju pomoću prekidača ispod stubišta",
+      "pt-BR": "Ligue a energia através do interruptor debaixo da escada",
+      "he": "הפעל את החשמל דרך מתג ההפעלה שמתחת למדרגות"
     }
   ],
   "requiredItemIds": [

@@ -18,7 +18,9 @@
     "kr": "화염 수류탄 설계도",
     "tr": "Alev Bombası Planı",
     "hr": "Nacrt za vatrenu granatu",
-    "sr": "Nacrt za vatrenu granatu"
+    "sr": "Nacrt za vatrenu granatu",
+    "pt-BR": "Diagrama de Granada Incendiária",
+    "he": "שרטוט לרימון תבערה"
   },
   "description": {
     "en": "A grenade that detonates on impact, covering an area in fire that deals damage over time.",
@@ -38,7 +40,9 @@
     "kr": "충격 시 폭발하여 지속 피해를 주는 화염으로 지역을 뒤덮는 수류탄입니다.",
     "tr": "Çarpma anında patlayan ve bir alanı zaman içinde hasar veren ateşle kaplayan bomba.",
     "hr": "Granata koja eksplodira pri udaru, prekrivajući područje vatrom koja nanosi štetu tijekom vremena.",
-    "sr": "Granata koja eksplodira pri udaru, prekrivajući područje vatrom koja nanosi štetu tokom vremena."
+    "sr": "Granata koja eksplodira pri udaru, prekrivajući područje vatrom koja nanosi štetu tokom vremena.",
+    "pt-BR": "Uma granada que detona ao impacto, cobrindo uma área com fogo que causa dano ao longo do tempo.",
+    "he": "רימון המתפוצץ בעת פגיעה, מכסה שטח באש הגורמת נזק לאורך זמן."
   },
   "type": "Blueprint",
   "value": 5000,

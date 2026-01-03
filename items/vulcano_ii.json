@@ -18,7 +18,9 @@
     "kr": "불카노 II",
     "tr": "Vulcano II",
     "hr": "Vulcano II",
-    "sr": "Vulcano II"
+    "sr": "Vulcano II",
+    "pt-BR": "Vulcano II",
+    "he": "וולקנו II"
   },
   "description": {
     "en": "Semi-automatic shotgun with good bullet spread but sharp falloff",
@@ -38,7 +40,9 @@
     "kr": "좋은 탄환 확산이지만 급격한 감쇠가 있습니다.",
     "tr": "İyi mermi yayılımı ancak keskin düşüş.",
     "hr": "Ima dobro rasipanje metaka ali oštar pad.",
-    "sr": "Ima dobro rasipanje metaka ali oštar pad."
+    "sr": "Ima dobro rasipanje metaka ali oštar pad.",
+    "pt-BR": "Escopeta semiautomática com boa dispersão, mas com queda brusca de dano",
+    "he": "רובה ציד חצי-אוטומטי עם פיזור כדורים טוב אך דעיכה חדה"
   },
   "type": "Shotgun",
   "rarity": "Epic",
@@ -80,7 +84,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "110/110"
+      "value": "110/110",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -101,7 +107,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Municije",
-      "value": "Shotgun Ammo"
+      "value": "Shotgun Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -122,7 +130,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Okvira",
-      "value": 6
+      "value": 6,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -143,7 +153,9 @@
       "tr": "Atış Modu",
       "hr": "Način Pucanja",
       "sr": "Režim Paljbe",
-      "value": "Semi-Automatic"
+      "value": "Semi-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -164,7 +176,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
-      "value": "Weak"
+      "value": "Weak",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     },
     "Increased Fire Rate": {
       "en": "Increased Fire Rate",
@@ -185,7 +199,9 @@
       "hr": "Povećana brzina paljbe",
       "pt": "Taxa de disparo aumentada",
       "da": "Øget skudhastighed",
-      "value": "10%"
+      "value": "10%",
+      "pt-BR": "Cadência de Tiro Aumentada",
+      "he": "קצב אש מוגבר"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -206,7 +222,9 @@
       "hr": "Smanjeno vrijeme punjenja",
       "pt": "Tempo de recarga reduzido",
       "da": "Reduceret genladningstid",
-      "value": "13%"
+      "value": "13%",
+      "pt-BR": "Tempo de Recarga Reduzido",
+      "he": "זמן טעינה מופחת"
     }
   },
   "craftBench": "weapon_bench",

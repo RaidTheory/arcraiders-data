@@ -18,7 +18,9 @@
     "kr": "경량 개머리판",
     "tr": "Hafif Dipçik",
     "hr": "Lagana Kundak",
-    "sr": "Lagana Kundak"
+    "sr": "Lagana Kundak",
+    "pt-BR": "Coronha Leve",
+    "he": "קת קלת-משקל"
   },
   "description": {
     "en": "Moderately improves ADS & draw speed. Compatible with: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
@@ -38,7 +40,9 @@
     "kr": "조준 속도와 무기 꺼내기 속도를 적당히 향상시킵니다. 호환 무기: 아르페지오, 케틀, 페로, 레니게이드, 헐크래커",
     "tr": "ADS ve çekme hızını orta düzeyde iyileştirir. Uyumlu silahlar: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
     "hr": "Umjereno poboljšava brzinu nišanjenja i izvlačenja. Kompatibilno s: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
-    "sr": "Umereno poboljšava brzinu nišanjenja i izvlačenja. Kompatibilno sa: Arpeggio, Kettle, Ferro, Renegade, Hullcracker"
+    "sr": "Umereno poboljšava brzinu nišanjenja i izvlačenja. Kompatibilno sa: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
+    "pt-BR": "Melhora moderadamente a velocidade de mira e saque. Compatível com: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
+    "he": "משפר במתינות את מהירות הכניסה לכוונת (ADS) והשליפה. תואם ל: Arpeggio, Kettle, Ferro, Renegade, Hullcracker"
   },
   "type": "Modification",
   "value": 5000,
@@ -64,7 +68,9 @@
       "tr": "Artırılmış ADS Hızı",
       "hr": "Povećana Brzina Nišanjenja",
       "sr": "Povećana Brzina Nišanjenja",
-      "value": "200%"
+      "value": "200%",
+      "pt-BR": "Aumento na Velocidade de Mira",
+      "he": "מהירות כניסה לכוונת (ADS) מוגברת"
     },
     "Reduced Equip Time": {
       "en": "Reduced Equip Time",
@@ -85,7 +91,9 @@
       "tr": "Azaltılmış Kuşanma Süresi",
       "hr": "Smanjeno Vrijeme Opremanja",
       "sr": "Smanjeno Vreme Opremanja",
-      "value": "30%"
+      "value": "30%",
+      "pt-BR": "Tempo de Equipar Reduzido",
+      "he": "זמן הצטיידות מופחת"
     },
     "Reduced Unequip Time": {
       "en": "Reduced Unequip Time",
@@ -106,7 +114,9 @@
       "tr": "Azaltılmış İndirme Süresi",
       "hr": "Smanjeno Vrijeme Odlaganja",
       "sr": "Smanjeno Vreme Odlaganja",
-      "value": "30%"
+      "value": "30%",
+      "pt-BR": "Tempo de Desequipar Reduzido",
+      "he": "זמן הורדת נשק מופחת"
     },
     "Increased Vertical Recoil": {
       "en": "Increased Vertical Recoil",
@@ -127,7 +137,9 @@
       "tr": "Artırılmış Dikey Tepme",
       "hr": "Povećan Vertikalni Trzaj",
       "sr": "Povećan Vertikalni Trzaj",
-      "value": "50%"
+      "value": "50%",
+      "pt-BR": "Aumento do Recuo Vertical",
+      "he": "רתע אנכי מוגבר"
     },
     "Increased Recoil Recovery Time": {
       "en": "Increased Recoil Recovery Time",
@@ -148,7 +160,9 @@
       "tr": "Artırılmış Tepme Toparlanma Süresi",
       "hr": "Povećano Vrijeme Oporavka od Trzaja",
       "sr": "Povećano Vreme Oporavka od Trzaja",
-      "value": "50%"
+      "value": "50%",
+      "pt-BR": "Aumento no Tempo de Recuperação de Recuo",
+      "he": "זמן התאוששות מרתע מוגבר"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/lightweight_stock.png",

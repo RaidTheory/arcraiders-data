@@ -19,7 +19,9 @@
     "tr": "Dengeli Hasat",
     "zh-TW": "均衡收成",
     "sr": "Uravnotežena žetva",
-    "hr": "Uravnotežena žetva"
+    "hr": "Uravnotežena žetva",
+    "pt-BR": "Uma Colheita Equilibrada",
+    "he": "קציר מאוזן"
   },
   "map": [
     "dam_battlegrounds"
@@ -44,7 +46,9 @@
     "tr": "Gıda üretimimiz nihayet temel ihtiyaçlarımızı karşılayacak kadar yeterli, ama şu anda gerçekten ihtiyacımız olan şey çeşitlilik. Birinci Dalga'dan önceki bazı tarımsal araştırmalar hakkında bir ipucum var. Katılıyor musun?",
     "zh-TW": "我們的糧食產量終於足以滿足基本需求了，但我們現在真正需要的是多樣性。我有一條關於第一次浪潮之前農業研究的線索。你要參與嗎？",
     "sr": "Naša proizvodnja hrane je konačno dovoljna da zadovolji naše osnovne potrebe, ali ono što nam sada stvarno treba je raznovrsnost. Imam trag o nekim poljoprivrednim istraživanjima od pre Prvog Talasa. Jesi li za?",
-    "hr": "Naša proizvodnja hrane je konačno dovoljna da zadovolji naše osnovne potrebe, ali ono što nam sada stvarno treba je raznolikost. Imam trag o nekim poljoprivrednim istraživanjima od prije Prvog Vala. Jesi li za?"
+    "hr": "Naša proizvodnja hrane je konačno dovoljna da zadovolji naše osnovne potrebe, ali ono što nam sada stvarno treba je raznolikost. Imam trag o nekim poljoprivrednim istraživanjima od prije Prvog Vala. Jesi li za?",
+    "pt-BR": "Nossa produção de alimentos finalmente é suficiente para atender às nossas necessidades básicas, mas o que realmente precisamos agora é variedade. Tenho uma pista sobre uma pesquisa agrícola de antes da Primeira Onda. Você topa?",
+    "he": "ייצור המזון שלנו מספיק סוף סוף לצרכים הבסיסיים שלנו, אבל מה שאנחנו באמת צריכים עכשיו זה גיוון. יש לי קצה חוט לגבי מחקר חקלאי מלפני \"הגל הראשון\". אתה בפנים?"
   },
   "objectives": [
     {
@@ -65,7 +69,9 @@
       "tr": "Araştırma ve İdare binasına git",
       "zh-TW": "前往研究與行政大樓",
       "sr": "Idi do zgrade Istraživanja i Administracije",
-      "hr": "Idi do zgrade Istraživanja i Administracije"
+      "hr": "Idi do zgrade Istraživanja i Administracije",
+      "pt-BR": "Vá para o prédio de Pesquisa e Administração",
+      "he": "לך לבניין המחקר והמינהל"
     },
     {
       "en": "Locate Lab 1 on the upper floor above the reception",
@@ -85,7 +91,9 @@
       "tr": "Resepsiyonun üst katında 1 numaralı Laboratuvarı bul",
       "zh-TW": "在接待處上方的樓層找到1號實驗室",
       "sr": "Pronađi Laboratoriju 1 na gornjem spratu iznad recepcije",
-      "hr": "Pronađi Laboratorij 1 na gornjem katu iznad recepcije"
+      "hr": "Pronađi Laboratorij 1 na gornjem katu iznad recepcije",
+      "pt-BR": "Localize o Lab 1 no andar superior, acima da recepção",
+      "he": "אתר את מעבדה 1 בקומה העליונה שמעל הקבלה"
     },
     {
       "en": "Search for any traces of the agricultural project",
@@ -105,7 +113,9 @@
       "tr": "Tarım projesinin herhangi bir izini ara",
       "zh-TW": "搜尋農業項目的任何痕跡",
       "sr": "Potraži bilo kakve tragove poljoprivrednog projekta",
-      "hr": "Potraži bilo kakve tragove poljoprivrednog projekta"
+      "hr": "Potraži bilo kakve tragove poljoprivrednog projekta",
+      "pt-BR": "Procure por quaisquer vestígios do projeto agrícola",
+      "he": "חפש עקבות כלשהם של הפרויקט החקלאי"
     }
   ],
   "rewardItemIds": [

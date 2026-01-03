@@ -18,7 +18,9 @@
     "tr": "Yağmalama Mk. 3 (Hayatta Kalan)",
     "uk": "Мародерський Mk. 3 (вижилий)",
     "sr": "Pljačkaški Mk. 3 (Preživeli)",
-    "hr": "Pljačkaški Mk. 3 (Preživjeli)"
+    "hr": "Pljačkaški Mk. 3 (Preživjeli)",
+    "pt-BR": "Saque Mk. 3 (Sobrevivente)",
+    "he": "ביזה Mk. 3 (שורד)"
   },
   "description": {
     "en": "A heavy-duty pack mule augment. Large weight capacity and large backpack space. While downed and stationary, health regenerates up to 75% of max downed health.",
@@ -38,7 +40,9 @@
     "tr": "Ağır hizmet tipi yük hayvanı güçlendirmesi. Büyük ağırlık kapasitesi ve büyük sırt çantası alanı. Yere düşmüş ve hareketsiz durumdayken, sağlık maksimum düşmüş sağlığın %75'ine kadar yenilenir.",
     "uk": "Посилена аугментація в'ючної тварини. Велика вантажопідйомність і великий простір рюкзака. Під час знепритомнення та нерухомості здоров'я відновлюється до 75% від максимального здоров'я у знепритомненні.",
     "sr": "Pojačana augmentacija tovarne životinje. Veliki kapacitet težine i veliki prostor za ranac. Dok ste oboreni i nepokretni, zdravlje se regeneriše do 75% maksimalnog zdravlja u oborenom stanju.",
-    "hr": "Pojačana augmentacija tovarne životinje. Veliki kapacitet težine i veliki prostor za ruksak. Dok ste oboreni i nepokretni, zdravlje se regenerira do 75% maksimalnog zdravlja u oborenom stanju."
+    "hr": "Pojačana augmentacija tovarne životinje. Veliki kapacitet težine i veliki prostor za ruksak. Dok ste oboreni i nepokretni, zdravlje se regenerira do 75% maksimalnog zdravlja u oborenom stanju.",
+    "pt-BR": "Um aumento de mula de carga robusto. Grande capacidade de peso e grande espaço na mochila. Enquanto estiver derrubado e parado, a saúde regenera até 75% da vida máxima de derrubado.",
+    "he": "תוסף לנשיאת משקלים כבדים. קיבולת משקל גדולה ומקום רב בתיק. במצב נפילה וללא תנועה, הבריאות מתחדשת עד 75% מבריאות הנפילה המירבית."
   },
   "type": "Augment",
   "rarity": "Epic",
@@ -62,7 +66,9 @@
       "uk": "Міцність",
       "sr": "Izdržljivost",
       "hr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
@@ -83,7 +89,9 @@
       "uk": "Макс. вага спорядження",
       "sr": "Maks. težina opreme",
       "hr": "Maks. težina opreme",
-      "value": 80
+      "value": 80,
+      "pt-BR": "Peso Máximo de Carga",
+      "he": "משקל ציוד מירבי"
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -104,7 +112,9 @@
       "uk": "Сумісність зі щитом",
       "sr": "Kompatibilnost sa štitom",
       "hr": "Kompatibilnost sa štitom",
-      "value": "Light, Medium"
+      "value": "Light, Medium",
+      "pt-BR": "Compatibilidade de Escudo",
+      "he": "תאימות מגן"
     }
   },
   "value": 5000,

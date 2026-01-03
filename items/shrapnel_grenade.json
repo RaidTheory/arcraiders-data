@@ -18,7 +18,9 @@
     "kr": "파편 수류탄",
     "tr": "Şarapnel Bombası",
     "hr": "Šrapnel Granata",
-    "sr": "Šrapnel Granata"
+    "sr": "Šrapnel Granata",
+    "pt-BR": "Granada de Estilhaços",
+    "he": "רימון רסס"
   },
   "description": {
     "en": "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation. Weak against ARC armor plating",
@@ -38,7 +40,9 @@
     "kr": "폭발 시 날카로운 파편으로 터지는 임시 신관 수류탄. 아크 장갑판에는 약함",
     "tr": "Patladığında keskin parçalara ayrılan derme çatma fitilli bomba. ARC zırh kaplamasına karşı zayıf",
     "hr": "Improvizirana granata s upaljačem koja pri detonaciji puca oštrim fragmentima. Slaba protiv ARC oklopnih ploča",
-    "sr": "Improvizirana granata sa upaljačem koja pri detonaciji puca oštrim fragmentima. Slaba protiv ARC oklopnih ploča"
+    "sr": "Improvizirana granata sa upaljačem koja pri detonaciji puca oštrim fragmentima. Slaba protiv ARC oklopnih ploča",
+    "pt-BR": "Uma granada de fusível improvisada que explode em fragmentos afiados ao detonar. Fraca contra a blindagem ARC",
+    "he": "רימון מנגנון מאולתר שמתנפץ לרסיסים חדים כתער בעת הפיצוץ. חלש נגד לוחות השריון של ARC"
   },
   "type": "Quick Use",
   "rarity": "Uncommon",
@@ -67,7 +71,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": 60
+      "value": 60,
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Radius": {
       "en": "Radius",
@@ -88,7 +94,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "6m"
+      "value": "6m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "weightKg": 0.15,

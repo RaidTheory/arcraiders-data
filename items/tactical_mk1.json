@@ -18,7 +18,9 @@
     "kr": "전술 마크 1",
     "tr": "Taktik Mk. 1",
     "hr": "Taktički Mk. 1",
-    "sr": "Taktički Mk. 1"
+    "sr": "Taktički Mk. 1",
+    "pt-BR": "Tático Mk. 1",
+    "he": "טקטי Mk. 1"
   },
   "description": {
     "en": "Basic tactical augment. More Quick Use slots for more tactical choice, but limited survivability and slightly lower looting potential.",
@@ -38,7 +40,9 @@
     "kr": "기본 전술 강화. 더 많은 빠른 사용 슬롯으로 전술적 선택이 늘어나지만, 생존력이 제한적이고 약탈 잠재력이 약간 낮습니다.",
     "tr": "Temel taktik güçlendirme. Daha fazla taktik seçenek için daha fazla Hızlı Kullanım yuvası, ancak sınırlı hayatta kalma ve biraz daha düşük yağmalama potansiyeli.",
     "hr": "Osnovno taktičko poboljšanje. Više mjesta za brzu upotrebu za veći taktički izbor, ali ograničena sposobnost preživljavanja i malo niži potencijal pljačkanja.",
-    "sr": "Osnovno taktičko poboljšanje. Više mesta za brzu upotrebu za veći taktički izbor, ali ograničena sposobnost preživljavanja i malo niži potencijal pljačkanja."
+    "sr": "Osnovno taktičko poboljšanje. Više mesta za brzu upotrebu za veći taktički izbor, ali ograničena sposobnost preživljavanja i malo niži potencijal pljačkanja.",
+    "pt-BR": "Melhoria tática básica. Mais espaços de Uso Rápido para mais opções táticas, mas sobrevivência limitada e potencial de saque ligeiramente menor.",
+    "he": "שדרוג טקטי בסיסי. יותר תאים לשימוש מהיר עבור אפשרויות טקטיות רבות יותר, אך שרידות מוגבלת ופוטנציאל ביזה נמוך במקצת."
   },
   "type": "Augment",
   "rarity": "Uncommon",
@@ -68,7 +72,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
@@ -89,7 +95,9 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. težina opreme",
       "sr": "Maks. težina opreme",
-      "value": 40
+      "value": 40,
+      "pt-BR": "Peso Máximo de Carga",
+      "he": "משקל ציוד מרבי"
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -110,7 +118,9 @@
       "tr": "Kalkan Uyumluluğu",
       "hr": "Kompatibilnost štita",
       "sr": "Kompatibilnost štita",
-      "value": "Light, Medium"
+      "value": "Light, Medium",
+      "pt-BR": "Compatibilidade de Escudo",
+      "he": "תאימות מגן"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",

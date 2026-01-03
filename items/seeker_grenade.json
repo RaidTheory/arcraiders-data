@@ -17,7 +17,9 @@
     "tr": "İzleyici Bomba",
     "uk": "Самонавідна граната",
     "sr": "Tragačka granata",
-    "hr": "Tragačka granata"
+    "hr": "Tragačka granata",
+    "pt-BR": "Granada Rastreadora",
+    "he": "רימון ביות"
   },
   "description": {
     "en": "A homing grenade that targets a single nearby ARC dealing explosive damage on impact.",
@@ -37,7 +39,9 @@
     "tr": "Yakındaki tek bir ARC'yi hedef alan ve çarpma anında patlayıcı hasar veren güdümlü bomba.",
     "uk": "Самонавідна граната, яка наводиться на одного найближчого ARC і завдає вибухової шкоди при влученні.",
     "sr": "Granata sa navođenjem koja cilja jedan obližnji ARC i nanosi eksplozivnu štetu pri udaru.",
-    "hr": "Granata s navođenjem koja cilja jedan obližnji ARC i nanosi eksplozivnu štetu pri udaru."
+    "hr": "Granata s navođenjem koja cilja jedan obližnji ARC i nanosi eksplozivnu štetu pri udaru.",
+    "pt-BR": "Uma granada teleguiada que alveja um único ARC próximo, causando dano explosivo no impacto.",
+    "he": "רימון מתביית המתמקד באויב ARC יחיד בקרבת מקום וגורם נזק פיצוץ בעת הפגיעה."
   },
   "id": "seeker_grenade",
   "type": "Quick Use",
@@ -65,7 +69,9 @@
       "uk": "Шкода",
       "sr": "Šteta",
       "hr": "Šteta",
-      "value": 50
+      "value": 50,
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Homing Range": {
       "en": "Homing Range",
@@ -86,7 +92,9 @@
       "uk": "Дальність наведення",
       "sr": "Domet navođenja",
       "hr": "Domet navođenja",
-      "value": "20m"
+      "value": "20m",
+      "pt-BR": "Alcance de Rastreamento",
+      "he": "טווח ביות"
     }
   },
   "recyclesInto": {

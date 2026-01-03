@@ -18,7 +18,9 @@
     "kr": "약초 붕대",
     "tr": "Bitkisel Bandaj",
     "hr": "Biljni zavoj",
-    "sr": "Biljni zavoj"
+    "sr": "Biljni zavoj",
+    "pt-BR": "Bandagem de Ervas",
+    "he": "תחבושת צמחים"
   },
   "description": {
     "en": "An improvised medical item that gradually restores health over time.",
@@ -38,7 +40,9 @@
     "kr": "시간이 지남에 따라 점진적으로 체력을 회복하는 즉석 의료 아이템입니다.",
     "tr": "Zamanla yavaş yavaş sağlık yenileyen doğaçlama bir tıbbi eşya.",
     "hr": "Improvizirana medicinska stavka koja postupno obnavlja zdravlje tijekom vremena.",
-    "sr": "Improvizovana medicinska stavka koja postepeno obnavlja zdravlje tokom vremena."
+    "sr": "Improvizovana medicinska stavka koja postepeno obnavlja zdravlje tokom vremena.",
+    "pt-BR": "Um item médico improvisado que restaura a saúde gradualmente ao longo do tempo.",
+    "he": "פריט רפואי מאולתר שמשיב בריאות בהדרגה לאורך זמן."
   },
   "type": "Quick Use",
   "value": 900,
@@ -65,7 +69,9 @@
       "tr": "İyileştirme",
       "hr": "Liječenje",
       "sr": "Lečenje",
-      "value": "3.5/s"
+      "value": "3.5/s",
+      "pt-BR": "Cura",
+      "he": "ריפוי"
     },
     "Duration": {
       "en": "Duration",
@@ -86,7 +92,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "10s"
+      "value": "10s",
+      "pt-BR": "Duração",
+      "he": "משך זמן"
     },
     "Use Time": {
       "en": "Use Time",
@@ -107,7 +115,9 @@
       "tr": "Kullanım Süresi",
       "hr": "Vrijeme korištenja",
       "sr": "Vreme korišćenja",
-      "value": "1.5s"
+      "value": "1.5s",
+      "pt-BR": "Tempo de Uso",
+      "he": "זמן שימוש"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/herbal_bandage.png",

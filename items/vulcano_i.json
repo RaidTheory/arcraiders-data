@@ -18,7 +18,9 @@
     "kr": "불카노 I",
     "tr": "Vulcano I",
     "hr": "Vulcano I",
-    "sr": "Vulcano I"
+    "sr": "Vulcano I",
+    "pt-BR": "Vulcano I",
+    "he": "Vulcano I"
   },
   "description": {
     "en": "Semi-automatic shotgun with good bullet spread but sharp falloff",
@@ -38,7 +40,9 @@
     "kr": "반자동 산탄총. 좋은 탄환 확산이지만 급격한 감쇠가 있습니다.",
     "tr": "Yarı otomatik av tüfeği. İyi mermi yayılımı ancak keskin düşüş.",
     "hr": "Poluautomatska sačmarica s dobrim rasipanjem metaka ali oštrim padom.",
-    "sr": "Poluautomatska sačmara sa dobrim rasipanjem metaka ali oštrim padom."
+    "sr": "Poluautomatska sačmara sa dobrim rasipanjem metaka ali oštrim padom.",
+    "pt-BR": "Escopeta semiautomática com boa dispersão de projéteis, mas queda de dano acentuada",
+    "he": "רובה ציד חצי-אוטומטי עם פיזור כדורים טוב אך דעיכה חדה"
   },
   "type": "Shotgun",
   "rarity": "Epic",
@@ -87,7 +91,9 @@
       "hr": "Izdržljivost",
       "pt": "Durabilidade",
       "da": "Holdbarhed",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -108,7 +114,9 @@
       "hr": "Tip streljiva",
       "pt": "Tipo de munição",
       "da": "Ammunitionstype",
-      "value": "Shotgun Ammo"
+      "value": "Shotgun Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -129,7 +137,9 @@
       "hr": "Veličina spremnika",
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
-      "value": 6
+      "value": 6,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -150,7 +160,9 @@
       "hr": "Način paljbe",
       "pt": "Modo de disparo",
       "da": "Skydemetode",
-      "value": "Semi-Automatic"
+      "value": "Semi-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -171,7 +183,9 @@
       "hr": "ARC probijanje oklopa",
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningspenetration",
-      "value": "Weak"
+      "value": "Weak",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "isWeapon": true

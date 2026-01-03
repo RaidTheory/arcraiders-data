@@ -18,7 +18,9 @@
     "es": "Osprey III",
     "hr": "Osprey III",
     "pt": "Osprey III",
-    "da": "Osprey III"
+    "da": "Osprey III",
+    "pt-BR": "Osprey III",
+    "he": "אוספריי III"
   },
   "effects": {
     "Reduced Bolt Action Time": {
@@ -40,7 +42,9 @@
       "hr": "Smanjeno vrijeme repetiranja",
       "pt": "Tempo de ação do ferrolho reduzido",
       "da": "Reduceret bundstykketid",
-      "value": "40%"
+      "value": "40%",
+      "pt-BR": "Tempo de Ação do Ferrolho Reduzido",
+      "he": "זמן דריכה מופחת"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -61,7 +65,9 @@
       "hr": "Smanjeno vrijeme punjenja",
       "pt": "Tempo de recarga reduzido",
       "da": "Reduceret genladningstid",
-      "value": "25%"
+      "value": "25%",
+      "pt-BR": "Tempo de Recarga Reduzido",
+      "he": "זמן טעינה מופחת"
     },
     "Durability": {
       "en": "Durability",
@@ -82,7 +88,9 @@
       "hr": "Izdržljivost",
       "pt": "Durabilidade",
       "da": "Holdbarhed",
-      "value": "120/120"
+      "value": "120/120",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -103,7 +111,9 @@
       "hr": "Tip streljiva",
       "pt": "Tipo de munição",
       "da": "Ammunitionstype",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -124,7 +134,9 @@
       "hr": "Veličina spremnika",
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
-      "value": 8
+      "value": 8,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -145,7 +157,9 @@
       "hr": "Način paljbe",
       "pt": "Modo de disparo",
       "da": "Skydemetode",
-      "value": "Bolt-Action"
+      "value": "Bolt-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -166,7 +180,9 @@
       "hr": "ARC probijanje oklopa",
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningspenetration",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     },
     "Special Trait": {
       "en": "Special Trait",
@@ -187,7 +203,9 @@
       "hr": "Posebna osobina",
       "pt": "Característica especial",
       "da": "Særlig egenskab",
-      "value": "Scoped"
+      "value": "Scoped",
+      "pt-BR": "Traço Especial",
+      "he": "תכונה מיוחדת"
     }
   },
   "value": 13000,
@@ -222,7 +240,9 @@
     "es": "Un rifle de francotirador de cerrojo con mira telescópica que ofrece daño fiable y precisión.",
     "hr": "Repetirna snajperska puška s optičkim nišanom, pouzdanom snagom i preciznošću.",
     "pt": "Um rifle sniper de ferrolho com mira telescópica, dano confiável e precisão.",
-    "da": "En kikkertsigteret bundstykkeriffel med pålidelig skadeeffekt og præcision."
+    "da": "En kikkertsigteret bundstykkeriffel med pålidelig skadeeffekt og præcision.",
+    "pt-BR": "Um rifle de precisão de ação por ferrolho com mira telescópica, com dano e precisão confiáveis.",
+    "he": "רובה צלפים בריחי עם כוונת, בעל נזק ודיוק אמינים."
   },
   "type": "Sniper Rifle",
   "rarity": "Rare",

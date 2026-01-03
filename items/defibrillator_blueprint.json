@@ -18,7 +18,9 @@
     "kr": "제세동기 설계도",
     "tr": "Defibrilatör Planı",
     "hr": "Nacrt za Defibrilator",
-    "sr": "Nacrt za Defibrilator"
+    "sr": "Nacrt za Defibrilator",
+    "pt-BR": "Diagrama do Desfibrilador",
+    "he": "שרטוט דפיברילטור"
   },
   "description": {
     "en": "An injection that quickly revives downed raiders and restores some health.",
@@ -38,7 +40,9 @@
     "kr": "쓰러진 레이더를 빠르게 소생시키고 일부 체력을 회복시키는 주사제.",
     "tr": "Yere düşmüş akıncıları hızlıca canlandıran ve biraz sağlık kazandıran bir enjeksiyon.",
     "hr": "Injekcija koja brzo oživljava oborene pljačkaše i obnavlja dio zdravlja.",
-    "sr": "Injekcija koja brzo oživljava oborene pljačkaše i obnavlja deo zdravlja."
+    "sr": "Injekcija koja brzo oživljava oborene pljačkaše i obnavlja deo zdravlja.",
+    "pt-BR": "Uma injeção que reanima rapidamente Raiders abatidos e restaura um pouco de saúde.",
+    "he": "זריקה המקימה במהירות ריידרים מנוטרלים ומשיבה מעט בריאות."
   },
   "type": "Blueprint",
   "rarity": "Legendary",

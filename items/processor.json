@@ -18,7 +18,9 @@
     "kr": "프로세서",
     "tr": "İşlemci",
     "hr": "Procesor",
-    "sr": "Procesor"
+    "sr": "Procesor",
+    "pt-BR": "Processador",
+    "he": "מעבד"
   },
   "description": {
     "en": "Used in crafting. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
@@ -38,7 +40,9 @@
     "kr": "제작에 사용. 제작 용도: 전술 마크 3 (방어형), 전투 마크 3 (측면기동), 전투 마크 3 (공격), 노획 마크 3 (신중), 전술 마크 3 (치유)",
     "tr": "Üretimde kullanılır. Üretimde kullanılır: Tactical Mk. 3 (Savunma), Combat Mk. 3 (Kuşatma), Combat Mk. 3 (Saldırgan), Looting Mk. 3 (Temkinli), Tactical Mk. 3 (İyileştirme)",
     "hr": "Koristi se u izradi. Koristi se za izradu: Taktički Mk. 3 (Obrambeni), Borbeni Mk. 3 (Bočni), Borbeni Mk. 3 (Agresivni), Pljačkaški Mk. 3 (Oprezni), Taktički Mk. 3 (Ljekoviti)",
-    "sr": "Koristi se u izradi. Koristi se za izradu: Taktički Mk. 3 (Odbrambeni), Borbeni Mk. 3 (Bočni), Borbeni Mk. 3 (Agresivni), Pljačkaški Mk. 3 (Oprezni), Taktički Mk. 3 (Lečeći)"
+    "sr": "Koristi se u izradi. Koristi se za izradu: Taktički Mk. 3 (Odbrambeni), Borbeni Mk. 3 (Bočni), Borbeni Mk. 3 (Agresivni), Pljačkaški Mk. 3 (Oprezni), Taktički Mk. 3 (Lečeći)",
+    "pt-BR": "Usado na fabricação. Usado para fabricar: Tático Mk. 3 (Defensivo), Combate Mk. 3 (Flanqueador), Combate Mk. 3 (Agressivo), Saque Mk. 3 (Cauteloso), Tático Mk. 3 (Cura)",
+    "he": "משמש ליצירה. משמש ליצירת: טקטי Mk. 3 (הגנתי), קרבי Mk. 3 (איגוף), קרבי Mk. 3 (תוקפני), ביזה Mk. 3 (זהיר), טקטי Mk. 3 (ריפוי)"
   },
   "type": "Topside Material",
   "rarity": "Rare",

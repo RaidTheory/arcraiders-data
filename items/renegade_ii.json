@@ -18,7 +18,9 @@
     "es": "Renegado II",
     "hr": "Renegade II",
     "pt": "Renegade II",
-    "da": "Renegade II"
+    "da": "Renegade II",
+    "pt-BR": "Renegade II",
+    "he": "רנגייד II"
   },
   "effects": {
     "Reduced Dispersion Recovery Time": {
@@ -40,7 +42,9 @@
       "hr": "Smanjeno vrijeme oporavka rasipanja",
       "pt": "Tempo de recuperação de dispersão reduzido",
       "da": "Reduceret spredningsgendannelsestid",
-      "value": "16.6%"
+      "value": "16.6%",
+      "pt-BR": "Tempo de Recuperação de Dispersão Reduzido",
+      "he": "זמן התאוששות מפיזור מופחת"
     },
     "Increased Fire Rate": {
       "en": "Increased Fire Rate",
@@ -61,7 +65,9 @@
       "hr": "Povećana brzina paljbe",
       "pt": "Taxa de disparo aumentada",
       "da": "Øget skudhastighed",
-      "value": "25%"
+      "value": "25%",
+      "pt-BR": "Cadência de Tiro Aumentada",
+      "he": "קצב אש מוגבר"
     },
     "Durability": {
       "en": "Durability",
@@ -82,7 +88,9 @@
       "hr": "Izdržljivost",
       "pt": "Durabilidade",
       "da": "Holdbarhed",
-      "value": "110/110"
+      "value": "110/110",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -103,7 +111,9 @@
       "hr": "Tip municije",
       "pt": "Tipo de munição",
       "da": "Ammunitionstype",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -124,7 +134,9 @@
       "hr": "Veličina spremnika",
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
-      "value": 8
+      "value": 8,
+      "pt-BR": "Capacidade do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -145,7 +157,9 @@
       "hr": "Način paljbe",
       "pt": "Modo de disparo",
       "da": "Skydningstilstand",
-      "value": "Lever-Action"
+      "value": "Lever-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -166,7 +180,9 @@
       "hr": "ARC probijanje oklopa",
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningspenetrering",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "value": 10000,
@@ -195,7 +211,9 @@
     "es": "Rifle de combate de palanca con alto daño, precisión y daño por disparo a la cabeza.",
     "hr": "Bojna puška s polužnim mehanizmom sa visokom snagom oštećenja, preciznošću i oštećenjem od pogotka u glavu.",
     "pt": "Rifle de combate de alavanca com alto dano, precisão e dano de tiro na cabeça.",
-    "da": "Håndtagsriffel med høj skadeeffekt, præcision og hovedskudsskade."
+    "da": "Håndtagsriffel med høj skadeeffekt, præcision og hovedskudsskade.",
+    "pt-BR": "Rifle de batalha de ação por alavanca com alto dano, precisão e dano de tiro na cabeça.",
+    "he": "רובה קרב בעל מנגנון מנוף עם נזק גבוה, דיוק ונזק פגיעות ראש."
   },
   "type": "Battle Rifle",
   "rarity": "Rare",

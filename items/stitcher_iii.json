@@ -18,7 +18,9 @@
     "kr": "스티처 III",
     "tr": "Stitcher III",
     "hr": "Stitcher III",
-    "sr": "Stitcher III"
+    "sr": "Stitcher III",
+    "pt-BR": "Stitcher III",
+    "he": "סטיצ'ר III"
   },
   "description": {
     "en": "Full automatic SMG. Deals good damage, but has quite a low fire-rate and can be hard to control.",
@@ -38,7 +40,9 @@
     "kr": "완전 자동 기관단총. 좋은 피해를 입히지만 연사력이 상당히 낮고 제어하기 어렵습니다.",
     "tr": "Tam otomatik hafif makineli tüfek. İyi hasar verir, ancak oldukça düşük atış hızına sahiptir ve kontrol edilmesi zor olabilir.",
     "hr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolirati.",
-    "sr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolisati."
+    "sr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolisati.",
+    "pt-BR": "SMG totalmente automática. Causa bom dano, mas tem uma cadência de tiro baixa e pode ser difícil de controlar.",
+    "he": "תת-מקלע אוטומטי. גורם נזק טוב, אך בעל קצב אש נמוך יחסית ועלול להיות קשה לשליטה."
   },
   "type": "SMG",
   "rarity": "Uncommon",
@@ -73,7 +77,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "120/120"
+      "value": "120/120",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -94,7 +100,9 @@
       "tr": "Mermi Tipi",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta municije",
-      "value": "Light Ammo"
+      "value": "Light Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -115,7 +123,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
-      "value": 20
+      "value": 20,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -136,7 +146,9 @@
       "tr": "Atış Modu",
       "hr": "Način pucanja",
       "sr": "Režim paljbe",
-      "value": "Fully-Automatic"
+      "value": "Fully-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -157,7 +169,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Very Weak"
+      "value": "Very Weak",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     },
     "Reduced Horizontal Recoil": {
       "en": "Reduced Horizontal Recoil",
@@ -178,7 +192,9 @@
       "tr": "Azaltılmış Yatay Tepme",
       "hr": "Smanjen horizontalni trzaj",
       "sr": "Smanjen horizontalni trzaj",
-      "value": "33.3%"
+      "value": "33.3%",
+      "pt-BR": "Recuo Horizontal Reduzido",
+      "he": "רתע אופקי מופחת"
     },
     "Reduced Reload Time": {
       "en": "Reduced Reload Time",
@@ -199,7 +215,9 @@
       "tr": "Azaltılmış yeniden doldurma süresi",
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vrijeme punjenja",
-      "value": "26%"
+      "value": "26%",
+      "pt-BR": "Tempo de Recarga Reduzido",
+      "he": "זמן טעינה מופחת"
     }
   },
   "upgradeCost": {

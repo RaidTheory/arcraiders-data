@@ -18,7 +18,9 @@
     "kr": "댐 시설 열쇠",
     "tr": "Baraj Tesis Anahtarı",
     "hr": "Ključ pomoćnih prostorija brane",
-    "sr": "Ključ pomoćnih prostorija brane"
+    "sr": "Ključ pomoćnih prostorija brane",
+    "pt-BR": "Chave de Serviços da Represa",
+    "he": "מפתח חדר שירות בסכר"
   },
   "description": {
     "en": "A key for utility access in The Dam.",
@@ -38,7 +40,9 @@
     "kr": "댐의 시설 접근용 열쇠.",
     "tr": "Baraj'daki tesis erişimi için bir anahtar.",
     "hr": "Ključ za pristup pomoćnim prostorijama u brani.",
-    "sr": "Ključ za pristup pomoćnim prostorijama u brani."
+    "sr": "Ključ za pristup pomoćnim prostorijama u brani.",
+    "pt-BR": "Uma chave para acesso de serviços na Represa.",
+    "he": "מפתח לגישת שירות בסכר."
   },
   "type": "Key",
   "updatedAt": "11/10/2025",

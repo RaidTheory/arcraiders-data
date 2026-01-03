@@ -19,7 +19,9 @@
     "tr": "İletimde Kayıp",
     "zh-TW": "傳輸中斷",
     "sr": "Izgubljeno u prenosu",
-    "hr": "Izgubljeno u prijenosu"
+    "hr": "Izgubljeno u prijenosu",
+    "pt-BR": "Perdido na Transmissão",
+    "he": "אבוד בשידור"
   },
   "map": [
     "the_spaceport"
@@ -43,7 +45,9 @@
     "tr": "ARC'ın hareketlerini izlemek için Uzay Limanı'nda ekipman kurdum. Bağlantım az önce kesildi — Kontrol Kulelerine gidip günlüklerimi almama yardım etmeni istiyorum.",
     "zh-TW": "我在太空港設置了設備來監視ARC的動向。我的連線剛剛中斷了——我需要你前往控制塔幫我找回日誌。",
     "sr": "Imam opremu postavljenu na Svemirskoj luci da pratim kretanje ARC-a. Veza mi se upravo prekinula — trebam da odeš do Kontrolnih tornjeva i pomogneš mi da povratim svoje zapise.",
-    "hr": "Imam opremu postavljenu na Svemirskoj luci za praćenje kretanja ARC-a. Veza mi se upravo prekinula — trebam da odeš do Kontrolnih tornjeva i pomogneš mi povratiti svoje zapise."
+    "hr": "Imam opremu postavljenu na Svemirskoj luci za praćenje kretanja ARC-a. Veza mi se upravo prekinula — trebam da odeš do Kontrolnih tornjeva i pomogneš mi povratiti svoje zapise.",
+    "pt-BR": "Tenho equipamentos instalados no Porto Espacial para monitorar os movimentos da ARC. Minha conexão caiu agora pouco — preciso que você vá até as Torres de Controle e me ajude a recuperar meus registros.",
+    "he": "הצבתי ציוד בנמל החלל כדי לעקוב אחר תנועות ה-ARC. החיבור שלי נפל כרגע — אני צריך שתצא למגדלי הפיקוח ותעזור לי לשחזר את הרישומים שלי."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Kontrol Kulesi A6'yı ziyaret et",
       "zh-TW": "前往控制塔A6",
       "sr": "Poseti Kontrolni toranj A6",
-      "hr": "Posjeti Kontrolni toranj A6"
+      "hr": "Posjeti Kontrolni toranj A6",
+      "pt-BR": "Visite a Torre de Controle A6",
+      "he": "בקר במגדל פיקוח A6"
     },
     {
       "en": "Reach the top of Control Tower A6",
@@ -84,7 +90,9 @@
       "tr": "Kontrol Kulesi A6'nın tepesine ulaş",
       "zh-TW": "到達控制塔A6的頂部",
       "sr": "Stigni do vrha Kontrolnog tornja A6",
-      "hr": "Stigni do vrha Kontrolnog tornja A6"
+      "hr": "Stigni do vrha Kontrolnog tornja A6",
+      "pt-BR": "Chegue ao topo da Torre de Controle A6",
+      "he": "הגע לראש מגדל פיקוח A6"
     },
     {
       "en": "Establish a connection from the terminal",
@@ -104,7 +112,9 @@
       "tr": "Terminalden bağlantı kur",
       "zh-TW": "從終端建立連線",
       "sr": "Uspostavi vezu sa terminala",
-      "hr": "Uspostavi vezu s terminala"
+      "hr": "Uspostavi vezu s terminala",
+      "pt-BR": "Estabeleça uma conexão a partir do terminal",
+      "he": "צור חיבור מהמסוף"
     }
   ],
   "grantedItemIds": [

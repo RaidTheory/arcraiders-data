@@ -18,7 +18,9 @@
     "kr": "트레일블레이저 설계도",
     "tr": "Trailblazer Planı",
     "hr": "Nacrt Trailblazera",
-    "sr": "Nacrt Trailblazera"
+    "sr": "Nacrt Trailblazera",
+    "pt-BR": "Projeto da Desbravadora",
+    "he": "שרטוט טריילבלייזר"
   },
   "description": {
     "en": "Unlocks the crafting blueprint for the Trailblazer.",
@@ -38,7 +40,9 @@
     "kr": "트레일블레이저 제작 설계도를 해금합니다.",
     "tr": "Trailblazer için üretim planını açar.",
     "hr": "Otključava nacrt izrade za Trailblazer.",
-    "sr": "Otključava nacrt izrade za Trailblazer."
+    "sr": "Otključava nacrt izrade za Trailblazer.",
+    "pt-BR": "Desbloqueia o projeto de fabricação da Desbravadora.",
+    "he": "פותח את שרטוט הייצור עבור הטריילבלייזר."
   },
   "type": "Blueprint",
   "value": 5000,

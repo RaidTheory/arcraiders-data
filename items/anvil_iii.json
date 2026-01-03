@@ -18,7 +18,9 @@
     "kr": "앤빌 III",
     "tr": "Örs III",
     "hr": "Nakovanj III",
-    "sr": "Nakovanj III"
+    "sr": "Nakovanj III",
+    "pt-BR": "Bigorna III",
+    "he": "אנביל III"
   },
   "description": {
     "en": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
@@ -38,7 +40,9 @@
     "kr": "단발 작동식 핸드 캐논으로 높은 피해와 헤드샷 피해를 주지만 조작이 느립니다.",
     "tr": "Tek etkili el topu; yüksek hasar ve kafa vuruşu hasarı sunar, ancak kullanım yavaştır.",
     "hr": "Ručni top jednostrukog okidanja s visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem.",
-    "sr": "Ručni top jednostrukog okidanja sa visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem."
+    "sr": "Ručni top jednostrukog okidanja sa visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem.",
+    "pt-BR": "Canhão de mão de ação simples com alto dano e dano de tiro na cabeça, mas manuseio lento.",
+    "he": "תותח יד בעל פעולה יחידה עם נזק גבוה ונזק ראש רב, אך שליטה איטית."
   },
   "type": "Hand Cannon",
   "value": 10000,
@@ -63,7 +67,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "120/120"
+      "value": "120/120",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -84,7 +90,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta streljiva",
-      "value": "Heavy Ammo"
+      "value": "Heavy Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -105,7 +113,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina spremnika",
-      "value": 6
+      "value": 6,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -126,7 +136,9 @@
       "tr": "Atış Modu",
       "hr": "Način pucanja",
       "sr": "Način pucanja",
-      "value": "Single-Action"
+      "value": "Single-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -147,7 +159,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Strong"
+      "value": "Strong",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     },
     "Reduced Dispersion Recovery Time": {
       "en": "Reduced Dispersion Recovery Time",
@@ -168,7 +182,9 @@
       "tr": "Azaltılmış saçılma toparlanma süresi",
       "hr": "Smanjeno vrijeme oporavka raspršenja",
       "sr": "Smanjeno vreme oporavka raspršenja",
-      "value": "12.5%"
+      "value": "12.5%",
+      "pt-BR": "Tempo de Recuperação de Dispersão Reduzido",
+      "he": "זמן התאוששות מפיזור מופחת"
     },
     "Increased Fire Rate": {
       "en": "Increased Fire Rate",
@@ -189,7 +205,9 @@
       "tr": "Artırılmış atış hızı",
       "hr": "Povećana brzina paljbe",
       "sr": "Povećana brzina paljbe",
-      "value": "50%"
+      "value": "50%",
+      "pt-BR": "Cadência de Tiro Aumentada",
+      "he": "קצב אש מוגבר"
     }
   },
   "weightKg": 5,

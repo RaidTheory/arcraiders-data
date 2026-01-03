@@ -18,7 +18,9 @@
     "tr": "Blok flüt",
     "uk": "Блокфлейта",
     "sr": "Blok flauta",
-    "hr": "Blok flauta"
+    "hr": "Blok flauta",
+    "pt-BR": "Flauta Doce",
+    "he": "חלילית"
   },
   "rarity": "Uncommon",
   "type": "Quick Use",
@@ -45,7 +47,9 @@
     "tr": "ARC'nin dikkatini çekmek ve diğer Akıncıları etkilemek için kullanılan çalınabilir bir blok flüt.",
     "uk": "Блокфлейта, на якій можна грати, щоб привернути увагу ARC та справити враження на інших Рейдерів.",
     "sr": "Blok flauta koja se može svirati da privuče pažnju ARC-a i impresionira druge Rejdere.",
-    "hr": "Blok flauta koja se može svirati za privlačenje pažnje ARC-a i impresioniranje drugih Rejdera."
+    "hr": "Blok flauta koja se može svirati za privlačenje pažnje ARC-a i impresioniranje drugih Rejdera.",
+    "pt-BR": "Uma flauta doce que pode ser tocada, usada para atrair a atenção das ARC e impressionar outros Raiders.",
+    "he": "חלילית שניתן לנגן בה כדי למשוך את תשומת הלב של ARC ולהרשים ריידרים אחרים."
   },
   "weightKg": 0.2,
   "foundIn": "Residential",
@@ -69,7 +73,9 @@
       "uk": "Міцність",
       "sr": "Izdržljivost",
       "hr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/recorder.png"

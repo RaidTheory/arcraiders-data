@@ -19,7 +19,9 @@
     "tr": "Bir Eczacının Hayatı",
     "zh-TW": "藥劑師的生活",
     "sr": "Život farmaceuta",
-    "hr": "Život farmaceuta"
+    "hr": "Život farmaceuta",
+    "pt-BR": "Vida de um Farmacêutico",
+    "he": "חייו של רוקח"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Burası yenilemeye ihtiyaç duyuyor ama senin pejmürde Yağmacı İnlerin gibi görünmesini istemiyorum. Tıp alanındaki meslektaşlarımın nasıl yaşadığını öğrenebilir misin bir bak.",
     "zh-TW": "這個地方需要改造一下，但我不想讓它看起來像你們那些破爛的掠奪者巢穴。看看你能否找出我的醫學界同行們過去是如何生活的。",
     "sr": "Ovo mesto bi moglo da posluži prepravljanje, ali ne želim da izgleda kao vaše otrcane Raiderske jazbine. Vidi da li možeš da saznaš kako su moje kolege medicinske veličine nekada živele.",
-    "hr": "Ovo mjesto bi moglo poslužiti preuređenje, ali ne želim da izgleda kao vaše otrcane Raiderske jazbine. Vidi možeš li saznati kako su moje kolege medicinske veličine nekada živjele."
+    "hr": "Ovo mjesto bi moglo poslužiti preuređenje, ali ne želim da izgleda kao vaše otrcane Raiderske jazbine. Vidi možeš li saznati kako su moje kolege medicinske veličine nekada živjele.",
+    "pt-BR": "Este lugar precisa de uma repaginada, mas não quero que fique parecendo seus Covis de Raiders caindo aos pedaços. Veja se consegue descobrir como os grandes nomes da medicina costumavam viver.",
+    "he": "המקום הזה זקוק לשיפוץ, אבל אני לא רוצה שהוא ייראה כמו מאורות ה-Raiders המוזנחות שלכם. נסה לגלות כיצד נהגו לחיות ענקי הרפואה שקדמו לי."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Çökmüş otoyolun yanındaki Arbusto Farmacia'yı bul",
       "zh-TW": "在坍塌的高速公路旁找到阿布斯托藥房",
       "sr": "Pronađi Arbusto Farmacia pored srušenog autoputa",
-      "hr": "Pronađi Arbusto Farmacia pokraj srušene autoceste"
+      "hr": "Pronađi Arbusto Farmacia pokraj srušene autoceste",
+      "pt-BR": "Encontre a Arbusto Farmacia perto da rodovia desmoronada",
+      "he": "מצא את ה-Arbusto Farmacia ליד הכביש המהיר שקרס"
     },
     {
       "en": "Document the pharmacist's hobbies",
@@ -84,7 +90,9 @@
       "tr": "Eczacının hobilerini belgele",
       "zh-TW": "記錄藥劑師的愛好",
       "sr": "Dokumentuj farmaceutove hobije",
-      "hr": "Dokumentiraj farmaceutove hobije"
+      "hr": "Dokumentiraj farmaceutove hobije",
+      "pt-BR": "Documente os hobbies do farmacêutico",
+      "he": "תעד את תחביבי הרוקח"
     },
     {
       "en": "Document the pharmacist's family",
@@ -104,7 +112,9 @@
       "tr": "Eczacının ailesini belgele",
       "zh-TW": "記錄藥劑師的家庭",
       "sr": "Dokumentuj farmaceutovu porodicu",
-      "hr": "Dokumentiraj farmaceutovu obitelj"
+      "hr": "Dokumentiraj farmaceutovu obitelj",
+      "pt-BR": "Documente a família do farmacêutico",
+      "he": "תעד את משפחת הרוקח"
     },
     {
       "en": "Document the pharmacist's taste",
@@ -124,7 +134,9 @@
       "tr": "Eczacının zevkini belgele",
       "zh-TW": "記錄藥劑師的品味",
       "sr": "Dokumentuj farmaceutov ukus",
-      "hr": "Dokumentiraj farmaceutov ukus"
+      "hr": "Dokumentiraj farmaceutov ukus",
+      "pt-BR": "Documente o gosto do farmacêutico",
+      "he": "תעד את הטעם של הרוקח"
     },
     {
       "en": "Document the pharmacist's skills",
@@ -144,7 +156,9 @@
       "tr": "Eczacının becerilerini belgele",
       "zh-TW": "記錄藥劑師的技能",
       "sr": "Dokumentuj farmaceutove veštine",
-      "hr": "Dokumentiraj farmaceutove vještine"
+      "hr": "Dokumentiraj farmaceutove vještine",
+      "pt-BR": "Documente as habilidades do farmacêutico",
+      "he": "תעד את כישורי הרוקח"
     }
   ],
   "rewardItemIds": [

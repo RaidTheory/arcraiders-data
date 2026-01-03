@@ -19,7 +19,9 @@
     "tr": "Birleşmenin Sembolü",
     "zh-TW": "統一的象徵",
     "sr": "Simbol ujedinjenja",
-    "hr": "Simbol ujedinjenja"
+    "hr": "Simbol ujedinjenja",
+    "pt-BR": "Um Símbolo de Unificação",
+    "he": "סמל לאיחוד"
   },
   "map": [
     "dam_battlegrounds"
@@ -43,7 +45,9 @@
     "tr": "Biliyor musun, eskiden aslında bir bayrağımız vardı - şey, her şeyden çok bir bez parçası. Yine de onu görmek, yakınlarda müttefikleriniz olduğunu, kendi evinizde olduğunuzu bildiğiniz anlamına geliyordu. Bu yüzden düşünüyordum da...",
     "zh-TW": "你知道嗎，以前我們實際上有一面旗幟——嗯，與其說是旗幟不如說是一塊破布。不過，看到它就意味著你知道附近有盟友，你在自己的地盤上。所以，我在想...",
     "sr": "Znaš, u stara vremena smo zapravo imali zastavu - pa, više komad tkanine nego bilo šta drugo. Ipak, videti je značilo da znaš da imaš saveznike u blizini, da si na svojoj teritoriji. Tako da, razmišljao sam...",
-    "hr": "Znaš, u stara vremena smo zapravo imali zastavu - pa, više komad tkanine nego bilo što drugo. Ipak, vidjeti je značilo da znaš da imaš saveznike u blizini, da si na svom terenu. Tako da, razmišljao sam..."
+    "hr": "Znaš, u stara vremena smo zapravo imali zastavu - pa, više komad tkanine nego bilo što drugo. Ipak, vidjeti je značilo da znaš da imaš saveznike u blizini, da si na svom terenu. Tako da, razmišljao sam...",
+    "pt-BR": "Sabe, antigamente a gente tinha uma bandeira... bem, era mais um pedaço de pano do que qualquer outra coisa. Ainda assim, vê-la significava que você tinha aliados por perto, que estava em seu próprio território. Então, eu estava pensando...",
+    "he": "אתם יודעים, פעם היה לנו דגל - טוב, יותר פיסת בד מכל דבר אחר. בכל זאת, כשראית אותו ידעת שיש בעלי ברית בסביבה, שאתה בשטח הביתי שלך. אז, חשבתי..."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Baraj Savaş Alanı'ndaki Formicai Karakolu'na ulaş",
       "zh-TW": "到達大壩戰場的福米凱前哨站",
       "sr": "Stigni do Formicai ispostave u Ratištu brane",
-      "hr": "Stigni do Formicai ispostave u Ratištu brane"
+      "hr": "Stigni do Formicai ispostave u Ratištu brane",
+      "pt-BR": "Chegue ao Posto Avançado Formicai no Campo de Batalha da Represa",
+      "he": "הגע אל מוצב פורמיקאי בשדה הקרב של הסכר"
     },
     {
       "en": "Locate the flag at the Formicai Outpost",
@@ -84,7 +90,9 @@
       "tr": "Formicai Karakolu'ndaki bayrağı bul",
       "zh-TW": "在福米凱前哨站找到旗幟",
       "sr": "Pronađi zastavu na Formicai ispostavi",
-      "hr": "Pronađi zastavu na Formicai ispostavi"
+      "hr": "Pronađi zastavu na Formicai ispostavi",
+      "pt-BR": "Localize a bandeira no Posto Avançado Formicai",
+      "he": "אתר את הדגל במוצב פורמיקאי"
     },
     {
       "en": "Hoist the flag on the small platform overlooking the Red Lake",
@@ -104,7 +112,9 @@
       "tr": "Kızıl Göl'e bakan küçük platformda bayrağı çek",
       "zh-TW": "在俯瞰紅湖的小平台上升起旗幟",
       "sr": "Podigni zastavu na maloj platformi sa pogledom na Crveno jezero",
-      "hr": "Podigni zastavu na maloj platformi s pogledom na Crveno jezero"
+      "hr": "Podigni zastavu na maloj platformi s pogledom na Crveno jezero",
+      "pt-BR": "Hasteie a bandeira na pequena plataforma com vista para o Lago Vermelho",
+      "he": "הנף את הדגל על הפלטפורמה הקטנה המשקיפה על האגם האדום"
     }
   ],
   "rewardItemIds": [

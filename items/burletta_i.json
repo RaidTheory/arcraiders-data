@@ -18,7 +18,9 @@
     "kr": "부를레타 I",
     "tr": "Burletta I",
     "hr": "Burletta I",
-    "sr": "Burletta I"
+    "sr": "Burletta I",
+    "pt-BR": "Burletta I",
+    "he": "בורלטה I"
   },
   "description": {
     "en": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
@@ -38,7 +40,9 @@
     "kr": "적절한 피해량과 정확도를 가진 반자동 권총. 방아쇠를 당기는 속도만큼 빠르게 발사할 수 있습니다.",
     "tr": "İyi hasar çıkışı ve isabetliliğe sahip yarı otomatik tabanca. Tetiği çektiğiniz kadar hızlı ateş edebilir.",
     "hr": "Poluautomatski pištolj s pristojnom štetom i preciznošću. Može se ispaljivati onoliko brzo koliko možete povlačiti okidač.",
-    "sr": "Poluautomatski pištolj sa pristojnom štetom i preciznošću. Može se ispaljivati onoliko brzo koliko možete povlačiti okidač."
+    "sr": "Poluautomatski pištolj sa pristojnom štetom i preciznošću. Može se ispaljivati onoliko brzo koliko možete povlačiti okidač.",
+    "pt-BR": "Pistola semiautomática com dano e precisão decentes. Dispara tão rápido quanto você conseguir puxar o gatilho.",
+    "he": "אקדח חצי-אוטומטי עם נזק ודיוק סבירים. ניתן לירי מהיר ככל שתספיקו ללחוץ על ההדק."
   },
   "type": "Pistol",
   "rarity": "Uncommon",
@@ -71,7 +75,9 @@
       "tr": "Dayanıklılık",
       "sr": "Izdržljivost",
       "hr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -92,7 +98,9 @@
       "tr": "Mermi Türü",
       "sr": "Tip Municije",
       "hr": "Vrsta Streljiva",
-      "value": "Light Ammo"
+      "value": "Light Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -113,7 +121,9 @@
       "tr": "Şarjör Boyutu",
       "sr": "Veličina Okvira",
       "hr": "Veličina Spremnika",
-      "value": 12
+      "value": 12,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -134,7 +144,9 @@
       "tr": "Ateş Modu",
       "sr": "Režim Pucanja",
       "hr": "Način Paljbe",
-      "value": "Semi-Automatic"
+      "value": "Semi-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -155,7 +167,9 @@
       "tr": "ARC Zırh Delme",
       "sr": "ARC Probijanje Oklopa",
       "hr": "ARC Proboj Oklopa",
-      "value": "Very Weak"
+      "value": "Very Weak",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "recipe": {

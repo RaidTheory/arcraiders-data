@@ -18,7 +18,9 @@
     "kr": "펄스 지뢰 설계도",
     "tr": "Nabız Mayını Planı",
     "hr": "Nacrt za pulsnu minu",
-    "sr": "Nacrt za pulsnu minu"
+    "sr": "Nacrt za pulsnu minu",
+    "pt-BR": "Diagrama de Mina de Pulso",
+    "he": "שרטוט מוקש פעימה"
   },
   "description": {
     "en": "A proximity-triggered mine that pops up and knocks back anything within its radius.",
@@ -38,7 +40,9 @@
     "kr": "근접 감지로 작동하여 튀어 오르고 반경 내의 모든 것을 밀쳐내는 지뢰.",
     "tr": "Yakınlık tetiklemeli bir mayın, fırlayarak yarıçapı içindeki her şeyi geri iter.",
     "hr": "Mina aktivirana blizinom koja iskoči i odbaci sve u svom radijusu.",
-    "sr": "Mina aktivirana blizinom koja iskoči i odbaci sve u svom radijusu."
+    "sr": "Mina aktivirana blizinom koja iskoči i odbaci sve u svom radijusu.",
+    "pt-BR": "Uma mina acionada por proximidade que salta e repele qualquer coisa dentro de seu raio.",
+    "he": "מוקש קרבה שקופץ מעלה והודף לאחור כל דבר בטווח שלו."
   },
   "type": "Blueprint",
   "value": 5000,

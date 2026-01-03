@@ -18,7 +18,9 @@
     "kr": "아크 파워셀",
     "tr": "ARC Güç Hücresi",
     "hr": "ARC Energetska Ćelija",
-    "sr": "ARC Energetska Ćelija"
+    "sr": "ARC Energetska Ćelija",
+    "pt-BR": "Célula de Energia ARC",
+    "he": "תא כוח ARC"
   },
   "description": {
     "en": "Valuable resource that drops from all ARC enemies. Used to craft: Shield Recharger Can be used to repair shields.",
@@ -38,7 +40,9 @@
     "kr": "모든 아크에게서 드롭되는 귀중한 자원입니다. 제작 용도: 실드 충전기. 실드 수리에 사용할 수 있습니다.",
     "tr": "Tüm ARC düşmanlarından düşen değerli kaynak. Şunları üretmek için kullanılır: Kalkan Şarj Cihazı. Kalkanları onarmak için kullanılabilir.",
     "hr": "Vrijedan resurs koji ispuštaju svi ARC neprijatelji. Koristi se za izradu: Punjač Štita Može se koristiti za popravak štitova.",
-    "sr": "Vredan resurs koji ispuštaju svi ARC neprijatelji. Koristi se za izradu: Punjač Štita Može se koristiti za popravku štitova."
+    "sr": "Vredan resurs koji ispuštaju svi ARC neprijatelji. Koristi se za izradu: Punjač Štita Može se koristiti za popravku štitova.",
+    "pt-BR": "Recurso valioso obtido de todos os inimigos ARC. Usado para fabricar: Recarregador de Escudo Pode ser usado para reparar escudos.",
+    "he": "משאב יקר המתקבל מכל אויבי ARC. משמש ליצירת: מטען מגן. ניתן לשימוש לתיקון מגנים."
   },
   "type": "Topside Material",
   "rarity": "Common",
@@ -69,7 +73,9 @@
       "tr": "Şarj",
       "hr": "Punjenje",
       "sr": "Punjenje",
-      "value": "2/s"
+      "value": "2/s",
+      "pt-BR": "Recarga",
+      "he": "טעינה"
     },
     "Duration": {
       "en": "Duration",
@@ -90,7 +96,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "10s"
+      "value": "10s",
+      "pt-BR": "Duração",
+      "he": "משך זמן"
     },
     "Use Time": {
       "en": "Use Time",
@@ -111,7 +119,9 @@
       "tr": "Kullanım Süresi",
       "hr": "Vrijeme Korištenja",
       "sr": "Vreme Korišćenja",
-      "value": "3s"
+      "value": "3s",
+      "pt-BR": "Tempo de Uso",
+      "he": "זמן שימוש"
     }
   }
 }

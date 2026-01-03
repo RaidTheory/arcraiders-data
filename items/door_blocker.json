@@ -18,7 +18,9 @@
     "kr": "문 차단기",
     "tr": "Kapı Engelleyici",
     "hr": "Blokator Vrata",
-    "sr": "Blokator Vrata"
+    "sr": "Blokator Vrata",
+    "pt-BR": "Bloqueador de Porta",
+    "he": "חוסם דלתות"
   },
   "description": {
     "en": "A locking mechanism that can be placed on large metal doors to limit access.",
@@ -38,7 +40,9 @@
     "kr": "대형 금속 문에 설치하여 접근을 제한할 수 있는 잠금 장치.",
     "tr": "Erişimi sınırlamak için büyük metal kapılara yerleştirilebilen bir kilitleme mekanizması.",
     "hr": "Mehanizam za zaključavanje koji se može postaviti na velika metalna vrata kako bi se ograničio pristup.",
-    "sr": "Mehanizam za zaključavanje koji se može postaviti na velika metalna vrata kako bi se ograničio pristup."
+    "sr": "Mehanizam za zaključavanje koji se može postaviti na velika metalna vrata kako bi se ograničio pristup.",
+    "pt-BR": "Um mecanismo de bloqueio que pode ser colocado em grandes portas de metal para limitar o acesso.",
+    "he": "מנגנון נעילה שניתן להציב על דלתות מתכת גדולות כדי להגביל גישה."
   },
   "type": "Quick Use",
   "rarity": "Common",

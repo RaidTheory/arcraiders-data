@@ -19,7 +19,9 @@
     "tr": "Espresso",
     "zh-TW": "濃縮咖啡",
     "sr": "Espresso",
-    "hr": "Espresso"
+    "hr": "Espresso",
+    "pt-BR": "Expresso",
+    "he": "אספרסו"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Bir Akıncı daha önce dükkânıma geldi, Gömülü Şehir'de bulduğu bir makineyi birkaç el bombası karşılığında takas etmek için. Kahve yaptığını söyledi ama birkaç parçası eksik gibi görünüyor. İşe var mısın?",
     "zh-TW": "一個掠奪者稍早來到我的店裡，用她在埋葬之城找到的機器換了些手榴彈。她說那機器能做咖啡，但似乎缺了幾個零件。接這活嗎？",
     "sr": "Raider je ranije došao u moju radnju da razmeni neke granate za mašinu koju je pronašao u Zakopanom Gradu. Rekao je da pravi kafu, ali izgleda da nedostaje nekoliko delova. Spreman za posao?",
-    "hr": "Raider je ranije došao u moju radnju da razmijeni neke granate za mašinu koju je pronašao u Zakopanom Gradu. Rekao je da pravi kavu, ali izgleda da nedostaje nekoliko dijelova. Spreman za posao?"
+    "hr": "Raider je ranije došao u moju radnju da razmijeni neke granate za mašinu koju je pronašao u Zakopanom Gradu. Rekao je da pravi kavu, ali izgleda da nedostaje nekoliko dijelova. Spreman za posao?",
+    "pt-BR": "Uma Raider entrou na minha loja mais cedo para trocar algumas granadas por uma máquina que ela encontrou em Buried City. Ela disse que faz café, mas parece que estão faltando algumas peças. Topa o trabalho?",
+    "he": "ריידרית נכנסה לחנות שלי קודם לכן, כדי להחליף כמה רימונים תמורת מכונה שהיא מצאה ב-Buried City. היא אמרה שהיא מכינה קפה, אבל נראה שחסרים לה כמה חלקים. מתאים לך לקחת עבודה?"
   },
   "objectives": [
     {
@@ -64,12 +68,14 @@
       "tr": "Yedek parça için kullanılacak bir espresso makinesi bul",
       "zh-TW": "找到一台濃縮咖啡機以拆解備用零件",
       "sr": "Pronađi espresso aparat da izvučeš rezervne delove",
-      "hr": "Pronađi espresso aparat da izvučeš rezervne dijelove"
+      "hr": "Pronađi espresso aparat da izvučeš rezervne dijelove",
+      "pt-BR": "Encontre uma máquina de expresso para extrair peças sobressalentes",
+      "he": "מצא מכונת אספרסו כדי לפרק אותה לחלקי חילוף"
     },
     {
       "en": "Get the Espresso Machine Parts for Apollo",
       "de": "Besorge die Espressomaschinen-Teile für Apollo",
-      "fr":"Obtenez les pièces de la machine à Expresso pour Apollo",
+      "fr": "Obtenez les pièces de la machine à Expresso pour Apollo",
       "es": "Consigue las piezas de la máquina de espresso para Apollo",
       "pt": "Consiga as peças da máquina de espresso para Apollo",
       "pl": "Zdobądź części ekspresu do kawy dla Apollo",
@@ -84,7 +90,9 @@
       "tr": "Apollo için Espresso Makinesi Parçalarını al",
       "zh-TW": "為阿波羅獲取濃縮咖啡機零件",
       "sr": "Nabavi delove za espresso aparat za Apolla",
-      "hr": "Nabavi dijelove za espresso aparat za Apolla"
+      "hr": "Nabavi dijelove za espresso aparat za Apolla",
+      "pt-BR": "Obtenha as Peças da Máquina de Expresso para Apollo",
+      "he": "השג את חלקי מכונת האספרסו עבור Apollo"
     }
   ],
   "rewardItemIds": [

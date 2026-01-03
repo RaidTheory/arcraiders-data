@@ -18,7 +18,9 @@
     "kr": "경량 실드",
     "tr": "Hafif Kalkan",
     "hr": "Laki Štit",
-    "sr": "Laki Štit"
+    "sr": "Laki Štit",
+    "pt-BR": "Escudo Leve",
+    "he": "מגן קל"
   },
   "type": "Shield",
   "rarity": "Uncommon",
@@ -40,7 +42,9 @@
     "kr": "소량의 피해를 막아주는 경량 실드입니다. 이동 속도에 영향을 주지 않습니다.",
     "tr": "Gelen hasarın küçük bir kısmını engelleyen hafif bir kalkan. Hareketliliği etkilemez.",
     "hr": "Lagani štit koji blokira malu količinu dolazne štete bez utjecaja na pokretljivost.",
-    "sr": "Lagani štit koji blokira malu količinu dolazne štete bez uticaja na pokretljivost."
+    "sr": "Lagani štit koji blokira malu količinu dolazne štete bez uticaja na pokretljivost.",
+    "pt-BR": "Um escudo leve que bloqueia uma pequena parte do dano recebido sem impactar a mobilidade.",
+    "he": "מגן קל-משקל שחוסם חלק קטן מהנזק הנכנס מבלי לפגוע בניידות."
   },
   "durability": 100,
   "shieldCharge": 40,
@@ -71,7 +75,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Charge": {
       "en": "Charge",
@@ -92,7 +98,9 @@
       "tr": "Şarj",
       "hr": "Punjenje",
       "sr": "Punjenje",
-      "value": 40
+      "value": 40,
+      "pt-BR": "Carga",
+      "he": "טעינה"
     },
     "Damage Reduction": {
       "en": "Damage Reduction",
@@ -113,7 +121,9 @@
       "tr": "Hasar Azaltma",
       "hr": "Smanjenje Štete",
       "sr": "Smanjenje Štete",
-      "value": "40%"
+      "value": "40%",
+      "pt-BR": "Redução de Dano",
+      "he": "הפחתת נזק"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/light_shield.png",

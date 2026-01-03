@@ -18,7 +18,9 @@
     "kr": "스냅 훅",
     "tr": "Mandal Kancası",
     "hr": "Brza Kuka",
-    "sr": "Brza Kuka"
+    "sr": "Brza Kuka",
+    "pt-BR": "Mosquetão",
+    "he": "קרס תפיסה"
   },
   "description": {
     "en": "A gadget that allows the user to scale structures and cover large distances.",
@@ -38,7 +40,9 @@
     "kr": "사용자가 구조물을 오르고 먼 거리를 이동할 수 있게 해주는 장치.",
     "tr": "Kullanıcının yapılara tırmanmasını ve büyük mesafeleri kat etmesini sağlayan bir alet.",
     "hr": "Naprava koja korisniku omogućuje penjanje po strukturama i prelaženje velikih udaljenosti.",
-    "sr": "Naprava koja korisniku omogućava penjanje po strukturama i prelaženje velikih udaljenosti."
+    "sr": "Naprava koja korisniku omogućava penjanje po strukturama i prelaženje velikih udaljenosti.",
+    "pt-BR": "Um dispositivo que permite ao usuário escalar estruturas e percorrer grandes distâncias.",
+    "he": "גאדג'ט המאפשר למשתמש לטפס על מבנים ולעבור מרחקים גדולים."
   },
   "type": "Quick Use",
   "rarity": "Legendary",
@@ -65,7 +69,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Range": {
       "en": "Range",
@@ -86,7 +92,9 @@
       "tr": "Menzil",
       "hr": "Domet",
       "sr": "Domet",
-      "value": "20m"
+      "value": "20m",
+      "pt-BR": "Alcance",
+      "he": "טווח"
     }
   },
   "recipe": {

@@ -19,7 +19,9 @@
     "tr": "Zehirli Bir İz",
     "zh-TW": "有毒的蹤跡",
     "sr": "Toksičan trag",
-    "hr": "Toksičan trag"
+    "hr": "Toksičan trag",
+    "pt-BR": "Um Rastro Tóxico",
+    "he": "שביל רעיל"
   },
   "map": [
     "dam_battlegrounds"
@@ -43,7 +45,9 @@
     "tr": "Tekrar temiz suyumuz var, ama sabotajcılar geri dönerse insanların hastalanma riskini alamayız. Onları bir kez ve tamamen kökünden sökmemiz gerekiyor.",
     "zh-TW": "我們又有乾淨的水了，但如果破壞者回來，我們不能冒險讓人們生病。我們需要徹底剷除他們。",
     "sr": "Ponovo imamo čistu vodu, ali ne možemo da rizikujemo da se ljudi razbole ako se sabotažeri vrate. Moramo da ih iskorenimo jednom zauvek.",
-    "hr": "Opet imamo čistu vodu, ali ne možemo riskirati da se ljudi razbole ako se sabotažeri vrate. Moramo ih iskorijeniti jednom zauvijek."
+    "hr": "Opet imamo čistu vodu, ali ne možemo riskirati da se ljudi razbole ako se sabotažeri vrate. Moramo ih iskorijeniti jednom zauvijek.",
+    "pt-BR": "Temos água limpa novamente, mas não podemos arriscar que as pessoas adoeçam se os sabotadores voltarem. Precisamos eliminá-los de uma vez por todas.",
+    "he": "יש לנו שוב מים נקיים, אבל אנחנו לא יכולים להסתכן שאנשים יחלו אם המחבלים יחזרו. אנחנו צריכים להיפטר מהם אחת ולתמיד."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Su Arıtma Kontrol binasının altındaki su girişine geri dön",
       "zh-TW": "返回水處理控制大樓下方的取水口",
       "sr": "Vrati se do vodozahvata ispod zgrade Kontrole prečišćavanja vode",
-      "hr": "Vrati se do vodozahvata ispod zgrade Kontrole pročišćavanja vode"
+      "hr": "Vrati se do vodozahvata ispod zgrade Kontrole pročišćavanja vode",
+      "pt-BR": "Retorne à captação de água abaixo do prédio de Controle de Tratamento de Água",
+      "he": "חזור לפתח יניקת המים מתחת לבניין בקרת הטיפול במים"
     },
     {
       "en": "Search the swamp for traces of the barrel's origins",
@@ -84,7 +90,9 @@
       "tr": "Bataklıkta varilin kökenine dair izleri ara",
       "zh-TW": "在沼澤中搜尋桶的來源痕跡",
       "sr": "Pretraži močvaru u potrazi za tragovima porekla bureta",
-      "hr": "Pretraži močvaru u potrazi za tragovima porijekla bureta"
+      "hr": "Pretraži močvaru u potrazi za tragovima porijekla bureta",
+      "pt-BR": "Vasculhe o pântano por vestígios da origem do barril",
+      "he": "חפש בביצה עקבות למקור החבית"
     },
     {
       "en": "Take a photo of the barrel truck",
@@ -104,7 +112,9 @@
       "tr": "Varil kamyonunun fotoğrafını çek",
       "zh-TW": "拍一張裝桶卡車的照片",
       "sr": "Fotografiši kamion sa buradima",
-      "hr": "Fotografiraj kamion s bačvama"
+      "hr": "Fotografiraj kamion s bačvama",
+      "pt-BR": "Tire uma foto do caminhão de barris",
+      "he": "צלם את משאית החביות"
     },
     {
       "en": "Search the truck for clues about the saboteur's identity.",
@@ -124,7 +134,9 @@
       "tr": "Kamyonu sabotajcının kimliğine dair ipuçları için ara.",
       "zh-TW": "搜查卡車，尋找有關破壞者身分的線索。",
       "sr": "Pretraži kamion u potrazi za tragovima o identitetu sabotažera.",
-      "hr": "Pretraži kamion u potrazi za tragovima o identitetu sabotera."
+      "hr": "Pretraži kamion u potrazi za tragovima o identitetu sabotera.",
+      "pt-BR": "Vasculhe o caminhão em busca de pistas sobre a identidade do sabotador.",
+      "he": "חפש במשאית רמזים לזהות המחבל."
     }
   ],
   "rewardItemIds": [

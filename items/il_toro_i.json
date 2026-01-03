@@ -18,7 +18,9 @@
     "kr": "일 토로 I",
     "tr": "Il Toro I",
     "hr": "Il Toro I",
-    "sr": "Il Toro I"
+    "sr": "Il Toro I",
+    "pt-BR": "Il Toro I",
+    "he": "Il Toro I"
   },
   "description": {
     "en": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
@@ -38,7 +40,9 @@
     "kr": "넓은 탄 퍼짐, 급격한 감쇠, 높은 피해량을 가지고 있습니다.",
     "tr": "Geniş mermi yayılımı, keskin düşüş ve yüksek hasar çıkışına sahiptir.",
     "hr": "Ima veliko raspršenje metaka, nagli pad štete i visoku izlaznu štetu.",
-    "sr": "Ima veliko rasipanje metaka, nagli pad štete i visoku izlaznu štetu."
+    "sr": "Ima veliko rasipanje metaka, nagli pad štete i visoku izlaznu štetu.",
+    "pt-BR": "Escopeta de ação por bombeamento com grande dispersão, queda acentuada e alto dano.",
+    "he": "רובה ציד Pump-action עם פיזור כדורים רחב, דעיכה חדה למרחק ונזק גבוה."
   },
   "type": "Shotgun",
   "rarity": "Uncommon",
@@ -64,7 +68,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -85,7 +91,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta municije",
-      "value": "Shotgun Ammo"
+      "value": "Shotgun Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -106,7 +114,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
-      "value": 5
+      "value": 5,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -127,7 +137,9 @@
       "tr": "Atış Modu",
       "hr": "Način pucanja",
       "sr": "Režim pucanja",
-      "value": "Pump-Action"
+      "value": "Pump-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -148,7 +160,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Weak"
+      "value": "Weak",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "recyclesInto": {

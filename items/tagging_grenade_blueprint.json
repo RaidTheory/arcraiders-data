@@ -18,7 +18,9 @@
     "kr": "표식 수류탄 설계도",
     "tr": "Isaretleme Bombasi Plani",
     "hr": "Granata za Oznacavanje Nacrt",
-    "sr": "Granata za Oznacavanje Nacrt"
+    "sr": "Granata za Oznacavanje Nacrt",
+    "pt-BR": "Projeto de Granada de Marcação",
+    "he": "שרטוט רימון סימון"
   },
   "description": {
     "en": "A grenade that detonates after a delay, tagging Raiders and ARC enemies in an area, allowing you to briefly track their location.",
@@ -38,7 +40,9 @@
     "kr": "지연 후 폭발하여 지역 내의 레이더와 아크을 태그하는 수류탄입니다.",
     "tr": "Gecikmeli olarak patlayan ve bir alandaki Akinciları ve ARC dusmanlarini isaretleyen bomba.",
     "hr": "Granata koja detonira nakon odgode, oznacavajuci Razbojnike i ARC neprijatelje u podrucju.",
-    "sr": "Granata koja detonira nakon odlaganja, oznacavajuci Razbojnike i ARC neprijatelje u podrucju."
+    "sr": "Granata koja detonira nakon odlaganja, oznacavajuci Razbojnike i ARC neprijatelje u podrucju.",
+    "pt-BR": "Uma granada que detona após um intervalo, marcando Raiders e inimigos ARC em uma área, permitindo rastrear brevemente sua localização.",
+    "he": "רימון שמתפוצץ לאחר השהייה, מסמן ריידרים ואויבי ARC באזור ומאפשר לעקוב אחר מיקומם לזמן קצר."
   },
   "type": "Blueprint",
   "rarity": "Legendary",

@@ -18,7 +18,9 @@
     "kr": "베티나 설계도",
     "tr": "Bettina Planı",
     "hr": "Nacrt Bettina",
-    "sr": "Nacrt Bettina"
+    "sr": "Nacrt Bettina",
+    "pt-BR": "Projeto da Bettina",
+    "he": "שרטוט בטינה"
   },
   "description": {
     "en": "Has slow fire rate and high damage output.",
@@ -38,7 +40,9 @@
     "kr": "느린 발사 속도와 높은 피해량을 가지고 있습니다.",
     "tr": "Yavaş atış hızına ve yüksek hasar çıkışına sahiptir.",
     "hr": "Ima sporu brzinu paljbe i visoku štetu.",
-    "sr": "Ima sporu brzinu paljbe i visoku štetu."
+    "sr": "Ima sporu brzinu paljbe i visoku štetu.",
+    "pt-BR": "Tem cadência de tiro lenta e causa alto dano.",
+    "he": "בעל קצב אש איטי ונזק גבוה."
   },
   "type": "Blueprint",
   "value": 5000,

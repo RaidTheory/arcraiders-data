@@ -17,9 +17,16 @@
     "pt": "Início das Obras",
     "ru": "Начало работ",
     "tr": "Temel Atma",
-    "uk": "Початок робіт"
+    "uk": "Початок робіт",
+    "pt-BR": "Abalando as Estruturas",
+    "he": "פורץ דרך",
+    "kr": "지반 공사",
+    "hr": "Revolucionarno",
+    "sr": "Revolucionarno"
   },
-  "map": ["the_blue_gate"],
+  "map": [
+    "the_blue_gate"
+  ],
   "trader": "Apollo",
   "description": {
     "en": "Data or no data: we'll learn how to make this place earthquake-proof. With a research this in-depth, there's bound to be a paper trail somewhere.",
@@ -37,7 +44,12 @@
     "pt": "Com dados ou sem dados: vamos aprender a deixar este lugar à prova de terremotos. Com uma pesquisa tão aprofundada, com certeza existe uma trilha de documentos em algum lugar.",
     "ru": "С данными или без: мы узнаем, как сделать это место сейсмоустойчивым. При таком глубоком исследовании где-то наверняка остался бумажный след.",
     "tr": "Veri olsun ya da olmasın: burayı depreme dayanıklı hâle getirmeyi öğreneceğiz. Bu kadar derin bir araştırmanın bir yerde mutlaka evrak izi vardır.",
-    "uk": "Є дані чи немає: ми дізнаємося, як зробити це місце сейсмостійким. За такого ґрунтовного дослідження десь обов’язково лишився паперовий слід."
+    "uk": "Є дані чи немає: ми дізнаємося, як зробити це місце сейсмостійким. За такого ґрунтовного дослідження десь обов’язково лишився паперовий слід.",
+    "pt-BR": "Com ou sem dados: aprenderemos a tornar este lugar à prova de terremotos. Com uma pesquisa tão aprofundada, deve haver algum rastro de documentação em algum lugar.",
+    "he": "מידע או לא מידע: אנחנו נלמד איך להפוך את המקום הזה לעמיד בפני רעידות אדמה. עם מחקר כל כך מעמיק, בטוח נשארה ניירת איפשהו.",
+    "kr": "데이터가 있든 없든, 우리는 이곳을 내진 설계하는 법을 알아낼 거야. 이렇게 심도 있는 연구라면, 어디선가 관련 기록을 찾을 수 있겠지.",
+    "hr": "Bilo podataka ili ne: naučit ćemo kako ovo mjesto učiniti otpornim na potrese. Uz ovako temeljito istraživanje, negdje mora postojati pisani trag.",
+    "sr": "Bilo podataka ili ne: naučićemo kako da ovo mesto učinimo otpornim na zemljotrese. Uz ovako detaljno istraživanje, negde mora postojati pisani trag."
   },
   "objectives": [
     {
@@ -56,7 +68,12 @@
       "pt": "Entre na sala trancada em Pilgrim's Peak",
       "ru": "Войдите в запертую комнату на Пилигримс-Пик",
       "tr": "Pilgrim’s Peak’teki kilitli odaya gir",
-      "uk": "Увійди до замкненої кімнати на Пілігримс-Пік"
+      "uk": "Увійди до замкненої кімнати на Пілігримс-Пік",
+      "pt-BR": "Entre na sala trancada no Pico do Peregrino",
+      "he": "היכנס לחדר הנעול ב-Pilgrim's Peak",
+      "kr": "Pilgrim's Peak에 있는 잠긴 방에 진입",
+      "hr": "Uđi u zaključanu sobu na lokaciji Pilgrim's Peak",
+      "sr": "Uđi u zaključanu sobu na lokaciji Pilgrim's Peak"
     },
     {
       "en": "Search the room for any construction research",
@@ -74,7 +91,12 @@
       "pt": "Revire a sala em busca de pesquisas de construção",
       "ru": "Обыщите комнату в поисках строительных исследований",
       "tr": "Odada inşaat araştırmasına dair bir şeyler ara",
-      "uk": "Обшукай кімнату в пошуках будь-яких будівельних досліджень"
+      "uk": "Обшукай кімнату в пошуках будь-яких будівельних досліджень",
+      "pt-BR": "Vasculhe a sala em busca de qualquer pesquisa de construção",
+      "he": "חפש בחדר מסמכי מחקר בנייה כלשהם",
+      "kr": "방을 수색하여 건설 연구 자료 찾기",
+      "hr": "Pretraži sobu za istraživanjima o gradnji",
+      "sr": "Pretraži sobu za bilo kakva građevinska istraživanja"
     },
     {
       "en": "Find the building pictured on the whiteboard",
@@ -92,7 +114,12 @@
       "pt": "Encontre o prédio retratado no quadro branco",
       "ru": "Найдите здание, изображённое на доске",
       "tr": "Beyaz tahtada çizilen binayı bul",
-      "uk": "Знайди будівлю, зображену на дошці"
+      "uk": "Знайди будівлю, зображену на дошці",
+      "pt-BR": "Encontre o prédio retratado no quadro branco",
+      "he": "מצא את הבניין המופיע בתמונה על הלוח הלבן",
+      "kr": "화이트보드에 그려진 건물 찾기",
+      "hr": "Pronađi zgradu prikazanu na bijeloj ploči",
+      "sr": "Pronađi zgradu prikazanu na beloj tabli"
     },
     {
       "en": "Photograph the abandoned housing project",
@@ -110,7 +137,12 @@
       "pt": "Fotografe o conjunto habitacional abandonado",
       "ru": "Сфотографируйте заброшенный жилой комплекс",
       "tr": "Terk edilmiş konut projesinin fotoğrafını çek",
-      "uk": "Сфотографуй покинутий житловий проєкт"
+      "uk": "Сфотографуй покинутий житловий проєкт",
+      "pt-BR": "Fotografe o conjunto habitacional abandonado",
+      "he": "צלם את מתחם המגורים הנטוש",
+      "kr": "버려진 주택 단지 사진 촬영",
+      "hr": "Fotografiraj napušteni stambeni projekt",
+      "sr": "Fotografiši napušteni stambeni projekat"
     }
   ],
   "grantedItemIds": [
@@ -130,6 +162,8 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["deciphering_the_data"],
+  "previousQuestIds": [
+    "deciphering_the_data"
+  ],
   "nextQuestIds": []
 }

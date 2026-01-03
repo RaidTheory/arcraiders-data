@@ -18,7 +18,9 @@
     "kr": "보정기 II 설계도",
     "tr": "Kompansatör II Planı",
     "hr": "Nacrt za Kompenzator II",
-    "sr": "Nacrt za Kompenzator II"
+    "sr": "Nacrt za Kompenzator II",
+    "pt-BR": "Diagrama de Compensador II",
+    "he": "שרטוט מפצה סטייה II"
   },
   "description": {
     "en": "Moderately reduces per-shot dispersion.",
@@ -38,7 +40,9 @@
     "kr": "발사당 분산을 적당히 감소시킵니다.",
     "tr": "Atış başına dağılımı orta düzeyde azaltır.",
     "hr": "Umjereno smanjuje rasipanje po hicu.",
-    "sr": "Umereno smanjuje rasipanje po hicu."
+    "sr": "Umereno smanjuje rasipanje po hicu.",
+    "pt-BR": "Reduz moderadamente a dispersão por disparo.",
+    "he": "מפחית באופן בינוני את פיזור הירי."
   },
   "type": "Blueprint",
   "value": 5000,

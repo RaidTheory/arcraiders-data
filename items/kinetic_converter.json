@@ -18,7 +18,9 @@
     "kr": "키네틱 컨버터",
     "tr": "Kinetik Dönüştürücü",
     "hr": "Kinetički pretvarač",
-    "sr": "Kinetički pretvarač"
+    "sr": "Kinetički pretvarač",
+    "pt-BR": "Conversor Cinético",
+    "he": "ממיר קינטי"
   },
   "description": {
     "en": "Moderately increases fire rate. Compatible with: Arpeggio, Rattler, Kettle, Ferro, Renegade",
@@ -38,7 +40,9 @@
     "kr": "연사 속도를 적당히 증가시킵니다. 호환 무기: 아르페지오, 래틀러, 케틀, 페로, 레니게이드",
     "tr": "Ateş hızını orta düzeyde artırır. Uyumlu: Arpeggio, Rattler, Kettle, Ferro, Renegade",
     "hr": "Umjereno povećava brzinu paljbe. Kompatibilno s: Arpeggio, Rattler, Kettle, Ferro, Renegade",
-    "sr": "Umereno povećava brzinu paljbe. Kompatibilno sa: Arpeggio, Rattler, Kettle, Ferro, Renegade"
+    "sr": "Umereno povećava brzinu paljbe. Kompatibilno sa: Arpeggio, Rattler, Kettle, Ferro, Renegade",
+    "pt-BR": "Aumenta moderadamente a cadência de tiro. Compatível com: Arpeggio, Rattler, Kettle, Ferro, Renegade",
+    "he": "מגביר במתינות את קצב האש. תואם ל: Arpeggio, Rattler, Kettle, Ferro, Renegade"
   },
   "type": "Modification",
   "rarity": "Legendary",
@@ -63,7 +67,9 @@
       "uk": "Збільшена швидкострільність",
       "hr": "Povećana brzina paljbe",
       "sr": "Povećana brzina paljbe",
-      "value": "15%"
+      "value": "15%",
+      "pt-BR": "Cadência de Tiro Aumentada",
+      "he": "קצב אש מוגבר"
     },
     "Increased Vertical Recoil": {
       "en": "Increased Vertical Recoil",
@@ -84,7 +90,9 @@
       "uk": "Збільшена вертикальна віддача",
       "hr": "Povećan vertikalni trzaj",
       "sr": "Povećan vertikalni trzaj",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Recuo Vertical Aumentado",
+      "he": "רתע אנכי מוגבר"
     },
     "Increased Horizontal Recoil": {
       "en": "Increased Horizontal Recoil",
@@ -105,7 +113,9 @@
       "uk": "Збільшена горизонтальна віддача",
       "hr": "Povećan horizontalni trzaj",
       "sr": "Povećan horizontalni trzaj",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Recuo Horizontal Aumentado",
+      "he": "רתע אופקי מוגבר"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/kinetic_converter.png",

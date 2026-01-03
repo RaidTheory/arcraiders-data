@@ -18,7 +18,9 @@
     "kr": "경량 개머리판 설계도",
     "tr": "Hafif Dipçik Planı",
     "hr": "Nacrt za laganu kundak",
-    "sr": "Nacrt za lagani kundak"
+    "sr": "Nacrt za lagani kundak",
+    "pt-BR": "Projeto de Coronha Leve",
+    "he": "שרטוט קת קלת-משקל"
   },
   "description": {
     "en": "Moderately improves ADS & draw speed.",
@@ -38,7 +40,9 @@
     "kr": "조준 및 무기 꺼내기 속도를 적당히 향상시킵니다.",
     "tr": "Nişan alma ve çekme hızını orta düzeyde artırır.",
     "hr": "Umjereno poboljšava brzinu nišanjenja i izvlačenja.",
-    "sr": "Umereno poboljšava brzinu nišanjenja i izvlačenja."
+    "sr": "Umereno poboljšava brzinu nišanjenja i izvlačenja.",
+    "pt-BR": "Melhora moderadamente a velocidade de mira e saque.",
+    "he": "משפר במתינות את מהירות הכניסה לכוונת (ADS) והשליפה."
   },
   "type": "Blueprint",
   "value": 5000,

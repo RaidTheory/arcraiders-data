@@ -19,7 +19,9 @@
     "tr": "Su Sorunları",
     "ja": "水のトラブル",
     "zh-CN": "水源问题",
-    "sr": "Проблеми са водом"
+    "sr": "Проблеми са водом",
+    "pt-BR": "Problemas com a Água",
+    "he": "צרות במים"
   },
   "map": [
     "dam_battlegrounds"
@@ -43,7 +45,9 @@
     "tr": "Su hakkında şikayet etmek için geldiyseniz, kulübe hoş geldiniz. Bütün gün şikayetlerle uğraşıyorum. Kesinlikle bir sorun var ve bunu çözmek için yardıma ihtiyacım var.",
     "ja": "水について文句を言いに来たなら、仲間に入ってくれ。一日中苦情を受け付けてるんだ。確実に何かがおかしいんだが、解決するには助けが必要なんだ。",
     "zh-CN": "如果你是来抱怨水的问题，那你来对地方了。我整天都在处理投诉。水源肯定出了问题，我需要一些帮助来解决这个问题。",
-    "sr": "Ако си овде да се жалиш на воду, добродошао у клуб. Цео дан примам притужбе. Нешто дефинитивно није у реду са њом, и требам помоћ да то решим."
+    "sr": "Ако си овде да се жалиш на воду, добродошао у клуб. Цео дан примам притужбе. Нешто дефинитивно није у реду са њом, и требам помоћ да то решим.",
+    "pt-BR": "Se você veio reclamar da água, entre para o clube. Estou recebendo reclamações o dia todo. Definitivamente tem algo errado com ela, e preciso de ajuda para resolver.",
+    "he": "אם באת להתלונן על המים, תצטרף למועדון. אני מטפל בתלונות כל היום. משהו בהחלט לא בסדר איתם, ואני צריך עזרה כדי לסדר את זה."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Kızıl Göl Balkonu altındaki Sel Erişim Tünelini bul",
       "ja": "赤い池のバルコニーの下にある浸水時の地下通路を見つける",
       "zh-CN": "找到红湖阳台下方的洪水通道",
-      "sr": "Пронађи приступни тунел за поплаве испод Балкона Црвеног језера"
+      "sr": "Пронађи приступни тунел за поплаве испод Балкона Црвеног језера",
+      "pt-BR": "Localize o Túnel de Acesso de Inundação sob a Varanda do Lago Vermelho",
+      "he": "אתר את מנהרת הגישה להצפות מתחת למרפסת האגם האדום"
     },
     {
       "en": "Find the intake to the District's Water Supply",
@@ -84,7 +90,9 @@
       "tr": "Bölgenin Su Kaynağına giden girişi bul",
       "ja": "地区の取水口を見つける",
       "zh-CN": "找到区域供水系统的进水口",
-      "sr": "Пронађи довод за водоснабдевање Дистрикта"
+      "sr": "Пронађи довод за водоснабдевање Дистрикта",
+      "pt-BR": "Encontre a captação do Abastecimento de Água do Distrito",
+      "he": "מצא את פתח הכניסה לאספקת המים המחוזית"
     },
     {
       "en": "Sample the water",
@@ -104,7 +112,9 @@
       "tr": "Sudan numune al",
       "ja": "水をとる",
       "zh-CN": "采集水样",
-      "sr": "Узми узорак воде"
+      "sr": "Узми узорак воде",
+      "pt-BR": "Colete uma amostra da água",
+      "he": "קח דגימה מהמים"
     }
   ],
   "rewardItemIds": [

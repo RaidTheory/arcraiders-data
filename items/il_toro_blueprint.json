@@ -18,7 +18,9 @@
     "kr": "일 토로 설계도",
     "tr": "Il Toro Planı",
     "hr": "Nacrt za Il Toro",
-    "sr": "Nacrt za Il Toro"
+    "sr": "Nacrt za Il Toro",
+    "pt-BR": "Diagrama da Il Toro",
+    "he": "שרטוט Il Toro"
   },
   "description": {
     "en": "Has a large bullet spread, sharp falloff, and high damage output.",
@@ -38,7 +40,9 @@
     "kr": "넓은 탄 퍼짐, 급격한 감쇠, 높은 데미지를 가지고 있습니다.",
     "tr": "Geniş mermi yayılımı, keskin düşüş ve yüksek hasar çıkışına sahiptir.",
     "hr": "Ima veliko rasipanje metaka, oštar pad štete i visoku izlaznu štetu.",
-    "sr": "Ima veliko rasipanje metaka, oštar pad štete i visoku izlaznu štetu."
+    "sr": "Ima veliko rasipanje metaka, oštar pad štete i visoku izlaznu štetu.",
+    "pt-BR": "Possui grande dispersão, queda de dano acentuada e alto potencial de dano.",
+    "he": "בעל פיזור קליעים רחב, דעיכה חדה ונזק גבוה."
   },
   "type": "Blueprint",
   "value": 5000,

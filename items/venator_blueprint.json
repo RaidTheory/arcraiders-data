@@ -18,7 +18,9 @@
     "kr": "베나토르 설계도",
     "tr": "Venator Planı",
     "hr": "Venator Nacrt",
-    "sr": "Venator Nacrt"
+    "sr": "Venator Nacrt",
+    "pt-BR": "Diagrama da Venator",
+    "he": "שרטוט ונטור"
   },
   "description": {
     "en": "Fires two shots at a time.",
@@ -38,7 +40,9 @@
     "kr": "한 번에 두 발을 발사합니다.",
     "tr": "Aynı anda iki mermi atar.",
     "hr": "Ispaljuje dva hica odjednom.",
-    "sr": "Ispaljuje dva hica odjednom."
+    "sr": "Ispaljuje dva hica odjednom.",
+    "pt-BR": "Dispara dois tiros por vez.",
+    "he": "יורה שתי יריות בבת אחת."
   },
   "type": "Blueprint",
   "value": 5000,

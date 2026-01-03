@@ -19,7 +19,9 @@
     "tr": "Daha Açık Gökyüzü",
     "zh-TW": "晴朗天空",
     "sr": "Vedro Nebo",
-    "hr": "Vedro Nebo"
+    "hr": "Vedro Nebo",
+    "pt-BR": "Céus Mais Limpos",
+    "he": "שמיים בהירים יותר"
   },
   "trader": "Shani",
   "description": {
@@ -40,7 +42,9 @@
     "tr": "Yönünü şaşırmış bir eşek arısı sürüsü çatı pencerelerimizden birinin yakınına düştü. Daha fazla kaza olmadan ARC saflarını seyreltmen gerekiyor. Ve hasarı onarmak için özellikle sağlam malzemeler toplayabilir misin?",
     "zh-TW": "一群迷失方向的黃蜂墜落在我們的一個天窗附近。你需要在更多事故發生之前削減ARC的數量。另外，你能收集一些特別堅固的材料來修復損壞嗎？",
     "sr": "Roj dezorijentisanih osa se srušio blizu jednog od naših krovnih prozora. Moraš prorediti redove ARC-a pre nego što se dogodi još nesreća. I možeš li sakupiti neke posebno izdržljive materijale da popraviš štetu?",
-    "hr": "Roj dezorijentiranih osa srušio se blizu jednog od naših krovnih prozora. Moraš prorediti redove ARC-a prije nego što se dogodi još nesreća. I možeš li sakupiti neke posebno izdržljive materijale da popraviš štetu?"
+    "hr": "Roj dezorijentiranih osa srušio se blizu jednog od naših krovnih prozora. Moraš prorediti redove ARC-a prije nego što se dogodi još nesreća. I možeš li sakupiti neke posebno izdržljive materijale da popraviš štetu?",
+    "pt-BR": "Um enxame de vespas desorientadas caiu perto de uma de nossas claraboias. Você precisa reduzir as fileiras da ARC antes que mais acidentes aconteçam. E pode coletar alguns materiais particularmente resistentes para reparar o dano?",
+    "he": "נחיל של צרעות מבולבלות התרסק ליד אחד מחלונות הגג שלנו. עליך לדלל את שורות ה-ARC לפני שיקרו תאונות נוספות. ותוכל לאסוף כמה חומרים עמידים במיוחד כדי לתקן את הנזק?"
   },
   "objectives": [
     {
@@ -61,7 +65,9 @@
       "tr": "3 ARC düşmanını yok et",
       "zh-TW": "消滅3個ARC敵人",
       "sr": "Uništite 3 ARC neprijatelja",
-      "hr": "Uništite 3 ARC neprijatelja"
+      "hr": "Uništite 3 ARC neprijatelja",
+      "pt-BR": "Destrua 3 inimigos da ARC",
+      "he": "השמד 3 אויבי ARC"
     },
     {
       "en": "Get 3 ARC Alloy for Shani",
@@ -81,7 +87,9 @@
       "tr": "Shani için 3 ARC Alaşımı al",
       "zh-TW": "為莎妮獲取3個ARC合金",
       "sr": "Nabavite 3 ARC legure za Shani",
-      "hr": "Nabavite 3 ARC legure za Shani"
+      "hr": "Nabavite 3 ARC legure za Shani",
+      "pt-BR": "Obtenha 3 Ligas ARC para Shani",
+      "he": "השג 3 סגסוגת ARC עבור שאני"
     }
   ],
   "requiredItemIds": [

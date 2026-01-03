@@ -18,7 +18,9 @@
     "kr": "바리케이드 키트",
     "tr": "Barikat Kiti",
     "hr": "Komplet za Barikadu",
-    "sr": "Komplet za Barikadu"
+    "sr": "Komplet za Barikadu",
+    "pt-BR": "Kit de Barricada",
+    "he": "ערכת מחסום"
   },
   "description": {
     "en": "A deployable cover that can block incoming damage until it breaks.",
@@ -38,7 +40,9 @@
     "kr": "배치 가능한 엄폐물로, 파괴될 때까지 들어오는 피해를 막아줍니다.",
     "tr": "Kırılana kadar gelen hasarı engelleyebilen konuşlandırılabilir bir siper.",
     "hr": "Pokretni zaklon koji može blokirati dolaznu štetu dok se ne slomi.",
-    "sr": "Pokretni zaklon koji može blokirati dolaznu štetu dok se ne slomi."
+    "sr": "Pokretni zaklon koji može blokirati dolaznu štetu dok se ne slomi.",
+    "pt-BR": "Uma cobertura implantável que pode bloquear o dano recebido até quebrar.",
+    "he": "מחסה ניתן לפריסה החוסם נזק נכנס עד שהוא נשבר."
   },
   "type": "Quick Use",
   "rarity": "Uncommon",
@@ -68,7 +72,9 @@
       "tr": "Sağlık",
       "hr": "Zdravlje",
       "sr": "Zdravlje",
-      "value": 500
+      "value": 500,
+      "pt-BR": "Vida",
+      "he": "בריאות"
     },
     "Duration": {
       "en": "Duration",
@@ -89,7 +95,9 @@
       "uk": "Тривалість",
       "no": "Varighet",
       "fr": "Durée",
-      "value": "500 Health"
+      "value": "500 Health",
+      "pt-BR": "Duração",
+      "he": "משך"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/barricade_kit.png",

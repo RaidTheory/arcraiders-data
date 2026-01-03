@@ -18,7 +18,9 @@
     "kr": "스티처 I",
     "tr": "Stitcher I",
     "hr": "Stitcher I",
-    "sr": "Stitcher I"
+    "sr": "Stitcher I",
+    "pt-BR": "Stitcher I",
+    "he": "סטיצ'ר I"
   },
   "description": {
     "en": "Deals good damage, but has quite a low fire-rate and can be hard to control.",
@@ -38,7 +40,9 @@
     "kr": "좋은 피해를 입히지만 연사력이 상당히 낮고 제어하기 어렵습니다.",
     "tr": "İyi hasar verir, ancak oldukça düşük atış hızına sahiptir ve kontrol edilmesi zor olabilir.",
     "hr": "Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolirati.",
-    "sr": "Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolisati."
+    "sr": "Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolisati.",
+    "pt-BR": "Causa um bom dano, mas possui uma cadência de tiro bem baixa e pode ser difícil de controlar.",
+    "he": "גורם נזק טוב, אך בעל קצב אש נמוך ועשוי להיות קשה לשליטה."
   },
   "type": "SMG",
   "rarity": "Common",
@@ -81,7 +85,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -102,7 +108,9 @@
       "tr": "Mermi Tipi",
       "hr": "Vrsta streljiva",
       "sr": "Vrsta municije",
-      "value": "Light Ammo"
+      "value": "Light Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -123,7 +131,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
-      "value": 20
+      "value": 20,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -144,7 +154,9 @@
       "tr": "Atış Modu",
       "hr": "Način pucanja",
       "sr": "Režim paljbe",
-      "value": "Fully-Automatic"
+      "value": "Fully-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -165,7 +177,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
-      "value": "Very Weak"
+      "value": "Very Weak",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     }
   },
   "isWeapon": true

@@ -18,7 +18,9 @@
     "kr": "광전 망토",
     "tr": "Fotoelektrik Pelerin",
     "hr": "Fotoelektrični Ogrtač",
-    "sr": "Fotoelektrični Ogrtač"
+    "sr": "Fotoelektrični Ogrtač",
+    "pt-BR": "Manto Fotoelétrico",
+    "he": "גלימה פוטואלקטרית"
   },
   "description": {
     "en": "A gadget that allows the user to conceal themselves from ARC.",
@@ -38,7 +40,9 @@
     "kr": "사용자가 아크로부터 자신을 숨길 수 있는 장치입니다.",
     "tr": "Kullanıcının kendini ARC'den gizlemesini sağlayan bir alet.",
     "hr": "Naprava koja omogućuje korisniku da se sakrije od ARC-a.",
-    "sr": "Naprava koja omogućava korisniku da se sakrije od ARC-a."
+    "sr": "Naprava koja omogućava korisniku da se sakrije od ARC-a.",
+    "pt-BR": "Um dispositivo que permite ao usuário se ocultar dos ARC.",
+    "he": "גאדג'ט המאפשר למשתמש להסתיר את עצמו מ-ARC."
   },
   "type": "Quick Use",
   "rarity": "Epic",
@@ -64,7 +68,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/photoelectric_cloak.png",

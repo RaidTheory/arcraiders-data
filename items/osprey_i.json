@@ -18,7 +18,9 @@
     "kr": "오스프레이 I",
     "tr": "Osprey I",
     "hr": "Osprey I",
-    "sr": "Osprey I"
+    "sr": "Osprey I",
+    "pt-BR": "Osprey I",
+    "he": "אוספריי I"
   },
   "description": {
     "en": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
@@ -38,7 +40,9 @@
     "kr": "안정적인 피해량과 정확도를 가지고 있습니다.",
     "tr": "Güvenilir hasar ve isabetliliğe sahiptir.",
     "hr": "Ima pouzdanu štetu i preciznost.",
-    "sr": "Ima pouzdanu štetu i preciznost."
+    "sr": "Ima pouzdanu štetu i preciznost.",
+    "pt-BR": "Um rifle de precisão de ferrolho com mira telescópica, com dano e precisão confiáveis.",
+    "he": "רובה צלפים בריחי עם כוונת, בעל תפוקת נזק ודיוק אמינים."
   },
   "type": "Sniper Rifle",
   "updatedAt": "11/12/2025",
@@ -65,7 +69,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -86,7 +92,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Streljiva",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -107,7 +115,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
-      "value": 8
+      "value": 8,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -128,7 +138,9 @@
       "tr": "Ateş Modu",
       "hr": "Način Pucanja",
       "sr": "Način Pucanja",
-      "value": "Bolt-Action"
+      "value": "Bolt-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -149,7 +161,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "Probijanje ARC Oklopa",
       "sr": "Probijanje ARC Oklopa",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Armadura ARC",
+      "he": "חדירת שריון ARC"
     },
     "Special Trait": {
       "en": "Special Trait",
@@ -170,7 +184,9 @@
       "tr": "Özel Özellik",
       "hr": "Posebna Osobina",
       "sr": "Posebna Osobina",
-      "value": "Scoped"
+      "value": "Scoped",
+      "pt-BR": "Atributo Especial",
+      "he": "תכונה מיוחדת"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/osprey.png",

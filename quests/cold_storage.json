@@ -19,7 +19,9 @@
     "tr": "Soğuk Depo",
     "zh-TW": "冷藏庫",
     "sr": "Hladnjača",
-    "hr": "Hladnjača"
+    "hr": "Hladnjača",
+    "pt-BR": "Câmara Fria",
+    "he": "אחסון בקירור"
   },
   "map": [
     "stella_montis"
@@ -44,7 +46,9 @@
     "tr": "Stella Montis hakkında raporlar gelmeye devam ediyor ve gördüğümüz hiçbir şeye benzemiyor. İçeride geçmişten kalma kayıtlar ya da kalıntılar olabilir; eğer varsa, onları istiyorum.",
     "zh-TW": "關於史特拉蒙蒂斯的報告不斷傳來，那裡與我們以往見過的完全不同。裡面也許藏有過去的紀錄或遺物，如果有的話，我要你把它們帶來。",
     "sr": "Izveštaji o Stela Montisu ne prestaju da stižu, i to nije nalik ničemu što smo ranije videli. Unutra možda ima zapisa ili relikvija iz prošlosti, i ako ih ima, hoću da ih doneseš.",
-    "hr": "Izvještaji o Stella Montis ne prestaju pristizati, i to nije nalik ničemu što smo ranije vidjeli. Unutra bi mogli biti zapisi ili relikvije iz prošlosti, i ako ih ima, želim ih."
+    "hr": "Izvještaji o Stella Montis ne prestaju pristizati, i to nije nalik ničemu što smo ranije vidjeli. Unutra bi mogli biti zapisi ili relikvije iz prošlosti, i ako ih ima, želim ih.",
+    "pt-BR": "Relatórios sobre Stella Montis continuam chegando, e é diferente de tudo que já vimos antes. Pode haver registros ou relíquias do passado lá, e se houver, eu os quero.",
+    "he": "דיווחים על Stella Montis ממשיכים להגיע, וזה לא דומה לשום דבר שראינו בעבר. ייתכן שיש שם רישומים או שרידים מהעבר, ואם כן, אני רוצה אותם."
   },
   "objectives": [
     {
@@ -65,7 +69,9 @@
       "tr": "Tek bir turda, herhangi bir J Kozma Ventures konteynerini ara",
       "zh-TW": "在一輪中搜查任意一個J Kozma Ventures容器",
       "sr": "U jednoj rundi, pretraži bilo koji J Kozma Ventures kontejner",
-      "hr": "U jednoj rundi, pretraži bilo koji J Kozma Ventures kontejner"
+      "hr": "U jednoj rundi, pretraži bilo koji J Kozma Ventures kontejner",
+      "pt-BR": "Em uma partida, vasculhe qualquer contêiner da J Kozma Ventures",
+      "he": "בסיבוב אחד, חפש בכל מכולה של J Kozma Ventures"
     },
     {
       "en": "In one round, deliver the Rare Books to Shani",
@@ -85,7 +91,9 @@
       "tr": "Tek bir turda, Nadir Kitapları Shani'ye teslim et",
       "zh-TW": "在一輪中將珍稀書籍交給莎妮",
       "sr": "U jednoj rundi, isporuči Retke Knjige Shani",
-      "hr": "U jednoj rundi, isporuči Rijetke Knjige Shani"
+      "hr": "U jednoj rundi, isporuči Rijetke Knjige Shani",
+      "pt-BR": "Em uma partida, entregue os Livros Raros para Shani",
+      "he": "בסיבוב אחד, מסור את הספרים הנדירים לשאני"
     }
   ],
   "grantedItemIds": [],

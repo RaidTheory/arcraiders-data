@@ -18,7 +18,9 @@
     "kr": "화산암",
     "tr": "Volkanik Kaya",
     "hr": "Vulkanska stijena",
-    "sr": "Vulkanska stena"
+    "sr": "Vulkanska stena",
+    "pt-BR": "Rocha Vulcânica",
+    "he": "סלע געשי"
   },
   "rarity": "Common",
   "type": "Misc",
@@ -42,7 +44,9 @@
     "kr": "던질 수 있습니다.",
     "tr": "Fırlatılabilir.",
     "hr": "Može se baciti.",
-    "sr": "Može se baciti."
+    "sr": "Može se baciti.",
+    "pt-BR": "Pode ser arremessada.",
+    "he": "ניתן לזריקה."
   },
   "foundIn": "Nature",
   "weightKg": 0.5,
@@ -67,7 +71,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": 10
+      "value": 10,
+      "pt-BR": "Dano",
+      "he": "נזק"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/volcanic_rock.png",

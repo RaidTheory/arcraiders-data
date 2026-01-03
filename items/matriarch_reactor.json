@@ -18,7 +18,9 @@
     "tr": "Anaerkil Reaktör",
     "uk": "Реактор Матріарха",
     "no": "Matriarkreactor",
-    "fr": "Réacteur de la Matriarche"
+    "fr": "Réacteur de la Matriarche",
+    "pt-BR": "Reator da Matriarca",
+    "he": "כור Matriarch"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
-    "fr": "Peut être recyclé en matériaux d'artisanat."
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למחזר לחומרי יצירה."
   },
   "type": "Material",
   "rarity": "Legendary",

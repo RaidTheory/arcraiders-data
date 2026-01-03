@@ -18,7 +18,9 @@
     "kr": "전술 마크 3 (방어)",
     "tr": "Taktik Mk. 3 (Savunma)",
     "hr": "Taktički Mk. 3 (Obrambeni)",
-    "sr": "Taktički Mk. 3 (Odbrambeni)"
+    "sr": "Taktički Mk. 3 (Odbrambeni)",
+    "pt-BR": "Tático Mk. 3 (Defensivo)",
+    "he": "טקטי Mk. 3 (הגנתי)"
   },
   "description": {
     "en": "A defensive-focused augment for keeping Shields topped up.",
@@ -38,7 +40,9 @@
     "kr": "방어에 초점을 맞춘 증강 장비로, 방어막을 항상 유지합니다.",
     "tr": "Kalkanların dolu kalmasını sağlayan savunma odaklı bir güçlendirme.",
     "hr": "Obrambeno usmjerena nadogradnja koja pomaže održavati štitove punima.",
-    "sr": "Odbrambeno usmerena nadogradnja koja pomaže da štitovi ostanu puni."
+    "sr": "Odbrambeno usmerena nadogradnja koja pomaže da štitovi ostanu puni.",
+    "pt-BR": "Um aprimoramento defensivo para manter os Escudos no máximo.",
+    "he": "תוסף הגנתי שנועד לשמור על המגנים מלאים."
   },
   "type": "Augment",
   "rarity": "Epic",
@@ -73,7 +77,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
@@ -94,7 +100,9 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. Težina Opreme",
       "sr": "Maks. Težina Opreme",
-      "value": 60
+      "value": 60,
+      "pt-BR": "Peso Máximo do Equipamento",
+      "he": "משקל ציוד מקסימלי"
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -115,7 +123,9 @@
       "tr": "Kalkan Uyumluluğu",
       "hr": "Kompatibilnost Štita",
       "sr": "Kompatibilnost Štita",
-      "value": "Light, Medium, Heavy"
+      "value": "Light, Medium, Heavy",
+      "pt-BR": "Compatibilidade de Escudo",
+      "he": "תאימות מגן"
     }
   },
   "weightKg": 5,

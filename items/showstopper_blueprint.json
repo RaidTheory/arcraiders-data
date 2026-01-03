@@ -18,7 +18,9 @@
     "kr": "쇼스토퍼 설계도",
     "tr": "Gosteri Durdurucu Plani",
     "hr": "Showstopper Nacrt",
-    "sr": "Showstopper Nacrt"
+    "sr": "Showstopper Nacrt",
+    "pt-BR": "Projeto: Showstopper",
+    "he": "שרטוט שואו-סטופר"
   },
   "description": {
     "en": "A grenade that detonates after a delay, stunning enemies within its radius.",
@@ -38,7 +40,9 @@
     "kr": "지연 후 폭발하여 범위 내 적을 기절시키는 수류탄입니다.",
     "tr": "Bir gecikmeden sonra patlayan ve yaricapindaki dusmanlari sersemletеn bir bomba.",
     "hr": "Granata koja detonira nakon odgode, omamljujuci neprijatelje u svom radijusu.",
-    "sr": "Granata koja detonira nakon odlaganja, omamljujuci neprijatelje u svom radijusu."
+    "sr": "Granata koja detonira nakon odlaganja, omamljujuci neprijatelje u svom radijusu.",
+    "pt-BR": "Uma granada que detona após um atraso, atordoando inimigos dentro do seu raio.",
+    "he": "רימון שמתפוצץ לאחר השהיה, ומהמם אויבים ברדיוס הפיצוץ."
   },
   "type": "Blueprint",
   "rarity": "Legendary",

@@ -17,7 +17,9 @@
     "tr": "Binbaşı Aiva'nın Arması",
     "uk": "Нашивка майора Айви",
     "sr": "Oznaka majora Aive",
-    "hr": "Oznaka bojnika Aive"
+    "hr": "Oznaka bojnika Aive",
+    "pt-BR": "Emblema da Major Aiva",
+    "he": "הטלאי של Major Aiva"
   },
   "description": {
     "en": "A torn patch, found amidst rubble and ruin.",
@@ -37,7 +39,9 @@
     "tr": "Moloz ve harabeler arasında bulunmuş yırtık bir arma.",
     "uk": "Порвана нашивка, знайдена серед уламків і руїн.",
     "sr": "Pocepana oznaka, pronađena među ruševinama i ruševinama.",
-    "hr": "Poderana oznaka, pronađena usred ruševina i rušenja."
+    "hr": "Poderana oznaka, pronađena usred ruševina i rušenja.",
+    "pt-BR": "Um emblema rasgado, encontrado em meio aos escombros e ruínas.",
+    "he": "טלאי קרוע, שנמצא בין ההריסות."
   },
   "id": "major_aivas_patch",
   "type": "Trinket",
@@ -62,7 +66,9 @@
       "uk": "Відстежується для завдання",
       "sr": "Praćeno za zadatak",
       "hr": "Praćeno za zadatak",
-      "value": ""
+      "value": "",
+      "pt-BR": "Rastreado para missão",
+      "he": "במעקב עבור משימה"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/major_aivas_patch.png",

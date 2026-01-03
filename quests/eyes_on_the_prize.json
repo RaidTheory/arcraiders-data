@@ -19,7 +19,9 @@
     "tr": "Gözler Ödülde",
     "zh-TW": "緊盯目標",
     "sr": "Oči na Nagradi",
-    "hr": "Oči na Nagradi"
+    "hr": "Oči na Nagradi",
+    "pt-BR": "De Olho no Prêmio",
+    "he": "העיניים על הפרס"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Yardım ettiğinden beri teslimat noktalarımın çevresinde her şey sakindi, ama bu uzun süre böyle kalacağı anlamına gelmiyor. Gelecekteki kurcalamaları önlemek için Gömülü Şehir'de en çok kullandığım yerlerden birine gözetleme kurdum. Tek sorun, çalışması için güce ihtiyacı var.",
     "zh-TW": "自從你幫忙之後，我的投放點周圍一直很平靜，但這不意味著會一直這樣。我在埋葬之城最常用的地點之一設置了監控，以防止未來的破壞。唯一的問題是，它需要電力才能啟動。",
     "sr": "Sve je mirno oko mojih mesta za dostavu otkako si pomogao, ali to ne znači da će tako ostati dugo. Postavio sam nadzor na jednom od mojih najkorišćenijih mesta u Zakopanom Gradu, da sprečim buduće petljanje. Jedini problem je što mu treba struja da proradi.",
-    "hr": "Sve je mirno oko mojih mjesta za dostavu otkako si pomogao, ali to ne znači da će tako ostati dugo. Postavio sam nadzor na jednom od mojih najkorištenijih mjesta u Zakopanom Gradu, da spriječim buduće petljanje. Jedini problem je što mu treba struja da proradi."
+    "hr": "Sve je mirno oko mojih mjesta za dostavu otkako si pomogao, ali to ne znači da će tako ostati dugo. Postavio sam nadzor na jednom od mojih najkorištenijih mjesta u Zakopanom Gradu, da spriječim buduće petljanje. Jedini problem je što mu treba struja da proradi.",
+    "pt-BR": "Tudo tem estado calmo nos meus pontos de entrega desde que você ajudou, mas isso não significa que vai continuar assim por muito tempo. Instalei vigilância em um dos meus locais mais usados na Cidade Soterrada, para evitar interferências futuras. O único problema é que precisa de energia para funcionar.",
+    "he": "הכל רגוע סביב נקודות המסירה שלי מאז שעזרת, אבל זה לא אומר שזה יישאר ככה לאורך זמן. הצבתי אמצעי מעקב באחת הנקודות הפעילות ביותר שלי ב-Buried City, כדי למנוע חבלה עתידית. הבעיה היחידה היא שצריך חשמל כדי להפעיל את זה."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Güney İstasyonu'nun güneybatısındaki tenha çatı terasını bul, mavi brandaları ara",
       "zh-TW": "找到南站西南方向的隱蔽屋頂露台，尋找藍色防水布",
       "sr": "Pronađi povučenu krovnu terasu jugozapadne od Južne Stanice, traži plave cerade",
-      "hr": "Pronađi povučenu krovnu terasu jugozapadno od Južne Stanice, traži plave cerade"
+      "hr": "Pronađi povučenu krovnu terasu jugozapadno od Južne Stanice, traži plave cerade",
+      "pt-BR": "Encontre o terraço isolado a sudoeste da Estação Sul, procure por lonas azuis",
+      "he": "מצא את מרפסת הגג המבודדת דרומית-מערבית ל-Southern Station, חפש יריעות כחולות"
     },
     {
       "en": "Rewire the solar panel using 3 Wires",
@@ -84,7 +90,9 @@
       "tr": "3 Kablo kullanarak güneş panelini yeniden kablola",
       "zh-TW": "使用3根電線重新連接太陽能板",
       "sr": "Ponovo poveži solarni panel koristeći 3 Žice",
-      "hr": "Ponovo poveži solarni panel koristeći 3 Žice"
+      "hr": "Ponovo poveži solarni panel koristeći 3 Žice",
+      "pt-BR": "Refaça a fiação do painel solar usando 3 Fios",
+      "he": "חווט מחדש את הפאנל הסולארי בעזרת 3 כבלים"
     }
   ],
   "requiredItemIds": [

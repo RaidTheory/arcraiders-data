@@ -19,7 +19,9 @@
     "tr": "İlk Dayanak",
     "zh-TW": "第一個立足點",
     "sr": "Prvo Uporište",
-    "hr": "Prvo Uporište"
+    "hr": "Prvo Uporište",
+    "pt-BR": "Um Primeiro Ponto de Apoio",
+    "he": "דריסת רגל ראשונה"
   },
   "map": [
     "the_blue_gate"
@@ -43,7 +45,9 @@
     "tr": "Tüp ağını Mavi Kapı'ya doğru genişletmeyi yeni bitirdik ve geri kalanı üzerinde hala çalışıyoruz. Ekibim, Akıncılarımızı korumak için vadi çevresinde yeni altyapı inşa ediyor, ancak sürekli ARC tehdidi bir şeyler halletmeyi zorlaştırıyor.",
     "zh-TW": "我們剛剛完成了通往藍門的管道網絡擴建，其餘部分還在施工中。我的團隊一直在山谷周圍建設新的基礎設施來保護我們的掠奪者，但ARC持續的威脅讓我們難以完成任何工作。",
     "sr": "Upravo smo završili sa proširenjem mreže Tunela prema Plavoj Kapiji, i još uvek radimo na ostatku. Moja ekipa je gradila novu infrastrukturu oko doline da zaštiti naše Rejdere, ali stalna ARC pretnja je otežala obavljanje bilo čega.",
-    "hr": "Upravo smo završili s proširenjem mreže Tunela prema Plavim Vratima, i još uvijek radimo na ostatku. Moja ekipa je gradila novu infrastrukturu oko doline da zaštiti naše Rejdere, ali stalna ARC prijetnja je otežala obavljanje bilo čega."
+    "hr": "Upravo smo završili s proširenjem mreže Tunela prema Plavim Vratima, i još uvijek radimo na ostatku. Moja ekipa je gradila novu infrastrukturu oko doline da zaštiti naše Rejdere, ali stalna ARC prijetnja je otežala obavljanje bilo čega.",
+    "pt-BR": "Mal acabamos de expandir a rede de Tubos em direção ao Blue Gate e ainda estamos trabalhando duro no resto. Minha equipe tem construído nova infraestrutura pelo vale para proteger nossos Raiders, mas a ameaça constante da ARC tem tornado difícil fazer qualquer coisa.",
+    "he": "רק סיימנו להרחיב את רשת המנהרות לעבר ה-Blue Gate, ואנחנו עדיין עמלים על השאר. הצוות שלי בונה תשתיות חדשות ברחבי העמק כדי להגן על הריידרים שלנו, אבל איום ה-ARC המתמיד מקשה עלינו להשלים משימות."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Sırt Hattı yakınındaki gözlem güvertesini sabitle",
       "zh-TW": "穩固山脊線附近的觀察台",
       "sr": "Stabiliziraj posmatračku palubu blizu Grebena",
-      "hr": "Stabiliziraj promatračku palubu blizu Grebena"
+      "hr": "Stabiliziraj promatračku palubu blizu Grebena",
+      "pt-BR": "Estabilize o deque de observação perto da Crista",
+      "he": "יצב את עמדת התצפית ליד ה-Ridgeline"
     },
     {
       "en": "Enable the comms terminal near the Olive Grove",
@@ -84,7 +90,9 @@
       "tr": "Zeytin Korusu yakınındaki iletişim terminalini etkinleştir",
       "zh-TW": "啟用橄欖林附近的通訊終端",
       "sr": "Aktiviraj komunikacijski terminal blizu Maslinika",
-      "hr": "Aktiviraj komunikacijski terminal blizu Maslinika"
+      "hr": "Aktiviraj komunikacijski terminal blizu Maslinika",
+      "pt-BR": "Ative o terminal de comunicação perto do Olival",
+      "he": "הפעל את מסוף התקשורת ליד ה-Olive Grove"
     },
     {
       "en": "Rotate the satellite dishes on the church roof, north of the Data Vault",
@@ -104,7 +112,9 @@
       "tr": "Veri Kasası'nın kuzeyindeki kilise çatısındaki uydu çanaklarını döndür",
       "zh-TW": "旋轉資料庫北側教堂屋頂上的衛星天線",
       "sr": "Rotiraj satelitske antene na krovu crkve, severno od Trezora Podataka",
-      "hr": "Rotiraj satelitske antene na krovu crkve, sjeverno od Trezora Podataka"
+      "hr": "Rotiraj satelitske antene na krovu crkve, sjeverno od Trezora Podataka",
+      "pt-BR": "Gire as antenas parabólicas no telhado da igreja, ao norte do Cofre de Dados",
+      "he": "סובב את צלחות הלוויין על גג הכנסייה, צפונית ל-Data Vault"
     },
     {
       "en": "Nail down the roof plates on the Raider structure near Trapper's Glade",
@@ -124,7 +134,9 @@
       "tr": "Tuzakçı Açıklığı yakınındaki Akıncı yapısının çatı levhalarını çivile",
       "zh-TW": "釘牢捕獵者林地附近掠奪者建築的屋頂板",
       "sr": "Zakucaj krovne ploče na Rejder strukturi blizu Traperovog Proplanka",
-      "hr": "Zakucaj krovne ploče na Rejder strukturi blizu Traperovog Proplanka"
+      "hr": "Zakucaj krovne ploče na Rejder strukturi blizu Traperovog Proplanka",
+      "pt-BR": "Pregue as placas do telhado na estrutura Raider perto da Clareira do Caçador",
+      "he": "חבר את לוחות הגג במבנה הריידרים ליד Trapper's Glade"
     }
   ],
   "otherRequirements": [

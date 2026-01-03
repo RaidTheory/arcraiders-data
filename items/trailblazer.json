@@ -17,7 +17,9 @@
     "tr": "Öncü",
     "uk": "Першопрохідець",
     "sr": "Tragač",
-    "hr": "Tragač"
+    "hr": "Tragač",
+    "pt-BR": "Desbravadora",
+    "he": "טריילבלייזר"
   },
   "description": {
     "en": "A grenade that emits a trail of flammable gas along its path, causing an explosive chain reaction when it ignites.",
@@ -37,7 +39,9 @@
     "tr": "Yolu boyunca yanıcı gaz izi bırakan ve ateşlendiğinde patlayıcı bir zincirleme reaksiyona neden olan bir el bombası.",
     "uk": "Граната, що виділяє слід горючого газу вздовж своєї траєкторії, викликаючи вибухову ланцюгову реакцію при займанні.",
     "sr": "Granata koja emituje trag zapaljivog gasa duž svoje putanje, izazivajući eksplozivnu lančanu reakciju kada se zapali.",
-    "hr": "Granata koja emitira trag zapaljivog plina duž svoje putanje, uzrokujući eksplozivnu lančanu reakciju kada se zapali."
+    "hr": "Granata koja emitira trag zapaljivog plina duž svoje putanje, uzrokujući eksplozivnu lančanu reakciju kada se zapali.",
+    "pt-BR": "Uma granada que emite um rastro de gás inflamável ao longo de seu trajeto, causando uma reação explosiva em cadeia ao inflamar.",
+    "he": "רימון שפולט שובל של גז דליק לאורך נתיבו, וגורם לתגובת שרשרת נפיצה כשהוא ניצת."
   },
   "id": "trailblazer",
   "type": "Quick Use",
@@ -71,7 +75,9 @@
       "uk": "Шкода",
       "sr": "Šteta",
       "hr": "Šteta",
-      "value": 20
+      "value": 20,
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Radius": {
       "en": "Radius",
@@ -92,7 +98,9 @@
       "uk": "Радіус",
       "sr": "Radijus",
       "hr": "Radijus",
-      "value": "2m"
+      "value": "2m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "recyclesInto": {

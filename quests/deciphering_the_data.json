@@ -17,9 +17,16 @@
     "pt": "Decifrando os Dados",
     "ru": "Расшифровка данных",
     "tr": "Verileri Çözümlemek",
-    "uk": "Розшифрування даних"
+    "uk": "Розшифрування даних",
+    "pt-BR": "Decifrando os Dados",
+    "he": "פענוח הנתונים",
+    "kr": "데이터 해독",
+    "hr": "Dešifriranje podataka",
+    "sr": "Dešifrovanje podataka"
   },
-  "map": ["the_spaceport"],
+  "map": [
+    "the_spaceport"
+  ],
   "trader": "Shani",
   "description": {
     "en": "If the data you found can keep the ceiling from collapsing, we have no time to spare. I know of a few magnetic decryptors around Acerra Spaceport, from back during the Exodus. They might still be working.",
@@ -37,7 +44,12 @@
     "pt": "Se os dados que você encontrou puderem impedir que o teto desabe, não temos tempo a perder. Eu conheço alguns decifradores magnéticos pelos arredores do Spaceport de Acerra, da época do Êxodo. Talvez ainda estejam funcionando.",
     "ru": "Если найденные тобой данные могут удержать потолок от обрушения, времени у нас нет. Я знаю о нескольких магнитных дешифраторах вокруг космопорта Асерры — ещё со времён Исхода. Возможно, они всё ещё работают.",
     "tr": "Bulduğun veriler tavanın çökmesini engelleyebilecekse, kaybedecek vaktimiz yok. Exodus zamanından kalma, Acerra Spaceport civarında birkaç manyetik şifre çözücü biliyorum. Hâlâ çalışıyor olabilirler.",
-    "uk": "Якщо дані, які ти знайшов, можуть утримати стелю від обвалу, у нас немає часу зволікати. Я знаю про кілька магнітних дешифраторів біля космопорту Асерри, ще з часів Виходу. Можливо, вони досі працюють."
+    "uk": "Якщо дані, які ти знайшов, можуть утримати стелю від обвалу, у нас немає часу зволікати. Я знаю про кілька магнітних дешифраторів біля космопорту Асерри, ще з часів Виходу. Можливо, вони досі працюють.",
+    "pt-BR": "Se os dados que você encontrou podem impedir que o teto desabe, não temos tempo a perder. Sei de alguns decriptadores magnéticos nos arredores do Espaçoporto de Acerra, da época do Êxodo. Eles ainda podem estar funcionando.",
+    "he": "אם הנתונים שמצאת יכולים למנוע מהתקרה לקרוס, אין לנו זמן לבזבז. אני מכיר כמה מפענחים מגנטיים באזור נמל החלל Acerra, עוד מתקופת היציאה. אולי הם עדיין עובדים.",
+    "kr": "당신이 찾은 데이터로 천장이 무너지는 걸 막을 수 있다면, 지체할 시간이 없어. Acerra Spaceport 주변에 엑소더스 시절부터 있었던 자기 해독기가 몇 개 있는 걸로 알아. 아직 작동할지도 몰라.",
+    "hr": "Ako podaci koje si pronašao mogu spriječiti urušavanje stropa, nemamo vremena za gubljenje. Znam za nekoliko magnetskih dekriptora oko svemirske luke Acerra, još iz vremena Egzodusa. Možda još uvijek rade.",
+    "sr": "Ako podaci koje si pronašao mogu sprečiti da nam se plafon sruši na glavu, nemamo vremena za gubljenje. Znam za nekoliko magnetnih dekriptora oko Acerra svemirske luke, još iz vremena Egzodusa. Možda još uvek rade."
   },
   "objectives": [
     {
@@ -56,7 +68,12 @@
       "pt": "Use o decifrador magnético no prédio de controle de combustível",
       "ru": "Используйте магнитный дешифратор в здании контроля топлива",
       "tr": "Yakıt Kontrol Binası’nda Manyetik Şifre Çözücüyü kullan",
-      "uk": "Скористайся магнітним дешифратором у будівлі контролю палива"
+      "uk": "Скористайся магнітним дешифратором у будівлі контролю палива",
+      "pt-BR": "Use o Decriptador Magnético no Prédio de Controle de Combustível",
+      "he": "השתמש במפענח המגנטי בבניין בקרת הדלק",
+      "kr": "Fuel Control Building에서 자기 해독기 사용",
+      "hr": "Upotrijebi magnetski dekriptor u zgradi kontrole goriva",
+      "sr": "Iskoristi magnetni dekriptor u zgradi za kontrolu goriva"
     },
     {
       "en": "Reach the Arrival Building in Spaceport",
@@ -74,7 +91,12 @@
       "pt": "Chegue ao prédio de chegadas no Spaceport",
       "ru": "Доберитесь до здания прибытия в космопорте",
       "tr": "Spaceport’taki Varış Binası’na ulaş",
-      "uk": "Дістанься будівлі прибуття в космопорту"
+      "uk": "Дістанься будівлі прибуття в космопорту",
+      "pt-BR": "Chegue ao Prédio de Chegadas no Espaçoporto",
+      "he": "הגע לבניין הנחיתות בנמל החלל",
+      "kr": "Spaceport의 Arrival Building에 도달",
+      "hr": "Dođi do zgrade dolazaka u Svemirskoj luci",
+      "sr": "Stigni do zgrade za dolaske u svemirskoj luci"
     },
     {
       "en": "Use the Magnetic Decryptor on the top floor of the Arrival Building",
@@ -92,7 +114,12 @@
       "pt": "Use o decifrador magnético no último andar do prédio de chegadas",
       "ru": "Используйте магнитный дешифратор на верхнем этаже здания прибытия",
       "tr": "Varış Binası’nın en üst katında Manyetik Şifre Çözücüyü kullan",
-      "uk": "Скористайся магнітним дешифратором на верхньому поверсі будівлі прибуття"
+      "uk": "Скористайся магнітним дешифратором на верхньому поверсі будівлі прибуття",
+      "pt-BR": "Use o Decriptador Magnético no andar superior do Prédio de Chegadas",
+      "he": "השתמש במפענח המגנטי בקומה העליונה של בניין הנחיתות",
+      "kr": "Arrival Building 최상층에서 자기 해독기 사용",
+      "hr": "Upotrijebi magnetski dekriptor na zadnjem katu zgrade dolazaka",
+      "sr": "Iskoristi magnetni dekriptor na poslednjem spratu zgrade za dolaske"
     }
   ],
   "grantedItemIds": [],
@@ -107,6 +134,10 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["paving_the_way"],
-  "nextQuestIds": ["groundbreaking"]
+  "previousQuestIds": [
+    "paving_the_way"
+  ],
+  "nextQuestIds": [
+    "groundbreaking"
+  ]
 }

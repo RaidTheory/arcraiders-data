@@ -19,7 +19,9 @@
     "tr": "Piyasa Düzeltmesi",
     "zh-TW": "市場修正",
     "sr": "Tržišna Korekcija",
-    "hr": "Tržišna Korekcija"
+    "hr": "Tržišna Korekcija",
+    "pt-BR": "Correção de Mercado",
+    "he": "תיקון שוק"
   },
   "map": [
     "buried_city"
@@ -43,7 +45,9 @@
     "tr": "Önceki hırsızlık mı? Artık tesadüf gibi görünmüyor. Toledo'dan bazı rakipler olmadıkları yerde iş kuruyor. Zulalarının sabotajlanmasını istiyorum, tercihen çok rahat etmeden önce.",
     "zh-TW": "之前那次盜竊？看起來不再像是巧合了。一些來自托萊多的競爭對手在不該出現的地方開店了。我要破壞他們的儲藏點，最好在他們站穩腳跟之前。",
     "sr": "Ona krađa od pre? Više ne izgleda kao slučajnost. Neka konkurencija iz Toleda otvara radnju gde ne treba. Želim da im se ostava sabotira, po mogućstvu pre nego što se previše udobno smeste.",
-    "hr": "Ona krađa od prije? Više ne izgleda kao slučajnost. Neka konkurencija iz Toleda otvara radnju gdje ne treba. Želim da im se ostava sabotira, po mogućnosti prije nego što se previše ugodno smjeste."
+    "hr": "Ona krađa od prije? Više ne izgleda kao slučajnost. Neka konkurencija iz Toleda otvara radnju gdje ne treba. Želim da im se ostava sabotira, po mogućnosti prije nego što se previše ugodno smjeste.",
+    "pt-BR": "Aquele roubo de antes? Não parece mais coincidência. Parte da concorrência de Toledo está se instalando onde não deve. Quero o esconderijo deles sabotado, de preferência antes que fiquem muito confortáveis.",
+    "he": "הגניבה ההיא מקודם? זה כבר לא נראה כמו צירוף מקרים. חלק מהמתחרים מ-Toledo מתמקמים במקום שלא שייך להם. אני רוצה שתחבלו במאגר שלהם, עדיף לפני שהם ירגישו יותר מדי בנוח."
   },
   "objectives": [
     {
@@ -64,7 +68,9 @@
       "tr": "Marano İstasyonu yakınındaki zulayı bul",
       "zh-TW": "找到馬拉諾車站附近的儲藏點",
       "sr": "Lociraj ostavu blizu Marano Stanice",
-      "hr": "Lociraj ostavu blizu Marano Stanice"
+      "hr": "Lociraj ostavu blizu Marano Stanice",
+      "pt-BR": "Localize o esconderijo perto da Estação Marano",
+      "he": "אתר את המאגר ליד Marano Station"
     },
     {
       "en": "Sabotage the cache",
@@ -84,7 +90,9 @@
       "tr": "Zulayı sabote et",
       "zh-TW": "破壞儲藏點",
       "sr": "Sabotiraj ostavu",
-      "hr": "Sabotiraj ostavu"
+      "hr": "Sabotiraj ostavu",
+      "pt-BR": "Sabote o esconderijo",
+      "he": "חבל במאגר"
     }
   ],
   "rewardItemIds": [

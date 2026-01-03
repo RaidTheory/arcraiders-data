@@ -18,7 +18,9 @@
     "kr": "확장형 경량 탄창 I",
     "tr": "Uzatılmış Hafif Şarjör I",
     "hr": "Produženi Laki Spremnik I",
-    "sr": "Produženi Laki Okvir I"
+    "sr": "Produženi Laki Okvir I",
+    "pt-BR": "Carregador Leve Estendido I",
+    "he": "מחסנית קלה מורחבת I"
   },
   "description": {
     "en": "Slightly extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Kettle, Burletta, Hairpin, Bobcat, Stitcher",
@@ -38,7 +40,9 @@
     "kr": "경량 탄약을 사용하는 호환 무기의 탄약 용량을 약간 증가시킵니다. 호환 무기: 케틀, 부를레타, 헤어핀, 밥캣, 스티처",
     "tr": "Hafif mermi kullanan uyumlu silahların mermi kapasitesini hafifçe artırır. Uyumlu silahlar: Kettle, Burletta, Hairpin, Bobcat, Stitcher",
     "hr": "Blago povećava kapacitet streljiva kompatibilnog oružja koje koristi lako streljivo. Kompatibilno s: Kettle, Burletta, Hairpin, Bobcat, Stitcher",
-    "sr": "Blago povećava kapacitet municije kompatibilnog oružja koje koristi laku municiju. Kompatibilno sa: Kettle, Burletta, Hairpin, Bobcat, Stitcher"
+    "sr": "Blago povećava kapacitet municije kompatibilnog oružja koje koristi laku municiju. Kompatibilno sa: Kettle, Burletta, Hairpin, Bobcat, Stitcher",
+    "pt-BR": "Estende levemente a capacidade de munição de armas compatíveis que usam munição leve. Compatível com: Kettle, Burletta, Hairpin, Bobcat, Stitcher",
+    "he": "מגדיל מעט את קיבולת התחמושת של כלי נשק תואמים המשתמשים בתחמושת קלה. תואם ל: Kettle, Burletta, Hairpin, Bobcat, Stitcher"
   },
   "type": "Modification",
   "rarity": "Common",
@@ -78,7 +82,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Okvira",
-      "value": "+5"
+      "value": "+5",
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     }
   },
   "updatedAt": "11/03/2025",

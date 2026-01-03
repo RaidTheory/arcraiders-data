@@ -18,7 +18,9 @@
     "kr": "확장형 경량 탄창 II",
     "tr": "Genişletilmiş Hafif Şarjör II",
     "hr": "Produženi laki spremnik II",
-    "sr": "Produženi laki okvir II"
+    "sr": "Produženi laki okvir II",
+    "pt-BR": "Carregador Leve Estendido II",
+    "he": "מחסנית קלה מורחבת II"
   },
   "description": {
     "en": "Moderately extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
@@ -38,7 +40,9 @@
     "kr": "경량 탄약을 사용하는 호환 무기의 탄약 용량을 적당히 확장합니다. 호환 무기: 스티처, 케틀, 부를레타, 헤어핀, 밥캣",
     "tr": "Hafif mermi kullanan uyumlu silahların mermi kapasitesini orta düzeyde artırır. Uyumlu silahlar: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
     "hr": "Umjereno povećava kapacitet streljiva kompatibilnog oružja koje koristi lako streljivo. Kompatibilno s: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
-    "sr": "Umereno povećava kapacitet municije kompatibilnog oružja koje koristi laku municiju. Kompatibilno sa: Stitcher, Kettle, Burletta, Hairpin, Bobcat"
+    "sr": "Umereno povećava kapacitet municije kompatibilnog oružja koje koristi laku municiju. Kompatibilno sa: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
+    "pt-BR": "Estende moderadamente a capacidade de munição de armas compatíveis que usam munição leve. Compatível com: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
+    "he": "מגדיל באופן מתון את קיבולת התחמושת של כלי נשק תואמים המשתמשים בתחמושת קלה. תואם ל: Stitcher, Kettle, Burletta, Hairpin, Bobcat"
   },
   "type": "Modification",
   "rarity": "Uncommon",
@@ -64,7 +68,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
-      "value": "+10"
+      "value": "+10",
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     }
   },
   "recyclesInto": {

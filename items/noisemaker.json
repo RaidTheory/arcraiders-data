@@ -18,7 +18,9 @@
     "kr": "소음기",
     "tr": "Gürültü Yapıcı",
     "hr": "Zvučni alarm",
-    "sr": "Zvučni alarm"
+    "sr": "Zvučni alarm",
+    "pt-BR": "Gerador de Ruído",
+    "he": "מרעישן"
   },
   "description": {
     "en": "A deployable proximity sensor that sounds an alarm when enemy raiders are detected.",
@@ -38,7 +40,9 @@
     "kr": "적 레이더가 감지되면 경보를 울리는 설치형 근접 센서입니다.",
     "tr": "Düşman akıncılar tespit edildiğinde alarm çalan konuşlandırılabilir yakınlık sensörü.",
     "hr": "Postavljivi senzor blizine koji aktivira alarm kada se otkriju neprijateljski Raidersi.",
-    "sr": "Postavljivi senzor blizine koji aktivira alarm kada se otkriju neprijateljski Rajderi."
+    "sr": "Postavljivi senzor blizine koji aktivira alarm kada se otkriju neprijateljski Rajderi.",
+    "pt-BR": "Um sensor de proximidade posicionável que dispara um alarme quando raiders inimigos são detectados.",
+    "he": "חיישן קרבה הניתן לפריסה המפעיל אזעקה כאשר מזוהים אויבים."
   },
   "type": "Quick Use",
   "rarity": "Common",
@@ -65,7 +69,9 @@
       "tr": "Tetikleme Yarıçapı",
       "hr": "Radijus aktivacije",
       "sr": "Radijus aktivacije",
-      "value": "8m"
+      "value": "8m",
+      "pt-BR": "Raio de Acionamento",
+      "he": "רדיוס הפעלה"
     },
     "Duration": {
       "en": "Duration",
@@ -86,7 +92,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "4s"
+      "value": "4s",
+      "pt-BR": "Duração",
+      "he": "משך פעולה"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/noisemaker.png",

@@ -18,7 +18,9 @@
     "kr": "전투 마크 2",
     "tr": "Savaş Mk. 2",
     "hr": "Borbeni Mk. 2",
-    "sr": "Borbeni Mk. 2"
+    "sr": "Borbeni Mk. 2",
+    "pt-BR": "Combate Mk. 2",
+    "he": "לחימה סימן 2"
   },
   "description": {
     "en": "A Combat augment more focused on maneuverability than absorbing damage.",
@@ -38,7 +40,9 @@
     "kr": "피해 흡수보다 기동성에 더 중점을 둔 전투 강화.",
     "tr": "Hasar emmeye göre manevra kabiliyetine daha fazla odaklanan bir Savaş güçlendirmesi.",
     "hr": "Borbeno poboljšanje više usmjereno na manevarsku sposobnost nego na apsorpciju štete.",
-    "sr": "Borbeno poboljšanje više usmereno na manevarsku sposobnost nego na apsorpciju štete."
+    "sr": "Borbeno poboljšanje više usmereno na manevarsku sposobnost nego na apsorpciju štete.",
+    "pt-BR": "Um aprimoramento de Combate mais focado na manobrabilidade do que na absorção de dano.",
+    "he": "תוסף לחימה הממוקד יותר בכושר תמרון מאשר בספיגת נזק."
   },
   "type": "Augment",
   "rarity": "Rare",
@@ -66,7 +70,9 @@
       "tr": "Geri Yükler",
       "hr": "Obnavlja",
       "sr": "Obnavlja",
-      "value": "1 health every 5 seconds. When damage is taken, the effect is paused for 30 seconds."
+      "value": "1 health every 5 seconds. When damage is taken, the effect is paused for 30 seconds.",
+      "pt-BR": "Restaura",
+      "he": "משחזר"
     },
     "Durability": {
       "en": "Durability",
@@ -87,7 +93,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Max Loadout Weight": {
       "en": "Max Loadout Weight",
@@ -108,7 +116,9 @@
       "tr": "Maks. Donanım Ağırlığı",
       "hr": "Maks. težina opreme",
       "sr": "Maks. težina opreme",
-      "value": 55
+      "value": 55,
+      "pt-BR": "Peso Máximo de Carga",
+      "he": "משקל ציוד מירבי"
     },
     "Shield Compatibility": {
       "en": "Shield Compatibility",
@@ -129,7 +139,9 @@
       "tr": "Kalkan Uyumluluğu",
       "hr": "Kompatibilnost štita",
       "sr": "Kompatibilnost štita",
-      "value": "Light, Medium, Heavy"
+      "value": "Light, Medium, Heavy",
+      "pt-BR": "Compatibilidade de Escudo",
+      "he": "תאימות מגן"
     }
   },
   "recyclesInto": {

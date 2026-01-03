@@ -17,9 +17,16 @@
     "pt": "O Fedor da Corrupção",
     "ru": "Смрад коррупции",
     "tr": "Yolsuzluğun Kokusu",
-    "uk": "Смород корупції"
+    "uk": "Смород корупції",
+    "pt-BR": "O Fedor da Corrupção",
+    "he": "צחנת השחיתות",
+    "kr": "부패의 악취",
+    "hr": "Smrad korupcije",
+    "sr": "Smrad korupcije"
   },
-  "map": ["the_spaceport"],
+  "map": [
+    "the_spaceport"
+  ],
   "trader": "Shani",
   "description": {
     "en": "That key you found in the barrel truck... I won't jump to accusations just yet, but this reeks of an inside job. Could you investigate a hunch I have?",
@@ -37,7 +44,12 @@
     "pt": "Aquela chave que você encontrou no caminhão de barris... Ainda não vou sair acusando ninguém, mas isso está com cara de serviço interno. Você pode investigar uma suspeita que eu tenho?",
     "ru": "Тот ключ, который ты нашёл в грузовике с бочками… Я пока не хочу никого обвинять, но это пахнет внутренней работой. Можешь проверить одну мою догадку?",
     "tr": "Varil kamyonunda bulduğun o anahtar... Henüz kimseyi suçlamayacağım, ama bu iş içeriden yapılmış gibi kokuyor. Aklımdaki bir şüpheyi araştırabilir misin?",
-    "uk": "Той ключ, який ти знайшов у вантажівці з бочками… Я поки не хочу висувати звинувачень, але це смердить роботою зсередини. Можеш перевірити мою підозру?"
+    "uk": "Той ключ, який ти знайшов у вантажівці з бочками… Я поки не хочу висувати звинувачень, але це смердить роботою зсередини. Можеш перевірити мою підозру?",
+    "pt-BR": "Aquela chave que você encontrou no caminhão de barris... Não vou fazer acusações ainda, mas isso cheira a um trabalho interno. Você poderia investigar um palpite que eu tenho?",
+    "he": "המפתח שמצאת במשאית החביות... אני לא רוצה למהר להאשים, אבל זה מריח כמו עבודה מבפנים. תוכל לבדוק תחושת בטן שיש לי?",
+    "kr": "배럴 트럭에서 찾은 그 열쇠 말이야... 아직 섣불리 누군가를 의심하진 않겠지만, 내부 소행의 냄새가 나. 내 짐작이 맞는지 조사해 줄 수 있어?",
+    "hr": "Onaj ključ koji si pronašao u kamionu s bačvama... Neću još nikoga optuživati, ali ovo smrdi na posao iznutra. Možeš li istražiti jednu moju sumnju?",
+    "sr": "Ključ koji si pronašao u kamionu sa buradima... Neću odmah da optužujem, ali ovo smrdi na posao iznutra. Možeš li da istražiš jedan moj predosećaj?"
   },
   "objectives": [
     {
@@ -56,7 +68,12 @@
       "pt": "Em uma rodada",
       "ru": "За один раунд",
       "tr": "Tek turda",
-      "uk": "За один раунд"
+      "uk": "За один раунд",
+      "pt-BR": "Em uma partida",
+      "he": "בסיבוב אחד",
+      "kr": "한 라운드 내에",
+      "hr": "U jednoj rundi",
+      "sr": "U jednoj rundi"
     },
     {
       "en": "Reach the southwest lobby of the Departure Building",
@@ -74,7 +91,12 @@
       "pt": "Chegue ao saguão sudoeste do prédio de partidas",
       "ru": "Доберитесь до юго-западного вестибюля здания вылета",
       "tr": "Kalkış Binası’nın güneybatı lobisine ulaş",
-      "uk": "Дістанься південно-західного вестибюля будівлі відправлення"
+      "uk": "Дістанься південно-західного вестибюля будівлі відправлення",
+      "pt-BR": "Chegue ao saguão sudoeste do Edifício de Embarque",
+      "he": "הגע ללובי הדרום-מערבי של בניין ההמראות",
+      "kr": "Departure Building의 남서쪽 로비에 도달",
+      "hr": "Dođi do jugozapadnog predvorja zgrade odlazaka",
+      "sr": "Stigni do jugozapadnog hola zgrade za odlaske"
     },
     {
       "en": "Find the staff locker room",
@@ -92,7 +114,12 @@
       "pt": "Encontre o vestiário dos funcionários",
       "ru": "Найдите раздевалку персонала",
       "tr": "Personel soyunma odasını bul",
-      "uk": "Знайди роздягальню персоналу"
+      "uk": "Знайди роздягальню персоналу",
+      "pt-BR": "Encontre o vestiário dos funcionários",
+      "he": "מצא את חדר ההלבשה של הצוות",
+      "kr": "직원 락커룸 찾기",
+      "hr": "Pronađi svlačionicu za osoblje",
+      "sr": "Pronađi svlačionicu za osoblje"
     },
     {
       "en": "Search the room for any clues of the saboteur's identity",
@@ -110,7 +137,12 @@
       "pt": "Revire a sala em busca de pistas sobre a identidade do sabotador",
       "ru": "Обыщите комнату в поисках улик, указывающих на личность диверсанта",
       "tr": "Odada sabotajcının kimliğine dair ipuçları ara",
-      "uk": "Обшукай кімнату в пошуках підказок щодо особи диверсанта"
+      "uk": "Обшукай кімнату в пошуках підказок щодо особи диверсанта",
+      "pt-BR": "Vasculhe a sala em busca de pistas sobre a identidade do sabotador",
+      "he": "חפש בחדר רמזים כלשהם לזהות המחבל",
+      "kr": "방을 수색하여 사보타주 범인의 정체에 관한 단서 찾기",
+      "hr": "Pretraži sobu za tragovima o identitetu sabotera",
+      "sr": "Pretraži sobu za bilo kakve tragove o identitetu sabotera"
     },
     {
       "en": "Reach the tunnels below the Spaceport",
@@ -128,7 +160,12 @@
       "pt": "Chegue aos túneis abaixo do Spaceport",
       "ru": "Доберитесь до туннелей под космопортом",
       "tr": "Spaceport’un altındaki tünellere ulaş",
-      "uk": "Дістанься тунелів під космопортом"
+      "uk": "Дістанься тунелів під космопортом",
+      "pt-BR": "Chegue aos túneis abaixo do Espaçoporto",
+      "he": "הגע למנהרות שמתחת לנמל החלל",
+      "kr": "Spaceport 지하 터널에 도달",
+      "hr": "Dođi do tunela ispod Svemirske luke",
+      "sr": "Stigni do tunela ispod svemirske luke"
     },
     {
       "en": "Use the key on any Flushing Terminal to override the bypass protocol",
@@ -146,7 +183,12 @@
       "pt": "Use a chave em qualquer Terminal de Purga para sobrescrever o protocolo de desvio",
       "ru": "Используйте ключ на любом терминале промывки, чтобы переопределить протокол обхода",
       "tr": "Bypass protokolünü geçersiz kılmak için herhangi bir Flushing Terminalinde anahtarı kullan",
-      "uk": "Скористайся ключем на будь-якому терміналі промивання, щоб перевизначити протокол обходу"
+      "uk": "Скористайся ключем на будь-якому терміналі промивання, щоб перевизначити протокол обходу",
+      "pt-BR": "Use a chave em qualquer Terminal de Descarga para sobrepor o protocolo de desvio",
+      "he": "השתמש במפתח בכל מסוף שטיפה כדי לעקוף את פרוטוקול המעקף",
+      "kr": "아무 Flushing Terminal에 열쇠를 사용하여 우회 프로토콜 오버라이드",
+      "hr": "Upotrijebi ključ na bilo kojem terminalu za ispiranje kako bi poništio protokol zaobilaženja",
+      "sr": "Upotrebi ključ na bilo kom terminalu za ispiranje da bi premostio protokol zaobilaženja"
     }
   ],
   "grantedItemIds": [],
@@ -169,6 +211,8 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["a_toxic_trail"],
+  "previousQuestIds": [
+    "a_toxic_trail"
+  ],
   "nextQuestIds": []
 }

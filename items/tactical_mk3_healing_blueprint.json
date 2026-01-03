@@ -18,7 +18,9 @@
     "tr": "Taktik Mk. 3 (İyileştirme) Planı",
     "uk": "Креслення тактичного Mk. 3 (лікування)",
     "sr": "Taktički Mk. 3 (Lečenje) Nacrt",
-    "hr": "Taktički Mk. 3 (Liječenje) Nacrt"
+    "hr": "Taktički Mk. 3 (Liječenje) Nacrt",
+    "pt-BR": "Projeto Tático Mk. 3 (Cura)",
+    "he": "שרטוט טקטי Mk. 3 (ריפוי)"
   },
   "description": {
     "en": "A healing-focused augment which adds extra slots for healing items.",
@@ -38,7 +40,9 @@
     "tr": "İyileştirme öğeleri için ekstra yuva ekleyen, iyileştirme odaklı bir güçlendirme.",
     "uk": "Аугментація, орієнтована на лікування, яка додає додаткові слоти для лікувальних предметів.",
     "sr": "Augmentacija fokusirana na lečenje koja dodaje dodatne slotove za lečilačke predmete.",
-    "hr": "Augmentacija fokusirana na liječenje koja dodaje dodatne slotove za ljekovite predmete."
+    "hr": "Augmentacija fokusirana na liječenje koja dodaje dodatne slotove za ljekovite predmete.",
+    "pt-BR": "Um aprimoramento de cura que adiciona espaços extras para itens de cura.",
+    "he": "תוסף המתמקד בריפוי ומוסיף מקום נוסף לחפצי ריפוי."
   },
   "type": "Blueprint",
   "value": 5000,

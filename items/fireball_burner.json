@@ -18,7 +18,9 @@
     "kr": "파이어볼 버너",
     "tr": "Ateş Topu Yakıcı",
     "hr": "Vatrena Kugla",
-    "sr": "Vatrena Kugla"
+    "sr": "Vatrena Kugla",
+    "pt-BR": "Queimador Bola de Fogo",
+    "he": "מבער כדור אש"
   },
   "description": {
     "en": "Can be recycled into ARC Alloy. Can be thrown to create small fires.",
@@ -38,7 +40,9 @@
     "kr": "아크 합금으로 재활용 가능. 투척하여 작은 불을 일으킬 수 있습니다.",
     "tr": "ARC Alaşımına geri dönüştürülebilir. Küçük yangınlar çıkarmak için fırlatılabilir.",
     "hr": "Može se reciklirati u ARC leguru. Može se baciti kako bi se stvorile male vatre.",
-    "sr": "Može se reciklirati u ARC leguru. Može se baciti kako bi se stvorile male vatre."
+    "sr": "Može se reciklirati u ARC leguru. Može se baciti kako bi se stvorile male vatre.",
+    "pt-BR": "Pode ser reciclado em Liga ARC. Pode ser arremessado para criar pequenos focos de incêndio.",
+    "he": "ניתן למיחזור לסגסוגת ARC. ניתן לזריקה ליצירת שריפות קטנות."
   },
   "type": "Recyclable",
   "rarity": "Uncommon",
@@ -71,7 +75,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": "5/s"
+      "value": "5/s",
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Duration": {
       "en": "Duration",
@@ -92,7 +98,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "10s"
+      "value": "10s",
+      "pt-BR": "Duração",
+      "he": "משך זמן"
     },
     "Radius": {
       "en": "Radius",
@@ -113,7 +121,9 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "2m"
+      "value": "2m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "updatedAt": "12/07/2025"

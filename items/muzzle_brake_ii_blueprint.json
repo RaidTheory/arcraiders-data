@@ -18,7 +18,9 @@
     "kr": "총구 제동기 II 설계도",
     "tr": "Namlu Freni II Planı",
     "hr": "Nacrt za kočnicu cijevi II",
-    "sr": "Nacrt za kočnicu cevi II"
+    "sr": "Nacrt za kočnicu cevi II",
+    "pt-BR": "Projeto de Freio de Boca II",
+    "he": "שרטוט בלם לוע II"
   },
   "description": {
     "en": "Moderately reduces both vertical recoil & horizontal recoil.",
@@ -38,7 +40,9 @@
     "kr": "수직 반동과 수평 반동을 적당히 감소시킵니다.",
     "tr": "Hem dikey hem de yatay geri tepmesini orta düzeyde azaltır.",
     "hr": "Umjereno smanjuje i vertikalni i horizontalni trzaj.",
-    "sr": "Umereno smanjuje i vertikalno i horizontalno trzanje."
+    "sr": "Umereno smanjuje i vertikalno i horizontalno trzanje.",
+    "pt-BR": "Reduz moderadamente tanto o recuo vertical quanto o horizontal.",
+    "he": "מפחית במידה בינונית הן רתע אנכי והן רתע אופקי."
   },
   "effects": {
     "Reduced Vertical Recoil": {
@@ -60,7 +64,9 @@
       "tr": "Azaltılmış Dikey Geri Tepme",
       "hr": "Smanjen vertikalni trzaj",
       "sr": "Smanjeno vertikalno trzanje",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Recuo Vertical Reduzido",
+      "he": "רתע אנכי מופחת"
     },
     "Reduced Horizontal Recoil": {
       "en": "Reduced Horizontal Recoil",
@@ -81,7 +87,9 @@
       "tr": "Azaltılmış Yatay Geri Tepme",
       "hr": "Smanjen horizontalni trzaj",
       "sr": "Smanjeno horizontalno trzanje",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Recuo Horizontal Reduzido",
+      "he": "רתע אופקי מופחת"
     }
   },
   "type": "Blueprint",

@@ -18,7 +18,9 @@
     "kr": "안정형 개머리판 III",
     "tr": "Sabit Dipçik III",
     "hr": "Stabilna Kundak III",
-    "sr": "Stabilna Kundak III"
+    "sr": "Stabilna Kundak III",
+    "pt-BR": "Coronha Estável III",
+    "he": "קת יציבה III"
   },
   "description": {
     "en": "Significantly improves dispersion & recoil recovery time.",
@@ -38,7 +40,9 @@
     "kr": "분산도와 반동 회복 시간을 크게 개선합니다.",
     "tr": "Dağılma ve geri tepme toparlanma süresini önemli ölçüde iyileştirir.",
     "hr": "Značajno poboljšava raspršenje i vrijeme oporavka trzaja.",
-    "sr": "Značajno poboljšava raspršenje i vreme oporavka trzaja."
+    "sr": "Značajno poboljšava raspršenje i vreme oporavka trzaja.",
+    "pt-BR": "Melhora significativamente a dispersão e o tempo de recuperação de recuo.",
+    "he": "משפרת משמעותית את הפיזור ואת זמן ההתאוששות מהרתע."
   },
   "type": "Modification",
   "rarity": "Rare",
@@ -64,7 +68,9 @@
       "tr": "%50 Azaltılmış Geri Tepme Toparlanma Süresi",
       "hr": "50% Smanjeno Vrijeme Oporavka Trzaja",
       "sr": "50% Smanjeno Vreme Oporavka Trzaja",
-      "value": ""
+      "value": "",
+      "pt-BR": "50% de Redução no Tempo de Recuperação de Recuo",
+      "he": "50% זמן התאוששות מרתע מופחת"
     },
     "50% Reduced Dispersion Recovery Time": {
       "en": "50% Reduced Dispersion Recovery Time",
@@ -85,7 +91,9 @@
       "tr": "%50 Azaltılmış Dağılma Toparlanma Süresi",
       "hr": "50% Smanjeno Vrijeme Oporavka Raspršenja",
       "sr": "50% Smanjeno Vreme Oporavka Raspršenja",
-      "value": ""
+      "value": "",
+      "pt-BR": "50% de Redução no Tempo de Recuperação de Dispersão",
+      "he": "50% זמן התאוששות מפיזור מופחת"
     },
     "20% Increased Equip Time": {
       "en": "20% Increased Equip Time",
@@ -106,7 +114,9 @@
       "tr": "%20 Artırılmış Kuşanma Süresi",
       "hr": "20% Povećano Vrijeme Opremanja",
       "sr": "20% Povećano Vreme Opremanja",
-      "value": ""
+      "value": "",
+      "pt-BR": "Aumento de 20% no Tempo de Equipar",
+      "he": "זמן הצטיידות מוגדל ב-20%"
     },
     "20% Increased Unequip Time": {
       "en": "20% Increased Unequip Time",
@@ -127,7 +137,9 @@
       "tr": "%20 Artırılmış Çıkarma Süresi",
       "hr": "20% Povećano Vrijeme Skidanja",
       "sr": "20% Povećano Vreme Skidanja",
-      "value": ""
+      "value": "",
+      "pt-BR": "Aumento de 20% no Tempo de Desequipar",
+      "he": "זמן הסרת ציוד מוגדל ב-20%"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/stable_stock_iii.png",

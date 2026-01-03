@@ -18,7 +18,9 @@
     "tr": "Stella Montis Tıbbi Depo Anahtarı",
     "uk": "Ключ від медичного складу Стелла Монтіс",
     "no": "Stella Montis Medisinsk Lagernøkkel",
-    "fr": "Clé du Stockage Médical de Stella Montis"
+    "fr": "Clé du Stockage Médical de Stella Montis",
+    "pt-BR": "Chave do Depósito Médico de Stella Montis",
+    "he": "מפתח לאחסון רפואי בסטלה מונטיס"
   },
   "description": {
     "en": "Unlocks a door in the Archives in Stella Montis",
@@ -38,7 +40,9 @@
     "tr": "Stella Montis'teki Arşiv'de bir kapıyı açar",
     "uk": "Відмикає двері в архіві у Стелла Монтіс",
     "no": "Låser opp en dør i Arkivet i Stella Montis",
-    "fr": "Déverrouille une porte dans les Archives à Stella Montis"
+    "fr": "Déverrouille une porte dans les Archives à Stella Montis",
+    "pt-BR": "Destranca uma porta nos Arquivos em Stella Montis",
+    "he": "פותח דלת בארכיון בסטלה מונטיס"
   },
   "type": "Key",
   "rarity": "Uncommon",
@@ -65,7 +69,9 @@
       "uk": "Відчиняє двері десь на",
       "no": "Åpner en dør et sted på",
       "fr": "Ouvre une porte quelque part sur",
-      "value": "Stella Montis"
+      "value": "Stella Montis",
+      "pt-BR": "Abre uma porta em algum lugar em",
+      "he": "פותח דלת במקום כלשהו ב-"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/stella_montis_medical_storage_key.png",

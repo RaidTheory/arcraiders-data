@@ -18,7 +18,9 @@
     "kr": "헤어핀 I",
     "tr": "Saç tokası I",
     "hr": "Ukosnica I",
-    "sr": "Ukosnica I"
+    "sr": "Ukosnica I",
+    "pt-BR": "Hairpin I",
+    "he": "היירפין I"
   },
   "description": {
     "en": "Has a built-in silencer. Great for stealth, but tricky in combat.",
@@ -38,7 +40,9 @@
     "kr": "내장 소음기가 있다. 은신에는 좋지만 전투에서는 까다롭다.",
     "tr": "Dahili susturucuya sahip. Gizlilik için harika, ancak savaşta kullanımı zor.",
     "hr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi.",
-    "sr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi."
+    "sr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi.",
+    "pt-BR": "Possui silenciador integrado. Ótima para furtividade, mas complicada em combate.",
+    "he": "בעל משתיק קול מובנה. מצוין להתגנבות, אך מאתגר בקרב."
   },
   "type": "Pistol",
   "rarity": "Common",
@@ -62,7 +66,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "100/100"
+      "value": "100/100",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -83,7 +89,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Streljiva",
-      "value": "Light Ammo"
+      "value": "Light Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -104,7 +112,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
-      "value": 8
+      "value": 8,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -125,7 +135,9 @@
       "tr": "Atış Modu",
       "hr": "Način Pucanja",
       "sr": "Način Pucanja",
-      "value": "Slide-Action"
+      "value": "Slide-Action",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -146,7 +158,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
-      "value": "Very Weak"
+      "value": "Very Weak",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     },
     "Special Trait": {
       "en": "Special Trait",
@@ -167,7 +181,9 @@
       "tr": "Özel Özellik",
       "hr": "Posebna Osobina",
       "sr": "Posebna Osobina",
-      "value": "Integrated Silencer"
+      "value": "Integrated Silencer",
+      "pt-BR": "Atributo Especial",
+      "he": "תכונה מיוחדת"
     }
   },
   "weightKg": 3,

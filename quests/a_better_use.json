@@ -19,7 +19,9 @@
     "tr": "Daha İyi Bir Kullanım",
     "zh-TW": "更好的用途",
     "sr": "Bolja Upotreba",
-    "hr": "Bolja Uporaba"
+    "hr": "Bolja Uporaba",
+    "pt-BR": "Um Uso Melhor",
+    "he": "שימוש טוב יותר"
   },
   "map": [
     "buried_city",
@@ -46,7 +48,9 @@
     "tr": "Doyuracak ağız dışında her şey kıt, ama Celeste değerli malzemeleri havaya fırlatıp Akıncıların kapışmasını sağlıyor. İyi şeylerin boşa gitmesine daha fazla izin vermeyeceğim.",
     "zh-TW": "我們什麼都缺，就是不缺要養活的人，但瑟萊斯特卻把寶貴的補給投放到空中，讓掠奪者們爭搶。我受夠了讓好東西白白浪費。",
     "sr": "Nedostaje nam sve osimusta za hranjenje, a Celeste lansira dragocene zalihe u vazduh da se Rejderi otimaju oko njih. Dosta mi je da dopuštam da dobre stvari propadaju.",
-    "hr": "Nedostaje nam sve osim usta za hranjenje, a Celeste lansira dragocjene zalihe u zrak da se Rejderi otimaju oko njih. Dosta mi je dopuštati da dobre stvari propadaju."
+    "hr": "Nedostaje nam sve osim usta za hranjenje, a Celeste lansira dragocjene zalihe u zrak da se Rejderi otimaju oko njih. Dosta mi je dopuštati da dobre stvari propadaju.",
+    "pt-BR": "Estamos com falta de tudo, menos de bocas para alimentar, mas a Celeste continua lançando suprimentos preciosos no ar para os Raiders disputarem. Cansei de deixar coisa boa ser desperdiçada.",
+    "he": "חסר לנו הכל חוץ מפיות להאכיל, ובכל זאת Celeste משגרת אספקה יקרת ערך לאוויר כדי ש-Raiders יריבו עליה. נמאס לי לתת לדברים הטובים להתבזבז."
   },
   "objectives": [
     {
@@ -67,7 +71,9 @@
       "tr": "Bir Çağrı İstasyonundan İkmal Paketi talep et",
       "zh-TW": "在呼叫站請求補給空投",
       "sr": "Zatraži Isporuku Zaliha sa Pozivne Stanice",
-      "hr": "Zatraži Isporuku Zaliha sa Pozivne Stanice"
+      "hr": "Zatraži Isporuku Zaliha sa Pozivne Stanice",
+      "pt-BR": "Solicite uma Entrega de Suprimentos em uma Estação de Chamada",
+      "he": "בקש הצנחת אספקה מעמדת קריאה"
     },
     {
       "en": "Loot a Supply Drop",
@@ -87,7 +93,9 @@
       "tr": "Bir İkmal Paketini yağmala",
       "zh-TW": "掠奪補給空投",
       "sr": "Opljačkaj Isporuku Zaliha",
-      "hr": "Opljačkaj Isporuku Zaliha"
+      "hr": "Opljačkaj Isporuku Zaliha",
+      "pt-BR": "Saqueie uma Entrega de Suprimentos",
+      "he": "אסוף שלל מהצנחת אספקה"
     }
   ],
   "rewardItemIds": [

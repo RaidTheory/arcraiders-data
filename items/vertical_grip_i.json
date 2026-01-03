@@ -18,7 +18,9 @@
     "kr": "수직 그립 I",
     "tr": "Dikey Kabza I",
     "hr": "Vertikalni Držač I",
-    "sr": "Vertikalni Držač I"
+    "sr": "Vertikalni Držač I",
+    "pt-BR": "Empunhadura Vertical I",
+    "he": "ידית אחיזה אנכית I"
   },
   "description": {
     "en": "Slightly reduces vertical recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
@@ -38,7 +40,9 @@
     "kr": "수직 반동을 약간 감소시킨다. 호환 무기: 템페스트, 아르페지오, 케틀, 페로, 헐크래커",
     "tr": "Dikey geri tepmesini hafifçe azaltır. Uyumlu: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
     "hr": "Blago smanjuje vertikalni trzaj. Kompatibilno s: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
-    "sr": "Blago smanjuje vertikalni trzaj. Kompatibilno sa: Tempest, Arpeggio, Kettle, Ferro, Hullcracker"
+    "sr": "Blago smanjuje vertikalni trzaj. Kompatibilno sa: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+    "pt-BR": "Reduz levemente o recuo vertical. Compatível com: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+    "he": "מפחיתה במעט את הרתע האנכי. תואמת ל: Tempest, Arpeggio, Kettle, Ferro, Hullcracker"
   },
   "type": "Modification",
   "rarity": "Common",
@@ -64,7 +68,9 @@
       "tr": "Azaltılmış Dikey Geri Tepme",
       "hr": "Smanjen Vertikalni Trzaj",
       "sr": "Smanjen Vertikalni Trzaj",
-      "value": "20%"
+      "value": "20%",
+      "pt-BR": "Recuo Vertical Reduzido",
+      "he": "רתע אנכי מופחת"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_i.png",

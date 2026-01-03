@@ -17,7 +17,9 @@
     "tr": "Lidar Tarayıcı",
     "uk": "Лідарний сканер",
     "sr": "Lidar skener",
-    "hr": "Lidar skener"
+    "hr": "Lidar skener",
+    "pt-BR": "Scanner Lidar",
+    "he": "סורק לידאר"
   },
   "description": {
     "en": "A laser-based scanner used to detect the subtlest changes to the Earth's surface",
@@ -37,7 +39,9 @@
     "tr": "Dünya yüzeyindeki en ince değişiklikleri tespit etmek için kullanılan lazer tabanlı bir tarayıcı",
     "uk": "Лазерний сканер, що використовується для виявлення найтонших змін земної поверхні",
     "sr": "Skener zasnovan na laseru koji se koristi za otkrivanje najsitnijih promena na površini Zemlje",
-    "hr": "Skener temeljen na laseru koji se koristi za otkrivanje najsitnijih promjena na Zemljinoj površini"
+    "hr": "Skener temeljen na laseru koji se koristi za otkrivanje najsitnijih promjena na Zemljinoj površini",
+    "pt-BR": "Um scanner a laser usado para detectar as mudanças mais sutis na superfície da Terra",
+    "he": "סורק מבוסס לייזר המשמש לזיהוי השינויים העדינים ביותר על פני כדור הארץ"
   },
   "id": "lidar_scanner",
   "type": "Trinket",

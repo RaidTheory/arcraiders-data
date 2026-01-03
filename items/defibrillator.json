@@ -18,7 +18,9 @@
     "kr": "제세동기",
     "tr": "Defibrilatör",
     "hr": "Defibrilator",
-    "sr": "Defibrilator"
+    "sr": "Defibrilator",
+    "pt-BR": "Desfibrilador",
+    "he": "דפיברילטור"
   },
   "description": {
     "en": "An injection that quickly revives downed raiders and restores some health.",
@@ -38,7 +40,9 @@
     "kr": "쓰러진 레이더를 빠르게 소생시키고 일부 체력을 회복시키는 주사제.",
     "tr": "Yere düşmüş akıncıları hızlıca canlandıran ve biraz sağlık kazandıran bir enjeksiyon.",
     "hr": "Injekcija koja brzo oživljava oborene pljačkaše i obnavlja dio zdravlja.",
-    "sr": "Injekcija koja brzo oživljava oborene pljačkaše i obnavlja deo zdravlja."
+    "sr": "Injekcija koja brzo oživljava oborene pljačkaše i obnavlja deo zdravlja.",
+    "pt-BR": "Uma injeção que reanima rapidamente Raiders abatidos e restaura um pouco de saúde.",
+    "he": "זריקה המקימה במהירות ריידרים מנוטרלים ומשיבה מעט בריאות."
   },
   "type": "Quick Use",
   "rarity": "Rare",
@@ -74,7 +78,9 @@
       "tr": "İyileştirme",
       "hr": "Liječenje",
       "sr": "Lečenje",
-      "value": 50
+      "value": 50,
+      "pt-BR": "Cura",
+      "he": "ריפוי"
     },
     "Use Time": {
       "en": "Use Time",
@@ -95,7 +101,9 @@
       "tr": "Kullanım Süresi",
       "hr": "Vrijeme Korištenja",
       "sr": "Vreme Korišćenja",
-      "value": "1.5s"
+      "value": "1.5s",
+      "pt-BR": "Tempo de Uso",
+      "he": "זמן שימוש"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/defibrillator.png",

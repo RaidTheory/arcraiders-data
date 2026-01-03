@@ -18,7 +18,9 @@
     "ja": "ラトラー III",
     "kr": "래틀러 III",
     "pl": "Rattler III",
-    "hr": "Rattler III"
+    "hr": "Rattler III",
+    "pt-BR": "Rattler III",
+    "he": "רטלר III"
   },
   "description": {
     "en": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
@@ -38,7 +40,9 @@
     "kr": "저렴한 공격 옵션이지만, 한 번에 2발씩 재장전해야 합니다.",
     "tr": "Ucuz bir saldırı seçeneği, ancak aynı anda 2 mermi şarj edilmeli.",
     "hr": "Jeftina ofenzivna opcija, ali se mora puniti po 2 metka odjednom.",
-    "sr": "Jeftina ofanzivna opcija, ali se mora puniti po 2 metka odjednom."
+    "sr": "Jeftina ofanzivna opcija, ali se mora puniti po 2 metka odjednom.",
+    "pt-BR": "Fuzil de assalto totalmente automático. Uma opção ofensiva barata, mas deve ser recarregado 2 balas por vez.",
+    "he": "רובה סער אוטומטי מלא. אפשרות התקפית זולה, אך נטען ב-2 כדורים בכל פעם."
   },
   "type": "Assault Rifle",
   "rarity": "Common",
@@ -62,7 +66,9 @@
       "tr": "Dayanıklılık",
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
-      "value": "120/120"
+      "value": "120/120",
+      "pt-BR": "Durabilidade",
+      "he": "עמידות"
     },
     "Ammo Type": {
       "en": "Ammo Type",
@@ -83,7 +89,9 @@
       "tr": "Mermi Türü",
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Municije",
-      "value": "Medium Ammo"
+      "value": "Medium Ammo",
+      "pt-BR": "Tipo de Munição",
+      "he": "סוג תחמושת"
     },
     "Magazine Size": {
       "en": "Magazine Size",
@@ -104,7 +112,9 @@
       "tr": "Şarjör Boyutu",
       "hr": "Veličina Spremnika",
       "sr": "Veličina Okvira",
-      "value": 20
+      "value": 20,
+      "pt-BR": "Tamanho do Carregador",
+      "he": "גודל מחסנית"
     },
     "Firing Mode": {
       "en": "Firing Mode",
@@ -125,7 +135,9 @@
       "tr": "Atış Modu",
       "hr": "Način Pucanja",
       "sr": "Režim Pucanja",
-      "value": "Fully-Automatic"
+      "value": "Fully-Automatic",
+      "pt-BR": "Modo de Disparo",
+      "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
       "en": "ARC Armor Penetration",
@@ -146,7 +158,9 @@
       "tr": "ARC Zırh Delme",
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
-      "value": "Moderate"
+      "value": "Moderate",
+      "pt-BR": "Penetração de Blindagem ARC",
+      "he": "חדירת שריון ARC"
     },
     "Upgrade Modifiers": {
       "en": "Upgrade Modifiers",
@@ -167,7 +181,9 @@
       "tr": "Geliştirme Değiştiricileri",
       "hr": "Modifikatori Nadogradnje",
       "sr": "Modifikatori Unapređenja",
-      "value": "+8 Magazine Size"
+      "value": "+8 Magazine Size",
+      "pt-BR": "Modificadores de Melhoria",
+      "he": "תוספי שדרוג"
     }
   },
   "weightKg": 6,
