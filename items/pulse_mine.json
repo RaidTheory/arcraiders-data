@@ -75,7 +75,12 @@
     "chemicals": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/pulse_mine.png",
-  "updatedAt": "12/16/2025",
+  "updatedAt": "12/31/2025",
+  "recipe": {
+    "crude_explosives": 1,
+    "wires": 1
+  },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 1,
   "blueprintLocked": true
 }
