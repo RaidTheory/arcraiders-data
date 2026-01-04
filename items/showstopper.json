@@ -19,7 +19,7 @@
     "tr": "Gösteri Durdurucu",
     "hr": "Showstopper",
     "sr": "Showstopper",
-    "pt-BR": "Showstopper",
+    "pt-BR": "Para-Tudo",
     "he": "שואו-סטופר"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Bir gecikmeden sonra patlayan ve yarıçapındaki düşmanları sersemletеn bir bomba.",
     "hr": "Granata koja detonira nakon odgode, omamljujući neprijatelje u svom radijusu.",
     "sr": "Granata koja detonira nakon odlaganja, omamljujući neprijatelje u svom radijusu.",
-    "pt-BR": "Uma granada que detona após um atraso, atordoando inimigos dentro do seu raio.",
+    "pt-BR": "Granada que detona após um intervalo, atordoando inimigos em seu raio de ação.",
     "he": "רימון שמתפוצץ לאחר השהיה, ומהמם אויבים ברדיוס הפיצוץ."
   },
   "type": "Quick Use",
@@ -70,7 +70,7 @@
       "hr": "Trajanje ARC Omamljivanja",
       "sr": "Trajanje ARC Omamljivanja",
       "value": "10s",
-      "pt-BR": "Duração de atordoamento (ARC)",
+      "pt-BR": "Duração de atordoamento de ARC",
       "he": "משך הלם ל-ARC"
     },
     "Raider Stun Duration": {
@@ -93,7 +93,7 @@
       "hr": "Trajanje Raider Omamljivanja",
       "sr": "Trajanje Rejder Omamljivanja",
       "value": "2s",
-      "pt-BR": "Duração de atordoamento (Raider)",
+      "pt-BR": "Duração de Atordoamento de Combatente",
       "he": "משך הלם לריידר"
     },
     "Radius": {

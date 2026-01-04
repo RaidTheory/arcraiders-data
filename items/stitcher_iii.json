@@ -19,7 +19,7 @@
     "tr": "Stitcher III",
     "hr": "Stitcher III",
     "sr": "Stitcher III",
-    "pt-BR": "Stitcher III",
+    "pt-BR": "Costurador III",
     "he": "סטיצ'ר III"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Tam otomatik hafif makineli tüfek. İyi hasar verir, ancak oldukça düşük atış hızına sahiptir ve kontrol edilmesi zor olabilir.",
     "hr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolirati.",
     "sr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolisati.",
-    "pt-BR": "SMG totalmente automática. Causa bom dano, mas tem uma cadência de tiro baixa e pode ser difícil de controlar.",
+    "pt-BR": "Tem bom poder de dano, mas a cadência de tiro é muito baixa e pode ser difícil de controlar.",
     "he": "תת-מקלע אוטומטי. גורם נזק טוב, אך בעל קצב אש נמוך יחסית ועלול להיות קשה לשליטה."
   },
   "type": "SMG",
@@ -101,7 +101,7 @@
       "hr": "Vrsta streljiva",
       "sr": "Vrsta municije",
       "value": "Light Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Magazine Size": {
@@ -124,7 +124,7 @@
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
       "value": 20,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -147,7 +147,7 @@
       "hr": "Način pucanja",
       "sr": "Režim paljbe",
       "value": "Fully-Automatic",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -170,7 +170,7 @@
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
       "value": "Very Weak",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Reduced Horizontal Recoil": {
@@ -193,7 +193,7 @@
       "hr": "Smanjen horizontalni trzaj",
       "sr": "Smanjen horizontalni trzaj",
       "value": "33.3%",
-      "pt-BR": "Recuo Horizontal Reduzido",
+      "pt-BR": "Redução no Recuo Horizontal",
       "he": "רתע אופקי מופחת"
     },
     "Reduced Reload Time": {

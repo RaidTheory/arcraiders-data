@@ -41,7 +41,7 @@
     "tr": "Dağılım ve geri tepme toparlanma süresini hafifçe iyileştirir.",
     "hr": "Blago poboljšava raspršenje i vrijeme oporavka trzaja.",
     "sr": "Blago poboljšava rasipanje i vreme oporavka trzaja.",
-    "pt-BR": "Melhora levemente a dispersão e o tempo de recuperação de recuo.",
+    "pt-BR": "Melhora de maneira sutil a dispersão e o tempo de recuperação do recuo. Compatível com: Arpeggio, Bettina, Ferro, Renegado, Torrente.",
     "he": "משפרת קלות את הפיזור ואת זמן ההתאוששות מהרתע."
   },
   "type": "Modification",
@@ -87,7 +87,7 @@
       "hr": "Smanjeno Vrijeme Oporavka Trzaja",
       "sr": "Smanjeno Vreme Oporavka Trzaja",
       "value": "20%",
-      "pt-BR": "Tempo de Recuperação de Recuo Reduzido",
+      "pt-BR": "Redução no Tempo de Recuperação do Recuo",
       "he": "זמן התאוששות מרתע מופחת"
     },
     "Reduced Dispersion Recovery Time": {
@@ -110,7 +110,7 @@
       "hr": "Smanjeno Vrijeme Oporavka Raspršenja",
       "sr": "Smanjeno Vreme Oporavka Rasipanja",
       "value": "20%",
-      "pt-BR": "Tempo de Recuperação de Dispersão Reduzido",
+      "pt-BR": "Redução no Tempo de Recuperação da Dispersão",
       "he": "זמן התאוששות מפיזור מופחת"
     }
   },
