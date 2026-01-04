@@ -19,7 +19,7 @@
     "tr": "Hullcracker I",
     "hr": "Hullcracker I",
     "sr": "Hullcracker I",
-    "pt-BR": "Hullcracker I",
+    "pt-BR": "Quebra-Casco I",
     "he": "Hullcracker I"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Yalnızca ARC'ye çarptığında patlayan patlayıcı mermiler atar.",
     "hr": "Ispaljuje eksplozivne projektile koji detoniraju samo pri pogotku ARC-a.",
     "sr": "Ispaljuje eksplozivne projektile koji detoniraju samo pri pogotku ARC-a.",
-    "pt-BR": "Dispara projéteis explosivos que detonam apenas ao atingir ARC.",
+    "pt-BR": "Dispara projéteis explosivos que só detonam ao atingir ARC.",
     "he": "יורה קליעים נפיצים שמתפוצצים רק בעת פגיעה ב-ARC."
   },
   "type": "Special",
@@ -92,7 +92,7 @@
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Municije",
       "value": "Launcher Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Magazine Size": {
@@ -115,7 +115,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Okvira",
       "value": 5,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -138,7 +138,7 @@
       "hr": "Način Pucanja",
       "sr": "Režim Pucanja",
       "value": "Pump-Action",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -161,7 +161,7 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Very Strong",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

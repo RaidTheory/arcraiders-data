@@ -41,7 +41,7 @@
     "tr": "Makul hasar çıkışı ve isabetliliğe sahiptir.",
     "hr": "Ima pristojnu štetu i preciznost.",
     "sr": "Ima pristojnu štetu i preciznost.",
-    "pt-BR": "Possui dano e precisão decentes.",
+    "pt-BR": "Tem boa produção de dano e precisão.",
     "he": "בעל נזק ודיוק סבירים."
   },
   "type": "Assault Rifle",
@@ -94,7 +94,7 @@
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Municije",
       "value": "Medium Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Magazine Size": {
@@ -117,7 +117,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Okvira",
       "value": 24,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -140,7 +140,7 @@
       "hr": "Način Pucanja",
       "sr": "Režim Paljbe",
       "value": "3-Round Burst",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -163,7 +163,7 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Moderate",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

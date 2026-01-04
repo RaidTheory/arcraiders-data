@@ -43,7 +43,7 @@
     "tr": "Gelen hasarın orta bir kısmını engelleyen standart bir kalkan. Hareketliliği orta düzeyde azaltır.",
     "hr": "Standardni štit koji blokira srednju količinu dolazne štete uz umjereno smanjenje pokretljivosti.",
     "sr": "Standardni štit koji blokira srednju količinu dolazne štete uz umereno smanjenje pokretljivosti.",
-    "pt-BR": "Um escudo padrão que bloqueia uma porção média do dano recebido com um custo moderado de mobilidade.",
+    "pt-BR": "Escudo padrão que bloqueia uma parte moderada do dano sofrido e sacrifica\nmoderadamente a mobilidade.",
     "he": "מגן סטנדרטי החוסם חלק בינוני מהנזק הנכנס במחיר מתון לניידות."
   },
   "durability": 100,
@@ -143,7 +143,7 @@
       "hr": "Smanjena Brzina Kretanja",
       "sr": "Smanjena Brzina Kretanja",
       "value": "5%",
-      "pt-BR": "Velocidade de Movimento Reduzida",
+      "pt-BR": "Redução na Velocidade de Movimento",
       "he": "מהירות תנועה מופחתת"
     }
   },

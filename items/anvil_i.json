@@ -41,7 +41,7 @@
     "tr": "Tek etkili el topu; yüksek hasar ve kafa vuruşu hasarı sunar, ancak kullanım yavaştır.",
     "hr": "Ručni top jednostrukog okidanja s visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem.",
     "sr": "Ručni top jednostrukog okidanja sa visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem.",
-    "pt-BR": "Canhão de mão de ação simples com alto dano e dano de tiro na cabeça, mas manuseio lento.",
+    "pt-BR": "Tem alto poder de dano e dano em tiros na cabeça, mas manuseio lento.",
     "he": "תותח יד בעל פעולה יחידה עם נזק גבוה ונזק ראש רב, אך שליטה איטית."
   },
   "type": "Hand Cannon",
@@ -90,7 +90,7 @@
       "hr": "Vrsta streljiva",
       "sr": "Vrsta streljiva",
       "value": "Heavy Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Magazine Size": {
@@ -113,7 +113,7 @@
       "hr": "Veličina spremnika",
       "sr": "Veličina spremnika",
       "value": 6,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -136,7 +136,7 @@
       "hr": "Način pucanja",
       "sr": "Način pucanja",
       "value": "Single-Action",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -159,7 +159,7 @@
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
       "value": "Strong",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

@@ -18,7 +18,7 @@
     "uk": "Кінцевий термін",
     "sr": "Rok",
     "hr": "Rok",
-    "pt-BR": "Deadline",
+    "pt-BR": "Prazo",
     "he": "דדליין"
   },
   "description": {
@@ -40,7 +40,7 @@
     "uk": "Міна, яка завдає шкоди всьому в радіусі дії після закінчення таймера.",
     "sr": "Mina koja nanosi štetu svemu u svom radijusu kada istekne tajmer.",
     "hr": "Mina koja nanosi štetu svemu u svom radijusu kada istekne mjerač vremena.",
-    "pt-BR": "Uma mina que causa dano a qualquer coisa dentro de seu raio assim que o tempo acaba.",
+    "pt-BR": "Mina que causa dano a tudo dentro do seu alcance quando o tempo se esgota.",
     "he": "מוקש הגורם נזק לכל דבר ברדיוס שלו ברגע שהטיימר נגמר."
   },
   "id": "deadline",
@@ -116,7 +116,7 @@
       "sr": "Trajanje tajmera",
       "hr": "Trajanje mjerača vremena",
       "value": "6s",
-      "pt-BR": "Duração do Temporizador",
+      "pt-BR": "Duração do temporizador",
       "he": "משך טיימר"
     }
   },

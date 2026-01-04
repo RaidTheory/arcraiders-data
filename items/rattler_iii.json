@@ -19,7 +19,7 @@
     "kr": "래틀러 III",
     "pl": "Rattler III",
     "hr": "Rattler III",
-    "pt-BR": "Rattler III",
+    "pt-BR": "Matraca III",
     "he": "רטלר III"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Ucuz bir saldırı seçeneği, ancak aynı anda 2 mermi şarj edilmeli.",
     "hr": "Jeftina ofenzivna opcija, ali se mora puniti po 2 metka odjednom.",
     "sr": "Jeftina ofanzivna opcija, ali se mora puniti po 2 metka odjednom.",
-    "pt-BR": "Fuzil de assalto totalmente automático. Uma opção ofensiva barata, mas deve ser recarregado 2 balas por vez.",
+    "pt-BR": "Fuzil de assalto totalmente automático. Uma opção ofensiva barata, mas precisa ser recarregada dois projéteis por vez.",
     "he": "רובה סער אוטומטי מלא. אפשרות התקפית זולה, אך נטען ב-2 כדורים בכל פעם."
   },
   "type": "Assault Rifle",
@@ -90,7 +90,7 @@
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Municije",
       "value": "Medium Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Magazine Size": {
@@ -113,7 +113,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Okvira",
       "value": 20,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -136,7 +136,7 @@
       "hr": "Način Pucanja",
       "sr": "Režim Pucanja",
       "value": "Fully-Automatic",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -159,7 +159,7 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Moderate",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Upgrade Modifiers": {

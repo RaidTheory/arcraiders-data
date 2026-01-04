@@ -41,7 +41,7 @@
     "tr": "Dağılma ve geri tepme toparlanma süresini orta derecede iyileştirir.",
     "hr": "Umjereno poboljšava raspršenje i vrijeme oporavka od trzaja.",
     "sr": "Umereno poboljšava rasipanje i vreme oporavka od trzaja.",
-    "pt-BR": "Melhora moderadamente a dispersão e o tempo de recuperação de recuo.",
+    "pt-BR": "Melhora de forma moderada a dispersão e o tempo de recuperação do recuo.",
     "he": "משפרת בצורה בינונית את הפיזור ואת זמן ההתאוששות מהרתע."
   },
   "type": "Modification",
@@ -103,7 +103,7 @@
       "hr": "Smanjeno Vrijeme Oporavka od Trzaja",
       "sr": "Smanjeno Vreme Oporavka od Trzaja",
       "value": "35%",
-      "pt-BR": "Tempo de Recuperação de Recuo Reduzido",
+      "pt-BR": "Redução no Tempo de Recuperação do Recuo",
       "he": "זמן התאוששות מרתע מופחת"
     },
     "Reduced Dispersion Recovery Time": {
@@ -126,7 +126,7 @@
       "hr": "Smanjeno Vrijeme Oporavka Raspršenja",
       "sr": "Smanjeno Vreme Oporavka Rasipanja",
       "value": "35%",
-      "pt-BR": "Tempo de Recuperação de Dispersão Reduzido",
+      "pt-BR": "Redução no Tempo de Recuperação da Dispersão",
       "he": "זמן התאוששות מפיזור מופחת"
     }
   },

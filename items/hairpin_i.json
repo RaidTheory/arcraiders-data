@@ -19,7 +19,7 @@
     "tr": "Saç tokası I",
     "hr": "Ukosnica I",
     "sr": "Ukosnica I",
-    "pt-BR": "Hairpin I",
+    "pt-BR": "Grampo de Cabelo I",
     "he": "היירפין I"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Dahili susturucuya sahip. Gizlilik için harika, ancak savaşta kullanımı zor.",
     "hr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi.",
     "sr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi.",
-    "pt-BR": "Possui silenciador integrado. Ótima para furtividade, mas complicada em combate.",
+    "pt-BR": "Tem silenciador embutido. Ótima para furtividade, mas complicada em combate.",
     "he": "בעל משתיק קול מובנה. מצוין להתגנבות, אך מאתגר בקרב."
   },
   "type": "Pistol",
@@ -90,7 +90,7 @@
       "hr": "Vrsta Streljiva",
       "sr": "Vrsta Streljiva",
       "value": "Light Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Magazine Size": {
@@ -113,7 +113,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
       "value": 8,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -136,7 +136,7 @@
       "hr": "Način Pucanja",
       "sr": "Način Pucanja",
       "value": "Slide-Action",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -159,7 +159,7 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Very Weak",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Special Trait": {
@@ -182,7 +182,7 @@
       "hr": "Posebna Osobina",
       "sr": "Posebna Osobina",
       "value": "Integrated Silencer",
-      "pt-BR": "Atributo Especial",
+      "pt-BR": "Característica especial",
       "he": "תכונה מיוחדת"
     }
   },

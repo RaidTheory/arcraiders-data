@@ -19,7 +19,7 @@
     "hr": "Lomač Trupa II",
     "pt": "Quebra-cascos II",
     "da": "Skrogknuser II",
-    "pt-BR": "Hullcracker II",
+    "pt-BR": "Quebra-Casco II",
     "he": "Hullcracker II"
   },
   "effects": {
@@ -89,7 +89,7 @@
       "pt": "Tamanho do Carregador",
       "da": "Magasinstørrelse",
       "value": 5,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -112,7 +112,7 @@
       "pt": "Modo de Disparo",
       "da": "Skydningstilstand",
       "value": "Pump-Action",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -135,7 +135,7 @@
       "pt": "Penetração de Blindagem ARC",
       "da": "ARC Rustningspenetrering",
       "value": "Very Strong",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Ammo Type": {
@@ -158,7 +158,7 @@
       "pt": "Tipo de Munição",
       "da": "Ammunitionstype",
       "value": "Launcher Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     }
   },
@@ -195,7 +195,7 @@
     "hr": "Ispaljuje eksplozivne projektile koji detoniraju samo kada pogode ARC.",
     "pt": "Dispara projéteis explosivos que só detonam ao atingir ARC.",
     "da": "Affyrer eksplosive projektiler, der kun detonerer ved træf på ARC.",
-    "pt-BR": "Dispara projéteis explosivos que detonam apenas ao atingir ARC.",
+    "pt-BR": "Dispara projéteis explosivos que só detonam ao atingir ARC.",
     "he": "יורה קליעים נפיצים שמתפוצצים רק בעת פגיעה ב-ARC."
   },
   "type": "Special",

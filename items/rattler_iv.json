@@ -19,7 +19,7 @@
     "kr": "래틀러 IV",
     "pl": "Rattler IV",
     "hr": "Rattler IV",
-    "pt-BR": "Rattler IV",
+    "pt-BR": "Matraca IV",
     "he": "רטלר IV"
   },
   "effects": {
@@ -43,7 +43,7 @@
       "pl": "Pojemność Magazynka",
       "hr": "Veličina Okvira",
       "value": 24,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Durability": {
@@ -89,7 +89,7 @@
       "pl": "Typ Amunicji",
       "hr": "Tip Municije",
       "value": "Medium Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Firing Mode": {
@@ -112,7 +112,7 @@
       "pl": "Tryb Ognia",
       "hr": "Način Pucanja",
       "value": "Fully-Automatic",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -135,7 +135,7 @@
       "pl": "Przebicie Pancerza ARC",
       "hr": "ARC Probijanje Oklopa",
       "value": "Moderate",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },
@@ -172,7 +172,7 @@
     "kr": "완전 자동 돌격 소총. 저렴한 공격 옵션이지만, 한 번에 2발씩 재장전해야 합니다.",
     "pl": "W pełni automatyczny karabin szturmowy. Tania opcja ofensywna, ale musi być przeładowywany po 2 pociski na raz.",
     "hr": "Potpuno automatska jurišna puška. Jeftina ofenzivna opcija, ali se mora puniti po 2 metka odjednom.",
-    "pt-BR": "Fuzil de assalto totalmente automático. Uma opção ofensiva barata, mas que precisa ser recarregada 2 balas por vez.",
+    "pt-BR": "Fuzil de assalto totalmente automático. Uma opção ofensiva barata, mas precisa ser recarregada dois projéteis por vez.",
     "he": "רובה סער אוטומטי מלא. אפשרות תקיפה זולה, אך נדרשת טעינה של 2 כדורים בכל פעם."
   },
   "type": "Assault Rifle",

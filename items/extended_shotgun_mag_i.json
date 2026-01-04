@@ -1,7 +1,7 @@
 {
   "id": "extended_shotgun_mag_i",
   "name": {
-    "en": "Extended Shotgun Mag I",
+    "en": " Extended Shotgun Mag I",
     "de": "Erweitertes Schrotflintenmagazin I",
     "fr": "Chargeur de Fusil à Pompe Étendu I",
     "es": "Cargador de escopeta extendido I",
@@ -19,7 +19,7 @@
     "tr": "Uzatılmış Pompalı Şarjör I",
     "hr": "Produženi Sačmarski Spremnik I",
     "sr": "Produženi Sačmarski Spremnik I",
-    "pt-BR": "Carregador de Escopeta Estendido I",
+    "pt-BR": "Carregador Estendido de Escopeta I",
     "he": "מחסנית רובה ציד מוגדלת I"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Pompalı tüfeklerin mermi kapasitesini hafifçe artırır. Uyumlu: Il Toro, Vulcano",
     "hr": "Blago povećava kapacitet streljiva sačmarica. Kompatibilno s: Il Toro, Vulcano",
     "sr": "Blago povećava kapacitet streljiva sačmarica. Kompatibilno sa: Il Toro, Vulcano",
-    "pt-BR": "Aumenta levemente a capacidade de munição de escopetas. Compatível com: Il Toro, Vulcano",
+    "pt-BR": "Aumenta de maneira sutil a capacidade de munição de escopetas. Compatível com: Vulcão, Il Toro",
     "he": "מגדיל מעט את קיבולת התחמושת של רובי ציד. תואם ל: איל טורו, וולקנו"
   },
   "type": "Modification",
@@ -69,7 +69,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
       "value": "+2",
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     }
   },

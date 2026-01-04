@@ -41,7 +41,7 @@
     "tr": "Atış başına dağılımı hafifçe azaltır. Uyumlu silahlar: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "hr": "Blago smanjuje raspršenje po hicu. Kompatibilno s: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "sr": "Blago smanjuje rasipanje po hicu. Kompatibilno sa: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-    "pt-BR": "Reduz levemente a dispersão por disparo. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "pt-BR": "Reduz de maneira sutil a dispersão por disparo. Compatível com: Arpeggio, Bettina, Ferro, Renegado, Bigorna",
     "he": "מפחית מעט את הפיזור בכל ירייה. תואם ל: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
   },
   "type": "Modification",
@@ -91,7 +91,7 @@
       "hr": "Smanjeno Raspršenje po Hicu",
       "sr": "Smanjeno Rasipanje po Hicu",
       "value": "20%",
-      "pt-BR": "Dispersão por Disparo Reduzida",
+      "pt-BR": "Redução na Dispersão por Disparo",
       "he": "פיזור מופחת בכל ירייה"
     },
     "Reduced Max Shot Dispersion": {
@@ -114,7 +114,7 @@
       "hr": "Smanjeno Maks. Raspršenje Hica",
       "sr": "Smanjeno Maks. Rasipanje Hica",
       "value": "10%",
-      "pt-BR": "Dispersão Máxima de Disparo Reduzida",
+      "pt-BR": "Redução na Dispersão do máximo de Disparos",
       "he": "פיזור ירי מרבי מופחת"
     }
   },
