@@ -19,7 +19,7 @@
     "hr": "Vulcano IV",
     "pt": "Vulcano IV",
     "da": "Vulcano IV",
-    "pt-BR": "Vulcano IV",
+    "pt-BR": "Vulcão IV",
     "he": "וולקנו IV"
   },
   "effects": {
@@ -112,7 +112,7 @@
       "pt": "Tipo de munição",
       "da": "Ammunitionstype",
       "value": "Shotgun Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Magazine Size": {
@@ -135,7 +135,7 @@
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
       "value": 6,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -158,7 +158,7 @@
       "pt": "Modo de disparo",
       "da": "Skydemetode",
       "value": "Semi-Automatic",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -181,7 +181,7 @@
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningsgennemtrængning",
       "value": "Weak",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

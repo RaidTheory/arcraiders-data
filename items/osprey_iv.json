@@ -112,7 +112,7 @@
       "pt": "Tipo de munição",
       "da": "Ammunitionstype",
       "value": "Medium Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Magazine Size": {
@@ -135,7 +135,7 @@
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
       "value": 8,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -158,7 +158,7 @@
       "pt": "Modo de disparo",
       "da": "Skydningstilstand",
       "value": "Bolt-Action",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -181,7 +181,7 @@
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningspenetrering",
       "value": "Moderate",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Special Trait": {
@@ -204,7 +204,7 @@
       "pt": "Traço especial",
       "da": "Særlig egenskab",
       "value": "Scoped",
-      "pt-BR": "Atributo Especial",
+      "pt-BR": "Característica especial",
       "he": "תכונה מיוחדת"
     }
   },

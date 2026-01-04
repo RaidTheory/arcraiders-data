@@ -19,7 +19,7 @@
     "tr": "Kettle IV",
     "hr": "Kettle IV",
     "sr": "Kettle IV",
-    "pt-BR": "Kettle IV",
+    "pt-BR": "Chaleira IV",
     "he": "קטל IV"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Hızlı ve isabetli, ancak düşük mermi hızına sahip ve yeniden dolması uzun sürer.",
     "hr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje.",
     "sr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje.",
-    "pt-BR": "Rápido e preciso, mas tem baixa velocidade de projétil e demora para recarregar.",
+    "pt-BR": "Veloz e preciso, mas tem baixa velocidade de projétil e demora muito tempo para recarregar.",
     "he": "מהיר ומדויק, אך בעל מהירות קליע נמוכה וזמן טעינה ארוך."
   },
   "type": "Assault Rifle",
@@ -92,7 +92,7 @@
       "hr": "Vrsta streljiva",
       "sr": "Vrsta municije",
       "value": "Light Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Magazine Size": {
@@ -115,7 +115,7 @@
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
       "value": 20,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -138,7 +138,7 @@
       "hr": "Način pucanja",
       "sr": "Režim pucanja",
       "value": "Semi-Automatic",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -161,7 +161,7 @@
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
       "value": "Very Weak",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

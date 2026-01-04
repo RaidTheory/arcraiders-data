@@ -19,7 +19,7 @@
     "tr": "Açılı Kabza I",
     "hr": "Kutna Ručka I",
     "sr": "Kutna Ručka I",
-    "pt-BR": "Empunhadura Angular I",
+    "pt-BR": "Empunhadura Angulada I",
     "he": "מאחז זוויתי I"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Yatay geri tepmesini hafifçe azaltır. Uyumlu: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
     "hr": "Blago smanjuje horizontalni trzaj. Kompatibilno s: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
     "sr": "Blago smanjuje horizontalni trzaj. Kompatibilno sa: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
-    "pt-BR": "Reduz levemente o recuo horizontal. Compatível com: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+    "pt-BR": "Reduz levemente o recuo horizontal. Compatível com: Arpeggio, Bettina, Ferro, Venator, Vulcão",
     "he": "מפחית מעט את הרתע האופקי. תואם ל: Tempest, Arpeggio, Kettle, Ferro, Hullcracker"
   },
   "type": "Modification",
@@ -69,7 +69,7 @@
       "hr": "Smanjen Horizontalni Trzaj",
       "sr": "Smanjen Horizontalni Trzaj",
       "value": "20%",
-      "pt-BR": "Recuo Horizontal Reduzido",
+      "pt-BR": "Redução no Recuo Horizontal",
       "he": "רתע אופקי מופחת"
     }
   },

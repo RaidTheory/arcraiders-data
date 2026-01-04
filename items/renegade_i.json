@@ -19,7 +19,7 @@
     "tr": "Renegade I",
     "hr": "Renegade I",
     "sr": "Renegade I",
-    "pt-BR": "Renegade I",
+    "pt-BR": "Renegado I",
     "he": "רנגייד I"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Yüksek hasar çıkışı, isabetlilik ve kafadan vuruş hasarına sahiptir.",
     "hr": "Ima visoku štetu, preciznost i štetu od pogotka u glavu.",
     "sr": "Ima visoku štetu, preciznost i štetu od pogotka u glavu.",
-    "pt-BR": "Rifle de batalha de ação por alavanca com alto dano, precisão e dano de tiro na cabeça.",
+    "pt-BR": "Tem alto poder de dano, precisão e dano de tiro na cabeça.",
     "he": "רובה קרב בעל מנגנון מנוף עם נזק גבוה, דיוק רב ונזק פגיעות ראש."
   },
   "type": "Battle Rifle",
@@ -90,7 +90,7 @@
       "hr": "Vrsta Municije",
       "sr": "Vrsta Municije",
       "value": "Medium Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Magazine Size": {
@@ -113,7 +113,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
       "value": 8,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -136,7 +136,7 @@
       "hr": "Način Pucanja",
       "sr": "Način Pucanja",
       "value": "Lever-Action",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -159,7 +159,7 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Moderate",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

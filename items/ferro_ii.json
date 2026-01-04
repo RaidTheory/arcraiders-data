@@ -41,7 +41,7 @@
     "tr": "Güçlü bir darbe indirir, ancak her atıştan sonra yeniden doldurulmalıdır.",
     "hr": "Zadaje snažan udarac, ali se mora puniti između svakog hica.",
     "sr": "Zadaje snažan udarac, ali mora da se punjenje između svakog hica.",
-    "pt-BR": "Causa um grande impacto, mas precisa ser recarregada a cada disparo.",
+    "pt-BR": "Tem forte impacto, mas precisa ser recarregado após cada disparo.",
     "he": "עוצמתי במיוחד, אך דורש טעינה מחדש בין כל ירייה."
   },
   "type": "Battle Rifle",
@@ -92,7 +92,7 @@
       "hr": "Vrsta streljiva",
       "sr": "Vrsta municije",
       "value": "Heavy Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     },
     "Magazine Size": {
@@ -115,7 +115,7 @@
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
       "value": 1,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -138,7 +138,7 @@
       "hr": "Način pucanja",
       "sr": "Režim pucanja",
       "value": "Break-Action",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -161,7 +161,7 @@
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
       "value": "Strong",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

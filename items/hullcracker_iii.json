@@ -19,7 +19,7 @@
     "hr": "Lomač Trupa III",
     "pt": "Quebra-cascos III",
     "da": "Skrogknuser III",
-    "pt-BR": "Hullcracker III",
+    "pt-BR": "Quebra-Casco III",
     "he": "Hullcracker III"
   },
   "effects": {
@@ -89,7 +89,7 @@
       "pt": "Tamanho do Carregador",
       "da": "Magasinstørrelse",
       "value": 5,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -112,7 +112,7 @@
       "pt": "Modo de Disparo",
       "da": "Skydningstilstand",
       "value": "Pump-Action",
-      "pt-BR": "Modo de Disparo",
+      "pt-BR": "Modo de disparo",
       "he": "מצב ירי"
     },
     "ARC Armor Penetration": {
@@ -135,7 +135,7 @@
       "pt": "Penetração de Blindagem ARC",
       "da": "ARC Rustningspenetrering",
       "value": "Very Strong",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Ammo Type": {
@@ -158,7 +158,7 @@
       "pt": "Tipo de Munição",
       "da": "Ammunitionstype",
       "value": "Launcher Ammo",
-      "pt-BR": "Tipo de Munição",
+      "pt-BR": "Tipo de munição",
       "he": "סוג תחמושת"
     }
   },

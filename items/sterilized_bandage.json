@@ -19,7 +19,7 @@
     "tr": "Sterilize Bandaj",
     "hr": "Sterilizirani zavoj",
     "sr": "Sterilizovani zavoj",
-    "pt-BR": "Bandagem Esterilizada",
+    "pt-BR": "Atadura Esterilizada",
     "he": "תחבושת מחוטאת"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Zamanla büyük miktarda sağlık puanını kademeli olarak geri kazandıran bir tıbbi eşya.",
     "hr": "Medicinski predmet koji postupno obnavlja veliku količinu zdravlja tijekom vremena.",
     "sr": "Medicinski predmet koji postepeno obnavlja veliku količinu zdravlja tokom vremena.",
-    "pt-BR": "Um item médico que restaura gradualmente uma grande quantidade de saúde ao longo do tempo.",
+    "pt-BR": "Item medicinal que recupera uma grande quantidade de vida de forma gradual ao longo do tempo.",
     "he": "פריט רפואי המשחזר כמות גדולה של בריאות בהדרגה לאורך זמן."
   },
   "type": "Quick Use",
@@ -116,7 +116,7 @@
       "hr": "Vrijeme korištenja",
       "sr": "Vreme korišćenja",
       "value": "1.5s",
-      "pt-BR": "Tempo de Uso",
+      "pt-BR": "Tempo de uso",
       "he": "זמן שימוש"
     }
   },
