@@ -99,11 +99,14 @@
       "he": "רתע אופקי מופחת"
     }
   },
-  "updatedAt": "11/10/2025",
+  "updatedAt": "01/09/2026",
   "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_i.png",
   "recipe": {
     "metal_parts": 6,
     "wires": 1
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "salvagesInto": {
+    "metal_parts": 3
+  }
 }

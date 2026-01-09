@@ -120,7 +120,7 @@
   "weightKg": 2,
   "value": 2000,
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk2.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "electrical_components": 2,
     "magnet": 3
@@ -129,5 +129,8 @@
     "magnet": 1,
     "electrical_components": 1
   },
-  "craftBench": "equipment_bench"
+  "craftBench": "equipment_bench",
+  "salvagesInto": {
+    "electrical_components": 1
+  }
 }

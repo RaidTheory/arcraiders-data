@@ -29,7 +29,7 @@
     "advanced_electrical_components": 2,
     "arc_alloy": 3
   },
-  "updatedAt": "11/2/2025",
+  "updatedAt": "01/09/2026",
   "description": {
     "en": "Can be recycled into crafting materials.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
@@ -55,5 +55,8 @@
   "weightKg": 1,
   "stackSize": 3,
   "foundIn": "ARC",
-  "imageFilename": "https://cdn.arctracker.io/items/rocketeer_driver.png"
+  "imageFilename": "https://cdn.arctracker.io/items/rocketeer_driver.png",
+  "salvagesInto": {
+    "arc_circuitry": 2
+  }
 }

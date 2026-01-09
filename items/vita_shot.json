@@ -107,5 +107,8 @@
     "chemicals": 4,
     "syringe": 1
   },
-  "updatedAt": "11/03/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "syringe": 1
+  }
 }

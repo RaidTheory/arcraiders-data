@@ -51,9 +51,12 @@
   "stackSize": 3,
   "foundIn": "Exodus",
   "imageFilename": "https://cdn.arctracker.io/items/geiger_counter.png",
-  "updatedAt": "11/14/2025",
+  "updatedAt": "01/09/2026",
   "recyclesInto": {
     "battery": 3,
     "exodus_modules": 1
+  },
+  "salvagesInto": {
+    "battery": 3
   }
 }

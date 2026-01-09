@@ -55,5 +55,8 @@
   },
   "foundIn": "Medical",
   "imageFilename": "https://cdn.arctracker.io/items/cracked_bioscanner.png",
-  "updatedAt": "11/14/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "battery": 2
+  }
 }

@@ -98,9 +98,15 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/green_light_stick.png",
-  "updatedAt": "10/30/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "chemicals": 3
   },
-  "craftBench": "utility_bench"
+  "craftBench": "utility_bench",
+  "recyclesInto": {
+    "chemicals": 1
+  },
+  "salvagesInto": {
+    "chemicals": 1
+  }
 }

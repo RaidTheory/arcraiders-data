@@ -147,10 +147,17 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/heavy_shield.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "power_rod": 1,
     "voltage_converter": 2
   },
-  "craftBench": "equipment_bench"
+  "craftBench": "equipment_bench",
+  "recyclesInto": {
+    "arc_circuitry": 2,
+    "voltage_converter": 1
+  },
+  "salvagesInto": {
+    "arc_alloy": 4
+  }
 }

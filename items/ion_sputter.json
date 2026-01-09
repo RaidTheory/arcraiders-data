@@ -50,10 +50,13 @@
   "stackSize": 3,
   "foundIn": "Exodus",
   "imageFilename": "https://cdn.arctracker.io/items/ion_sputter.png",
-  "updatedAt": "11/24/2025",
+  "updatedAt": "01/09/2026",
   "value": 6000,
   "recyclesInto": {
     "voltage_converter": 4,
+    "exodus_modules": 1
+  },
+  "salvagesInto": {
     "exodus_modules": 1
   }
 }

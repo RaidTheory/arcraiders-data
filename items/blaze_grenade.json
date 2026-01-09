@@ -125,11 +125,14 @@
       "he": "רדיוס"
     }
   },
-  "updatedAt": "12/31/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "explosive_compound": 1,
     "oil": 2
   },
   "craftBench": "explosives_bench",
-  "stationLevelRequired": 3
+  "stationLevelRequired": 3,
+  "salvagesInto": {
+    "oil": 1
+  }
 }

@@ -98,10 +98,16 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/noisemaker.png",
-  "updatedAt": "12/31/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "speaker_component": 1,
     "plastic_parts": 2
   },
-  "craftBench": "in_raid"
+  "craftBench": "in_raid",
+  "recyclesInto": {
+    "speaker_component": 1
+  },
+  "salvagesInto": {
+    "speaker_component": 1
+  }
 }

@@ -55,5 +55,8 @@
   "stackSize": 3,
   "foundIn": "Residential, Commercial",
   "imageFilename": "https://cdn.arctracker.io/items/headphones.png",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "speaker_component": 1
+  }
 }

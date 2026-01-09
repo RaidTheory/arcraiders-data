@@ -78,5 +78,12 @@
     "steel_spring": 5
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_iii.png",
-  "updatedAt": "11/11/2025"
+  "updatedAt": "01/09/2026",
+  "recyclesInto": {
+    "mod_components": 1,
+    "steel_spring": 2
+  },
+  "salvagesInto": {
+    "mechanical_components": 2
+  }
 }

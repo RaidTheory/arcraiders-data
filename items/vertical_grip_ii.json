@@ -85,12 +85,15 @@
     "Stitcher"
   ],
   "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
-  "updatedAt": "12/07/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "mechanical_components": 2,
     "duct_tape": 3
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "salvagesInto": {
+    "mechanical_components": 1
+  }
 }

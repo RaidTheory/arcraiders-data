@@ -49,11 +49,14 @@
   "weightKg": 1.5,
   "foundIn": "Exodus",
   "imageFilename": "https://cdn.arctracker.io/items/mini_centrifuge.png",
-  "updatedAt": "11/14/2025",
+  "updatedAt": "01/09/2026",
   "value": 3000,
   "stackSize": 3,
   "recyclesInto": {
     "advanced_mechanical_components": 1,
     "canister": 2
+  },
+  "salvagesInto": {
+    "mechanical_components": 2
   }
 }

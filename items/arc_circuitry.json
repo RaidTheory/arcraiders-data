@@ -54,9 +54,12 @@
   "weightKg": 0.3,
   "stackSize": 5,
   "foundIn": "ARC",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "arc_alloy": 8
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "arc_alloy": 1
+  }
 }

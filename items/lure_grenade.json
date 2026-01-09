@@ -49,13 +49,16 @@
   "value": 1000,
   "weightKg": 0.4,
   "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
-  "updatedAt": "10/30/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "speaker_component": 1,
     "electrical_components": 1
   },
   "craftBench": "utility_bench",
   "recyclesInto": {
+    "speaker_component": 1
+  },
+  "salvagesInto": {
     "speaker_component": 1
   }
 }

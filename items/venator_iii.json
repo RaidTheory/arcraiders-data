@@ -239,11 +239,14 @@
     "medium_gun_parts": 3
   },
   "craftBench": "weapon_bench",
-  "updatedAt": "11/20/2025",
+  "updatedAt": "01/09/2026",
   "upgradeCost": {
     "advanced_mechanical_components": 1,
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "medium_gun_parts": 3
+  }
 }

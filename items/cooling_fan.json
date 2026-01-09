@@ -55,5 +55,8 @@
   "stackSize": 3,
   "foundIn": "Technological",
   "imageFilename": "https://cdn.arctracker.io/items/cooling_fan.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "wires": 4
+  }
 }

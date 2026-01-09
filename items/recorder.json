@@ -28,7 +28,7 @@
   "recyclesInto": {
     "plastic_parts": 10
   },
-  "updatedAt": "11/09/2025",
+  "updatedAt": "01/09/2026",
   "description": {
     "en": "A playable recorder used to attract ARC's attention, and impress other Raiders.",
     "de": "Eine spielbare Flöte, mit der ARC angelockt oder andere Raider beeindruckt werden können.",
@@ -78,5 +78,8 @@
       "he": "עמידות"
     }
   },
-  "imageFilename": "https://cdn.arctracker.io/items/recorder.png"
+  "imageFilename": "https://cdn.arctracker.io/items/recorder.png",
+  "salvagesInto": {
+    "plastic_parts": 4
+  }
 }

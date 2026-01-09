@@ -54,9 +54,12 @@
   "foundIn": "Raider, Security",
   "stackSize": 5,
   "weightKg": 0.4,
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "simple_gun_parts": 4
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "simple_gun_parts": 1
+  }
 }

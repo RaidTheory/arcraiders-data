@@ -123,7 +123,7 @@
       "he": "תאימות מגן"
     }
   },
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "plastic_parts": 6,
     "rubber_parts": 6
@@ -132,5 +132,8 @@
   "craftBench": [
     "equipment_bench",
     "workbench"
-  ]
+  ],
+  "salvagesInto": {
+    "plastic_parts": 3
+  }
 }

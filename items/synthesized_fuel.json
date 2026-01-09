@@ -55,5 +55,8 @@
     "plastic_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "oil": 1
+  }
 }

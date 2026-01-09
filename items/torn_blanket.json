@@ -54,5 +54,8 @@
   "stackSize": 3,
   "foundIn": "Residential, Medical",
   "imageFilename": "https://cdn.arctracker.io/items/torn_blanket.png",
-  "updatedAt": "11/01/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "fabric": 5
+  }
 }

@@ -74,7 +74,7 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_iii.png",
-  "updatedAt": "10/30/2025",
+  "updatedAt": "01/09/2026",
   "recyclesInto": {
     "mod_components": 1,
     "steel_spring": 2
@@ -83,5 +83,8 @@
     "mod_components": 2,
     "steel_spring": 5
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "salvagesInto": {
+    "mechanical_components": 2
+  }
 }

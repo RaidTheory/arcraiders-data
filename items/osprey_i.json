@@ -45,7 +45,7 @@
     "he": "רובה צלפים בריחי עם כוונת, בעל תפוקת נזק ודיוק אמינים."
   },
   "type": "Sniper Rifle",
-  "updatedAt": "11/12/2025",
+  "updatedAt": "01/09/2026",
   "value": 7000,
   "rarity": "Rare",
   "weightKg": 7,
@@ -197,5 +197,12 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
-  "isWeapon": true
+  "isWeapon": true,
+  "recyclesInto": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 2
+  },
+  "salvagesInto": {
+    "medium_gun_parts": 2
+  }
 }

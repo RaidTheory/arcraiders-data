@@ -189,7 +189,7 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "11/24/2025",
+  "updatedAt": "01/09/2026",
   "recyclesInto": {
     "metal_parts": 6,
     "simple_gun_parts": 1
@@ -198,5 +198,8 @@
     "metal_parts": 9,
     "simple_gun_parts": 1
   },
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "simple_gun_parts": 1
+  }
 }

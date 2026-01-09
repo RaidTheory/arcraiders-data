@@ -121,7 +121,8 @@
     }
   },
   "recyclesInto": {
-    "explosive_compound": 1
+    "explosive_compound": 1,
+    "arc_circuitry": 1
   },
   "craftBench": "explosives_bench",
   "recipe": {
@@ -129,5 +130,8 @@
     "arc_circuitry": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/deadline.png",
-  "updatedAt": "11/21/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "explosive_compound": 1
+  }
 }

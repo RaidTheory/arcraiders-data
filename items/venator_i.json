@@ -200,6 +200,9 @@
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
   "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-  "updatedAt": "11/20/2025",
-  "isWeapon": true
+  "updatedAt": "01/09/2026",
+  "isWeapon": true,
+  "salvagesInto": {
+    "medium_gun_parts": 2
+  }
 }

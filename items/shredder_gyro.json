@@ -51,9 +51,12 @@
   "stackSize": 3,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/shredder_gyro.png",
-  "updatedAt": "11/14/2025",
+  "updatedAt": "01/09/2026",
   "recyclesInto": {
     "mechanical_components": 3,
     "arc_alloy": 3
+  },
+  "salvagesInto": {
+    "mechanical_components": 2
   }
 }

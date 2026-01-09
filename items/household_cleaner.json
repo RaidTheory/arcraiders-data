@@ -54,5 +54,8 @@
   "stackSize": 3,
   "foundIn": "Residential",
   "imageFilename": "https://cdn.arctracker.io/items/household_cleaner.png",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "chemicals": 5
+  }
 }

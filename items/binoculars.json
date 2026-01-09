@@ -45,7 +45,7 @@
     "he": "משקפת בסיסית עם שתי רמות הגדלה."
   },
   "type": "Quick Use",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "rarity": "Common",
   "value": 640,
   "recyclesInto": {
@@ -83,5 +83,8 @@
     "plastic_parts": 8,
     "rubber_parts": 4
   },
-  "craftBench": "utility_bench"
+  "craftBench": "utility_bench",
+  "salvagesInto": {
+    "plastic_parts": 4
+  }
 }

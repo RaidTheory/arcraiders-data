@@ -49,16 +49,19 @@
   "value": 1750,
   "recyclesInto": {
     "mechanical_components": 1,
-    "wires": 1
+    "steel_spring": 1
   },
   "weightKg": 1,
   "imageFilename": "https://cdn.arctracker.io/items/advanced_mechanical_components.png",
   "foundIn": "Mechanical",
-  "updatedAt": "12/07/2025",
+  "updatedAt": "01/09/2026",
   "stackSize": 5,
   "recipe": {
     "steel_spring": 2,
     "mechanical_components": 2
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "mechanical_components": 1
+  }
 }

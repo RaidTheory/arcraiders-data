@@ -54,10 +54,13 @@
   "weightKg": 1,
   "stackSize": 5,
   "value": 1000,
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "chemicals": 10,
     "great_mullein": 2
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "chemicals": 5
+  }
 }

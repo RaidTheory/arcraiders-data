@@ -121,7 +121,7 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/showstopper.png",
-  "updatedAt": "10/30/2025",
+  "updatedAt": "01/09/2026",
   "recyclesInto": {
     "electrical_components": 1,
     "battery": 2
@@ -132,5 +132,8 @@
   },
   "craftBench": "explosives_bench",
   "stationLevelRequired": 3,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "salvagesInto": {
+    "battery": 2
+  }
 }

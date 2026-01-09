@@ -132,5 +132,8 @@
   "stationLevelRequired": 1,
   "blueprintLocked": true,
   "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
-  "updatedAt": "12/25/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "chemicals": 2
+  }
 }

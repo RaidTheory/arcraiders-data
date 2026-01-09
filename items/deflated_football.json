@@ -46,7 +46,8 @@
   },
   "type": "Recyclable",
   "recyclesInto": {
-    "rubber_parts": 15
+    "rubber_parts": 9,
+    "fabric": 9
   },
   "salvagesInto": {
     "rubber_parts": 9
@@ -57,5 +58,5 @@
   "weightKg": 0.8,
   "stackSize": 3,
   "foundIn": "Residential",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "01/09/2026"
 }

@@ -171,7 +171,7 @@
     "heavy_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-  "updatedAt": "11/12/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "magnetic_accelerator": 1,
     "heavy_gun_parts": 3,
@@ -179,5 +179,8 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 3,
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "heavy_gun_parts": 2
+  }
 }

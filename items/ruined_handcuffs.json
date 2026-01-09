@@ -54,5 +54,8 @@
   },
   "foundIn": "Security",
   "imageFilename": "https://cdn.arctracker.io/items/ruined_handcuffs.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "metal_parts": 4
+  }
 }

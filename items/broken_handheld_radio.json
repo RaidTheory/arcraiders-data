@@ -29,7 +29,7 @@
     "sensors": 3,
     "wires": 2
   },
-  "updatedAt": "12/07/2025",
+  "updatedAt": "01/09/2026",
   "description": {
     "en": "Can be recycled into crafting materials.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
@@ -55,5 +55,8 @@
   "weightKg": 3,
   "stackSize": 3,
   "foundIn": "Security",
-  "imageFilename": "https://cdn.arctracker.io/items/broken_handheld_radio.png"
+  "imageFilename": "https://cdn.arctracker.io/items/broken_handheld_radio.png",
+  "salvagesInto": {
+    "sensors": 2
+  }
 }

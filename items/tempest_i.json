@@ -178,6 +178,9 @@
   "stationLevelRequired": 3,
   "blueprintLocked": true,
   "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
-  "updatedAt": "12/7/2025",
-  "isWeapon": true
+  "updatedAt": "01/09/2026",
+  "isWeapon": true,
+  "salvagesInto": {
+    "medium_gun_parts": 2
+  }
 }

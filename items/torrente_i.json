@@ -169,7 +169,7 @@
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/torrente.png",
-  "updatedAt": "10/30/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 3,
@@ -177,5 +177,8 @@
   },
   "craftBench": "weapon_bench",
   "weightKg": 12,
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "medium_gun_parts": 2
+  }
 }

@@ -102,12 +102,15 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/smoke_grenade.png",
-  "updatedAt": "12/07/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "chemicals": 14,
     "canister": 1
   },
   "craftBench": "utility_bench",
   "stationLevelRequired": 2,
-  "blueprintLocked": true
+  "blueprintLocked": true,
+  "salvagesInto": {
+    "chemicals": 3
+  }
 }

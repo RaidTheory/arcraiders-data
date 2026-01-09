@@ -47,9 +47,15 @@
   "type": "Quick Use",
   "rarity": "Legendary",
   "value": 7000,
-  "recyclesInto": {},
+  "recyclesInto": {
+    "metal_parts": 4,
+    "wires": 6
+  },
   "weightKg": 1,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/acoustic_guitar.png",
-  "updatedAt": "12/17/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "wires": 3
+  }
 }
