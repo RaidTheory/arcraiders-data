@@ -53,6 +53,9 @@
   "weightKg": 0.25,
   "stackSize": 3,
   "foundIn": "ARC",
-  "updatedAt": "11/03/2025",
-  "imageFilename": "https://cdn.arctracker.io/items/damaged_rocketeer_driver.png"
+  "updatedAt": "01/09/2026",
+  "imageFilename": "https://cdn.arctracker.io/items/damaged_rocketeer_driver.png",
+  "salvagesInto": {
+    "arc_alloy": 2
+  }
 }

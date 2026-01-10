@@ -127,7 +127,7 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/light_shield.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "arc_alloy": 2,
     "plastic_parts": 4
@@ -135,5 +135,8 @@
   "craftBench": [
     "workbench",
     "equipment_bench"
-  ]
+  ],
+  "salvagesInto": {
+    "arc_alloy": 1
+  }
 }

@@ -173,6 +173,9 @@
     "rubber_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "11/24/2025",
-  "isWeapon": true
+  "updatedAt": "01/09/2026",
+  "isWeapon": true,
+  "salvagesInto": {
+    "metal_parts": 2
+  }
 }

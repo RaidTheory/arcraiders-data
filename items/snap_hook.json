@@ -107,5 +107,8 @@
     "rope": 3
   },
   "craftBench": "utility_bench",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "advanced_electrical_components": 2
+  }
 }

@@ -168,7 +168,7 @@
       "he": "חדירת שריון ARC"
     }
   },
-  "updatedAt": "12/16/2025",
+  "updatedAt": "01/09/2026",
   "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
   "recipe": {
     "metal_parts": 16,
@@ -176,5 +176,8 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "metal_parts": 4
+  }
 }

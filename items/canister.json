@@ -54,5 +54,8 @@
   "weightKg": 0.25,
   "stackSize": 15,
   "foundIn": "Commercial",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "plastic_parts": 1
+  }
 }

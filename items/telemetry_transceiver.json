@@ -50,10 +50,13 @@
   "stackSize": 3,
   "foundIn": "Exodus",
   "imageFilename": "https://cdn.arctracker.io/items/telemetry_transceiver.png",
-  "updatedAt": "11/14/2025",
+  "updatedAt": "01/09/2026",
   "value": 3000,
   "recyclesInto": {
     "advanced_electrical_components": 1,
     "processor": 1
+  },
+  "salvagesInto": {
+    "electrical_components": 2
   }
 }

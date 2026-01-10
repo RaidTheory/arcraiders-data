@@ -52,7 +52,7 @@
     "rubber_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/mechanical_components.png",
-  "updatedAt": "11/23/2025",
+  "updatedAt": "01/09/2026",
   "weightKg": 0.5,
   "stackSize": 10,
   "foundIn": "Mechanical",
@@ -60,5 +60,8 @@
     "metal_parts": 7,
     "rubber_parts": 3
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "metal_parts": 3
+  }
 }

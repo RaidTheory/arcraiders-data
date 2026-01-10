@@ -55,5 +55,8 @@
   "weightKg": 2,
   "stackSize": 3,
   "imageFilename": "https://cdn.arctracker.io/items/humidifier.png",
-  "updatedAt": "12/01/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "canister": 2
+  }
 }

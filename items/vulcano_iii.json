@@ -262,12 +262,15 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-  "updatedAt": "11/12/2025",
+  "updatedAt": "01/09/2026",
   "craftBench": "weapon_bench",
   "upgradeCost": {
     "advanced_mechanical_components": 2,
     "heavy_gun_parts": 1
   },
   "stationLevelRequired": 1,
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "heavy_gun_parts": 4
+  }
 }

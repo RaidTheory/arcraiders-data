@@ -74,7 +74,7 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_i.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "plastic_parts": 6,
     "steel_spring": 1
@@ -82,5 +82,8 @@
   "recyclesInto": {
     "plastic_parts": 6
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "salvagesInto": {
+    "plastic_parts": 3
+  }
 }

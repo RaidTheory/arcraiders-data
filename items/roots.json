@@ -51,8 +51,11 @@
   "recyclesInto": {
     "assorted_seeds": 1
   },
-  "updatedAt": "10/31/2025",
+  "updatedAt": "01/09/2026",
   "weightKg": 0.2,
   "stackSize": 10,
-  "foundIn": "Nature"
+  "foundIn": "Nature",
+  "salvagesInto": {
+    "assorted_seeds": 1
+  }
 }

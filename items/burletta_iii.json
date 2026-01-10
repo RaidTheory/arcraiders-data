@@ -57,6 +57,9 @@
     "simple_gun_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-  "updatedAt": "11/24/2025",
-  "isWeapon": true
+  "updatedAt": "01/09/2026",
+  "isWeapon": true,
+  "salvagesInto": {
+    "simple_gun_parts": 3
+  }
 }

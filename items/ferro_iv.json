@@ -57,14 +57,14 @@
     "materials": null
   },
   "salvagesInto": {
-    "metal_parts": 2
+    "simple_gun_parts": 2
   },
   "upgradeCost": {
     "mechanical_components": 1,
     "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "11/24/2025",
+  "updatedAt": "01/09/2026",
   "weightKg": 8,
   "effects": {
     "Durability": {

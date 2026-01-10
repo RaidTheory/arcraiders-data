@@ -121,7 +121,7 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/herbal_bandage.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "durable_cloth": 1,
     "great_mullein": 1
@@ -130,5 +130,8 @@
   "recyclesInto": {
     "assorted_seeds": 2,
     "fabric": 5
+  },
+  "salvagesInto": {
+    "fabric": 8
   }
 }

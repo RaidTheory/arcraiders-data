@@ -28,7 +28,7 @@
   "recyclesInto": {
     "assorted_seeds": 2
   },
-  "updatedAt": "11/05/2025",
+  "updatedAt": "01/09/2026",
   "description": {
     "en": "Can be consumed for a small amount of stamina.",
     "de": "Kann zum Gewinn einer kleinen Menge Ausdauer verzehrt werden.",
@@ -102,5 +102,8 @@
       "he": "זמן שימוש"
     }
   },
-  "imageFilename": "https://cdn.arctracker.io/items/olives.png"
+  "imageFilename": "https://cdn.arctracker.io/items/olives.png",
+  "salvagesInto": {
+    "assorted_seeds": 1
+  }
 }

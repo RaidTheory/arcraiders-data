@@ -102,10 +102,13 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/snap_blast_grenade.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "crude_explosives": 2,
     "magnet": 1
   },
-  "craftBench": "explosives_bench"
+  "craftBench": "explosives_bench",
+  "salvagesInto": {
+    "chemicals": 2
+  }
 }

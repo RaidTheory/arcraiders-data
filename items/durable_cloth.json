@@ -50,7 +50,7 @@
   "stackSize": 10,
   "weightKg": 0.25,
   "imageFilename": "https://cdn.arctracker.io/items/durable_cloth.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "value": 640,
   "recyclesInto": {
     "fabric": 6
@@ -58,5 +58,8 @@
   "recipe": {
     "fabric": 14
   },
-  "craftBench": "refiner"
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "fabric": 2
+  }
 }

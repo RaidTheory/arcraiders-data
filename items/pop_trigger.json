@@ -29,7 +29,7 @@
     "crude_explosives": 1,
     "arc_alloy": 1
   },
-  "updatedAt": "11/01/2025",
+  "updatedAt": "01/09/2026",
   "description": {
     "en": "Can be recycled into crafting materials.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
@@ -55,5 +55,8 @@
   "weightKg": 0.5,
   "stackSize": 3,
   "foundIn": "ARC",
-  "imageFilename": "https://cdn.arctracker.io/items/pop_trigger.png"
+  "imageFilename": "https://cdn.arctracker.io/items/pop_trigger.png",
+  "salvagesInto": {
+    "crude_explosives": 1
+  }
 }

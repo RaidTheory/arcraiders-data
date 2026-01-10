@@ -49,10 +49,13 @@
   "value": 840,
   "weightKg": 7,
   "recyclesInto": {
-    "plastic_parts": 6,
-    "rubber_parts": 6
+    "rubber_parts": 6,
+    "metal_parts": 6
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "10/30/2025",
-  "isWeapon": true
+  "updatedAt": "01/09/2026",
+  "isWeapon": true,
+  "salvagesInto": {
+    "metal_parts": 6
+  }
 }

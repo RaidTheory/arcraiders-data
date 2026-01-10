@@ -131,5 +131,8 @@
   "weightKg": 5,
   "value": 5000,
   "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_defensive.png",
-  "updatedAt": "11/05/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "electrical_components": 2
+  }
 }

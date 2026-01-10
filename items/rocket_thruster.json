@@ -51,9 +51,12 @@
   "stackSize": 3,
   "foundIn": "Exodus",
   "imageFilename": "https://cdn.arctracker.io/items/rocket_thruster.png",
-  "updatedAt": "11/01/2025",
+  "updatedAt": "01/09/2026",
   "recyclesInto": {
     "synthesized_fuel": 2,
     "metal_parts": 6
+  },
+  "salvagesInto": {
+    "synthesized_fuel": 1
   }
 }

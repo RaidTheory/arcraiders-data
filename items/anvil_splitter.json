@@ -100,6 +100,9 @@
     "mod_components": 1,
     "processor": 1
   },
-  "updatedAt": "11/01/2025",
-  "imageFilename": "https://cdn.arctracker.io/items/anvil_splitter.png"
+  "updatedAt": "01/09/2026",
+  "imageFilename": "https://cdn.arctracker.io/items/anvil_splitter.png",
+  "salvagesInto": {
+    "mechanical_components": 2
+  }
 }

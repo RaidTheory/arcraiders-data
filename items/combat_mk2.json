@@ -48,7 +48,7 @@
   "rarity": "Rare",
   "value": 2000,
   "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "weightKg": 3,
   "effects": {
     "Restores": {
@@ -152,5 +152,8 @@
     "electrical_components": 2,
     "magnet": 3
   },
-  "craftBench": "equipment_bench"
+  "craftBench": "equipment_bench",
+  "salvagesInto": {
+    "electrical_components": 1
+  }
 }

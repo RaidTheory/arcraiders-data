@@ -122,5 +122,11 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/agave.png",
-  "updatedAt": "11/05/2025"
+  "updatedAt": "01/09/2026",
+  "recyclesInto": {
+    "assorted_seeds": 3
+  },
+  "salvagesInto": {
+    "assorted_seeds": 2
+  }
 }

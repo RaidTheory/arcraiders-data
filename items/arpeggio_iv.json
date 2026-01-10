@@ -47,7 +47,7 @@
   "type": "Assault Rifle",
   "rarity": "Uncommon",
   "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
-  "updatedAt": "11/11/2025",
+  "updatedAt": "01/09/2026",
   "value": 15000,
   "weightKg": 7,
   "effects": {
@@ -222,5 +222,8 @@
     "mechanical_components": 5,
     "simple_gun_parts": 5
   },
-  "isWeapon": true
+  "isWeapon": true,
+  "salvagesInto": {
+    "simple_gun_parts": 5
+  }
 }

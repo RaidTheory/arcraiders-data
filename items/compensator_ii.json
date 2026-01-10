@@ -108,10 +108,13 @@
     "Stitcher"
   ],
   "imageFilename": "https://cdn.arctracker.io/items/compensator_ii.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/09/2026",
   "recipe": {
     "mechanical_components": 2,
     "wires": 4
   },
-  "craftBench": "weapon_bench"
+  "craftBench": "weapon_bench",
+  "salvagesInto": {
+    "mechanical_components": 1
+  }
 }

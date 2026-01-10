@@ -113,5 +113,8 @@
     "Stitcher"
   ],
   "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "01/09/2026",
+  "salvagesInto": {
+    "mechanical_components": 1
+  }
 }

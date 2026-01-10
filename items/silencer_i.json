@@ -45,7 +45,7 @@
     "he": "מפחית מעט את עוצמת הרעש בעת הירי."
   },
   "type": "Modification",
-  "updatedAt": "12/31/2025",
+  "updatedAt": "01/09/2026",
   "rarity": "Uncommon",
   "effects": {
     "Noise Reduction": {
@@ -80,5 +80,12 @@
     "wires": 4
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 2
+  "stationLevelRequired": 2,
+  "recyclesInto": {
+    "mechanical_components": 1,
+    "wires": 1
+  },
+  "salvagesInto": {
+    "mechanical_components": 1
+  }
 }
