@@ -49,6 +49,7 @@
   "value": 2200,
   "weightKg": 0.4,
   "stackSize": 5,
+  "blueprintLocked": true,
   "effects": {
     "ARC Stun Duration": {
       "value": "10s",
@@ -121,6 +122,7 @@
     }
   },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_electrical_components": 1,
     "voltage_converter": 1
@@ -133,7 +135,5 @@
     "battery": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/showstopper.png",
-  "updatedAt": "01/09/2026",
-  "blueprintLocked": true,
-  "stationLevelRequired": 3
+  "updatedAt": "01/09/2026"
 }

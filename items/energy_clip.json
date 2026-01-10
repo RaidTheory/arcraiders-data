@@ -49,13 +49,13 @@
   "value": 1000,
   "weightKg": 0.3,
   "stackSize": 5,
+  "craftQuantity": 5,
+  "compatibleWith": ["Equalizer", "Jupiter"],
   "craftBench": "workbench",
   "recipe": {
     "advanced_arc_powercell": 1,
     "battery": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/energy_clip.png",
-  "updatedAt": "12/07/2025",
-  "compatibleWith": ["Equalizer", "Jupiter"],
-  "craftQuantity": 5
+  "updatedAt": "12/07/2025"
 }

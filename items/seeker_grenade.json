@@ -49,6 +49,7 @@
   "value": 640,
   "weightKg": 0.2,
   "stackSize": 5,
+  "blueprintLocked": true,
   "effects": {
     "Damage": {
       "value": 50,
@@ -98,6 +99,7 @@
     }
   },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "arc_alloy": 2,
     "crude_explosives": 1
@@ -109,7 +111,5 @@
     "chemicals": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/seeker_grenade.png",
-  "updatedAt": "01/09/2026",
-  "blueprintLocked": true,
-  "stationLevelRequired": 1
+  "updatedAt": "01/09/2026"
 }

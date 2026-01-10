@@ -48,6 +48,7 @@
   "rarity": "Epic",
   "value": 13000,
   "weightKg": 7,
+  "isWeapon": true,
   "effects": {
     "Agility": {
       "value": 73.1,
@@ -304,6 +305,7 @@
     }
   },
   "craftBench": ["weapon_bench"],
+  "stationLevelRequired": 3,
   "recipe": {
     "exodus_modules": 2,
     "light_gun_parts": 3,
@@ -317,7 +319,5 @@
     "light_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/bobcat.png",
-  "updatedAt": "11/25/2025",
-  "isWeapon": true,
-  "stationLevelRequired": 3
+  "updatedAt": "11/25/2025"
 }

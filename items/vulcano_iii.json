@@ -48,6 +48,7 @@
   "rarity": "Epic",
   "value": 17000,
   "weightKg": 8,
+  "isWeapon": true,
   "effects": {
     "20% Increased Fire Rate": {
       "value": true,
@@ -258,6 +259,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recyclesInto": {
     "advanced_mechanical_components": 3,
     "heavy_gun_parts": 4
@@ -265,12 +267,10 @@
   "salvagesInto": {
     "heavy_gun_parts": 4
   },
-  "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-  "updatedAt": "01/09/2026",
-  "isWeapon": true,
-  "stationLevelRequired": 1,
   "upgradeCost": {
     "advanced_mechanical_components": 2,
     "heavy_gun_parts": 1
-  }
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
+  "updatedAt": "01/09/2026"
 }

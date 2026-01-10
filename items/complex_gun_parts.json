@@ -46,6 +46,7 @@
   },
   "type": "Topside Material",
   "rarity": "Epic",
+  "foundIn": "Security",
   "value": 3000,
   "weightKg": 1,
   "stackSize": 3,
@@ -62,6 +63,5 @@
     "simple_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/complex_gun_parts.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Security"
+  "updatedAt": "01/09/2026"
 }

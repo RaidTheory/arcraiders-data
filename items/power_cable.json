@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Electrical, Residential, Commercial",
   "value": 1000,
   "weightKg": 2,
   "stackSize": 3,
@@ -56,6 +57,5 @@
     "wires": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/power_cable.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Electrical, Residential, Commercial"
+  "updatedAt": "01/09/2026"
 }

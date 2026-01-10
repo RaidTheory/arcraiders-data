@@ -46,6 +46,7 @@
   },
   "type": "Topside Material",
   "rarity": "Uncommon",
+  "foundIn": "Residential, Commercial",
   "value": 300,
   "weightKg": 0.25,
   "stackSize": 15,
@@ -56,6 +57,5 @@
     "fabric": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/duct_tape.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Residential, Commercial"
+  "updatedAt": "01/09/2026"
 }

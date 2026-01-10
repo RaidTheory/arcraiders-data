@@ -48,6 +48,7 @@
   "rarity": "Rare",
   "value": 7000,
   "weightKg": 5,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
@@ -189,6 +190,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "advanced_mechanical_components": 2,
     "magnet": 5,
@@ -202,7 +204,5 @@
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-  "updatedAt": "01/09/2026",
-  "isWeapon": true,
-  "stationLevelRequired": 2
+  "updatedAt": "01/09/2026"
 }

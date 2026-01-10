@@ -189,6 +189,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "duct_tape": 5,
     "mod_components": 2
@@ -201,6 +202,5 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/padded_stock.png",
-  "updatedAt": "01/09/2026",
-  "stationLevelRequired": 3
+  "updatedAt": "01/09/2026"
 }

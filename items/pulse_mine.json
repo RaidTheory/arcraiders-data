@@ -49,6 +49,7 @@
   "value": 470,
   "weightKg": 0.25,
   "stackSize": 3,
+  "blueprintLocked": true,
   "effects": {
     "Radius": {
       "value": "7.5m",
@@ -75,6 +76,7 @@
     }
   },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "crude_explosives": 1,
     "wires": 1
@@ -86,7 +88,5 @@
     "chemicals": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/pulse_mine.png",
-  "updatedAt": "12/31/2025",
-  "blueprintLocked": true,
-  "stationLevelRequired": 1
+  "updatedAt": "12/31/2025"
 }

@@ -75,6 +75,7 @@
     }
   },
   "craftBench": "utility_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 2,
     "plastic_parts": 4
@@ -86,6 +87,5 @@
     "plastic_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/firecracker.png",
-  "updatedAt": "12/16/2025",
-  "stationLevelRequired": 1
+  "updatedAt": "12/16/2025"
 }

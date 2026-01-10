@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Common",
+  "foundIn": "ARC",
   "value": 270,
   "weightKg": 1,
   "stackSize": 3,
@@ -56,6 +57,5 @@
     "metal_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/damaged_fireball_burner.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "ARC"
+  "updatedAt": "01/09/2026"
 }

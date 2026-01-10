@@ -48,6 +48,7 @@
   "rarity": "Rare",
   "value": 17000,
   "weightKg": 7,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
@@ -235,6 +236,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recyclesInto": {
     "advanced_mechanical_components": 3,
     "medium_gun_parts": 3
@@ -242,18 +244,16 @@
   "salvagesInto": {
     "medium_gun_parts": 3
   },
+  "upgradeCost": {
+    "advanced_mechanical_components": 2,
+    "medium_gun_parts": 2
+  },
   "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
   "updatedAt": "11/12/2025",
   "agility": 45.9,
   "damage": 45,
   "fireRate": 17.7,
-  "isWeapon": true,
   "range": 80.3,
   "stability": 89.4,
-  "stationLevelRequired": 1,
-  "stealth": 12,
-  "upgradeCost": {
-    "advanced_mechanical_components": 2,
-    "medium_gun_parts": 2
-  }
+  "stealth": 12
 }

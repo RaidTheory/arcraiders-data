@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Common",
+  "foundIn": "ARC",
   "value": 2000,
   "weightKg": 0.25,
   "stackSize": 3,
@@ -56,6 +57,5 @@
     "arc_alloy": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/damaged_rocketeer_driver.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "ARC"
+  "updatedAt": "01/09/2026"
 }

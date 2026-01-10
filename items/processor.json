@@ -46,6 +46,7 @@
   },
   "type": "Topside Material",
   "rarity": "Rare",
+  "foundIn": "Technological",
   "value": 500,
   "weightKg": 0.2,
   "stackSize": 5,
@@ -57,6 +58,5 @@
     "plastic_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/processor.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Technological"
+  "updatedAt": "01/09/2026"
 }

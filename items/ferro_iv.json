@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 2900,
   "weightKg": 8,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Heavy Ammo",
@@ -195,16 +196,15 @@
   "salvagesInto": {
     "simple_gun_parts": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "01/09/2026",
-  "durability": 130,
-  "isWeapon": true,
-  "repairMaterials": {
-    "durability_increase": 50,
-    "materials": null
-  },
   "upgradeCost": {
     "mechanical_components": 1,
     "simple_gun_parts": 1
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
+  "updatedAt": "01/09/2026",
+  "durability": 130,
+  "repairMaterials": {
+    "durability_increase": 50,
+    "materials": null
   }
 }

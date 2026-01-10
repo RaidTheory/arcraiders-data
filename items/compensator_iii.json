@@ -48,6 +48,23 @@
   "rarity": "Uncommon",
   "value": 5000,
   "weightKg": 0.75,
+  "compatibleWith": [
+    "Ferro",
+    "Kettle",
+    "Rattler",
+    "Stitcher",
+    "Anvil",
+    "Arpeggio",
+    "Burletta",
+    "Osprey",
+    "Renegade",
+    "Torrente",
+    "Venator",
+    "Bettina",
+    "Bobcat",
+    "Tempest"
+  ],
+  "blueprintLocked": true,
   "effects": {
     "Increased Durability Burn Rate": {
       "value": "20%",
@@ -120,6 +137,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "mod_components": 2,
     "wires": 8
@@ -132,23 +150,5 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/compensator_ii.png",
-  "updatedAt": "01/09/2026",
-  "blueprintLocked": true,
-  "compatibleWith": [
-    "Ferro",
-    "Kettle",
-    "Rattler",
-    "Stitcher",
-    "Anvil",
-    "Arpeggio",
-    "Burletta",
-    "Osprey",
-    "Renegade",
-    "Torrente",
-    "Venator",
-    "Bettina",
-    "Bobcat",
-    "Tempest"
-  ],
-  "stationLevelRequired": 3
+  "updatedAt": "01/09/2026"
 }

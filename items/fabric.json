@@ -46,6 +46,7 @@
   },
   "type": "Basic Material",
   "rarity": "Common",
+  "foundIn": "Commercial, Medical, Residential",
   "value": 50,
   "weightKg": 0.1,
   "stackSize": 50,
@@ -122,6 +123,5 @@
   },
   "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/fabric.png",
-  "updatedAt": "10/30/2025",
-  "foundIn": "Commercial, Medical, Residential"
+  "updatedAt": "10/30/2025"
 }

@@ -49,6 +49,7 @@
   "value": 270,
   "weightKg": 0.25,
   "stackSize": 3,
+  "blueprintLocked": true,
   "effects": {
     "Duration": {
       "value": "20s",
@@ -121,6 +122,7 @@
     }
   },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 4,
     "rubber_parts": 2
@@ -133,7 +135,5 @@
     "chemicals": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
-  "updatedAt": "01/09/2026",
-  "blueprintLocked": true,
-  "stationLevelRequired": 1
+  "updatedAt": "01/09/2026"
 }

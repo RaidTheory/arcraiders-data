@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 3000,
   "weightKg": 5,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Light Ammo",
@@ -218,11 +219,10 @@
   "salvagesInto": {
     "simple_gun_parts": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-  "updatedAt": "11/20/2025",
-  "isWeapon": true,
   "upgradeCost": {
     "metal_parts": 10,
     "simple_gun_parts": 1
-  }
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
+  "updatedAt": "11/20/2025"
 }

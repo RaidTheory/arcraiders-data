@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Industrial",
   "value": 1000,
   "weightKg": 0.8,
   "stackSize": 3,
@@ -57,6 +58,5 @@
     "oil": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/polluted_air_filter.png",
-  "updatedAt": "11/10/2025",
-  "foundIn": "Industrial"
+  "updatedAt": "11/10/2025"
 }

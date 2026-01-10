@@ -48,6 +48,7 @@
   "rarity": "Epic",
   "value": 5000,
   "weightKg": 5,
+  "blueprintLocked": true,
   "effects": {
     "Durability": {
       "value": "100/100",
@@ -120,6 +121,7 @@
     }
   },
   "craftBench": "equipment_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_electrical_components": 2,
     "processor": 3
@@ -132,7 +134,5 @@
     "electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_defensive.png",
-  "updatedAt": "01/09/2026",
-  "blueprintLocked": true,
-  "stationLevelRequired": 3
+  "updatedAt": "01/09/2026"
 }

@@ -49,6 +49,7 @@
   "value": 1000,
   "weightKg": 0.2,
   "stackSize": 3,
+  "blueprintLocked": true,
   "effects": {
     "Duration": {
       "value": "20s",
@@ -98,6 +99,7 @@
     }
   },
   "craftBench": "utility_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "canister": 1,
     "chemicals": 14
@@ -110,7 +112,5 @@
     "chemicals": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/smoke_grenade.png",
-  "updatedAt": "01/09/2026",
-  "blueprintLocked": true,
-  "stationLevelRequired": 2
+  "updatedAt": "01/09/2026"
 }

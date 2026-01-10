@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Exodus",
   "value": 3000,
   "weightKg": 1.5,
   "stackSize": 3,
@@ -57,6 +58,5 @@
     "electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/telemetry_transceiver.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Exodus"
+  "updatedAt": "01/09/2026"
 }

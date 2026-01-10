@@ -46,6 +46,7 @@
   },
   "type": "Misc",
   "rarity": "Common",
+  "foundIn": "Nature",
   "value": 270,
   "weightKg": 0.5,
   "stackSize": 5,
@@ -76,6 +77,5 @@
   },
   "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/volcanic_rock.png",
-  "updatedAt": "10/30/2025",
-  "foundIn": "Nature"
+  "updatedAt": "10/30/2025"
 }

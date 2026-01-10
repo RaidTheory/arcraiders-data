@@ -46,6 +46,7 @@
   },
   "type": "Refined Material",
   "rarity": "Rare",
+  "foundIn": "Electrical",
   "value": 1750,
   "weightKg": 1,
   "stackSize": 5,
@@ -62,6 +63,5 @@
     "electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/advanced_electrical_components.png",
-  "updatedAt": "12/07/2025",
-  "foundIn": "Electrical"
+  "updatedAt": "12/07/2025"
 }

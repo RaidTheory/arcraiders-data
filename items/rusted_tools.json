@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Mechanical",
   "value": 1000,
   "weightKg": 2,
   "recyclesInto": {
@@ -56,6 +57,5 @@
     "metal_parts": 7
   },
   "imageFilename": "https://cdn.arctracker.io/items/rusted_tools.png",
-  "updatedAt": "10/30/2025",
-  "foundIn": "Mechanical"
+  "updatedAt": "10/30/2025"
 }

@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 5500,
   "weightKg": 7,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
@@ -178,6 +179,5 @@
     "simple_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
-  "updatedAt": "01/09/2026",
-  "isWeapon": true
+  "updatedAt": "01/09/2026"
 }

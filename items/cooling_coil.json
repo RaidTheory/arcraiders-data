@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Industrial",
   "value": 1000,
   "weightKg": 2,
   "stackSize": 3,
@@ -57,6 +58,5 @@
     "steel_spring": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/cooling_coil.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Industrial"
+  "updatedAt": "01/09/2026"
 }

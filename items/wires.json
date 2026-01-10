@@ -46,6 +46,7 @@
   },
   "type": "Topside Material",
   "rarity": "Uncommon",
+  "foundIn": "Electrical, Technological",
   "value": 200,
   "weightKg": 0.25,
   "stackSize": 15,
@@ -57,6 +58,5 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/wires.png",
   "updatedAt": "01/09/2026",
-  "foundIn": "Electrical, Technological",
   "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials."
 }

@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Industrial",
   "value": 1000,
   "weightKg": 2,
   "stackSize": 3,
@@ -57,6 +58,5 @@
     "voltage_converter": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/industrial_charger.png",
-  "updatedAt": "10/30/2025",
-  "foundIn": "Industrial"
+  "updatedAt": "10/30/2025"
 }

@@ -97,6 +97,7 @@
       "zh-TW": "使用時間"
     }
   },
+  "stationLevelRequired": 3,
   "recipe": {
     "antiseptic": 2,
     "syringe": 1
@@ -109,6 +110,5 @@
     "syringe": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/vita_shot.png",
-  "updatedAt": "01/09/2026",
-  "stationLevelRequired": 3
+  "updatedAt": "01/09/2026"
 }

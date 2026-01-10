@@ -48,6 +48,7 @@
   "rarity": "Epic",
   "value": 13000,
   "weightKg": 7,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Launcher Ammo",
@@ -189,6 +190,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
   "recyclesInto": {
     "advanced_mechanical_components": 2,
     "heavy_gun_parts": 3
@@ -196,18 +198,16 @@
   "salvagesInto": {
     "heavy_gun_parts": 3
   },
+  "upgradeCost": {
+    "advanced_mechanical_components": 1,
+    "heavy_gun_parts": 2
+  },
   "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
   "updatedAt": "11/12/2025",
   "agility": 67.9,
   "damage": 100,
   "fireRate": 20.3,
-  "isWeapon": true,
   "range": 38.9,
   "stability": 97.2,
-  "stationLevelRequired": 2,
-  "stealth": 1,
-  "upgradeCost": {
-    "advanced_mechanical_components": 1,
-    "heavy_gun_parts": 2
-  }
+  "stealth": 1
 }

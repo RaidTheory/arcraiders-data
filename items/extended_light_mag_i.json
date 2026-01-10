@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 640,
   "weightKg": 0.25,
+  "compatibleWith": ["Hairpin", "Kettle", "Stitcher", "Burletta", "Bobcat"],
   "effects": {
     "Magazine Size": {
       "value": "+5",
@@ -85,6 +86,5 @@
     "plastic_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_i.png",
-  "updatedAt": "11/03/2025",
-  "compatibleWith": ["Hairpin", "Kettle", "Stitcher", "Burletta", "Bobcat"]
+  "updatedAt": "11/03/2025"
 }

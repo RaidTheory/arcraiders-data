@@ -48,6 +48,7 @@
   "rarity": "Epic",
   "value": 5000,
   "weightKg": 5,
+  "blueprintLocked": true,
   "effects": {
     "Backpack Slots": {
       "value": 18,
@@ -235,6 +236,7 @@
     }
   },
   "craftBench": "equipment_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_electrical_components": 2,
     "processor": 3
@@ -248,11 +250,9 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/combat_mk3_aggressive.png",
   "updatedAt": "01/09/2026",
-  "blueprintLocked": true,
   "repairCost": {
     "advanced_electrical_components": 1,
     "processor": 2
   },
-  "repairDurability": 50,
-  "stationLevelRequired": 3
+  "repairDurability": 50
 }

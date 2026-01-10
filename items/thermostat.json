@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Residential",
   "value": 1000,
   "weightKg": 2,
   "stackSize": 3,
@@ -57,6 +58,5 @@
     "sensors": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/thermostat.png",
-  "updatedAt": "12/07/2025",
-  "foundIn": "Residential"
+  "updatedAt": "12/07/2025"
 }

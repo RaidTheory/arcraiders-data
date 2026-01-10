@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 1750,
   "weightKg": 6,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
@@ -166,6 +167,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 16,
     "rubber_parts": 12
@@ -177,7 +179,5 @@
     "metal_parts": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-  "updatedAt": "01/09/2026",
-  "isWeapon": true,
-  "stationLevelRequired": 1
+  "updatedAt": "01/09/2026"
 }

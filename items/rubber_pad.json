@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Electrical",
   "value": 1000,
   "weightKg": 2,
   "stackSize": 3,
@@ -56,6 +57,5 @@
     "rubber_parts": 9
   },
   "imageFilename": "https://cdn.arctracker.io/items/rubber_pad.png",
-  "updatedAt": "11/04/2025",
-  "foundIn": "Electrical"
+  "updatedAt": "11/04/2025"
 }

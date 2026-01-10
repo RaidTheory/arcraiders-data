@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Uncommon",
+  "foundIn": "Industrial, Mechanical",
   "value": 640,
   "weightKg": 0.8,
   "stackSize": 3,
@@ -56,6 +57,5 @@
     "metal_parts": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/rusted_bolts.png",
-  "updatedAt": "11/01/2025",
-  "foundIn": "Industrial, Mechanical"
+  "updatedAt": "11/01/2025"
 }

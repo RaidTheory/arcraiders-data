@@ -46,6 +46,7 @@
   },
   "type": "Refined Material",
   "rarity": "Rare",
+  "foundIn": "Medical",
   "value": 1000,
   "weightKg": 1,
   "stackSize": 5,
@@ -61,6 +62,5 @@
     "chemicals": 5
   },
   "imageFilename": "https://cdn.arctracker.io/items/antiseptic.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Medical"
+  "updatedAt": "01/09/2026"
 }

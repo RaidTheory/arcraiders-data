@@ -49,13 +49,13 @@
   "value": 6,
   "weightKg": 0.025,
   "stackSize": 80,
+  "craftQuantity": 20,
+  "compatibleWith": ["Arpeggio", "Rattler", "Tempest", "Renegade", "Torrente"],
   "craftBench": "workbench",
   "recipe": {
     "chemicals": 2,
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/medium_ammo.png",
-  "updatedAt": "12/07/2025",
-  "compatibleWith": ["Arpeggio", "Rattler", "Tempest", "Renegade", "Torrente"],
-  "craftQuantity": 20
+  "updatedAt": "12/07/2025"
 }

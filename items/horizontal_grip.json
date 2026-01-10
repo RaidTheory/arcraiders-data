@@ -48,6 +48,20 @@
   "rarity": "Epic",
   "value": 7000,
   "weightKg": 0.5,
+  "compatibleWith": [
+    "Ferro",
+    "Kettle",
+    "Rattler",
+    "Stitcher",
+    "Arpeggio",
+    "Il Toro",
+    "Venator",
+    "Bettina",
+    "Bobcat",
+    "Tempest",
+    "Vulcano"
+  ],
+  "blueprintLocked": true,
   "effects": {
     "Reduced ADS Speed": {
       "value": "30%",
@@ -120,6 +134,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "duct_tape": 5,
     "mod_components": 2
@@ -132,20 +147,5 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/horizontal_grip.png",
-  "updatedAt": "11/12/2025",
-  "blueprintLocked": true,
-  "compatibleWith": [
-    "Ferro",
-    "Kettle",
-    "Rattler",
-    "Stitcher",
-    "Arpeggio",
-    "Il Toro",
-    "Venator",
-    "Bettina",
-    "Bobcat",
-    "Tempest",
-    "Vulcano"
-  ],
-  "stationLevelRequired": 3
+  "updatedAt": "11/12/2025"
 }

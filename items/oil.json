@@ -46,6 +46,7 @@
   },
   "type": "Topside Material",
   "rarity": "Uncommon",
+  "foundIn": "Mechanical",
   "value": 300,
   "weightKg": 0.25,
   "stackSize": 15,
@@ -56,6 +57,5 @@
     "chemicals": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/oil.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Mechanical"
+  "updatedAt": "01/09/2026"
 }

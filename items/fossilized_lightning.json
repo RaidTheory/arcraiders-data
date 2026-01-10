@@ -46,6 +46,7 @@
   },
   "type": "Topside Material",
   "rarity": "Epic",
+  "foundIn": "Nature",
   "value": 4000,
   "weightKg": 0.25,
   "stackSize": 3,
@@ -56,6 +57,5 @@
     "explosive_compound": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/fossilized_lightning.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Nature"
+  "updatedAt": "01/09/2026"
 }

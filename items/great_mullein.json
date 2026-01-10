@@ -46,6 +46,7 @@
   },
   "type": "Topside Material",
   "rarity": "Uncommon",
+  "foundIn": "Nature",
   "value": 300,
   "weightKg": 0.25,
   "stackSize": 15,
@@ -56,6 +57,5 @@
     "assorted_seeds": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/great_mullein.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Nature"
+  "updatedAt": "01/09/2026"
 }

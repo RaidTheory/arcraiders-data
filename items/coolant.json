@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Mechanical",
   "value": 1000,
   "weightKg": 2,
   "stackSize": 3,
@@ -57,6 +58,5 @@
     "oil": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/coolant.png",
-  "updatedAt": "11/07/2025",
-  "foundIn": "Mechanical"
+  "updatedAt": "11/07/2025"
 }

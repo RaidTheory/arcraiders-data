@@ -48,6 +48,7 @@
   "rarity": "Epic",
   "value": 7000,
   "weightKg": 0.75,
+  "compatibleWith": ["Arpeggio", "Rattler", "Ferro", "Anvil", "Torrente"],
   "effects": {
     "Increased Durability Burn Rate": {
       "value": "20%",
@@ -97,6 +98,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recyclesInto": {
     "mod_components": 1,
     "wires": 3
@@ -105,7 +107,5 @@
     "mod_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/silencer_iii.png",
-  "updatedAt": "01/09/2026",
-  "compatibleWith": ["Arpeggio", "Rattler", "Ferro", "Anvil", "Torrente"],
-  "stationLevelRequired": 3
+  "updatedAt": "01/09/2026"
 }

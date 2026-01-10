@@ -46,6 +46,7 @@
   },
   "type": "Quick Use",
   "rarity": "Uncommon",
+  "foundIn": "Residential",
   "value": 1000,
   "weightKg": 0.2,
   "effects": {
@@ -80,6 +81,5 @@
     "plastic_parts": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/recorder.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Residential"
+  "updatedAt": "01/09/2026"
 }

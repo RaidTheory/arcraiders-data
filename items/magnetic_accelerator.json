@@ -46,6 +46,7 @@
   },
   "type": "Refined Material",
   "rarity": "Epic",
+  "foundIn": "Exodus",
   "value": 5500,
   "weightKg": 1,
   "stackSize": 3,
@@ -62,6 +63,5 @@
     "advanced_mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/magnetic_accelerator.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Exodus"
+  "updatedAt": "01/09/2026"
 }

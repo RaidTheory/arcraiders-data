@@ -74,6 +74,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "mechanical_components": 2,
     "wires": 4
@@ -86,6 +87,5 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png",
-  "updatedAt": "01/09/2026",
-  "stationLevelRequired": 2
+  "updatedAt": "01/09/2026"
 }

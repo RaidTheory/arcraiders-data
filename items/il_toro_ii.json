@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 7000,
   "weightKg": 8,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Shotgun Ammo",
@@ -189,6 +190,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recyclesInto": {
     "mechanical_components": 3,
     "simple_gun_parts": 3
@@ -196,12 +198,10 @@
   "salvagesInto": {
     "simple_gun_parts": 3
   },
-  "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-  "updatedAt": "01/09/2026",
-  "isWeapon": true,
-  "stationLevelRequired": 1,
   "upgradeCost": {
     "mechanical_components": 3,
     "simple_gun_parts": 1
-  }
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
+  "updatedAt": "01/09/2026"
 }

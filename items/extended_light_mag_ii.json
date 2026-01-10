@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
+  "blueprintLocked": true,
   "effects": {
     "Magazine Size": {
       "value": "+10",
@@ -74,6 +75,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "mechanical_components": 2,
     "steel_spring": 3
@@ -86,7 +88,5 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_ii.png",
-  "updatedAt": "01/09/2026",
-  "blueprintLocked": true,
-  "stationLevelRequired": 2
+  "updatedAt": "01/09/2026"
 }

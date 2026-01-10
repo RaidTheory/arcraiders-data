@@ -48,6 +48,7 @@
   "rarity": "Rare",
   "value": 7000,
   "weightKg": 12,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
@@ -179,6 +180,5 @@
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/torrente.png",
-  "updatedAt": "01/09/2026",
-  "isWeapon": true
+  "updatedAt": "01/09/2026"
 }

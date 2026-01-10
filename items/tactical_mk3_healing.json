@@ -120,6 +120,7 @@
     }
   },
   "craftBench": "equipment_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_electrical_components": 2,
     "processor": 3
@@ -132,6 +133,5 @@
     "electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing.png",
-  "updatedAt": "01/09/2026",
-  "stationLevelRequired": 3
+  "updatedAt": "01/09/2026"
 }

@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 840,
   "weightKg": 7,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Light Ammo",
@@ -178,6 +179,5 @@
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "01/09/2026",
-  "isWeapon": true
+  "updatedAt": "01/09/2026"
 }

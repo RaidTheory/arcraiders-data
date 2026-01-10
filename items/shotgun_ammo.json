@@ -49,13 +49,13 @@
   "value": 20,
   "weightKg": 0.085,
   "stackSize": 20,
+  "craftQuantity": 5,
+  "compatibleWith": ["Il Toro", "Vulcano"],
   "craftBench": "workbench",
   "recipe": {
     "chemicals": 2,
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/shotgun_ammo.png",
-  "updatedAt": "12/07/2025",
-  "compatibleWith": ["Il Toro", "Vulcano"],
-  "craftQuantity": 5
+  "updatedAt": "12/07/2025"
 }

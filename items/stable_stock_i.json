@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 640,
   "weightKg": 0.25,
+  "compatibleWith": ["Rattler", "Ferro", "Stitcher", "Arpeggio", "Bettina"],
   "effects": {
     "Reduced Dispersion Recovery Time": {
       "value": "20%",
@@ -108,6 +109,5 @@
     "rubber_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/stable_stock_i.png",
-  "updatedAt": "11/03/2025",
-  "compatibleWith": ["Rattler", "Ferro", "Stitcher", "Arpeggio", "Bettina"]
+  "updatedAt": "11/03/2025"
 }

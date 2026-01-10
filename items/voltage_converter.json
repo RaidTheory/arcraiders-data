@@ -46,6 +46,7 @@
   },
   "type": "Topside Material",
   "rarity": "Rare",
+  "foundIn": "Electrical",
   "value": 500,
   "weightKg": 0.3,
   "stackSize": 5,
@@ -57,6 +58,5 @@
     "rubber_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/voltage_converter.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Electrical"
+  "updatedAt": "01/09/2026"
 }

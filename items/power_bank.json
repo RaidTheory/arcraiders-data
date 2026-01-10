@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Electrical, Residential, Commercial",
   "value": 1000,
   "weightKg": 2,
   "stackSize": 3,
@@ -57,6 +58,5 @@
     "battery": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/power_bank.png",
-  "updatedAt": "11/02/2025",
-  "foundIn": "Electrical, Residential, Commercial"
+  "updatedAt": "11/02/2025"
 }

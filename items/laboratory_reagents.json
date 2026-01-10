@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Medical",
   "value": 2000,
   "weightKg": 3,
   "recyclesInto": {
@@ -56,6 +57,5 @@
     "crude_explosives": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Medical"
+  "updatedAt": "01/09/2026"
 }

@@ -48,6 +48,7 @@
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.75,
+  "blueprintLocked": true,
   "effects": {
     "Reduced ADS Speed": {
       "value": "30%",
@@ -97,6 +98,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "duct_tape": 5,
     "mod_components": 2
@@ -109,7 +111,5 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/angled_grip_iii.png",
-  "updatedAt": "01/09/2026",
-  "blueprintLocked": true,
-  "stationLevelRequired": 3
+  "updatedAt": "01/09/2026"
 }

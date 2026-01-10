@@ -46,6 +46,7 @@
   },
   "type": "Topside Material",
   "rarity": "Rare",
+  "foundIn": "Security, Raider",
   "value": 700,
   "weightKg": 0.5,
   "stackSize": 5,
@@ -60,6 +61,5 @@
     "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Security, Raider"
+  "updatedAt": "01/09/2026"
 }

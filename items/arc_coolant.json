@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "ARC",
   "value": 1000,
   "weightKg": 1,
   "stackSize": 3,
@@ -56,6 +57,5 @@
     "chemicals": 9
   },
   "imageFilename": "https://cdn.arctracker.io/items/arc_coolant.png",
-  "updatedAt": "10/30/2025",
-  "foundIn": "ARC"
+  "updatedAt": "10/30/2025"
 }

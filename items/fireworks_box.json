@@ -49,7 +49,9 @@
   "value": 2000,
   "weightKg": 0.5,
   "stackSize": 1,
+  "blueprintLocked": true,
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "explosive_compound": 1,
     "pop_trigger": 3
@@ -61,7 +63,5 @@
     "explosive_compound": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/fireworks_box.png",
-  "updatedAt": "12/16/2025",
-  "blueprintLocked": true,
-  "stationLevelRequired": 2
+  "updatedAt": "12/16/2025"
 }

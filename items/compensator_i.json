@@ -48,6 +48,21 @@
   "rarity": "Common",
   "value": 640,
   "weightKg": 0.25,
+  "compatibleWith": [
+    "Ferro",
+    "Kettle",
+    "Rattler",
+    "Stitcher",
+    "Anvil",
+    "Arpeggio",
+    "Burletta",
+    "Osprey",
+    "Renegade",
+    "Torrente",
+    "Venator",
+    "Bobcat",
+    "Tempest"
+  ],
   "effects": {
     "Reduced Max Shot Dispersion": {
       "value": "10%",
@@ -108,20 +123,5 @@
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/compensator_i.png",
-  "updatedAt": "10/30/2025",
-  "compatibleWith": [
-    "Ferro",
-    "Kettle",
-    "Rattler",
-    "Stitcher",
-    "Anvil",
-    "Arpeggio",
-    "Burletta",
-    "Osprey",
-    "Renegade",
-    "Torrente",
-    "Venator",
-    "Bobcat",
-    "Tempest"
-  ]
+  "updatedAt": "10/30/2025"
 }

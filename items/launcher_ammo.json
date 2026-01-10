@@ -49,13 +49,13 @@
   "value": 250,
   "weightKg": 0.1,
   "stackSize": 24,
+  "craftQuantity": 6,
+  "compatibleWith": ["Hullcracker"],
   "craftBench": "workbench",
   "recipe": {
     "arc_motion_core": 1,
     "crude_explosives": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/launcher_ammo.png",
-  "updatedAt": "12/07/2025",
-  "compatibleWith": ["Hullcracker"],
-  "craftQuantity": 6
+  "updatedAt": "12/07/2025"
 }

@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Uncommon",
+  "foundIn": "Commercial",
   "value": 640,
   "weightKg": 0.8,
   "stackSize": 3,
@@ -56,6 +57,5 @@
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/ice_cream_scooper.png",
-  "updatedAt": "11/04/2025",
-  "foundIn": "Commercial"
+  "updatedAt": "11/04/2025"
 }

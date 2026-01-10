@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 10000,
   "weightKg": 4,
+  "isWeapon": true,
   "recyclesInto": {
     "mechanical_components": 4,
     "simple_gun_parts": 4
@@ -55,11 +56,10 @@
   "salvagesInto": {
     "simple_gun_parts": 3
   },
-  "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-  "updatedAt": "01/09/2026",
-  "isWeapon": true,
   "upgradeCost": {
     "light_gun_parts": 1,
     "mechanical_components": 4
-  }
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
+  "updatedAt": "01/09/2026"
 }

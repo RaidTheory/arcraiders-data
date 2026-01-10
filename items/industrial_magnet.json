@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Industrial",
   "value": 1000,
   "weightKg": 2,
   "stackSize": 3,
@@ -57,6 +58,5 @@
     "magnet": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/industrial_magnet.png",
-  "updatedAt": "10/30/2025",
-  "foundIn": "Industrial"
+  "updatedAt": "10/30/2025"
 }

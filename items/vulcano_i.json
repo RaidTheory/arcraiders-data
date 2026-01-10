@@ -48,6 +48,8 @@
   "rarity": "Epic",
   "value": 10000,
   "weightKg": 8,
+  "isWeapon": true,
+  "blueprintLocked": true,
   "effects": {
     "Ammo Type": {
       "value": "Shotgun Ammo",
@@ -166,6 +168,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "exodus_modules": 1,
     "heavy_gun_parts": 3,
@@ -181,15 +184,12 @@
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
   "updatedAt": "01/09/2026",
   "agility": 70.7,
-  "blueprintLocked": true,
   "damage": 58.5,
   "fireRate": 8.3,
   "increasedFireRate": 10,
-  "isWeapon": true,
   "range": 22.1,
   "reducedDurabilityBurnRate": 23,
   "reducedReloadTime": 13,
   "stability": 70.3,
-  "stationLevelRequired": 3,
   "stealth": 15
 }

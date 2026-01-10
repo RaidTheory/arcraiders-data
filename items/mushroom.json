@@ -46,6 +46,7 @@
   },
   "type": "Nature",
   "rarity": "Uncommon",
+  "foundIn": "Nature",
   "value": 1000,
   "weightKg": 0.2,
   "effects": {
@@ -98,6 +99,5 @@
   },
   "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/mushroom.png",
-  "updatedAt": "10/31/2025",
-  "foundIn": "Nature"
+  "updatedAt": "10/31/2025"
 }

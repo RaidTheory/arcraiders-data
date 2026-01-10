@@ -46,6 +46,7 @@
   },
   "type": "Topside Material",
   "rarity": "Epic",
+  "foundIn": "Exodus",
   "value": 2750,
   "weightKg": 1,
   "stackSize": 3,
@@ -57,6 +58,5 @@
     "processor": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/exodus_modules.png",
-  "updatedAt": "11/05/2025",
-  "foundIn": "Exodus"
+  "updatedAt": "11/05/2025"
 }

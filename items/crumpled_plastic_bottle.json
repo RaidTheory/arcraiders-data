@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Uncommon",
+  "foundIn": "Residential",
   "value": 270,
   "weightKg": 0.8,
   "stackSize": 3,
@@ -56,6 +57,5 @@
     "plastic_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/crumpled_plastic_bottle.png",
-  "updatedAt": "11/04/2025",
-  "foundIn": "Residential"
+  "updatedAt": "11/04/2025"
 }

@@ -46,6 +46,7 @@
   },
   "type": "Nature",
   "rarity": "Common",
+  "foundIn": "Nature",
   "value": 640,
   "stackSize": 10,
   "recyclesInto": {
@@ -55,6 +56,5 @@
     "assorted_seeds": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/prickly_pear.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Nature"
+  "updatedAt": "01/09/2026"
 }

@@ -46,6 +46,7 @@
   },
   "type": "Refined Material",
   "rarity": "Rare",
+  "foundIn": "Industrial, Security",
   "value": 1000,
   "weightKg": 0.3,
   "stackSize": 5,
@@ -61,6 +62,5 @@
     "crude_explosives": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/explosive_compound.png",
-  "updatedAt": "12/07/2025",
-  "foundIn": "Industrial, Security"
+  "updatedAt": "12/07/2025"
 }

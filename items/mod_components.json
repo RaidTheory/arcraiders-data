@@ -46,6 +46,7 @@
   },
   "type": "Refined Material",
   "rarity": "Rare",
+  "foundIn": "Security",
   "value": 1750,
   "weightKg": 1,
   "stackSize": 5,
@@ -62,6 +63,5 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/mod_components.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Security"
+  "updatedAt": "01/09/2026"
 }

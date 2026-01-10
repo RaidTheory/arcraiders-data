@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "ARC",
   "value": 1000,
   "weightKg": 0.6,
   "stackSize": 3,
@@ -106,6 +107,5 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png",
   "updatedAt": "11/03/2025",
-  "foundIn": "ARC",
   "tip": "The Wasp Driver is a rare item is dropped by Wasps that can be recycled into crafting materials."
 }

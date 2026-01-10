@@ -46,6 +46,7 @@
   },
   "type": "Topside Material",
   "rarity": "Rare",
+  "foundIn": "Nature",
   "value": 500,
   "weightKg": 0.3,
   "stackSize": 10,
@@ -127,6 +128,5 @@
     "assorted_seeds": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/moss.png",
-  "updatedAt": "11/04/2025",
-  "foundIn": "Nature"
+  "updatedAt": "11/04/2025"
 }

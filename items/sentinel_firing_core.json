@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "ARC",
   "value": 3000,
   "weightKg": 1,
   "stackSize": 3,
@@ -57,6 +58,5 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/sentinel_firing_core.png",
-  "updatedAt": "10/30/2025",
-  "foundIn": "ARC"
+  "updatedAt": "10/30/2025"
 }

@@ -48,6 +48,7 @@
   "rarity": "Rare",
   "value": 17000,
   "weightKg": 5,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
@@ -242,11 +243,10 @@
   "salvagesInto": {
     "medium_gun_parts": 3
   },
-  "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-  "updatedAt": "01/09/2026",
-  "isWeapon": true,
   "upgradeCost": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 2
-  }
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/venator.png",
+  "updatedAt": "01/09/2026"
 }

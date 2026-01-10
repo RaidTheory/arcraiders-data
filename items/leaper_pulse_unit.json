@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Epic",
+  "foundIn": "ARC",
   "value": 5000,
   "weightKg": 1,
   "stackSize": 3,
@@ -105,6 +106,5 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "ARC"
+  "updatedAt": "01/09/2026"
 }

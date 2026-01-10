@@ -46,6 +46,7 @@
   },
   "type": "Recyclable",
   "rarity": "Rare",
+  "foundIn": "Industrial",
   "value": 1000,
   "weightKg": 2,
   "stackSize": 3,
@@ -57,6 +58,5 @@
     "battery": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/industrial_battery.png",
-  "updatedAt": "11/03/2025",
-  "foundIn": "Industrial"
+  "updatedAt": "11/03/2025"
 }

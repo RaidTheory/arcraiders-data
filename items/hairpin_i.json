@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 450,
   "weightKg": 3,
+  "isWeapon": true,
   "effects": {
     "Ammo Type": {
       "value": "Light Ammo",
@@ -201,6 +202,5 @@
     "metal_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
-  "updatedAt": "11/11/2025",
-  "isWeapon": true
+  "updatedAt": "11/11/2025"
 }

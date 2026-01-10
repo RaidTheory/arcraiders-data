@@ -46,6 +46,7 @@
   },
   "type": "Refined Material",
   "rarity": "Epic",
+  "foundIn": "Exodus",
   "value": 5000,
   "weightKg": 2,
   "stackSize": 3,
@@ -62,6 +63,5 @@
     "advanced_electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/power_rod.png",
-  "updatedAt": "01/09/2026",
-  "foundIn": "Exodus"
+  "updatedAt": "01/09/2026"
 }
