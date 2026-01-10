@@ -5,6 +5,7 @@ This repository contains compiled game data from the ARC Raiders Tech Test 2. Th
 ## Data Contents
 
 The repository includes structured JSON data for:
+
 - Missions
 - Items
 - Skill Nodes
@@ -23,10 +24,14 @@ This data repository serves as the backbone for community developers to create t
 
 We welcome contributions from the ARC Raiders community! If you'd like to help improve the data:
 
+First install the [bun](https://bun.com/) javascript toolkit.
+
 1. Fork the repository
-2. Make your changes
-3. Submit a pull request with a clear description of your updates
-4. Include any relevant screenshots or references to verify the data
+2. Install dependencies with `bun install`
+3. Make your changes
+4. Format files with `bun run format`
+5. Submit a pull request with a clear description of your updates
+6. Include any relevant screenshots or references to verify the data
 
 Please ensure all contributed data is accurate.
 
@@ -39,6 +44,7 @@ All game content, including but not limited to game mechanics, items, names, and
 ## Attribution
 
 If you use this data in your project, please include attribution by linking to this repository:
+
 ```
 https://github.com/RaidTheory/arcraiders-data and https://arctracker.io
 ```
@@ -53,4 +59,5 @@ Join our Discord community to discuss ARC Raiders, tools, and connect with other
 For questions or suggestions, please open an issue in this repository.
 
 ---
-*Note: This data is compiled from the ARC Raiders Tech Test 2 and may be subject to changes as the game evolves.* 
+
+_Note: This data is compiled from the ARC Raiders Tech Test 2 and may be subject to changes as the game evolves._
