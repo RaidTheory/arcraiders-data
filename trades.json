@@ -274,20 +274,200 @@
     "itemId": "binoculars",
     "quantity": 1,
     "cost": {
-      "itemId": "coins",
-      "quantity": 1920
+      "itemId": "creds",
+      "quantity": 20
     },
     "dailyLimit": null
+  },
+  {
+    "trader": "Shani",
+    "itemId": "blue_light_stick",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 10
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Shani",
+    "itemId": "firecracker",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 20
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Shani",
+    "itemId": "green_light_stick",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 10
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Shani",
+    "itemId": "red_light_stick",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 10
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Shani",
+    "itemId": "yellow_light_stick",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 10
+    },
+    "dailyLimit": null
+  },
+  {
+    "trader": "Shani",
+    "itemId": "combat_mk2",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 100
+    },
+    "dailyLimit": 2
+  },
+  {
+    "trader": "Shani",
+    "itemId": "looting_mk2",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 100
+    },
+    "dailyLimit": 2
+  },
+  {
+    "trader": "Shani",
+    "itemId": "tactical_mk2",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 100
+    },
+    "dailyLimit": 2
+  },
+  {
+    "trader": "Shani",
+    "itemId": "angled_grip_ii",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 100
+    },
+    "dailyLimit": 2
+  },
+  {
+    "trader": "Shani",
+    "itemId": "compensator_ii",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 100
+    },
+    "dailyLimit": 2
+  },
+  {
+    "trader": "Shani",
+    "itemId": "extended_light_mag_ii",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 100
+    },
+    "dailyLimit": 2
+  },
+  {
+    "trader": "Shani",
+    "itemId": "extended_medium_mag_ii",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 100
+    },
+    "dailyLimit": 2
+  },
+  {
+    "trader": "Shani",
+    "itemId": "silencer_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 100
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Shani",
+    "itemId": "stable_stock_ii",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 100
+    },
+    "dailyLimit": 2
+  },
+  {
+    "trader": "Shani",
+    "itemId": "recorder",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 50
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Shani",
+    "itemId": "sterilized_bandage",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 40
+    },
+    "dailyLimit": 3
+  },
+  {
+    "trader": "Shani",
+    "itemId": "surge_shield_recharger",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 40
+    },
+    "dailyLimit": 5
   },
   {
     "trader": "Shani",
     "itemId": "raider_hatch_key",
     "quantity": 1,
     "cost": {
-      "itemId": "coins",
-      "quantity": 9000
+      "itemId": "creds",
+      "quantity": 100
     },
-    "dailyLimit": 1
+    "dailyLimit": 2
+  },
+  {
+    "trader": "Shani",
+    "itemId": "fireworks_box",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 60
+    },
+    "dailyLimit": 3
   },
   {
     "trader": "Tian Wen",

@@ -1,83 +1,101 @@
 {
   "id": "ss4",
+  "updatedAt": "11/06/2025",
   "name": {
-    "da": "Uden for radaren",
-    "de": "Unter dem Radar",
     "en": "Off The Radar",
+    "de": "Unter dem Radar",
+    "fr": "Hors du radar",
     "es": "Fuera del radar",
-    "fr": "Hors radar",
-    "hr": "Izvan Radara",
-    "it": "Fuori dal radar",
-    "ja": "レーダー回避",
-    "kr": "레이더 밖으로",
-    "no": "Utenfor radaren",
-    "pl": "Poza radarem",
     "pt": "Fora do radar",
-    "ru": "Вне радара",
-    "sr": "Van Radara",
-    "tr": "Radarın Dışında",
+    "pl": "Poza radarem",
+    "no": "Utenfor radaren",
+    "da": "Uden for radaren",
+    "it": "Fuori dal radar",
     "uk": "Поза радаром",
+    "kr": "레이더 밖으로",
+    "ru": "Уход в тень",
     "zh-CN": "脱离雷达",
-    "zh-TW": "脫離雷達"
+    "ja": "レーダー回避",
+    "tr": "Radarın Dışında",
+    "zh-TW": "脫離雷達",
+    "sr": "Van Radara",
+    "hr": "Izvan Radara",
+    "pt-BR": "Fora do Radar",
+    "he": "מתחת לרדאר"
   },
+  "map": [
+    "buried_city",
+    "the_spaceport",
+    "dam_battlegrounds"
+  ],
   "trader": "Shani",
   "description": {
     "de": "Der Schaden hier unten war ziemlich übel, aber die Infrastruktur oben hat es noch schlimmer erwischt. Ich hab noch einige Antennen, die seit dem Sturm nicht mehr funktionieren."
   },
   "objectives": [
     {
-      "da": "Besøg et feltdepot",
-      "de": "Ein Felddepot besuchen",
       "en": "Visit a Field Depot",
-      "es": "Visita un depósito de campo",
+      "de": "Ein Felddepot besuchen",
       "fr": "Visitez un dépôt de terrain",
-      "hr": "Posjetite Terensko Skladište",
-      "it": "Visita un deposito sul campo",
-      "ja": "フィールド貯蔵庫に向かう",
-      "kr": "야전 보급소 방문",
-      "no": "Besøk et feltdepot",
-      "pl": "Odwiedź depot polowy",
+      "es": "Visita un depósito de campo",
       "pt": "Visite um depósito de campo",
-      "ru": "Посетите полевое депо",
-      "sr": "Posetite Terensko Skladište",
-      "tr": "Bir Saha Deposunu ziyaret et",
+      "pl": "Odwiedź depot polowy",
+      "no": "Besøk et feltdepot",
+      "da": "Besøg et feltdepot",
+      "it": "Visita un deposito sul campo",
       "uk": "Відвідайте польове депо",
+      "kr": "야전 보급소 방문",
+      "ru": "Посетите полевую станцию",
       "zh-CN": "访问野外补给站",
-      "zh-TW": "訪問野外補給站"
+      "ja": "フィールド貯蔵庫に向かう",
+      "tr": "Bir Saha Deposunu ziyaret et",
+      "zh-TW": "訪問野外補給站",
+      "sr": "Posetite Terensko Skladište",
+      "hr": "Posjetite Terensko Skladište",
+      "pt-BR": "Visite um Depósito de Campo",
+      "he": "בקר במחסן שטח"
     },
     {
-      "da": "Reparer antennen på taget af feltdepotet",
-      "de": "Die Antenne auf dem Dach des Felddepots reparieren",
       "en": "Repair the antenna on the roof of the Field Depot",
-      "es": "Repara la antena en el techo del depósito de campo",
+      "de": "Die Antenne auf dem Dach des Felddepots reparieren",
       "fr": "Réparez l'antenne sur le toit du dépôt de terrain",
-      "hr": "Popravite antenu na krovu Terenskog Skladišta",
-      "it": "Ripara l'antenna sul tetto del deposito sul campo",
-      "ja": "フィールド貯蔵庫の屋上のアンテナを修理する",
-      "kr": "야전 보급소 지붕의 안테나 수리",
-      "no": "Reparer antennen på taket av feltdepotet",
-      "pl": "Napraw antenę na dachu depotu polowego",
+      "es": "Repara la antena en el techo del depósito de campo",
       "pt": "Repare a antena no telhado do depósito de campo",
-      "ru": "Отремонтируйте антенну на крыше полевого депо",
-      "sr": "Popravite antenu na krovu Terenskog Skladišta",
-      "tr": "Saha Deposunun çatısındaki anteni onar",
+      "pl": "Napraw antenę na dachu depotu polowego",
+      "no": "Reparer antennen på taket av feltdepotet",
+      "da": "Reparer antennen på taget af feltdepotet",
+      "it": "Ripara l'antenna sul tetto del deposito sul campo",
       "uk": "Відремонтуйте антену на даху польового депо",
+      "kr": "야전 보급소 지붕의 안테나 수리",
+      "ru": "Почините антенну на крыше полевой станции",
       "zh-CN": "修理野外补给站屋顶的天线",
-      "zh-TW": "修理野外補給站屋頂的天線"
+      "ja": "フィールド貯蔵庫の屋上のアンテナを修理する",
+      "tr": "Saha Deposunun çatısındaki anteni onar",
+      "zh-TW": "修理野外補給站屋頂的天線",
+      "sr": "Popravite antenu na krovu Terenskog Skladišta",
+      "hr": "Popravite antenu na krovu Terenskog Skladišta",
+      "pt-BR": "Repare a antena no telhado do Depósito de Campo",
+      "he": "תקן את האנטנה על גג מחסן השטח"
     }
   ],
-  "rewardItemIds": [
+  "grantedItemIds": [
     {
       "itemId": "remote_raider_flare",
       "quantity": 2
-    },
+    }
+  ],
+  "rewardItemIds": [
     {
       "itemId": "defibrillator",
       "quantity": 2
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss2", "ss3"],
-  "nextQuestIds": ["ss5"],
-  "updatedAt": "11/06/2025"
+  "previousQuestIds": [
+    "ss2",
+    "ss3"
+  ],
+  "nextQuestIds": [
+    "ss5"
+  ]
 }

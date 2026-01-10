@@ -1,0 +1,214 @@
+{
+  "_readme": {
+    "description": "Map events rotation schedule for ARC Raiders",
+    "format": "Times in schedule are UTC hours (0-23). Add 'disabled: true' to eventTypes to temporarily disable an event.",
+    "example": "To add Night Raid at 5 PM UTC on Dam: schedule.dam-battleground.major['17'] = 'night-raid'"
+  },
+  "eventTypes": {
+    "night-raid": {
+      "displayName": "Night Raid",
+      "icon": "https://cdn.arctracker.io/map-events/night_raid.png",
+      "translationKey": "nightRaid",
+      "category": "major"
+    },
+    "electromagnetic-storm": {
+      "displayName": "Electromagnetic Storm",
+      "icon": "https://cdn.arctracker.io/map-events/electromagnetic_storm.png",
+      "translationKey": "electromagneticStorm",
+      "category": "major"
+    },
+    "cold-snap": {
+      "displayName": "Cold Snap",
+      "icon": "https://cdn.arctracker.io/map-events/cold_snap.png",
+      "translationKey": "coldSnap",
+      "category": "major"
+    },
+    "locked-gate": {
+      "displayName": "Locked Gate",
+      "icon": "https://cdn.arctracker.io/map-events/locked_gate.png",
+      "translationKey": "lockedGate",
+      "category": "major"
+    },
+    "hidden-bunker": {
+      "displayName": "Hidden Bunker",
+      "icon": "https://cdn.arctracker.io/map-events/hidden_bunker.png",
+      "translationKey": "hiddenBunker",
+      "category": "major",
+      "disabled": false
+    },
+    "matriarch": {
+      "displayName": "Matriarch",
+      "icon": "https://cdn.arctracker.io/map-events/matriarch.png",
+      "translationKey": "matriarch",
+      "category": "minor"
+    },
+    "harvester": {
+      "displayName": "Harvester",
+      "icon": "https://cdn.arctracker.io/map-events/harvester.png",
+      "translationKey": "harvester",
+      "category": "minor"
+    },
+    "lush-blooms": {
+      "displayName": "Lush Blooms",
+      "icon": "https://cdn.arctracker.io/map-events/lush_blooms.png",
+      "translationKey": "lushBlooms",
+      "category": "minor"
+    },
+    "prospecting-probes": {
+      "displayName": "Prospecting Probes",
+      "icon": "https://cdn.arctracker.io/map-events/prospecting_probes.png",
+      "translationKey": "prospectingProbes",
+      "category": "minor"
+    },
+    "husk-graveyard": {
+      "displayName": "Husk Graveyard",
+      "icon": "https://cdn.arctracker.io/map-events/husk_graveyard.png",
+      "translationKey": "huskGraveyard",
+      "category": "minor"
+    },
+    "uncovered-caches": {
+      "displayName": "Uncovered Caches",
+      "icon": "https://cdn.arctracker.io/map-events/uncovered_caches.png",
+      "translationKey": "uncoveredCaches",
+      "category": "minor"
+    },
+    "launch-tower-loot": {
+      "displayName": "Launch Tower Loot",
+      "icon": "https://cdn.arctracker.io/map-events/launch_tower_loot.png",
+      "translationKey": "launchTowerLoot",
+      "category": "minor"
+    },
+    "none": {
+      "displayName": "None",
+      "icon": "",
+      "translationKey": "none",
+      "category": "none"
+    }
+  },
+  "maps": {
+    "dam-battleground": {
+      "displayName": "Dam Battleground"
+    },
+    "buried-city": {
+      "displayName": "Buried City"
+    },
+    "the-spaceport": {
+      "displayName": "The Spaceport"
+    },
+    "blue-gate": {
+      "displayName": "Blue Gate"
+    },
+    "stella-montis": {
+      "displayName": "Stella Montis"
+    }
+  },
+  "schedule": {
+    "dam-battleground": {
+      "major": {
+        "2": "electromagnetic-storm",
+        "4": "cold-snap",
+        "5": "cold-snap",
+        "7": "night-raid",
+        "10": "electromagnetic-storm",
+        "15": "night-raid",
+        "18": "electromagnetic-storm",
+        "20": "cold-snap",
+        "21": "cold-snap",
+        "23": "night-raid"
+      },
+      "minor": {
+        "1": "lush-blooms",
+        "5": "matriarch",
+        "9": "harvester",
+        "13": "matriarch",
+        "17": "prospecting-probes",
+        "21": "harvester"
+      }
+    },
+    "buried-city": {
+      "major": {
+        "4": "night-raid",
+        "6": "cold-snap",
+        "7": "cold-snap",
+        "11": "night-raid",
+        "12": "night-raid",
+        "14": "cold-snap",
+        "15": "cold-snap",
+        "20": "night-raid",
+        "22": "cold-snap",
+        "23": "cold-snap"
+      },
+      "minor": {
+        "0": "husk-graveyard",
+        "4": "lush-blooms",
+        "8": "husk-graveyard",
+        "12": "prospecting-probes",
+        "16": "prospecting-probes",
+        "20": "lush-blooms"
+      }
+    },
+    "the-spaceport": {
+      "major": {
+        "0": "hidden-bunker",
+        "2": "cold-snap",
+        "3": "cold-snap",
+        "5": "night-raid",
+        "8": "hidden-bunker",
+        "9": "electromagnetic-storm",
+        "10": "cold-snap",
+        "13": "night-raid",
+        "16": "hidden-bunker",
+        "18": "cold-snap",
+        "19": "cold-snap",
+        "21": "night-raid"
+      },
+      "minor": {
+        "3": "matriarch",
+        "7": "launch-tower-loot",
+        "15": "launch-tower-loot",
+        "11": "prospecting-probes",
+        "19": "matriarch",
+        "23": "harvester"
+      }
+    },
+    "blue-gate": {
+      "major": {
+        "0": "cold-snap",
+        "1": "cold-snap",
+        "3": "electromagnetic-storm",
+        "6": "locked-gate",
+        "8": "cold-snap",
+        "9": "cold-snap",
+        "12": "night-raid",
+        "14": "electromagnetic-storm",
+        "15": "electromagnetic-storm",
+        "16": "cold-snap",
+        "17": "cold-snap",
+        "19": "locked-gate",
+        "22": "night-raid"
+      },
+      "minor": {
+        "2": "matriarch",
+        "5": "husk-graveyard",
+        "8": "matriarch",
+        "11": "harvester",
+        "14": "matriarch",
+        "17": "uncovered-caches",
+        "20": "harvester",
+        "23": "husk-graveyard"
+      }
+    },
+    "stella-montis": {
+      "major": {
+        "2": "night-raid",
+        "6": "night-raid",
+        "7": "night-raid",
+        "9": "night-raid",
+        "14": "night-raid",
+        "18": "night-raid",
+        "22": "night-raid"
+      },
+      "minor": {}
+    }
+  }
+}

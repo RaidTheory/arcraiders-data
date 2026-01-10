@@ -1,58 +1,65 @@
 {
   "id": "arc_motion_core",
   "name": {
-    "da": "ARC-bevægelseskerne",
-    "de": "ARC-Bewegungskern",
     "en": "ARC Motion Core",
-    "es": "Núcleo de movimiento ARC",
+    "de": "ARC-Bewegungskern",
     "fr": "Processeur de Mobilité ARC",
-    "hr": "ARC Jezgra Pokreta",
-    "it": "Nucleo di movimento ARC",
-    "ja": "ARC動作コア",
-    "kr": "ARC 모션 코어",
-    "no": "ARC-bevegelseskjerne",
-    "pl": "Rdzeń ruchu ARC",
+    "es": "Núcleo de movimiento ARC",
     "pt": "Núcleo de movimento ARC",
+    "pl": "Rdzeń ruchu ARC",
+    "no": "ARC-bevegelseskjerne",
+    "da": "ARC-bevægelseskerne",
+    "it": "Nucleo di movimento ARC",
     "ru": "Движущее ядро ARC",
-    "sr": "ARC Jezgro Pokreta",
-    "tr": "ARC Hareket Çekirdeği",
+    "ja": "ARC動作コア",
+    "zh-TW": "ARC動力核心",
     "uk": "Ядро руху ARC",
     "zh-CN": "ARC动力核心",
-    "zh-TW": "ARC動力核心"
+    "kr": "아크 모션 코어",
+    "tr": "ARC Hareket Çekirdeği",
+    "hr": "ARC Jezgra Pokreta",
+    "sr": "ARC Jezgro Pokreta",
+    "pt-BR": "Núcleo de Movimento ARC",
+    "he": "ליבת תנועה של ARC"
   },
   "description": {
-    "da": "Opnået fra ARC-fjender eller aktiviteter. Bruges til at lave komponenter. Kan genbruges til ARC-legering. Bruges til at lave: Magnetisk accelerator",
-    "de": "Erhältlich von ARC-Gegnern oder durch Aktivitäten. Wird zur Herstellung von Komponenten verwendet. Kann zu ARC-Legierung recycelt werden. Zur Herstellung von: Werfermunition, Wolfpack, Magnetischer Beschleuniger",
     "en": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy. Used to craft: Magnetic Accelerator",
-    "es": "Obtenido de enemigos ARC o actividades. Se usa para fabricar componentes. Puede reciclarse en aleación ARC. Se usa para fabricar: Acelerador magnético",
+    "de": "Erhältlich von ARC-Gegnern oder durch Aktivitäten. Wird zur Herstellung von Komponenten verwendet. Kann zu ARC-Legierung recycelt werden. Zur Herstellung von: Werfermunition, Wolfpack, Magnetischer Beschleuniger",
     "fr": "Obtenu auprès d'ennemis ARC ou d'activités. Permet de fabriquer des composants. Peut être recyclé en alliage ARC. Permet de fabriquer : Accélérateur magnétique",
-    "hr": "Dobiva se od ARC neprijatelja ili aktivnosti. Koristi se za izradu komponenti. Može se reciklirati u ARC Leguru. Koristi se za izradu: Magnetski Akcelerator",
-    "it": "Ottenuto da nemici ARC o attività. Usato per creare componenti. Può essere riciclato in lega ARC. Usato per creare: Acceleratore magnetico",
-    "ja": "ARC敵または活動から入手。コンポーネントの作成に使用。ARC合金にリサイクル可能。作成可能: マグネティックアクセラレーター",
-    "kr": "ARC 적 또는 활동에서 획득. 부품 제작에 사용됩니다. ARC 합금으로 재활용 가능. 제작 가능: 자기 가속기",
-    "no": "Oppnådd fra ARC-fiender eller aktiviteter. Brukes til å lage komponenter. Kan resirkuleres til ARC-legering. Brukes til å lage: Magnetisk akselerator",
-    "pl": "Zdobywany z wrogów ARC lub aktywności. Używany do wytwarzania komponentów. Może być przetworzony na stop ARC. Używany do wytwarzania: Akcelerator magnetyczny",
+    "es": "Obtenido de enemigos ARC o actividades. Se usa para fabricar componentes. Puede reciclarse en aleación ARC. Se usa para fabricar: Acelerador magnético",
     "pt": "Obtido de inimigos ARC ou atividades. Usado para fabricar componentes. Pode ser reciclado em liga ARC. Usado para fabricar: Acelerador magnético",
+    "pl": "Zdobywany z wrogów ARC lub aktywności. Używany do wytwarzania komponentów. Może być przetworzony na stop ARC. Używany do wytwarzania: Akcelerator magnetyczny",
+    "no": "Oppnådd fra ARC-fiender eller aktiviteter. Brukes til å lage komponenter. Kan resirkuleres til ARC-legering. Brukes til å lage: Magnetisk akselerator",
+    "da": "Opnået fra ARC-fjender eller aktiviteter. Bruges til at lave komponenter. Kan genbruges til ARC-legering. Bruges til at lave: Magnetisk accelerator",
+    "it": "Ottenuto da nemici ARC o attività. Si usa per creare componenti. Si può riciclare in lega ARC. Si usa per creare: Acceleratore magnetico",
     "ru": "Получается с врагов ARC или из активностей. Используется для создания компонентов. Можно переработать в сплав ARC. Используется для создания: Магнитный ускоритель",
-    "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Koristi se za izradu komponenti. Može se reciklirati u ARC Leguru. Koristi se za izradu: Magnetski Akcelerator",
-    "tr": "ARC düşmanlarından veya aktivitelerden elde edilir. Bileşen üretiminde kullanılır. ARC Alaşımına geri dönüştürülebilir. Üretilebilir: Manyetik Hızlandırıcı",
+    "ja": "ARC敵または活動から入手。コンポーネントの作成に使用。ARC合金にリサイクル可能。作成可能: マグネティックアクセラレーター",
+    "zh-TW": "從ARC敵人或活動中獲得。用於製作組件。可回收為ARC合金。可製作：磁力加速器",
     "uk": "Отримується зворогів ARC або активностей. Використовується для створення компонентів. Можна переробити в сплав ARC. Використовується для створення: Магнітний прискорювач",
     "zh-CN": "从ARC敌人或活动中获得。用于制作组件。可回收为ARC合金。可制作：磁力加速器",
-    "zh-TW": "從ARC敵人或活動中獲得。用於製作組件。可回收為ARC合金。可製作：磁力加速器"
+    "kr": "아크 적 또는 활동에서 획득. 부품 제작에 사용됩니다. 아크 합금으로 재활용 가능. 제작 가능: 자성 가속기",
+    "tr": "ARC düşmanlarından veya aktivitelerden elde edilir. Bileşen üretiminde kullanılır. ARC Alaşımına geri dönüştürülebilir. Üretilebilir: Manyetik Hızlandırıcı",
+    "hr": "Dobiva se od ARC neprijatelja ili aktivnosti. Koristi se za izradu komponenti. Može se reciklirati u ARC Leguru. Koristi se za izradu: Magnetski Akcelerator",
+    "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Koristi se za izradu komponenti. Može se reciklirati u ARC Leguru. Koristi se za izradu: Magnetski Akcelerator",
+    "pt-BR": "Obtido de inimigos ou atividades ARC. Usado para criar componentes. Pode ser reciclado em Liga ARC. Usado para criar: Acelerador Magnético",
+    "he": "ניתן להשגה מאויבי ARC או מפעילויות. משמש ליצירת רכיבים. ניתן למחזר ל-סגסוגת ARC. משמש ליצירת: מאיץ מגנטי"
   },
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 1000,
-  "weightKg": 0.3,
-  "stackSize": 5,
-  "craftBench": "refiner",
-  "recipe": {
-    "arc_alloy": 8
-  },
   "recyclesInto": {
     "arc_alloy": 2
   },
+  "weightKg": 0.3,
+  "stackSize": 5,
+  "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/arc_motion_core.png",
-  "updatedAt": "11/03/2025",
-  "foundIn": "ARC"
+  "updatedAt": "01/09/2026",
+  "recipe": {
+    "arc_alloy": 8
+  },
+  "craftBench": "refiner",
+  "salvagesInto": {
+    "arc_alloy": 1
+  }
 }
