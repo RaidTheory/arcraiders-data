@@ -22,7 +22,14 @@
     "zh-CN": "紧盯目标",
     "zh-TW": "緊盯目標"
   },
+  "map": ["buried_city"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "wires",
+      "quantity": 3
+    }
+  ],
   "description": {
     "da": "Alt har været roligt omkring mine afleveringssteder siden du hjalp, men det betyder ikke, at det forbliver sådan længe. Jeg har sat overvågning op på et af mine mest brugte steder i Buried City for at forhindre fremtidig manipulation. Det eneste problem er, at det har brug for strøm for at blive aktiveret.",
     "de": "Seit du geholfen hast, ist alles ruhig bei meinen Abgabestellen, aber das heißt nicht, dass es lange so bleiben wird. Ich habe an einem meiner meistgenutzten Orte in Buried City eine Überwachung eingerichtet, um zukünftige Manipulationen zu verhindern. Das einzige Problem ist, dass sie Strom braucht, um in Betrieb zu gehen.",
@@ -104,12 +111,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10l"],
   "nextQuestIds": ["ss10n"],
-  "updatedAt": "11/23/2025",
-  "map": ["buried_city"],
-  "requiredItemIds": [
-    {
-      "itemId": "wires",
-      "quantity": 3
-    }
-  ]
+  "updatedAt": "11/23/2025"
 }

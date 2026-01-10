@@ -22,6 +22,7 @@
     "zh-CN": "保存记忆",
     "zh-TW": "保存記憶"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Celeste",
   "description": {
     "da": "Jeg mistede lidt besindelsen, da jeg sendte dig efter den fælde. Jeg mister normalt ikke besindelsen, men First Wave... Vi gik igennem meget dengang. Mistede mange mennesker. Det er stadig et åbent sår for mig, men jeg vil have, at du forstår.",
@@ -130,6 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10j"],
   "nextQuestIds": ["ss10p"],
-  "updatedAt": "11/06/2025",
-  "map": ["dam_battlegrounds"]
+  "updatedAt": "11/06/2025"
 }

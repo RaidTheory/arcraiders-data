@@ -22,6 +22,7 @@
     "zh-CN": "有毒的踪迹",
     "zh-TW": "有毒的蹤跡"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Shani",
   "description": {
     "da": "Vi har rent vand igen, men vi kan ikke risikere, at folk bliver syge, hvis sabotørerne vender tilbage. Vi skal udrydde dem en gang for alle.",
@@ -156,6 +157,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x14"],
   "nextQuestIds": ["ss10x17"],
-  "updatedAt": "12/29/2025",
-  "map": ["dam_battlegrounds"]
+  "updatedAt": "12/29/2025"
 }

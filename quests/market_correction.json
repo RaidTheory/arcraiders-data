@@ -22,6 +22,7 @@
     "zh-CN": "市场修正",
     "zh-TW": "市場修正"
   },
+  "map": ["buried_city"],
   "trader": "Tian Wen",
   "description": {
     "da": "Det tyveri før? Ser ikke ud som en tilfældighed længere. Noget af konkurrencen fra Toledo etablerer sig, hvor de ikke hører hjemme. Jeg vil have deres gemmested saboteret, helst før de bliver for komfortable.",
@@ -108,6 +109,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10i"],
   "nextQuestIds": ["ss10m"],
-  "updatedAt": "11/06/2025",
-  "map": ["buried_city"]
+  "updatedAt": "11/06/2025"
 }

@@ -22,6 +22,7 @@
     "zh-CN": "更好的用途",
     "zh-TW": "更好的用途"
   },
+  "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"],
   "trader": "Tian Wen",
   "description": {
     "da": "Vi mangler alt undtagen munde at fodre, men alligevel sender Celeste værdifulde forsyninger op i luften, så Raiders kan slås om dem. Jeg er færdig med at lade de gode ting gå til spilde.",
@@ -108,6 +109,5 @@
   "xp": 0,
   "previousQuestIds": ["ss7"],
   "nextQuestIds": ["ss10a"],
-  "updatedAt": "11/06/2025",
-  "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"]
+  "updatedAt": "11/06/2025"
 }

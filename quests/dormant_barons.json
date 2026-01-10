@@ -22,6 +22,7 @@
     "zh-CN": "休眠男爵",
     "zh-TW": "休眠男爵"
   },
+  "map": ["the_spaceport", "dam_battlegrounds", "the_blue_gate"],
   "trader": "Shani",
   "description": {
     "da": "Under den første bølge gjorde baronerne mere skade end alle de andre maskiner tilsammen. Nu er de blot tomme skrog; fastgjort på stedet, hvor de engang faldt... Alligevel kan deres indre dele indeholde svaret på at holde ARC i skak. Så åbn en op, og bring mig hvad der er indeni.",
@@ -82,6 +83,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10a", "ss9"],
   "nextQuestIds": ["ss10d", "ss10e"],
-  "updatedAt": "11/06/2025",
-  "map": ["the_spaceport", "dam_battlegrounds", "the_blue_gate"]
+  "updatedAt": "11/06/2025"
 }

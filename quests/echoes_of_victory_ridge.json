@@ -22,6 +22,7 @@
     "zh-CN": "胜利山脊的回响",
     "zh-TW": "勝利山脊的迴響"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Celeste",
   "description": {
     "da": "Mærkede du nogen rystelser i nat? Det gjorde jeg heller ikke. Men tilsyneladende skiftede jorden på et tidspunkt, og i processen afdækkede den en gammel First Wave-forpost, der havde været blokeret af affald. Jeg vil gerne have, at du kommer derind hurtigt, før nogen andre gør.",
@@ -130,6 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10o"],
   "nextQuestIds": ["ss10q"],
-  "updatedAt": "11/06/2025",
-  "map": ["dam_battlegrounds"]
+  "updatedAt": "11/06/2025"
 }

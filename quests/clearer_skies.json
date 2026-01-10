@@ -23,6 +23,12 @@
     "zh-TW": "晴朗天空"
   },
   "trader": "Shani",
+  "requiredItemIds": [
+    {
+      "itemId": "arc_alloy",
+      "quantity": 3
+    }
+  ],
   "description": {
     "da": "En sværm af desorienterede hvepse styrtede ned nær et af vores ovenlys. Du skal tynde ud i ARC-rækkerne, før der sker flere ulykker. Og kan du samle nogle særligt robuste materialer til at reparere skaden?",
     "de": "Ein Schwarm orientierungsloser Wespen ist in der Nähe eines unserer Oberlichter abgestürzt. Du musst die Reihen der ARC lichten, bevor noch mehr Unfälle passieren. Und kannst du ein paar besonders robuste Materialien sammeln, um den Schaden zu beheben?",
@@ -108,11 +114,5 @@
   "xp": 0,
   "previousQuestIds": ["ss1"],
   "nextQuestIds": ["ss4"],
-  "updatedAt": "11/06/2025",
-  "requiredItemIds": [
-    {
-      "itemId": "arc_alloy",
-      "quantity": 3
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

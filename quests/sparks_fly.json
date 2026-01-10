@@ -23,6 +23,16 @@
     "zh-TW": "火花四濺"
   },
   "trader": "Apollo",
+  "grantedItemIds": [
+    {
+      "itemId": "trigger_nade",
+      "quantity": 6
+    },
+    {
+      "itemId": "snap_blast_grenade",
+      "quantity": 2
+    }
+  ],
   "description": {
     "da": "De Hornet-stik kan virkelig ødelægge dig, hvis du er uheldig. Og selv hvis du ødelægger en, spilder du stadig en masse ammunition. Jeg har arbejdet på en mere elegant måde at tage dem ned på. Lyst til at få nogle gnister til at flyve?",
     "de": "Stiche von diesen Hornissen können einem echt übel mitspielen, wenn man Pech hat. Und selbst wenn man eine erledigt, vergeudet man dabei eine Menge Munition. Ich arbeite an einer eleganteren Lösung, um sie vom Himmel zu holen. Willst du Funken fliegen lassen?",
@@ -86,15 +96,5 @@
   "xp": 0,
   "previousQuestIds": ["ss8a"],
   "nextQuestIds": [],
-  "updatedAt": "11/06/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "trigger_nade",
-      "quantity": 6
-    },
-    {
-      "itemId": "snap_blast_grenade",
-      "quantity": 2
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

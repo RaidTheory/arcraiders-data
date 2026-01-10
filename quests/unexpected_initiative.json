@@ -22,7 +22,18 @@
     "zh-CN": "意外的主动",
     "zh-TW": "意外的主動"
   },
+  "map": ["buried_city"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "water_pump",
+      "quantity": 1
+    },
+    {
+      "itemId": "fertilizer",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Jeg sætter et drivhus op for at øge vores madproduktion. Jeg gør Celeste en tjeneste, okay? Det er alt. Men nok om det. Jeg har alle detaljerne på plads, men jeg får brug for forsyninger, og jeg slæber dem ikke alene.",
     "de": "Ich richte ein Gewächshaus ein, um unsere Nahrungsproduktion anzukurbeln. Ich tue Celeste einen Gefallen, okay? Das ist alles. Aber genug davon. Ich habe alle Details ausgearbeitet, aber ich brauche Vorräte, und ich werde sie nicht alleine schleppen.",
@@ -196,16 +207,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10p", "ss10n"],
   "nextQuestIds": ["ss10r"],
-  "updatedAt": "11/23/2025",
-  "map": ["buried_city"],
-  "requiredItemIds": [
-    {
-      "itemId": "water_pump",
-      "quantity": 1
-    },
-    {
-      "itemId": "fertilizer",
-      "quantity": 1
-    }
-  ]
+  "updatedAt": "11/23/2025"
 }

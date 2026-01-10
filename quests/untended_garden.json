@@ -22,6 +22,7 @@
     "zh-CN": "无人照料的花园",
     "zh-TW": "無人照料的花園"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Celeste",
   "description": {
     "da": "Ifølge filerne du fandt i laboratoriet, var det faktisk dyrkningsforskerne, der satte de hydroponiske kupler op ude i sumpen. Lyder som det mest oplagte sted at søge næste gang, synes du ikke?",
@@ -130,6 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x"],
   "nextQuestIds": ["ss10x3"],
-  "updatedAt": "11/06/2025",
-  "map": ["dam_battlegrounds"]
+  "updatedAt": "11/06/2025"
 }

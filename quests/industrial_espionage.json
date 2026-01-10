@@ -22,7 +22,14 @@
     "zh-CN": "工业间谍",
     "zh-TW": "工業間諜"
   },
+  "map": ["buried_city"],
   "trader": "Tian Wen",
+  "grantedItemIds": [
+    {
+      "itemId": "burletta_i",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Nu hvor mine egne gemmer er sikret, tror jeg, det er tid til at holde et tættere øje med konkurrenterne, så dette ikke sker igen.",
     "de": "Nachdem meine eigenen Verstecke gesichert sind, denke ich, es ist an der Zeit, die Konkurrenz genauer im Auge zu behalten, damit das nicht noch einmal passiert.",
@@ -130,12 +137,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10m"],
   "nextQuestIds": ["ss10q"],
-  "updatedAt": "11/06/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "burletta_i",
-      "quantity": 1
-    }
-  ],
-  "map": ["buried_city"]
+  "updatedAt": "11/06/2025"
 }

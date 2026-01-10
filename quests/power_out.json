@@ -22,6 +22,7 @@
     "zh-CN": "断电",
     "zh-TW": "斷電"
   },
+  "map": ["the_spaceport"],
   "trader": "Celeste",
   "description": {
     "da": "Dette går ud over uheld. Noget – eller nogen – har slået nogle af vores elektriske transformerstationer ud. Ingeniøren, jeg sendte ud for at reparere det, er ikke vendt tilbage, så jeg har brug for alle tilgængelige Raiders til at undersøge det. Det inkluderer dig.",
@@ -156,6 +157,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x9"],
   "nextQuestIds": ["ss10x11"],
-  "updatedAt": "11/23/2025",
-  "map": ["the_spaceport"]
+  "updatedAt": "11/23/2025"
 }

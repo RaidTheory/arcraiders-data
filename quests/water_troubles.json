@@ -22,6 +22,7 @@
     "zh-CN": "水源问题",
     "zh-TW": "水源問題"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Celeste",
   "description": {
     "da": "Hvis du er her for at klage over vandet, så velkommen i klubben. Jeg har modtaget klager hele dagen. Der er helt sikkert noget galt med det, og jeg har brug for hjælp til at løse det.",
@@ -130,6 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x3", "ss10y"],
   "nextQuestIds": ["ss10x5", "ss10x6"],
-  "updatedAt": "11/06/2025",
-  "map": ["dam_battlegrounds"]
+  "updatedAt": "11/06/2025"
 }

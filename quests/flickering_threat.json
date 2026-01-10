@@ -22,7 +22,14 @@
     "zh-CN": "闪烁的威胁",
     "zh-TW": "閃爍的威脅"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "wires",
+      "quantity": 4
+    }
+  ],
   "description": {
     "da": "Min sædvanlige ingeniør er stadig ved at hele fra sine sår og har været omtåget i dage. Vi har ikke råd til at være på halvt net, indtil han bliver rask; jeg har brug for nogen til at tage hans skruenøgle i mellemtiden.",
     "de": "Mein üblicher Ingenieur erholt sich immer noch von seinen Wunden und ist seit Tagen benommen. Wir können es uns nicht leisten, mit halber Netzleistung zu arbeiten, bis er geheilt ist; ich brauche jemanden, der in der Zwischenzeit seinen Schraubenschlüssel übernimmt.",
@@ -152,12 +159,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x10"],
   "nextQuestIds": ["ss10x12"],
-  "updatedAt": "11/06/2025",
-  "map": ["dam_battlegrounds"],
-  "requiredItemIds": [
-    {
-      "itemId": "wires",
-      "quantity": 4
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

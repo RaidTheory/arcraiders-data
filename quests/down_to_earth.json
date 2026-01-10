@@ -22,7 +22,14 @@
     "zh-CN": "脚踏实地",
     "zh-TW": "腳踏實地"
   },
+  "map": ["buried_city", "the_spaceport", "dam_battlegrounds"],
   "trader": "Shani",
+  "grantedItemIds": [
+    {
+      "itemId": "binoculars",
+      "quantity": 1
+    }
+  ],
   "description": {
     "de": "Raider berichten schon lange von seltsam aussehenden Kisten, die aus defekten ARC-Sondern fallen. Wenn wir die irgendwie öffnen könnten, verstehen wir vielleicht, wonach sie suchen."
   },
@@ -107,12 +114,5 @@
   "xp": 0,
   "previousQuestIds": ["ss5a"],
   "nextQuestIds": ["ss9"],
-  "updatedAt": "11/06/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "binoculars",
-      "quantity": 1
-    }
-  ],
-  "map": ["buried_city", "the_spaceport", "dam_battlegrounds"]
+  "updatedAt": "11/06/2025"
 }

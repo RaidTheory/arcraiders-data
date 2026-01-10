@@ -22,7 +22,14 @@
     "zh-CN": "逆转",
     "zh-TW": "逆轉"
   },
+  "map": ["the_spaceport"],
   "trader": "Celeste",
+  "grantedItemIds": [
+    {
+      "itemId": "spaceport_trench_tower_key",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Jeg har en plan. Hvis vi genvinder beviserne mod OTTM før de får fat i dem, kan vi måske slippe af med dem en gang for alle.",
     "de": "Ich habe einen Plan. Wenn wir die Beweise gegen die OTTM bergen, bevor sie sie bekommen, könnten wir sie ein für alle Mal loswerden.",
@@ -104,12 +111,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x16"],
   "nextQuestIds": [],
-  "updatedAt": "11/06/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "spaceport_trench_tower_key",
-      "quantity": 1
-    }
-  ],
-  "map": ["the_spaceport"]
+  "updatedAt": "11/06/2025"
 }

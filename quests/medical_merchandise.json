@@ -22,6 +22,7 @@
     "zh-CN": "医疗用品",
     "zh-TW": "醫療用品"
   },
+  "map": ["dam_battlegrounds", "the_spaceport", "buried_city"],
   "trader": "Lance",
   "description": {
     "da": "Jeg er blevet ret dygtig til at væve bandager af stof, men til min skam har jeg ikke helt mestret at væve en røntgenmaskine eller et pulsoximeter.",
@@ -130,6 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10c"],
   "nextQuestIds": ["ss10g"],
-  "updatedAt": "11/25/2025",
-  "map": ["dam_battlegrounds", "the_spaceport", "buried_city"]
+  "updatedAt": "11/25/2025"
 }

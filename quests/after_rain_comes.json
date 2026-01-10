@@ -22,7 +22,24 @@
     "zh-CN": "雨过天晴",
     "zh-TW": "雨過天晴"
   },
+  "map": ["buried_city"],
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "wires",
+      "quantity": 5
+    },
+    {
+      "itemId": "battery",
+      "quantity": 2
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "zipline",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Jeg ved det, jeg ved det! Strømmen er nede i sektoren— Åh, hej. En lynflod ødelagde nogle af vores solpaneler i den begravede by, og generatorerne holder kun så længe. Gør os alle en tjeneste når du er deroppe, OK?",
     "de": "Ich weiß, ich weiß! Der Strom ist ausgefallen im Sektor— Oh, hey. Eine Sturzflut hat einige unserer Solarpaneele in der Begrabenen Stadt zerstört, und die Generatoren halten nur so lange durch. Tu uns allen einen Gefallen, wenn du dort oben bist, okay?",
@@ -108,23 +125,6 @@
   "xp": 0,
   "previousQuestIds": ["ss10s"],
   "nextQuestIds": ["ss10x4"],
-  "updatedAt": "11/23/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "zipline",
-      "quantity": 1
-    }
-  ],
-  "map": ["buried_city"],
-  "requiredItemIds": [
-    {
-      "itemId": "wires",
-      "quantity": 5
-    },
-    {
-      "itemId": "battery",
-      "quantity": 2
-    }
-  ],
-  "videoUrl": "https://youtu.be/jP__SkIV-9E"
+  "videoUrl": "https://youtu.be/jP__SkIV-9E",
+  "updatedAt": "11/23/2025"
 }

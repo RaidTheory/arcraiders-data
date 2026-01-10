@@ -22,6 +22,7 @@
     "zh-CN": "地形勘察",
     "zh-TW": "地形勘察"
   },
+  "map": ["the_spaceport"],
   "trader": "Shani",
   "description": {
     "da": "De fjerne drøn bliver mindre fjerne for hver dag der går. Jeg har et spor om nogle LiDAR-scannere, der kan hjælpe os med at overvåge rystelserne. Du vil gerne beholde et tag over hovedet, ikke?",
@@ -152,7 +153,6 @@
   "xp": 0,
   "previousQuestIds": ["ss10g"],
   "nextQuestIds": ["ss10s"],
-  "updatedAt": "11/23/2025",
-  "map": ["the_spaceport"],
-  "videoUrl": "https://youtu.be/pWXjplDChHc"
+  "videoUrl": "https://youtu.be/pWXjplDChHc",
+  "updatedAt": "11/23/2025"
 }

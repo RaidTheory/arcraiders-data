@@ -22,7 +22,14 @@
     "zh-CN": "给她点好处",
     "zh-TW": "給她點好處"
   },
+  "map": ["dam_battlegrounds", "the_spaceport", "buried_city"],
   "trader": "Celeste",
+  "grantedItemIds": [
+    {
+      "itemId": "dam_surveillance_key",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "For nylig har jeg forsøgt og fejlet i at få Tian Wen til at deltage i vores fællesskabsprojekter. Jeg er måske nødt til at forsøde handlen. Hun har klaget over kvaliteten af bjærgningen, der findes på markedet; tror du, vi kunne gøre hende en tjeneste?",
     "de": "Ich hab in letzter Zeit erfolglos versucht, Tian Wen für unsere Gemeinschaftsprojekte zu erwärmen. Vielleicht muss ich ihr das Ganze schmackhafter machen. Sie hat sich über die Qualität des Schrotts beschwert, an den sie kommt - können wir ihr da wohl eine kleine Freude bereiten?",
@@ -130,12 +137,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10"],
   "nextQuestIds": ["ss10b", "ss10c"],
-  "updatedAt": "11/25/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "dam_surveillance_key",
-      "quantity": 1
-    }
-  ],
-  "map": ["dam_battlegrounds", "the_spaceport", "buried_city"]
+  "updatedAt": "11/25/2025"
 }

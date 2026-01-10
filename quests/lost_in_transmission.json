@@ -22,7 +22,14 @@
     "zh-CN": "传输中断",
     "zh-TW": "傳輸中斷"
   },
+  "map": ["the_spaceport"],
   "trader": "Shani",
+  "grantedItemIds": [
+    {
+      "itemId": "spaceport_control_tower_key",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Jeg har udstyr sat op ved rumhavnen for at overvåge ARCs bevægelser. Min forbindelse brød sammen lige nu — jeg har brug for, at du tager til kontroltårnene og hjælper mig med at hente mine logfiler.",
     "de": "Ich habe Ausrüstung am Raumhafen installiert, um ARCs Bewegungen zu überwachen. Meine Verbindung ist gerade ausgefallen — ich brauche dich, um zu den Kontrolltürmen zu gehen und mir zu helfen, meine Protokolle abzurufen.",
@@ -122,12 +129,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10z"],
   "nextQuestIds": ["ss11b2"],
-  "updatedAt": "11/23/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "spaceport_control_tower_key",
-      "quantity": 1
-    }
-  ],
-  "map": ["the_spaceport"]
+  "updatedAt": "11/23/2025"
 }

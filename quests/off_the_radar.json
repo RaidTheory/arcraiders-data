@@ -22,7 +22,14 @@
     "zh-CN": "脱离雷达",
     "zh-TW": "脫離雷達"
   },
+  "map": ["buried_city", "the_spaceport", "dam_battlegrounds"],
   "trader": "Shani",
+  "grantedItemIds": [
+    {
+      "itemId": "remote_raider_flare",
+      "quantity": 2
+    }
+  ],
   "description": {
     "de": "Der Schaden hier unten war ziemlich übel, aber die Infrastruktur oben hat es noch schlimmer erwischt. Ich hab noch einige Antennen, die seit dem Sturm nicht mehr funktionieren."
   },
@@ -81,12 +88,5 @@
   "xp": 0,
   "previousQuestIds": ["ss2", "ss3"],
   "nextQuestIds": ["ss5"],
-  "updatedAt": "11/06/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "remote_raider_flare",
-      "quantity": 2
-    }
-  ],
-  "map": ["buried_city", "the_spaceport", "dam_battlegrounds"]
+  "updatedAt": "11/06/2025"
 }

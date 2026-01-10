@@ -22,6 +22,7 @@
     "zh-CN": "通讯藏身处",
     "zh-TW": "通訊藏身處"
   },
+  "map": ["buried_city"],
   "trader": "Shani",
   "description": {
     "da": "Vi har mistet signaler i nogle områder af Buried City — jeg gætter på, at vores udstyr driller. Du er ret dygtig til reparationer, ikke? Kunne du tjekke det?",
@@ -175,6 +176,5 @@
   "previousQuestIds": ["ss11b"],
   "nextQuestIds": ["ss10x5"],
   "updatedAt": "11/23/2025",
-  "map": ["buried_city"],
   "tips": ["The Battery is on the ground near a steel building"]
 }

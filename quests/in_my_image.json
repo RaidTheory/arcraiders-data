@@ -22,7 +22,14 @@
     "zh-CN": "按我的样子",
     "zh-TW": "按我的樣子"
   },
+  "map": ["stella_montis"],
   "trader": "Lance",
+  "grantedItemIds": [
+    {
+      "itemId": "defibrillator",
+      "quantity": 3
+    }
+  ],
   "description": {
     "da": "Jeg har lige behandlet en af de første Raiders, der besøgte Stella Montis, og hun sagde, at hun så ... andre. Androids, meget lig mig.",
     "de": "Ich habe gerade einen der Raider behandelt, die als Erste in Stella Montis waren. Sie hat mir erzählt, sie hätte... andere gesehen - andere Androiden, die mir sehr ähnlich waren.",
@@ -104,12 +111,5 @@
   "xp": 0,
   "previousQuestIds": ["ss5"],
   "nextQuestIds": ["12_cold_storage"],
-  "updatedAt": "11/23/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "defibrillator",
-      "quantity": 3
-    }
-  ],
-  "map": ["stella_montis"]
+  "updatedAt": "11/23/2025"
 }

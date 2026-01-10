@@ -22,6 +22,7 @@
     "zh-CN": "建立图书馆",
     "zh-TW": "建立圖書館"
   },
+  "map": ["buried_city"],
   "trader": "Apollo",
   "description": {
     "da": "Vores biblioteksudvalg er blevet ret forældet. Kunne du tage til den Begravede By og finde noget mere til os at læse? Sørg for at du tager noget med til alle.",
@@ -174,6 +175,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x16"],
   "nextQuestIds": ["ss10x19"],
-  "updatedAt": "11/23/2025",
-  "map": ["buried_city"]
+  "updatedAt": "11/23/2025"
 }

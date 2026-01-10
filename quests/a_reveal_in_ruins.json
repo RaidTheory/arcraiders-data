@@ -22,6 +22,7 @@
     "zh-CN": "废墟中的揭秘",
     "zh-TW": "廢墟中的揭秘"
   },
+  "map": ["buried_city"],
   "trader": "Lance",
   "description": {
     "da": "Jeg fik fat i en flot ny ESR-analysator; havde planlagt en stor afsløring. Det ene øjeblik er den her, det næste – puf. Kan du hjælpe?",
@@ -104,6 +105,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10f"],
   "nextQuestIds": ["ss10k"],
-  "updatedAt": "11/23/2025",
-  "map": ["buried_city"]
+  "updatedAt": "11/23/2025"
 }

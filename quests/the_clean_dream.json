@@ -22,7 +22,14 @@
     "zh-CN": "清洁之梦",
     "zh-TW": "清潔之夢"
   },
+  "map": ["the_spaceport", "the_blue_gate"],
   "trader": "Apollo",
+  "grantedItemIds": [
+    {
+      "itemId": "blue_light_stick",
+      "quantity": 5
+    }
+  ],
   "description": {
     "da": "Ved du, hvad jeg har drømt om på det seneste? En talende vanddestillator! Skørt, ikke? Men seriøst, med renere forbindelser kunne jeg lave sprængstoffer med mere kraft! Det ville være noget, ikke?",
     "de": "Weißt du, wovon ich in letzter Zeit träume? Ein sprechender Wasserdestillierer! Verrückt, oder? Aber im Ernst, mit reineren Verbindungen könnte ich Sprengstoff mit mehr Wumms herstellen! Das wäre doch was, oder?",
@@ -174,12 +181,5 @@
   "xp": 0,
   "previousQuestIds": ["ss11bx"],
   "nextQuestIds": [],
-  "updatedAt": "12/16/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "blue_light_stick",
-      "quantity": 5
-    }
-  ],
-  "map": ["the_spaceport", "the_blue_gate"]
+  "updatedAt": "12/16/2025"
 }

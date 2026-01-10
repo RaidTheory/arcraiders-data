@@ -22,6 +22,7 @@
     "zh-CN": "污染源",
     "zh-TW": "污染源"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Celeste",
   "description": {
     "da": "Jeg siger ikke, at vores vand er blevet manipuleret, men baseret på dine prøver kan jeg heller ikke udelukke muligheden. Vil du vende tilbage til dæmningen og se, hvad der er galt?",
@@ -130,6 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x4"],
   "nextQuestIds": ["ss10x7"],
-  "updatedAt": "11/06/2025",
-  "map": ["dam_battlegrounds"]
+  "updatedAt": "11/06/2025"
 }

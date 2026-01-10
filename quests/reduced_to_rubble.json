@@ -22,7 +22,14 @@
     "zh-CN": "化为废墟",
     "zh-TW": "化為廢墟"
   },
+  "map": ["the_blue_gate"],
   "trader": "Shani",
+  "grantedItemIds": [
+    {
+      "itemId": "binoculars",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Den kollapsede motorvej bekymrer mig; den ser ud til at være nylig. Meget af Topside kan være i ruiner, men det meste er fra for længe siden.",
     "de": "Die eingestürzte Schnellstraße macht mir Sorgen; das scheint erst kürzlich passiert zu sein. An der Oberfläche ist ja fast alles kaputt, aber das meiste schon seit Ewigkeiten.",
@@ -152,12 +159,5 @@
   "xp": 0,
   "previousQuestIds": ["ss11"],
   "nextQuestIds": ["ss11bx"],
-  "updatedAt": "11/20/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "binoculars",
-      "quantity": 1
-    }
-  ],
-  "map": ["the_blue_gate"]
+  "updatedAt": "11/20/2025"
 }

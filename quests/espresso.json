@@ -22,6 +22,7 @@
     "zh-CN": "浓缩咖啡",
     "zh-TW": "濃縮咖啡"
   },
+  "map": ["buried_city"],
   "trader": "Apollo",
   "description": {
     "da": "En Raider kom ind i min butik tidligere for at bytte nogle granater for en maskine, hun fandt i Buried City. Hun sagde, den laver kaffe, men det ser ud til at mangle nogle dele. Klar til et job?",
@@ -104,6 +105,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x12"],
   "nextQuestIds": ["ss10x14"],
-  "updatedAt": "11/23/2025",
-  "map": ["buried_city"]
+  "updatedAt": "11/23/2025"
 }

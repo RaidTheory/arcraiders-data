@@ -22,7 +22,14 @@
     "zh-CN": "塞莱斯特的日记",
     "zh-TW": "賽蕾絲特的日記"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "celeste_journal",
+      "quantity": 2
+    }
+  ],
   "description": {
     "da": "Okay, så dette er akavet... Jeg mistede to af mine dagbøger under nogle udpostinspektioner sidste gang jeg var på overfladen. Kunne du tage derhen og prøve at finde dem tilbage, før nogen andre snubler over dem?",
     "de": "Okay, das ist jetzt peinlich... Ich habe zwei meiner Tagebücher bei einigen Außenposteninspektionen verloren, als ich das letzte Mal an der Oberfläche war. Könntest du dorthin gehen und versuchen, sie zurückzufinden, bevor jemand anderes über sie stolpert?",
@@ -130,12 +137,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10r"],
   "nextQuestIds": ["ss10w"],
-  "updatedAt": "11/06/2025",
-  "map": ["dam_battlegrounds"],
-  "requiredItemIds": [
-    {
-      "itemId": "celeste_journal",
-      "quantity": 2
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

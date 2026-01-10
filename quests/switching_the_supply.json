@@ -22,6 +22,7 @@
     "zh-CN": "切换供应",
     "zh-TW": "切換供應"
   },
+  "map": ["the_spaceport"],
   "trader": "Celeste",
   "description": {
     "da": "Der er et reservoir under rumhavnen; hvis vi formår at lede det vand hertil, burde det give os tid til at håndtere forureningen.",
@@ -108,6 +109,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x6"],
   "nextQuestIds": ["ss10x8"],
-  "updatedAt": "11/23/2025",
-  "map": ["the_spaceport"]
+  "updatedAt": "11/23/2025"
 }

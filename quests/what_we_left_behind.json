@@ -22,6 +22,7 @@
     "zh-CN": "我们留下的东西",
     "zh-TW": "我們留下的東西"
   },
+  "map": ["buried_city", "the_spaceport", "dam_battlegrounds"],
   "trader": "Tian Wen",
   "description": {
     "da": "Celeste fortalte mig, at du er den, der hjælp hende med at presse mig til at bidrage mere. Jeg siger det én gang: Jeg sætter ikke pris på indblanding, og jeg har mine egne grunde til at afslå. Jeg sætter dog pris på skrot. Siden du tilsyneladende er god til at spore det op, har jeg måske en opgave til dig.",
@@ -130,6 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10b"],
   "nextQuestIds": ["ss10h"],
-  "updatedAt": "11/06/2025",
-  "map": ["buried_city", "the_spaceport", "dam_battlegrounds"]
+  "updatedAt": "11/06/2025"
 }

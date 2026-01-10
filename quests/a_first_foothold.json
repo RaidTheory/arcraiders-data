@@ -22,7 +22,15 @@
     "zh-CN": "第一个立足点",
     "zh-TW": "第一個立足點"
   },
+  "map": ["the_blue_gate"],
   "trader": "Shani",
+  "otherRequirements": ["18x Raids"],
+  "grantedItemIds": [
+    {
+      "itemId": "noisemaker",
+      "quantity": 2
+    }
+  ],
   "description": {
     "da": "Vi er lige blevet færdige med at udvide Tube-netværket mod den Blå Port, og vi arbejder stadig på resten. Mit mandskab har bygget ny infrastruktur rundt om dalen for at beskytte vores Raiders, men den konstante ARC-trussel har gjort det svært at få noget gjort.",
     "de": "Wir haben gerade erst die U-Bahn-Linie bis zum Blauen Tor verlängert und arbeiten immer noch am Rest. Meine Leute haben rund um das Tal neue Infrastruktur gebaut, um unsere Raider zu schützen, aber die ständige Bedrohung durch die ARC macht es echt schwer, was zu erledigen.",
@@ -152,13 +160,5 @@
   "xp": 0,
   "previousQuestIds": [],
   "nextQuestIds": ["ss11a"],
-  "updatedAt": "11/23/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "noisemaker",
-      "quantity": 2
-    }
-  ],
-  "map": ["the_blue_gate"],
-  "otherRequirements": ["18x Raids"]
+  "updatedAt": "11/23/2025"
 }

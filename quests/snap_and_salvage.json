@@ -22,7 +22,19 @@
     "zh-CN": "拍照与打捞",
     "zh-TW": "拍照與打撈"
   },
+  "map": ["stella_montis"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "flow_controller",
+      "quantity": 1
+    },
+    {
+      "itemId": "magnetron",
+      "quantity": 1
+    }
+  ],
+  "grantedItemIds": [],
   "description": {
     "da": "Hele Speranza summer over Stella Montis lige nu, og jeg må indrømme, at det har fanget min opmærksomhed. Lad de andre finde ud af hvad og hvordan; jeg er interesseret i teknikken derinde.",
     "de": "In Speranza wird nur noch über Stella Montis gesprochen und ich muss zugeben, mein Interesse ist auch geweckt. Sollen die anderen sich mit dem Was und Wie befassen - mich interessiert die Technik, die da drinnen versteckt ist.",
@@ -156,17 +168,5 @@
   "xp": 0,
   "previousQuestIds": ["12_cold_storage"],
   "nextQuestIds": [],
-  "updatedAt": "11/23/2025",
-  "grantedItemIds": [],
-  "map": ["stella_montis"],
-  "requiredItemIds": [
-    {
-      "itemId": "flow_controller",
-      "quantity": 1
-    },
-    {
-      "itemId": "magnetron",
-      "quantity": 1
-    }
-  ]
+  "updatedAt": "11/23/2025"
 }

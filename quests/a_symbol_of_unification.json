@@ -22,6 +22,7 @@
     "zh-CN": "统一的象征",
     "zh-TW": "統一的象徵"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Celeste",
   "description": {
     "da": "Ved du, i gamle dage havde vi faktisk et flag - altså, mere en klud end noget andet. Alligevel, at se det betød, at du vidste, du havde allierede i nærheden, at du var på dit eget territorium. Så jeg tænkte...",
@@ -130,7 +131,6 @@
   "xp": 0,
   "previousQuestIds": ["ss10q"],
   "nextQuestIds": ["ss10t", "ss10u", "ss10v"],
-  "updatedAt": "11/23/2025",
-  "map": ["dam_battlegrounds"],
-  "videoUrl": "https://www.youtube.com/watch?v=6Cb6aQWBt8U"
+  "videoUrl": "https://www.youtube.com/watch?v=6Cb6aQWBt8U",
+  "updatedAt": "11/23/2025"
 }

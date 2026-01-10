@@ -22,7 +22,18 @@
     "zh-CN": "清白记录",
     "zh-TW": "清白紀錄"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Celeste",
+  "grantedItemIds": [
+    {
+      "itemId": "binoculars",
+      "quantity": 1
+    },
+    {
+      "itemId": "defibrillator",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Tilbage under First Wave byggede mit hold og jeg en fælde ved dæmningen. Overbelastede en generator og gjorde den til en improviseret ARC-fælde. Nu hører jeg, at Raiders bruger den til at afbryde kommunikation og lave baghold på hinanden. Jeg har brug for, at du stopper det.",
     "de": "In der Ersten Welle haben wir eine Falle am Damm gebaut: einen Generator überlastet und in eine provisorische ARC-Falle verwandelt. Jetzt hab ich gehört, dass Raider sie nutzen, um die Kommunikation zu unterbrechen und sich gegenseitig in Hinterhalte zu locken. Das muss ein Ende haben.",
@@ -192,16 +203,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10h"],
   "nextQuestIds": ["ss10o"],
-  "updatedAt": "11/23/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "binoculars",
-      "quantity": 1
-    },
-    {
-      "itemId": "defibrillator",
-      "quantity": 1
-    }
-  ],
-  "map": ["dam_battlegrounds"]
+  "updatedAt": "11/23/2025"
 }

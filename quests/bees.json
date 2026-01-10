@@ -22,7 +22,14 @@
     "zh-CN": "蜜蜂！",
     "zh-TW": "蜜蜂！"
   },
+  "map": ["the_blue_gate"],
   "trader": "Celeste",
+  "grantedItemIds": [
+    {
+      "itemId": "yellow_light_stick",
+      "quantity": 5
+    }
+  ],
   "description": {
     "da": "Bier! Der er stadig bier omkring! Selvom jeg ikke er nogen ekspert, vil vores drivhusteam desperat have nogle.",
     "de": "Bienen! Es gibt noch Bienen! Obwohl ich kein Experte bin, will unsere Gewächshaus-Crew unbedingt welche haben.",
@@ -104,12 +111,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x11"],
   "nextQuestIds": ["ss10x13"],
-  "updatedAt": "11/23/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "yellow_light_stick",
-      "quantity": 5
-    }
-  ],
-  "map": ["the_blue_gate"]
+  "updatedAt": "11/23/2025"
 }

@@ -23,7 +23,9 @@
     "zh-CN": "破译数据",
     "zh-TW": "破譯資料"
   },
+  "map": ["the_spaceport"],
   "trader": "Shani",
+  "grantedItemIds": [],
   "description": {
     "da": "Hvis de data, du fandt, kan forhindre loftet i at styrte sammen, har vi ikke tid at spilde. Jeg kender til nogle magnetiske dekryptorer omkring Acerra Spaceport fra tiden under Exodus. De virker måske stadig.",
     "de": "Wenn die Daten, die du gefunden hast, verhindern können, dass die Decke einstürzt, dürfen wir keine Zeit verlieren. Ich kenne ein paar magnetische Entschlüsseler rund um den Raumhafen Acerra, noch aus der Zeit des Exodus. Vielleicht funktionieren sie noch.",
@@ -131,7 +133,5 @@
   "xp": 0,
   "previousQuestIds": ["paving_the_way"],
   "nextQuestIds": ["groundbreaking"],
-  "updatedAt": "12/29/2025",
-  "grantedItemIds": [],
-  "map": ["the_spaceport"]
+  "updatedAt": "12/29/2025"
 }

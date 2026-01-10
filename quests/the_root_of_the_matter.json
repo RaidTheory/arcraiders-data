@@ -22,6 +22,7 @@
     "zh-CN": "问题的根源",
     "zh-TW": "問題的根源"
   },
+  "map": ["buried_city"],
   "trader": "Celeste",
   "description": {
     "da": "Vi er heldige. Noterne du fandt sidst blev skrevet af hovedforskeren. Da projektet gik under, ser det ud til, at hun tog nogle af frøprøverne og forseglede dem på et sikkert sted.",
@@ -126,6 +127,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x2"],
   "nextQuestIds": ["ss10x4"],
-  "updatedAt": "11/06/2025",
-  "map": ["buried_city"]
+  "updatedAt": "11/06/2025"
 }

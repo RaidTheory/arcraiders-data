@@ -22,7 +22,22 @@
     "zh-CN": "破碎的纪念碑",
     "zh-TW": "破碎的紀念碑"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "first_wave_tape",
+      "quantity": 1
+    },
+    {
+      "itemId": "first_wave_compass",
+      "quantity": 1
+    },
+    {
+      "itemId": "first_wave_rations",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Jeg har et andet specielt sted, jeg har brug for, at du gennemsøger for mig. En gammel slagmark, fra den første bølge. Raiders plejer normalt at plyndre sådanne steder i dag, på trods af den betydning, de engang havde. Folk glemmer hurtigt. Hurtigere end de burde.",
     "de": "Es gibt da noch eine andere besondere Stelle, an der du für mich nachsehen sollst. Ein altes Schlachtfeld aus der Ersten Welle. Heutzutage grasen Raider solche Orte ab, trotz der besonderen Bedeutung. Die Leute vergessen schnell. Schneller, als sie sollten.",
@@ -218,20 +233,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10e"],
   "nextQuestIds": ["ss10i", "ss10j"],
-  "updatedAt": "11/06/2025",
-  "map": ["dam_battlegrounds"],
-  "requiredItemIds": [
-    {
-      "itemId": "first_wave_tape",
-      "quantity": 1
-    },
-    {
-      "itemId": "first_wave_compass",
-      "quantity": 1
-    },
-    {
-      "itemId": "first_wave_rations",
-      "quantity": 1
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

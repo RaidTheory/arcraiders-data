@@ -23,6 +23,12 @@
     "zh-TW": "托萊多的貢品"
   },
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "power_rod",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Official Toledo Tubes Management kræver en af vores Kraftstave for brug af \"deres\" Slingshot-rør. Lad dig ikke narre af navnet, de er på ingen måde officielle; bare bøller med masser af magt. Kan du hjælpe mig med dette?",
     "de": "Die Official Toledo Tubes Management verlangt eine unserer Energiestäbe für die Nutzung \"ihrer\" Schleuderröhren. Lass dich vom Namen nicht täuschen, sie sind keineswegs offiziell; nur Schläger mit viel Macht. Könntest du mir dabei helfen?",
@@ -86,11 +92,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x14"],
   "nextQuestIds": ["ss10x16"],
-  "updatedAt": "11/06/2025",
-  "requiredItemIds": [
-    {
-      "itemId": "power_rod",
-      "quantity": 1
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

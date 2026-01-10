@@ -22,6 +22,7 @@
     "zh-CN": "过去的处方",
     "zh-TW": "過去的處方"
   },
+  "map": ["the_spaceport"],
   "trader": "Lance",
   "description": {
     "da": "Jeg har været nysgerrig på det medicinske område i rumhavnen et stykke tid nu. Noget fortæller mig, at det har præcis, hvad jeg har brug for, for at blive den ubestridelige mester på dette sted.",
@@ -126,6 +127,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x8"],
   "nextQuestIds": ["ss10x10"],
-  "updatedAt": "11/23/2025",
-  "map": ["the_spaceport"]
+  "updatedAt": "11/23/2025"
 }

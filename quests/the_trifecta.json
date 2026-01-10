@@ -22,7 +22,28 @@
     "zh-CN": "三连胜",
     "zh-TW": "三連勝"
   },
+  "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"],
   "trader": "Shani",
+  "requiredItemIds": [
+    {
+      "itemId": "snitch_scanner",
+      "quantity": 2
+    },
+    {
+      "itemId": "wasp_driver",
+      "quantity": 2
+    },
+    {
+      "itemId": "hornet_driver",
+      "quantity": 2
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "remote_raider_flare",
+      "quantity": 3
+    }
+  ],
   "description": {
     "da": "Efterretninger er fint nok, men det bringer os kun så langt. Hvis ARC virkelig nærmer sig, har jeg brug for, at hver Raider beviser, at de kan håndtere deres droner i kamp.",
     "de": "Aufklärung ist gut und schön, aber damit kommen wir nicht weit. Wenn die ARC wirklich näher rücken, muss jeder Raider beweisen, dass er im Kampf mit seinen Drohnen umgehen kann.",
@@ -196,26 +217,5 @@
   "xp": 0,
   "previousQuestIds": ["ss6"],
   "nextQuestIds": [],
-  "updatedAt": "11/06/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "remote_raider_flare",
-      "quantity": 3
-    }
-  ],
-  "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"],
-  "requiredItemIds": [
-    {
-      "itemId": "snitch_scanner",
-      "quantity": 2
-    },
-    {
-      "itemId": "wasp_driver",
-      "quantity": 2
-    },
-    {
-      "itemId": "hornet_driver",
-      "quantity": 2
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

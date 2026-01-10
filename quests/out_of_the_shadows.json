@@ -22,7 +22,24 @@
     "zh-CN": "走出阴影",
     "zh-TW": "走出陰影"
   },
+  "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"],
   "trader": "Shani",
+  "requiredItemIds": [
+    {
+      "itemId": "rocketeer_driver",
+      "quantity": 1
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "medium_shield",
+      "quantity": 1
+    },
+    {
+      "itemId": "combat_mk2",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Så du flagene? Tiden med at krybe sammen er forbi. Du har været mere end kampafprøvet, fra hvad jeg hører; tror du, du kan tage kampen op med en Rocketeer?",
     "de": "Hast du die Flaggen gesehen? Die Zeit des Versteckens ist vorbei. Du wurdest mehr als kampferprobt, wie ich höre; glaubst du, du kannst es mit einem Rocketeer aufnehmen?",
@@ -104,22 +121,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10r"],
   "nextQuestIds": [],
-  "updatedAt": "11/06/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "medium_shield",
-      "quantity": 1
-    },
-    {
-      "itemId": "combat_mk2",
-      "quantity": 1
-    }
-  ],
-  "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"],
-  "requiredItemIds": [
-    {
-      "itemId": "rocketeer_driver",
-      "quantity": 1
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

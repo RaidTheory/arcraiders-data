@@ -23,6 +23,24 @@
     "zh-TW": "醫生的命令"
   },
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "antiseptic",
+      "quantity": 2
+    },
+    {
+      "itemId": "syringe",
+      "quantity": 1
+    },
+    {
+      "itemId": "durable_cloth",
+      "quantity": 1
+    },
+    {
+      "itemId": "great_mullein",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Hør her, nybegynder: hvis du vil have mig til at behandle dig, skal du hellere bevise, at de dyrebare lemmer af dig er værd at forbinde.",
     "de": "Also, Neuankömmling: Wenn ich dich behandeln soll, beweist du mir besser erst mal, dass du meine Verbände wert bist.",
@@ -152,23 +170,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10a"],
   "nextQuestIds": ["ss10f"],
-  "updatedAt": "11/06/2025",
-  "requiredItemIds": [
-    {
-      "itemId": "antiseptic",
-      "quantity": 2
-    },
-    {
-      "itemId": "syringe",
-      "quantity": 1
-    },
-    {
-      "itemId": "durable_cloth",
-      "quantity": 1
-    },
-    {
-      "itemId": "great_mullein",
-      "quantity": 1
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

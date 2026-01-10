@@ -22,7 +22,9 @@
     "zh-CN": "冷藏库",
     "zh-TW": "冷藏庫"
   },
+  "map": ["stella_montis"],
   "trader": "Celeste",
+  "grantedItemIds": [],
   "description": {
     "da": "Rapporter om Stella Montis bliver ved med at strømme ind, og det er ikke som noget, vi har set før. Der kan være optegnelser eller relikvier fra fortiden derinde, og hvis der er, vil jeg have dem.",
     "de": "Wir kriegen Berichte über Stella Montis rein und was ich da erfahre, ist völlig neu. Da drinnen könnten Aufzeichnungen oder Relikte aus der Vergangenheit warten - und wenn das so ist, dann will ich sie haben.",
@@ -104,8 +106,6 @@
   "xp": 0,
   "previousQuestIds": ["12_in_my_image"],
   "nextQuestIds": ["12_snap_and_salvage"],
-  "updatedAt": "11/23/2025",
-  "grantedItemIds": [],
-  "map": ["stella_montis"],
-  "videoUrl": "https://youtu.be/tc7nK7AmixQ"
+  "videoUrl": "https://youtu.be/tc7nK7AmixQ",
+  "updatedAt": "11/23/2025"
 }

@@ -22,6 +22,7 @@
     "zh-CN": "均衡收成",
     "zh-TW": "均衡收成"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Celeste",
   "description": {
     "da": "Vores fødevareproduktion er endelig nok til at dække vores basale behov, men det vi virkelig har brug for nu er variation. Jeg har et spor om noget landbrugsforskning fra før den Første Bølge. Er du med?",
@@ -130,7 +131,6 @@
   "xp": 0,
   "previousQuestIds": ["ss10s"],
   "nextQuestIds": ["ss10x2"],
-  "updatedAt": "11/06/2025",
-  "map": ["dam_battlegrounds"],
-  "videoUrl": "https://youtu.be/VYI9tJsScmg"
+  "videoUrl": "https://youtu.be/VYI9tJsScmg",
+  "updatedAt": "11/06/2025"
 }

@@ -23,6 +23,22 @@
     "zh-TW": "變廢為寶"
   },
   "trader": "Shani",
+  "requiredItemIds": [
+    {
+      "itemId": "wires",
+      "quantity": 6
+    },
+    {
+      "itemId": "battery",
+      "quantity": 1
+    }
+  ],
+  "grantedItemIds": [
+    {
+      "itemId": "binoculars",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "For en Raider findes der ikke skrot – det er alt sammen værdifulde materialer, der venter på at blive genanvendt. Hvis du vil opnå noget her, kan du ikke bare vente på, at alting bliver serveret på et sølvfad.",
     "de": "Für einen Raider gibt es keinen Schrott, das sind alles Wertstoffe, die recycelt werden wollen. Wenn du hier etwas erreichen willst, kannst du nicht darauf warten, dass dir alles auf dem Silbertablett serviert wird.",
@@ -104,21 +120,5 @@
   "xp": 0,
   "previousQuestIds": ["ss1"],
   "nextQuestIds": ["ss4"],
-  "updatedAt": "11/06/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "binoculars",
-      "quantity": 1
-    }
-  ],
-  "requiredItemIds": [
-    {
-      "itemId": "wires",
-      "quantity": 6
-    },
-    {
-      "itemId": "battery",
-      "quantity": 1
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

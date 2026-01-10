@@ -23,6 +23,16 @@
     "zh-TW": "正確的工具"
   },
   "trader": "Tian Wen",
+  "grantedItemIds": [
+    {
+      "itemId": "ferro_iv",
+      "quantity": 1
+    },
+    {
+      "itemId": "heavy_ammo",
+      "quantity": 20
+    }
+  ],
   "description": {
     "da": "Du er en af de nyankomne, ikke? Jeg har brug for en frivillig til at teste denne forbedrede Ferro  den burde skære gennem ARC-panser som smør. Skyd nogle huller i et par maskiner og rapporter så tilbage.",
     "de": "Du gehörst zu den Neuankömmlingen, oder? Ich brauche einen Freiwilligen, der dieses verbesserte Ferro ausprobiert - es sollte ARC-Panzerungen durchschneiden wie Butter. Baller Löcher in ein paar Maschinen und erstatte mir dann Bericht.",
@@ -130,15 +140,5 @@
   "xp": 0,
   "previousQuestIds": ["ss5"],
   "nextQuestIds": ["ss10"],
-  "updatedAt": "11/06/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "ferro_iv",
-      "quantity": 1
-    },
-    {
-      "itemId": "heavy_ammo",
-      "quantity": 20
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

@@ -22,6 +22,7 @@
     "zh-CN": "温暖的休息之所",
     "zh-TW": "溫暖的休息之所"
   },
+  "map": ["buried_city"],
   "trader": "Apollo",
   "description": {
     "da": "En kunde af mig så en familie søge ly i en gammel lejr i den begravede by. Jeg betaler enhver, der formår at finde dem og eskortere dem tilbage til sikkerhed.",
@@ -156,6 +157,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x7"],
   "nextQuestIds": ["ss10x9"],
-  "updatedAt": "11/23/2025",
-  "map": ["buried_city"]
+  "updatedAt": "11/23/2025"
 }

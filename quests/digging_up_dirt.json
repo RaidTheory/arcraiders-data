@@ -22,6 +22,7 @@
     "zh-CN": "挖掘黑料",
     "zh-TW": "挖掘黑料"
   },
+  "map": ["buried_city"],
   "trader": "Celeste",
   "description": {
     "da": "Vi fik et gennembrud. En af vores spejdere så et medlem af Tubes Management lave en død aflevering inde i Santa Maria-husene i den Begravede By. Dette kan være vores chance for at grave snavs op på dem for en gangs skyld. Er du med?",
@@ -104,6 +105,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x15"],
   "nextQuestIds": ["ss10x17", "ss10x18"],
-  "updatedAt": "11/23/2025",
-  "map": ["buried_city"]
+  "updatedAt": "11/23/2025"
 }

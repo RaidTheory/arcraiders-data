@@ -23,6 +23,16 @@
     "zh-TW": "安全通道"
   },
   "trader": "Apollo",
+  "grantedItemIds": [
+    {
+      "itemId": "light_impact_grenade",
+      "quantity": 10
+    },
+    {
+      "itemId": "snap_blast_grenade",
+      "quantity": 3
+    }
+  ],
   "description": {
     "de": "Ich hab Gerüchte über ein Singal gehört, das Shani aufgefangen hat. Die ARC passen sich ständig an, und ich bin mir sicher, dass das nicht ihr letztes Warnsignal sein wird. Na ja, wenn sie ein Wettrüsten wollen, dann kriegen sie eins."
   },
@@ -67,15 +77,5 @@
   "xp": 0,
   "previousQuestIds": ["ss5"],
   "nextQuestIds": ["ss8a"],
-  "updatedAt": "11/06/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "light_impact_grenade",
-      "quantity": 10
-    },
-    {
-      "itemId": "snap_blast_grenade",
-      "quantity": 3
-    }
-  ]
+  "updatedAt": "11/06/2025"
 }

@@ -23,7 +23,14 @@
     "zh-CN": "破土动工",
     "zh-TW": "破土動工"
   },
+  "map": ["the_blue_gate"],
   "trader": "Apollo",
+  "grantedItemIds": [
+    {
+      "itemId": "blue_gate_communication_tower_key",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Data eller ej: Vi finder ud af, hvordan vi gør stedet jordskælvssikkert. Med så dybdegående forskning må der være et papirspor et sted.",
     "de": "Daten hin oder her: Wir lernen, wie wir diesen Ort erdbebensicher machen. Bei so tiefgehender Forschung muss es irgendwo eine Spur aus Dokumenten geben.",
@@ -154,12 +161,5 @@
   "xp": 0,
   "previousQuestIds": ["deciphering_the_data"],
   "nextQuestIds": [],
-  "updatedAt": "12/16/2025",
-  "grantedItemIds": [
-    {
-      "itemId": "blue_gate_communication_tower_key",
-      "quantity": 1
-    }
-  ],
-  "map": ["the_blue_gate"]
+  "updatedAt": "12/16/2025"
 }

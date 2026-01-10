@@ -23,7 +23,9 @@
     "zh-CN": "腐败的恶臭",
     "zh-TW": "腐敗的惡臭"
   },
+  "map": ["the_spaceport"],
   "trader": "Shani",
+  "grantedItemIds": [],
   "description": {
     "da": "Den nøgle, du fandt i tøndevognen... Jeg vil ikke komme med beskyldninger endnu, men det lugter af et indvendigt job. Vil du undersøge en fornemmelse, jeg har?",
     "de": "Der Schlüssel, den du im Fasslaster gefunden hast … Ich will noch keine Anschuldigungen erheben, aber das stinkt nach einem Insiderjob. Könntest du einem Verdacht nachgehen, den ich habe?",
@@ -208,7 +210,5 @@
   "xp": 0,
   "previousQuestIds": ["a_toxic_trail"],
   "nextQuestIds": [],
-  "updatedAt": "12/16/2025",
-  "grantedItemIds": [],
-  "map": ["the_spaceport"]
+  "updatedAt": "12/16/2025"
 }

@@ -22,6 +22,7 @@
     "zh-CN": "重回巅峰",
     "zh-TW": "重回巔峰"
   },
+  "map": ["the_blue_gate", "dam_battlegrounds", "buried_city", "the_spaceport"],
   "trader": "Tian Wen",
   "description": {
     "da": "Gæt hvad? Shani bad mig hjælpe med noget, og for en gangs skyld er jeg faktisk glad for, at hun gjorde det. Vi sætter nye udposter op på overfladen! Eller planlægger at gøre det i det mindste. Kan du tro det?",
@@ -152,6 +153,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10t", "ss10s"],
   "nextQuestIds": ["ss10z"],
-  "updatedAt": "12/29/2025",
-  "map": ["the_blue_gate", "dam_battlegrounds", "buried_city", "the_spaceport"]
+  "updatedAt": "12/29/2025"
 }

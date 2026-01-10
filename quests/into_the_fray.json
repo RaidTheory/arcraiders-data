@@ -23,6 +23,12 @@
     "zh-TW": "投入戰鬥"
   },
   "trader": "Shani",
+  "requiredItemIds": [
+    {
+      "itemId": "leaper_pulse_unit",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Det plejede at være deres verden deroppe. Ingen til at udfordre deres krav. Alligevel er vi her. Flere forposter. Mere efterretning. Mere ildkraft. Hvis jeg ikke vidste bedre, ville jeg sige, at vi har en del kampgejst tilbage i os.",
     "de": "Früher war es ihre Welt, da oben. Niemand, der ihren Anspruch anfocht. Und doch sind wir hier. Mehr Außenposten. Mehr Informationen. Mehr Feuerkraft. Wenn ich es nicht besser wüsste, würde ich sagen, wir haben noch einiges an Kampfgeist in uns.",
@@ -112,11 +118,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x4", "ss11b2"],
   "nextQuestIds": ["paving_the_way"],
-  "updatedAt": "12/29/2025",
-  "requiredItemIds": [
-    {
-      "itemId": "leaper_pulse_unit",
-      "quantity": 1
-    }
-  ]
+  "updatedAt": "12/29/2025"
 }

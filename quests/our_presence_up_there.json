@@ -22,6 +22,7 @@
     "zh-CN": "我们在那里的存在",
     "zh-TW": "我們在那裡的存在"
   },
+  "map": ["dam_battlegrounds"],
   "trader": "Shani",
   "description": {
     "da": "ARC ændrer sig måske, men vi ændrer os endelig med det. Lad os færdiggøre de udposter og revolutionere måden, vi sporer dem, flankerer dem og smadrer dem til stumper og stykker.",
@@ -130,7 +131,6 @@
   "xp": 0,
   "previousQuestIds": ["ss10w"],
   "nextQuestIds": ["ss11b"],
-  "updatedAt": "11/06/2025",
-  "map": ["dam_battlegrounds"],
-  "videoUrl": "https://youtu.be/FNe2C3gde68"
+  "videoUrl": "https://youtu.be/FNe2C3gde68",
+  "updatedAt": "11/06/2025"
 }
