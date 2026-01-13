@@ -213,6 +213,11 @@
     }
   },
   "craftBench": "weapon_bench",
+  "recipe": {
+    "arpeggio_iii": 1,
+    "mechanical_components": 1,
+    "medium_gun_parts": 2
+  },
   "recyclesInto": {
     "mechanical_components": 5,
     "simple_gun_parts": 5

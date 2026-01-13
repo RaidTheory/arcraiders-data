@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 640,
   "weightKg": 1,
+  "stackSize": 1,
   "effects": {
     "Damage": {
       "value": "10/s",

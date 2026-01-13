@@ -49,6 +49,7 @@
   "foundIn": "Medical",
   "value": 2000,
   "weightKg": 3,
+  "stackSize": 3,
   "recyclesInto": {
     "chemicals": 16,
     "crude_explosives": 3

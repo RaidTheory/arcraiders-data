@@ -237,6 +237,11 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
+  "recipe": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 2,
+    "osprey_i": 1
+  },
   "recyclesInto": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 2

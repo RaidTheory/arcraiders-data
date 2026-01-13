@@ -49,6 +49,7 @@
   "value": 10000,
   "weightKg": 4,
   "isWeapon": true,
+  "craftBench": "weapon_bench",
   "recyclesInto": {
     "mechanical_components": 4,
     "simple_gun_parts": 4

@@ -191,6 +191,11 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
+  "recipe": {
+    "mechanical_components": 3,
+    "rattler_ii": 1,
+    "simple_gun_parts": 1
+  },
   "recyclesInto": {
     "mechanical_components": 3,
     "simple_gun_parts": 1

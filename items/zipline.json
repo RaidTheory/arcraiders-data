@@ -48,6 +48,7 @@
   "rarity": "Rare",
   "value": 1000,
   "weightKg": 0.4,
+  "stackSize": 3,
   "craftBench": "utility_bench",
   "recipe": {
     "mechanical_components": 1,

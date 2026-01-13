@@ -49,6 +49,7 @@
   "foundIn": "Residential",
   "value": 1000,
   "weightKg": 0.2,
+  "stackSize": 1,
   "effects": {
     "Durability": {
       "value": "100/100",

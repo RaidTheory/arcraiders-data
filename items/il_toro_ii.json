@@ -191,6 +191,11 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
+  "recipe": {
+    "il_toro_i": 1,
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  },
   "recyclesInto": {
     "mechanical_components": 3,
     "simple_gun_parts": 3

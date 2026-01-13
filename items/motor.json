@@ -49,6 +49,7 @@
   "foundIn": "Mechanical",
   "value": 2000,
   "weightKg": 3,
+  "stackSize": 3,
   "recyclesInto": {
     "mechanical_components": 2,
     "oil": 2

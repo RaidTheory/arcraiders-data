@@ -212,6 +212,12 @@
       "zh-TW": "降低換彈時間"
     }
   },
+  "craftBench": "weapon_bench",
+  "recipe": {
+    "metal_parts": 10,
+    "simple_gun_parts": 1,
+    "stitcher_ii": 1
+  },
   "recyclesInto": {
     "metal_parts": 12,
     "simple_gun_parts": 1

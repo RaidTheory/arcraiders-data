@@ -236,6 +236,10 @@
     }
   },
   "craftBench": "weapon_bench",
+  "recipe": {
+    "hairpin_i": 1,
+    "metal_parts": 8
+  },
   "recyclesInto": {
     "metal_parts": 4,
     "rubber_parts": 3

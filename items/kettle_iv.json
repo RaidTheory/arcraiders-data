@@ -166,6 +166,12 @@
       "zh-TW": "彈匣容量"
     }
   },
+  "craftBench": "weapon_bench",
+  "recipe": {
+    "kettle_iii": 1,
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  },
   "recyclesInto": {
     "mechanical_components": 2,
     "simple_gun_parts": 2

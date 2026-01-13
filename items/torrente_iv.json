@@ -189,6 +189,12 @@
       "zh-TW": "縮短裝填時間"
     }
   },
+  "craftBench": "weapon_bench",
+  "recipe": {
+    "advanced_mechanical_components": 3,
+    "medium_gun_parts": 3,
+    "torrente_iii": 1
+  },
   "recyclesInto": {
     "advanced_mechanical_components": 3,
     "medium_gun_parts": 3

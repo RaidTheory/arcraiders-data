@@ -49,6 +49,7 @@
   "foundIn": "Security",
   "value": 2000,
   "weightKg": 3,
+  "stackSize": 3,
   "recyclesInto": {
     "metal_parts": 4,
     "simple_gun_parts": 5

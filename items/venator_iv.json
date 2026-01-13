@@ -236,6 +236,11 @@
     }
   },
   "craftBench": "weapon_bench",
+  "recipe": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 2,
+    "venator_iii": 1
+  },
   "recyclesInto": {
     "advanced_mechanical_components": 3,
     "medium_gun_parts": 3

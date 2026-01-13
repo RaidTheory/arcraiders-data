@@ -166,6 +166,11 @@
       "zh-TW": "彈匣容量"
     }
   },
+  "craftBench": "weapon_bench",
+  "recipe": {
+    "ferro_i": 1,
+    "metal_parts": 7
+  },
   "recyclesInto": {
     "metal_parts": 4,
     "rubber_parts": 3

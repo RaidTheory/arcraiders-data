@@ -212,6 +212,12 @@
       "zh-TW": "降低散射恢復時間"
     }
   },
+  "craftBench": "weapon_bench",
+  "recipe": {
+    "anvil_i": 1,
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  },
   "recyclesInto": {
     "mechanical_components": 3,
     "simple_gun_parts": 3

@@ -189,6 +189,12 @@
       "zh-TW": "升級修正"
     }
   },
+  "craftBench": "weapon_bench",
+  "recipe": {
+    "ferro_iii": 1,
+    "mechanical_components": 1,
+    "simple_gun_parts": 1
+  },
   "recyclesInto": {
     "mechanical_components": 1,
     "simple_gun_parts": 2

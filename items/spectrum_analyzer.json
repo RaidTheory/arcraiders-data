@@ -49,6 +49,7 @@
   "foundIn": "Exodus",
   "value": 3500,
   "weightKg": 1.5,
+  "stackSize": 3,
   "recyclesInto": {
     "exodus_modules": 1,
     "sensors": 1

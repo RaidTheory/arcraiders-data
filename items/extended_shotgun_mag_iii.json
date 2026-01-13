@@ -73,6 +73,10 @@
       "zh-TW": "彈匣容量"
     }
   },
+  "recipe": {
+    "mod_components": 1,
+    "steel_spring": 6
+  },
   "recyclesInto": {
     "mod_components": 1,
     "steel_spring": 2

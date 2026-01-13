@@ -49,6 +49,7 @@
   "foundIn": "Nature",
   "value": 1000,
   "weightKg": 0.2,
+  "stackSize": 10,
   "effects": {
     "Healing": {
       "value": 15,

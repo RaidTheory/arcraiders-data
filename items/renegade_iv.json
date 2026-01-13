@@ -214,6 +214,11 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
+  "recipe": {
+    "advanced_mechanical_components": 2,
+    "medium_gun_parts": 2,
+    "renegade_iii": 1
+  },
   "recyclesInto": {
     "advanced_mechanical_components": 3,
     "medium_gun_parts": 3

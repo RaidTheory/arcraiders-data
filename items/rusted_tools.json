@@ -49,6 +49,7 @@
   "foundIn": "Mechanical",
   "value": 1000,
   "weightKg": 2,
+  "stackSize": 3,
   "recyclesInto": {
     "metal_parts": 8,
     "steel_spring": 1

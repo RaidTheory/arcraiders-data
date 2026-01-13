@@ -189,6 +189,11 @@
       "zh-TW": "升級修正值"
     }
   },
+  "recipe": {
+    "kettle_ii": 1,
+    "metal_parts": 10,
+    "simple_gun_parts": 1
+  },
   "recyclesInto": {
     "metal_parts": 12,
     "simple_gun_parts": 1

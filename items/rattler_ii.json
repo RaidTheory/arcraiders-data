@@ -168,6 +168,11 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
+  "recipe": {
+    "metal_parts": 10,
+    "rattler_i": 1,
+    "rubber_parts": 10
+  },
   "recyclesInto": {
     "metal_parts": 12
   },

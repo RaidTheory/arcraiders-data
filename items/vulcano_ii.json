@@ -215,6 +215,11 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
+  "recipe": {
+    "advanced_mechanical_components": 1,
+    "heavy_gun_parts": 2,
+    "vulcano_i": 1
+  },
   "recyclesInto": {
     "advanced_mechanical_components": 2,
     "heavy_gun_parts": 3

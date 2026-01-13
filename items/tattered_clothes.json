@@ -48,6 +48,8 @@
   "rarity": "Uncommon",
   "foundIn": "Residential",
   "value": 640,
+  "weightKg": 0.8,
+  "stackSize": 3,
   "recyclesInto": {
     "fabric": 11
   },

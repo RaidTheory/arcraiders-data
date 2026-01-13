@@ -191,6 +191,10 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
+  "recipe": {
+    "advanced_mechanical_components": 1,
+    "heavy_gun_parts": 2
+  },
   "recyclesInto": {
     "advanced_mechanical_components": 2,
     "heavy_gun_parts": 3
