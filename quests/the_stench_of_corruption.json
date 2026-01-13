@@ -175,8 +175,8 @@
       "hr": "Upotrijebi ključ na bilo kojem terminalu za ispiranje kako bi poništio protokol zaobilaženja",
       "it": "Usa la chiave su qualsiasi terminale di spurgo per aggirare il protocollo di bypass",
       "ja": "任意のフラッシング端末で鍵を使い、バイパスプロトコルを上書きする",
-      "ko": "아무 플러싱 터미널에서든 열쇠를 사용해 우회 프로토콜을 재정의",
-      "kr": "아무 Flushing Terminal에 열쇠를 사용하여 우회 프로토콜 오버라이드",
+      "ko": "아무 수세 터미널에서든 열쇠를 사용해 우회 프로토콜 중단시키기",
+      "kr": "아무 수세 터미널에서든 열쇠를 사용해 우회 프로토콜 중단시키기",
       "no": "Bruk nøkkelen på en hvilken som helst spyleterminal for å overstyre bypass-protokollen",
       "pl": "Użyj klucza na dowolnym terminalu płukania, aby nadpisać protokół obejścia",
       "pt": "Use a chave em qualquer Terminal de Purga para sobrescrever o protocolo de desvio",
@@ -210,5 +210,5 @@
   "xp": 0,
   "previousQuestIds": ["a_toxic_trail"],
   "nextQuestIds": [],
-  "updatedAt": "12/16/2025"
+  "updatedAt": "01/13/2026"
 }
