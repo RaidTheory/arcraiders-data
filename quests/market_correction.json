@@ -38,7 +38,7 @@
     "no": "Det tyveriet før? Ser ikke ut som en tilfeldighet lenger. Noe av konkurransen fra Toledo etablerer seg der de ikke hører hjemme. Jeg vil at deres gjemmested skal saboteres, helst før de blir for komfortable.",
     "pl": "Ta kradzież wcześniej? Nie wygląda już na przypadek. Część konkurencji z Toledo zakłada interes tam, gdzie nie powinna. Chcę, żeby ich skrytka została sabotowana, najlepiej zanim się za bardzo rozgoszczą.",
     "pt": "Aquele roubo de antes? Não parece mais uma coincidência. Parte da concorrência de Toledo está se estabelecendo onde não deveria. Quero que o esconderijo deles seja sabotado, de preferência antes que fiquem muito confortáveis.",
-    "pt-BR": "Aquele roubo de antes? Não parece mais coincidência. Parte da concorrência de Toledo está se instalando onde não deve. Quero o esconderijo deles sabotado, de preferência antes que fiquem muito confortáveis.",
+    "pt-BR": "Aquele roubo não foi coincidência, não. Tem gente de Toledo se instalando onde não deveria. Quero que o estoque deles seja sabotado, de preferência antes de se acomodarem.",
     "ru": "Та кража раньше? Больше не похоже на совпадение. Конкуренты из Толедо обосновываются там, где им не место. Я хочу, чтобы их тайник саботировали, желательно до того, как они освоятся.",
     "sr": "Ona krađa od pre? Više ne izgleda kao slučajnost. Neka konkurencija iz Toleda otvara radnju gde ne treba. Želim da im se ostava sabotira, po mogućstvu pre nego što se previše udobno smeste.",
     "tr": "Önceki hırsızlık mı? Artık tesadüf gibi görünmüyor. Toledo'dan bazı rakipler olmadıkları yerde iş kuruyor. Zulalarının sabotajlanmasını istiyorum, tercihen çok rahat etmeden önce.",
@@ -61,7 +61,7 @@
       "no": "Finn gjemmestedet nær Marano-stasjonen",
       "pl": "Zlokalizuj skrytkę w pobliżu stacji Marano",
       "pt": "Localize o esconderijo perto da estação Marano",
-      "pt-BR": "Localize o esconderijo perto da Estação Marano",
+      "pt-BR": "Encontre o estoque perto da Estação Marano",
       "ru": "Найти тайник рядом со станцией Марано",
       "sr": "Lociraj ostavu blizu Marano Stanice",
       "tr": "Marano İstasyonu yakınındaki zulayı bul",
@@ -83,7 +83,7 @@
       "no": "Saboter hurtiglageret",
       "pl": "Sabotuj skrytkę",
       "pt": "Sabote o cache",
-      "pt-BR": "Sabote o esconderijo",
+      "pt-BR": "Sabote o estoque",
       "ru": "Саботировать тайник",
       "sr": "Sabotiraj ostavu",
       "tr": "Zulayı sabote et",
@@ -109,5 +109,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10i"],
   "nextQuestIds": ["ss10m"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

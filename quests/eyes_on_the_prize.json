@@ -14,7 +14,7 @@
     "no": "Øynene på premien",
     "pl": "Oko na nagrodę",
     "pt": "De olho no prêmio",
-    "pt-BR": "De Olho no Prêmio",
+    "pt-BR": "Dê olho no que interessa",
     "ru": "Взгляд на приз",
     "sr": "Oči na Nagradi",
     "tr": "Gözler Ödülde",
@@ -44,7 +44,7 @@
     "no": "Alt har vært rolig rundt leveringsstedene mine siden du hjalp til, men det betyr ikke at det vil forbli slik lenge. Jeg har satt opp overvåking på et av mine mest brukte steder i Buried City, for å forhindre fremtidig tukling. Det eneste problemet er at det trenger strøm for å bli aktivert.",
     "pl": "Wszystko jest spokojne wokół moich punktów zrzutu, odkąd pomogłeś, ale to nie znaczy, że tak zostanie na długo. Ustawiłem monitoring w jednym z moich najczęściej używanych miejsc w Buried City, żeby zapobiec przyszłym manipulacjom. Jedyny problem to to, że potrzebuje zasilania, żeby zacząć działać.",
     "pt": "Tudo tem estado calmo nos meus pontos de entrega desde que você ajudou, mas isso não significa que vai continuar assim por muito tempo. Configurei vigilância num dos meus locais mais usados em Buried City, para prevenir futuras adulterações. O único problema é que precisa de energia para funcionar.",
-    "pt-BR": "Tudo tem estado calmo nos meus pontos de entrega desde que você ajudou, mas isso não significa que vai continuar assim por muito tempo. Instalei vigilância em um dos meus locais mais usados na Cidade Soterrada, para evitar interferências futuras. O único problema é que precisa de energia para funcionar.",
+    "pt-BR": "Tá tudo calmo nos meus pontos de entrega desde que você ajudou, mas isso não quer dizer que vai ficar assim por muito tempo. Isntalei sistema de vigilância em um dos lugares que eu mais uso na Cidade Soterrada, para evitar futuras adulterações. O único problema é que precisa de energia para entrar no ar.",
     "ru": "Всё было спокойно вокруг моих точек сброса с тех пор, как ты помог, но это не значит, что так будет долго. Я установил наблюдение в одном из самых используемых мест в Погребённом Городе, чтобы предотвратить будущие вмешательства. Единственная проблема - ему нужно питание, чтобы заработать.",
     "sr": "Sve je mirno oko mojih mesta za dostavu otkako si pomogao, ali to ne znači da će tako ostati dugo. Postavio sam nadzor na jednom od mojih najkorišćenijih mesta u Zakopanom Gradu, da sprečim buduće petljanje. Jedini problem je što mu treba struja da proradi.",
     "tr": "Yardım ettiğinden beri teslimat noktalarımın çevresinde her şey sakindi, ama bu uzun süre böyle kalacağı anlamına gelmiyor. Gelecekteki kurcalamaları önlemek için Gömülü Şehir'de en çok kullandığım yerlerden birine gözetleme kurdum. Tek sorun, çalışması için güce ihtiyacı var.",
@@ -67,7 +67,7 @@
       "no": "Finn den avsondrede takterrassen sørvest for Southern Station, se etter blå presenninger",
       "pl": "Znajdź odosobniony taras na dachu na południowy zachód od Southern Station, szukaj niebieskich plandek",
       "pt": "Encontre o terraço isolado a sudoeste da Southern Station, procure por lonas azuis",
-      "pt-BR": "Encontre o terraço isolado a sudoeste da Estação Sul, procure por lonas azuis",
+      "pt-BR": "Encontre o terraço isolado a sudoeste da Estação Sul e procure por lonas azuis",
       "ru": "Найти уединённую террасу на крыше к юго-западу от Южной станции, ищите синие брезенты",
       "sr": "Pronađi povučenu krovnu terasu jugozapadne od Južne Stanice, traži plave cerade",
       "tr": "Güney İstasyonu'nun güneybatısındaki tenha çatı terasını bul, mavi brandaları ara",
@@ -89,7 +89,7 @@
       "no": "Koble om solpanelet ved hjelp av 3 ledninger",
       "pl": "Przewoduj panel słoneczny używając 3 kabli",
       "pt": "Refaça a fiação do painel solar usando 3 fios",
-      "pt-BR": "Refaça a fiação do painel solar usando 3 Fios",
+      "pt-BR": "Refaça a fiação do painel solar usando 3 fios",
       "ru": "Перемонтировать солнечную панель, используя 3 провода",
       "sr": "Ponovo poveži solarni panel koristeći 3 Žice",
       "tr": "3 Kablo kullanarak güneş panelini yeniden kablola",
@@ -111,5 +111,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10l"],
   "nextQuestIds": ["ss10n"],
-  "updatedAt": "11/23/2025"
+  "updatedAt": "01/13/2026"
 }

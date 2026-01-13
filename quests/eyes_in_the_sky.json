@@ -44,7 +44,7 @@
     "no": "Krever en zipline for å komme på toppen av tårnet. De LiDAR-skannerne du fant fungerer best når de plasseres på høye steder. Jeg har identifisert noen gode steder rundt rustbeltet; håper du er sikker på beina.",
     "pl": "Wymaga linki tyrolskiej, aby dostać się na szczyt wieży. Te skanery LiDAR, które znalazłeś, działają najlepiej, gdy są umieszczone w wysokich miejscach. Zidentyfikowałem kilka dobrych miejsc w Pasie Rdzy; mam nadzieję, że masz pewny krok.",
     "pt": "Requer uma tirolesa para chegar ao topo da torre. Esses scanners LiDAR que você encontrou funcionam melhor quando colocados em locais altos. Identifiquei alguns bons lugares ao redor do cinturão de ferrugem; espero que você tenha passo firme.",
-    "pt-BR": "Requer uma tirolesa para chegar ao topo da torre. Aqueles scanners LiDAR que você encontrou funcionam melhor quando colocados em locais altos. Identifiquei alguns bons pontos ao redor de Rust Belt; espero que você tenha o pé firme.",
+    "pt-BR": "Os Scanners DLeA que você achou funcionam melhor quando ficam em lugares altos. Identifiquei uns pontos bons pelo Cinturão da Ferrugem. Espero que você tenha pés firmes.",
     "ru": "Требуется тросовая дорога, чтобы забраться на вершину башни. Те LiDAR сканеры, что ты нашёл, работают лучше всего на высоте. Я определил несколько хороших мест в Ржавом поясе; надеюсь, ты не боишься высоты.",
     "sr": "Potrebna je užad za spuštanje da se popnete na vrh tornja. Ti LiDAR skeneri koje ste pronašli najbolje funkcionišu kada se postave na visokim lokacijama. Identifikovao sam nekoliko dobrih mesta oko Pojasa hrđe; nadam se da ste sigurni na nogama.",
     "tr": "Kulenin tepesine çıkmak için zipline gerekiyor. Bulduğun LiDAR tarayıcıları yüksek yerlere konulduğunda en iyi çalışıyor. Rust Belt çevresinde birkaç iyi nokta belirledim; umarım ayakların sağlamdır.",
@@ -67,7 +67,7 @@
       "no": "På demmens slagmark, installer en LiDAR-skanner på toppen av kontrolltårnet",
       "pl": "Na polu bitwy przy tamie zainstaluj skaner LiDAR na szczycie wieży kontrolnej",
       "pt": "No campo de batalha da barragem, instale um scanner LiDAR no topo da torre de controle",
-      "pt-BR": "Em Dam Battlegrounds, instale um Scanner LiDAR no topo da Torre de Controle",
+      "pt-BR": "Nos Campos de Batalha da Represa, instale um scanner DLeA no topo da Torre de Controle",
       "ru": "На Поле боя у дамбы установите LiDAR сканер на вершине диспетчерской вышки",
       "sr": "Na bojnom polju brane, instalirajte LiDAR skener na vrhu kontrolnog tornja",
       "tr": "Baraj Savaş Alanı'nda Kontrol Kulesi'nin tepesine bir LiDAR Tarayıcı kur",
@@ -89,7 +89,7 @@
       "no": "På romhavnen, installer en LiDAR-skanner ved kommunikasjonstårnet",
       "pl": "Na kosmodromie zainstaluj skaner LiDAR na wieży komunikacyjnej",
       "pt": "No espaçoporto, instale um scanner LiDAR na torre de comunicações",
-      "pt-BR": "Em Spaceport, instale um Scanner LiDAR na Torre de Comunicações",
+      "pt-BR": "No Espaçoporto, instale um scanner DLeA na Torre de Comunicação",
       "ru": "На Космопорте установите LiDAR сканер на коммуникационной вышке",
       "sr": "Na svemirskoj luci, instalirajte LiDAR skener na komunikacionom tornju",
       "tr": "Uzay Limanı'nda İletişim Kulesi'ne bir LiDAR Tarayıcı kur",
@@ -111,7 +111,7 @@
       "no": "I den begravde byen, installer en LiDAR-skanner på toppen av Galleria-skiltet",
       "pl": "W Pogrzebanym Mieście zainstaluj skaner LiDAR na szczycie znaku Galleria",
       "pt": "Na cidade enterrada, instale um scanner LiDAR no topo da placa da galeria",
-      "pt-BR": "Na Cidade Soterrada, instale um Scanner LiDAR no topo do letreiro da Galleria",
+      "pt-BR": "Na Cidade Soterrada, instale um scanner DLeA no topo do letreiro da Galeria",
       "ru": "В Погребённом городе установите LiDAR сканер на вывеске Галереи",
       "sr": "U Zakopanom gradu, instalirajte LiDAR skener na vrhu natpisa Galleria",
       "tr": "Gömülü Şehir'de Galleria tabelasının üstüne bir LiDAR Tarayıcı kur",
@@ -137,5 +137,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10k"],
   "nextQuestIds": ["ss10w", "ss10x", "ss10y"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

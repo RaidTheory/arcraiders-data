@@ -43,7 +43,7 @@
     "no": "En sverm desorienterte veps krasjet nær ett av taklysene våre. Du må tynne ARC-rekkene før flere ulykker skjer. Og kan du samle noen spesielt solide materialer for å reparere skaden?",
     "pl": "Rój zdezorientowanych os rozbił się w pobliżu jednego z naszych świetlików. Musisz przerzeżić szeregi ARC, zanim wydarzy się więcej wypadków. I czy możesz zebrać kilka szczególnie wytrzymałych materiałów, żeby naprawić szkody?",
     "pt": "Um enxame de vespas desorientadas caiu perto de uma das nossas claraboias. Você precisa reduzir as fileiras da ARC antes que mais acidentes aconteçam. E você pode coletar alguns materiais particularmente resistentes para reparar o dano?",
-    "pt-BR": "Um enxame de vespas desorientadas caiu perto de uma de nossas claraboias. Você precisa reduzir as fileiras da ARC antes que mais acidentes aconteçam. E pode coletar alguns materiais particularmente resistentes para reparar o dano?",
+    "pt-BR": "Um enxame de Vespas desorientadas caiu perto de uma claraboia. Preciso que você ajude a reduzir quantidade de ARC antes que acontençam mais acidentes, e junte materiais resistentes para consertar o estrago.",
     "ru": "Рой дезориентированных ос врезался рядом с одним из наших световых люков. Тебе нужно проредить ряды ARC, пока не случилось больше несчастных случаев. И можешь ли ты собрать несколько особо прочных материалов, чтобы устранить повреждения?",
     "sr": "Roj dezorijentisanih osa se srušio blizu jednog od naših krovnih prozora. Moraš prorediti redove ARC-a pre nego što se dogodi još nesreća. I možeš li sakupiti neke posebno izdržljive materijale da popraviš štetu?",
     "tr": "Yönünü şaşırmış bir eşek arısı sürüsü çatı pencerelerimizden birinin yakınına düştü. Daha fazla kaza olmadan ARC saflarını seyreltmen gerekiyor. Ve hasarı onarmak için özellikle sağlam malzemeler toplayabilir misin?",
@@ -66,7 +66,7 @@
       "no": "Ødelegg 3 ARC-fiender",
       "pl": "Zniszcz 3 wrogów ARC",
       "pt": "Destrua 3 inimigos ARC",
-      "pt-BR": "Destrua 3 inimigos da ARC",
+      "pt-BR": "Destrua 3 inimigos ARC",
       "ru": "Уничтожьте 3 врагов ARC",
       "sr": "Uništite 3 ARC neprijatelja",
       "tr": "3 ARC düşmanını yok et",
@@ -114,5 +114,5 @@
   "xp": 0,
   "previousQuestIds": ["ss1"],
   "nextQuestIds": ["ss4"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

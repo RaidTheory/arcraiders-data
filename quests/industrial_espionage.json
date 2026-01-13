@@ -44,7 +44,7 @@
     "no": "Nå som mine egne gjemmesteder er sikret, tror jeg det er på tide å holde et nærmere øye med konkurrentene slik at dette ikke skjer igjen.",
     "pl": "Teraz, gdy moje własne skrytki są zabezpieczone, myślę, że czas baczniej obserwować konkurencję, żeby to się nie powtórzyło.",
     "pt": "Com os meus próprios esconderijos protegidos, acho que é hora de vigiar mais de perto a concorrência para que isso não aconteça novamente.",
-    "pt-BR": "Com meus próprios estoques protegidos, acho que pode ser hora de ficar de olho na concorrência para que isso não aconteça de novo.",
+    "pt-BR": "Agora que meus estoques estão seguros, acho que está na hora de vigiar a concorrência para que isso não se repetir.",
     "ru": "Теперь, когда мои тайники в безопасности, думаю, пришло время присмотреть за конкурентами поближе, чтобы это не повторилось.",
     "sr": "Pošto su moje zalihe obezbeđene, mislim da je vreme da bolje pratim konkurenciju kako se ovo ne bi ponovilo.",
     "tr": "Kendi zulalarım güvende olduğuna göre, bunun bir daha olmaması için rakipleri daha yakından takip etme zamanı geldi sanırım.",
@@ -67,7 +67,7 @@
       "no": "Finn Tian Wens våpenlager nær bensinstasjonen i Outskirts",
       "pl": "Znajdź skrytkę z bronią Tian Wena w pobliżu stacji benzynowej w Outskirts",
       "pt": "Encontre o esconderijo de armas de Tian Wen perto do posto de gasolina nos Outskirts",
-      "pt-BR": "Encontre o esconderijo de armas de Tian Wen perto do Posto de Gasolina nos Arredores",
+      "pt-BR": "Encontre o depósito de armas de Tian Wen perto do posto de gasolina na Periferia",
       "ru": "Найдите тайник с оружием Тянь Веня возле заправки на Окраинах",
       "sr": "Pronađi Tian Wenovu ostavu oružja blizu benzinske pumpe u Predgrađu",
       "tr": "Varoşlardaki Benzin İstasyonu yakınında Tian Wen'in silah zulasını bulun",
@@ -89,7 +89,7 @@
       "no": "Lever Burletta til det rivaliserende våpenlageret",
       "pl": "Dostarcz Burlettę do rywalizującej skrytki z bronią",
       "pt": "Entregue a Burletta ao esconderijo de armas rival",
-      "pt-BR": "Entregue a Burletta no esconderijo de armas rival",
+      "pt-BR": "Entregue a Burletta ao depósito de armas rival",
       "ru": "Доставьте Burletta в тайник с оружием конкурента",
       "sr": "Dostavi Burlettu do rivalske ostave oružja",
       "tr": "Burletta'yı rakip silah zulasına teslim edin",
@@ -111,7 +111,7 @@
       "no": "Planter en avlytter på våpenlageret",
       "pl": "Podłóż pluskwę w skrytce z bronią",
       "pt": "Plante um grampo no esconderijo de armas",
-      "pt-BR": "Coloque uma escuta no esconderijo de armas",
+      "pt-BR": "Instale um grampo no depósito de armas",
       "ru": "Установите жучок на тайник с оружием",
       "sr": "Postavi prisluškivač na ostavu oružja",
       "tr": "Silah zulasına dinleme cihazı yerleştirin",
@@ -137,5 +137,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10m"],
   "nextQuestIds": ["ss10q"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

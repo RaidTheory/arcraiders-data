@@ -14,7 +14,7 @@
     "no": "En avsløring i ruiner",
     "pl": "Odkrycie w ruinach",
     "pt": "Uma revelação nas ruínas",
-    "pt-BR": "Uma Revelação em Ruínas",
+    "pt-BR": "Revelação em ruínas",
     "ru": "Что скрывают развалины",
     "sr": "Otkrivanje u ruševinama",
     "tr": "Harabelerde Açığa Çıkan",
@@ -38,7 +38,7 @@
     "no": "Jeg fikk tak i en fancy ny ESR-analysator; hadde planlagt en stor avsløring. Ett øyeblikk er den her, neste øyeblikk – poff. Kan du hjelpe?",
     "pl": "Zdobyłem nowy, wymyślny analizator ESR; miałem zaplanowane wielkie odsłonięcie. W jednej chwili jest tutaj, w następnej – puf. Pomożesz?",
     "pt": "Consegui um novo e sofisticado analisador ESR; tinha toda uma grande revelação planejada. Num minuto está aqui, no próximo—puf. Pode ajudar?",
-    "pt-BR": "Consegui um novo analisador ESR sofisticado; tinha toda uma grande revelação planejada. Num minuto ele está aqui, no minuto seguinte... puf. Por favor, ajude?",
+    "pt-BR": "Arranjei um analisador VHS novinho e tinha até planejado fazer uma grande revelação. Ele estava bem aqui e depois... sumiu. Me ajuda, por favor?",
     "ru": "Я заполучил новенький ESR анализатор; планировал большую презентацию. Только что он был здесь, а в следующую минуту — пуф. Поможешь?",
     "sr": "Došao sam do novog ESR analizatora; imao sam planiran veliki trenutak otkrivanja. Jedan trenutak je tu, sledeći trenutak—nestao. Molim te, pomozi?",
     "tr": "Yeni bir ESR analizörü ele geçirdim; büyük bir tanıtım planlamıştım. Bir dakika buradaydı, sonraki dakika—yok oldu. Yardım eder misin?",
@@ -61,7 +61,7 @@
       "no": "Søk etter en ESR-analysator inne i et apotek i den begravde byen",
       "pl": "Poszukaj analizatora ESR w dowolnej aptece w Pogrzebanym Mieście",
       "pt": "Procure por um analisador ESR dentro de qualquer farmácia na cidade enterrada",
-      "pt-BR": "Procure por um Analisador ESR dentro de qualquer farmácia na Cidade Soterrada",
+      "pt-BR": "Procure um Analisador VHS dentro de qualquer farmácia na Cidade Soterrada",
       "ru": "Найдите ESR анализатор в любой аптеке Погребённого города",
       "sr": "Pretražite ESR analizator u bilo kojoj apoteci u Zakopanom gradu",
       "tr": "Gömülü Şehir'deki herhangi bir eczanede ESR Analizörü ara",
@@ -83,7 +83,7 @@
       "no": "Lever ESR-analysatoren til Lance",
       "pl": "Dostarcz analizator ESR do Lance'a",
       "pt": "Entregue o analisador ESR para Lance",
-      "pt-BR": "Entregue o Analisador ESR para Lance",
+      "pt-BR": "Entregue o Analisador de VHS para Lance",
       "ru": "Доставьте Лэнсу анализатор СОЭ",
       "sr": "Dostavite ESR analizator Lance-u",
       "tr": "ESR Analizörünü Lance'e teslim et",
@@ -105,5 +105,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10f"],
   "nextQuestIds": ["ss10k"],
-  "updatedAt": "11/23/2025"
+  "updatedAt": "01/13/2026"
 }

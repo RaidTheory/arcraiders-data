@@ -47,7 +47,7 @@
     "no": "Du er en av de nyankomne, ikke sant? Jeg trenger en frivillig til å teste denne oppgraderte Ferroen  den burde skjære gjennom ARC-panser som smør. Fyll noen maskiner med hull og rapporter tilbake.",
     "pl": "Jesteś jednym z nowoprzybyłych, prawda? Potrzebuję ochotnika, który przetestuje to ulepszone Ferro  powinno ciąć pancerz ARC jak masło. Zrób kilka dziur w maszynach, a potem zamelduj się u mnie.",
     "pt": "Você é um dos recém-chegados, certo? Preciso de um voluntário para testar este Ferro aprimorado  ele deve cortar armaduras ARC como manteiga. Encha algumas máquinas de balas e depois volte para me contar.",
-    "pt-BR": "Você é um dos novatos, certo? Preciso de um voluntário para testar este Ferro aprimorado, deve cortar a blindagem ARC como manteiga. Faça alguns buracos em algumas máquinas e depois volte para se apresentar.",
+    "pt-BR": "Você faz parte dos recém-chegados, né? Preciso de alguém para testar esse Ferro aprimorado. Ele deve atravessar a blindagem ARC que nem manteiga. Enche umas máquinas de buracos e depois me fala.",
     "ru": "Ты из новеньких, верно? Мне нужен доброволец, чтобы испытать этот улучшенный Ferro  он должен резать броню ARC как масло. Продырявь пару машин и потом доложи мне.",
     "sr": "Ti si jedan od novajlija, zar ne? Treba mi dobrovoljac da isproba ovaj unapređeni Ferro  trebalo bi da seče ARC oklop kao puter. Izbuši par mašina i onda mi podnesi izveštaj.",
     "tr": "Yeni gelenlerden birisin, değil mi? Bu geliştirilmiş Ferro'yu deneyecek bir gönüllüye ihtiyacım var  ARC zırhını tereyağı gibi kesmeli. Birkaç makineyi delik deşik et ve sonra bana rapor ver.",
@@ -92,7 +92,7 @@
       "no": "Ødelegg en Hornet",
       "pl": "Zniszcz Hornet",
       "pt": "Destrua um Hornet",
-      "pt-BR": "Destrua uma Vespa",
+      "pt-BR": "Destrua um Marimbondo",
       "ru": "Уничтожьте «Шершня»",
       "sr": "Uništite Stršljena",
       "tr": "Bir Hornet'i yok et",
@@ -140,5 +140,5 @@
   "xp": 0,
   "previousQuestIds": ["ss5"],
   "nextQuestIds": ["ss10"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

@@ -14,7 +14,7 @@
     "no": "En bedre bruk",
     "pl": "Lepsze zastosowanie",
     "pt": "Um uso melhor",
-    "pt-BR": "Um Uso Melhor",
+    "pt-BR": "Bom uso",
     "ru": "Применение получше",
     "sr": "Bolja Upotreba",
     "tr": "Daha İyi Bir Kullanım",
@@ -38,7 +38,7 @@
     "no": "Vi mangler alt unntatt munner å mate, men likevel skyter Celeste verdifulle forsyninger opp i luften for at Raiders skal slåss om dem. Jeg er lei av å la de gode tingene gå til spille.",
     "pl": "Brakuje nam wszystkiego oprócz gęb do wykarmienia, a mimo to Celeste wystrzeliwuje cenne zapasy w powietrze, o które Raiders mogą się szarpać. Mam dość marnowania dobrych rzeczy.",
     "pt": "Estamos com falta de tudo, menos bocas para alimentar, mas a Celeste está lançando suprimentos preciosos no ar para os Raiders brigarem por eles. Cansei de deixar as coisas boas irem para o lixo.",
-    "pt-BR": "Estamos com falta de tudo, menos de bocas para alimentar, mas a Celeste continua lançando suprimentos preciosos no ar para os Raiders disputarem. Cansei de deixar coisa boa ser desperdiçada.",
+    "pt-BR": "Falta de tudo, menos bocas para alimentar. Ainda assim, a Celeste joga suprimentos preciosos pro alto pros Combatentes se estapearem. Cansei de desperdiçar coisas boas.",
     "ru": "Нам не хватает всего, кроме ртов, которые нужно кормить, но Селеста запускает ценные припасы в воздух, чтобы Рейдеры дрались за них. С меня хватит — не позволю добру пропадать зря.",
     "sr": "Nedostaje nam sve osimusta za hranjenje, a Celeste lansira dragocene zalihe u vazduh da se Rejderi otimaju oko njih. Dosta mi je da dopuštam da dobre stvari propadaju.",
     "tr": "Doyuracak ağız dışında her şey kıt, ama Celeste değerli malzemeleri havaya fırlatıp Akıncıların kapışmasını sağlıyor. İyi şeylerin boşa gitmesine daha fazla izin vermeyeceğim.",
@@ -61,7 +61,7 @@
       "no": "Be om en forsyningsslipp fra en kallestasjon",
       "pl": "Zamów zrzut zaopatrzenia ze stacji wywołania",
       "pt": "Solicite um lançamento de suprimentos de uma estação de chamada",
-      "pt-BR": "Solicite uma Entrega de Suprimentos em uma Estação de Chamada",
+      "pt-BR": "Solicite uma Entrega de Suprimentos na Estação",
       "ru": "Запросите ящик с припасами через станцию вызова",
       "sr": "Zatraži Isporuku Zaliha sa Pozivne Stanice",
       "tr": "Bir Çağrı İstasyonundan İkmal Paketi talep et",
@@ -109,5 +109,5 @@
   "xp": 0,
   "previousQuestIds": ["ss7"],
   "nextQuestIds": ["ss10a"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }
