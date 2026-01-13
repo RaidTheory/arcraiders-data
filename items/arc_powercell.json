@@ -14,7 +14,7 @@
     "no": "ARC-kraftcelle",
     "pl": "Ogniwo zasilające ARC",
     "pt": "Bateria ARC",
-    "pt-BR": "Célula de Energia ARC",
+    "pt-BR": "Bateria ARC",
     "ru": "Энергоячейка ARC",
     "sr": "ARC Energetska Ćelija",
     "tr": "ARC Güç Hücresi",
@@ -36,7 +36,7 @@
     "no": "Verdifull ressurs som faller fra alle ARC-fiender. Brukes til å lage: Skjoldopplader Kan brukes til å reparere skjold.",
     "pl": "Cenny zasób, który wypada ze wszystkich wrogów ARC. Używane do wytworzenia: Ładowarka tarczy Może być użyte do naprawy tarcz.",
     "pt": "Recurso valioso que cai de todos os inimigos ARC. Usada para fabricar: Recarregador de escudo Pode ser usada para reparar escudos.",
-    "pt-BR": "Recurso valioso obtido de todos os inimigos ARC. Usado para fabricar: Recarregador de Escudo Pode ser usado para reparar escudos.",
+    "pt-BR": "Recurso valioso que cai de todos os inimigos ARC. Usada para fabricar: Recarregador de escudo. Pode usar para consertar escudos.",
     "ru": "Ценный ресурс, выпадающий со всех врагов ARC. Используется для создания: Перезарядник щита. Можно использовать для ремонта щитов.",
     "sr": "Vredan resurs koji ispuštaju svi ARC neprijatelji. Koristi se za izradu: Punjač Štita Može se koristiti za popravku štitova.",
     "tr": "Tüm ARC düşmanlarından düşen değerli kaynak. Şunları üretmek için kullanılır: Kalkan Şarj Cihazı. Kalkanları onarmak için kullanılabilir.",
@@ -123,5 +123,5 @@
   },
   "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/arc_powercell.png",
-  "updatedAt": "11/20/2025"
+  "updatedAt": "01/13/2026"
 }

@@ -14,7 +14,7 @@
     "no": "Snitch-skanner",
     "pl": "Skaner Snitch",
     "pt": "Scanner Snitch",
-    "pt-BR": "Scanner de Delator",
+    "pt-BR": "Detector de Dedo-Duro",
     "ru": "Сканер Стукача",
     "sr": "Dojavljivač",
     "tr": "İhbarcı Tarayıcı",
@@ -36,7 +36,7 @@
     "no": "Kan resirkuleres til ARC-legering. Kan kastes for å tilkalle ARC.",
     "pl": "Można przetworzyć na stop ARC. Można rzucić, aby wezwać ARC.",
     "pt": "Pode ser reciclado em liga ARC. Pode ser arremessado para chamar ARC.",
-    "pt-BR": "Pode ser reciclado em Liga ARC. Pode ser arremessado para chamar a ARC.",
+    "pt-BR": "Pode ser reciclado em Liga ARC. Pode ser arremessado para chamar ARC.",
     "ru": "Можно переработать в сплав ARC. Можно бросить, чтобы вызвать ARC.",
     "sr": "Može se reciklirati u ARC leguru. Može se baciti kako bi se pozvao ARC.",
     "tr": "ARC Alaşımına geri dönüştürülebilir. ARC çağırmak için fırlatılabilir.",
@@ -58,5 +58,5 @@
     "electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/snitch_scanner.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/13/2026"
 }

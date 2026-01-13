@@ -14,7 +14,7 @@
     "no": "Vepsdriver",
     "pl": "Napęd osy",
     "pt": "Propulsor de vespa",
-    "pt-BR": "Controlador de Vespa",
+    "pt-BR": "Propulsor de Vespa",
     "ru": "Драйвер Осы",
     "sr": "Osinjak",
     "tr": "Eşekarısı Sürücü",
@@ -36,7 +36,7 @@
     "no": "Kan resirkuleres til ARC-legering. Kan kastes og vil eksplodere hvis skutt.",
     "pl": "Może być przetworzony na stop ARC. Może być rzucony i wybuchnie, jeśli zostanie postrzelony.",
     "pt": "Pode ser reciclado em liga ARC. Pode ser arremessado e explodirá se for atingido.",
-    "pt-BR": "Pode ser reciclado em Liga ARC. Pode ser arremessado e explodirá se for alvejado.",
+    "pt-BR": "Pode ser reciclado em liga ARC. Pode ser arremessado e explodirá se for atingido.",
     "ru": "Можно переработать в сплав ARC. Можно бросить, взорвётся при попадании.",
     "sr": "Može se reciklirati u ARC leguru. Može se baciti i eksplodiraće ako se pogodi.",
     "tr": "ARC Alaşımına geri dönüştürülebilir. Fırlatılabilir ve vurulursa patlar.",
@@ -106,6 +106,6 @@
     "electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/13/2026",
   "tip": "The Wasp Driver is a rare item is dropped by Wasps that can be recycled into crafting materials."
 }

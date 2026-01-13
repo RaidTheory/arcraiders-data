@@ -14,7 +14,7 @@
     "no": "Fjernkontrollert raider-bluss",
     "pl": "Zdalna flara najeźdźcy",
     "pt": "Sinalizador de invasor remoto",
-    "pt-BR": "Sinalizador Remoto de Raider",
+    "pt-BR": "Sinalizador de Combatente Remoto",
     "ru": "Устройство дистанционного пуска рейдерской ракеты",
     "sr": "Dalјinska Raider Raketa",
     "tr": "Uzaktan Akıncı İşaret Fişeği",
@@ -36,7 +36,7 @@
     "no": "En utplasserbar enhet som, når den utløses manuelt, avfyrer et raider-nødbluss.",
     "pl": "Urządzenie do rozmieszczenia, które po ręcznym uruchomieniu wystrzeliwuje flarę wzywającą najeźdźców.",
     "pt": "Um dispositivo implantável que, quando acionado manualmente, lança um sinalizador de socorro de invasor.",
-    "pt-BR": "Um dispositivo implantável que, quando acionado manualmente, lança um Sinalizador de Socorro de Raider.",
+    "pt-BR": "Dispositivo portátil que lança um sinalizador de socorro de Combatente ao ser acionado manualmente.",
     "ru": "Устройство, которое при ручной активации запускает сигнальную ракету бедствия рейдера.",
     "sr": "Uređaj za postavljanje koji, kada se ručno aktivira, ispaljuje Raider raketu za pomoć.",
     "tr": "Manuel olarak tetiklendiğinde Akıncı Tehlike İşaret Fişeği fırlatılan konuşlandırılabilir bir cihaz.",
@@ -62,5 +62,5 @@
     "chemicals": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/remote_raider_flare.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/13/2026"
 }

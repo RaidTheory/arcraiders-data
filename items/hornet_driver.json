@@ -14,7 +14,7 @@
     "no": "Vepsedriver",
     "pl": "Napęd szerszenia",
     "pt": "Propulsor de vespa",
-    "pt-BR": "Hornet Driver",
+    "pt-BR": "Propulsor de Vespa",
     "ru": "Драйвер Шершня",
     "sr": "Stršljenov Pogon",
     "tr": "Eşekarısı Sürücüsü",
@@ -66,7 +66,7 @@
       "no": "ARC-bedøvelsesvarighet",
       "pl": "Czas trwania ogłuszenia ARC",
       "pt": "Duração de atordoamento ARC",
-      "pt-BR": "Duração de Atordoamento em ARC",
+      "pt-BR": "Duração de Atordoamento ARC",
       "ru": "Длительность оглушения ARC",
       "sr": "Trajanje ARC Omamljivanja",
       "tr": "ARC Sersemletme Süresi",
@@ -112,7 +112,7 @@
       "no": "Raider-bedøvelsesvarighet",
       "pl": "Czas trwania ogłuszenia najeźdźcy",
       "pt": "Duração de atordoamento de saqueador",
-      "pt-BR": "Duração de Atordoamento em Raider",
+      "pt-BR": "Duração de Atordoamento de Combatente",
       "ru": "Длительность оглушения рейдера",
       "sr": "Trajanje Omamljivanja Pljačkaša",
       "tr": "Akıncı Sersemletme Süresi",
@@ -129,6 +129,6 @@
     "electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/hornet_driver.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "01/13/2026",
   "tip": "The Hornet Driver is a rare item is dropped by Hornets that can be recycled into crafting materials."
 }
