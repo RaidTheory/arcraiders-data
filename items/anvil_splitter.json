@@ -41,7 +41,7 @@
     "sr": "Tehnički mod za Nakovanj koji zamenjuje njegove metke onima koji se dele na 4 slabija projektila.",
     "tr": "Örs için mermilerini 4 zayıf mermiye bölünen mermilerle değiştiren teknoloji modu.",
     "uk": "Технологічна модифікація для Ковадла, яка замінює його кулі на ті, що розділяються на 4 слабших снаряди.",
-    "zh-CN": "铁砧的科技模组，将其子弹替换为分裂成4个较弱弹体的子弹。",
+    "zh-CN": "一种适用于铁砧的科技改装，将其子弹替换为4颗威力较弱的分裂弹。",
     "zh-TW": "鐵砧的科技模組，將其子彈替換為分裂成4個較弱彈體的子彈。"
   },
   "type": "Modification",
@@ -69,7 +69,7 @@
       "sr": "Projektila po Pucnju",
       "tr": "Atış Başına Mermi",
       "uk": "Снарядів за постріл",
-      "zh-CN": "每次射击弹体数",
+      "zh-CN": "单发投射物数量",
       "zh-TW": "每次射擊彈體數"
     },
     "Reduced Projectile Damage": {
@@ -92,7 +92,7 @@
       "sr": "Smanjena Šteta Projektila",
       "tr": "Azaltılmış Mermi Hasarı",
       "uk": "Зменшена шкода снаряда",
-      "zh-CN": "弹体伤害降低",
+      "zh-CN": "投射物伤害减少",
       "zh-TW": "彈體傷害降低"
     }
   },

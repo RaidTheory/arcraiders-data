@@ -19,7 +19,7 @@
     "sr": "Arpeđo IV",
     "tr": "Arpej IV",
     "uk": "Арпеджіо IV",
-    "zh-CN": "琶音 IV",
+    "zh-CN": "三连奏 IV",
     "zh-TW": "琶音 IV"
   },
   "description": {
@@ -41,7 +41,7 @@
     "sr": "Ima pristojnu štetu i preciznost.",
     "tr": "Makul hasar çıkışı ve isabetliliğe sahiptir.",
     "uk": "Має пристойний урон та точність.",
-    "zh-CN": "拥有不错的伤害输出和精准度。",
+    "zh-CN": "具有不俗的伤害输出和精准度。",
     "zh-TW": "擁有不錯的傷害輸出和精準度。"
   },
   "type": "Assault Rifle",
@@ -116,7 +116,7 @@
       "sr": "Izdržljivost",
       "tr": "Dayanıklılık",
       "uk": "Міцність",
-      "zh-CN": "耐久度",
+      "zh-CN": "耐用性",
       "zh-TW": "耐久度"
     },
     "Firing Mode": {
@@ -162,7 +162,7 @@
       "sr": "Povećana brzina paljbe",
       "tr": "Artırılmış atış hızı",
       "uk": "Підвищена швидкість стрільби",
-      "zh-CN": "提高射速",
+      "zh-CN": "射速增加",
       "zh-TW": "提高射速"
     },
     "Magazine Size": {
@@ -208,7 +208,7 @@
       "sr": "Smanjeno vrijeme punjenja",
       "tr": "Azaltılmış yeniden doldurma süresi",
       "uk": "Скорочений час перезаряджання",
-      "zh-CN": "缩短装填时间",
+      "zh-CN": "装弹时间缩短",
       "zh-TW": "降低換彈時間"
     }
   },
