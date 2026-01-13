@@ -14,7 +14,7 @@
     "no": "ARC-bevegelseskjerne",
     "pl": "Rdzeń ruchu ARC",
     "pt": "Núcleo de movimento ARC",
-    "pt-BR": "Núcleo de Movimento ARC",
+    "pt-BR": "Núcleo Motriz ARC",
     "ru": "Движущее ядро ARC",
     "sr": "ARC Jezgro Pokreta",
     "tr": "ARC Hareket Çekirdeği",
@@ -36,7 +36,7 @@
     "no": "Oppnådd fra ARC-fiender eller aktiviteter. Brukes til å lage komponenter. Kan resirkuleres til ARC-legering. Brukes til å lage: Magnetisk akselerator",
     "pl": "Zdobywany z wrogów ARC lub aktywności. Używany do wytwarzania komponentów. Może być przetworzony na stop ARC. Używany do wytwarzania: Akcelerator magnetyczny",
     "pt": "Obtido de inimigos ARC ou atividades. Usado para fabricar componentes. Pode ser reciclado em liga ARC. Usado para fabricar: Acelerador magnético",
-    "pt-BR": "Obtido de inimigos ou atividades ARC. Usado para criar componentes. Pode ser reciclado em Liga ARC. Usado para criar: Acelerador Magnético",
+    "pt-BR": "Obtido de inimigos ARC ou atividades. Serve para fabricar componentes. Reciclar gera Liga ARC. Usado para fabricar: Munição de Lançador, Acelerador Magnético, Matilha de Lobos",
     "ru": "Получается с врагов ARC или из активностей. Используется для создания компонентов. Можно переработать в сплав ARC. Используется для создания: Магнитный ускоритель",
     "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Koristi se za izradu komponenti. Može se reciklirati u ARC Leguru. Koristi se za izradu: Magnetski Akcelerator",
     "tr": "ARC düşmanlarından veya aktivitelerden elde edilir. Bileşen üretiminde kullanılır. ARC Alaşımına geri dönüştürülebilir. Üretilebilir: Manyetik Hızlandırıcı",
@@ -61,5 +61,5 @@
     "arc_alloy": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/arc_motion_core.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/13/2026"
 }

@@ -14,7 +14,7 @@
     "no": "Ekko fra Victory Ridge",
     "pl": "Echa Victory Ridge",
     "pt": "Ecos de Victory Ridge",
-    "pt-BR": "Ecos de Victory Ridge",
+    "pt-BR": "Ecos da Crista da Vitória",
     "ru": "Отголоски Победного Хребта",
     "sr": "Odjeci Pobedničkog grebena",
     "tr": "Zafer Sırtı'nın Yankıları",
@@ -38,7 +38,7 @@
     "no": "Følte du noen rystelser i natt? Jeg heller ikke. Men tilsynelatende skiftet bakken på et tidspunkt, og i prosessen avdekket den en gammel First Wave-utpost som hadde vært blokkert av rusk. Jeg vil at du skal komme deg inn dit raskt, før noen andre gjør det.",
     "pl": "Czułeś jakieś wstrząsy zeszłej nocy? Ja też nie. Ale najwyraźniej grunt się przesunął w pewnym momencie i w procesie odkrył stary posterunek First Wave, który był zablokowany przez gruz. Chciałbym, żebyś szybko się tam dostał, zanim zrobi to ktoś inny.",
     "pt": "Sentiste algum tremor ontem à noite? Eu também não. Mas aparentemente o solo mudou em algum momento, e no processo desenterrou um velho posto avançado da First Wave que estava bloqueado por destroços. Gostaria que entrasses lá rapidamente, antes que mais alguém o faça.",
-    "pt-BR": "Sentiu algum tremor ontem à noite? Nem eu. Mas aparentemente o solo se deslocou em algum momento e, no processo, desenterrou um antigo posto avançado da Primeira Onda que estava bloqueado por escombros. Gostaria que você entrasse lá rápido, antes de qualquer outra pessoa.",
+    "pt-BR": "Sentiu algum tremor ontem à noite? Eu também não, mas parece que o chão se mexeu e, com isso, desenterrou um posto avançado antigo da Primeira Onda que estava bloqueado por destroços. Quero que você entre lá rápido, antes de qualquer um.",
     "ru": "Ты чувствовал какие-нибудь толчки прошлой ночью? Я тоже нет. Но, видимо, земля сдвинулась в какой-то момент, и в процессе это обнажило старый аванпост Первой Волны, который был заблокирован обломками. Я хочу, чтобы ты быстро туда попал, прежде чем это сделает кто-то другой.",
     "sr": "Da li si osetio neke potrese sinoć? Ni ja. Ali izgleda da se tlo pomerilo u nekom trenutku, i u tom procesu je otkrilo staru Prvu talas ispostavu koja je bila blokirana krhotinama. Želeo bih da uđeš tamo brzo, pre nego što to uradi neko drugi.",
     "tr": "Dün gece herhangi bir sarsıntı hissettin mi? Ben de hissetmedim. Ama görünüşe göre bir noktada yer kaymış ve bu süreçte enkaz tarafından kapatılmış eski bir İlk Dalga karakolu ortaya çıkmış. Başka biri gitmeden önce oraya hızlıca gitmenizi istiyorum.",
@@ -61,7 +61,7 @@
       "no": "Nå Victory Ridge",
       "pl": "Dotrzyj do Victory Ridge",
       "pt": "Alcance Victory Ridge",
-      "pt-BR": "Chegue a Victory Ridge",
+      "pt-BR": "Vá para a Crista da Vitória",
       "ru": "Добраться до Победного Хребта",
       "sr": "Stigni do Pobedničkog grebena",
       "tr": "Zafer Sırtı'na ulaş",
@@ -105,7 +105,7 @@
       "no": "Lever Major Alvas merke til Celeste",
       "pl": "Dostarcz naszywkę Majora Alvy do Celeste",
       "pt": "Entrega o distintivo do Major Alva a Celeste",
-      "pt-BR": "Entregue o Emblema da Major Alva para Celeste",
+      "pt-BR": "Entregue o Emblema da Major Aiva para Celeste",
       "ru": "Доставьте нашивку майора Альвы Селесте",
       "sr": "Dostavi zakrpu Majora Alve Celeste",
       "tr": "Binbaşı Alva'nın Yamasını Celeste'e teslim et",
@@ -131,5 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10o"],
   "nextQuestIds": ["ss10q"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

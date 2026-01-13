@@ -14,7 +14,7 @@
     "no": "Lukereparasjoner",
     "pl": "Naprawy włazów",
     "pt": "Reparos de escotilhas",
-    "pt-BR": "Reparos na Escotilha",
+    "pt-BR": "Reparos de Escotilha",
     "ru": "Ремонт люков",
     "sr": "Popravka Otvora",
     "tr": "Kapak Onarımları",
@@ -37,7 +37,7 @@
     "no": "Speiderene våre har rapportert flere Raider-luker med lekkende hydrauliske rør. De fungerer fortsatt, men ikke lenge. Kan du fikse en neste gang du er der ute?",
     "pl": "Nasi zwiadowcy zgłosili kilka włazów Najeźdźców z nieszczelnymi rurami hydraulicznymi. Wciąż działają, ale niedługo. Mógłbyś naprawić jeden, następnym razem gdy tam będziesz?",
     "pt": "Nossos batedores relataram várias escotilhas de Saqueadores com tubos hidráulicos vazando. Elas ainda funcionam, mas não por muito tempo. Você se importaria de consertar uma na próxima vez que estiver lá fora?",
-    "pt-BR": "Nossos batedores relataram várias Escotilhas de Raider com tubos hidráulicos vazando. Elas ainda funcionam, mas não por muito tempo. Se importa de consertar uma, na próxima vez que estiver lá fora?",
+    "pt-BR": "Nossos batedores relataram várias Escotilhas de Combatentes com vazamentos na tubulação hidráulica. Elas ainda funcionam, mas vão quebrar. Se importaria de consertar uma na próxima vez que estiver lá fora?",
     "ru": "Наши разведчики сообщили о нескольких люках рейдеров с протекающими гидравлическими трубами. Они еще работают, но недолго. Не мог бы ты починить один, когда в следующий раз будешь там?",
     "sr": "Naši izviđači su prijavili nekoliko Raider Otvora sa cevima hidraulike koje cure. Još uvek rade, ali ne još dugo. Možete li da zakrpite jedan, sledeći put kada budete tamo?",
     "tr": "Keşifçilerimiz hidrolik boruları sızdıran birkaç Yağmacı Kapağı bildirdi. Hala çalışıyorlar ama uzun süre değil. Bir dahaki sefere dışarıdayken birini tamir etmeye ne dersin?",
@@ -60,7 +60,7 @@
       "no": "Reparer de lekkende hydrauliske rørene nær en Raider-luke",
       "pl": "Napraw nieszczelne rury hydrauliczne w pobliżu włazu Najeźdźców",
       "pt": "Conserte os tubos hidráulicos vazando perto de uma escotilha de Saqueadores",
-      "pt-BR": "Conserte os tubos hidráulicos vazando perto de uma Escotilha de Raider",
+      "pt-BR": "Conserte o vazamento dos tubos hidráulicos perto de uma escotilha de Combatente",
       "ru": "Устраните утечку гидропровода у рейдерского люка",
       "sr": "Popravite cevi hidraulike koje cure blizu Raider Otvora",
       "tr": "Bir Yağmacı Kapağının yakınındaki sızdıran hidrolik boruları onar",
@@ -82,5 +82,5 @@
   "xp": 0,
   "previousQuestIds": ["ss5"],
   "nextQuestIds": ["ss6"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

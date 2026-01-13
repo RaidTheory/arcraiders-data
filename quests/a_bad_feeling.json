@@ -14,7 +14,7 @@
     "no": "En dårlig følelse",
     "pl": "Złe przeczucie",
     "pt": "Um mau pressentimento",
-    "pt-BR": "Um Mau Pressentimento",
+    "pt-BR": "Mal pressentimento",
     "ru": "Дурное предчувствие",
     "sr": "Loš Predosećaj",
     "tr": "Kötü Bir His",
@@ -37,7 +37,7 @@
     "no": "Selv den minste endringen i ARCs oppførsel kan bety katastrofe. Og det signalet du fanget opp? Vi har aldri avlyttet noe slikt før. Hvis de planlegger noe, må vi finne ut hva det er.",
     "pl": "Nawet najmniejsza zmiana w zachowaniu ARC może oznaczać katastrofę. A ten sygnał, który przechwyciliście? Nigdy wcześniej nie przechwyciliśmy czegoś takiego. Jeśli coś planują, musimy dowiedzieć się, co to jest.",
     "pt": "Até a menor mudança no comportamento da ARC pode significar uma catástrofe. E esse sinal que você captou? Nunca interceptamos algo assim antes. Se eles estão planejando algo, temos que descobrir o que é.",
-    "pt-BR": "Até a menor mudança no comportamento das ARC pode significar uma catástrofe. E aquele sinal que você captou? Nunca interceptamos nada parecido antes. Se elas estiverem planejando algo, temos que descobrir o que é.",
+    "pt-BR": "Qualquer mínima mudança no comportamento das ARCs pode significar um desastre. Sabe o sinal que você ouviu? Nunca captamos algo do tipo. Se elas estão tramando algo, temos que descobrir o que é.",
     "ru": "Даже малейшее изменение в поведении ARC может означать катастрофу. А тот сигнал, который ты перехватил? Мы никогда раньше не перехватывали ничего подобного. Если они что-то замышляют, мы должны выяснить, что именно.",
     "sr": "Čak i najmanja promena u ponašanju ARC-a može da znači katastrofu. A onaj signal koji si uhvatio? Nikada ranije nismo presreli nešto slično. Ako nešto planiraju, moramo da saznamo šta je to.",
     "tr": "ARC'nin davranışındaki en küçük değişiklik bile felakete yol açabilir. Peki ya yakaladığın o sinyal? Daha önce böyle bir şeyi hiç ele geçirmedik. Eğer bir şey planlıyorlarsa, bunun ne olduğunu öğrenmemiz gerek.",
@@ -60,7 +60,7 @@
       "no": "Finn og søk gjennom en hvilken som helst ARC-sonde eller ARC-kurer",
       "pl": "Znajdź i przeszukaj dowolną sondę ARC lub kuriera ARC",
       "pt": "Encontre e reviste qualquer sonda ARC ou mensageiro ARC",
-      "pt-BR": "Encontre e vasculhe qualquer Sonda ARC ou Mensageiro ARC",
+      "pt-BR": "Encontre e vasculhe qualquer Sonda ARC ou Emissário ARC",
       "ru": "Найдите и обыщите любой зонд ARC или доставщик ARC",
       "sr": "Pronađite i pretražite bilo koju ARC Sondu ili ARC Kurira",
       "tr": "Herhangi bir ARC Sondası veya ARC Kuryesi bul ve ara",
@@ -86,5 +86,5 @@
   "xp": 0,
   "previousQuestIds": ["ss4"],
   "nextQuestIds": ["ss5a", "ss7", "ss8", "12_in_my_image"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

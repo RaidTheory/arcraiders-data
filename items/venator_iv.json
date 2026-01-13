@@ -65,7 +65,7 @@
       "no": "Ammunisjonstype",
       "pl": "Typ amunicji",
       "pt": "Tipo de munição",
-      "pt-BR": "Tipo de munição",
+      "pt-BR": "Tipo de Munição",
       "ru": "Тип патронов",
       "sr": "Vrsta Streljiva",
       "tr": "Mermi Türü",
@@ -134,7 +134,7 @@
       "no": "Skyttemodus",
       "pl": "Tryb ognia",
       "pt": "Modo de disparo",
-      "pt-BR": "Modo de disparo",
+      "pt-BR": "Modo de Disparo",
       "ru": "Режим стрельбы",
       "sr": "Način Pucanja",
       "tr": "Atış Modu",
@@ -157,7 +157,7 @@
       "no": "Økt skuddtakt",
       "pl": "Zwiększona szybkostrzelność",
       "pt": "Taxa de disparo aumentada",
-      "pt-BR": "Cadência de Tiro Aumentada",
+      "pt-BR": "Aumento na Cadência de Tiro",
       "ru": "Повышенная скорострельность",
       "sr": "Povećana brzina paljbe",
       "tr": "Artırılmış atış hızı",
@@ -203,7 +203,7 @@
       "no": "Redusert ladetid",
       "pl": "Skrócony czas przeładowania",
       "pt": "Tempo de recarga reduzido",
-      "pt-BR": "Tempo de Recarga Reduzido",
+      "pt-BR": "Redução no Tempo para Recarregar",
       "ru": "Сокращённое время перезарядки",
       "sr": "Smanjeno vrijeme punjenja",
       "tr": "Azaltılmış yeniden doldurma süresi",
@@ -226,7 +226,7 @@
       "no": "Spesiell egenskap",
       "pl": "Cecha specjalna",
       "pt": "Característica especial",
-      "pt-BR": "Característica especial",
+      "pt-BR": "Atributo Especial",
       "ru": "Особая черта",
       "sr": "Posebna Osobina",
       "tr": "Özel Özellik",
@@ -248,5 +248,5 @@
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/13/2026"
 }

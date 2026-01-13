@@ -14,7 +14,7 @@
     "no": "Utløsergranattegning",
     "pl": "Projekt granatu wyzwalającego",
     "pt": "Projeto de granada de ativação",
-    "pt-BR": "Projeto da Granada de Detonação",
+    "pt-BR": "Esquema de Granada de Gatilho",
     "ru": "Чертеж — Триггер-граната",
     "sr": "Nacrt Trigger Nade",
     "tr": "Tetiklemeli Bomba Planı",
@@ -36,7 +36,7 @@
     "no": "En fjerndetonert granat som kan feste seg til overflater og ARC, og gir eksplosiv skade når den utløses.",
     "pl": "Granat zdalnie detonowany, który może przyczepić się do powierzchni i ARC, zadając obrażenia wybuchowe po aktywacji.",
     "pt": "Uma granada de detonação remota que pode grudar em superfícies e ARC, causando dano explosivo quando acionada.",
-    "pt-BR": "Uma granada de detonação remota que pode aderir a superfícies e aos ARC, causando dano explosivo quando acionada.",
+    "pt-BR": "Uma granada de detonação remota que pode grudar em superfícies e ARC, causando dano explosivo quando acionada.",
     "ru": "Граната с дистанционным взрывом, которая прилипает к поверхностям и ARC, нанося взрывной урон при активации.",
     "sr": "Daljinski aktivirana granata koja se može zalepiti na površine i ARC, nanoseći eksplozivnu štetu kada se aktivira.",
     "tr": "Yüzeylere ve ARC'ye yapışabilen, tetiklendiğinde patlayıcı hasar veren uzaktan patlatmalı el bombası.",
@@ -50,5 +50,5 @@
   "weightKg": 0,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/trigger_nade_blueprint.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "01/13/2026"
 }

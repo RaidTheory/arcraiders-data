@@ -14,7 +14,7 @@
     "no": "Gassmine-tegning",
     "pl": "Projekt Mina gazowa",
     "pt": "Projeto de Mina de gás",
-    "pt-BR": "Projeto de Mina de Gás",
+    "pt-BR": "Esquema de Mina Saltadora: Dano Contínuo ao Vigor",
     "ru": "Чертеж — Газовая мина",
     "sr": "Gasna mina Nacrt",
     "tr": "Gaz Mayını Planı",
@@ -36,7 +36,7 @@
     "no": "En nærhetsaktivert mine som spretter opp og utløser en gassky som raskt tømmer utholdenhet.",
     "pl": "Mina aktywowana zbliżeniem, która wyskakuje i uwalnia chmurę gazu szybko wyczerpującego wytrzymałość.",
     "pt": "Uma mina ativada por proximidade que surge e libera uma nuvem de gás que drena rapidamente a stamina.",
-    "pt-BR": "Uma mina acionada por proximidade que salta e libera uma nuvem de gás que drena estamina rapidamente.",
+    "pt-BR": "Uma mina ativada por proximidade que surge e libera uma nuvem de gás que drena rapidamente o vigor.",
     "ru": "Мина с датчиком приближения, которая выскакивает и выпускает облако газа, быстро истощающее выносливость.",
     "sr": "Mina aktivirana blizinom koja iskoči i oslobađa oblak gasa koji brzo iscrpljuje izdržljivost.",
     "tr": "Yakınlık tetiklemeli bir mayın, fırlayarak dayanıklılığı hızla tüketen bir gaz bulutu yayar.",
@@ -49,5 +49,5 @@
   "value": 5000,
   "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
-  "updatedAt": "12/25/2025"
+  "updatedAt": "01/13/2026"
 }

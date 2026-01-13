@@ -54,7 +54,7 @@
     "no": "Jeg vet, jeg vet! Strømmen er nede i sektoren— Å, hei. En flom tok ut noen av solpanelene våre i den begravde byen, og generatorene holder bare så lenge. Gjør oss alle en tjeneste når du er der oppe, OK?",
     "pl": "Wiem, wiem! Prąd padł w sektorze— Och, hej. Gwałtowna powódź zniszczyła niektóre nasze panele słoneczne w Pogrzebanym Mieście, a generatory wytrzymają tylko przez pewien czas. Wyświadcz nam wszystkim przysługę, kiedy tam będziesz, dobrze?",
     "pt": "Eu sei, eu sei! A energia está fora no setor— Ah, oi. Uma enchente repentina destruiu alguns dos nossos painéis solares na cidade enterrada, e os geradores só aguentam por tanto tempo. Faça-nos um favor quando estiver lá em cima, OK?",
-    "pt-BR": "Eu sei, eu sei! A energia caiu no setor— Ah, oi. Uma inundação repentina acabou com alguns dos nossos painéis solares em Buried City, e os geradores só aguentam por um tempo. Quebra esse galho pra gente quando estiver lá em cima, beleza?",
+    "pt-BR": "Eu sei, eu sei! A energia caiu no setor— Ah, oi. Uma enchente relâmpago atingiu alguns dos nossos painéis solares na Cidade Soterrada, e os geradores não estão mais dando conta. Quebra essa pra gente quando estiver lá em cima, beleza?",
     "ru": "Я знаю, я знаю! Электричество отключилось в секторе— О, привет. Внезапное наводнение уничтожило несколько наших солнечных панелей в Погребённом Городе, а генераторы продержатся недолго. Окажи нам всем услугу, когда будешь там, ладно?",
     "sr": "Znam, znam! Struja je pala u sektoru— O, hej. Bujica je uništila neke naše solarne panele u Zatrpanom Gradu, a generatori mogu da izdrže samo određeno vreme. Učini nam svima uslugu kad budeš tamo gore, OK?",
     "tr": "Biliyorum, biliyorum! Sektörde elektrik kesildi— Ah, hey. Ani bir sel, Gömülü Şehir'deki güneş panellerimizden bazılarını yok etti ve jeneratörler de ancak bu kadar dayanabilir. Oraya çıktığında hepimize bir iyilik yap, tamam mı?",
@@ -77,7 +77,7 @@
       "no": "Finn de oversvømte solpanelene i nærheten av Grandioso-leilighetene",
       "pl": "Znajdź zalane panele słoneczne w pobliżu apartamentów Grandioso",
       "pt": "Encontre os painéis solares inundados perto dos apartamentos Grandioso",
-      "pt-BR": "Encontre os painéis solares inundados perto dos Apartamentos Grandioso",
+      "pt-BR": "Encontre os painéis solares inundados perto do Condomínio Grandioso",
       "ru": "Найдите затопленные солнечные панели рядом с Grandioso Apartments",
       "sr": "Pronađi poplavljene solarne panele u blizini Grandioso Apartmana",
       "tr": "Grandioso Apartmanları yakınındaki sular altında kalan güneş panellerini bul",
@@ -126,5 +126,5 @@
   "previousQuestIds": ["ss10s"],
   "nextQuestIds": ["ss10x4"],
   "videoUrl": "https://youtu.be/jP__SkIV-9E",
-  "updatedAt": "11/23/2025"
+  "updatedAt": "01/13/2026"
 }

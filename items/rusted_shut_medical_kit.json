@@ -14,7 +14,7 @@
     "no": "Rustent lukket medisinsk sett",
     "pl": "Zardzewiały zestaw medyczny",
     "pt": "Kit médico enferrujado fechado",
-    "pt-BR": "Kit Médico Emperrado",
+    "pt-BR": "Kit Médico Enferrujado",
     "ru": "Аптечка со ржавым замком",
     "sr": "Zahrđali Zatvoreni Medicinski Komplet",
     "tr": "Paslanmış Tıbbi Kit",
@@ -36,7 +36,7 @@
     "no": "Et rustent medisinsk sett, innholdet er ukjent.",
     "pl": "Zardzewiały zestaw medyczny, jego zawartość jest nieznana.",
     "pt": "Um kit médico enferrujado fechado, seu conteúdo é desconhecido.",
-    "pt-BR": "Um kit médico emperrado pela ferrugem, com conteúdo desconhecido.",
+    "pt-BR": "Um kit médico enferrujado fechado, seu conteúdo é desconhecido.",
     "ru": "Заржавевшая аптечка, её содержимое неизвестно.",
     "sr": "Medicinski komplet zahrđao i zatvoren, sadržaj nepoznat.",
     "tr": "Paslanmış bir tıbbi kit, içeriği bilinmiyor.",
@@ -58,5 +58,5 @@
     "syringe": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/rusted_shut_medical_kit.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/13/2026"
 }

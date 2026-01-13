@@ -38,7 +38,7 @@
     "no": "Noen har stjålet forsyninger fra mitt avleveringssted i Buried City. Jeg har satt opp en felle, men jeg trenger noen til å sjekke den for meg.",
     "pl": "Ktoś kradnie zapasy z mojego punktu zrzutu w Buried City. Zastawiłem pułapkę, ale potrzebuję kogoś, kto ją dla mnie sprawdzi.",
     "pt": "Alguém está roubando suprimentos do meu ponto de entrega em Cidade Enterrada. Preparei uma armadilha, mas preciso que alguém a verifique para mim.",
-    "pt-BR": "Alguém tem roubado suprimentos do meu ponto de entrega na Cidade Enterrada. Preparei uma armadilha, mas preciso que alguém a verifique para mim.",
+    "pt-BR": "Alguém anda surrupiando suprimentos do meu ponto de entrega em Cidade Soterrada. Botei uma armadilha, mas preciso de alguém para conferir para mim.",
     "ru": "Кто-товорует припасы из моей точки сброса в Погребённом Городе. Я установил ловушку, но мне нужен кто-то, чтобы проверить её.",
     "sr": "Neko je krao zalihe sa mog mesta za dostavu u Zakopanom Gradu. Postavio sam zamku, ali mi treba neko da je proveri.",
     "tr": "Biri Gömülü Şehir'deki teslimat noktamdan malzeme çalıyor. Bir tuzak kurdum ama benim için kontrol edecek birine ihtiyacım var.",
@@ -61,7 +61,7 @@
       "no": "Nå Su Durante-lagrene i utkanten av Buried City",
       "pl": "Dotrzyj do magazynów Su Durante na obrzeżach Buried City",
       "pt": "Alcance os armazéns Su Durante nos arredores de Cidade Enterrada",
-      "pt-BR": "Chegue aos Armazéns Su Durante nos Arredores da Cidade Enterrada",
+      "pt-BR": "Vá até os Armazéns Su Durante nos arredores de Cidade Soterrada",
       "ru": "Добраться до складов Су Дуранте на окраине Погребённого Города",
       "sr": "Stigni do Su Durante Skladišta u Predgrađu u Zakopanom Gradu",
       "tr": "Gömülü Şehir'in Varoşlarındaki Su Durante Depolarına ulaş",
@@ -83,7 +83,7 @@
       "no": "Søk etter Tian Wens gjemmested nær lagrene",
       "pl": "Poszukaj skrytki Tian Wen w pobliżu magazynów",
       "pt": "Procure pelo esconderijo de Tian Wen perto dos armazéns",
-      "pt-BR": "Procure pelo esconderijo de Tian Wen perto dos Armazéns",
+      "pt-BR": "Procurar o esconderijo de Tian Wen perto dos armazéns",
       "ru": "Найти тайник Тянь Веня рядом со складами",
       "sr": "Traži Tian Wen-ovu ostavu blizu Skladišta",
       "tr": "Depoların yakınında Tian Wen'in zulasını ara",
@@ -127,5 +127,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10h"],
   "nextQuestIds": ["ss10l"],
-  "updatedAt": "11/23/2025"
+  "updatedAt": "01/13/2026"
 }

@@ -14,7 +14,7 @@
     "no": "Bytte forsyningen",
     "pl": "Zmiana zaopatrzenia",
     "pt": "Mudar o Abastecimento",
-    "pt-BR": "Desviando o Abastecimento",
+    "pt-BR": "Troca de Suprimentos",
     "ru": "Переключение снабжения",
     "sr": "Promena Snabdevanja",
     "tr": "Tedariki Değiştirme",
@@ -38,7 +38,7 @@
     "no": "Det er et reservoar under romhavnen; hvis vi klarer å lede vannet hit, bør det gi oss tid til å håndtere forurensningen.",
     "pl": "Pod Portem Kosmicznym znajduje się zbiornik; jeśli uda nam się przekierować tę wodę tutaj, to powinno dać nam czas na zajęcie się skażeniem.",
     "pt": "Há um reservatório sob o Espaçoporto; se conseguirmos desviar essa água para cá, isso deve dar-nos tempo para lidar com a contaminação.",
-    "pt-BR": "Há um reservatório sob o Espaçoporto; se conseguirmos desviar essa água para cá, isso deve nos dar tempo para lidar com a contaminação.",
+    "pt-BR": "Há um reservatório embaixo do Espaçoporto. Se conseguirmos desviar a água para cá, vamos ganhar tempo para lidar com a contaminação.",
     "ru": "Под космопортом есть резервуар; если нам удастся перенаправить ту воду сюда, это даст нам время разобраться с заражением.",
     "sr": "Postoji rezervoar ispod Svemirske Luke; ako uspemo da preusmerimo tu vodu ovde, to bi trebalo da nam kupi vreme da se pozabavimo kontaminacijom.",
     "tr": "Uzay Limanı'nın altında bir rezervuar var; eğer o suyu buraya yönlendirmeyi başarırsak, kirlenmeyle başa çıkmak için bize zaman kazandırır.",
@@ -109,5 +109,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x6"],
   "nextQuestIds": ["ss10x8"],
-  "updatedAt": "11/23/2025"
+  "updatedAt": "01/13/2026"
 }

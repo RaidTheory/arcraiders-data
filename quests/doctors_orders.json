@@ -14,7 +14,7 @@
     "no": "Doktorens ordre",
     "pl": "Rozkazy doktora",
     "pt": "Ordens do doutor",
-    "pt-BR": "Ordens do Médico",
+    "pt-BR": "Recomendaçöes do Médico",
     "ru": "Указания врача",
     "sr": "Doktorova Naredba",
     "tr": "Doktorun Emirleri",
@@ -55,7 +55,7 @@
     "no": "Hør her, nybegynner: hvis du vil at jeg skal behandle deg, må du bevise at de dyrebare lemmene dine er verdt å bandasjere.",
     "pl": "Słuchaj, nowicjuszu: jeśli chcesz, żebym cię leczył, lepiej udowodnij, że te twoje cenne kończyny są warte bandażowania.",
     "pt": "Olha, novato: se você quer que eu te trate, é melhor provar que esses membros preciosos seus valem a pena serem enfaixados.",
-    "pt-BR": "Escuta, novato: se quiser que eu te trate, é melhor provar que esses seus membros preciosos valem a pena enfaixar.",
+    "pt-BR": "Olha, recruta: se quiser que eu te trate, vai ter que provar que vale a pena enfaixar esses membros de que você tanto gosta.",
     "ru": "Слушай, новичок: если хочешь, чтобы я тебя лечил, лучше докажи, что эти твои драгоценные конечности стоят того, чтобы их бинтовать.",
     "sr": "Slušaj, pridošlice: ako želiš da te lečim, bolje dokaži da tvoji dragoceni udovi zaslužuju zavoj.",
     "tr": "Bak çaylak: seni tedavi etmemi istiyorsan, o değerli uzuvlarının sargıya değer olduğunu kanıtlasan iyi olur.",
@@ -144,7 +144,7 @@
       "no": "Skaff 1 kongslys",
       "pl": "Zdobądź 1 dziewannę",
       "pt": "Obtenha 1 verbasco",
-      "pt-BR": "Obtenha 1 Verbasco",
+      "pt-BR": "Obtenha 1 Grande Verbasco",
       "ru": "Получить 1 Коровяк",
       "sr": "Pribavi 1 Veliki Divizam",
       "tr": "1 Sığırkuyruğu edin",
@@ -170,5 +170,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10a"],
   "nextQuestIds": ["ss10f"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

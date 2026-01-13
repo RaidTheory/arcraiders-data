@@ -14,7 +14,7 @@
     "no": "Knips og salv",
     "pl": "Fotka i złom",
     "pt": "Clique e Sucata",
-    "pt-BR": "Fotografar e Coletar",
+    "pt-BR": "Registro e Resgate",
     "ru": "Фотогеничные детали",
     "sr": "Slikaj i Spasi",
     "tr": "Çek ve Kurtar",
@@ -49,7 +49,7 @@
     "no": "Hele Speranza summer om Stella Montis akkurat nå, og jeg må innrømme at det har vekket interessen min. La de andre finne ut av hva og hvordan; jeg er interessert i teknologien der inne.",
     "pl": "Cała Speranza huczy teraz o Stella Montis i przyznam, że wzbudziło to moją ciekawość. Niech inni martwią się o to, co i jak; mnie interesuje technologia w środku.",
     "pt": "Toda Speranza só fala de Stella Montis neste momento, e admito que chamou minha atenção. Deixe que os outros descubram o quê e o como; eu estou de olho é na tecnologia lá dentro.",
-    "pt-BR": "Speranza inteira está falando sobre Stella Montis agora, e admito que chamou minha atenção. Deixe os outros resolverem os porquês e comos; estou interessado na tecnologia lá dentro.",
+    "pt-BR": "Só se fala de Stella Montis em Speranza. Admito que fiquei curiosa também. Enquanto os outros se preocupam com o resto dos detalhes, eu quero é saber da tecnologia que tem lá dentro.",
     "ru": "Вся Сперанца сейчас гудит из-за Стелла Монтис, и признаюсь, это привлекло моё внимание. Пусть другие разбираются, что там и почему; меня интересуют технологии внутри.",
     "sr": "Cela Speranza bruji o Stela Montisu ovih dana, i moram da priznam da je privukao i moju pažnju. Neka se drugi bave time šta je i kako je; mene zanima tehnologija unutra.",
     "tr": "Şu anda tüm Speranza, Stella Montis hakkında konuşuyor ve kabul etmeliyim ki benim de ilgimi çekti. Neyin ne olduğunu başkaları çözsün; beni ilgilendiren içerideki teknoloji.",
@@ -72,7 +72,7 @@
       "no": "Ta et bilde av en av roverne i Sandbox-området",
       "pl": "Zrób zdjęcie jednemu z łazików na poligonie",
       "pt": "Tire uma foto de qualquer um dos Rovers no Sandbox",
-      "pt-BR": "Tire uma foto de qualquer um dos Rovers em Sandbox",
+      "pt-BR": "Tire uma foto de qualquer um dos robôs exploradores na Área de Testes",
       "ru": "Сфотографируйте самоходного робота в песочнице",
       "sr": "Fotografiši bilo koji od rovera u Sandboxu",
       "tr": "Kum Havuzu'ndaki gezicilerden herhangi birinin fotoğrafını çek",
@@ -94,7 +94,7 @@
       "no": "Søk gjennom papirene i sikkerhetskontrollrommet ved lobbyen",
       "pl": "Przeszukaj papiery w pokoju punktu kontrolnego bezpieczeństwa przy holu",
       "pt": "Revide os papéis na sala do Posto de Segurança ao lado do Lobby",
-      "pt-BR": "Vasculhe os papéis na sala do Ponto de Controle de Segurança perto do Lobby",
+      "pt-BR": "Procure os papéis na sala do Posto de Segurança perto do Saguão",
       "ru": "Найдите бумаги в помещении контрольного пункта охраны у лобби",
       "sr": "Pretraži papire u sobi Sigurnosne Kontrolne Tačke pored lobija",
       "tr": "Lobinin yanındaki Güvenlik Kontrol odasındaki evrakları ara",
@@ -168,5 +168,5 @@
   "xp": 0,
   "previousQuestIds": ["12_cold_storage"],
   "nextQuestIds": [],
-  "updatedAt": "11/23/2025"
+  "updatedAt": "01/13/2026"
 }

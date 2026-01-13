@@ -36,7 +36,7 @@
     "no": "Noe forteller deg at du ikke vil åpne dette... Kan (motvillig) konsumeres for å gjenopprette små mengder utholdenhet.",
     "pl": "Coś ci mówi, że nie chcesz tego otwierać... Można (niechętnie) spożyć, aby przywrócić niewielkie ilości wytrzymałości.",
     "pt": "Algo lhe diz que você não quer abrir isso... Pode (relutantemente) ser consumido para restaurar pequenas quantidades de stamina.",
-    "pt-BR": "Algo lhe diz que você não quer abrir isso... Pode ser consumido (a contragosto) para restaurar uma pequena quantidade de estamina.",
+    "pt-BR": "Algo lhe diz que você não quer abrir isso... Pode (relutantemente) ser consumido para restaurar pequenas quantidades de vigor.",
     "ru": "Что-то подсказывает, что ты не хочешь это открывать... Можно (неохотно) употребить для восстановления небольшого количества выносливости.",
     "sr": "Nešto ti govori da ne želiš da otvoriš ovo... Može se (nevoljno) konzumirati za obnovu male količine izdržljivosti.",
     "tr": "Bir şey sana bunu açmak istemediğini söylüyor... Küçük miktarda dayanıklılık yenilemek için (isteksizce) tüketilebilir.",
@@ -66,7 +66,7 @@
       "no": "Utholdenhet",
       "pl": "Wytrzymałość",
       "pt": "Stamina",
-      "pt-BR": "Estamina",
+      "pt-BR": "Vigor",
       "ru": "Выносливость",
       "sr": "Izdržljivost",
       "tr": "Dayanıklılık",
@@ -99,5 +99,5 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/bloated_tuna_can.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "01/13/2026"
 }

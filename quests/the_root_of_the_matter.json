@@ -14,7 +14,7 @@
     "no": "Roten til problemet",
     "pl": "Sedno sprawy",
     "pt": "A raiz da questão",
-    "pt-BR": "A Raiz da Questão",
+    "pt-BR": "Raíz do Problema",
     "ru": "Корень проблемы",
     "sr": "Корен проблема",
     "tr": "Meselenin Özü",
@@ -38,7 +38,7 @@
     "no": "Vi har flaks. Notatene du fant sist gang ble skrevet av hovedforskeren. Da prosjektet gikk under, ser det ut til at hun tok noen av frøprøvene og forseglet dem på et sikkert sted.",
     "pl": "Mamy szczęście. Notatki, które znalazłeś ostatnim razem, zostały napisane przez główną badaczkę. Kiedy projekt upadł, wygląda na to, że zabrała część próbek nasion i zapieczętowała je w bezpiecznym miejscu.",
     "pt": "Temos sorte. As notas que encontraste da última vez foram escritas pela investigadora principal. Quando o projeto foi abaixo, parece que ela levou algumas das amostras de sementes e selou-as num local seguro.",
-    "pt-BR": "Estamos com sorte. As anotações que você encontrou da última vez foram escritas pela pesquisadora-chefe. Quando o projeto fracassou, parece que ela pegou algumas amostras de sementes e as selou em um local seguro.",
+    "pt-BR": "Demos sorte. As notas que você enmcontrou na última vez foram escritas pela pesquisadora-chefe. Quando o projeto foi abandonado, parece que ela levou algumas das amostras de sementes e as trancou num local seguro.",
     "ru": "Нам повезло. Записи, которые вы нашли в прошлый раз, были написаны главным исследователем. Когда проект закрыли, похоже, она взяла несколько образцов семян и запечатала их в безопасном месте.",
     "sr": "Имамо среће. Белешке које сте пронашли прошли put написала је главна истраживачица. Када је пројекат пропао, изгледа да је узела неке узорке семена и запечатила их на сигурном месту.",
     "tr": "Şanslıyız. Geçen sefer bulduğunuz notlar baş araştırmacı tarafından yazılmış. Proje iptal edildiğinde, tohum örneklerinden bazılarını alıp güvenli bir yere mühürlemiş gibi görünüyor.",
@@ -61,7 +61,7 @@
       "no": "Gå til Forskningsbygningen",
       "pl": "Udaj się do Budynku Badawczego",
       "pt": "Vai ao Edifício de Investigação",
-      "pt-BR": "Vá para o Prédio de Pesquisa",
+      "pt-BR": "Vá para o Edifício de Pesquisa",
       "ru": "Отправляйтесь в Исследовательское здание",
       "sr": "Идите до Истраживачке зграде",
       "tr": "Araştırma Binasına git",
@@ -83,7 +83,7 @@
       "no": "Søk etter frøhvelvet i \"rommet med flott utsikt\"",
       "pl": "Poszukaj skarbca nasion w \"pokoju ze wspaniałym widokiem\"",
       "pt": "Procura o cofre de sementes na \"sala com uma ótima vista\"",
-      "pt-BR": "Procure pelo cofre de sementes na \"sala com uma ótima vista\"",
+      "pt-BR": "Procura o cofre de sementes na \"sala com uma vista maravilhosa\"",
       "ru": "Ищите хранилище семян в \"комнате с прекрасным видом\"",
       "sr": "Потражите трезор са семеном у \"соби са прелепим погледом\"",
       "tr": "\"Harika manzaralı odada\" tohum kasasını ara",
@@ -127,5 +127,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x2"],
   "nextQuestIds": ["ss10x4"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

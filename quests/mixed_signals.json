@@ -14,7 +14,7 @@
     "no": "Blandede signaler",
     "pl": "Mieszane sygnały",
     "pt": "Sinais misturados",
-    "pt-BR": "Sinais Mistos",
+    "pt-BR": "Sinais Confusos",
     "ru": "Смешанный сигнал",
     "sr": "Mešoviti Signali",
     "tr": "Karışık Sinyaller",
@@ -54,7 +54,7 @@
     "no": "Har du sett noen Landmålere; de store runde? De ser ut til å overføre data tilbake til bane, og jeg kan ikke la være å tenke at det er knyttet til det signalet vi fanget opp. Vil du åpne en, slik at vi kan prøve å tyde dataene?",
     "pl": "Widziałeś jakieś Geodety; te duże, okrągłe? Wydają się przesyłać dane z powrotem na orbitę, i nie mogę przestać myśleć, że to związane z tym sygnałem, który przechwyciliśmy. Czy mógłbyś otworzyć jeden, żebyśmy mogli spróbować odszyfrować dane?",
     "pt": "Você viu algum Topógrafo; aqueles grandes e redondos? Eles parecem estar transmitindo dados de volta para a órbita, e não consigo deixar de pensar que está ligado àquele sinal que captamos. Você poderia abrir um, para que possamos tentar decifrar os dados?",
-    "pt-BR": "Você avistou algum Surveyor; aqueles grandes e redondos? Eles parecem estar transmitindo dados de volta para a órbita, e não consigo deixar de pensar que isso está ligado àquele sinal que captamos. Você pode abrir um deles, para que possamos tentar decifrar os dados?",
+    "pt-BR": "Já viu algum Inspetor, daqueles grandalhões e redondos? Parecem que estão transmitindo dados de volta para a órbita, e suspeito que isso tem a ver com aquele sinal que captamos. Pode abrir um deles pra gente tentar decifrar os dados?",
     "ru": "Ты видел Геодезистов; таких больших круглых? Похоже, они передают данные на орбиту, и я не могу отделаться от мысли, что это связано с тем сигналом, который мы перехватили. Вскроешь одного, чтобы мы могли попытаться расшифровать данные?",
     "sr": "Da li si primetio neke Istraživače; one velike okrugle? Izgleda da prenose podatke nazad u orbitu, i ne mogu a da ne pomislim da je to povezano sa onim signalom koji smo uhvatili. Hoćeš li razbiti jednog, da možemo pokušati da dešifrujemo podatke?",
     "tr": "Hiç Surveyor gördün mü; şu büyük yuvarlak olanlardan? Yörüngeye veri iletiyorlar gibi görünüyor ve yakaladığımız sinyalle bağlantılı olduğunu düşünmeden edemiyorum. Birini parçalayıp veriyi çözmeyi deneyebilir miyiz?",
@@ -77,7 +77,7 @@
       "no": "Ødelegg en ARC-landmåler",
       "pl": "Zniszcz Geodetę ARC",
       "pt": "Destrua um Topógrafo ARC",
-      "pt-BR": "Destrua um Surveyor ARC",
+      "pt-BR": "Destrua um Inspetor ARC",
       "ru": "Уничтожить ARC Геодезиста",
       "sr": "Uništi ARC Istraživača",
       "tr": "Bir ARC Surveyor'ı yok et",
@@ -99,7 +99,7 @@
       "no": "Skaff 1 landmålerhvelv",
       "pl": "Zdobądź 1 skarbiec Geodety",
       "pt": "Obtenha 1 cofre de Topógrafo",
-      "pt-BR": "Obtenha 1 Cofre de Surveyor",
+      "pt-BR": "Obtenha 1 cofre de Inspetor",
       "ru": "Добудьте 1 сейф «Наблюдателя»",
       "sr": "Pribavi 1 Trezor Istraživača",
       "tr": "1 Surveyor Kasası edin",
@@ -121,5 +121,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10b"],
   "nextQuestIds": [],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

@@ -14,7 +14,7 @@
     "no": "En balansert høst",
     "pl": "Zrównoważone żniwa",
     "pt": "Uma colheita equilibrada",
-    "pt-BR": "Uma Colheita Equilibrada",
+    "pt-BR": "Uma colheita balanceada",
     "ru": "Сбалансированный урожай",
     "sr": "Uravnotežena žetva",
     "tr": "Dengeli Hasat",
@@ -38,7 +38,7 @@
     "no": "Matproduksjonen vår er endelig nok til å dekke våre grunnleggende behov, men det vi virkelig trenger nå er variasjon. Jeg har et spor på noen landbruksforskning fra før den Første Bølgen. Er du med?",
     "pl": "Nasza produkcja żywności w końcu wystarcza, by zaspokoić nasze podstawowe potrzeby, ale to, czego naprawdę teraz potrzebujemy, to różnorodność. Mam trop dotyczący badań rolniczych sprzed Pierwszej Fali. Jesteś na pokładzie?",
     "pt": "A nossa produção de alimentos finalmente é suficiente para satisfazer as nossas necessidades básicas, mas o que realmente precisamos agora é de variedade. Tenho uma pista sobre uma pesquisa agrícola de antes da Primeira Onda. Estás dentro?",
-    "pt-BR": "Nossa produção de alimentos finalmente é suficiente para atender às nossas necessidades básicas, mas o que realmente precisamos agora é variedade. Tenho uma pista sobre uma pesquisa agrícola de antes da Primeira Onda. Você topa?",
+    "pt-BR": "A nossa produção de alimentos finalmente atende as nossas necessidades básicas, mas agora precisamos de variedade. Fiquei sabendo de uma pesquisa agrícola da época anterior a Primeira Onda. Tem interesse?",
     "ru": "Наше производство продовольствия наконец достаточно для удовлетворения базовых потребностей, но то, что нам действительно нужно сейчас — это разнообразие. У меня есть зацепка по сельскохозяйственным исследованиям времён до Первой Волны. Ты с нами?",
     "sr": "Naša proizvodnja hrane je konačno dovoljna da zadovolji naše osnovne potrebe, ali ono što nam sada stvarno treba je raznovrsnost. Imam trag o nekim poljoprivrednim istraživanjima od pre Prvog Talasa. Jesi li za?",
     "tr": "Gıda üretimimiz nihayet temel ihtiyaçlarımızı karşılayacak kadar yeterli, ama şu anda gerçekten ihtiyacımız olan şey çeşitlilik. Birinci Dalga'dan önceki bazı tarımsal araştırmalar hakkında bir ipucum var. Katılıyor musun?",
@@ -83,7 +83,7 @@
       "no": "Finn Lab 1 på øverste etasje over resepsjonen",
       "pl": "Zlokalizuj Laboratorium 1 na górnym piętrze nad recepcją",
       "pt": "Localiza o Laboratório 1 no piso superior acima da receção",
-      "pt-BR": "Localize o Lab 1 no andar superior, acima da recepção",
+      "pt-BR": "Encontre o Laboratório 1 no andar de cima da recepção",
       "ru": "Найдите лабораторию 1 на верхнем этаже над стойкой регистрации",
       "sr": "Pronađi Laboratoriju 1 na gornjem spratu iznad recepcije",
       "tr": "Resepsiyonun üst katında 1 numaralı Laboratuvarı bul",
@@ -105,7 +105,7 @@
       "no": "Let etter spor av landbruksprosjektet",
       "pl": "Szukaj śladów projektu rolniczego",
       "pt": "Procure por quaisquer vestígios do projeto agrícola",
-      "pt-BR": "Procure por quaisquer vestígios do projeto agrícola",
+      "pt-BR": "Procure por vestígios do projeto de pesquisa agrícola",
       "ru": "Ищите любые следы сельскохозяйственного проекта",
       "sr": "Potraži bilo kakve tragove poljoprivrednog projekta",
       "tr": "Tarım projesinin herhangi bir izini ara",
@@ -132,5 +132,5 @@
   "previousQuestIds": ["ss10s"],
   "nextQuestIds": ["ss10x2"],
   "videoUrl": "https://youtu.be/VYI9tJsScmg",
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }

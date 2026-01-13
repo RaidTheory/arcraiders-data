@@ -14,7 +14,7 @@
     "no": "Kjølelager",
     "pl": "Chłodnia",
     "pt": "Armazém Frigorífico",
-    "pt-BR": "Câmara Fria",
+    "pt-BR": "Armazenamento Frio",
     "ru": "Холодильное хранилище",
     "sr": "Hladnjača",
     "tr": "Soğuk Depo",
@@ -39,7 +39,7 @@
     "no": "Rapporter om Stella Montis fortsetter å komme inn, og det er ikke likt noe vi har sett før. Det kan finnes opptegnelser eller relikvier fra fortiden der inne, og hvis det gjør det, vil jeg ha dem.",
     "pl": "Doniesienia o Stella Montis wciąż napływają i to coś zupełnie innego niż wszystko, co dotąd widzieliśmy. W środku mogą być zapisy lub relikty z przeszłości, i jeśli tak, chcę je mieć.",
     "pt": "Os relatórios sobre Stella Montis não param de chegar, e não se parece com nada que já vimos. Pode haver registros ou relíquias do passado lá dentro e, se houver, eu as quero.",
-    "pt-BR": "Relatórios sobre Stella Montis continuam chegando, e é diferente de tudo que já vimos antes. Pode haver registros ou relíquias do passado lá, e se houver, eu os quero.",
+    "pt-BR": "Os relatos sobre Stella Montis não param de chegar, e é diferente de tudo que já vimos. Pode haver registros ou relíquias do passado por lá. Se houver, eu quero.",
     "ru": "Сообщения о Стелла Монтис продолжают поступать, и это не похоже ни на что, что мы видели раньше. Там могут быть записи или реликвии прошлого, и если так, я хочу, чтобы ты их нашёл.",
     "sr": "Izveštaji o Stela Montisu ne prestaju da stižu, i to nije nalik ničemu što smo ranije videli. Unutra možda ima zapisa ili relikvija iz prošlosti, i ako ih ima, hoću da ih doneseš.",
     "tr": "Stella Montis hakkında raporlar gelmeye devam ediyor ve gördüğümüz hiçbir şeye benzemiyor. İçeride geçmişten kalma kayıtlar ya da kalıntılar olabilir; eğer varsa, onları istiyorum.",
@@ -62,7 +62,7 @@
       "no": "I én runde, søk gjennom en valgfri J Kozma Ventures-container",
       "pl": "W jednej rundzie przeszukaj dowolny kontener J Kozma Ventures",
       "pt": "Em uma rodada, revide qualquer contêiner da J Kozma Ventures",
-      "pt-BR": "Em uma partida, vasculhe qualquer contêiner da J Kozma Ventures",
+      "pt-BR": "Em uma rodada, procure qualquer contentor da J Kozma Ventures",
       "ru": "За один рейд обыщи любой контейнер J Kozma Ventures",
       "sr": "U jednoj rundi, pretraži bilo koji J Kozma Ventures kontejner",
       "tr": "Tek bir turda, herhangi bir J Kozma Ventures konteynerini ara",
@@ -84,7 +84,7 @@
       "no": "I én runde, lever de sjeldne bøkene til Shani",
       "pl": "W jednej rundzie dostarcz rzadkie księgi do Shani",
       "pt": "Em uma rodada, entregue os Livros Raros para Shani",
-      "pt-BR": "Em uma partida, entregue os Livros Raros para Shani",
+      "pt-BR": "Em uma rodada, entregue os Livros do Velho Mundo para Shani",
       "ru": "За один рейд доставь редкие книги Шани",
       "sr": "U jednoj rundi, isporuči Retke Knjige Shani",
       "tr": "Tek bir turda, Nadir Kitapları Shani'ye teslim et",
@@ -107,5 +107,5 @@
   "previousQuestIds": ["12_in_my_image"],
   "nextQuestIds": ["12_snap_and_salvage"],
   "videoUrl": "https://youtu.be/tc7nK7AmixQ",
-  "updatedAt": "11/23/2025"
+  "updatedAt": "01/13/2026"
 }

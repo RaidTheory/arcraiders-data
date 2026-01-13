@@ -38,7 +38,7 @@
     "no": "Celeste fortalte meg at du er den som hjalp henne med å plage meg om å bidra mer. Jeg sier dette én gang: Jeg setter ikke pris på innblandingen, og jeg har mine egne grunner for å nekte. Jeg setter imidlertid pris på skrapmetallet. Siden du tydeligvis er flink til å spore det opp, kan jeg ha en oppgave til deg.",
     "pl": "Celeste powiedziała mi, że to ty pomogłeś jej mnie nękać, żebym więcej się angażował. Powiem to raz: nie doceniam wtrącania się, i mam swoje własne powody odmowy. Doceniam jednak złom. Skoro najwyraźniej jesteś dobry w jego tropienie, mogę mieć dla ciebie zadanie.",
     "pt": "Celeste me disse que você é quem a ajudou a me pressionar para contribuir mais. Vou dizer isso uma vez: não aprecio a intromissão, e tenho minhas próprias razões para recusar. No entanto, aprecio a sucata. Já que você aparentemente é bom em rastreá-la, posso ter uma tarefa para você.",
-    "pt-BR": "A Celeste me disse que foi você quem ajudou ela a me cobrar de colaborar mais. Vou dizer isto apenas uma vez: não gosto de intromissões e tenho meus próprios motivos para recusar. No entanto, agradeço pela sucata. Já que você parece ser bom em encontrá-la, talvez eu tenha uma tarefa para você.",
+    "pt-BR": "A Celeste me disse que foi você quem a ajudou a pegar no meu pé pra eu colaborar mais. Vou falar só uma vez: não gosto de intromissões, e tenho meus motivos para recusar. Mas eu gosto de sucata. Já que você é fera em encontrar isso, talvez eu tenha uma tarefa para você.",
     "ru": "Селеста сказала мне, что это ты помог ей донимать меня насчет большего участия. Скажу один раз: я не ценю вмешательство, и у меня есть свои причины для отказа. Однако я ценю металлолом. Поскольку ты, очевидно, хорош в его поиске, у меня может быть для тебя задание.",
     "sr": "Celeste mi je rekla da si ti taj koji joj je pomogao da me gnjavi da se više uključim. Reći ću ovo jednom: ne cenim mešanje, i imam svoje razloge za odbijanje. Međutim, cenim otpatke. Pošto si očigledno dobar u pronalaženju istih, možda imam zadatak za tebe.",
     "tr": "Celeste bana daha fazla katkıda bulunmam için onu kışkırtmana yardım edenin sen olduğunu söyledi. Bunu bir kez söyleyeceğim: Karışmayı takdir etmiyorum ve reddetmek için kendi nedenlerim var. Ancak hurdayı takdir ediyorum. Görünüşe göre onu bulmakta iyisin, senin için bir görevim olabilir.",
@@ -61,7 +61,7 @@
       "no": "På Buried City, søk gjennom 2 containere i Raider-leiren under parkeringshuset",
       "pl": "W Buried City przeszukaj 2 kontenery w obozie Najeźdźców pod parkingiem",
       "pt": "Em Cidade Enterrada, procure em 2 contêineres no acampamento Raider sob a garagem",
-      "pt-BR": "Na Cidade Enterrada, vasculhe 2 contêineres no Acampamento de Saqueadores sob o Estacionamento",
+      "pt-BR": "Em Cidade Soterrada, procure em 2 contentores no Acampamento de Combatentes sob o Estacionamento",
       "ru": "В Погребенном городе обыскать 2 контейнера в лагере Рейдеров под парковкой",
       "sr": "U Zakopanom Gradu, pretraži 2 kontejnera u Pljačkaškom Kampu ispod Parking Garaže",
       "tr": "Gömülü Şehir'de, Otopark'ın altındaki Raider Kampı'nda 2 konteyner ara",
@@ -83,7 +83,7 @@
       "no": "På Dam Battlegrounds, søk etter noe betydningsfullt i den sørlige sumpeutposten",
       "pl": "Na Dam Battlegrounds poszukaj czegoś istotnego w południowej placówce na bagnach",
       "pt": "Em Campo de Batalha da Represa, procure por algo significativo no posto avançado do pântano sul",
-      "pt-BR": "No Campo de Batalha da Represa, procure por algo importante no Posto Avançado do Pântano Sul",
+      "pt-BR": "Nos Campos de Batalha da Represa, procure qualquer coisa importante no Posto Avançado do Sul do Pântano",
       "ru": "Поищите что-нибудь полезное в аванпосте на южном болоте на поле битвы у дамбы",
       "sr": "Na Bojnom Polju Brane, traži bilo šta značajno u Južnoj Močvarnoj Ispostavi",
       "tr": "Baraj Savaş Alanı'nda, Güney Bataklık Karakolu'nda önemli bir şey ara",
@@ -105,7 +105,7 @@
       "no": "På Spaceport, søk etter noe betydningsfullt i Bilguuns skjulested, ved siden av containerlager",
       "pl": "Na Spaceport poszukaj czegoś istotnego w kryjówce Bilguuna, obok magazynu kontenerów",
       "pt": "Em Porto Espacial, procure por algo significativo no esconderijo de Bilguun, ao lado do armazenamento de contêineres",
-      "pt-BR": "No Espaçoporto, procure por algo importante no Esconderijo do Bilguun, próximo ao Depósito de Contêineres",
+      "pt-BR": "No Espaçoporto, procure qualquer coisa importante no Esconderijo de Bilguun, próximo ao Depósito de Contêineres",
       "ru": "Поищите что-нибудь полезное в убежище Бильгуна рядом с хранилищем контейнеров в космопорте",
       "sr": "Na Svemirskoj Luci, traži bilo šta značajno u Bilguunovom Skrovištu, pored Skladišta Kontejnera",
       "tr": "Uzay Limanı'nda, Konteyner Deposu'nun yanındaki Bilguun'un Sığınağı'nda önemli bir şey ara",
@@ -131,5 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10b"],
   "nextQuestIds": ["ss10h"],
-  "updatedAt": "11/06/2025"
+  "updatedAt": "01/13/2026"
 }
