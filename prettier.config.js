@@ -81,6 +81,22 @@ const json_sort_orders = {
         updatedAt: null,
         "/.*/": "caseInsensitiveLexical"
       }
+    },
+    {
+      name: "map-events",
+      rules: {
+        _readme: null,
+        eventTypes: null,
+        maps: null,
+        schedule: null,
+        displayName: null,
+        icon: null,
+        translationKey: null,
+        localizations: null,
+        category: null,
+        disabled: null,
+        "/.*/": "caseInsensitiveLexical"
+      }
     }
   ],
   standalone_files: [
