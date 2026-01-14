@@ -39,8 +39,13 @@ async function run() {
 
   const mapEvents = JSON.parse(await readFile(targetPath, "utf8"));
   const schedule = buildSchedule(payload.fullRotation, mapEvents.eventTypes);
+  const eventTypes = mergeEventLocalizations(
+    mapEvents.eventTypes,
+    payload.eventTypes
+  );
   const nextData = {
     ...mapEvents,
+    eventTypes,
     schedule
   };
 
@@ -102,6 +107,26 @@ function buildSchedule(fullRotation, eventTypes = {}) {
   }
 
   return schedule;
+}
+
+function mergeEventLocalizations(eventTypes = {}, remoteEventTypes = {}) {
+  const next = { ...eventTypes };
+
+  for (const [slug, config] of Object.entries(eventTypes)) {
+    const localizations = remoteEventTypes?.[slug]?.localizations;
+    if (!localizations || typeof localizations !== "object") {
+      continue;
+    }
+
+    // Replace the localization blob wholesale so the languages stay aligned
+    // with whatever production currently exposes.
+    next[slug] = {
+      ...config,
+      localizations
+    };
+  }
+
+  return next;
 }
 
 function slugify(name) {
