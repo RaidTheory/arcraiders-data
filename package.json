@@ -3,7 +3,8 @@
   "type": "module",
   "scripts": {
     "check": "prettier --check .",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "map-events:update": "node scripts/update-map-events.js"
   },
   "devDependencies": {
     "prettier": "^3.6.2",
