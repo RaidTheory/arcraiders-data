@@ -1,105 +1,87 @@
 {
   "id": "stash",
   "name": {
-    "en": "Stash",
-    "de": "Lager",
-    "fr": "Réserve",
-    "es": "Alijo",
-    "pt": "Esconderijo",
-    "pl": "Schowek",
-    "no": "Oppbevaring",
     "da": "Opbevaring",
+    "de": "Lager",
+    "en": "Stash",
+    "es": "Alijo",
+    "fr": "Réserve",
+    "he": "מחסן",
+    "hr": "Skladište",
     "it": "Deposito",
     "ja": "保管庫",
     "kr": "보관함",
-    "zh-CN": "储藏箱",
-    "zh-TW": "儲藏箱",
+    "no": "Oppbevaring",
+    "pl": "Schowek",
+    "pt": "Esconderijo",
+    "pt-BR": "Armazenamento",
     "ru": "Хранилище",
+    "sr": "Skladište",
     "tr": "Depo",
     "uk": "Схованка",
-    "hr": "Skladište",
-    "sr": "Skladište",
-    "pt-BR": "Depósito",
-    "he": "מחסן"
+    "zh-CN": "储藏箱",
+    "zh-TW": "儲藏箱"
   },
   "maxLevel": 10,
   "levels": [
     {
+      "description": "64 slots",
       "level": 1,
-      "requirementItemIds": [],
-      "description": "64 slots"
+      "requirementItemIds": []
     },
     {
+      "description": "+24 slots (88 total)",
       "level": 2,
-      "requirementItemIds": [],
-      "otherRequirements": [
-        "5000 Coins"
-      ],
-      "description": "+24 slots (88 total)"
+      "otherRequirements": ["5000 Coins"],
+      "requirementItemIds": []
     },
     {
+      "description": "+24 slots (112 total)",
       "level": 3,
-      "requirementItemIds": [],
-      "otherRequirements": [
-        "10000 Coins"
-      ],
-      "description": "+24 slots (112 total)"
+      "otherRequirements": ["10000 Coins"],
+      "requirementItemIds": []
     },
     {
+      "description": "+24 slots (136 total)",
       "level": 4,
-      "requirementItemIds": [],
-      "otherRequirements": [
-        "15000 Coins"
-      ],
-      "description": "+24 slots (136 total)"
+      "otherRequirements": ["15000 Coins"],
+      "requirementItemIds": []
     },
     {
+      "description": "+24 slots (160 total)",
       "level": 5,
-      "requirementItemIds": [],
-      "otherRequirements": [
-        "25000 Coins"
-      ],
-      "description": "+24 slots (160 total)"
+      "otherRequirements": ["25000 Coins"],
+      "requirementItemIds": []
     },
     {
+      "description": "+24 slots (184 total)",
       "level": 6,
-      "requirementItemIds": [],
-      "otherRequirements": [
-        "40000 Coins"
-      ],
-      "description": "+24 slots (184 total)"
+      "otherRequirements": ["40000 Coins"],
+      "requirementItemIds": []
     },
     {
+      "description": "+24 slots (208 total)",
       "level": 7,
-      "requirementItemIds": [],
-      "otherRequirements": [
-        "60000 Coins"
-      ],
-      "description": "+24 slots (208 total)"
+      "otherRequirements": ["60000 Coins"],
+      "requirementItemIds": []
     },
     {
+      "description": "+24 slots (232 total)",
       "level": 8,
-      "requirementItemIds": [],
-      "otherRequirements": [
-        "90000 Coins"
-      ],
-      "description": "+24 slots (232 total)"
+      "otherRequirements": ["90000 Coins"],
+      "requirementItemIds": []
     },
     {
+      "description": "+24 slots (256 total)",
       "level": 9,
-      "requirementItemIds": [],
-      "otherRequirements": [
-        "130000 Coins"
-      ],
-      "description": "+24 slots (256 total)"
+      "otherRequirements": ["130000 Coins"],
+      "requirementItemIds": []
     },
     {
+      "description": "+24 slots (280 total)",
       "level": 10,
-      "requirementItemIds": [],
-      "otherRequirements": [
-        "200000 Coins"
-      ],
-      "description": "+24 slots (280 total)"
+      "otherRequirements": ["200000 Coins"],
+      "requirementItemIds": []
     }
   ]
 }

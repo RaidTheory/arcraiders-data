@@ -1,75 +1,28 @@
 {
   "id": "ss8b",
-  "updatedAt": "11/06/2025",
   "name": {
-    "en": "Sparks Fly",
-    "de": "Fliegende Funken",
-    "fr": "Pluie d'étincelles",
-    "es": "Las chispas vuelan",
-    "pt": "Faíscas",
-    "pl": "Iskry lecą",
-    "no": "Gnister flyr",
     "da": "Gnister flyver",
-    "it": "Scintille",
-    "uk": "Іскри летять",
-    "kr": "불꽃 튀는",
-    "ru": "Искры летят",
-    "zh-CN": "火花四溅",
-    "ja": "火花散る",
-    "tr": "Kıvılcımlar Saçılıyor",
-    "zh-TW": "火花四濺",
-    "sr": "Varnice lete",
+    "de": "Fliegende Funken",
+    "en": "Sparks Fly",
+    "es": "Las chispas vuelan",
+    "fr": "Pluie d'étincelles",
+    "he": "גיצים באוויר",
     "hr": "Varnice lete",
-    "pt-BR": "Faíscas no Ar",
-    "he": "גיצים באוויר"
+    "it": "Scintille",
+    "ja": "火花散る",
+    "kr": "불꽃 튀는",
+    "no": "Gnister flyr",
+    "pl": "Iskry lecą",
+    "pt": "Faíscas",
+    "pt-BR": "Faíscas para todos os Lados",
+    "ru": "Искры летят",
+    "sr": "Varnice lete",
+    "tr": "Kıvılcımlar Saçılıyor",
+    "uk": "Іскри летять",
+    "zh-CN": "火花四溅",
+    "zh-TW": "火花四濺"
   },
   "trader": "Apollo",
-  "description": {
-    "en": "Those Hornet stings can really mess you up, if you're unlucky. And even if you destroy one, you're still wasting a ton of ammo. I've been working on a more elegant way to bring them down. Care to make some sparks fly?",
-    "de": "Stiche von diesen Hornissen können einem echt übel mitspielen, wenn man Pech hat. Und selbst wenn man eine erledigt, vergeudet man dabei eine Menge Munition. Ich arbeite an einer eleganteren Lösung, um sie vom Himmel zu holen. Willst du Funken fliegen lassen?",
-    "fr": "Ces piqûres de Frelons peuvent vraiment vous gâcher la vie. Et même si vous en détruisez un, vous gaspillerez une tonne de munitions. J'ai réfléchi à une façon plus élégante de les éliminer. Ça vous dit de faire des étincelles ?",
-    "es": "Esos aguijones de Avispón pueden hacerte mucho daño si no tienes suerte. E incluso si destruyes uno, sigues desperdiciando un montón de munición. He estado trabajando en una forma más elegante de derribarlos. ¿Te apetece hacer saltar algunas chispas?",
-    "pt": "Essas picadas de Hornet podem te estragar muito, se você tiver azar. E mesmo se você destruir um, ainda está desperdiçando um monte de munição. Tenho trabalhado numa forma mais elegante de derrubá-los. Quer fazer algumas faíscas voarem?",
-    "pl": "Te ukąszenia Hornetów mogą naprawdę cię poharatać, jeśli masz pecha. A nawet jeśli zniszczysz jednego, nadal marnujesz mnóstwo amunicji. Pracowałem nad bardziej eleganckim sposobem ich zestrzelenia. Chcesz sprawić, żeby posypały się iskry?",
-    "no": "De Hornet-stikkene kan virkelig ødelegge deg, hvis du er uheldig. Og selv om du ødelegger en, sløser du fortsatt bort en masse ammunisjon. Jeg har jobbet med en mer elegant måte å ta dem ned på. Lyst til å få noen gnister til å fly?",
-    "da": "De Hornet-stik kan virkelig ødelægge dig, hvis du er uheldig. Og selv hvis du ødelægger en, spilder du stadig en masse ammunition. Jeg har arbejdet på en mere elegant måde at tage dem ned på. Lyst til at få nogle gnister til at flyve?",
-    "it": "Quelle punture di Hornet possono davvero rovinarti, se sei sfortunato. E anche se ne distruggi uno, stai comunque sprecando un sacco di munizioni. Ho lavorato a un modo più elegante per abbatterli. Ti va di far volare qualche scintilla?",
-    "uk": "Ці укуси Hornet можуть серйозно тебе покалічити, якщо не пощастить. І навіть якщо ти знищиш один, ти все одно витратиш купу боєприпасів. Я працюю над більш елегантним способом їх збивати. Хочеш влаштувати феєрверк?",
-    "kr": "운이 나쁘면 호넷의 공격이 정말 치명적일 수 있어. 그리고 하나를 파괴하더라도 엄청난 양의 탄약을 낭비하게 돼. 더 우아한 방법으로 격추시킬 방법을 연구 중이야. 불꽃놀이 한번 해볼래?",
-    "ru": "Эти укусы Hornet могут серьёзно тебя покалечить, если не повезёт. И даже если ты уничтожишь один, ты всё равно потратишь кучу боеприпасов. Я работаю над более элегантным способом их сбивать. Хочешь устроить фейерверк?",
-    "zh-CN": "如果运气不好，那些黄蜂的攻击真的会让你吃不消。即使你摧毁了一个，也会浪费大量弹药。我一直在研究一种更优雅的击落方法。想来制造点火花吗？",
-    "ja": "運が悪ければ、Hornetの攻撃は本当に厄介だ。そして一機倒すにしても、大量の弾薬を無駄にすることになる。もっとエレガントな撃墜方法を研究しているんだ。火花を散らしてみないか？",
-    "tr": "Şansın yoksa o Hornet iğneleri seni gerçekten mahvedebilir. Ve birini yok etsen bile, bir sürü mühimmat harcıyorsun. Onları düşürmenin daha zarif bir yolu üzerinde çalışıyorum. Biraz kıvılcım saçmaya ne dersin?",
-    "zh-TW": "如果運氣不好，那些黃蜂的攻擊真的會讓你吃不消。即使你摧毀了一個，也會浪費大量彈藥。我一直在研究一種更優雅的擊落方法。想來製造點火花嗎？",
-    "sr": "Ubodi tih Horneta mogu stvarno da te unište, ako si nesrećan. A čak i ako uništiš jedan, i dalje trošiš gomilu municije. Radio sam na elegantnijim načinom da ih oborim. Hoćeš li da napraviš malo varnica?",
-    "hr": "Ubodi tih Horneta mogu stvarno zeznuti te, ako si nesretan. A čak i ako uništiš jedan, i dalje trošiš gomilu streljiva. Radio sam na elegantnijim načinu da ih oborim. Želiš li napraviti malo varnica?",
-    "pt-BR": "Aquelas ferroadas de Vespa podem acabar com você, se der azar. E mesmo que destrua uma, ainda gasta muita munição. Estive trabalhando em uma maneira mais elegante de derrubá-las. Quer fazer voar algumas faíscas?",
-    "he": "עקיצות ה-Hornet האלה יכולות ממש לשבש אותך אם אין לך מזל. וגם אם אתה משמיד אחד, אתה מבזבז טונות של תחמושת. עבדתי על דרך אלגנטית יותר להוריד אותם. מתאים לך להעיף קצת גיצים?"
-  },
-  "objectives": [
-    {
-      "en": "Destroy a Hornet with a Trigger 'Nade or Snap Blast",
-      "de": "Eine Hornisse mit einer Abzuggranate vernichten",
-      "fr": "Détruisez un Frelon à l'aide d'une grenade télécommandée ou d'une grenad adhésive",
-      "es": "Destruye un Avispón con una granada de gatillo o de ráfaga",
-      "pt": "Destrua um Hornet com uma Trigger 'Nade ou Snap Blast",
-      "pl": "Zniszcz Horneta za pomocą Trigger 'Nade lub Snap Blast",
-      "no": "Ødelegg en Hornet med en Trigger 'Nade eller Snap Blast",
-      "da": "Ødelæg en Hornet med en Trigger 'Nade eller Snap Blast",
-      "it": "Distruggi un Hornet con una Trigger 'Nade o Snap Blast",
-      "uk": "Знищити Hornet за допомогою Trigger 'Nade або Snap Blast",
-      "kr": "트리거 수류탄 또는 스냅 블래스트 수류탄으로 호넷 파괴",
-      "ru": "Уничтожьте «Шершня» с помощью триггер-гранаты или разрывной гранаты",
-      "zh-CN": "使用触发手雷或瞬爆摧毁黄蜂",
-      "ja": "トリガー・グレネードでホーネットを破壊する",
-      "tr": "Trigger 'Nade veya Snap Blast ile bir Hornet'i yok et",
-      "zh-TW": "使用觸發手雷或瞬爆摧毀黃蜂",
-      "sr": "Uništi Hornet sa Trigger 'Nade ili Snap Blast",
-      "hr": "Uništi Hornet sa Trigger 'Nade ili Snap Blast",
-      "pt-BR": "Destrua uma Vespa com uma Granada de Acionamento ou Snap Blast",
-      "he": "השמד Hornet באמצעות Trigger 'Nade או Snap Blast"
-    }
-  ],
   "grantedItemIds": [
     {
       "itemId": "trigger_nade",
@@ -78,6 +31,52 @@
     {
       "itemId": "snap_blast_grenade",
       "quantity": 2
+    }
+  ],
+  "description": {
+    "da": "De Hornet-stik kan virkelig ødelægge dig, hvis du er uheldig. Og selv hvis du ødelægger en, spilder du stadig en masse ammunition. Jeg har arbejdet på en mere elegant måde at tage dem ned på. Lyst til at få nogle gnister til at flyve?",
+    "de": "Stiche von diesen Hornissen können einem echt übel mitspielen, wenn man Pech hat. Und selbst wenn man eine erledigt, vergeudet man dabei eine Menge Munition. Ich arbeite an einer eleganteren Lösung, um sie vom Himmel zu holen. Willst du Funken fliegen lassen?",
+    "en": "Those Hornet stings can really mess you up, if you're unlucky. And even if you destroy one, you're still wasting a ton of ammo. I've been working on a more elegant way to bring them down. Care to make some sparks fly?",
+    "es": "Esos aguijones de Avispón pueden hacerte mucho daño si no tienes suerte. E incluso si destruyes uno, sigues desperdiciando un montón de munición. He estado trabajando en una forma más elegante de derribarlos. ¿Te apetece hacer saltar algunas chispas?",
+    "fr": "Ces piqûres de Frelons peuvent vraiment vous gâcher la vie. Et même si vous en détruisez un, vous gaspillerez une tonne de munitions. J'ai réfléchi à une façon plus élégante de les éliminer. Ça vous dit de faire des étincelles ?",
+    "he": "עקיצות ה-Hornet האלה יכולות ממש לשבש אותך אם אין לך מזל. וגם אם אתה משמיד אחד, אתה מבזבז טונות של תחמושת. עבדתי על דרך אלגנטית יותר להוריד אותם. מתאים לך להעיף קצת גיצים?",
+    "hr": "Ubodi tih Horneta mogu stvarno zeznuti te, ako si nesretan. A čak i ako uništiš jedan, i dalje trošiš gomilu streljiva. Radio sam na elegantnijim načinu da ih oborim. Želiš li napraviti malo varnica?",
+    "it": "Quelle punture di Hornet possono davvero rovinarti, se sei sfortunato. E anche se ne distruggi uno, stai comunque sprecando un sacco di munizioni. Ho lavorato a un modo più elegante per abbatterli. Ti va di far volare qualche scintilla?",
+    "ja": "運が悪ければ、Hornetの攻撃は本当に厄介だ。そして一機倒すにしても、大量の弾薬を無駄にすることになる。もっとエレガントな撃墜方法を研究しているんだ。火花を散らしてみないか？",
+    "kr": "운이 나쁘면 호넷의 공격이 정말 치명적일 수 있어. 그리고 하나를 파괴하더라도 엄청난 양의 탄약을 낭비하게 돼. 더 우아한 방법으로 격추시킬 방법을 연구 중이야. 불꽃놀이 한번 해볼래?",
+    "no": "De Hornet-stikkene kan virkelig ødelegge deg, hvis du er uheldig. Og selv om du ødelegger en, sløser du fortsatt bort en masse ammunisjon. Jeg har jobbet med en mer elegant måte å ta dem ned på. Lyst til å få noen gnister til å fly?",
+    "pl": "Te ukąszenia Hornetów mogą naprawdę cię poharatać, jeśli masz pecha. A nawet jeśli zniszczysz jednego, nadal marnujesz mnóstwo amunicji. Pracowałem nad bardziej eleganckim sposobem ich zestrzelenia. Chcesz sprawić, żeby posypały się iskry?",
+    "pt": "Essas picadas de Hornet podem te estragar muito, se você tiver azar. E mesmo se você destruir um, ainda está desperdiçando um monte de munição. Tenho trabalhado numa forma mais elegante de derrubá-los. Quer fazer algumas faíscas voarem?",
+    "pt-BR": "Aquelas picadas de Marimbondos podem fazer um estrago, se der azar. E mesmo se destruir um, ainda vai gastar munição a beça. Tô trabalhado numa forma mais elegante de derrubá-los. A fim de soltar umas faíscas?",
+    "ru": "Эти укусы Hornet могут серьёзно тебя покалечить, если не повезёт. И даже если ты уничтожишь один, ты всё равно потратишь кучу боеприпасов. Я работаю над более элегантным способом их сбивать. Хочешь устроить фейерверк?",
+    "sr": "Ubodi tih Horneta mogu stvarno da te unište, ako si nesrećan. A čak i ako uništiš jedan, i dalje trošiš gomilu municije. Radio sam na elegantnijim načinom da ih oborim. Hoćeš li da napraviš malo varnica?",
+    "tr": "Şansın yoksa o Hornet iğneleri seni gerçekten mahvedebilir. Ve birini yok etsen bile, bir sürü mühimmat harcıyorsun. Onları düşürmenin daha zarif bir yolu üzerinde çalışıyorum. Biraz kıvılcım saçmaya ne dersin?",
+    "uk": "Ці укуси Hornet можуть серйозно тебе покалічити, якщо не пощастить. І навіть якщо ти знищиш один, ти все одно витратиш купу боєприпасів. Я працюю над більш елегантним способом їх збивати. Хочеш влаштувати феєрверк?",
+    "zh-CN": "如果运气不好，那些黄蜂的攻击真的会让你吃不消。即使你摧毁了一个，也会浪费大量弹药。我一直在研究一种更优雅的击落方法。想来制造点火花吗？",
+    "zh-TW": "如果運氣不好，那些黃蜂的攻擊真的會讓你吃不消。即使你摧毀了一個，也會浪費大量彈藥。我一直在研究一種更優雅的擊落方法。想來製造點火花嗎？"
+  },
+  "objectives": [
+    {
+      "da": "Ødelæg en Hornet med en Trigger 'Nade eller Snap Blast",
+      "de": "Eine Hornisse mit einer Abzuggranate vernichten",
+      "en": "Destroy a Hornet with a Trigger 'Nade or Snap Blast",
+      "es": "Destruye un Avispón con una granada de gatillo o de ráfaga",
+      "fr": "Détruisez un Frelon à l'aide d'une grenade télécommandée ou d'une grenad adhésive",
+      "he": "השמד Hornet באמצעות Trigger 'Nade או Snap Blast",
+      "hr": "Uništi Hornet sa Trigger 'Nade ili Snap Blast",
+      "it": "Distruggi un Hornet con una Trigger 'Nade o Snap Blast",
+      "ja": "トリガー・グレネードでホーネットを破壊する",
+      "kr": "트리거 수류탄 또는 스냅 블래스트 수류탄으로 호넷 파괴",
+      "no": "Ødelegg en Hornet med en Trigger 'Nade eller Snap Blast",
+      "pl": "Zniszcz Horneta za pomocą Trigger 'Nade lub Snap Blast",
+      "pt": "Destrua um Hornet com uma Trigger 'Nade ou Snap Blast",
+      "pt-BR": "Destrua um Marimbondo com uma Granada de Gatilho ou Explode Rápido",
+      "ru": "Уничтожьте «Шершня» с помощью триггер-гранаты или разрывной гранаты",
+      "sr": "Uništi Hornet sa Trigger 'Nade ili Snap Blast",
+      "tr": "Trigger 'Nade veya Snap Blast ile bir Hornet'i yok et",
+      "uk": "Знищити Hornet за допомогою Trigger 'Nade або Snap Blast",
+      "zh-CN": "使用触发手雷或瞬爆摧毁黄蜂",
+      "zh-TW": "使用觸發手雷或瞬爆摧毀黃蜂"
     }
   ],
   "rewardItemIds": [
@@ -95,8 +94,7 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [
-    "ss8a"
-  ],
-  "nextQuestIds": []
+  "previousQuestIds": ["ss8a"],
+  "nextQuestIds": [],
+  "updatedAt": "01/13/2026"
 }

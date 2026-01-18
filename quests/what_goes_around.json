@@ -1,79 +1,78 @@
 {
   "id": "ss8a",
-  "updatedAt": "11/20/2025",
   "name": {
-    "en": "What Goes Around",
-    "de": "Alles rächt sich",
-    "fr": "Qui sème le vent",
-    "es": "Todo lo que va",
-    "pt": "O que vai, volta",
-    "pl": "Co się odwlecze",
-    "no": "Det som går rundt",
     "da": "Hvad der går rundt",
-    "it": "Ciò che gira",
-    "uk": "Що посієш, те й пожнеш",
-    "kr": "돌고 도는 것",
-    "ru": "Что посеешь...",
-    "zh-CN": "周而复始",
-    "ja": "巡り巡って",
-    "tr": "Dönen Dolaplar",
-    "zh-TW": "周而復始",
-    "sr": "Što ide okolo",
+    "de": "Alles rächt sich",
+    "en": "What Goes Around",
+    "es": "Todo lo que va",
+    "fr": "Qui sème le vent",
+    "he": "הכל חוזר",
     "hr": "Što ide okolo",
-    "pt-BR": "O Que Vai, Volta",
-    "he": "הכל חוזר"
+    "it": "Ciò che gira",
+    "ja": "巡り巡って",
+    "kr": "돌고 도는 것",
+    "no": "Det som går rundt",
+    "pl": "Co się odwlecze",
+    "pt": "O que vai, volta",
+    "pt-BR": "Aqui se Faz",
+    "ru": "Что посеешь...",
+    "sr": "Što ide okolo",
+    "tr": "Dönen Dolaplar",
+    "uk": "Що посієш, те й пожнеш",
+    "zh-CN": "周而复始",
+    "zh-TW": "周而復始"
   },
   "trader": "Apollo",
-  "description": {
-    "en": "We can't build ARC tech from scratch, but there's plenty I can tinker from the pieces you salvage. I'm currently trying to repurpose different ARC parts. Would you mind running some experiments for me?",
-    "de": "Wir können ARC-Technologie nicht von Grund auf bauen, aber mit den Teilen, die du für uns beschaffst, lässt sich eine Menge anstellen. Aktuell versuche ich, verschiedene ARC-Teile umzufunktionieren. Wärst du zu ein paar Experimenten bereit?",
-    "fr": "Nous ne pouvons pas construire de technologie ARC à partir de zéro, mais il y a beaucoup de choses que je peux bricoler à partir des pièces que tu récupères. J'essaie actuellement de réutiliser différentes pièces ARC. Ça te dérangerait de faire quelques expériences pour moi ?",
-    "es": "No podemos construir tecnología ARC desde cero, pero hay mucho que puedo arreglar con las piezas que recuperas. Actualmente estoy intentando reutilizar diferentes partes ARC. ¿Te importaría hacer algunos experimentos para mí?",
-    "pt": "Não podemos construir tecnologia ARC do zero, mas há muito que posso mexer com as peças que você recupera. Atualmente estou tentando reaproveitar diferentes partes ARC. Você se importaria de fazer alguns experimentos para mim?",
-    "pl": "Nie możemy zbudować technologii ARC od podstaw, ale jest wiele rzeczy, które mogę majstrować z części, które odzyskujesz. Obecnie próbuję przekształcić różne części ARC. Mógłbyś przeprowadzić dla mnie kilka eksperymentów?",
-    "no": "Vi kan ikke bygge ARC-teknologi fra bunnen av, men det er mye jeg kan fikle med fra delene du berger. Jeg prøver for tiden å gjenbruke forskjellige ARC-deler. Kan du kjøre noen eksperimenter for meg?",
-    "da": "Vi kan ikke bygge ARC-teknologi fra bunden, men der er meget jeg kan pille ved fra de dele, du bjærger. Jeg forsøger i øjeblikket at genbruge forskellige ARC-dele. Vil du køre nogle eksperimenter for mig?",
-    "it": "Non possiamo costruire tecnologia ARC da zero, ma c'è molto che posso armeggiare con i pezzi che recuperi. Sto attualmente cercando di riutilizzare diverse parti ARC. Ti dispiacerebbe fare alcuni esperimenti per me?",
-    "uk": "Ми не можемо створити технології ARC з нуля, але я можу багато чого зробити з деталей, які ти здобудеш. Зараз я намагаюся переробити різні частини ARC. Не міг би ти провести для мене кілька експериментів?",
-    "kr": "아크 기술을 처음부터 만들 수는 없지만, 네가 회수한 부품들로 손볼 수 있는 게 많아. 지금 다양한 아크 부품들을 재활용하려고 하는 중이야. 나를 위해 실험 좀 해줄 수 있어?",
-    "ru": "Мы не можем создать технологии ARC с нуля, но я могу многое сделать из деталей, которые ты добудешь. Сейчас я пытаюсь переделать различные части ARC. Не мог бы ты провести для меня несколько экспериментов?",
-    "zh-CN": "我们无法从零开始制造ARC科技，但我可以用你回收的零件进行改造。我目前正在尝试改装不同的ARC部件。你能帮我做些实验吗？",
-    "ja": "ARCの技術をゼロから作ることはできないが、君がサルベージした部品から色々と改造できる。今、様々なARCパーツの再利用を試みているんだ。いくつか実験を手伝ってくれないか？",
-    "tr": "ARC teknolojisini sıfırdan inşa edemeyiz ama senin kurtardığın parçalardan kurcalayabileceğim çok şey var. Şu anda farklı ARC parçalarını yeniden kullanmaya çalışıyorum. Benim için birkaç deney yapmana sakıncası var mı?",
-    "zh-TW": "我們無法從零開始製造ARC科技，但我可以用你回收的零件進行改造。我目前正在嘗試改裝不同的ARC部件。你能幫我做些實驗嗎？",
-    "sr": "Ne možemo graditi ARC tehnologiju od nule, ali ima dosta toga što mogu da majstorim od delova koje spašavaš. Trenutno pokušavam da prenamenim različite ARC delove. Bi li mogao da izvedeš neke eksperimente za mene?",
-    "hr": "Ne možemo graditi ARC tehnologiju od nule, ali ima dosta toga što mogu petljati od dijelova koje spašavaš. Trenutno pokušavam prenamjeniti različite ARC dijelove. Bi li mogao izvesti neke eksperimente za mene?",
-    "pt-BR": "Não podemos construir tecnologia ARC do zero, mas há muito que posso aproveitar das peças que você recupera. Estou tentando readaptar diferentes peças ARC no momento. Se importa em fazer alguns experimentos para mim?",
-    "he": "אנחנו לא יכולים לבנות טכנולוגיית ARC מאפס, אבל יש הרבה שאני יכול לאלתר מהחלקים שאתה אוסף. כרגע אני מנסה להשמיש מחדש חלקי ARC שונים. אכפת לך להריץ כמה ניסויים בשבילי?"
-  },
-  "objectives": [
-    {
-      "en": "Destroy any ARC enemy using a Fireball Burner",
-      "de": "Einen ARC-Gegner mit einem Feuerballbrenner zerstören",
-      "fr": "Détruisez n'importe quel ennemi ARC avec un lance-flammes Fireball",
-      "es": "Destruye cualquier enemigo ARC usando un lanzallamas Fireball",
-      "pt": "Destrua qualquer inimigo ARC usando um lança-chamas Fireball",
-      "pl": "Zniszcz dowolnego wroga ARC używając miotacza ognia Fireball",
-      "no": "Ødelegg en hvilken som helst ARC-fiende ved å bruke en Fireball-brenner",
-      "da": "Ødelæg en hvilken som helst ARC-fjende ved at bruge en Fireball-brænder",
-      "it": "Distruggi qualsiasi nemico ARC usando un lanciafiamme Fireball",
-      "uk": "Знищити будь-якого ворога ARC за допомогою Fireball Burner",
-      "kr": "파이어볼 버너를 사용하여 아크 처치",
-      "ru": "Уничтожить любого врага ARC с помощью Fireball Burner",
-      "zh-CN": "使用火球燃烧器摧毁任意ARC敌人",
-      "ja": "ファイアボールバーナーを使ってARCを破壊する",
-      "tr": "Fireball Burner kullanarak herhangi bir ARC düşmanını yok et",
-      "zh-TW": "使用火球燃燒器摧毀任意ARC敵人",
-      "sr": "Uništi bilo kog ARC neprijatelja koristeći Fireball Burner",
-      "hr": "Uništi bilo kojeg ARC neprijatelja koristeći Fireball Burner",
-      "pt-BR": "Destrua qualquer inimigo ARC usando um Queimador de Bolas de Fogo",
-      "he": "השמד כל אויב ARC באמצעות מבער כדורי אש"
-    }
-  ],
   "grantedItemIds": [
     {
       "itemId": "red_light_stick",
       "quantity": 5
+    }
+  ],
+  "description": {
+    "da": "Vi kan ikke bygge ARC-teknologi fra bunden, men der er meget jeg kan pille ved fra de dele, du bjærger. Jeg forsøger i øjeblikket at genbruge forskellige ARC-dele. Vil du køre nogle eksperimenter for mig?",
+    "de": "Wir können ARC-Technologie nicht von Grund auf bauen, aber mit den Teilen, die du für uns beschaffst, lässt sich eine Menge anstellen. Aktuell versuche ich, verschiedene ARC-Teile umzufunktionieren. Wärst du zu ein paar Experimenten bereit?",
+    "en": "We can't build ARC tech from scratch, but there's plenty I can tinker from the pieces you salvage. I'm currently trying to repurpose different ARC parts. Would you mind running some experiments for me?",
+    "es": "No podemos construir tecnología ARC desde cero, pero hay mucho que puedo arreglar con las piezas que recuperas. Actualmente estoy intentando reutilizar diferentes partes ARC. ¿Te importaría hacer algunos experimentos para mí?",
+    "fr": "Nous ne pouvons pas construire de technologie ARC à partir de zéro, mais il y a beaucoup de choses que je peux bricoler à partir des pièces que tu récupères. J'essaie actuellement de réutiliser différentes pièces ARC. Ça te dérangerait de faire quelques expériences pour moi ?",
+    "he": "אנחנו לא יכולים לבנות טכנולוגיית ARC מאפס, אבל יש הרבה שאני יכול לאלתר מהחלקים שאתה אוסף. כרגע אני מנסה להשמיש מחדש חלקי ARC שונים. אכפת לך להריץ כמה ניסויים בשבילי?",
+    "hr": "Ne možemo graditi ARC tehnologiju od nule, ali ima dosta toga što mogu petljati od dijelova koje spašavaš. Trenutno pokušavam prenamjeniti različite ARC dijelove. Bi li mogao izvesti neke eksperimente za mene?",
+    "it": "Non possiamo costruire tecnologia ARC da zero, ma c'è molto che posso armeggiare con i pezzi che recuperi. Sto attualmente cercando di riutilizzare diverse parti ARC. Ti dispiacerebbe fare alcuni esperimenti per me?",
+    "ja": "ARCの技術をゼロから作ることはできないが、君がサルベージした部品から色々と改造できる。今、様々なARCパーツの再利用を試みているんだ。いくつか実験を手伝ってくれないか？",
+    "kr": "아크 기술을 처음부터 만들 수는 없지만, 네가 회수한 부품들로 손볼 수 있는 게 많아. 지금 다양한 아크 부품들을 재활용하려고 하는 중이야. 나를 위해 실험 좀 해줄 수 있어?",
+    "no": "Vi kan ikke bygge ARC-teknologi fra bunnen av, men det er mye jeg kan fikle med fra delene du berger. Jeg prøver for tiden å gjenbruke forskjellige ARC-deler. Kan du kjøre noen eksperimenter for meg?",
+    "pl": "Nie możemy zbudować technologii ARC od podstaw, ale jest wiele rzeczy, które mogę majstrować z części, które odzyskujesz. Obecnie próbuję przekształcić różne części ARC. Mógłbyś przeprowadzić dla mnie kilka eksperymentów?",
+    "pt": "Não podemos construir tecnologia ARC do zero, mas há muito que posso mexer com as peças que você recupera. Atualmente estou tentando reaproveitar diferentes partes ARC. Você se importaria de fazer alguns experimentos para mim?",
+    "pt-BR": "Não dá para construir tecnologia ARC do zero, mas dá para fazer uma gambiarra com as peças que você desmonta. Estou tentando reutilizar peças ARC diferentes. Se importaria de fazer uns experimentos para mim?",
+    "ru": "Мы не можем создать технологии ARC с нуля, но я могу многое сделать из деталей, которые ты добудешь. Сейчас я пытаюсь переделать различные части ARC. Не мог бы ты провести для меня несколько экспериментов?",
+    "sr": "Ne možemo graditi ARC tehnologiju od nule, ali ima dosta toga što mogu da majstorim od delova koje spašavaš. Trenutno pokušavam da prenamenim različite ARC delove. Bi li mogao da izvedeš neke eksperimente za mene?",
+    "tr": "ARC teknolojisini sıfırdan inşa edemeyiz ama senin kurtardığın parçalardan kurcalayabileceğim çok şey var. Şu anda farklı ARC parçalarını yeniden kullanmaya çalışıyorum. Benim için birkaç deney yapmana sakıncası var mı?",
+    "uk": "Ми не можемо створити технології ARC з нуля, але я можу багато чого зробити з деталей, які ти здобудеш. Зараз я намагаюся переробити різні частини ARC. Не міг би ти провести для мене кілька експериментів?",
+    "zh-CN": "我们无法从零开始制造ARC科技，但我可以用你回收的零件进行改造。我目前正在尝试改装不同的ARC部件。你能帮我做些实验吗？",
+    "zh-TW": "我們無法從零開始製造ARC科技，但我可以用你回收的零件進行改造。我目前正在嘗試改裝不同的ARC部件。你能幫我做些實驗嗎？"
+  },
+  "objectives": [
+    {
+      "da": "Ødelæg en hvilken som helst ARC-fjende ved at bruge en Fireball-brænder",
+      "de": "Einen ARC-Gegner mit einem Feuerballbrenner zerstören",
+      "en": "Destroy any ARC enemy using a Fireball Burner",
+      "es": "Destruye cualquier enemigo ARC usando un lanzallamas Fireball",
+      "fr": "Détruisez n'importe quel ennemi ARC avec un lance-flammes Fireball",
+      "he": "השמד כל אויב ARC באמצעות מבער כדורי אש",
+      "hr": "Uništi bilo kojeg ARC neprijatelja koristeći Fireball Burner",
+      "it": "Distruggi qualsiasi nemico ARC usando un lanciafiamme Fireball",
+      "ja": "ファイアボールバーナーを使ってARCを破壊する",
+      "kr": "파이어볼 버너를 사용하여 아크 처치",
+      "no": "Ødelegg en hvilken som helst ARC-fiende ved å bruke en Fireball-brenner",
+      "pl": "Zniszcz dowolnego wroga ARC używając miotacza ognia Fireball",
+      "pt": "Destrua qualquer inimigo ARC usando um lança-chamas Fireball",
+      "pt-BR": "Destrua qualquer inimigo ARC usando Maçarico do Bola de Fogo",
+      "ru": "Уничтожить любого врага ARC с помощью Fireball Burner",
+      "sr": "Uništi bilo kog ARC neprijatelja koristeći Fireball Burner",
+      "tr": "Fireball Burner kullanarak herhangi bir ARC düşmanını yok et",
+      "uk": "Знищити будь-якого ворога ARC за допомогою Fireball Burner",
+      "zh-CN": "使用火球燃烧器摧毁任意ARC敌人",
+      "zh-TW": "使用火球燃燒器摧毀任意ARC敵人"
     }
   ],
   "rewardItemIds": [
@@ -91,10 +90,7 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [
-    "ss8"
-  ],
-  "nextQuestIds": [
-    "ss8b"
-  ]
+  "previousQuestIds": ["ss8"],
+  "nextQuestIds": ["ss8b"],
+  "updatedAt": "01/13/2026"
 }

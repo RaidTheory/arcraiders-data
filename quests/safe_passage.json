@@ -1,56 +1,28 @@
 {
   "id": "ss8",
-  "updatedAt": "11/06/2025",
   "name": {
-    "en": "Safe Passage",
-    "de": "Sicherer Durchgang",
-    "fr": "Passage sûr",
-    "es": "Salvoconducto",
-    "pt": "Passagem segura",
-    "pl": "Bezpieczne przejście",
-    "no": "Trygg passasje",
     "da": "Sikker passage",
-    "it": "Passaggio sicuro",
-    "uk": "Безпечний прохід",
-    "kr": "안전한 통로",
-    "ru": "Безопасный проход",
-    "zh-CN": "安全通道",
-    "ja": "安全な通路",
-    "tr": "Güvenli Geçiş",
-    "zh-TW": "安全通道",
-    "sr": "Siguran Prolaz",
+    "de": "Sicherer Durchgang",
+    "en": "Safe Passage",
+    "es": "Salvoconducto",
+    "fr": "Passage sûr",
+    "he": "מעבר בטוח",
     "hr": "Siguran Prolaz",
-    "pt-BR": "Passagem Segura",
-    "he": "מעבר בטוח"
+    "it": "Passaggio sicuro",
+    "ja": "安全な通路",
+    "kr": "안전한 통로",
+    "no": "Trygg passasje",
+    "pl": "Bezpieczne przejście",
+    "pt": "Passagem segura",
+    "pt-BR": "Travessia segura",
+    "ru": "Безопасный проход",
+    "sr": "Siguran Prolaz",
+    "tr": "Güvenli Geçiş",
+    "uk": "Безпечний прохід",
+    "zh-CN": "安全通道",
+    "zh-TW": "安全通道"
   },
   "trader": "Apollo",
-  "description": {
-    "de": "Ich hab Gerüchte über ein Singal gehört, das Shani aufgefangen hat. Die ARC passen sich ständig an, und ich bin mir sicher, dass das nicht ihr letztes Warnsignal sein wird. Na ja, wenn sie ein Wettrüsten wollen, dann kriegen sie eins."
-  },
-  "objectives": [
-    {
-      "en": "Destroy 2 ARC enemies using any explosive grenade",
-      "de": "Zerstöre 2 ARC-Gegner mit jeweils einer Explosionsgranate",
-      "fr": "Détruisez 2 ennemis ARC avec n'importe quelle grenade explosive",
-      "es": "Destruye 2 enemigos ARC usando cualquier granada explosiva",
-      "pt": "Destrua 2 inimigos ARC usando qualquer granada explosiva",
-      "pl": "Zniszcz 2 wrogów ARC używając dowolnego granatu wybuchowego",
-      "no": "Ødelegg 2 ARC-fiender ved å bruke en eksplosiv granat",
-      "da": "Ødelæg 2 ARC-fjender ved at bruge en eksplosiv granat",
-      "it": "Distruggi 2 nemici ARC usando qualsiasi granata esplosiva",
-      "uk": "Знищте 2 ворогів ARC за допомогою будь-якої вибухової гранати",
-      "kr": "폭발 수류탄으로 아크 2명 처치",
-      "ru": "Уничтожьте 2 врагов ARC с помощью любой взрывной гранаты",
-      "zh-CN": "使用任意爆炸手榴弹摧毁2个ARC敌人",
-      "ja": "任意のグレネードでARCを2体爆破する",
-      "tr": "Herhangi bir patlayıcı bomba kullanarak 2 ARC düşmanını yok et",
-      "zh-TW": "使用任意爆炸手榴彈摧毀2個ARC敵人",
-      "sr": "Uništite 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu",
-      "hr": "Uništite 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu",
-      "pt-BR": "Destrua 2 inimigos ARC usando qualquer granada explosiva",
-      "he": "השמד 2 אויבי ARC באמצעות רימון נפיץ כלשהו"
-    }
-  ],
   "grantedItemIds": [
     {
       "itemId": "light_impact_grenade",
@@ -59,6 +31,33 @@
     {
       "itemId": "snap_blast_grenade",
       "quantity": 3
+    }
+  ],
+  "description": {
+    "de": "Ich hab Gerüchte über ein Singal gehört, das Shani aufgefangen hat. Die ARC passen sich ständig an, und ich bin mir sicher, dass das nicht ihr letztes Warnsignal sein wird. Na ja, wenn sie ein Wettrüsten wollen, dann kriegen sie eins."
+  },
+  "objectives": [
+    {
+      "da": "Ødelæg 2 ARC-fjender ved at bruge en eksplosiv granat",
+      "de": "Zerstöre 2 ARC-Gegner mit jeweils einer Explosionsgranate",
+      "en": "Destroy 2 ARC enemies using any explosive grenade",
+      "es": "Destruye 2 enemigos ARC usando cualquier granada explosiva",
+      "fr": "Détruisez 2 ennemis ARC avec n'importe quelle grenade explosive",
+      "he": "השמד 2 אויבי ARC באמצעות רימון נפיץ כלשהו",
+      "hr": "Uništite 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu",
+      "it": "Distruggi 2 nemici ARC usando qualsiasi granata esplosiva",
+      "ja": "任意のグレネードでARCを2体爆破する",
+      "kr": "폭발 수류탄으로 아크 2명 처치",
+      "no": "Ødelegg 2 ARC-fiender ved å bruke en eksplosiv granat",
+      "pl": "Zniszcz 2 wrogów ARC używając dowolnego granatu wybuchowego",
+      "pt": "Destrua 2 inimigos ARC usando qualquer granada explosiva",
+      "pt-BR": "Destrua 2 inimigos ARC usando qualquer granada explosiva",
+      "ru": "Уничтожьте 2 врагов ARC с помощью любой взрывной гранаты",
+      "sr": "Uništite 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu",
+      "tr": "Herhangi bir patlayıcı bomba kullanarak 2 ARC düşmanını yok et",
+      "uk": "Знищте 2 ворогів ARC за допомогою будь-якої вибухової гранати",
+      "zh-CN": "使用任意爆炸手榴弹摧毁2个ARC敌人",
+      "zh-TW": "使用任意爆炸手榴彈摧毀2個ARC敵人"
     }
   ],
   "rewardItemIds": [
@@ -76,10 +75,7 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [
-    "ss5"
-  ],
-  "nextQuestIds": [
-    "ss8a"
-  ]
+  "previousQuestIds": ["ss5"],
+  "nextQuestIds": ["ss8a"],
+  "updatedAt": "01/13/2026"
 }
