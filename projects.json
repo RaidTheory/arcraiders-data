@@ -203,15 +203,15 @@
         "requirementItemIds": [
           {
             "itemId": "light_bulb",
-            "quantity": 4
+            "quantity": 5
           },
           {
             "itemId": "battery",
             "quantity": 30
           },
           {
-            "itemId": "shredder_gyro",
-            "quantity": 10
+            "itemId": "sensors",
+            "quantity": 20
           },
           {
             "itemId": "exodus_modules",
