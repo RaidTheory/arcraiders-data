@@ -116,11 +116,11 @@
         "22": "electromagnetic-storm"
       },
       "minor": {
-        "1": "uncovered-caches",
+        "1": "lush-blooms",
         "5": "matriarch",
         "9": "harvester",
         "13": "matriarch",
-        "17": "husk-graveyard",
+        "17": "uncovered-caches",
         "21": "harvester"
       }
     },
@@ -135,11 +135,11 @@
       },
       "minor": {
         "0": "husk-graveyard",
-        "4": "uncovered-caches",
+        "4": "prospecting-probes",
         "8": "husk-graveyard",
-        "12": "uncovered-caches",
+        "12": "prospecting-probes",
         "16": "husk-graveyard",
-        "20": "uncovered-caches"
+        "20": "prospecting-probes"
       }
     },
     "the-spaceport": {
@@ -154,7 +154,7 @@
       "minor": {
         "3": "matriarch",
         "7": "launch-tower-loot",
-        "11": "uncovered-caches",
+        "11": "lush-blooms",
         "15": "launch-tower-loot",
         "19": "matriarch",
         "23": "harvester"
@@ -171,13 +171,13 @@
       },
       "minor": {
         "2": "matriarch",
-        "5": "husk-graveyard",
+        "5": "uncovered-caches",
         "8": "matriarch",
         "11": "harvester",
         "14": "matriarch",
-        "17": "uncovered-caches",
+        "17": "lush-blooms",
         "20": "harvester",
-        "23": "husk-graveyard"
+        "23": "uncovered-caches"
       }
     },
     "stella-montis": {
