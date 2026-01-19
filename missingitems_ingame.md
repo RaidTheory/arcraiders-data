@@ -1,6 +1,5 @@
 We currently are missing several in-game item images. If you want to contribute them, please feel free to open a pull request. The images should be 128x128 and should be cleaned up (aligned properly; no item count/level). You can use [ArcRaiders Item Cleaner](https://github.com/Drommedhar/ArcRaidersItemImageCleaner/) for that.
 
-- angled_grip_iii
 - backpack_black_hiker_color
 - banana
 - blue_radio_renegade_color
@@ -13,13 +12,9 @@ We currently are missing several in-game item images. If you want to contribute 
 - celeste_journal
 - cheer
 - combat_mk1
-- combat_mk3_aggressive
-- combat_mk3_aggressive_blueprint
-- dam_testing_annex_key
 - dam_utility_key
 - damaged_wasp_drive
 - experimental_seed_sample
-- extended_light_mag_i
 - extended_light_mag_iii
 - first_wave_compass
 - first_wave_rations
@@ -33,12 +28,9 @@ We currently are missing several in-game item images. If you want to contribute 
 - lidar_scanner
 - major_aivas_patch
 - radio_renegade
-- spaceport_trench_tower_key
-- stable_stock_i
-- tactical_mk3_defensive
-- temptest_ii
-- temptest_iii
-- temptest_iv
+- tempest_ii
+- tempest_iii
+- tempest_iv
 - vulcano_ii
 - vulcano_iii
 - vulcano_iv
