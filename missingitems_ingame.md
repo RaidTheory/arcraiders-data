@@ -32,7 +32,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - junior_outfit
 - lances_mixtape_5th_edition
 - launcher_ammo_blueprint
-- li_l_smoke_grenade
 - lidar_scanner
 - major_aivas_patch
 - radio_renegade
