@@ -54,14 +54,14 @@
       "icon": "https://cdn.arctracker.io/map-events/lush_blooms.png",
       "translationKey": "lushBlooms",
       "category": "minor",
-      "disabled": true
+      "disabled": false
     },
     "prospecting-probes": {
       "displayName": "Prospecting Probes",
       "icon": "https://cdn.arctracker.io/map-events/prospecting_probes.png",
       "translationKey": "prospectingProbes",
       "category": "minor",
-      "disabled": true
+      "disabled": false
     },
     "husk-graveyard": {
       "displayName": "Husk Graveyard",
