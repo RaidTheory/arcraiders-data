@@ -122,8 +122,8 @@
   },
   "craftBench": "equipment_bench",
   "recipe": {
-    "advanced_mechanical_components": 2,
-    "processor": 2
+    "advanced_electrical_components": 2,
+    "processor": 3
   },
   "recyclesInto": {
     "advanced_electrical_components": 1,
