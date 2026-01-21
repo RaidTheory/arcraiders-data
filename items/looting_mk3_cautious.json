@@ -48,6 +48,7 @@
   "rarity": "Epic",
   "value": 5000,
   "weightKg": 3,
+  "stackSize": 1,
   "effects": {
     "Durability": {
       "value": "100/100",
@@ -132,5 +133,5 @@
     "electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_cautious.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/20/2026"
 }

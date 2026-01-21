@@ -48,6 +48,7 @@
   "rarity": "Epic",
   "value": 5000,
   "weightKg": 5,
+  "stackSize": 1,
   "blueprintLocked": true,
   "effects": {
     "Backpack Slots": {
@@ -249,7 +250,7 @@
     "electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/combat_mk3_aggressive.png",
-  "updatedAt": "01/13/2026",
+  "updatedAt": "01/20/2026",
   "repairCost": {
     "advanced_electrical_components": 1,
     "processor": 2

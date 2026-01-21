@@ -48,6 +48,7 @@
   "rarity": "Epic",
   "value": 5000,
   "weightKg": 5,
+  "stackSize": 1,
   "blueprintLocked": true,
   "effects": {
     "Durability": {
@@ -134,5 +135,5 @@
     "electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_defensive.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/20/2026"
 }
