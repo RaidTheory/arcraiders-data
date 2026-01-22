@@ -48,6 +48,7 @@
   "rarity": "Rare",
   "value": 2000,
   "weightKg": 2,
+  "stackSize": 1,
   "effects": {
     "Durability": {
       "value": "100/100",
@@ -132,5 +133,5 @@
     "electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/20/2026"
 }
