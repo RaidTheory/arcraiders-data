@@ -95,6 +95,7 @@ const json_sort_orders = {
         localizations: null,
         category: null,
         disabled: null,
+        "/^[0-9]+$/": "numeric",
         "/.*/": "caseInsensitiveLexical"
       }
     }
