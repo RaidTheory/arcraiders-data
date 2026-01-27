@@ -114,6 +114,7 @@ const json_sort_orders = {
       name: "projects",
       rules: {
         id: null,
+        disabled: null,
         name: null,
         description: null,
         phases: null,
