@@ -1,6 +1,7 @@
 [
   {
     "id": "expedition_project",
+    "disabled": false,
     "name": {
       "da": "Ekspeditionsprojekt (Sæson 2)",
       "de": "Expeditionsprojekt (Saison 2)",
@@ -408,6 +409,7 @@
   },
   {
     "id": "expedition_project_s1",
+    "disabled": false,
     "name": {
       "da": "Ekspeditionsprojekt (Sæson 1)",
       "de": "Expeditionsprojekt (Saison 1)",
@@ -815,6 +817,7 @@
   },
   {
     "id": "flickering_flames_project",
+    "disabled": true,
     "name": {
       "da": "Flakkende flammer",
       "de": "Flackernde Flammen",

@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 640,
   "weightKg": 2,
+  "stackSize": 1,
   "effects": {
     "Durability": {
       "value": "100/100",
@@ -132,5 +133,5 @@
     "plastic_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/20/2026"
 }

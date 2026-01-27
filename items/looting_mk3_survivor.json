@@ -49,6 +49,7 @@
   "value": 5000,
   "weightKg": 4,
   "stackSize": 1,
+  "blueprintLocked": true,
   "effects": {
     "Durability": {
       "value": "100/100",
@@ -122,8 +123,8 @@
   },
   "craftBench": "equipment_bench",
   "recipe": {
-    "advanced_mechanical_components": 2,
-    "processor": 2
+    "advanced_electrical_components": 2,
+    "processor": 3
   },
   "recyclesInto": {
     "advanced_electrical_components": 1,
@@ -133,5 +134,5 @@
     "electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_survivor.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/20/2026"
 }
