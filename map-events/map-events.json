@@ -67,7 +67,8 @@
       "displayName": "Husk Graveyard",
       "icon": "https://cdn.arctracker.io/map-events/husk_graveyard.png",
       "translationKey": "huskGraveyard",
-      "category": "minor"
+      "category": "minor",
+      "disabled": true
     },
     "uncovered-caches": {
       "displayName": "Uncovered Caches",
@@ -109,60 +110,57 @@
     "dam-battleground": {
       "major": {
         "2": "night-raid",
-        "6": "electromagnetic-storm",
-        "10": "night-raid",
-        "14": "electromagnetic-storm",
-        "18": "night-raid",
-        "22": "electromagnetic-storm"
+        "10": "electromagnetic-storm",
+        "14": "night-raid",
+        "18": "electromagnetic-storm"
       },
       "minor": {
-        "1": "prospecting-probes",
+        "1": "harvester",
+        "4": "lush-blooms",
         "5": "matriarch",
-        "9": "harvester",
-        "13": "matriarch",
-        "17": "husk-graveyard",
-        "21": "harvester"
+        "7": "harvester",
+        "9": "lush-blooms",
+        "13": "harvester",
+        "15": "lush-blooms",
+        "19": "harvester",
+        "21": "lush-blooms"
       }
     },
     "buried-city": {
       "major": {
         "3": "night-raid",
-        "7": "night-raid",
         "11": "night-raid",
-        "15": "night-raid",
-        "19": "night-raid",
-        "23": "night-raid"
+        "19": "night-raid"
       },
       "minor": {
-        "0": "husk-graveyard",
-        "4": "prospecting-probes",
-        "8": "husk-graveyard",
-        "12": "prospecting-probes",
-        "16": "husk-graveyard",
-        "20": "prospecting-probes"
+        "4": "lush-blooms",
+        "8": "prospecting-probes",
+        "12": "lush-blooms",
+        "20": "lush-blooms"
       }
     },
     "the-spaceport": {
       "major": {
-        "0": "electromagnetic-storm",
         "4": "night-raid",
-        "8": "hidden-bunker",
-        "12": "electromagnetic-storm",
-        "16": "hidden-bunker",
+        "8": "electromagnetic-storm",
+        "16": "electromagnetic-storm",
         "20": "night-raid"
       },
       "minor": {
+        "1": "launch-tower-loot",
         "3": "matriarch",
-        "7": "launch-tower-loot",
-        "11": "prospecting-probes",
-        "15": "launch-tower-loot",
-        "19": "matriarch",
-        "23": "harvester"
+        "6": "harvester",
+        "9": "matriarch",
+        "13": "launch-tower-loot",
+        "15": "matriarch",
+        "18": "harvester",
+        "21": "matriarch"
       }
     },
     "blue-gate": {
       "major": {
         "1": "night-raid",
+        "5": "locked-gate",
         "9": "electromagnetic-storm",
         "13": "locked-gate",
         "17": "night-raid",
@@ -170,21 +168,17 @@
       },
       "minor": {
         "2": "matriarch",
-        "5": "husk-graveyard",
         "8": "matriarch",
         "11": "harvester",
         "14": "matriarch",
-        "20": "harvester",
-        "23": "husk-graveyard"
+        "20": "matriarch",
+        "23": "harvester"
       }
     },
     "stella-montis": {
       "major": {
-        "2": "night-raid",
         "6": "night-raid",
-        "10": "night-raid",
         "14": "night-raid",
-        "18": "night-raid",
         "22": "night-raid"
       },
       "minor": {}
