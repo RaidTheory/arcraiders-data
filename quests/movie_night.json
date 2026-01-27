@@ -1,0 +1,143 @@
+{
+  "id": "movie_night",
+  "name": {
+    "da": "Filmaften",
+    "de": "Filmabend",
+    "en": "Movie Night",
+    "es": "Noche de cine",
+    "fr": "Soirée cinéma",
+    "he": "ערב סרט",
+    "hr": "Filmska večer",
+    "it": "Serata film",
+    "ja": "映画鑑賞会",
+    "kr": "무비 나이트",
+    "no": "Filmkveld",
+    "pl": "Wieczór filmowy",
+    "pt": "Noite de Cinema",
+    "pt-BR": "Noite de Cinema",
+    "ru": "Ночь кино",
+    "sr": "Filmsko veče",
+    "tr": "Film Gecesi",
+    "uk": "Вечір кіно",
+    "zh-CN": "电影之夜",
+    "zh-TW": "電影之夜"
+  },
+  "map": ["stella_montis"],
+  "trader": "Apollo",
+  "grantedItemIds": [
+    {
+      "itemId": "blue_light_stick",
+      "quantity": 3
+    },
+    {
+      "itemId": "yellow_light_stick",
+      "quantity": 3
+    }
+  ],
+  "description": {
+    "da": "Alle har været på dupperne, lige siden rygterne om det ARC-signal spredte sig. Jeg tænkte, at en filmaften ville være en god adspredelse, men jeg mangler nogle vigtige forsyninger.\nDu hjælper mig, ikke?",
+    "de": "Alle sind nervös, seit sich Gerüchte über dieses ARC-Signal verbreitet haben. Ich dachte, ein Filmabend wäre eine tolle Ablenkung, aber mir fehlen einige wichtige Vorräte.\nDu hilfst mir doch, oder?",
+    "en": "Everyone's been on edge ever since rumors of that ARC signal spread. I was thinking a movie night would be a great distraction, but I'm missing some crucial supplies.\nYou'll help me out, yeah?",
+    "es": "Todo el mundo ha estado nervioso desde que se difundieron los rumores de esa señal de ARC. Estaba pensando que una noche de cine sería una gran distracción, pero me faltan algunos suministros cruciales.\nMe ayudarás, ¿verdad?",
+    "fr": "Tout le monde est sur les nerfs depuis que les rumeurs sur ce signal ARC se sont répandues. Je pensais qu'une soirée cinéma serait une excellente distraction, mais il me manque quelques fournitures cruciales.\nTu vas m'aider, hein ?",
+    "he": "כולם במתח מאז שהשמועות על האות של ARC נפוצו. חשבתי שערב סרט יהיה הסחת דעת מצוינת, אבל חסרה לי אספקה קריטית.\nאתה תעזור לי, כן?",
+    "hr": "Svi su na rubu otkako su se proširile glasine o tom ARC signalu. Mislio sam da bi filmska večer bila odlična distrakcija, ali nedostaju mi neke ključne zalihe.\nPomoći ćeš mi, zar ne?",
+    "it": "Tutti sono nervosi da quando si sono diffuse le voci su quel segnale ARC. Stavo pensando che una serata film sarebbe stata una grande distrazione, ma mi mancano alcune forniture cruciali.\nMi darai una mano, vero?",
+    "ja": "あのARC信号の噂が広まってから、みんなピリピリしている。映画鑑賞会でもやればいい気晴らしになると思ったんだが、重要な物資がいくつか足りないんだ。\n手伝ってくれるよな？",
+    "kr": "그 ARC 신호에 대한 소문이 퍼진 이후로 다들 예민해져 있어. 무비 나이트가 훌륭한 기분 전환이 될 거라고 생각했는데, 중요한 물품이 몇 개 부족해.\n도와줄 거지?",
+    "no": "Alle har vært nervøse helt siden ryktene om det ARC-signalet spredte seg. Jeg tenkte at en filmkveld ville være en god distraksjon, men jeg mangler noen viktige forsyninger.\nDu hjelper meg, ikke sant?",
+    "pl": "Wszyscy są poddenerwowani, odkąd rozeszły się plotki o tym sygnale ARC. Pomyślałem, że wieczór filmowy byłby świetną odskocznią, ale brakuje mi kilku kluczowych zapasów.\nPomożesz mi, co?",
+    "pt": "Toda a gente tem andado nervosa desde que os rumores sobre aquele sinal da ARC se espalharam. Estava a pensar que uma noite de cinema seria uma ótima distração, mas faltam-me alguns mantimentos cruciais.\nAjudas-me, sim?",
+    "pt-BR": "Todo mundo está nervoso desde que os rumores sobre aquele sinal da ARC se espalharam. Eu estava pensando que uma noite de cinema seria uma ótima distração, mas estou sem alguns suprimentos cruciais.\nVocê vai me ajudar, né?",
+    "ru": "Все на взводе с тех пор, как поползли слухи об этом сигнале ARC. Я подумал, что ночь кино была бы отличным способом отвлечься, но мне не хватает кое-каких важных припасов.\nТы же поможешь мне, да?",
+    "sr": "Svi su na ivici otkako su se proširile glasine o tom ARC signalu. Mislio sam da bi filmsko veče bilo odlična distrakcija, ali nedostaju mi neke ključne zalihe.\nPomoći ćeš mi, zar ne?",
+    "tr": "O ARC sinyali söylentileri yayıldığından beri herkes diken üstünde. Bir film gecesinin harika bir dikkat dağıtıcı olacağını düşünüyordum ama bazı hayati malzemelerim eksik.\nBana yardım edersin, değil mi?",
+    "uk": "Всі на взводі відтоді, як поширилися чутки про той сигнал ARC. Я думав, що вечір кіно був би чудовим способом відволіктися, але мені не вистачає деяких важливих запасів.\nТи ж допоможеш мені, так?",
+    "zh-CN": "自从那个ARC信号的谣言传开后，每个人都神经紧绷。我在想电影之夜会是个很好的消遣，但我缺少一些关键的补给。\n你会帮我的，是吧？",
+    "zh-TW": "自從那個ARC信號的謠言傳開後，每個人都神經緊繃。我在想電影之夜會是個很好的消遣，但我缺少一些關鍵的補給。\n你會幫我的，是吧？"
+  },
+  "objectives": [
+    {
+      "da": "Lever et bærbart tv til Apollo",
+      "de": "Liefere einen tragbaren Fernseher bei Apollo ab",
+      "en": "Deliver a Portable TV to Apollo",
+      "es": "Entrega un televisor portátil a Apollo",
+      "fr": "Livrer une télé portable à Apollo",
+      "he": "מסור טלוויזיה ניידת לאפולו",
+      "hr": "Dostavi prijenosni TV Apollu",
+      "it": "Consegna una TV portatile ad Apollo",
+      "ja": "ポータブルテレビをアポロに届ける",
+      "kr": "휴대용 TV를 아폴로에게 전달",
+      "no": "Lever en bærbar TV til Apollo",
+      "pl": "Dostarcz przenośny telewizor do Apollo",
+      "pt": "Entrega uma TV Portátil a Apollo",
+      "pt-BR": "Entregue uma TV Portátil para Apollo",
+      "ru": "Доставить портативный телевизор Аполлону",
+      "sr": "Dostavi prenosni TV Apollu",
+      "tr": "Apollo'ya bir Taşınabilir TV teslim et",
+      "uk": "Доставте портативний телевізор Аполлону",
+      "zh-CN": "将一台便携式电视交给阿波罗",
+      "zh-TW": "將一台便攜式電視交給阿波羅"
+    },
+    {
+      "da": "På Stella Montis skal du søge i kulturarkiverne efter gamle filmbånd",
+      "de": "Suche auf Stella Montis in den Kulturarchiven nach alten Filmbändern",
+      "en": "On Stella Montis, search the Cultural Archives for old movie tapes",
+      "es": "En Stella Montis, busca cintas de películas antiguas en los Archivos Culturales",
+      "fr": "Sur Stella Montis, chercher de vieilles cassettes de films dans les archives culturelles",
+      "he": "בסטלה מונטיס, חפש קלטות סרטים ישנות בארכיון התרבות",
+      "hr": "Na Stella Montisu, pretraži Kulturne arhive za stare filmske vrpce",
+      "it": "Su Stella Montis, cerca vecchi nastri di film negli Archivi Culturali",
+      "ja": "ステラ・モンティスで、文化アーカイブから古い映画のテープを探す",
+      "kr": "스텔라 몬티스, 문화 기록 보관소에서 오래된 영화 테이프 검색",
+      "no": "På Stella Montis, søk i kulturarkivene etter gamle filmkassetter",
+      "pl": "Na Stella Montis przeszukaj Archiwa Kulturowe w poszukiwaniu starych taśm filmowych",
+      "pt": "Em Stella Montis, procura cassetes de filmes antigos nos Arquivos Culturais",
+      "pt-BR": "Em Stella Montis, procure por fitas de filmes antigas nos Arquivos Culturais",
+      "ru": "На Стелла Монтис поискать старые кинопленки в Культурных архивах",
+      "sr": "Na Stella Montisu, pretraži Kulturne arhive za stare filmske trake",
+      "tr": "Stella Montis'te, Kültürel Arşivlerde eski film kasetlerini ara",
+      "uk": "На Stella Montis пошукайте старі кіноплівки в Культурних архівах",
+      "zh-CN": "在斯特拉蒙蒂斯，去文化档案馆搜寻旧电影录像带",
+      "zh-TW": "在斯特拉蒙蒂斯，去文化檔案館搜尋舊電影錄影帶"
+    },
+    {
+      "da": "Lever stakken af filmbånd til Apollo",
+      "de": "Liefere den Stapel Filmbänder bei Apollo ab",
+      "en": "Deliver the Stack of Movie Tapes to Apollo",
+      "es": "Entrega la pila de cintas de películas a Apollo",
+      "fr": "Livrer la pile de cassettes de films à Apollo",
+      "he": "מסור את ערימת קלטות הסרטים לאפולו",
+      "hr": "Dostavi hrpu filmskih vrpci Apollu",
+      "it": "Consegna la pila di nastri di film ad Apollo",
+      "ja": "映画テープの山をアポロに届ける",
+      "kr": "영화 테이프 더미를 아폴로에게 전달",
+      "no": "Lever bunken med filmkassetter til Apollo",
+      "pl": "Dostarcz stos taśm filmowych do Apollo",
+      "pt": "Entrega a Pilha de Cassetes de Filmes a Apollo",
+      "pt-BR": "Entregue a Pilha de Fitas de Filmes para Apollo",
+      "ru": "Доставить стопку кинопленок Аполлону",
+      "sr": "Dostavi gomilu filmskih traka Apollu",
+      "tr": "Film Kaseti Yığınını Apollo'ya teslim et",
+      "uk": "Доставте стос кіноплівок Аполлону",
+      "zh-CN": "将一堆电影录像带交给阿波罗",
+      "zh-TW": "將一堆電影錄影帶交給阿波羅"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "showstopper",
+      "quantity": 3
+    },
+    {
+      "itemId": "smoke_grenade",
+      "quantity": 3
+    },
+    {
+      "itemId": "fireworks_box",
+      "quantity": 1
+    }
+  ],
+  "previousQuestIds": ["the_league"],
+  "updatedAt": "01/27/2026"
+}
