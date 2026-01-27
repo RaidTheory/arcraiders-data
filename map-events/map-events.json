@@ -110,11 +110,9 @@
     "dam-battleground": {
       "major": {
         "2": "night-raid",
-        "6": "electromagnetic-storm",
-        "10": "night-raid",
-        "14": "electromagnetic-storm",
-        "18": "night-raid",
-        "22": "electromagnetic-storm"
+        "10": "electromagnetic-storm",
+        "14": "night-raid",
+        "18": "electromagnetic-storm"
       },
       "minor": {
         "1": "harvester",
@@ -131,28 +129,21 @@
     "buried-city": {
       "major": {
         "3": "night-raid",
-        "7": "night-raid",
         "11": "night-raid",
-        "15": "night-raid",
-        "19": "night-raid",
-        "23": "night-raid"
+        "19": "night-raid"
       },
       "minor": {
-        "0": "prospecting-probes",
         "4": "lush-blooms",
         "8": "prospecting-probes",
         "12": "lush-blooms",
-        "16": "prospecting-probes",
         "20": "lush-blooms"
       }
     },
     "the-spaceport": {
       "major": {
-        "0": "electromagnetic-storm",
         "4": "night-raid",
         "8": "electromagnetic-storm",
-        "12": "electromagnetic-storm",
-        "16": "hidden-bunker",
+        "16": "electromagnetic-storm",
         "20": "night-raid"
       },
       "minor": {
@@ -186,11 +177,8 @@
     },
     "stella-montis": {
       "major": {
-        "2": "night-raid",
         "6": "night-raid",
-        "10": "night-raid",
         "14": "night-raid",
-        "18": "night-raid",
         "22": "night-raid"
       },
       "minor": {}
