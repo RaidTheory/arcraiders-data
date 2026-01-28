@@ -41,7 +41,7 @@
     "sr": "Ručni top jednostrukog okidanja sa visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem.",
     "tr": "Tek etkili el topu; yüksek hasar ve kafa vuruşu hasarı sunar, ancak kullanım yavaştır.",
     "uk": "Ручна гармата одинарної дії з високою шкодою та підвищеним уроном у голову, але з повільним поводженням.",
-    "zh-CN": "单动式手炮，伤害与爆头伤害高，但操控缓慢。",
+    "zh-CN": "伤害高且爆头伤害尤其高，但操作速度较慢。",
     "zh-TW": "單動式手砲，具有高傷害與爆頭傷害，但操控較慢。"
   },
   "type": "Hand Cannon",
@@ -93,7 +93,7 @@
       "sr": "ARC probijanje oklopa",
       "tr": "ARC Zırh Delme",
       "uk": "Пробиття броні ARC",
-      "zh-CN": "ARC 装甲穿透",
+      "zh-CN": "ARC 护甲穿透",
       "zh-TW": "ARC 裝甲穿透"
     },
     "Durability": {
@@ -116,7 +116,7 @@
       "sr": "Izdržljivost",
       "tr": "Dayanıklılık",
       "uk": "Міцність",
-      "zh-CN": "耐久度",
+      "zh-CN": "耐用性",
       "zh-TW": "耐久度"
     },
     "Firing Mode": {

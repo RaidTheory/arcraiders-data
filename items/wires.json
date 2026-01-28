@@ -32,7 +32,7 @@
     "hr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Vatrena Zamka s Granatom, Dimna Zamka s Granatom, Zamka s Mamcem, Plinska Zamka s Granatom, Usporivač Cijevi I",
     "it": "Si usa per creare un'ampia gamma di oggetti. Si può riciclare in materiali da creazione. Si usa per creare: Trappola laser: Fuoco, Trappola laser: Fumogeno, Trappola laser: Esca, Trappola laser: Gas, Freno di bocca I",
     "ja": "幅広いアイテムの作成に使用。クラフト素材にリサイクル可能。作成可能: ブレイズグレネードトラップ、スモークグレネードトラップ、ルアーグレネードトラップ、ガスグレネードトラップ、マズルブレーキI",
-    "kr": "다양한 아이템 제작에 사용됩니다. 제작 재료로 재활용 가능. 제작 가능: 화염 수류탄 함정, 연막 수류탄 함정, 미끼 수류탄 함정, 가스 수류탄 함정, 총구 제동기 I",
+    "kr": "다양한 아이템 제작에 사용됩니다. 제작 재료로 재활용 가능. 제작 가능: 화염 수류탄 함정, 연막 수류탄 함정, 유인 수류탄 함정, 가스 수류탄 함정, 총구 제동기 I",
     "no": "Brukes til å lage et bredt spekter av gjenstander. Kan resirkuleres til håndverksmateriell. Brukes til å lage: Flammegranatfelle, Røykgranatfelle, Lokkemiddelgranatfelle, Gassgranatfelle, Munningsbrems I",
     "pl": "Używany do wytwarzania szerokiej gamy przedmiotów. Może być przetworzony na materiały rzemieślnicze. Używany do wytwarzania: Pułapka z granatem zapalającym, Pułapka z granatem dymnym, Pułapka z granatem wabik, Pułapka z granatem gazowym, Hamulec wylotowy I",
     "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Armadilha de granada incendiária, Armadilha de granada de fumaça, Armadilha de granada isca, Armadilha de granada de gás, Freio de boca I",
@@ -51,12 +51,12 @@
   "weightKg": 0.25,
   "stackSize": 15,
   "recyclesInto": {
-    "rubber_parts": 3
+    "rubber_parts": 2
   },
   "salvagesInto": {
     "rubber_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/wires.png",
-  "updatedAt": "01/09/2026",
+  "updatedAt": "01/20/2026",
   "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials."
 }

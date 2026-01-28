@@ -20,7 +20,7 @@
       "sr": "Naviknut na Težinu",
       "tr": "Ağırlığa Alışkın",
       "uk": "Звик до ваги",
-      "zh-CN": "习惯重量",
+      "zh-CN": "负重如常",
       "zh-TW": "慣於負重"
     },
     "category": "CONDITIONING",
@@ -44,7 +44,7 @@
       "sr": "Nošenje štita te ne usporava toliko.",
       "tr": "Kalkan taşımak sizi o kadar yavaşlatmaz.",
       "uk": "Носіння щита не так сильно сповільнює вас.",
-      "zh-CN": "装备盾牌不会让你减速太多。",
+      "zh-CN": "携带护盾不会让你的移动能力下降太多。",
       "zh-TW": "降低裝備護盾時的減速效果。"
     },
     "maxPoints": 5,
@@ -99,7 +99,7 @@
       "sr": "Rođen u Eksploziji",
       "tr": "Patlamadan Doğan",
       "uk": "Народжений вибухом",
-      "zh-CN": "爆炸之子",
+      "zh-CN": "爆鸣抗性",
       "zh-TW": "習於爆炸"
     },
     "category": "CONDITIONING",
@@ -123,7 +123,7 @@
       "sr": "Tvoj sluh je manje pogođen obližnjim eksplozijama.",
       "tr": "İşitmeniz yakındaki patlamalardan daha az etkilenir.",
       "uk": "Ваш слух менше страждає від близьких вибухів.",
-      "zh-CN": "你的听力较少受到附近爆炸的影响。",
+      "zh-CN": "你的听力受附近爆炸的影响减少。",
       "zh-TW": "降低附近的爆炸對您聽力的影響。"
     },
     "maxPoints": 5,
@@ -202,7 +202,7 @@
       "sr": "Praviš manje buke prilikom provale.",
       "tr": "Kırma sırasında daha az ses çıkarırsınız.",
       "uk": "Ви створюєте менше шуму при зломі.",
-      "zh-CN": "破门时产生的噪音更少。",
+      "zh-CN": "破坏物品时的动静变小。",
       "zh-TW": "破門時更安靜。"
     },
     "maxPoints": 5,
@@ -257,7 +257,7 @@
       "sr": "Borba ili Beg",
       "tr": "Savaş Ya Da Kaç",
       "uk": "Бий або тікай",
-      "zh-CN": "战或逃",
+      "zh-CN": "要么战，要么跑",
       "zh-TW": "戰或逃"
     },
     "category": "CONDITIONING",
@@ -281,7 +281,7 @@
       "sr": "Kada si ranjen u borbi, povrati fiksnu količinu izdržljivosti. Ima vreme hlađenja između korišćenja.",
       "tr": "Savaşta yaralandığınızda sabit miktarda dayanıklılık kazanırsınız. Kullanımlar arasında bekleme süresi vardır.",
       "uk": "Коли ви отримуєте пошкодження в бою, відновлюється фіксована кількість витривалості. Має час відновлення між використаннями.",
-      "zh-CN": "在战斗中受伤时，恢复固定数量的耐力。使用之间有冷却时间。",
+      "zh-CN": "在战斗中受伤时，恢复一定数值的耐力。每次触发后有冷却时间。",
       "zh-TW": "在戰鬥中受到傷害時，恢復固定量的體力。使用每次觸發後有冷卻時間。"
     },
     "maxPoints": 5,
@@ -336,7 +336,7 @@
       "sr": "Vešt Provalnik",
       "tr": "Usta Kırıcı",
       "uk": "Досвідчений зломщик",
-      "zh-CN": "熟练撬锁者",
+      "zh-CN": "撬锁大师",
       "zh-TW": "撬棍熟手"
     },
     "category": "CONDITIONING",
@@ -360,7 +360,7 @@
       "sr": "Provala vrata i kontejnera traje kraće",
       "tr": "Kapıları ve konteynerleri kırmak daha az zaman alır",
       "uk": "Злом дверей та контейнерів займає менше часу",
-      "zh-CN": "破门和破坏容器所需时间更短",
+      "zh-CN": "破门和打破容器所需的时间减少。",
       "zh-TW": "縮短破壞門和容器的所需時間"
     },
     "maxPoints": 5,
@@ -383,7 +383,7 @@
       "sr": "Smanjenje Vremena Provale",
       "tr": "Kırma Süresi Azaltma",
       "uk": "Скорочення часу злому",
-      "zh-CN": "破门时间减少",
+      "zh-CN": "撬东西时间减少",
       "zh-TW": "破門時間減少"
     },
     "knownValue": [],
@@ -415,7 +415,7 @@
       "sr": "Izdržljivost Preživelog",
       "tr": "Hayatta Kalanın Dayanıklılığı",
       "uk": "Витривалість вижившого",
-      "zh-CN": "幸存者耐力",
+      "zh-CN": "求生耐力",
       "zh-TW": "生存者的體力"
     },
     "category": "CONDITIONING",
@@ -439,7 +439,7 @@
       "sr": "Kada si kritično ranjen, tvoja izdržljivost se regeneriše brže.",
       "tr": "Kritik şekilde yaralandığınızda dayanıklılığınız daha hızlı yenilenir.",
       "uk": "Коли ви критично поранені, ваша витривалість відновлюється швидше.",
-      "zh-CN": "当你受到重伤时，耐力恢复速度更快。",
+      "zh-CN": "在重伤状态下，你的耐力恢复速度增加。",
       "zh-TW": "受到重傷時，體力恢復速度更快。"
     },
     "maxPoints": 1,
@@ -494,7 +494,7 @@
       "sr": "Neopterećeno Kotrljanje",
       "tr": "Yüksüz Yuvarlanma",
       "uk": "Полегшений перекат",
-      "zh-CN": "无负担翻滚",
+      "zh-CN": "轻装翻滚",
       "zh-TW": "無負擔翻滾"
     },
     "category": "CONDITIONING",
@@ -518,7 +518,7 @@
       "sr": "Ako ti se štit slomi, tvoje prvo Kotrljanje Izbegavanja u roku od nekoliko sekundi ne troši izdržljivost.",
       "tr": "Kalkanınız kırılırsa, birkaç saniye içindeki ilk Yuvarlanma Hareketi dayanıklılık harcamaz.",
       "uk": "Якщо ваш щит ламається, перший перекат протягом кількох секунд не витрачає витривалість.",
-      "zh-CN": "如果你的盾牌破碎，几秒内的第一次闪避翻滚不消耗耐力。",
+      "zh-CN": "如果护盾被打碎，在接下来数秒内的首次翻滚闪避不消耗耐力。",
       "zh-TW": "如果你的護盾損毀，幾秒內的第一次閃避翻滾不消耗體力。"
     },
     "maxPoints": 1,
@@ -573,7 +573,7 @@
       "sr": "Malo Ekstra",
       "tr": "Biraz Ekstra",
       "uk": "Трохи додатково",
-      "zh-CN": "额外收获",
+      "zh-CN": "破物生资",
       "zh-TW": "附增一點點(額外收穫)"
     },
     "category": "CONDITIONING",
@@ -597,7 +597,7 @@
       "sr": "Provala objekta generiše resurse.",
       "tr": "Bir nesneyi kırmak kaynak üretir.",
       "uk": "Злом об'єкта генерує ресурси.",
-      "zh-CN": "破坏物体会产生资源。",
+      "zh-CN": "破坏物体可产生资源。",
       "zh-TW": "破壞物體會產生資源。"
     },
     "maxPoints": 1,
@@ -652,7 +652,7 @@
       "sr": "Oboren ali Odlučan",
       "tr": "Yere Düşmüş Ama Kararlı",
       "uk": "Збитий, але рішучий",
-      "zh-CN": "倒下但坚定",
+      "zh-CN": "人倒志不倒",
       "zh-TW": "倒而不潰"
     },
     "category": "CONDITIONING",
@@ -676,7 +676,7 @@
       "sr": "Kada si oboren, treba duže pre nego što se sruši.",
       "tr": "Yere düştüğünüzde tamamen çökmeden önce daha uzun süre dayanırsınız.",
       "uk": "Коли вас збивають, до повного падіння проходить більше часу.",
-      "zh-CN": "当你倒下时，完全倒地前需要更长时间。",
+      "zh-CN": "倒地后可以坚持更长时间才会完全失去行动能力。",
       "zh-TW": "被擊倒後，完全倒地前可以堅持更久。"
     },
     "maxPoints": 5,
@@ -737,26 +737,26 @@
     "category": "CONDITIONING",
     "isMajor": false,
     "description": {
-      "da": "Nærkampsevner koster mindre udholdenhed. ",
+      "da": "Nærkampsevner koster mindre udholdenhed.",
       "de": "Nahkampffähigkeiten kosten weniger Ausdauer.",
-      "en": "Melee abilities cost less stamina. ",
-      "es": "Las habilidades cuerpo a cuerpo cuestan menos resistencia. ",
+      "en": "Melee abilities cost less stamina.",
+      "es": "Las habilidades cuerpo a cuerpo cuestan menos resistencia.",
       "fr": "Les capacités au corps à corps consomment moins d'endurance.",
-      "he": "יכולות קפא\"פ צורכות פחות סיבולת. ",
-      "hr": "Sposobnosti bliskog boja troše manje izdržljivosti. ",
-      "it": "Le abilità da mischia costano meno vigore. ",
-      "ja": "近接アビリティのスタミナ消費が減少する。 ",
-      "kr": "근접 능력의 스태미나 소모가 감소합니다. ",
-      "no": "Nærkampferdigheter koster mindre utholdenhet. ",
-      "pl": "Umiejętności walki wręcz kosztują mniej wytrzymałości. ",
-      "pt": "Habilidades corpo a corpo custam menos resistência. ",
-      "pt-BR": "Habilidades corpo a corpo custam menos vigor. ",
-      "ru": "Способности ближнего боя расходуют меньше выносливости. ",
-      "sr": "Sposobnosti bliskog boja troše manje izdržljivosti. ",
-      "tr": "Yakın dövüş yetenekleri daha az dayanıklılık harcar. ",
-      "uk": "Здібності ближнього бою витрачають менше витривалості. ",
-      "zh-CN": "近战技能消耗更少耐力。 ",
-      "zh-TW": "減少近戰技能消耗的體力。 "
+      "he": "יכולות קפא\"פ צורכות פחות סיבולת.",
+      "hr": "Sposobnosti bliskog boja troše manje izdržljivosti.",
+      "it": "Le abilità da mischia costano meno vigore.",
+      "ja": "近接アビリティのスタミナ消費が減少する。",
+      "kr": "근접 능력의 스태미나 소모가 감소합니다.",
+      "no": "Nærkampferdigheter koster mindre utholdenhet.",
+      "pl": "Umiejętności walki wręcz kosztują mniej wytrzymałości.",
+      "pt": "Habilidades corpo a corpo custam menos resistência.",
+      "pt-BR": "Habilidades corpo a corpo custam menos vigor.",
+      "ru": "Способности ближнего боя расходуют меньше выносливости.",
+      "sr": "Sposobnosti bliskog boja troše manje izdržljivosti.",
+      "tr": "Yakın dövüş yetenekleri daha az dayanıklılık harcar.",
+      "uk": "Здібності ближнього бою витрачають менше витривалості.",
+      "zh-CN": "近战技能消耗的耐力减少。",
+      "zh-TW": "減少近戰技能消耗的體力。"
     },
     "maxPoints": 5,
     "impactedSkill": {
@@ -810,7 +810,7 @@
       "sr": "Naoružane Ruke",
       "tr": "Yüklü Kollar",
       "uk": "Звичне озброєння",
-      "zh-CN": "负重武装",
+      "zh-CN": "武器减负",
       "zh-TW": "滿載軍火(負重武器)"
     },
     "category": "CONDITIONING",
@@ -834,7 +834,7 @@
       "sr": "Vaše opremljeno oružje ima manji uticaj na vaše opterećenje.",
       "tr": "Kuşandığın silahın yük kapasitene etkisi azalır.",
       "uk": "Екіпірована зброя менше впливає на ваше навантаження.",
-      "zh-CN": "你装备的武器对负重的影响较小。",
+      "zh-CN": "你装备的武器对你的负重影响较小。",
       "zh-TW": "降低您裝備的武器對負重的影響。"
     },
     "maxPoints": 1,
@@ -889,7 +889,7 @@
       "sr": "Kornjačino Puzanje",
       "tr": "Kaplumbağa Sürünüşü",
       "uk": "Черепаший панцир",
-      "zh-CN": "龟壳爬行",
+      "zh-CN": "伏地避弹",
       "zh-TW": "烏龜爬行"
     },
     "category": "CONDITIONING",
@@ -913,7 +913,7 @@
       "sr": "Dok ste oboreni, primate manje štete.",
       "tr": "Yere düştüğünde daha az hasar alırsın.",
       "uk": "У стані при смерті ви отримуєте менше пошкоджень.",
-      "zh-CN": "倒地时受到的伤害减少。",
+      "zh-CN": "倒地后，你受到的伤害减少。",
       "zh-TW": "被擊倒後的爬行狀態，受到的傷害降低。"
     },
     "maxPoints": 5,
@@ -936,7 +936,7 @@
       "sr": "Smanjenje Štete Dok Ste Oboreni",
       "tr": "Düşme Hasarı Azaltma",
       "uk": "Зниження пошкоджень при смерті",
-      "zh-CN": "倒地伤害减免",
+      "zh-CN": "倒地伤害减少",
       "zh-TW": "倒地傷害減免"
     },
     "position": {
@@ -967,7 +967,7 @@
       "sr": "Zamah Koji Čisti Nebo",
       "tr": "Gökyüzü Temizleme Vuruşu",
       "uk": "Удар по небу",
-      "zh-CN": "扫空挥击",
+      "zh-CN": "开天斩",
       "zh-TW": "晴空揮棒"
     },
     "category": "CONDITIONING",
@@ -991,7 +991,7 @@
       "sr": "Nanosите veću štetu u bliskoj borbi dronovima.",
       "tr": "Drone'lara daha fazla yakın dövüş hasarı verirsin.",
       "uk": "Ви завдаєте більше пошкоджень дронам у ближньому бою.",
-      "zh-CN": "你对无人机造成更多近战伤害。",
+      "zh-CN": "你对无人机造成的近战伤害增加。",
       "zh-TW": "您對無人機造成更多近戰傷害。"
     },
     "maxPoints": 5,
@@ -1046,7 +1046,7 @@
       "sr": "Ponovo na Nogama",
       "tr": "Ayağa Kalk",
       "uk": "Знову на ногах",
-      "zh-CN": "重新站起",
+      "zh-CN": "不屈意志",
       "zh-TW": "重新站起"
     },
     "category": "CONDITIONING",
@@ -1070,7 +1070,7 @@
       "sr": "Kada ste kritično povređeni, vaše se zdravlje regeneriše do određene granice.",
       "tr": "Kritik şekilde yaralandığında, sağlığın belirli bir limite kadar yenilenir.",
       "uk": "Коли ви критично поранені, ваше здоров'я відновлюється до певної межі.",
-      "zh-CN": "当你受到重伤时，你的生命值会恢复到一定限度。",
+      "zh-CN": "在重伤状态下，你的生命值会逐渐恢复至一个固定值。",
       "zh-TW": "重傷時，生命值會恢復到一定程度。"
     },
     "maxPoints": 1,
@@ -1125,7 +1125,7 @@
       "sr": "Muholovka",
       "tr": "Sinek Vurucusu",
       "uk": "Мухобійка",
-      "zh-CN": "苍蝇拍",
+      "zh-CN": "拍蝇专家",
       "zh-TW": "蒼蠅拍"
     },
     "category": "CONDITIONING",
@@ -1149,7 +1149,7 @@
       "sr": "Jedan napad u bliskoj borbi uništava Ticka, Popa, Waspa i Turret.",
       "tr": "Tek bir yakın dövüş saldırısı Tick, Pop, Wasp ve Turret'i yok eder.",
       "uk": "Одна атака ближнього бою знищує кліща, попа, осу та турель.",
-      "zh-CN": "一次近战攻击即可摧毁蜱虫、爆破虫、黄蜂和炮塔。",
+      "zh-CN": "黄蜂和炮塔现在只需一次近战攻击就能摧毁。",
       "zh-TW": "單次近戰攻擊即可摧毀蜱蟲、爆彈蟲、黃蜂和砲塔。"
     },
     "maxPoints": 1,
@@ -1204,7 +1204,7 @@
       "sr": "Okretni Penjač",
       "tr": "Çevik Tırmanıcı",
       "uk": "Спритний скелелаз",
-      "zh-CN": "灵活攀爬者",
+      "zh-CN": "灵活攀越",
       "zh-TW": "敏捷攀爬者"
     },
     "category": "MOBILITY",
@@ -1228,7 +1228,7 @@
       "sr": "Možete se penjati i preskakati brže.",
       "tr": "Daha hızlı tırmanabilir ve atlayabilirsin.",
       "uk": "Ви можете швидше лазити та перестрибувати.",
-      "zh-CN": "你可以更快地攀爬和翻越。",
+      "zh-CN": "提高你的攀爬和翻越速度。",
       "zh-TW": "攀爬和翻越的速度更快。"
     },
     "maxPoints": 5,
@@ -1362,7 +1362,7 @@
       "sr": "Klizanje",
       "tr": "Kayma ve Sürünme",
       "uk": "Ковзання",
-      "zh-CN": "滑行无阻",
+      "zh-CN": "纵跃丝滑",
       "zh-TW": "滑溜溜"
     },
     "category": "MOBILITY",
@@ -1386,7 +1386,7 @@
       "sr": "Možete kliziti dalje i brže.",
       "tr": "Daha uzağa ve daha hızlı kayabilirsin.",
       "uk": "Ви можете ковзати далі та швидше.",
-      "zh-CN": "你可以滑得更远更快。",
+      "zh-CN": "滑行距离更远，速度更快。",
       "zh-TW": "你可以滑行得更快更遠。"
     },
     "maxPoints": 5,
@@ -1441,7 +1441,7 @@
       "sr": "Mladalačka Pluća",
       "tr": "Genç Akciğerler",
       "uk": "Молоді легені",
-      "zh-CN": "年轻肺活量",
+      "zh-CN": "活力肺能",
       "zh-TW": "活力肺臟"
     },
     "category": "MOBILITY",
@@ -1465,7 +1465,7 @@
       "sr": "Povećajte svoju maksimalnu izdržljivost.",
       "tr": "Maksimum dayanıklılığını artır.",
       "uk": "Збільшує максимальну витривалість.",
-      "zh-CN": "增加你的最大耐力。",
+      "zh-CN": "耐力上限增加。",
       "zh-TW": "提升最大體力值上限。"
     },
     "maxPoints": 5,
@@ -1488,7 +1488,7 @@
       "sr": "Maksimalna Izdržljivost",
       "tr": "Maksimum Dayanıklılık",
       "uk": "Максимальна витривалість",
-      "zh-CN": "最大耐力",
+      "zh-CN": "耐力上限",
       "zh-TW": "最大耐力值"
     },
     "knownValue": [],
@@ -1520,7 +1520,7 @@
       "sr": "Čvrsti Gležnjevi",
       "tr": "Sağlam Ayak Bilekleri",
       "uk": "Міцні щиколотки",
-      "zh-CN": "强健脚踝",
+      "zh-CN": "坚韧脚踝",
       "zh-TW": "強壯腳踝"
     },
     "category": "MOBILITY",
@@ -1544,7 +1544,7 @@
       "sr": "Primate manje štete od pada kada padate sa nesmrtonosne visine.",
       "tr": "Ölümcül olmayan bir yükseklikten düştüğünde daha az düşme hasarı alırsın.",
       "uk": "Ви отримуєте менше пошкоджень від падіння з несмертельної висоти.",
-      "zh-CN": "从非致命高度坠落时受到的伤害减少。",
+      "zh-CN": "从非致命高度掉落时受到的摔落伤害减少。",
       "zh-TW": "從非致命高度摔落時，受到的傷害減低。"
     },
     "maxPoints": 5,
@@ -1567,7 +1567,7 @@
       "sr": "Smanjenje Štete od Pada",
       "tr": "Düşme Hasarı Azaltma",
       "uk": "Зниження пошкоджень від падіння",
-      "zh-CN": "坠落伤害减免",
+      "zh-CN": "摔落伤害减少",
       "zh-TW": "墜落傷害減免"
     },
     "knownValue": [],
@@ -1599,7 +1599,7 @@
       "sr": "Zadrži Zamah",
       "tr": "Momentumu Koru",
       "uk": "Зберегти імпульс",
-      "zh-CN": "保持动能",
+      "zh-CN": "顺势而为",
       "zh-TW": "維持慣性"
     },
     "category": "MOBILITY",
@@ -1623,7 +1623,7 @@
       "sr": "Nakon Sprintnog Kotrljanja za Izbegavanje, trčanje ne troši izdržljivost kratko vreme. Ima vreme hlađenja između korišćenja.",
       "tr": "Koşu Yuvarlanmasından sonra, kısa bir süre koşarken dayanıklılık tüketilmez. Kullanımlar arasında bekleme süresi vardır.",
       "uk": "Після перекату в спринті біг не витрачає витривалість протягом короткого часу. Має час відновлення між використаннями.",
-      "zh-CN": "在冲刺闪避翻滚后，短时间内冲刺不消耗耐力。使用之间有冷却时间。",
+      "zh-CN": "使用冲刺翻滚闪避后，短时间内冲刺不会消耗耐力。每次使用之间有冷却时间。",
       "zh-TW": "衝刺閃避翻滾後，短時間內衝刺不消耗耐力。每次觸發後有冷卻時間。"
     },
     "maxPoints": 1,
@@ -1678,7 +1678,7 @@
       "sr": "Umirujuća Šetnja",
       "tr": "Sakin Yürüyüş",
       "uk": "Спокійна прогулянка",
-      "zh-CN": "平静漫步",
+      "zh-CN": "行稳致远",
       "zh-TW": "平靜漫步"
     },
     "category": "MOBILITY",
@@ -1702,7 +1702,7 @@
       "sr": "Dok hodate, vaša izdržljivost se regeneriše kao da stojite mirno.",
       "tr": "Yürürken, dayanıklılığınız ayakta duruyormuşsunuz gibi yenilenir.",
       "uk": "Під час ходьби ваша витривалість відновлюється так само, як при стоянні на місці.",
-      "zh-CN": "行走时，你的耐力如同站立不动时一样恢复。",
+      "zh-CN": "步行时，你的耐力恢复速度和站定时一样。",
       "zh-TW": "輕步時，您的體力恢復速度如同站著不動。"
     },
     "maxPoints": 1,
@@ -1757,7 +1757,7 @@
       "sr": "Puzi Pre Nego Hodaš",
       "tr": "Yürümeden Önce Sürün",
       "uk": "Спочатку повзи",
-      "zh-CN": "先爬后走",
+      "zh-CN": "伏地速行",
       "zh-TW": "先爬再走"
     },
     "category": "MOBILITY",
@@ -1781,7 +1781,7 @@
       "sr": "Kada ste oboreni, puzite brže.",
       "tr": "Yere düştüğünüzde, daha hızlı sürünürsünüz.",
       "uk": "Коли ви збиті з ніг, ви повзаєте швидше.",
-      "zh-CN": "当你倒地时，爬行速度更快。",
+      "zh-CN": "倒地后，你的爬行速度加快。",
       "zh-TW": "被擊倒期間，爬行速度更快。"
     },
     "maxPoints": 5,
@@ -1836,7 +1836,7 @@
       "sr": "Kotrljanje Bez Napora",
       "tr": "Zahmetsiz Yuvarlanma",
       "uk": "Легкий перекат",
-      "zh-CN": "轻松翻滚",
+      "zh-CN": "轻巧翻滚",
       "zh-TW": "輕鬆翻滾"
     },
     "category": "MOBILITY",
@@ -1860,7 +1860,7 @@
       "sr": "Kotrljanja za Izbegavanje troše manje izdržljivosti.",
       "tr": "Yuvarlanma daha az dayanıklılık harcar.",
       "uk": "Перекати витрачають менше витривалості.",
-      "zh-CN": "闪避翻滚消耗更少耐力。",
+      "zh-CN": "翻滚闪避消耗的耐力减少。",
       "zh-TW": "減少閃避翻滾所需體力。"
     },
     "maxPoints": 5,
@@ -1915,7 +1915,7 @@
       "sr": "Sa Zida",
       "tr": "Duvardan Fırlama",
       "uk": "Від стіни",
-      "zh-CN": "墙上飞跃",
+      "zh-CN": "飞檐走壁",
       "zh-TW": "飛離牆壁"
     },
     "category": "MOBILITY",
@@ -1939,7 +1939,7 @@
       "sr": "Možete skočiti dalje sa zida.",
       "tr": "Duvar Sıçramasını daha uzağa yapabilirsiniz.",
       "uk": "Ви можете стрибати від стіни далі.",
-      "zh-CN": "你可以跳得更远。",
+      "zh-CN": "你能进行距离更远的墙壁跳跃。",
       "zh-TW": "增加牆壁跳躍距離。"
     },
     "maxPoints": 5,
@@ -1994,7 +1994,7 @@
       "sr": "Energični Preskakač",
       "tr": "Güçlü Atlayıcı",
       "uk": "Енергійний стрибун",
-      "zh-CN": "活力跳跃者",
+      "zh-CN": "纵跃无阻",
       "zh-TW": "活力翻越"
     },
     "category": "MOBILITY",
@@ -2018,7 +2018,7 @@
       "sr": "Preskakanje više nije usporeno dok ste iscrpljeni.",
       "tr": "Tükenmiş durumdayken atlamak artık yavaşlamaz.",
       "uk": "Стрибки через перешкоди більше не сповільнюються при виснаженні.",
-      "zh-CN": "疲惫时跳跃不再减速。",
+      "zh-CN": "耐力耗尽后，翻越动作不会减速。",
       "zh-TW": "體力耗竭時，翻越不會變慢。"
     },
     "maxPoints": 1,
@@ -2073,7 +2073,7 @@
       "sr": "Herojski Skok",
       "tr": "Kahramanca Sıçrayış",
       "uk": "Героїчний стрибок",
-      "zh-CN": "英勇飞跃",
+      "zh-CN": "英雄一跃",
       "zh-TW": "英雄翻身"
     },
     "category": "MOBILITY",
@@ -2097,7 +2097,7 @@
       "sr": "Možete se Sprintno Kotrljati za Izbegavanje dalje.",
       "tr": "Koşu Yuvarlanmasını daha uzağa yapabilirsiniz.",
       "uk": "Ви можете перекочуватися в спринті далі.",
-      "zh-CN": "你可以将冲刺闪避翻滚得更远。",
+      "zh-CN": "冲刺和翻滚闪避的距离增加。",
       "zh-TW": "增加衝刺閃避翻滾距離。"
     },
     "maxPoints": 5,
@@ -2152,7 +2152,7 @@
       "sr": "Spreman za Kotrljanje",
       "tr": "Yuvarlanmaya Hazır",
       "uk": "Готовий до перекату",
-      "zh-CN": "准备翻滚",
+      "zh-CN": "借势翻滚",
       "zh-TW": "隨時開滾"
     },
     "category": "MOBILITY",
@@ -2176,7 +2176,7 @@
       "sr": "Kada padate, vaš vremenski prozor za izvođenje Kotrljanja za Oporavak je povećan.",
       "tr": "Düşerken, Toparlanma Yuvarlanması yapma zamanlamanız artar.",
       "uk": "При падінні часове вікно для виконання відновлювального перекату збільшується.",
-      "zh-CN": "坠落时，执行恢复翻滚的时机窗口增加。",
+      "zh-CN": "从高处摔落时，你可以进行受身翻滚的时机窗口扩大了。",
       "zh-TW": "墜落時，增加可執行恢復翻滾的時機長度。"
     },
     "maxPoints": 5,
@@ -2199,7 +2199,7 @@
       "sr": "Prozor Kotrljanja za Oporavak",
       "tr": "Toparlanma Yuvarlanması Penceresi",
       "uk": "Вікно відновлювального перекату",
-      "zh-CN": "恢复翻滚窗口",
+      "zh-CN": "受身翻滚窗口增加",
       "zh-TW": "恢復翻滾窗口時機"
     },
     "knownValue": [],
@@ -2231,7 +2231,7 @@
       "sr": "Preskakanja na Preskakanja na Preskakanja",
       "tr": "Atlama Üstüne Atlama",
       "uk": "Стрибок за стрибком",
-      "zh-CN": "跳跃再跳跃",
+      "zh-CN": "身轻如燕",
       "zh-TW": "一翻再翻"
     },
     "category": "MOBILITY",
@@ -2255,7 +2255,7 @@
       "sr": "Preskakanje više ne troši izdržljivost.",
       "tr": "Atlamak artık dayanıklılık harcamaz.",
       "uk": "Стрибки через перешкоди більше не витрачають витривалість.",
-      "zh-CN": "跳跃不再消耗耐力。",
+      "zh-CN": "翻越动作不再消耗耐力。",
       "zh-TW": "翻越不再消耗體力。"
     },
     "maxPoints": 1,
@@ -2310,7 +2310,7 @@
       "sr": "Odskočno Preskakanje",
       "tr": "Atlama Sıçraması",
       "uk": "Стрибок з розбігу",
-      "zh-CN": "跳跃弹跳",
+      "zh-CN": "跳跃弹簧",
       "zh-TW": "翻越飛跳"
     },
     "category": "MOBILITY",
@@ -2334,7 +2334,7 @@
       "sr": "Omogućava vam da skočite na kraju preskakanja.",
       "tr": "Atlama sonunda zıplamanızı sağlar.",
       "uk": "Дозволяє стрибати в кінці стрибка через перешкоду.",
-      "zh-CN": "让你在跳跃结束时可以跳跃。",
+      "zh-CN": "允许你在翻越后起跳。",
       "zh-TW": "在翻越結束時可以銜接跳躍。"
     },
     "maxPoints": 1,
@@ -2357,7 +2357,7 @@
       "sr": "Skok Preskakanja",
       "tr": "Atlama Zıplaması",
       "uk": "Стрибок з перешкоди",
-      "zh-CN": "跳跃跳跃",
+      "zh-CN": "翻越后可起跳",
       "zh-TW": "翻滾起跳"
     },
     "knownValue": [],
@@ -2389,7 +2389,7 @@
       "sr": "Okretni Čučavac",
       "tr": "Çevik Çömelen",
       "uk": "Спритний присідач",
-      "zh-CN": "灵活蹲伏者",
+      "zh-CN": "快速蹲伏",
       "zh-TW": "膝蓋靈活"
     },
     "category": "SURVIVAL",
@@ -2413,7 +2413,7 @@
       "sr": "Vaša brzina kretanja dok čučite je povećana.",
       "tr": "Çömelirken hareket hızın artar.",
       "uk": "Швидкість пересування навпочіпки збільшена.",
-      "zh-CN": "蹲伏时的移动速度提升。",
+      "zh-CN": "蹲伏时的移动速度提高。",
       "zh-TW": "蹲下時的移動速度提升。"
     },
     "maxPoints": 5,
@@ -2468,7 +2468,7 @@
       "sr": "Instinkti Pljačkaša",
       "tr": "Yağmacı İçgüdüsü",
       "uk": "Інстинкти мародера",
-      "zh-CN": "掠夺者直觉",
+      "zh-CN": "搜刮者本能",
       "zh-TW": "搜刮者直覺"
     },
     "category": "SURVIVAL",
@@ -2492,7 +2492,7 @@
       "sr": "Prilikom pretraživanja kontejnera, plen se otkriva brže.",
       "tr": "Bir konteyner ararken ganimet daha hızlı ortaya çıkar.",
       "uk": "При обшуку контейнера здобич виявляється швидше.",
-      "zh-CN": "搜索容器时，战利品显示速度更快。",
+      "zh-CN": "搜索容器时，战利品会更快出现。",
       "zh-TW": "搜索容器時，更快顯示戰利品。"
     },
     "maxPoints": 5,
@@ -2515,7 +2515,7 @@
       "sr": "Brzina Pljačkanja",
       "tr": "Ganimet Hızı",
       "uk": "Швидкість мародерства",
-      "zh-CN": "拾取速度",
+      "zh-CN": "搜刮速度",
       "zh-TW": "搜刮速度"
     },
     "knownValue": [],
@@ -2547,7 +2547,7 @@
       "sr": "Revitalizujući Čučanj",
       "tr": "Canlandırıcı Çömelme",
       "uk": "Відновлювальний присід",
-      "zh-CN": "恢复性蹲姿",
+      "zh-CN": "活力深蹲",
       "zh-TW": "回復深蹲"
     },
     "category": "SURVIVAL",
@@ -2571,7 +2571,7 @@
       "sr": "Regeneracija izdržljivosti dok čučite je povećana.",
       "tr": "Çömelirken dayanıklılık yenilenme hızı artar.",
       "uk": "Відновлення витривалості навпочіпки збільшене.",
-      "zh-CN": "蹲伏时的耐力恢复速度提升。",
+      "zh-CN": "蹲伏时耐力恢复速度增加。",
       "zh-TW": "提升蹲下時的體力恢復速度。"
     },
     "maxPoints": 5,
@@ -2650,7 +2650,7 @@
       "sr": "Pravite manje buke prilikom pljačkanja",
       "tr": "Ganimet toplarken daha az ses çıkarırsın",
       "uk": "Ви створюєте менше шуму при мародерстві",
-      "zh-CN": "拾取战利品时产生的噪音更少",
+      "zh-CN": "拾取战利品时的动静变小。",
       "zh-TW": "搜刮時更安靜"
     },
     "maxPoints": 5,
@@ -2705,7 +2705,7 @@
       "sr": "Izrada Tokom Runde",
       "tr": "Saha İçi Üretim",
       "uk": "Крафт у раунді",
-      "zh-CN": "战场制作",
+      "zh-CN": "局内制作",
       "zh-TW": "回合中製作"
     },
     "category": "SURVIVAL",
@@ -2729,7 +2729,7 @@
       "sr": "Otključava mogućnost izrade predmeta na terenu dok ste gore.",
       "tr": "Yüzeydeyken saha üretimi yapabilme yeteneğini açar.",
       "uk": "Відкриває можливість створювати предмети в польових умовах на поверхні.",
-      "zh-CN": "解锁在地表时进行野外制作物品的能力。",
+      "zh-CN": "解锁在上层时现场制作物品的能力。",
       "zh-TW": "解鎖在頂層實地(地表)時，製作物品的能力。"
     },
     "maxPoints": 1,
@@ -2784,7 +2784,7 @@
       "sr": "Pati U Tišini",
       "tr": "Sessizce Acı Çek",
       "uk": "Страждати мовчки",
-      "zh-CN": "默默承受",
+      "zh-CN": "忍痛默行",
       "zh-TW": "沉默忍受"
     },
     "category": "SURVIVAL",
@@ -2808,7 +2808,7 @@
       "sr": "Dok ste kritično ranjeni, vaše kretanje pravi manje buke.",
       "tr": "Kritik yaralıyken hareketlerin daha az ses çıkarır.",
       "uk": "У критичному стані ваші рухи створюють менше шуму.",
-      "zh-CN": "在重伤状态下，你的移动产生的噪音更少。",
+      "zh-CN": "严重受伤时，你的移动动静变小。",
       "zh-TW": "受重傷時，你的動作會更安靜。"
     },
     "maxPoints": 1,
@@ -2887,7 +2887,7 @@
       "sr": "Dok ste pod efektom lečenja, regeneracija izdržljivosti je povećana.",
       "tr": "İyileşme etkisi altındayken dayanıklılık yenilenmesi artar.",
       "uk": "Під дією лікування відновлення витривалості збільшене.",
-      "zh-CN": "在治疗效果下，耐力恢复速度提升。",
+      "zh-CN": "在治疗效果下，耐力恢复速度增加。",
       "zh-TW": "獲得治療效果時，體力恢復速度加快。"
     },
     "maxPoints": 1,
@@ -2966,7 +2966,7 @@
       "sr": "Otključava dodatne predmete za terensku izradu.",
       "tr": "Saha üretimi için ek eşyalar açar.",
       "uk": "Відкриває додаткові предмети для польового крафту.",
-      "zh-CN": "解锁额外的野外制作物品。",
+      "zh-CN": "解锁更多可以现场制作的物品。",
       "zh-TW": "解鎖額外的頂層實地(地表)製作物品。"
     },
     "maxPoints": 1,
@@ -3020,7 +3020,7 @@
       "sr": "Široka Ramena",
       "tr": "Geniş Omuzlar",
       "uk": "Широкі плечі",
-      "zh-CN": "宽阔肩膀",
+      "zh-CN": "阔肩载物",
       "zh-TW": "寬闊肩膀"
     },
     "category": "SURVIVAL",
@@ -3044,7 +3044,7 @@
       "sr": "Povećava maksimalnu količinu predmeta koje možete nositi.",
       "tr": "Taşıyabileceğin maksimum eşya miktarını artırır.",
       "uk": "Збільшує максимальну кількість предметів, які ви можете нести.",
-      "zh-CN": "增加你能携带的物品数量上限。",
+      "zh-CN": "提高你的负重上限。",
       "zh-TW": "增加攜帶的物品數量上限(遊戲內寫負重上限?)。"
     },
     "maxPoints": 5,
@@ -3067,7 +3067,7 @@
       "sr": "Maksimalni Inventar",
       "tr": "Maksimum Envanter",
       "uk": "Макс. інвентар",
-      "zh-CN": "最大背包容量",
+      "zh-CN": "负重上限",
       "zh-TW": "最大背包容量"
     },
     "knownValue": ["+2 kg per point"],
@@ -3099,7 +3099,7 @@
       "sr": "Tvrdoglava Mazga",
       "tr": "İnatçı Katır",
       "uk": "Впертий мул",
-      "zh-CN": "顽固骡子",
+      "zh-CN": "吃苦耐劳",
       "zh-TW": "頑固的驢子"
     },
     "category": "SURVIVAL",
@@ -3123,7 +3123,7 @@
       "sr": "Vaša regeneracija izdržljivosti je manje pogođena preopterećenošću.",
       "tr": "Dayanıklılık yenilenmen aşırı yüklenme durumundan daha az etkilenir.",
       "uk": "Відновлення витривалості менше залежить від перевантаження.",
-      "zh-CN": "你的耐力恢复受超重影响较小。",
+      "zh-CN": "你的耐力恢复受负载过重的影响减小。",
       "zh-TW": "降低負重時，對體力恢復的影響。"
     },
     "maxPoints": 5,
@@ -3178,7 +3178,7 @@
       "sr": "Ostaci Jednog Pljačkaša",
       "tr": "Bir Akıncının Artıkları",
       "uk": "Обрізки рейдера",
-      "zh-CN": "掠夺者的残渣",
+      "zh-CN": "战地拾遗",
       "zh-TW": "廢物中撿寶"
     },
     "category": "SURVIVAL",
@@ -3202,7 +3202,7 @@
       "sr": "Prilikom pljačkanja kontejnera Pljačkaša, imate malu šansu da pronađete dodatne predmete izrađene na terenu.",
       "tr": "Akıncı konteynerlerini yağmalarken, ek saha yapımı eşyalar bulma şansınız vardır.",
       "uk": "При обшуку контейнерів рейдерів у вас є невеликий шанс знайти додаткові саморобні предмети.",
-      "zh-CN": "搜刮掠夺者容器时，你有小概率找到额外的野外制作物品。",
+      "zh-CN": "在奇袭者容器中搜集战利品时，有一定的小概率发现额外的现场制作物品。",
       "zh-TW": "搜刮掠手容器時，您有小機率找到額外的實地製作物品。"
     },
     "maxPoints": 5,
@@ -3257,7 +3257,7 @@
       "sr": "Sreća Pljačkaša",
       "tr": "Yağmacının Şansı",
       "uk": "Удача мародера",
-      "zh-CN": "拾荒者的幸运",
+      "zh-CN": "好运成双",
       "zh-TW": "搜刮者好運"
     },
     "category": "SURVIVAL",
@@ -3281,7 +3281,7 @@
       "sr": "Tokom pljačkanja, postoji šansa da odjednom otkrijete dvostruko više predmeta.",
       "tr": "Yağmalarken, aynı anda iki kat daha fazla eşya bulma şansınız vardır.",
       "uk": "Під час обшуку є шанс виявити вдвічі більше предметів за раз.",
-      "zh-CN": "搜刮时，有机会一次发现两倍数量的物品。",
+      "zh-CN": "搜刮物品时，有一定的概率一次性发现双倍数量的物品。",
       "zh-TW": "搜刮時，有機會發現兩倍物品。"
     },
     "maxPoints": 5,
@@ -3336,7 +3336,7 @@
       "sr": "Tri Duboka Udaha",
       "tr": "Üç Derin Nefes",
       "uk": "Три глибокі вдихи",
-      "zh-CN": "三次深呼吸",
+      "zh-CN": "三息回神",
       "zh-TW": "三下深呼吸"
     },
     "category": "SURVIVAL",
@@ -3360,7 +3360,7 @@
       "sr": "Nakon što sposobnost istroši vašu izdržljivost, oporavljate se brže.",
       "tr": "Bir yetenek dayanıklılığınızı tükettikten sonra, daha hızlı iyileşirsiniz.",
       "uk": "Після того як здібність виснажує вашу витривалість, ви відновлюєтеся швидше.",
-      "zh-CN": "在技能消耗你的耐力后，你恢复得更快。",
+      "zh-CN": "耐力被技能耗尽后的恢复速度提高。",
       "zh-TW": "體力被技能耗盡後，體力恢復速度加快。"
     },
     "maxPoints": 5,
@@ -3415,7 +3415,7 @@
       "sr": "Probijanje Sigurnosti",
       "tr": "Güvenlik İhlali",
       "uk": "Порушення безпеки",
-      "zh-CN": "安全突破",
+      "zh-CN": "安防突破",
       "zh-TW": "保全漏洞"
     },
     "category": "SURVIVAL",
@@ -3439,7 +3439,7 @@
       "sr": "Omogućava vam probijanje sigurnosnih ormarića.",
       "tr": "Güvenlik Dolaplarını açmanızı sağlar.",
       "uk": "Дозволяє зламувати захищені шафки.",
-      "zh-CN": "让你能够突破安全储物柜。",
+      "zh-CN": "允许撬开保险柜。",
       "zh-TW": "可突破保全儲物櫃。"
     },
     "maxPoints": 1,
@@ -3462,7 +3462,7 @@
       "sr": "Probijanje Sigurnosti",
       "tr": "Güvenlik İhlali",
       "uk": "Порушення безпеки",
-      "zh-CN": "安全突破",
+      "zh-CN": "安防突破",
       "zh-TW": "保全設施可突破"
     },
     "knownValue": [],
@@ -3494,7 +3494,7 @@
       "sr": "Razminiranje",
       "tr": "Mayın Temizleyici",
       "uk": "Сапер",
-      "zh-CN": "扫雷专家",
+      "zh-CN": "扫雷高手",
       "zh-TW": "掃雷工"
     },
     "category": "SURVIVAL",
@@ -3518,7 +3518,7 @@
       "sr": "Mine i eksplozivne naprave mogu se deaktivirati kada ste u neposrednoj blizini.",
       "tr": "Mayınlar ve patlayıcı yerleştirilebilirler yakınken etkisiz hale getirilebilir.",
       "uk": "Міни та вибухові пристрої можна знешкодити, перебуваючи поруч.",
-      "zh-CN": "靠近时可以拆除地雷和爆炸性部署物。",
+      "zh-CN": "在靠近地雷或可部署爆炸物时可以进行拆除。",
       "zh-TW": "陷阱類部署物，靠近可拆除。"
     },
     "maxPoints": 1,
