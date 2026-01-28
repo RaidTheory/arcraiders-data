@@ -154,6 +154,8 @@
       "quantity": 1
     }
   ],
+  "xp": 0,
+  "previousQuestIds": ["groundbreaking"],
   "nextQuestIds": ["on_the_map"],
   "updatedAt": "01/27/2026"
 }

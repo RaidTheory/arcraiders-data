@@ -178,5 +178,8 @@
       "quantity": 1
     }
   ],
+  "xp": 0,
+  "previousQuestIds": ["ss10x5"],
+  "nextQuestIds": ["bombing_run"],
   "updatedAt": "01/27/2026"
 }
