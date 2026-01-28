@@ -35,6 +35,10 @@ First install the [bun](https://bun.com/) javascript toolkit.
 
 Please ensure all contributed data is accurate.
 
+### Map event updates
+
+The rotation stored in `map-events/map-events.json` is generated, not hand-edited. Use `bun run map-events:update` (which invokes `scripts/update-map-events.js`) to pull the latest schedule and translations from arctracker.io. For automated refreshes, trigger the **Update map events** workflow from GitHub Actions; it runs the same script and, when changes exist, creates a PR targeting the branch you specify.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

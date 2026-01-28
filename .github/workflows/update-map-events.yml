@@ -1,0 +1,59 @@
+name: Update map events
+
+on:
+  workflow_dispatch:
+    inputs:
+      head-branch:
+        description: "Branch name to push map event updates"
+        type: string
+        default: "automation/map-events-update"
+      base-branch:
+        description: "Target branch for the pull request"
+        type: string
+        default: "main"
+
+jobs:
+  update-map-events:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: "1.1.24"
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Update map events dataset
+        run: bun run map-events:update
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ inputs.head-branch }}
+          base: ${{ inputs.base-branch }}
+          title: "Update map events"
+          body: |
+            Automated sync of map-events from arctracker.io.
+
+            - Triggered by: ${{ github.actor }}
+          commit-message: "chore: update map events"
+          author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+          committer: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+          add-paths: |
+            map-events/map-events.json
+          labels: |
+            automation
+          draft: false
+          delete-branch: true
+          signoff: false
+          skip-if-empty: true
