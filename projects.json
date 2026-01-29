@@ -1189,5 +1189,380 @@
         ]
       }
     ]
+  },
+  {
+    "id": "trophy_display_project",
+    "disabled": false,
+    "name": {
+      "da": "Troféudstilling",
+      "de": "Trophäenanzeige",
+      "en": "Trophy Display",
+      "es": "Exhibición de Trofeos",
+      "fr": "Vitrine de Trophées",
+      "he": "תצוגת גביעים",
+      "hr": "Prikaz Trofeja",
+      "it": "Esposizione Trofei",
+      "ja": "トロフィー展示",
+      "kr": "트로피 디스플레이",
+      "no": "Trofeutstilling",
+      "pl": "Wystawa Trofeów",
+      "pt": "Exibição de Troféus",
+      "pt-BR": "Exibição de Troféus",
+      "ru": "Витрина трофеев",
+      "sr": "Prikaz Trofeja",
+      "tr": "Kupa Sergisi",
+      "uk": "Вітрина трофеїв",
+      "zh-CN": "战利品展示",
+      "zh-TW": "戰利品展示"
+    },
+    "description": {
+      "da": "Skab din egen Troféudstilling for at høste belønningerne. Saml trofæer fra besejrede ARC-enheder og vis din dygtighed.",
+      "de": "Erstelle deine eigene Trophäenanzeige, um die Belohnungen zu ernten. Sammle Trophäen von besiegten ARC-Einheiten und zeige deine Fähigkeiten.",
+      "en": "Create your own Trophy Display to reap the rewards. Collect trophies from defeated ARC units and showcase your prowess.",
+      "es": "Crea tu propia Exhibición de Trofeos para cosechar las recompensas. Recolecta trofeos de unidades ARC derrotadas y muestra tu destreza.",
+      "fr": "Créez votre propre Vitrine de Trophées pour récolter les récompenses. Collectez des trophées des unités ARC vaincues et montrez votre prouesse.",
+      "he": "צרו את תצוגת הגביעים שלכם כדי לקצור את התגמולים. אספו גביעים מיחידות ARC מובסות והציגו את כישוריכם.",
+      "hr": "Stvorite vlastiti Prikaz Trofeja kako biste ubrale nagrade. Sakupite trofeje od poraženih ARC jedinica i pokažite svoju vještinu.",
+      "it": "Crea la tua Esposizione Trofei per raccogliere le ricompense. Raccogli trofei dalle unità ARC sconfitte e mostra la tua abilità.",
+      "ja": "自分のトロフィー展示を作成して報酬を獲得しましょう。倒したARCユニットからトロフィーを集め、あなたの腕前を披露しましょう。",
+      "kr": "보상을 얻기 위해 나만의 트로피 디스플레이를 만드세요. 물리친 ARC 유닛에서 트로피를 수집하고 실력을 과시하세요.",
+      "no": "Lag din egen Trofeutstilling for å høste belønningene. Samle troféer fra beseirede ARC-enheter og vis dine ferdigheter.",
+      "pl": "Stwórz własną Wystawę Trofeów, aby zebrać nagrody. Zbieraj trofea z pokonanych jednostek ARC i pokaż swoje umiejętności.",
+      "pt": "Crie sua própria Exibição de Troféus para colher as recompensas. Colete troféus de unidades ARC derrotadas e mostre sua perícia.",
+      "pt-BR": "Crie sua própria Exibição de Troféus para colher as recompensas. Colete troféus de unidades ARC derrotadas e mostre sua perícia.",
+      "ru": "Создайте свою Витрину трофеев, чтобы получить награды. Собирайте трофеи с побежденных юнитов ARC и демонстрируйте свое мастерство.",
+      "sr": "Napravite vlastiti Prikaz Trofeja kako biste ubrali nagrade. Sakupite trofeje od pobeđenih ARC jedinica i pokažite svoju veštinu.",
+      "tr": "Ödülleri toplamak için kendi Kupa Serginizi oluşturun. Yenilmiş ARC birimlerinden kupa toplayın ve becerinizi sergileyin.",
+      "uk": "Створіть свою Вітрину трофеїв, щоб отримати нагороди. Збирайте трофеї з переможених юнітів ARC та демонструйте свою майстерність.",
+      "zh-CN": "创建自己的战利品展示以获取奖励。从被击败的ARC单位收集战利品并展示您的实力。",
+      "zh-TW": "創建自己的戰利品展示以獲取獎勵。從被擊敗的ARC單位收集戰利品並展示您的實力。"
+    },
+    "phases": [
+      {
+        "name": {
+          "da": "Vandrende Trusler",
+          "de": "Umherstreifende Bedrohungen",
+          "en": "Roaming Threats",
+          "es": "Amenazas Errantes",
+          "fr": "Menaces Errantes",
+          "he": "איומים נודדים",
+          "hr": "Lutajuće Prijetnje",
+          "it": "Minacce Vaganti",
+          "ja": "徘徊する脅威",
+          "kr": "배회하는 위협",
+          "no": "Vandrende Trusler",
+          "pl": "Wędrowne Zagrożenia",
+          "pt": "Ameaças Errantes",
+          "pt-BR": "Ameaças Errantes",
+          "ru": "Бродячие угрозы",
+          "sr": "Lutajuće Pretnje",
+          "tr": "Dolaşan Tehditler",
+          "uk": "Блукаючі загрози",
+          "zh-CN": "游荡威胁",
+          "zh-TW": "遊蕩威脅"
+        },
+        "description": {
+          "da": "Besejr landbaserede ARC-enheder og saml trofæer fra deres rester.",
+          "de": "Besiege bodengebundene ARC-Einheiten und sammle Trophäen aus ihren Überresten.",
+          "en": "Defeat ground-based ARC units and collect trophies from their remains.",
+          "es": "Derrota unidades ARC terrestres y recolecta trofeos de sus restos.",
+          "fr": "Vaincre les unités ARC terrestres et collecter des trophées de leurs restes.",
+          "he": "הביסו יחידות ARC קרקעיות ואספו גביעים משרידיהן.",
+          "hr": "Pobijedite prizemne ARC jedinice i sakupite trofeje iz njihovih ostataka.",
+          "it": "Sconfiggi unità ARC terrestri e raccogli trofei dai loro resti.",
+          "ja": "地上のARCユニットを倒し、その残骸からトロフィーを集めます。",
+          "kr": "지상 ARC 유닛을 물리치고 잔해에서 트로피를 수집하세요.",
+          "no": "Beseir bakkebaserte ARC-enheter og samle troféer fra deres rester.",
+          "pl": "Pokonaj naziemne jednostki ARC i zbierz trofea z ich szczątków.",
+          "pt": "Derrote unidades ARC terrestres e colete troféus de seus restos.",
+          "pt-BR": "Derrote unidades ARC terrestres e colete troféus de seus restos.",
+          "ru": "Победите наземные юниты ARC и соберите трофеи с их останков.",
+          "sr": "Pobedite prizemne ARC jedinice i sakupite trofeje iz njihovih ostataka.",
+          "tr": "Yer tabanlı ARC birimlerini yenin ve kalıntılarından kupa toplayın.",
+          "uk": "Переможіть наземні юніти ARC та зберіть трофеї з їхніх залишків.",
+          "zh-CN": "击败地面ARC单位并从其残骸中收集战利品。",
+          "zh-TW": "擊敗地面ARC單位並從其殘骸中收集戰利品。"
+        },
+        "phase": 1,
+        "requirementItemIds": [
+          {
+            "itemId": "rusted_bolts",
+            "quantity": 3
+          },
+          {
+            "itemId": "pop_trigger",
+            "quantity": 15
+          },
+          {
+            "itemId": "tick_pod",
+            "quantity": 15
+          },
+          {
+            "itemId": "surveyor_vault",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Svævende Trusler",
+          "de": "Schwebende Gefahren",
+          "en": "Soaring Menaces",
+          "es": "Amenazas Voladoras",
+          "fr": "Menaces Aériennes",
+          "he": "איומים מרחפים",
+          "hr": "Lebdeće Opasnosti",
+          "it": "Minacce Volanti",
+          "ja": "空中の脅威",
+          "kr": "날아오르는 위협",
+          "no": "Svevende Trusler",
+          "pl": "Szybujące Zagrożenia",
+          "pt": "Ameaças Voadoras",
+          "pt-BR": "Ameaças Voadoras",
+          "ru": "Парящие угрозы",
+          "sr": "Lebdeće Opasnosti",
+          "tr": "Uçan Tehditler",
+          "uk": "Летючі загрози",
+          "zh-CN": "飞行威胁",
+          "zh-TW": "飛行威脅"
+        },
+        "description": {
+          "da": "Nedskyd luftbårne ARC-enheder og saml deres unikke komponenter.",
+          "de": "Schieße luftgestützte ARC-Einheiten ab und sammle ihre einzigartigen Komponenten.",
+          "en": "Shoot down airborne ARC units and collect their unique components.",
+          "es": "Derriba unidades ARC aéreas y recolecta sus componentes únicos.",
+          "fr": "Abattez les unités ARC aériennes et collectez leurs composants uniques.",
+          "he": "הפילו יחידות ARC מוטסות ואספו את הרכיבים הייחודיים שלהן.",
+          "hr": "Oborite zračne ARC jedinice i sakupite njihove jedinstvene komponente.",
+          "it": "Abbatti unità ARC aeree e raccogli i loro componenti unici.",
+          "ja": "空中のARCユニットを撃墜し、そのユニークなコンポーネントを集めます。",
+          "kr": "공중 ARC 유닛을 격추하고 고유한 구성 요소를 수집하세요.",
+          "no": "Skyt ned luftbårne ARC-enheter og samle deres unike komponenter.",
+          "pl": "Zestrzel powietrzne jednostki ARC i zbierz ich unikalne komponenty.",
+          "pt": "Derrube unidades ARC aéreas e colete seus componentes únicos.",
+          "pt-BR": "Derrube unidades ARC aéreas e colete seus componentes únicos.",
+          "ru": "Сбивайте воздушные юниты ARC и собирайте их уникальные компоненты.",
+          "sr": "Oborite vazdušne ARC jedinice i sakupite njihove jedinstvene komponente.",
+          "tr": "Havadaki ARC birimlerini düşürün ve benzersiz bileşenlerini toplayın.",
+          "uk": "Збивайте повітряні юніти ARC та збирайте їхні унікальні компоненти.",
+          "zh-CN": "击落空中ARC单位并收集其独特组件。",
+          "zh-TW": "擊落空中ARC單位並收集其獨特組件。"
+        },
+        "phase": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "spotter_relay",
+            "quantity": 10
+          },
+          {
+            "itemId": "expired_respirator",
+            "quantity": 3
+          },
+          {
+            "itemId": "wasp_driver",
+            "quantity": 20
+          },
+          {
+            "itemId": "hornet_driver",
+            "quantity": 15
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Frygtelige Fjender",
+          "de": "Wilde Gegner",
+          "en": "Ferocious Foes",
+          "es": "Enemigos Feroces",
+          "fr": "Ennemis Féroces",
+          "he": "אויבים עזים",
+          "hr": "Žestoki Neprijatelji",
+          "it": "Nemici Feroci",
+          "ja": "獰猛な敵",
+          "kr": "사나운 적",
+          "no": "Ville Fiender",
+          "pl": "Dzicy Wrogowie",
+          "pt": "Inimigos Ferozes",
+          "pt-BR": "Inimigos Ferozes",
+          "ru": "Свирепые враги",
+          "sr": "Žestoki Neprijatelji",
+          "tr": "Vahşi Düşmanlar",
+          "uk": "Лютi вороги",
+          "zh-CN": "凶猛敌人",
+          "zh-TW": "兇猛敵人"
+        },
+        "description": {
+          "da": "Overvind kraftfulde ARC-enheder og udtræk deres avancerede teknologi.",
+          "de": "Überwinde mächtige ARC-Einheiten und extrahiere ihre fortschrittliche Technologie.",
+          "en": "Overcome powerful ARC units and extract their advanced technology.",
+          "es": "Supera unidades ARC poderosas y extrae su tecnología avanzada.",
+          "fr": "Surmontez les puissantes unités ARC et extrayez leur technologie avancée.",
+          "he": "התגברו על יחידות ARC חזקות וחלצו את הטכנולוגיה המתקדמת שלהן.",
+          "hr": "Savladajte moćne ARC jedinice i izvucite njihovu naprednu tehnologiju.",
+          "it": "Supera potenti unità ARC ed estrai la loro tecnologia avanzata.",
+          "ja": "強力なARCユニットを打ち破り、高度な技術を抽出します。",
+          "kr": "강력한 ARC 유닛을 극복하고 고급 기술을 추출하세요.",
+          "no": "Overvinne kraftige ARC-enheter og trekke ut deres avanserte teknologi.",
+          "pl": "Pokonaj potężne jednostki ARC i wydobądź ich zaawansowaną technologię.",
+          "pt": "Supere unidades ARC poderosas e extraia sua tecnologia avançada.",
+          "pt-BR": "Supere unidades ARC poderosas e extraia sua tecnologia avançada.",
+          "ru": "Преодолейте мощные юниты ARC и извлеките их передовую технологию.",
+          "sr": "Savladajte moćne ARC jedinice i izvucite njihovu naprednu tehnologiju.",
+          "tr": "Güçlü ARC birimlerini yenin ve gelişmiş teknolojilerini çıkarın.",
+          "uk": "Подолайте потужні юніти ARC та витягніть їхню передову технологію.",
+          "zh-CN": "克服强大的ARC单位并提取其先进技术。",
+          "zh-TW": "克服強大的ARC單位並提取其先進技術。"
+        },
+        "phase": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "arc_performance_steel",
+            "quantity": 10
+          },
+          {
+            "itemId": "shredder_gyro",
+            "quantity": 5
+          },
+          {
+            "itemId": "leaper_pulse_unit",
+            "quantity": 10
+          },
+          {
+            "itemId": "bastion_cell",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Dominerende Farer",
+          "de": "Dominierende Gefahren",
+          "en": "Dominant Dangers",
+          "es": "Peligros Dominantes",
+          "fr": "Dangers Dominants",
+          "he": "סכנות דומיננטיות",
+          "hr": "Dominantne Opasnosti",
+          "it": "Pericoli Dominanti",
+          "ja": "支配的な危険",
+          "kr": "지배적인 위험",
+          "no": "Dominerende Farer",
+          "pl": "Dominujące Zagrożenia",
+          "pt": "Perigos Dominantes",
+          "pt-BR": "Perigos Dominantes",
+          "ru": "Доминирующие опасности",
+          "sr": "Dominantne Opasnosti",
+          "tr": "Baskın Tehlikeler",
+          "uk": "Домінуючі небезпеки",
+          "zh-CN": "主导危险",
+          "zh-TW": "主導危險"
+        },
+        "description": {
+          "da": "Konfronter elite ARC-enheder og indsaml deres sjældne trofæer.",
+          "de": "Konfrontiere Elite-ARC-Einheiten und sammle ihre seltenen Trophäen.",
+          "en": "Confront elite ARC units and collect their rare trophies.",
+          "es": "Confronta unidades ARC de élite y recolecta sus trofeos raros.",
+          "fr": "Affrontez les unités ARC d'élite et collectez leurs trophées rares.",
+          "he": "התעמתו עם יחידות ARC עילית ואספו את הגביעים הנדירים שלהן.",
+          "hr": "Suočite se s elitnim ARC jedinicama i sakupite njihove rijetke trofeje.",
+          "it": "Affronta unità ARC d'élite e raccogli i loro trofei rari.",
+          "ja": "エリートARCユニットと対峙し、そのレアなトロフィーを集めます。",
+          "kr": "엘리트 ARC 유닛과 맞서고 희귀 트로피를 수집하세요.",
+          "no": "Konfronter elite ARC-enheter og samle deres sjeldne troféer.",
+          "pl": "Skonfrontuj się z elitarnymi jednostkami ARC i zbierz ich rzadkie trofea.",
+          "pt": "Confronte unidades ARC de elite e colete seus troféus raros.",
+          "pt-BR": "Confronte unidades ARC de elite e colete seus troféus raros.",
+          "ru": "Противостойте элитным юнитам ARC и соберите их редкие трофеи.",
+          "sr": "Suočite se sa elitnim ARC jedinicama i sakupite njihove retke trofeje.",
+          "tr": "Elit ARC birimleriyle yüzleşin ve nadir kupalarını toplayın.",
+          "uk": "Протистояйте елітним юнітам ARC та зберіть їхні рідкісні трофеї.",
+          "zh-CN": "对抗精英ARC单位并收集其稀有战利品。",
+          "zh-TW": "對抗精英ARC單位並收集其稀有戰利品。"
+        },
+        "phase": 4,
+        "requirementItemIds": [
+          {
+            "itemId": "arc_synthetic_resin",
+            "quantity": 10
+          },
+          {
+            "itemId": "magnetic_accelerator",
+            "quantity": 10
+          },
+          {
+            "itemId": "rocketeer_driver",
+            "quantity": 8
+          },
+          {
+            "itemId": "queen_reactor",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Imponerende Behemoths",
+          "de": "Imposante Kolosse",
+          "en": "Imposing Behemoths",
+          "es": "Behemots Imponentes",
+          "fr": "Béhémoths Imposants",
+          "he": "בהמות מרשימות",
+          "hr": "Impozantni Divovi",
+          "it": "Behemoth Imponenti",
+          "ja": "堂々たる巨獣",
+          "kr": "위압적인 거수",
+          "no": "Imponerende Behemoths",
+          "pl": "Imponujące Behemoty",
+          "pt": "Behemoths Imponentes",
+          "pt-BR": "Behemoths Imponentes",
+          "ru": "Внушительные бегемоты",
+          "sr": "Impozantni Divovi",
+          "tr": "Heybetli Dev Yaratıklar",
+          "uk": "Вражаючі бегемоти",
+          "zh-CN": "令人生畏的巨兽",
+          "zh-TW": "令人生畏的巨獸"
+        },
+        "description": {
+          "da": "Besejr de mest frygtindgydende ARC-enheder og secure deres ultimative trofæer.",
+          "de": "Besiege die furchterregendsten ARC-Einheiten und sichere ihre ultimativen Trophäen.",
+          "en": "Defeat the most formidable ARC units and secure their ultimate trophies.",
+          "es": "Derrota las unidades ARC más formidables y asegura sus trofeos definitivos.",
+          "fr": "Vaincre les unités ARC les plus redoutables et sécuriser leurs trophées ultimes.",
+          "he": "הביסו את יחידות ה-ARC האימתניות ביותר והבטיחו את הגביעים האולטימטיביים שלהן.",
+          "hr": "Pobijedite najstrašnije ARC jedinice i osigurajte njihove ultimativne trofeje.",
+          "it": "Sconfiggi le unità ARC più formidabili e assicurati i loro trofei definitivi.",
+          "ja": "最も手強いARCユニットを倒し、究極のトロフィーを確保します。",
+          "kr": "가장 강력한 ARC 유닛을 물리치고 궁극의 트로피를 확보하세요.",
+          "no": "Beseir de mest formidable ARC-enhetene og sikre deres ultimate troféer.",
+          "pl": "Pokonaj najbardziej groźne jednostki ARC i zdobądź ich ostateczne trofea.",
+          "pt": "Derrote as unidades ARC mais formidáveis e garanta seus troféus definitivos.",
+          "pt-BR": "Derrote as unidades ARC mais formidáveis e garanta seus troféus definitivos.",
+          "ru": "Победите самые грозные юниты ARC и заполучите их окончательные трофеи.",
+          "sr": "Pobedite najstrašnije ARC jedinice i osigurajte njihove ultimativne trofeje.",
+          "tr": "En zorlu ARC birimlerini yenin ve nihai kupalarını güvenceye alın.",
+          "uk": "Переможіть найгрізніші юніти ARC та заволодійте їхніми остаточними трофеями.",
+          "zh-CN": "击败最强大的ARC单位并获取其终极战利品。",
+          "zh-TW": "擊敗最強大的ARC單位並獲取其終極戰利品。"
+        },
+        "phase": 5,
+        "requirementItemIds": [
+          {
+            "itemId": "exodus_modules",
+            "quantity": 5
+          },
+          {
+            "itemId": "geiger_counter",
+            "quantity": 3
+          },
+          {
+            "itemId": "bombardier_cell",
+            "quantity": 8
+          },
+          {
+            "itemId": "matriarch_reactor",
+            "quantity": 3
+          }
+        ]
+      }
+    ]
   }
 ]
