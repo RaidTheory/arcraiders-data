@@ -2,7 +2,7 @@
   "id": "ss10x2",
   "name": {
     "da": "Forsømt have",
-    "de": "Ungepflegter Garten",
+    "de": "Vernachlässigter Garten",
     "en": "Untended Garden",
     "es": "Jardín desatendido",
     "fr": "Jardin abandonné",
@@ -26,7 +26,7 @@
   "trader": "Celeste",
   "description": {
     "da": "Ifølge filerne du fandt i laboratoriet, var det faktisk dyrkningsforskerne, der satte de hydroponiske kupler op ude i sumpen. Lyder som det mest oplagte sted at søge næste gang, synes du ikke?",
-    "de": "Laut den Akten, die du im Labor gefunden hast, waren die Anbauforscher tatsächlich diejenigen, die die hydroponischen Kuppeln draußen im Sumpf errichtet haben. Klingt nach dem naheliegendsten Ort für die nächste Suche, findest du nicht?",
+    "de": "Laut den Informationen, die du im Labor gefunden hast, waren es die Landbauforscher, die die Hydrokultur- Kuppeln im Sumpf installiert haben. Das ist dann wohl offensichtlich unser nächstes Ziel, meinst du nicht?",
     "en": "According to the files you found in the lab, the cultivation researchers were actually the ones who set up the hydroponic domes out in the swamp. Sounds like the most obvious place to search next, don't you think?",
     "es": "Según los archivos que encontraste en el laboratorio, los investigadores de cultivo fueron en realidad quienes instalaron los domos hidropónicos en el pantano. Suena como el lugar más obvio para buscar a continuación, ¿no crees?",
     "fr": "D'après les dossiers que vous avez découvert dans le laboratoire, ce sont les chercheurs en culture qui ont installé les dômes hydroponiques dans le marais. Ça semble logique d'aller chercher là-bas, non ?",
@@ -46,10 +46,11 @@
     "zh-CN": "根据你在实验室找到的文件，栽培研究人员实际上就是在沼泽地建立水培穹顶的人。听起来这是下一个最明显的搜索地点，你不觉得吗？",
     "zh-TW": "根據你在實驗室找到的文件，栽培研究人員實際上就是在沼澤地建立水培穹頂的人。聽起來這是下一個最明顯的搜索地點，你不覺得嗎？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Gå til det Hydroponiske Kuppelkompleks",
-      "de": "Gehe zum hydroponischen Kuppelkomplex",
+      "de": "Zum Hydrokultur-Kuppelkomplex gehen",
       "en": "Go to the Hydroponic Dome Complex",
       "es": "Ve al Complejo de Domos Hidropónicos",
       "fr": "Aller au complexe de dômes hydroponiques",
@@ -71,7 +72,7 @@
     },
     {
       "da": "Få adgang til dataarkivet i en af kuplerne",
-      "de": "Greife auf das Datenarchiv in einer der Kuppeln zu",
+      "de": "Auf das Datenarchiv in einer der Kuppeln zugreifen",
       "en": "Access the data archive in one of the domes",
       "es": "Accede al archivo de datos en uno de los domos",
       "fr": "Accéder aux archives de données de l'un des dômes",
@@ -93,7 +94,7 @@
     },
     {
       "da": "Upload dataene til computerterminalen i et hvilket som helst feltdepot",
-      "de": "Lade die Daten am Computerterminal in einem beliebigen Felddepot hoch",
+      "de": "Die Daten auf das Computerterminal eines Felddepots hochladen",
       "en": "Upload the data to the computer terminal in any Field Depot",
       "es": "Sube los datos al terminal del ordenador en cualquier depósito de campo",
       "fr": "Téléchargez les données sur le terminal informatique de n'importe quel dépôt de terrain",

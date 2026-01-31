@@ -26,7 +26,7 @@
   "trader": "Shani",
   "description": {
     "da": "Vi har rent vand igen, men vi kan ikke risikere, at folk bliver syge, hvis sabotørerne vender tilbage. Vi skal udrydde dem en gang for alle.",
-    "de": "Wir haben wieder sauberes Wasser, aber wir können nicht riskieren, dass die Leute krank werden, wenn die Saboteure zurückkehren. Wir müssen sie ein für alle Mal ausmerzen.",
+    "de": "Wir haben wieder sauberes Wasser, aber wir können nicht riskieren, dass Leute krank werden, wenn die Saboteure zurückkommen. Wir müssen sie ein für alle Mal loswerden.",
     "en": "We've got clean water again, but we can't risk people falling ill if the saboteurs return. We need to root them out once and for all.",
     "es": "Tenemos agua limpia de nuevo, pero no podemos arriesgarnos a que la gente enferme si los saboteadores regresan. Necesitamos eliminarlos de una vez por todas.",
     "fr": "Nous avons à nouveau de l'eau propre, mais nous ne pouvons pas risquer que les gens tombent malades si les saboteurs reviennent. Nous devons les déraciner une fois pour toutes.",
@@ -49,7 +49,7 @@
   "objectives": [
     {
       "da": "Vend tilbage til vandindtaget under Vandbehandlingskontrolbygningen",
-      "de": "Kehre zum Wassereinlass unter dem Wasseraufbereitungs-Kontrollgebäude zurück",
+      "de": "Gehe zurück zu den Wasserentnahmerohren beim Kontrollgebäude der Wasseraufbereitung",
       "en": "Return to the water intake below the Water Treatment Control building",
       "es": "Regresa a la toma de agua debajo del edificio de Control de Tratamiento de Agua",
       "fr": "Retournez à la prise d'eau sous le bâtiment de contrôle du traitement de l'eau",
@@ -71,7 +71,7 @@
     },
     {
       "da": "Søg i sumpen efter spor af tøndens oprindelse",
-      "de": "Durchsuche den Sumpf nach Spuren der Herkunft des Fasses",
+      "de": "Untersuche den Sumpf, um herauszufinden, woher das Fass stammen könnte",
       "en": "Search the swamp for traces of the barrel's origins",
       "es": "Busca en el pantano rastros del origen del barril",
       "fr": "Fouiller le marais pour trouver des traces de l'origine du baril",
@@ -93,7 +93,7 @@
     },
     {
       "da": "Tag et billede af tøndelastbilen",
-      "de": "Mache ein Foto vom Fass-Lkw",
+      "de": "Mache ein Foto von dem Fasswagen",
       "en": "Take a photo of the barrel truck",
       "es": "Toma una foto del camión de barriles",
       "fr": "Prenez une photo du camion de barils",
@@ -115,7 +115,7 @@
     },
     {
       "da": "Gennemsøg lastbilen efter spor om sabotørens identitet.",
-      "de": "Durchsuche den Lkw nach Hinweisen auf die Identität des Saboteurs.",
+      "de": "Durchsuche den Truck nach Hinweisen auf die Identität des Saboteurs",
       "en": "Search the truck for clues about the saboteur's identity.",
       "es": "Registra el camión en busca de pistas sobre la identidad del saboteador.",
       "fr": "Fouillez le camion pour trouver des indices sur l'identité du saboteur.",

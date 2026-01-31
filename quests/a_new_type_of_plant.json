@@ -2,7 +2,7 @@
   "id": "ss10x19",
   "name": {
     "da": "En ny type plante",
-    "de": "Eine neue Pflanzenart",
+    "de": "Eine neue Art von Pflanze",
     "en": "A New Type of Plant",
     "es": "Un nuevo tipo de planta",
     "fr": "Un nouveau type de plante",
@@ -25,7 +25,7 @@
   "trader": "Lance",
   "description": {
     "da": "Nogle spejdere har bragt rapporter tilbage om disse mærkelige planter, der spreder sig ind i området. Nu får dette din gamle ven Lance til at tænke, at den måske har nogle interessante anvendelser.",
-    "de": "Einige Späher haben Berichte über diese seltsamen Pflanzen zurückgebracht, die sich in der Gegend ausbreiten. Das lässt deinen alten Kumpel Lance denken, dass sie interessante Verwendungsmöglichkeiten haben könnte.",
+    "de": "Ein paar Späher haben von merkwürdigen Pflanzen berichtet, die sich in der Gegend ausbreiten. Dein alter Kumpel Lance ist der Meinung, dass man die für interessante Dinge benutzen könnte.",
     "en": "Some scouts have been bringing back reports of these weird plants spreading into the area. Now, this makes your old pal Lance think it may have some interesting uses.",
     "es": "Algunos exploradores han estado trayendo informes de estas plantas extrañas que se están extendiendo por el área. Ahora, esto hace que tu viejo amigo Lance piense que puede tener algunos usos interesantes.",
     "fr": "Certains éclaireurs ont rapporté des rapports sur ces plantes étranges qui se propagent dans la région. Maintenant, cela fait penser à votre vieux pote Lance qu'elle pourrait avoir des utilisations intéressantes.",
@@ -45,10 +45,11 @@
     "zh-CN": "一些侦察兵带回了关于这些奇怪植物在该地区蔓延的报告。这让你的老朋友兰斯觉得它可能有一些有趣的用途。",
     "zh-TW": "一些偵察兵帶回了關於這些奇怪植物在該地區蔓延的報告。這讓你的老朋友蘭斯覺得它可能有一些有趣的用途。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Søg efter den nye plante nær Baron-skallen på den Gamle Slagmark",
-      "de": "Suche nach der neuen Pflanze in der Nähe der Baron-Hülle im Alten Schlachtfeld",
+      "de": "Suche in der Nähe der Baronhülle auf dem alten Schlachtfeld nach der neuen Pflanze",
       "en": "Search for the new plant near the Baron Husk in the Old Battleground",
       "es": "Busca la nueva planta cerca del Cascarón del Barón en el Antiguo Campo de Batalla",
       "fr": "Chercher la nouvelle plante près de l'épage de Baron sur l'ancien champ de bataille",
@@ -70,7 +71,7 @@
     },
     {
       "da": "Lever den muligvis giftige plante til Lance",
-      "de": "Liefere die möglicherweise giftige Pflanze an Lance",
+      "de": "Bring die möglicherweise giftige Pflanze zu Lance",
       "en": "Deliver the Possibly Toxic Plant to Lance",
       "es": "Entrega la planta posiblemente tóxica a Lance",
       "fr": "Livrer la plante potentiellement toxique à Lance",

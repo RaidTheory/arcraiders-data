@@ -26,7 +26,7 @@
   "trader": "Apollo",
   "description": {
     "da": "En Raider kom ind i min butik tidligere for at bytte nogle granater for en maskine, hun fandt i Buried City. Hun sagde, den laver kaffe, men det ser ud til at mangle nogle dele. Klar til et job?",
-    "de": "Ein Raider kam vorhin in meinen Laden, um ein paar Granaten gegen eine Maschine zu tauschen, die sie in der Begrabenen Stadt gefunden hat. Sie sagte, sie macht Kaffee, aber es scheinen ein paar Teile zu fehlen. Lust auf einen Job?",
+    "de": "Vorhin kam ein Raider in meinen Laden und hat eine Maschine, die sie in der Begrabenen Stadt gefunden hatte, gegen ein paar Granaten eingetauscht. Sie sagt, mit dem Ding kann man Kaffee kochen, aber es fehlen ein paar Teile. Lust auf einen Job?",
     "en": "A Raider came into my shop earlier, to trade some grenades for a machine she found in Buried City. She said it makes coffee, but it seems to be missing a few parts. Up for a job?",
     "es": "Un Raider vino a mi tienda antes para intercambiar unas granadas por una máquina que encontró en la Ciudad Enterrada. Dijo que hace café, pero parece que le faltan algunas piezas. ¿Te interesa el trabajo?",
     "fr": "Un Raider est venu dans ma boutique plus tôt pour échanger des grenades contre une machine qu'elle a trouvée dans la Cité Enfouie. Elle a dit que ça fait du café, mais il semble manquer quelques pièces. Partant pour un boulot ?",
@@ -46,10 +46,11 @@
     "zh-CN": "一个掠夺者早些时候来到我的店里，用她在埋葬之城找到的机器换了些手榴弹。她说那机器能做咖啡，但似乎缺了几个零件。接这活吗？",
     "zh-TW": "一個掠奪者稍早來到我的店裡，用她在埋葬之城找到的機器換了些手榴彈。她說那機器能做咖啡，但似乎缺了幾個零件。接這活嗎？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find en espressomaskine at bjærge for reservedele",
-      "de": "Finde eine Espressomaschine, um Ersatzteile zu bergen",
+      "de": "Einen Espressoautomaten zum Ausschlachten finden",
       "en": "Find an espresso machine to salvage for spare parts",
       "es": "Encuentra una máquina de espresso para recuperar piezas de repuesto",
       "fr": "Trouvez une machine à expresso à récupérer pour des pièces détachées",
@@ -71,7 +72,7 @@
     },
     {
       "da": "Få espressomaskinens dele til Apollo",
-      "de": "Besorge die Espressomaschinen-Teile für Apollo",
+      "de": "Hole für Apollo die Teile für den Espressoautomaten",
       "en": "Get the Espresso Machine Parts for Apollo",
       "es": "Consigue las piezas de la máquina de espresso para Apollo",
       "fr": "Obtenez les pièces de la machine à Expresso pour Apollo",

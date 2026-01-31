@@ -2,7 +2,7 @@
   "id": "ss11b",
   "name": {
     "da": "Tabt i transmission",
-    "de": "Übertragung unterbrochen",
+    "de": "Übertragungsfehler",
     "en": "Lost in Transmission",
     "es": "Perdido en la transmisión",
     "fr": "Perte de transmission",
@@ -32,7 +32,7 @@
   ],
   "description": {
     "da": "Jeg har udstyr sat op ved rumhavnen for at overvåge ARCs bevægelser. Min forbindelse brød sammen lige nu — jeg har brug for, at du tager til kontroltårnene og hjælper mig med at hente mine logfiler.",
-    "de": "Ich habe Ausrüstung am Raumhafen installiert, um ARCs Bewegungen zu überwachen. Meine Verbindung ist gerade ausgefallen — ich brauche dich, um zu den Kontrolltürmen zu gehen und mir zu helfen, meine Protokolle abzurufen.",
+    "de": "Ich hab eine Anlage oben am Raumhafen aufgebaut, um die Bewegungen der ARC zu verfolgen. Jetzt gerade ist aber die Verbindung abgebrochen - geh zu den Kontrolltürmen und sichere meine Protokolle.",
     "en": "I have equipment set up at the Spaceport, to monitor ARC's movements. My connection broke down just now — I need you to head to the Control Towers and help me retrieve my logs.",
     "es": "Tengo equipo instalado en el espaciopuerto para monitorear los movimientos de ARC. Mi conexión acaba de fallar — necesito que vayas a las torres de control y me ayudes a recuperar mis registros.",
     "fr": "J'ai installé de l'équipement au port spatial pour surveiller les mouvements de l'ARC, mais je viens de perdre la connexion... Allez aux tours de contrôle et aidez-moi à récupérer mes registres.",
@@ -52,10 +52,11 @@
     "zh-CN": "我在太空港设置了设备来监视ARC的动向。我的连接刚刚中断了——我需要你前往控制塔帮我找回日志。",
     "zh-TW": "我在太空港設置了設備來監視ARC的動向。我的連線剛剛中斷了——我需要你前往控制塔幫我找回日誌。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Besøg kontroltårn A6",
-      "de": "Besuche Kontrollturm A6",
+      "de": "Besuche den Kontrollturm A6",
       "en": "Visit Control Tower A6",
       "es": "Visita la torre de control A6",
       "fr": "Visiter la Tour de contrôle A6",

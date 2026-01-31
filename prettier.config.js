@@ -72,6 +72,7 @@ const json_sort_orders = {
         otherRequirements: null,
         grantedItemIds: null,
         description: null,
+        objectivesOneRound: null,
         objectives: null,
         rewardItemIds: null,
         xp: null,

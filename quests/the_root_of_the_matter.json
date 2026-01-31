@@ -2,7 +2,7 @@
   "id": "ss10x3",
   "name": {
     "da": "Sagens kerne",
-    "de": "Der Kern der Sache",
+    "de": "Die Wurzel des Ganzen",
     "en": "The Root of the Matter",
     "es": "La raíz del asunto",
     "fr": "La racine du problème",
@@ -26,7 +26,7 @@
   "trader": "Celeste",
   "description": {
     "da": "Vi er heldige. Noterne du fandt sidst blev skrevet af hovedforskeren. Da projektet gik under, ser det ud til, at hun tog nogle af frøprøverne og forseglede dem på et sikkert sted.",
-    "de": "Wir haben Glück. Die Notizen, die du letztes Mal gefunden hast, wurden von der leitenden Forscherin geschrieben. Als das Projekt scheiterte, scheint sie einige der Samenproben genommen und an einem sicheren Ort versiegelt zu haben.",
+    "de": "Wir haben Glück. Die Notizen, die du letztes Mal gefunden hast, sind von der Forschunggsleiterin. Als das Aus für das Projekt kam, hat sie anscheinend einige Saatgutproben beiseitegeschafft und an einem sicheren Ort versteckt.",
     "en": "We're in luck. The notes you found last time were written by the lead researcher. When the project went under, it seems she took some of the seed samples and sealed them away in a secure location.",
     "es": "Tenemos suerte. Las notas que encontraste la última vez fueron escritas por la investigadora principal. Cuando el proyecto se hundió, parece que tomó algunas de las muestras de semillas y las selló en un lugar seguro.",
     "fr": "Nous avons de la chance. Les notes que vous avez trouvées la dernière fois ont été écrites par la chercheuse principale. Lorsque le projet a échoué, il semble qu'elle ait pris des échantillons de graines qu'elle a scellés dans un endroit sécurisé.",
@@ -46,10 +46,11 @@
     "zh-CN": "我们很幸运。你上次找到的笔记是首席研究员写的。当项目终止时，她似乎带走了一些种子样本，并将它们封存在一个安全的地方。",
     "zh-TW": "我們很幸運。你上次找到的筆記是首席研究員寫的。當專案終止時，她似乎帶走了一些種子樣本，並將它們封存在一個安全的地方。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Gå til Forskningsbygningen",
-      "de": "Gehe zum Forschungsgebäude",
+      "de": "Zur Forschungseinrichtung gehen",
       "en": "Go to the Research Building",
       "es": "Ve al Edificio de Investigación",
       "fr": "Aller au bâtiment de recherche",
@@ -71,7 +72,7 @@
     },
     {
       "da": "Søg efter frøhvælvingen i \"rummet med en fantastisk udsigt\"",
-      "de": "Suche nach dem Saatguttresor im \"Raum mit toller Aussicht\"",
+      "de": "Im \"Zimmer mit der tollen Aussicht\" nach dem Saatguttresor suchen",
       "en": "Search for the seed vault in the \"room with a great view\"",
       "es": "Busca la bóveda de semillas en la \"habitación con una gran vista\"",
       "fr": "Chercher le coffre à graines dans la \"pièce avec une vue imprenable\"",
@@ -93,7 +94,7 @@
     },
     {
       "da": "Lever den eksperimentelle frøprøve til Celeste",
-      "de": "Liefere die experimentelle Samenprobe an Celeste",
+      "de": "Liefere die experimentellen Pflanzensamen bei Celeste ab",
       "en": "Deliver the Experimental Seed Sample to Celeste",
       "es": "Entrega la muestra de semillas experimental a Celeste",
       "fr": "Livre l'échantillon de graines expérimental à Celeste",

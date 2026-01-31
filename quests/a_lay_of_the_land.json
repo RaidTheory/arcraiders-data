@@ -26,7 +26,7 @@
   "trader": "Shani",
   "description": {
     "da": "De fjerne drøn bliver mindre fjerne for hver dag der går. Jeg har et spor om nogle LiDAR-scannere, der kan hjælpe os med at overvåge rystelserne. Du vil gerne beholde et tag over hovedet, ikke?",
-    "de": "Diese fernen Grollen werden mit jedem Tag weniger fern. Ich habe einen Hinweis auf einige LiDAR-Scanner, die uns helfen könnten, die Erschütterungen zu überwachen. Du willst doch ein Dach über dem Kopf behalten, oder?",
+    "de": "Dieses Rumpeln in der Ferne ist jeden Tag etwas weniger fern. Ich hab da einen Hinweis auf Lidar-Scanner, die uns helfen könnten, die Erschütterungen zu registrieren. Du möchtest doch auch dein Dach über dem Kopf behalten, nicht wahr?",
     "en": "Those distant rumbles are getting less distant with each passing day. I have a lead on some LiDAR scanners that may help us monitor the tremors. You do want to keep a roof over your head, don't you?",
     "es": "Esos retumbos distantes se vuelven menos distantes con cada día que pasa. Tengo una pista sobre unos escáneres LiDAR que pueden ayudarnos a monitorear los temblores. Quieres mantener un techo sobre tu cabeza, ¿verdad?",
     "fr": "Ces grondements lointains se rapprochent de jour en jour. J'ai une piste sur des scanners LiDAR qui pourraient nous aider à surveiller les tremblements. Vous voulez bien garder un toit au-dessus de votre tête, n'est-ce pas ?",
@@ -46,6 +46,7 @@
     "zh-CN": "那些遥远的隆隆声每天都在变得越来越近。我有一些LiDAR扫描仪的线索，可以帮助我们监测震动。你总想头顶有个屋顶吧？",
     "zh-TW": "那些遙遠的隆隆聲每天都在變得越來越近。我有一些LiDAR掃描儀的線索，可以幫助我們監測震動。你總想頭頂有個屋頂吧？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå Jiangsu-lageret",
@@ -93,7 +94,7 @@
     },
     {
       "da": "Find scannerne på øverste etage i kontroltårn A6",
-      "de": "Finde die Scanner im oberen Stockwerk des Kontrollturms A6",
+      "de": "Finde die Scanner im Büro der Flugsteuerung des Kontrollturms A6",
       "en": "Locate the scanners on the upper floor of Control Tower A6",
       "es": "Localiza los escáneres en el piso superior de la torre de control A6",
       "fr": "Localiser les scanners à l'étage supérieur de la Tour de contrôle A6",
@@ -115,7 +116,7 @@
     },
     {
       "da": "Lever 1 LiDAR-scanner til Shani",
-      "de": "Liefere 1 LiDAR-Scanner an Shani",
+      "de": "Bring 1 Lidar-Scanner zu Shani",
       "en": "Deliver 1 LiDAR Scanners to Shani",
       "es": "Entrega 1 escáner LiDAR a Shani",
       "fr": "Livrer 1 scanner LiDAR à Shani",

@@ -2,7 +2,7 @@
   "id": "ss10z",
   "name": {
     "da": "Vores tilstedeværelse deroppe",
-    "de": "Unsere Präsenz dort oben",
+    "de": "Unsere Anwesenheit da Oben",
     "en": "Our Presence Up There",
     "es": "Nuestra presencia ahí arriba",
     "fr": "Retour à la surface",
@@ -26,7 +26,7 @@
   "trader": "Shani",
   "description": {
     "da": "ARC ændrer sig måske, men vi ændrer os endelig med det. Lad os færdiggøre de udposter og revolutionere måden, vi sporer dem, flankerer dem og smadrer dem til stumper og stykker.",
-    "de": "ARC mag sich verändern, aber wir verändern uns endlich mit. Lass uns diese Außenposten fertigstellen und die Art und Weise revolutionieren, wie wir sie aufspüren, flankieren und in Stücke schlagen.",
+    "de": "Die ARC mögen sich ändern, aber wir verändern uns letztendlich mit ihnen zusammen. Stellen wir diese Außenposten fertig, dann können wir unsere Methoden, sie aufzuspüren, auszutricksen und zu zertrümmern revolutionieren!",
     "en": "ARC may be changing, but we're finally changing with it. Let's finish up those outposts and revolutionize the way we track them, flank them, and smash them to bits.",
     "es": "ARC puede estar cambiando, pero finalmente estamos cambiando con él. Terminemos esos puestos avanzados y revolucionemos la forma en que los rastreamos, los flanqueamos y los hacemos pedazos.",
     "fr": "L'ARC peut changer, mais nous aussi. Finissons-en avec ces avant-postes pour transformer notre façon de les repérer, de les contourner et de les pulvériser.",
@@ -46,10 +46,11 @@
     "zh-CN": "ARC可能在改变，但我们终于也在随之改变。让我们完成这些前哨站，彻底改变我们追踪、侧翼包抄和粉碎他们的方式。",
     "zh-TW": "ARC可能在改變，但我們終於也在隨之改變。讓我們完成這些前哨站，徹底改變我們追蹤、側翼包抄和粉碎他們的方式。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Besøg Mønsterhuset i The Dam",
-      "de": "Besuche das Musterhaus in The Dam",
+      "de": "Das Wandgemälde-Haus am Damm aufsuchen",
       "en": "Visit the Pattern House in The Dam",
       "es": "Visita la Casa de Patrones en The Dam",
       "fr": "Visiter la maison modèle du barrage",
@@ -71,7 +72,7 @@
     },
     {
       "da": "Find og interager med strømafbryderen",
-      "de": "Finde den Netzschalter und interagiere mit ihm",
+      "de": "Finde den Stromschalter und schalte ihn um",
       "en": "Find and interact with the Power Switch",
       "es": "Encuentra e interactúa con el interruptor de energía",
       "fr": "Trouver et interagir avec l'interrupteur d'alimentation",
@@ -93,7 +94,7 @@
     },
     {
       "da": "Fuldfør antenneinstallationen på taget",
-      "de": "Schließe die Antenneninstallation auf dem Dach ab",
+      "de": "Die Antenneninstallation auf dem Dach abschließen",
       "en": "Complete the antenna installation on the roof",
       "es": "Completa la instalación de la antena en el tejado",
       "fr": "Terminer l'installation de l'antenne sur le toit",

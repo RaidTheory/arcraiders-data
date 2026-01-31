@@ -32,7 +32,7 @@
   ],
   "description": {
     "da": "Den Deforester ved Blue Gate har måske forårsaget en del ødelæggelse, men sådan et uberørt hylster er også en uvurderlig prøve for vores forskning.",
-    "de": "Dieser Deforester am Blauen Tor mag zwar einige Verwüstung angerichtet haben, aber eine so makellose Hülle ist auch eine unschätzbare Probe für unsere Forschung.",
+    "de": "Dieser Abholzer am Blauen Tor hat vielleicht echte Zerstörung angerichtet, aber so eine unberührte Hülle ist auch ein super wertvolles Exemplar für unsere Forschung.",
     "en": "That Deforester by the Blue Gate may have caused some real devastation, but a pristine husk like that is also an invaluable sample for our research.",
     "es": "Ese Deforestador junto a la Puerta Azul puede haber causado una verdadera devastación, pero una carcasa prístina como esa también es una muestra invaluable para nuestra investigación.",
     "fr": "Ce Déforesteur près de la Porte Bleue a peut-être causé de vrais dégâts, mais une carcasse aussi intacte est aussi un échantillon inestimable pour nos recherches.",
@@ -52,6 +52,7 @@
     "zh-CN": "蓝门旁的那个伐木机可能造成了一些真正的破坏，但像那样完好的外壳对我们的研究来说也是无价的样本。",
     "zh-TW": "藍門旁的那個伐木機可能造成了一些真正的破壞，但像那樣完好的外殼對我們的研究來說也是無價的樣本。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Skaf 2 ARC-strømceller",
@@ -77,7 +78,7 @@
     },
     {
       "da": "Interager med en hvilken som helst ARC Deforester",
-      "de": "Interagiere mit einem beliebigen ARC-Deforester",
+      "de": "Interagiere mit einem ARC-Abholzer",
       "en": "Interact with any ARC Deforester",
       "es": "Interactúa con cualquier Deforestador ARC",
       "fr": "Interagir avec n'importe quel Déforesteur ARC",
@@ -99,7 +100,7 @@
     },
     {
       "da": "Plyndr en ARC Deforester",
-      "de": "Plündere einen ARC-Deforester",
+      "de": "Plündere einen ARC-Abholzer",
       "en": "Loot an ARC Deforester",
       "es": "Saquea un Deforestador ARC",
       "fr": "Piller un Déforesteur ARC",

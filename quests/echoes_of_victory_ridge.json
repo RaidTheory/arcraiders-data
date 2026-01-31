@@ -46,6 +46,7 @@
     "zh-CN": "你昨晚感觉到震动了吗？我也没有。但显然地面在某个时候发生了移动，在这个过程中挖出了一个被碎片堵住的旧第一波前哨站。我希望你能在其他人之前快速进入那里。",
     "zh-TW": "你昨晚感覺到震動了嗎？我也沒有。但顯然地面在某個時候發生了移動，在這個過程中挖出了一個被碎片堵住的舊第一波前哨站。我希望你能在其他人之前快速進入那裡。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå Victory Ridge",
@@ -71,7 +72,7 @@
     },
     {
       "da": "Hent kampplanerne fra skjulestedet under den ødelagte motorvej",
-      "de": "Hole die Schlachtpläne aus dem Versteck unter der kaputten Schnellstraße",
+      "de": "Hol die Schlachtpläne aus dem Versteck unter der kaputten Schnellstraße",
       "en": "Retrieve the battle plans from the hideout under the broken highway",
       "es": "Recupera los planes de batalla del escondite bajo la autopista rota",
       "fr": "Récupérer les plans de bataille dans la planque sous l'autoroute effondrée",

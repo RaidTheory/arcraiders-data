@@ -2,7 +2,7 @@
   "id": "ss10x16",
   "name": {
     "da": "Grave snavs op",
-    "de": "Schmutz ausgraben",
+    "de": "Schmutzige Details",
     "en": "Digging Up Dirt",
     "es": "Desenterrando trapos sucios",
     "fr": "Déterrer des secrets",
@@ -26,7 +26,7 @@
   "trader": "Celeste",
   "description": {
     "da": "Vi fik et gennembrud. En af vores spejdere så et medlem af Tubes Management lave en død aflevering inde i Santa Maria-husene i den Begravede By. Dette kan være vores chance for at grave snavs op på dem for en gangs skyld. Er du med?",
-    "de": "Wir haben einen Durchbruch. Einer unserer Späher sah ein Mitglied der Tubes Management einen toten Briefkasten in den Santa Maria Häusern in der Begrabenen Stadt machen. Das könnte unsere Chance sein, endlich mal Dreck über sie auszugraben. Bist du dabei?",
+    "de": "Einer unserer Späher hat gesehen, wie ein Mitglied der U- Bahn-Verwaltung einen toten Briefkasten in einem der Santa-Maria-Häuser in der Begrabenen Stadt angelegt hat. Das könnte unsere Chance sein, zur Abwechslung mal ihre schmutzige Wäsche zu waschen. Bist du dabei?",
     "en": "We caught a break. One of our scouts saw a member of the Tubes Management make a dead drop inside the Santa Maria Houses in the Buried City. This might be our chance to dig up some dirt on them for a change. You in?",
     "es": "Tuvimos un golpe de suerte. Uno de nuestros exploradores vio a un miembro de la Gestión de Tubos hacer un buzón muerto dentro de las Casas Santa María en la Ciudad Enterrada. Esta podría ser nuestra oportunidad de desenterrar trapos sucios sobre ellos para variar. ¿Estás dentro?",
     "fr": "On a eu une chance. L'un de nos éclaireurs a vu un membre du Tubes Management faire une cache morte dans les Maisons Santa Maria dans la Cité Enfouie. C'est peut-être notre chance de déterrer des secrets sur eux pour une fois. Tu es partant ?",
@@ -49,7 +49,7 @@
   "objectives": [
     {
       "da": "Find Santa Maria-husene i Gamle By",
-      "de": "Finde die Santa Maria Häuser in der Altstadt",
+      "de": "Die Santa-Maria-Häuser in der Altstadt finden",
       "en": "Locate the Santa Maria Houses in Old Town",
       "es": "Localiza las Casas Santa María en el Casco Antiguo",
       "fr": "Localisez les Maisons Santa Maria dans la Vieille Ville",
@@ -71,7 +71,7 @@
     },
     {
       "da": "Find den døde aflevering inde på gårdspladsen",
-      "de": "Finde den toten Briefkasten im Innenhof",
+      "de": "Suche den toten Briefkasten im Innenhof",
       "en": "Locate the Dead Drop inside the courtyard",
       "es": "Localiza el buzón muerto dentro del patio",
       "fr": "Localisez la cache morte dans la cour",

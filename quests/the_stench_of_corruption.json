@@ -2,7 +2,7 @@
   "id": "the_stench_of_corruption",
   "name": {
     "da": "Korruptionens stank",
-    "de": "Der Gestank der Korruption",
+    "de": "Gestank der Korruption",
     "en": "The Stench of Corruption",
     "es": "El hedor de la corrupción",
     "fr": "La puanteur de la corruption",
@@ -28,7 +28,7 @@
   "grantedItemIds": [],
   "description": {
     "da": "Den nøgle, du fandt i tøndevognen... Jeg vil ikke komme med beskyldninger endnu, men det lugter af et indvendigt job. Vil du undersøge en fornemmelse, jeg har?",
-    "de": "Der Schlüssel, den du im Fasslaster gefunden hast … Ich will noch keine Anschuldigungen erheben, aber das stinkt nach einem Insiderjob. Könntest du einem Verdacht nachgehen, den ich habe?",
+    "de": "Der Schlüssel, den du im Fasswagen gefunden hast... Ich will jetzt nicht gleich mit Anschuldigungen um mich werfen, aber das riecht echt nach einem Insider-Job. Könntest du mal meiner Vermutung nachgehen?",
     "en": "That key you found in the barrel truck... I won't jump to accusations just yet, but this reeks of an inside job. Could you investigate a hunch I have?",
     "es": "Esa llave que encontraste en el camión de barriles... No quiero acusar a nadie todavía, pero esto huele a trabajo interno. ¿Podrías investigar una corazonada que tengo?",
     "fr": "Cette clé que tu as trouvée dans le camion-citerne… Je ne veux pas accuser qui que ce soit trop vite, mais ça sent le coup monté de l’intérieur. Tu peux vérifier une intuition que j’ai ?",
@@ -49,10 +49,11 @@
     "zh-CN": "你在桶装卡车里找到的那把钥匙……我暂时还不想直接下结论，但这闻起来像是内鬼所为。你能帮我调查一下我的一个猜想吗？",
     "zh-TW": "你在桶裝卡車裡找到的那把鑰匙……我暫時還不想直接下結論，但這聞起來像是內鬼所為。你能幫我調查一下我的一個猜想嗎？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "I én runde",
-      "de": "In einer Runde",
+      "de": "Erreiche die südwestliche Lobby des Abfluggebäudes",
       "en": "In one round",
       "es": "En una sola ronda",
       "fr": "En une seule manche",
@@ -75,7 +76,7 @@
     },
     {
       "da": "Nå den sydvestlige lobby i afgangsbygningen",
-      "de": "Erreiche die südwestliche Lobby des Abfluggebäudes",
+      "de": "Finde den Umkleideraum für das Personal",
       "en": "Reach the southwest lobby of the Departure Building",
       "es": "Llega al vestíbulo suroeste del edificio de salidas",
       "fr": "Atteindre le hall sud-ouest du bâtiment des départs",
@@ -98,7 +99,7 @@
     },
     {
       "da": "Find personalets omklædningsrum",
-      "de": "Finde den Mitarbeiterspindraum",
+      "de": "Durchsuche den Raum nach Hinweisen auf die Identität des Saboteurs",
       "en": "Find the staff locker room",
       "es": "Encuentra el vestuario del personal",
       "fr": "Trouver le vestiaire du personnel",
@@ -121,7 +122,7 @@
     },
     {
       "da": "Gennemsøg rummet efter spor om sabotørens identitet",
-      "de": "Durchsuche den Raum nach Hinweisen auf die Identität des Saboteurs",
+      "de": "Erreiche die Tunnel unter dem Raumhafen",
       "en": "Search the room for any clues of the saboteur's identity",
       "es": "Registra la habitación en busca de pistas sobre la identidad del saboteador",
       "fr": "Fouiller la pièce à la recherche d’indices sur l’identité du saboteur",
@@ -144,7 +145,7 @@
     },
     {
       "da": "Nå tunnelerne under Spaceport",
-      "de": "Erreiche die Tunnel unter dem Raumhafen",
+      "de": "Benutze den Schlüssel bei einem beliebigen Spülterminal, um das Umgehungsprotokoll zu überschreiben",
       "en": "Reach the tunnels below the Spaceport",
       "es": "Llega a los túneles bajo el Spaceport",
       "fr": "Atteindre les tunnels sous le spatioport",

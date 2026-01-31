@@ -2,7 +2,7 @@
   "id": "ss10x7",
   "name": {
     "da": "Skifte forsyningen",
-    "de": "Umstellung der Versorgung",
+    "de": "Versorgungswechsel",
     "en": "Switching the Supply",
     "es": "Cambiar el suministro",
     "fr": "Problèmes d'alimentation",
@@ -26,7 +26,7 @@
   "trader": "Celeste",
   "description": {
     "da": "Der er et reservoir under rumhavnen; hvis vi formår at lede det vand hertil, burde det give os tid til at håndtere forureningen.",
-    "de": "Es gibt ein Reservoir unter dem Raumhafen; wenn wir es schaffen, dieses Wasser hierher umzuleiten, sollte uns das Zeit verschaffen, um uns mit der Kontamination zu befassen.",
+    "de": "Unter dem Raumhafen ist ein Reservoir - wenn wir Wasser von da ableiten könnten, würden wir Zeit gewinnen, um uns um die Kontamination zu kümmern.",
     "en": "There is a reservoir beneath the Spaceport; if we manage to rout that water here, that should buy us time to deal with the contamination.",
     "es": "Hay un depósito bajo el espaciopuerto; si logramos desviar esa agua aquí, eso nos dará tiempo para lidiar con la contaminación.",
     "fr": "Il y a un réservoir sous le spatioport ; si nous parvenons à acheminer cette eau ici, cela devrait nous donner le temps de traiter la contamination.",
@@ -46,10 +46,11 @@
     "zh-CN": "太空港下面有一个水库；如果我们能把那里的水引到这里，就能为我们争取时间来处理污染问题。",
     "zh-TW": "太空港下面有一個水庫；如果我們能把那裡的水引到這裡，就能為我們爭取時間來處理污染問題。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find tunnelerne under rumhavnen",
-      "de": "Finde die Tunnel unter dem Raumhafen",
+      "de": "Die Tunnel unter dem Raumhafen finden",
       "en": "Find the tunnels under the Spaceport",
       "es": "Encuentra los túneles bajo el espaciopuerto",
       "fr": "Trouver les tunnels sous le spatioport",
@@ -71,7 +72,7 @@
     },
     {
       "da": "Find og drej ventilen i tunnelerne under rumhavnen",
-      "de": "Finde und drehe das Ventil in den Tunneln unter dem Raumhafen",
+      "de": "Das Ventil in den Tunneln unter dem Raumhafen finden und drehen",
       "en": "Find and turn the valve in the tunnels under Spaceport",
       "es": "Encuentra y gira la válvula en los túneles bajo el espaciopuerto",
       "fr": "Trouver et tourner la valve dans les tunnels sous le spatioport",

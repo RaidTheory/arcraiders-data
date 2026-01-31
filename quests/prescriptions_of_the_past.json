@@ -26,7 +26,7 @@
   "trader": "Lance",
   "description": {
     "da": "Jeg har været nysgerrig på det medicinske område i rumhavnen et stykke tid nu. Noget fortæller mig, at det har præcis, hvad jeg har brug for, for at blive den ubestridelige mester på dette sted.",
-    "de": "Ich bin schon seit einer Weile neugierig auf den medizinischen Bereich im Raumhafen. Etwas sagt mir, dass es genau das hat, was ich brauche, um der unbestrittene Champion dieses Ortes zu werden.",
+    "de": "Der medizinische Bereich im Raumhafen interessiert mich schon eine ganze Weile. Irgendwie denke ich, dass er genau das hat, was ich brauche, um der unbestrittene Champion hier zu werden.",
     "en": "I've been curious about the medical area in the Spaceport for a while now. Something tells me it's got just what I need to become the undeniable champion of this place.",
     "es": "Llevo un tiempo con curiosidad por el área médica del espaciopuerto. Algo me dice que tiene justo lo que necesito para convertirme en el campeón indiscutible de este lugar.",
     "fr": "Cela fait un moment que je suis curieux au sujet de la zone médicale du spatioport. Quelque chose me dit qu'elle contient exactement ce dont j'ai besoin pour devenir le champion incontesté de cet endroit.",
@@ -46,10 +46,11 @@
     "zh-CN": "我对太空港的医疗区已经好奇了一段时间。直觉告诉我那里有我成为这个地方无可争议的冠军所需要的东西。",
     "zh-TW": "我對太空港的醫療區已經好奇了一段時間。直覺告訴我那裡有我成為這個地方無可爭議的冠軍所需要的東西。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Besøg afgangsbygningen i rumhavnen",
-      "de": "Besuche das Abfluggebäude im Raumhafen",
+      "de": "Das Abfluggebäude im Raumhafen aufsuchen",
       "en": "Visit the Departure Building in Spaceport",
       "es": "Visita el edificio de salidas en el espaciopuerto",
       "fr": "Visiter le bâtiment des départs dans le spatioport",
@@ -71,7 +72,7 @@
     },
     {
       "da": "Find det medicinske undersøgelsesrum inde i afgangsbygningen",
-      "de": "Finde den medizinischen Untersuchungsraum im Abfluggebäude",
+      "de": "Das Untersuchungszimmer im Abfluggebäude finden",
       "en": "Find the Medical Exam Room inside the Departure Building",
       "es": "Encuentra la sala de examen médico dentro del edificio de salidas",
       "fr": "Trouver la salle d'examen médical dans le bâtiment des départs",
@@ -93,7 +94,7 @@
     },
     {
       "da": "Søg efter journalerne",
-      "de": "Suche nach den Aufzeichnungen",
+      "de": "Nach den Aufzeichnungen suchen",
       "en": "Search for the records",
       "es": "Busca los registros",
       "fr": "Chercher les dossiers",

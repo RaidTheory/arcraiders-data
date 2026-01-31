@@ -2,7 +2,7 @@
   "id": "ss10w",
   "name": {
     "da": "Tilbage på toppen",
-    "de": "Wieder an der Spitze",
+    "de": "Wieder an der Oberfläche",
     "en": "Back on Top",
     "es": "Recuperando la ventaja",
     "fr": "Retour au sommet",
@@ -26,7 +26,7 @@
   "trader": "Tian Wen",
   "description": {
     "da": "Gæt hvad? Shani bad mig hjælpe med noget, og for en gangs skyld er jeg faktisk glad for, at hun gjorde det. Vi sætter nye udposter op på overfladen! Eller planlægger at gøre det i det mindste. Kan du tro det?",
-    "de": "Rate mal? Shani hat mich gebeten, bei etwas zu helfen, und ausnahmsweise bin ich tatsächlich froh, dass sie es getan hat. Wir richten neue Außenposten an der Oberfläche ein! Oder planen es zumindest. Kannst du das glauben?",
+    "de": "Weißt du was? Shani hat mich mal wieder um Hilfe gebeten, aber dieses Mal finde ich es richtig gut. Wir bauen oben neue Außenposten auf! Das ist zumindest der Plan. Ist das nicht mega?",
     "en": "Guess what? Shani asked me to help out with something, and for once, I'm actually glad she did. We're setting up new outposts topside! Or, planning to, at least. Can you believe it?",
     "es": "¿Adivina qué? Shani me pidió que ayudara con algo, y por una vez, me alegro de que lo hiciera. ¡Estamos estableciendo nuevos puestos avanzados en la superficie! O al menos planeando hacerlo. ¿Puedes creerlo?",
     "fr": "Devinez quoi ? Shani m'a demandé de l'aider, et pour une fois, je suis vraiment contente qu'elle l'ait fait. Nous installons de nouveaux avant-postes à la Surface ! Enfin, c'est le plan en tout cas. C'est incroyable, pas vrai ?",
@@ -49,7 +49,7 @@
   "objectives": [
     {
       "da": "På Dam Battlegrounds, markér Mønsterhuset",
-      "de": "Markiere auf Dam Battlegrounds das Musterhaus",
+      "de": "Markiere von den Damm- Schlachtfeldern aus das Wandgemälde-Haus",
       "en": "On Dam Battlegrounds, mark the Pattern House",
       "es": "En Dam Battlegrounds, marca la Casa de Patrones",
       "fr": "Dans Champ de bataille du Barrage, signaler l'Avant-poste aux motifs",
@@ -71,7 +71,7 @@
     },
     {
       "da": "På The Blue Gate, markér det hvide udkigstårn syd for lagerkomplekset",
-      "de": "Markiere auf The Blue Gate den weißen Aussichtsturm südlich des Lagerkomplexes",
+      "de": "Markiere vom Blauen Tor aus den weißen Wachturm südlich des Lagerhaus-Komplexes",
       "en": "On The Blue Gate, mark the white lookout tower south of the Warehouse Complex",
       "es": "En The Blue Gate, marca la torre de vigilancia blanca al sur del Complejo de Almacenes",
       "fr": "Dans Portail bleu, signaler la tour de guet blanche au sud du Complexe d'entrepôts",
@@ -93,7 +93,7 @@
     },
     {
       "da": "På Spaceport, markér Syd-Skyttegravstårnet",
-      "de": "Markiere auf Spaceport den Südlichen Grabenturm",
+      "de": "Markiere vom Raumhafen aus den Südlichen Grabenturm",
       "en": "On Spaceport, mark the South Trench Tower",
       "es": "En Spaceport, marca la Torre de la Trinchera Sur",
       "fr": "Dans Port spatial, signaler la Tour de la tranchée sud",
@@ -115,7 +115,7 @@
     },
     {
       "da": "På Buried City, markér bygningen med vægmaleriet i Buried Properties",
-      "de": "Markiere auf Buried City das Gebäude mit dem Wandgemälde in den Buried Properties",
+      "de": "Markiere von der Begrabenen Stadt aus das Gebäude mit dem Wandbild in den begrabenen Gebäuden",
       "en": "On Buried City, mark the building with the mural in the Buried Properties",
       "es": "En Buried City, marca el edificio con el mural en las Propiedades Enterradas",
       "fr": "Dans Ville enfouie, signaler le bâtiment avec la fresque murale dans les Propriétés enfouies",

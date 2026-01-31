@@ -26,7 +26,7 @@
   "trader": "Celeste",
   "description": {
     "da": "Vores fødevareproduktion er endelig nok til at dække vores basale behov, men det vi virkelig har brug for nu er variation. Jeg har et spor om noget landbrugsforskning fra før den Første Bølge. Er du med?",
-    "de": "Unsere Nahrungsmittelproduktion reicht endlich aus, um unsere Grundbedürfnisse zu decken, aber was wir jetzt wirklich brauchen, ist Vielfalt. Ich habe einen Hinweis auf landwirtschaftliche Forschung von vor der Ersten Welle. Bist du dabei?",
+    "de": "Wir stellen endlich genug Lebensmittel her, um unsere Ernährung zu sichern, aber es mangelt uns an dringend benötigter Abwechslung. Ich bin da an einer Sache dran - Agrarforschung von vor der Ersten Welle. Bist du dabei?",
     "en": "Our food production is finally enough to meet our basic needs, but what we really need now is variety. I have a lead on some agricultural research from before the First Wave. Are you in?",
     "es": "Nuestra producción de alimentos finalmente es suficiente para cubrir nuestras necesidades básicas, pero lo que realmente necesitamos ahora es variedad. Tengo una pista sobre una investigación agrícola de antes de la Primera Ola. ¿Estás dentro?",
     "fr": "Notre production alimentaire suffit enfin à couvrir nos besoins de base, mais ce dont nous avons vraiment besoin maintenant, c'est de variété. J'ai une piste sur des recherches agricoles d'avant la Première Vague. Tu es partant ?",
@@ -46,10 +46,11 @@
     "zh-CN": "我们的粮食产量终于足以满足基本需求了，但我们现在真正需要的是多样性。我有一条关于第一次浪潮之前农业研究的线索。你要参与吗？",
     "zh-TW": "我們的糧食產量終於足以滿足基本需求了，但我們現在真正需要的是多樣性。我有一條關於第一次浪潮之前農業研究的線索。你要參與嗎？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Gå til Forsknings- og Administrationsbygningen",
-      "de": "Gehe zum Forschungs- und Verwaltungsgebäude",
+      "de": "Zum Forschungs- und Verwaltungsgebäude gehen",
       "en": "Go to the Research & Administration building",
       "es": "Ve al edificio de Investigación y Administración",
       "fr": "Aller au bâtiment de Recherche et Administration",
@@ -71,7 +72,7 @@
     },
     {
       "da": "Find Lab 1 på øverste etage over receptionen",
-      "de": "Finde Labor 1 im oberen Stockwerk über der Rezeption",
+      "de": "Labor 1 auf der oberen Etage über der Rezeption finden",
       "en": "Locate Lab 1 on the upper floor above the reception",
       "es": "Localiza el Laboratorio 1 en el piso superior sobre la recepción",
       "fr": "Localiser le Labo 1 à l'étage supérieur au-dessus de la réception",
@@ -93,7 +94,7 @@
     },
     {
       "da": "Søg efter spor af landbrugsprojektet",
-      "de": "Suche nach Spuren des landwirtschaftlichen Projekts",
+      "de": "Nach Spuren des Agrarforschungsprojekts suchen",
       "en": "Search for any traces of the agricultural project",
       "es": "Busca cualquier rastro del proyecto agrícola",
       "fr": "Cherchez des traces du projet agricole",
