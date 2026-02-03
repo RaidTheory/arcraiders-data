@@ -2,7 +2,7 @@
   "id": "ss11b2",
   "name": {
     "da": "Kommunikationsskjulested",
-    "de": "Kommunikationsversteck",
+    "de": "Versteckte Kommunikation",
     "en": "Communication Hideout",
     "es": "Escondite de comunicaciones",
     "fr": "La tour de communication",
@@ -26,7 +26,7 @@
   "trader": "Shani",
   "description": {
     "da": "Vi har mistet signaler i nogle områder af Buried City — jeg gætter på, at vores udstyr driller. Du er ret dygtig til reparationer, ikke? Kunne du tjekke det?",
-    "de": "Wir verlieren Signale in einigen Bereichen der Begrabenen Stadt — ich vermute, dass unsere Ausrüstung Probleme macht. Du bist ziemlich geschickt bei Reparaturen, nicht wahr? Könntest du nachsehen?",
+    "de": "Wir haben in einigen Bereichen der Begrabenen Stadt keine Signale mehr - ich schätze, die Anlage spielt verrückt. Du hast doch ein Händchen für Reparaturen - könntest du dir das mal ansehen?",
     "en": "We've been losing signals in some areas of Buried City—my guess is that our equipment is acting up. You're quite skilled with repairs, aren't you? Could you check it out?",
     "es": "Hemos estado perdiendo señales en algunas áreas de la Ciudad Enterrada—supongo que nuestro equipo está fallando. Eres bastante hábil con las reparaciones, ¿verdad? ¿Podrías echarle un vistazo?",
     "fr": "Nous perdons des signaux dans certaines zones de la ville enfouie... Notre équipement doit souffrir le dysfonctionnement. Vous vous y connaissez en réparation, pas vrai ? Pouvez-vous y aller pour jeter un coup d'œil ?",
@@ -46,10 +46,11 @@
     "zh-CN": "我们在埋葬之城的某些区域失去了信号——我猜是我们的设备出了问题。你很擅长维修，对吧？能去检查一下吗？",
     "zh-TW": "我們在埋葬之城的某些區域失去了訊號——我猜是我們的設備出了問題。你很擅長維修，對吧？能去檢查一下嗎？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå det røde tårn i den gamle by",
-      "de": "Erreiche den Roten Turm in der Altstadt",
+      "de": "Den Roten Turm in der Altstadt erreichen",
       "en": "Reach the Red Tower in Old Town",
       "es": "Alcanza la Torre Roja en el Casco Antiguo",
       "fr": "Atteindre la tour rouge de la vieille ville",
@@ -71,7 +72,7 @@
     },
     {
       "da": "Find den manglende battericelle",
-      "de": "Finde die fehlende Batteriezelle",
+      "de": "Fehlende Akkuzelle finden",
       "en": "Find missing battery cell",
       "es": "Encuentra la celda de batería perdida",
       "fr": "Trouver la batterie manquante",
@@ -93,7 +94,7 @@
     },
     {
       "da": "Installer battericellen i generatoren",
-      "de": "Installiere die Batteriezelle im Generator",
+      "de": "Installiere die Akkuzelle im Generator",
       "en": "Install the battery cell in the Generator",
       "es": "Instala la celda de batería en el generador",
       "fr": "Installer la batterie dans le générateur",
@@ -115,7 +116,7 @@
     },
     {
       "da": "Aktiver strømmen på generatoren",
-      "de": "Aktiviere die Stromversorgung des Generators",
+      "de": "Den Strom des Generators einschalten",
       "en": "Enable the power on the Generator",
       "es": "Activa la energía del generador",
       "fr": "Activer l'alimentation du générateur",
@@ -137,7 +138,7 @@
     },
     {
       "da": "Start antenneterminalen nær det røde tårn",
-      "de": "Starte das Antennenterminal in der Nähe des Roten Turms",
+      "de": "Das Antennenterminal am Roten Turm booten",
       "en": "Boot the antenna terminal near the Red Tower",
       "es": "Inicia la terminal de antena cerca de la Torre Roja",
       "fr": "Activer le terminal d'antenne près de la tour rouge",

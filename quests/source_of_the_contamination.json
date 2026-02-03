@@ -26,7 +26,7 @@
   "trader": "Celeste",
   "description": {
     "da": "Jeg siger ikke, at vores vand er blevet manipuleret, men baseret på dine prøver kan jeg heller ikke udelukke muligheden. Vil du vende tilbage til dæmningen og se, hvad der er galt?",
-    "de": "Ich sage nicht, dass unser Wasser manipuliert wurde, aber basierend auf deinen Proben kann ich die Möglichkeit auch nicht ausschließen. Würdest du zum Damm zurückkehren und nachsehen, was nicht stimmt?",
+    "de": "Ich sag jetzt nicht, dass uns jemand was ins Wasser getan hat, aber angesichts deiner Proben kann ich das auch nicht ausschließen. Könntest du noch mal zum Damm gehen und nachsehen, was da los ist?",
     "en": "I'm not saying our water's been tampered with, but based on your samples, I can't rule out the possibility either. Would you return to the Dam and see what's wrong?",
     "es": "No digo que hayan manipulado nuestra agua, pero según tus muestras, tampoco puedo descartar esa posibilidad. ¿Podrías volver a la presa y ver qué está mal?",
     "fr": "Je ne dis pas que notre eau a été trafiquée, mais d'après vos échantillons, je ne peux pas non plus écarter cette possibilité. Pourriez-vous retourner au barrage et voir ce qui ne va pas ?",
@@ -49,7 +49,7 @@
   "objectives": [
     {
       "da": "Nå vandbehandlingsbygningen i dæmningen",
-      "de": "Erreiche das Wasseraufbereitungsgebäude im Damm",
+      "de": "Das Gebäude der Wasseraufbereitung am Damm erreichen",
       "en": "Reach the Water Treatment Building in The Dam",
       "es": "Llega al edificio de tratamiento de agua en la presa",
       "fr": "Atteindre le bâtiment de traitement de l'eau dans le barrage",
@@ -71,7 +71,7 @@
     },
     {
       "da": "Søg efter oversvømmelsesindtaget nær sumpen",
-      "de": "Suche nach dem Hochwasser-Überlaufeinlass in der Nähe des Sumpfes",
+      "de": "Den Überflutungseinlass am Sumpf suchen",
       "en": "Search for the Flood Spill Intake near the Swamp",
       "es": "Busca la entrada de desbordamiento cerca del pantano",
       "fr": "Chercher la prise de déversement d'inondation près du marais",
@@ -93,7 +93,7 @@
     },
     {
       "da": "Undersøg mistænkelige genstande",
-      "de": "Untersuche verdächtige Objekte",
+      "de": "Verdächtige Objekte untersuchen",
       "en": "Investigate any suspicious objects",
       "es": "Investiga cualquier objeto sospechoso",
       "fr": "Enquêter sur tout objet suspect",

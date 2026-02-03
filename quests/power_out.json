@@ -26,7 +26,7 @@
   "trader": "Celeste",
   "description": {
     "da": "Dette går ud over uheld. Noget – eller nogen – har slået nogle af vores elektriske transformerstationer ud. Ingeniøren, jeg sendte ud for at reparere det, er ikke vendt tilbage, så jeg har brug for alle tilgængelige Raiders til at undersøge det. Det inkluderer dig.",
-    "de": "Das geht über Pech hinaus. Etwas – oder jemand – hat einige unserer elektrischen Umspannwerke lahmgelegt. Der Ingenieur, den ich zur Reparatur geschickt habe, ist nicht zurückgekehrt, also brauche ich alle verfügbaren Raider, um der Sache nachzugehen. Das schließt dich ein.",
+    "de": "Das war nicht einfach Pech. Jemand - oder etwas - hat einige unserer Umspannwerke in die Mangel genommen. Der Ingenieur, den ich deswegen losgeschickt hab, ist nicht zurückgekommen. Deswegen müssen alle verfügbaren Raider sich der Sache annehmen. Auch du.",
     "en": "This goes beyond bad luck. Something—or someone—has knocked out some of our electrical substations. The engineer I sent out to fix it hasn't returned, so I need all available Raiders to look into it. That includes you.",
     "es": "Esto va más allá de la mala suerte. Algo, o alguien, ha dejado fuera de servicio algunas de nuestras subestaciones eléctricas. El ingeniero que envié a repararlo no ha regresado, así que necesito que todos los Raiders disponibles investiguen. Eso te incluye a ti.",
     "fr": "Cela va au-delà de la malchance. Quelque chose – ou quelqu'un – a mis hors service certaines de nos sous-stations électriques. L'ingénieur que j'ai envoyé pour réparer n'est pas revenu, j'ai donc besoin de tous les Raiders disponibles pour enquêter. Ça vous inclut.",
@@ -46,10 +46,11 @@
     "zh-CN": "这已经超出了倒霉的范畴。某种东西——或者某个人——破坏了我们的一些变电站。我派去修理的工程师还没有回来，所以我需要所有可用的掠夺者去调查。包括你。",
     "zh-TW": "這已經超出了倒楣的範疇。某種東西——或者某個人——破壞了我們的一些變電站。我派去修理的工程師還沒有回來，所以我需要所有可用的掠奪者去調查。包括你。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find den elektriske transformerstation syd for rumhavnen, ved siden af kontrolpunktet",
-      "de": "Finde das elektrische Umspannwerk südlich vom Raumhafen, neben dem Kontrollpunkt",
+      "de": "Finde das Umspannwerk südlich des Raumhafens",
       "en": "Find the Electrical Substation south of the Spaceport, next to the Checkpoint",
       "es": "Encuentra la subestación eléctrica al sur del espaciopuerto, junto al punto de control",
       "fr": "Trouvez la sous-station électrique au sud du spatioport, à côté du point de contrôle",
@@ -71,7 +72,7 @@
     },
     {
       "da": "Find et tegn på den forsvundne ingeniør",
-      "de": "Finde irgendein Zeichen des vermissten Ingenieurs",
+      "de": "Hinweise auf den verschwundenen Ingenieur finden",
       "en": "Find any sign of the missing engineer",
       "es": "Encuentra cualquier señal del ingeniero desaparecido",
       "fr": "Trouvez un signe de l'ingénieur disparu",
@@ -93,7 +94,7 @@
     },
     {
       "da": "Bær sikringen/batteriet tilbage til den elektriske transformerstation",
-      "de": "Bringe die Sicherung/Batterie zurück zum elektrischen Umspannwerk",
+      "de": "Installiere die Sicherung",
       "en": "Carry the fuse/battery back to the Electrical Substation",
       "es": "Lleva el fusible/batería de vuelta a la subestación eléctrica",
       "fr": "Rapportez le fusible/la batterie à la sous-station électrique",
@@ -115,7 +116,7 @@
     },
     {
       "da": "Aktiver strømkontakten på sikringsboksen",
-      "de": "Aktiviere den Netzschalter am Sicherungskasten",
+      "de": "Stelle die Energie wieder her",
       "en": "Enable the power switch on the Fuse Box",
       "es": "Activa el interruptor de energía en la caja de fusibles",
       "fr": "Activez l'interrupteur d'alimentation sur la boîte à fusibles",

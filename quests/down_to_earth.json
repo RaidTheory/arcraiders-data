@@ -31,8 +31,9 @@
     }
   ],
   "description": {
-    "de": "Raider berichten schon lange von seltsam aussehenden Kisten, die aus defekten ARC-Sondern fallen. Wenn wir die irgendwie öffnen könnten, verstehen wir vielleicht, wonach sie suchen."
+    "de": "Raider berichten schon lange von seltsam aussehenden Kisten, die aus defekten ARC-Sonden fallen. Wenn wir die irgendwie öffnen könnten, verstehen wir vielleicht, wonach sie suchen."
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Besøg et feltdepot",

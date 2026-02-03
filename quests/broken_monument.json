@@ -40,7 +40,7 @@
   ],
   "description": {
     "da": "Jeg har et andet specielt sted, jeg har brug for, at du gennemsøger for mig. En gammel slagmark, fra den første bølge. Raiders plejer normalt at plyndre sådanne steder i dag, på trods af den betydning, de engang havde. Folk glemmer hurtigt. Hurtigere end de burde.",
-    "de": "Es gibt da noch eine andere besondere Stelle, an der du für mich nachsehen sollst. Ein altes Schlachtfeld aus der Ersten Welle. Heutzutage grasen Raider solche Orte ab, trotz der besonderen Bedeutung. Die Leute vergessen schnell. Schneller, als sie sollten.",
+    "de": "Es gibt danoch eine andere besondere Stelle, an der du für mich nachsehen sollst. Ein altes Schlachtfeld aus der Ersten Welle. Heutzutage grasen Raider solche Orte ab, trotz der besonderen Bedeutung. Die Leute vergessen schnell. Schneller, als sie sollten.",
     "en": "I have another special site I need you to search for me. An old battlegrounds, from the First Wave. Raiders nowadays usually pick places like that clean, despite the significance they once held. People forget quickly. Quicker than they should.",
     "es": "Tengo otro sitio especial que necesito que registres para mí. Un antiguo campo de batalla, de la Primera Ola. Los Raiders hoy en día suelen saquear lugares como ese, a pesar de la importancia que alguna vez tuvieron. La gente olvida rápido. Más rápido de lo que debería.",
     "fr": "J'ai un autre site spécial que j'ai besoin que vous fouilliiez pour moi. Un ancien champ de bataille, de la Première Vague. Les Raiders de nos jours nettoient généralement des endroits comme ça, malgré l'importance qu'ils avaient autrefois. Les gens oublient vite. Plus vite qu'ils ne le devraient.",
@@ -60,6 +60,7 @@
     "zh-CN": "我还有一个特殊地点需要你去搜索。一个古老的战场，来自第一波。如今的掠夺者通常会把这样的地方洗劫一空，尽管它们曾经意义重大。人们很快就会忘记。比应该忘记的速度还快。",
     "zh-TW": "我還有一個特殊地點需要你去搜索。一個古老的戰場，來自第一波。如今的掠奪者通常會把這樣的地方洗劫一空，儘管它們曾經意義重大。人們很快就會忘記。比應該忘記的速度還快。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå de hellige grunde ved skrotpladsen",

@@ -32,7 +32,7 @@
   ],
   "description": {
     "da": "Vi kender koordinaterne for de høreapparater, men jeg er nødt til at krydshenvise dem med et papirkort over rumhavnen. Dine ben er vel ikke for trætte, vel?",
-    "de": "Wir kennen die Koordinaten für diese Hörgeräte, aber ich muss sie mit einer Papierkarte des Raumhafens abgleichen. Deine Beine sind doch nicht allzu müde, oder?",
+    "de": "Wir wissen, wo die Hörgeräte sind, aber ich muss das noch mit einer Papierkarte vom Raumhafen abgleichen. Deine Beine sind doch nicht zu müde, oder?",
     "en": "We know the coordinates for those hearing aids, but I'll have to cross-reference them with a paper map of the Spaceport. Those legs of yours aren't too tired, are they?",
     "es": "Conocemos las coordenadas de esos audífonos, pero tendré que cruzarlas con un mapa de papel del Puerto Espacial. Esas piernas tuyas no están demasiado cansadas, ¿verdad?",
     "fr": "Nous connaissons les coordonnées de ces appareils auditifs, mais je vais devoir les recouper avec une carte papier du spatioport. Tes jambes ne sont pas trop fatiguées, j'espère ?",
@@ -55,7 +55,7 @@
   "objectives": [
     {
       "da": "Tag hen til, hvor brændstofslangerne knækkede, og send din placering",
-      "de": "Geh dorthin, wo die Treibstoffleitungen gerissen sind, und übermittle deinen Standort",
+      "de": "Geh dahin, wo die Kraftstoffleitungen gerissen sind, und übermittle deinen Standort",
       "en": "Head to where the Fuel Lines snapped, and transmit your location",
       "es": "Dirígete a donde se rompieron las líneas de combustible y transmite tu ubicación",
       "fr": "Se rendre là où les conduites de carburant ont rompu et transmettre votre position",
@@ -77,7 +77,7 @@
     },
     {
       "da": "Tag hen til antennen nær brændstofkontrollen, og send din placering",
-      "de": "Geh zur Antenne in der Nähe der Treibstoffkontrolle und übermittle deinen Standort",
+      "de": "Geh zur Antenne in der Nähe der Kraftstoffsteuerung und übermittle deinen Standort",
       "en": "Head to the antenna near the Fuel Control, and transmit your location",
       "es": "Dirígete a la antena cerca del Control de Combustible y transmite tu ubicación",
       "fr": "Se rendre à l'antenne près du contrôle du carburant et transmettre votre position",
@@ -99,7 +99,7 @@
     },
     {
       "da": "Tag hen til kaktusbedet i murbruddet, og send din placering",
-      "de": "Geh zum Kaktusfeld im Mauerdurchbruch und übermittle deinen Standort",
+      "de": "Gehe zum Kaktusfeld bei der Mauerlücke und übermittle deinen Standort",
       "en": "Head to the cactus patch in the wall breach, and transmit your location",
       "es": "Dirígete al parche de cactus en la brecha del muro y transmite tu ubicación",
       "fr": "Se rendre au champ de cactus dans la brèche du mur et transmettre votre position",
@@ -121,7 +121,7 @@
     },
     {
       "da": "Send din placering fra taget af containerlagerbygningen",
-      "de": "Übermittle deinen Standort vom Dach des Containerlagergebäudes",
+      "de": "Übermittle deinen Standort vom Dach des Containerlagergebäudes aus",
       "en": "Transmit your location from the roof of the Container Storage building",
       "es": "Transmite tu ubicación desde el techo del edificio de Almacenamiento de Contenedores",
       "fr": "Transmettre votre position depuis le toit du bâtiment de stockage des conteneurs",
@@ -143,7 +143,7 @@
     },
     {
       "da": "Find containeren dækket af presenning, og marker den",
-      "de": "Finde den mit einer Plane bedeckten Container und markiere ihn",
+      "de": "Finde den mit einer Plane abgedeckten Container und markiere ihn",
       "en": "Find the container covered in tarp, and mark it",
       "es": "Encuentra el contenedor cubierto con lona y márcalo",
       "fr": "Trouver le conteneur recouvert d'une bâche et le marquer",

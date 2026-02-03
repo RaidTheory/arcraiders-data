@@ -32,7 +32,7 @@
   ],
   "description": {
     "da": "Med Bombardiers, der strejfer omkring, har ARC fundet en helt ny måde at drive Raiders ud af deres dækning.\n\nHvis du håber på at nedlægge en, skal du skærpe dine færdigheder og din strategi.",
-    "de": "Mit diesen Bombardiers, die hier herumstreifen, hat ARC einen ganz neuen Weg gefunden, Raiders aus der Deckung zu treiben.\n\nWenn du hoffst, einen zu erledigen, musst du deine Fähigkeiten und deine Strategie schärfen.",
+    "de": "Mit diesen Kanonieren haben die ARC einen komplett neuen Weg gefunden, um Raider aus ihrer Deckung zu locken.\n\nWenn du einen ausschalten willst, musst du deine Fertigkeiten und deine Strategie verbessern.",
     "en": "With those Bombardiers roaming around, ARC has found an entirely new way to flush Raiders out of cover.\n\nIf you're hoping to take one down, you'll need to sharpen your skills and your strategy.",
     "es": "Con esos Bombarderos rondando, ARC ha encontrado una forma completamente nueva de sacar a los Raiders de su cobertura.\n\nSi esperas derribar uno, necesitarás perfeccionar tus habilidades y tu estrategia.",
     "fr": "Avec ces Bombardiers qui rôdent, ARC a trouvé une toute nouvelle façon de débusquer les Raiders.\n\nSi tu espères en abattre un, tu devras affûter tes compétences et ta stratégie.",
@@ -55,7 +55,7 @@
   "objectives": [
     {
       "da": "Find et dækningssted i parkeringshusets trappeopgange",
-      "de": "Kundschafte einen Deckungsplatz in den Treppenhäusern des Parkhauses aus",
+      "de": "Such dir im Treppenhaus des Parkhauses einen Platz zum Verstecken",
       "en": "Scope out a cover spot in the Parking Garage staircases",
       "es": "Busca un lugar de cobertura en las escaleras del estacionamiento",
       "fr": "Repérer une zone de couverture dans les escaliers du parking",
@@ -77,7 +77,7 @@
     },
     {
       "da": "Find et dækningssted i busserne nær Marano Park",
-      "de": "Kundschafte einen Deckungsplatz in den Bussen beim Marano Park aus",
+      "de": "Such dir einen Platz in den Bussen in der Nähe des Marano-Parks, wo du dich verstecken kannst",
       "en": "Scope out a cover spot in the buses near Marano Park",
       "es": "Busca un lugar de cobertura en los autobuses cerca del Parque Marano",
       "fr": "Repérer une zone de couverture dans les bus près du parc Marano",
@@ -99,7 +99,7 @@
     },
     {
       "da": "Find et dækningssted på lofterne omkring Main Street",
-      "de": "Kundschafte einen Deckungsplatz auf den Dachböden rund um die Main Street aus",
+      "de": "Such dir in den Dachböden an der Hauptstraße einen Platz zum Verstecken",
       "en": "Scope out a cover spot in the attics around Main Street",
       "es": "Busca un lugar de cobertura en los áticos alrededor de Main Street",
       "fr": "Repérer une zone de couverture dans les greniers autour de Main Street",
@@ -121,7 +121,7 @@
     },
     {
       "da": "Ødelæg 2 Spotters",
-      "de": "Zerstöre 2 Spotter",
+      "de": "Zerstöre 2 Aufklärer",
       "en": "Destroy 2 Spotters",
       "es": "Destruye 2 Observadores",
       "fr": "Détruire 2 Spotters",
@@ -143,7 +143,7 @@
     },
     {
       "da": "Lever et Spotter-relæ til Shani",
-      "de": "Liefere ein Spotter-Relais bei Shani ab",
+      "de": "Liefere ein Aufklärer-Relais an Shani",
       "en": "Deliver a Spotter Relay to Shani",
       "es": "Entrega un relé de observador a Shani",
       "fr": "Livrer un relais de Spotter à Shani",

@@ -2,7 +2,7 @@
   "id": "ss10x17",
   "name": {
     "da": "Vendepunkt",
-    "de": "Umschwung",
+    "de": "Wende",
     "en": "Turnabout",
     "es": "Cambio de tornas",
     "fr": "Retournement",
@@ -32,7 +32,7 @@
   ],
   "description": {
     "da": "Jeg har en plan. Hvis vi genvinder beviserne mod OTTM før de får fat i dem, kan vi måske slippe af med dem en gang for alle.",
-    "de": "Ich habe einen Plan. Wenn wir die Beweise gegen die OTTM bergen, bevor sie sie bekommen, könnten wir sie ein für alle Mal loswerden.",
+    "de": "Ich hab einen Plan. Wenn wir uns die Beweise gegen die OUBV beschaffen können, ehe die uns zuvorkommen, können wir sie uns vielleicht ein für alle Mal vom Hals halten.",
     "en": "I got a plan. If we recover the evidence against the OTTM before they get to it, we might get them off our backs once and for all.",
     "es": "Tengo un plan. Si recuperamos las pruebas contra la OTTM antes de que ellos las consigan, podríamos quitárnoslos de encima de una vez por todas.",
     "fr": "J'ai un plan. Si nous récupérons les preuves contre l'OTTM avant qu'ils ne les obtiennent, nous pourrions nous en débarrasser une fois pour toutes.",
@@ -55,7 +55,7 @@
   "objectives": [
     {
       "da": "Gå til Nordlige Skyttegravstårn",
-      "de": "Gehe zum Nordgraben-Turm",
+      "de": "Zum Nördlichen Grabenturm gehen",
       "en": "Go to the North Trench Tower",
       "es": "Ve a la Torre de la Trinchera Norte",
       "fr": "Allez à la Tour de la Tranchée Nord",
@@ -77,7 +77,7 @@
     },
     {
       "da": "Find og upload afpresningsfilerne til Celeste",
-      "de": "Finde und lade die Erpressungsdateien zu Celeste hoch",
+      "de": "Finde die Erpressungsdateien und schick sie an Celeste",
       "en": "Locate and upload the blackmail files to Celeste",
       "es": "Localiza y sube los archivos de chantaje a Celeste",
       "fr": "Localisez et téléchargez les fichiers de chantage à Celeste",

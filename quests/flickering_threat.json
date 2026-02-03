@@ -32,7 +32,7 @@
   ],
   "description": {
     "da": "Min sædvanlige ingeniør er stadig ved at hele fra sine sår og har været omtåget i dage. Vi har ikke råd til at være på halvt net, indtil han bliver rask; jeg har brug for nogen til at tage hans skruenøgle i mellemtiden.",
-    "de": "Mein üblicher Ingenieur erholt sich immer noch von seinen Wunden und ist seit Tagen benommen. Wir können es uns nicht leisten, mit halber Netzleistung zu arbeiten, bis er geheilt ist; ich brauche jemanden, der in der Zwischenzeit seinen Schraubenschlüssel übernimmt.",
+    "de": "Der Ingenieur meines Vertrauens ist immer noch nicht von seinen Wunden genesen. Er ist schon seit Tagen etwas wirr, und wir können uns nicht erlauben, mit halber Kraft zu arbeiten, bis er wieder gesund ist. Ich brauche jemanden, der an seiner Stelle den Schraubenschlüssel schwingt.",
     "en": "My usual engineer is still healing from his wounds, and has been loopy for days. We can't afford to be at half-grid until he heals; I need someone to pick up his wrench in the mean time.",
     "es": "Mi ingeniero habitual todavía se está recuperando de sus heridas y ha estado aturdido durante días. No podemos permitirnos estar a media red hasta que se cure; necesito que alguien tome su llave inglesa mientras tanto.",
     "fr": "Mon ingénieur habituel se remet encore de ses blessures et est dans les vapes depuis des jours. On ne peut pas se permettre de fonctionner à demi-régime jusqu'à ce qu'il guérisse ; j'ai besoin de quelqu'un pour prendre sa clé en attendant.",
@@ -55,7 +55,7 @@
   "objectives": [
     {
       "da": "Find generatorummet",
-      "de": "Finde den Generatorraum",
+      "de": "Die Generatorhalle finden",
       "en": "Find the Generator Room",
       "es": "Encuentra la sala de generadores",
       "fr": "Trouvez la salle des générateurs",
@@ -77,7 +77,7 @@
     },
     {
       "da": "Reparer generatoren",
-      "de": "Repariere den Generator",
+      "de": "Repariere den Generator mit 4 Kabeln",
       "en": "Repair the Generator",
       "es": "Repara el generador",
       "fr": "Réparez le générateur",
@@ -99,7 +99,7 @@
     },
     {
       "da": "Find ventilationskanalen",
-      "de": "Finde den Lüftungsschacht",
+      "de": "Den Lüftungsschacht finden",
       "en": "Find the Ventilation Shaft",
       "es": "Encuentra el conducto de ventilación",
       "fr": "Trouvez le conduit de ventilation",
@@ -121,7 +121,7 @@
     },
     {
       "da": "Aktiver strømmen via strømkontakten under trappen",
-      "de": "Aktiviere den Strom über den Netzschalter unter der Treppe",
+      "de": "Den Strom mit dem Stromschalter unter der Treppe aktivieren",
       "en": "Enable the power via the power switch underneath the stairs",
       "es": "Activa la energía mediante el interruptor debajo de las escaleras",
       "fr": "Activez l'alimentation via l'interrupteur sous les escaliers",

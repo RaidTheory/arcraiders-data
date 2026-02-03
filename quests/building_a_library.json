@@ -26,7 +26,7 @@
   "trader": "Apollo",
   "description": {
     "da": "Vores biblioteksudvalg er blevet ret forældet. Kunne du tage til den Begravede By og finde noget mere til os at læse? Sørg for at du tager noget med til alle.",
-    "de": "Unsere Bibliotheksauswahl ist ziemlich veraltet. Könntest du in die Begrabene Stadt gehen und etwas Neues zum Lesen für uns finden? Stell sicher, dass du für jeden etwas mitbringst.",
+    "de": "Die Auswahl unserer Bibliothek ist inzwischen etwas öde geworden. Könntest du in der Begrabenen Stadt neues Lesefutter für uns auftreiben? Aber bitte achte darauf, etwas für jeden Geschmack zu finden.",
     "en": "Our library selection has grown pretty stale. Could you head out to Buried City, and find something more for us to read? Make sure you bring something for everyone.",
     "es": "Nuestra selección de biblioteca se ha vuelto bastante aburrida. ¿Podrías ir a la Ciudad Enterrada y encontrar algo más para que leamos? Asegúrate de traer algo para todos.",
     "fr": "Notre sélection de bibliothèque est devenue assez fade. Pourriez-vous aller à la Cité Enfouie et trouver quelque chose de plus à lire pour nous ? Assurez-vous d'apporter quelque chose pour tout le monde.",
@@ -46,10 +46,11 @@
     "zh-CN": "我们图书馆的藏书已经相当陈旧了。你能去埋藏之城找些新书给我们读吗？确保给每个人都带点东西。",
     "zh-TW": "我們圖書館的藏書已經相當陳舊了。你能去埋藏之城找些新書給我們讀嗎？確保給每個人都帶點東西。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find biblioteket i bycentret",
-      "de": "Finde die Bibliothek im Stadtzentrum",
+      "de": "Die Bibliothek im Stadtzentrum finden",
       "en": "Locate the Library in the City Center",
       "es": "Localiza la biblioteca en el centro de la ciudad",
       "fr": "Localisez la bibliothèque dans le centre-ville",
@@ -71,7 +72,7 @@
     },
     {
       "da": "Find 1 romantisk bog",
-      "de": "Finde 1 Liebesroman",
+      "de": "1 Liebesroman finden",
       "en": "Find 1 romance book",
       "es": "Encuentra 1 libro de romance",
       "fr": "Trouvez 1 livre de romance",
@@ -93,7 +94,7 @@
     },
     {
       "da": "Find 1 detektivbog",
-      "de": "Finde 1 Detektivbuch",
+      "de": "1 Detektivroman finden",
       "en": "Find 1 detective book",
       "es": "Encuentra 1 libro de detectives",
       "fr": "Trouvez 1 livre de détective",
@@ -115,7 +116,7 @@
     },
     {
       "da": "Find 1 eventyr bog",
-      "de": "Finde 1 Abenteuerbuch",
+      "de": "1Abenteuerroman finden",
       "en": "Find 1 adventure book",
       "es": "Encuentra 1 libro de aventuras",
       "fr": "Trouvez 1 livre d'aventure",
@@ -137,7 +138,7 @@
     },
     {
       "da": "Lever 3 bøger til Apollo",
-      "de": "Liefere 3 Bücher an Apollo",
+      "de": "Bring 3 Bücher zu Apollo",
       "en": "Deliver 3 books to Apollo",
       "es": "Entrega 3 libros a Apollo",
       "fr": "Livrez 3 livres à Apollo",
