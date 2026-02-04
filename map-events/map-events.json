@@ -423,6 +423,7 @@
   "schedule": {
     "dam-battleground": {
       "major": {
+        "2": "night-raid",
         "6": "electromagnetic-storm",
         "10": "night-raid",
         "14": "electromagnetic-storm",
@@ -430,19 +431,23 @@
         "22": "electromagnetic-storm"
       },
       "minor": {
+        "1": "harvester",
+        "3": "husk-graveyard",
+        "4": "matriarch",
         "7": "harvester",
-        "9": "lush-blooms",
+        "9": "uncovered-caches",
         "10": "matriarch",
         "13": "harvester",
-        "15": "lush-blooms",
+        "15": "husk-graveyard",
         "16": "matriarch",
         "19": "harvester",
-        "21": "lush-blooms",
+        "21": "uncovered-caches",
         "22": "matriarch"
       }
     },
     "buried-city": {
       "major": {
+        "3": "night-raid",
         "7": "night-raid",
         "11": "night-raid",
         "15": "night-raid",
@@ -450,20 +455,36 @@
         "23": "night-raid"
       },
       "minor": {
+        "0": "bird-city",
+        "2": "bird-city",
+        "4": "husk-graveyard",
+        "6": "bird-city",
         "8": "bird-city",
-        "12": "lush-blooms",
+        "10": "bird-city",
+        "12": "uncovered-caches",
+        "14": "bird-city",
         "16": "bird-city",
-        "20": "lush-blooms"
+        "18": "bird-city",
+        "20": "husk-graveyard",
+        "22": "bird-city"
       }
     },
     "the-spaceport": {
       "major": {
+        "0": "night-raid",
+        "1": "hidden-bunker",
+        "4": "hidden-bunker",
         "8": "electromagnetic-storm",
-        "12": "night-raid",
-        "16": "electromagnetic-storm",
-        "20": "night-raid"
+        "9": "hidden-bunker",
+        "12": "hidden-bunker",
+        "16": "night-raid",
+        "17": "hidden-bunker",
+        "20": "hidden-bunker"
       },
       "minor": {
+        "0": "harvester",
+        "1": "launch-tower-loot",
+        "3": "matriarch",
         "6": "harvester",
         "9": "matriarch",
         "12": "harvester",
@@ -475,26 +496,29 @@
     },
     "blue-gate": {
       "major": {
-        "5": "locked-gate",
-        "9": "electromagnetic-storm",
-        "13": "locked-gate",
-        "17": "night-raid",
-        "21": "locked-gate"
+        "1": "locked-gate",
+        "5": "night-raid",
+        "9": "locked-gate",
+        "13": "electromagnetic-storm",
+        "17": "locked-gate",
+        "21": "night-raid"
       },
       "minor": {
+        "2": "matriarch",
         "5": "harvester",
-        "7": "lush-blooms",
+        "7": "husk-graveyard",
         "8": "matriarch",
         "11": "harvester",
         "14": "matriarch",
         "17": "harvester",
-        "19": "lush-blooms",
+        "19": "uncovered-caches",
         "20": "matriarch",
         "23": "harvester"
       }
     },
     "stella-montis": {
       "major": {
+        "2": "night-raid",
         "6": "night-raid",
         "10": "night-raid",
         "14": "night-raid",
