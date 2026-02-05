@@ -24,10 +24,16 @@
   },
   "map": ["stella_montis"],
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "old_world_books",
+      "quantity": 1
+    }
+  ],
   "grantedItemIds": [],
   "description": {
     "da": "Rapporter om Stella Montis bliver ved med at strømme ind, og det er ikke som noget, vi har set før. Der kan være optegnelser eller relikvier fra fortiden derinde, og hvis der er, vil jeg have dem.",
-    "de": "Wir kriegen Berichte über Stella Montis rein und was ich da erfahre, ist völlig neu. Da drinnen könnten Aufzeichnungen oder Relikte aus der Vergangenheit warten - und wenn das so ist, dann will ich sie haben.",
+    "de": "Wir kriegen Berichte über Stella Montis rein und was ich da erfahre, ist völlig neu. Da drinnen könnten Aufzeichnungen oder Relikte aus der Vergangenheit warten - und wenn det so ist, dann will ich sie haben.",
     "en": "Reports about Stella Montis keep coming in, and it's unlike anything we've seen before. There may be records or relics from the past in there, and if so, I want them.",
     "es": "Los informes sobre Stella Montis no dejan de llegar, y no se parece a nada que hayamos visto antes. Puede que haya registros o reliquias del pasado ahí dentro y, si es así, las quiero.",
     "fr": "Les rapports sur Stella Montis continuent d'affluer, et c'est comme rien de ce que nous avons vu auparavant. Il pourrait y avoir des archives ou des reliques du passé là-bas, et si c'est le cas, je les veux.",

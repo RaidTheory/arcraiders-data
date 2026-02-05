@@ -24,6 +24,16 @@
   },
   "map": ["stella_montis"],
   "trader": "Shani",
+  "requiredItemIds": [
+    {
+      "itemId": "rotary_encoder",
+      "quantity": 1
+    },
+    {
+      "itemId": "ion_sputter",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Har du nogensinde lagt mærke til de lysstriber, der farer over himlen?\n\nJeg har set for meget til at tro, at de er naturlige, men der skal mere end en fornemmelse til for at overbevise Celeste.",
     "de": "Hast du schon mal diese Lichtstreifen bemerkt, die über den Himmel schießen?\n\nIch habe zu viel gesehen, um zu glauben, dass sie natürlich sind, aber es braucht mehr als eine Ahnung, um Celeste zu überzeugen.",
