@@ -2130,7 +2130,8 @@
       "syncingSoon": "まもなく同期します...",
       "title": "自動同期",
       "toggleError": "自動同期設定の更新に失敗しました",
-      "tokenExpiredError": "接続の有効期限が切れました。先に接続を更新してください。"
+      "tokenExpiredError": "接続の有効期限が切れました。先に接続を更新してください。",
+      "syncing": "同期中..."
     },
     "workshopUpgrades": {
       "description": "アップグレードに必要な資材が揃っています：",

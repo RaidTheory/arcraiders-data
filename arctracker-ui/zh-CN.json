@@ -2130,7 +2130,8 @@
       "syncingSoon": "即将同步...",
       "title": "自动同步",
       "toggleError": "更新自动同步设置失败",
-      "tokenExpiredError": "连接已过期。请先刷新您的连接。"
+      "tokenExpiredError": "连接已过期。请先刷新您的连接。",
+      "syncing": "同步中..."
     },
     "workshopUpgrades": {
       "description": "你有足够的资源进行升级：",

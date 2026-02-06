@@ -2144,7 +2144,8 @@
       "syncingSoon": "Sincronizando en breve...",
       "title": "Sincronización automática",
       "toggleError": "Error al actualizar la configuración de sincronización automática",
-      "tokenExpiredError": "Conexión caducada. Actualiza tu conexión primero."
+      "tokenExpiredError": "Conexión caducada. Actualiza tu conexión primero.",
+      "syncing": "Sincronizando..."
     },
     "workshopUpgrades": {
       "description": "Tienes recursos suficientes para mejorar:",

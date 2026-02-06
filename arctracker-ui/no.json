@@ -2144,7 +2144,8 @@
       "syncingSoon": "Synkroniserer snart...",
       "title": "Autosynkronisering",
       "toggleError": "Kunne ikke oppdatere innstillinger for Autosynkronisering",
-      "tokenExpiredError": "Tilkoblingen er utløpt. Oppdater tilkoblingen din først."
+      "tokenExpiredError": "Tilkoblingen er utløpt. Oppdater tilkoblingen din først.",
+      "syncing": "Synkroniserer..."
     },
     "workshopUpgrades": {
       "description": "Du har nok ressurser til å oppgradere:",

@@ -2144,7 +2144,8 @@
       "syncingSoon": "Synchronisierung in Kürze...",
       "title": "Auto-Sync",
       "toggleError": "Auto-Sync-Einstellungen konnten nicht aktualisiert werden",
-      "tokenExpiredError": "Verbindung abgelaufen. Bitte aktualisiere zuerst deine Verbindung."
+      "tokenExpiredError": "Verbindung abgelaufen. Bitte aktualisiere zuerst deine Verbindung.",
+      "syncing": "Synchronisieren..."
     },
     "workshopUpgrades": {
       "description": "Du hast genügend Ressourcen für Upgrades:",

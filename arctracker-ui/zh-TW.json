@@ -2144,7 +2144,8 @@
       "syncingSoon": "即將進行同步...",
       "title": "自動同步",
       "toggleError": "無法更新自動同步設定",
-      "tokenExpiredError": "連線已過期。請先重新整理您的連線。"
+      "tokenExpiredError": "連線已過期。請先重新整理您的連線。",
+      "syncing": "同步中..."
     },
     "workshopUpgrades": {
       "description": "您擁有足夠的資源來升級：",
