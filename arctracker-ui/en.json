@@ -2128,6 +2128,7 @@
       "disabled": "Auto-Sync disabled",
       "toggleError": "Failed to update Auto-Sync settings",
       "nextSyncIn": "Next sync in {minutes, plural, one {# min} other {# min}}",
+      "syncing": "Syncing...",
       "syncingSoon": "Syncing soon...",
       "pausedErrors": "Paused: sync errors",
       "retry": "Retry",

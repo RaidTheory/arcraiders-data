@@ -2144,7 +2144,8 @@
       "syncingSoon": "Birazdan eşitlenecek...",
       "title": "Otomatik Eşitleme",
       "toggleError": "Otomatik Eşitleme ayarları güncellenemedi",
-      "tokenExpiredError": "Bağlantı süresi doldu. Önce bağlantınızı yenileyin."
+      "tokenExpiredError": "Bağlantı süresi doldu. Önce bağlantınızı yenileyin.",
+      "syncing": "Eşitleniyor..."
     },
     "workshopUpgrades": {
       "description": "Yükseltme yapmak için yeterli kaynağın var:",

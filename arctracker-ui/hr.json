@@ -2144,7 +2144,8 @@
       "syncingSoon": "Sinkronizacija uskoro...",
       "title": "Automatska sinkronizacija",
       "toggleError": "Ažuriranje postavki automatske sinkronizacije nije uspjelo",
-      "tokenExpiredError": "Veza je istekla. Prvo osvježi vezu."
+      "tokenExpiredError": "Veza je istekla. Prvo osvježi vezu.",
+      "syncing": "Sinkronizacija..."
     },
     "workshopUpgrades": {
       "description": "Imate dovoljno resursa za nadogradnju:",

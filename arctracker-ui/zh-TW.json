@@ -2131,8 +2131,19 @@
       "syncingSoon": "即將同步...",
       "pausedErrors": "已暫停：同步錯誤",
       "retry": "重試",
-      "authError": "連接丟失"
-    }
+      "subscriberRequired": "需要有效的訂閱才能使用自動同步",
+      "syncingSoon": "即將進行同步...",
+      "title": "自動同步",
+      "toggleError": "無法更新自動同步設定",
+      "tokenExpiredError": "連線已過期。請先重新整理您的連線。",
+      "syncing": "同步中..."
+    },
+    "workshopUpgrades": {
+      "description": "您擁有足夠的資源來升級：",
+      "title": "可進行工坊升級！"
+    },
+    "overwolfLinkInBrowser": "若要連結您的帳戶，請使用 Chrome 或 Firefox 訪問 arctracker.io。",
+    "overwolfUpdateLinkInBrowser": "若要更新您的帳戶連結，請使用 Chrome 或 Firefox 訪問 arctracker.io。"
   },
   "HideoutSync": {
     "title": "同步藏身處進度",

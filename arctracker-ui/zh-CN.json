@@ -2131,8 +2131,19 @@
       "syncingSoon": "即将同步...",
       "pausedErrors": "已暂停：同步错误",
       "retry": "重试",
-      "authError": "连接丢失"
-    }
+      "subscriberRequired": "使用自动同步功能需要有效的订阅",
+      "syncingSoon": "即将同步...",
+      "title": "自动同步",
+      "toggleError": "更新自动同步设置失败",
+      "tokenExpiredError": "连接已过期。请先刷新您的连接。",
+      "syncing": "同步中..."
+    },
+    "workshopUpgrades": {
+      "description": "你有足够的资源进行升级：",
+      "title": "工作台升级可用！"
+    },
+    "overwolfLinkInBrowser": "如需绑定您的账号，请使用 Chrome 或 Firefox 浏览器访问 arctracker.io。",
+    "overwolfUpdateLinkInBrowser": "如需更新您的账号绑定，请使用 Chrome 或 Firefox 浏览器访问 arctracker.io。"
   },
   "HideoutSync": {
     "title": "同步藏身处进度",

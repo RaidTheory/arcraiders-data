@@ -2144,7 +2144,8 @@
       "syncingSoon": "Synchronisation imminente...",
       "title": "Sync. auto",
       "toggleError": "Échec de la mise à jour des paramètres de Sync. auto",
-      "tokenExpiredError": "Connexion expirée. Veuillez d'abord actualiser votre connexion."
+      "tokenExpiredError": "Connexion expirée. Veuillez d'abord actualiser votre connexion.",
+      "syncing": "Synchronisation..."
     },
     "workshopUpgrades": {
       "description": "Vous avez assez de ressources pour améliorer :",
