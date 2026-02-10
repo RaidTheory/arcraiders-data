@@ -181,6 +181,16 @@
       "zh-TW": "將濕度計交給田文"
     }
   ],
+  "requiredItemIds": [
+    {
+      "itemId": "nutrient_meter",
+      "quantity": 1
+    },
+    {
+      "itemId": "moisture_meter",
+      "quantity": 1
+    }
+  ],
   "rewardItemIds": [
     {
       "itemId": "il_toro_i",
