@@ -44,6 +44,12 @@
       "minutes": "분",
       "seconds": "초",
       "viewSeasonHistory": "시즌 기록 보기"
+    },
+    "stashCta": {
+      "button": "보관함 보기",
+      "description": "ARC Raiders 게임 계정을 연동하여 보관함, 작업대, 퀘스트, 프로젝트를 자동으로 동기화하세요. 더 이상 수동으로 관리할 필요가 없습니다.",
+      "title": "ARC Raiders 계정 동기화",
+      "newBadge": "신규"
     }
   },
   "Navigation": {
@@ -185,7 +191,10 @@
     "required": "필수",
     "submitItemsValue": "이 단계를 완료하려면 필요한 가치만큼 아이템을 제출하세요.",
     "season1": "시즌 1",
-    "season2": "시즌 2"
+    "season2": "시즌 2",
+    "stashModeActive": "동기화된 보관함 수량",
+    "lastSynced": "동기화됨",
+    "syncStash": "보관함 동기화"
   },
   "HideoutPage": {
     "level": "레벨",
@@ -197,7 +206,10 @@
     "noItemRequirements": "다음 레벨에 필요한 아이템 요구 사항이 없습니다.",
     "otherRequirements": "기타 요구 사항:",
     "prerequisites": "선행 조건:",
-    "detailsUnavailable": "다음 레벨에 대한 세부 정보를 사용할 수 없습니다."
+    "detailsUnavailable": "다음 레벨에 대한 세부 정보를 사용할 수 없습니다.",
+    "stashModeActive": "동기화된 보관함 수량",
+    "lastSynced": "동기화됨",
+    "syncStash": "보관함 동기화"
   },
   "WorkbenchPage": {
     "craftableItems": "제작 가능한 아이템",
@@ -236,7 +248,10 @@
     "zoomIn": "확대",
     "zoomOut": "축소",
     "fitView": "화면에 맞춤",
-    "resetZoom": "줌 초기화"
+    "resetZoom": "줌 초기화",
+    "stashModeActive": "동기화된 보관함 수량",
+    "lastSynced": "동기화됨",
+    "syncStash": "보관함 동기화"
   },
   "Sidebar": {
     "level": "레벨 {level}",
@@ -248,7 +263,8 @@
     "languageSwitcher": "언어",
     "resources": "자료",
     "collapseSidebar": "사이드바 접기",
-    "expandSidebar": "사이드바 펼치기"
+    "expandSidebar": "사이드바 펼치기",
+    "developers": "개발자"
   },
   "SettingsPage": {
     "sectionAccount": "계정",
@@ -336,7 +352,23 @@
     "embarkErrorCallbackError": "연동 중 오류가 발생했습니다. 다시 시도해 주세요.",
     "embarkErrorGeneric": "오류가 발생했습니다. 다시 시도해 주세요.",
     "embarkNotLinked": "ARC Raiders 계정이 아직 연동되지 않았습니다.",
-    "embarkGoToStash": "계정을 연동하려면 보관함으로 이동하세요"
+    "embarkGoToStash": "계정을 연동하려면 보관함으로 이동하세요",
+    "sectionDeveloperAccess": "개발자 액세스",
+    "apiKeysTitle": "API 키",
+    "apiKeysDescription": "타사 앱이 귀하의 데이터에 액세스할 수 있도록 허용하는 API 키를 생성하세요.",
+    "apiKeysDocsLink": "API 문서 보기",
+    "noApiKeys": "아직 생성된 API 키가 없습니다.",
+    "createApiKey": "API 키 생성",
+    "createApiKeyTitle": "API 키 생성",
+    "createApiKeyDescription": "개인 API 키를 생성합니다. 허용할 데이터 범위를 선택하세요.",
+    "keyName": "키 이름",
+    "keyNamePlaceholder": "예: 내 앱 연동",
+    "scopes": "데이터 범위",
+    "createKey": "키 생성",
+    "revokeKeyTitle": "API 키를 철회하시겠습니까?",
+    "revokeKeyDescription": "이 키는 영구적으로 철회됩니다. 이 키를 사용하는 모든 앱은 액세스 권한을 잃게 됩니다.",
+    "revokeKey": "키 철회",
+    "buildAnApp": "앱을 만들고 싶으신가요?"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "아이템 검색...",
@@ -523,8 +555,10 @@
       "showDetails": "상세 내역 표시",
       "hideDetails": "상세 내역 숨기기",
       "withEvent": "이벤트 포함",
-      "weeklyTrend": "주간 드롭률",
-      "dataSourceDesc": "레이드 기록 도구를 사용하는 플레이어들이 기록한 레이드를 바탕으로, 각 맵/이벤트에서 이 아이템을 가지고 탈출할 % 확률을 보여줍니다."
+      "weeklyTrend": "기간별 드롭률",
+      "dataSourceDesc": "레이드 기록 도구를 사용하는 플레이어들이 기록한 레이드를 바탕으로, 각 맵/이벤트에서 이 아이템을 가지고 탈출할 % 확률을 보여줍니다.",
+      "tooltipThisWeek": "이번 주",
+      "tooltipWeeksAgo": "{count}주 전"
     },
     "dropRates": "드롭 확률",
     "inRaidCrafting": "레이드 내 제작",
@@ -774,7 +808,9 @@
     "tebexPaymentPortal": "Tebex 결제 포털",
     "backToHome": "홈으로 돌아가기",
     "benefitUnlimitedPins": "무제한 개인 핀 및 파밍 루트",
-    "benefitUnlimitedPinsDesc": "모든 지도에서 개인 핀과 파밍 루트를 무제한으로 생성하세요"
+    "benefitUnlimitedPinsDesc": "모든 지도에서 개인 핀과 파밍 루트를 무제한으로 생성하세요",
+    "benefitAutoSync": "자동 보관함 동기화",
+    "benefitAutoSyncDesc": "30분마다 게임 내 보관함, 로드아웃, 진행 상황을 자동으로 동기화합니다"
   },
   "Favorites": {
     "addToList": "목록에 추가",
@@ -1349,7 +1385,9 @@
       "highlight4": "ARCTracker 오버레이와 연동",
       "screenshotDashboardDesc": "종합 통계를 확인하고, 맵/시즌별로 필터링하며, 레이드 성과 추이를 분석하세요.",
       "screenshotDashboardTitle": "실제 작동 모습 확인하기"
-    }
+    },
+    "previous": "이전",
+    "next": "다음"
   },
   "RaidSync": {
     "title": "진행 상황에 적용",
@@ -1399,7 +1437,8 @@
     "applySuccessRequirements": "{count, plural, one {요구 사항 #개 완료} other {요구 사항 #개 완료}}",
     "applySuccessBlueprints": "{count, plural, one {설계도 #개 습득} other {설계도 #개 습득}}",
     "blueprintUnlocks": "{item} 잠금 해제",
-    "blueprintsToLearn": "{count, plural, one {설계도 #개} other {설계도 #개}}"
+    "blueprintsToLearn": "{count, plural, one {설계도 #개} other {설계도 #개}}",
+    "cancel": "취소"
   },
   "season": {
     "wizard": {
@@ -2075,7 +2114,8 @@
     "syncBar": {
       "hideout": "은신처",
       "quests": "퀘스트",
-      "projects": "프로젝트"
+      "projects": "프로젝트",
+      "blueprints": "설계도"
     },
     "syncInventory": "인벤토리 동기화",
     "settings": {
@@ -2152,7 +2192,9 @@
       "title": "작업장 업그레이드 가능!"
     },
     "overwolfLinkInBrowser": "계정을 연동하려면 Chrome 또는 Firefox에서 arctracker.io를 방문하세요.",
-    "overwolfUpdateLinkInBrowser": "계정 연동을 업데이트하려면 Chrome 또는 Firefox에서 arctracker.io를 방문하세요."
+    "overwolfUpdateLinkInBrowser": "계정 연동을 업데이트하려면 Chrome 또는 Firefox에서 arctracker.io를 방문하세요.",
+    "blueprintSync": "설계도 동기화",
+    "blueprintSyncDescription": "게임 계정에서 습득한 설계도 동기화"
   },
   "HideoutSync": {
     "title": "은신처 진행 상황 동기화",
@@ -2214,5 +2256,142 @@
     "showUnchanged": "변경 없는 항목 표시",
     "syncSuccess": "프로젝트 동기화 완료!",
     "title": "프로젝트 진행 상황 동기화"
+  },
+  "DevelopersPage": {
+    "appDescription": "설명",
+    "appDescriptionPlaceholder": "이 앱은 어떤 기능을 하나요?",
+    "appName": "앱 이름",
+    "appNamePlaceholder": "나의 ARC Raiders 앱",
+    "contactEmail": "연락처 이메일",
+    "createApp": "앱 만들기",
+    "dataUsage": "데이터 사용",
+    "dataUsagePlaceholder": "데이터를 어떻게 사용하실 건가요?",
+    "docs": "API 문서",
+    "emptyDescription": "첫 번째 앱을 등록하여 API 키를 받고 개발을 시작하세요.",
+    "emptyTitle": "등록된 앱 없음",
+    "readDocs": "문서 읽기",
+    "registerApp": "앱 등록",
+    "registerAppDescription": "애플리케이션에 대해 알려주세요. 앱은 시간당 500회의 요청 한도로 즉시 활성화됩니다.",
+    "registerNewApp": "새 앱 등록",
+    "requestsToday": "금일 요청",
+    "statusActive": "활성",
+    "statusPending": "검토 대기 중",
+    "statusSuspended": "정지됨",
+    "title": "개발자 앱",
+    "websiteUrl": "웹사이트 URL (선택 사항)"
+  },
+  "AppDetailPage": {
+    "actions": "작업",
+    "apiKeyPrefix": "API 키",
+    "appDeleted": "애플리케이션이 삭제되었습니다",
+    "appInfo": "앱 정보",
+    "cancel": "취소",
+    "created": "생성일",
+    "deleteApp": "앱 삭제",
+    "deleteAppConfirm": "앱 삭제",
+    "deleteAppDescription": "이 애플리케이션이 영구적으로 삭제되며 API 키가 취소됩니다. 이 작업은 되돌릴 수 없습니다.",
+    "deleteAppTitle": "애플리케이션을 삭제하시겠습니까?",
+    "description": "설명",
+    "keyRotated": "API 키가 성공적으로 재발급되었습니다",
+    "last24h": "지난 24시간",
+    "last7d": "지난 7일",
+    "lastUsed": "최근 사용",
+    "newApiKey": "새 API 키",
+    "rateLimit": "요청 제한",
+    "requestUpgrade": "요청 제한 상향 신청",
+    "requestUpgradeDescription": "현재 요청 제한보다 더 많이 필요하신가요? 이유를 알려주시면 검토해 드리겠습니다.",
+    "requestsPerHour": "회/시간",
+    "rotateKey": "키 재발급",
+    "rotateKeyConfirm": "키 재발급",
+    "rotateKeyDescription": "현재 API 키가 무효화되고 새 키가 생성됩니다. 이전 키를 사용하는 모든 애플리케이션은 작동이 중지됩니다.",
+    "rotateKeyTitle": "API 키를 재발급하시겠습니까?",
+    "statusActive": "활성",
+    "statusPending": "검토 대기 중",
+    "statusSuspended": "정지됨",
+    "submitRequest": "요청 제출",
+    "upgradePending": "요청 제한 상향 신청이 검토 대기 중입니다.",
+    "upgradeReasonPlaceholder": "더 높은 요청 제한이 필요한 이유를 설명해 주세요...",
+    "upgradeRequested": "상향 신청 제출됨",
+    "usage": "사용량",
+    "yourReason": "신청 사유"
+  },
+  "ApiDocsPage": {
+    "authStep1Description": "개발자 대시보드로 이동하여 앱을 등록하세요. 애플리케이션을 식별하는 앱 키(arc_k1_...)를 받게 됩니다.",
+    "authStep1Title": "앱 등록",
+    "authStep2Description": "사용자는 설정 > 개발자 액세스로 이동하여 공유하려는 권한 범위가 포함된 개인 API 키(arc_u1_...)를 생성합니다.",
+    "authStep2Title": "사용자가 개인 키 생성",
+    "authStep3Description": "X-App-Key 헤더에는 앱 키를, Authorization: Bearer 헤더에는 사용자 키를 포함하세요.",
+    "authStep3Title": "요청 시 두 키 모두 전송",
+    "authenticatedEndpoints": "인증된 엔드포인트 (이중 키 필요)",
+    "authenticatedEndpointsDescription": "이러한 엔드포인트는 사용자별 데이터를 반환하며 앱 키와 사용자 키가 모두 필요합니다.",
+    "authentication": "인증",
+    "authenticationDescription": "사용자 데이터 엔드포인트는 이중 키 시스템을 사용합니다. 앱은 각 요청과 함께 앱 키와 사용자 키를 모두 전송합니다. 이를 통해 사용자가 데이터 공유에 명시적으로 동의했음을 보장합니다.",
+    "baseUrl": "기본 URL",
+    "codeExamples": "코드 예제",
+    "endpointHideout": "다국어 이름, 레벨 및 요구 사항을 포함한 모든 은신처 모듈입니다. 정적 응답이며, 매개변수는 없습니다.",
+    "endpointItems": "다국어 이름, 설명 및 효과를 포함한 모든 아이템입니다. 정적 응답이며, 매개변수는 없습니다.",
+    "endpointLoadout": "풍부한 장비 세부 정보가 포함된 사용자의 현재 로드아웃.",
+    "endpointProfile": "기본 사용자 프로필 정보 (사용자명, 레벨, 가입일).",
+    "endpointProjects": "다국어 이름과 단계를 포함한 모든 프로젝트입니다. 시즌 필터링을 지원합니다.",
+    "endpointQuests": "다국어 세부 정보, 목표 및 보상을 포함한 모든 퀘스트입니다. 정적 응답이며, 매개변수는 없습니다.",
+    "endpointStash": "풍부한 아이템 데이터가 포함된 사용자의 인벤토리/보관함. 페이지네이션 지원.",
+    "endpointUserHideout": "사용자의 은신처 모듈 업그레이드 진행 상황.",
+    "endpointUserProjects": "사용자의 프로젝트 단계 완료 진행 상황.",
+    "endpointUserQuests": "선택적 필터링이 가능한 사용자의 퀘스트 완료 진행 상황.",
+    "error401": "API 키가 없거나 유효하지 않습니다. 앱 키와 사용자 키를 모두 확인하세요.",
+    "error403": "권한 범위가 부족하거나 앱이 정지되었습니다. 사용자 키에 필요한 권한 범위가 포함되어 있어야 합니다.",
+    "error404": "리소스를 찾을 수 없거나 이 엔드포인트에 대한 사용자 데이터가 없습니다.",
+    "error429": "요청 제한을 초과했습니다. X-RateLimit-Reset 헤더의 초기화 시간을 기다리세요.",
+    "error500": "내부 서버 오류입니다. 나중에 다시 시도해 주세요.",
+    "errorCode": "코드",
+    "errorCodes": "오류 코드",
+    "errorCodesDescription": "모든 오류 응답은 오류 코드와 메시지가 포함된 표준 형식을 따릅니다.",
+    "errorDescription": "설명",
+    "errorResponse": "오류 응답",
+    "exampleRequest": "요청 예시",
+    "gettingStarted": "시작하기",
+    "gettingStartedDescription": "ArcTracker API는 ARC Raiders 게임 데이터에 대한 액세스를 제공합니다. 공개 엔드포인트는 인증이 필요 없지만, 사용자 데이터 엔드포인트는 이중 키 인증 시스템을 사용합니다.",
+    "gettingStartedStep1": "1. 공개 엔드포인트(아이템, 퀘스트, 은신처, 프로젝트)는 인증 없이 자유롭게 액세스할 수 있습니다.",
+    "gettingStartedStep2": "2. 사용자 데이터에 액세스하려면 개발자 대시보드에서 앱을 등록하여 앱 키를 받으세요.",
+    "gettingStartedStep3": "3. 사용자는 설정 페이지에서 개인 API 키를 생성하여 귀하의 앱과 공유합니다.",
+    "headerAppKey": "귀하의 앱 API 키 (개발자 대시보드에서 확인)",
+    "headerUserKey": "사용자의 개인 API 키",
+    "headersTitle": "필수 헤더",
+    "paramFilter": "필터: completed(완료), incomplete(미완료).",
+    "paramLocale": "언어 코드 (예: en, de, fr). 기본값은 en입니다.",
+    "paramPage": "페이지네이션을 위한 페이지 번호 (기본값: 1).",
+    "paramPerPage": "페이지당 항목 수, 최대 100 (기본값: 50).",
+    "paramSeason": "시즌별 필터: 1, 2 또는 쉼표로 구분 (예: 1,2).",
+    "paramSeasonFilter": "시즌별 필터: 1, 2.",
+    "paramSort": "정렬 기준: slot(기본값), name, quantity.",
+    "publicEndpoints": "공개 엔드포인트 (인증 불필요)",
+    "publicEndpointsDescription": "이 엔드포인트들은 정적 게임 데이터를 반환하며 별도의 인증이 필요하지 않습니다. 응답에는 모든 로케일이 다국어 객체(예: name: { en: \"...\", de: \"...\", ... })로 포함됩니다. 응답은 캐시되므로 빈번한 요청에 적합합니다.",
+    "rateLimitHeader": "구간당 허용되는 최대 요청 수입니다.",
+    "rateLimitRemainingHeader": "현재 구간에서 남은 요청 수입니다.",
+    "rateLimitResetHeader": "요청 제한이 초기화되는 Unix 타임스탬프입니다.",
+    "rateLimits": "요청 제한",
+    "rateLimitsDescription": "각 앱은 기본적으로 시간당 500회의 요청을 할 수 있습니다. 요청 제한 정보는 응답 헤더에 포함됩니다. 개발자 대시보드에서 더 높은 제한을 요청할 수 있습니다.",
+    "responseFormat": "응답 형식",
+    "responseFormatDescription": "모든 인증된 엔드포인트는 일관된 JSON 래퍼(envelope)를 반환합니다.",
+    "successResponse": "성공 응답",
+    "title": "API 문서"
+  },
+  "BlueprintSync": {
+    "applySync": "동기화 적용",
+    "applying": "적용 중...",
+    "blueprintsToUpdate": "{count, plural, one {업데이트할 설계도 #개} other {업데이트할 설계도 #개}}",
+    "changesDetected": "변경 사항 감지됨",
+    "description": "연결된 계정에서 습득한 설계도를 가져옵니다",
+    "error": "설계도 데이터를 가져오지 못했습니다",
+    "hideUnchanged": "변경 없는 항목 숨기기",
+    "learned": "습득함",
+    "loading": "설계도 데이터 가져오는 중...",
+    "noChanges": "동기화 완료!",
+    "noChangesDescription": "설계도가 이미 최신 상태입니다.",
+    "notLearned": "미습득",
+    "retry": "재시도",
+    "showUnchanged": "변경 없는 항목 표시",
+    "syncSuccess": "설계도 동기화 완료!",
+    "title": "설계도 동기화"
   }
 }

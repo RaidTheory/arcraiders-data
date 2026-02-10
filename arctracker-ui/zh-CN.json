@@ -44,7 +44,13 @@
     "viewAllPatchContent": "查看全部",
     "lfgTitle": "正在寻找队友？",
     "lfgDescription": "我们已与 ARC Raiders LFG Discord 合作——这是为您寻找奇袭者队友的最佳去处。加入超过 70,000 名正在组队的奇袭者！",
-    "joinLfgDiscord": "加入 LFG Discord"
+    "joinLfgDiscord": "加入 LFG Discord",
+    "stashCta": {
+      "button": "查看你的仓库",
+      "description": "绑定你的 ARC Raiders 游戏账号，自动同步你的仓库、工坊、任务和项目。无需再手动追踪。",
+      "title": "同步你的 ARC Raiders 账号",
+      "newBadge": "新"
+    }
   },
   "Navigation": {
     "home": "首页",
@@ -192,7 +198,10 @@
     "required": "需要",
     "submitItemsValue": "提交所需价值的物品以完成此阶段。",
     "season1": "第 1 赛季",
-    "season2": "第 2 赛季"
+    "season2": "第 2 赛季",
+    "stashModeActive": "计数来自已同步的仓库",
+    "lastSynced": "已同步",
+    "syncStash": "同步仓库"
   },
   "HideoutPage": {
     "level": "等级",
@@ -204,7 +213,10 @@
     "noItemRequirements": "下一级无物品需求。",
     "otherRequirements": "其他需求：",
     "prerequisites": "前置条件：",
-    "detailsUnavailable": "下一级详情暂不可用。"
+    "detailsUnavailable": "下一级详情暂不可用。",
+    "stashModeActive": "计数来自已同步的仓库",
+    "lastSynced": "已同步",
+    "syncStash": "同步仓库"
   },
   "WorkbenchPage": {
     "craftableItems": "可制作物品",
@@ -243,7 +255,10 @@
     "zoomIn": "放大",
     "zoomOut": "缩小",
     "fitView": "适应视图",
-    "resetZoom": "重置缩放"
+    "resetZoom": "重置缩放",
+    "stashModeActive": "计数来自已同步的仓库",
+    "lastSynced": "已同步",
+    "syncStash": "同步仓库"
   },
   "Sidebar": {
     "level": "等级 {level}",
@@ -255,7 +270,8 @@
     "languageSwitcher": "语言",
     "resources": "资源",
     "collapseSidebar": "折叠侧边栏",
-    "expandSidebar": "展开侧边栏"
+    "expandSidebar": "展开侧边栏",
+    "developers": "开发者"
   },
   "SettingsPage": {
     "sectionAccount": "账户",
@@ -343,7 +359,23 @@
     "embarkErrorCallbackError": "绑定过程中发生错误。请重试。",
     "embarkErrorGeneric": "发生错误。请重试。",
     "embarkNotLinked": "您的 ARC Raiders 账号尚未关联。",
-    "embarkGoToStash": "前往仓库页面绑定您的账号"
+    "embarkGoToStash": "前往仓库页面绑定您的账号",
+    "sectionDeveloperAccess": "开发者访问权限",
+    "apiKeysTitle": "API 密钥",
+    "apiKeysDescription": "创建 API 密钥以允许第三方应用访问您的数据。",
+    "apiKeysDocsLink": "查看 API 文档",
+    "noApiKeys": "您尚未创建任何 API 密钥。",
+    "createApiKey": "创建 API 密钥",
+    "createApiKeyTitle": "创建 API 密钥",
+    "createApiKeyDescription": "创建个人 API 密钥。选择允许的数据权限范围。",
+    "keyName": "密钥名称",
+    "keyNamePlaceholder": "例如：我的应用集成",
+    "scopes": "数据权限范围",
+    "createKey": "创建密钥",
+    "revokeKeyTitle": "撤销 API 密钥？",
+    "revokeKeyDescription": "这将永久撤销此密钥。任何使用它的应用都将失去访问权限。",
+    "revokeKey": "撤销密钥",
+    "buildAnApp": "想开发应用吗？"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "搜索物品...",
@@ -524,7 +556,7 @@
       "showDetails": "显示详细明细",
       "hideDetails": "隐藏详细明细",
       "withEvent": "含事件",
-      "weeklyTrend": "每周掉落率",
+      "weeklyTrend": "随时间变化的掉落率",
       "reliability": {
         "insufficient": "数据不足",
         "insufficientDesc": "少于 10 次追踪对局",
@@ -534,7 +566,9 @@
         "mediumDesc": "50-199 次追踪对局",
         "high": "可靠性极佳",
         "highDesc": "200+ 次追踪对局"
-      }
+      },
+      "tooltipThisWeek": "本周",
+      "tooltipWeeksAgo": "{count}周前"
     }
   },
   "ItemsListPage": {
@@ -773,11 +807,11 @@
   },
   "PrivatePinIcons": {
     "categories": {
-        "loot": "战利品 & 物品",
-        "danger": "危险 & 警示",
-        "navigation": "导航",
-        "utility": "兴趣点",
-        "custom": "自定义"
+      "loot": "战利品 & 物品",
+      "danger": "危险 & 警示",
+      "navigation": "导航",
+      "utility": "兴趣点",
+      "custom": "自定义"
     },
     "icons": {
       "valuable": "贵重物品",
@@ -972,7 +1006,9 @@
     "manageSubscriptionDesc": "您可以通过“设置”页面或 Tebex 支付门户查看您的订阅详情并管理您的账单。",
     "goToSettings": "前往设置",
     "tebexPaymentPortal": "Tebex 支付门户",
-    "backToHome": "返回首页"
+    "backToHome": "返回首页",
+    "benefitAutoSync": "仓库自动同步",
+    "benefitAutoSyncDesc": "每30分钟自动从游戏中同步您的仓库、配装和进度"
   },
   "Favorites": {
     "addToList": "添加到列表",
@@ -1612,7 +1648,9 @@
       "featuresTitle": "您所需的一切",
       "screenshotDashboardTitle": "实际效果展示",
       "screenshotDashboardDesc": "查看综合统计数据，按地图/赛季筛选，并分析您随时间变化的对局表现。"
-    }
+    },
+    "previous": "上一页",
+    "next": "下一页"
   },
   "RaidSync": {
     "title": "应用到进度",
@@ -1662,7 +1700,8 @@
       "step2Description": "如果一件物品被多个事物需要，拖动以重新排序哪个需求首先被满足。较高的项目在较低的项目之前接收物品。",
       "step3Title": "您可以随时撤销",
       "step3Description": "弄错了？别担心！您可以随时使用“撤销”按钮从对局卡片撤销已应用的进度。"
-    }
+    },
+    "cancel": "取消"
   },
   "SeasonHistoryPage": {
     "title": "赛季历史",
@@ -1825,11 +1864,11 @@
       "never": "永不过期"
     },
     "uses": {
-      "unlimited": "无限制",
       "1": "1 次",
       "5": "5 次",
       "10": "10 次",
-      "25": "25 次"
+      "25": "25 次",
+      "unlimited": "无限制"
     },
     "leftSquad": "您已离开该小队",
     "leaveError": "离开小队失败",
@@ -2065,7 +2104,8 @@
     "syncBar": {
       "hideout": "藏身处",
       "quests": "任务",
-      "projects": "计划"
+      "projects": "计划",
+      "blueprints": "蓝图"
     },
     "settings": {
       "stashSourceOfTruth": "自动追踪所需物品",
@@ -2116,8 +2156,8 @@
       "safeToRecycle": "可安全回收"
     },
     "workshopUpgrades": {
-      "title": "工作台升级可用！",
-      "description": "你有足够的资源进行升级："
+      "description": "你有足够的资源进行升级：",
+      "title": "工作台升级可用！"
     },
     "autoSync": {
       "title": "自动同步",
@@ -2131,19 +2171,11 @@
       "syncingSoon": "即将同步...",
       "pausedErrors": "已暂停：同步错误",
       "retry": "重试",
-      "subscriberRequired": "使用自动同步功能需要有效的订阅",
-      "syncingSoon": "即将同步...",
-      "title": "自动同步",
-      "toggleError": "更新自动同步设置失败",
-      "tokenExpiredError": "连接已过期。请先刷新您的连接。",
-      "syncing": "同步中..."
+      "syncing": "同步中...",
+      "authError": "连接丢失"
     },
-    "workshopUpgrades": {
-      "description": "你有足够的资源进行升级：",
-      "title": "工作台升级可用！"
-    },
-    "overwolfLinkInBrowser": "如需绑定您的账号，请使用 Chrome 或 Firefox 浏览器访问 arctracker.io。",
-    "overwolfUpdateLinkInBrowser": "如需更新您的账号绑定，请使用 Chrome 或 Firefox 浏览器访问 arctracker.io。"
+    "blueprintSync": "蓝图同步",
+    "blueprintSyncDescription": "同步您游戏账户中已学习的蓝图"
   },
   "HideoutSync": {
     "title": "同步藏身处进度",
@@ -2203,5 +2235,142 @@
     "applying": "正在应用...",
     "syncSuccess": "计划同步完成！",
     "phaseWillComplete": "阶段将被标记为完成"
+  },
+  "DevelopersPage": {
+    "appDescription": "描述",
+    "appDescriptionPlaceholder": "您的应用是用做什么的？",
+    "appName": "应用名称",
+    "appNamePlaceholder": "我的 ARC Raiders 应用",
+    "contactEmail": "联系邮箱",
+    "createApp": "创建应用",
+    "dataUsage": "数据用途",
+    "dataUsagePlaceholder": "您将如何使用这些数据？",
+    "docs": "API 文档",
+    "emptyDescription": "注册您的第一个应用以获取 API 密钥并开始构建。",
+    "emptyTitle": "尚无应用",
+    "readDocs": "阅读文档",
+    "registerApp": "注册应用",
+    "registerAppDescription": "请介绍您的应用。应用将立即激活，配额为每小时 500 次请求。",
+    "registerNewApp": "注册新应用",
+    "requestsToday": "今日请求",
+    "statusActive": "活跃",
+    "statusPending": "待审核",
+    "statusSuspended": "已停用",
+    "title": "开发者应用",
+    "websiteUrl": "网站 URL（可选）"
+  },
+  "AppDetailPage": {
+    "actions": "操作",
+    "apiKeyPrefix": "API 密钥",
+    "appDeleted": "应用已删除",
+    "appInfo": "应用信息",
+    "cancel": "取消",
+    "created": "创建时间",
+    "deleteApp": "删除应用",
+    "deleteAppConfirm": "删除应用",
+    "deleteAppDescription": "这将永久删除此应用并吊销其 API 密钥。此操作无法撤销。",
+    "deleteAppTitle": "删除应用？",
+    "description": "描述",
+    "keyRotated": "API 密钥轮换成功",
+    "last24h": "过去 24 小时",
+    "last7d": "过去 7 天",
+    "lastUsed": "上次使用",
+    "newApiKey": "新 API 密钥",
+    "rateLimit": "速率限制",
+    "requestUpgrade": "申请更高速率限制",
+    "requestUpgradeDescription": "需要比当前更高的速率限制吗？请告知理由，我们将审核您的申请。",
+    "requestsPerHour": "次请求/小时",
+    "rotateKey": "轮换密钥",
+    "rotateKeyConfirm": "轮换密钥",
+    "rotateKeyDescription": "这将使您当前的 API 密钥失效并生成一个新的密钥。任何使用旧密钥的应用将停止工作。",
+    "rotateKeyTitle": "轮换 API 密钥？",
+    "statusActive": "活跃",
+    "statusPending": "待审核",
+    "statusSuspended": "已停用",
+    "submitRequest": "提交申请",
+    "upgradePending": "速率限制升级申请正在等待审核。",
+    "upgradeReasonPlaceholder": "请解释您为何需要更高的速率限制...",
+    "upgradeRequested": "升级申请已提交",
+    "usage": "用量",
+    "yourReason": "您的理由"
+  },
+  "ApiDocsPage": {
+    "authStep1Description": "前往开发者仪表板并注册您的应用。您将收到一个标识您应用的应用密钥 (arc_k1_...)。",
+    "authStep1Title": "注册您的应用",
+    "authStep2Description": "用户前往设置 > 开发者访问权限，并创建一个包含其想要共享的权限范围的个人 API 密钥 (arc_u1_...)。",
+    "authStep2Title": "用户创建个人密钥",
+    "authStep3Description": "在 X-App-Key 标头中包含应用密钥，在 Authorization: Bearer 标头中包含用户密钥。",
+    "authStep3Title": "在请求中同时发送两个密钥",
+    "authenticatedEndpoints": "需认证端点（需要双密钥）",
+    "authenticatedEndpointsDescription": "这些端点返回特定于用户的数据，并且同时需要应用密钥和用户密钥。",
+    "authentication": "身份验证",
+    "authenticationDescription": "用户数据端点使用双密钥系统。您的应用需在每次请求中同时发送应用密钥和用户密钥。这可确保用户明确同意共享其数据。",
+    "baseUrl": "基础 URL",
+    "codeExamples": "代码示例",
+    "endpointHideout": "所有带有多语言名称、等级和要求的藏身处模块。静态响应，无参数。",
+    "endpointItems": "所有带有多语言名称、描述和效果的物品。静态响应，无参数。",
+    "endpointLoadout": "用户当前的配装以及丰富的装备详情。",
+    "endpointProfile": "基本用户资料信息（用户名、等级、加入时间）。",
+    "endpointProjects": "所有带有多语言名称和阶段的项目。支持赛季筛选。",
+    "endpointQuests": "所有带有多语言详情、目标和奖励的任务。静态响应，无参数。",
+    "endpointStash": "用户的库存/仓库以及丰富的物品数据。支持分页。",
+    "endpointUserHideout": "用户的藏身处模块升级进度。",
+    "endpointUserProjects": "用户的项目阶段完成进度。",
+    "endpointUserQuests": "用户的任务完成进度（可选过滤）。",
+    "error401": "缺少或无效的 API 密钥。请检查应用密钥和用户密钥。",
+    "error403": "权限范围不足或应用已停用。用户密钥必须包含所需的权限范围。",
+    "error404": "资源未找到或用户在此端点没有数据。",
+    "error429": "超出速率限制。请等待 X-RateLimit-Reset 标头中的重置时间。",
+    "error500": "内部服务器错误。请稍后再试。",
+    "errorCode": "代码",
+    "errorCodes": "错误代码",
+    "errorCodesDescription": "所有错误响应都遵循包含错误代码和消息的标准格式。",
+    "errorDescription": "描述",
+    "errorResponse": "错误响应",
+    "exampleRequest": "请求示例",
+    "gettingStarted": "入门指南",
+    "gettingStartedDescription": "ArcTracker API 提供对 ARC Raiders 游戏数据的访问。公共端点无需认证，而用户数据端点使用双密钥认证系统。",
+    "gettingStartedStep1": "1. 公共端点（物品、任务、藏身处、项目）可免费访问，无需认证。",
+    "gettingStartedStep2": "2. 要访问用户数据，请在开发者仪表板注册应用以获取应用密钥。",
+    "gettingStartedStep3": "3. 用户在其设置页面中创建个人 API 密钥并将其分享给您的应用。",
+    "headerAppKey": "您的应用 API 密钥（来自开发者仪表板）",
+    "headerUserKey": "用户的个人 API 密钥",
+    "headersTitle": "必需标头",
+    "paramFilter": "过滤：completed（已完成）、incomplete（未完成）。",
+    "paramLocale": "语言代码（例如 en、de、fr）。默认为 en。",
+    "paramPage": "分页的页码（默认：1）。",
+    "paramPerPage": "每页物品数，最大 100（默认：50）。",
+    "paramSeason": "按赛季过滤：1、2 或逗号分隔（例如 1,2）。",
+    "paramSeasonFilter": "按赛季过滤：1、2。",
+    "paramSort": "排序方式：slot（槽位，默认）、name（名称）、quantity（数量）。",
+    "publicEndpoints": "公共端点（无需认证）",
+    "publicEndpointsDescription": "这些端点返回静态游戏数据，无需身份验证。响应以多语言对象的形式包含所有语言环境（例如：name: { en: \"...\", de: \"...\", ... }）。响应已缓存，适合高频请求。",
+    "rateLimitHeader": "每个窗口允许的最大请求数。",
+    "rateLimitRemainingHeader": "当前窗口中的剩余请求数。",
+    "rateLimitResetHeader": "速率限制重置时的 Unix 时间戳。",
+    "rateLimits": "速率限制",
+    "rateLimitsDescription": "每个应用默认每小时获得 500 次请求。速率限制信息包含在响应标头中。您可以从开发者仪表板申请更高的限制。",
+    "responseFormat": "响应格式",
+    "responseFormatDescription": "所有需认证端点都返回一致的 JSON 信封结构。",
+    "successResponse": "成功响应",
+    "title": "API 文档"
+  },
+  "BlueprintSync": {
+    "applySync": "应用同步",
+    "applying": "正在应用...",
+    "blueprintsToUpdate": "{count, plural, one {# 个蓝图} other {# 个蓝图}} 待更新",
+    "changesDetected": "检测到变更",
+    "description": "从您的关联账户导入已学习的蓝图",
+    "error": "获取蓝图数据失败",
+    "hideUnchanged": "隐藏未变更项",
+    "learned": "已学习",
+    "loading": "正在获取蓝图数据...",
+    "noChanges": "已全部同步！",
+    "noChangesDescription": "您的蓝图已是最新状态。",
+    "notLearned": "未学习",
+    "retry": "重试",
+    "showUnchanged": "显示未变更项",
+    "syncSuccess": "蓝图同步完成！",
+    "title": "同步蓝图"
   }
 }

@@ -44,7 +44,13 @@
     "viewAllPatchContent": "すべて表示",
     "lfgTitle": "チームをお探しですか？",
     "lfgDescription": "ARC Raiders LFG Discordと提携しました。レイドのチームメイトを見つけるのに最適な場所です。70,000人以上のレイダーたちと一緒にスクワッドを組みましょう！",
-    "joinLfgDiscord": "LFG Discordに参加"
+    "joinLfgDiscord": "LFG Discordに参加",
+    "stashCta": {
+      "button": "スタッシュを表示",
+      "description": "ARC Raidersのゲームアカウントを連携して、スタッシュ、ワークショップ、クエスト、プロジェクトを自動的に同期しましょう。手動での管理はもう不要です。",
+      "title": "ARC Raidersアカウントを同期",
+      "newBadge": "新着"
+    }
   },
   "Navigation": {
     "home": "ホーム",
@@ -192,7 +198,10 @@
     "required": "必要数",
     "submitItemsValue": "このフェーズを完了するには、必要な価値分のアイテムを提出してください。",
     "season1": "シーズン1",
-    "season2": "シーズン2"
+    "season2": "シーズン2",
+    "stashModeActive": "同期済みスタッシュの数量",
+    "lastSynced": "同期済み",
+    "syncStash": "スタッシュを同期"
   },
   "HideoutPage": {
     "level": "レベル",
@@ -204,7 +213,10 @@
     "noItemRequirements": "次のレベルへのアイテム要件はありません。",
     "otherRequirements": "その他の要件:",
     "prerequisites": "前提条件:",
-    "detailsUnavailable": "次のレベルの詳細は利用できません。"
+    "detailsUnavailable": "次のレベルの詳細は利用できません。",
+    "stashModeActive": "同期済みスタッシュの数量",
+    "lastSynced": "同期済み",
+    "syncStash": "スタッシュを同期"
   },
   "WorkbenchPage": {
     "craftableItems": "クラフト可能なアイテム",
@@ -243,7 +255,10 @@
     "zoomIn": "拡大",
     "zoomOut": "縮小",
     "fitView": "全体表示",
-    "resetZoom": "ズームをリセット"
+    "resetZoom": "ズームをリセット",
+    "stashModeActive": "同期済みスタッシュの数量",
+    "lastSynced": "同期済み",
+    "syncStash": "スタッシュを同期"
   },
   "Sidebar": {
     "level": "レベル {level}",
@@ -255,7 +270,8 @@
     "languageSwitcher": "言語",
     "resources": "リソース",
     "collapseSidebar": "サイドバーを折りたたむ",
-    "expandSidebar": "サイドバーを展開"
+    "expandSidebar": "サイドバーを展開",
+    "developers": "開発者"
   },
   "SettingsPage": {
     "sectionAccount": "アカウント",
@@ -343,7 +359,23 @@
     "embarkErrorCallbackError": "連携中にエラーが発生しました。もう一度お試しください。",
     "embarkErrorGeneric": "エラーが発生しました。もう一度お試しください。",
     "embarkNotLinked": "ARC Raiders アカウントはまだ連携されていません。",
-    "embarkGoToStash": "スタッシュへ移動してアカウントを連携"
+    "embarkGoToStash": "スタッシュへ移動してアカウントを連携",
+    "sectionDeveloperAccess": "開発者アクセス",
+    "apiKeysTitle": "APIキー",
+    "apiKeysDescription": "APIキーを作成して、サードパーティ製アプリによるデータへのアクセスを許可します。",
+    "apiKeysDocsLink": "APIドキュメントを表示",
+    "noApiKeys": "まだAPIキーを作成していません。",
+    "createApiKey": "APIキーを作成",
+    "createApiKeyTitle": "APIキーの作成",
+    "createApiKeyDescription": "個人のAPIキーを作成します。許可するデータスコープを選択してください。",
+    "keyName": "キー名",
+    "keyNamePlaceholder": "例: マイアプリ連携",
+    "scopes": "データスコープ",
+    "createKey": "キーを作成",
+    "revokeKeyTitle": "APIキーを無効化しますか？",
+    "revokeKeyDescription": "このキーを完全に無効化します。これを使用しているアプリはアクセスできなくなります。",
+    "revokeKey": "キーを無効化",
+    "buildAnApp": "アプリを開発してみませんか？"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "アイテムを検索...",
@@ -523,7 +555,7 @@
       "showDetails": "詳細な内訳を表示",
       "hideDetails": "詳細な内訳を非表示",
       "withEvent": "イベントあり",
-      "weeklyTrend": "週間ドロップ率",
+      "weeklyTrend": "ドロップ率の推移",
       "reliability": {
         "insufficient": "データ不足",
         "insufficientDesc": "追跡されたレイド数が10件未満",
@@ -533,7 +565,9 @@
         "mediumDesc": "追跡されたレイド数が50～199件",
         "high": "非常に高い信頼性",
         "highDesc": "追跡されたレイド数が200件以上"
-      }
+      },
+      "tooltipThisWeek": "今週",
+      "tooltipWeeksAgo": "{count}週間前"
     },
     "attachments": "アタッチメント"
   },
@@ -866,7 +900,9 @@
     "tebexPaymentPortal": "Tebex支払いポータル",
     "backToHome": "ホームに戻る",
     "benefitUnlimitedPins": "無制限のプライベートピン＆ルートラン",
-    "benefitUnlimitedPinsDesc": "あらゆるマップで、プライベートマップピンとルートランのルートを無制限に作成できます"
+    "benefitUnlimitedPinsDesc": "あらゆるマップで、プライベートマップピンとルートランのルートを無制限に作成できます",
+    "benefitAutoSync": "スタッシュの自動同期",
+    "benefitAutoSyncDesc": "ゲーム内のスタッシュ、ロードアウト、進行状況を30分ごとに自動的に同期します"
   },
   "Favorites": {
     "addToList": "リストに追加",
@@ -1506,7 +1542,9 @@
       "featuresTitle": "必要なものすべて",
       "screenshotDashboardTitle": "実際の動作を見る",
       "screenshotDashboardDesc": "包括的な統計を表示し、マップ/シーズンでフィルタリングし、レイドパフォーマンスを長期的に分析します。"
-    }
+    },
+    "previous": "前へ",
+    "next": "次へ"
   },
   "RaidSync": {
     "title": "進行状況に適用",
@@ -1556,7 +1594,8 @@
       "step2Description": "アイテムが複数の用途に必要な場合、ドラッグしてどの要件を先に満たすかを並べ替えることができます。上位の項目が優先的にアイテムを受け取ります。",
       "step3Title": "いつでも取り消し可能",
       "step3Description": "間違えましたか？心配いりません！レイドカードの「取り消す」ボタンを使って、適用した進行状況をいつでも元に戻せます。"
-    }
+    },
+    "cancel": "キャンセル"
   },
   "SeasonHistoryPage": {
     "title": "シーズン履歴",
@@ -2061,7 +2100,8 @@
     "syncBar": {
       "hideout": "ハイドアウト",
       "quests": "クエスト",
-      "projects": "プロジェクト"
+      "projects": "プロジェクト",
+      "blueprints": "設計図"
     },
     "syncInventory": "インベントリを同期",
     "settings": {
@@ -2138,7 +2178,9 @@
       "title": "ワークショップのアップグレードが可能です！"
     },
     "overwolfLinkInBrowser": "アカウントを連携するには、ChromeまたはFirefoxでarctracker.ioにアクセスしてください。",
-    "overwolfUpdateLinkInBrowser": "アカウント連携を更新するには、ChromeまたはFirefoxでarctracker.ioにアクセスしてください。"
+    "overwolfUpdateLinkInBrowser": "アカウント連携を更新するには、ChromeまたはFirefoxでarctracker.ioにアクセスしてください。",
+    "blueprintSync": "設計図同期",
+    "blueprintSyncDescription": "ゲームアカウントから習得済みの設計図を同期します"
   },
   "HideoutSync": {
     "title": "ハイドアウトの進行状況を同期",
@@ -2200,5 +2242,142 @@
     "showUnchanged": "変更なしを表示",
     "syncSuccess": "プロジェクトの同期が完了しました！",
     "title": "プロジェクト進行状況の同期"
+  },
+  "DevelopersPage": {
+    "appDescription": "説明",
+    "appDescriptionPlaceholder": "アプリの機能は何ですか？",
+    "appName": "アプリ名",
+    "appNamePlaceholder": "My ARC Raiders App",
+    "contactEmail": "連絡先メールアドレス",
+    "createApp": "アプリを作成",
+    "dataUsage": "データの使用目的",
+    "dataUsagePlaceholder": "データをどのように使用しますか？",
+    "docs": "APIドキュメント",
+    "emptyDescription": "最初のアプリを登録してAPIキーを取得し、開発を始めましょう。",
+    "emptyTitle": "アプリがありません",
+    "readDocs": "ドキュメントを読む",
+    "registerApp": "アプリを登録",
+    "registerAppDescription": "アプリケーションについて教えてください。アプリは即座に有効化され、1時間あたり500リクエストが許可されます。",
+    "registerNewApp": "新しいアプリを登録",
+    "requestsToday": "本日のリクエスト",
+    "statusActive": "アクティブ",
+    "statusPending": "審査待ち",
+    "statusSuspended": "停止中",
+    "title": "開発者アプリ",
+    "websiteUrl": "ウェブサイトURL（任意）"
+  },
+  "AppDetailPage": {
+    "actions": "アクション",
+    "apiKeyPrefix": "APIキー",
+    "appDeleted": "アプリケーションを削除しました",
+    "appInfo": "アプリ情報",
+    "cancel": "キャンセル",
+    "created": "作成日",
+    "deleteApp": "アプリを削除",
+    "deleteAppConfirm": "アプリを削除",
+    "deleteAppDescription": "このアプリケーションを完全に削除し、APIキーを無効化します。この操作は元に戻せません。",
+    "deleteAppTitle": "アプリケーションを削除しますか？",
+    "description": "説明",
+    "keyRotated": "APIキーが正常に更新されました",
+    "last24h": "過去24時間",
+    "last7d": "過去7日間",
+    "lastUsed": "最終利用",
+    "newApiKey": "新しいAPIキー",
+    "rateLimit": "レート制限",
+    "requestUpgrade": "レート制限の引き上げをリクエスト",
+    "requestUpgradeDescription": "現在のレート制限以上が必要ですか？理由をお知らせいただければ、リクエストを審査いたします。",
+    "requestsPerHour": "リクエスト/時",
+    "rotateKey": "キーの再発行",
+    "rotateKeyConfirm": "キーを再発行",
+    "rotateKeyDescription": "現在のAPIキーを無効化し、新しいキーを生成します。古いキーを使用しているアプリケーションは機能しなくなります。",
+    "rotateKeyTitle": "APIキーを再発行しますか？",
+    "statusActive": "アクティブ",
+    "statusPending": "審査待ち",
+    "statusSuspended": "停止中",
+    "submitRequest": "リクエストを送信",
+    "upgradePending": "レート制限の引き上げリクエストは審査待ちです。",
+    "upgradeReasonPlaceholder": "高いレート制限が必要な理由を説明してください...",
+    "upgradeRequested": "引き上げリクエストを送信しました",
+    "usage": "使用状況",
+    "yourReason": "理由"
+  },
+  "ApiDocsPage": {
+    "authStep1Description": "開発者ダッシュボードに移動してアプリを登録してください。アプリケーションを識別するためのアプリキー（arc_k1_...）が発行されます。",
+    "authStep1Title": "アプリを登録する",
+    "authStep2Description": "ユーザーは「設定」>「開発者アクセス」に移動し、共有したいスコープを持つ個人用APIキー（arc_u1_...）を作成します。",
+    "authStep2Title": "ユーザーが個人キーを作成する",
+    "authStep3Description": "X-App-Keyヘッダーにアプリキーを含め、Authorization: Bearerヘッダーにユーザーキーを含めます。",
+    "authStep3Title": "リクエストで両方のキーを送信する",
+    "authenticatedEndpoints": "認証付きエンドポイント（デュアルキー必須）",
+    "authenticatedEndpointsDescription": "これらのエンドポイントはユーザー固有のデータを返し、アプリキーとユーザーキーの両方が必要です。",
+    "authentication": "認証",
+    "authenticationDescription": "ユーザーデータエンドポイントはデュアルキーシステムを使用します。アプリは各リクエストでアプリキーとユーザーキーの両方を送信します。これにより、ユーザーがデータの共有に明示的に同意していることが保証されます。",
+    "baseUrl": "ベースURL",
+    "codeExamples": "コード例",
+    "endpointHideout": "多言語の名前、レベル、要件を含むすべてのハイドアウトモジュール。静的レスポンス、パラメータなし。",
+    "endpointItems": "多言語の名前、説明、効果を含むすべてのアイテム。静的レスポンス、パラメータなし。",
+    "endpointLoadout": "詳細な装備情報を含む、ユーザーの現在のロードアウト。",
+    "endpointProfile": "基本的なユーザープロフィール情報（ユーザー名、レベル、登録日）。",
+    "endpointProjects": "多言語の名前とフェーズを含むすべてのプロジェクト。シーズンによるフィルタリングに対応。",
+    "endpointQuests": "多言語の詳細、目標、報酬を含むすべてのクエスト。静的レスポンス、パラメータなし。",
+    "endpointStash": "詳細なアイテムデータを含むユーザーのインベントリ/スタッシュ。ページネーションをサポート。",
+    "endpointUserHideout": "ユーザーのハイドアウトモジュールのアップグレード進捗。",
+    "endpointUserProjects": "ユーザーのプロジェクトフェーズ完了進捗。",
+    "endpointUserQuests": "ユーザーのクエスト完了進捗（オプションのフィルタリング付き）。",
+    "error401": "APIキーが見つからないか無効です。アプリキーとユーザーキーの両方を確認してください。",
+    "error403": "スコープが不十分か、アプリが停止されています。ユーザーキーに必要なスコープが含まれている必要があります。",
+    "error404": "リソースが見つからないか、このエンドポイントにユーザーのデータがありません。",
+    "error429": "レート制限を超えました。X-RateLimit-Resetヘッダーのリセット時間を待ってください。",
+    "error500": "内部サーバーエラーです。後でもう一度お試しください。",
+    "errorCode": "コード",
+    "errorCodes": "エラーコード",
+    "errorCodesDescription": "すべてのエラーレスポンスは、エラーコードとメッセージを含む標準形式に従います。",
+    "errorDescription": "説明",
+    "errorResponse": "エラーレスポンス",
+    "exampleRequest": "リクエスト例",
+    "gettingStarted": "はじめに",
+    "gettingStartedDescription": "ArcTracker APIは、ARC Raidersのゲームデータへのアクセスを提供します。パブリックエンドポイントは認証を必要としませんが、ユーザーデータエンドポイントはデュアルキー認証システムを使用します。",
+    "gettingStartedStep1": "1. パブリックエンドポイント（アイテム、クエスト、ハイドアウト、プロジェクト）は、認証なしで自由にアクセスできます。",
+    "gettingStartedStep2": "2. ユーザーデータにアクセスするには、開発者ダッシュボードでアプリを登録してアプリキーを取得してください。",
+    "gettingStartedStep3": "3. ユーザーは設定ページで個人用APIキーを作成し、あなたのアプリと共有します。",
+    "headerAppKey": "あなたのアプリのAPIキー（開発者ダッシュボードから取得）",
+    "headerUserKey": "ユーザーの個人用APIキー",
+    "headersTitle": "必須ヘッダー",
+    "paramFilter": "フィルター: completed（完了）、incomplete（未完了）。",
+    "paramLocale": "言語コード（例: en, de, fr）。デフォルトは en。",
+    "paramPage": "ページネーションのページ番号（デフォルト: 1）。",
+    "paramPerPage": "1ページあたりのアイテム数、最大100（デフォルト: 50）。",
+    "paramSeason": "シーズンでフィルタリング: 1、2、またはカンマ区切り（例: 1,2）。",
+    "paramSeasonFilter": "シーズンでフィルタリング: 1, 2。",
+    "paramSort": "ソート順: slot（デフォルト）、name、quantity。",
+    "publicEndpoints": "パブリックエンドポイント（認証不要）",
+    "publicEndpointsDescription": "これらのエンドポイントは静的なゲームデータを返し、認証は必要ありません。レスポンスには、すべてのロケールが多言語オブジェクトとして含まれます（例：name: { en: \"...\", de: \"...\", ... }）。レスポンスはキャッシュされ、高頻度のリクエストに適しています。",
+    "rateLimitHeader": "ウィンドウごとに許可される最大リクエスト数。",
+    "rateLimitRemainingHeader": "現在のウィンドウに残っているリクエスト数。",
+    "rateLimitResetHeader": "レート制限がリセットされるUnixタイムスタンプ。",
+    "rateLimits": "レート制限",
+    "rateLimitsDescription": "各アプリはデフォルトで1時間あたり500リクエストを取得します。レート制限情報はレスポンスヘッダーに含まれています。開発者ダッシュボードから上限の引き上げをリクエストできます。",
+    "responseFormat": "レスポンス形式",
+    "responseFormatDescription": "すべての認証付きエンドポイントは、一貫したJSONエンベロープを返します。",
+    "successResponse": "成功レスポンス",
+    "title": "APIドキュメント"
+  },
+  "BlueprintSync": {
+    "applySync": "同期を適用",
+    "applying": "適用中...",
+    "blueprintsToUpdate": "{count, plural, one {更新する設計図 # 件} other {更新する設計図 # 件}}",
+    "changesDetected": "変更を検出",
+    "description": "連携したアカウントから習得済みの設計図をインポートします",
+    "error": "設計図データの取得に失敗しました",
+    "hideUnchanged": "変更なしを非表示",
+    "learned": "習得済み",
+    "loading": "設計図データを取得中...",
+    "noChanges": "すべて同期済み！",
+    "noChangesDescription": "設計図はすでに最新の状態です。",
+    "notLearned": "未習得",
+    "retry": "再試行",
+    "showUnchanged": "変更なしを表示",
+    "syncSuccess": "設計図の同期が完了しました！",
+    "title": "設計図の同期"
   }
 }

@@ -44,6 +44,12 @@
       "minutes": "dk",
       "seconds": "sn",
       "viewSeasonHistory": "Sezon Geçmişini Görüntüle"
+    },
+    "stashCta": {
+      "button": "Deponu Görüntüle",
+      "description": "Deponu, atölyelerini, görevlerini ve projelerini otomatik olarak eşitlemek için ARC Raiders oyun hesabını bağla. Manuel takibe son.",
+      "title": "ARC Raiders Hesabını Eşitle",
+      "newBadge": "YENİ"
     }
   },
   "Navigation": {
@@ -185,7 +191,10 @@
     "required": "Gerekli",
     "submitItemsValue": "Bu aşamayı tamamlamak için gereken değerde eşya teslim edin.",
     "season1": "Sezon 1",
-    "season2": "Sezon 2"
+    "season2": "Sezon 2",
+    "stashModeActive": "Eşitlenen depo sayıları",
+    "lastSynced": "Eşitlendi",
+    "syncStash": "Depoyu eşitle"
   },
   "HideoutPage": {
     "level": "Seviye",
@@ -197,7 +206,10 @@
     "noItemRequirements": "Sonraki seviye için eşya gereksinimi yok.",
     "otherRequirements": "Diğer Gereksinimler:",
     "prerequisites": "Ön Koşullar:",
-    "detailsUnavailable": "Sonraki seviye için detaylar mevcut değil."
+    "detailsUnavailable": "Sonraki seviye için detaylar mevcut değil.",
+    "stashModeActive": "Eşitlenen depo sayıları",
+    "lastSynced": "Eşitlendi",
+    "syncStash": "Depoyu eşitle"
   },
   "WorkbenchPage": {
     "craftableItems": "Üretilebilir Eşyalar",
@@ -236,7 +248,10 @@
     "zoomIn": "Yakınlaştır",
     "zoomOut": "Uzaklaştır",
     "fitView": "Ekrana Sığdır",
-    "resetZoom": "Yakınlaştırmayı Sıfırla"
+    "resetZoom": "Yakınlaştırmayı Sıfırla",
+    "stashModeActive": "Eşitlenen depo sayıları",
+    "lastSynced": "Eşitlendi",
+    "syncStash": "Depoyu eşitle"
   },
   "Sidebar": {
     "level": "Seviye {level}",
@@ -248,7 +263,8 @@
     "languageSwitcher": "Dil",
     "resources": "Kaynaklar",
     "collapseSidebar": "Kenar çubuğunu daralt",
-    "expandSidebar": "Kenar çubuğunu genişlet"
+    "expandSidebar": "Kenar çubuğunu genişlet",
+    "developers": "Geliştiriciler"
   },
   "SettingsPage": {
     "sectionAccount": "Hesap",
@@ -336,7 +352,23 @@
     "embarkErrorCallbackError": "Bağlantı sırasında bir hata oluştu. Lütfen tekrar deneyin.",
     "embarkErrorGeneric": "Bir hata oluştu. Lütfen tekrar deneyin.",
     "embarkNotLinked": "ARC Raiders hesabınız henüz bağlanmadı.",
-    "embarkGoToStash": "Hesabınızı bağlamak için Depo'ya gidin"
+    "embarkGoToStash": "Hesabınızı bağlamak için Depo'ya gidin",
+    "sectionDeveloperAccess": "Geliştirici Erişimi",
+    "apiKeysTitle": "API Anahtarları",
+    "apiKeysDescription": "Üçüncü taraf uygulamaların verilerinize erişmesine izin vermek için API anahtarları oluşturun.",
+    "apiKeysDocsLink": "API belgelerini görüntüle",
+    "noApiKeys": "Henüz hiç API anahtarı oluşturmadınız.",
+    "createApiKey": "API Anahtarı Oluştur",
+    "createApiKeyTitle": "API Anahtarı Oluştur",
+    "createApiKeyDescription": "Kişisel bir API anahtarı oluşturun. Hangi veri kapsamlarına izin vereceğinizi seçin.",
+    "keyName": "Anahtar Adı",
+    "keyNamePlaceholder": "ör. Uygulama entegrasyonum",
+    "scopes": "Veri Kapsamları",
+    "createKey": "Anahtar Oluştur",
+    "revokeKeyTitle": "API Anahtarı İptal Edilsin mi?",
+    "revokeKeyDescription": "Bu işlem anahtarı kalıcı olarak iptal edecektir. Bu anahtarı kullanan uygulamalar erişimini kaybedecektir.",
+    "revokeKey": "Anahtarı İptal Et",
+    "buildAnApp": "Bir uygulama geliştirmek mi istiyorsunuz?"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Eşyaları ara...",
@@ -523,8 +555,10 @@
       "showDetails": "Detaylı dökümü göster",
       "hideDetails": "Detaylı dökümü gizle",
       "withEvent": "Etkinlik ile",
-      "weeklyTrend": "Haftalık düşme oranı",
-      "dataSourceDesc": "Baskın Geçmişi aracını kullanan oyuncular tarafından kaydedilen baskınlara dayanarak, bu eşyayı her bir harita/etkinlikten çıkarma şansını (%) gösterir."
+      "weeklyTrend": "Zamanla düşme oranı",
+      "dataSourceDesc": "Baskın Geçmişi aracını kullanan oyuncular tarafından kaydedilen baskınlara dayanarak, bu eşyayı her bir harita/etkinlikten çıkarma şansını (%) gösterir.",
+      "tooltipThisWeek": "Bu hafta",
+      "tooltipWeeksAgo": "{count} hafta önce"
     },
     "dropRates": "Düşme Oranları",
     "inRaidCrafting": "Baskın İçi Üretim",
@@ -774,7 +808,9 @@
     "tebexPaymentPortal": "Tebex Ödeme Portalı",
     "backToHome": "Ana Sayfaya Dön",
     "benefitUnlimitedPins": "Sınırsız Özel İğne ve Ganimet Turları",
-    "benefitUnlimitedPinsDesc": "Herhangi bir haritada sınırsız özel harita iğnesi ve ganimet turu rotası oluşturun"
+    "benefitUnlimitedPinsDesc": "Herhangi bir haritada sınırsız özel harita iğnesi ve ganimet turu rotası oluşturun",
+    "benefitAutoSync": "Otomatik Depo Eşitleme",
+    "benefitAutoSyncDesc": "Oyundaki deponu, teçhizatını ve ilerlemeni her 30 dakikada bir otomatik olarak eşitler"
   },
   "Favorites": {
     "addToList": "Listeye Ekle",
@@ -1349,7 +1385,9 @@
       "highlight4": "ARCTracker arayüz katmanı ile çalışır",
       "screenshotDashboardDesc": "Kapsamlı istatistikleri görüntüle, harita/sezona göre filtrele ve zaman içindeki baskın performansını analiz et.",
       "screenshotDashboardTitle": "İş Başında Gör"
-    }
+    },
+    "previous": "Önceki",
+    "next": "Sonraki"
   },
   "RaidSync": {
     "title": "İlerlemeye Uygula",
@@ -1399,7 +1437,8 @@
     "applySuccessRequirements": "{count, plural, one {# gereksinim tamamlandı} other {# gereksinim tamamlandı}}",
     "applySuccessBlueprints": "{count, plural, one {# şema öğrenildi} other {# şema öğrenildi}}",
     "blueprintUnlocks": "{item} kilidini açar",
-    "blueprintsToLearn": "{count, plural, one {# şema} other {# şema}}"
+    "blueprintsToLearn": "{count, plural, one {# şema} other {# şema}}",
+    "cancel": "İptal"
   },
   "season": {
     "wizard": {
@@ -2075,7 +2114,8 @@
     "syncBar": {
       "hideout": "Sığınak",
       "quests": "Görevler",
-      "projects": "Projeler"
+      "projects": "Projeler",
+      "blueprints": "Şemalar"
     },
     "syncInventory": "Envanteri Eşitle",
     "settings": {
@@ -2152,7 +2192,9 @@
       "title": "Atölye yükseltmeleri mevcut!"
     },
     "overwolfLinkInBrowser": "Hesabınızı bağlamak için Chrome veya Firefox üzerinden arctracker.io adresini ziyaret edin.",
-    "overwolfUpdateLinkInBrowser": "Hesap bağlantınızı güncellemek için Chrome veya Firefox üzerinden arctracker.io adresini ziyaret edin."
+    "overwolfUpdateLinkInBrowser": "Hesap bağlantınızı güncellemek için Chrome veya Firefox üzerinden arctracker.io adresini ziyaret edin.",
+    "blueprintSync": "Şema Eşitleme",
+    "blueprintSyncDescription": "Oyun hesabınızdaki öğrenilen şemaları eşitleyin"
   },
   "HideoutSync": {
     "title": "Sığınak İlerlemesini Eşitle",
@@ -2214,5 +2256,142 @@
     "showUnchanged": "Değişmeyenleri göster",
     "syncSuccess": "Proje senkronizasyonu tamamlandı!",
     "title": "Proje İlerlemesini Senkronize Et"
+  },
+  "DevelopersPage": {
+    "appDescription": "Açıklama",
+    "appDescriptionPlaceholder": "Uygulamanız ne işe yarıyor?",
+    "appName": "Uygulama Adı",
+    "appNamePlaceholder": "ARC Raiders Uygulamam",
+    "contactEmail": "İletişim E-postası",
+    "createApp": "Uygulama Oluştur",
+    "dataUsage": "Veri Kullanımı",
+    "dataUsagePlaceholder": "Verileri nasıl kullanacaksınız?",
+    "docs": "API Dokümanları",
+    "emptyDescription": "Bir API anahtarı almak ve geliştirmeye başlamak için ilk uygulamanızı kaydedin.",
+    "emptyTitle": "Henüz Uygulama Yok",
+    "readDocs": "Dokümanları Oku",
+    "registerApp": "Uygulamayı Kaydet",
+    "registerAppDescription": "Bize uygulamanızdan bahsedin. Uygulamalar, saatte 500 istek limitiyle anında etkinleştirilir.",
+    "registerNewApp": "Yeni Uygulama Kaydet",
+    "requestsToday": "bugünkü istekler",
+    "statusActive": "Aktif",
+    "statusPending": "İnceleme Bekliyor",
+    "statusSuspended": "Askıya Alındı",
+    "title": "Geliştirici Uygulamaları",
+    "websiteUrl": "Web Sitesi URL'si (isteğe bağlı)"
+  },
+  "AppDetailPage": {
+    "actions": "İşlemler",
+    "apiKeyPrefix": "API Anahtarı",
+    "appDeleted": "Uygulama silindi",
+    "appInfo": "Uygulama Bilgileri",
+    "cancel": "İptal",
+    "created": "Oluşturuldu",
+    "deleteApp": "Uygulamayı Sil",
+    "deleteAppConfirm": "Uygulamayı Sil",
+    "deleteAppDescription": "Bu işlem, bu uygulamayı kalıcı olarak silecek ve API anahtarını iptal edecektir. Bu işlem geri alınamaz.",
+    "deleteAppTitle": "Uygulama Silinsin mi?",
+    "description": "Açıklama",
+    "keyRotated": "API anahtarı başarıyla yenilendi",
+    "last24h": "Son 24 Saat",
+    "last7d": "Son 7 Gün",
+    "lastUsed": "Son Kullanım",
+    "newApiKey": "Yeni API Anahtarı",
+    "rateLimit": "Hız Sınırı",
+    "requestUpgrade": "Daha Yüksek Hız Sınırı Talep Et",
+    "requestUpgradeDescription": "Mevcut hız sınırınızdan fazlasına mı ihtiyacınız var? Nedenini bize bildirin, talebinizi inceleyelim.",
+    "requestsPerHour": "istek/saat",
+    "rotateKey": "Anahtarı Yenile",
+    "rotateKeyConfirm": "Anahtarı Yenile",
+    "rotateKeyDescription": "Bu işlem mevcut API anahtarınızı geçersiz kılacak ve yeni bir tane oluşturacaktır. Eski anahtarı kullanan uygulamalar çalışmayı durduracaktır.",
+    "rotateKeyTitle": "API Anahtarı Yenilensin mi?",
+    "statusActive": "Aktif",
+    "statusPending": "İnceleme Bekliyor",
+    "statusSuspended": "Askıya Alındı",
+    "submitRequest": "Talebi Gönder",
+    "upgradePending": "Hız sınırı yükseltme talebi inceleme bekliyor.",
+    "upgradeReasonPlaceholder": "Neden daha yüksek bir hız sınırına ihtiyacınız olduğunu açıklayın...",
+    "upgradeRequested": "Yükseltme talebi gönderildi",
+    "usage": "Kullanım",
+    "yourReason": "Gerekçeniz"
+  },
+  "ApiDocsPage": {
+    "authStep1Description": "Geliştirici Paneli'ne gidin ve uygulamanızı kaydedin. Uygulamanızı tanımlayan bir uygulama anahtarı (arc_k1_...) alacaksınız.",
+    "authStep1Title": "Uygulamanızı kaydedin",
+    "authStep2Description": "Kullanıcılar Ayarlar > Geliştirici Erişimi bölümüne giderek paylaşmak istedikleri kapsamları içeren kişisel bir API anahtarı (arc_u1_...) oluşturur.",
+    "authStep2Title": "Kullanıcı kişisel bir anahtar oluşturur",
+    "authStep3Description": "X-App-Key başlığına uygulama anahtarını ve Authorization: Bearer başlığına kullanıcı anahtarını ekleyin.",
+    "authStep3Title": "İsteklerle birlikte her iki anahtarı da gönderin",
+    "authenticatedEndpoints": "Kimlik Doğrulamalı Uç Noktalar (Çift Anahtar Gerekli)",
+    "authenticatedEndpointsDescription": "Bu uç noktalar kullanıcıya özel verileri döndürür ve hem uygulama anahtarı hem de kullanıcı anahtarı gerektirir.",
+    "authentication": "Kimlik Doğrulama",
+    "authenticationDescription": "Kullanıcı verisi uç noktaları çift anahtarlı bir sistem kullanır. Uygulamanız her istekle birlikte hem uygulama anahtarını hem de kullanıcı anahtarını gönderir. Bu, kullanıcıların verilerini paylaşmaya açıkça rıza göstermesini sağlar.",
+    "baseUrl": "Temel URL",
+    "codeExamples": "Kod Örnekleri",
+    "endpointHideout": "Çok dilli isimlere, seviyelere ve gereksinimlere sahip tüm sığınak modülleri. Statik yanıt, parametre yok.",
+    "endpointItems": "Çok dilli isimlere, açıklamalara ve etkilere sahip tüm eşyalar. Statik yanıt, parametre yok.",
+    "endpointLoadout": "Zenginleştirilmiş ekipman detaylarıyla kullanıcının mevcut teçhizatı.",
+    "endpointProfile": "Temel kullanıcı profili bilgileri (kullanıcı adı, seviye, üyelik tarihi).",
+    "endpointProjects": "Çok dilli isimlere ve aşamalara sahip tüm projeler. Sezon filtrelemesini destekler.",
+    "endpointQuests": "Çok dilli ayrıntılara, hedeflere ve ödüllere sahip tüm görevler. Statik yanıt, parametre yok.",
+    "endpointStash": "Zenginleştirilmiş eşya verileriyle kullanıcının envanteri/deposu. Sayfalandırmayı destekler.",
+    "endpointUserHideout": "Kullanıcının sığınak modülü yükseltme ilerlemesi.",
+    "endpointUserProjects": "Kullanıcının proje aşaması tamamlama ilerlemesi.",
+    "endpointUserQuests": "İsteğe bağlı filtrelemeyle kullanıcının görev tamamlama ilerlemesi.",
+    "error401": "Eksik veya geçersiz API anahtarı/anahtarları. Hem uygulama anahtarını hem de kullanıcı anahtarını kontrol edin.",
+    "error403": "Yetersiz kapsam veya uygulama askıya alındı. Kullanıcı anahtarı gerekli kapsamı içermelidir.",
+    "error404": "Kaynak bulunamadı veya kullanıcının bu uç nokta için verisi yok.",
+    "error429": "Hız sınırı aşıldı. X-RateLimit-Reset başlığındaki sıfırlama süresini bekleyin.",
+    "error500": "Dahili sunucu hatası. Lütfen daha sonra tekrar deneyin.",
+    "errorCode": "Kod",
+    "errorCodes": "Hata Kodları",
+    "errorCodesDescription": "Tüm hata yanıtları, bir hata kodu ve mesajı içeren standart bir formatı takip eder.",
+    "errorDescription": "Açıklama",
+    "errorResponse": "Hata Yanıtı",
+    "exampleRequest": "Örnek İstek",
+    "gettingStarted": "Başlarken",
+    "gettingStartedDescription": "ArcTracker API, ARC Raiders oyun verilerine erişim sağlar. Genel uç noktalar kimlik doğrulama gerektirmezken, kullanıcı verisi uç noktaları çift anahtarlı kimlik doğrulama sistemi kullanır.",
+    "gettingStartedStep1": "1. Genel uç noktalar (eşyalar, görevler, sığınak, projeler) kimlik doğrulama olmaksızın serbestçe erişilebilir.",
+    "gettingStartedStep2": "2. Kullanıcı verilerine erişmek için Geliştirici Paneli'nde bir uygulama kaydederek uygulama anahtarı alın.",
+    "gettingStartedStep3": "3. Kullanıcılar, Ayarlar sayfasında kişisel API anahtarlarını oluşturur ve bunları uygulamanızla paylaşır.",
+    "headerAppKey": "Uygulamanızın API anahtarı (Geliştirici Paneli'nden)",
+    "headerUserKey": "Kullanıcının kişisel API anahtarı",
+    "headersTitle": "Gerekli Başlıklar",
+    "paramFilter": "Filtre: completed (tamamlandı), incomplete (tamamlanmadı).",
+    "paramLocale": "Dil kodu (örn. en, de, fr). Varsayılan: en.",
+    "paramPage": "Sayfalandırma için sayfa numarası (varsayılan: 1).",
+    "paramPerPage": "Sayfa başına öğe sayısı, maks 100 (varsayılan: 50).",
+    "paramSeason": "Sezona göre filtrele: 1, 2 veya virgülle ayrılmış (örn. 1,2).",
+    "paramSeasonFilter": "Sezona göre filtrele: 1, 2.",
+    "paramSort": "Sıralama ölçütü: slot (varsayılan), name (isim), quantity (miktar).",
+    "publicEndpoints": "Genel Uç Noktalar (Kimlik Doğrulama Gerekmez)",
+    "publicEndpointsDescription": "Bu uç noktalar statik oyun verilerini döndürür ve kimlik doğrulama gerektirmez. Yanıtlar, tüm yerel ayarları çok dilli nesneler olarak içerir (ör. name: { en: \"...\", de: \"...\", ... }). Yanıtlar önbelleğe alınır ve yüksek frekanslı istekler için uygundur.",
+    "rateLimitHeader": "Pencere başına izin verilen maksimum istek sayısı.",
+    "rateLimitRemainingHeader": "Mevcut pencerede kalan istek sayısı.",
+    "rateLimitResetHeader": "Hız sınırının sıfırlanacağı Unix zaman damgası.",
+    "rateLimits": "Hız Sınırları",
+    "rateLimitsDescription": "Her uygulama varsayılan olarak saatte 500 istek hakkına sahiptir. Hız sınırı bilgisi yanıt başlıklarında yer alır. Geliştirici Paneli'nden daha yüksek bir sınır talep edebilirsiniz.",
+    "responseFormat": "Yanıt Formatı",
+    "responseFormatDescription": "Tüm kimlik doğrulamalı uç noktalar tutarlı bir JSON zarfı döndürür.",
+    "successResponse": "Başarılı Yanıt",
+    "title": "API Dokümantasyonu"
+  },
+  "BlueprintSync": {
+    "applySync": "Eşitlemeyi Uygula",
+    "applying": "Uygulanıyor...",
+    "blueprintsToUpdate": "Güncellenecek {count, plural, one {# şema} other {# şema}}",
+    "changesDetected": "Değişiklikler Algılandı",
+    "description": "Bağlı hesabından öğrenilen şemaları içe aktar",
+    "error": "Şema verileri alınamadı",
+    "hideUnchanged": "Değişmeyenleri gizle",
+    "learned": "Öğrenildi",
+    "loading": "Şema verileri getiriliyor...",
+    "noChanges": "Hepsi eşitlendi!",
+    "noChangesDescription": "Şemalarınız zaten güncel.",
+    "notLearned": "Öğrenilmedi",
+    "retry": "Tekrar Dene",
+    "showUnchanged": "Değişmeyenleri göster",
+    "syncSuccess": "Şema eşitlemesi tamamlandı!",
+    "title": "Şemaları Eşitle"
   }
 }

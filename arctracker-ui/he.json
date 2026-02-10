@@ -44,6 +44,12 @@
       "hours": "שעות",
       "minutes": "דקות",
       "seconds": "שניות"
+    },
+    "stashCta": {
+      "button": "צפה במחסן שלך",
+      "description": "קשר את חשבון ARC Raiders שלך כדי לסנכרן אוטומטית את המחסן, הסדנאות, המשימות והפרויקטים שלך. אין צורך יותר במעקב ידני.",
+      "title": "סנכרן את חשבון ARC Raiders שלך",
+      "newBadge": "חדש"
     }
   },
   "Navigation": {
@@ -185,7 +191,10 @@
     "required": "נדרש",
     "submitItemsValue": "הגש פריטים בשווי הנדרש כדי להשלים שלב זה.",
     "season1": "עונה 1",
-    "season2": "עונה 2"
+    "season2": "עונה 2",
+    "stashModeActive": "כמויות ממחסן מסונכרן",
+    "lastSynced": "סונכרן",
+    "syncStash": "סנכרן מחסן"
   },
   "HideoutPage": {
     "level": "רמה",
@@ -197,7 +206,10 @@
     "noItemRequirements": "אין דרישות פריטים לרמה הבאה.",
     "otherRequirements": "דרישות אחרות:",
     "prerequisites": "דרישות קדם:",
-    "detailsUnavailable": "פרטים לרמה הבאה אינם זמינים."
+    "detailsUnavailable": "פרטים לרמה הבאה אינם זמינים.",
+    "stashModeActive": "כמויות ממחסן מסונכרן",
+    "lastSynced": "סונכרן",
+    "syncStash": "סנכרן מחסן"
   },
   "WorkbenchPage": {
     "craftableItems": "פריטים ליצירה",
@@ -236,7 +248,10 @@
     "zoomIn": "הגדלה",
     "zoomOut": "הקטנה",
     "fitView": "התאם לתצוגה",
-    "resetZoom": "איפוס תצוגה"
+    "resetZoom": "איפוס תצוגה",
+    "stashModeActive": "כמויות ממחסן מסונכרן",
+    "lastSynced": "סונכרן",
+    "syncStash": "סנכרן מחסן"
   },
   "Sidebar": {
     "level": "רמה {level}",
@@ -248,7 +263,8 @@
     "languageSwitcher": "שינוי שפה",
     "resources": "משאבים",
     "collapseSidebar": "כווץ סרגל צד",
-    "expandSidebar": "הרחב סרגל צד"
+    "expandSidebar": "הרחב סרגל צד",
+    "developers": "מפתחים"
   },
   "SettingsPage": {
     "sectionAccount": "חשבון",
@@ -336,7 +352,23 @@
     "embarkErrorCallbackError": "אירעה שגיאה במהלך הקישור. אנא נסה שנית.",
     "embarkErrorGeneric": "אירעה שגיאה. אנא נסה שנית.",
     "embarkNotLinked": "חשבון ה-ARC Raiders שלך עדיין לא מקושר.",
-    "embarkGoToStash": "עבור למצבור כדי לקשר את החשבון שלך"
+    "embarkGoToStash": "עבור למצבור כדי לקשר את החשבון שלך",
+    "sectionDeveloperAccess": "גישה למפתחים",
+    "apiKeysTitle": "מפתחות API",
+    "apiKeysDescription": "צור מפתחות API כדי לאפשר לאפליקציות צד שלישי לגשת לנתונים שלך.",
+    "apiKeysDocsLink": "צפה בתיעוד ה-API",
+    "noApiKeys": "עדיין לא יצרת מפתחות API.",
+    "createApiKey": "צור מפתח API",
+    "createApiKeyTitle": "צור מפתח API",
+    "createApiKeyDescription": "צור מפתח API אישי. בחר אילו היקפי נתונים לאפשר.",
+    "keyName": "שם המפתח",
+    "keyNamePlaceholder": "לדוגמה, האינטגרציה שלי",
+    "scopes": "היקפי נתונים",
+    "createKey": "צור מפתח",
+    "revokeKeyTitle": "לבטל מפתח API?",
+    "revokeKeyDescription": "פעולה זו תבטל את המפתח לצמיתות. כל האפליקציות שמשתמשות בו יאבדו את הגישה.",
+    "revokeKey": "בטל מפתח",
+    "buildAnApp": "רוצה לבנות אפליקציה?"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "חפש פריטים...",
@@ -516,7 +548,7 @@
       "showDetails": "הצג פירוט מלא",
       "hideDetails": "הסתר פירוט מלא",
       "withEvent": "עם אירוע",
-      "weeklyTrend": "שיעור נפילה שבועי",
+      "weeklyTrend": "שיעור נפילה לאורך זמן",
       "reliability": {
         "insufficient": "אין מספיק נתונים",
         "insufficientDesc": "פחות מ-10 פשיטות תועדו",
@@ -526,7 +558,9 @@
         "mediumDesc": "50-199 פשיטות תועדו",
         "high": "מהימנות מצוינת",
         "highDesc": "200+ פשיטות תועדו"
-      }
+      },
+      "tooltipThisWeek": "השבוע",
+      "tooltipWeeksAgo": "לפני {count} שבועות"
     },
     "attachments": "אביזרים"
   },
@@ -774,7 +808,9 @@
     "tebexPaymentPortal": "פורטל תשלומים Tebex",
     "backToHome": "חזרה לדף הבית",
     "benefitUnlimitedPins": "נעיצות פרטיות ומסלולי שלל ללא הגבלה",
-    "benefitUnlimitedPinsDesc": "צרו נעיצות פרטיות ומסלולי שלל ללא הגבלה בכל מפה"
+    "benefitUnlimitedPinsDesc": "צרו נעיצות פרטיות ומסלולי שלל ללא הגבלה בכל מפה",
+    "benefitAutoSync": "סנכרון מחסן אוטומטי",
+    "benefitAutoSyncDesc": "מסנכרן אוטומטית את המחסן, הציוד וההתקדמות שלך מהמשחק כל 30 דקות"
   },
   "Favorites": {
     "addToList": "הוסף לרשימה",
@@ -1349,7 +1385,9 @@
       "featuresTitle": "כל מה שאתה צריך",
       "screenshotDashboardTitle": "ראה זאת בפעולה",
       "screenshotDashboardDesc": "צפה בסטטיסטיקות מקיפות, סנן לפי מפה/עונה, ונתח את ביצועי הפשיטה שלך לאורך זמן."
-    }
+    },
+    "previous": "הקודם",
+    "next": "הבא"
   },
   "RaidSync": {
     "title": "החל על התקדמות",
@@ -1399,7 +1437,8 @@
     "blueprintsToLearn": "{count, plural, one {# שרטוט} other {# שרטוטים}}",
     "applySuccessItems": "{count, plural, one {# פריט נוסף} other {# פריטים נוספו}}",
     "applySuccessRequirements": "{count, plural, one {# דרישה הושלמה} other {# דרישות הושלמו}}",
-    "applySuccessBlueprints": "{count, plural, one {# שרטוט נלמד} other {# שרטוטים נלמדו}}"
+    "applySuccessBlueprints": "{count, plural, one {# שרטוט נלמד} other {# שרטוטים נלמדו}}",
+    "cancel": "ביטול"
   },
   "season": {
     "wizard": {
@@ -2062,7 +2101,8 @@
     "syncBar": {
       "hideout": "מסתור",
       "quests": "משימות",
-      "projects": "פרויקטים"
+      "projects": "פרויקטים",
+      "blueprints": "שרטוטים"
     },
     "syncInventory": "סנכרון מלאי",
     "settings": {
@@ -2139,7 +2179,9 @@
       "title": "שדרוגי סדנה זמינים!"
     },
     "overwolfLinkInBrowser": "כדי לקשר את החשבון, יש לבקר ב-arctracker.io ב-Chrome או ב-Firefox.",
-    "overwolfUpdateLinkInBrowser": "כדי לעדכן את קישור החשבון, יש לבקר ב-arctracker.io ב-Chrome או ב-Firefox."
+    "overwolfUpdateLinkInBrowser": "כדי לעדכן את קישור החשבון, יש לבקר ב-arctracker.io ב-Chrome או ב-Firefox.",
+    "blueprintSync": "סנכרון שרטוטים",
+    "blueprintSyncDescription": "סנכרן שרטוטים שנלמדו מחשבון המשחק שלך"
   },
   "HideoutSync": {
     "title": "סנכרן התקדמות מסתור",
@@ -2201,5 +2243,142 @@
     "showUnchanged": "הצג ללא שינוי",
     "syncSuccess": "סנכרון הפרויקט הושלם!",
     "title": "סנכרון התקדמות פרויקט"
+  },
+  "DevelopersPage": {
+    "appDescription": "תיאור",
+    "appDescriptionPlaceholder": "מה האפליקציה שלך עושה?",
+    "appName": "שם האפליקציה",
+    "appNamePlaceholder": "אפליקציית ARC Raiders שלי",
+    "contactEmail": "אימייל ליצירת קשר",
+    "createApp": "צור אפליקציה",
+    "dataUsage": "שימוש בנתונים",
+    "dataUsagePlaceholder": "כיצד תשתמש/י בנתונים?",
+    "docs": "תיעוד ה-API",
+    "emptyDescription": "רשום את האפליקציה הראשונה שלך כדי לקבל מפתח API ולהתחיל לבנות.",
+    "emptyTitle": "אין אפליקציות עדיין",
+    "readDocs": "קרא תיעוד",
+    "registerApp": "רשום אפליקציה",
+    "registerAppDescription": "ספר לנו על האפליקציה שלך. אפליקציות מופעלות מיידית עם 500 בקשות לשעה.",
+    "registerNewApp": "רשום אפליקציה חדשה",
+    "requestsToday": "בקשות היום",
+    "statusActive": "פעיל",
+    "statusPending": "ממתין לבדיקה",
+    "statusSuspended": "מושהה",
+    "title": "אפליקציות מפתחים",
+    "websiteUrl": "כתובת אתר (אופציונלי)"
+  },
+  "AppDetailPage": {
+    "actions": "פעולות",
+    "apiKeyPrefix": "מפתח API",
+    "appDeleted": "האפליקציה נמחקה",
+    "appInfo": "פרטי האפליקציה",
+    "cancel": "ביטול",
+    "created": "נוצר",
+    "deleteApp": "מחק אפליקציה",
+    "deleteAppConfirm": "מחק אפליקציה",
+    "deleteAppDescription": "פעולה זו תמחק את האפליקציה לצמיתות ותבטל את מפתח ה-API שלה. לא ניתן לבטל פעולה זו.",
+    "deleteAppTitle": "למחוק את האפליקציה?",
+    "description": "תיאור",
+    "keyRotated": "מפתח ה-API הוחלף בהצלחה",
+    "last24h": "24 שעות אחרונות",
+    "last7d": "7 ימים אחרונים",
+    "lastUsed": "שימוש אחרון",
+    "newApiKey": "מפתח API חדש",
+    "rateLimit": "מגבלת קצב",
+    "requestUpgrade": "בקש העלאת מגבלה",
+    "requestUpgradeDescription": "זקוק ליותר ממגבלת הקצב הנוכחית שלך? ספר לנו מדוע ואנו נבדוק את בקשתך.",
+    "requestsPerHour": "בקשות/שעה",
+    "rotateKey": "החלף מפתח",
+    "rotateKeyConfirm": "החלף מפתח",
+    "rotateKeyDescription": "פעולה זו תבטל את מפתח ה-API הנוכחי שלך ותייצר חדש. כל אפליקציה המשתמשת במפתח הישן תפסיק לפעול.",
+    "rotateKeyTitle": "להחליף מפתח API?",
+    "statusActive": "פעיל",
+    "statusPending": "ממתין לבדיקה",
+    "statusSuspended": "מושהה",
+    "submitRequest": "שלח בקשה",
+    "upgradePending": "הבקשה להעלאת מגבלת הקצב ממתינה לבדיקה.",
+    "upgradeReasonPlaceholder": "הסבר מדוע אתה זקוק למגבלת קצב גבוהה יותר...",
+    "upgradeRequested": "בקשת השדרוג נשלחה",
+    "usage": "שימוש",
+    "yourReason": "הסיבה שלך"
+  },
+  "ApiDocsPage": {
+    "authStep1Description": "עבור אל לוח הבקרה למפתחים ורשום את האפליקציה שלך. תקבל מפתח אפליקציה (arc_k1_...) המזהה את היישום שלך.",
+    "authStep1Title": "רשום את האפליקציה שלך",
+    "authStep2Description": "המשתמשים נכנסים להגדרות > גישת מפתחים ויוצרים מפתח API אישי (arc_u1_...) עם ההרשאות שהם רוצים לשתף.",
+    "authStep2Title": "המשתמש יוצר מפתח אישי",
+    "authStep3Description": "כלול את מפתח האפליקציה בכותרת (Header) ‏X-App-Key ואת מפתח המשתמש בכותרת Authorization: Bearer.",
+    "authStep3Title": "שלח את שני המפתחות עם הבקשות",
+    "authenticatedEndpoints": "נקודות קצה מאומתות (דרוש מפתח כפול)",
+    "authenticatedEndpointsDescription": "נקודות קצה אלו מחזירות נתונים ספציפיים למשתמש ודורשות הן מפתח אפליקציה והן מפתח משתמש.",
+    "authentication": "אימות",
+    "authenticationDescription": "נקודות קצה לנתוני משתמש משתמשות במערכת מפתח כפול. האפליקציה שלך שולחת גם מפתח אפליקציה וגם מפתח משתמש בכל בקשה. זה מבטיח שהמשתמשים מסכימים במפורש לשתף את הנתונים שלהם.",
+    "baseUrl": "כתובת בסיס (Base URL)",
+    "codeExamples": "דוגמאות קוד",
+    "endpointHideout": "כל מודולי המסתור עם שמות, רמות ודרישות רב-לשוניים. תשובה סטטית, ללא פרמטרים.",
+    "endpointItems": "כל הפריטים עם שמות, תיאורים והשפעות רב-לשוניים. תשובה סטטית, ללא פרמטרים.",
+    "endpointLoadout": "הציוד הנוכחי של המשתמש עם פרטי ציוד מורחבים.",
+    "endpointProfile": "מידע בסיסי על פרופיל המשתמש (שם משתמש, רמה, חבר מאז).",
+    "endpointProjects": "כל הפרויקטים עם שמות ושלבים רב-לשוניים. תומך בסינון לפי עונה.",
+    "endpointQuests": "כל המשימות עם פרטים, יעדים ותגמולים רב-לשוניים. תשובה סטטית, ללא פרמטרים.",
+    "endpointStash": "המלאי/המאגר של המשתמש עם נתוני פריטים מורחבים. תומך בדפדוף (Pagination).",
+    "endpointUserHideout": "התקדמות שדרוג מודולי המחבוא של המשתמש.",
+    "endpointUserProjects": "התקדמות השלמת שלבי הפרויקט של המשתמש.",
+    "endpointUserQuests": "התקדמות השלמת משימות של המשתמש עם סינון אופציונלי.",
+    "error401": "מפתח(ות) API חסר(ים) או לא תקין(ים). בדוק גם את מפתח האפליקציה וגם את מפתח המשתמש.",
+    "error403": "הרשאות לא מספיקות או אפליקציה מושהית. מפתח המשתמש חייב לכלול את ההרשאה הנדרשת.",
+    "error404": "המשאב לא נמצא או שלמשתמש אין נתונים עבור נקודת קצה זו.",
+    "error429": "חריגה ממגבלת הקצב. המתן לזמן האיפוס המופיע בכותרת X-RateLimit-Reset.",
+    "error500": "שגיאת שרת פנימית. אנא נסה שוב מאוחר יותר.",
+    "errorCode": "קוד",
+    "errorCodes": "קודי שגיאה",
+    "errorCodesDescription": "כל תגובות השגיאה עוקבות אחר פורמט סטנדרטי עם קוד שגיאה והודעה.",
+    "errorDescription": "תיאור",
+    "errorResponse": "תגובת שגיאה",
+    "exampleRequest": "בקשה לדוגמה",
+    "gettingStarted": "תחילת העבודה",
+    "gettingStartedDescription": "ה-API של ARCTracker מספק גישה לנתוני המשחק ARC Raiders. נקודות קצה ציבוריות אינן דורשות אימות, בעוד שנקודות קצה לנתוני משתמש משתמשות במערכת אימות עם מפתח כפול.",
+    "gettingStartedStep1": "1. נקודות קצה ציבוריות (פריטים, משימות, מחבוא, פרויקטים) נגישות באופן חופשי ללא צורך באימות.",
+    "gettingStartedStep2": "2. כדי לגשת לנתוני משתמש, רשום אפליקציה בלוח הבקרה למפתחים כדי לקבל מפתח אפליקציה.",
+    "gettingStartedStep3": "3. המשתמשים יוצרים מפתחות API אישיים בדף ההגדרות שלהם ומשתפים אותם עם האפליקציה שלך.",
+    "headerAppKey": "מפתח ה-API של האפליקציה שלך (מלוח הבקרה למפתחים)",
+    "headerUserKey": "מפתח ה-API האישי של המשתמש",
+    "headersTitle": "כותרות נדרשות",
+    "paramFilter": "סינון: completed (הושלם), incomplete (לא הושלם).",
+    "paramLocale": "קוד שפה (לדוגמה: en, de, fr). ברירת מחדל: en.",
+    "paramPage": "מספר עמוד לדפדוף (ברירת מחדל: 1).",
+    "paramPerPage": "פריטים לעמוד, מקסימום 100 (ברירת מחדל: 50).",
+    "paramSeason": "סינון לפי עונה: 1, 2, או רשימה מופרדת בפסיקים (לדוגמה: 1,2).",
+    "paramSeasonFilter": "סינון לפי עונה: 1, 2.",
+    "paramSort": "מיון לפי: slot (חריץ - ברירת מחדל), name (שם), quantity (כמות).",
+    "publicEndpoints": "נקודות קצה ציבוריות (ללא צורך באימות)",
+    "publicEndpointsDescription": "נקודות קצה אלו מחזירות נתוני משחק סטטיים ואינן דורשות אימות. התשובות כוללות את כל השפות כאובייקטים רב-לשוניים (לדוגמה: name: { en: \"...\", de: \"...\", ... }). התשובות נשמרות במטמון ומתאימות לבקשות בתדירות גבוהה.",
+    "rateLimitHeader": "מספר הבקשות המקסימלי המותר בחלון זמן.",
+    "rateLimitRemainingHeader": "בקשות שנותרו בחלון הזמן הנוכחי.",
+    "rateLimitResetHeader": "חותמת זמן Unix למועד איפוס מגבלת הקצב.",
+    "rateLimits": "מגבלות קצב",
+    "rateLimitsDescription": "כל אפליקציה מקבלת 500 בקשות לשעה כברירת מחדל. מידע על מגבלת הקצב נכלל בכותרות התגובה. ניתן לבקש מגבלה גבוהה יותר מלוח הבקרה למפתחים.",
+    "responseFormat": "פורמט תגובה",
+    "responseFormatDescription": "כל נקודות הקצה המאומתות מחזירות מעטפת JSON אחידה.",
+    "successResponse": "תגובת הצלחה",
+    "title": "תיעוד API"
+  },
+  "BlueprintSync": {
+    "applySync": "החל סנכרון",
+    "applying": "מחיל...",
+    "blueprintsToUpdate": "{count, plural, one {שרטוט #} other {# שרטוטים}} לעדכון",
+    "changesDetected": "זוהו שינויים",
+    "description": "ייבא את השרטוטים שנלמדו מהחשבון המקושר שלך",
+    "error": "נכשל בטעינת נתוני שרטוטים",
+    "hideUnchanged": "הסתר ללא שינוי",
+    "learned": "נלמד",
+    "loading": "טוען נתוני שרטוטים...",
+    "noChanges": "הכל מסונכרן!",
+    "noChangesDescription": "השרטוטים שלך כבר מעודכנים.",
+    "notLearned": "לא נלמד",
+    "retry": "נסה שוב",
+    "showUnchanged": "הצג ללא שינוי",
+    "syncSuccess": "סנכרון שרטוטים הושלם!",
+    "title": "סנכרון שרטוטים"
   }
 }

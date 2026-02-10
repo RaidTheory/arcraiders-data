@@ -44,7 +44,13 @@
     "viewAllPatchContent": "查看全部",
     "lfgTitle": "正在尋找隊友？",
     "lfgDescription": "我們已與 ARC Raiders LFG Discord 合作——這是為您尋找奇襲者隊友的最佳去處。加入超過 70,000 名正在組隊的奇襲者！",
-    "joinLfgDiscord": "加入 LFG Discord"
+    "joinLfgDiscord": "加入 LFG Discord",
+    "stashCta": {
+      "button": "查看您的倉庫",
+      "description": "連結您的 ARC Raiders 遊戲帳號以自動同步您的倉庫、工坊、任務和專案。不再需要手動追蹤。",
+      "title": "同步您的 ARC Raiders 帳號",
+      "newBadge": "新"
+    }
   },
   "Navigation": {
     "home": "首頁",
@@ -192,7 +198,10 @@
     "required": "需要",
     "submitItemsValue": "提交所需價值的物品以完成此階段。",
     "season1": "第 1 賽季",
-    "season2": "第 2 賽季"
+    "season2": "第 2 賽季",
+    "stashModeActive": "來自已同步倉庫的計數",
+    "lastSynced": "已同步",
+    "syncStash": "同步倉庫"
   },
   "HideoutPage": {
     "level": "等級",
@@ -204,7 +213,10 @@
     "noItemRequirements": "下一級無物品需求。",
     "otherRequirements": "其他需求：",
     "prerequisites": "前置條件：",
-    "detailsUnavailable": "下一級詳情暫不可用。"
+    "detailsUnavailable": "下一級詳情暫不可用。",
+    "stashModeActive": "來自已同步倉庫的計數",
+    "lastSynced": "已同步",
+    "syncStash": "同步倉庫"
   },
   "WorkbenchPage": {
     "craftableItems": "可製作物品",
@@ -243,7 +255,10 @@
     "zoomIn": "放大",
     "zoomOut": "縮小",
     "fitView": "適應視圖",
-    "resetZoom": "重置縮放"
+    "resetZoom": "重置縮放",
+    "stashModeActive": "來自已同步倉庫的計數",
+    "lastSynced": "已同步",
+    "syncStash": "同步倉庫"
   },
   "Sidebar": {
     "level": "等級 {level}",
@@ -255,7 +270,8 @@
     "languageSwitcher": "語言",
     "resources": "資源",
     "collapseSidebar": "折疊側邊欄",
-    "expandSidebar": "展開側邊欄"
+    "expandSidebar": "展開側邊欄",
+    "developers": "開發者"
   },
   "SettingsPage": {
     "sectionAccount": "賬戶",
@@ -343,7 +359,23 @@
     "embarkErrorCallbackError": "綁定過程中發生錯誤。請重試。",
     "embarkErrorGeneric": "發生錯誤。請重試。",
     "embarkNotLinked": "您的 ARC Raiders 賬號尚未關聯。",
-    "embarkGoToStash": "前往倉庫頁面綁定您的賬號"
+    "embarkGoToStash": "前往倉庫頁面綁定您的賬號",
+    "sectionDeveloperAccess": "開發者存取",
+    "apiKeysTitle": "API 金鑰",
+    "apiKeysDescription": "建立 API 金鑰，允許第三方應用程式存取您的資料。",
+    "apiKeysDocsLink": "查看 API 文件",
+    "noApiKeys": "您尚未建立任何 API 金鑰。",
+    "createApiKey": "建立 API 金鑰",
+    "createApiKeyTitle": "建立 API 金鑰",
+    "createApiKeyDescription": "建立個人 API 金鑰。請選擇允許的資料範圍。",
+    "keyName": "金鑰名稱",
+    "keyNamePlaceholder": "例如：我的應用程式整合",
+    "scopes": "資料範圍",
+    "createKey": "建立金鑰",
+    "revokeKeyTitle": "撤銷 API 金鑰？",
+    "revokeKeyDescription": "這將永久撤銷此金鑰。任何使用它的應用程式都將失去存取權限。",
+    "revokeKey": "撤銷金鑰",
+    "buildAnApp": "想要開發應用程式？"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "搜索物品...",
@@ -524,7 +556,7 @@
       "showDetails": "顯示詳細明細",
       "hideDetails": "隱藏詳細明細",
       "withEvent": "含事件",
-      "weeklyTrend": "每周掉落率",
+      "weeklyTrend": "掉落率趨勢",
       "reliability": {
         "insufficient": "數據不足",
         "insufficientDesc": "少於 10 次追蹤對局",
@@ -534,7 +566,9 @@
         "mediumDesc": "50-199 次追蹤對局",
         "high": "可靠性極佳",
         "highDesc": "200+ 次追蹤對局"
-      }
+      },
+      "tooltipThisWeek": "本週",
+      "tooltipWeeksAgo": "{count} 週前"
     }
   },
   "ItemsListPage": {
@@ -773,11 +807,11 @@
   },
   "PrivatePinIcons": {
     "categories": {
-        "loot": "戰利品 & 物品",
-        "danger": "危險 & 警示",
-        "navigation": "導航",
-        "utility": "興趣點",
-        "custom": "自定義"
+      "loot": "戰利品 & 物品",
+      "danger": "危險 & 警示",
+      "navigation": "導航",
+      "utility": "興趣點",
+      "custom": "自定義"
     },
     "icons": {
       "valuable": "貴重物品",
@@ -972,7 +1006,9 @@
     "manageSubscriptionDesc": "您可以通過「設置」頁面或 Tebex 支付門戶查看您的訂閱詳情並管理您的賬單。",
     "goToSettings": "前往設置",
     "tebexPaymentPortal": "Tebex 支付門戶",
-    "backToHome": "返回首頁"
+    "backToHome": "返回首頁",
+    "benefitAutoSync": "倉庫自動同步",
+    "benefitAutoSyncDesc": "每 30 分鐘自動從遊戲中同步您的倉庫、配裝和進度"
   },
   "Favorites": {
     "addToList": "添加到列表",
@@ -1612,7 +1648,9 @@
       "featuresTitle": "您所需的一切",
       "screenshotDashboardTitle": "實際效果展示",
       "screenshotDashboardDesc": "查看綜合統計數據，按地圖/賽季篩選，並分析您隨時間變化的對局表現。"
-    }
+    },
+    "previous": "上一頁",
+    "next": "下一頁"
   },
   "RaidSync": {
     "title": "應用到進度",
@@ -1662,7 +1700,8 @@
       "step2Description": "如果一件物品被多個事物需要，拖動以重新排序哪個需求首先被滿足。較高的項目在較低的項目之前接收物品。",
       "step3Title": "您可以隨時撤銷",
       "step3Description": "弄錯了？別擔心！您可以隨時使用「撤銷」按鈕從對局卡片撤銷已應用的進度。"
-    }
+    },
+    "cancel": "取消"
   },
   "SeasonHistoryPage": {
     "title": "賽季歷史",
@@ -1825,11 +1864,11 @@
       "never": "永不過期"
     },
     "uses": {
-      "unlimited": "無限製",
       "1": "1 次",
       "5": "5 次",
       "10": "10 次",
-      "25": "25 次"
+      "25": "25 次",
+      "unlimited": "無限製"
     },
     "leftSquad": "您已離開該小隊",
     "leaveError": "離開小隊失敗",
@@ -2004,8 +2043,8 @@
     "consentReadOnly": "我們僅讀取您的 ARC Raiders 遊戲數據。我們絕不會修改您的遊戲賬號。",
     "consentContinue": "繼續",
     "consentCountdown": "{seconds} 秒後繼續",
-    "overwolfLinkInBrowser": "如需綁定您的賬號，請使用 Chrome 或 Firefox 瀏覽器訪問 arctracker.io。",
-    "overwolfUpdateLinkInBrowser": "如需更新您的賬號綁定，請使用 Chrome 或 Firefox 瀏覽器訪問 arctracker.io。",
+    "overwolfLinkInBrowser": "若要連結您的帳戶，請使用 Chrome 或 Firefox 訪問 arctracker.io。",
+    "overwolfUpdateLinkInBrowser": "若要更新您的帳戶連結，請使用 Chrome 或 Firefox 訪問 arctracker.io。",
     "currencies": {
       "credits": "信用點",
       "cred": "錢幣",
@@ -2065,7 +2104,8 @@
     "syncBar": {
       "hideout": "藏身處",
       "quests": "任務",
-      "projects": "計劃"
+      "projects": "計劃",
+      "blueprints": "藍圖"
     },
     "settings": {
       "stashSourceOfTruth": "自動追蹤所需物品",
@@ -2116,34 +2156,26 @@
       "safeToRecycle": "可安全回收"
     },
     "workshopUpgrades": {
-      "title": "工作臺升級可用！",
-      "description": "你有足夠的資源進行升級："
+      "description": "您擁有足夠的資源來升級：",
+      "title": "可進行工坊升級！"
     },
     "autoSync": {
       "title": "自動同步",
       "subscriberOnly": "每30分鐘自動同步您的倉庫、裝備配置和進度。僅限訂閱者使用。",
-      "subscriberRequired": "使用自動同步功能需要有效的訂閱",
-      "tokenExpiredError": "連接已過期。請先刷新您的連接。",
+      "subscriberRequired": "需要有效的訂閱才能使用自動同步",
+      "tokenExpiredError": "連線已過期。請先重新整理您的連線。",
       "enabled": "自動同步已啟用",
       "disabled": "自動同步已禁用",
-      "toggleError": "更新自動同步設置失敗",
+      "toggleError": "無法更新自動同步設定",
       "nextSyncIn": "下次同步：{minutes, plural, one {# 分鐘後} other {# 分鐘後}}",
-      "syncingSoon": "即將同步...",
+      "syncingSoon": "即將進行同步...",
       "pausedErrors": "已暫停：同步錯誤",
       "retry": "重試",
-      "subscriberRequired": "需要有效的訂閱才能使用自動同步",
-      "syncingSoon": "即將進行同步...",
-      "title": "自動同步",
-      "toggleError": "無法更新自動同步設定",
-      "tokenExpiredError": "連線已過期。請先重新整理您的連線。",
-      "syncing": "同步中..."
+      "syncing": "同步中...",
+      "authError": "失去連線"
     },
-    "workshopUpgrades": {
-      "description": "您擁有足夠的資源來升級：",
-      "title": "可進行工坊升級！"
-    },
-    "overwolfLinkInBrowser": "若要連結您的帳戶，請使用 Chrome 或 Firefox 訪問 arctracker.io。",
-    "overwolfUpdateLinkInBrowser": "若要更新您的帳戶連結，請使用 Chrome 或 Firefox 訪問 arctracker.io。"
+    "blueprintSync": "藍圖同步",
+    "blueprintSyncDescription": "同步您遊戲帳號中已學習的藍圖"
   },
   "HideoutSync": {
     "title": "同步藏身處進度",
@@ -2203,5 +2235,142 @@
     "applying": "正在應用...",
     "syncSuccess": "計劃同步完成！",
     "phaseWillComplete": "階段將被標記為完成"
+  },
+  "DevelopersPage": {
+    "appDescription": "描述",
+    "appDescriptionPlaceholder": "您的應用程式有什麼功能？",
+    "appName": "應用程式名稱",
+    "appNamePlaceholder": "我的 ARC Raiders 應用程式",
+    "contactEmail": "聯絡電子郵件",
+    "createApp": "建立應用程式",
+    "dataUsage": "資料用途",
+    "dataUsagePlaceholder": "您將如何使用這些資料？",
+    "docs": "API 文件",
+    "emptyDescription": "註冊您的第一個應用程式以獲取 API 金鑰並開始構建。",
+    "emptyTitle": "尚無應用程式",
+    "readDocs": "閱讀文件",
+    "registerApp": "註冊應用程式",
+    "registerAppDescription": "告訴我們關於您的應用程式。應用程式會立即啟用，每小時有 500 次請求額度。",
+    "registerNewApp": "註冊新應用程式",
+    "requestsToday": "今日請求數",
+    "statusActive": "啟用",
+    "statusPending": "待審核",
+    "statusSuspended": "已停用",
+    "title": "開發者應用程式",
+    "websiteUrl": "網站網址（選填）"
+  },
+  "AppDetailPage": {
+    "actions": "操作",
+    "apiKeyPrefix": "API 金鑰",
+    "appDeleted": "應用程式已刪除",
+    "appInfo": "應用程式資訊",
+    "cancel": "取消",
+    "created": "建立時間",
+    "deleteApp": "刪除應用程式",
+    "deleteAppConfirm": "刪除應用程式",
+    "deleteAppDescription": "這將永久刪除此應用程式並撤銷其 API 金鑰。此動作無法復原。",
+    "deleteAppTitle": "刪除應用程式？",
+    "description": "描述",
+    "keyRotated": "API 金鑰更換成功",
+    "last24h": "過去 24 小時",
+    "last7d": "過去 7 天",
+    "lastUsed": "最後使用時間",
+    "newApiKey": "新 API 金鑰",
+    "rateLimit": "速率限制",
+    "requestUpgrade": "申請提高速率限制",
+    "requestUpgradeDescription": "需要比目前更高的速率限制嗎？告訴我們原因，我們將審核您的請求。",
+    "requestsPerHour": "請求/小時",
+    "rotateKey": "更換金鑰",
+    "rotateKeyConfirm": "更換金鑰",
+    "rotateKeyDescription": "這將使您目前的 API 金鑰失效並產生一個新的金鑰。任何使用舊金鑰的應用程式將停止運作。",
+    "rotateKeyTitle": "更換 API 金鑰？",
+    "statusActive": "啟用",
+    "statusPending": "待審核",
+    "statusSuspended": "已停用",
+    "submitRequest": "提交申請",
+    "upgradePending": "速率限制提升申請正在待審核。",
+    "upgradeReasonPlaceholder": "請說明您為何需要更高的速率限制...",
+    "upgradeRequested": "升級申請已提交",
+    "usage": "使用量",
+    "yourReason": "您的理由"
+  },
+  "ApiDocsPage": {
+    "authStep1Description": "前往開發者儀表板並註冊您的應用程式。您將收到一個用於識別您應用程式的應用程式金鑰 (arc_k1_...)。",
+    "authStep1Title": "註冊您的應用程式",
+    "authStep2Description": "使用者前往「設定」>「開發者存取權」建立個人 API 金鑰 (arc_u1_...)，並設定他們想要分享的權限範圍。",
+    "authStep2Title": "使用者建立個人金鑰",
+    "authStep3Description": "在請求中包含 X-App-Key 標頭（應用程式金鑰）以及 Authorization: Bearer 標頭（使用者金鑰）。",
+    "authStep3Title": "在請求中同時發送兩個金鑰",
+    "authenticatedEndpoints": "需要驗證的端點 (需雙重金鑰)",
+    "authenticatedEndpointsDescription": "這些端點會回傳使用者特定的資料，並且需要應用程式金鑰和使用者金鑰。",
+    "authentication": "驗證",
+    "authenticationDescription": "使用者資料端點使用雙重金鑰系統。您的應用程式在每次請求時都必須同時發送應用程式金鑰和使用者金鑰。這確保使用者明確同意分享他們的資料。",
+    "baseUrl": "基礎 URL (Base URL)",
+    "codeExamples": "程式碼範例",
+    "endpointHideout": "所有藏身處模組及其多語言名稱、等級和需求。靜態回應，無參數。",
+    "endpointItems": "所有物品及其多語言名稱、描述和效果。靜態回應，無參數。",
+    "endpointLoadout": "使用者目前的裝備配置與詳細裝備資訊。",
+    "endpointProfile": "基本使用者個人檔案資訊 (使用者名稱、等級、加入時間)。",
+    "endpointProjects": "所有計畫及其多語言名稱和階段。支援賽季篩選。",
+    "endpointQuests": "所有任務及其多語言詳情、目標和獎勵。靜態回應，無參數。",
+    "endpointStash": "使用者的庫存/倉庫以及詳細物品資料。支援分頁。",
+    "endpointUserHideout": "使用者的藏身處模組升級進度。",
+    "endpointUserProjects": "使用者的專案階段完成進度。",
+    "endpointUserQuests": "使用者的任務完成進度，可選擇性篩選。",
+    "error401": "缺少或無效的 API 金鑰。請檢查應用程式金鑰和使用者金鑰。",
+    "error403": "權限範圍不足或應用程式已停用。使用者金鑰必須包含所需的權限範圍。",
+    "error404": "找不到資源或使用者在此端點沒有資料。",
+    "error429": "超出速率限制。請等待 X-RateLimit-Reset 標頭中的重置時間。",
+    "error500": "內部伺服器錯誤。請稍後再試。",
+    "errorCode": "代碼",
+    "errorCodes": "錯誤代碼",
+    "errorCodesDescription": "所有錯誤回應都遵循包含錯誤代碼和訊息的標準格式。",
+    "errorDescription": "描述",
+    "errorResponse": "錯誤回應",
+    "exampleRequest": "請求範例",
+    "gettingStarted": "入門指南",
+    "gettingStartedDescription": "ArcTracker API 提供存取 ARC Raiders 遊戲資料的功能。公開端點無需驗證，而使用者資料端點則使用雙重金鑰驗證系統。",
+    "gettingStartedStep1": "1. 公開端點 (物品、任務、藏身處、專案) 無需驗證即可自由存取。",
+    "gettingStartedStep2": "2. 若要存取使用者資料，請在開發者儀表板註冊應用程式以獲取應用程式金鑰。",
+    "gettingStartedStep3": "3. 使用者在其設定頁面建立個人 API 金鑰並與您的應用程式分享。",
+    "headerAppKey": "您的應用程式 API 金鑰 (來自開發者儀表板)",
+    "headerUserKey": "使用者的個人 API 金鑰",
+    "headersTitle": "必要標頭",
+    "paramFilter": "篩選：completed (已完成)、incomplete (未完成)。",
+    "paramLocale": "語言代碼 (例如：en, de, fr)。預設為 en。",
+    "paramPage": "分頁頁碼 (預設：1)。",
+    "paramPerPage": "每頁項目數，最大 100 (預設：50)。",
+    "paramSeason": "依賽季篩選：1, 2 或以逗號分隔 (例如：1,2)。",
+    "paramSeasonFilter": "依賽季篩選：1, 2。",
+    "paramSort": "排序方式：slot (欄位，預設)、name (名稱)、quantity (數量)。",
+    "publicEndpoints": "公開端點 (無需驗證)",
+    "publicEndpointsDescription": "這些端點回傳靜態遊戲數據，無需身份驗證。回應包含所有語系的多語言物件（例如：name: { en: \"...\", de: \"...\", ... }）。回應已經過快取處理，適合高頻率請求。",
+    "rateLimitHeader": "每個視窗允許的最大請求數。",
+    "rateLimitRemainingHeader": "目前視窗剩餘的請求數。",
+    "rateLimitResetHeader": "速率限制重置的 Unix 時間戳。",
+    "rateLimits": "速率限制",
+    "rateLimitsDescription": "每個應用程式預設每小時有 500 次請求額度。速率限制資訊包含在回應標頭中。您可以從開發者儀表板申請更高的額度。",
+    "responseFormat": "回應格式",
+    "responseFormatDescription": "所有經過驗證的端點都回傳一致的 JSON 封裝。",
+    "successResponse": "成功回應",
+    "title": "API 文件"
+  },
+  "BlueprintSync": {
+    "applySync": "套用同步",
+    "applying": "正在套用...",
+    "blueprintsToUpdate": "{count, plural, one {# 個藍圖} other {# 個藍圖}}待更新",
+    "changesDetected": "偵測到變更",
+    "description": "從您連結的帳號匯入已學習的藍圖",
+    "error": "無法取得藍圖資料",
+    "hideUnchanged": "隱藏未變更",
+    "learned": "已學習",
+    "loading": "正在取得藍圖資料...",
+    "noChanges": "已全部同步！",
+    "noChangesDescription": "您的藍圖已是最新狀態。",
+    "notLearned": "未學習",
+    "retry": "重試",
+    "showUnchanged": "顯示未變更",
+    "syncSuccess": "藍圖同步完成！",
+    "title": "同步藍圖"
   }
 }

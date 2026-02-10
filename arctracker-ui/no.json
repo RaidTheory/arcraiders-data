@@ -44,6 +44,12 @@
       "minutes": "min",
       "seconds": "sek",
       "viewSeasonHistory": "Vis sesonghistorikk"
+    },
+    "stashCta": {
+      "button": "Vis lageret ditt",
+      "description": "Koble til ARC Raiders-spillkontoen din for å automatisk synkronisere lager, verksteder, oppdrag og prosjekter. Slipp manuell sporing.",
+      "title": "Synkroniser ARC Raiders-kontoen din",
+      "newBadge": "NY"
     }
   },
   "Navigation": {
@@ -185,7 +191,10 @@
     "required": "Påkrevd",
     "submitItemsValue": "Lever gjenstander tilsvarende den påkrevde verdien for å fullføre denne fasen.",
     "season1": "Sesong 1",
-    "season2": "Sesong 2"
+    "season2": "Sesong 2",
+    "stashModeActive": "Antall fra synkronisert lager",
+    "lastSynced": "Synkronisert",
+    "syncStash": "Synkroniser lager"
   },
   "HideoutPage": {
     "level": "Nivå",
@@ -197,7 +206,10 @@
     "noItemRequirements": "Ingen gjenstandskrav for neste nivå.",
     "otherRequirements": "Andre krav:",
     "prerequisites": "Forutsetninger:",
-    "detailsUnavailable": "Detaljer for neste nivå er utilgjengelige."
+    "detailsUnavailable": "Detaljer for neste nivå er utilgjengelige.",
+    "stashModeActive": "Antall fra synkronisert lager",
+    "lastSynced": "Synkronisert",
+    "syncStash": "Synkroniser lager"
   },
   "WorkbenchPage": {
     "craftableItems": "Gjenstander som kan lages",
@@ -236,7 +248,10 @@
     "zoomIn": "Zoom inn",
     "zoomOut": "Zoom ut",
     "fitView": "Tilpass visning",
-    "resetZoom": "Nullstill zoom"
+    "resetZoom": "Nullstill zoom",
+    "stashModeActive": "Antall fra synkronisert lager",
+    "lastSynced": "Synkronisert",
+    "syncStash": "Synkroniser lager"
   },
   "Sidebar": {
     "level": "Nivå {level}",
@@ -248,7 +263,8 @@
     "languageSwitcher": "Språk",
     "resources": "Ressurser",
     "collapseSidebar": "Fell sammen sidemeny",
-    "expandSidebar": "Utvid sidemeny"
+    "expandSidebar": "Utvid sidemeny",
+    "developers": "Utviklere"
   },
   "SettingsPage": {
     "sectionAccount": "Konto",
@@ -336,7 +352,23 @@
     "embarkErrorCallbackError": "Det oppstod en feil under tilkoblingen. Vennligst prøv igjen.",
     "embarkErrorGeneric": "Det oppstod en feil. Vennligst prøv igjen.",
     "embarkNotLinked": "Din ARC Raiders-konto er ikke tilknyttet ennå.",
-    "embarkGoToStash": "Gå til Lager for å koble til kontoen din"
+    "embarkGoToStash": "Gå til Lager for å koble til kontoen din",
+    "sectionDeveloperAccess": "Utviklertilgang",
+    "apiKeysTitle": "API-nøkler",
+    "apiKeysDescription": "Opprett API-nøkler for å la tredjepartsapper få tilgang til dataene dine.",
+    "apiKeysDocsLink": "Se API-dokumentasjon",
+    "noApiKeys": "Du har ikke opprettet noen API-nøkler ennå.",
+    "createApiKey": "Opprett API-nøkkel",
+    "createApiKeyTitle": "Opprett API-nøkkel",
+    "createApiKeyDescription": "Opprett en personlig API-nøkkel. Velg hvilke dataomfang som skal tillates.",
+    "keyName": "Nøkkelnavn",
+    "keyNamePlaceholder": "f.eks. Min app-integrasjon",
+    "scopes": "Dataomfang",
+    "createKey": "Opprett nøkkel",
+    "revokeKeyTitle": "Tilbakekalle API-nøkkel?",
+    "revokeKeyDescription": "Dette vil tilbakekalle denne nøkkelen permanent. Alle apper som bruker den vil miste tilgangen.",
+    "revokeKey": "Tilbakekall nøkkel",
+    "buildAnApp": "Vil du utvikle en app?"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Søk etter gjenstander...",
@@ -523,8 +555,10 @@
       "showDetails": "Vis detaljert oversikt",
       "hideDetails": "Skjul detaljert oversikt",
       "withEvent": "Med event",
-      "weeklyTrend": "Ukentlig dropprate",
-      "dataSourceDesc": "Viser %-sjansen for å trekke ut med denne gjenstanden fra hvert kart/hendelse, basert på raid loggført av spillere som bruker Raid History-verktøyet."
+      "weeklyTrend": "Dropprate over tid",
+      "dataSourceDesc": "Viser %-sjansen for å trekke ut med denne gjenstanden fra hvert kart/hendelse, basert på raid loggført av spillere som bruker Raid History-verktøyet.",
+      "tooltipThisWeek": "Denne uken",
+      "tooltipWeeksAgo": "{count} uker siden"
     },
     "dropRates": "Dropprater",
     "inRaidCrafting": "Laging i raid",
@@ -774,7 +808,9 @@
     "tebexPaymentPortal": "Tebex Betalingsportal",
     "backToHome": "Tilbake til hjem",
     "benefitUnlimitedPins": "Ubegrenset antall private markører og plyndreruter",
-    "benefitUnlimitedPinsDesc": "Opprett ubegrenset antall private kartmarkører og plyndreruter på alle kart"
+    "benefitUnlimitedPinsDesc": "Opprett ubegrenset antall private kartmarkører og plyndreruter på alle kart",
+    "benefitAutoSync": "Automatisk lagersynkronisering",
+    "benefitAutoSyncDesc": "Synkroniserer automatisk lageret, utrustningen og fremdriften din fra spillet hvert 30. minutt"
   },
   "Favorites": {
     "addToList": "Legg til i liste",
@@ -1349,7 +1385,9 @@
       "highlight4": "Fungerer med ARCTracker-overlayet",
       "screenshotDashboardDesc": "Se omfattende statistikk, filtrer etter kart/sesong, og analyser raid-prestasjonene dine over tid.",
       "screenshotDashboardTitle": "Se det i aksjon"
-    }
+    },
+    "previous": "Forrige",
+    "next": "Neste"
   },
   "RaidSync": {
     "title": "Bruk på fremdrift",
@@ -1399,7 +1437,8 @@
     "applySuccessRequirements": "{count, plural, one {# krav fullført} other {# krav fullført}}",
     "applySuccessBlueprints": "{count, plural, one {# arbeidstegning lært} other {# arbeidstegninger lært}}",
     "blueprintUnlocks": "Låser opp {item}",
-    "blueprintsToLearn": "{count, plural, one {# tegning} other {# tegninger}}"
+    "blueprintsToLearn": "{count, plural, one {# tegning} other {# tegninger}}",
+    "cancel": "Avbryt"
   },
   "season": {
     "wizard": {
@@ -2075,7 +2114,8 @@
     "syncBar": {
       "hideout": "Skjulested",
       "quests": "Oppdrag",
-      "projects": "Prosjekter"
+      "projects": "Prosjekter",
+      "blueprints": "Tegninger"
     },
     "syncInventory": "Synkroniser inventar",
     "settings": {
@@ -2152,7 +2192,9 @@
       "title": "Verkstedoppgraderinger tilgjengelige!"
     },
     "overwolfLinkInBrowser": "For å koble til kontoen din, besøk arctracker.io i Chrome eller Firefox.",
-    "overwolfUpdateLinkInBrowser": "For å oppdatere kontokoblingen din, besøk arctracker.io i Chrome eller Firefox."
+    "overwolfUpdateLinkInBrowser": "For å oppdatere kontokoblingen din, besøk arctracker.io i Chrome eller Firefox.",
+    "blueprintSync": "Synkronisering av tegninger",
+    "blueprintSyncDescription": "Synkroniser lærte tegninger fra spillkontoen din"
   },
   "HideoutSync": {
     "title": "Synkroniser fremgang i skjulested",
@@ -2214,5 +2256,142 @@
     "showUnchanged": "Vis uendrede",
     "syncSuccess": "Prosjektsynkronisering fullført!",
     "title": "Synkroniser prosjektfremgang"
+  },
+  "DevelopersPage": {
+    "appDescription": "Beskrivelse",
+    "appDescriptionPlaceholder": "Hva gjør appen din?",
+    "appName": "Appnavn",
+    "appNamePlaceholder": "Min ARC Raiders-app",
+    "contactEmail": "Kontakt-e-post",
+    "createApp": "Opprett app",
+    "dataUsage": "Databruk",
+    "dataUsagePlaceholder": "Hvordan vil du bruke dataene?",
+    "docs": "API-dokumentasjon",
+    "emptyDescription": "Registrer din første app for å få en API-nøkkel og komme i gang.",
+    "emptyTitle": "Ingen apper ennå",
+    "readDocs": "Les dokumentasjonen",
+    "registerApp": "Registrer app",
+    "registerAppDescription": "Fortell oss om applikasjonen din. Apper aktiveres umiddelbart med 500 forespørsler/time.",
+    "registerNewApp": "Registrer ny app",
+    "requestsToday": "foresp. i dag",
+    "statusActive": "Aktiv",
+    "statusPending": "Venter på godkjenning",
+    "statusSuspended": "Suspendert",
+    "title": "Utviklerapper",
+    "websiteUrl": "Nettsteds-URL (valgfritt)"
+  },
+  "AppDetailPage": {
+    "actions": "Handlinger",
+    "apiKeyPrefix": "API-nøkkel",
+    "appDeleted": "Applikasjon slettet",
+    "appInfo": "App-informasjon",
+    "cancel": "Avbryt",
+    "created": "Opprettet",
+    "deleteApp": "Slett app",
+    "deleteAppConfirm": "Slett app",
+    "deleteAppDescription": "Dette vil slette applikasjonen permanent og tilbakekalle API-nøkkelen. Denne handlingen kan ikke angres.",
+    "deleteAppTitle": "Slette applikasjon?",
+    "description": "Beskrivelse",
+    "keyRotated": "API-nøkkelen ble rotert",
+    "last24h": "Siste 24 timer",
+    "last7d": "Siste 7 dager",
+    "lastUsed": "Sist brukt",
+    "newApiKey": "Ny API-nøkkel",
+    "rateLimit": "Ratebegrensning",
+    "requestUpgrade": "Be om høyere ratebegrensning",
+    "requestUpgradeDescription": "Trenger du mer enn din nåværende ratebegrensning? Fortell oss hvorfor, så vurderer vi forespørselen din.",
+    "requestsPerHour": "forespørsler/time",
+    "rotateKey": "Roter nøkkel",
+    "rotateKeyConfirm": "Roter nøkkel",
+    "rotateKeyDescription": "Dette vil ugyldiggjøre din nåværende API-nøkkel og generere en ny. Alle applikasjoner som bruker den gamle nøkkelen vil slutte å fungere.",
+    "rotateKeyTitle": "Rotere API-nøkkel?",
+    "statusActive": "Aktiv",
+    "statusPending": "Venter på godkjenning",
+    "statusSuspended": "Suspendert",
+    "submitRequest": "Send forespørsel",
+    "upgradePending": "Forespørsel om oppgradering av ratebegrensning venter på godkjenning.",
+    "upgradeReasonPlaceholder": "Forklar hvorfor du trenger en høyere ratebegrensning...",
+    "upgradeRequested": "Oppgraderingsforespørsel sendt",
+    "usage": "Bruk",
+    "yourReason": "Din begrunnelse"
+  },
+  "ApiDocsPage": {
+    "authStep1Description": "Gå til utviklerdashbordet og registrer appen din. Du vil motta en app-nøkkel (arc_k1_...) som identifiserer applikasjonen din.",
+    "authStep1Title": "Registrer appen din",
+    "authStep2Description": "Brukere går til Innstillinger > Utviklertilgang og oppretter en personlig API-nøkkel (arc_u1_...) med tilgangsnivåene de ønsker å dele.",
+    "authStep2Title": "Bruker oppretter en personlig nøkkel",
+    "authStep3Description": "Inkluder app-nøkkelen i X-App-Key-headeren og brukernøkkelen i Authorization: Bearer-headeren.",
+    "authStep3Title": "Send begge nøklene med forespørsler",
+    "authenticatedEndpoints": "Autentiserte endepunkter (Krever dobbel nøkkel)",
+    "authenticatedEndpointsDescription": "Disse endepunktene returnerer brukerspesifikke data og krever både en app-nøkkel og en brukernøkkel.",
+    "authentication": "Autentisering",
+    "authenticationDescription": "Endepunkter for brukerdata bruker et system med to nøkler. Appen din sender både en app-nøkkel og en brukernøkkel med hver forespørsel. Dette sikrer at brukerne eksplisitt samtykker til å dele dataene sine.",
+    "baseUrl": "Base-URL",
+    "codeExamples": "Kodeeksempler",
+    "endpointHideout": "Alle moduler til skjulestedet med flerspråklige navn, nivåer og krav. Statisk respons, ingen parametere.",
+    "endpointItems": "Alle gjenstander med flerspråklige navn, beskrivelser og effekter. Statisk respons, ingen parametere.",
+    "endpointLoadout": "Brukerens nåværende utrustning med detaljert utstyrsinformasjon.",
+    "endpointProfile": "Grunnleggende brukerprofilinformasjon (brukernavn, nivå, medlem siden).",
+    "endpointProjects": "Alle prosjekter med flerspråklige navn og faser. Støtter sesongfiltrering.",
+    "endpointQuests": "Alle oppdrag med flerspråklige detaljer, mål og belønninger. Statisk respons, ingen parametere.",
+    "endpointStash": "Brukerens lager med detaljerte gjenstandsdata. Støtter paginering.",
+    "endpointUserHideout": "Brukerens fremdrift for oppgradering av skjulested-moduler.",
+    "endpointUserProjects": "Brukerens fremdrift for fullføring av prosjektfaser.",
+    "endpointUserQuests": "Brukerens fremdrift for oppdrag med valgfri filtrering.",
+    "error401": "Manglende eller ugyldig(e) API-nøkkel/nøkler. Sjekk både app-nøkkel og brukernøkkel.",
+    "error403": "Utilstrekkelig tilgangsnivå eller app suspendert. Brukernøkkelen må inkludere det nødvendige tilgangsnivået.",
+    "error404": "Ressurs ikke funnet eller brukeren har ingen data for dette endepunktet.",
+    "error429": "Ratebegrensning overskredet. Vent til tilbakestillingstiden i X-RateLimit-Reset-headeren.",
+    "error500": "Intern serverfeil. Vennligst prøv igjen senere.",
+    "errorCode": "Kode",
+    "errorCodes": "Feilkoder",
+    "errorCodesDescription": "Alle feilresponser følger et standardformat med en feilkode og melding.",
+    "errorDescription": "Beskrivelse",
+    "errorResponse": "Feilrespons",
+    "exampleRequest": "Eksempelforespørsel",
+    "gettingStarted": "Kom i gang",
+    "gettingStartedDescription": "ARCTracker API-et gir tilgang til spilldata fra ARC Raiders. Offentlige endepunkter krever ingen autentisering, mens endepunkter for brukerdata bruker et system med dobbel nøkkelautentisering.",
+    "gettingStartedStep1": "1. Offentlige endepunkter (gjenstander, oppdrag, skjulested, prosjekter) er fritt tilgjengelige uten autentisering.",
+    "gettingStartedStep2": "2. For å få tilgang til brukerdata, registrer en app i utviklerdashbordet for å få en app-nøkkel.",
+    "gettingStartedStep3": "3. Brukere oppretter personlige API-nøkler på sin innstillingsside og deler dem med appen din.",
+    "headerAppKey": "Din apps API-nøkkel (fra utviklerdashbordet)",
+    "headerUserKey": "Brukerens personlige API-nøkkel",
+    "headersTitle": "Påkrevde headere",
+    "paramFilter": "Filter: completed, incomplete.",
+    "paramLocale": "Språkkode (f.eks. en, de, fr). Standard er en.",
+    "paramPage": "Sidenummer for paginering (standard: 1).",
+    "paramPerPage": "Elementer per side, maks 100 (standard: 50).",
+    "paramSeason": "Filtrer etter sesong: 1, 2, eller kommaseparert (f.eks. 1,2).",
+    "paramSeasonFilter": "Filtrer etter sesong: 1, 2.",
+    "paramSort": "Sorter etter: slot (standard), name, quantity.",
+    "publicEndpoints": "Offentlige endepunkter (Krever ingen autentisering)",
+    "publicEndpointsDescription": "Disse endepunktene returnerer statisk spilldata og krever ingen autentisering. Responser inkluderer alle språk som flerspråklige objekter (f.eks. name: { en: \"...\", de: \"...\", ... }). Responser er bufret og egnet for høyfrekvente forespørsler.",
+    "rateLimitHeader": "Maksimalt antall tillatte forespørsler per tidsvindu.",
+    "rateLimitRemainingHeader": "Gjenværende forespørsler i nåværende tidsvindu.",
+    "rateLimitResetHeader": "Unix-tidsstempel for når ratebegrensningen tilbakestilles.",
+    "rateLimits": "Ratebegrensninger",
+    "rateLimitsDescription": "Hver app får 500 forespørsler per time som standard. Informasjon om ratebegrensning er inkludert i respons-headerne. Du kan be om en høyere grense fra utviklerdashbordet.",
+    "responseFormat": "Responsformat",
+    "responseFormatDescription": "Alle autentiserte endepunkter returnerer en konsistent JSON-konvolutt.",
+    "successResponse": "Suksessrespons",
+    "title": "API-dokumentasjon"
+  },
+  "BlueprintSync": {
+    "applySync": "Utfør synkronisering",
+    "applying": "Utfører...",
+    "blueprintsToUpdate": "{count, plural, one {# tegning} other {# tegninger}} å oppdatere",
+    "changesDetected": "Endringer oppdaget",
+    "description": "Importer lærte tegninger fra din tilkoblede konto",
+    "error": "Kunne ikke hente tegningsdata",
+    "hideUnchanged": "Skjul uendrede",
+    "learned": "Lært",
+    "loading": "Henter tegningsdata...",
+    "noChanges": "Alt synkronisert!",
+    "noChangesDescription": "Tegningene dine er allerede oppdatert.",
+    "notLearned": "Ikke lært",
+    "retry": "Prøv igjen",
+    "showUnchanged": "Vis uendrede",
+    "syncSuccess": "Synkronisering av tegninger fullført!",
+    "title": "Synkroniser tegninger"
   }
 }

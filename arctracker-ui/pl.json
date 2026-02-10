@@ -44,6 +44,12 @@
       "minutes": "min",
       "seconds": "sek",
       "viewSeasonHistory": "Zobacz historię sezonu"
+    },
+    "stashCta": {
+      "button": "Zobacz swój magazyn",
+      "description": "Połącz swoje konto gry ARC Raiders, aby automatycznie synchronizować magazyn, warsztaty, zadania i projekty. Koniec z ręcznym śledzeniem.",
+      "title": "Zsynchronizuj swoje konto ARC Raiders",
+      "newBadge": "NOWOŚĆ"
     }
   },
   "Navigation": {
@@ -185,7 +191,10 @@
     "required": "Wymagane",
     "submitItemsValue": "Dostarcz przedmioty o wymaganej wartości, aby ukończyć tę fazę.",
     "season1": "Sezon 1",
-    "season2": "Sezon 2"
+    "season2": "Sezon 2",
+    "stashModeActive": "Ilości ze zsynchronizowanej skrytki",
+    "lastSynced": "Zsynchronizowano",
+    "syncStash": "Synchronizuj skrytkę"
   },
   "HideoutPage": {
     "level": "Poziom",
@@ -197,7 +206,10 @@
     "noItemRequirements": "Brak wymagań przedmiotowych dla następnego poziomu.",
     "otherRequirements": "Inne Wymagania:",
     "prerequisites": "Wymagania Wstępne:",
-    "detailsUnavailable": "Szczegóły następnego poziomu niedostępne."
+    "detailsUnavailable": "Szczegóły następnego poziomu niedostępne.",
+    "stashModeActive": "Ilości ze zsynchronizowanej skrytki",
+    "lastSynced": "Zsynchronizowano",
+    "syncStash": "Synchronizuj skrytkę"
   },
   "WorkbenchPage": {
     "craftableItems": "Przedmioty do Wytworzenia",
@@ -236,7 +248,10 @@
     "zoomIn": "Przybliż",
     "zoomOut": "Oddal",
     "fitView": "Dopasuj do widoku",
-    "resetZoom": "Zresetuj przybliżenie"
+    "resetZoom": "Zresetuj przybliżenie",
+    "stashModeActive": "Ilości ze zsynchronizowanej skrytki",
+    "lastSynced": "Zsynchronizowano",
+    "syncStash": "Synchronizuj skrytkę"
   },
   "Sidebar": {
     "level": "Poziom {level}",
@@ -248,7 +263,8 @@
     "languageSwitcher": "Język",
     "resources": "Zasoby",
     "collapseSidebar": "Zwiń pasek boczny",
-    "expandSidebar": "Rozwiń pasek boczny"
+    "expandSidebar": "Rozwiń pasek boczny",
+    "developers": "Deweloperzy"
   },
   "SettingsPage": {
     "sectionAccount": "Konto",
@@ -336,7 +352,23 @@
     "embarkErrorCallbackError": "Wystąpił błąd podczas łączenia. Spróbuj ponownie.",
     "embarkErrorGeneric": "Wystąpił błąd. Spróbuj ponownie.",
     "embarkNotLinked": "Twoje konto ARC Raiders nie jest jeszcze połączone.",
-    "embarkGoToStash": "Przejdź do Skrytki, aby powiązać konto"
+    "embarkGoToStash": "Przejdź do Skrytki, aby powiązać konto",
+    "sectionDeveloperAccess": "Dostęp dla deweloperów",
+    "apiKeysTitle": "Klucze API",
+    "apiKeysDescription": "Utwórz klucze API, aby umożliwić aplikacjom zewnętrznym dostęp do Twoich danych.",
+    "apiKeysDocsLink": "Zobacz dokumentację API",
+    "noApiKeys": "Nie utworzono jeszcze żadnych kluczy API.",
+    "createApiKey": "Utwórz klucz API",
+    "createApiKeyTitle": "Utwórz klucz API",
+    "createApiKeyDescription": "Utwórz osobisty klucz API. Wybierz zakresy danych, na które chcesz zezwolić.",
+    "keyName": "Nazwa klucza",
+    "keyNamePlaceholder": "np. Integracja z moją aplikacją",
+    "scopes": "Zakresy danych",
+    "createKey": "Utwórz klucz",
+    "revokeKeyTitle": "Unieważnić klucz API?",
+    "revokeKeyDescription": "Spowoduje to trwałe unieważnienie tego klucza. Wszystkie aplikacje, które z niego korzystają, utracą dostęp.",
+    "revokeKey": "Unieważnij klucz",
+    "buildAnApp": "Chcesz stworzyć aplikację?"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Szukaj przedmiotów...",
@@ -523,8 +555,10 @@
       "showDetails": "Pokaż szczegółowe zestawienie",
       "hideDetails": "Ukryj szczegółowe zestawienie",
       "withEvent": "Z wydarzeniem",
-      "weeklyTrend": "Tygodniowy współczynnik wypadania",
-      "dataSourceDesc": "Pokazuje % szans na ekstrakcję z tym przedmiotem z każdej mapy/wydarzenia na podstawie rajdów zarejestrowanych przez graczy korzystających z narzędzia Historia Rajdów."
+      "weeklyTrend": "Częstotliwość wypadania w czasie",
+      "dataSourceDesc": "Pokazuje % szans na ekstrakcję z tym przedmiotem z każdej mapy/wydarzenia na podstawie rajdów zarejestrowanych przez graczy korzystających z narzędzia Historia Rajdów.",
+      "tooltipThisWeek": "W tym tygodniu",
+      "tooltipWeeksAgo": "{count} tyg. temu"
     },
     "dropRates": "Częstotliwość wypadania",
     "inRaidCrafting": "Wytwarzanie podczas rajdu",
@@ -774,7 +808,9 @@
     "tebexPaymentPortal": "Portal Płatności Tebex",
     "backToHome": "Powrót do Strony Głównej",
     "benefitUnlimitedPins": "Nielimitowane prywatne pinezki i trasy łupów",
-    "benefitUnlimitedPinsDesc": "Twórz nielimitowane prywatne pinezki na mapie i trasy łupów na dowolnej mapie"
+    "benefitUnlimitedPinsDesc": "Twórz nielimitowane prywatne pinezki na mapie i trasy łupów na dowolnej mapie",
+    "benefitAutoSync": "Automatyczna synchronizacja skrytki",
+    "benefitAutoSyncDesc": "Automatycznie synchronizuje twoją skrytkę, wyposażenie i postępy z gry co 30 minut"
   },
   "Favorites": {
     "addToList": "Dodaj do Listy",
@@ -1349,7 +1385,9 @@
       "highlight4": "Działa z nakładką ARCTracker",
       "screenshotDashboardDesc": "Przeglądaj kompleksowe statystyki, filtruj według mapy lub sezonu i analizuj swoje wyniki rajdów w czasie.",
       "screenshotDashboardTitle": "Zobacz to w akcji"
-    }
+    },
+    "previous": "Poprzednia",
+    "next": "Następna"
   },
   "RaidSync": {
     "title": "Zastosuj do Postępów",
@@ -1399,7 +1437,8 @@
     "applySuccessRequirements": "{count, plural, one {Spełniono # wymaganie} other {Spełniono # wymagań}}",
     "applySuccessBlueprints": "{count, plural, one {Poznano # schemat} other {Poznano # schematów}}",
     "blueprintUnlocks": "Odblokowuje {item}",
-    "blueprintsToLearn": "{count, plural, one {# schemat} few {# schematy} many {# schematów} other {# schematu}}"
+    "blueprintsToLearn": "{count, plural, one {# schemat} few {# schematy} many {# schematów} other {# schematu}}",
+    "cancel": "Anuluj"
   },
   "season": {
     "wizard": {
@@ -2075,7 +2114,8 @@
     "syncBar": {
       "hideout": "Kryjówka",
       "quests": "Zadania",
-      "projects": "Projekty"
+      "projects": "Projekty",
+      "blueprints": "Schematy"
     },
     "syncInventory": "Synchronizuj ekwipunek",
     "settings": {
@@ -2152,7 +2192,9 @@
       "title": "Dostępne ulepszenia warsztatu!"
     },
     "overwolfLinkInBrowser": "Aby powiązać swoje konto, odwiedź arctracker.io w Chrome lub Firefox.",
-    "overwolfUpdateLinkInBrowser": "Aby zaktualizować powiązanie konta, odwiedź arctracker.io w Chrome lub Firefox."
+    "overwolfUpdateLinkInBrowser": "Aby zaktualizować powiązanie konta, odwiedź arctracker.io w Chrome lub Firefox.",
+    "blueprintSync": "Synchronizacja schematów",
+    "blueprintSyncDescription": "Synchronizuj poznane schematy ze swojego konta gry"
   },
   "HideoutSync": {
     "title": "Synchronizuj postępy kryjówki",
@@ -2214,5 +2256,142 @@
     "showUnchanged": "Pokaż niezmienione",
     "syncSuccess": "Synchronizacja projektu zakończona!",
     "title": "Synchronizuj postęp projektu"
+  },
+  "DevelopersPage": {
+    "appDescription": "Opis",
+    "appDescriptionPlaceholder": "Co robi Twoja aplikacja?",
+    "appName": "Nazwa aplikacji",
+    "appNamePlaceholder": "Moja aplikacja ARC Raiders",
+    "contactEmail": "Email kontaktowy",
+    "createApp": "Utwórz aplikację",
+    "dataUsage": "Wykorzystanie danych",
+    "dataUsagePlaceholder": "Jak będziesz wykorzystywać dane?",
+    "docs": "Dokumentacja API",
+    "emptyDescription": "Zarejestruj swoją pierwszą aplikację, aby otrzymać klucz API i zacząć tworzyć.",
+    "emptyTitle": "Brak aplikacji",
+    "readDocs": "Czytaj dokumentację",
+    "registerApp": "Zarejestruj aplikację",
+    "registerAppDescription": "Opowiedz nam o swojej aplikacji. Aplikacje są aktywowane natychmiastowo z limitem 500 zapytań/godzinę.",
+    "registerNewApp": "Zarejestruj nową aplikację",
+    "requestsToday": "zapytań dzisiaj",
+    "statusActive": "Aktywna",
+    "statusPending": "Oczekuje na weryfikację",
+    "statusSuspended": "Zawieszona",
+    "title": "Aplikacje deweloperskie",
+    "websiteUrl": "Adres strony WWW (opcjonalnie)"
+  },
+  "AppDetailPage": {
+    "actions": "Akcje",
+    "apiKeyPrefix": "Klucz API",
+    "appDeleted": "Aplikacja usunięta",
+    "appInfo": "Informacje o aplikacji",
+    "cancel": "Anuluj",
+    "created": "Utworzono",
+    "deleteApp": "Usuń aplikację",
+    "deleteAppConfirm": "Usuń aplikację",
+    "deleteAppDescription": "Ta operacja trwale usunie aplikację i unieważni jej klucz API. Tego działania nie można cofnąć.",
+    "deleteAppTitle": "Usunąć aplikację?",
+    "description": "Opis",
+    "keyRotated": "Klucz API został pomyślnie odnowiony",
+    "last24h": "Ostatnie 24 godziny",
+    "last7d": "Ostatnie 7 dni",
+    "lastUsed": "Ostatnio użyta",
+    "newApiKey": "Nowy klucz API",
+    "rateLimit": "Limit zapytań",
+    "requestUpgrade": "Poproś o wyższy limit",
+    "requestUpgradeDescription": "Potrzebujesz więcej niż wynosi Twój obecny limit? Napisz dlaczego, a my rozpatrzymy Twoją prośbę.",
+    "requestsPerHour": "zapytań/godzinę",
+    "rotateKey": "Odnów klucz",
+    "rotateKeyConfirm": "Odnów klucz",
+    "rotateKeyDescription": "To unieważni Twój obecny klucz API i wygeneruje nowy. Wszystkie aplikacje używające starego klucza przestaną działać.",
+    "rotateKeyTitle": "Odnowić klucz API?",
+    "statusActive": "Aktywna",
+    "statusPending": "Oczekuje na weryfikację",
+    "statusSuspended": "Zawieszona",
+    "submitRequest": "Wyślij prośbę",
+    "upgradePending": "Prośba o zwiększenie limitu oczekuje na weryfikację.",
+    "upgradeReasonPlaceholder": "Wyjaśnij, dlaczego potrzebujesz wyższego limitu...",
+    "upgradeRequested": "Wysłano prośbę o ulepszenie",
+    "usage": "Użycie",
+    "yourReason": "Twój powód"
+  },
+  "ApiDocsPage": {
+    "authStep1Description": "Przejdź do Panelu Dewelopera i zarejestruj swoją aplikację. Otrzymasz klucz aplikacji (arc_k1_...), który identyfikuje Twoją aplikację.",
+    "authStep1Title": "Zarejestruj swoją aplikację",
+    "authStep2Description": "Użytkownicy przechodzą do Ustawienia > Dostęp Deweloperski i tworzą osobisty klucz API (arc_u1_...) z zakresami, które chcą udostępnić.",
+    "authStep2Title": "Użytkownik tworzy osobisty klucz",
+    "authStep3Description": "Dołącz klucz aplikacji w nagłówku X-App-Key oraz klucz użytkownika w nagłówku Authorization: Bearer.",
+    "authStep3Title": "Wysyłaj oba klucze z zapytaniami",
+    "authenticatedEndpoints": "Endpointy uwierzytelnione (Wymagane dwa klucze)",
+    "authenticatedEndpointsDescription": "Te endpointy zwracają dane specyficzne dla użytkownika i wymagają zarówno klucza aplikacji, jak i klucza użytkownika.",
+    "authentication": "Uwierzytelnianie",
+    "authenticationDescription": "Endpointy danych użytkownika używają systemu dwóch kluczy. Twoja aplikacja wysyła zarówno klucz aplikacji, jak i klucz użytkownika przy każdym zapytaniu. Zapewnia to, że użytkownicy świadomie wyrażają zgodę na udostępnianie swoich danych.",
+    "baseUrl": "Bazowy URL",
+    "codeExamples": "Przykłady kodu",
+    "endpointHideout": "Wszystkie moduły kryjówki z wielojęzycznymi nazwami, poziomami i wymaganiami. Odpowiedź statyczna, brak parametrów.",
+    "endpointItems": "Wszystkie przedmioty z wielojęzycznymi nazwami, opisami i efektami. Odpowiedź statyczna, brak parametrów.",
+    "endpointLoadout": "Aktualne wyposażenie użytkownika ze szczegółami sprzętu.",
+    "endpointProfile": "Podstawowe informacje o profilu użytkownika (nazwa, poziom, członek od).",
+    "endpointProjects": "Wszystkie projekty z wielojęzycznymi nazwami i fazami. Obsługuje filtrowanie według sezonów.",
+    "endpointQuests": "Wszystkie zadania z wielojęzycznymi szczegółami, celami i nagrodami. Odpowiedź statyczna, brak parametrów.",
+    "endpointStash": "Ekwipunek/skrytka użytkownika ze szczegółowymi danymi przedmiotów. Obsługuje stronicowanie.",
+    "endpointUserHideout": "Postęp ulepszania modułów kryjówki użytkownika.",
+    "endpointUserProjects": "Postęp ukończenia faz projektów użytkownika.",
+    "endpointUserQuests": "Postęp ukończenia zadań użytkownika z opcjonalnym filtrowaniem.",
+    "error401": "Brakujący lub nieprawidłowy klucz(e) API. Sprawdź zarówno klucz aplikacji, jak i klucz użytkownika.",
+    "error403": "Niewystarczający zakres uprawnień lub aplikacja zawieszona. Klucz użytkownika musi zawierać wymagany zakres.",
+    "error404": "Zasób nie znaleziony lub użytkownik nie posiada danych dla tego endpointu.",
+    "error429": "Przekroczono limit zapytań. Poczekaj do czasu resetu wskazanego w nagłówku X-RateLimit-Reset.",
+    "error500": "Wewnętrzny błąd serwera. Spróbuj ponownie później.",
+    "errorCode": "Kod",
+    "errorCodes": "Kody błędów",
+    "errorCodesDescription": "Wszystkie odpowiedzi z błędami mają standardowy format z kodem błędu i komunikatem.",
+    "errorDescription": "Opis",
+    "errorResponse": "Odpowiedź błędu",
+    "exampleRequest": "Przykładowe zapytanie",
+    "gettingStarted": "Wprowadzenie",
+    "gettingStartedDescription": "API ArcTracker zapewnia dostęp do danych z gry ARC Raiders. Publiczne endpointy nie wymagają uwierzytelniania, natomiast endpointy danych użytkownika wykorzystują system uwierzytelniania dwoma kluczami.",
+    "gettingStartedStep1": "1. Publiczne endpointy (przedmioty, zadania, kryjówka, projekty) są dostępne bezpłatnie i bez uwierzytelniania.",
+    "gettingStartedStep2": "2. Aby uzyskać dostęp do danych użytkownika, zarejestruj aplikację w Panelu Dewelopera, aby otrzymać klucz aplikacji.",
+    "gettingStartedStep3": "3. Użytkownicy tworzą osobiste klucze API na stronie Ustawień i udostępniają je Twojej aplikacji.",
+    "headerAppKey": "Klucz API Twojej aplikacji (z Panelu Dewelopera)",
+    "headerUserKey": "Osobisty klucz API użytkownika",
+    "headersTitle": "Wymagane nagłówki",
+    "paramFilter": "Filtr: completed (ukończone), incomplete (nieukończone).",
+    "paramLocale": "Kod języka (np. en, de, fr). Domyślnie en.",
+    "paramPage": "Numer strony dla stronicowania (domyślnie: 1).",
+    "paramPerPage": "Liczba elementów na stronę, maks. 100 (domyślnie: 50).",
+    "paramSeason": "Filtruj według sezonu: 1, 2 lub oddzielone przecinkami (np. 1,2).",
+    "paramSeasonFilter": "Filtruj według sezonu: 1, 2.",
+    "paramSort": "Sortuj według: slot (domyślnie), name (nazwa), quantity (ilość).",
+    "publicEndpoints": "Publiczne endpointy (Bez uwierzytelniania)",
+    "publicEndpointsDescription": "Te punkty końcowe zwracają statyczne dane z gry i nie wymagają uwierzytelnienia. Odpowiedzi zawierają wszystkie wersje językowe jako obiekty wielojęzyczne (np. name: { en: \"...\", de: \"...\", ... }). Odpowiedzi są buforowane i przystosowane do częstych zapytań.",
+    "rateLimitHeader": "Maksymalna liczba zapytań dozwolona w oknie czasowym.",
+    "rateLimitRemainingHeader": "Pozostała liczba zapytań w bieżącym oknie.",
+    "rateLimitResetHeader": "Znacznik czasu Unix, kiedy limit zapytań zostanie zresetowany.",
+    "rateLimits": "Limity zapytań",
+    "rateLimitsDescription": "Każda aplikacja domyślnie otrzymuje 500 zapytań na godzinę. Informacje o limitach są zawarte w nagłówkach odpowiedzi. Możesz poprosić o wyższy limit w Panelu Dewelopera.",
+    "responseFormat": "Format odpowiedzi",
+    "responseFormatDescription": "Wszystkie uwierzytelnione endpointy zwracają spójną strukturę JSON.",
+    "successResponse": "Odpowiedź sukcesu",
+    "title": "Dokumentacja API"
+  },
+  "BlueprintSync": {
+    "applySync": "Zastosuj synchronizację",
+    "applying": "Stosowanie...",
+    "blueprintsToUpdate": "{count, plural, one {# schemat} other {# schematów}} do aktualizacji",
+    "changesDetected": "Wykryto zmiany",
+    "description": "Zaimportuj poznane schematy z połączonego konta",
+    "error": "Nie udało się pobrać danych schematów",
+    "hideUnchanged": "Ukryj niezmienione",
+    "learned": "Poznane",
+    "loading": "Pobieranie danych schematów...",
+    "noChanges": "Wszystko zsynchronizowane!",
+    "noChangesDescription": "Twoje schematy są już aktualne.",
+    "notLearned": "Niepoznane",
+    "retry": "Spróbuj ponownie",
+    "showUnchanged": "Pokaż niezmienione",
+    "syncSuccess": "Synchronizacja schematów zakończona!",
+    "title": "Synchronizuj schematy"
   }
 }

@@ -44,6 +44,12 @@
       "minutes": "min",
       "seconds": "sek",
       "viewSeasonHistory": "Pregledaj istoriju sezona"
+    },
+    "stashCta": {
+      "button": "Pogledaj svoje skladište",
+      "description": "Poveži svoj ARC Raiders nalog da automatski sinhronizuješ skladište, radionice, misije i projekte. Nema više ručnog praćenja.",
+      "title": "Sinhronizuj svoj ARC Raiders nalog",
+      "newBadge": "NOVO"
     }
   },
   "Navigation": {
@@ -185,7 +191,10 @@
     "required": "Potrebno",
     "submitItemsValue": "Predajte predmete u vrednosti potrebnoj za završetak ove faze.",
     "season1": "Sezona 1",
-    "season2": "Sezona 2"
+    "season2": "Sezona 2",
+    "stashModeActive": "Količine iz sinhronizovanog skladišta",
+    "lastSynced": "Sinhronizovano",
+    "syncStash": "Sinhronizuj skladište"
   },
   "HideoutPage": {
     "level": "Nivo",
@@ -197,7 +206,10 @@
     "noItemRequirements": "Nema zahteva za predmete za sledeći nivo.",
     "otherRequirements": "Ostali zahtevi:",
     "prerequisites": "Preduslovi:",
-    "detailsUnavailable": "Detalji za sledeći nivo nisu dostupni."
+    "detailsUnavailable": "Detalji za sledeći nivo nisu dostupni.",
+    "stashModeActive": "Količine iz sinhronizovanog skladišta",
+    "lastSynced": "Sinhronizovano",
+    "syncStash": "Sinhronizuj skladište"
   },
   "WorkbenchPage": {
     "craftableItems": "Predmeti za izradu",
@@ -236,7 +248,10 @@
     "zoomIn": "Uvećaj",
     "zoomOut": "Umanji",
     "fitView": "Uklopi u prikaz",
-    "resetZoom": "Resetuj zum"
+    "resetZoom": "Resetuj zum",
+    "stashModeActive": "Količine iz sinhronizovanog skladišta",
+    "lastSynced": "Sinhronizovano",
+    "syncStash": "Sinhronizuj skladište"
   },
   "Sidebar": {
     "level": "Nivo {level}",
@@ -248,7 +263,8 @@
     "languageSwitcher": "Jezik",
     "resources": "Resursi",
     "collapseSidebar": "Skupi bočnu traku",
-    "expandSidebar": "Proširi bočnu traku"
+    "expandSidebar": "Proširi bočnu traku",
+    "developers": "Programeri"
   },
   "SettingsPage": {
     "sectionAccount": "Nalog",
@@ -336,7 +352,23 @@
     "embarkErrorCallbackError": "Došlo je do greške tokom povezivanja. Molimo pokušajte ponovo.",
     "embarkErrorGeneric": "Došlo je do greške. Molimo pokušajte ponovo.",
     "embarkNotLinked": "Vaš ARC Raiders nalog još uvek nije povezan.",
-    "embarkGoToStash": "Idite u Skladište da biste povezali svoj nalog"
+    "embarkGoToStash": "Idite u Skladište da biste povezali svoj nalog",
+    "sectionDeveloperAccess": "Pristup za programere",
+    "apiKeysTitle": "API ključevi",
+    "apiKeysDescription": "Kreirajte API ključeve kako biste omogućili aplikacijama trećih strana pristup vašim podacima.",
+    "apiKeysDocsLink": "Pogledajte API dokumentaciju",
+    "noApiKeys": "Još uvek niste kreirali nijedan API ključ.",
+    "createApiKey": "Kreiraj API ključ",
+    "createApiKeyTitle": "Kreiraj API ključ",
+    "createApiKeyDescription": "Kreirajte lični API ključ. Izaberite koje opsege podataka želite da dozvolite.",
+    "keyName": "Naziv ključa",
+    "keyNamePlaceholder": "npr. Moja integracija aplikacije",
+    "scopes": "Opsezi podataka",
+    "createKey": "Kreiraj ključ",
+    "revokeKeyTitle": "Opozvati API ključ?",
+    "revokeKeyDescription": "Ovo će trajno opozvati ovaj ključ. Sve aplikacije koje ga koriste izgubiće pristup.",
+    "revokeKey": "Opozovi ključ",
+    "buildAnApp": "Želite da napravite aplikaciju?"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Pretraži predmete...",
@@ -523,8 +555,10 @@
       "showDetails": "Prikaži detaljan pregled",
       "hideDetails": "Sakrij detaljan pregled",
       "withEvent": "Sa događajem",
-      "weeklyTrend": "Nedeljna stopa ispadanja",
-      "dataSourceDesc": "Prikazuje % šanse za izvlačenje ovog predmeta sa svake mape/događaja, na osnovu rejdova koje su zabeležili igrači koristeći alat Raid History."
+      "weeklyTrend": "Stopa padanja tokom vremena",
+      "dataSourceDesc": "Prikazuje % šanse za izvlačenje ovog predmeta sa svake mape/događaja, na osnovu rejdova koje su zabeležili igrači koristeći alat Raid History.",
+      "tooltipThisWeek": "Ove nedelje",
+      "tooltipWeeksAgo": "Pre {count} ned."
     },
     "dropRates": "Stope ispadanja",
     "inRaidCrafting": "Izrada u raciji",
@@ -774,7 +808,9 @@
     "tebexPaymentPortal": "Tebex Portal za Plaćanje",
     "backToHome": "Nazad na početnu",
     "benefitUnlimitedPins": "Neograničene privatne oznake i rute za plen",
-    "benefitUnlimitedPinsDesc": "Kreiraj neograničene privatne oznake i rute za plen na bilo kojoj mapi"
+    "benefitUnlimitedPinsDesc": "Kreiraj neograničene privatne oznake i rute za plen na bilo kojoj mapi",
+    "benefitAutoSync": "Automatska sinhronizacija skladišta",
+    "benefitAutoSyncDesc": "Automatski sinhronizuje vaše skladište, opremu i napredak iz igre svakih 30 minuta"
   },
   "Favorites": {
     "addToList": "Dodaj u listu",
@@ -1349,7 +1385,9 @@
       "highlight4": "Radi sa ARCTracker overlay-om",
       "screenshotDashboardDesc": "Pogledajte sveobuhvatnu statistiku, filtrirajte po mapi/sezoni i analizirajte svoj učinak u raidu tokom vremena.",
       "screenshotDashboardTitle": "Pogledajte na delu"
-    }
+    },
+    "previous": "Prethodna",
+    "next": "Sledeća"
   },
   "RaidSync": {
     "title": "Primeni na napredak",
@@ -1399,7 +1437,8 @@
     "applySuccessRequirements": "{count, plural, one {# zahtev ispunjen} other {# zahteva ispunjeno}}",
     "applySuccessBlueprints": "{count, plural, one {# nacrt naučen} other {# nacrta naučeno}}",
     "blueprintUnlocks": "Otključava {item}",
-    "blueprintsToLearn": "{count, plural, one {# nacrt} other {# nacrta}}"
+    "blueprintsToLearn": "{count, plural, one {# nacrt} other {# nacrta}}",
+    "cancel": "Otkaži"
   },
   "season": {
     "wizard": {
@@ -2075,7 +2114,8 @@
     "syncBar": {
       "hideout": "Sklonište",
       "quests": "Zadaci",
-      "projects": "Projekti"
+      "projects": "Projekti",
+      "blueprints": "Nacrti"
     },
     "syncInventory": "Sinhronizuj inventar",
     "settings": {
@@ -2152,7 +2192,9 @@
       "title": "Dostupne nadogradnje radionice!"
     },
     "overwolfLinkInBrowser": "Da biste povezali svoj nalog, posetite arctracker.io u Chrome-u ili Firefox-u.",
-    "overwolfUpdateLinkInBrowser": "Da biste ažurirali vezu naloga, posetite arctracker.io u Chrome-u ili Firefox-u."
+    "overwolfUpdateLinkInBrowser": "Da biste ažurirali vezu naloga, posetite arctracker.io u Chrome-u ili Firefox-u.",
+    "blueprintSync": "Sinhronizacija nacrta",
+    "blueprintSyncDescription": "Sinhronizujte naučene nacrte sa svog naloga u igri"
   },
   "HideoutSync": {
     "title": "Sinhronizuj napredak Skloništa",
@@ -2214,5 +2256,142 @@
     "showUnchanged": "Prikaži nepromenjeno",
     "syncSuccess": "Sinhronizacija projekata završena!",
     "title": "Sinhronizuj napredak projekata"
+  },
+  "DevelopersPage": {
+    "appDescription": "Opis",
+    "appDescriptionPlaceholder": "Šta vaša aplikacija radi?",
+    "appName": "Ime aplikacije",
+    "appNamePlaceholder": "Moja ARC Raiders aplikacija",
+    "contactEmail": "Kontakt imejl",
+    "createApp": "Kreiraj aplikaciju",
+    "dataUsage": "Upotreba podataka",
+    "dataUsagePlaceholder": "Kako ćete koristiti podatke?",
+    "docs": "API dokumentacija",
+    "emptyDescription": "Registrujte svoju prvu aplikaciju da biste dobili API ključ i počeli sa izgradnjom.",
+    "emptyTitle": "Nema aplikacija",
+    "readDocs": "Pročitaj dokumentaciju",
+    "registerApp": "Registruj aplikaciju",
+    "registerAppDescription": "Recite nam nešto o svojoj aplikaciji. Aplikacije se aktiviraju odmah sa 500 zahteva/sat.",
+    "registerNewApp": "Registruj novu aplikaciju",
+    "requestsToday": "zahteva danas",
+    "statusActive": "Aktivno",
+    "statusPending": "Čeka na pregled",
+    "statusSuspended": "Suspendovano",
+    "title": "Programerske aplikacije",
+    "websiteUrl": "URL veb-sajta (opciono)"
+  },
+  "AppDetailPage": {
+    "actions": "Akcije",
+    "apiKeyPrefix": "API ključ",
+    "appDeleted": "Aplikacija obrisana",
+    "appInfo": "Informacije o aplikaciji",
+    "cancel": "Otkaži",
+    "created": "Kreirano",
+    "deleteApp": "Obriši aplikaciju",
+    "deleteAppConfirm": "Obriši aplikaciju",
+    "deleteAppDescription": "Ovo će trajno obrisati ovu aplikaciju i opozvati njen API ključ. Ova radnja se ne može poništiti.",
+    "deleteAppTitle": "Obrisati aplikaciju?",
+    "description": "Opis",
+    "keyRotated": "API ključ uspešno rotiran",
+    "last24h": "Poslednja 24 sata",
+    "last7d": "Poslednjih 7 dana",
+    "lastUsed": "Poslednje korišćeno",
+    "newApiKey": "Novi API ključ",
+    "rateLimit": "Limit zahteva",
+    "requestUpgrade": "Zatraži veći limit",
+    "requestUpgradeDescription": "Treba vam više od trenutnog limita? Recite nam zašto i pregledaćemo vaš zahtev.",
+    "requestsPerHour": "zahteva/sat",
+    "rotateKey": "Rotiraj ključ",
+    "rotateKeyConfirm": "Rotiraj ključ",
+    "rotateKeyDescription": "Ovo će poništiti vaš trenutni API ključ i generisati novi. Sve aplikacije koje koriste stari ključ će prestati da rade.",
+    "rotateKeyTitle": "Rotirati API ključ?",
+    "statusActive": "Aktivno",
+    "statusPending": "Čeka na pregled",
+    "statusSuspended": "Suspendovano",
+    "submitRequest": "Pošalji zahtev",
+    "upgradePending": "Zahtev za povećanje limita čeka na pregled.",
+    "upgradeReasonPlaceholder": "Objasnite zašto vam je potreban veći limit...",
+    "upgradeRequested": "Zahtev za nadogradnju poslat",
+    "usage": "Upotreba",
+    "yourReason": "Vaš razlog"
+  },
+  "ApiDocsPage": {
+    "authStep1Description": "Idite na Kontrolnu tablu za programere i registrujte svoju aplikaciju. Dobićete ključ aplikacije (arc_k1_...) koji identifikuje vašu aplikaciju.",
+    "authStep1Title": "Registrujte svoju aplikaciju",
+    "authStep2Description": "Korisnici idu na Podešavanja > Pristup za programere i kreiraju lični API ključ (arc_u1_...) sa opsezima koje žele da dele.",
+    "authStep2Title": "Korisnik kreira lični ključ",
+    "authStep3Description": "Uključite ključ aplikacije u zaglavlje X-App-Key i korisnički ključ u zaglavlje Authorization: Bearer.",
+    "authStep3Title": "Pošaljite oba ključa sa zahtevima",
+    "authenticatedEndpoints": "Autentifikovane krajnje tačke (potreban dvostruki ključ)",
+    "authenticatedEndpointsDescription": "Ove krajnje tačke vraćaju podatke specifične za korisnika i zahtevaju i ključ aplikacije i korisnički ključ.",
+    "authentication": "Autentifikacija",
+    "authenticationDescription": "Krajnje tačke korisničkih podataka koriste sistem dvostrukog ključa. Vaša aplikacija šalje i ključ aplikacije i korisnički ključ sa svakim zahtevom. Ovo osigurava da korisnici eksplicitno pristaju na deljenje svojih podataka.",
+    "baseUrl": "Osnovni URL",
+    "codeExamples": "Primeri koda",
+    "endpointHideout": "Svi moduli skloništa sa višejezičnim nazivima, nivoima i zahtevima. Statički odgovor, bez parametara.",
+    "endpointItems": "Svi predmeti sa višejezičnim nazivima, opisima i efektima. Statički odgovor, bez parametara.",
+    "endpointLoadout": "Trenutna oprema korisnika sa obogaćenim detaljima opreme.",
+    "endpointProfile": "Osnovne informacije o profilu korisnika (korisničko ime, nivo, član od).",
+    "endpointProjects": "Svi projekti sa višejezičnim nazivima i fazama. Podržava filtriranje po sezonama.",
+    "endpointQuests": "Sve misije sa višejezičnim detaljima, ciljevima i nagradama. Statički odgovor, bez parametara.",
+    "endpointStash": "Inventar/skladište korisnika sa obogaćenim podacima o predmetima. Podržava paginaciju.",
+    "endpointUserHideout": "Napredak nadogradnje modula skrovišta korisnika.",
+    "endpointUserProjects": "Napredak završetka faza projekata korisnika.",
+    "endpointUserQuests": "Napredak završetka zadataka korisnika sa opcionim filtriranjem.",
+    "error401": "Nedostaje ili je nevažeći API ključ(evi). Proverite i ključ aplikacije i korisnički ključ.",
+    "error403": "Nedovoljan opseg ili aplikacija suspendovana. Korisnički ključ mora sadržati zahtevani opseg.",
+    "error404": "Resurs nije pronađen ili korisnik nema podataka za ovu krajnju tačku.",
+    "error429": "Premašen limit zahteva. Sačekajte vreme resetovanja u zaglavlju X-RateLimit-Reset.",
+    "error500": "Interna greška servera. Molimo pokušajte ponovo kasnije.",
+    "errorCode": "Kod",
+    "errorCodes": "Kodovi grešaka",
+    "errorCodesDescription": "Svi odgovori o greškama prate standardni format sa kodom greške i porukom.",
+    "errorDescription": "Opis",
+    "errorResponse": "Odgovor o grešci",
+    "exampleRequest": "Primer zahteva",
+    "gettingStarted": "Prvi koraci",
+    "gettingStartedDescription": "API ArcTracker omogućava pristup podacima igre ARC Raiders. Javne krajnje tačke ne zahtevaju autentifikaciju, dok krajnje tačke korisničkih podataka koriste sistem autentifikacije sa dva ključa.",
+    "gettingStartedStep1": "1. Javne krajnje tačke (predmeti, zadaci, skrovište, projekti) su slobodno dostupne bez autentifikacije.",
+    "gettingStartedStep2": "2. Da biste pristupili korisničkim podacima, registrujte aplikaciju na Kontrolnoj tabli za programere da biste dobili ključ aplikacije.",
+    "gettingStartedStep3": "3. Korisnici kreiraju lične API ključeve na svojoj stranici Podešavanja i dele ih sa vašom aplikacijom.",
+    "headerAppKey": "API ključ vaše aplikacije (sa Kontrolne table za programere)",
+    "headerUserKey": "Lični API ključ korisnika",
+    "headersTitle": "Obavezna zaglavlja",
+    "paramFilter": "Filter: completed (završeno), incomplete (nezavršeno).",
+    "paramLocale": "Kod jezika (npr. en, de, fr). Podrazumevano je en.",
+    "paramPage": "Broj stranice za paginaciju (podrazumevano: 1).",
+    "paramPerPage": "Predmeta po stranici, maks. 100 (podrazumevano: 50).",
+    "paramSeason": "Filtriraj po sezoni: 1, 2 ili razdvojeno zarezima (npr. 1,2).",
+    "paramSeasonFilter": "Filtriraj po sezoni: 1, 2.",
+    "paramSort": "Sortiraj po: slot (podrazumevano), name, quantity.",
+    "publicEndpoints": "Javne krajnje tačke (Nije potrebna autentifikacija)",
+    "publicEndpointsDescription": "Ove krajnje tačke vraćaju statičke podatke o igri i ne zahtevaju autentifikaciju. Odgovori uključuju sve lokalizacije kao višejezične objekte (npr. name: { en: \"...\", de: \"...\", ... }). Odgovori su keširani i pogodni za učestale zahteve.",
+    "rateLimitHeader": "Maksimalan broj dozvoljenih zahteva po vremenskom okviru.",
+    "rateLimitRemainingHeader": "Preostali zahtevi u trenutnom vremenskom okviru.",
+    "rateLimitResetHeader": "Unix vremenska oznaka kada se limit resetuje.",
+    "rateLimits": "Ograničenja zahteva",
+    "rateLimitsDescription": "Svaka aplikacija podrazumevano dobija 500 zahteva na sat. Informacije o limitu su uključene u zaglavlja odgovora. Možete zatražiti veći limit na Kontrolnoj tabli za programere.",
+    "responseFormat": "Format odgovora",
+    "responseFormatDescription": "Sve autentifikovane krajnje tačke vraćaju doslednu JSON kovertu.",
+    "successResponse": "Odgovor o uspehu",
+    "title": "API dokumentacija"
+  },
+  "BlueprintSync": {
+    "applySync": "Primeni sinhronizaciju",
+    "applying": "Primenjivanje...",
+    "blueprintsToUpdate": "{count, plural, one {# nacrt} other {# nacrta}} za ažuriranje",
+    "changesDetected": "Otkrivene promene",
+    "description": "Uvezite naučene nacrte sa svog povezanog naloga",
+    "error": "Preuzimanje podataka o nacrtima nije uspelo",
+    "hideUnchanged": "Sakrij nepromenjeno",
+    "learned": "Naučeno",
+    "loading": "Preuzimanje podataka o nacrtima...",
+    "noChanges": "Sve je sinhronizovano!",
+    "noChangesDescription": "Vaši nacrti su već ažurirani.",
+    "notLearned": "Nije naučeno",
+    "retry": "Pokušaj ponovo",
+    "showUnchanged": "Prikaži nepromenjeno",
+    "syncSuccess": "Sinhronizacija nacrta završena!",
+    "title": "Sinhronizuj nacrte"
   }
 }

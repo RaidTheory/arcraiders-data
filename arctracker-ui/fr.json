@@ -44,6 +44,12 @@
       "minutes": "min",
       "seconds": "sec",
       "viewSeasonHistory": "Voir l'historique de la saison"
+    },
+    "stashCta": {
+      "button": "Voir votre réserve",
+      "description": "Liez votre compte de jeu ARC Raiders pour synchroniser automatiquement votre réserve, vos ateliers, vos quêtes et vos projets. Plus besoin de suivi manuel.",
+      "title": "Synchronisez votre compte ARC Raiders",
+      "newBadge": "NOUVEAU"
     }
   },
   "Navigation": {
@@ -185,7 +191,10 @@
     "required": "Requis",
     "submitItemsValue": "Soumettez des objets d'une valeur équivalente au montant requis pour terminer cette phase.",
     "season1": "Saison 1",
-    "season2": "Saison 2"
+    "season2": "Saison 2",
+    "stashModeActive": "Quantités de la réserve synchronisée",
+    "lastSynced": "Synchronisé",
+    "syncStash": "Synchroniser la réserve"
   },
   "HideoutPage": {
     "level": "Niveau",
@@ -197,7 +206,10 @@
     "noItemRequirements": "Aucun objet requis pour le niveau suivant.",
     "otherRequirements": "Autres prérequis :",
     "prerequisites": "Prérequis :",
-    "detailsUnavailable": "Détails pour le niveau suivant indisponibles."
+    "detailsUnavailable": "Détails pour le niveau suivant indisponibles.",
+    "stashModeActive": "Quantités de la réserve synchronisée",
+    "lastSynced": "Synchronisé",
+    "syncStash": "Synchroniser la réserve"
   },
   "WorkbenchPage": {
     "craftableItems": "Objets fabricables",
@@ -236,7 +248,10 @@
     "zoomIn": "Zoom avant",
     "zoomOut": "Zoom arrière",
     "fitView": "Ajuster à la vue",
-    "resetZoom": "Réinitialiser le zoom"
+    "resetZoom": "Réinitialiser le zoom",
+    "stashModeActive": "Quantités de la réserve synchronisée",
+    "lastSynced": "Synchronisé",
+    "syncStash": "Synchroniser la réserve"
   },
   "Sidebar": {
     "level": "Niveau {level}",
@@ -248,7 +263,8 @@
     "languageSwitcher": "Langue",
     "resources": "Ressources",
     "collapseSidebar": "Réduire la barre latérale",
-    "expandSidebar": "Développer la barre latérale"
+    "expandSidebar": "Développer la barre latérale",
+    "developers": "Développeurs"
   },
   "SettingsPage": {
     "sectionAccount": "Compte",
@@ -336,7 +352,23 @@
     "embarkErrorCallbackError": "Une erreur est survenue lors de la liaison. Veuillez réessayer.",
     "embarkErrorGeneric": "Une erreur est survenue. Veuillez réessayer.",
     "embarkNotLinked": "Votre compte ARC Raiders n'est pas encore lié.",
-    "embarkGoToStash": "Allez dans la Réserve pour lier votre compte"
+    "embarkGoToStash": "Allez dans la Réserve pour lier votre compte",
+    "sectionDeveloperAccess": "Accès développeur",
+    "apiKeysTitle": "Clés API",
+    "apiKeysDescription": "Créez des clés API pour permettre à des applications tierces d'accéder à vos données.",
+    "apiKeysDocsLink": "Consulter la documentation de l'API",
+    "noApiKeys": "Vous n'avez pas encore créé de clé API.",
+    "createApiKey": "Créer une clé API",
+    "createApiKeyTitle": "Créer une clé API",
+    "createApiKeyDescription": "Créez une clé API personnelle. Choisissez les périmètres de données à autoriser.",
+    "keyName": "Nom de la clé",
+    "keyNamePlaceholder": "ex : Mon intégration d'application",
+    "scopes": "Périmètres de données",
+    "createKey": "Créer la clé",
+    "revokeKeyTitle": "Révoquer la clé API ?",
+    "revokeKeyDescription": "Ceci révoquera définitivement cette clé. Toutes les applications qui l'utilisent perdront leur accès.",
+    "revokeKey": "Révoquer la clé",
+    "buildAnApp": "Vous souhaitez créer une application ?"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Rechercher des objets...",
@@ -523,8 +555,10 @@
       "showDetails": "Afficher la répartition détaillée",
       "hideDetails": "Masquer la répartition détaillée",
       "withEvent": "Avec événement",
-      "weeklyTrend": "Taux d'obtention hebdomadaire",
-      "dataSourceDesc": "Indique le % de chances de s'extraire avec cet objet depuis chaque carte/événement, basé sur les raids enregistrés par les joueurs utilisant l'outil Historique des Raids."
+      "weeklyTrend": "Taux d'obtention au fil du temps",
+      "dataSourceDesc": "Indique le % de chances de s'extraire avec cet objet depuis chaque carte/événement, basé sur les raids enregistrés par les joueurs utilisant l'outil Historique des Raids.",
+      "tooltipThisWeek": "Cette semaine",
+      "tooltipWeeksAgo": "Il y a {count} sem."
     },
     "dropRates": "Taux d'obtention",
     "inRaidCrafting": "Fabrication en raid",
@@ -774,7 +808,9 @@
     "tebexPaymentPortal": "Portail de paiement Tebex",
     "backToHome": "Retour à l'accueil",
     "benefitUnlimitedPins": "Marqueurs privés et itinéraires de butin illimités",
-    "benefitUnlimitedPinsDesc": "Créez des marqueurs de carte privés et des itinéraires de butin illimités sur n'importe quelle carte"
+    "benefitUnlimitedPinsDesc": "Créez des marqueurs de carte privés et des itinéraires de butin illimités sur n'importe quelle carte",
+    "benefitAutoSync": "Synchronisation automatique de la réserve",
+    "benefitAutoSyncDesc": "Synchronise automatiquement votre réserve, votre équipement et votre progression depuis le jeu toutes les 30 minutes"
   },
   "Favorites": {
     "addToList": "Ajouter à la liste",
@@ -1349,7 +1385,9 @@
       "highlight4": "Fonctionne avec l'overlay ARCTracker",
       "screenshotDashboardDesc": "Consultez des statistiques complètes, filtrez par carte/saison et analysez vos performances de raid au fil du temps.",
       "screenshotDashboardTitle": "Voir en action"
-    }
+    },
+    "previous": "Précédent",
+    "next": "Suivant"
   },
   "RaidSync": {
     "title": "Appliquer à la progression",
@@ -1399,7 +1437,8 @@
     "applySuccessRequirements": "{count, plural, one {# prérequis complété} other {# prérequis complétés}}",
     "applySuccessBlueprints": "{count, plural, one {# schéma appris} other {# schémas appris}}",
     "blueprintUnlocks": "Déverrouille {item}",
-    "blueprintsToLearn": "{count, plural, one {# plan} other {# plans}}"
+    "blueprintsToLearn": "{count, plural, one {# plan} other {# plans}}",
+    "cancel": "Annuler"
   },
   "season": {
     "wizard": {
@@ -2075,7 +2114,8 @@
     "syncBar": {
       "hideout": "Planque",
       "quests": "Quêtes",
-      "projects": "Projets"
+      "projects": "Projets",
+      "blueprints": "Plans"
     },
     "syncInventory": "Synchroniser l'inventaire",
     "settings": {
@@ -2152,7 +2192,9 @@
       "title": "Améliorations d'atelier disponibles !"
     },
     "overwolfLinkInBrowser": "Pour lier votre compte, visitez arctracker.io sur Chrome ou Firefox.",
-    "overwolfUpdateLinkInBrowser": "Pour mettre à jour la liaison de votre compte, visitez arctracker.io sur Chrome ou Firefox."
+    "overwolfUpdateLinkInBrowser": "Pour mettre à jour la liaison de votre compte, visitez arctracker.io sur Chrome ou Firefox.",
+    "blueprintSync": "Synchronisation des plans",
+    "blueprintSyncDescription": "Synchronisez les plans appris depuis votre compte de jeu"
   },
   "HideoutSync": {
     "title": "Synchroniser la progression de la planque",
@@ -2214,5 +2256,142 @@
     "showUnchanged": "Afficher les éléments inchangés",
     "syncSuccess": "Synchronisation des projets terminée !",
     "title": "Synchroniser la progression des projets"
+  },
+  "DevelopersPage": {
+    "appDescription": "Description",
+    "appDescriptionPlaceholder": "Que fait votre application ?",
+    "appName": "Nom de l'application",
+    "appNamePlaceholder": "Mon application ARC Raiders",
+    "contactEmail": "Email de contact",
+    "createApp": "Créer l'application",
+    "dataUsage": "Utilisation des données",
+    "dataUsagePlaceholder": "Comment utiliserez-vous les données ?",
+    "docs": "Doc API",
+    "emptyDescription": "Enregistrez votre première application pour obtenir une clé API et commencer le développement.",
+    "emptyTitle": "Aucune application",
+    "readDocs": "Lire la documentation",
+    "registerApp": "Enregistrer l'application",
+    "registerAppDescription": "Parlez-nous de votre application. Les applications sont activées immédiatement avec 500 requêtes/heure.",
+    "registerNewApp": "Enregistrer une nouvelle application",
+    "requestsToday": "reqs aujourd'hui",
+    "statusActive": "Actif",
+    "statusPending": "En attente d'examen",
+    "statusSuspended": "Suspendu",
+    "title": "Applications développeur",
+    "websiteUrl": "URL du site web (facultatif)"
+  },
+  "AppDetailPage": {
+    "actions": "Actions",
+    "apiKeyPrefix": "Clé API",
+    "appDeleted": "Application supprimée",
+    "appInfo": "Informations sur l'application",
+    "cancel": "Annuler",
+    "created": "Créée le",
+    "deleteApp": "Supprimer l'application",
+    "deleteAppConfirm": "Supprimer l'application",
+    "deleteAppDescription": "Ceci supprimera définitivement cette application et révoquera sa clé API. Cette action est irréversible.",
+    "deleteAppTitle": "Supprimer l'application ?",
+    "description": "Description",
+    "keyRotated": "Clé API renouvelée avec succès",
+    "last24h": "Dernières 24 heures",
+    "last7d": "Les 7 derniers jours",
+    "lastUsed": "Dernière utilisation",
+    "newApiKey": "Nouvelle clé API",
+    "rateLimit": "Limite de débit",
+    "requestUpgrade": "Demander une limite plus élevée",
+    "requestUpgradeDescription": "Vous avez besoin de plus que votre limite actuelle ? Dites-nous pourquoi et nous examinerons votre demande.",
+    "requestsPerHour": "requêtes/heure",
+    "rotateKey": "Renouveler la clé",
+    "rotateKeyConfirm": "Renouveler la clé",
+    "rotateKeyDescription": "Cela invalidera votre clé API actuelle et en générera une nouvelle. Toutes les applications utilisant l'ancienne clé cesseront de fonctionner.",
+    "rotateKeyTitle": "Renouveler la clé API ?",
+    "statusActive": "Actif",
+    "statusPending": "En attente d'examen",
+    "statusSuspended": "Suspendu",
+    "submitRequest": "Soumettre la demande",
+    "upgradePending": "La demande d'augmentation de la limite est en attente d'examen.",
+    "upgradeReasonPlaceholder": "Expliquez pourquoi vous avez besoin d'une limite plus élevée...",
+    "upgradeRequested": "Demande d'augmentation soumise",
+    "usage": "Utilisation",
+    "yourReason": "Votre motif"
+  },
+  "ApiDocsPage": {
+    "authStep1Description": "Allez sur le tableau de bord des développeurs et enregistrez votre application. Vous recevrez une clé d'application (arc_k1_...) qui identifie votre application.",
+    "authStep1Title": "Enregistrez votre application",
+    "authStep2Description": "Les utilisateurs vont dans Paramètres > Accès développeur et créent une clé API personnelle (arc_u1_...) avec les permissions qu'ils souhaitent partager.",
+    "authStep2Title": "L'utilisateur crée une clé personnelle",
+    "authStep3Description": "Incluez la clé d'application dans l'en-tête X-App-Key et la clé utilisateur dans l'en-tête Authorization: Bearer.",
+    "authStep3Title": "Envoyez les deux clés avec les requêtes",
+    "authenticatedEndpoints": "Points de terminaison authentifiés (Double clé requise)",
+    "authenticatedEndpointsDescription": "Ces points de terminaison renvoient des données spécifiques à l'utilisateur et nécessitent à la fois une clé d'application et une clé utilisateur.",
+    "authentication": "Authentification",
+    "authenticationDescription": "Les points de terminaison de données utilisateur utilisent un système à double clé. Votre application envoie une clé d'application et une clé utilisateur avec chaque requête. Cela garantit que les utilisateurs consentent explicitement au partage de leurs données.",
+    "baseUrl": "URL de base",
+    "codeExamples": "Exemples de code",
+    "endpointHideout": "Tous les modules du repaire avec noms, niveaux et prérequis multilingues. Réponse statique, aucun paramètre.",
+    "endpointItems": "Tous les objets avec noms, descriptions et effets multilingues. Réponse statique, aucun paramètre.",
+    "endpointLoadout": "L'équipement actuel de l'utilisateur avec détails enrichis.",
+    "endpointProfile": "Informations de base du profil utilisateur (nom d'utilisateur, niveau, membre depuis).",
+    "endpointProjects": "Tous les projets avec noms et phases multilingues. Prend en charge le filtrage par saison.",
+    "endpointQuests": "Toutes les quêtes avec détails, objectifs et récompenses multilingues. Réponse statique, aucun paramètre.",
+    "endpointStash": "L'inventaire/réserve de l'utilisateur avec données d'objets enrichies. Prend en charge la pagination.",
+    "endpointUserHideout": "Progression de l'amélioration des modules de la planque de l'utilisateur.",
+    "endpointUserProjects": "Progression de l'utilisateur dans les phases de projet.",
+    "endpointUserQuests": "Progression des quêtes de l'utilisateur avec filtrage optionnel.",
+    "error401": "Clé(s) API manquante(s) ou invalide(s). Vérifiez la clé d'application et la clé utilisateur.",
+    "error403": "Portée insuffisante ou application suspendue. La clé utilisateur doit inclure la portée requise.",
+    "error404": "Ressource introuvable ou l'utilisateur n'a pas de données pour ce point de terminaison.",
+    "error429": "Limite de débit dépassée. Attendez l'heure de réinitialisation indiquée dans l'en-tête X-RateLimit-Reset.",
+    "error500": "Erreur interne du serveur. Veuillez réessayer plus tard.",
+    "errorCode": "Code",
+    "errorCodes": "Codes d'erreur",
+    "errorCodesDescription": "Toutes les réponses d'erreur suivent un format standard avec un code d'erreur et un message.",
+    "errorDescription": "Description",
+    "errorResponse": "Réponse d'erreur",
+    "exampleRequest": "Exemple de requête",
+    "gettingStarted": "Commencer",
+    "gettingStartedDescription": "L'API ArcTracker donne accès aux données du jeu ARC Raiders. Les points de terminaison publics ne nécessitent aucune authentification, tandis que les points de terminaison de données utilisateur utilisent un système d'authentification à double clé.",
+    "gettingStartedStep1": "1. Les points de terminaison publics (objets, quêtes, planque, projets) sont librement accessibles sans authentification.",
+    "gettingStartedStep2": "2. Pour accéder aux données utilisateur, enregistrez une application sur le tableau de bord des développeurs pour obtenir une clé d'application.",
+    "gettingStartedStep3": "3. Les utilisateurs créent des clés API personnelles dans leur page Paramètres et les partagent avec votre application.",
+    "headerAppKey": "La clé API de votre application (depuis le tableau de bord développeur)",
+    "headerUserKey": "La clé API personnelle de l'utilisateur",
+    "headersTitle": "En-têtes requis",
+    "paramFilter": "Filtre : completed, incomplete.",
+    "paramLocale": "Code de langue (ex: en, de, fr). Par défaut : en.",
+    "paramPage": "Numéro de page pour la pagination (défaut : 1).",
+    "paramPerPage": "Objets par page, max 100 (défaut : 50).",
+    "paramSeason": "Filtrer par saison : 1, 2, ou séparées par des virgules (ex: 1,2).",
+    "paramSeasonFilter": "Filtrer par saison : 1, 2.",
+    "paramSort": "Trier par : slot (défaut), name, quantity.",
+    "publicEndpoints": "Points de terminaison publics (Aucune auth requise)",
+    "publicEndpointsDescription": "Ces points de terminaison renvoient des données de jeu statiques et ne nécessitent aucune authentification. Les réponses incluent toutes les langues sous forme d'objets multilingues (par ex. name: { en: \"...\", de: \"...\", ... }). Les réponses sont mises en cache et adaptées aux requêtes à haute fréquence.",
+    "rateLimitHeader": "Nombre maximum de requêtes autorisées par fenêtre.",
+    "rateLimitRemainingHeader": "Requêtes restantes dans la fenêtre actuelle.",
+    "rateLimitResetHeader": "Timestamp Unix de la réinitialisation de la limite.",
+    "rateLimits": "Limites de débit",
+    "rateLimitsDescription": "Chaque application bénéficie par défaut de 500 requêtes par heure. Les informations sur la limite de débit sont incluses dans les en-têtes de réponse. Vous pouvez demander une limite plus élevée depuis le tableau de bord des développeurs.",
+    "responseFormat": "Format de réponse",
+    "responseFormatDescription": "Tous les points de terminaison authentifiés renvoient une enveloppe JSON cohérente.",
+    "successResponse": "Réponse de succès",
+    "title": "Documentation API"
+  },
+  "BlueprintSync": {
+    "applySync": "Appliquer la synchronisation",
+    "applying": "Application...",
+    "blueprintsToUpdate": "{count, plural, one {# plan} other {# plans}} à mettre à jour",
+    "changesDetected": "Changements détectés",
+    "description": "Importez vos plans appris depuis votre compte lié",
+    "error": "Échec de la récupération des données de plans",
+    "hideUnchanged": "Masquer les inchangés",
+    "learned": "Appris",
+    "loading": "Récupération des données de plans...",
+    "noChanges": "Tout est synchronisé !",
+    "noChangesDescription": "Vos plans sont déjà à jour.",
+    "notLearned": "Non appris",
+    "retry": "Réessayer",
+    "showUnchanged": "Afficher les inchangés",
+    "syncSuccess": "Synchronisation des plans terminée !",
+    "title": "Synchroniser les plans"
   }
 }
