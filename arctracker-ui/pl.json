@@ -368,7 +368,11 @@
     "revokeKeyTitle": "Unieważnić klucz API?",
     "revokeKeyDescription": "Spowoduje to trwałe unieważnienie tego klucza. Wszystkie aplikacje, które z niego korzystają, utracą dostęp.",
     "revokeKey": "Unieważnij klucz",
-    "buildAnApp": "Chcesz stworzyć aplikację?"
+    "buildAnApp": "Chcesz stworzyć aplikację?",
+    "sectionPrivacy": "Prywatność",
+    "adPersonalizationTitle": "Spersonalizowane reklamy",
+    "adPersonalizationDescription": "Zezwól na udostępnienie anonimowego identyfikatora naszemu dostawcy reklam w celu wyświetlania lepiej dopasowanych reklam. Żadne dane osobowe nie są przesyłane.",
+    "adPersonalizationToggleLabel": "Włącz spersonalizowane reklamy"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Szukaj przedmiotów...",
@@ -2194,7 +2198,9 @@
     "overwolfLinkInBrowser": "Aby powiązać swoje konto, odwiedź arctracker.io w Chrome lub Firefox.",
     "overwolfUpdateLinkInBrowser": "Aby zaktualizować powiązanie konta, odwiedź arctracker.io w Chrome lub Firefox.",
     "blueprintSync": "Synchronizacja schematów",
-    "blueprintSyncDescription": "Synchronizuj poznane schematy ze swojego konta gry"
+    "blueprintSyncDescription": "Synchronizuj poznane schematy ze swojego konta gry",
+    "tokenExpiredExtensionMissing": "Połączenie wygasło — wymagane rozszerzenie",
+    "tokenExpiredExtensionMissingDescription": "Twoja sesja wygasła, a rozszerzenie przeglądarki nie jest zainstalowane. Najpierw zainstaluj rozszerzenie, a następnie odśwież połączenie."
   },
   "HideoutSync": {
     "title": "Synchronizuj postępy kryjówki",
@@ -2255,7 +2261,8 @@
     "retry": "Spróbuj ponownie",
     "showUnchanged": "Pokaż niezmienione",
     "syncSuccess": "Synchronizacja projektu zakończona!",
-    "title": "Synchronizuj postęp projektu"
+    "title": "Synchronizuj postęp projektu",
+    "categoryGoalsToUpdate": "kategorie do aktualizacji"
   },
   "DevelopersPage": {
     "appDescription": "Opis",

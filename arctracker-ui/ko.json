@@ -368,7 +368,11 @@
     "revokeKeyTitle": "API 키를 철회하시겠습니까?",
     "revokeKeyDescription": "이 키는 영구적으로 철회됩니다. 이 키를 사용하는 모든 앱은 액세스 권한을 잃게 됩니다.",
     "revokeKey": "키 철회",
-    "buildAnApp": "앱을 만들고 싶으신가요?"
+    "buildAnApp": "앱을 만들고 싶으신가요?",
+    "sectionPrivacy": "개인정보 보호",
+    "adPersonalizationTitle": "맞춤형 광고",
+    "adPersonalizationDescription": "더 관련성 높은 광고를 표시하기 위해 광고 제공업체와 익명 식별자를 공유하는 것을 허용합니다. 개인 정보는 절대 전송되지 않습니다.",
+    "adPersonalizationToggleLabel": "맞춤형 광고 활성화"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "아이템 검색...",
@@ -2194,7 +2198,9 @@
     "overwolfLinkInBrowser": "계정을 연동하려면 Chrome 또는 Firefox에서 arctracker.io를 방문하세요.",
     "overwolfUpdateLinkInBrowser": "계정 연동을 업데이트하려면 Chrome 또는 Firefox에서 arctracker.io를 방문하세요.",
     "blueprintSync": "설계도 동기화",
-    "blueprintSyncDescription": "게임 계정에서 습득한 설계도 동기화"
+    "blueprintSyncDescription": "게임 계정에서 습득한 설계도 동기화",
+    "tokenExpiredExtensionMissing": "연결 만료 — 확장 프로그램 필요",
+    "tokenExpiredExtensionMissingDescription": "세션이 만료되었으며 브라우저 확장 프로그램이 설치되어 있지 않습니다. 먼저 확장 프로그램을 설치한 후, 연결을 새로 고치세요."
   },
   "HideoutSync": {
     "title": "은신처 진행 상황 동기화",
@@ -2255,7 +2261,8 @@
     "retry": "재시도",
     "showUnchanged": "변경 없는 항목 표시",
     "syncSuccess": "프로젝트 동기화 완료!",
-    "title": "프로젝트 진행 상황 동기화"
+    "title": "프로젝트 진행 상황 동기화",
+    "categoryGoalsToUpdate": "업데이트할 카테고리"
   },
   "DevelopersPage": {
     "appDescription": "설명",

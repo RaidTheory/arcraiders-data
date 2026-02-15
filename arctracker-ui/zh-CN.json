@@ -375,7 +375,11 @@
     "revokeKeyTitle": "撤销 API 密钥？",
     "revokeKeyDescription": "这将永久撤销此密钥。任何使用它的应用都将失去访问权限。",
     "revokeKey": "撤销密钥",
-    "buildAnApp": "想开发应用吗？"
+    "buildAnApp": "想开发应用吗？",
+    "sectionPrivacy": "隐私",
+    "adPersonalizationTitle": "个性化广告",
+    "adPersonalizationDescription": "允许与我们的广告提供商共享匿名标识符，以便展示更相关的广告。绝不会发送任何个人数据。",
+    "adPersonalizationToggleLabel": "启用个性化广告"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "搜索物品...",
@@ -2175,7 +2179,9 @@
       "authError": "连接丢失"
     },
     "blueprintSync": "蓝图同步",
-    "blueprintSyncDescription": "同步您游戏账户中已学习的蓝图"
+    "blueprintSyncDescription": "同步您游戏账户中已学习的蓝图",
+    "tokenExpiredExtensionMissing": "连接已过期 —— 需要扩展程序",
+    "tokenExpiredExtensionMissingDescription": "您的会话已过期，且未安装浏览器扩展程序。请先安装扩展程序，然后刷新您的连接。"
   },
   "HideoutSync": {
     "title": "同步藏身处进度",
@@ -2234,7 +2240,8 @@
     "applySync": "应用同步",
     "applying": "正在应用...",
     "syncSuccess": "计划同步完成！",
-    "phaseWillComplete": "阶段将被标记为完成"
+    "phaseWillComplete": "阶段将被标记为完成",
+    "categoryGoalsToUpdate": "待更新的分类"
   },
   "DevelopersPage": {
     "appDescription": "描述",
