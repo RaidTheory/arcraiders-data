@@ -375,7 +375,11 @@
     "revokeKeyTitle": "APIキーを無効化しますか？",
     "revokeKeyDescription": "このキーを完全に無効化します。これを使用しているアプリはアクセスできなくなります。",
     "revokeKey": "キーを無効化",
-    "buildAnApp": "アプリを開発してみませんか？"
+    "buildAnApp": "アプリを開発してみませんか？",
+    "sectionPrivacy": "プライバシー",
+    "adPersonalizationTitle": "パーソナライズド広告",
+    "adPersonalizationDescription": "より関連性の高い広告を表示するために、広告プロバイダーと匿名の識別子を共有することを許可します。個人情報が送信されることはありません。",
+    "adPersonalizationToggleLabel": "パーソナライズド広告を有効にする"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "アイテムを検索...",
@@ -2180,7 +2184,9 @@
     "overwolfLinkInBrowser": "アカウントを連携するには、ChromeまたはFirefoxでarctracker.ioにアクセスしてください。",
     "overwolfUpdateLinkInBrowser": "アカウント連携を更新するには、ChromeまたはFirefoxでarctracker.ioにアクセスしてください。",
     "blueprintSync": "設計図同期",
-    "blueprintSyncDescription": "ゲームアカウントから習得済みの設計図を同期します"
+    "blueprintSyncDescription": "ゲームアカウントから習得済みの設計図を同期します",
+    "tokenExpiredExtensionMissing": "接続の有効期限切れ — 拡張機能が必要です",
+    "tokenExpiredExtensionMissingDescription": "セッションの有効期限が切れ、ブラウザ拡張機能がインストールされていません。まず拡張機能をインストールしてから、接続を更新してください。"
   },
   "HideoutSync": {
     "title": "ハイドアウトの進行状況を同期",
@@ -2241,7 +2247,8 @@
     "retry": "再試行",
     "showUnchanged": "変更なしを表示",
     "syncSuccess": "プロジェクトの同期が完了しました！",
-    "title": "プロジェクト進行状況の同期"
+    "title": "プロジェクト進行状況の同期",
+    "categoryGoalsToUpdate": "更新するカテゴリー"
   },
   "DevelopersPage": {
     "appDescription": "説明",

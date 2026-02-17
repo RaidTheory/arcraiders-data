@@ -368,7 +368,11 @@
     "revokeKeyTitle": "לבטל מפתח API?",
     "revokeKeyDescription": "פעולה זו תבטל את המפתח לצמיתות. כל האפליקציות שמשתמשות בו יאבדו את הגישה.",
     "revokeKey": "בטל מפתח",
-    "buildAnApp": "רוצה לבנות אפליקציה?"
+    "buildAnApp": "רוצה לבנות אפליקציה?",
+    "sectionPrivacy": "פרטיות",
+    "adPersonalizationTitle": "מודעות מותאמות אישית",
+    "adPersonalizationDescription": "אפשר שיתוף של מזהה אנונימי עם ספק המודעות שלנו כדי להציג מודעות רלוונטיות יותר. מידע אישי אינו נשלח לעולם.",
+    "adPersonalizationToggleLabel": "הפעל מודעות מותאמות אישית"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "חפש פריטים...",
@@ -2181,7 +2185,9 @@
     "overwolfLinkInBrowser": "כדי לקשר את החשבון, יש לבקר ב-arctracker.io ב-Chrome או ב-Firefox.",
     "overwolfUpdateLinkInBrowser": "כדי לעדכן את קישור החשבון, יש לבקר ב-arctracker.io ב-Chrome או ב-Firefox.",
     "blueprintSync": "סנכרון שרטוטים",
-    "blueprintSyncDescription": "סנכרן שרטוטים שנלמדו מחשבון המשחק שלך"
+    "blueprintSyncDescription": "סנכרן שרטוטים שנלמדו מחשבון המשחק שלך",
+    "tokenExpiredExtensionMissing": "תוקף החיבור פג — נדרש תוסף",
+    "tokenExpiredExtensionMissingDescription": "תוקף החיבור שלך פג ותוסף הדפדפן אינו מותקן. התקן את התוסף תחילה, ולאחר מכן רענן את החיבור."
   },
   "HideoutSync": {
     "title": "סנכרן התקדמות מסתור",
@@ -2242,7 +2248,8 @@
     "retry": "נסה שנית",
     "showUnchanged": "הצג ללא שינוי",
     "syncSuccess": "סנכרון הפרויקט הושלם!",
-    "title": "סנכרון התקדמות פרויקט"
+    "title": "סנכרון התקדמות פרויקט",
+    "categoryGoalsToUpdate": "קטגוריות לעדכון"
   },
   "DevelopersPage": {
     "appDescription": "תיאור",

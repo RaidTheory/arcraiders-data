@@ -368,7 +368,11 @@
     "revokeKeyTitle": "API-Schlüssel widerrufen?",
     "revokeKeyDescription": "Dadurch wird dieser Schlüssel dauerhaft widerrufen. Alle Apps, die ihn verwenden, verlieren den Zugriff.",
     "revokeKey": "Schlüssel widerrufen",
-    "buildAnApp": "Möchtest du eine App entwickeln?"
+    "buildAnApp": "Möchtest du eine App entwickeln?",
+    "sectionPrivacy": "Datenschutz",
+    "adPersonalizationTitle": "Personalisierte Werbung",
+    "adPersonalizationDescription": "Erlauben Sie die Weitergabe einer anonymen Kennung an unseren Werbeanbieter, um relevantere Werbung anzuzeigen. Es werden keine personenbezogenen Daten gesendet.",
+    "adPersonalizationToggleLabel": "Personalisierte Werbung aktivieren"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Gegenstände suchen...",
@@ -2194,7 +2198,9 @@
     "overwolfLinkInBrowser": "Um deinen Account zu verknüpfen, besuche arctracker.io in Chrome oder Firefox.",
     "overwolfUpdateLinkInBrowser": "Um deine Account-Verknüpfung zu aktualisieren, besuche arctracker.io in Chrome oder Firefox.",
     "blueprintSync": "Bauplan-Synchronisation",
-    "blueprintSyncDescription": "Synchronisiere erlernte Baupläne von deinem Spielkonto"
+    "blueprintSyncDescription": "Synchronisiere erlernte Baupläne von deinem Spielkonto",
+    "tokenExpiredExtensionMissing": "Verbindung abgelaufen — Erweiterung erforderlich",
+    "tokenExpiredExtensionMissingDescription": "Deine Sitzung ist abgelaufen und die Browser-Erweiterung ist nicht installiert. Installiere zuerst die Erweiterung und aktualisiere dann deine Verbindung."
   },
   "HideoutSync": {
     "title": "Unterschlupf-Fortschritt synchronisieren",
@@ -2255,7 +2261,8 @@
     "retry": "Wiederholen",
     "showUnchanged": "Unveränderte anzeigen",
     "syncSuccess": "Projektsynchronisierung abgeschlossen!",
-    "title": "Projektfortschritt synchronisieren"
+    "title": "Projektfortschritt synchronisieren",
+    "categoryGoalsToUpdate": "zu aktualisierende Kategorien"
   },
   "DevelopersPage": {
     "appDescription": "Beschreibung",

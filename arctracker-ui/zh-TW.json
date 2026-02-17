@@ -2176,6 +2176,13 @@
       "retry": "重試",
       "authError": "連接丟失"
     }
+      "syncing": "同步中...",
+      "authError": "失去連線"
+    },
+    "blueprintSync": "藍圖同步",
+    "blueprintSyncDescription": "同步您遊戲帳號中已學習的藍圖",
+    "tokenExpiredExtensionMissing": "連線已過期 — 需要擴充功能",
+    "tokenExpiredExtensionMissingDescription": "您的工作階段已過期，且未安裝瀏覽器擴充功能。請先安裝擴充功能，然後重新整理您的連線。"
   },
   "HideoutSync": {
     "title": "同步藏身處進度",
@@ -2234,7 +2241,8 @@
     "applySync": "應用同步",
     "applying": "正在應用...",
     "syncSuccess": "計劃同步完成！",
-    "phaseWillComplete": "階段將被標記為完成"
+    "phaseWillComplete": "階段將被標記為完成",
+    "categoryGoalsToUpdate": "待更新的類別"
   },
   "BlueprintSync": {
     "title": "同步藍圖",

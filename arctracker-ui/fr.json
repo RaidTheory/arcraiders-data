@@ -368,7 +368,11 @@
     "revokeKeyTitle": "Révoquer la clé API ?",
     "revokeKeyDescription": "Ceci révoquera définitivement cette clé. Toutes les applications qui l'utilisent perdront leur accès.",
     "revokeKey": "Révoquer la clé",
-    "buildAnApp": "Vous souhaitez créer une application ?"
+    "buildAnApp": "Vous souhaitez créer une application ?",
+    "sectionPrivacy": "Confidentialité",
+    "adPersonalizationTitle": "Publicités personnalisées",
+    "adPersonalizationDescription": "Autorisez le partage d'un identifiant anonyme avec notre fournisseur de publicité pour afficher des publicités plus pertinentes. Aucune donnée personnelle n'est jamais envoyée.",
+    "adPersonalizationToggleLabel": "Activer les publicités personnalisées"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Rechercher des objets...",
@@ -2194,7 +2198,9 @@
     "overwolfLinkInBrowser": "Pour lier votre compte, visitez arctracker.io sur Chrome ou Firefox.",
     "overwolfUpdateLinkInBrowser": "Pour mettre à jour la liaison de votre compte, visitez arctracker.io sur Chrome ou Firefox.",
     "blueprintSync": "Synchronisation des plans",
-    "blueprintSyncDescription": "Synchronisez les plans appris depuis votre compte de jeu"
+    "blueprintSyncDescription": "Synchronisez les plans appris depuis votre compte de jeu",
+    "tokenExpiredExtensionMissing": "Connexion expirée — Extension requise",
+    "tokenExpiredExtensionMissingDescription": "Votre session a expiré et l'extension de navigateur n'est pas installée. Installez d'abord l'extension, puis actualisez votre connexion."
   },
   "HideoutSync": {
     "title": "Synchroniser la progression de la planque",
@@ -2255,7 +2261,8 @@
     "retry": "Réessayer",
     "showUnchanged": "Afficher les éléments inchangés",
     "syncSuccess": "Synchronisation des projets terminée !",
-    "title": "Synchroniser la progression des projets"
+    "title": "Synchroniser la progression des projets",
+    "categoryGoalsToUpdate": "catégories à mettre à jour"
   },
   "DevelopersPage": {
     "appDescription": "Description",
