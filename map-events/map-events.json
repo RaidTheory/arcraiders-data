@@ -66,7 +66,7 @@
       "icon": "https://cdn.arctracker.io/map-events/cold_snap.png",
       "translationKey": "coldSnap",
       "category": "major",
-      "disabled": true,
+      "disabled": false,
       "localizations": {
         "en": "Cold Snap",
         "de": "Kälteeinbruch",
@@ -295,6 +295,7 @@
       "icon": "https://cdn.arctracker.io/map-events/uncovered_caches.png",
       "translationKey": "uncoveredCaches",
       "category": "minor",
+      "disabled": true,
       "localizations": {
         "en": "Uncovered Caches",
         "de": "Freigelegte Verstecke",
@@ -435,13 +436,13 @@
         "3": "prospecting-probes",
         "4": "matriarch",
         "7": "harvester",
-        "9": "husk-graveyard",
+        "9": "lush-blooms",
         "10": "matriarch",
         "13": "harvester",
         "15": "prospecting-probes",
         "16": "matriarch",
         "19": "harvester",
-        "21": "husk-graveyard",
+        "21": "lush-blooms",
         "22": "matriarch"
       }
     },
@@ -457,7 +458,7 @@
       "minor": {
         "0": "bird-city",
         "2": "bird-city",
-        "4": "husk-graveyard",
+        "4": "prospecting-probes",
         "6": "bird-city",
         "8": "bird-city",
         "10": "bird-city",
@@ -465,19 +466,22 @@
         "14": "bird-city",
         "16": "bird-city",
         "18": "bird-city",
-        "20": "husk-graveyard",
+        "20": "prospecting-probes",
         "22": "bird-city"
       }
     },
     "the-spaceport": {
       "major": {
-        "0": "night-raid",
+        "0": "hidden-bunker",
+        "1": "night-raid",
         "4": "hidden-bunker",
         "5": "cold-snap",
-        "8": "electromagnetic-storm",
+        "8": "hidden-bunker",
+        "9": "electromagnetic-storm",
         "12": "hidden-bunker",
         "13": "cold-snap",
-        "16": "night-raid",
+        "16": "hidden-bunker",
+        "17": "night-raid",
         "20": "hidden-bunker",
         "21": "cold-snap"
       },
@@ -496,22 +500,25 @@
     },
     "blue-gate": {
       "major": {
-        "1": "night-raid",
+        "0": "cold-snap",
+        "1": "electromagnetic-storm",
         "5": "locked-gate",
-        "9": "electromagnetic-storm",
+        "8": "cold-snap",
+        "9": "night-raid",
         "13": "locked-gate",
-        "17": "night-raid",
-        "21": "locked-gate"
+        "16": "cold-snap",
+        "17": "electromagnetic-storm",
+        "20": "locked-gate"
       },
       "minor": {
         "2": "matriarch",
         "5": "harvester",
-        "7": "husk-graveyard",
+        "7": "prospecting-probes",
         "8": "matriarch",
         "11": "harvester",
         "14": "matriarch",
         "17": "harvester",
-        "19": "prospecting-probes",
+        "19": "lush-blooms",
         "20": "matriarch",
         "23": "harvester"
       }
