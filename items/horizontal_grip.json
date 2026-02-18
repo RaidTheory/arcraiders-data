@@ -133,12 +133,6 @@
       "zh-TW": "降低垂直後座力"
     }
   },
-  "craftBench": "weapon_bench",
-  "stationLevelRequired": 3,
-  "recipe": {
-    "duct_tape": 5,
-    "mod_components": 2
-  },
   "recyclesInto": {
     "duct_tape": 2,
     "mod_components": 1
