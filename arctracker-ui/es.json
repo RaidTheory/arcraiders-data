@@ -368,7 +368,11 @@
     "revokeKeyTitle": "¿Revocar clave de API?",
     "revokeKeyDescription": "Esto revocará permanentemente esta clave. Cualquier aplicación que la use perderá el acceso.",
     "revokeKey": "Revocar clave",
-    "buildAnApp": "¿Quieres crear una aplicación?"
+    "buildAnApp": "¿Quieres crear una aplicación?",
+    "sectionPrivacy": "Privacidad",
+    "adPersonalizationTitle": "Anuncios personalizados",
+    "adPersonalizationDescription": "Permite que se comparta un identificador anónimo con nuestro proveedor de publicidad para mostrar anuncios más relevantes. Nunca se envían datos personales.",
+    "adPersonalizationToggleLabel": "Habilitar anuncios personalizados"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Buscar objetos...",
@@ -2194,7 +2198,9 @@
     "overwolfLinkInBrowser": "Para vincular tu cuenta, visita arctracker.io en Chrome o Firefox.",
     "overwolfUpdateLinkInBrowser": "Para actualizar la vinculación de tu cuenta, visita arctracker.io en Chrome o Firefox.",
     "blueprintSync": "Sincronización de planos",
-    "blueprintSyncDescription": "Sincroniza los planos aprendidos de tu cuenta del juego"
+    "blueprintSyncDescription": "Sincroniza los planos aprendidos de tu cuenta del juego",
+    "tokenExpiredExtensionMissing": "Conexión caducada — Extensión necesaria",
+    "tokenExpiredExtensionMissingDescription": "Tu sesión ha caducado y la extensión del navegador no está instalada. Instala la extensión primero y luego actualiza tu conexión."
   },
   "HideoutSync": {
     "title": "Sincronizar progreso de la guarida",
@@ -2255,7 +2261,8 @@
     "retry": "Reintentar",
     "showUnchanged": "Mostrar sin cambios",
     "syncSuccess": "¡Sincronización de proyectos completada!",
-    "title": "Sincronizar progreso del proyecto"
+    "title": "Sincronizar progreso del proyecto",
+    "categoryGoalsToUpdate": "categorías a actualizar"
   },
   "DevelopersPage": {
     "appDescription": "Descripción",

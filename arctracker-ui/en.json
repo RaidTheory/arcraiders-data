@@ -375,7 +375,11 @@
     "revokeKeyTitle": "Revoke API Key?",
     "revokeKeyDescription": "This will permanently revoke this key. Any apps using it will lose access.",
     "revokeKey": "Revoke Key",
-    "buildAnApp": "Want to build an app?"
+    "buildAnApp": "Want to build an app?",
+    "sectionPrivacy": "Privacy",
+    "adPersonalizationTitle": "Personalized Ads",
+    "adPersonalizationDescription": "Allow an anonymous identifier to be shared with our ad provider to show more relevant ads. No personal data is ever sent.",
+    "adPersonalizationToggleLabel": "Enable personalized ads"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Search items...",
@@ -1981,6 +1985,8 @@
     "connectedVia": "Connected via",
     "tokenExpired": "Connection Expired",
     "tokenExpiredDescription": "Your session has expired. Please refresh the connection to continue syncing.",
+    "tokenExpiredExtensionMissing": "Connection Expired — Extension Required",
+    "tokenExpiredExtensionMissingDescription": "Your session has expired and the browser extension is not installed. Install the extension first, then refresh your connection.",
     "refreshConnection": "Refresh Connection",
     "unlinkAccount": "Unlink Account",
     "unlinkDialogTitle": "Unlink ARC Raiders Account?",
@@ -2003,6 +2009,7 @@
     "embarkErrorStateExpired": "The authorization session expired. Please try again.",
     "embarkErrorUserMismatch": "Account mismatch detected. Please try again.",
     "embarkErrorAlreadyLinked": "This ARC Raiders account is already linked to another ARCTracker account.",
+    "embarkErrorAlreadyLinkedDescription": "This game account is already linked to a different ARCTracker account. You must unlink it from the other account first, or use a different game account.",
     "embarkErrorInvalidToken": "Failed to verify ARC Raiders account. Please try again.",
     "embarkErrorMissingParams": "Missing authorization data. Please try again.",
     "embarkErrorCallbackError": "An error occurred during account linking. Please try again.",
@@ -2226,6 +2233,7 @@
     "retry": "Retry",
     "changesDetected": "Changes Detected",
     "goalsToUpdate": "to update",
+    "categoryGoalsToUpdate": "categories to update",
     "phasesToComplete": "to complete",
     "allSynced": "All projects already synced!",
     "allSyncedDescription": "Your ArcTracker project progress matches your game account",

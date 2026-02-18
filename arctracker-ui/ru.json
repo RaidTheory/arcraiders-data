@@ -368,7 +368,11 @@
     "revokeKeyTitle": "Отозвать API-ключ?",
     "revokeKeyDescription": "Этот ключ будет отозван безвозвратно. Все приложения, использующие его, потеряют доступ.",
     "revokeKey": "Отозвать ключ",
-    "buildAnApp": "Хотите создать приложение?"
+    "buildAnApp": "Хотите создать приложение?",
+    "sectionPrivacy": "Конфиденциальность",
+    "adPersonalizationTitle": "Персонализированная реклама",
+    "adPersonalizationDescription": "Разрешить передачу анонимного идентификатора нашему рекламному провайдеру для показа более релевантной рекламы. Персональные данные никогда не передаются.",
+    "adPersonalizationToggleLabel": "Включить персонализированную рекламу"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Поиск предметов...",
@@ -2194,7 +2198,9 @@
     "overwolfLinkInBrowser": "Чтобы привязать аккаунт, перейдите на arctracker.io в Chrome или Firefox.",
     "overwolfUpdateLinkInBrowser": "Чтобы обновить привязку аккаунта, перейдите на arctracker.io в Chrome или Firefox.",
     "blueprintSync": "Синхронизация чертежей",
-    "blueprintSyncDescription": "Синхронизируйте изученные чертежи с вашего игрового аккаунта"
+    "blueprintSyncDescription": "Синхронизируйте изученные чертежи с вашего игрового аккаунта",
+    "tokenExpiredExtensionMissing": "Срок действия подключения истек — Требуется расширение",
+    "tokenExpiredExtensionMissingDescription": "Ваша сессия истекла, и расширение для браузера не установлено. Сначала установите расширение, затем обновите подключение."
   },
   "HideoutSync": {
     "title": "Синхронизация прогресса убежища",
@@ -2255,7 +2261,8 @@
     "retry": "Повторить",
     "showUnchanged": "Показать без изменений",
     "syncSuccess": "Синхронизация проектов завершена!",
-    "title": "Синхронизация прогресса проектов"
+    "title": "Синхронизация прогресса проектов",
+    "categoryGoalsToUpdate": "категории для обновления"
   },
   "DevelopersPage": {
     "appDescription": "Описание",

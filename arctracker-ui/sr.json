@@ -368,7 +368,11 @@
     "revokeKeyTitle": "Opozvati API ključ?",
     "revokeKeyDescription": "Ovo će trajno opozvati ovaj ključ. Sve aplikacije koje ga koriste izgubiće pristup.",
     "revokeKey": "Opozovi ključ",
-    "buildAnApp": "Želite da napravite aplikaciju?"
+    "buildAnApp": "Želite da napravite aplikaciju?",
+    "sectionPrivacy": "Privatnost",
+    "adPersonalizationTitle": "Personalizovani oglasi",
+    "adPersonalizationDescription": "Dozvolite deljenje anonimnog identifikatora sa našim provajderom oglasa radi prikazivanja relevantnijih oglasa. Lični podaci se nikada ne šalju.",
+    "adPersonalizationToggleLabel": "Omogući personalizovane oglase"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Pretraži predmete...",
@@ -2194,7 +2198,9 @@
     "overwolfLinkInBrowser": "Da biste povezali svoj nalog, posetite arctracker.io u Chrome-u ili Firefox-u.",
     "overwolfUpdateLinkInBrowser": "Da biste ažurirali vezu naloga, posetite arctracker.io u Chrome-u ili Firefox-u.",
     "blueprintSync": "Sinhronizacija nacrta",
-    "blueprintSyncDescription": "Sinhronizujte naučene nacrte sa svog naloga u igri"
+    "blueprintSyncDescription": "Sinhronizujte naučene nacrte sa svog naloga u igri",
+    "tokenExpiredExtensionMissing": "Veza je istekla — Potrebna je ekstenzija",
+    "tokenExpiredExtensionMissingDescription": "Vaša sesija je istekla, a ekstenzija za pregledač nije instalirana. Prvo instalirajte ekstenziju, a zatim osvežite svoju vezu."
   },
   "HideoutSync": {
     "title": "Sinhronizuj napredak Skloništa",
@@ -2255,7 +2261,8 @@
     "retry": "Pokušaj ponovo",
     "showUnchanged": "Prikaži nepromenjeno",
     "syncSuccess": "Sinhronizacija projekata završena!",
-    "title": "Sinhronizuj napredak projekata"
+    "title": "Sinhronizuj napredak projekata",
+    "categoryGoalsToUpdate": "kategorije za ažuriranje"
   },
   "DevelopersPage": {
     "appDescription": "Opis",

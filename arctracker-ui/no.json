@@ -368,7 +368,11 @@
     "revokeKeyTitle": "Tilbakekalle API-nøkkel?",
     "revokeKeyDescription": "Dette vil tilbakekalle denne nøkkelen permanent. Alle apper som bruker den vil miste tilgangen.",
     "revokeKey": "Tilbakekall nøkkel",
-    "buildAnApp": "Vil du utvikle en app?"
+    "buildAnApp": "Vil du utvikle en app?",
+    "sectionPrivacy": "Personvern",
+    "adPersonalizationTitle": "Tilpassede annonser",
+    "adPersonalizationDescription": "Tillat at en anonym identifikator deles med vår annonseleverandør for å vise mer relevante annonser. Ingen personopplysninger sendes noensinne.",
+    "adPersonalizationToggleLabel": "Aktiver tilpassede annonser"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Søk etter gjenstander...",
@@ -2194,7 +2198,9 @@
     "overwolfLinkInBrowser": "For å koble til kontoen din, besøk arctracker.io i Chrome eller Firefox.",
     "overwolfUpdateLinkInBrowser": "For å oppdatere kontokoblingen din, besøk arctracker.io i Chrome eller Firefox.",
     "blueprintSync": "Synkronisering av tegninger",
-    "blueprintSyncDescription": "Synkroniser lærte tegninger fra spillkontoen din"
+    "blueprintSyncDescription": "Synkroniser lærte tegninger fra spillkontoen din",
+    "tokenExpiredExtensionMissing": "Tilkobling utløpt — Utvidelse påkrevd",
+    "tokenExpiredExtensionMissingDescription": "Økten din har utløpt, og nettleserutvidelsen er ikke installert. Installer utvidelsen først, og oppdater deretter tilkoblingen."
   },
   "HideoutSync": {
     "title": "Synkroniser fremgang i skjulested",
@@ -2255,7 +2261,8 @@
     "retry": "Prøv igjen",
     "showUnchanged": "Vis uendrede",
     "syncSuccess": "Prosjektsynkronisering fullført!",
-    "title": "Synkroniser prosjektfremgang"
+    "title": "Synkroniser prosjektfremgang",
+    "categoryGoalsToUpdate": "kategorier å oppdatere"
   },
   "DevelopersPage": {
     "appDescription": "Beskrivelse",

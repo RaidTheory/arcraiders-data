@@ -368,7 +368,11 @@
     "revokeKeyTitle": "API Anahtarı İptal Edilsin mi?",
     "revokeKeyDescription": "Bu işlem anahtarı kalıcı olarak iptal edecektir. Bu anahtarı kullanan uygulamalar erişimini kaybedecektir.",
     "revokeKey": "Anahtarı İptal Et",
-    "buildAnApp": "Bir uygulama geliştirmek mi istiyorsunuz?"
+    "buildAnApp": "Bir uygulama geliştirmek mi istiyorsunuz?",
+    "sectionPrivacy": "Gizlilik",
+    "adPersonalizationTitle": "Kişiselleştirilmiş Reklamlar",
+    "adPersonalizationDescription": "Daha alakalı reklamlar göstermek için reklam sağlayıcımızla anonim bir tanımlayıcının paylaşılmasına izin verin. Hiçbir kişisel veri asla gönderilmez.",
+    "adPersonalizationToggleLabel": "Kişiselleştirilmiş reklamları etkinleştir"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Eşyaları ara...",
@@ -2194,7 +2198,9 @@
     "overwolfLinkInBrowser": "Hesabınızı bağlamak için Chrome veya Firefox üzerinden arctracker.io adresini ziyaret edin.",
     "overwolfUpdateLinkInBrowser": "Hesap bağlantınızı güncellemek için Chrome veya Firefox üzerinden arctracker.io adresini ziyaret edin.",
     "blueprintSync": "Şema Eşitleme",
-    "blueprintSyncDescription": "Oyun hesabınızdaki öğrenilen şemaları eşitleyin"
+    "blueprintSyncDescription": "Oyun hesabınızdaki öğrenilen şemaları eşitleyin",
+    "tokenExpiredExtensionMissing": "Bağlantı Süresi Doldu — Eklenti Gerekli",
+    "tokenExpiredExtensionMissingDescription": "Oturumunuzun süresi doldu ve tarayıcı eklentisi yüklü değil. Önce eklentiyi yükleyin, ardından bağlantınızı yenileyin."
   },
   "HideoutSync": {
     "title": "Sığınak İlerlemesini Eşitle",
@@ -2255,7 +2261,8 @@
     "retry": "Yeniden Dene",
     "showUnchanged": "Değişmeyenleri göster",
     "syncSuccess": "Proje senkronizasyonu tamamlandı!",
-    "title": "Proje İlerlemesini Senkronize Et"
+    "title": "Proje İlerlemesini Senkronize Et",
+    "categoryGoalsToUpdate": "güncellenecek kategoriler"
   },
   "DevelopersPage": {
     "appDescription": "Açıklama",

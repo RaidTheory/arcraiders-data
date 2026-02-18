@@ -368,7 +368,11 @@
     "revokeKeyTitle": "Анулювати ключ API?",
     "revokeKeyDescription": "Це назавжди анулює цей ключ. Будь-які додатки, що його використовують, втратять доступ.",
     "revokeKey": "Анулювати ключ",
-    "buildAnApp": "Бажаєте створити додаток?"
+    "buildAnApp": "Бажаєте створити додаток?",
+    "sectionPrivacy": "Конфіденційність",
+    "adPersonalizationTitle": "Персоналізована реклама",
+    "adPersonalizationDescription": "Дозволити передачу анонімного ідентифікатора нашому рекламному провайдеру для показу більш релевантної реклами. Жодні особисті дані ніколи не надсилаються.",
+    "adPersonalizationToggleLabel": "Увімкнути персоналізовану рекламу"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Пошук предметів...",
@@ -2194,7 +2198,9 @@
     "overwolfLinkInBrowser": "Щоб прив'язати свій обліковий запис, відвідайте arctracker.io у Chrome або Firefox.",
     "overwolfUpdateLinkInBrowser": "Щоб оновити прив'язку облікового запису, відвідайте arctracker.io у Chrome або Firefox.",
     "blueprintSync": "Синхронізація креслень",
-    "blueprintSyncDescription": "Синхронізуйте вивчені креслення з вашого ігрового облікового запису"
+    "blueprintSyncDescription": "Синхронізуйте вивчені креслення з вашого ігрового облікового запису",
+    "tokenExpiredExtensionMissing": "Термін дії з'єднання закінчився — Потрібне розширення",
+    "tokenExpiredExtensionMissingDescription": "Термін дії вашого сеансу закінчився, а розширення браузера не встановлено. Спочатку встановіть розширення, а потім оновіть з'єднання."
   },
   "HideoutSync": {
     "title": "Синхронізація прогресу Сховища",
@@ -2255,7 +2261,8 @@
     "retry": "Повторити",
     "showUnchanged": "Показати без змін",
     "syncSuccess": "Синхронізацію проєктів завершено!",
-    "title": "Синхронізація прогресу проєктів"
+    "title": "Синхронізація прогресу проєктів",
+    "categoryGoalsToUpdate": "категорії для оновлення"
   },
   "DevelopersPage": {
     "appDescription": "Опис",
