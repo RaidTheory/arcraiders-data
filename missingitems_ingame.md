@@ -41,7 +41,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - il_toro_i
 - il_toro_iii
 - il_toro_iv
-- junior_outfit
 - kettle_ii
 - kinetic_converter_blueprint
 - lances_mixtape_5th_edition
