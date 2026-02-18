@@ -6,7 +6,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - banana
 - blue_gate_cellar_key
 - blue_gate_village_key
-- blue_radio_renegade_color
 - bobcat_i
 - bobcat_ii
 - bobcat_iii
@@ -51,7 +50,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - osprey_i
 - osprey_ii
 - patrol_car_key
-- radio_renegade
 - rattler_ii
 - rattler_iii
 - rattler_iv
