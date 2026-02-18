@@ -17,7 +17,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - burned_arc_circuitry
 - burnt_out_candles
 - candleberries
-- cans_backpack_attachment
 - celeste_journal
 - cheer
 - combat_mk1
