@@ -8,7 +8,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - bobcat_ii
 - bobcat_iii
 - bobcat_iv
-- burgerboy
 - buried_city_hospital_key
 - buried_city_jkv_employee_access_card
 - buried_city_residential_master_key
