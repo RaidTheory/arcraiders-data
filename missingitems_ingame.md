@@ -2,7 +2,6 @@ We currently are missing several in-game item images. If you want to contribute 
 
 - angled_grip_iii_blueprint
 - aphelion
-- banana
 - blue_gate_cellar_key
 - blue_gate_village_key
 - bobcat_i
