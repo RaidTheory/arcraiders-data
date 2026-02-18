@@ -166,6 +166,16 @@
   ],
   "rewardItemIds": [
     {
+      "itemId": "outfit",
+      "name": "Radio Renegade",
+      "quantity": 1
+    },
+    {
+      "itemId": "outfit_color",
+      "name": "Radio Renegade Red",
+      "quantity": 1
+    },
+    {
       "itemId": "firecracker",
       "quantity": 5
     },

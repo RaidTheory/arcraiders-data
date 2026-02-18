@@ -192,7 +192,13 @@
   ],
   "rewardItemIds": [
     {
-      "itemId": "faded_flush_aviator_color",
+      "itemId": "outfit",
+      "name": "Aviator",
+      "quantity": 1
+    },
+    {
+      "itemId": "outfit_color",
+      "name": "Aviator Faded Flush",
       "quantity": 1
     },
     {

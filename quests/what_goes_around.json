@@ -77,6 +77,11 @@
   ],
   "rewardItemIds": [
     {
+      "itemId": "backpack_attachment",
+      "name": "Can Six Pack",
+      "quantity": 1
+    },
+    {
       "itemId": "blaze_grenade",
       "quantity": 3
     },

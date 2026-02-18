@@ -138,7 +138,13 @@
   ],
   "rewardItemIds": [
     {
-      "itemId": "blue_yellow_aviator",
+      "itemId": "outfit",
+      "name": "Aviator",
+      "quantity": 1
+    },
+    {
+      "itemId": "outfit_color",
+      "name": "Aviator Blue Yellow",
       "quantity": 1
     },
     {

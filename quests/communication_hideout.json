@@ -161,7 +161,18 @@
   ],
   "rewardItemIds": [
     {
-      "itemId": "crimson_racer_aviator",
+      "itemId": "outfit",
+      "name": "Aviator",
+      "quantity": 1
+    },
+    {
+      "itemId": "outfit_color",
+      "name": "Aviator Faded Flush",
+      "quantity": 1
+    },
+    {
+      "itemId": "outfit_color",
+      "name": "Aviator Crimson Racer",
       "quantity": 1
     },
     {

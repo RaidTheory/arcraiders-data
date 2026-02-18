@@ -138,7 +138,13 @@
   ],
   "rewardItemIds": [
     {
-      "itemId": "navi_blue_warde_color",
+      "itemId": "outfit",
+      "name": "Warden",
+      "quantity": 1
+    },
+    {
+      "itemId": "outfit_color",
+      "name": "Warden Navi Blue",
       "quantity": 1
     },
     {
