@@ -53,7 +53,7 @@
       "de": "Liefere ein Nährstoffmessgerät an Tian Wen",
       "en": "Reach the Grandioso Apartments in Buried City",
       "es": "Llega a los Apartamentos Grandioso en Buried City",
-      "fr": "Atteindre les appartements Grandioso dans Buried City",
+      "fr": "Atteindre les appartements Grandioso dans Ville Enfouie",
       "he": "הגע אל דירות Grandioso ב-Buried City",
       "hr": "Stigni do Grandioso apartmana u Zakopanom gradu",
       "it": "Raggiungi gli Appartamenti Grandioso in Buried City",
@@ -179,6 +179,16 @@
       "uk": "Доставити Вимірювач Вологості Тянь Веню",
       "zh-CN": "将湿度计交给田文",
       "zh-TW": "將濕度計交給田文"
+    }
+  ],
+  "requiredItemIds": [
+    {
+      "itemId": "nutrient_meter",
+      "quantity": 1
+    },
+    {
+      "itemId": "moisture_meter",
+      "quantity": 1
     }
   ],
   "rewardItemIds": [

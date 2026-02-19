@@ -66,7 +66,7 @@
       "icon": "https://cdn.arctracker.io/map-events/cold_snap.png",
       "translationKey": "coldSnap",
       "category": "major",
-      "disabled": true,
+      "disabled": false,
       "localizations": {
         "en": "Cold Snap",
         "de": "Kälteeinbruch",
@@ -81,7 +81,7 @@
         "ja": "寒波",
         "ko": "한파",
         "zh-CN": "寒潮",
-        "zh-TW": "寒流",
+        "zh-TW": "寒潮",
         "ru": "Похолодание",
         "tr": "Ani Soğuma",
         "uk": "Похолодання",
@@ -109,7 +109,7 @@
         "ja": "封鎖ゲート",
         "ko": "잠긴 문",
         "zh-CN": "上锁的大门",
-        "zh-TW": "封鎖大門",
+        "zh-TW": "上鎖的大門",
         "ru": "Запертые ворота",
         "tr": "Kilitli Kapı",
         "uk": "Замкнені ворота",
@@ -138,7 +138,7 @@
         "ja": "隠しバンカー",
         "ko": "숨겨진 벙커",
         "zh-CN": "隐藏地堡",
-        "zh-TW": "隱藏碉堡",
+        "zh-TW": "隱藏地堡",
         "ru": "Скрытый бункер",
         "tr": "Gizli Sığınak",
         "uk": "Прихований бункер",
@@ -295,6 +295,7 @@
       "icon": "https://cdn.arctracker.io/map-events/uncovered_caches.png",
       "translationKey": "uncoveredCaches",
       "category": "minor",
+      "disabled": true,
       "localizations": {
         "en": "Uncovered Caches",
         "de": "Freigelegte Verstecke",
@@ -308,8 +309,8 @@
         "it": "Scorte Scoperte",
         "ja": "露出したキャッシュ",
         "ko": "발견된 캐시",
-        "zh-CN": "未掩盖的藏匿点",
-        "zh-TW": "裸露的物資箱",
+        "zh-CN": "暴露的奇袭者箱",
+        "zh-TW": "暴露的奇襲者箱",
         "ru": "Обнаруженные тайники",
         "tr": "Açığa Çıkmış Zulalar",
         "uk": "Відкриті схованки",
@@ -423,63 +424,66 @@
   "schedule": {
     "dam-battleground": {
       "major": {
-        "2": "night-raid",
+        "2": "cold-snap",
         "6": "electromagnetic-storm",
         "10": "night-raid",
-        "14": "electromagnetic-storm",
+        "14": "cold-snap",
         "18": "night-raid",
         "22": "electromagnetic-storm"
       },
       "minor": {
         "1": "harvester",
-        "3": "husk-graveyard",
+        "3": "prospecting-probes",
         "4": "matriarch",
         "7": "harvester",
-        "9": "uncovered-caches",
+        "9": "lush-blooms",
         "10": "matriarch",
         "13": "harvester",
-        "15": "husk-graveyard",
+        "15": "prospecting-probes",
         "16": "matriarch",
         "19": "harvester",
-        "21": "uncovered-caches",
+        "21": "lush-blooms",
         "22": "matriarch"
       }
     },
     "buried-city": {
       "major": {
-        "3": "night-raid",
+        "3": "cold-snap",
         "7": "night-raid",
-        "11": "night-raid",
+        "11": "cold-snap",
         "15": "night-raid",
-        "19": "night-raid",
+        "19": "cold-snap",
         "23": "night-raid"
       },
       "minor": {
         "0": "bird-city",
         "2": "bird-city",
-        "4": "husk-graveyard",
+        "4": "prospecting-probes",
         "6": "bird-city",
         "8": "bird-city",
         "10": "bird-city",
-        "12": "uncovered-caches",
+        "12": "prospecting-probes",
         "14": "bird-city",
         "16": "bird-city",
         "18": "bird-city",
-        "20": "husk-graveyard",
+        "20": "prospecting-probes",
         "22": "bird-city"
       }
     },
     "the-spaceport": {
       "major": {
-        "0": "night-raid",
-        "1": "hidden-bunker",
+        "0": "hidden-bunker",
+        "1": "night-raid",
         "4": "hidden-bunker",
-        "8": "electromagnetic-storm",
-        "9": "hidden-bunker",
+        "5": "cold-snap",
+        "8": "hidden-bunker",
+        "9": "electromagnetic-storm",
         "12": "hidden-bunker",
-        "16": "night-raid",
-        "17": "hidden-bunker",
-        "20": "hidden-bunker"
+        "13": "cold-snap",
+        "16": "hidden-bunker",
+        "17": "night-raid",
+        "20": "hidden-bunker",
+        "21": "cold-snap"
       },
       "minor": {
         "0": "harvester",
@@ -496,22 +500,25 @@
     },
     "blue-gate": {
       "major": {
-        "1": "locked-gate",
-        "5": "night-raid",
-        "9": "locked-gate",
-        "13": "electromagnetic-storm",
-        "17": "locked-gate",
-        "21": "night-raid"
+        "0": "cold-snap",
+        "1": "electromagnetic-storm",
+        "5": "locked-gate",
+        "8": "cold-snap",
+        "9": "night-raid",
+        "13": "locked-gate",
+        "16": "cold-snap",
+        "17": "electromagnetic-storm",
+        "20": "locked-gate"
       },
       "minor": {
         "2": "matriarch",
         "5": "harvester",
-        "7": "husk-graveyard",
+        "7": "prospecting-probes",
         "8": "matriarch",
         "11": "harvester",
         "14": "matriarch",
         "17": "harvester",
-        "19": "uncovered-caches",
+        "19": "lush-blooms",
         "20": "matriarch",
         "23": "harvester"
       }

@@ -44,7 +44,13 @@
     "viewAllPatchContent": "Vedi Tutti",
     "lfgTitle": "Cerchi una Squadra?",
     "lfgDescription": "Abbiamo stretto una partnership con il Discord ARC Raiders LFG - il posto migliore per trovare compagni per i tuoi raid. Unisciti a oltre 70.000 raider in cerca di squadra!",
-    "joinLfgDiscord": "Unisciti al Discord LFG"
+    "joinLfgDiscord": "Unisciti al Discord LFG",
+    "stashCta": {
+      "button": "Visualizza il tuo Deposito",
+      "description": "Collega il tuo account di gioco di ARC Raiders per sincronizzare automaticamente il deposito, le officine, le missioni e i progetti. Niente più tracciamento manuale.",
+      "title": "Sincronizza il tuo account di ARC Raiders",
+      "newBadge": "NUOVO"
+    }
   },
   "Navigation": {
     "home": "Home",
@@ -192,7 +198,10 @@
     "required": "Richiesto",
     "submitItemsValue": "Consegna oggetti pari al valore richiesto per completare questa fase.",
     "season1": "Stagione 1",
-    "season2": "Stagione 2"
+    "season2": "Stagione 2",
+    "stashModeActive": "Conteggi dalla scorta sincronizzata",
+    "lastSynced": "Sincronizzato",
+    "syncStash": "Sincronizza scorta"
   },
   "HideoutPage": {
     "level": "Livello",
@@ -204,7 +213,10 @@
     "noItemRequirements": "Nessun oggetto richiesto per il prossimo livello.",
     "otherRequirements": "Altri Requisiti:",
     "prerequisites": "Prerequisiti:",
-    "detailsUnavailable": "Dettagli per il prossimo livello non disponibili."
+    "detailsUnavailable": "Dettagli per il prossimo livello non disponibili.",
+    "stashModeActive": "Conteggi dalla scorta sincronizzata",
+    "lastSynced": "Sincronizzato",
+    "syncStash": "Sincronizza scorta"
   },
   "WorkbenchPage": {
     "craftableItems": "Oggetti Creabili",
@@ -243,7 +255,10 @@
     "zoomIn": "Ingrandisci",
     "zoomOut": "Riduci",
     "fitView": "Adatta alla vista",
-    "resetZoom": "Reimposta zoom"
+    "resetZoom": "Reimposta zoom",
+    "stashModeActive": "Conteggi dalla scorta sincronizzata",
+    "lastSynced": "Sincronizzato",
+    "syncStash": "Sincronizza scorta"
   },
   "Sidebar": {
     "level": "Livello {level}",
@@ -255,7 +270,8 @@
     "languageSwitcher": "Lingua",
     "resources": "Risorse",
     "collapseSidebar": "Comprimi barra laterale",
-    "expandSidebar": "Espandi barra laterale"
+    "expandSidebar": "Espandi barra laterale",
+    "developers": "Sviluppatori"
   },
   "SettingsPage": {
     "sectionAccount": "Account",
@@ -343,7 +359,27 @@
     "embarkErrorCallbackError": "Si è verificato un errore durante il collegamento. Riprova.",
     "embarkErrorGeneric": "Si è verificato un errore. Riprova.",
     "embarkNotLinked": "Il tuo account ARC Raiders non è ancora collegato.",
-    "embarkGoToStash": "Vai al Deposito per collegare il tuo account"
+    "embarkGoToStash": "Vai al Deposito per collegare il tuo account",
+    "sectionDeveloperAccess": "Accesso sviluppatori",
+    "apiKeysTitle": "Chiavi API",
+    "apiKeysDescription": "Crea chiavi API per consentire alle app di terze parti di accedere ai tuoi dati.",
+    "apiKeysDocsLink": "Visualizza documentazione API",
+    "noApiKeys": "Non hai ancora creato alcuna chiave API.",
+    "createApiKey": "Crea chiave API",
+    "createApiKeyTitle": "Crea chiave API",
+    "createApiKeyDescription": "Crea una chiave API personale. Scegli quali ambiti di dati autorizzare.",
+    "keyName": "Nome chiave",
+    "keyNamePlaceholder": "es. La mia integrazione app",
+    "scopes": "Ambiti dati",
+    "createKey": "Crea chiave",
+    "revokeKeyTitle": "Revocare la chiave API?",
+    "revokeKeyDescription": "Questa operazione revocherà permanentemente questa chiave. Qualsiasi app che la utilizza perderà l'accesso.",
+    "revokeKey": "Revoca chiave",
+    "buildAnApp": "Vuoi creare un'app?",
+    "sectionPrivacy": "Privacy",
+    "adPersonalizationTitle": "Annunci personalizzati",
+    "adPersonalizationDescription": "Consenti la condivisione di un identificatore anonimo con il nostro provider pubblicitario per mostrare annunci più pertinenti. Nessun dato personale viene mai inviato.",
+    "adPersonalizationToggleLabel": "Abilita annunci personalizzati"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Cerca oggetti...",
@@ -523,7 +559,7 @@
       "showDetails": "Mostra dettagli",
       "hideDetails": "Nascondi dettagli",
       "withEvent": "Con evento",
-      "weeklyTrend": "Tasso di caduta settimanale",
+      "weeklyTrend": "Tasso di drop nel tempo",
       "reliability": {
         "insufficient": "Dati Insufficienti",
         "insufficientDesc": "Meno di 10 raid tracciati",
@@ -533,7 +569,9 @@
         "mediumDesc": "50-199 raid tracciati",
         "high": "Eccellente Affidabilità",
         "highDesc": "200+ raid tracciati"
-      }
+      },
+      "tooltipThisWeek": "Questa settimana",
+      "tooltipWeeksAgo": "{count} sett. fa"
     },
     "attachments": "Accessori"
   },
@@ -866,7 +904,9 @@
     "tebexPaymentPortal": "Portale Pagamenti Tebex",
     "backToHome": "Torna alla Home",
     "benefitUnlimitedPins": "Pin Privati e Loot Run Illimitati",
-    "benefitUnlimitedPinsDesc": "Crea un numero illimitato di pin privati e percorsi di loot run su qualsiasi mappa"
+    "benefitUnlimitedPinsDesc": "Crea un numero illimitato di pin privati e percorsi di loot run su qualsiasi mappa",
+    "benefitAutoSync": "Sincronizzazione automatica della scorta",
+    "benefitAutoSyncDesc": "Sincronizza automaticamente la tua scorta, l'equipaggiamento e i progressi dal gioco ogni 30 minuti"
   },
   "Favorites": {
     "addToList": "Aggiungi alla Lista",
@@ -1506,7 +1546,9 @@
       "featuresTitle": "Tutto Ciò che Ti Serve",
       "screenshotDashboardTitle": "Vedilo in Azione",
       "screenshotDashboardDesc": "Vedi statistiche complete, filtra per mappa/stagione e analizza le tue prestazioni raid nel tempo."
-    }
+    },
+    "previous": "Precedente",
+    "next": "Successivo"
   },
   "RaidSync": {
     "title": "Applica ai Progressi",
@@ -1556,7 +1598,8 @@
       "step2Description": "Se un oggetto è necessario per più cose, trascina per riordinare quale requisito viene riempito prima. Gli elementi più in alto ricevono oggetti prima di quelli in basso.",
       "step3Title": "Puoi Sempre Annullare",
       "step3Description": "Fatto un errore? Nessun problema! Puoi annullare i progressi applicati in qualsiasi momento dalla scheda del raid usando il pulsante \"Annulla\"."
-    }
+    },
+    "cancel": "Annulla"
   },
   "SeasonHistoryPage": {
     "title": "Cronologia Stagione",
@@ -2034,7 +2077,7 @@
       "searchPlaceholder": "Cerca oggetti..."
     },
     "currencies": {
-      "cred": "Cred",
+      "cred": "Nomea",
       "credits": "Crediti",
       "raiderTokens": "Gettoni Raider",
       "xp": "XP",
@@ -2061,7 +2104,8 @@
     "syncBar": {
       "hideout": "Rifugio",
       "quests": "Missioni",
-      "projects": "Progetti"
+      "projects": "Progetti",
+      "blueprints": "Progetti"
     },
     "syncInventory": "Sincronizza inventario",
     "settings": {
@@ -2138,7 +2182,11 @@
       "title": "Potenziamenti dell'officina disponibili!"
     },
     "overwolfLinkInBrowser": "Per collegare il tuo account, visita arctracker.io su Chrome o Firefox.",
-    "overwolfUpdateLinkInBrowser": "Per aggiornare il collegamento del tuo account, visita arctracker.io su Chrome o Firefox."
+    "overwolfUpdateLinkInBrowser": "Per aggiornare il collegamento del tuo account, visita arctracker.io su Chrome o Firefox.",
+    "blueprintSync": "Sincronizzazione Progetti",
+    "blueprintSyncDescription": "Sincronizza i progetti appresi dal tuo account di gioco",
+    "tokenExpiredExtensionMissing": "Connessione scaduta — Estensione richiesta",
+    "tokenExpiredExtensionMissingDescription": "La tua sessione è scaduta e l'estensione del browser non è installata. Installa prima l'estensione, quindi aggiorna la connessione."
   },
   "HideoutSync": {
     "title": "Sincronizza progressi Rifugio",
@@ -2199,6 +2247,144 @@
     "retry": "Riprova",
     "showUnchanged": "Mostra invariati",
     "syncSuccess": "Sincronizzazione progetto completata!",
-    "title": "Sincronizza progressi progetto"
+    "title": "Sincronizza progressi progetto",
+    "categoryGoalsToUpdate": "categorie da aggiornare"
+  },
+  "DevelopersPage": {
+    "appDescription": "Descrizione",
+    "appDescriptionPlaceholder": "Cosa fa la tua app?",
+    "appName": "Nome App",
+    "appNamePlaceholder": "La mia App ARC Raiders",
+    "contactEmail": "Email di contatto",
+    "createApp": "Crea App",
+    "dataUsage": "Utilizzo dati",
+    "dataUsagePlaceholder": "Come utilizzerai i dati?",
+    "docs": "Documentazione API",
+    "emptyDescription": "Registra la tua prima app per ottenere una chiave API e iniziare a sviluppare.",
+    "emptyTitle": "Nessuna App",
+    "readDocs": "Leggi documentazione",
+    "registerApp": "Registra App",
+    "registerAppDescription": "Parlaci della tua applicazione. Le app vengono attivate immediatamente con 500 richieste/ora.",
+    "registerNewApp": "Registra nuova App",
+    "requestsToday": "richieste oggi",
+    "statusActive": "Attiva",
+    "statusPending": "In attesa di revisione",
+    "statusSuspended": "Sospesa",
+    "title": "App Sviluppatore",
+    "websiteUrl": "URL Sito Web (opzionale)"
+  },
+  "AppDetailPage": {
+    "actions": "Azioni",
+    "apiKeyPrefix": "Chiave API",
+    "appDeleted": "Applicazione eliminata",
+    "appInfo": "Informazioni App",
+    "cancel": "Annulla",
+    "created": "Creata il",
+    "deleteApp": "Elimina App",
+    "deleteAppConfirm": "Elimina App",
+    "deleteAppDescription": "Questa operazione eliminerà permanentemente l'applicazione e revocherà la sua chiave API. Questa azione non può essere annullata.",
+    "deleteAppTitle": "Eliminare l'applicazione?",
+    "description": "Descrizione",
+    "keyRotated": "Chiave API ruotata con successo",
+    "last24h": "Ultime 24 ore",
+    "last7d": "Ultimi 7 giorni",
+    "lastUsed": "Ultimo utilizzo",
+    "newApiKey": "Nuova chiave API",
+    "rateLimit": "Limite richieste",
+    "requestUpgrade": "Richiedi aumento limite",
+    "requestUpgradeDescription": "Hai bisogno di più richieste rispetto al tuo limite attuale? Spiegaci il motivo e valuteremo la tua richiesta.",
+    "requestsPerHour": "richieste/ora",
+    "rotateKey": "Ruota Chiave",
+    "rotateKeyConfirm": "Ruota Chiave",
+    "rotateKeyDescription": "Questo invaliderà la tua chiave API attuale e ne genererà una nuova. Tutte le applicazioni che usano la vecchia chiave smetteranno di funzionare.",
+    "rotateKeyTitle": "Ruotare chiave API?",
+    "statusActive": "Attiva",
+    "statusPending": "In attesa di revisione",
+    "statusSuspended": "Sospesa",
+    "submitRequest": "Invia richiesta",
+    "upgradePending": "La richiesta di aumento del limite è in attesa di revisione.",
+    "upgradeReasonPlaceholder": "Spiega perché hai bisogno di un limite più alto...",
+    "upgradeRequested": "Richiesta di upgrade inviata",
+    "usage": "Utilizzo",
+    "yourReason": "La tua motivazione"
+  },
+  "ApiDocsPage": {
+    "authStep1Description": "Vai alla Dashboard Sviluppatori e registra la tua app. Riceverai una chiave app (arc_k1_...) che identifica la tua applicazione.",
+    "authStep1Title": "Registra la tua app",
+    "authStep2Description": "Gli utenti vanno su Impostazioni > Accesso Sviluppatore e creano una chiave API personale (arc_u1_...) con i permessi che desiderano condividere.",
+    "authStep2Title": "L'utente crea una chiave personale",
+    "authStep3Description": "Includi la chiave app nell'header X-App-Key e la chiave utente nell'header Authorization: Bearer.",
+    "authStep3Title": "Invia entrambe le chiavi con le richieste",
+    "authenticatedEndpoints": "Endpoint Autenticati (Richiesta doppia chiave)",
+    "authenticatedEndpointsDescription": "Questi endpoint restituiscono dati specifici dell'utente e richiedono sia una chiave app che una chiave utente.",
+    "authentication": "Autenticazione",
+    "authenticationDescription": "Gli endpoint dei dati utente utilizzano un sistema a doppia chiave. La tua app invia sia una chiave app che una chiave utente ad ogni richiesta. Questo assicura che gli utenti acconsentano esplicitamente alla condivisione dei propri dati.",
+    "baseUrl": "URL Base",
+    "codeExamples": "Esempi di codice",
+    "endpointHideout": "Tutti i moduli del rifugio con nomi, livelli e requisiti multilingue. Risposta statica, nessun parametro.",
+    "endpointItems": "Tutti gli oggetti con nomi, descrizioni ed effetti multilingue. Risposta statica, nessun parametro.",
+    "endpointLoadout": "L'equipaggiamento attuale dell'utente con dettagli arricchiti.",
+    "endpointProfile": "Informazioni base del profilo utente (nome utente, livello, membro dal).",
+    "endpointProjects": "Tutti i progetti con nomi e fasi multilingue. Supporta il filtro per stagione.",
+    "endpointQuests": "Tutte le missioni con dettagli, obiettivi e ricompense multilingue. Risposta statica, nessun parametro.",
+    "endpointStash": "L'inventario/scorte dell'utente con dati oggetti arricchiti. Supporta paginazione.",
+    "endpointUserHideout": "Progresso aggiornamento moduli rifugio dell'utente.",
+    "endpointUserProjects": "Progresso completamento fasi progetto dell'utente.",
+    "endpointUserQuests": "Progresso completamento missioni dell'utente con filtri opzionali.",
+    "error401": "Chiave/i API mancante/i o non valida/e. Controlla sia la chiave app che la chiave utente.",
+    "error403": "Permessi insufficienti o app sospesa. La chiave utente deve includere l'ambito richiesto.",
+    "error404": "Risorsa non trovata o l'utente non ha dati per questo endpoint.",
+    "error429": "Limite richieste superato. Attendi il tempo di reset nell'header X-RateLimit-Reset.",
+    "error500": "Errore interno del server. Riprova più tardi.",
+    "errorCode": "Codice",
+    "errorCodes": "Codici errore",
+    "errorCodesDescription": "Tutte le risposte di errore seguono un formato standard con un codice errore e un messaggio.",
+    "errorDescription": "Descrizione",
+    "errorResponse": "Risposta di errore",
+    "exampleRequest": "Esempio di richiesta",
+    "gettingStarted": "Per iniziare",
+    "gettingStartedDescription": "L'API ArcTracker fornisce accesso ai dati di gioco di ARC Raiders. Gli endpoint pubblici non richiedono autenticazione, mentre gli endpoint dati utente usano un sistema di autenticazione a doppia chiave.",
+    "gettingStartedStep1": "1. Gli endpoint pubblici (oggetti, missioni, rifugio, progetti) sono accessibili liberamente senza autenticazione.",
+    "gettingStartedStep2": "2. Per accedere ai dati utente, registra un'app nella Dashboard Sviluppatori per ottenere una chiave app.",
+    "gettingStartedStep3": "3. Gli utenti creano chiavi API personali nella loro pagina Impostazioni e le condividono con la tua app.",
+    "headerAppKey": "La chiave API della tua app (dalla Dashboard Sviluppatori)",
+    "headerUserKey": "La chiave API personale dell'utente",
+    "headersTitle": "Header richiesti",
+    "paramFilter": "Filtro: completed, incomplete.",
+    "paramLocale": "Codice lingua (es. en, de, fr). Predefinito: en.",
+    "paramPage": "Numero pagina per paginazione (predefinito: 1).",
+    "paramPerPage": "Oggetti per pagina, max 100 (predefinito: 50).",
+    "paramSeason": "Filtra per stagione: 1, 2, o separati da virgola (es. 1,2).",
+    "paramSeasonFilter": "Filtra per stagione: 1, 2.",
+    "paramSort": "Ordina per: slot (predefinito), name, quantity.",
+    "publicEndpoints": "Endpoint Pubblici (Nessuna autenticazione richiesta)",
+    "publicEndpointsDescription": "Questi endpoint restituiscono dati di gioco statici e non richiedono autenticazione. Le risposte includono tutte le localizzazioni come oggetti multilingue (es. name: { en: \"...\", de: \"...\", ... }). Le risposte sono memorizzate nella cache e adatte a richieste ad alta frequenza.",
+    "rateLimitHeader": "Massimo numero di richieste consentite per finestra.",
+    "rateLimitRemainingHeader": "Richieste rimanenti nella finestra corrente.",
+    "rateLimitResetHeader": "Timestamp Unix di quando il limite si resetta.",
+    "rateLimits": "Limiti richieste (Rate Limits)",
+    "rateLimitsDescription": "Ogni app riceve 500 richieste all'ora come impostazione predefinita. Le informazioni sul limite sono incluse negli header della risposta. Puoi richiedere un limite più alto dalla Dashboard Sviluppatori.",
+    "responseFormat": "Formato risposta",
+    "responseFormatDescription": "Tutti gli endpoint autenticati restituiscono una struttura JSON coerente.",
+    "successResponse": "Risposta di successo",
+    "title": "Documentazione API"
+  },
+  "BlueprintSync": {
+    "applySync": "Applica Sincronizzazione",
+    "applying": "Applicazione in corso...",
+    "blueprintsToUpdate": "{count, plural, one {# progetto} other {# progetti}} da aggiornare",
+    "changesDetected": "Modifiche Rilevate",
+    "description": "Importa i progetti appresi dal tuo account collegato",
+    "error": "Impossibile recuperare i dati dei progetti",
+    "hideUnchanged": "Nascondi non modificati",
+    "learned": "Appreso",
+    "loading": "Recupero dati progetti...",
+    "noChanges": "Tutto sincronizzato!",
+    "noChangesDescription": "I tuoi progetti sono già aggiornati.",
+    "notLearned": "Non appreso",
+    "retry": "Riprova",
+    "showUnchanged": "Mostra non modificati",
+    "syncSuccess": "Sincronizzazione progetti completata!",
+    "title": "Sincronizza Progetti"
   }
 }
