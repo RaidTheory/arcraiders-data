@@ -7,26 +7,30 @@
     "es": "Salvoconducto",
     "fr": "Passage sûr",
     "he": "מעבר בטוח",
-    "hr": "Siguran Prolaz",
+    "hr": "Siguran prolaz",
     "it": "Passaggio sicuro",
     "ja": "安全な通路",
-    "kr": "안전한 통로",
-    "no": "Trygg passasje",
+    "ko-KR": "무사통과",
+    "no": "Trygg ferdsel",
     "pl": "Bezpieczne przejście",
-    "pt": "Passagem segura",
-    "pt-BR": "Travessia segura",
+    "pt": "Travessia Segura",
+    "pt-BR": "Travessia Segura",
     "ru": "Безопасный проход",
-    "sr": "Siguran Prolaz",
+    "sr": "Bezbedan prolaz",
     "tr": "Güvenli Geçiş",
     "uk": "Безпечний прохід",
-    "zh-CN": "安全通道",
+    "zh-CN": "安全通路",
     "zh-TW": "安全通道"
   },
   "trader": "Apollo",
   "grantedItemIds": [
     {
       "itemId": "light_impact_grenade",
-      "quantity": 10
+      "quantity": 5
+    },
+    {
+      "itemId": "light_impact_grenade",
+      "quantity": 5
     },
     {
       "itemId": "snap_blast_grenade",
@@ -34,49 +38,49 @@
     }
   ],
   "description": {
-    "da": "Jeg har hørt rygter om et signal, som Shani har opfanget. ARC tilpasser sig konstant, og jeg er sikker på, at det ikke bliver deres sidste advarselssignal. Nå, hvis de vil have et våbenkapløb, så får de et.",
-    "de": "Ich hab Gerüchte über ein Signal gehört, das Shani aufgefangen hat. Die ARC passen sich ständig an, und ich bin mir sicher, dass das nicht ihr letztes Warnsignal sein wird. Na ja, wenn sie ein Wettrüsten wollen, dann kriegen sie eins.",
-    "en": "I've heard rumours about a signal that Shani picked up. The ARC are constantly adapting, and I'm sure this won't be their last warning signal. Well, if they want an arms race, they'll get one.",
-    "es": "He oído rumores sobre una señal que Shani captó. Los ARC se adaptan constantemente, y estoy seguro de que esta no será su última señal de advertencia. Bueno, si quieren una carrera armamentística, la tendrán.",
-    "fr": "J'ai entendu des rumeurs à propos d'un signal que Shani a intercepté. Les ARC s'adaptent constamment, et je suis sûr que ce ne sera pas leur dernier signal d'alerte. Eh bien, s'ils veulent une course aux armements, ils l'auront.",
-    "he": "שמעתי שמועות על אות ש-Shani קלטה. ה-ARC מסתגלים כל הזמן, ואני בטוח שזה לא יהיה אות האזהרה האחרון שלהם. ובכן, אם הם רוצים מירוץ חימוש, הם יקבלו אחד.",
-    "hr": "Čuo sam glasine o signalu koji je Shani uhvatila. ARC se stalno prilagođavaju, i siguran sam da to neće biti njihov posljednji signal upozorenja. Pa, ako žele utrku u naoružanju, dobit će je.",
-    "it": "Ho sentito voci su un segnale che Shani ha captato. Gli ARC si adattano costantemente, e sono sicuro che questo non sarà il loro ultimo segnale di avvertimento. Beh, se vogliono una corsa agli armamenti, l'avranno.",
-    "ja": "シャニが拾った信号について噂を聞いた。ARCは常に適応し続けている。これが最後の警告信号じゃないのは確かだ。まあ、軍拡競争がお望みなら、受けて立とう。",
-    "kr": "샤니가 포착한 신호에 대한 소문을 들었어. ARC는 끊임없이 적응하고 있고, 이것이 마지막 경고 신호가 아닐 거라고 확신해. 뭐, 군비 경쟁을 원한다면, 해주지.",
-    "no": "Jeg har hørt rykter om et signal som Shani fanget opp. ARC tilpasser seg hele tiden, og jeg er sikker på at dette ikke blir deres siste varselsignal. Vel, hvis de vil ha et våpenkappløp, så skal de få det.",
-    "pl": "Słyszałem pogłoski o sygnale, który Shani przechwyciła. ARC ciągle się adaptują i jestem pewien, że to nie będzie ich ostatni sygnał ostrzegawczy. Cóż, jeśli chcą wyścigu zbrojeń, to go dostaną.",
-    "pt": "Ouvi rumores sobre um sinal que a Shani captou. Os ARC estão constantemente a adaptar-se, e tenho a certeza de que este não será o último sinal de aviso deles. Bem, se querem uma corrida armamentista, vão tê-la.",
-    "pt-BR": "Ouvi boatos sobre um sinal que a Shani captou. Os ARC estão se adaptando constantemente, e tenho certeza de que esse não será o último sinal de alerta deles. Bom, se eles querem uma corrida armamentista, vão ter uma.",
-    "ru": "Я слышал слухи о сигнале, который перехватила Шани. ARC постоянно адаптируются, и я уверен, что это не последний их предупредительный сигнал. Что ж, если они хотят гонку вооружений — они её получат.",
-    "sr": "Čuo sam glasine o signalu koji je Shani uhvatila. ARC se stalno prilagođavaju, i siguran sam da to neće biti njihov poslednji signal upozorenja. Pa, ako žele trku u naoružanju, dobiće je.",
-    "tr": "Shani'nin yakaladığı bir sinyal hakkında söylentiler duydum. ARC sürekli uyum sağlıyor ve bunun son uyarı sinyalleri olmayacağından eminim. Eh, silahlanma yarışı istiyorlarsa, alacaklar.",
-    "uk": "Я чув чутки про сигнал, який перехопила Шані. ARC постійно адаптуються, і я впевнений, що це не буде їхнім останнім попереджувальним сигналом. Що ж, якщо вони хочуть перегони озброєнь — вони їх отримають.",
-    "zh-CN": "我听说了关于沙尼截获的一个信号的传闻。ARC在不断适应，我确信这不会是他们最后的警告信号。好吧，如果他们想要军备竞赛，那就给他们。",
-    "zh-TW": "我聽說了關於沙尼截獲的一個信號的傳聞。ARC在不斷適應，我確信這不會是他們最後的警告信號。好吧，如果他們想要軍備競賽，那就給他們。"
+    "da": "Jeg hørte rygter om et signal, Shani opfangede. ARC tilpasser sig konstant, og jeg er sikker på, at dette ikke bliver deres sidste advarselstegn.\r\n\r\nNå, men hvis det er et våbenkapløb, de vil have, så skal de få et.",
+    "de": "Ich hab Gerüchte über ein Signal gehört, das Shani aufgefangen hat. Die ARC passen sich ständig an, und ich bin mir sicher, dass das nicht ihr letztes Warnsignal sein wird.\r\n\r\nNa ja, wenn sie ein Wettrüsten wollen, dann kriegen sie eins.",
+    "en": "I heard rumors about some signal Shani picked up. ARC is constantly adapting, and I'm sure this won’t be their last warning sign.\r\n\r\nWell, if it’s an arms race they want, they can get one.",
+    "es": "Dicen por ahí que Shani ha detectado una señal. Las ARC no paran de evolucionar, y seguro que este no será el único aviso.\r\n\r\nSi lo que buscan es una carrera armamentista, la tendrán.",
+    "fr": "J'ai eu vent de rumeurs à propos d'un signal que Shani aurait capté. L'ARC s'adapte en permanence, et je parie que ce ne sera pas leur dernier avertissement.\r\n\r\nS'ils veulent une course à l'armement, ils vont en avoir une.",
+    "he": "שמעתי שמועות על איזשהו אות ש-Shani קלטה. ה-ARC מסתגלים כל הזמן, ואני בטוח שזה לא יהיה סימן האזהרה האחרון שלהם.\r\n\r\nובכן, אם הם רוצים מרוץ חימוש, הם יקבלו אחד.",
+    "hr": "Čuo sam glasine o nekakvom signalu koji je Shani uhvatila. ARC se stalno prilagođava i siguran sam da ovo neće biti njihov posljednji znak upozorenja.\r\n\r\nPa, ako žele utrku u naoružanju, dobit će je.",
+    "it": "Ho sentito delle voci su un segnale captato da Shani. L'ARC si adatta costantemente e sono sicuro che questo non sarà l'ultimo segnale di avvertimento.\r\n\r\nBeh, se vogliono una corsa agli armamenti, l'avranno.",
+    "ja": "シャニが拾った信号について噂を聞いたよ。ARCは常に環境に適応するし、これで最後ってわけじゃないはずだ。\r\n\r\n軍備拡張で競争したいなら、やってやろうじゃないか。",
+    "ko-KR": "샤니가 포착한 신호에 관한 소문을 들었어요. 아크는 계속 적응 중이니, 이번이 마지막 신호도 아닐 테죠. \r\n\r\n무기 경쟁을 펼치길 원한다면 그러라고 해요.",
+    "no": "Jeg hørte rykter om et signal Shani plukket opp. ARC tilpasser seg stadig, og jeg er sikker på at dette ikke blir deres siste advarsel.\r\n\r\nVel, hvis det er et våpenkappløp de vil ha, så skal de få det.",
+    "pl": "Dotarły do mnie pogłoski, że Shani odebrała jakiś sygnał. ARC stale się adaptuje i coś mi mówi, że to nie będzie ich ostatnie ostrzeżenie.\r\n\r\nNo cóż, jeśli marzy im się wyścig zbrojeń, możemy im go zafundować.",
+    "pt": "Ouvi boatos sobre um sinal que a Shani captou. As ARCs estão sempre se adaptando, e tenho certeza de que esse não vai ser o último sinal de alerta delas. \r\n\r\nBom, se elas querem uma corrida armamentista, é o que vão ter.",
+    "pt-BR": "Ouvi boatos sobre um sinal que a Shani captou. As ARCs estão sempre se adaptando, e tenho certeza de que esse não vai ser o último sinal de alerta delas. \r\n\r\nBom, se elas querem uma corrida armamentista, é o que vão ter.",
+    "ru": "Ходят слухи о каком-то сигнале, который поймала Шани. ARC постоянно адаптируются, и вряд ли это будет их последнее предупреждение. \r\n\r\nНу, если они хотят гонку вооружений, то они ее получат.",
+    "sr": "Čuo sam glasine o signalu koji je Shani uhvatila. ARC se stalno prilagođava i siguran sam da ovo neće biti njihov poslednji znak upozorenja.\r\n\r\nPa, ako žele trku u naoružanju, dobiće je.",
+    "tr": "Shani'nin bir sinyal aldığını duydum. ARC devamlı yeni gelişmelere uyum sağlıyor, eminim bu son uyarıları olmayacaktır. \r\n\r\nEğer silahlanma yarışına girmek istiyorlarsa buyursun gelsinler.",
+    "uk": "Я чув чутки про сигнал, який перехопила Shani. ARC постійно адаптуються, і я впевнений, що це не останнє їхнє попередження.\r\n\r\nЩо ж, якщо вони хочуть гонки озброєнь, вони її отримають.",
+    "zh-CN": "我听说萨尼捕捉到一些奇怪的信号。看来ARC在不断适应，这应该不是它们最后的警告信号。\r\n\r\n好吧，如果它们想要来一场军备竞赛，那我们就满足它们。",
+    "zh-TW": "我聽說珊妮接收到一些訊號。ARC一直持續在演進著，我敢說這不會是他們最後發出的警告訊號。\r\n\r\n要是他們想進行軍備競賽，我們當然也會奉陪。"
   },
   "objectives": [
     {
-      "da": "Ødelæg 2 ARC-fjender ved at bruge en eksplosiv granat",
-      "de": "Zerstöre 2 ARC-Gegner mit jeweils einer Explosionsgranate",
+      "da": "Ødelæg 2 ARC-fjender med en hvilken som helst sprænggranat",
+      "de": "Zerstöre 2 ARC-Gegner mit jeweils einer Explosionsgranate.",
       "en": "Destroy 2 ARC enemies using any explosive grenade",
-      "es": "Destruye 2 enemigos ARC usando cualquier granada explosiva",
-      "fr": "Détruisez 2 ennemis ARC avec n'importe quelle grenade explosive",
-      "he": "השמד 2 אויבי ARC באמצעות רימון נפיץ כלשהו",
-      "hr": "Uništite 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu",
-      "it": "Distruggi 2 nemici ARC usando qualsiasi granata esplosiva",
-      "ja": "任意のグレネードでARCを2体爆破する",
-      "kr": "폭발 수류탄으로 아크 2명 처치",
-      "no": "Ødelegg 2 ARC-fiender ved å bruke en eksplosiv granat",
-      "pl": "Zniszcz 2 wrogów ARC używając dowolnego granatu wybuchowego",
+      "es": "Destruye 2 enemigos ARC con cualquier granada explosiva.",
+      "fr": "Détruire 2 ennemis ARC avec n'importe quelle grenade explosive",
+      "he": "השמד 2 אויבי ARC באמצעות כל רימון נפיץ",
+      "hr": "Uništi 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu",
+      "it": "Distruggi 2 nemici ARC usando granate qualsiasi",
+      "ja": "任意のグレネードでARCエネミーを2体爆破した",
+      "ko-KR": "아무 폭발 수류탄으로 아크 적 2개 파괴하기",
+      "no": "Ødelegg 2 ARC-fiender med en hvilken som helst eksplosiv granat",
+      "pl": "Zniszcz 2 wrogie maszyny ARC za pomocą dowolnego granatu wybuchającego",
       "pt": "Destrua 2 inimigos ARC usando qualquer granada explosiva",
       "pt-BR": "Destrua 2 inimigos ARC usando qualquer granada explosiva",
-      "ru": "Уничтожьте 2 врагов ARC с помощью любой взрывной гранаты",
-      "sr": "Uništite 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu",
-      "tr": "Herhangi bir patlayıcı bomba kullanarak 2 ARC düşmanını yok et",
-      "uk": "Знищте 2 ворогів ARC за допомогою будь-якої вибухової гранати",
-      "zh-CN": "使用任意爆炸手榴弹摧毁2个ARC敌人",
-      "zh-TW": "使用任意爆炸手榴彈摧毀2個ARC敵人"
+      "ru": "Уничтожьте 2 машины ARC при помощи любых взрывных гранат.",
+      "sr": "Uništi 2 ARC neprijatelja koristeći bilo koju eksplozivnu granatu",
+      "tr": "Herhangi bir patlayıcı bomba kullanarak 2 ARC düşmanı yok et",
+      "uk": "Знищіть 2 ворогів ARC, використовуючи будь-яку вибухову гранату",
+      "zh-CN": "使用任意爆炸式手雷摧毁2个ARC敌人",
+      "zh-TW": "使用任何爆炸手榴彈摧毀ARC敵人2次"
     }
   ],
   "rewardItemIds": [
@@ -85,16 +89,16 @@
       "quantity": 5
     },
     {
-      "itemId": "barricade_kit",
+      "itemId": "shrapnel_grenade",
       "quantity": 3
     },
     {
-      "itemId": "shrapnel_grenade",
+      "itemId": "barricade_kit",
       "quantity": 3
     }
   ],
   "xp": 0,
   "previousQuestIds": ["ss5"],
   "nextQuestIds": ["ss8a"],
-  "updatedAt": "01/13/2026"
+  "updatedAt": "02/20/2026"
 }
