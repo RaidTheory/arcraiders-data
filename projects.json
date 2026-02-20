@@ -355,20 +355,108 @@
         "phase": 5,
         "requirementCategories": [
           {
-            "category": "Combat items",
-            "valueRequired": 200000
+            "category": "Combat Items",
+            "valueRequired": 200000,
+            "localizations": {
+              "da": "",
+              "de": "Kampfgegenstände",
+              "en": "Combat items",
+              "es": "Objetos de combate",
+              "fr": "Objets de combat",
+              "he": "",
+              "hr": "",
+              "it": "Oggetti da combattimento",
+              "ja": "戦闘アイテム",
+              "ko-KR": "전투 아이템",
+              "no": "",
+              "pl": "Przedmioty związane z walką",
+              "pt": "Itens de combate",
+              "pt-BR": "Itens de combate",
+              "ru": "Предметы для боя",
+              "sr": "",
+              "tr": "Çatışma Eşyaları",
+              "uk": "",
+              "zh-CN": "战斗物品",
+              "zh-TW": "戰鬥物品"
+            }
           },
           {
-            "category": "Survival items",
-            "valueRequired": 100000
+            "category": "Survival Items",
+            "valueRequired": 100000,
+            "localizations": {
+              "da": "",
+              "de": "Überlebenswichtige Gegenstände",
+              "en": "Survival items",
+              "es": "Objetos de supervivencia",
+              "fr": "Objets de survie",
+              "he": "",
+              "hr": "",
+              "it": "Oggetti di sopravvivenza",
+              "ja": "サバイバル用具",
+              "ko-KR": "생존 아이템",
+              "no": "",
+              "pl": "Przedmioty umożliwiające przetrwanie",
+              "pt": "Itens de sobrevivência",
+              "pt-BR": "Itens de sobrevivência",
+              "ru": "Предметы для выживания",
+              "sr": "",
+              "tr": "Hayatta kalma eşyaları",
+              "uk": "",
+              "zh-CN": "生存物品",
+              "zh-TW": "生存物品"
+            }
           },
           {
             "category": "Provisions",
-            "valueRequired": 150000
+            "valueRequired": 150000,
+            "localizations": {
+              "da": "",
+              "de": "Proviant",
+              "en": "Provisions",
+              "es": "Provisiones",
+              "fr": "Provisions",
+              "he": "",
+              "hr": "",
+              "it": "Provviste",
+              "ja": "食料",
+              "ko-KR": "식량",
+              "no": "",
+              "pl": "Zapasy",
+              "pt": "Provisões",
+              "pt-BR": "Provisões",
+              "ru": "Провизия",
+              "sr": "",
+              "tr": "Kumanyalar",
+              "uk": "",
+              "zh-CN": "口粮",
+              "zh-TW": "物資"
+            }
           },
           {
             "category": "Materials",
-            "valueRequired": 300000
+            "valueRequired": 300000,
+            "localizations": {
+              "da": "",
+              "de": "Materialien",
+              "en": "Materials",
+              "es": "Materiales",
+              "fr": "Matériaux",
+              "he": "",
+              "hr": "",
+              "it": "Materiali",
+              "ja": "素材",
+              "ko-KR": "재료",
+              "no": "",
+              "pl": "Materiały",
+              "pt": "Materiais",
+              "pt-BR": "Materiais",
+              "ru": "Материалы",
+              "sr": "",
+              "tr": "Materyaller",
+              "uk": "",
+              "zh-CN": "材料",
+              "zh-TW": "材料"
+            }
           }
         ],
         "requirementItemIds": []
@@ -422,7 +510,29 @@
         "requirementCategories": [
           {
             "category": "Unload Inventory",
-            "valueRequired": 5000000
+            "valueRequired": 5000000,
+            "localizations": {
+              "da": "",
+              "de": "Inventar entladen",
+              "en": "Unload Inventory",
+              "es": "Vaciar inventario",
+              "fr": "Déposer tout l'inventaire",
+              "he": "",
+              "hr": "",
+              "it": "Scarica inventario",
+              "ja": "インベントリの中身を降ろす",
+              "ko-KR": "인벤토리 전부 싣기",
+              "no": "",
+              "pl": "Rozładuj ekwipunek",
+              "pt": "Descarregar inventário",
+              "pt-BR": "Descarregar inventário",
+              "ru": "Разгрузить инвентарь",
+              "sr": "",
+              "tr": "Envanteri Boşalt",
+              "uk": "",
+              "zh-CN": "清空物品栏",
+              "zh-TW": "卸貨物品欄"
+            }
           }
         ],
         "requirementItemIds": []
@@ -787,20 +897,108 @@
         "phase": 5,
         "requirementCategories": [
           {
-            "category": "Combat items",
-            "valueRequired": 250000
+            "category": "Combat Items",
+            "valueRequired": 250000,
+            "localizations": {
+              "da": "",
+              "de": "Kampfgegenstände",
+              "en": "Combat items",
+              "es": "Objetos de combate",
+              "fr": "Objets de combat",
+              "he": "",
+              "hr": "",
+              "it": "Oggetti da combattimento",
+              "ja": "戦闘アイテム",
+              "ko-KR": "전투 아이템",
+              "no": "",
+              "pl": "Przedmioty związane z walką",
+              "pt": "Itens de combate",
+              "pt-BR": "Itens de combate",
+              "ru": "Предметы для боя",
+              "sr": "",
+              "tr": "Çatışma Eşyaları",
+              "uk": "",
+              "zh-CN": "战斗物品",
+              "zh-TW": "戰鬥物品"
+            }
           },
           {
-            "category": "Survival items",
-            "valueRequired": 100000
+            "category": "Survival Items",
+            "valueRequired": 100000,
+            "localizations": {
+              "da": "",
+              "de": "Überlebenswichtige Gegenstände",
+              "en": "Survival items",
+              "es": "Objetos de supervivencia",
+              "fr": "Objets de survie",
+              "he": "",
+              "hr": "",
+              "it": "Oggetti di sopravvivenza",
+              "ja": "サバイバル用具",
+              "ko-KR": "생존 아이템",
+              "no": "",
+              "pl": "Przedmioty umożliwiające przetrwanie",
+              "pt": "Itens de sobrevivência",
+              "pt-BR": "Itens de sobrevivência",
+              "ru": "Предметы для выживания",
+              "sr": "",
+              "tr": "Hayatta kalma eşyaları",
+              "uk": "",
+              "zh-CN": "生存物品",
+              "zh-TW": "生存物品"
+            }
           },
           {
             "category": "Provisions",
-            "valueRequired": 180000
+            "valueRequired": 180000,
+            "localizations": {
+              "da": "",
+              "de": "Proviant",
+              "en": "Provisions",
+              "es": "Provisiones",
+              "fr": "Provisions",
+              "he": "",
+              "hr": "",
+              "it": "Provviste",
+              "ja": "食料",
+              "ko-KR": "식량",
+              "no": "",
+              "pl": "Zapasy",
+              "pt": "Provisões",
+              "pt-BR": "Provisões",
+              "ru": "Провизия",
+              "sr": "",
+              "tr": "Kumanyalar",
+              "uk": "",
+              "zh-CN": "口粮",
+              "zh-TW": "物資"
+            }
           },
           {
             "category": "Materials",
-            "valueRequired": 300000
+            "valueRequired": 300000,
+            "localizations": {
+              "da": "",
+              "de": "Materialien",
+              "en": "Materials",
+              "es": "Materiales",
+              "fr": "Matériaux",
+              "he": "",
+              "hr": "",
+              "it": "Materiali",
+              "ja": "素材",
+              "ko-KR": "재료",
+              "no": "",
+              "pl": "Materiały",
+              "pt": "Materiais",
+              "pt-BR": "Materiais",
+              "ru": "Материалы",
+              "sr": "",
+              "tr": "Materyaller",
+              "uk": "",
+              "zh-CN": "材料",
+              "zh-TW": "材料"
+            }
           }
         ],
         "requirementItemIds": []
@@ -854,7 +1052,29 @@
         "requirementCategories": [
           {
             "category": "Unload Inventory",
-            "valueRequired": 3000000
+            "valueRequired": 3000000,
+            "localizations": {
+              "da": "",
+              "de": "Inventar entladen",
+              "en": "Unload Inventory",
+              "es": "Vaciar inventario",
+              "fr": "Déposer tout l'inventaire",
+              "he": "",
+              "hr": "",
+              "it": "Scarica inventario",
+              "ja": "インベントリの中身を降ろす",
+              "ko-KR": "인벤토리 전부 싣기",
+              "no": "",
+              "pl": "Rozładuj ekwipunek",
+              "pt": "Descarregar inventário",
+              "pt-BR": "Descarregar inventário",
+              "ru": "Разгрузить инвентарь",
+              "sr": "",
+              "tr": "Envanteri Boşalt",
+              "uk": "",
+              "zh-CN": "清空物品栏",
+              "zh-TW": "卸貨物品欄"
+            }
           }
         ],
         "requirementItemIds": []
