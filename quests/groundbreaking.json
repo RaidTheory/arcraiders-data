@@ -150,17 +150,11 @@
   ],
   "rewardItemIds": [
     {
-      "itemId": "outfit",
-      "name": "Warden",
-      "quantity": 1
-    },
-    {
-      "itemId": "outfit_color",
-      "name": "Warden Tangerine",
-      "quantity": 1
-    },
-    {
       "itemId": "power_rod",
+      "quantity": 1
+    },
+    {
+      "itemId": "tangerine_warden_color",
       "quantity": 1
     }
   ],
