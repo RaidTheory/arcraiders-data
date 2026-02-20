@@ -356,107 +356,107 @@
         "requirementCategories": [
           {
             "category": "Combat Items",
-            "valueRequired": 200000,
             "localizations": {
-              "da": "",
+              "da": "Kampgenstande",
               "de": "Kampfgegenstände",
               "en": "Combat items",
               "es": "Objetos de combate",
               "fr": "Objets de combat",
-              "he": "",
-              "hr": "",
+              "he": "פריטי קרב",
+              "hr": "Borbeni predmeti",
               "it": "Oggetti da combattimento",
               "ja": "戦闘アイテム",
               "ko-KR": "전투 아이템",
-              "no": "",
+              "no": "Kampgjenstander",
               "pl": "Przedmioty związane z walką",
               "pt": "Itens de combate",
               "pt-BR": "Itens de combate",
               "ru": "Предметы для боя",
-              "sr": "",
+              "sr": "Borbeni predmeti",
               "tr": "Çatışma Eşyaları",
-              "uk": "",
+              "uk": "Бойові предмети",
               "zh-CN": "战斗物品",
               "zh-TW": "戰鬥物品"
-            }
+            },
+            "valueRequired": 200000
           },
           {
             "category": "Survival Items",
-            "valueRequired": 100000,
             "localizations": {
-              "da": "",
+              "da": "Overlevelsesgenstande",
               "de": "Überlebenswichtige Gegenstände",
               "en": "Survival items",
               "es": "Objetos de supervivencia",
               "fr": "Objets de survie",
-              "he": "",
-              "hr": "",
+              "he": "פריטי הישרדות",
+              "hr": "Predmeti za preživljavanje",
               "it": "Oggetti di sopravvivenza",
               "ja": "サバイバル用具",
               "ko-KR": "생존 아이템",
-              "no": "",
+              "no": "Overlevingsgjenstander",
               "pl": "Przedmioty umożliwiające przetrwanie",
               "pt": "Itens de sobrevivência",
               "pt-BR": "Itens de sobrevivência",
               "ru": "Предметы для выживания",
-              "sr": "",
+              "sr": "Predmeti za preživljavanje",
               "tr": "Hayatta kalma eşyaları",
-              "uk": "",
+              "uk": "Предмети для виживання",
               "zh-CN": "生存物品",
               "zh-TW": "生存物品"
-            }
+            },
+            "valueRequired": 100000
           },
           {
             "category": "Provisions",
-            "valueRequired": 150000,
             "localizations": {
-              "da": "",
+              "da": "Proviant",
               "de": "Proviant",
               "en": "Provisions",
               "es": "Provisiones",
               "fr": "Provisions",
-              "he": "",
-              "hr": "",
+              "he": "מצרכים",
+              "hr": "Namirnice",
               "it": "Provviste",
               "ja": "食料",
               "ko-KR": "식량",
-              "no": "",
+              "no": "Proviant",
               "pl": "Zapasy",
               "pt": "Provisões",
               "pt-BR": "Provisões",
               "ru": "Провизия",
-              "sr": "",
+              "sr": "Namirnice",
               "tr": "Kumanyalar",
-              "uk": "",
+              "uk": "Провізія",
               "zh-CN": "口粮",
               "zh-TW": "物資"
-            }
+            },
+            "valueRequired": 150000
           },
           {
             "category": "Materials",
-            "valueRequired": 300000,
             "localizations": {
-              "da": "",
+              "da": "Materialer",
               "de": "Materialien",
               "en": "Materials",
               "es": "Materiales",
               "fr": "Matériaux",
-              "he": "",
-              "hr": "",
+              "he": "חומרים",
+              "hr": "Materijali",
               "it": "Materiali",
               "ja": "素材",
               "ko-KR": "재료",
-              "no": "",
+              "no": "Materialer",
               "pl": "Materiały",
               "pt": "Materiais",
               "pt-BR": "Materiais",
               "ru": "Материалы",
-              "sr": "",
+              "sr": "Materijali",
               "tr": "Materyaller",
-              "uk": "",
+              "uk": "Матеріали",
               "zh-CN": "材料",
               "zh-TW": "材料"
-            }
+            },
+            "valueRequired": 300000
           }
         ],
         "requirementItemIds": []
@@ -510,36 +510,36 @@
         "requirementCategories": [
           {
             "category": "Unload Inventory",
-            "valueRequired": 5000000,
             "localizations": {
-              "da": "",
+              "da": "Tøm inventar",
               "de": "Inventar entladen",
               "en": "Unload Inventory",
               "es": "Vaciar inventario",
               "fr": "Déposer tout l'inventaire",
-              "he": "",
-              "hr": "",
+              "he": "פריקת מלאי",
+              "hr": "Istovari inventar",
               "it": "Scarica inventario",
               "ja": "インベントリの中身を降ろす",
               "ko-KR": "인벤토리 전부 싣기",
-              "no": "",
+              "no": "Tøm inventar",
               "pl": "Rozładuj ekwipunek",
               "pt": "Descarregar inventário",
               "pt-BR": "Descarregar inventário",
               "ru": "Разгрузить инвентарь",
-              "sr": "",
+              "sr": "Istovari inventar",
               "tr": "Envanteri Boşalt",
-              "uk": "",
+              "uk": "Розвантажити інвентар",
               "zh-CN": "清空物品栏",
               "zh-TW": "卸貨物品欄"
-            }
+            },
+            "valueRequired": 5000000
           }
         ],
         "requirementItemIds": []
       }
     ],
-    "startDate": 1766390400,
-    "endDate": 1772006400
+    "endDate": 1772006400,
+    "startDate": 1766390400
   },
   {
     "id": "expedition_project_s1",
@@ -898,107 +898,107 @@
         "requirementCategories": [
           {
             "category": "Combat Items",
-            "valueRequired": 250000,
             "localizations": {
-              "da": "",
+              "da": "Kampgenstande",
               "de": "Kampfgegenstände",
               "en": "Combat items",
               "es": "Objetos de combate",
               "fr": "Objets de combat",
-              "he": "",
-              "hr": "",
+              "he": "פריטי קרב",
+              "hr": "Borbeni predmeti",
               "it": "Oggetti da combattimento",
               "ja": "戦闘アイテム",
               "ko-KR": "전투 아이템",
-              "no": "",
+              "no": "Kampgjenstander",
               "pl": "Przedmioty związane z walką",
               "pt": "Itens de combate",
               "pt-BR": "Itens de combate",
               "ru": "Предметы для боя",
-              "sr": "",
+              "sr": "Borbeni predmeti",
               "tr": "Çatışma Eşyaları",
-              "uk": "",
+              "uk": "Бойові предмети",
               "zh-CN": "战斗物品",
               "zh-TW": "戰鬥物品"
-            }
+            },
+            "valueRequired": 250000
           },
           {
             "category": "Survival Items",
-            "valueRequired": 100000,
             "localizations": {
-              "da": "",
+              "da": "Overlevelsesgenstande",
               "de": "Überlebenswichtige Gegenstände",
               "en": "Survival items",
               "es": "Objetos de supervivencia",
               "fr": "Objets de survie",
-              "he": "",
-              "hr": "",
+              "he": "פריטי הישרדות",
+              "hr": "Predmeti za preživljavanje",
               "it": "Oggetti di sopravvivenza",
               "ja": "サバイバル用具",
               "ko-KR": "생존 아이템",
-              "no": "",
+              "no": "Overlevingsgjenstander",
               "pl": "Przedmioty umożliwiające przetrwanie",
               "pt": "Itens de sobrevivência",
               "pt-BR": "Itens de sobrevivência",
               "ru": "Предметы для выживания",
-              "sr": "",
+              "sr": "Predmeti za preživljavanje",
               "tr": "Hayatta kalma eşyaları",
-              "uk": "",
+              "uk": "Предмети для виживання",
               "zh-CN": "生存物品",
               "zh-TW": "生存物品"
-            }
+            },
+            "valueRequired": 100000
           },
           {
             "category": "Provisions",
-            "valueRequired": 180000,
             "localizations": {
-              "da": "",
+              "da": "Proviant",
               "de": "Proviant",
               "en": "Provisions",
               "es": "Provisiones",
               "fr": "Provisions",
-              "he": "",
-              "hr": "",
+              "he": "מצרכים",
+              "hr": "Namirnice",
               "it": "Provviste",
               "ja": "食料",
               "ko-KR": "식량",
-              "no": "",
+              "no": "Proviant",
               "pl": "Zapasy",
               "pt": "Provisões",
               "pt-BR": "Provisões",
               "ru": "Провизия",
-              "sr": "",
+              "sr": "Namirnice",
               "tr": "Kumanyalar",
-              "uk": "",
+              "uk": "Провізія",
               "zh-CN": "口粮",
               "zh-TW": "物資"
-            }
+            },
+            "valueRequired": 180000
           },
           {
             "category": "Materials",
-            "valueRequired": 300000,
             "localizations": {
-              "da": "",
+              "da": "Materialer",
               "de": "Materialien",
               "en": "Materials",
               "es": "Materiales",
               "fr": "Matériaux",
-              "he": "",
-              "hr": "",
+              "he": "חומרים",
+              "hr": "Materijali",
               "it": "Materiali",
               "ja": "素材",
               "ko-KR": "재료",
-              "no": "",
+              "no": "Materialer",
               "pl": "Materiały",
               "pt": "Materiais",
               "pt-BR": "Materiais",
               "ru": "Материалы",
-              "sr": "",
+              "sr": "Materijali",
               "tr": "Materyaller",
-              "uk": "",
+              "uk": "Матеріали",
               "zh-CN": "材料",
               "zh-TW": "材料"
-            }
+            },
+            "valueRequired": 300000
           }
         ],
         "requirementItemIds": []
@@ -1052,36 +1052,36 @@
         "requirementCategories": [
           {
             "category": "Unload Inventory",
-            "valueRequired": 3000000,
             "localizations": {
-              "da": "",
+              "da": "Tøm inventar",
               "de": "Inventar entladen",
               "en": "Unload Inventory",
               "es": "Vaciar inventario",
               "fr": "Déposer tout l'inventaire",
-              "he": "",
-              "hr": "",
+              "he": "פריקת מלאי",
+              "hr": "Istovari inventar",
               "it": "Scarica inventario",
               "ja": "インベントリの中身を降ろす",
               "ko-KR": "인벤토리 전부 싣기",
-              "no": "",
+              "no": "Tøm inventar",
               "pl": "Rozładuj ekwipunek",
               "pt": "Descarregar inventário",
               "pt-BR": "Descarregar inventário",
               "ru": "Разгрузить инвентарь",
-              "sr": "",
+              "sr": "Istovari inventar",
               "tr": "Envanteri Boşalt",
-              "uk": "",
+              "uk": "Розвантажити інвентар",
               "zh-CN": "清空物品栏",
               "zh-TW": "卸貨物品欄"
-            }
+            },
+            "valueRequired": 3000000
           }
         ],
         "requirementItemIds": []
       }
     ],
-    "startDate": 1761811200,
-    "endDate": 1765958400
+    "endDate": 1765958400,
+    "startDate": 1761811200
   },
   {
     "id": "flickering_flames_project",
@@ -1952,7 +1952,7 @@
         ]
       }
     ],
-    "startDate": 1756080000,
-    "endDate": 2524521600
+    "endDate": 2524521600,
+    "startDate": 1756080000
   }
 ]
