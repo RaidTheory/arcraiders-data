@@ -2,16 +2,12 @@ We currently are missing several in-game item images. If you want to contribute 
 
 - angled_grip_iii_blueprint
 - aphelion
-- backpack_black_hiker_color
-- banana
 - blue_gate_cellar_key
 - blue_gate_village_key
-- blue_radio_renegade_color
 - bobcat_i
 - bobcat_ii
 - bobcat_iii
 - bobcat_iv
-- burgerboy
 - buried_city_hospital_key
 - buried_city_jkv_employee_access_card
 - buried_city_residential_master_key
@@ -19,7 +15,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - burned_arc_circuitry
 - burnt_out_candles
 - candleberries
-- cans_backpack_attachment
 - celeste_journal
 - cheer
 - combat_mk1
@@ -41,7 +36,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - il_toro_i
 - il_toro_iii
 - il_toro_iv
-- junior_outfit
 - kettle_ii
 - kinetic_converter_blueprint
 - lances_mixtape_5th_edition
@@ -52,7 +46,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - osprey_i
 - osprey_ii
 - patrol_car_key
-- radio_renegade
 - rattler_ii
 - rattler_iii
 - rattler_iv
