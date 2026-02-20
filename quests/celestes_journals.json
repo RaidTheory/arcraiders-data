@@ -22,7 +22,9 @@
     "zh-CN": "塞莱斯特的日记",
     "zh-TW": "賽蕾絲特的日記"
   },
-  "map": ["dam_battlegrounds"],
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Celeste",
   "requiredItemIds": [
     {
@@ -136,7 +138,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10r"],
-  "nextQuestIds": ["ss10w"],
+  "previousQuestIds": [
+    "ss10r"
+  ],
+  "nextQuestIds": [
+    "ss10w"
+  ],
   "updatedAt": "01/13/2026"
 }
