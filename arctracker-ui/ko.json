@@ -375,7 +375,15 @@
     "sectionPrivacy": "개인정보 보호",
     "adPersonalizationTitle": "맞춤형 광고",
     "adPersonalizationDescription": "더 관련성 높은 광고를 표시하기 위해 광고 제공업체와 익명 식별자를 공유하는 것을 허용합니다. 개인 정보는 절대 전송되지 않습니다.",
-    "adPersonalizationToggleLabel": "맞춤형 광고 활성화"
+    "adPersonalizationToggleLabel": "맞춤형 광고 활성화",
+    "displayName": "표시 이름",
+    "displayNameEdit": "수정",
+    "displayNameSave": "저장",
+    "displayNameCancel": "취소",
+    "displayNameSaved": "표시 이름이 업데이트되었습니다.",
+    "displayNameError": "표시 이름 업데이트에 실패했습니다. 다시 시도해 주세요.",
+    "displayNameTooLong": "표시 이름은 32자 이하여야 합니다.",
+    "displayNameRequired": "표시 이름은 비워둘 수 없습니다."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "아이템 검색...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "변경 없는 항목 표시",
     "syncSuccess": "설계도 동기화 완료!",
     "title": "설계도 동기화"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "레이더 도구"
+    },
+    "killTargets": {
+      "player": "플레이어",
+      "squadmate": "분대원"
+    }
   }
 }

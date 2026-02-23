@@ -375,7 +375,15 @@
     "sectionPrivacy": "Prywatność",
     "adPersonalizationTitle": "Spersonalizowane reklamy",
     "adPersonalizationDescription": "Zezwól na udostępnienie anonimowego identyfikatora naszemu dostawcy reklam w celu wyświetlania lepiej dopasowanych reklam. Żadne dane osobowe nie są przesyłane.",
-    "adPersonalizationToggleLabel": "Włącz spersonalizowane reklamy"
+    "adPersonalizationToggleLabel": "Włącz spersonalizowane reklamy",
+    "displayName": "Nazwa wyświetlana",
+    "displayNameEdit": "Edytuj",
+    "displayNameSave": "Zapisz",
+    "displayNameCancel": "Anuluj",
+    "displayNameSaved": "Zaktualizowano nazwę wyświetlaną.",
+    "displayNameError": "Nie udało się zaktualizować nazwy wyświetlanej. Spróbuj ponownie.",
+    "displayNameTooLong": "Nazwa wyświetlana może mieć maksymalnie 32 znaki.",
+    "displayNameRequired": "Nazwa wyświetlana nie może być pusta."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Szukaj przedmiotów...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "Pokaż niezmienione",
     "syncSuccess": "Synchronizacja schematów zakończona!",
     "title": "Synchronizuj schematy"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Narzędzie Raidera"
+    },
+    "killTargets": {
+      "player": "Gracz",
+      "squadmate": "Członek oddziału"
+    }
   }
 }

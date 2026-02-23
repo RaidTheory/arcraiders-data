@@ -375,7 +375,15 @@
     "sectionPrivacy": "Privatliv",
     "adPersonalizationTitle": "Personlige annoncer",
     "adPersonalizationDescription": "Tillad, at en anonym identifikator deles med vores annonceudbyder for at vise mere relevante annoncer. Der sendes aldrig personlige data.",
-    "adPersonalizationToggleLabel": "Aktivér personlige annoncer"
+    "adPersonalizationToggleLabel": "Aktivér personlige annoncer",
+    "displayName": "Visningsnavn",
+    "displayNameEdit": "Rediger",
+    "displayNameSave": "Gem",
+    "displayNameCancel": "Annuller",
+    "displayNameSaved": "Visningsnavn opdateret.",
+    "displayNameError": "Kunne ikke opdatere visningsnavn. Prøv venligst igen.",
+    "displayNameTooLong": "Visningsnavn må højst være på 32 tegn.",
+    "displayNameRequired": "Visningsnavn må ikke være tomt."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Søg genstande...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "Vis uændrede",
     "syncSuccess": "Synkronisering af tegninger fuldført!",
     "title": "Synkroniser tegninger"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Raider-værktøj"
+    },
+    "killTargets": {
+      "player": "Spiller",
+      "squadmate": "Holdkammerat"
+    }
   }
 }

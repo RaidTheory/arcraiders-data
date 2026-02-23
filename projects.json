@@ -355,11 +355,11 @@
         "phase": 5,
         "requirementCategories": [
           {
-            "category": "Combat items",
+            "category": "Combat Items",
             "valueRequired": 200000
           },
           {
-            "category": "Survival items",
+            "category": "Survival Items",
             "valueRequired": 100000
           },
           {
@@ -421,8 +421,8 @@
         "phase": 6,
         "requirementCategories": [
           {
-            "category": "Unload Inventory",
-            "valueRequired": 5000000
+            "category": "Value",
+            "valueRequired": 3000000
           }
         ],
         "requirementItemIds": []
@@ -787,11 +787,11 @@
         "phase": 5,
         "requirementCategories": [
           {
-            "category": "Combat items",
+            "category": "Combat Items",
             "valueRequired": 250000
           },
           {
-            "category": "Survival items",
+            "category": "Survival Items",
             "valueRequired": 100000
           },
           {
@@ -853,7 +853,7 @@
         "phase": 6,
         "requirementCategories": [
           {
-            "category": "Unload Inventory",
+            "category": "Value",
             "valueRequired": 3000000
           }
         ],

@@ -382,7 +382,15 @@
     "sectionPrivacy": "隐私",
     "adPersonalizationTitle": "个性化广告",
     "adPersonalizationDescription": "允许与我们的广告提供商共享匿名标识符，以便展示更相关的广告。绝不会发送任何个人数据。",
-    "adPersonalizationToggleLabel": "启用个性化广告"
+    "adPersonalizationToggleLabel": "启用个性化广告",
+    "displayName": "显示名称",
+    "displayNameEdit": "编辑",
+    "displayNameSave": "保存",
+    "displayNameCancel": "取消",
+    "displayNameSaved": "显示名称已更新。",
+    "displayNameError": "更新显示名称失败。请重试。",
+    "displayNameTooLong": "显示名称不能超过32个字符。",
+    "displayNameRequired": "显示名称不能为空。"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "搜索物品...",
@@ -2502,5 +2510,14 @@
     "responseFormatDescription": "所有需认证的端点都返回一致的 JSON 封装结构。",
     "successResponse": "成功响应",
     "errorResponse": "错误响应"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "突袭者工具"
+    },
+    "killTargets": {
+      "player": "玩家",
+      "squadmate": "队友"
+    }
   }
 }

@@ -375,7 +375,15 @@
     "sectionPrivacy": "פרטיות",
     "adPersonalizationTitle": "מודעות מותאמות אישית",
     "adPersonalizationDescription": "אפשר שיתוף של מזהה אנונימי עם ספק המודעות שלנו כדי להציג מודעות רלוונטיות יותר. מידע אישי אינו נשלח לעולם.",
-    "adPersonalizationToggleLabel": "הפעל מודעות מותאמות אישית"
+    "adPersonalizationToggleLabel": "הפעל מודעות מותאמות אישית",
+    "displayName": "שם תצוגה",
+    "displayNameEdit": "עריכה",
+    "displayNameSave": "שמירה",
+    "displayNameCancel": "ביטול",
+    "displayNameSaved": "שם התצוגה עודכן.",
+    "displayNameError": "עדכון שם התצוגה נכשל. נא לנסות שוב.",
+    "displayNameTooLong": "שם התצוגה חייב להכיל עד 32 תווים.",
+    "displayNameRequired": "שם התצוגה לא יכול להיות ריק."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "חפש פריטים...",
@@ -2510,5 +2518,14 @@
     "showUnchanged": "הצג ללא שינוי",
     "syncSuccess": "סנכרון שרטוטים הושלם!",
     "title": "סנכרון שרטוטים"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "כלי ריידר"
+    },
+    "killTargets": {
+      "player": "שחקן",
+      "squadmate": "חבר צוות"
+    }
   }
 }

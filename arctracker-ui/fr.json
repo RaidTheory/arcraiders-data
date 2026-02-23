@@ -375,7 +375,15 @@
     "sectionPrivacy": "Confidentialité",
     "adPersonalizationTitle": "Publicités personnalisées",
     "adPersonalizationDescription": "Autorisez le partage d'un identifiant anonyme avec notre fournisseur de publicité pour afficher des publicités plus pertinentes. Aucune donnée personnelle n'est jamais envoyée.",
-    "adPersonalizationToggleLabel": "Activer les publicités personnalisées"
+    "adPersonalizationToggleLabel": "Activer les publicités personnalisées",
+    "displayName": "Nom d'affichage",
+    "displayNameEdit": "Modifier",
+    "displayNameSave": "Enregistrer",
+    "displayNameCancel": "Annuler",
+    "displayNameSaved": "Nom d'affichage mis à jour.",
+    "displayNameError": "Échec de la mise à jour du nom d'affichage. Veuillez réessayer.",
+    "displayNameTooLong": "Le nom d'affichage doit comporter 32 caractères ou moins.",
+    "displayNameRequired": "Le nom d'affichage ne peut pas être vide."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Rechercher des objets...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "Afficher les inchangés",
     "syncSuccess": "Synchronisation des plans terminée !",
     "title": "Synchroniser les plans"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Outil de Raider"
+    },
+    "killTargets": {
+      "player": "Joueur",
+      "squadmate": "Coéquipier"
+    }
   }
 }

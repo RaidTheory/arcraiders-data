@@ -375,7 +375,15 @@
     "sectionPrivacy": "Privatnost",
     "adPersonalizationTitle": "Personalizirani oglasi",
     "adPersonalizationDescription": "Dopustite dijeljenje anonimnog identifikatora s našim pružateljem oglasnih usluga radi prikazivanja relevantnijih oglasa. Osobni podaci se nikada ne šalju.",
-    "adPersonalizationToggleLabel": "Omogući personalizirane oglase"
+    "adPersonalizationToggleLabel": "Omogući personalizirane oglase",
+    "displayName": "Prikazano ime",
+    "displayNameEdit": "Uredi",
+    "displayNameSave": "Spremi",
+    "displayNameCancel": "Odustani",
+    "displayNameSaved": "Prikazano ime je ažurirano.",
+    "displayNameError": "Ažuriranje prikazanog imena nije uspjelo. Molimo pokušajte ponovno.",
+    "displayNameTooLong": "Prikazano ime mora imati 32 znaka ili manje.",
+    "displayNameRequired": "Prikazano ime ne može biti prazno."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Pretraži predmete...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "Prikaži nepromijenjeno",
     "syncSuccess": "Sinkronizacija nacrta završena!",
     "title": "Sinkroniziraj nacrte"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Raiderski alat"
+    },
+    "killTargets": {
+      "player": "Igrač",
+      "squadmate": "Član odreda"
+    }
   }
 }

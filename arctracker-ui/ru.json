@@ -375,7 +375,15 @@
     "sectionPrivacy": "Конфиденциальность",
     "adPersonalizationTitle": "Персонализированная реклама",
     "adPersonalizationDescription": "Разрешить передачу анонимного идентификатора нашему рекламному провайдеру для показа более релевантной рекламы. Персональные данные никогда не передаются.",
-    "adPersonalizationToggleLabel": "Включить персонализированную рекламу"
+    "adPersonalizationToggleLabel": "Включить персонализированную рекламу",
+    "displayName": "Отображаемое имя",
+    "displayNameEdit": "Изменить",
+    "displayNameSave": "Сохранить",
+    "displayNameCancel": "Отмена",
+    "displayNameSaved": "Отображаемое имя обновлено.",
+    "displayNameError": "Не удалось обновить отображаемое имя. Пожалуйста, попробуйте снова.",
+    "displayNameTooLong": "Отображаемое имя должно содержать не более 32 символов.",
+    "displayNameRequired": "Отображаемое имя не может быть пустым."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Поиск предметов...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "Показать без изменений",
     "syncSuccess": "Синхронизация чертежей завершена!",
     "title": "Синхронизация чертежей"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Инструмент рейдера"
+    },
+    "killTargets": {
+      "player": "Игрок",
+      "squadmate": "Напарник"
+    }
   }
 }

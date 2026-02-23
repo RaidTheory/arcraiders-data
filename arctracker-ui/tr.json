@@ -375,7 +375,15 @@
     "sectionPrivacy": "Gizlilik",
     "adPersonalizationTitle": "Kişiselleştirilmiş Reklamlar",
     "adPersonalizationDescription": "Daha alakalı reklamlar göstermek için reklam sağlayıcımızla anonim bir tanımlayıcının paylaşılmasına izin verin. Hiçbir kişisel veri asla gönderilmez.",
-    "adPersonalizationToggleLabel": "Kişiselleştirilmiş reklamları etkinleştir"
+    "adPersonalizationToggleLabel": "Kişiselleştirilmiş reklamları etkinleştir",
+    "displayName": "Görünen Ad",
+    "displayNameEdit": "Düzenle",
+    "displayNameSave": "Kaydet",
+    "displayNameCancel": "İptal",
+    "displayNameSaved": "Görünen ad güncellendi.",
+    "displayNameError": "Görünen ad güncellenemedi. Lütfen tekrar deneyin.",
+    "displayNameTooLong": "Görünen ad en fazla 32 karakter olmalıdır.",
+    "displayNameRequired": "Görünen ad boş olamaz."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Eşyaları ara...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "Değişmeyenleri göster",
     "syncSuccess": "Şema eşitlemesi tamamlandı!",
     "title": "Şemaları Eşitle"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Yağmacı Aleti"
+    },
+    "killTargets": {
+      "player": "Oyuncu",
+      "squadmate": "Takım Arkadaşı"
+    }
   }
 }

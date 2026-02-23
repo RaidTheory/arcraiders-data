@@ -375,7 +375,15 @@
     "sectionPrivacy": "Конфіденційність",
     "adPersonalizationTitle": "Персоналізована реклама",
     "adPersonalizationDescription": "Дозволити передачу анонімного ідентифікатора нашому рекламному провайдеру для показу більш релевантної реклами. Жодні особисті дані ніколи не надсилаються.",
-    "adPersonalizationToggleLabel": "Увімкнути персоналізовану рекламу"
+    "adPersonalizationToggleLabel": "Увімкнути персоналізовану рекламу",
+    "displayName": "Відображуване ім'я",
+    "displayNameEdit": "Редагувати",
+    "displayNameSave": "Зберегти",
+    "displayNameCancel": "Скасувати",
+    "displayNameSaved": "Відображуване ім'я оновлено.",
+    "displayNameError": "Не вдалося оновити відображуване ім'я. Будь ласка, спробуйте ще раз.",
+    "displayNameTooLong": "Відображуване ім'я має містити не більше 32 символів.",
+    "displayNameRequired": "Відображуване ім'я не може бути порожнім."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Пошук предметів...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "Показати незмінені",
     "syncSuccess": "Синхронізацію креслень завершено!",
     "title": "Синхронізація креслень"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Інструмент рейдера"
+    },
+    "killTargets": {
+      "player": "Гравець",
+      "squadmate": "Напарник"
+    }
   }
 }

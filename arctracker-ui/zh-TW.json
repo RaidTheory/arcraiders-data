@@ -382,7 +382,15 @@
     "sectionPrivacy": "隱私權",
     "adPersonalizationTitle": "個人化廣告",
     "adPersonalizationDescription": "允許與我們的廣告提供商分享匿名識別碼，以顯示更相關的廣告。絕不會傳送任何個人資料。",
-    "adPersonalizationToggleLabel": "啟用個人化廣告"
+    "adPersonalizationToggleLabel": "啟用個人化廣告",
+    "displayName": "顯示名稱",
+    "displayNameEdit": "編輯",
+    "displayNameSave": "儲存",
+    "displayNameCancel": "取消",
+    "displayNameSaved": "顯示名稱已更新。",
+    "displayNameError": "無法更新顯示名稱，請再試一次。",
+    "displayNameTooLong": "顯示名稱長度不得超過 32 個字元。",
+    "displayNameRequired": "顯示名稱不得為空。"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "搜索物品...",
@@ -2502,5 +2510,14 @@
     "responseFormatDescription": "所有需認證的端點都返回一致的 JSON 封裝結構。",
     "successResponse": "成功響應",
     "errorResponse": "錯誤響應"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "突襲者工具"
+    },
+    "killTargets": {
+      "player": "玩家",
+      "squadmate": "隊友"
+    }
   }
 }

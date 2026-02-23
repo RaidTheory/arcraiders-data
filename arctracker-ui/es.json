@@ -375,7 +375,15 @@
     "sectionPrivacy": "Privacidad",
     "adPersonalizationTitle": "Anuncios personalizados",
     "adPersonalizationDescription": "Permite que se comparta un identificador anónimo con nuestro proveedor de publicidad para mostrar anuncios más relevantes. Nunca se envían datos personales.",
-    "adPersonalizationToggleLabel": "Habilitar anuncios personalizados"
+    "adPersonalizationToggleLabel": "Habilitar anuncios personalizados",
+    "displayName": "Nombre para mostrar",
+    "displayNameEdit": "Editar",
+    "displayNameSave": "Guardar",
+    "displayNameCancel": "Cancelar",
+    "displayNameSaved": "Nombre para mostrar actualizado.",
+    "displayNameError": "Error al actualizar el nombre para mostrar. Por favor, inténtalo de nuevo.",
+    "displayNameTooLong": "El nombre para mostrar debe tener 32 caracteres o menos.",
+    "displayNameRequired": "El nombre para mostrar no puede estar vacío."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Buscar objetos...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "Mostrar sin cambios",
     "syncSuccess": "¡Sincronización de planos completada!",
     "title": "Sincronizar planos"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Herramienta de Incursor"
+    },
+    "killTargets": {
+      "player": "Jugador",
+      "squadmate": "Compañero de escuadrón"
+    }
   }
 }

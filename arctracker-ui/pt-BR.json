@@ -375,7 +375,15 @@
     "sectionPrivacy": "Privacidade",
     "adPersonalizationTitle": "Anúncios Personalizados",
     "adPersonalizationDescription": "Permitir que um identificador anônimo seja compartilhado com nosso provedor de anúncios para exibir anúncios mais relevantes. Nenhum dado pessoal é enviado.",
-    "adPersonalizationToggleLabel": "Habilitar anúncios personalizados"
+    "adPersonalizationToggleLabel": "Habilitar anúncios personalizados",
+    "displayName": "Nome de exibição",
+    "displayNameEdit": "Editar",
+    "displayNameSave": "Salvar",
+    "displayNameCancel": "Cancelar",
+    "displayNameSaved": "Nome de exibição atualizado.",
+    "displayNameError": "Falha ao atualizar o nome de exibição. Por favor, tente novamente.",
+    "displayNameTooLong": "O nome de exibição deve ter no máximo 32 caracteres.",
+    "displayNameRequired": "O nome de exibição não pode estar vazio."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Buscar itens...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "Mostrar inalterados",
     "syncSuccess": "Sincronização de diagramas concluída!",
     "title": "Sincronizar Diagramas"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Ferramenta Raider"
+    },
+    "killTargets": {
+      "player": "Jogador",
+      "squadmate": "Colega de esquadrão"
+    }
   }
 }

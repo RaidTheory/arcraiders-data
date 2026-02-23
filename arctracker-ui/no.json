@@ -375,7 +375,15 @@
     "sectionPrivacy": "Personvern",
     "adPersonalizationTitle": "Tilpassede annonser",
     "adPersonalizationDescription": "Tillat at en anonym identifikator deles med vår annonseleverandør for å vise mer relevante annonser. Ingen personopplysninger sendes noensinne.",
-    "adPersonalizationToggleLabel": "Aktiver tilpassede annonser"
+    "adPersonalizationToggleLabel": "Aktiver tilpassede annonser",
+    "displayName": "Visningsnavn",
+    "displayNameEdit": "Rediger",
+    "displayNameSave": "Lagre",
+    "displayNameCancel": "Avbryt",
+    "displayNameSaved": "Visningsnavn oppdatert.",
+    "displayNameError": "Kunne ikke oppdatere visningsnavn. Vennligst prøv igjen.",
+    "displayNameTooLong": "Visningsnavnet må være 32 tegn eller færre.",
+    "displayNameRequired": "Visningsnavn kan ikke være tomt."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Søk etter gjenstander...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "Vis uendrede",
     "syncSuccess": "Synkronisering av tegninger fullført!",
     "title": "Synkroniser tegninger"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Raider-verktøy"
+    },
+    "killTargets": {
+      "player": "Spiller",
+      "squadmate": "Lagkamerat"
+    }
   }
 }

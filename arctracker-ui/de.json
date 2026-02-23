@@ -375,7 +375,15 @@
     "sectionPrivacy": "Datenschutz",
     "adPersonalizationTitle": "Personalisierte Werbung",
     "adPersonalizationDescription": "Erlauben Sie die Weitergabe einer anonymen Kennung an unseren Werbeanbieter, um relevantere Werbung anzuzeigen. Es werden keine personenbezogenen Daten gesendet.",
-    "adPersonalizationToggleLabel": "Personalisierte Werbung aktivieren"
+    "adPersonalizationToggleLabel": "Personalisierte Werbung aktivieren",
+    "displayName": "Anzeigename",
+    "displayNameEdit": "Bearbeiten",
+    "displayNameSave": "Speichern",
+    "displayNameCancel": "Abbrechen",
+    "displayNameSaved": "Anzeigename aktualisiert.",
+    "displayNameError": "Anzeigename konnte nicht aktualisiert werden. Bitte versuche es erneut.",
+    "displayNameTooLong": "Der Anzeigename darf maximal 32 Zeichen lang sein.",
+    "displayNameRequired": "Der Anzeigename darf nicht leer sein."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Gegenstände suchen...",
@@ -2523,5 +2531,14 @@
     "showUnchanged": "Unveränderte anzeigen",
     "syncSuccess": "Bauplan-Synchronisation abgeschlossen!",
     "title": "Baupläne synchronisieren"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Raider-Werkzeug"
+    },
+    "killTargets": {
+      "player": "Spieler",
+      "squadmate": "Truppmitglied"
+    }
   }
 }

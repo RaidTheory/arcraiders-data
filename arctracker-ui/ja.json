@@ -382,7 +382,15 @@
     "sectionPrivacy": "プライバシー",
     "adPersonalizationTitle": "パーソナライズド広告",
     "adPersonalizationDescription": "より関連性の高い広告を表示するために、広告プロバイダーと匿名の識別子を共有することを許可します。個人情報が送信されることはありません。",
-    "adPersonalizationToggleLabel": "パーソナライズド広告を有効にする"
+    "adPersonalizationToggleLabel": "パーソナライズド広告を有効にする",
+    "displayName": "表示名",
+    "displayNameEdit": "編集",
+    "displayNameSave": "保存",
+    "displayNameCancel": "キャンセル",
+    "displayNameSaved": "表示名を更新しました。",
+    "displayNameError": "表示名の更新に失敗しました。もう一度お試しください。",
+    "displayNameTooLong": "表示名は32文字以内で入力してください。",
+    "displayNameRequired": "表示名は空にできません。"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "アイテムを検索...",
@@ -2509,5 +2517,14 @@
     "showUnchanged": "変更なしを表示",
     "syncSuccess": "設計図の同期が完了しました！",
     "title": "設計図の同期"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "レイダーツール"
+    },
+    "killTargets": {
+      "player": "プレイヤー",
+      "squadmate": "スクワッドメイト"
+    }
   }
 }

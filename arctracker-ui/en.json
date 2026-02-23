@@ -283,6 +283,14 @@
     "sectionDangerZone": "Danger Zone",
     "profile": "Profile",
     "email": "Email",
+    "displayName": "Display Name",
+    "displayNameEdit": "Edit",
+    "displayNameSave": "Save",
+    "displayNameCancel": "Cancel",
+    "displayNameSaved": "Display name updated.",
+    "displayNameError": "Failed to update display name. Please try again.",
+    "displayNameTooLong": "Display name must be 32 characters or fewer.",
+    "displayNameRequired": "Display name cannot be empty.",
     "linkedAccounts": "Linked Accounts",
     "linkedAccountsDescription": "Connect your Discord or Twitch account to sign in with them.",
     "connected": "Connected",
@@ -2502,5 +2510,14 @@
     "responseFormatDescription": "All authenticated endpoints return a consistent JSON envelope.",
     "successResponse": "Success Response",
     "errorResponse": "Error Response"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Raider Tool"
+    },
+    "killTargets": {
+      "player": "Player",
+      "squadmate": "Squadmate"
+    }
   }
 }
