@@ -24,6 +24,16 @@
   },
   "map": ["buried_city"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "nutrient_meter",
+      "quantity": 1
+    },
+    {
+      "itemId": "moisture_meter",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Jeg er ved at lave et drivhus for at øge vores madproduktion. Jeg gør Celeste en tjeneste, okay? Det er bare det. Men nok om det. Jeg har styr på alle detaljerne, men jeg får brug for forsyninger, og jeg slæber dem ikke alene.",
     "de": "Ich baue ein Gewächshaus, um unsere Nahrungsproduktion zu erhöhen. Ich tue Celeste nur einen Gefallen, mehr nicht. Aber genug davon. Ich hab die Details ausgearbeitet, aber ich brauche Vorräte, und die kann ich nicht alleine schleppen.",
@@ -46,6 +56,7 @@
     "zh-CN": "我正在搭建一个温室，以帮助提高食物产量。我这是在帮塞莱斯特一个忙，仅此而已。不过不说这个了。我已经规划好了所有细节，但需要物资，而且单凭我一个人可搞不来。",
     "zh-TW": "我正在設立溫室，以幫助提升食物產量。我只是在幫莎莉絲特的忙，好嗎？僅此而已。但別再說這個了。我搞定了所有細節，但是需要一些物資，而且我才不要一個人去搬回來。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til Grandioso Apartments i Buried City",
@@ -197,5 +208,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10n", "ss10p"],
   "nextQuestIds": ["ss10r"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

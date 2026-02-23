@@ -24,6 +24,12 @@
   },
   "map": ["the_spaceport"],
   "trader": "Shani",
+  "requiredItemIds": [
+    {
+      "itemId": "lidar_scanner",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Den fjerne rumlen kommer tættere på for hver dag, der går.\n\nJeg har et spor på nogle LiDAR-scannere, der måske kan hjælpe os med at overvåge rystelserne. Du vil vel gerne beholde taget over hovedet, ikke?",
     "de": "Dieses Rumpeln in der Ferne ist jeden Tag etwas weniger fern.\r\n\r\nIch hab da einen Hinweis auf Lidar-Scanner, die uns helfen könnten, die Erschütterungen zu registrieren. Du möchtest doch auch dein Dach über dem Kopf behalten, nicht wahr?",
@@ -154,5 +160,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10g"],
   "nextQuestIds": ["ss10s"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

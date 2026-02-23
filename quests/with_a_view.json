@@ -28,6 +28,10 @@
     {
       "itemId": "rotary_encoder",
       "quantity": 1
+    },
+    {
+      "itemId": "ion_sputter",
+      "quantity": 1
     }
   ],
   "description": {
@@ -52,7 +56,6 @@
     "zh-CN": "有没有注意过那些划过天际的流光？\r\n\r\n我见过太多，已经无法相信它们是自然现象，但要说服塞莱斯特，仅凭直觉可不够。",
     "zh-TW": "你有注意過那些在空中快速閃過的光線嗎？\r\n\r\n我看過太多怪事了，覺得那不可能是自然現象，但要說服莎莉絲特的話，只憑直覺作為根據是不夠的。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Skaf en Rotary Encoder",
@@ -182,5 +185,5 @@
   "xp": 0,
   "previousQuestIds": ["12_snap_and_salvage"],
   "nextQuestIds": ["movie_night"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

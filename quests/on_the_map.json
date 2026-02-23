@@ -52,7 +52,6 @@
     "zh-CN": "我们知道那些助听器的坐标，但我得拿它跟太空港的纸质地图核对一下。你应该还没累到挪不动腿吧？",
     "zh-TW": "我們知道那些助聽器的座標了，但我得跟太空港的紙本地圖交叉對照一下。你的腿還撐得住吧？"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Tag hen, hvor brændstofledningerne knækkede, og send din lokation",
@@ -182,5 +181,5 @@
   "xp": 0,
   "previousQuestIds": ["on_deaf_ears"],
   "nextQuestIds": [],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

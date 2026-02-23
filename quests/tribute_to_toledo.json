@@ -23,6 +23,12 @@
     "zh-TW": "向托雷多致敬"
   },
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "power_rod",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Den Officielle Toledo Tubes-ledelse kræver en af vores Power Rods for brug af ”deres” Slingshot-rør. Lad dig ikke narre af navnet, de er på ingen måde officielle; bare bøller med masser af magt. Kan du hjælpe mig med det her?",
     "de": "Toledos „Offizielle U-Bahn-Verwaltung“ verlangt einen unserer Energiestäbe, um damit „ihre“ Schleudern zu betreiben. Lass dich von dem Namen nicht täuschen: Die sind kein Stück offiziell, sondern Schlägertypen, die gerade am Drücker sind. Hilfst du mir bei der Sache?",
@@ -86,5 +92,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x14"],
   "nextQuestIds": ["ss10x16"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

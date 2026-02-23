@@ -53,7 +53,6 @@
     "zh-CN": "我刚治疗了一位首批进入星辰山的奇袭者，她说她看到了其他的……人形机器人，非常像我的那种。",
     "zh-TW": "我剛治療了最早造訪星辰山的掠手，她說她看到了…其他的機器人，說和我很相似。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Tag til Stella Montis",
@@ -113,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["ss5"],
   "nextQuestIds": ["12_cold_storage"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

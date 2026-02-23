@@ -46,7 +46,6 @@
     "zh-CN": "我们虽已恢复净水供应，但要是破坏者卷土重来，绝不能冒险让人染病。必须彻底铲除他们。",
     "zh-TW": "我們順利讓水變乾淨了，但如果破壞者再次行動，人們又會生病的。我們必須從根本解決這個問題。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Vend tilbage til vandindtaget under Water Treatment Control-bygningen",
@@ -158,5 +157,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x14"],
   "nextQuestIds": ["the_stench_of_corruption"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

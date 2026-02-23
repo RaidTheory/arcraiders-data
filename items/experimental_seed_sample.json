@@ -10,7 +10,7 @@
     "hr": "Eksperimentalni uzorak sjemena",
     "it": "Campione di semi sperimentale",
     "ja": "実験用種子サンプル",
-    "ko-KR":  "실험용 종자 샘플",
+    "ko-KR": "실험용 종자 샘플",
     "no": "Eksperimentell frøprøve",
     "pl": "Eksperymentalna próbka nasion",
     "pt": "Amostra de semente experimental",
@@ -32,7 +32,7 @@
     "hr": "Kriogenski zamrznuti istraživački uzorak eksperimentalne kulture.",
     "it": "Un campione di ricerca criogenicamente congelato di una coltura sperimentale.",
     "ja": "実験作物の極低温冷凍研究サンプル。",
-    "ko-KR":  "실험 작물의 극저온 냉동 연구 샘플입니다.",
+    "ko-KR": "실험 작물의 극저온 냉동 연구 샘플입니다.",
     "no": "En kryogenisk frosset forskningsprøve av en eksperimentell avling.",
     "pl": "Kriogenicznie zamrożona próbka badawcza eksperymentalnej uprawy.",
     "pt": "Uma amostra de pesquisa criogenicamente congelada de uma cultura experimental.",
@@ -47,6 +47,7 @@
   "type": "Trinket",
   "rarity": "Common",
   "weightKg": 0.25,
+  "questItem": true,
   "imageFilename": "https://cdn.arctracker.io/items/experimental_seed_sample.png",
   "updatedAt": "11/17/2025"
 }

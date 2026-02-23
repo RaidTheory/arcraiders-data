@@ -24,6 +24,20 @@
   },
   "map": ["dam_battlegrounds"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "first_wave_tape",
+      "quantity": 1
+    },
+    {
+      "itemId": "first_wave_compass",
+      "quantity": 1
+    },
+    {
+      "itemId": "first_wave_rations",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Jeg har endnu et særligt sted, jeg har brug for, at du undersøger for mig. En gammel slagmark fra den første bølge. Nutidens Raiders tømmer som regel steder som det, på trods af den betydning de engang havde. Folk glemmer hurtigt. Hurtigere end de burde.",
     "de": "Es gibt da noch eine andere besondere Stelle, an der du für mich nachsehen sollst. Ein altes Schlachtfeld aus der Ersten Welle. Heutzutage grasen Raider solche Orte ab, trotz der besonderen Bedeutung. Die Leute vergessen schnell. Schneller, als sie sollten.",
@@ -46,6 +60,7 @@
     "zh-CN": "我还有个特殊地点要你帮我找，是“第一波”时期的老战场。虽然这种地方具有重要意义，但如今的奇袭者通常会将之扫荡一空。人们遗忘得太快，快得有些不应该。",
     "zh-TW": "我還有一個特別的地點需要你幫忙搜索一下，那是第一波的古老戰場。現在的掠手通常會把那種地方掠劫一空，儘管它們曾有重要的意義。人們總是遺忘得很快。太快了。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå den hellige grund ved Skrotpladsen",
@@ -219,5 +234,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10e"],
   "nextQuestIds": ["ss10i", "ss10j"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

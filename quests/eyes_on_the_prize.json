@@ -24,6 +24,12 @@
   },
   "map": ["buried_city"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "wires",
+      "quantity": 3
+    }
+  ],
   "description": {
     "da": "Alt har været roligt omkring mine afleveringssteder, siden du hjalp til, men det betyder ikke, at det bliver ved med at være sådan længe. Jeg har sat overvågning op på et af mine mest brugte steder i Buried City for at forhindre fremtidig sabotage. Det eneste problem er, at det mangler strøm for at blive aktivt.",
     "de": "Seit du mir geholfen hast, ist es ruhig geblieben, was meine Lager angeht. Aber das kann sich ändern. Deswegen hab ich an einem meiner wichtigsten Plätze in der Begrabenen Stadt für Überwachung gesorgt. Einziges Problem: Ich brauch Strom da oben.",
@@ -46,7 +52,6 @@
     "zh-CN": "自从你出手相助之后，我的投放点周围一直很平静，但这种情况估计不会持续太久。我在掩埋废城最常用的一个点设置了监控，以防止未来有人打它的歪主意。唯一的问题是，它需要电力才能启动。",
     "zh-TW": "自從你來幫忙之後，我的交貨點變得平靜許多，但不表示這種平靜能維持多久。我已經在埋藏都市裡我最常使用的其中一個交貨點安裝好監視器了，以防未來再被人動手腳。唯一的問題是，監視器需要電源才能運作。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find den afsidesliggende tagterrasse sydvest for Southern Station, kig efter blå presenninger.",
@@ -106,5 +111,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10l"],
   "nextQuestIds": ["ss10n"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

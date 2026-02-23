@@ -52,7 +52,6 @@
     "zh-CN": "知道我最近梦到什么吗？会说话的水蒸馏器！这就离谱。但说真的，如果有更纯净的化合物，我就能造出更带劲的炸药！够意思吧？",
     "zh-TW": "知道我最近想要什麼嗎？一台會講話的水蒸餾器！很瘋狂對吧？不過說正經的，如果手邊有更純淨的化合物，我就能製作出威力更強大的爆裂物了！那肯定很棒，對吧？"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "På Rumhavnen, gennemsøg 4 containere i de underjordiske tunneller",
@@ -182,5 +181,5 @@
   "xp": 0,
   "previousQuestIds": ["ss11bx"],
   "nextQuestIds": ["a_prime_specimen"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

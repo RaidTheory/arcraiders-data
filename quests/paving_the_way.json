@@ -46,7 +46,6 @@
     "zh-CN": "整片区域就这样坍塌……难怪大家这么害怕。我们必须进行前所未有的加固工程，但单靠我们不行。",
     "zh-TW": "一整區居然就這樣坍塌了…難怪人們會害怕。我們必須用遠超過之前強度的方式來鞏固結構，而這事我們是沒辦法獨力完成的。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Gå til en hvilken som helst ENELICA-bygning",
@@ -154,5 +153,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x5"],
   "nextQuestIds": ["deciphering_the_data"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

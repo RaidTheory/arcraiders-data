@@ -46,7 +46,6 @@
     "zh-CN": "我不是说我们的水源被动了手脚，但根据你带回来的样本，也不能排除这种可能性。能否返回大坝，查清楚哪里出了问题？",
     "zh-TW": "我並不是說我們的水被人動了手腳，但根據你的樣本，我也不能排除這種可能性。你能返回大壩查看出了什麼問題嗎？"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til vandbehandlingsbygningen ved Dæmningen",
@@ -132,5 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x4"],
   "nextQuestIds": ["ss10x7"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

@@ -46,7 +46,6 @@
     "zh-CN": "有人一直从我在掩埋废城的投放点偷取物资。我设了一个陷阱，但需要有人去帮我检查一下触发情况。",
     "zh-TW": "有人一直從我在埋藏都市的交貨點偷竊物資。我已經設好了陷阱，但我需要人手去幫我確認情況。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til Su Durante-pakhusene i Udkanten af Den Begravede By",
@@ -128,5 +127,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10h"],
   "nextQuestIds": ["ss10l"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }
