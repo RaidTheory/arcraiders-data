@@ -509,7 +509,7 @@
         "phase": 6,
         "requirementCategories": [
           {
-            "category": "Unload Inventory",
+            "category": "Value",
             "localizations": {
               "da": "Tøm inventar",
               "de": "Inventar entladen",
@@ -532,7 +532,7 @@
               "zh-CN": "清空物品栏",
               "zh-TW": "卸貨物品欄"
             },
-            "valueRequired": 5000000
+            "valueRequired": 3000000
           }
         ],
         "requirementItemIds": []
@@ -1051,7 +1051,7 @@
         "phase": 6,
         "requirementCategories": [
           {
-            "category": "Unload Inventory",
+            "category": "Value",
             "localizations": {
               "da": "Tøm inventar",
               "de": "Inventar entladen",
