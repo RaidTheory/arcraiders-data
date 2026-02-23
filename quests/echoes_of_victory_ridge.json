@@ -24,6 +24,12 @@
   },
   "map": ["dam_battlegrounds"],
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "major_aivas_patch",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Mærkede du nogen rystelser i nat? Heller ikke mig. Men jorden flyttede sig åbenbart på et tidspunkt, og i processen afdækkede den en gammel First Wave-forpost, der var blokeret af murbrokker. Jeg vil gerne have dig derind hurtigt, før andre gør det.",
     "de": "Hast du letzte Nacht irgendwelche Erschütterungen gespürt? Ich auch nicht. Aber offensichtlich hat sich der Boden irgendwann bewegt und dabei ist ein alter Außenposten der Ersten Welle freigelegt worden, der unter Trümmern begraben war. Schau ihn dir schnell an, ehe es ein anderer tut.",
@@ -132,5 +138,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10o"],
   "nextQuestIds": ["ss10q"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

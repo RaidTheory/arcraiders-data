@@ -52,6 +52,7 @@
     "zh-CN": "我在太空港安装了一套设备，用于监测ARC的动向。刚才连接中断了——你去趟控制塔，帮我取回日志。",
     "zh-TW": "我在太空港設置了監控ARC行動的設備。我的連線剛剛中斷了，我需要你前往塔台，幫我取回我的紀錄。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Besøg Kontroltårn A6",
@@ -129,5 +130,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10z"],
   "nextQuestIds": ["ss11b2"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

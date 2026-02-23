@@ -24,6 +24,16 @@
   },
   "map": ["buried_city"],
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "wires",
+      "quantity": 5
+    },
+    {
+      "itemId": "battery",
+      "quantity": 2
+    }
+  ],
   "grantedItemIds": [
     {
       "itemId": "zipline",
@@ -52,7 +62,6 @@
     "zh-CN": "我知道，我知道！有个地区的电源被切断了……\r\n哦，嗨。一场突发洪水摧毁了我们在掩埋废城的一些太阳能面板，偏偏发电机又快要撑不住了。\r\n\r\n如果你到了那边，能不能帮我们修理一下？",
     "zh-TW": "我知道、我知道！那個區域已經停電…\r\n喔，嗨。有場洪水淹沒了埋藏都市那裡的一些太陽能板，發電機也只能再撐一段時間。\r\n\r\n你到那裡後，幫我們處理一下好嗎？"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find de oversvømmede solpaneler i nærheden af Grandioso Apartments",
@@ -116,5 +125,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10s"],
   "nextQuestIds": ["ss10x4"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

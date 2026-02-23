@@ -46,7 +46,6 @@
     "zh-CN": "这里的奇袭者似乎个个听力都有严重损伤。\r\n\r\n我听说星辰山那边研发了一些超先进的助听器。如果能找到，我们就能用正常音量说话了。",
     "zh-TW": "這裡的掠手好像大半都有嚴重的聽力受損情形。\r\n\r\n我聽過傳聞說，星辰山的人開發了某種特別先進的助聽器。如果你能成功找到，大家或許就終於能用正常的音量對話，不用大吼大叫了。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find forskerens gæstelogs på receptionscomputerne",
@@ -154,5 +153,5 @@
   "xp": 0,
   "previousQuestIds": ["groundbreaking", "12_snap_and_salvage"],
   "nextQuestIds": ["on_the_map"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

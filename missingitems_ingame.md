@@ -23,6 +23,7 @@ We currently are missing several in-game item images. If you want to contribute 
 - damaged_snitch_scanner
 - damaged_wasp_drive
 - degraded_arc_rubber
+- espresso_machine_parts
 - experimental_seed_sample
 - extended_light_mag_iii
 - first_wave_compass
@@ -41,11 +42,14 @@ We currently are missing several in-game item images. If you want to contribute 
 - lances_mixtape_5th_edition
 - launcher_ammo_blueprint
 - lidar_scanner
+- library_book
+- major_aivas_mementos
 - major_aivas_patch
 - muzzle_brake_iii_blueprint
 - osprey_i
 - osprey_ii
 - patrol_car_key
+- possibly_toxic_plant
 - rattler_ii
 - rattler_iii
 - rattler_iv
@@ -56,6 +60,7 @@ We currently are missing several in-game item images. If you want to contribute 
 - seeker_grenade_blueprint
 - silencer_iii_blueprint
 - snowball
+- stack_of_movie_tapes
 - stitcher_i
 - stitcher_ii
 - stitcher_iii

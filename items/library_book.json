@@ -1,0 +1,33 @@
+{
+  "id": "library_book",
+  "name": {
+    "da": "Bog",
+    "de": "Buch",
+    "en": "Book",
+    "es": "Libro",
+    "fr": "Livre",
+    "he": "ספר",
+    "hr": "Knjiga",
+    "it": "Libro",
+    "ja": "本",
+    "ko-KR": "책",
+    "no": "Bok",
+    "pl": "Książka",
+    "pt": "Livro",
+    "pt-BR": "Livro",
+    "ru": "Книга",
+    "sr": "Књига",
+    "tr": "Kitap",
+    "uk": "Книга",
+    "zh-CN": "书",
+    "zh-TW": "書"
+  },
+  "type": "Trinket",
+  "rarity": "Common",
+  "value": 0,
+  "weightKg": 0.5,
+  "stackSize": 1,
+  "questItem": true,
+  "imageFilename": "https://cdn.arctracker.io/items/library_book.png",
+  "updatedAt": "02/23/2026"
+}

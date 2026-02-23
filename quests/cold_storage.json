@@ -24,6 +24,12 @@
   },
   "map": ["stella_montis"],
   "trader": "Shani",
+  "requiredItemIds": [
+    {
+      "itemId": "old_world_books",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Rapporterne om Stella Montis bliver ved med at komme ind, og det ligner ikke noget, vi har set før. Der kan være optegnelser eller relikvier fra fortiden derinde, og hvis det er tilfældet, vil jeg have dem.",
     "de": "Wir kriegen Berichte über Stella Montis rein und was ich da erfahre, ist völlig neu. Da drinnen könnten Aufzeichnungen oder Relikte aus der Vergangenheit warten – und wenn das so ist, dann will ich sie haben.",
@@ -106,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["12_in_my_image"],
   "nextQuestIds": ["12_snap_and_salvage"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

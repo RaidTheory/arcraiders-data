@@ -1,0 +1,33 @@
+{
+  "id": "stack_of_movie_tapes",
+  "name": {
+    "da": "Stak af filmkassetter",
+    "de": "Stapel Filmkassetten",
+    "en": "Stack of Movie Tapes",
+    "es": "Pila de cintas de vídeo",
+    "fr": "Pile de cassettes vidéo",
+    "he": "ערימת קלטות וידאו",
+    "hr": "Hrpa videokaseta",
+    "it": "Pila di videocassette",
+    "ja": "映画テープの山",
+    "ko-KR": "영화 테이프 더미",
+    "no": "Stabel med videokassetter",
+    "pl": "Stos kaset wideo",
+    "pt": "Pilha de fitas de vídeo",
+    "pt-BR": "Pilha de fitas de vídeo",
+    "ru": "Стопка видеокассет",
+    "sr": "Gomila video-kaseta",
+    "tr": "Film kasetleri yığını",
+    "uk": "Стос відеокасет",
+    "zh-CN": "一叠录像带",
+    "zh-TW": "一疊錄影帶"
+  },
+  "type": "Trinket",
+  "rarity": "Common",
+  "value": 0,
+  "weightKg": 0.5,
+  "stackSize": 1,
+  "questItem": true,
+  "imageFilename": "https://cdn.arctracker.io/items/stack_of_movie_tapes.png",
+  "updatedAt": "02/23/2026"
+}

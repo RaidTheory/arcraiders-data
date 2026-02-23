@@ -46,7 +46,6 @@
     "zh-CN": "我的一个客户看到有一家人在掩埋废城中的一个旧营地中避难。谁要是能找到并护送他们回到安全地带，可以到我这来领赏。",
     "zh-TW": "我的一位顧客看到有一家人躲在埋藏都市的一處舊營地。誰能找到他們並護送他們回到安全的地方，我就付錢犒賞。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find Abandoned Highway Camp",
@@ -154,5 +153,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x7"],
   "nextQuestIds": ["ss10x9"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

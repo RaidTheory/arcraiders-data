@@ -62,7 +62,6 @@
     "zh-CN": "你看到那些旗帜了吗？躲躲闪闪的日子已经结束。我听说你身经百战了，你觉得自己能对付“火箭手”吗？",
     "zh-TW": "你看到旗幟了嗎？畏首畏尾的時代已經結束。據我所知，你是身經百戰的高手。你覺得你能打敗火箭兵嗎？"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Destruér en Rocketeer",
@@ -126,5 +125,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10r", "ss8b"],
   "nextQuestIds": ["combat_recon"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

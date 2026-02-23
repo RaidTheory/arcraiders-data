@@ -46,7 +46,6 @@
     "zh-CN": "我们找到突破口了。一名侦察者看到暗道官方管理层的某位成员在掩埋废城的圣玛丽亚住宅区进行了一次秘密投放。这或许是个难得的机会，可以抓住他们的把柄。你参加吗？",
     "zh-TW": "我們走運了。我們有名偵察兵看到運輸管管理部門的一名成員在埋藏都市的聖瑪麗亞住宅內投放了秘密情報。這或許是我們掌握他們醜聞的好機會。你要加入嗎？"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find Santa Maria-husene i Old Town",
@@ -106,5 +105,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x15"],
   "nextQuestIds": ["ss10x17", "ss10x18"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

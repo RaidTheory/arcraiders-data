@@ -46,7 +46,6 @@
     "zh-CN": "风暴已经基本平息，但我们的设施损毁严重。如果你想继续待在这里，就必须为修复工作出一份力。",
     "zh-TW": "風暴大致已平息，但我們很多基礎建設都遭受重創。如果你想留下來，我需要你參與修理工作。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Besøg et hvilket som helst område på dit kort med et loot-kategoriikon",
@@ -106,5 +105,5 @@
   "xp": 0,
   "previousQuestIds": [],
   "nextQuestIds": ["ss2", "ss3"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

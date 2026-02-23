@@ -46,7 +46,6 @@
     "zh-CN": "如果你找到的数据能防止天花板坍塌，那我们必须立即行动，刻不容缓。\r\n\r\n我知道在阿切拉太空港周围有几台“离巢时代”遗留的磁力解密器，可能仍能运作。",
     "zh-TW": "如果你找到的資料可以避免天花板崩塌，那我們不能再拖了。\r\n\r\n我知道阿切拉太空港附近有幾部出逃時代的磁力解譯器，可能還能夠運作。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Brug den magnetiske dekrypteringsenhed i brændstofkontrolbygningen",
@@ -128,5 +127,5 @@
   "xp": 0,
   "previousQuestIds": ["paving_the_way"],
   "nextQuestIds": ["groundbreaking"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }
