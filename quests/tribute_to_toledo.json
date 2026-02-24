@@ -48,7 +48,7 @@
     "sr": "Official Toledo Tubes Management zahteva jednu od naših Energetskih šipki za korišćenje „njihovih” Slingshot cevi. Ne daj da te ime zavara, oni nisu nimalo zvanični; samo siledžije sa mnogo moći. Možeš li mi pomoći oko ovoga?",
     "tr": "Resmî Toledo Boruları Yönetimi, Sapan borularını kullanmak için güç bağlantılarımızdan birini istiyor. Adı seni aldatmasın, resmiyetten çok uzaklar, çok güçlü eşkıyalar sadece. Bu konuda bana yardım edebilir misin?",
     "uk": "«Офіційне керівництво трубами Toledo» вимагає один із наших Силових стрижнів за користування «їхніми» Пусковими трубами. Не дай назві себе обдурити, вони зовсім не офіційні; просто бандити, що мають велику владу. Допоможеш мені з цим?",
-    "zh-CN": "托雷多暗道官方管理层要求我们提供一根电棍，以供他们使用“自己的”弹射管道。不要被他们的名字骗了，他们根本不是什么官方，只是一群手握大权的恶霸。能帮我解决这个问题吗？",
+    "zh-CN": "托雷多暗道官方管理层要求我们提供一根能量管，以供他们使用“自己的”弹射管道。不要被他们的名字骗了，他们根本不是什么官方，只是一群手握大权的恶霸。能帮我解决这个问题吗？",
     "zh-TW": "官方托雷多運輸管管理部門要求我們提供一根電源棒，給「他們的」彈弓運輸管使用。別被這名稱誤導了，他們根本不是官方人員；只是一群手握大權的暴徒。你能幫我嗎？"
   },
   "objectives": [
@@ -71,7 +71,7 @@
       "sr": "Nabavi Energetsku šipku za Celeste",
       "tr": "Celeste için bir güç bağlantısı bul",
       "uk": "Здобудьте Силовий стрижень для Celeste",
-      "zh-CN": "帮塞莱斯特找到一根电棍",
+      "zh-CN": "帮塞莱斯特找到一根能量管",
       "zh-TW": "為莎莉絲特取得電源棒"
     }
   ],
@@ -92,5 +92,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x14"],
   "nextQuestIds": ["ss10x16"],
-  "updatedAt": "02/23/2026"
+  "updatedAt": "02/24/2026"
 }

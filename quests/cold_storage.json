@@ -2,22 +2,22 @@
   "id": "12_cold_storage",
   "name": {
     "da": "Kold opbevaring",
-    "de": "Tiefkühllagerung",
+    "de": "Kühlhaus",
     "en": "Cold Storage",
-    "es": "Almacén frigorífico",
+    "es": "Cámara frigorífica",
     "fr": "Chambre froide",
     "he": "אחסון בקירור",
     "hr": "Hladnjača",
-    "it": "Conservazione Frigorifera",
-    "ja": "冷凍保管室",
-    "ko-KR": "냉동 저장소",
+    "it": "Cella frigorifera",
+    "ja": "冷蔵倉庫",
+    "ko-KR": "냉동 보관소",
     "no": "Kjølelager",
     "pl": "Chłodnia",
     "pt": "Armazenamento Frio",
     "pt-BR": "Armazenamento Frio",
     "ru": "Холодное хранилище",
     "sr": "Hladnjača",
-    "tr": "Soğuk Depolama",
+    "tr": "Soğuk Hava Deposu",
     "uk": "Холодне сховище",
     "zh-CN": "冷冻储藏",
     "zh-TW": "冷藏室"
@@ -112,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["12_in_my_image"],
   "nextQuestIds": ["12_snap_and_salvage"],
-  "updatedAt": "02/23/2026"
+  "updatedAt": "02/24/2026"
 }

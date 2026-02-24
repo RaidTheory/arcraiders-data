@@ -22,7 +22,7 @@
     "zh-CN": "开辟道路",
     "zh-TW": "開闢道路"
   },
-  "map": ["dam_battlegrounds", "the_blue_gate", "buried_city"],
+  "map": ["the_blue_gate", "buried_city", "dam_battlegrounds"],
   "trader": "Apollo",
   "description": {
     "da": "At en hel sektor kan kollapse på den måde... Ikke sært, folk er bange. Vi er nødt til at forstærke mere end nogensinde før, og vi kan ikke gøre det alene.",
@@ -153,5 +153,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x5"],
   "nextQuestIds": ["deciphering_the_data"],
-  "updatedAt": "02/23/2026"
+  "updatedAt": "02/24/2026"
 }

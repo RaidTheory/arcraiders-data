@@ -22,7 +22,7 @@
     "zh-CN": "重占上风",
     "zh-TW": "返回頂層"
   },
-  "map": ["buried_city", "the_spaceport", "dam_battlegrounds", "the_blue_gate"],
+  "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"],
   "trader": "Tian Wen",
   "otherRequirements": ["18x Raids"],
   "description": {
@@ -154,5 +154,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10u", "ss10s", "ss10t"],
   "nextQuestIds": ["ss10z"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/24/2026"
 }

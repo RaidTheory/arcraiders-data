@@ -50,24 +50,24 @@
   "objectives": [
     {
       "da": "Nå frem til vraget i Formicai Hills",
-      "de": "Geh zu dem Wrack am Formicai-Hügel",
+      "de": "Geh zu dem Wrack am Formicai-Hügel.",
       "en": "Reach the wreckage in the Formicai Hills",
-      "es": "Llegar a los restos en la colina Formicai",
-      "fr": "Atteindre l'épave dans les Collines de Formicai",
+      "es": "Llega a los restos en la colina Formicai.",
+      "fr": "Atteindre l'épave des Collines de Formicai",
       "he": "הגע להריסות ב-Formicai Hills",
       "hr": "Dođi do olupine u Formicai Hillsu",
-      "it": "Raggiungere il relitto nel Colle Formicai",
+      "it": "Raggiungi il relitto nelle Colline Formicai",
       "ja": "フォルミカイ山地の残骸に到達した",
       "ko-KR": "개미탑 언덕의 잔해에 도달하기",
       "no": "Nå frem til vraket i Formicai Hills",
-      "pl": "Dotrzeć do wraku na Wzgórzach Formicai",
-      "pt": "Alcançar a carcaça nas Colinas Formicai",
-      "pt-BR": "Alcançar a carcaça nas Colinas Formicai",
-      "ru": "Добраться до обломков на Холмах Формикаи",
+      "pl": "Dotrzyj do wraków na wzgórzach Formicai",
+      "pt": "Vá até os destroços nas Colinas Formicai",
+      "pt-BR": "Vá até os destroços nas Colinas Formicai",
+      "ru": "Доберитесь до развалин среди холмов Формикаи.",
       "sr": "Stigni do olupine u brdima Formicai",
-      "tr": "Formicai Tepeleri'ndeki enkaza ulaş.",
+      "tr": "Formicai Tepeleri'ndeki enkaza ulaş",
       "uk": "Дістаньтеся до уламків на пагорбах Формікай",
-      "zh-CN": "到达蚁丘山的残骸处",
+      "zh-CN": "抵达蚁丘山的残骸处",
       "zh-TW": "到達蟻丘的殘骸處"
     },
     {
@@ -132,5 +132,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10j"],
   "nextQuestIds": ["ss10p"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/24/2026"
 }

@@ -56,25 +56,25 @@
   "objectives": [
     {
       "da": "Tag til Stella Montis",
-      "de": "In Stella Montis eindringen",
+      "de": "Einsatz starten: Stella Montis",
       "en": "Deploy into Stella Montis",
-      "es": "Desplegar en Stella Montis",
-      "fr": "Déployer à Stella Montis",
+      "es": "Despliégate en Stella Montis.",
+      "fr": "Se déployer à Stella Montis",
       "he": "צא ל-Stella Montis",
       "hr": "Iskrcaj se na Stella Montis",
-      "it": "Schierarsi a Stella Montis",
+      "it": "Schierati a Stella Montis",
       "ja": "ステラ・モンティスに出発した",
       "ko-KR": "스텔라 몬티스로 출격하기",
       "no": "Dra til Stella Montis",
-      "pl": "Rozlokować w Stella Montis",
-      "pt": "Desdobrar em Stella Montis",
-      "pt-BR": "Desdobrar em Stella Montis",
-      "ru": "Выйти на Стелла Монтис",
+      "pl": "Wyrusz do Stella Montis",
+      "pt": "Mobilize-se para Stella Montis",
+      "pt-BR": "Mobilize-se para Stella Montis",
+      "ru": "Зайдите в Стелла Монтис.",
       "sr": "Iskrcaj se na Stella Montis",
-      "tr": "Stella Montis'e konuşlan",
+      "tr": "Stella Montis'e git",
       "uk": "Висадіться у Stella Montis",
       "zh-CN": "部署到星辰山",
-      "zh-TW": "進入星辰山部署"
+      "zh-TW": "部署至星辰山內"
     },
     {
       "da": "Find og gennemsøg 3 Androider",
@@ -112,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["ss5"],
   "nextQuestIds": ["12_cold_storage"],
-  "updatedAt": "02/23/2026"
+  "updatedAt": "02/24/2026"
 }

@@ -22,7 +22,7 @@
     "zh-CN": "休眠的“男爵”",
     "zh-TW": "沉睡的男爵"
   },
-  "map": ["the_spaceport", "dam_battlegrounds", "the_blue_gate"],
+  "map": ["the_spaceport", "the_blue_gate", "dam_battlegrounds"],
   "trader": "Shani",
   "description": {
     "da": "Under den første bølge gjorde baronerne mere skade end alle de andre maskiner tilsammen. Nu er de blot tomme skaller; fastlåst der, hvor de engang faldt... \n\nAlligevel kan deres indre måske rumme svaret på, hvordan vi holder ARC på afstand. Så åbn en op, og bring mig, hvad end der er indeni.",
@@ -83,5 +83,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10a", "ss9"],
   "nextQuestIds": ["ss10d", "ss10e"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/24/2026"
 }

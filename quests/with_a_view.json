@@ -2,25 +2,25 @@
   "id": "with_a_view",
   "name": {
     "da": "Med udsigt",
-    "de": "Mit Aussicht",
+    "de": "Schöne Aussicht",
     "en": "With a View",
     "es": "Con vistas",
-    "fr": "Avec vue",
+    "fr": "Une vue imprenable",
     "he": "עם נוף",
     "hr": "S pogledom",
-    "it": "Con Vista",
-    "ja": "展望",
+    "it": "Con vista",
+    "ja": "いい景色",
     "ko-KR": "전망을 감상하며",
     "no": "Med utsikt",
-    "pl": "Z widokiem",
-    "pt": "Com Vista",
-    "pt-BR": "Com Vista",
+    "pl": "Z widokiem",
+    "pt": "Bela Vista",
+    "pt-BR": "Bela Vista",
     "ru": "С видом",
     "sr": "Sa pogledom",
     "tr": "Manzaralı",
     "uk": "З видом",
     "zh-CN": "风景如画",
-    "zh-TW": "帶景觀"
+    "zh-TW": "目的明確"
   },
   "map": ["stella_montis"],
   "trader": "Shani",
@@ -184,6 +184,6 @@
   ],
   "xp": 0,
   "previousQuestIds": ["12_snap_and_salvage"],
-  "nextQuestIds": ["movie_night"],
-  "updatedAt": "02/23/2026"
+  "nextQuestIds": ["stable_housing", "movie_night"],
+  "updatedAt": "02/24/2026"
 }

@@ -130,25 +130,25 @@
     },
     {
       "da": "Led efter de gamle feltrationer i Raider-lejren",
-      "de": "Suche nach den alten Feldrationen im Raider-Lager",
+      "de": "Suche im Raider-Lager nach den alten Feldrationen.",
       "en": "Search for the old field rations in the Raider camp",
-      "es": "Buscar las antiguas raciones de campo en el Campamento de Raider",
-      "fr": "Chercher les anciennes rations de terrain dans le camp de Raider",
+      "es": "Busca las raciones antiguas en el campamento de Raiders.",
+      "fr": "Fouiller le Camp des Raiders pour retrouver les anciennes rations de campagne",
       "he": "חפשו את מנות הקרב הישנות במחנה הריידרים",
       "hr": "Potraži stare terenske obroke u kampu Raidera",
-      "it": "Cercare le vecchie razioni da campo nel campo Raider",
+      "it": "Cerca le vecchie razioni da campo nell'accampamento Raider",
       "ja": "レイダーの野営地で古い野戦食を探した",
       "ko-KR": "레이더 캠프에서 오래된 야전 배식 찾기",
       "no": "Let etter de gamle feltrasjonene i Raider-leiren",
-      "pl": "Szukać starych racji polowych w obozie łupieżców",
-      "pt": "Procurar as antigas rações de campo no Acampamento de Raider",
-      "pt-BR": "Procurar as antigas rações de campo no Acampamento de Raider",
-      "ru": "Обыскать старые полевые рационы в лагере рейдеров",
+      "pl": "Poszukaj starych racji polowych w obozie łupieżców",
+      "pt": "Procurar as antigas rações de campo no Acampamento de Raiders",
+      "pt-BR": "Procurar as antigas rações de campo no Acampamento de Raiders",
+      "ru": "Поищите старые полевые пайки в рейдерском лагере.",
       "sr": "Potraži stare terenske obroke u kampu Raidera",
-      "tr": "Yağmacı kampındaki eski saha kumanyalarını ara.",
+      "tr": "Raider kampında eski kumanyaları ara",
       "uk": "Шукайте старий сухпайок у таборі Рейдерів",
-      "zh-CN": "在奇袭者营地寻找旧的野战口粮",
-      "zh-TW": "在掠手營地尋找舊的實地口糧"
+      "zh-CN": "在奇袭者营地搜寻旧的野战口粮",
+      "zh-TW": "搜尋掠手營地中的陳舊野戰口糧。"
     },
     {
       "da": "Aflevér First Wave-båndet til Tian Wen",
@@ -234,5 +234,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10e"],
   "nextQuestIds": ["ss10i", "ss10j"],
-  "updatedAt": "02/23/2026"
+  "updatedAt": "02/24/2026"
 }
