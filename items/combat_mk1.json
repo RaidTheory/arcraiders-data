@@ -121,6 +121,7 @@
     }
   },
   "craftBench": "equipment_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "plastic_parts": 6,
     "rubber_parts": 6
@@ -133,5 +134,5 @@
     "plastic_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
-  "updatedAt": "01/20/2026"
+  "updatedAt": "02/24/2026"
 }

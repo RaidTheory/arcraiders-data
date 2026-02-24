@@ -49,6 +49,7 @@
   "value": 7000,
   "weightKg": 5,
   "isWeapon": true,
+  "blueprintLocked": true,
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
@@ -203,6 +204,10 @@
   "salvagesInto": {
     "medium_gun_parts": 2
   },
+  "upgradeCost": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 2
+  },
   "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

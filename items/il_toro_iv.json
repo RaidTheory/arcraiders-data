@@ -189,8 +189,6 @@
       "zh-TW": "彈匣容量"
     }
   },
-  "craftBench": "weapon_bench",
-  "stationLevelRequired": 1,
   "recyclesInto": {
     "mechanical_components": 5,
     "simple_gun_parts": 5
@@ -198,12 +196,8 @@
   "salvagesInto": {
     "simple_gun_parts": 5
   },
-  "upgradeCost": {
-    "heavy_gun_parts": 1,
-    "mechanical_components": 4
-  },
   "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-  "updatedAt": "01/09/2026",
+  "updatedAt": "02/24/2026",
   "agility": 61.1,
   "damage": 67.5,
   "fireRate": 14.3,

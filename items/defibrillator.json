@@ -49,6 +49,7 @@
   "value": 1000,
   "weightKg": 0.75,
   "stackSize": 3,
+  "blueprintLocked": true,
   "effects": {
     "Healing": {
       "value": 50,
@@ -98,6 +99,7 @@
     }
   },
   "craftBench": "med_station",
+  "stationLevelRequired": 2,
   "recipe": {
     "moss": 1,
     "plastic_parts": 9
@@ -110,5 +112,5 @@
     "chemicals": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/defibrillator.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

@@ -49,12 +49,12 @@
   "value": 2000,
   "weightKg": 0.01,
   "stackSize": 1,
-  "craftBench": "utility_bench",
+  "craftBench": ["utility_bench", "in_raid"],
+  "stationLevelRequired": 2,
   "recipe": {
     "advanced_electrical_components": 1,
     "sensors": 3
   },
-  "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "02/24/2026"
 }

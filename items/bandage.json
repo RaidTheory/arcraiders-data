@@ -120,7 +120,8 @@
       "zh-TW": "使用時間"
     }
   },
-  "craftBench": ["workbench", "med_station"],
+  "craftBench": ["workbench", "med_station", "in_raid"],
+  "stationLevelRequired": 1,
   "recipe": {
     "fabric": 5
   },
@@ -131,5 +132,5 @@
     "fabric": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/bandage.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

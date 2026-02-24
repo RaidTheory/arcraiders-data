@@ -121,6 +121,7 @@
     }
   },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 4,
     "rubber_parts": 2
@@ -133,5 +134,5 @@
     "chemicals": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/gas_grenade.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "02/24/2026"
 }

@@ -50,7 +50,9 @@
   "value": 700,
   "weightKg": 0.4,
   "stackSize": 5,
+  "blueprintLocked": true,
   "craftBench": "refiner",
+  "stationLevelRequired": 2,
   "recipe": {
     "simple_gun_parts": 4
   },
@@ -61,5 +63,5 @@
     "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "02/24/2026"
 }

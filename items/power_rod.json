@@ -51,6 +51,7 @@
   "weightKg": 2,
   "stackSize": 3,
   "craftBench": "refiner",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_electrical_components": 2,
     "arc_circuitry": 2
@@ -63,5 +64,5 @@
     "advanced_electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/power_rod.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

@@ -51,6 +51,7 @@
   "weightKg": 0.25,
   "stackSize": 10,
   "craftBench": "refiner",
+  "stationLevelRequired": 1,
   "recipe": {
     "fabric": 14
   },
@@ -61,5 +62,5 @@
     "fabric": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/durable_cloth.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

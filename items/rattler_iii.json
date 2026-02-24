@@ -190,7 +190,6 @@
     }
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 1,
   "recyclesInto": {
     "mechanical_components": 3,
     "simple_gun_parts": 1
@@ -199,9 +198,9 @@
     "metal_parts": 12
   },
   "upgradeCost": {
-    "mechanical_components": 2,
+    "mechanical_components": 3,
     "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

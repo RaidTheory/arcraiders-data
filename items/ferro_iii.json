@@ -189,6 +189,7 @@
       "zh-TW": "升級修正值"
     }
   },
+  "craftBench": "weapon_bench",
   "recyclesInto": {
     "metal_parts": 6,
     "simple_gun_parts": 1
@@ -197,9 +198,9 @@
     "simple_gun_parts": 1
   },
   "upgradeCost": {
-    "metal_parts": 9,
+    "mechanical_components": 1,
     "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

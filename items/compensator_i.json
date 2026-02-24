@@ -112,6 +112,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 6,
     "wires": 1
@@ -123,5 +124,5 @@
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/compensator_i.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "02/24/2026"
 }

@@ -212,6 +212,7 @@
       "zh-TW": "降低換彈時間"
     }
   },
+  "craftBench": "weapon_bench",
   "recyclesInto": {
     "metal_parts": 6,
     "rubber_parts": 6
@@ -220,9 +221,9 @@
     "metal_parts": 6
   },
   "upgradeCost": {
-    "metal_parts": 8,
-    "rubber_parts": 12
+    "metal_parts": 10,
+    "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-  "updatedAt": "11/20/2025"
+  "updatedAt": "02/24/2026"
 }

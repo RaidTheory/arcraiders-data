@@ -50,6 +50,7 @@
   "weightKg": 7,
   "stackSize": 1,
   "isWeapon": true,
+  "blueprintLocked": true,
   "effects": {
     "Ammo Type": {
       "value": "Launcher Ammo",
@@ -181,6 +182,10 @@
   "salvagesInto": {
     "heavy_gun_parts": 2
   },
+  "upgradeCost": {
+    "advanced_mechanical_components": 1,
+    "heavy_gun_parts": 2
+  },
   "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

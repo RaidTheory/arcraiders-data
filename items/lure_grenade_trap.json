@@ -97,12 +97,12 @@
       "zh-TW": "範圍"
     }
   },
-  "craftBench": "workbench",
+  "craftBench": ["workbench", "in_raid"],
   "stationLevelRequired": 1,
   "recipe": {
     "lure_grenade": 1,
     "wires": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_trap.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "02/24/2026"
 }

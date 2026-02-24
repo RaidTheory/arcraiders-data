@@ -51,6 +51,7 @@
   "weightKg": 1,
   "stackSize": 5,
   "craftBench": "refiner",
+  "stationLevelRequired": 2,
   "recipe": {
     "mechanical_components": 2,
     "steel_spring": 2
@@ -63,5 +64,5 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/mod_components.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

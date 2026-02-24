@@ -48,6 +48,7 @@
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.5,
+  "blueprintLocked": true,
   "effects": {
     "Reduced Noise": {
       "value": "40%",
@@ -87,5 +88,5 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/silencer_ii.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

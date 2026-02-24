@@ -49,6 +49,7 @@
   "value": 3400,
   "weightKg": 1,
   "stackSize": 1,
+  "blueprintLocked": true,
   "effects": {
     "Durability": {
       "value": "100/100",
@@ -121,17 +122,19 @@
     }
   },
   "craftBench": "med_station",
+  "stationLevelRequired": 3,
   "recipe": {
     "antiseptic": 3,
-    "canister": 1
+    "canister": 1,
+    "tick_pod": 1
   },
   "recyclesInto": {
     "antiseptic": 1,
-    "canister": 2
+    "canister": 1
   },
   "salvagesInto": {
     "antiseptic": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "02/24/2026"
 }

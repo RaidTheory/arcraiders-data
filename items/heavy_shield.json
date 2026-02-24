@@ -48,6 +48,7 @@
   "rarity": "Epic",
   "value": 5500,
   "weightKg": 9,
+  "stackSize": 1,
   "effects": {
     "15% Reduced Movement Speed": {
       "value": "",
@@ -143,6 +144,7 @@
     }
   },
   "craftBench": "equipment_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "power_rod": 1,
     "voltage_converter": 2
@@ -155,7 +157,7 @@
     "arc_alloy": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/heavy_shield.png",
-  "updatedAt": "01/09/2026",
+  "updatedAt": "02/24/2026",
   "damageMitigation": 65,
   "durability": 140,
   "movementSpeedModifier": -15,

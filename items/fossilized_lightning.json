@@ -49,7 +49,7 @@
   "foundIn": "Nature",
   "value": 4000,
   "weightKg": 0.25,
-  "stackSize": 3,
+  "stackSize": 1,
   "recyclesInto": {
     "explosive_compound": 3
   },
@@ -57,5 +57,5 @@
     "explosive_compound": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/fossilized_lightning.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

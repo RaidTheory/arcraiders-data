@@ -97,6 +97,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 6,
     "wires": 1
@@ -108,5 +109,5 @@
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_i.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

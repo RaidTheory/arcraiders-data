@@ -74,6 +74,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "duct_tape": 1,
     "plastic_parts": 6
@@ -85,5 +86,5 @@
     "plastic_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/angled_grip_i.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

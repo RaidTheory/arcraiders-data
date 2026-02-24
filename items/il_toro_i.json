@@ -49,6 +49,7 @@
   "value": 5000,
   "weightKg": 8,
   "isWeapon": true,
+  "blueprintLocked": true,
   "effects": {
     "Ammo Type": {
       "value": "Shotgun Ammo",
@@ -179,6 +180,10 @@
   "salvagesInto": {
     "simple_gun_parts": 2
   },
+  "upgradeCost": {
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  },
   "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

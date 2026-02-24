@@ -97,7 +97,8 @@
       "zh-TW": "半徑"
     }
   },
-  "craftBench": ["workbench", "explosives_bench"],
+  "craftBench": ["workbench", "explosives_bench", "in_raid"],
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 3,
     "plastic_parts": 2
@@ -110,5 +111,5 @@
     "chemicals": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/light_impact_grenade.png",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "02/24/2026"
 }

@@ -98,6 +98,7 @@
     }
   },
   "craftBench": "med_station",
+  "stationLevelRequired": 2,
   "recipe": {
     "advanced_arc_powercell": 1,
     "electrical_components": 1
@@ -109,5 +110,5 @@
     "plastic_parts": 5
   },
   "imageFilename": "https://cdn.arctracker.io/items/surge_shield_recharger.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }
