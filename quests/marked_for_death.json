@@ -71,25 +71,25 @@
     },
     {
       "da": "Led efter Tian Wens depot nær pakhusene",
-      "de": "Suche nach Tian Wens Versteck in der Nähe der Lagerhäuser.",
+      "de": "Suche nach Tian Wens Geheimvorrat in der Nähe der Lagerhäuser.",
       "en": "Search for Tian Wen's cache near the Warehouses",
-      "es": "Buscar el alijo de Tian Wen cerca de los almacenes",
-      "fr": "Chercher la cache de Tian Wen près des entrepôts",
+      "es": "Busca el alijo de Tian Wen cerca de los almacenes.",
+      "fr": "Fouiller la cache de Tian Wen près des entrepôts",
       "he": "חפש את המטמון של Tian Wen ליד המחסנים",
       "hr": "Potraži skrovište Tiana Wena blizu skladišta",
-      "it": "Cercare la scorta di Tian Wen vicino ai Magazzini",
-      "ja": "ウェアハウス付近でティアン・ウェンの隠し場所を探した",
+      "it": "Cerca il nascondiglio di Tian Wen vicino ai magazzini",
+      "ja": "倉庫付近でティアン・ウェンの隠し場所を探した",
       "ko-KR": "티안 웬의 은닉물을 창고 근처에서 찾기",
       "no": "Let etter Tian Wens gjemmested nær varehusene",
-      "pl": "Przeszukać skrytkę Tian Wen w pobliżu Magazynów",
-      "pt": "Procurar o esconderijo de Tian Wen perto dos Armazéns",
-      "pt-BR": "Procurar o esconderijo de Tian Wen perto dos Armazéns",
-      "ru": "Искать тайник Тянь Вэнь возле складов",
+      "pl": "Poszukaj skrytki Tian Wen w pobliżu magazynów",
+      "pt": "Procure o estoque de Tian Wen perto dos Armazéns",
+      "pt-BR": "Procure o estoque de Tian Wen perto dos Armazéns",
+      "ru": "Обыщите тайник Тянь Вэнь около складов.",
       "sr": "Potraži Tian Wenove zalihe blizu skladišta",
-      "tr": "Tian Wen'in deposunun yakınlarındaki gizli saklamayı ara",
+      "tr": "Tian Wen'in Ambarlar'ın yakınındaki zulasını ara",
       "uk": "Знайти схованку Tian Wen біля складів",
-      "zh-CN": "在仓库附近搜索天玟的藏匿点",
-      "zh-TW": "搜尋位於倉庫附近的田文物資箱。"
+      "zh-CN": "在仓库附近搜索天玟的储物箱",
+      "zh-TW": "在倉庫附近搜尋田文的藏貨"
     },
     {
       "da": "Følg sporene",
@@ -127,5 +127,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10h"],
   "nextQuestIds": ["ss10l"],
-  "updatedAt": "02/23/2026"
+  "updatedAt": "02/24/2026"
 }

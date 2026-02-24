@@ -77,20 +77,20 @@
     },
     {
       "da": "Tag til antennen nær Brændstofkontrollen, og send din lokation",
-      "de": "Geh zur Antenne in der Nähe der Kraftstoffsteuerung und übermittle deinen Standort.",
+      "de": "Geh zur Antenne in der Nähe der Kraftstoffkontrolle und übermittle deinen Standort.",
       "en": "Head to the antenna near the Fuel Control, and transmit your location",
       "es": "Ve a la antena que hay cerca del control de combustible y transmite tu posición.",
-      "fr": "Aller à l'antenne près de la Régulation du carburant et transmettre votre position",
+      "fr": "Aller à l'antenne près du Bâtiment de régulation du carburant et transmettre votre position",
       "he": "צא לאנטנה ליד בקרת הדלק, ושדר את המיקום שלך",
       "hr": "Kreni do antene blizu Kontrole goriva i pošalji svoju lokaciju",
       "it": "Raggiungi l'antenna vicino al Controllo combustibile e trasmetti la tua posizione",
       "ja": "燃料管理室の近くにあるアンテナに向かい、位置情報を送信した",
       "ko-KR": "연료 통제소 부근의 안테나로 향한 뒤 위치 전송하기",
       "no": "Dra til antennen i nærheten av drivstoffkontrollen, og send posisjonen din",
-      "pl": "Idź do anteny obok strefy kontroli paliwa i prześlij swoją pozycję",
-      "pt": "Vá até a antena, perto do Controle de combustível, e transmita sua localização",
-      "pt-BR": "Vá até a antena, perto do Controle de combustível, e transmita sua localização",
-      "ru": "Отправляйтесь к антенне у управления топливом и передайте свое местоположение.",
+      "pl": "Idź do anteny obok strefy kontroli paliwa i prześlij swoją pozycję",
+      "pt": "Vá até a antena, perto do Controle de Combustível, e transmita sua localização",
+      "pt-BR": "Vá até a antena, perto do Controle de Combustível, e transmita sua localização",
+      "ru": "Отправляйтесь к антенне возле здания Управления подачи топлива и передайте свое местоположение.",
       "sr": "Kreni do antene blizu kontrole goriva i pošalji svoju lokaciju",
       "tr": "Yakıt Kontrol Odası'nın yakınındaki antene git ve konumunu paylaş",
       "uk": "Рушайте до антени біля Паливного контролю і передайте свою локацію",
@@ -181,5 +181,5 @@
   "xp": 0,
   "previousQuestIds": ["on_deaf_ears"],
   "nextQuestIds": [],
-  "updatedAt": "02/23/2026"
+  "updatedAt": "02/24/2026"
 }

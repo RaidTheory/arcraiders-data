@@ -132,25 +132,25 @@
     },
     {
       "da": "Skaf 1 kongelys",
-      "de": "Beschaffe 1 Kleinblütige Königskerze",
+      "de": "Beschaffe 1 Kleinblütige Königskerze.",
       "en": "Obtain 1 Great Mullein",
-      "es": "Obtener 1 Gran Verbasco",
-      "fr": "Obtenir 1 Grande molène",
+      "es": "Cosecha 1 gran verbasco.",
+      "fr": "Obtenir 1 grande molène",
       "he": "השג 1 בוצין",
       "hr": "Nabavi 1 Divizmu",
-      "it": "Ottenere 1 Grande verbasco",
+      "it": "Ottieni 1 verbasco grande",
       "ja": "ビロードモウズイカを1個入手した",
       "ko-KR": "우단담배풀 1개 획득하기",
       "no": "Skaff 1 filtkongslys",
-      "pl": "Zdobyć 1 Dziewanna drobnokwiatowa",
-      "pt": "Obter 1 Grande Verbasco",
-      "pt-BR": "Obter 1 Grande Verbasco",
-      "ru": "Получить 1 коровяк",
+      "pl": "Zdobądź 1 dziewannę drobnokwiatową",
+      "pt": "Obtenha 1 Grande Verbasco",
+      "pt-BR": "Obtenha 1 Grande Verbasco",
+      "ru": "Добудьте 1 коровяк.",
       "sr": "Nabavite 1 Divizmu",
       "tr": "1 Sığırkuyruğu elde et",
       "uk": "Отримайте 1 дивину ведмежу",
-      "zh-CN": "获取1个大毛蕊花",
-      "zh-TW": "獲得1個毛蕊花"
+      "zh-CN": "获得1个大毛蕊花",
+      "zh-TW": "獲得1朵毛蕊花"
     }
   ],
   "rewardItemIds": [
@@ -170,5 +170,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10a"],
   "nextQuestIds": ["ss10f"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/24/2026"
 }

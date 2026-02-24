@@ -22,7 +22,7 @@
     "zh-CN": "积少成多",
     "zh-TW": "撿起材料"
   },
-  "map": ["dam_battlegrounds", "the_spaceport", "buried_city"],
+  "map": ["the_spaceport", "buried_city", "dam_battlegrounds"],
   "trader": "Shani",
   "description": {
     "da": "Stormen har for det meste lagt sig, men meget af vores infrastruktur har fået tæsk. Hvis du håber på at blive hos os, bliver du nødt til at trække dit læs i reparationsarbejdet.",
@@ -105,5 +105,5 @@
   "xp": 0,
   "previousQuestIds": [],
   "nextQuestIds": ["ss2", "ss3"],
-  "updatedAt": "02/23/2026"
+  "updatedAt": "02/24/2026"
 }

@@ -73,7 +73,7 @@
       "sr": "Pronađi aparat za espreso radi prikupljanja rezervnih delova",
       "tr": "Yedek parçalar çıkarmak için bir espresso makinesi bul",
       "uk": "Знайдіть еспресо-машину, щоб розібрати її на запчастини",
-      "zh-CN": "找到一台浓缩咖啡机以回收零件",
+      "zh-CN": "找到一台浓缩咖啡机，拆取可用零件",
       "zh-TW": "找到一台義式咖啡機以回收多餘零件"
     },
     {
@@ -112,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x12"],
   "nextQuestIds": ["ss10x14"],
-  "updatedAt": "02/23/2026"
+  "updatedAt": "02/24/2026"
 }
