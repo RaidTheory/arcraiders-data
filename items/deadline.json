@@ -46,7 +46,7 @@
   },
   "type": "Quick Use",
   "rarity": "Epic",
-  "value": 5000,
+  "value": 6000,
   "weightKg": 1,
   "stackSize": 1,
   "effects": {
@@ -123,6 +123,7 @@
   "craftBench": "explosives_bench",
   "recipe": {
     "arc_circuitry": 2,
+    "comet_igniter": 1,
     "explosive_compound": 3
   },
   "recyclesInto": {

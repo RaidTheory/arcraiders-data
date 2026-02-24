@@ -100,7 +100,8 @@
   "craftBench": "explosives_bench",
   "stationLevelRequired": 3,
   "recipe": {
-    "explosive_compound": 1,
+    "crude_explosives": 2,
+    "firefly_burner": 1,
     "synthesized_fuel": 1
   },
   "recyclesInto": {

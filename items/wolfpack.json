@@ -46,7 +46,7 @@
   },
   "type": "Quick Use",
   "rarity": "Epic",
-  "value": 5000,
+  "value": 6000,
   "weightKg": 1,
   "stackSize": 1,
   "effects": {
@@ -100,7 +100,8 @@
   "craftBench": "explosives_bench",
   "recipe": {
     "arc_motion_core": 2,
-    "explosive_compound": 3
+    "explosive_compound": 1,
+    "rocketeer_driver": 1
   },
   "recyclesInto": {
     "arc_motion_core": 1,
