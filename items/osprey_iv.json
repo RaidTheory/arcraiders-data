@@ -235,12 +235,17 @@
       "zh-TW": "特殊特性"
     }
   },
+  "craftBench": "weapon_bench",
   "recyclesInto": {
     "advanced_mechanical_components": 3,
     "medium_gun_parts": 3
   },
   "salvagesInto": {
     "medium_gun_parts": 3
+  },
+  "upgradeCost": {
+    "advanced_mechanical_components": 2,
+    "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
   "updatedAt": "02/24/2026",

@@ -49,12 +49,17 @@
   "value": 10000,
   "weightKg": 4,
   "isWeapon": true,
+  "craftBench": "weapon_bench",
   "recyclesInto": {
     "mechanical_components": 4,
     "simple_gun_parts": 4
   },
   "salvagesInto": {
     "simple_gun_parts": 4
+  },
+  "upgradeCost": {
+    "light_gun_parts": 1,
+    "mechanical_components": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
   "updatedAt": "02/24/2026"

@@ -212,12 +212,17 @@
       "zh-TW": "減少裝填時間"
     }
   },
+  "craftBench": "weapon_bench",
   "recyclesInto": {
     "advanced_mechanical_components": 4,
     "heavy_gun_parts": 5
   },
   "salvagesInto": {
     "heavy_gun_parts": 5
+  },
+  "upgradeCost": {
+    "advanced_mechanical_components": 2,
+    "heavy_gun_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
   "updatedAt": "02/24/2026",

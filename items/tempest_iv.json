@@ -212,12 +212,17 @@
       "zh-TW": "降低換彈時間"
     }
   },
+  "craftBench": "weapon_bench",
   "recyclesInto": {
     "advanced_mechanical_components": 5,
     "medium_gun_parts": 4
   },
   "salvagesInto": {
     "medium_gun_parts": 5
+  },
+  "upgradeCost": {
+    "advanced_mechanical_components": 2,
+    "medium_gun_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
   "updatedAt": "02/24/2026"
