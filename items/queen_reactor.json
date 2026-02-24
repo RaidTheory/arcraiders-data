@@ -47,8 +47,9 @@
   "type": "Recyclable",
   "rarity": "Legendary",
   "foundIn": "ARC",
-  "value": 13000,
+  "value": 11000,
   "weightKg": 10,
+  "stackSize": 1,
   "recyclesInto": {
     "magnetic_accelerator": 1,
     "power_rod": 1

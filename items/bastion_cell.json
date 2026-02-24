@@ -47,15 +47,15 @@
   "type": "Recyclable",
   "rarity": "Epic",
   "foundIn": "ARC",
-  "value": 5000,
+  "value": 3000,
   "weightKg": 1,
   "stackSize": 3,
   "recyclesInto": {
-    "advanced_mechanical_components": 2,
-    "arc_alloy": 2
+    "advanced_mechanical_components": 1,
+    "arc_alloy": 3
   },
   "salvagesInto": {
-    "advanced_mechanical_components": 2
+    "advanced_mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/bastion_cell.png",
   "updatedAt": "01/13/2026"

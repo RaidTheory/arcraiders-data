@@ -47,7 +47,7 @@
   "type": "Recyclable",
   "rarity": "Rare",
   "foundIn": "ARC",
-  "value": 1000,
+  "value": 640,
   "weightKg": 0.6,
   "stackSize": 3,
   "effects": {
@@ -103,7 +103,7 @@
     "electrical_components": 1
   },
   "salvagesInto": {
-    "electrical_components": 1
+    "arc_alloy": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png",
   "updatedAt": "01/13/2026",
