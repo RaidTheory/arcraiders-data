@@ -46,9 +46,10 @@
   },
   "type": "Quick Use",
   "rarity": "Rare",
-  "value": 1600,
+  "value": 2200,
   "weightKg": 1,
   "stackSize": 3,
+  "blueprintLocked": true,
   "effects": {
     "Damage": {
       "value": 20,
@@ -108,8 +109,8 @@
     "crude_explosives": 2
   },
   "salvagesInto": {
-    "crude_explosives": 1
+    "crude_explosives": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/trailblazer.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

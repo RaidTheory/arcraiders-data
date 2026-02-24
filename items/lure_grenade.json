@@ -48,7 +48,10 @@
   "rarity": "Uncommon",
   "value": 1000,
   "weightKg": 0.4,
+  "stackSize": 3,
+  "blueprintLocked": true,
   "craftBench": "utility_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "electrical_components": 1,
     "speaker_component": 1
@@ -60,5 +63,5 @@
     "speaker_component": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

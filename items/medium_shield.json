@@ -48,6 +48,7 @@
   "rarity": "Rare",
   "value": 2000,
   "weightKg": 7,
+  "stackSize": 1,
   "effects": {
     "Charge": {
       "value": 70,
@@ -143,6 +144,7 @@
     }
   },
   "craftBench": "equipment_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "arc_circuitry": 1,
     "battery": 4
@@ -150,8 +152,11 @@
   "recyclesInto": {
     "arc_circuitry": 1
   },
+  "salvagesInto": {
+    "arc_alloy": 2
+  },
   "imageFilename": "https://cdn.arctracker.io/items/medium_shield.png",
-  "updatedAt": "11/03/2025",
+  "updatedAt": "02/24/2026",
   "damageMitigation": 42.5,
   "durability": 100,
   "movementSpeedModifier": -5,

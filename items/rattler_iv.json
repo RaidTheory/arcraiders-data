@@ -167,7 +167,6 @@
     }
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 1,
   "recyclesInto": {
     "mechanical_components": 4,
     "simple_gun_parts": 2
@@ -180,7 +179,7 @@
     "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-  "updatedAt": "12/16/2025",
+  "updatedAt": "02/24/2026",
   "agility": 54.8,
   "damage": 9,
   "fireRate": 33.3,

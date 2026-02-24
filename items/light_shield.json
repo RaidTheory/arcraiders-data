@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 640,
   "weightKg": 5,
+  "stackSize": 1,
   "effects": {
     "Charge": {
       "value": 40,
@@ -120,6 +121,7 @@
     }
   },
   "craftBench": ["workbench", "equipment_bench"],
+  "stationLevelRequired": 1,
   "recipe": {
     "arc_alloy": 2,
     "plastic_parts": 4
@@ -131,7 +133,7 @@
     "arc_alloy": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/light_shield.png",
-  "updatedAt": "01/09/2026",
+  "updatedAt": "02/24/2026",
   "damageMitigation": 40,
   "durability": 100,
   "movementSpeedModifier": 0,

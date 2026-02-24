@@ -48,7 +48,9 @@
   "rarity": "Rare",
   "value": 1000,
   "weightKg": 0.4,
+  "stackSize": 3,
   "craftBench": "utility_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "mechanical_components": 1,
     "rope": 1
@@ -61,5 +63,5 @@
     "rope": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/zipline.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

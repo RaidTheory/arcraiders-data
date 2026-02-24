@@ -214,7 +214,6 @@
     }
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 1,
   "recyclesInto": {
     "advanced_mechanical_components": 2,
     "heavy_gun_parts": 3
@@ -227,7 +226,7 @@
     "heavy_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-  "updatedAt": "01/09/2026",
+  "updatedAt": "02/24/2026",
   "agility": 70.7,
   "damage": 58.5,
   "fireRate": 14.3,

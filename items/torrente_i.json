@@ -49,6 +49,7 @@
   "value": 7000,
   "weightKg": 12,
   "isWeapon": true,
+  "blueprintLocked": true,
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
@@ -167,6 +168,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 3,
@@ -180,5 +182,5 @@
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/torrente.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

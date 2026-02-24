@@ -122,6 +122,7 @@
     }
   },
   "craftBench": "equipment_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_electrical_components": 2,
     "processor": 3
@@ -134,5 +135,5 @@
     "electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_safekeeper.png",
-  "updatedAt": "02/02/2026"
+  "updatedAt": "02/24/2026"
 }

@@ -50,6 +50,11 @@
   "value": 1000,
   "weightKg": 0.2,
   "stackSize": 1,
+  "craftBench": "in_raid",
+  "recipe": {
+    "assorted_seeds": 7,
+    "canister": 1
+  },
   "recyclesInto": {
     "plastic_parts": 10
   },
@@ -57,5 +62,5 @@
     "plastic_parts": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/shaker.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

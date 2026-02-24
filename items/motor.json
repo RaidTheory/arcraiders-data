@@ -49,6 +49,7 @@
   "foundIn": "Mechanical",
   "value": 2000,
   "weightKg": 3,
+  "stackSize": 3,
   "recyclesInto": {
     "mechanical_components": 2,
     "oil": 2
@@ -57,5 +58,5 @@
     "oil": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/motor.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "02/24/2026"
 }

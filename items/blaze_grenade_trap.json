@@ -97,12 +97,12 @@
       "zh-TW": "持續時間"
     }
   },
-  "craftBench": "workbench",
+  "craftBench": ["workbench", "in_raid"],
   "stationLevelRequired": 1,
   "recipe": {
     "blaze_grenade": 1,
     "wires": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/blaze_grenade_trap.png",
-  "updatedAt": "12/19/2025"
+  "updatedAt": "02/24/2026"
 }

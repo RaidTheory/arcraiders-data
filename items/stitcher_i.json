@@ -167,6 +167,7 @@
     }
   },
   "craftBench": ["workbench", "weapon_bench"],
+  "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 8,
     "rubber_parts": 4
@@ -179,5 +180,5 @@
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-  "updatedAt": "11/20/2025"
+  "updatedAt": "02/24/2026"
 }

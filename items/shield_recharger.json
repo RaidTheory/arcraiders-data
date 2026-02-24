@@ -121,6 +121,7 @@
     }
   },
   "craftBench": ["workbench", "med_station", "in_raid"],
+  "stationLevelRequired": 1,
   "recipe": {
     "arc_powercell": 1,
     "rubber_parts": 5
@@ -132,5 +133,5 @@
     "rubber_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/shield_recharger.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }
