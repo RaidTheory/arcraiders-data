@@ -52,7 +52,6 @@
     "zh-CN": "那段坍塌的高速让我有点担心。看起来是最近才发生的事。上层大部分地区可能已经变成废墟，但大多是很久以前的事了。",
     "zh-TW": "崩塌的高速公路讓我很擔心。那看起來是近日才發生的。頂層雖然有很多地方化為廢墟，但那些都是很久以前就發生的事。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Tag et billede af Collapsed Highway",
@@ -160,5 +159,5 @@
   "xp": 0,
   "previousQuestIds": ["ss11"],
   "nextQuestIds": ["ss11bx"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

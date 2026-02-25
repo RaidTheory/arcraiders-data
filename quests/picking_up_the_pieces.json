@@ -22,7 +22,7 @@
     "zh-CN": "积少成多",
     "zh-TW": "撿起材料"
   },
-  "map": ["dam_battlegrounds", "the_spaceport", "buried_city"],
+  "map": ["the_spaceport", "buried_city", "dam_battlegrounds"],
   "trader": "Shani",
   "description": {
     "da": "Stormen har for det meste lagt sig, men meget af vores infrastruktur har fået tæsk. Hvis du håber på at blive hos os, bliver du nødt til at trække dit læs i reparationsarbejdet.",
@@ -46,7 +46,6 @@
     "zh-CN": "风暴已经基本平息，但我们的设施损毁严重。如果你想继续待在这里，就必须为修复工作出一份力。",
     "zh-TW": "風暴大致已平息，但我們很多基礎建設都遭受重創。如果你想留下來，我需要你參與修理工作。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Besøg et hvilket som helst område på dit kort med et loot-kategoriikon",
@@ -106,5 +105,5 @@
   "xp": 0,
   "previousQuestIds": [],
   "nextQuestIds": ["ss2", "ss3"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/24/2026"
 }

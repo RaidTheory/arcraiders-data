@@ -27,6 +27,10 @@
     {
       "itemId": "portable_tv",
       "quantity": 1
+    },
+    {
+      "itemId": "stack_of_movie_tapes",
+      "quantity": 1
     }
   ],
   "grantedItemIds": [
@@ -61,6 +65,7 @@
     "zh-CN": "自从那个ARC信号的传言传开，大伙儿都一直坐立不安。我一直想搞个电影之夜活动，让大家放松一下神经。但我的投影机缺了一些关键物资。你能帮我找一下吗？",
     "zh-TW": "自從關於那個ARC訊號的傳言傳開後，每個人都很緊繃。我想說舉辦電影之夜是轉移注意力不錯的方法，但我缺少一些重要資源。你會幫我對吧？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Levér et bærbart TV til Apollo",
@@ -146,5 +151,5 @@
   "xp": 0,
   "previousQuestIds": ["with_a_view"],
   "nextQuestIds": [],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

@@ -52,7 +52,6 @@
     "zh-CN": "我有个计划。如果能抢在OTTM之前找到对他们不利的证据，或许就能一劳永逸地摆脱他们的纠缠。",
     "zh-TW": "我有個計畫。如果我們能搶在OTTM之前拿到證據，就有機會一口氣徹底擺脫他們了。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Tag til North Trench Tower",
@@ -112,5 +111,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x16"],
   "nextQuestIds": [],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

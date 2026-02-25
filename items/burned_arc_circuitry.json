@@ -10,7 +10,7 @@
     "hr": "Izgorjeli ARC Sklopovi",
     "it": "Circuiti ARC bruciati",
     "ja": "燃えたARC回路",
-    "ko-KR":  "타버린 아크 회로",
+    "ko-KR": "타버린 아크 회로",
     "no": "Brent ARC-kretskort",
     "pl": "Spalone obwody ARC",
     "pt": "Circuitos ARC queimados",
@@ -19,7 +19,7 @@
     "sr": "Izgoreli ARC Sklopovi",
     "tr": "Yanmış Arc Devresi",
     "uk": "Згоріла схема Arc",
-    "zh-CN": "烧毁的Arc电路",
+    "zh-CN": "烧毁的ARC线圈",
     "zh-TW": "燒毀的Arc電路"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "クラフト素材にリサイクル可能。",
-    "ko-KR":  "제작 재료로 재활용 가능.",
+    "ko-KR": "제작 재료로 재활용 가능.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -49,7 +49,7 @@
   "foundIn": "ARC",
   "value": 640,
   "weightKg": 1,
-  "stackSize": 5,
+  "stackSize": 3,
   "recyclesInto": {
     "arc_alloy": 2
   },
@@ -57,5 +57,5 @@
     "arc_alloy": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/burned_arc_circuitry.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "02/24/2026"
 }

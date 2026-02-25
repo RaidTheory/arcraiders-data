@@ -10,7 +10,7 @@
     "hr": "Nakovanj I",
     "it": "Incudine I",
     "ja": "アンヴィル I",
-    "ko-KR":  "앤빌 I",
+    "ko-KR": "앤빌 I",
     "no": "Ambolt I",
     "pl": "Kowadło I",
     "pt": "Bigorna I",
@@ -32,7 +32,7 @@
     "hr": "Ručni top jednostrukog okidanja s visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem.",
     "it": "Elevata potenza di Danni e danni alla testa, ma maneggevolezza ridotta.",
     "ja": "高威力の単発式ハンドキャノン。ヘッドショットダメージも高いが、取り回しは遅い。",
-    "ko-KR":  "단발 작동식 핸드 캐논으로 높은 피해와 헤드샷 피해를 주지만 조작이 느립니다.",
+    "ko-KR": "단발 작동식 핸드 캐논으로 높은 피해와 헤드샷 피해를 주지만 조작이 느립니다.",
     "no": "Håndkanon med enkeltaction som gir høy skade og hodeskuddsskade, men treg håndtering.",
     "pl": "Jednostrzałowa armata ręczna o wysokich obrażeniach, także przy trafieniach w głowę, lecz z powolną obsługą.",
     "pt": "Canhão de mão de ação simples com alto dano e dano de tiro na cabeça, porém com manuseio lento.",
@@ -49,6 +49,7 @@
   "value": 5000,
   "weightKg": 5,
   "isWeapon": true,
+  "blueprintLocked": true,
   "effects": {
     "Ammo Type": {
       "value": "Heavy Ammo",
@@ -61,7 +62,7 @@
       "hr": "Vrsta streljiva",
       "it": "Tipo di munizioni",
       "ja": "弾薬タイプ",
-      "ko-KR":  "탄약 유형",
+      "ko-KR": "탄약 유형",
       "no": "Ammunisjonstype",
       "pl": "Typ amunicji",
       "pt": "Tipo de munição",
@@ -84,7 +85,7 @@
       "hr": "ARC probijanje oklopa",
       "it": "Penetrazione armature ARC",
       "ja": "ARC装甲貫通",
-      "ko-KR":  "아크 장갑판 관통력",
+      "ko-KR": "아크 장갑판 관통력",
       "no": "ARC rustningspenetrering",
       "pl": "Przebicie pancerza ARC",
       "pt": "Penetração de armadura ARC",
@@ -107,7 +108,7 @@
       "hr": "Izdržljivost",
       "it": "Tenuta",
       "ja": "耐久性",
-      "ko-KR":  "내구도",
+      "ko-KR": "내구도",
       "no": "Holdbarhet",
       "pl": "Wytrzymałość",
       "pt": "Durabilidade",
@@ -130,7 +131,7 @@
       "hr": "Način pucanja",
       "it": "Modalità di fuoco",
       "ja": "射撃モード",
-      "ko-KR":  "발사 모드",
+      "ko-KR": "발사 모드",
       "no": "Skytemodus",
       "pl": "Tryb ognia",
       "pt": "Modo de disparo",
@@ -153,7 +154,7 @@
       "hr": "Veličina spremnika",
       "it": "Dimensioni caricatore",
       "ja": "マガジンサイズ",
-      "ko-KR":  "탄창 크기",
+      "ko-KR": "탄창 크기",
       "no": "Magasinstørrelse",
       "pl": "Pojemność magazynka",
       "pt": "Tamanho do carregador",
@@ -167,6 +168,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "mechanical_components": 5,
     "simple_gun_parts": 6
@@ -179,5 +181,5 @@
     "simple_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/anvil.png",
-  "updatedAt": "11/06/2025"
+  "updatedAt": "02/24/2026"
 }

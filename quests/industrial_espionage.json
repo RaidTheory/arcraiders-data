@@ -52,7 +52,6 @@
     "zh-CN": "既然我自己的藏货安全了，也许是时候更密切地监视竞争对手，以免这种事再次发生。",
     "zh-TW": "在確保我的儲藏箱安全無虞後，現在應該要更加密切注意競爭對手，避免再次發生這種情況。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find Tian Wens våbendepot nær Tankstationen i Udkanten",
@@ -138,5 +137,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10m"],
   "nextQuestIds": ["ss10q"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

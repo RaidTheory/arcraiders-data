@@ -10,7 +10,7 @@
     "hr": "Horizontalni Rukohvat",
     "it": "Impugnatura Orizzontale",
     "ja": "横グリップ",
-    "ko-KR":  "수평 그립",
+    "ko-KR": "수평 그립",
     "no": "Horisontalt Grep",
     "pl": "Chwyt Horyzontalny",
     "pt": "Empunhadura Horizontal",
@@ -32,7 +32,7 @@
     "hr": "Umjereno smanjuje i vertikalni i horizontalni trzaj.",
     "it": "Riduce moderatamente sia il rinculo verticale che quello orizzontale.",
     "ja": "垂直反動と水平反動を適度に軽減します。",
-    "ko-KR":  "수직 반동과 수평 반동을 적당히 감소시킵니다.",
+    "ko-KR": "수직 반동과 수평 반동을 적당히 감소시킵니다.",
     "no": "Reduserer moderat både vertikal og horisontal rekyl.",
     "pl": "Umiarkowanie zmniejsza odrzut pionowy i poziomy.",
     "pt": "Reduz moderadamente o recuo vertical e horizontal.",
@@ -61,7 +61,6 @@
     "Tempest",
     "Vulcano"
   ],
-  "blueprintLocked": true,
   "effects": {
     "Reduced ADS Speed": {
       "value": "30%",
@@ -74,7 +73,7 @@
       "hr": "Smanjena Brzina Nišanjenja",
       "it": "Velocità ADS Ridotta",
       "ja": "ADS速度低下",
-      "ko-KR":  "조준 속도 감소",
+      "ko-KR": "조준 속도 감소",
       "no": "Redusert Siktehastighet",
       "pl": "Zmniejszona Szybkość Celowania",
       "pt": "Velocidade de Mira Reduzida",
@@ -97,7 +96,7 @@
       "hr": "Smanjeni Horizontalni Trzaj",
       "it": "Rinculo Orizzontale Ridotto",
       "ja": "水平反動軽減",
-      "ko-KR":  "수평 반동 감소",
+      "ko-KR": "수평 반동 감소",
       "no": "Redusert Horisontal Rekyl",
       "pl": "Zredukowany Odrzut Poziomy",
       "pt": "Recuo Horizontal Reduzido",
@@ -120,7 +119,7 @@
       "hr": "Smanjeni Vertikalni Trzaj",
       "it": "Rinculo Verticale Ridotto",
       "ja": "垂直反動軽減",
-      "ko-KR":  "수직 반동 감소",
+      "ko-KR": "수직 반동 감소",
       "no": "Redusert Vertikal Rekyl",
       "pl": "Zredukowany Odrzut Pionowy",
       "pt": "Recuo Vertical Reduzido",
@@ -133,12 +132,6 @@
       "zh-TW": "降低垂直後座力"
     }
   },
-  "craftBench": "weapon_bench",
-  "stationLevelRequired": 3,
-  "recipe": {
-    "duct_tape": 5,
-    "mod_components": 2
-  },
   "recyclesInto": {
     "duct_tape": 2,
     "mod_components": 1
@@ -147,5 +140,5 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/horizontal_grip.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "02/24/2026"
 }

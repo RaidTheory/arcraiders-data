@@ -10,7 +10,7 @@
     "hr": "Raketni pogon",
     "it": "Driver di lanciarazzi",
     "ja": "ロケッティアドライバー",
-    "ko-KR":  "로켓티어 드라이버",
+    "ko-KR": "로켓티어 드라이버",
     "no": "Rakettdriver",
     "pl": "Napęd rakietowy",
     "pt": "Driver de fogueteiro",
@@ -19,7 +19,7 @@
     "sr": "Raketni pogon",
     "tr": "Roketçi Sürücüsü",
     "uk": "Драйвер ракетника",
-    "zh-CN": "火箭兵驱动器",
+    "zh-CN": "火箭手引擎",
     "zh-TW": "火箭兵驅動器"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "クラフト素材にリサイクルできます。",
-    "ko-KR":  "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -47,16 +47,16 @@
   "type": "Recyclable",
   "rarity": "Epic",
   "foundIn": "ARC",
-  "value": 5000,
+  "value": 3000,
   "weightKg": 1,
   "stackSize": 3,
   "recyclesInto": {
-    "advanced_electrical_components": 2,
+    "advanced_electrical_components": 1,
     "arc_alloy": 3
   },
   "salvagesInto": {
-    "arc_circuitry": 2
+    "arc_circuitry": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/rocketeer_driver.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "02/24/2026"
 }

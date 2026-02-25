@@ -56,7 +56,6 @@
     "zh-CN": "“第一波”期间，我们小队在大坝边上设了一个陷阱，就是把发电机超载，当成临时的ARC诱捕器。现在听说奇袭者之间用它来切断通讯打伏击。你帮我去毁了它。",
     "zh-TW": "第一波期間，我和我的小隊在大壩那裡設下了陷阱。我們讓一台發電機過載，把它改造成臨時的ARC陷阱。現在我聽說有掠手用它來切斷通訊來對彼此發動埋伏。我需要你去解除那個陷阱。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til Victory Ridge",
@@ -204,5 +203,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10h"],
   "nextQuestIds": ["ss10o"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

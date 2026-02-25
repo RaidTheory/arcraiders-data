@@ -24,6 +24,12 @@
   },
   "map": ["dam_battlegrounds"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "major_aivas_mementos",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Jeg har et andet job. Det handler... om min mor. De First Wave-steder, jeg sendte dig til før? Jeg håbede faktisk, du ville finde noget af min mors. Hun kæmpede i Raider-modstanden. Det var et langt skud; men nu har jeg et faktisk spor.",
     "de": "Ich hab noch einen Job für dich, aber diesmal geht es um meine Mutter.\r\n\r\nDiese Stätten der Ersten Welle, zu denen ich dich geschickt hab? Ich hatte gehofft, du würdest dort etwas finden, das einst meiner Mutter gehörte. Sie hat im Raider-Widerstand gekämpft. Es war ein Schuss ins Blaue, aber jetzt habe ich tatsächlich eine Spur.",
@@ -102,5 +108,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10r"],
   "nextQuestIds": ["ss10w"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

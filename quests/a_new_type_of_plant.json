@@ -24,6 +24,12 @@
   },
   "map": ["dam_battlegrounds"],
   "trader": "Lance",
+  "requiredItemIds": [
+    {
+      "itemId": "possibly_toxic_plant",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Nogle spejdere har rapporteret om mærkelige planter, der spreder sig i området. Det får din gamle ven Lance til at tro, at de måske kan bruges til noget interessant.",
     "de": "Ein paar Späher haben von merkwürdigen Pflanzen berichtet, die sich in der Gegend ausbreiten. Dein alter Kumpel Lance ist der Meinung, dass man die für interessante Dinge benutzen könnte.",
@@ -106,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x18"],
   "nextQuestIds": ["ss10x20"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

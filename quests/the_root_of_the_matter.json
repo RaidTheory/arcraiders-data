@@ -24,6 +24,12 @@
   },
   "map": ["buried_city"],
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "experimental_seed_sample",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Vi er heldige. De notater, du fandt sidste gang, var skrevet af den ledende forsker. Da projektet gik ned, ser det ud til, at hun tog nogle af frøprøverne og forseglede dem på et sikkert sted.",
     "de": "Wir haben Glück. Die Notizen, die du letztes Mal gefunden hast, sind von der Forschungsleiterin. Als das Aus für das Projekt kam, hat sie anscheinend einige Saatgutproben beiseitegeschafft und an einem sicheren Ort versteckt.",
@@ -124,5 +130,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x2"],
   "nextQuestIds": ["ss10x4"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

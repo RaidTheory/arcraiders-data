@@ -24,6 +24,16 @@
   },
   "map": ["stella_montis"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "magnetron",
+      "quantity": 1
+    },
+    {
+      "itemId": "flow_controller",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Hele Speranza summer af snak om Stella Montis lige nu, og jeg må indrømme, at det har fanget min opmærksomhed. Lad de andre finde ud af hvad og hvordan; jeg er interesseret i teknologien indeni.",
     "de": "In Speranza wird nur noch über Stella Montis gesprochen und ich muss zugeben, mein Interesse ist auch geweckt. Sollen die anderen sich mit dem Was und Wie befassen – mich interessiert die Technik, die da drinnen versteckt ist.",
@@ -157,5 +167,5 @@
   "xp": 0,
   "previousQuestIds": ["12_cold_storage"],
   "nextQuestIds": ["on_deaf_ears", "with_a_view"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

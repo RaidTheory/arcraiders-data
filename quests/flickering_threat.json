@@ -24,6 +24,12 @@
   },
   "map": ["dam_battlegrounds"],
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "wires",
+      "quantity": 4
+    }
+  ],
   "description": {
     "da": "Min sædvanlige ingeniør kommer sig stadig over sine sår og har været rundtosset i dagevis. Vi har ikke råd til at køre på halv kraft, indtil han bliver rask; jeg har brug for nogen til at gribe skiftenøglen i mellemtiden.",
     "de": "Der Ingenieur meines Vertrauens ist immer noch nicht von seinen Wunden genesen. Er ist schon seit Tagen etwas wirr, und wir können uns nicht erlauben, mit halber Kraft zu arbeiten, bis er wieder gesund ist. Ich brauche jemanden, der an seiner Stelle den Schraubenschlüssel schwingt.",
@@ -46,7 +52,6 @@
     "zh-CN": "我平时用的工程师还在养伤，已经神志不清好几天了。在他痊愈之前，这里总不能处于半瘫痪状态，需要有人在这段时间接手他的工作。",
     "zh-TW": "我的常任工程師還在療傷，他已經昏昏沉沉好幾天了。在他痊癒之前，我們不能讓效率降低；我需要有人暫時頂替他的工作。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find generatorrummet",
@@ -150,5 +155,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x10"],
   "nextQuestIds": ["ss10x12"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

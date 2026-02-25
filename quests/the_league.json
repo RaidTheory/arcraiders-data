@@ -24,6 +24,16 @@
   },
   "map": ["dam_battlegrounds"],
   "trader": "Apollo",
+  "requiredItemIds": [
+    {
+      "itemId": "deflated_football",
+      "quantity": 1
+    },
+    {
+      "itemId": "bicycle_pump",
+      "quantity": 1
+    }
+  ],
   "grantedItemIds": [
     {
       "itemId": "yellow_light_stick",
@@ -159,5 +169,5 @@
   "xp": 0,
   "previousQuestIds": ["ss8b"],
   "nextQuestIds": [],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

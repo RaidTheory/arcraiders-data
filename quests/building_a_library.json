@@ -24,6 +24,12 @@
   },
   "map": ["buried_city"],
   "trader": "Apollo",
+  "requiredItemIds": [
+    {
+      "itemId": "library_book",
+      "quantity": 3
+    }
+  ],
   "description": {
     "da": "Vores biblioteksudvalg er blevet ret kedeligt. Kan du tage ud til Buried City og finde noget mere, vi kan læse? Sørg for at tage noget med til alle.",
     "de": "Die Auswahl unserer Bibliothek ist inzwischen etwas öde geworden. Könntest du in der Begrabenen Stadt neues Lesefutter für uns auftreiben? Aber bitte achte darauf, etwas für jeden Geschmack zu finden.",
@@ -46,6 +52,7 @@
     "zh-CN": "我们的图书室藏书已经相当陈旧了。拜托你去掩埋废城找找，带点新书回来。记得多带点不同种类的。",
     "zh-TW": "我們圖書館的藏書越來越陳舊過時了。你能去埋藏都市多找幾本書給我們閱讀嗎？請務必適合不同人閱讀的書來。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find biblioteket i bymidten",
@@ -175,5 +182,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x16"],
   "nextQuestIds": ["ss10x19"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

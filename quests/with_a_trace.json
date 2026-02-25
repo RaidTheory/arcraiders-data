@@ -46,7 +46,6 @@
     "zh-CN": "那台被击落的机器……不是我们干的。我们知道外面有零星流浪的幸存者，但这件事情……远远不是一个人能做到的。",
     "zh-TW": "那台被摧毀的機器…那不是我們幹的。我們確實知道上頭還有一些流浪的生還者，但如此程度的破壞？這絕對不是一個人就能做到的。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til Barren Clearing",
@@ -150,5 +149,5 @@
   "xp": 0,
   "previousQuestIds": ["ss11a"],
   "nextQuestIds": ["ss10x20", "the_clean_dream"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

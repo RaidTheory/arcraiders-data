@@ -50,24 +50,24 @@
   "objectives": [
     {
       "da": "Find oversvømmelsestunnelen under Red Lake Balcony",
-      "de": "Den Hochwasserzugangstunnel unter dem Balkon „Rote Seen“ finden",
+      "de": "Finde den Hochwasserzugangstunnel unter dem Balkon an den Roten Seen.",
       "en": "Locate the Flood Access Tunnel under the Red Lake Balcony",
       "es": "Encuentra el túnel de acceso para inundaciones debajo del balcón de los lagos rojos",
-      "fr": "Localiser le Tunnel d'évacuation sous le Plateau des lacs rouges",
+      "fr": "Localiser le Tunnel d'évacuation sous le plateau du Lac rouge",
       "he": "אתר את מנהרת הגישה להצפה מתחת ל-Red Lake Balcony",
       "hr": "Lociraj pristupni tunel za poplave ispod Red Lake Balconyja",
-      "it": "Trova il tunnel di accesso alluvione sotto il Balcone Laghi rossi",
+      "it": "Trova il tunnel di accesso alluvione sotto la terrazza dei Laghi rossi",
       "ja": "赤い池のバルコニーの下にある浸水時の地下通路を見つけた",
       "ko-KR": "붉은 호수 발코니 아래 범람수 터널 찾기",
       "no": "Finn Flood Access Tunnel under Red Lake Balcony",
-      "pl": "Znajdź tunel dostępu przeciwpowodziowego pod Balkonem nad Jeziorami Czerwonymi",
-      "pt": "Localize o Túnel de Acesso de Inundação sob a Varanda dos Lagos Vermelhos",
-      "pt-BR": "Localize o Túnel de Acesso de Inundação sob a Varanda dos Lagos Vermelhos",
-      "ru": "Найдите туннель к переливу под Балконом Алых озер.",
+      "pl": "Znajdź tunel dostępu przeciwpowodziowego pod balkonem nad Jeziorem Czerwonym",
+      "pt": "Localize o Túnel de Acesso de Inundação sob a Varanda do Lago Vermelho",
+      "pt-BR": "Localize o Túnel de Acesso de Inundação sob a Varanda do Lago Vermelho",
+      "ru": "Найдите туннель к переливу под балконом у Красного озера.",
       "sr": "Lociraj tunel za kontrolu poplava ispod Red Lake Balcony",
-      "tr": "Kızıl Göller Balkonu'nun altındaki Taşkın Erişimi Tüneli'ni bul",
+      "tr": "Kızıl Göl Balkonu'nun altındaki Taşkın Erişimi Tüneli'ni bul",
       "uk": "Знайдіть протипаводковий тунель під Red Lake Balcony",
-      "zh-CN": "找到红湖阳台下面的泄洪隧道",
+      "zh-CN": "找到红湖观景台下面的泄洪隧道",
       "zh-TW": "找到紅湖陽台下的洩洪隧道"
     },
     {
@@ -132,5 +132,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10y", "ss10x3"],
   "nextQuestIds": ["ss10x5", "ss10x6"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/24/2026"
 }

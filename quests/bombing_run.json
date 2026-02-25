@@ -23,6 +23,12 @@
     "zh-TW": "轟炸行動"
   },
   "trader": "Shani",
+  "requiredItemIds": [
+    {
+      "itemId": "bombardier_cell",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Nu er det tid til at se, om rekognosceringen gav pote. Hvis vi kan lære Raiders effektivt at modgå Bombardiers deroppe, ville vi være meget mere sikre hernede.",
     "de": "Jetzt ist es Zeit zu sehen, ob sich die Aufklärung gelohnt hat. Wenn wir den Raidern beibringen können, den Kanonieren da oben effektiv entgegenzuwirken, wären wir hier unten viel sicherer.",
@@ -100,5 +106,5 @@
   "xp": 0,
   "previousQuestIds": ["combat_recon"],
   "nextQuestIds": [],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

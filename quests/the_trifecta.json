@@ -24,6 +24,20 @@
   },
   "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"],
   "trader": "Shani",
+  "requiredItemIds": [
+    {
+      "itemId": "wasp_driver",
+      "quantity": 2
+    },
+    {
+      "itemId": "hornet_driver",
+      "quantity": 2
+    },
+    {
+      "itemId": "snitch_scanner",
+      "quantity": 2
+    }
+  ],
   "grantedItemIds": [
     {
       "itemId": "remote_raider_flare",
@@ -203,5 +217,5 @@
   "xp": 0,
   "previousQuestIds": ["ss6"],
   "nextQuestIds": ["ss10b"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

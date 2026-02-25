@@ -10,7 +10,7 @@
     "hr": "Trezor istraživača",
     "it": "Volta del Rilevatore",
     "ja": "偵察機のボックス",
-    "ko-KR":  "서베이어 볼트",
+    "ko-KR": "서베이어 볼트",
     "no": "Landmåler-hvelv",
     "pl": "Skarbiec Geodety",
     "pt": "Cofre de Inspetor",
@@ -19,7 +19,7 @@
     "sr": "Trezor istraživača",
     "tr": "Gözetleyici Kasası",
     "uk": "Сховище геодезиста",
-    "zh-CN": "勘测者保险库",
+    "zh-CN": "勘测师保险库",
     "zh-TW": "勘測者保險庫"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "クラフト素材にリサイクルできます。",
-    "ko-KR":  "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -47,15 +47,15 @@
   "type": "Recyclable",
   "rarity": "Rare",
   "foundIn": "ARC",
-  "value": 2000,
+  "value": 1000,
   "weightKg": 1,
   "stackSize": 3,
   "recyclesInto": {
-    "arc_alloy": 2,
-    "mechanical_components": 2
+    "arc_alloy": 1,
+    "mechanical_components": 1
   },
   "salvagesInto": {
-    "mechanical_components": 2
+    "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/surveyor_vault.png",
   "updatedAt": "01/13/2026"

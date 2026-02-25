@@ -24,6 +24,12 @@
   },
   "map": ["buried_city"],
   "trader": "Lance",
+  "requiredItemIds": [
+    {
+      "itemId": "esr_analyzer",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Jeg fik fingrene i en lækker ny ESR-analysator; havde planlagt den helt store afsløring. Det ene øjeblik er den her, det næste—puf. Vil du ikke hjælpe?",
     "de": "Ich hab einen neuen ESR-Analysator in die Finger gekriegt, wollte da ganz groß mit rauskommen. Und dann – zack! – ist das Teil plötzlich verschwunden. Hilfst du mir?",
@@ -46,6 +52,7 @@
     "zh-CN": "我搞到了一台崭新的ESR分析仪。本来计划来个大揭秘的，但是突然之间就不见了。能帮帮忙吗？",
     "zh-TW": "我弄到了一台新奇的ESR分析儀，本來打算來隆重介紹給大家看的。前一分鐘它還在這裡，下一分鐘就突然不見了。能幫幫忙嗎？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Led efter en ESR-analysator i et hvilket som helst apotek i Buried City",
@@ -105,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10f"],
   "nextQuestIds": ["ss10k"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }

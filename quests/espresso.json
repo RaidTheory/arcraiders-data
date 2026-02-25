@@ -24,6 +24,12 @@
   },
   "map": ["buried_city"],
   "trader": "Apollo",
+  "requiredItemIds": [
+    {
+      "itemId": "espresso_machine_parts",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "En Raider kom ind i min butik tidligere for at bytte nogle granater for en maskine, hun fandt i Buried City. Hun sagde, den laver kaffe, men den ser ud til at mangle nogle dele. Er du frisk på en opgave?",
     "de": "Vorhin kam ein Raider in meinen Laden und hat eine Maschine, die sie in der Begrabenen Stadt gefunden hatte, gegen ein paar Granaten eingetauscht. Sie sagt, mit dem Ding kann man Kaffee kochen, aber es fehlen ein paar Teile. Lust auf einen Job?",
@@ -67,7 +73,7 @@
       "sr": "Pronađi aparat za espreso radi prikupljanja rezervnih delova",
       "tr": "Yedek parçalar çıkarmak için bir espresso makinesi bul",
       "uk": "Знайдіть еспресо-машину, щоб розібрати її на запчастини",
-      "zh-CN": "找到一台浓缩咖啡机以回收零件",
+      "zh-CN": "找到一台浓缩咖啡机，拆取可用零件",
       "zh-TW": "找到一台義式咖啡機以回收多餘零件"
     },
     {
@@ -106,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["ss10x12"],
   "nextQuestIds": ["ss10x14"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/24/2026"
 }

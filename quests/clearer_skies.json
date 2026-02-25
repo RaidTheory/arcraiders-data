@@ -23,6 +23,12 @@
     "zh-TW": "更晴朗的天空"
   },
   "trader": "Shani",
+  "requiredItemIds": [
+    {
+      "itemId": "arc_alloy",
+      "quantity": 3
+    }
+  ],
   "description": {
     "da": "En sværm af desorienterede Wasps styrtede ned nær et af vores ovenlysvinduer.\r\n\r\nJeg har brug for, at du hjælper med at tynde ud i ARCs rækker, før der sker flere ulykker, og skaffer nogle ekstra robuste materialer til at udbedre skaden.",
     "de": "Ein Schwarm orientierungsloser Wespen ist in der Nähe eines unserer Oberlichter abgestürzt.\r\n\r\nDu musst die Reihen der ARC lichten, bevor noch mehr Unfälle passieren. Und kannst du ein paar besonders robuste Materialien sammeln, um den Schaden zu beheben?",
@@ -104,5 +110,5 @@
   "xp": 0,
   "previousQuestIds": ["ss1"],
   "nextQuestIds": ["ss4"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/23/2026"
 }
