@@ -1,5 +1,148 @@
 [
   {
+    "id": "volcanic_rock",
+    "name": {
+      "da": "Vulkansk sten",
+      "de": "Vulkangestein",
+      "en": "Volcanic Rock",
+      "es": "Roca volcánica",
+      "fr": "Roche Volcanique",
+      "he": "סלע געשי",
+      "hr": "Vulkanska stijena",
+      "it": "Roccia vulcanica",
+      "ja": "火山岩",
+      "ko-KR": "화산암",
+      "no": "Vulkansk stein",
+      "pl": "Skała wulkaniczna",
+      "pt": "Rocha vulcânica",
+      "pt-BR": "Rocha Vulcânica",
+      "ru": "Вулканическая порода",
+      "sr": "Vulkanska stena",
+      "tr": "Volkanik Taş",
+      "uk": "Вулканічна порода",
+      "zh-CN": "火山岩",
+      "zh-TW": "火山岩"
+    },
+    "description": {
+      "da": "Kan kastes.",
+      "de": "Kann geworfen werden.",
+      "en": "Can be thrown.",
+      "es": "Se puede lanzar.",
+      "fr": "Peut être lancé.",
+      "he": "ניתן לזריקה.",
+      "hr": "Može se baciti.",
+      "it": "Può essere lanciato.",
+      "ja": "投げることができる。",
+      "ko-KR": "던질 수 있습니다.",
+      "no": "Kan kastes.",
+      "pl": "Można rzucić.",
+      "pt": "Pode ser arremessado.",
+      "pt-BR": "Pode ser arremessada.",
+      "ru": "Можно бросить.",
+      "sr": "Može se baciti.",
+      "tr": "Fırlatılabilir.",
+      "uk": "Можна кинути.",
+      "zh-CN": "可以投掷。",
+      "zh-TW": "可以投擲。"
+    },
+    "type": "Misc",
+    "rarity": "Common",
+    "foundIn": "Nature",
+    "value": 270,
+    "weightKg": 0.5,
+    "stackSize": 5,
+    "effects": {
+      "Damage": {
+        "value": 10,
+        "da": "Skade",
+        "de": "Schaden",
+        "en": "Damage",
+        "es": "Daño",
+        "fr": "Dégâts",
+        "he": "נזק",
+        "hr": "Šteta",
+        "it": "Danni",
+        "ja": "ダメージ",
+        "ko-KR": "피해",
+        "no": "Skade",
+        "pl": "Obrażenia",
+        "pt": "Dano",
+        "pt-BR": "Dano",
+        "ru": "Урон",
+        "sr": "Šteta",
+        "tr": "Hasar",
+        "uk": "Шкода",
+        "zh-CN": "伤害",
+        "zh-TW": "傷害"
+      }
+    },
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/volcanic_rock.png",
+    "updatedAt": "10/30/2025"
+  },
+  {
+    "id": "voltage_converter",
+    "name": {
+      "da": "Spændingsomformer",
+      "de": "Spannungswandler",
+      "en": "Voltage Converter",
+      "es": "Convertidor de voltaje",
+      "fr": "Transformateur de Tension",
+      "he": "ממיר מתח",
+      "hr": "Pretvarač Napona",
+      "it": "Convertitore di tensione",
+      "ja": "電圧変換器",
+      "ko-KR": "변압기",
+      "no": "Spenningsomformer",
+      "pl": "Przetwornica napięcia",
+      "pt": "Conversor de voltagem",
+      "pt-BR": "Conversor de Voltagem",
+      "ru": "Преобразователь напряжения",
+      "sr": "Pretvarač Napona",
+      "tr": "Voltaj Dönüştürücü",
+      "uk": "Перетворювач напруги",
+      "zh-CN": "变电器",
+      "zh-TW": "變壓器"
+    },
+    "description": {
+      "da": "Bruges i håndværk. Bruges til at lave: Tungt skjold, Showstopper",
+      "de": "Wird bei der Herstellung verwendet. Zur Herstellung von: Schwerer Schild, Showstopper",
+      "en": "Used in crafting. Used to craft: Heavy Shield, Showstopper",
+      "es": "Se usa en la fabricación. Se usa para fabricar: Escudo pesado, Aguafiestas",
+      "fr": "Utilisé dans la fabrication. Permet de fabriquer : Bouclier lourd, Showstopper",
+      "he": "משמש ליצירה. משמש ליצירת: Heavy Shield, Showstopper",
+      "hr": "Koristi se za izradu. Koristi se za izradu: Teški Štit, Showstopper",
+      "it": "Utile per le creazioni. Si usa per creare: Scudo pesante, Granata stordente",
+      "ja": "クラフトに使用。作成可能: ヘビーシールド、ショーストッパー",
+      "ko-KR": "제작에 사용됩니다. 제작 가능: 준중량 실드, 쇼스토퍼",
+      "no": "Brukes i håndverk. Brukes til å lage: Tungt skjold, Showstopper",
+      "pl": "Używany do wytwarzania. Używany do wytwarzania: Ciężka tarcza, Showstopper",
+      "pt": "Usado na fabricação. Usado para fabricar: Escudo pesado, Showstopper",
+      "pt-BR": "Usado na fabricação. Usado para fabricar: Escudo Pesado, Para-Tudo",
+      "ru": "Используется в крафте. Используется для создания: Тяжёлый щит, Шоустоппер",
+      "sr": "Koristi se za izradu. Koristi se za izradu: Teški Štit, Showstopper",
+      "tr": "Üretimde kullanılır. Üretilebilir: Ağır Kalkan, Efsane",
+      "uk": "Використовується в крафті. Використовується для створення: Важкий щит, Шоустопер",
+      "zh-CN": "用于制作。可制作：重型护盾、终结者",
+      "zh-TW": "用於製作。可製作：重型護盾、終結者"
+    },
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "foundIn": "Electrical",
+    "value": 500,
+    "weightKg": 0.3,
+    "stackSize": 5,
+    "recyclesInto": {
+      "rubber_parts": 1,
+      "wires": 1
+    },
+    "salvagesInto": {
+      "rubber_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/voltage_converter.png",
+    "updatedAt": "01/13/2026"
+  },
+  {
     "id": "vulcano_blueprint",
     "name": {
       "da": "Vulcano-tegning",
@@ -236,7 +379,7 @@
       "heavy_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "02/24/2026",
     "agility": 70.7,
     "damage": 58.5,
     "fireRate": 8.3,
@@ -463,7 +606,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "advanced_mechanical_components": 2,
       "heavy_gun_parts": 3
@@ -476,7 +618,7 @@
       "heavy_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "02/24/2026",
     "agility": 70.7,
     "damage": 58.5,
     "fireRate": 14.3,
@@ -748,7 +890,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "advanced_mechanical_components": 3,
       "heavy_gun_parts": 4
@@ -761,7 +902,7 @@
       "heavy_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "vulcano_iv",
@@ -978,7 +1119,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "advanced_mechanical_components": 4,
       "heavy_gun_parts": 5
@@ -991,7 +1131,7 @@
       "heavy_gun_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "02/24/2026",
     "agility": 70.3,
     "damage": 49.5,
     "fireRate": 26.3,
@@ -1020,7 +1160,7 @@
       "sr": "Osinjak",
       "tr": "Eşek Arısı Sürücüsü",
       "uk": "Осиний драйвер",
-      "zh-CN": "黄蜂驱动器",
+      "zh-CN": "黄蜂引擎",
       "zh-TW": "黃蜂驅動器"
     },
     "description": {
@@ -1048,7 +1188,7 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "foundIn": "ARC",
-    "value": 1000,
+    "value": 640,
     "weightKg": 0.6,
     "stackSize": 3,
     "effects": {
@@ -1104,7 +1244,7 @@
       "electrical_components": 1
     },
     "salvagesInto": {
-      "electrical_components": 1
+      "arc_alloy": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png",
     "updatedAt": "01/13/2026",
@@ -1397,9 +1537,10 @@
     },
     "type": "Quick Use",
     "rarity": "Epic",
-    "value": 5000,
+    "value": 6000,
     "weightKg": 1,
     "stackSize": 1,
+    "blueprintLocked": true,
     "effects": {
       "Damage": {
         "value": "166 x12",
@@ -1449,9 +1590,11 @@
       }
     },
     "craftBench": "explosives_bench",
+    "stationLevelRequired": 3,
     "recipe": {
       "arc_motion_core": 2,
-      "explosive_compound": 3
+      "explosive_compound": 1,
+      "rocketeer_driver": 1
     },
     "recyclesInto": {
       "arc_motion_core": 1,
@@ -1461,7 +1604,7 @@
       "explosive_compound": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/wolfpack.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "yellow_light_stick_blueprint",
@@ -1568,6 +1711,7 @@
     "value": 150,
     "weightKg": 0.15,
     "stackSize": 5,
+    "blueprintLocked": true,
     "effects": {
       "Duration": {
         "value": "40s",
@@ -1617,7 +1761,7 @@
       }
     },
     "craftBench": "utility_bench",
-    "stationLevelRequired": 3,
+    "stationLevelRequired": 1,
     "recipe": {
       "chemicals": 3
     },
@@ -1628,7 +1772,7 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/yellow_light_stick.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "zipline",
@@ -1680,7 +1824,9 @@
     "rarity": "Rare",
     "value": 1000,
     "weightKg": 0.4,
+    "stackSize": 3,
     "craftBench": "utility_bench",
+    "stationLevelRequired": 2,
     "recipe": {
       "mechanical_components": 1,
       "rope": 1
@@ -1693,6 +1839,6 @@
       "rope": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/zipline.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   }
 ]

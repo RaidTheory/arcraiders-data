@@ -361,6 +361,190 @@
     "updatedAt": "02/20/2026"
   },
   {
+    "id": "a_dead_end",
+    "name": {
+      "da": "En blindgyde",
+      "de": "Eine Sackgasse",
+      "en": "A Dead End",
+      "es": "Callejón sin salida",
+      "fr": "Une impasse",
+      "he": "מבוי סתום",
+      "hr": "Slijepa ulica",
+      "it": "Un vicolo cieco",
+      "ja": "行き止まり",
+      "ko-KR": "막다른 길",
+      "no": "En blindvei",
+      "pl": "Ślepy zaułek",
+      "pt": "Caminho Sem Saída",
+      "pt-BR": "Caminho Sem Saída",
+      "ru": "Тупик",
+      "sr": "Slepa ulica",
+      "tr": "Çıkmaza Girmek",
+      "uk": "Глухий кут",
+      "zh-CN": "死路一条",
+      "zh-TW": "盡頭"
+    },
+    "map": [
+      "the_blue_gate"
+    ],
+    "trader": "Shani",
+    "requiredItemIds": [
+      {
+        "itemId": "dusty_film_reel",
+        "quantity": 1
+      }
+    ],
+    "description": {
+      "da": "Jeg… jeg fatter det ikke. Den ene dag prøvede de at afværge Sammenbruddet, og så, pludselig… intet.\r\n\r\nDet jordskælvssikre boligprojekt blev lukket ned af en gruppe ved navn MANTIKOR. Tror du, du kan finde ud af mere?",
+      "de": "Ich ... ich verstehe das nicht. An einem Tag haben sie noch versucht, den Zusammenbruch zu verhindern, und dann plötzlich ... nichts mehr.\r\n\r\nDieses erdbebensichere Wohnungsbauprojekt wurde von einer Gruppe namens MANTIKOR eingestellt. Könntest du vielleicht mehr darüber herausfinden?",
+      "en": "I… I don’t get it. One day they were trying to stave off the Collapse, and then, suddenly… Nothing.\r\n\r\nThat earthquake-resistant housing project was shut down by a group named MANTIKOR. Think you could find out more?",
+      "es": "No... No lo entiendo. Estaban intentando impedir el Colapso, pero de repente... Nada.\r\n\r\nEl proyecto de viviendas sismorresistentes lo canceló un grupo llamado MANTIKOR. ¿Te apetece husmear un poco?",
+      "fr": "Je... je ne comprends pas. Un jour, ils essayaient de prévenir l'Effondrement, et le lendemain... plus rien.\r\n\r\nCe projet de logement résistant aux séismes a été fermé par un groupe nommé MANTIKOR. Tu pourrais en savoir plus  ?",
+      "he": "אני… אני לא מבין. יום אחד הם ניסו למנוע את הקריסה, ואז, פתאום… כלום.\r\n\r\nפרויקט הדיור העמיד לרעידות אדמה נסגר על ידי קבוצה בשם MANTIKOR. חושב שתוכל לברר עוד?",
+      "hr": "Ja… ne razumijem. Jednog dana pokušavali su spriječiti Kolaps, a onda, odjednom… ništa.\r\n\r\nTaj projekt potresno otpornih stambenih zgrada zatvoren je od strane grupe pod imenom MANTIKOR. Misliš da možeš saznati više?",
+      "it": "Non... Non capisco. Un giorno stavano cercando di evitare il Crollo e poi, all'improvviso... Niente.\r\n\r\nQuel progetto di edilizia antisismica è stato chiuso da un gruppo chiamato MANTIKOR. Pensi che potresti scoprire qualcosa di più?",
+      "ja": "り… 理解できない。 大崩壊を食い止めようとしてたのに、突然… 全部なくなった。\r\n\r\nあの耐震住宅プロジェクトはMANTIKORという団体によって中止させられたんだ。もっと詳しく調べてくれない？",
+      "ko-KR": "전… 이해가 안 돼요. 언제는 붕괴를 막겠다고 그 난리를 쳐 놓고 이렇게 갑자기… 다 없던 일이 되다뇨.\r\n\r\n내진 주택 프로젝트는 만티코어라는 집단이 중단시켰어요. 당신이 뭔가 더 알아봐 주실 수 있나요?",
+      "no": "Jeg… jeg skjønner det ikke. Den ene dagen prøvde de å avverge Sammenbruddet, og så, plutselig… ingenting.\r\n\r\nDet jordskjelvsikre boligprosjektet ble lagt ned av en gruppe kalt MANTIKOR. Tror du at du kan finne ut mer?",
+      "pl": "Ja… Nie rozumiem. Jednego dnia próbowali zapobiec upadkowi, a potem nagle… nic.\r\n\r\nPrace nad mieszkaniami odpornymi na trzęsienia ziemi zostały przerwane przez grupę o nazwie MANTIKOR. Możesz dowiedzieć się czegoś więcej?",
+      "pt": "Eu... não entendo. Eles estavam tentando conter o Colapso e, de repente... pararam.\r\n\r\nAquele projeto habitacional resistente a terremoto foi encerrado por um grupo chamado MANTIKOR. Você consegue descobrir mais?",
+      "pt-BR": "Eu... não entendo. Eles estavam tentando conter o Colapso e, de repente... pararam.\r\n\r\nAquele projeto habitacional resistente a terremoto foi encerrado por um grupo chamado MANTIKOR. Você consegue descobrir mais?",
+      "ru": "Я ничего не понимаю. Они так долго старались остановить Катастрофу, а потом просто... всё бросили.\r\n\r\nГруппа «МАНТИКОРА» свернула проект по строительству устойчивых к землетрясениям зданий. Как думаешь, сможешь накопать больше информации?",
+      "sr": "Ja… ne razumem. Jednog dana pokušavali su da spreče Kolaps, a onda, odjednom… ništa.\r\n\r\nTaj projekat stambene gradnje otporne na zemljotrese zatvorila je grupa pod imenom MANTIKOR. Misliš da možeš da saznaš više?",
+      "tr": "Anlamıyorum, bu nasıl iş? Önce Çöküş'ten kaçınmanın yolunu aramaya koyuluyorlar, sonra birden... hepsi çöpe gidiyor.\r\n\r\nO depreme dayanıklı konut projesi MANTIKOR adında bir grup tarafından sonlandırılmış. Ayrıntısını öğrenebilir misin?",
+      "uk": "Я… я не розумію. Одного дня вони намагалися відвернути Колапс, а потім, раптово… нічого.\r\n\r\nТой сейсмостійкий житловий проєкт був закритий групою під назвою МАНТІКОР. Думаєш, зможеш дізнатися більше?",
+      "zh-CN": "我……我不明白。前一天他们还在努力阻止“大崩溃”，然后，突然就……什么都没了。\r\n\r\n那个抗震住宅工程被一个叫螫蝎的组织叫停了。你能去查查更多线索吗？",
+      "zh-TW": "我…我搞不懂。他們本來還想阻止大崩潰的，然後一夕之間…就沒了。\r\n\r\n有個叫「蠍獅」的團體中止了那個防震公營住宅建案。你覺得你能查出更多情報嗎？"
+    },
+    "objectivesOneRound": true,
+    "objectives": [
+      {
+        "da": "Find MANTIKORs underjordiske anlæg",
+        "de": "Finde die unterirdischen Anlagen von MANTIKOR.",
+        "en": "Find MANTIKOR's underground facilities",
+        "es": "Encuentra las instalaciones subterráneas de MANTIKOR.",
+        "fr": "Trouver les installations souterraines de MANTIKOR",
+        "he": "מצא את המתקנים התת-קרקעיים של MANTIKOR",
+        "hr": "Pronađi MANTIKOR-ove podzemne objekte",
+        "it": "Trova le strutture sotterranee MANTIKOR",
+        "ja": "MANTIKORの地下施設を見つけた",
+        "ko-KR": "만티코어의 지하 시설 찾기",
+        "no": "Finn MANTIKORs underjordiske anlegg",
+        "pl": "Znajdź podziemne obiekty MANTIKOR",
+        "pt": "Encontre as instalações da MANTIKOR",
+        "pt-BR": "Encontre as instalações da MANTIKOR",
+        "ru": "Найдите подземные базы «МАНТИКОРЫ».",
+        "sr": "Pronađi podzemna postrojenja organizacije MANTIKOR",
+        "tr": "MANTIKOR'un yer altı tesislerini bul",
+        "uk": "Знайдіть підземні об’єкти МАНТІКОР",
+        "zh-CN": "找到螫蝎的地下设施",
+        "zh-TW": "找到蠍獅的地下設施"
+      },
+      {
+        "da": "Find en vej ind i det låste rum i sikkerhedsfløjen",
+        "de": "Finde einen Weg in den verschlossenen Raum im Security-Flügel.",
+        "en": "Find a way into into the locked room in the Security Wing",
+        "es": "Busca una forma de entrar en la sala cerrada del ala de seguridad.",
+        "fr": "Trouver un moyen d'entrer dans la salle verrouillée de l'Aile de sécurité",
+        "he": "מצא דרך להיכנס לחדר הנעול באגף הביטחון",
+        "hr": "Pronađi način da uđeš u zaključanu sobu u Sigurnosnom krilu",
+        "it": "Trova il modo di entrare nella stanza chiusa nell'ala di sicurezza",
+        "ja": "セキュリティー棟の施錠された部屋に入る方法を見つけた",
+        "ko-KR": "보안동의 잠긴 방으로 들어갈 방법 찾기",
+        "no": "Finn en vei inn i det låste rommet i sikkerhetsfløyen",
+        "pl": "Dostań się do zamkniętego pomieszczenia w skrzydle ochrony",
+        "pt": "Encontre uma forma de entrar na sala trancada da Ala de Segurança",
+        "pt-BR": "Encontre uma forma de entrar na sala trancada da Ala de Segurança",
+        "ru": "Найдите путь в запертую комнату в крыле службы безопасности.",
+        "sr": "Pronađi način da uđeš u zaključanu sobu u Bezbednosnom krilu",
+        "tr": "Güvenlik Kanadı'ndaki kilitli odaya girmenin yolunu bul",
+        "uk": "Знайдіть спосіб потрапити до зачиненої кімнати в Охоронному крилі",
+        "zh-CN": "设法进入安保区辅楼的上锁房间",
+        "zh-TW": "想辦法進入安全部門上鎖的房間"
+      },
+      {
+        "da": "Gennemsøg det låste rum for dokumenter om Projekt Heartwood",
+        "de": "Durchsuche den verschlossenen Raum nach Unterlagen zum Projekt Immergrün.",
+        "en": "Search the locked room for any records on Project Heartwood",
+        "es": "Busca en la sala cerrada cualquier registro sobre el proyecto Perenne.",
+        "fr": "Fouiller la salle verrouillée à la recherche de tout document concernant le Projet Persistance",
+        "he": "חפש בחדר הנעול רשומות על פרויקט Heartwood",
+        "hr": "Pretraži zaključanu sobu u potrazi za zapisima o Projektu Heartwood",
+        "it": "Perlustra la stanza chiusa alla ricerca di documenti sul progetto Evergreen",
+        "ja": "施錠された部屋の中でプロジェクト・エバーグリーンの記録を探した",
+        "ko-KR": "잠긴 방에서 에버그린 프로젝트 관련 기록 수색하기",
+        "no": "Gjennomsøk det låste rommet etter dokumenter om Prosjekt Heartwood",
+        "pl": "Poszukaj w zamkniętym pomieszczeniu śladów „Projektu Niezawodność”",
+        "pt": "Procure na sala trancada por registros sobre o Projeto Perene",
+        "pt-BR": "Procure na sala trancada por registros sobre o Projeto Perene",
+        "ru": "Поищите в запертой комнате записи о проекте «Вечная зелень».",
+        "sr": "Pretraži zaključanu sobu u potrazi za zapisima o Projektu Heartwood",
+        "tr": "Kilitli odada Project Evergreen kayıtlarını ara",
+        "uk": "Обшукайте зачинену кімнату в пошуках записів про Проєкт Heartwood",
+        "zh-CN": "在上锁房间中搜寻关于“常青计划”的记录",
+        "zh-TW": "搜索上鎖的房間，尋找是否有長青計畫的紀錄"
+      },
+      {
+        "da": "Find den støvede filmrulle",
+        "de": "Finde die staubige Filmrolle.",
+        "en": "Find the Dusty Film Reel",
+        "es": "Encuentra el carrete de película polvoriento.",
+        "fr": "Trouver la bobine de film poussiéreuse",
+        "he": "מצא את סליל הסרט המאובק",
+        "hr": "Pronađi prašnjavi filmski kolut",
+        "it": "Trova la bobina impolverata",
+        "ja": "埃をかぶった映画フィルムを見つけた",
+        "ko-KR": "먼지 쌓인 필름 릴 찾기",
+        "no": "Finn den støvete filmrullen",
+        "pl": "Znajdź zakurzoną taśmę filmową",
+        "pt": "Encontre o Rolo de Filme Empoeirado",
+        "pt-BR": "Encontre o Rolo de Filme Empoeirado",
+        "ru": "Найдите пыльную кинопленку.",
+        "sr": "Pronađi prašnjavu filmsku rolnu",
+        "tr": "Tozlu Film Makarası'nı bul",
+        "uk": "Знайдіть запилену кіноплівку",
+        "zh-CN": "找到布满灰尘的电影胶卷",
+        "zh-TW": "找到布滿灰塵的底片膠卷"
+      },
+      {
+        "da": "Aflever den støvede filmrulle til Shani",
+        "de": "Bringe Shani die staubige Filmrolle.",
+        "en": "Deliver the Dusty Film Reel to Shani",
+        "es": "Entrégale el carrete de película polvoriento a Shani.",
+        "fr": "Donner la bobine de film poussiéreuse à Shani",
+        "he": "מסור את סליל הסרט המאובק לשאני",
+        "hr": "Dostavi prašnjavi filmski kolut Shani",
+        "it": "Porta la bobina impolverata a Shani",
+        "ja": "埃をかぶった映画フィルムをシャニに届けた",
+        "ko-KR": "샤니에게 먼지 쌓인 필름 릴 전달하기",
+        "no": "Lever den støvete filmrullen til Shani",
+        "pl": "Dostarcz Shani zakurzoną taśmę filmową",
+        "pt": "Entregue o Rolo de Filme Empoeirado para Shani",
+        "pt-BR": "Entregue o Rolo de Filme Empoeirado para Shani",
+        "ru": "Доставьте Шани пыльную кинопленку.",
+        "sr": "Dostavi prašnjavu filmsku rolnu Šani",
+        "tr": "Tozlu Film Makarası'nı Shani'ye teslim et",
+        "uk": "Доставте Шані запилену кіноплівку",
+        "zh-CN": "将布满灰尘的电影胶卷交给萨尼",
+        "zh-TW": "把布滿灰塵的底片膠卷交給珊妮"
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "coins",
+        "quantity": 2000
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "groundbreaking"
+    ],
+    "nextQuestIds": [
+      "a_rising_tide"
+    ],
+    "updatedAt": "02/24/2026"
+  },
+  {
     "id": "ss11",
     "name": {
       "da": "Et første fodfæste",
@@ -558,6 +742,12 @@
       "the_spaceport"
     ],
     "trader": "Shani",
+    "requiredItemIds": [
+      {
+        "itemId": "lidar_scanner",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Den fjerne rumlen kommer tættere på for hver dag, der går.\n\nJeg har et spor på nogle LiDAR-scannere, der måske kan hjælpe os med at overvåge rystelserne. Du vil vel gerne beholde taget over hovedet, ikke?",
       "de": "Dieses Rumpeln in der Ferne ist jeden Tag etwas weniger fern.\r\n\r\nIch hab da einen Hinweis auf Lidar-Scanner, die uns helfen könnten, die Erschütterungen zu registrieren. Du möchtest doch auch dein Dach über dem Kopf behalten, nicht wahr?",
@@ -692,7 +882,7 @@
     "nextQuestIds": [
       "ss10s"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10x19",
@@ -722,6 +912,12 @@
       "dam_battlegrounds"
     ],
     "trader": "Lance",
+    "requiredItemIds": [
+      {
+        "itemId": "possibly_toxic_plant",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Nogle spejdere har rapporteret om mærkelige planter, der spreder sig i området. Det får din gamle ven Lance til at tro, at de måske kan bruges til noget interessant.",
       "de": "Ein paar Späher haben von merkwürdigen Pflanzen berichtet, die sich in der Gegend ausbreiten. Dein alter Kumpel Lance ist der Meinung, dass man die für interessante Dinge benutzen könnte.",
@@ -808,7 +1004,7 @@
     "nextQuestIds": [
       "ss10x20"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "a_prime_specimen",
@@ -986,6 +1182,12 @@
       "buried_city"
     ],
     "trader": "Lance",
+    "requiredItemIds": [
+      {
+        "itemId": "esr_analyzer",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Jeg fik fingrene i en lækker ny ESR-analysator; havde planlagt den helt store afsløring. Det ene øjeblik er den her, det næste—puf. Vil du ikke hjælpe?",
       "de": "Ich hab einen neuen ESR-Analysator in die Finger gekriegt, wollte da ganz groß mit rauskommen. Und dann – zack! – ist das Teil plötzlich verschwunden. Hilfst du mir?",
@@ -1008,6 +1210,7 @@
       "zh-CN": "我搞到了一台崭新的ESR分析仪。本来计划来个大揭秘的，但是突然之间就不见了。能帮帮忙吗？",
       "zh-TW": "我弄到了一台新奇的ESR分析儀，本來打算來隆重介紹給大家看的。前一分鐘它還在這裡，下一分鐘就突然不見了。能幫幫忙嗎？"
     },
+    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Led efter en ESR-analysator i et hvilket som helst apotek i Buried City",
@@ -1071,7 +1274,195 @@
     "nextQuestIds": [
       "ss10k"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
+  },
+  {
+    "id": "a_rising_tide",
+    "name": {
+      "da": "En stigende tidevand",
+      "de": "Eine steigende Flut",
+      "en": "A Rising Tide",
+      "es": "Marea creciente",
+      "fr": "La marée montante",
+      "he": "גאות עולה",
+      "hr": "Nadolazeći val",
+      "it": "Un'ondata in crescita",
+      "ja": "高まる潮流",
+      "ko-KR": "만조",
+      "no": "En stigende flo",
+      "pl": "Wzbierająca fala",
+      "pt": "Maré Crescente",
+      "pt-BR": "Maré Crescente",
+      "ru": "Прилив",
+      "sr": "Nadolazeća plima",
+      "tr": "Yükselen Dalga",
+      "uk": "Наростаючий прилив",
+      "zh-CN": "涨潮",
+      "zh-TW": "掀起浪潮"
+    },
+    "map": [
+      "buried_city",
+      "dam_battlegrounds"
+    ],
+    "trader": "Celeste",
+    "description": {
+      "da": "Her står der, at der var en formand ved dæmningen, som blev rekrutteret lige efter, at de aflyste Projekt Heartwood. Han fik ansvaret for et stort genopbygningsprojekt.",
+      "de": "Hier steht, dass es beim Damm einen Vorarbeiter gab, der gleich nach der Einstellung von Projekt Immergrün eingestellt wurde. Er wurde für ein großes Wiederaufbauprojekt verantwortlich gemacht.",
+      "en": "Says here there was a foreman at The Dam, who got recruited right after they canceled Project Heartwood. Got put in charge of some big reconstruction project.",
+      "es": "Aquí dice que en la Presa había un capataz que reclutaron justo después de que se cancelara el proyecto Perenne. Lo pusieron al mando de un proyecto de reconstrucción muy importante.",
+      "fr": "D'après ce que je lis ici, il y avait un contremaître au Barrage, recruté juste après l'annulation du Projet Persistance. Il a été mis à la tête d'un important chantier de reconstruction.",
+      "he": "כתוב כאן שהיה מנהל עבודה בסכר, שגויס מיד אחרי שביטלו את פרויקט Heartwood. הוא מונה לאחראי על פרויקט שיקום גדול.",
+      "hr": "Ovdje piše da je na Brani bio predradnik koji je angažiran odmah nakon što su otkazali Projekt Heartwood. Dobio je odgovornost za veliki projekt obnove.",
+      "it": "Qui dice che c'era un caposquadra alla Diga, che è stato reclutato subito dopo la cancellazione del progetto Evergreen. Gli hanno affidato la responsabilità di un grande progetto di ricostruzione.",
+      "ja": "プロジェクト・エバーグリーンが中止になった直後、ダムに雇われた現場監督がいたとここに書いてある。大きな再建プロジェクトの責任者を任されたらしい。",
+      "ko-KR": "여기 기록을 보니, 에버그린 프로젝트가 취소된 직후, 댐에 있던 현장 감독이 스카우트됐더군요. 대규모 재건 프로젝트의 책임자가 됐대요.",
+      "no": "Det står her at det var en formann ved demningen som ble rekruttert rett etter at de kansellerte Prosjekt Heartwood. Han fikk ansvaret for et stort gjenoppbyggingsprosjekt.",
+      "pl": "Podobno na Zaporze pracował jakiś kierownik, którego zatrudnili tuż po anulowaniu „Projektu Niezawodność”. Dali mu do nadzorowania jakiś wielki projekt rekonstrukcyjny.",
+      "pt": "Tá dizendo aqui que tinha um encarregado na Represa, recrutado logo após o cancelamento do Projeto Perene. Ele comandava um baita projeto de reconstrução.",
+      "pt-BR": "Tá dizendo aqui que tinha um encarregado na Represa, recrutado logo após o cancelamento do Projeto Perene. Ele comandava um baita projeto de reconstrução.",
+      "ru": "Тут говорится, что на дамбе был бригадир, которого наняли сразу же после отмены «Вечной зелени». Его поставили руководить каким-то грандиозным проектом по реконструкции.",
+      "sr": "Ovde piše da je na Brani bio predradnik koji je angažovan odmah nakon što su otkazali Projekat Heartwood. Postavljen je na čelo velikog projekta rekonstrukcije.",
+      "tr": "Burada yazdığına göre Baraj'da çalışan bir ustabaşı varmış. Project Evergreen iptal edildikten hemen sonra burada işe başlamış. Büyük bir yeniden inşa projesinin başına getirilmiş.",
+      "uk": "Тут написано, що на Дамбі був бригадир, якого найняли одразу після скасування Проєкту Heartwood. Його поставили керувати великим проєктом реконструкції.",
+      "zh-CN": "记录上说，大坝那边有个工头，是在“常青计划”取消后招募的。负责某个大型重建项目。",
+      "zh-TW": "這裡寫說大壩以前有個領班，是在長青計畫取消後馬上雇用的，負責某個重大的重建計畫。"
+    },
+    "objectives": [
+      {
+        "da": "Find formandens barrikaderede lejlighed syd for Piazza Roma i Den begravede by",
+        "de": "Suche in der Begrabenen Stadt die verbarrikadierte Wohnung des Vorarbeiters südlich der Piazza Roma.",
+        "en": "On Buried City, find the foreman's barricaded apartment south of Piazza Roma",
+        "es": "En Ciudad enterrada, encuentra el apartamento bloqueado del capataz situado al sur de Piazza Roma.",
+        "fr": "Dans la Ville enfouie, trouver l'appartement barricadé du contremaître au sud de la Piazza Roma",
+        "he": "במעמקי העיר, מצא את הדירה המבוצרת של מנהל העבודה דרומית לפיאצה רומא",
+        "hr": "U Zatrpanom gradu pronađi predradnikov zabarikadiran stan južno od Piazza Roma",
+        "it": "Nella Città sepolta, trova l'appartamento del caposquadra barricato a sud di Piazza Roma",
+        "ja": "埋もれた街で、ピアッツァ・ローマの南にあるバリケードで囲まれた現場監督のアパートを見つけた",
+        "ko-KR": "파묻힌 도시의 피아차 로마 남쪽에서 현장 감독의 봉쇄된 아파트 찾기",
+        "no": "I Den begravde byen, finn formannens barrikaderte leilighet sør for Piazza Roma",
+        "pl": "W Pogrzebanym Mieście znajdź zabarykadowane mieszkanie kierownika na południe od placu Roma",
+        "pt": "Na Cidade Soterrada, encontre o apartamento do encarregado, bloqueado por barricadas, ao sul da Piazza Roma",
+        "pt-BR": "Na Cidade Soterrada, encontre o apartamento do encarregado, bloqueado por barricadas, ao sul da Piazza Roma",
+        "ru": "Найдите забаррикадированную квартиру бригадира к югу от Пьяцца Рома в Погребенном городе.",
+        "sr": "U Zatrpanom gradu pronađi predradnikov zabarikadiran stan južno od Piazza Roma",
+        "tr": "Gömülü Şehir'de Piazza Roma'nın güneyinde ustabaşının barikatlı apartmanını bul",
+        "uk": "У Похованому місті знайдіть забарикадовану квартиру бригадира на південь від П'яцца Рома",
+        "zh-CN": "在掩埋废城的罗马广场南部找到设下障碍的工头公寓",
+        "zh-TW": "在埋藏都市羅馬廣場南方尋找領班被封鎖的公寓"
+      },
+      {
+        "da": "Få adgang til formandens digitale logbog",
+        "de": "Schau dir das digitale Logbuch des Vorarbeiters an.",
+        "en": "Access the foreman's digital logbook",
+        "es": "Accede al diario digital del capataz.",
+        "fr": "Accéder au journal numérique du contremaître",
+        "he": "גש ליומן הדיגיטלי של מנהל העבודה",
+        "hr": "Pristupi predradnikovom digitalnom dnevniku",
+        "it": "Accedi al registro digitale del caposquadra",
+        "ja": "現場監督のデジタルログにアクセスした",
+        "ko-KR": "현장 감독의 디지털 기록장에 접속하기",
+        "no": "Få tilgang til formannens digitale loggbok",
+        "pl": "Otwórz rejestr cyfrowy kierownika",
+        "pt": "Acesse o diário digital do encarregado",
+        "pt-BR": "Acesse o diário digital do encarregado",
+        "ru": "Получите доступ к цифровому журналу бригадира.",
+        "sr": "Pristupi predradnikovom digitalnom dnevniku",
+        "tr": "Ustabaşının Dijital Kayıt Kitabı'na eriş",
+        "uk": "Отримайте доступ до цифрового журналу бригадира",
+        "zh-CN": "访问工头的数字日志",
+        "zh-TW": "查看領班的數位日誌"
+      },
+      {
+        "da": "Nå frem til Kraftværkskomplekset på Dæmningens slagmark",
+        "de": "Erreiche auf den Damm-Schlachtfeldern den Stromerzeuger-Komplex.",
+        "en": "On Dam Battlegrounds, reach the Power Generation Complex",
+        "es": "En los Campos de batalla de la Presa, llega al complejo de producción de electricidad.",
+        "fr": "Au Champ de bataille du Barrage, atteindre le Complexe de production électrique",
+        "he": "בשדות הקרב של הסכר, הגע למתחם ייצור החשמל",
+        "hr": "Na Bojištu brane dođi do Kompleksa za proizvodnju energije",
+        "it": "Nel campo di battaglia della Diga, raggiungi il Complesso centrale elettrica",
+        "ja": "ダム戦場で発電総合施設に辿り着いた",
+        "ko-KR": "댐 전장에서 발전소 단지에 도착하기",
+        "no": "På Demningsslettene, nå frem til Kraftverkskomplekset",
+        "pl": "Na polu bitwy na terenie Zapory dostań się do kompleksu generatorowego",
+        "pt": "Vá ao Complexo de Geração de Energia nos Campos de Batalha da Represa",
+        "pt-BR": "Vá ao Complexo de Geração de Energia nos Campos de Batalha da Represa",
+        "ru": "Доберитесь до центра производства энергии на поле битвы у дамбы.",
+        "sr": "Na Bojištu brane dođi do Kompleksa za proizvodnju energije",
+        "tr": "Baraj Savaş Alanı'nda Güç Üretim Tesisi'ne ulaş",
+        "uk": "На Полі бою біля дамби доберіться до комплексу виробництва енергії",
+        "zh-CN": "前往大坝战场的发电厂综合体",
+        "zh-TW": "在大壩戰場，到達發電綜合設施"
+      },
+      {
+        "da": "Find en vej ind i den kontrollerede adgangszone",
+        "de": "Finde einen Weg in die kontrollierte Zugangszone.",
+        "en": "Find a way into the Controlled Access Zone",
+        "es": "Busca una forma de entrar en la zona de acceso controlado.",
+        "fr": "Trouver un moyen d'entrer dans la Zone à accès restreint",
+        "he": "מצא דרך להיכנס לאזור הגישה המבוקרת",
+        "hr": "Pronađi način da uđeš u Zonu kontroliranog pristupa",
+        "it": "Trova un modo per entrare nella Zona ad accesso riservato",
+        "ja": "立ち入り制限区域に入る方法を見つけた",
+        "ko-KR": "출입 통제 구역으로 들어가는 길 찾기",
+        "no": "Finn en vei inn i den kontrollerte adgangssonen",
+        "pl": "Znajdź sposób, aby dostać się do strefy kontrolowanego dostępu",
+        "pt": "Encontre uma forma de acessar a Área de Acesso Controlada",
+        "pt-BR": "Encontre uma forma de acessar a Área de Acesso Controlada",
+        "ru": "Найдите путь в зону контролируемого доступа.",
+        "sr": "Pronađi način da uđeš u Zonu kontrolisanog pristupa",
+        "tr": "Kontrollü Erişim Bölgesi'ne girmenin bir yolunu bul",
+        "uk": "Знайдіть спосіб потрапити до Зони контрольованого доступу",
+        "zh-CN": "设法进入受控访问区",
+        "zh-TW": "想辦法進入控制存取區"
+      },
+      {
+        "da": "Søg i den kontrollerede adgangszone efter spor om formandens genopbygningsprojekt",
+        "de": "Suche in der kontrollierten Zugangszone nach Hinweisen zum Wiederaufbauprojekt des Vorarbeiters.",
+        "en": "Search the Controlled Access Zone for any clues about the foreman's reconstruction project",
+        "es": "Busca en la zona de acceso controlado pistas sobre el proyecto de reconstrucción del capataz.",
+        "fr": "Fouiller la Zone à accès restreint à la recherche d'indices sur le projet de reconstruction du contremaître",
+        "he": "חפש באזור הגישה המבוקרת רמזים על פרויקט השיקום של מנהל העבודה",
+        "hr": "Pretraži Zonu kontroliranog pristupa u potrazi za tragovima o predradnikovom projektu obnove",
+        "it": "Cerca nella Zona ad accesso riservato eventuali indizi sul progetto di ricostruzione del caposquadra",
+        "ja": "立ち入り制限区域の中で、現場監督の再建プロジェクトに関する手がかりを探した",
+        "ko-KR": "출입 통제 구역에서 현장 감독의 재건 프로젝트 관련 단서 수색하기",
+        "no": "Gjennomsøk den kontrollerte adgangssonen etter ledetråder om formannens gjenoppbyggingsprosjekt",
+        "pl": "Poszukaj w strefie kontrolowanego dostępu wskazówek na temat projektu rekonstrukcyjnego, którym zarządzał kierownik",
+        "pt": "Investigue a Área de Acesso Controlada em busca de pistas sobre o projeto de reconstrução do encarregado",
+        "pt-BR": "Investigue a Área de Acesso Controlada em busca de pistas sobre o projeto de reconstrução do encarregado",
+        "ru": "Найдите в зоне контролируемого доступа сведения о проекте по реконструкции, которым занимался бригадир.",
+        "sr": "Pretraži Zonu kontrolisanog pristupa u potrazi za tragovima o predradnikovom projektu rekonstrukcije",
+        "tr": "Kontrollü Erişim Bölgesi'nde ustabaşının yeniden inşa projesine dair ipuçları ara",
+        "uk": "Обшукайте Зону контрольованого доступу в пошуках підказок про проєкт реконструкції бригадира",
+        "zh-CN": "在受控访问区搜寻关于工头重建项目的线索",
+        "zh-TW": "搜索控制存取區，尋找是否有關於領班重建計畫的任何線索"
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "anvil_ii",
+        "quantity": 1
+      },
+      {
+        "itemId": "anvil_splitter",
+        "quantity": 1
+      },
+      {
+        "itemId": "extended_barrel",
+        "quantity": 1
+      },
+      {
+        "itemId": "heavy_ammo",
+        "quantity": 40
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "a_dead_end"
+    ],
+    "nextQuestIds": [],
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10r",
@@ -1263,7 +1654,6 @@
       "zh-CN": "我们虽已恢复净水供应，但要是破坏者卷土重来，绝不能冒险让人染病。必须彻底铲除他们。",
       "zh-TW": "我們順利讓水變乾淨了，但如果破壞者再次行動，人們又會生病的。我們必須從根本解決這個問題。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Vend tilbage til vandindtaget under Water Treatment Control-bygningen",
@@ -1379,7 +1769,7 @@
     "nextQuestIds": [
       "the_stench_of_corruption"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10x8",
@@ -1431,7 +1821,6 @@
       "zh-CN": "我的一个客户看到有一家人在掩埋废城中的一个旧营地中避难。谁要是能找到并护送他们回到安全地带，可以到我这来领赏。",
       "zh-TW": "我的一位顧客看到有一家人躲在埋藏都市的一處舊營地。誰能找到他們並護送他們回到安全的地方，我就付錢犒賞。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Find Abandoned Highway Camp",
@@ -1543,7 +1932,7 @@
     "nextQuestIds": [
       "ss10x9"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10y",
@@ -1573,6 +1962,16 @@
       "buried_city"
     ],
     "trader": "Celeste",
+    "requiredItemIds": [
+      {
+        "itemId": "wires",
+        "quantity": 5
+      },
+      {
+        "itemId": "battery",
+        "quantity": 2
+      }
+    ],
     "grantedItemIds": [
       {
         "itemId": "zipline",
@@ -1601,7 +2000,6 @@
       "zh-CN": "我知道，我知道！有个地区的电源被切断了……\r\n哦，嗨。一场突发洪水摧毁了我们在掩埋废城的一些太阳能面板，偏偏发电机又快要撑不住了。\r\n\r\n如果你到了那边，能不能帮我们修理一下？",
       "zh-TW": "我知道、我知道！那個區域已經停電…\r\n喔，嗨。有場洪水淹沒了埋藏都市那裡的一些太陽能板，發電機也只能再撐一段時間。\r\n\r\n你到那裡後，幫我們處理一下好嗎？"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Find de oversvømmede solpaneler i nærheden af Grandioso Apartments",
@@ -1669,7 +2067,7 @@
     "nextQuestIds": [
       "ss10x4"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10x20",
@@ -1753,7 +2151,7 @@
         "he": "חפש בביתני השמירה כרטיס גישה של סיור משוריין",
         "hr": "Pretraži stražarske kućice i pronađi karticu za oklopnu patrolu",
         "it": "Cerca una chiave elettronica della pattuglia corazzata nei gabbiotti delle guardie",
-        "ja": "衛兵の小屋で装甲パトロール車のキーカードを探す",
+        "ja": "衛兵の小屋で装甲パトロール車のキーカードを探した",
         "ko-KR": "경비초소에서 장갑 순찰차 키카드 찾기",
         "no": "Let i vakthyttene etter et nøkkelkort for pansret patrulje",
         "pl": "Poszukaj karty magnetycznej do opancerzonego samochodu patrolowego w budkach strażników",
@@ -1827,7 +2225,7 @@
       "ss10x19"
     ],
     "nextQuestIds": [],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10w",
@@ -1856,8 +2254,8 @@
     "map": [
       "buried_city",
       "the_spaceport",
-      "dam_battlegrounds",
-      "the_blue_gate"
+      "the_blue_gate",
+      "dam_battlegrounds"
     ],
     "trader": "Tian Wen",
     "otherRequirements": [
@@ -1998,7 +2396,7 @@
     "nextQuestIds": [
       "ss10z"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10x12",
@@ -2147,6 +2545,12 @@
       "zh-TW": "轟炸行動"
     },
     "trader": "Shani",
+    "requiredItemIds": [
+      {
+        "itemId": "bombardier_cell",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Nu er det tid til at se, om rekognosceringen gav pote. Hvis vi kan lære Raiders effektivt at modgå Bombardiers deroppe, ville vi være meget mere sikre hernede.",
       "de": "Jetzt ist es Zeit zu sehen, ob sich die Aufklärung gelohnt hat. Wenn wir den Raidern beibringen können, den Kanonieren da oben effektiv entgegenzuwirken, wären wir hier unten viel sicherer.",
@@ -2226,7 +2630,7 @@
       "combat_recon"
     ],
     "nextQuestIds": [],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10h",
@@ -2256,6 +2660,20 @@
       "dam_battlegrounds"
     ],
     "trader": "Tian Wen",
+    "requiredItemIds": [
+      {
+        "itemId": "first_wave_tape",
+        "quantity": 1
+      },
+      {
+        "itemId": "first_wave_compass",
+        "quantity": 1
+      },
+      {
+        "itemId": "first_wave_rations",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Jeg har endnu et særligt sted, jeg har brug for, at du undersøger for mig. En gammel slagmark fra den første bølge. Nutidens Raiders tømmer som regel steder som det, på trods af den betydning de engang havde. Folk glemmer hurtigt. Hurtigere end de burde.",
       "de": "Es gibt da noch eine andere besondere Stelle, an der du für mich nachsehen sollst. Ein altes Schlachtfeld aus der Ersten Welle. Heutzutage grasen Raider solche Orte ab, trotz der besonderen Bedeutung. Die Leute vergessen schnell. Schneller, als sie sollten.",
@@ -2278,6 +2696,7 @@
       "zh-CN": "我还有个特殊地点要你帮我找，是“第一波”时期的老战场。虽然这种地方具有重要意义，但如今的奇袭者通常会将之扫荡一空。人们遗忘得太快，快得有些不应该。",
       "zh-TW": "我還有一個特別的地點需要你幫忙搜索一下，那是第一波的古老戰場。現在的掠手通常會把那種地方掠劫一空，儘管它們曾有重要的意義。人們總是遺忘得很快。太快了。"
     },
+    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Nå den hellige grund ved Skrotpladsen",
@@ -2347,25 +2766,25 @@
       },
       {
         "da": "Led efter de gamle feltrationer i Raider-lejren",
-        "de": "Suche nach den alten Feldrationen im Raider-Lager",
+        "de": "Suche im Raider-Lager nach den alten Feldrationen.",
         "en": "Search for the old field rations in the Raider camp",
-        "es": "Buscar las antiguas raciones de campo en el Campamento de Raider",
-        "fr": "Chercher les anciennes rations de terrain dans le camp de Raider",
+        "es": "Busca las raciones antiguas en el campamento de Raiders.",
+        "fr": "Fouiller le Camp des Raiders pour retrouver les anciennes rations de campagne",
         "he": "חפשו את מנות הקרב הישנות במחנה הריידרים",
         "hr": "Potraži stare terenske obroke u kampu Raidera",
-        "it": "Cercare le vecchie razioni da campo nel campo Raider",
+        "it": "Cerca le vecchie razioni da campo nell'accampamento Raider",
         "ja": "レイダーの野営地で古い野戦食を探した",
         "ko-KR": "레이더 캠프에서 오래된 야전 배식 찾기",
         "no": "Let etter de gamle feltrasjonene i Raider-leiren",
-        "pl": "Szukać starych racji polowych w obozie łupieżców",
-        "pt": "Procurar as antigas rações de campo no Acampamento de Raider",
-        "pt-BR": "Procurar as antigas rações de campo no Acampamento de Raider",
-        "ru": "Обыскать старые полевые рационы в лагере рейдеров",
+        "pl": "Poszukaj starych racji polowych w obozie łupieżców",
+        "pt": "Procurar as antigas rações de campo no Acampamento de Raiders",
+        "pt-BR": "Procurar as antigas rações de campo no Acampamento de Raiders",
+        "ru": "Поищите старые полевые пайки в рейдерском лагере.",
         "sr": "Potraži stare terenske obroke u kampu Raidera",
-        "tr": "Yağmacı kampındaki eski saha kumanyalarını ara.",
+        "tr": "Raider kampında eski kumanyaları ara",
         "uk": "Шукайте старий сухпайок у таборі Рейдерів",
-        "zh-CN": "在奇袭者营地寻找旧的野战口粮",
-        "zh-TW": "在掠手營地尋找舊的實地口糧"
+        "zh-CN": "在奇袭者营地搜寻旧的野战口粮",
+        "zh-TW": "搜尋掠手營地中的陳舊野戰口糧。"
       },
       {
         "da": "Aflevér First Wave-båndet til Tian Wen",
@@ -2456,7 +2875,7 @@
       "ss10i",
       "ss10j"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10x18",
@@ -2486,6 +2905,12 @@
       "buried_city"
     ],
     "trader": "Apollo",
+    "requiredItemIds": [
+      {
+        "itemId": "library_book",
+        "quantity": 3
+      }
+    ],
     "description": {
       "da": "Vores biblioteksudvalg er blevet ret kedeligt. Kan du tage ud til Buried City og finde noget mere, vi kan læse? Sørg for at tage noget med til alle.",
       "de": "Die Auswahl unserer Bibliothek ist inzwischen etwas öde geworden. Könntest du in der Begrabenen Stadt neues Lesefutter für uns auftreiben? Aber bitte achte darauf, etwas für jeden Geschmack zu finden.",
@@ -2508,6 +2933,7 @@
       "zh-CN": "我们的图书室藏书已经相当陈旧了。拜托你去掩埋废城找找，带点新书回来。记得多带点不同种类的。",
       "zh-TW": "我們圖書館的藏書越來越陳舊過時了。你能去埋藏都市多找幾本書給我們閱讀嗎？請務必適合不同人閱讀的書來。"
     },
+    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Find biblioteket i bymidten",
@@ -2641,7 +3067,7 @@
     "nextQuestIds": [
       "ss10x19"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10t",
@@ -2671,6 +3097,12 @@
       "dam_battlegrounds"
     ],
     "trader": "Celeste",
+    "requiredItemIds": [
+      {
+        "itemId": "celeste_journal",
+        "quantity": 2
+      }
+    ],
     "description": {
       "da": "Okay, så dette er akavet... Jeg mistede to af mine dagbøger under nogle udpostinspektioner sidste gang jeg var på overfladen. Kunne du tage derhen og prøve at finde dem tilbage, før nogen andre snubler over dem?",
       "de": "Also, das ist mir etwas peinlich. Als ich das letzte Mal an der Oberfläche war, um Außenposten zu inspizieren, hab ich zwei meiner Tagebücher verloren. Könntest du losziehen und sie finden, bevor es jemand anders tut?",
@@ -2693,6 +3125,7 @@
       "zh-CN": "说起来有点尴尬……上次我去上层进行哨站检查时丢了两本日记。你能去帮忙找回来吗？我不想日记落到别人手里。",
       "zh-TW": "好吧，這件事說來有點尷尬…我上次去頂層的時候，在檢查哨站時弄丟了兩本日誌。你能趁其他人還沒找到之前，幫我把它們找回來嗎？"
     },
+    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Hent Celestes dagbøger fra Syd-Sump-udposten",
@@ -2782,7 +3215,7 @@
     "nextQuestIds": [
       "ss10w"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss2",
@@ -2809,6 +3242,12 @@
       "zh-TW": "更晴朗的天空"
     },
     "trader": "Shani",
+    "requiredItemIds": [
+      {
+        "itemId": "arc_alloy",
+        "quantity": 3
+      }
+    ],
     "description": {
       "da": "En sværm af desorienterede Wasps styrtede ned nær et af vores ovenlysvinduer.\r\n\r\nJeg har brug for, at du hjælper med at tynde ud i ARCs rækker, før der sker flere ulykker, og skaffer nogle ekstra robuste materialer til at udbedre skaden.",
       "de": "Ein Schwarm orientierungsloser Wespen ist in der Nähe eines unserer Oberlichter abgestürzt.\r\n\r\nDu musst die Reihen der ARC lichten, bevor noch mehr Unfälle passieren. Und kannst du ein paar besonders robuste Materialien sammeln, um den Schaden zu beheben?",
@@ -2894,28 +3333,28 @@
     "nextQuestIds": [
       "ss4"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "12_cold_storage",
     "name": {
       "da": "Kold opbevaring",
-      "de": "Tiefkühllagerung",
+      "de": "Kühlhaus",
       "en": "Cold Storage",
-      "es": "Almacén frigorífico",
+      "es": "Cámara frigorífica",
       "fr": "Chambre froide",
       "he": "אחסון בקירור",
       "hr": "Hladnjača",
-      "it": "Conservazione Frigorifera",
-      "ja": "冷凍保管室",
-      "ko-KR": "냉동 저장소",
+      "it": "Cella frigorifera",
+      "ja": "冷蔵倉庫",
+      "ko-KR": "냉동 보관소",
       "no": "Kjølelager",
       "pl": "Chłodnia",
       "pt": "Armazenamento Frio",
       "pt-BR": "Armazenamento Frio",
       "ru": "Холодное хранилище",
       "sr": "Hladnjača",
-      "tr": "Soğuk Depolama",
+      "tr": "Soğuk Hava Deposu",
       "uk": "Холодне сховище",
       "zh-CN": "冷冻储藏",
       "zh-TW": "冷藏室"
@@ -2924,6 +3363,12 @@
       "stella_montis"
     ],
     "trader": "Shani",
+    "requiredItemIds": [
+      {
+        "itemId": "old_world_books",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Rapporterne om Stella Montis bliver ved med at komme ind, og det ligner ikke noget, vi har set før. Der kan være optegnelser eller relikvier fra fortiden derinde, og hvis det er tilfældet, vil jeg have dem.",
       "de": "Wir kriegen Berichte über Stella Montis rein und was ich da erfahre, ist völlig neu. Da drinnen könnten Aufzeichnungen oder Relikte aus der Vergangenheit warten – und wenn das so ist, dann will ich sie haben.",
@@ -3010,7 +3455,7 @@
     "nextQuestIds": [
       "12_snap_and_salvage"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "combat_recon",
@@ -3438,7 +3883,6 @@
       "zh-CN": "如果你找到的数据能防止天花板坍塌，那我们必须立即行动，刻不容缓。\r\n\r\n我知道在阿切拉太空港周围有几台“离巢时代”遗留的磁力解密器，可能仍能运作。",
       "zh-TW": "如果你找到的資料可以避免天花板崩塌，那我們不能再拖了。\r\n\r\n我知道阿切拉太空港附近有幾部出逃時代的磁力解譯器，可能還能夠運作。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Brug den magnetiske dekrypteringsenhed i brændstofkontrolbygningen",
@@ -3524,7 +3968,7 @@
     "nextQuestIds": [
       "groundbreaking"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10x16",
@@ -3576,7 +4020,6 @@
       "zh-CN": "我们找到突破口了。一名侦察者看到暗道官方管理层的某位成员在掩埋废城的圣玛丽亚住宅区进行了一次秘密投放。这或许是个难得的机会，可以抓住他们的把柄。你参加吗？",
       "zh-TW": "我們走運了。我們有名偵察兵看到運輸管管理部門的一名成員在埋藏都市的聖瑪麗亞住宅內投放了秘密情報。這或許是我們掌握他們醜聞的好機會。你要加入嗎？"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Find Santa Maria-husene i Old Town",
@@ -3641,7 +4084,7 @@
       "ss10x17",
       "ss10x18"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10c",
@@ -3777,25 +4220,25 @@
       },
       {
         "da": "Skaf 1 kongelys",
-        "de": "Beschaffe 1 Kleinblütige Königskerze",
+        "de": "Beschaffe 1 Kleinblütige Königskerze.",
         "en": "Obtain 1 Great Mullein",
-        "es": "Obtener 1 Gran Verbasco",
-        "fr": "Obtenir 1 Grande molène",
+        "es": "Cosecha 1 gran verbasco.",
+        "fr": "Obtenir 1 grande molène",
         "he": "השג 1 בוצין",
         "hr": "Nabavi 1 Divizmu",
-        "it": "Ottenere 1 Grande verbasco",
+        "it": "Ottieni 1 verbasco grande",
         "ja": "ビロードモウズイカを1個入手した",
         "ko-KR": "우단담배풀 1개 획득하기",
         "no": "Skaff 1 filtkongslys",
-        "pl": "Zdobyć 1 Dziewanna drobnokwiatowa",
-        "pt": "Obter 1 Grande Verbasco",
-        "pt-BR": "Obter 1 Grande Verbasco",
-        "ru": "Получить 1 коровяк",
+        "pl": "Zdobądź 1 dziewannę drobnokwiatową",
+        "pt": "Obtenha 1 Grande Verbasco",
+        "pt-BR": "Obtenha 1 Grande Verbasco",
+        "ru": "Добудьте 1 коровяк.",
         "sr": "Nabavite 1 Divizmu",
         "tr": "1 Sığırkuyruğu elde et",
         "uk": "Отримайте 1 дивину ведмежу",
-        "zh-CN": "获取1个大毛蕊花",
-        "zh-TW": "獲得1個毛蕊花"
+        "zh-CN": "获得1个大毛蕊花",
+        "zh-TW": "獲得1朵毛蕊花"
       }
     ],
     "rewardItemIds": [
@@ -3819,7 +4262,7 @@
     "nextQuestIds": [
       "ss10f"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10b",
@@ -3847,8 +4290,8 @@
     },
     "map": [
       "the_spaceport",
-      "dam_battlegrounds",
-      "the_blue_gate"
+      "the_blue_gate",
+      "dam_battlegrounds"
     ],
     "trader": "Shani",
     "description": {
@@ -3916,7 +4359,7 @@
       "ss10d",
       "ss10e"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss6",
@@ -4092,6 +4535,12 @@
       "dam_battlegrounds"
     ],
     "trader": "Celeste",
+    "requiredItemIds": [
+      {
+        "itemId": "major_aivas_patch",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Mærkede du nogen rystelser i nat? Heller ikke mig. Men jorden flyttede sig åbenbart på et tidspunkt, og i processen afdækkede den en gammel First Wave-forpost, der var blokeret af murbrokker. Jeg vil gerne have dig derind hurtigt, før andre gør det.",
       "de": "Hast du letzte Nacht irgendwelche Erschütterungen gespürt? Ich auch nicht. Aber offensichtlich hat sich der Boden irgendwann bewegt und dabei ist ein alter Außenposten der Ersten Welle freigelegt worden, der unter Trümmern begraben war. Schau ihn dir schnell an, ehe es ein anderer tut.",
@@ -4204,7 +4653,7 @@
     "nextQuestIds": [
       "ss10q"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10x13",
@@ -4234,6 +4683,12 @@
       "buried_city"
     ],
     "trader": "Apollo",
+    "requiredItemIds": [
+      {
+        "itemId": "espresso_machine_parts",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "En Raider kom ind i min butik tidligere for at bytte nogle granater for en maskine, hun fandt i Buried City. Hun sagde, den laver kaffe, men den ser ud til at mangle nogle dele. Er du frisk på en opgave?",
       "de": "Vorhin kam ein Raider in meinen Laden und hat eine Maschine, die sie in der Begrabenen Stadt gefunden hatte, gegen ein paar Granaten eingetauscht. Sie sagt, mit dem Ding kann man Kaffee kochen, aber es fehlen ein paar Teile. Lust auf einen Job?",
@@ -4277,7 +4732,7 @@
         "sr": "Pronađi aparat za espreso radi prikupljanja rezervnih delova",
         "tr": "Yedek parçalar çıkarmak için bir espresso makinesi bul",
         "uk": "Знайдіть еспресо-машину, щоб розібрати її на запчастини",
-        "zh-CN": "找到一台浓缩咖啡机以回收零件",
+        "zh-CN": "找到一台浓缩咖啡机，拆取可用零件",
         "zh-TW": "找到一台義式咖啡機以回收多餘零件"
       },
       {
@@ -4320,7 +4775,7 @@
     "nextQuestIds": [
       "ss10x14"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10s",
@@ -4501,6 +4956,12 @@
       "buried_city"
     ],
     "trader": "Tian Wen",
+    "requiredItemIds": [
+      {
+        "itemId": "wires",
+        "quantity": 3
+      }
+    ],
     "description": {
       "da": "Alt har været roligt omkring mine afleveringssteder, siden du hjalp til, men det betyder ikke, at det bliver ved med at være sådan længe. Jeg har sat overvågning op på et af mine mest brugte steder i Buried City for at forhindre fremtidig sabotage. Det eneste problem er, at det mangler strøm for at blive aktivt.",
       "de": "Seit du mir geholfen hast, ist es ruhig geblieben, was meine Lager angeht. Aber das kann sich ändern. Deswegen hab ich an einem meiner wichtigsten Plätze in der Begrabenen Stadt für Überwachung gesorgt. Einziges Problem: Ich brauch Strom da oben.",
@@ -4523,7 +4984,6 @@
       "zh-CN": "自从你出手相助之后，我的投放点周围一直很平静，但这种情况估计不会持续太久。我在掩埋废城最常用的一个点设置了监控，以防止未来有人打它的歪主意。唯一的问题是，它需要电力才能启动。",
       "zh-TW": "自從你來幫忙之後，我的交貨點變得平靜許多，但不表示這種平靜能維持多久。我已經在埋藏都市裡我最常使用的其中一個交貨點安裝好監視器了，以防未來再被人動手腳。唯一的問題是，監視器需要電源才能運作。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Find den afsidesliggende tagterrasse sydvest for Southern Station, kig efter blå presenninger.",
@@ -4544,7 +5004,7 @@
         "sr": "Pronađi zabačenu krovnu terasu jugozapadno od Southern Station, traži plave cerade.",
         "tr": "Güney İstasyonu'nun güneybatısındaki kuytu çatı terasını bul, mavi brandalar ara.",
         "uk": "Знайдіть приховану терасу на даху на південний захід від Південної станції, шукайте синій брезент.",
-        "zh-CN": "到南侧地铁站西南边找到隐蔽排屋屋顶，寻找蓝色防水布。",
+        "zh-CN": "寻找位于南侧地铁站西南边的隐蔽屋顶露台，并在那找到蓝色防水布。",
         "zh-TW": "找到南站西南方的僻靜屋頂露台，看到藍色帆布就知道了。"
       },
       {
@@ -4587,7 +5047,7 @@
     "nextQuestIds": [
       "ss10n"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10x11",
@@ -4617,6 +5077,12 @@
       "dam_battlegrounds"
     ],
     "trader": "Celeste",
+    "requiredItemIds": [
+      {
+        "itemId": "wires",
+        "quantity": 4
+      }
+    ],
     "description": {
       "da": "Min sædvanlige ingeniør kommer sig stadig over sine sår og har været rundtosset i dagevis. Vi har ikke råd til at køre på halv kraft, indtil han bliver rask; jeg har brug for nogen til at gribe skiftenøglen i mellemtiden.",
       "de": "Der Ingenieur meines Vertrauens ist immer noch nicht von seinen Wunden genesen. Er ist schon seit Tagen etwas wirr, und wir können uns nicht erlauben, mit halber Kraft zu arbeiten, bis er wieder gesund ist. Ich brauche jemanden, der an seiner Stelle den Schraubenschlüssel schwingt.",
@@ -4639,7 +5105,6 @@
       "zh-CN": "我平时用的工程师还在养伤，已经神志不清好几天了。在他痊愈之前，这里总不能处于半瘫痪状态，需要有人在这段时间接手他的工作。",
       "zh-TW": "我的常任工程師還在療傷，他已經昏昏沉沉好幾天了。在他痊癒之前，我們不能讓效率降低；我需要有人暫時頂替他的工作。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Find generatorrummet",
@@ -4747,7 +5212,7 @@
     "nextQuestIds": [
       "ss10x12"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10a",
@@ -5056,9 +5521,10 @@
       "deciphering_the_data"
     ],
     "nextQuestIds": [
-      "on_deaf_ears"
+      "worth_your_salt",
+      "a_dead_end"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss5a",
@@ -5209,29 +5675,28 @@
       "zh-CN": "我刚治疗了一位首批进入星辰山的奇袭者，她说她看到了其他的……人形机器人，非常像我的那种。",
       "zh-TW": "我剛治療了最早造訪星辰山的掠手，她說她看到了…其他的機器人，說和我很相似。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Tag til Stella Montis",
-        "de": "In Stella Montis eindringen",
+        "de": "Einsatz starten: Stella Montis",
         "en": "Deploy into Stella Montis",
-        "es": "Desplegar en Stella Montis",
-        "fr": "Déployer à Stella Montis",
+        "es": "Despliégate en Stella Montis.",
+        "fr": "Se déployer à Stella Montis",
         "he": "צא ל-Stella Montis",
         "hr": "Iskrcaj se na Stella Montis",
-        "it": "Schierarsi a Stella Montis",
+        "it": "Schierati a Stella Montis",
         "ja": "ステラ・モンティスに出発した",
         "ko-KR": "스텔라 몬티스로 출격하기",
         "no": "Dra til Stella Montis",
-        "pl": "Rozlokować w Stella Montis",
-        "pt": "Desdobrar em Stella Montis",
-        "pt-BR": "Desdobrar em Stella Montis",
-        "ru": "Выйти на Стелла Монтис",
+        "pl": "Wyrusz do Stella Montis",
+        "pt": "Mobilize-se para Stella Montis",
+        "pt-BR": "Mobilize-se para Stella Montis",
+        "ru": "Зайдите в Стелла Монтис.",
         "sr": "Iskrcaj se na Stella Montis",
-        "tr": "Stella Montis'e konuşlan",
+        "tr": "Stella Montis'e git",
         "uk": "Висадіться у Stella Montis",
         "zh-CN": "部署到星辰山",
-        "zh-TW": "進入星辰山部署"
+        "zh-TW": "部署至星辰山內"
       },
       {
         "da": "Find og gennemsøg 3 Androider",
@@ -5273,7 +5738,7 @@
     "nextQuestIds": [
       "12_cold_storage"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10n",
@@ -5331,7 +5796,6 @@
       "zh-CN": "既然我自己的藏货安全了，也许是时候更密切地监视竞争对手，以免这种事再次发生。",
       "zh-TW": "在確保我的儲藏箱安全無虞後，現在應該要更加密切注意競爭對手，避免再次發生這種情況。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Find Tian Wens våbendepot nær Tankstationen i Udkanten",
@@ -5421,7 +5885,7 @@
     "nextQuestIds": [
       "ss10q"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10x5",
@@ -5550,6 +6014,119 @@
     "updatedAt": "02/20/2026"
   },
   {
+    "id": "keeping_an_eye_out",
+    "name": {
+      "da": "Hold øjnene åbne",
+      "de": "Die Augen offen halten",
+      "en": "Keeping an Eye Out",
+      "es": "Ojo avizor",
+      "fr": "Rester à l'affût",
+      "he": "עין פקוחה",
+      "hr": "Na oprezu",
+      "it": "Occhio!",
+      "ja": "警戒中",
+      "ko-KR": "눈 크게 뜨기",
+      "no": "Hold øynene åpne",
+      "pl": "Oczy szeroko otwarte",
+      "pt": "De Olho Aberto",
+      "pt-BR": "De Olho Aberto",
+      "ru": "Бдительное око",
+      "sr": "Na oprezu",
+      "tr": "Tetikte",
+      "uk": "Пильне око",
+      "zh-CN": "循“目”追踪",
+      "zh-TW": "多加留意"
+    },
+    "map": [
+      "the_blue_gate"
+    ],
+    "trader": "Celeste",
+    "description": {
+      "da": "Jeg leder efter nogen. Bilguun. Du har måske set ham, men sandsynligvis ikke. Han er… ikke den mest selskabelige type, forstår du.\r\n\r\nHan tilbringer meget tid på overfladen, men vender normalt jævnligt tilbage til Speranza for at melde sig.",
+      "de": "Ich suche jemanden. Bilguun. Vielleicht hast du ihn schon mal gesehen, aber wahrscheinlich eher nicht. Er ist nämlich nicht gerade der geselligste Typ.\r\n\r\nEr ist oft an der Oberfläche, kommt aber meistens regelmäßig nach Speranza zurück, um nach dem Rechten zu sehen.",
+      "en": "I’m looking for someone. Bilguun. You might’ve seen him around, but chances are you haven’t. He’s… not the most sociable person around, you see.\r\n\r\nHe spends a lot of time Topside, but usually returns to Speranza regularly to check in.",
+      "es": "Estoy buscando a alguien: Bilguun. Tal vez te hayas topado con él, pero lo más seguro es que no, porque no es alguien muy sociable.\r\n\r\nPasa mucho tiempo en la superficie, pero suele volver a Speranza de vez en cuando para ver cómo están las cosas.",
+      "fr": "Je cherche un certain Bilguun. Vous avez peut-être déjà croisé sa route, mais il y a de fortes chances que non. Ce n'est pas quelqu'un de très sociable.\r\n\r\nIl passe beaucoup de temps à l'extérieur, mais il revient régulièrement à Speranza pour donner des nouvelles.",
+      "he": "אני מחפש מישהו. בילגון. אולי ראית אותו מסתובב, אבל רוב הסיכויים שלא. הוא… לא בדיוק האדם הכי חברותי, אתה מבין.\r\n\r\nהוא מבלה הרבה זמן למעלה, אבל בדרך כלל חוזר לספרנצה באופן קבוע כדי לדווח.",
+      "hr": "Tražim nekoga. Bilguuna. Možda si ga vidio, ali velika je šansa da nisi. On… nije baš najdruštvenija osoba, znaš.\r\n\r\nProvodi puno vremena na Površini, ali obično se redovito vraća u Speranzu da se javi.",
+      "it": "Sto cercando una persona. Bilguun. Forse l'hai visto in giro, ma molto probabilmente no. Diciamo che non è proprio la persona più socievole del mondo.\r\n\r\nÈ quasi sempre in Superficie, ma in genere torna regolarmente a Speranza.",
+      "ja": "探してる人がいる。名前はビルグーン。どこかで見たことがあるかもしれないが、可能性は低いだろうな。彼は… あまり社交的じゃない。\r\n\r\n上層にいることが多いが、定期的にスペランザの様子を見に戻ってくる。",
+      "ko-KR": "누굴 좀 찾고 있어요. 빌군이라는 사람인데, 당신도 본 적 있을 수도 있겠지만 아마 못 봤을 겁니다. 빌군은… 그다지 사람들과 잘 어울리지 않거든요.\r\n\r\n지상에 있는 시간이 많은 편이지만, 그래도 주기적으로 스페란자에 들러 안부를 전하곤 해요.",
+      "no": "Jeg leter etter noen. Bilguun. Du har kanskje sett ham, men sjansene er små. Han er… ikke den mest sosiale personen, forstår du.\r\n\r\nHan tilbringer mye tid på Overflaten, men pleier å komme tilbake til Speranza jevnlig for å sjekke inn.",
+      "pl": "Szukam kogoś. Ma na imię Bilguun. Możliwe, że kiedyś gdzieś ci mignął, ale raczej nie. On… nie jest zbyt towarzyski.\r\n\r\nDużo czasu spędza na powierzchni, ale zwykle regularnie wraca do Speranzy i mnie odwiedza.",
+      "pt": "Eu tô procurando alguém, o Bilguun. Talvez você tenha visto ele por aí, mas as chances são pequenas. Ele não é... muito sociável, sabe?\r\n\r\nEle passa muito tempo na superfície, mas costuma voltar pra Speranza pra dar sinal de vida.",
+      "pt-BR": "Eu tô procurando alguém, o Bilguun. Talvez você tenha visto ele por aí, mas as chances são pequenas. Ele não é... muito sociável, sabe?\r\n\r\nEle passa muito tempo na superfície, mas costuma voltar pra Speranza pra dar sinal de vida.",
+      "ru": "Я ищу кое-кого. Бильгуна. Возможно, вы с ним уже встречались, но вряд ли. Видишь ли, он... не очень общительный.\r\n\r\nБильгун проводит кучу времени на Поверхности, но регулярно возвращается в Сперанцу отметиться.",
+      "sr": "Tražim nekoga. Bilguna. Možda si ga video, ali velike su šanse da nisi. On… nije baš najdruštvenija osoba, znaš.\r\n\r\nProvodi puno vremena na Površini, ali obično se redovno vraća u Sperancu da se javi.",
+      "tr": "Birini arıyorum. Adı Bilguun. Buralarda görmüşsündür belki ama pek sanmıyorum. O pek... sokulgan biri değildir.\r\n\r\nYukarıda çok zaman geçiriyor ancak genelde Speranza'ya sürekli uğrayıp etrafa bakınır.",
+      "uk": "Я когось шукаю. Більгуна. Можливо, ти його десь бачив, але скоріше за все ні. Він… не найтовариськіша людина, розумієш.\r\n\r\nВін проводить багато часу на Поверхні, але зазвичай регулярно повертається до Сперанци, щоб відмітитися.",
+      "zh-CN": "我在找一个名叫比尔根的人。你可能见过他，但多半没有。他这人……不怎么爱交际。\r\n\r\n大部分时间都在上层，但通常会定期返回斯佩兰扎露个脸。",
+      "zh-TW": "我正在找某個人。他叫比爾古恩。你可能在附近見過他，不過也可能沒有。因為他…不是喜歡交際的人。\r\n\r\n他大部分時間在頂層，但常常會定期回到斯佩蘭薩來報到。"
+    },
+    "objectives": [
+      {
+        "da": "Find den sammenstyrtede motorvej ved den sydlige kant af den golde lysning",
+        "de": "Finde die eingestürzte Schnellstraße am südlichen Rand der unbewachsenen Lichtung.",
+        "en": "Locate the collapsed highway by the southern edge of the Barren Clearing",
+        "es": "Encuentra la autopista derrumbada junto al extremo sur del claro desolado.",
+        "fr": "Localiser l'autoroute effondrée à la lisière sud de la Clairière aride",
+        "he": "אתר את הכביש המהיר שקרס בקצה הדרומי של השטח השומם",
+        "hr": "Pronađi urušenu autocestu uz južni rub Jalove čistine",
+        "it": "Trova l'autostrada crollata vicino al lato sud della Radura brulla",
+        "ja": "不毛の空地の南端で崩落した高速道路を見つけた",
+        "ko-KR": "황량한 공터 남쪽 경계 근처의 붕괴된 고속도로 찾기",
+        "no": "Finn den sammenraste motorveien ved sørkanten av den øde lysningen",
+        "pl": "Znajdź zawaloną autostradę przy południowym krańcu jałowej polany",
+        "pt": "Encontre a rodovia desabada na borda sul do Descampado Árido",
+        "pt-BR": "Encontre a rodovia desabada na borda sul do Descampado Árido",
+        "ru": "Найдите обрушившееся шоссе у южного края пустыря.",
+        "sr": "Pronađi urušeni autoput na južnom rubu Jalove čistine",
+        "tr": "Çorak Alan Temizleme'nin güney sınırındaki çöken otoyolu bul",
+        "uk": "Знайдіть зруйновану автостраду біля південного краю Безплідної галявини",
+        "zh-CN": "在荒芜空地南部边缘找到坍塌的高速公路",
+        "zh-TW": "找到貧瘠空地南側邊緣的倒塌高速公路"
+      },
+      {
+        "da": "Find Bilguuns tilflugtssted og søg efter spor af hans tilstedeværelse",
+        "de": "Suche Bilguuns Unterschlupf und schau nach Hinweisen, dass er da war.",
+        "en": "Find Bilguun's shelter, and search for any clues of his presence",
+        "es": "Encuentra el refugio de Bilguun y busca pistas de que ha estado ahí.",
+        "fr": "Trouver l'abri de Bilguun et rechercher tout indice de sa présence",
+        "he": "מצא את המחסה של בילגון וחפש רמזים לנוכחותו",
+        "hr": "Pronađi Bilguunovo sklonište i potraži tragove njegove prisutnosti",
+        "it": "Trova il rifugio di Bilguun e cerca indizi della sua presenza",
+        "ja": "ビルグーンの隠れ家を見つけ、彼の存在を示す手がかりを探した",
+        "ko-KR": "빌군의 은신처를 찾아 빌군이 머물렀다는 단서 찾기",
+        "no": "Finn Bilguuns tilfluktssted og let etter spor av hans tilstedeværelse",
+        "pl": "Znajdź schronienie Bilguuna i poszukaj śladów jego obecności",
+        "pt": "Encontre o abrigo de Bilguun e busque qualquer pista de sua presença",
+        "pt-BR": "Encontre o abrigo de Bilguun e busque qualquer pista de sua presença",
+        "ru": "Найдите хранилище Бильгуна и поищите в нем намеки, где он.",
+        "sr": "Pronađi Bilgunovo sklonište i potraži tragove njegovog prisustva",
+        "tr": "Bilguun'un sığınağını bul ve onun varlığına dair ipuçları ara",
+        "uk": "Знайдіть притулок Більгуна та пошукайте сліди його перебування",
+        "zh-CN": "找到比尔根的庇护所，并搜寻有关他下落的线索",
+        "zh-TW": "找到比爾古恩的簡易住所，並搜尋是否有他來過的線索"
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "pulse_mine",
+        "quantity": 5
+      },
+      {
+        "itemId": "flame_spray",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "the_clean_dream"
+    ],
+    "nextQuestIds": [],
+    "updatedAt": "02/24/2026"
+  },
+  {
     "id": "ss10o",
     "name": {
       "da": "Hold mindet i live",
@@ -5603,24 +6180,24 @@
     "objectives": [
       {
         "da": "Nå frem til vraget i Formicai Hills",
-        "de": "Geh zu dem Wrack am Formicai-Hügel",
+        "de": "Geh zu dem Wrack am Formicai-Hügel.",
         "en": "Reach the wreckage in the Formicai Hills",
-        "es": "Llegar a los restos en la colina Formicai",
-        "fr": "Atteindre l'épave dans les Collines de Formicai",
+        "es": "Llega a los restos en la colina Formicai.",
+        "fr": "Atteindre l'épave des Collines de Formicai",
         "he": "הגע להריסות ב-Formicai Hills",
         "hr": "Dođi do olupine u Formicai Hillsu",
-        "it": "Raggiungere il relitto nel Colle Formicai",
+        "it": "Raggiungi il relitto nelle Colline Formicai",
         "ja": "フォルミカイ山地の残骸に到達した",
         "ko-KR": "개미탑 언덕의 잔해에 도달하기",
         "no": "Nå frem til vraket i Formicai Hills",
-        "pl": "Dotrzeć do wraku na Wzgórzach Formicai",
-        "pt": "Alcançar a carcaça nas Colinas Formicai",
-        "pt-BR": "Alcançar a carcaça nas Colinas Formicai",
-        "ru": "Добраться до обломков на Холмах Формикаи",
+        "pl": "Dotrzyj do wraków na wzgórzach Formicai",
+        "pt": "Vá até os destroços nas Colinas Formicai",
+        "pt-BR": "Vá até os destroços nas Colinas Formicai",
+        "ru": "Доберитесь до развалин среди холмов Формикаи.",
         "sr": "Stigni do olupine u brdima Formicai",
-        "tr": "Formicai Tepeleri'ndeki enkaza ulaş.",
+        "tr": "Formicai Tepeleri'ndeki enkaza ulaş",
         "uk": "Дістаньтеся до уламків на пагорбах Формікай",
-        "zh-CN": "到达蚁丘山的残骸处",
+        "zh-CN": "抵达蚁丘山的残骸处",
         "zh-TW": "到達蟻丘的殘骸處"
       },
       {
@@ -5689,7 +6266,7 @@
     "nextQuestIds": [
       "ss10p"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10x14",
@@ -5933,6 +6510,7 @@
       "zh-CN": "我在太空港安装了一套设备，用于监测ARC的动向。刚才连接中断了——你去趟控制塔，帮我取回日志。",
       "zh-TW": "我在太空港設置了監控ARC行動的設備。我的連線剛剛中斷了，我需要你前往塔台，幫我取回我的紀錄。"
     },
+    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Besøg Kontroltårn A6",
@@ -6014,7 +6592,7 @@
     "nextQuestIds": [
       "ss11b2"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10i",
@@ -6066,7 +6644,6 @@
       "zh-CN": "有人一直从我在掩埋废城的投放点偷取物资。我设了一个陷阱，但需要有人去帮我检查一下触发情况。",
       "zh-TW": "有人一直從我在埋藏都市的交貨點偷竊物資。我已經設好了陷阱，但我需要人手去幫我確認情況。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Nå frem til Su Durante-pakhusene i Udkanten af Den Begravede By",
@@ -6092,25 +6669,25 @@
       },
       {
         "da": "Led efter Tian Wens depot nær pakhusene",
-        "de": "Suche nach Tian Wens Versteck in der Nähe der Lagerhäuser.",
+        "de": "Suche nach Tian Wens Geheimvorrat in der Nähe der Lagerhäuser.",
         "en": "Search for Tian Wen's cache near the Warehouses",
-        "es": "Buscar el alijo de Tian Wen cerca de los almacenes",
-        "fr": "Chercher la cache de Tian Wen près des entrepôts",
+        "es": "Busca el alijo de Tian Wen cerca de los almacenes.",
+        "fr": "Fouiller la cache de Tian Wen près des entrepôts",
         "he": "חפש את המטמון של Tian Wen ליד המחסנים",
         "hr": "Potraži skrovište Tiana Wena blizu skladišta",
-        "it": "Cercare la scorta di Tian Wen vicino ai Magazzini",
-        "ja": "ウェアハウス付近でティアン・ウェンの隠し場所を探した",
+        "it": "Cerca il nascondiglio di Tian Wen vicino ai magazzini",
+        "ja": "倉庫付近でティアン・ウェンの隠し場所を探した",
         "ko-KR": "티안 웬의 은닉물을 창고 근처에서 찾기",
         "no": "Let etter Tian Wens gjemmested nær varehusene",
-        "pl": "Przeszukać skrytkę Tian Wen w pobliżu Magazynów",
-        "pt": "Procurar o esconderijo de Tian Wen perto dos Armazéns",
-        "pt-BR": "Procurar o esconderijo de Tian Wen perto dos Armazéns",
-        "ru": "Искать тайник Тянь Вэнь возле складов",
+        "pl": "Poszukaj skrytki Tian Wen w pobliżu magazynów",
+        "pt": "Procure o estoque de Tian Wen perto dos Armazéns",
+        "pt-BR": "Procure o estoque de Tian Wen perto dos Armazéns",
+        "ru": "Обыщите тайник Тянь Вэнь около складов.",
         "sr": "Potraži Tian Wenove zalihe blizu skladišta",
-        "tr": "Tian Wen'in deposunun yakınlarındaki gizli saklamayı ara",
+        "tr": "Tian Wen'in Ambarlar'ın yakınındaki zulasını ara",
         "uk": "Знайти схованку Tian Wen біля складів",
-        "zh-CN": "在仓库附近搜索天玟的藏匿点",
-        "zh-TW": "搜尋位於倉庫附近的田文物資箱。"
+        "zh-CN": "在仓库附近搜索天玟的储物箱",
+        "zh-TW": "在倉庫附近搜尋田文的藏貨"
       },
       {
         "da": "Følg sporene",
@@ -6152,7 +6729,7 @@
     "nextQuestIds": [
       "ss10l"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10l",
@@ -6574,6 +7151,10 @@
       {
         "itemId": "portable_tv",
         "quantity": 1
+      },
+      {
+        "itemId": "stack_of_movie_tapes",
+        "quantity": 1
       }
     ],
     "grantedItemIds": [
@@ -6608,6 +7189,7 @@
       "zh-CN": "自从那个ARC信号的传言传开，大伙儿都一直坐立不安。我一直想搞个电影之夜活动，让大家放松一下神经。但我的投影机缺了一些关键物资。你能帮我找一下吗？",
       "zh-TW": "自從關於那個ARC訊號的傳言傳開後，每個人都很緊繃。我想說舉辦電影之夜是轉移注意力不錯的方法，但我缺少一些重要資源。你會幫我對吧？"
     },
+    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Levér et bærbart TV til Apollo",
@@ -6695,7 +7277,7 @@
       "with_a_view"
     ],
     "nextQuestIds": [],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss4",
@@ -6868,7 +7450,6 @@
       "zh-CN": "这里的奇袭者似乎个个听力都有严重损伤。\r\n\r\n我听说星辰山那边研发了一些超先进的助听器。如果能找到，我们就能用正常音量说话了。",
       "zh-TW": "這裡的掠手好像大半都有嚴重的聽力受損情形。\r\n\r\n我聽過傳聞說，星辰山的人開發了某種特別先進的助聽器。如果你能成功找到，大家或許就終於能用正常的音量對話，不用大吼大叫了。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Find forskerens gæstelogs på receptionscomputerne",
@@ -6975,13 +7556,13 @@
     ],
     "xp": 0,
     "previousQuestIds": [
-      "groundbreaking",
+      "worth_your_salt",
       "12_snap_and_salvage"
     ],
     "nextQuestIds": [
       "on_the_map"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "on_the_map",
@@ -7039,7 +7620,6 @@
       "zh-CN": "我们知道那些助听器的坐标，但我得拿它跟太空港的纸质地图核对一下。你应该还没累到挪不动腿吧？",
       "zh-TW": "我們知道那些助聽器的座標了，但我得跟太空港的紙本地圖交叉對照一下。你的腿還撐得住吧？"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Tag hen, hvor brændstofledningerne knækkede, og send din lokation",
@@ -7065,20 +7645,20 @@
       },
       {
         "da": "Tag til antennen nær Brændstofkontrollen, og send din lokation",
-        "de": "Geh zur Antenne in der Nähe der Kraftstoffsteuerung und übermittle deinen Standort.",
+        "de": "Geh zur Antenne in der Nähe der Kraftstoffkontrolle und übermittle deinen Standort.",
         "en": "Head to the antenna near the Fuel Control, and transmit your location",
         "es": "Ve a la antena que hay cerca del control de combustible y transmite tu posición.",
-        "fr": "Aller à l'antenne près de la Régulation du carburant et transmettre votre position",
+        "fr": "Aller à l'antenne près du Bâtiment de régulation du carburant et transmettre votre position",
         "he": "צא לאנטנה ליד בקרת הדלק, ושדר את המיקום שלך",
         "hr": "Kreni do antene blizu Kontrole goriva i pošalji svoju lokaciju",
         "it": "Raggiungi l'antenna vicino al Controllo combustibile e trasmetti la tua posizione",
         "ja": "燃料管理室の近くにあるアンテナに向かい、位置情報を送信した",
         "ko-KR": "연료 통제소 부근의 안테나로 향한 뒤 위치 전송하기",
         "no": "Dra til antennen i nærheten av drivstoffkontrollen, og send posisjonen din",
-        "pl": "Idź do anteny obok strefy kontroli paliwa i prześlij swoją pozycję",
-        "pt": "Vá até a antena, perto do Controle de combustível, e transmita sua localização",
-        "pt-BR": "Vá até a antena, perto do Controle de combustível, e transmita sua localização",
-        "ru": "Отправляйтесь к антенне у управления топливом и передайте свое местоположение.",
+        "pl": "Idź do anteny obok strefy kontroli paliwa i prześlij swoją pozycję",
+        "pt": "Vá até a antena, perto do Controle de Combustível, e transmita sua localização",
+        "pt-BR": "Vá até a antena, perto do Controle de Combustível, e transmita sua localização",
+        "ru": "Отправляйтесь к антенне возле здания Управления подачи топлива и передайте свое местоположение.",
         "sr": "Kreni do antene blizu kontrole goriva i pošalji svoju lokaciju",
         "tr": "Yakıt Kontrol Odası'nın yakınındaki antene git ve konumunu paylaş",
         "uk": "Рушайте до антени біля Паливного контролю і передайте свою локацію",
@@ -7171,7 +7751,7 @@
       "on_deaf_ears"
     ],
     "nextQuestIds": [],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10z",
@@ -7384,7 +7964,6 @@
       "zh-CN": "你看到那些旗帜了吗？躲躲闪闪的日子已经结束。我听说你身经百战了，你觉得自己能对付“火箭手”吗？",
       "zh-TW": "你看到旗幟了嗎？畏首畏尾的時代已經結束。據我所知，你是身經百戰的高手。你覺得你能打敗火箭兵嗎？"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Destruér en Rocketeer",
@@ -7453,7 +8032,7 @@
     "nextQuestIds": [
       "combat_recon"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "paving_the_way",
@@ -7480,9 +8059,9 @@
       "zh-TW": "開闢道路"
     },
     "map": [
-      "dam_battlegrounds",
       "the_blue_gate",
-      "buried_city"
+      "buried_city",
+      "dam_battlegrounds"
     ],
     "trader": "Apollo",
     "description": {
@@ -7507,7 +8086,6 @@
       "zh-CN": "整片区域就这样坍塌……难怪大家这么害怕。我们必须进行前所未有的加固工程，但单靠我们不行。",
       "zh-TW": "一整區居然就這樣坍塌了…難怪人們會害怕。我們必須用遠超過之前強度的方式來鞏固結構，而這事我們是沒辦法獨力完成的。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Gå til en hvilken som helst ENELICA-bygning",
@@ -7619,7 +8197,7 @@
     "nextQuestIds": [
       "deciphering_the_data"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss1",
@@ -7646,9 +8224,9 @@
       "zh-TW": "撿起材料"
     },
     "map": [
-      "dam_battlegrounds",
       "the_spaceport",
-      "buried_city"
+      "buried_city",
+      "dam_battlegrounds"
     ],
     "trader": "Shani",
     "description": {
@@ -7673,7 +8251,6 @@
       "zh-CN": "风暴已经基本平息，但我们的设施损毁严重。如果你想继续待在这里，就必须为修复工作出一份力。",
       "zh-TW": "風暴大致已平息，但我們很多基礎建設都遭受重創。如果你想留下來，我需要你參與修理工作。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Besøg et hvilket som helst område på dit kort med et loot-kategoriikon",
@@ -7736,7 +8313,7 @@
       "ss2",
       "ss3"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10x10",
@@ -7785,7 +8362,7 @@
       "sr": "Ovo je više od loše sreće. Nešto—ili neko—je onesposobilo neke od naših trafostanica. Inženjer kojeg sam poslao da to popravi se nije vratio, pa su mi potrebni svi dostupni Raideri da to istraže. To uključuje i tebe.",
       "tr": "Bu kötü şansın da ötesi. Bir şey veya birisi bazı elektrik trafo merkezlerimizi mahvetti. Tamir etmesi için gönderdiğim mühendis geri dönmedi, bu yüzden tüm müsait Raider'lara ihtiyacım var. Sen de dâhilsin.",
       "uk": "Це вже не просто невезіння. Щось — або хтось — вивело з ладу деякі наші електропідстанції. Інженер, якого я відправив на ремонт, не повернувся, тому мені потрібно, щоб усі доступні Рейдери розібралися з цим. Це стосується і тебе.",
-      "zh-CN": "这不仅仅是倒霉了。某些东西——或者某些人——摧毁了我们的部分变电站。我派去修理的工程师没有回来，所以我不得不调派所有能用的奇袭者去调查这件事。包括你。",
+      "zh-CN": "这不仅仅是倒霉了。某些东西或者某些人，摧毁了我们的部分变电站。我派去修理的工程师没有回来，所以我不得不调派所有能用的奇袭者去调查这件事。包括你。",
       "zh-TW": "這不是倒楣的問題而已。某種東西，或某個人，破壞了我們的幾個變電所。我派去修理的工程師還沒回來，所以我需要有空的掠手都去調查此事。包括你。"
     },
     "objectivesOneRound": true,
@@ -7900,7 +8477,7 @@
     "nextQuestIds": [
       "ss10x11"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10x9",
@@ -8100,7 +8677,6 @@
       "zh-CN": "那段坍塌的高速让我有点担心。看起来是最近才发生的事。上层大部分地区可能已经变成废墟，但大多是很久以前的事了。",
       "zh-TW": "崩塌的高速公路讓我很擔心。那看起來是近日才發生的。頂層雖然有很多地方化為廢墟，但那些都是很久以前就發生的事。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Tag et billede af Collapsed Highway",
@@ -8212,7 +8788,7 @@
     "nextQuestIds": [
       "ss11bx"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss8",
@@ -8350,6 +8926,16 @@
       "stella_montis"
     ],
     "trader": "Tian Wen",
+    "requiredItemIds": [
+      {
+        "itemId": "magnetron",
+        "quantity": 1
+      },
+      {
+        "itemId": "flow_controller",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Hele Speranza summer af snak om Stella Montis lige nu, og jeg må indrømme, at det har fanget min opmærksomhed. Lad de andre finde ud af hvad og hvordan; jeg er interesseret i teknologien indeni.",
       "de": "In Speranza wird nur noch über Stella Montis gesprochen und ich muss zugeben, mein Interesse ist auch geweckt. Sollen die anderen sich mit dem Was und Wie befassen – mich interessiert die Technik, die da drinnen versteckt ist.",
@@ -8488,7 +9074,7 @@
       "on_deaf_ears",
       "with_a_view"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10x6",
@@ -8540,7 +9126,6 @@
       "zh-CN": "我不是说我们的水源被动了手脚，但根据你带回来的样本，也不能排除这种可能性。能否返回大坝，查清楚哪里出了问题？",
       "zh-TW": "我並不是說我們的水被人動了手腳，但根據你的樣本，我也不能排除這種可能性。你能返回大壩查看出了什麼問題嗎？"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Nå frem til vandbehandlingsbygningen ved Dæmningen",
@@ -8630,7 +9215,7 @@
     "nextQuestIds": [
       "ss10x7"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss8b",
@@ -8742,6 +9327,240 @@
     "updatedAt": "02/20/2026"
   },
   {
+    "id": "stable_housing",
+    "name": {
+      "da": "Stabile boliger",
+      "de": "Stabile Häuser",
+      "en": "Stable Housing",
+      "es": "Viviendas estables",
+      "fr": "Logement stable",
+      "he": "דיור יציב",
+      "hr": "Stabilno stanovanje",
+      "it": "Alloggio stabile",
+      "ja": "安定した住まい",
+      "ko-KR": "안정적인 주거",
+      "no": "Stabile boliger",
+      "pl": "Stabilne domy",
+      "pt": "Moradia Estável",
+      "pt-BR": "Moradia Estável",
+      "ru": "Устойчивые дома",
+      "sr": "Stabilno stanovanje",
+      "tr": "Sağlam Konut",
+      "uk": "Стійке житло",
+      "zh-CN": "稳固住宅",
+      "zh-TW": "穩定住宅"
+    },
+    "map": [
+      "stella_montis"
+    ],
+    "trader": "Tian Wen",
+    "requiredItemIds": [
+      {
+        "itemId": "project_heartwood_blueprints",
+        "quantity": 1
+      }
+    ],
+    "description": {
+      "da": "Du kan godt lide en vis mængde usikkerhed, ikke? En kunde vil have indholdet af et låst pengeskab i Stella Montis. Det er intakt, så hvad end der er indeni, har været der siden før Exodus. Interesseret?",
+      "de": "Du magst ein bisschen Ungewissheit, oder? Ein Kunde will den Inhalt eines verschlossenen Safes in Stella Montis. Der Safe ist unberührt, also ist alles, was drin ist, schon vor dem Exodus dort gewesen. Interessiert?",
+      "en": "You like a certain amount of uncertainty, right? A client wants the contents of a locked safe in Stella Montis. It's intact, so whatever's inside has been there since before the Exodus. Interested?",
+      "es": "A ti no te incomoda la incertidumbre, ¿verdad? Un cliente quiere el contenido de una caja fuerte cerrada de Stella Montis. Está intacta, así que lo que haya dentro lleva ahí desde antes del Éxodo. ¿Te interesa?",
+      "fr": "Vous aimez le suspense, n'est-ce pas ? Un client cherche à récupérer le contenu d'un coffre verrouillé à Stella Montis. Il est intact, ce qui signifie que ce qu'il renferme date d'avant l'Exode. Ça vous tente ?",
+      "he": "אתה אוהב מידה מסוימת של אי-ודאות, נכון? לקוח רוצה את תוכן הכספת הנעולה בסטלה מונטיס. היא שלמה, אז מה שבפנים נמצא שם מאז לפני האקסודוס. מעוניין?",
+      "hr": "Voliš određenu dozu neizvjesnosti, zar ne? Klijent želi sadržaj zaključanog sefa u Stella Montisu. Sef je netaknut, pa je sve što se u njemu nalazi tamo od prije Egzodusa. Zanima te?",
+      "it": "A te piace un po' di incertezza, no? Un cliente vuole il contenuto di una cassaforte chiusa a Stella Montis. È intatta, quindi qualsiasi cosa ci sia dentro è lì dall'Esodo. Ti può interessare?",
+      "ja": "何事もちょっと不透明な方が楽しいだろ？ ある依頼主がステラ・モンティスの金庫の中身を欲しがっている。金庫は無傷だ。つまり中身はエクソダス以前からそこにあったものだ。興味ある？",
+      "ko-KR": "레이더, 불 보듯 뻔한 일은 재미없어하는 타입이죠? 스텔라 몬티스에 잠긴 금고가 하나 있는데, 의뢰인이 그 안에 든 물건을 원해요. 금고에 손댄 사람은 없으니, 안에는 분명 엑소더스 이전 시대의 물건이 들어 있을 겁니다. 관심 있으신가요?",
+      "no": "Du liker en viss grad av usikkerhet, ikke sant? En klient vil ha innholdet i et låst pengeskap i Stella Montis. Det er intakt, så uansett hva som er inni, har det vært der siden før Exodus. Interessert?",
+      "pl": "Lubisz niepewność, co? Pewien klient chce zdobyć zawartość zamkniętego sejfu ze Stella Montis. Sejf jest nienaruszony, więc to, co się w nim kryje, musi pochodzić sprzed Exodusu. Piszesz się?",
+      "pt": "Você gosta de uma dose de incerteza, né? Um cliente quer o conteúdo de um cofre trancado em Stella Montis. Ele tá intacto, então o que tiver dentro tá lá desde antes do Êxodo. Tem interesse?",
+      "pt-BR": "Você gosta de uma dose de incerteza, né? Um cliente quer o conteúdo de um cofre trancado em Stella Montis. Ele tá intacto, então o que tiver dentro tá lá desde antes do Êxodo. Tem interesse?",
+      "ru": "Ты же у нас любишь таинственные задания? Клиент просит добыть содержимое запертого сейфа в «Стелла Монтис». Он невредим, так что оно лежит внутри еще с Исхода, что бы там ни было. Ну как, заинтриговала?",
+      "sr": "Voliš određenu dozu neizvesnosti, zar ne? Klijent želi sadržaj zaključanog sefa u Stella Montisu. Sef je netaknut, tako da je sve što se u njemu nalazi tamo od pre Egzodusa. Zanima te?",
+      "tr": "Belli miktarda belirsizlik seversin, değil mi? Bir müşteri, Stella Montis'teki kilitli bir kasanın içindekileri istiyor. Kasa sağlam, yani içindeki her şey Exodus'tan önce oraya konulmuş. İlgilenir miydin?",
+      "uk": "Тобі подобається певна частка невідомості, правда? Клієнт хоче вміст замкненого сейфа в Стелла Монтіс. Він цілий, тож що б там не було всередині — воно лежить там ще з часів до Ісходу. Цікавить?",
+      "zh-CN": "你喜欢一定程度的未知因素，对吧？有客户想要星辰山中一个上锁保险柜里的东西。那个柜子完好无损，所以里面的东西在“离巢时代”之前就一直存放在那儿了。有兴趣吗？",
+      "zh-TW": "你喜歡一點不確定性，對吧？有個客戶想要星辰山中一個上鎖保險箱的內容物。保險箱完好無缺，所以裡頭存放的一定是出逃前的東西。有興趣嗎？"
+    },
+    "objectivesOneRound": true,
+    "objectives": [
+      {
+        "da": "Gå til Sikkerhedsbroen",
+        "de": "Gehe zur Sicherheitsbrücke.",
+        "en": "Go to the Security Bridge",
+        "es": "Ve al puente de seguridad.",
+        "fr": "Aller au Pont de sécurité",
+        "he": "לך לגשר הביטחון",
+        "hr": "Idi do Sigurnosnog mosta",
+        "it": "Vai al Ponte di sicurezza",
+        "ja": "セキュリティ・ブリッジに行った",
+        "ko-KR": "보안동 다리로 이동하기",
+        "no": "Gå til Sikkerhetsbroen",
+        "pl": "Udaj się na most strzeżony",
+        "pt": "Vá para a Ponte de Segurança",
+        "pt-BR": "Vá para a Ponte de Segurança",
+        "ru": "Идите на мост охраны.",
+        "sr": "Idi do Bezbednosnog mosta",
+        "tr": "Güvenlik Köprüsü'ne git",
+        "uk": "Ідіть до Охоронного мосту",
+        "zh-CN": "前往安保区过道桥",
+        "zh-TW": "前往安全橋"
+      },
+      {
+        "da": "Søg efter pengeskabet i sideværelset ved trapperne på tredje sal",
+        "de": "Suche den Safe im Nebenraum bei den Treppen im dritten Stock.",
+        "en": "Search for the safe in the side room by the third-floor staircases",
+        "es": "Busca la caja fuerte dentro de una sala junto a las escaleras del tercer piso.",
+        "fr": "Chercher le coffre-fort dans la pièce voisine, près des escaliers du troisième étage",
+        "he": "חפש את הכספת בחדר הצדדי ליד גרמי המדרגות בקומה השלישית",
+        "hr": "Potraži sef u sporednoj sobi pokraj stepenica na trećem katu",
+        "it": "Cerca la cassaforte nella stanza laterale vicino alle scale del terzo piano",
+        "ja": "3階の階段脇の部屋で金庫を探した",
+        "ko-KR": "3층 계단실의 옆방에서 금고 찾기",
+        "no": "Let etter pengeskapet i siderommet ved trappene i tredje etasje",
+        "pl": "Poszukaj sejfu w pomieszczeniu bocznym przy schodach na trzecim poziomie",
+        "pt": "Procure pelo cofre na sala lateral perto das escadas do terceiro andar",
+        "pt-BR": "Procure pelo cofre na sala lateral perto das escadas do terceiro andar",
+        "ru": "Найдите сейф в боковой комнате у лестницы на третьем этаже.",
+        "sr": "Potraži sef u sporednoj sobi pored stepenica na trećem spratu",
+        "tr": "Üçüncü kat merdivenlerinin yanındaki odada bulunan kasayı ara",
+        "uk": "Знайдіть сейф у бічній кімнаті біля сходів на третьому поверсі",
+        "zh-CN": "在三楼楼梯旁的侧室中搜寻保险柜",
+        "zh-TW": "搜索三樓樓梯旁側室中的保險箱"
+      },
+      {
+        "da": "Gå op til kontrolrummet på fjerde sal",
+        "de": "Geh nach oben in den Kontrollraum im vierten Stock.",
+        "en": "Head upstairs to the fourth-floor control room",
+        "es": "Ve a la sala de control del cuarto piso.",
+        "fr": "Monter à la salle de contrôle du quatrième étage",
+        "he": "עלה למעלה לחדר הבקרה בקומה הרביעית",
+        "hr": "Popni se u kontrolnu sobu na četvrtom katu",
+        "it": "Sali al quarto piano nella sala di controllo",
+        "ja": "4階の管制室に上がった",
+        "ko-KR": "4층 관제실로 올라가기",
+        "no": "Gå opp til kontrollrommet i fjerde etasje",
+        "pl": "Udaj się na górę do sterowni na czwartym poziomie",
+        "pt": "Suba para a sala de controle no quarto andar",
+        "pt-BR": "Suba para a sala de controle no quarto andar",
+        "ru": "Поднимитесь в диспетчерскую на четвертом этаже.",
+        "sr": "Popni se u kontrolnu sobu na četvrtom spratu",
+        "tr": "Merdivenlerden dördüncü kat kontrol odasına çık",
+        "uk": "Піднімайтеся до диспетчерської на четвертому поверсі",
+        "zh-CN": "上楼前往四楼控制室",
+        "zh-TW": "上樓前往四樓控制室"
+      },
+      {
+        "da": "Brug adgangskortprinteren til at printe en nøgle til pengeskabet",
+        "de": "Benutze den Zugangskartendrucker, um einen Schlüssel für den Safe auszudrucken.",
+        "en": "Use the Access Card Printer to print a key to the safe",
+        "es": "Usa la impresora de tarjetas de acceso para imprimir una llave de la caja fuerte.",
+        "fr": "Utiliser l'imprimante de cartes d'accès afin d'imprimer une clé pour le coffre-fort",
+        "he": "השתמש במדפסת כרטיסי הגישה כדי להדפיס מפתח לכספת",
+        "hr": "Koristi pisač pristupnih kartica za ispis ključa sefa",
+        "it": "Usa la stampante della chiave d'accesso per stampare una chiave della cassaforte",
+        "ja": "アクセスカードプリンターを使い、金庫を開ける鍵を印刷した",
+        "ko-KR": "출입 카드 프린터로 금고 열쇠 출력하기",
+        "no": "Bruk adgangskortskriveren til å skrive ut en nøkkel til pengeskapet",
+        "pl": "Użyj drukarki kart dostępu, aby wydrukować klucz do sejfu",
+        "pt": "Use a Impressora de Cartão de Acesso para imprimir uma chave do cofre",
+        "pt-BR": "Use a Impressora de Cartão de Acesso para imprimir uma chave do cofre",
+        "ru": "Используйте принтер карт доступа, чтобы создать карту к сейфу.",
+        "sr": "Koristi štampač pristupnih kartica za štampanje ključa sefa",
+        "tr": "Erişim Kartı Yazıcısı'nı kullanarak kasaya anahtar yazdır",
+        "uk": "Використайте принтер карток доступу, щоб надрукувати ключ до сейфа",
+        "zh-CN": "使用门禁卡打印机打印保险柜钥匙",
+        "zh-TW": "使用門禁卡列印機列印保險箱的鑰匙"
+      },
+      {
+        "da": "Søg efter alternative måder at komme ind i pengeskabet",
+        "de": "Durchsuche den Raum nach alternativen Möglichkeiten, um den Safe zu öffnen.",
+        "en": "Search for alternate ways into the safe",
+        "es": "Registra la sala para encontrar otra forma de acceder a la caja fuerte.",
+        "fr": "Fouiller la pièce pour trouver d'autres moyens d'accéder au coffre-fort",
+        "he": "חפש דרכים חלופיות להיכנס לכספת",
+        "hr": "Potraži alternativne načine za pristup sefu",
+        "it": "Cerca nella stanza eventuali modi alternativi di accedere alla cassaforte",
+        "ja": "金庫に入る別の方法を部屋の中で見つけた",
+        "ko-KR": "금고로 들어갈 다른 길 수색하기",
+        "no": "Let etter alternative måter å komme inn i pengeskapet",
+        "pl": "Poszukaj w pomieszczeniu alternatywnego sposobu na dostanie się do sejfu",
+        "pt": "Vasculhe a sala em busca de outras formas de acessar o cofre",
+        "pt-BR": "Vasculhe a sala em busca de outras formas de acessar o cofre",
+        "ru": "Поищите в комнате альтернативные способы вскрыть сейф.",
+        "sr": "Potraži alternativne načine za pristup sefu",
+        "tr": "Kasayı açmak için farklı bir yol bulmak adına odayı ara",
+        "uk": "Пошукайте альтернативні способи відкрити сейф",
+        "zh-CN": "在房间内搜寻进入保险柜的其它方法",
+        "zh-TW": "搜索房間，尋找是否有打開保險箱的替代方式"
+      },
+      {
+        "da": "Hent indholdet af pengeskabet",
+        "de": "Hol dir den Inhalt des Safes.",
+        "en": "Retrieve the contents of the safe",
+        "es": "Recupera el contenido de la caja fuerte.",
+        "fr": "Récupérer le contenu du coffre",
+        "he": "אחזר את תוכן הכספת",
+        "hr": "Preuzmi sadržaj sefa",
+        "it": "Recupera i contenuti della cassaforte",
+        "ja": "金庫の中身を回収した",
+        "ko-KR": "금고 안의 내용물 회수하기",
+        "no": "Hent innholdet i pengeskapet",
+        "pl": "Zdobądź zawartość sejfu",
+        "pt": "Recupere o conteúdo do cofre",
+        "pt-BR": "Recupere o conteúdo do cofre",
+        "ru": "Добудьте содержимое сейфа.",
+        "sr": "Preuzmi sadržaj sefa",
+        "tr": "Kasanın içindekileri al",
+        "uk": "Дістаньте вміст сейфа",
+        "zh-CN": "取回保险柜内的物品",
+        "zh-TW": "取回保險箱中的內容物"
+      },
+      {
+        "da": "Aflever Projekt Heartwood-tegningerne til Tian Wen",
+        "de": "Übergib Tian Wen die Baupläne für Projekt Immergrün.",
+        "en": "Deliver the Project Heartwood Blueprints to Tian Wen",
+        "es": "Entrégale los proyectos del proyecto Perenne a Tian Wen.",
+        "fr": "Livrer les plans du Projet Persistance à Tian Wen",
+        "he": "מסור את תוכניות פרויקט Heartwood לטיאן וון",
+        "hr": "Dostavi nacrte Projekta Heartwood Tian Wenu",
+        "it": "Porta i progetti dell'Evergreen a Tian Wen",
+        "ja": "ティアン・ウェンにプロジェクト・エバーグリーンの設計図を届けた",
+        "ko-KR": "티안 웬에게 에버그린 프로젝트 설계도 전달하기",
+        "no": "Lever Prosjekt Heartwood-tegningene til Tian Wen",
+        "pl": "Dostarcz Tian Wen plany „Projektu Niezawodność”",
+        "pt": "Entregue os Esquemas do Projeto Perene para Tian Wen",
+        "pt-BR": "Entregue os Esquemas do Projeto Perene para Tian Wen",
+        "ru": "Доставьте Тянь Вэнь чертежи проекта «Вечная зелень».",
+        "sr": "Dostavi nacrte Projekta Heartwood Tian Venu",
+        "tr": "Tian Wen'e Project Evergreen Taslakları'nı teslim et",
+        "uk": "Доставте Тянь Вень креслення Проєкту Heartwood",
+        "zh-CN": "将“常青计划”蓝图交给天玟",
+        "zh-TW": "將長青計畫藍圖送去給田文"
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "seeker_grenade",
+        "quantity": 5
+      },
+      {
+        "itemId": "lure_grenade",
+        "quantity": 5
+      },
+      {
+        "itemId": "snap_hook",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "with_a_view"
+    ],
+    "nextQuestIds": [],
+    "updatedAt": "02/24/2026"
+  },
+  {
     "id": "ss10j",
     "name": {
       "da": "Rene Linjer",
@@ -8801,7 +9620,6 @@
       "zh-CN": "“第一波”期间，我们小队在大坝边上设了一个陷阱，就是把发电机超载，当成临时的ARC诱捕器。现在听说奇袭者之间用它来切断通讯打伏击。你帮我去毁了它。",
       "zh-TW": "第一波期間，我和我的小隊在大壩那裡設下了陷阱。我們讓一台發電機過載，把它改造成臨時的ARC陷阱。現在我聽說有掠手用它來切斷通訊來對彼此發動埋伏。我需要你去解除那個陷阱。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Nå frem til Victory Ridge",
@@ -8953,7 +9771,7 @@
     "nextQuestIds": [
       "ss10o"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10x7",
@@ -9075,25 +9893,25 @@
     "id": "the_clean_dream",
     "name": {
       "da": "Den Rene Drøm",
-      "de": "Der reine Traum",
+      "de": "Der saubere Traum",
       "en": "The Clean Dream",
-      "es": "El Sueño Limpio",
-      "fr": "Le rêve propre",
+      "es": "Sueños destilados",
+      "fr": "Le rêve immaculé",
       "he": "החלום הנקי",
       "hr": "Čisti san",
-      "it": "Il Sogno Pulito",
-      "ja": "クリーンドリーム",
+      "it": "Il sogno puro",
+      "ja": "綺麗な夢",
       "ko-KR": "깨끗한 꿈",
       "no": "Den rene drømmen",
-      "pl": "Czysty Sen",
-      "pt": "O Sonho Limpo",
-      "pt-BR": "O Sonho Limpo",
-      "ru": "Чистая мечта",
+      "pl": "Czysty sen",
+      "pt": "Sonho Limpo",
+      "pt-BR": "Sonho Limpo",
+      "ru": "Чистый сон",
       "sr": "Čist san",
-      "tr": "Temiz Rüya",
+      "tr": "Saf Hayaller",
       "uk": "Чиста мрія",
       "zh-CN": "净梦计划",
-      "zh-TW": "清潔夢想"
+      "zh-TW": "純淨之夢"
     },
     "map": [
       "the_spaceport",
@@ -9128,7 +9946,6 @@
       "zh-CN": "知道我最近梦到什么吗？会说话的水蒸馏器！这就离谱。但说真的，如果有更纯净的化合物，我就能造出更带劲的炸药！够意思吧？",
       "zh-TW": "知道我最近想要什麼嗎？一台會講話的水蒸餾器！很瘋狂對吧？不過說正經的，如果手邊有更純淨的化合物，我就能製作出威力更強大的爆裂物了！那肯定很棒，對吧？"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "På Rumhavnen, gennemsøg 4 containere i de underjordiske tunneller",
@@ -9260,9 +10077,10 @@
       "ss11bx"
     ],
     "nextQuestIds": [
+      "keeping_an_eye_out",
       "a_prime_specimen"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "the_league",
@@ -9292,6 +10110,16 @@
       "dam_battlegrounds"
     ],
     "trader": "Apollo",
+    "requiredItemIds": [
+      {
+        "itemId": "deflated_football",
+        "quantity": 1
+      },
+      {
+        "itemId": "bicycle_pump",
+        "quantity": 1
+      }
+    ],
     "grantedItemIds": [
       {
         "itemId": "yellow_light_stick",
@@ -9429,7 +10257,7 @@
       "ss8b"
     ],
     "nextQuestIds": [],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10u",
@@ -9459,6 +10287,12 @@
       "dam_battlegrounds"
     ],
     "trader": "Tian Wen",
+    "requiredItemIds": [
+      {
+        "itemId": "major_aivas_mementos",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Jeg har et andet job. Det handler... om min mor. De First Wave-steder, jeg sendte dig til før? Jeg håbede faktisk, du ville finde noget af min mors. Hun kæmpede i Raider-modstanden. Det var et langt skud; men nu har jeg et faktisk spor.",
       "de": "Ich hab noch einen Job für dich, aber diesmal geht es um meine Mutter.\r\n\r\nDiese Stätten der Ersten Welle, zu denen ich dich geschickt hab? Ich hatte gehofft, du würdest dort etwas finden, das einst meiner Mutter gehörte. Sie hat im Raider-Widerstand gekämpft. Es war ein Schuss ins Blaue, aber jetzt habe ich tatsächlich eine Spur.",
@@ -9541,7 +10375,7 @@
     "nextQuestIds": [
       "ss10w"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss7",
@@ -9715,6 +10549,12 @@
       "buried_city"
     ],
     "trader": "Celeste",
+    "requiredItemIds": [
+      {
+        "itemId": "experimental_seed_sample",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Vi er heldige. De notater, du fandt sidste gang, var skrevet af den ledende forsker. Da projektet gik ned, ser det ud til, at hun tog nogle af frøprøverne og forseglede dem på et sikkert sted.",
       "de": "Wir haben Glück. Die Notizen, die du letztes Mal gefunden hast, sind von der Forschungsleiterin. Als das Aus für das Projekt kam, hat sie anscheinend einige Saatgutproben beiseitegeschafft und an einem sicheren Ort versteckt.",
@@ -9819,7 +10659,7 @@
     "nextQuestIds": [
       "ss10x4"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "the_stench_of_corruption",
@@ -10036,6 +10876,20 @@
       "dam_battlegrounds"
     ],
     "trader": "Shani",
+    "requiredItemIds": [
+      {
+        "itemId": "wasp_driver",
+        "quantity": 2
+      },
+      {
+        "itemId": "hornet_driver",
+        "quantity": 2
+      },
+      {
+        "itemId": "snitch_scanner",
+        "quantity": 2
+      }
+    ],
     "grantedItemIds": [
       {
         "itemId": "remote_raider_flare",
@@ -10219,7 +11073,7 @@
     "nextQuestIds": [
       "ss10b"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss3",
@@ -10240,7 +11094,7 @@
       "pt-BR": "Do lixo ao tesouro",
       "ru": "И хлам богатство",
       "sr": "Od smeća do blaga",
-      "tr": "Çöpten Ganimet",
+      "tr": "Çöpten Ganimete",
       "uk": "Сміття на скарб",
       "zh-CN": "变废为宝",
       "zh-TW": "將垃圾化為寶藏"
@@ -10347,7 +11201,7 @@
     "nextQuestIds": [
       "ss4"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10x15",
@@ -10374,6 +11228,12 @@
       "zh-TW": "向托雷多致敬"
     },
     "trader": "Celeste",
+    "requiredItemIds": [
+      {
+        "itemId": "power_rod",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Den Officielle Toledo Tubes-ledelse kræver en af vores Power Rods for brug af ”deres” Slingshot-rør. Lad dig ikke narre af navnet, de er på ingen måde officielle; bare bøller med masser af magt. Kan du hjælpe mig med det her?",
       "de": "Toledos „Offizielle U-Bahn-Verwaltung“ verlangt einen unserer Energiestäbe, um damit „ihre“ Schleudern zu betreiben. Lass dich von dem Namen nicht täuschen: Die sind kein Stück offiziell, sondern Schlägertypen, die gerade am Drücker sind. Hilfst du mir bei der Sache?",
@@ -10393,7 +11253,7 @@
       "sr": "Official Toledo Tubes Management zahteva jednu od naših Energetskih šipki za korišćenje „njihovih” Slingshot cevi. Ne daj da te ime zavara, oni nisu nimalo zvanični; samo siledžije sa mnogo moći. Možeš li mi pomoći oko ovoga?",
       "tr": "Resmî Toledo Boruları Yönetimi, Sapan borularını kullanmak için güç bağlantılarımızdan birini istiyor. Adı seni aldatmasın, resmiyetten çok uzaklar, çok güçlü eşkıyalar sadece. Bu konuda bana yardım edebilir misin?",
       "uk": "«Офіційне керівництво трубами Toledo» вимагає один із наших Силових стрижнів за користування «їхніми» Пусковими трубами. Не дай назві себе обдурити, вони зовсім не офіційні; просто бандити, що мають велику владу. Допоможеш мені з цим?",
-      "zh-CN": "托雷多暗道官方管理层要求我们提供一根电棍，以供他们使用“自己的”弹射管道。不要被他们的名字骗了，他们根本不是什么官方，只是一群手握大权的恶霸。能帮我解决这个问题吗？",
+      "zh-CN": "托雷多暗道官方管理层要求我们提供一根能量管，以供他们使用“自己的”弹射管道。不要被他们的名字骗了，他们根本不是什么官方，只是一群手握大权的恶霸。能帮我解决这个问题吗？",
       "zh-TW": "官方托雷多運輸管管理部門要求我們提供一根電源棒，給「他們的」彈弓運輸管使用。別被這名稱誤導了，他們根本不是官方人員；只是一群手握大權的暴徒。你能幫我嗎？"
     },
     "objectives": [
@@ -10416,7 +11276,7 @@
         "sr": "Nabavi Energetsku šipku za Celeste",
         "tr": "Celeste için bir güç bağlantısı bul",
         "uk": "Здобудьте Силовий стрижень для Celeste",
-        "zh-CN": "帮塞莱斯特找到一根电棍",
+        "zh-CN": "帮塞莱斯特找到一根能量管",
         "zh-TW": "為莎莉絲特取得電源棒"
       }
     ],
@@ -10441,7 +11301,7 @@
     "nextQuestIds": [
       "ss10x16"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss10x17",
@@ -10499,7 +11359,6 @@
       "zh-CN": "我有个计划。如果能抢在OTTM之前找到对他们不利的证据，或许就能一劳永逸地摆脱他们的纠缠。",
       "zh-TW": "我有個計畫。如果我們能搶在OTTM之前拿到證據，就有機會一口氣徹底擺脫他們了。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Tag til North Trench Tower",
@@ -10561,7 +11420,7 @@
       "ss10x16"
     ],
     "nextQuestIds": [],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10q",
@@ -10591,6 +11450,16 @@
       "buried_city"
     ],
     "trader": "Tian Wen",
+    "requiredItemIds": [
+      {
+        "itemId": "nutrient_meter",
+        "quantity": 1
+      },
+      {
+        "itemId": "moisture_meter",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Jeg er ved at lave et drivhus for at øge vores madproduktion. Jeg gør Celeste en tjeneste, okay? Det er bare det. Men nok om det. Jeg har styr på alle detaljerne, men jeg får brug for forsyninger, og jeg slæber dem ikke alene.",
       "de": "Ich baue ein Gewächshaus, um unsere Nahrungsproduktion zu erhöhen. Ich tue Celeste nur einen Gefallen, mehr nicht. Aber genug davon. Ich hab die Details ausgearbeitet, aber ich brauche Vorräte, und die kann ich nicht alleine schleppen.",
@@ -10613,6 +11482,7 @@
       "zh-CN": "我正在搭建一个温室，以帮助提高食物产量。我这是在帮塞莱斯特一个忙，仅此而已。不过不说这个了。我已经规划好了所有细节，但需要物资，而且单凭我一个人可搞不来。",
       "zh-TW": "我正在設立溫室，以幫助提升食物產量。我只是在幫莎莉絲特的忙，好嗎？僅此而已。但別再說這個了。我搞定了所有細節，但是需要一些物資，而且我才不要一個人去搬回來。"
     },
+    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Nå frem til Grandioso Apartments i Buried City",
@@ -10769,7 +11639,7 @@
     "nextQuestIds": [
       "ss10r"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "ss10x2",
@@ -10967,24 +11837,24 @@
     "objectives": [
       {
         "da": "Find oversvømmelsestunnelen under Red Lake Balcony",
-        "de": "Den Hochwasserzugangstunnel unter dem Balkon „Rote Seen“ finden",
+        "de": "Finde den Hochwasserzugangstunnel unter dem Balkon an den Roten Seen.",
         "en": "Locate the Flood Access Tunnel under the Red Lake Balcony",
         "es": "Encuentra el túnel de acceso para inundaciones debajo del balcón de los lagos rojos",
-        "fr": "Localiser le Tunnel d'évacuation sous le Plateau des lacs rouges",
+        "fr": "Localiser le Tunnel d'évacuation sous le plateau du Lac rouge",
         "he": "אתר את מנהרת הגישה להצפה מתחת ל-Red Lake Balcony",
         "hr": "Lociraj pristupni tunel za poplave ispod Red Lake Balconyja",
-        "it": "Trova il tunnel di accesso alluvione sotto il Balcone Laghi rossi",
+        "it": "Trova il tunnel di accesso alluvione sotto la terrazza dei Laghi rossi",
         "ja": "赤い池のバルコニーの下にある浸水時の地下通路を見つけた",
         "ko-KR": "붉은 호수 발코니 아래 범람수 터널 찾기",
         "no": "Finn Flood Access Tunnel under Red Lake Balcony",
-        "pl": "Znajdź tunel dostępu przeciwpowodziowego pod Balkonem nad Jeziorami Czerwonymi",
-        "pt": "Localize o Túnel de Acesso de Inundação sob a Varanda dos Lagos Vermelhos",
-        "pt-BR": "Localize o Túnel de Acesso de Inundação sob a Varanda dos Lagos Vermelhos",
-        "ru": "Найдите туннель к переливу под Балконом Алых озер.",
+        "pl": "Znajdź tunel dostępu przeciwpowodziowego pod balkonem nad Jeziorem Czerwonym",
+        "pt": "Localize o Túnel de Acesso de Inundação sob a Varanda do Lago Vermelho",
+        "pt-BR": "Localize o Túnel de Acesso de Inundação sob a Varanda do Lago Vermelho",
+        "ru": "Найдите туннель к переливу под балконом у Красного озера.",
         "sr": "Lociraj tunel za kontrolu poplava ispod Red Lake Balcony",
-        "tr": "Kızıl Göller Balkonu'nun altındaki Taşkın Erişimi Tüneli'ni bul",
+        "tr": "Kızıl Göl Balkonu'nun altındaki Taşkın Erişimi Tüneli'ni bul",
         "uk": "Знайдіть протипаводковий тунель під Red Lake Balcony",
-        "zh-CN": "找到红湖阳台下面的泄洪隧道",
+        "zh-CN": "找到红湖观景台下面的泄洪隧道",
         "zh-TW": "找到紅湖陽台下的洩洪隧道"
       },
       {
@@ -11055,7 +11925,7 @@
       "ss10x5",
       "ss10x6"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ss8a",
@@ -11346,7 +12216,6 @@
       "zh-CN": "那台被击落的机器……不是我们干的。我们知道外面有零星流浪的幸存者，但这件事情……远远不是一个人能做到的。",
       "zh-TW": "那台被摧毀的機器…那不是我們幹的。我們確實知道上頭還有一些流浪的生還者，但如此程度的破壞？這絕對不是一個人就能做到的。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Nå frem til Barren Clearing",
@@ -11455,31 +12324,31 @@
       "ss10x20",
       "the_clean_dream"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/23/2026"
   },
   {
     "id": "with_a_view",
     "name": {
       "da": "Med udsigt",
-      "de": "Mit Aussicht",
+      "de": "Schöne Aussicht",
       "en": "With a View",
       "es": "Con vistas",
-      "fr": "Avec vue",
+      "fr": "Une vue imprenable",
       "he": "עם נוף",
       "hr": "S pogledom",
-      "it": "Con Vista",
-      "ja": "展望",
+      "it": "Con vista",
+      "ja": "いい景色",
       "ko-KR": "전망을 감상하며",
       "no": "Med utsikt",
-      "pl": "Z widokiem",
-      "pt": "Com Vista",
-      "pt-BR": "Com Vista",
+      "pl": "Z widokiem",
+      "pt": "Bela Vista",
+      "pt-BR": "Bela Vista",
       "ru": "С видом",
       "sr": "Sa pogledom",
       "tr": "Manzaralı",
       "uk": "З видом",
       "zh-CN": "风景如画",
-      "zh-TW": "帶景觀"
+      "zh-TW": "目的明確"
     },
     "map": [
       "stella_montis"
@@ -11488,6 +12357,10 @@
     "requiredItemIds": [
       {
         "itemId": "rotary_encoder",
+        "quantity": 1
+      },
+      {
+        "itemId": "ion_sputter",
         "quantity": 1
       }
     ],
@@ -11513,7 +12386,6 @@
       "zh-CN": "有没有注意过那些划过天际的流光？\r\n\r\n我见过太多，已经无法相信它们是自然现象，但要说服塞莱斯特，仅凭直觉可不够。",
       "zh-TW": "你有注意過那些在空中快速閃過的光線嗎？\r\n\r\n我看過太多怪事了，覺得那不可能是自然現象，但要說服莎莉絲特的話，只憑直覺作為根據是不夠的。"
     },
-    "objectivesOneRound": true,
     "objectives": [
       {
         "da": "Skaf en Rotary Encoder",
@@ -11645,8 +12517,187 @@
       "12_snap_and_salvage"
     ],
     "nextQuestIds": [
+      "stable_housing",
       "movie_night"
     ],
-    "updatedAt": "02/20/2026"
+    "updatedAt": "02/24/2026"
+  },
+  {
+    "id": "worth_your_salt",
+    "name": {
+      "da": "Sit salt værd",
+      "de": "Dein Geld wert",
+      "en": "Worth Your Salt",
+      "es": "Con su sal y pimienta",
+      "fr": "Une pincée de sel",
+      "he": "שווה את המלח",
+      "hr": "Vrijedan soli",
+      "it": "Vale ogni granello di sale",
+      "ja": "給料に値する働き",
+      "ko-KR": "짭짤한 소금값",
+      "no": "Verdt saltet",
+      "pl": "Warte swojej ceny",
+      "pt": "Vale o que Custa",
+      "pt-BR": "Vale o que Custa",
+      "ru": "Мастер своего дела",
+      "sr": "Vredan soli",
+      "tr": "Tuzuna Değer",
+      "uk": "Вартий своєї солі",
+      "zh-CN": "电池的“盐”伸",
+      "zh-TW": "勝任職責"
+    },
+    "map": [
+      "the_spaceport"
+    ],
+    "trader": "Celeste",
+    "description": {
+      "da": "Jeg fandt notater om, at nogle elektroingeniører ved rumhavnen arbejdede på avancerede saltbaserede batterier. Hvis vi kan få fat i et, kan det måske forhindre fuldstændige strømsvigt næste gang et loft styrter ned.",
+      "de": "Ich hab Notizen gefunden, dass ein paar Elektroingenieure im Raumhafen an modernen Akkus auf Salzbasis gearbeitet haben. Wenn wir einen davon kriegen könnten, würde das vielleicht verhindern, dass es beim nächsten Einsturz der Decke zu einem totalen Stromausfall kommt.",
+      "en": "I found notes that some electrical engineers at the Spaceport were working on advanced, salt-based batteries. If we can get our hands on one, perhaps it’ll prevent full-scale power outages next time a ceiling comes crashing down.",
+      "es": "Encontré unas notas que decían que unos ingenieros eléctricos del Puerto espacial estaban desarrollando unas baterías de sal avanzadas. Si conseguimos agenciarnos una, quizá podamos evitar apagones generales cada vez que se viene abajo un techo.",
+      "fr": "J'ai trouvé des notes indiquant que certains ingénieurs électriciens du Port spatial travaillaient sur des batteries sophistiquées à base de sel. Si nous pouvons mettre la main sur l'une d'elles, cela évitera peut-être les pannes de courant totales la prochaine fois qu'un plafond s'effondrera.",
+      "he": "מצאתי רשימות שמהנדסי חשמל בנמל החלל עבדו על סוללות מלח מתקדמות. אם נצליח להשיג אחת, אולי זה ימנע הפסקות חשמל נרחבות בפעם הבאה שתקרה תתמוטט.",
+      "hr": "Našla sam bilješke da su neki elektrotehničari u Svemirskoj luci radili na naprednim baterijama na bazi soli. Ako uspijemo doći do jedne, možda će spriječiti potpuni nestanak struje kad se sljedeći put sruši strop.",
+      "it": "Ho trovato degli appunti di alcuni ingegneri elettronici allo Spazioporto che lavoravano a delle batterie al sale avanzate. Se riusciamo a mettere le mani su una, forse impedirà grosse interruzioni di corrente la prossima volta che un soffitto crolla.",
+      "ja": "宇宙港の電気技師たちが先進的な塩電池の開発に取り組んでいるというメモを見つけた。もし手に入れることができたら、次に天井が崩落しても大規模な停電を防げるかもしれない。",
+      "ko-KR": "우주 기지의 어떤 전기 기술자들이 소금 기반의 첨단 배터리를 제작 중이었다는 기록을 발견했어요. 당신이 하나 구해다 준다면 다음에 천장이 무너져 내릴 땐 대규모 정전 사태는 막을 수 있을지도요.",
+      "no": "Jeg fant notater om at noen elektroingeniører ved Romhavnen jobbet med avanserte saltbaserte batterier. Hvis vi kan få tak i et, kan det kanskje forhindre fullstendig strømbrudd neste gang et tak raser sammen.",
+      "pl": "Znalazłam notatki, z których wynika, że inżynierowie elektryczni w porcie kosmicznym pracowali nad zaawansowanymi bateriami wykorzystującymi sól. Gdyby udało się nam zdobyć taką baterię, może zapobieglibyśmy całkowitym awariom prądu, gdy następnym razem sufit zawali się nam na głowę.",
+      "pt": "Achei anotações dizendo que uns engenheiros elétricos do Espaçoporto estavam trabalhando em baterias avançadas à base de sal. Se a gente conseguir uma, talvez isso evite apagões em massa da próxima vez que um teto desabar.",
+      "pt-BR": "Achei anotações dizendo que uns engenheiros elétricos do Espaçoporto estavam trabalhando em baterias avançadas à base de sal. Se a gente conseguir uma, talvez isso evite apagões em massa da próxima vez que um teto desabar.",
+      "ru": "Мне удалось выяснить, что электромеханики из космопорта работали над продвинутыми солевыми батареями. Если нам удастся раздобыть одну из них, то, возможно, это поможет предотвратить отключения энергии в следующий раз, когда потолок решит грохнуться нам на головы.",
+      "sr": "Našla sam beleške da su neki elektroinženjeri u Svemirskoj luci radili na naprednim baterijama na bazi soli. Ako uspemo da dođemo do jedne, možda će sprečiti potpuni nestanak struje kad se sledeći put sruši plafon.",
+      "tr": "Uzaylimanı'ndaki bazı elektrik mühendislerinin gelişmiş tuz bazlı piller üzerine çalıştığına dair notlar buldum. Pillerden birini bulabilirsek belki bir daha tavan çöktüğünde geniş çaplı güç kesintisi yaşanmasını önleyebilir.",
+      "uk": "Я знайшла записки про те, що деякі інженери-електрики на Космопорті працювали над просунутими сольовими батареями. Якщо ми зможемо дістати одну з них, можливо, це запобіжить масовим відключенням електроенергії, коли наступного разу завалиться стеля.",
+      "zh-CN": "我发现有记录提到，太空港的一些电气工程师曾经一直在研究更先进的盐基电池。如果能弄到一个，也许下次天花板塌下来时就能避免大规模停电了。",
+      "zh-TW": "我發現一些筆記提到，太空港有些電子工程師當時在製作先進的鹽式電池。要是我們能拿到一顆，或許它可以在下次天塌下來時防止全面停電。"
+    },
+    "objectivesOneRound": true,
+    "objectives": [
+      {
+        "da": "Gå til Raketsamlingen",
+        "de": "Gehe zur Raketenmontage.",
+        "en": "Go to the Rocket Assembly",
+        "es": "Ve al ensamblaje de cohetes.",
+        "fr": "Rejoindre le Site d'assemblage des fusées",
+        "he": "לך להרכבת הטילים",
+        "hr": "Idi do Montaže raketa",
+        "it": "Vai all'Assemblaggio razzi",
+        "ja": "ロケット組み立て場に行った",
+        "ko-KR": "로켓 조립소로 이동하기",
+        "no": "Gå til Rakettmonteringen",
+        "pl": "Udaj się do strefy montażu rakiet",
+        "pt": "Vá para a Montagem de Foguetes",
+        "pt-BR": "Vá para a Montagem de Foguetes",
+        "ru": "Идите в цех сбора ракет.",
+        "sr": "Idi do Montaže raketa",
+        "tr": "Roket Montajı'na git",
+        "uk": "Ідіть до Ракетного складального цеху",
+        "zh-CN": "前往火箭组装区",
+        "zh-TW": "前往火箭組裝區"
+      },
+      {
+        "da": "Søg efter den skjulte batteriprototype på et højt sted",
+        "de": "Suche den versteckten Akku-Prototyp an einem hohen Ort.",
+        "en": "Search for the hidden Battery Prototype in a high place",
+        "es": "Busca el prototipo de batería escondido en un sitio elevado.",
+        "fr": "Chercher le prototype de batterie caché en hauteur",
+        "he": "חפש את אב-טיפוס הסוללה החבוי במקום גבוה",
+        "hr": "Potraži skriveni prototip baterije na visokom mjestu",
+        "it": "Cerca il prototipo di batteria nascosto in un luogo elevato",
+        "ja": "高い場所に隠されたバッテリープロトタイプを探した",
+        "ko-KR": "높은 곳에 숨겨둔 배터리 시제품 찾기",
+        "no": "Let etter den skjulte batteriprototypen på et høyt sted",
+        "pl": "Poszukaj ukrytego prototypu baterii w wysoko położonym miejscu",
+        "pt": "Procure o Protótipo de Bateria escondido em um ponto elevado",
+        "pt-BR": "Procure o Protótipo de Bateria escondido em um ponto elevado",
+        "ru": "Найдите на высоте спрятанный прототип батареи.",
+        "sr": "Potraži skriveni prototip baterije na visokom mestu",
+        "tr": "Yüksek bir yerde Gizlenmiş Pil Prototipi'ni ara",
+        "uk": "Знайдіть схований прототип батареї на висоті",
+        "zh-CN": "在高处搜寻隐藏的电池原型",
+        "zh-TW": "在高處搜尋隱藏的電池試作品"
+      },
+      {
+        "da": "Bring batteriprototypen til den industrielle oplader",
+        "de": "Bringe den Akku-Prototyp zum industriellen Ladegerät.",
+        "en": "Bring the Battery Prototype to the Industrial Recharger",
+        "es": "Lleva el prototipo de batería al recargador industrial.",
+        "fr": "Apporter le prototype de batterie à la Recharge industrielle",
+        "he": "הבא את אב-טיפוס הסוללה למטען התעשייתי",
+        "hr": "Donesi prototip baterije do Industrijskog punjača",
+        "it": "Porta il prototipo di batteria al Ricaricatore industriale",
+        "ja": "バッテリープロトタイプを産業用充電器まで持っていった",
+        "ko-KR": "배터리 시제품을 산업용 충전기로 가져가기",
+        "no": "Bring batteriprototypen til den industrielle laderen",
+        "pl": "Zanieś prototyp baterii do ładowarki przemysłowej",
+        "pt": "Leve o Protótipo de Bateria ao Recarregador Industrial",
+        "pt-BR": "Leve o Protótipo de Bateria ao Recarregador Industrial",
+        "ru": "Принесите прототип батареи к промышленному заряднику.",
+        "sr": "Donesi prototip baterije do Industrijskog punjača",
+        "tr": "Pil Prototipi'ni Endüstriyel Yeniden Doldurma Aleti'ne getir",
+        "uk": "Принесіть прототип батареї до промислового зарядника",
+        "zh-CN": "把电池原型带到工业级充电器处",
+        "zh-TW": "把電池試作品放入工業充電器"
+      },
+      {
+        "da": "Brug maskineriet til at oplade batteriet",
+        "de": "Benutze das Gerät, um den Akku aufzuladen.",
+        "en": "Use the machinery to charge the battery",
+        "es": "Usa la maquinaria para cargar la batería.",
+        "fr": "Utiliser les machines pour recharger la batterie",
+        "he": "השתמש במכונות כדי לטעון את הסוללה",
+        "hr": "Koristi strojeve za punjenje baterije",
+        "it": "Utilizza il macchinario per caricare la batteria",
+        "ja": "機械を使ってバッテリーを充電した",
+        "ko-KR": "기계를 사용해 배터리 충전하기",
+        "no": "Bruk maskineriet til å lade batteriet",
+        "pl": "Użyj maszynerii, aby naładować baterię",
+        "pt": "Use o maquinário para carregar a bateria",
+        "pt-BR": "Use o maquinário para carregar a bateria",
+        "ru": "Используйте машины, чтобы зарядить батарею.",
+        "sr": "Koristi mašineriju za punjenje baterije",
+        "tr": "Pili doldurmak için makineyi kullan",
+        "uk": "Використайте обладнання, щоб зарядити батарею",
+        "zh-CN": "使用机器给电池充电",
+        "zh-TW": "使用機器來為電池充電"
+      },
+      {
+        "da": "Aflever det opladede batteri ved afleveringspunktet i hjørnet",
+        "de": "Bringe den aufgeladenen Akku zur Abgabestelle in der Ecke.",
+        "en": "Deliver the Charged Battery to the drop-off point in the corner",
+        "es": "Deja la batería cargada en el punto de entrega situado en la esquina.",
+        "fr": "Livrer la batterie chargée au point de dépôt dans le coin",
+        "he": "מסור את הסוללה הטעונה לנקודת המסירה בפינה",
+        "hr": "Dostavi napunjenu bateriju na točku predaje u kutu",
+        "it": "Porta la batteria carica al punto di consegna nell'angolo",
+        "ja": "充電済みバッテリーを隅の受け渡し場所まで届けた",
+        "ko-KR": "충전된 배터리를 구석의 인계지에 전달하기",
+        "no": "Lever det opladede batteriet til leveringspunktet i hjørnet",
+        "pl": "Dostarcz naładowaną baterię do miejsca zrzutu w rogu",
+        "pt": "Entregue a Bateria Carregada no ponto de entrega, no canto",
+        "pt-BR": "Entregue a Bateria Carregada no ponto de entrega, no canto",
+        "ru": "Доставьте заряженную батарею в условную точку в углу.",
+        "sr": "Dostavi napunjenu bateriju na tačku predaje u uglu",
+        "tr": "Doldurulmuş Pil'i köşedeki teslimat noktasına teslim et",
+        "uk": "Доставте заряджену батарею до пункту видачі в кутку",
+        "zh-CN": "将已充电的电池送到角落的投放点",
+        "zh-TW": "將充完電的電池運送到角落的交貨點"
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "vita_spray_blueprint",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "groundbreaking"
+    ],
+    "nextQuestIds": [
+      "on_deaf_ears"
+    ],
+    "updatedAt": "02/24/2026"
   }
 ]

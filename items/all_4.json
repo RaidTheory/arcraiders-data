@@ -98,6 +98,7 @@
       }
     },
     "craftBench": "weapon_bench",
+    "stationLevelRequired": 1,
     "recipe": {
       "metal_parts": 6,
       "wires": 1
@@ -109,7 +110,7 @@
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_i.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "muzzle_brake_ii_blueprint",
@@ -270,6 +271,7 @@
       "Burletta",
       "Stitcher"
     ],
+    "blueprintLocked": true,
     "effects": {
       "Reduced Horizontal Recoil": {
         "value": "20%",
@@ -319,6 +321,7 @@
       }
     },
     "craftBench": "weapon_bench",
+    "stationLevelRequired": 2,
     "recipe": {
       "mechanical_components": 2,
       "wires": 4
@@ -331,7 +334,7 @@
       "mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "muzzle_brake_iii_blueprint",
@@ -747,9 +750,10 @@
     "type": "Trinket",
     "rarity": "Common",
     "weightKg": 0.25,
+    "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/nutrient_meter.png",
-    "updatedAt": "02/06/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "oil",
@@ -815,54 +819,54 @@
   {
     "id": "old_world_books",
     "name": {
-      "en": "Old World Books",
-      "de": "Bücher der Alten Welt",
-      "pt": "Livros do Velho Mundo",
-      "fr": "Livres de l'Ancien Monde",
-      "zh-CN": "旧世界书籍",
-      "it": "Libri del Vecchio Mondo",
-      "hr": "Knjige Starog svijeta",
-      "es": "Libros del Viejo Mundo",
-      "he": "ספרי העולם הישן",
-      "zh-TW": "舊世界書籍",
-      "no": "Bøker fra den gamle verden",
-      "pl": "Książki ze Starego Świata",
-      "sr": "Knjige Starog sveta",
-      "uk": "Книги Старого світу",
-      "pt-BR": "Livros do Mundo Antigo",
-      "tr": "Eski Dünya Kitapları",
       "da": "Bøger fra Den Gamle Verden",
+      "de": "Bücher der Alten Welt",
+      "en": "Old World Books",
+      "es": "Libros del Viejo Mundo",
+      "fr": "Livres de l'Ancien Monde",
+      "he": "ספרי העולם הישן",
+      "hr": "Knjige Starog svijeta",
+      "it": "Libri del Vecchio Mondo",
       "ja": "旧世界の書物",
       "ko-KR": "구세계 서적",
-      "ru": "Книги Старого мира"
+      "no": "Bøker fra den gamle verden",
+      "pl": "Książki ze Starego Świata",
+      "pt": "Livros do Velho Mundo",
+      "pt-BR": "Livros do Mundo Antigo",
+      "ru": "Книги Старого мира",
+      "sr": "Knjige Starog sveta",
+      "tr": "Eski Dünya Kitapları",
+      "uk": "Книги Старого світу",
+      "zh-CN": "旧世界书籍",
+      "zh-TW": "舊世界書籍"
     },
     "description": {
-      "en": "The past survives in fragments, often dull or ordinary, yet priceless to the right person.",
-      "de": "Die Vergangenheit überdauert in Fragmenten, oft unscheinbar oder gewöhnlich, doch für die richtige Person unbezahlbar.",
-      "pt": "O passado sobrevive em fragmentos, muitas vezes banais ou comuns, mas inestimáveis para a pessoa certa.",
-      "fr": "Le passé survit par fragments, souvent ternes ou ordinaires, mais inestimables pour la bonne personne.",
-      "zh-CN": "往昔残存于碎片之中，往往平淡无奇，但对合适的人来说却是无价之宝。",
-      "it": "Il passato sopravvive in frammenti, spesso banali o ordinari, eppure inestimabili per la persona giusta.",
-      "hr": "Prošlost preživljava u fragmentima, često dosadnim ili običnim, a ipak neprocjenjivim pravoj osobi.",
-      "es": "El pasado sobrevive en fragmentos, a menudo aburridos u ordinarios, pero invaluables para la persona adecuada.",
-      "he": "העבר שורד ברסיסים, לרוב סתמיים או רגילים, אך יקרי ערך עבור האדם הנכון.",
-      "zh-TW": "過去以碎片的形式殘存，雖往往枯燥平凡，但對合適的人來說卻是無價之寶。",
-      "no": "Fortiden lever videre i fragmenter, ofte kjedelige eller hverdagslige, men likevel uvurderlige for rett person.",
-      "pl": "Przeszłość przetrwała we fragmentach, często nudnych lub zwyczajnych, lecz bezcennych dla odpowiedniej osoby.",
-      "sr": "Prošlost opstaje u fragmentima, često dosadnim ili običnim, ali neprocenjivim za pravu osobu.",
-      "uk": "Минуле збереглося у фрагментах, часто нудних або звичайних, проте безцінних для правильної людини.",
-      "pt-BR": "O passado sobrevive em fragmentos, muitas vezes enfadonhos ou comuns, mas inestimáveis para a pessoa certa.",
-      "tr": "Geçmiş, genellikle sıkıcı veya sıradan parçalar halinde hayatta kalır, ancak doğru kişi için paha biçilemezdir.",
       "da": "Fortiden overlever i brudstykker, ofte kedelige eller almindelige, men uvurderlige for den rette person.",
+      "de": "Die Vergangenheit überdauert in Fragmenten, oft unscheinbar oder gewöhnlich, doch für die richtige Person unbezahlbar.",
+      "en": "The past survives in fragments, often dull or ordinary, yet priceless to the right person.",
+      "es": "El pasado sobrevive en fragmentos, a menudo aburridos u ordinarios, pero invaluables para la persona adecuada.",
+      "fr": "Le passé survit par fragments, souvent ternes ou ordinaires, mais inestimables pour la bonne personne.",
+      "he": "העבר שורד ברסיסים, לרוב סתמיים או רגילים, אך יקרי ערך עבור האדם הנכון.",
+      "hr": "Prošlost preživljava u fragmentima, često dosadnim ili običnim, a ipak neprocjenjivim pravoj osobi.",
+      "it": "Il passato sopravvive in frammenti, spesso banali o ordinari, eppure inestimabili per la persona giusta.",
       "ja": "過去は断片として生き残っている。多くは退屈で平凡なものだが、然るべき者にとっては計り知れない価値がある。",
       "ko-KR": "과거는 파편으로 살아남아, 종종 따분하거나 평범해 보이지만 누군가에게는 값을 매길 수 없을 만큼 귀중합니다.",
-      "ru": "Прошлое сохраняется в фрагментах — часто скучных или обыденных, но бесценных для нужных людей."
+      "no": "Fortiden lever videre i fragmenter, ofte kjedelige eller hverdagslige, men likevel uvurderlige for rett person.",
+      "pl": "Przeszłość przetrwała we fragmentach, często nudnych lub zwyczajnych, lecz bezcennych dla odpowiedniej osoby.",
+      "pt": "O passado sobrevive em fragmentos, muitas vezes banais ou comuns, mas inestimáveis para a pessoa certa.",
+      "pt-BR": "O passado sobrevive em fragmentos, muitas vezes enfadonhos ou comuns, mas inestimáveis para a pessoa certa.",
+      "ru": "Прошлое сохраняется в фрагментах — часто скучных или обыденных, но бесценных для нужных людей.",
+      "sr": "Prošlost opstaje u fragmentima, često dosadnim ili običnim, ali neprocenjivim za pravu osobu.",
+      "tr": "Geçmiş, genellikle sıkıcı veya sıradan parçalar halinde hayatta kalır, ancak doğru kişi için paha biçilemezdir.",
+      "uk": "Минуле збереглося у фрагментах, часто нудних або звичайних, проте безцінних для правильної людини.",
+      "zh-CN": "往昔残存于碎片之中，往往平淡无奇，但对合适的人来说却是无价之宝。",
+      "zh-TW": "過去以碎片的形式殘存，雖往往枯燥平凡，但對合適的人來說卻是無價之寶。"
     },
     "type": "Trinket",
     "rarity": "Common",
+    "value": 0,
     "weightKg": 0.25,
     "stackSize": 1,
-    "value": 0,
     "imageFilename": "https://cdn.arctracker.io/items/old_world_books.png",
     "updatedAt": "02/05/2026"
   },
@@ -1079,6 +1083,7 @@
     "value": 7000,
     "weightKg": 7,
     "isWeapon": true,
+    "blueprintLocked": true,
     "effects": {
       "Ammo Type": {
         "value": "Medium Ammo",
@@ -1234,7 +1239,7 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "osprey_ii",
@@ -1474,7 +1479,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
@@ -1487,7 +1491,7 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "02/24/2026",
     "agility": 45.9,
     "damage": 45,
     "fireRate": 17.7,
@@ -1733,7 +1737,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 3
@@ -1746,7 +1749,7 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "02/24/2026",
     "agility": 45.9,
     "damage": 45,
     "fireRate": 17.7,
@@ -1992,7 +1995,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "advanced_mechanical_components": 3,
       "medium_gun_parts": 3
@@ -2005,7 +2007,7 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "02/24/2026",
     "agility": 45.9,
     "damage": 45,
     "fireRate": 17.7,
@@ -2116,6 +2118,7 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 0.5,
+    "blueprintLocked": true,
     "effects": {
       "Increased Equip Time": {
         "value": "20%",
@@ -2270,7 +2273,7 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/padded_stock.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "painted_box",
@@ -2433,6 +2436,7 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 1,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -2459,6 +2463,7 @@
       }
     },
     "craftBench": "utility_bench",
+    "stationLevelRequired": 3,
     "recipe": {
       "advanced_electrical_components": 2,
       "speaker_component": 4
@@ -2471,7 +2476,7 @@
       "advanced_electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/photoelectric_cloak.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "pilgrims_peak_security_code",
@@ -2494,7 +2499,7 @@
       "sr": "Bezbednosni kod Pilgrim's Peaka",
       "tr": "Pilgrim's Peak Güvenlik Kodu",
       "uk": "Код безпеки Пілгрімс Пік",
-      "zh-CN": "朝圣者之巅安全密码",
+      "zh-CN": "朝圣峰安全码",
       "zh-TW": "朝聖者之巔安全密碼"
     },
     "description": {
@@ -2579,9 +2584,8 @@
     "value": 60,
     "weightKg": 0.1,
     "stackSize": 50,
-    "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "playing_cards",
@@ -2826,6 +2830,39 @@
     "updatedAt": "01/09/2026"
   },
   {
+    "id": "possibly_toxic_plant",
+    "name": {
+      "da": "Muligvis giftig plante",
+      "de": "Möglicherweise giftige Pflanze",
+      "en": "Possibly Toxic Plant",
+      "es": "Planta posiblemente tóxica",
+      "fr": "Plante possiblement toxique",
+      "he": "צמח שעלול להיות רעיל",
+      "hr": "Moguće otrovna biljka",
+      "it": "Pianta forse tossica",
+      "ja": "有毒かもしれない植物",
+      "ko-KR": "독성이 있을 수 있는 식물",
+      "no": "Muligens giftig plante",
+      "pl": "Prawdopodobnie toksyczna roślina",
+      "pt": "Planta possivelmente tóxica",
+      "pt-BR": "Planta possivelmente tóxica",
+      "ru": "Возможно ядовитое растение",
+      "sr": "Možda otrovna biljka",
+      "tr": "Muhtemelen zehirli bitki",
+      "uk": "Можливо отруйна рослина",
+      "zh-CN": "可能有毒的植物",
+      "zh-TW": "可能有毒的植物"
+    },
+    "type": "Trinket",
+    "rarity": "Common",
+    "value": 0,
+    "weightKg": 0.5,
+    "stackSize": 1,
+    "questItem": true,
+    "imageFilename": "https://cdn.arctracker.io/items/possibly_toxic_plant.png",
+    "updatedAt": "02/23/2026"
+  },
+  {
     "id": "poster_of_natural_wonders",
     "name": {
       "da": "Plakat af naturens vidundere",
@@ -3019,7 +3056,7 @@
       "sr": "Energetski Kabl",
       "tr": "Güç Kablosu",
       "uk": "Силовий кабель",
-      "zh-CN": "電源線",
+      "zh-CN": "电源线",
       "zh-TW": "電力電纜"
     },
     "description": {
@@ -3112,6 +3149,7 @@
     "weightKg": 2,
     "stackSize": 3,
     "craftBench": "refiner",
+    "stationLevelRequired": 3,
     "recipe": {
       "advanced_electrical_components": 2,
       "arc_circuitry": 2
@@ -3124,7 +3162,7 @@
       "advanced_electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/power_rod.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "prickly_pear",
@@ -3247,6 +3285,59 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/processor.png",
     "updatedAt": "01/09/2026"
+  },
+  {
+    "id": "project_heartwood_blueprints",
+    "name": {
+      "da": "Projekt Heartwood-tegninger",
+      "de": "Projekt-Heartwood-Baupläne",
+      "en": "Project Heartwood Blueprints",
+      "es": "Planos del Proyecto Heartwood",
+      "fr": "Plans du Projet Heartwood",
+      "he": "שרטוטי פרויקט הארטווד",
+      "hr": "Nacrti za Projekt Heartwood",
+      "it": "Schemi del Progetto Heartwood",
+      "ja": "プロジェクト・ハートウッドの設計図",
+      "kr": "프로젝트 하트우드 설계도",
+      "no": "Prosjekt Heartwood-tegninger",
+      "pl": "Plany Projektu Heartwood",
+      "pt": "Plantas do Projeto Heartwood",
+      "pt-BR": "Plantas do Projeto Heartwood",
+      "ru": "Чертежи проекта «Хартвуд»",
+      "sr": "Nacrti projekta Heartwood",
+      "tr": "Project Heartwood Planları",
+      "uk": "Креслення проєкту Heartwood",
+      "zh-CN": "“芯木计划”蓝图",
+      "zh-TW": "心材計劃藍圖"
+    },
+    "description": {
+      "da": "Falmede tegninger til noget kaldet Projekt Heartwood. Hvad end det var, blev det aldrig bygget.",
+      "de": "Verblasste Baupläne für etwas namens Projekt Heartwood. Was auch immer es war, es wurde nie gebaut.",
+      "en": "Faded blueprints for something called Project Heartwood. Whatever it was, it never got built.",
+      "es": "Planos descoloridos de algo llamado Proyecto Heartwood. Fuera lo que fuera, nunca se construyó.",
+      "fr": "Des plans délavés pour quelque chose appelé Projet Heartwood. Quoi que ce fût, cela n'a jamais été construit.",
+      "he": "שרטוטים דהויים למשהו שנקרא פרויקט הארטווד. מה שזה לא היה, זה מעולם לא נבנה.",
+      "hr": "Izblijedjeli nacrti za nešto pod nazivom Projekt Heartwood. Što god to bilo, nikad nije izgrađeno.",
+      "it": "Schemi sbiaditi per qualcosa chiamato Progetto Heartwood. Qualsiasi cosa fosse, non è mai stata costruita.",
+      "ja": "プロジェクト・ハートウッドと呼ばれる何かの色あせた設計図。その正体は何であれ、建造されることはなかった。",
+      "kr": "프로젝트 하트우드라 불리는 무언가의 빛바랜 설계도입니다. 그게 무엇이었든, 결코 만들어지지는 않았습니다.",
+      "no": "Falmede tegninger av noe kalt Prosjekt Heartwood. Hva enn det var, ble det aldri bygget.",
+      "pl": "Wyblakłe plany czegoś zwanego Projektem Heartwood. Czymkolwiek to było, nigdy nie zostało zbudowane.",
+      "pt": "Plantas desbotadas de algo chamado Projeto Heartwood. O que quer que fosse, nunca foi construído.",
+      "pt-BR": "Plantas desbotadas de algo chamado Projeto Heartwood. Seja lá o que fosse, nunca foi construído.",
+      "ru": "Выцветшие чертежи чего-то под названием проект «Хартвуд». Что бы это ни было, оно так и не было построено.",
+      "sr": "Izbledeli nacrti za nešto što se zove projekat Heartwood. Šta god da je to bilo, nikada nije izgrađeno.",
+      "tr": "Project Heartwood denen bir şeyin solmuş planları. Her ne idiyse, asla inşa edilmemiş.",
+      "uk": "Вицвілі креслення чогось під назвою Проєкт Heartwood. Що б це не було, його так і не збудували.",
+      "zh-CN": "一项名为“芯木计划”的褪色蓝图。无论那是什么，它从未被建成过。",
+      "zh-TW": "一份名為「心材」計劃的褪色藍圖。無論那是什麼，它從未被建造出來。"
+    },
+    "type": "Trinket",
+    "rarity": "Common",
+    "value": 0,
+    "weightKg": 0,
+    "stackSize": 1,
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "projector",
@@ -3504,8 +3595,9 @@
     "type": "Recyclable",
     "rarity": "Legendary",
     "foundIn": "ARC",
-    "value": 13000,
+    "value": 11000,
     "weightKg": 10,
+    "stackSize": 1,
     "recyclesInto": {
       "magnetic_accelerator": 1,
       "power_rod": 1
@@ -3578,57 +3670,6 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/radio_relay.png",
     "updatedAt": "01/13/2026"
-  },
-  {
-    "id": "radio_renegade",
-    "name": {
-      "da": "Radiorenegat",
-      "de": "Radio-Rebell",
-      "en": "Radio Renegade",
-      "es": "Renegado de radio",
-      "fr": "Renégat Radio",
-      "he": "רדיו מורד",
-      "hr": "Radio odmetnik",
-      "it": "Rinnegato radio",
-      "ja": "ラジオレネゲード",
-      "ko-KR": "라디오 레니게이드",
-      "no": "Radiorenegat",
-      "pl": "Radiowy renegat",
-      "pt": "Renegado do rádio",
-      "pt-BR": "Renegado do Rádio",
-      "ru": "Радио-ренегат",
-      "sr": "Radio odmetnik",
-      "tr": "Radyo Asi",
-      "uk": "Радіо-ренегат",
-      "zh-CN": "无线电叛徒",
-      "zh-TW": "無線電叛徒"
-    },
-    "description": {
-      "da": "Et nyt kosmetisk element vil blive tilføjet til din samling.",
-      "de": "Ein neues Kosmetikitem wird deiner Sammlung hinzugefügt.",
-      "en": "A new cosmetic will be added to your collection.",
-      "es": "Se añadirá un nuevo cosmético a tu colección.",
-      "fr": "Un nouveau cosmétique sera ajouté à votre collection.",
-      "he": "פריט קוסמטי חדש יתווסף לאוסף שלך.",
-      "hr": "Novi kozmetički predmet bit će dodan u vašu kolekciju.",
-      "it": "Un nuovo cosmetico verrà aggiunto alla tua collezione.",
-      "ja": "新しいコスメティックがコレクションに追加されます。",
-      "ko-KR": "새로운 코스메틱이 컬렉션에 추가됩니다.",
-      "no": "Et nytt kosmetisk element vil bli lagt til samlingen din.",
-      "pl": "Nowy element kosmetyczny zostanie dodany do twojej kolekcji.",
-      "pt": "Um novo cosmético será adicionado à sua coleção.",
-      "pt-BR": "Um novo item cosmético será adicionado à sua coleção.",
-      "ru": "Новый косметический предмет будет добавлен в вашу коллекцию.",
-      "sr": "Novi kozmetički predmet biće dodat u vašu kolekciju.",
-      "tr": "Koleksiyonunuza yeni bir kozmetik eklenecek.",
-      "uk": "Новий косметичний предмет буде додано до вашої колекції.",
-      "zh-CN": "新的外观将加入您的收藏。",
-      "zh-TW": "新的外觀將加入您的收藏。"
-    },
-    "type": "Outfit",
-    "rarity": "Common",
-    "imageFilename": "https://cdn.arctracker.io/items/radio_renegade.png",
-    "updatedAt": "11/01/2025"
   },
   {
     "id": "radio",
@@ -3743,14 +3784,17 @@
     "value": 2000,
     "weightKg": 0.01,
     "stackSize": 1,
-    "craftBench": "utility_bench",
+    "craftBench": [
+      "utility_bench",
+      "in_raid"
+    ],
+    "stationLevelRequired": 2,
     "recipe": {
       "advanced_electrical_components": 1,
       "sensors": 3
     },
-    "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "raiders_refuge_security_code",
@@ -3987,7 +4031,7 @@
       "metal_parts": 4
     },
     "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "rattler_ii",
@@ -4158,7 +4202,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "metal_parts": 12
     },
@@ -4166,10 +4209,11 @@
       "metal_parts": 8
     },
     "upgradeCost": {
-      "mechanical_components": 2
+      "metal_parts": 10,
+      "rubber_parts": 10
     },
     "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-    "updatedAt": "12/16/2025",
+    "updatedAt": "02/24/2026",
     "agility": 54.8,
     "damage": 9,
     "fireRate": 33.3,
@@ -4369,7 +4413,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "mechanical_components": 3,
       "simple_gun_parts": 1
@@ -4378,11 +4421,11 @@
       "metal_parts": 12
     },
     "upgradeCost": {
-      "mechanical_components": 2,
+      "mechanical_components": 3,
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "rattler_iv",
@@ -4553,7 +4596,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "mechanical_components": 4,
       "simple_gun_parts": 2
@@ -4566,7 +4608,7 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-    "updatedAt": "12/16/2025",
+    "updatedAt": "02/24/2026",
     "agility": 54.8,
     "damage": 9,
     "fireRate": 33.3,
@@ -4625,6 +4667,7 @@
     "foundIn": "Residential",
     "value": 1000,
     "weightKg": 0.2,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -4657,7 +4700,7 @@
       "plastic_parts": 4
     },
     "imageFilename": "https://cdn.arctracker.io/items/recorder.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "red_coral_jewelry",
@@ -4820,6 +4863,7 @@
     "value": 150,
     "weightKg": 0.15,
     "stackSize": 5,
+    "blueprintLocked": true,
     "effects": {
       "Duration": {
         "value": "40s",
@@ -4880,7 +4924,7 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/red_light_stick.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "reinforced_reception_security_code",
@@ -5102,7 +5146,9 @@
     "value": 270,
     "weightKg": 0.2,
     "stackSize": 3,
+    "blueprintLocked": true,
     "craftBench": "utility_bench",
+    "stationLevelRequired": 1,
     "recipe": {
       "chemicals": 2,
       "rubber_parts": 4
@@ -5115,7 +5161,7 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/remote_raider_flare.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "renegade_i",
@@ -5300,7 +5346,7 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "renegade_ii",
@@ -5517,7 +5563,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
@@ -5530,7 +5575,7 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "02/24/2026",
     "agility": 55.8,
     "damage": 35,
     "fireRate": 21,
@@ -5753,7 +5798,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 3
@@ -5766,7 +5810,7 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "02/24/2026",
     "agility": 55.8,
     "damage": 35,
     "fireRate": 21,
@@ -5989,7 +6033,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "advanced_mechanical_components": 3,
       "medium_gun_parts": 3
@@ -6002,7 +6045,7 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "02/24/2026",
     "agility": 55.8,
     "damage": 35,
     "fireRate": 21,
@@ -6281,7 +6324,7 @@
       "sr": "Raketni pogon",
       "tr": "Roketçi Sürücüsü",
       "uk": "Драйвер ракетника",
-      "zh-CN": "火箭兵驱动器",
+      "zh-CN": "火箭手引擎",
       "zh-TW": "火箭兵驅動器"
     },
     "description": {
@@ -6309,18 +6352,18 @@
     "type": "Recyclable",
     "rarity": "Epic",
     "foundIn": "ARC",
-    "value": 5000,
+    "value": 3000,
     "weightKg": 1,
     "stackSize": 3,
     "recyclesInto": {
-      "advanced_electrical_components": 2,
+      "advanced_electrical_components": 1,
       "arc_alloy": 3
     },
     "salvagesInto": {
-      "arc_circuitry": 2
+      "arc_circuitry": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/rocketeer_driver.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "roots",
@@ -6612,9 +6655,8 @@
     "value": 1000,
     "weightKg": 0.3,
     "stackSize": 15,
-    "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/rubber_duck.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "rubber_pad",
@@ -6672,10 +6714,10 @@
       "rubber_parts": 18
     },
     "salvagesInto": {
-      "rubber_parts": 9
+      "rubber_parts": 12
     },
     "imageFilename": "https://cdn.arctracker.io/items/rubber_pad.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "rubber_parts",
@@ -6729,9 +6771,8 @@
     "value": 50,
     "weightKg": 0.1,
     "stackSize": 50,
-    "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/rubber_parts.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ruined_accordion",
@@ -6851,8 +6892,11 @@
       "plastic_parts": 2,
       "rubber_parts": 2
     },
+    "salvagesInto": {
+      "plastic_parts": 3
+    },
     "imageFilename": "https://cdn.arctracker.io/items/ruined_augment.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "ruined_baton",
@@ -7398,6 +7442,7 @@
     "foundIn": "Mechanical",
     "value": 1000,
     "weightKg": 2,
+    "stackSize": 3,
     "recyclesInto": {
       "metal_parts": 8,
       "steel_spring": 1
@@ -7406,7 +7451,7 @@
       "metal_parts": 7
     },
     "imageFilename": "https://cdn.arctracker.io/items/rusted_tools.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "rusty_arc_steel",
@@ -7810,12 +7855,12 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "foundIn": "ARC",
-    "value": 3000,
+    "value": 2000,
     "weightKg": 1,
     "stackSize": 3,
     "recyclesInto": {
       "arc_alloy": 2,
-      "mechanical_components": 3
+      "mechanical_components": 2
     },
     "salvagesInto": {
       "mechanical_components": 2
@@ -7875,6 +7920,11 @@
     "value": 1000,
     "weightKg": 0.2,
     "stackSize": 1,
+    "craftBench": "in_raid",
+    "recipe": {
+      "assorted_seeds": 7,
+      "canister": 1
+    },
     "recyclesInto": {
       "plastic_parts": 10
     },
@@ -7882,7 +7932,7 @@
       "plastic_parts": 4
     },
     "imageFilename": "https://cdn.arctracker.io/items/shaker.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "shield_recharger",
@@ -8011,6 +8061,7 @@
       "med_station",
       "in_raid"
     ],
+    "stationLevelRequired": 1,
     "recipe": {
       "arc_powercell": 1,
       "rubber_parts": 5
@@ -8022,7 +8073,7 @@
       "rubber_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/shield_recharger.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "shotgun_ammo",
@@ -8081,12 +8132,13 @@
       "Vulcano"
     ],
     "craftBench": "workbench",
+    "stationLevelRequired": 1,
     "recipe": {
       "chemicals": 2,
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/shotgun_ammo.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "shotgun_choke_i",
@@ -8164,6 +8216,7 @@
       }
     },
     "craftBench": "weapon_bench",
+    "stationLevelRequired": 1,
     "recipe": {
       "metal_parts": 6,
       "wires": 1
@@ -8175,7 +8228,7 @@
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/shotgun_choke_i.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "shotgun_choke_ii_blueprint",
@@ -8683,7 +8736,7 @@
       "sr": "Showstopper Nacrt",
       "tr": "Efsane Taslağı",
       "uk": "Креслення Шоустопер",
-      "zh-CN": "表演终结者 蓝图",
+      "zh-CN": "耀眼明星蓝图",
       "zh-TW": "表演終結者 藍圖"
     },
     "description": {
@@ -8736,7 +8789,7 @@
       "sr": "Showstopper",
       "tr": "Efsane",
       "uk": "Шоустопер",
-      "zh-CN": "表演终结者",
+      "zh-CN": "耀眼明星",
       "zh-TW": "表演終結者"
     },
     "description": {
@@ -8763,13 +8816,13 @@
     },
     "type": "Quick Use",
     "rarity": "Rare",
-    "value": 2200,
+    "value": 2100,
     "weightKg": 0.4,
     "stackSize": 5,
     "blueprintLocked": true,
     "effects": {
       "ARC Stun Duration": {
-        "value": "10s",
+        "value": "7s",
         "da": "ARC bedøvelsesvarighed",
         "de": "ARC-Betäubungsdauer",
         "en": "ARC Stun Duration",
@@ -8841,131 +8894,18 @@
     "craftBench": "explosives_bench",
     "stationLevelRequired": 3,
     "recipe": {
-      "advanced_electrical_components": 1,
+      "electrical_components": 1,
+      "hornet_driver": 1,
       "voltage_converter": 1
     },
     "recyclesInto": {
-      "battery": 2,
+      "electrical_components": 1,
+      "voltage_converter": 1
+    },
+    "salvagesInto": {
       "electrical_components": 1
     },
-    "salvagesInto": {
-      "battery": 2
-    },
     "imageFilename": "https://cdn.arctracker.io/items/showstopper.png",
-    "updatedAt": "01/09/2026"
-  },
-  {
-    "id": "shrapnel_grenade",
-    "name": {
-      "da": "Splintgranat",
-      "de": "Schrapnellgranate",
-      "en": "Shrapnel Grenade",
-      "es": "Granada de metralla",
-      "fr": "Grenade à Éclats",
-      "he": "רימון רסס",
-      "hr": "Šrapnel Granata",
-      "it": "Granata a frammentazione",
-      "ja": "シャープネル・グレネード",
-      "ko-KR": "파편 수류탄",
-      "no": "Splintgranat",
-      "pl": "Granat odłamkowy",
-      "pt": "Granada de estilhaços",
-      "pt-BR": "Granada de Estilhaços",
-      "ru": "Осколочная граната",
-      "sr": "Šrapnel Granata",
-      "tr": "Şarapnel Bombası",
-      "uk": "Осколкова граната",
-      "zh-CN": "破片手榴弹",
-      "zh-TW": "破片手榴彈"
-    },
-    "description": {
-      "da": "En improviseret tændgranat der sprænges i barberbladskarpe fragmenter ved detonation. Svag mod ARC-pansring",
-      "de": "Eine improvisierte Zündgranate, die bei Detonation in messerscharfe Fragmente zerbirst. Schwach gegen ARC-Panzerung.",
-      "en": "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation. Weak against ARC armor plating",
-      "es": "Una granada de mecha improvisada que estalla en fragmentos afilados al detonar. Débil contra el blindaje ARC",
-      "fr": "Une grenade à fusée artisanale qui éclate en fragments tranchants lors de la détonation. Faible contre le blindage ARC",
-      "he": "רימון מנגנון מאולתר שמתנפץ לרסיסים חדים כתער בעת הפיצוץ. חלש נגד לוחות השריון של ARC",
-      "hr": "Improvizirana granata s upaljačem koja pri detonaciji puca oštrim fragmentima. Slaba protiv ARC oklopnih ploča",
-      "it": "Una granata a miccia improvvisata che esplode in frammenti affilati alla detonazione. Debole contro la corazza ARC",
-      "ja": "爆発時に鋭利な破片を飛散させる即席信管グレネード。ARCの装甲板には効果が薄い",
-      "ko-KR": "폭발 시 날카로운 파편으로 터지는 임시 신관 수류탄. 아크 장갑판에는 약함",
-      "no": "En provisorisk tenngranat som sprekker opp i knivskarp fragmenter ved detonasjon. Svak mot ARC-panser",
-      "pl": "Prowizoryczny granat zapalnikowy, który rozpryskuje się na ostre jak brzytwa odłamki po detonacji. Słaby przeciwko pancerzowi ARC",
-      "pt": "Uma granada de fusível improvisada que explode em fragmentos afiados na detonação. Fraca contra blindagem ARC",
-      "pt-BR": "Granada de Espoleta improvisada que se fragmenta em estilhaços cortantes ao detonar. Fraca contra blindagem da ARC",
-      "ru": "Самодельная граната с запалом, разрывающаяся на острые осколки при взрыве. Слаба против брони ARC",
-      "sr": "Improvizirana granata sa upaljačem koja pri detonaciji puca oštrim fragmentima. Slaba protiv ARC oklopnih ploča",
-      "tr": "Patladığında keskin parçalara ayrılan derme çatma fitilli bomba. ARC zırh kaplamasına karşı zayıf",
-      "uk": "Саморобна граната з запалом, що розривається на гострі осколки при вибуху. Слабка проти броні ARC",
-      "zh-CN": "一种简易引信手榴弹，爆炸时会迸发出锋利的碎片。对ARC装甲板效果较弱",
-      "zh-TW": "一種簡易引信手榴彈，爆炸時會迸發出鋒利的碎片。對ARC裝甲板效果較弱"
-    },
-    "type": "Quick Use",
-    "rarity": "Uncommon",
-    "value": 800,
-    "weightKg": 0.15,
-    "stackSize": 5,
-    "effects": {
-      "Damage": {
-        "value": 60,
-        "da": "Skade",
-        "de": "Schaden",
-        "en": "Damage",
-        "es": "Daño",
-        "fr": "Dégâts",
-        "he": "נזק",
-        "hr": "Šteta",
-        "it": "Danni",
-        "ja": "ダメージ",
-        "ko-KR": "피해",
-        "no": "Skade",
-        "pl": "Obrażenia",
-        "pt": "Dano",
-        "pt-BR": "Dano",
-        "ru": "Урон",
-        "sr": "Šteta",
-        "tr": "Hasar",
-        "uk": "Шкода",
-        "zh-CN": "伤害",
-        "zh-TW": "傷害"
-      },
-      "Radius": {
-        "value": "6m",
-        "da": "Radius",
-        "de": "Radius",
-        "en": "Radius",
-        "es": "Radio",
-        "fr": "Rayon",
-        "he": "רדיוס",
-        "hr": "Radijus",
-        "it": "Raggio",
-        "ja": "範囲",
-        "ko-KR": "반경",
-        "no": "Radius",
-        "pl": "Promień",
-        "pt": "Raio",
-        "pt-BR": "Raio",
-        "ru": "Радиус",
-        "sr": "Radijus",
-        "tr": "Yarıçap",
-        "uk": "Радіус",
-        "zh-CN": "半径",
-        "zh-TW": "半徑"
-      }
-    },
-    "craftBench": "explosives_bench",
-    "recipe": {
-      "crude_explosives": 1,
-      "steel_spring": 2
-    },
-    "recyclesInto": {
-      "crude_explosives": 1,
-      "metal_parts": 1
-    },
-    "salvagesInto": {
-      "crude_explosives": 1
-    },
-    "imageFilename": "https://cdn.arctracker.io/items/shrapnel_grenade.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   }
 ]

@@ -1,66 +1,5 @@
 [
   {
-    "id": "frying_pan",
-    "name": {
-      "da": "Stegepande",
-      "de": "Bratpfanne",
-      "en": "Frying Pan",
-      "es": "Sartén",
-      "fr": "Poêle à Frire",
-      "he": "מחבת",
-      "hr": "Tava",
-      "it": "Padella",
-      "ja": "フライパン",
-      "ko-KR": "프라이팬",
-      "no": "Stekepanne",
-      "pl": "Patelnia",
-      "pt": "Frigideira",
-      "pt-BR": "Frigideira",
-      "ru": "Сковорода",
-      "sr": "Tiganj",
-      "tr": "Kızartma Tavası",
-      "uk": "Сковорода",
-      "zh-CN": "平底锅",
-      "zh-TW": "平底鍋"
-    },
-    "description": {
-      "da": "Kan genbruges til håndværksmaterialer.",
-      "de": "Kann zu Herstellungsmaterialien recycelt werden.",
-      "en": "Can be recycled into crafting materials.",
-      "es": "Se puede reciclar en materiales de fabricación.",
-      "fr": "Peut être recyclé en matériaux d'artisanat.",
-      "he": "ניתן למיחזור לחומרי יצירה.",
-      "hr": "Može se reciklirati u materijale za izradu.",
-      "it": "Si può riciclare in materiali da costruzione.",
-      "ja": "クラフト素材にリサイクルできる。",
-      "ko-KR": "제작 재료로 재활용할 수 있다.",
-      "no": "Kan resirkuleres til håndverksmateriell.",
-      "pl": "Można przetworzyć na materiały rzemieślnicze.",
-      "pt": "Pode ser reciclado em materiais de fabricação.",
-      "pt-BR": "Pode ser reciclado em materiais de fabricação.",
-      "ru": "Можно переработать в материалы для крафта.",
-      "sr": "Može se reciklirati u materijale za izradu.",
-      "tr": "İşleme malzemelerine geri dönüştürülebilir.",
-      "uk": "Можна переробити на матеріали для крафту.",
-      "zh-CN": "可以回收成制作材料。",
-      "zh-TW": "可以回收成製作材料。"
-    },
-    "type": "Recyclable",
-    "rarity": "Rare",
-    "foundIn": "Residential",
-    "value": 640,
-    "weightKg": 2,
-    "stackSize": 3,
-    "recyclesInto": {
-      "metal_parts": 8
-    },
-    "salvagesInto": {
-      "metal_parts": 4
-    },
-    "imageFilename": "https://cdn.arctracker.io/items/frying_pan.png",
-    "updatedAt": "11/04/2025"
-  },
-  {
     "id": "garlic_press",
     "name": {
       "da": "Hvidløgspresser",
@@ -243,14 +182,17 @@
         "zh-TW": "體力消耗"
       }
     },
-    "craftBench": "workbench",
+    "craftBench": [
+      "workbench",
+      "in_raid"
+    ],
     "stationLevelRequired": 1,
     "recipe": {
       "gas_grenade": 1,
       "wires": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/gas_grenade_trap.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "gas_grenade",
@@ -375,6 +317,7 @@
       }
     },
     "craftBench": "explosives_bench",
+    "stationLevelRequired": 1,
     "recipe": {
       "chemicals": 4,
       "rubber_parts": 2
@@ -387,7 +330,7 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/gas_grenade.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "gas_mine_blueprint",
@@ -664,7 +607,7 @@
       "sr": "Nežna Patka",
       "tr": "Hassas Ördek",
       "uk": "Ніжна качечка",
-      "zh-CN": "温柔鸭",
+      "zh-CN": "温顺鸭",
       "zh-TW": "溫柔鴨"
     },
     "description": {
@@ -719,7 +662,7 @@
       "sr": "Divizma",
       "tr": "Sığırkuyruğu",
       "uk": "Коров'як звичайний",
-      "zh-CN": "毛蕊花",
+      "zh-CN": "大毛蕊花",
       "zh-TW": "毛蕊花"
     },
     "description": {
@@ -864,6 +807,7 @@
     "value": 150,
     "weightKg": 0.15,
     "stackSize": 5,
+    "blueprintLocked": true,
     "effects": {
       "Duration": {
         "value": "40s",
@@ -913,6 +857,7 @@
       }
     },
     "craftBench": "utility_bench",
+    "stationLevelRequired": 1,
     "recipe": {
       "chemicals": 3
     },
@@ -923,7 +868,7 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/green_light_stick.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "hairpin_i",
@@ -1120,6 +1065,7 @@
       "workbench",
       "weapon_bench"
     ],
+    "stationLevelRequired": 1,
     "recipe": {
       "metal_parts": 2,
       "plastic_parts": 5
@@ -1132,7 +1078,7 @@
       "metal_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
-    "updatedAt": "11/11/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "hairpin_ii",
@@ -1383,7 +1329,7 @@
       "metal_parts": 8
     },
     "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "hairpin_iii",
@@ -1635,7 +1581,7 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
-    "updatedAt": "11/24/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "hairpin_iv",
@@ -1887,7 +1833,7 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
-    "updatedAt": "11/11/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "headphones",
@@ -2009,12 +1955,13 @@
       "Bettina"
     ],
     "craftBench": "workbench",
+    "stationLevelRequired": 1,
     "recipe": {
       "chemicals": 2,
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_ammo.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "heavy_fuze_grenade",
@@ -2116,6 +2063,7 @@
       }
     },
     "craftBench": "explosives_bench",
+    "stationLevelRequired": 3,
     "recipe": {
       "canister": 2,
       "explosive_compound": 1
@@ -2128,7 +2076,7 @@
       "crude_explosives": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_fuze_grenade.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "heavy_gun_parts_blueprint",
@@ -2236,7 +2184,9 @@
     "value": 700,
     "weightKg": 0.5,
     "stackSize": 5,
+    "blueprintLocked": true,
     "craftBench": "refiner",
+    "stationLevelRequired": 2,
     "recipe": {
       "simple_gun_parts": 4
     },
@@ -2247,7 +2197,7 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "heavy_shield",
@@ -2299,6 +2249,7 @@
     "rarity": "Epic",
     "value": 5500,
     "weightKg": 9,
+    "stackSize": 1,
     "effects": {
       "15% Reduced Movement Speed": {
         "value": "",
@@ -2394,6 +2345,7 @@
       }
     },
     "craftBench": "equipment_bench",
+    "stationLevelRequired": 2,
     "recipe": {
       "power_rod": 1,
       "voltage_converter": 2
@@ -2406,7 +2358,7 @@
       "arc_alloy": 4
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_shield.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "02/24/2026",
     "damageMitigation": 65,
     "durability": 140,
     "movementSpeedModifier": -15,
@@ -2534,7 +2486,11 @@
         "zh-TW": "使用時間"
       }
     },
-    "craftBench": "med_station",
+    "craftBench": [
+      "med_station",
+      "in_raid"
+    ],
+    "stationLevelRequired": 1,
     "recipe": {
       "durable_cloth": 1,
       "great_mullein": 1
@@ -2547,7 +2503,7 @@
       "fabric": 8
     },
     "imageFilename": "https://cdn.arctracker.io/items/herbal_bandage.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "horizontal_grip_blueprint",
@@ -2665,7 +2621,6 @@
       "Tempest",
       "Vulcano"
     ],
-    "blueprintLocked": true,
     "effects": {
       "Reduced ADS Speed": {
         "value": "30%",
@@ -2737,12 +2692,6 @@
         "zh-TW": "降低垂直後座力"
       }
     },
-    "craftBench": "weapon_bench",
-    "stationLevelRequired": 3,
-    "recipe": {
-      "duct_tape": 5,
-      "mod_components": 2
-    },
     "recyclesInto": {
       "duct_tape": 2,
       "mod_components": 1
@@ -2751,7 +2700,7 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/horizontal_grip.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "hornet_driver",
@@ -2774,7 +2723,7 @@
       "sr": "Stršljenov Pogon",
       "tr": "Yaban Arısı Sürücüsü",
       "uk": "Драйвер шершня",
-      "zh-CN": "黄蜂驱动器",
+      "zh-CN": "黄蜂引擎",
       "zh-TW": "黃蜂驅動器"
     },
     "description": {
@@ -2802,12 +2751,12 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "foundIn": "ARC",
-    "value": 2000,
+    "value": 1000,
     "weightKg": 0.75,
     "stackSize": 3,
     "effects": {
       "ARC Stun Duration": {
-        "value": "10s",
+        "value": "7s",
         "da": "ARC-bedøvelsesvarighed",
         "de": "ARC-Betäubungsdauer",
         "en": "ARC Stun Duration",
@@ -2877,11 +2826,11 @@
       }
     },
     "recyclesInto": {
-      "arc_alloy": 2,
-      "electrical_components": 2
+      "arc_alloy": 1,
+      "electrical_components": 1
     },
     "salvagesInto": {
-      "electrical_components": 2
+      "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/hornet_driver.png",
     "updatedAt": "01/13/2026",
@@ -3053,6 +3002,7 @@
     "weightKg": 7,
     "stackSize": 1,
     "isWeapon": true,
+    "blueprintLocked": true,
     "effects": {
       "Ammo Type": {
         "value": "Launcher Ammo",
@@ -3185,7 +3135,7 @@
       "heavy_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "hullcracker_ii",
@@ -3379,7 +3329,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 2,
     "recyclesInto": {
       "advanced_mechanical_components": 2,
       "heavy_gun_parts": 3
@@ -3392,7 +3341,7 @@
       "heavy_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "02/24/2026",
     "agility": 67.9,
     "damage": 100,
     "fireRate": 20.3,
@@ -3592,7 +3541,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 2,
     "recyclesInto": {
       "advanced_mechanical_components": 3,
       "heavy_gun_parts": 4
@@ -3605,7 +3553,7 @@
       "heavy_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "02/24/2026",
     "agility": 67.9,
     "damage": 100,
     "fireRate": 20.3,
@@ -3805,7 +3753,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 2,
     "recyclesInto": {
       "advanced_mechanical_components": 4,
       "heavy_gun_parts": 5
@@ -3818,7 +3765,7 @@
       "heavy_gun_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "02/24/2026",
     "agility": 67.9,
     "damage": 100,
     "fireRate": 20.3,
@@ -4054,6 +4001,7 @@
     "value": 5000,
     "weightKg": 8,
     "isWeapon": true,
+    "blueprintLocked": true,
     "effects": {
       "Ammo Type": {
         "value": "Shotgun Ammo",
@@ -4185,7 +4133,7 @@
       "simple_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "il_toro_ii",
@@ -4379,7 +4327,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "mechanical_components": 3,
       "simple_gun_parts": 3
@@ -4392,7 +4339,7 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "il_toro_iii",
@@ -4586,7 +4533,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "mechanical_components": 4,
       "simple_gun_parts": 4
@@ -4599,7 +4545,7 @@
       "mechanical_components": 4
     },
     "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "02/24/2026",
     "agility": 61.1,
     "damage": 67.5,
     "fireRate": 14.3,
@@ -4799,7 +4745,6 @@
       }
     },
     "craftBench": "weapon_bench",
-    "stationLevelRequired": 1,
     "recyclesInto": {
       "mechanical_components": 5,
       "simple_gun_parts": 5
@@ -4812,7 +4757,7 @@
       "mechanical_components": 4
     },
     "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "02/24/2026",
     "agility": 61.1,
     "damage": 67.5,
     "fireRate": 14.3,
@@ -5150,7 +5095,7 @@
       "sr": "Nacrt za Jolt minu",
       "tr": "Şok Mayını Taslağı",
       "uk": "Креслення міни-оглушувача",
-      "zh-CN": "震荡地雷蓝图",
+      "zh-CN": "电击地雷蓝图",
       "zh-TW": "震盪地雷藍圖"
     },
     "description": {
@@ -5234,6 +5179,7 @@
     "value": 850,
     "weightKg": 0.2,
     "stackSize": 3,
+    "blueprintLocked": true,
     "effects": {
       "ARC Stun Duration": {
         "value": "10s",
@@ -5306,6 +5252,7 @@
       }
     },
     "craftBench": "explosives_bench",
+    "stationLevelRequired": 2,
     "recipe": {
       "battery": 1,
       "electrical_components": 1
@@ -5318,57 +5265,7 @@
       "battery": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
-    "updatedAt": "01/13/2026"
-  },
-  {
-    "id": "junior_outfit",
-    "name": {
-      "da": "Junior-outfit",
-      "de": "Junior-Outfit",
-      "en": "Junior Outfit",
-      "es": "Atuendo junior",
-      "fr": "Tenue junior",
-      "he": "תלבושת ג'וניור",
-      "hr": "Junior Odijelo",
-      "it": "Completo junior",
-      "ja": "ジュニア服",
-      "ko-KR": "주니어 의상",
-      "no": "Junior-antrekk",
-      "pl": "Strój juniora",
-      "pt": "Roupa júnior",
-      "pt-BR": "Traje Júnior",
-      "ru": "Костюм юниора",
-      "sr": "Junior Odelo",
-      "tr": "Genç Kıyafeti",
-      "uk": "Костюм юніора",
-      "zh-CN": "少年服装",
-      "zh-TW": "少年服裝"
-    },
-    "description": {
-      "da": "Kosmetisk outfit",
-      "de": "Kosmetisches Outfit",
-      "en": "Cosmetic Outfit",
-      "es": "Atuendo cosmético",
-      "fr": "Tenue cosmétique",
-      "he": "תלבושת קוסמטית",
-      "hr": "Kozmetičko Odijelo",
-      "it": "Completo cosmetico",
-      "ja": "コスメティック服",
-      "ko-KR": "코스메틱 의상",
-      "no": "Kosmetisk antrekk",
-      "pl": "Strój kosmetyczny",
-      "pt": "Roupa cosmética",
-      "pt-BR": "Traje Cosmético",
-      "ru": "Косметический костюм",
-      "sr": "Kozmetičko Odelo",
-      "tr": "Kozmetik Kıyafet",
-      "uk": "Косметичний костюм",
-      "zh-CN": "装饰服装",
-      "zh-TW": "裝飾服裝"
-    },
-    "type": "Cosmetic",
-    "rarity": "Common",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "jupiter_blueprint",
@@ -5791,6 +5688,7 @@
       "workbench",
       "weapon_bench"
     ],
+    "stationLevelRequired": 1,
     "recipe": {
       "metal_parts": 6,
       "rubber_parts": 8
@@ -5803,7 +5701,7 @@
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "kettle_ii",
@@ -5856,6 +5754,7 @@
     "value": 2000,
     "weightKg": 7,
     "isWeapon": true,
+    "craftBench": "weapon_bench",
     "recyclesInto": {
       "metal_parts": 6,
       "rubber_parts": 6
@@ -5863,8 +5762,12 @@
     "salvagesInto": {
       "metal_parts": 6
     },
+    "upgradeCost": {
+      "metal_parts": 8,
+      "plastic_parts": 10
+    },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-    "updatedAt": "01/26/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "kettle_iii",
@@ -6060,6 +5963,7 @@
         "zh-TW": "升級修正值"
       }
     },
+    "craftBench": "weapon_bench",
     "recyclesInto": {
       "metal_parts": 12,
       "simple_gun_parts": 1
@@ -6067,8 +5971,12 @@
     "salvagesInto": {
       "simple_gun_parts": 1
     },
+    "upgradeCost": {
+      "metal_parts": 10,
+      "simple_gun_parts": 1
+    },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "kettle_iv",
@@ -6238,6 +6146,7 @@
         "zh-TW": "彈匣容量"
       }
     },
+    "craftBench": "weapon_bench",
     "recyclesInto": {
       "mechanical_components": 2,
       "simple_gun_parts": 2
@@ -6245,8 +6154,12 @@
     "salvagesInto": {
       "simple_gun_parts": 2
     },
+    "upgradeCost": {
+      "mechanical_components": 3,
+      "simple_gun_parts": 1
+    },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "kinetic_converter_blueprint",
@@ -6483,6 +6396,7 @@
     "foundIn": "Medical",
     "value": 2000,
     "weightKg": 3,
+    "stackSize": 3,
     "recyclesInto": {
       "chemicals": 16,
       "crude_explosives": 3
@@ -6491,7 +6405,7 @@
       "crude_explosives": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "lances_mixtape_5th_edition",
@@ -6604,12 +6518,13 @@
       "Hullcracker"
     ],
     "craftBench": "workbench",
+    "stationLevelRequired": 1,
     "recipe": {
       "arc_motion_core": 1,
       "crude_explosives": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/launcher_ammo.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "leaper_pulse_unit",
@@ -6660,7 +6575,7 @@
     "type": "Recyclable",
     "rarity": "Epic",
     "foundIn": "ARC",
-    "value": 5000,
+    "value": 3000,
     "weightKg": 1,
     "stackSize": 3,
     "effects": {
@@ -6712,14 +6627,14 @@
       }
     },
     "recyclesInto": {
-      "advanced_mechanical_components": 2,
+      "advanced_mechanical_components": 1,
       "arc_alloy": 3
     },
     "salvagesInto": {
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "lemon",
@@ -6831,6 +6746,38 @@
     "updatedAt": "01/09/2026"
   },
   {
+    "id": "library_book",
+    "name": {
+      "da": "Bog",
+      "de": "Buch",
+      "en": "Book",
+      "es": "Libro",
+      "fr": "Livre",
+      "he": "ספר",
+      "hr": "Knjiga",
+      "it": "Libro",
+      "ja": "本",
+      "ko-KR": "책",
+      "no": "Bok",
+      "pl": "Książka",
+      "pt": "Livro",
+      "pt-BR": "Livro",
+      "ru": "Книга",
+      "sr": "Књига",
+      "tr": "Kitap",
+      "uk": "Книга",
+      "zh-CN": "书",
+      "zh-TW": "書"
+    },
+    "type": "Trinket",
+    "rarity": "Common",
+    "value": 0,
+    "weightKg": 0.5,
+    "stackSize": 1,
+    "questItem": true,
+    "updatedAt": "02/23/2026"
+  },
+  {
     "id": "lidar_scanner",
     "name": {
       "da": "Lidar-scanner",
@@ -6879,8 +6826,9 @@
     "type": "Trinket",
     "rarity": "Common",
     "weightKg": 0.25,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/lidar_scanner.png",
-    "updatedAt": "11/17/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "light_ammo",
@@ -6942,12 +6890,13 @@
       "Stitcher"
     ],
     "craftBench": "workbench",
+    "stationLevelRequired": 1,
     "recipe": {
       "chemicals": 2,
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/light_ammo.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "light_bulb",
@@ -7110,7 +7059,9 @@
     "value": 700,
     "weightKg": 0.3,
     "stackSize": 5,
+    "blueprintLocked": true,
     "craftBench": "refiner",
+    "stationLevelRequired": 2,
     "recipe": {
       "simple_gun_parts": 4
     },
@@ -7121,7 +7072,7 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "light_impact_grenade",
@@ -7224,8 +7175,10 @@
     },
     "craftBench": [
       "workbench",
-      "explosives_bench"
+      "explosives_bench",
+      "in_raid"
     ],
+    "stationLevelRequired": 1,
     "recipe": {
       "chemicals": 3,
       "plastic_parts": 2
@@ -7238,7 +7191,7 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/light_impact_grenade.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "light_shield",
@@ -7290,6 +7243,7 @@
     "rarity": "Uncommon",
     "value": 640,
     "weightKg": 5,
+    "stackSize": 1,
     "effects": {
       "Charge": {
         "value": 40,
@@ -7365,6 +7319,7 @@
       "workbench",
       "equipment_bench"
     ],
+    "stationLevelRequired": 1,
     "recipe": {
       "arc_alloy": 2,
       "plastic_parts": 4
@@ -7376,7 +7331,7 @@
       "arc_alloy": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/light_shield.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "02/24/2026",
     "damageMitigation": 40,
     "durability": 100,
     "movementSpeedModifier": 0,
@@ -7485,6 +7440,7 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 0.25,
+    "blueprintLocked": true,
     "effects": {
       "Increased ADS Speed": {
         "value": "200%",
@@ -7603,6 +7559,7 @@
       }
     },
     "craftBench": "weapon_bench",
+    "stationLevelRequired": 3,
     "recipe": {
       "duct_tape": 5,
       "mod_components": 2
@@ -7615,7 +7572,7 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/lightweight_stock.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "lil_smoke_grenade",
@@ -7716,7 +7673,11 @@
         "zh-TW": "範圍"
       }
     },
-    "craftBench": "utility_bench",
+    "craftBench": [
+      "utility_bench",
+      "in_raid"
+    ],
+    "stationLevelRequired": 1,
     "recipe": {
       "chemicals": 5,
       "plastic_parts": 1
@@ -7729,7 +7690,7 @@
       "chemicals": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/lil_smoke_grenade.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "looting_mk1",
@@ -7857,6 +7818,7 @@
       "equipment_bench",
       "workbench"
     ],
+    "stationLevelRequired": 1,
     "recipe": {
       "plastic_parts": 6,
       "rubber_parts": 6
@@ -7869,7 +7831,7 @@
       "plastic_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk1.png",
-    "updatedAt": "01/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "looting_mk2",
@@ -7994,6 +7956,7 @@
       }
     },
     "craftBench": "equipment_bench",
+    "stationLevelRequired": 2,
     "recipe": {
       "electrical_components": 2,
       "magnet": 3
@@ -8006,7 +7969,7 @@
       "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk2.png",
-    "updatedAt": "01/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "looting_mk3_cautious",
@@ -8131,6 +8094,7 @@
       }
     },
     "craftBench": "equipment_bench",
+    "stationLevelRequired": 3,
     "recipe": {
       "advanced_electrical_components": 2,
       "processor": 3
@@ -8143,7 +8107,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_cautious.png",
-    "updatedAt": "01/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "looting_mk3_safekeeper_blueprint",
@@ -8322,6 +8286,7 @@
       }
     },
     "craftBench": "equipment_bench",
+    "stationLevelRequired": 3,
     "recipe": {
       "advanced_electrical_components": 2,
       "processor": 3
@@ -8334,7 +8299,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_safekeeper.png",
-    "updatedAt": "02/02/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "looting_mk3_survivor_blueprint",
@@ -8513,6 +8478,7 @@
       }
     },
     "craftBench": "equipment_bench",
+    "stationLevelRequired": 3,
     "recipe": {
       "advanced_electrical_components": 2,
       "processor": 3
@@ -8525,7 +8491,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_survivor.png",
-    "updatedAt": "01/20/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "lure_grenade_blueprint",
@@ -8679,14 +8645,17 @@
         "zh-TW": "範圍"
       }
     },
-    "craftBench": "workbench",
+    "craftBench": [
+      "workbench",
+      "in_raid"
+    ],
     "stationLevelRequired": 1,
     "recipe": {
       "lure_grenade": 1,
       "wires": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_trap.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "lure_grenade",
@@ -8738,7 +8707,10 @@
     "rarity": "Uncommon",
     "value": 1000,
     "weightKg": 0.4,
+    "stackSize": 3,
+    "blueprintLocked": true,
     "craftBench": "utility_bench",
+    "stationLevelRequired": 2,
     "recipe": {
       "electrical_components": 1,
       "speaker_component": 1
@@ -8750,7 +8722,7 @@
       "speaker_component": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "magnet",
@@ -8866,6 +8838,7 @@
     "weightKg": 1,
     "stackSize": 3,
     "craftBench": "refiner",
+    "stationLevelRequired": 3,
     "recipe": {
       "advanced_mechanical_components": 2,
       "arc_motion_core": 2
@@ -8878,7 +8851,7 @@
       "advanced_mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/magnetic_accelerator.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "magnetron",
@@ -8943,6 +8916,39 @@
     "updatedAt": "01/13/2026"
   },
   {
+    "id": "major_aivas_mementos",
+    "name": {
+      "da": "Major Aivas minder",
+      "de": "Major Aivas Andenken",
+      "en": "Major Aiva's Mementos",
+      "es": "Recuerdos de la Mayor Aiva",
+      "fr": "Souvenirs du Major Aiva",
+      "he": "מזכרות של מייג'ור אייבה",
+      "hr": "Uspomene bojnice Aive",
+      "it": "Ricordi del Maggiore Aiva",
+      "ja": "エイヴァ少佐の思い出の品",
+      "ko-KR": "아이바 소령의 기념품",
+      "no": "Major Aivas minner",
+      "pl": "Pamiątki Major Aivy",
+      "pt": "Lembranças da Major Aiva",
+      "pt-BR": "Lembranças da Major Aiva",
+      "ru": "Памятные вещи майора Айвы",
+      "sr": "Uspomene majorke Ajve",
+      "tr": "Binbaşı Aiva'nın hatıraları",
+      "uk": "Пам'ятні речі майора Айви",
+      "zh-CN": "艾瓦少校的纪念品",
+      "zh-TW": "艾瓦少校的紀念品"
+    },
+    "type": "Trinket",
+    "rarity": "Common",
+    "value": 0,
+    "weightKg": 0.5,
+    "stackSize": 1,
+    "questItem": true,
+    "imageFilename": "https://cdn.arctracker.io/items/major_aivas_mementos.png",
+    "updatedAt": "02/23/2026"
+  },
+  {
     "id": "major_aivas_patch",
     "name": {
       "da": "Major Aivas emblem",
@@ -8991,6 +8997,7 @@
     "type": "Trinket",
     "rarity": "Common",
     "weightKg": 0.25,
+    "stackSize": 1,
     "effects": {
       "Tracked for quest": {
         "value": "",
@@ -9017,7 +9024,7 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/major_aivas_patch.png",
-    "updatedAt": "11/17/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "matriarch_reactor",
@@ -9067,7 +9074,7 @@
     },
     "type": "Recyclable",
     "rarity": "Legendary",
-    "value": 13000,
+    "value": 11000,
     "weightKg": 10,
     "stackSize": 1,
     "recyclesInto": {
@@ -9075,10 +9082,10 @@
       "power_rod": 1
     },
     "salvagesInto": {
-      "power_rod": 1
+      "magnetic_accelerator": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/matriarch_reactor.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "mechanical_components",
@@ -9133,6 +9140,7 @@
     "weightKg": 0.5,
     "stackSize": 10,
     "craftBench": "refiner",
+    "stationLevelRequired": 1,
     "recipe": {
       "metal_parts": 7,
       "rubber_parts": 3
@@ -9145,7 +9153,7 @@
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/mechanical_components.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "medium_ammo",
@@ -9207,12 +9215,13 @@
       "Torrente"
     ],
     "craftBench": "workbench",
+    "stationLevelRequired": 1,
     "recipe": {
       "chemicals": 2,
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/medium_ammo.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "medium_gun_parts_blueprint",
@@ -9319,7 +9328,9 @@
     "value": 700,
     "weightKg": 0.4,
     "stackSize": 5,
+    "blueprintLocked": true,
     "craftBench": "refiner",
+    "stationLevelRequired": 2,
     "recipe": {
       "simple_gun_parts": 4
     },
@@ -9330,7 +9341,7 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "medium_shield",
@@ -9382,6 +9393,7 @@
     "rarity": "Rare",
     "value": 2000,
     "weightKg": 7,
+    "stackSize": 1,
     "effects": {
       "Charge": {
         "value": 70,
@@ -9477,6 +9489,7 @@
       }
     },
     "craftBench": "equipment_bench",
+    "stationLevelRequired": 1,
     "recipe": {
       "arc_circuitry": 1,
       "battery": 4
@@ -9484,8 +9497,11 @@
     "recyclesInto": {
       "arc_circuitry": 1
     },
+    "salvagesInto": {
+      "arc_alloy": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/medium_shield.png",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "02/24/2026",
     "damageMitigation": 42.5,
     "durability": 100,
     "movementSpeedModifier": -5,
@@ -9604,9 +9620,8 @@
     "value": 75,
     "weightKg": 0.1,
     "stackSize": 50,
-    "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "microscope",
@@ -9785,6 +9800,7 @@
     "weightKg": 1,
     "stackSize": 5,
     "craftBench": "refiner",
+    "stationLevelRequired": 2,
     "recipe": {
       "mechanical_components": 2,
       "steel_spring": 2
@@ -9797,7 +9813,7 @@
       "mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/mod_components.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "moisture_meter",
@@ -9848,9 +9864,10 @@
     "type": "Trinket",
     "rarity": "Common",
     "weightKg": 0.25,
+    "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/moisture_meter.png",
-    "updatedAt": "02/06/2026"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "moss",
@@ -10035,6 +10052,7 @@
     "foundIn": "Mechanical",
     "value": 2000,
     "weightKg": 3,
+    "stackSize": 3,
     "recyclesInto": {
       "mechanical_components": 2,
       "oil": 2
@@ -10043,7 +10061,7 @@
       "oil": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/motor.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "mushroom",
@@ -10096,6 +10114,7 @@
     "foundIn": "Nature",
     "value": 1000,
     "weightKg": 0.2,
+    "stackSize": 10,
     "effects": {
       "Healing": {
         "value": 15,
@@ -10144,9 +10163,8 @@
         "zh-TW": "使用時間"
       }
     },
-    "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/mushroom.png",
-    "updatedAt": "10/31/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "music_album",
@@ -10200,9 +10218,8 @@
     "value": 3000,
     "weightKg": 0.3,
     "stackSize": 3,
-    "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/music_album.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "music_box",
@@ -10256,8 +10273,7 @@
     "value": 5000,
     "weightKg": 0.4,
     "stackSize": 3,
-    "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/music_box.png",
-    "updatedAt": "12/16/2025"
+    "updatedAt": "02/24/2026"
   }
 ]
