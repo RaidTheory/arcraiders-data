@@ -10,7 +10,7 @@
     "hr": "Pocijepana odjeća",
     "it": "Vestiti Logori",
     "ja": "ボロボロの服",
-    "kr": "해진 옷",
+    "ko-KR": "해진 옷",
     "no": "Fillete Klær",
     "pl": "Podarte Ubrania",
     "pt": "Roupas Esfarrapadas",
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u tkaninu.",
     "it": "Si può riciclare in stoffa.",
     "ja": "布にリサイクルできます。",
-    "kr": "천으로 재활용할 수 있습니다.",
+    "ko-KR": "천으로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til stoff.",
     "pl": "Można przetworzyć na tkaninę.",
     "pt": "Pode ser reciclado em tecido.",
@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "foundIn": "Residential",
   "value": 640,
+  "stackSize": 3,
   "recyclesInto": {
     "fabric": 11
   },
@@ -55,5 +56,5 @@
     "fabric": 5
   },
   "imageFilename": "https://cdn.arctracker.io/items/tattered_clothes.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "02/24/2026"
 }

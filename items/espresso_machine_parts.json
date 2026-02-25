@@ -1,0 +1,33 @@
+{
+  "id": "espresso_machine_parts",
+  "name": {
+    "da": "Espressomaskinedele",
+    "de": "Espressomaschinenteile",
+    "en": "Espresso Machine Parts",
+    "es": "Piezas de máquina de espresso",
+    "fr": "Pièces de machine à espresso",
+    "he": "חלקי מכונת אספרסו",
+    "hr": "Dijelovi aparata za espresso",
+    "it": "Parti di macchina per espresso",
+    "ja": "エスプレッソマシンの部品",
+    "ko-KR": "에스프레소 머신 부품",
+    "no": "Espressomaskindeler",
+    "pl": "Części ekspresu do kawy",
+    "pt": "Peças de máquina de espresso",
+    "pt-BR": "Peças de máquina de espresso",
+    "ru": "Детали кофемашины",
+    "sr": "Delovi aparata za espreso",
+    "tr": "Espresso makinesi parçaları",
+    "uk": "Деталі кавомашини",
+    "zh-CN": "浓缩咖啡机零件",
+    "zh-TW": "濃縮咖啡機零件"
+  },
+  "type": "Trinket",
+  "rarity": "Common",
+  "value": 0,
+  "weightKg": 0.5,
+  "stackSize": 1,
+  "questItem": true,
+  "imageFilename": "https://cdn.arctracker.io/items/espresso_machine_parts.png",
+  "updatedAt": "02/23/2026"
+}

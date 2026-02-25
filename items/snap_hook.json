@@ -10,7 +10,7 @@
     "hr": "Brza Kuka",
     "it": "Gancio a scatto",
     "ja": "スナップ・フック",
-    "kr": "스냅 훅",
+    "ko-KR": "스냅 훅",
     "no": "Karabinkrok",
     "pl": "Karabińczyk",
     "pt": "Mosquetão",
@@ -19,7 +19,7 @@
     "sr": "Brza Kuka",
     "tr": "Kanca",
     "uk": "Карабін",
-    "zh-CN": "快扣钩",
+    "zh-CN": "安全钩",
     "zh-TW": "扣鉤藍圖"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Naprava koja korisniku omogućuje penjanje po strukturama i prelaženje velikih udaljenosti.",
     "it": "Un gadget che permette a chi lo usa di scalare strutture e coprire grandi distanze.",
     "ja": "構造物を登ったり、長距離を移動したりできるガジェット。",
-    "kr": "사용자가 구조물을 오르고 먼 거리를 이동할 수 있게 해주는 장치.",
+    "ko-KR": "사용자가 구조물을 오르고 먼 거리를 이동할 수 있게 해주는 장치.",
     "no": "En gjenstand som lar brukeren klatre på strukturer og dekke store avstander.",
     "pl": "Gadżet pozwalający użytkownikowi wspinać się na konstrukcje i pokonywać duże odległości.",
     "pt": "Um dispositivo que permite ao usuário escalar estruturas e cobrir grandes distâncias.",
@@ -48,6 +48,8 @@
   "rarity": "Legendary",
   "value": 14000,
   "weightKg": 5,
+  "stackSize": 1,
+  "blueprintLocked": true,
   "effects": {
     "Durability": {
       "value": "100/100",
@@ -60,7 +62,7 @@
       "hr": "Izdržljivost",
       "it": "Tenuta",
       "ja": "耐久性",
-      "kr": "내구도",
+      "ko-KR": "내구도",
       "no": "Holdbarhet",
       "pl": "Wytrzymałość",
       "pt": "Durabilidade",
@@ -83,7 +85,7 @@
       "hr": "Domet",
       "it": "Portata",
       "ja": "射程",
-      "kr": "사거리",
+      "ko-KR": "사거리",
       "no": "Rekkevidde",
       "pl": "Zasięg",
       "pt": "Alcance",
@@ -97,6 +99,7 @@
     }
   },
   "craftBench": "utility_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "exodus_modules": 1,
     "power_rod": 2,
@@ -110,5 +113,5 @@
     "advanced_electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/snap_hook.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }

@@ -1,0 +1,33 @@
+{
+  "id": "possibly_toxic_plant",
+  "name": {
+    "da": "Muligvis giftig plante",
+    "de": "Möglicherweise giftige Pflanze",
+    "en": "Possibly Toxic Plant",
+    "es": "Planta posiblemente tóxica",
+    "fr": "Plante possiblement toxique",
+    "he": "צמח שעלול להיות רעיל",
+    "hr": "Moguće otrovna biljka",
+    "it": "Pianta forse tossica",
+    "ja": "有毒かもしれない植物",
+    "ko-KR": "독성이 있을 수 있는 식물",
+    "no": "Muligens giftig plante",
+    "pl": "Prawdopodobnie toksyczna roślina",
+    "pt": "Planta possivelmente tóxica",
+    "pt-BR": "Planta possivelmente tóxica",
+    "ru": "Возможно ядовитое растение",
+    "sr": "Možda otrovna biljka",
+    "tr": "Muhtemelen zehirli bitki",
+    "uk": "Можливо отруйна рослина",
+    "zh-CN": "可能有毒的植物",
+    "zh-TW": "可能有毒的植物"
+  },
+  "type": "Trinket",
+  "rarity": "Common",
+  "value": 0,
+  "weightKg": 0.5,
+  "stackSize": 1,
+  "questItem": true,
+  "imageFilename": "https://cdn.arctracker.io/items/possibly_toxic_plant.png",
+  "updatedAt": "02/23/2026"
+}

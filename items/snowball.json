@@ -10,7 +10,7 @@
     "hr": "Snježna gruda",
     "it": "Palla di neve",
     "ja": "雪玉",
-    "kr": "눈덩이",
+    "ko-KR": "눈덩이",
     "no": "Snøball",
     "pl": "Kula śnieżna",
     "pt": "Bola de neve",
@@ -32,7 +32,7 @@
     "hr": "Zbijena snježna gruda.",
     "it": "Una palla di neve compatta.",
     "ja": "固く握り固めた雪玉。",
-    "kr": "단단히 뭉친 눈덩이.",
+    "ko-KR": "단단히 뭉친 눈덩이.",
     "no": "En kompakt snøball.",
     "pl": "Zbita kula śnieżna.",
     "pt": "Uma bola de neve compacta.",
@@ -50,7 +50,6 @@
   "value": 10,
   "weightKg": 0.4,
   "stackSize": 5,
-  "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/snowball.png",
-  "updatedAt": "12/17/2025"
+  "updatedAt": "02/24/2026"
 }

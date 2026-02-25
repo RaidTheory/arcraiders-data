@@ -10,7 +10,7 @@
     "hr": "Ključ Nadzora Brane",
     "it": "Chiave sorveglianza Diga",
     "ja": "ダムの監視室の鍵",
-    "kr": "댐 감시실 열쇠",
+    "ko-KR": "댐 감시실 열쇠",
     "no": "Nøkkel til dammens overvåkning",
     "pl": "Klucz do nadzoru tamy",
     "pt": "Chave de vigilância da represa",
@@ -19,7 +19,7 @@
     "sr": "Ključ Nadzora Brane",
     "tr": "Baraj Gözetleme Anahtarı",
     "uk": "Ключ від спостережного пункту дамби",
-    "zh-CN": "水坝监控钥匙",
+    "zh-CN": "大坝监控钥匙",
     "zh-TW": "水壩監控鑰匙"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Otključava vrata u zgradi Kontrole Prečišćavanja Vode na Bojnom Polju Brane.",
     "it": "Apre una porta nell'edificio di Trattamento delle acque nel campo di battaglia della Diga.",
     "ja": "ダム戦場の水処理管理棟の扉を開ける。",
-    "kr": "댐 전장의 수처리 관제 건물 문을 엽니다.",
+    "ko-KR": "댐 전장의 수처리 관제 건물 문을 엽니다.",
     "no": "Låser opp en dør i vannbehandlingskontrollbygningen på Dam Battlegrounds.",
     "pl": "Otwiera drzwi w budynku kontroli uzdatniania wody na polu bitwy tamy.",
     "pt": "Desbloqueia uma porta no edifício de controle de tratamento de água no campo de batalha da represa.",
@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 100,
   "weightKg": 0.25,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/dam_surveillance_key.png",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "02/24/2026"
 }

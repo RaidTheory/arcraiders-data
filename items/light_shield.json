@@ -10,7 +10,7 @@
     "hr": "Laki Štit",
     "it": "Scudo leggero",
     "ja": "小型シールド",
-    "kr": "경량 실드",
+    "ko-KR": "경량 실드",
     "no": "Lett skjold",
     "pl": "Lekka tarcza",
     "pt": "Escudo leve",
@@ -32,7 +32,7 @@
     "hr": "Lagani štit koji blokira malu količinu dolazne štete bez utjecaja na pokretljivost.",
     "it": "Uno scudo leggero che blocca una piccola porzione del Danni in arrivo senza impattare la mobilità.",
     "ja": "少量の被ダメージを防ぐ軽量シールド。機動性に影響しない。",
-    "kr": "소량의 피해를 막아주는 경량 실드입니다. 이동 속도에 영향을 주지 않습니다.",
+    "ko-KR": "소량의 피해를 막아주는 경량 실드입니다. 이동 속도에 영향을 주지 않습니다.",
     "no": "Et lett skjold som blokkerer en liten del av innkommende skade uten å påvirke mobiliteten.",
     "pl": "Lekka tarcza, która blokuje niewielką część otrzymywanych obrażeń bez wpływu na mobilność.",
     "pt": "Um escudo leve que bloqueia uma pequena porção do dano recebido sem afetar a mobilidade.",
@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 640,
   "weightKg": 5,
+  "stackSize": 1,
   "effects": {
     "Charge": {
       "value": 40,
@@ -60,7 +61,7 @@
       "hr": "Punjenje",
       "it": "Carica",
       "ja": "チャージ",
-      "kr": "충전",
+      "ko-KR": "충전",
       "no": "Ladning",
       "pl": "Ładunek",
       "pt": "Carga",
@@ -83,7 +84,7 @@
       "hr": "Smanjenje Štete",
       "it": "Riduzione Danni",
       "ja": "ダメージ軽減",
-      "kr": "피해 감소",
+      "ko-KR": "피해 감소",
       "no": "Skadereduksjon",
       "pl": "Redukcja obrażeń",
       "pt": "Redução de dano",
@@ -106,7 +107,7 @@
       "hr": "Izdržljivost",
       "it": "Tenuta",
       "ja": "耐久力",
-      "kr": "내구도",
+      "ko-KR": "내구도",
       "no": "Holdbarhet",
       "pl": "Wytrzymałość",
       "pt": "Durabilidade",
@@ -120,6 +121,7 @@
     }
   },
   "craftBench": ["workbench", "equipment_bench"],
+  "stationLevelRequired": 1,
   "recipe": {
     "arc_alloy": 2,
     "plastic_parts": 4
@@ -131,7 +133,7 @@
     "arc_alloy": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/light_shield.png",
-  "updatedAt": "01/09/2026",
+  "updatedAt": "02/24/2026",
   "damageMitigation": 40,
   "durability": 100,
   "movementSpeedModifier": 0,

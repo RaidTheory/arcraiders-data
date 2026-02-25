@@ -10,7 +10,7 @@
     "hr": "Granata mamac",
     "it": "Granata esca",
     "ja": "ルアー・グレネード",
-    "kr": "유인 수류탄",
+    "ko-KR": "유인 수류탄",
     "no": "Lokkegranate",
     "pl": "Granat wabik",
     "pt": "Granada isca",
@@ -32,7 +32,7 @@
     "hr": "Uređaj za buku koji se lijepi na površine, odvlačeći pažnju obližnjih ARC strojeva i privlačeći njihovu vatru.",
     "it": "Un dispositivo sonoro che si attacca alle superfici, distraendo le macchine ARC vicine e attirando il loro fuoco.",
     "ja": "表面に貼り付く音響装置。近くのARCマシンの注意を引き、攻撃を誘導する。",
-    "kr": "표면에 부착되는 소음 장치로, 근처의 아크를 산만하게 하고 공격을 유도합니다.",
+    "ko-KR": "표면에 부착되는 소음 장치로, 근처의 아크를 산만하게 하고 공격을 유도합니다.",
     "no": "En støyenhet som fester seg til overflater, distraherer nærliggende ARC-maskiner og tiltrekker deres ild.",
     "pl": "Urządzenie dźwiękowe, które przykleja się do powierzchni, rozpraszając pobliskie maszyny ARC i przyciągając ich ogień.",
     "pt": "Um dispositivo de ruído que gruda em superfícies, distraindo máquinas ARC próximas e atraindo seu fogo.",
@@ -48,7 +48,10 @@
   "rarity": "Uncommon",
   "value": 1000,
   "weightKg": 0.4,
+  "stackSize": 3,
+  "blueprintLocked": true,
   "craftBench": "utility_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "electrical_components": 1,
     "speaker_component": 1
@@ -60,5 +63,5 @@
     "speaker_component": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026"
 }
