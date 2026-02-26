@@ -74,7 +74,8 @@
     "apps": "אפליקציות",
     "discordBot": "בוט Discord",
     "squads": "צוותים",
-    "stash": "מצבור"
+    "stash": "מצבור",
+    "seasons": "עונות"
   },
   "MapEvents": {
     "startsIn": "מתחיל בעוד",
@@ -109,7 +110,8 @@
       "launchTowerLoot": "שלל מגדל השיגור",
       "hiddenBunker": "בונקר נסתר",
       "none": "ללא",
-      "birdCity": "עיר הציפורים"
+      "birdCity": "עיר הציפורים",
+      "hurricane": "הוריקן"
     }
   },
   "Common": {
@@ -185,11 +187,6 @@
     "requirementsUnknown": "הדרישות עדיין לא ידועות",
     "noRequirements": "אין דרישות",
     "coins": "מטבעות",
-    "combatItems": "פריטי לחימה",
-    "survivalItems": "פריטי הישרדות",
-    "provisions": "אספקה",
-    "materials": "חומרים",
-    "value": "ערך",
     "phases": "שלבים",
     "required": "נדרש",
     "submitItemsValue": "הגש פריטים בשווי הנדרש כדי להשלים שלב זה.",
@@ -197,7 +194,8 @@
     "season2": "עונה 2",
     "stashModeActive": "כמויות ממחסן מסונכרן",
     "lastSynced": "סונכרן",
-    "syncStash": "סנכרן מחסן"
+    "syncStash": "סנכרן מחסן",
+    "season3": "עונה 3"
   },
   "HideoutPage": {
     "level": "רמה",
@@ -577,7 +575,9 @@
       "tooltipThisWeek": "השבוע",
       "tooltipWeeksAgo": "לפני {count} שבועות"
     },
-    "attachments": "אביזרים"
+    "attachments": "אביזרים",
+    "upgradePath": "מסלול שדרוג",
+    "currentTier": "נוכחי"
   },
   "ItemsListPage": {
     "searchPlaceholder": "חפש פריטים...",
@@ -651,7 +651,9 @@
     "squadsTitle": "חוליות - ARC Raiders",
     "squadsDescription": "צרו ונהלו חוליות כדי לשתף היסטוריית פשיטות והתקדמות עם חברים ב-ARC Raiders.",
     "stashTitle": "מעקב מחסן - ARC Raiders",
-    "stashDescription": "סנכרון ומעקב אוטומטי אחר מלאי המחסן, הציוד והמטבעות שלך ב-ARC Raiders. חבר את חשבון המשחק שלך לקבלת עדכונים בזמן אמת."
+    "stashDescription": "סנכרון ומעקב אוטומטי אחר מלאי המחסן, הציוד והמטבעות שלך ב-ARC Raiders. חבר את חשבון המשחק שלך לקבלת עדכונים בזמן אמת.",
+    "projectNotFoundTitle": "הפרויקט לא נמצא - ARC Raiders",
+    "projectNotFoundDescription": "הפרויקט המבוקש לא נמצא."
   },
   "OverlayPage": {
     "pageTitle": "אפליקציית Overlay מלווה",
@@ -703,7 +705,7 @@
   },
   "Footer": {
     "copyright": "תוכן המשחק והחומרים הם סימנים מסחריים וזכויות יוצרים של Embark Studios ומעניקי הרישיונות שלה. כל הזכויות שמורות.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "תנאי שימוש",
     "privacyPolicy": "מדיניות פרטיות"
   },
@@ -895,7 +897,9 @@
     "createYourOwn": "צור רשימה משלך",
     "listNotFound": "רשימה לא נמצאה",
     "listNotFoundDescription": "רשימה זו אינה קיימת או שאינה משותפת באופן ציבורי.",
-    "backToHome": "חזרה לדף הבית"
+    "backToHome": "חזרה לדף הבית",
+    "cancel": "ביטול",
+    "save": "שמור"
   },
   "Maps": {
     "showAll": "הצג הכל",
@@ -1452,7 +1456,9 @@
       "totalValueExtracted": "סך השווי שחולץ",
       "valueBroughtIn": "שווי שהובא",
       "valueExtracted": "שווי שחולץ",
-      "weaponsByKillsTitle": "נשקים לפי הריגות"
+      "weaponsByKillsTitle": "נשקים לפי הריגות",
+      "containersLooted": "מכולות שנבזזו",
+      "containersPerRaid": "מכולות / פשיטה"
     },
     "extractedSuffix": " חולצו",
     "extractionRate": "שיעור חילוץ",
@@ -1520,7 +1526,8 @@
     "undoSyncFailedLocally": "ביטול הסנכרון נכשל מקומית",
     "unknownMap": "מפה לא ידועה",
     "valueSuffix": " שווי",
-    "timeInRaid": "זמן בפשיטה"
+    "timeInRaid": "זמן בפשיטה",
+    "statDamageByTarget": "נזק לפי מטרה"
   },
   "RaidSync": {
     "title": "החל על התקדמות",
@@ -1632,7 +1639,9 @@
         "hideout": "מודולי סדנאות",
         "done": "סיום"
       },
-      "flickeringFlames": "להבות מרצדות"
+      "flickeringFlames": "להבות מרצדות",
+      "nonExpeditionProjects": "פרויקטים שאינם משלחות",
+      "expeditionProjects": "פרויקטי משלחת"
     }
   },
   "DeviceAuth": {
@@ -1836,7 +1845,16 @@
       "saving": "שומר...",
       "selectAll": "בחר הכל",
       "unselectAll": "בטל בחירה להכל",
-      "noChanges": "אין שינויים לשמירה"
+      "noChanges": "אין שינויים לשמירה",
+      "cancel": "ביטול"
+    },
+    "inferred": {
+      "completedViaLabel": "מקור ההשלמה",
+      "completedViaValue": "התקדמות משלחות ב-ARC Raiders",
+      "description": "השלמת עונה זו זוהתה מסנכרון המשלחות שלך ב-ARC Raiders.",
+      "detailsLabel": "סטטיסטיקה מפורטת",
+      "detailsValue": "לא זמין עבור עונה זו.",
+      "title": "עונה {number} הושלמה"
     }
   },
   "SquadsPage": {
@@ -1986,7 +2004,17 @@
       "screenshotAlt": "עמוד צוות המציג היסטוריית פשיטות משותפת",
       "screenshotDescription": "צפו בהיסטוריית פשיטות משולבת, שתפו נעצי מפה פרטיים, ותאמו מהלכים עם הצוות שלכם.",
       "seeItInAction": "ראו זאת בפעולה"
-    }
+    },
+    "filterMap": "מפה",
+    "filterStatus": "סטטוס",
+    "filterSeason": "עונה",
+    "filterMember": "חבר",
+    "allMaps": "כל המפות",
+    "allStatuses": "כל הסטטוסים",
+    "allSeasons": "כל העונות",
+    "allMembers": "כל החברים",
+    "clearFilters": "נקה מסננים",
+    "noRaidsFiltered": "לא נמצאו פשיטות התואמות למסננים הנוכחיים שלך."
   },
   "MapSubcategories": {
     "abundantLoot": "שלל רב",
@@ -2204,7 +2232,9 @@
       "suggestItem": "הצע פריט",
       "mappingLocked": "מיפוי פריט זה נעול",
       "sortUnsorted": "לא ממוין",
-      "searchPlaceholder": "חיפוש פריטים..."
+      "searchPlaceholder": "חיפוש פריטים...",
+      "sortRarity": "מיון לפי נדירות",
+      "sortName": "מיון לפי שם"
     },
     "currencies": {
       "cred": "קרדיט",
@@ -2527,5 +2557,78 @@
       "player": "שחקן",
       "squadmate": "חבר צוות"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "ברשימות שלך"
+  },
+  "SeasonsPage": {
+    "title": "עונות",
+    "currentSeason": "כרגע אתה ב-{name}",
+    "seasonStarted": "התחילה ב-{date}",
+    "seasonEnds": "מסתיימת ב-{date}",
+    "departure": {
+      "title": "יציאה מ-{season}",
+      "description": "מוכנים ליציאה? שמרו תמונת מצב של ההתקדמות שלכם ובצעו איפוס לקראת העונה הבאה. הקצאות עץ המיומנויות וההתקדמות בפרויקטים שאינם משלחות יישמרו.",
+      "willReset": "יתאפס",
+      "bonusInfo": "נקודות מיומנות בונוס",
+      "bonusDescription": "הרווח נקודת מיומנות בונוס 1 על כל {creditsPerPoint} קרדיטים במאגר (מקסימום {maxPoints} נקודות)",
+      "startButton": "התחל יציאה",
+      "notYetAvailable": "חלון היציאה עדיין לא נפתח. בדוק שוב כשהעונה תסתיים.",
+      "alreadyDeparted": "היציאה הושלמה",
+      "alreadyDepartedDescription": "כבר ביצעת יציאה מהעונה הזו. צפה בנתוני העונה שלך בהיסטוריה למטה.",
+      "confirmTitle": "אשר יציאה",
+      "confirmWarning": "פעולה זו בלתי הפיכה. התקדמות המשימות, המסתור והשרטוטים שלך יאופסו.",
+      "confirmButton": "אשר וצא",
+      "bonusEarned": "בונוס שהושג",
+      "successTitle": "היציאה הושלמה!",
+      "successDescription": "ההתקדמות שלך ב-{season} נשמרה. בהצלחה בעונה הבאה!",
+      "loadingTitle": "טוען סטטוס יציאה",
+      "opensIn": "היציאה נפתחת בעוד {countdown}",
+      "opensAt": "נפתחת ב-{date}"
+    },
+    "autoResetDetected": "זוהתה יציאה מעונה {season}!",
+    "autoResetDescription": "זיהינו את היציאה שלך דרך סנכרון Embark. ההתקדמות שלך נשמרה אוטומטית. ניתן לעדכן את הקרדיטים במחסן ואת רמת השחקן בהיסטוריית העונה למטה.",
+    "expedition": {
+      "title": "משלחת",
+      "description": "יציאות לעונה עבור חשבונות ARC Raiders מקושרים מתבצעות באופן אוטומטי.",
+      "currentState": "מצב המשלחת הנוכחי",
+      "completedExpeditions": "משלחות שהושלמו",
+      "activeSeason": "עונה פעילה",
+      "syncButton": "סנכרן משלחת",
+      "syncingButton": "מסנכרן...",
+      "syncError": "נכשל סנכרון סטטוס המשלחת.",
+      "states": {
+        "notStarted": "טרם החלה",
+        "inProgress": "בתהליך",
+        "completed": "הושלמה",
+        "unknown": "לא ידוע",
+        "ready": "מוכן",
+        "committed": "מחוייב"
+      }
+    },
+    "questionnaire": {
+      "description": "חדש ב-ARCTracker? בחר את הפריט שמופיע בשלב 1 של פרויקט המשלחת שלך כדי שנוכל להגדיר את העונה הנכונה.",
+      "requiredQuantity": "נדרש: {count}",
+      "retakeButton": "מלא מחדש את שאלון העונה",
+      "success": "העונה הפעילה הוגדרה ל-{season}.",
+      "title": "מצא את עונת המשלחת שלך"
+    },
+    "metaDescription": "עקבו אחר עונת המשלחות שלכם ב-ARC Raiders, נהלו יציאות, וסקרו את היסטוריית העונה ב-ARCTracker."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "כל הפריטים הנדרשים (סה״כ)",
+    "backToProjects": "חזרה לפרויקטים",
+    "itemRequirements": "פריטים נדרשים",
+    "metaDescription": "כל דרישות הפריטים עבור {projectName} ב-ARC Raiders. צפו בכל שלב, בפריטים הנדרשים ובכמויות הנחוצות להשלמת פרויקט זה.",
+    "metaTitleSuffix": "דרישות - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "תגמולים",
+    "projectNotFound": "הפרויקט לא נמצא",
+    "projectNotFoundMessage": "הפרויקט המבוקש לא נמצא.",
+    "receive": "קבלה",
+    "totalItemsNeeded": "סה״כ פריטים נדרשים",
+    "totalPhases": "שלבים",
+    "turnIn": "מסירה",
+    "uniqueItems": "פריטים ייחודיים",
+    "valueRequirement": "דרישת ערך"
   }
 }

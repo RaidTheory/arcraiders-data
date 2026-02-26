@@ -121,6 +121,22 @@
       "zh-TW": "使用時間"
     }
   },
+  "craftBench": "in_raid",
+  "recipe": {
+    "tattered_clothes": 1
+  },
+  "salvagesInto": {
+    "bandage": 1
+  },
   "imageFilename": "https://cdn.arctracker.io/items/fabric.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 1
+      },
+      "trader": "Celeste"
+    }
+  ]
 }

@@ -50,7 +50,7 @@
   "value": 1000,
   "weightKg": 0.3,
   "stackSize": 5,
-  "craftBench": "refiner",
+  "craftBench": ["in_raid", "refiner"],
   "stationLevelRequired": 2,
   "recipe": {
     "arc_alloy": 8
@@ -62,5 +62,6 @@
     "arc_alloy": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/arc_circuitry.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

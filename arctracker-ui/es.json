@@ -74,7 +74,8 @@
     "apps": "Aplicaciones",
     "discordBot": "Bot de Discord",
     "squads": "Escuadrones",
-    "stash": "Alijo"
+    "stash": "Alijo",
+    "seasons": "Temporadas"
   },
   "MapEvents": {
     "startsIn": "Empieza en",
@@ -109,7 +110,8 @@
       "launchTowerLoot": "Botín de Torre de Lanzamiento",
       "hiddenBunker": "Búnker Oculto",
       "none": "Ninguno",
-      "birdCity": "Ciudad de los Pájaros"
+      "birdCity": "Ciudad de los Pájaros",
+      "hurricane": "Huracán"
     }
   },
   "Common": {
@@ -185,11 +187,6 @@
     "requirementsUnknown": "Requisitos aún no conocidos",
     "noRequirements": "Sin requisitos",
     "coins": "monedas",
-    "combatItems": "Objetos de Combate",
-    "survivalItems": "Objetos de Supervivencia",
-    "provisions": "Provisiones",
-    "materials": "Materiales",
-    "value": "Valor",
     "phases": "fases",
     "required": "Requerido",
     "submitItemsValue": "Entrega objetos por el valor requerido para completar esta fase.",
@@ -197,7 +194,8 @@
     "season2": "Temporada 2",
     "stashModeActive": "Cantidades del alijo sincronizado",
     "lastSynced": "Sincronizado",
-    "syncStash": "Sincronizar alijo"
+    "syncStash": "Sincronizar alijo",
+    "season3": "Temporada 3"
   },
   "HideoutPage": {
     "level": "Nivel",
@@ -577,7 +575,9 @@
     },
     "dropRates": "Tasas de obtención",
     "inRaidCrafting": "Fabricación en incursión",
-    "attachments": "Accesorios"
+    "attachments": "Accesorios",
+    "upgradePath": "Ruta de mejora",
+    "currentTier": "Actual"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Buscar objetos...",
@@ -651,7 +651,9 @@
     "squadsTitle": "Escuadrones - ARC Raiders",
     "squadsDescription": "Crea y gestiona escuadrones para compartir el historial de incursiones y el progreso con amigos en ARC Raiders.",
     "stashTitle": "Rastreador de alijo - ARC Raiders",
-    "stashDescription": "Sincroniza y rastrea automáticamente el inventario de tu alijo, equipamiento y monedas de ARC Raiders. Vincula tu cuenta de juego para recibir actualizaciones en tiempo real."
+    "stashDescription": "Sincroniza y rastrea automáticamente el inventario de tu alijo, equipamiento y monedas de ARC Raiders. Vincula tu cuenta de juego para recibir actualizaciones en tiempo real.",
+    "projectNotFoundTitle": "Proyecto no encontrado - ARC Raiders",
+    "projectNotFoundDescription": "No se pudo encontrar el proyecto solicitado."
   },
   "OverlayPage": {
     "pageTitle": "App Complementaria Overlay",
@@ -703,7 +705,7 @@
   },
   "Footer": {
     "copyright": "El contenido y los materiales del juego son marcas comerciales y derechos de autor de Embark Studios y sus licenciantes. Todos los derechos reservados.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Términos de Servicio",
     "privacyPolicy": "Política de Privacidad"
   },
@@ -895,7 +897,9 @@
     "createYourOwn": "Crea Tu Propia Lista",
     "listNotFound": "Lista No Encontrada",
     "listNotFoundDescription": "Esta lista no existe o no está compartida públicamente.",
-    "backToHome": "Volver al Inicio"
+    "backToHome": "Volver al Inicio",
+    "cancel": "Cancelar",
+    "save": "Guardar"
   },
   "Maps": {
     "showAll": "Mostrar Todo",
@@ -1452,7 +1456,9 @@
       "totalValueExtracted": "Valor total extraído",
       "valueBroughtIn": "Valor introducido",
       "valueExtracted": "Valor extraído",
-      "weaponsByKillsTitle": "Armas por bajas"
+      "weaponsByKillsTitle": "Armas por bajas",
+      "containersLooted": "Contenedores saqueados",
+      "containersPerRaid": "Contenedores / Incursión"
     },
     "extractedSuffix": " extraído(s)",
     "extractionRate": "Tasa de extracción",
@@ -1520,7 +1526,8 @@
     "undoSyncFailedLocally": "Error al deshacer sincronización localmente",
     "unknownMap": "Mapa desconocido",
     "valueSuffix": " valor",
-    "timeInRaid": "Tiempo en incursión"
+    "timeInRaid": "Tiempo en incursión",
+    "statDamageByTarget": "Daño por objetivo"
   },
   "RaidSync": {
     "title": "Aplicar al Progreso",
@@ -1632,7 +1639,9 @@
         "hideout": "Módulos de Guarida",
         "done": "Hecho"
       },
-      "flickeringFlames": "Llamas vacilantes"
+      "flickeringFlames": "Llamas vacilantes",
+      "nonExpeditionProjects": "Proyectos ajenos a las expediciones",
+      "expeditionProjects": "Proyectos de expedición"
     }
   },
   "DeviceAuth": {
@@ -1764,7 +1773,16 @@
       "saving": "Guardando...",
       "selectAll": "Seleccionar todo",
       "unselectAll": "Deseleccionar todo",
-      "noChanges": "No hay cambios que guardar"
+      "noChanges": "No hay cambios que guardar",
+      "cancel": "Cancelar"
+    },
+    "inferred": {
+      "completedViaLabel": "Fuente de finalización",
+      "completedViaValue": "Progreso de expedición de ARC Raiders",
+      "description": "La finalización de esta temporada se detectó a partir de tu sincronización de expediciones de ARC Raiders.",
+      "detailsLabel": "Estadísticas detalladas",
+      "detailsValue": "No disponible para esta temporada.",
+      "title": "Temporada {number} completada"
     }
   },
   "DiscordBotPage": {
@@ -1999,7 +2017,17 @@
       "screenshotAlt": "Página de escuadrón mostrando el historial de incursiones compartido",
       "screenshotDescription": "Consulta el historial de incursiones combinado, comparte marcadores de mapa privados y coordínate con tu escuadrón.",
       "seeItInAction": "Verlo en acción"
-    }
+    },
+    "filterMap": "Mapa",
+    "filterStatus": "Estado",
+    "filterSeason": "Temporada",
+    "filterMember": "Miembro",
+    "allMaps": "Todos los mapas",
+    "allStatuses": "Todos los estados",
+    "allSeasons": "Todas las temporadas",
+    "allMembers": "Todos los miembros",
+    "clearFilters": "Limpiar filtros",
+    "noRaidsFiltered": "Ninguna incursión coincide con tus filtros actuales."
   },
   "MapSubcategories": {
     "abundantLoot": "Botín abundante",
@@ -2217,7 +2245,9 @@
       "suggestItem": "Sugerir objeto",
       "mappingLocked": "La asignación de este objeto está bloqueada",
       "sortUnsorted": "Sin clasificar",
-      "searchPlaceholder": "Buscar objetos..."
+      "searchPlaceholder": "Buscar objetos...",
+      "sortRarity": "Ordenar por rareza",
+      "sortName": "Ordenar por nombre"
     },
     "currencies": {
       "cred": "Cred",
@@ -2540,5 +2570,78 @@
       "player": "Jugador",
       "squadmate": "Compañero de escuadrón"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "En tus listas"
+  },
+  "SeasonsPage": {
+    "title": "Temporadas",
+    "currentSeason": "Actualmente estás en {name}",
+    "seasonStarted": "Comenzó el {date}",
+    "seasonEnds": "Termina el {date}",
+    "departure": {
+      "title": "Salir de {season}",
+      "description": "¿Listo para partir? Guarda una instantánea de tu progreso y reinicia para la siguiente temporada. Se conservarán tus asignaciones del árbol de habilidades y el progreso de los proyectos ajenos a las expediciones.",
+      "willReset": "Se reiniciará",
+      "bonusInfo": "Puntos de habilidad de bonificación",
+      "bonusDescription": "Gana 1 punto de habilidad de bonificación por cada {creditsPerPoint} créditos del alijo (máx. {maxPoints} puntos)",
+      "startButton": "Iniciar salida",
+      "notYetAvailable": "La ventana de salida aún no está abierta. Vuelve a comprobarlo cuando termine la temporada.",
+      "alreadyDeparted": "Salida completada",
+      "alreadyDepartedDescription": "Ya has salido de esta temporada. Consulta tus estadísticas de temporada en el historial a continuación.",
+      "confirmTitle": "Confirmar salida",
+      "confirmWarning": "Esta acción no se puede deshacer. Tu progreso de misiones, guarida y planos se reiniciará.",
+      "confirmButton": "Confirmar y salir",
+      "bonusEarned": "Bonificación ganada",
+      "successTitle": "¡Salida completada!",
+      "successDescription": "Tu progreso de {season} se ha guardado. ¡Buena suerte en la próxima temporada!",
+      "loadingTitle": "Cargando estado de salida",
+      "opensIn": "La salida se abre en {countdown}",
+      "opensAt": "Se abre el {date}"
+    },
+    "autoResetDetected": "¡Salida de la Temporada {season} detectada!",
+    "autoResetDescription": "Hemos detectado tu salida a través de la sincronización con Embark. Tu progreso se ha guardado automáticamente. Puedes actualizar tus créditos del alijo y nivel de jugador en el historial de la temporada a continuación.",
+    "expedition": {
+      "title": "Expedición",
+      "description": "Las salidas de temporada para las cuentas vinculadas de ARC Raiders son automáticas.",
+      "currentState": "Estado actual de la expedición",
+      "completedExpeditions": "Expediciones completadas",
+      "activeSeason": "Temporada activa",
+      "syncButton": "Sincronizar expedición",
+      "syncingButton": "Sincronizando...",
+      "syncError": "Error al sincronizar el estado de la expedición.",
+      "states": {
+        "notStarted": "no iniciada",
+        "inProgress": "en curso",
+        "completed": "completada",
+        "unknown": "Desconocido",
+        "ready": "Listo",
+        "committed": "Comprometido"
+      }
+    },
+    "questionnaire": {
+      "description": "¿Eres nuevo en ARCTracker? Selecciona el objeto que ves en la Fase 1 de tu proyecto de expedición para que podamos establecer la temporada correcta.",
+      "requiredQuantity": "Requerido: {count}",
+      "retakeButton": "Repetir el cuestionario de temporada",
+      "success": "Temporada activa establecida en {season}.",
+      "title": "Encuentra tu temporada de expedición"
+    },
+    "metaDescription": "Sigue tu temporada de expediciones de ARC Raiders, gestiona las salidas y revisa el historial de la temporada en ARCTracker."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "Todos los objetos necesarios (Total)",
+    "backToProjects": "Volver a Proyectos",
+    "itemRequirements": "Objetos necesarios",
+    "metaDescription": "Todos los requisitos de objetos para {projectName} en ARC Raiders. Consulta cada fase, los objetos necesarios y las cantidades requeridas para completar este proyecto.",
+    "metaTitleSuffix": "Requisitos - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "Recompensas",
+    "projectNotFound": "Proyecto no encontrado",
+    "projectNotFoundMessage": "No se pudo encontrar el proyecto solicitado.",
+    "receive": "Recibir",
+    "totalItemsNeeded": "Total de objetos necesarios",
+    "totalPhases": "Fases",
+    "turnIn": "Entregar",
+    "uniqueItems": "Objetos únicos",
+    "valueRequirement": "Requisito de valor"
   }
 }

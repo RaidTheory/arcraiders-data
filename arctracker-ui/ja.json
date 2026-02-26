@@ -74,7 +74,8 @@
     "privacy": "プライバシーポリシー",
     "terms": "利用規約",
     "squads": "スクワッド",
-    "stash": "スタッシュ"
+    "stash": "スタッシュ",
+    "seasons": "シーズン"
   },
   "MapEvents": {
     "startsIn": "開始まで",
@@ -109,7 +110,8 @@
       "launchTowerLoot": "発射塔の戦利品",
       "hiddenBunker": "隠された貯蔵庫",
       "none": "なし",
-      "birdCity": "鳥の街"
+      "birdCity": "鳥の街",
+      "hurricane": "ハリケーン"
     }
   },
   "Common": {
@@ -192,11 +194,6 @@
     "requirementsUnknown": "要件はまだ判明していません",
     "noRequirements": "要件なし",
     "coins": "コイン",
-    "combatItems": "戦闘アイテム",
-    "survivalItems": "サバイバルアイテム",
-    "provisions": "物資",
-    "materials": "資材",
-    "value": "価値",
     "phases": "フェーズ",
     "required": "必要数",
     "submitItemsValue": "このフェーズを完了するには、必要な価値分のアイテムを提出してください。",
@@ -204,7 +201,8 @@
     "season2": "シーズン2",
     "stashModeActive": "同期済みスタッシュの数量",
     "lastSynced": "同期済み",
-    "syncStash": "スタッシュを同期"
+    "syncStash": "スタッシュを同期",
+    "season3": "シーズン3"
   },
   "HideoutPage": {
     "level": "レベル",
@@ -584,7 +582,9 @@
       "tooltipThisWeek": "今週",
       "tooltipWeeksAgo": "{count}週間前"
     },
-    "attachments": "アタッチメント"
+    "attachments": "アタッチメント",
+    "upgradePath": "アップグレードパス",
+    "currentTier": "現在"
   },
   "ItemsListPage": {
     "searchPlaceholder": "アイテムを検索...",
@@ -658,7 +658,9 @@
     "squadsTitle": "スクワッド - ARC Raiders",
     "squadsDescription": "ARC Raidersでスクワッドを作成・管理し、フレンドとレイド履歴や進捗を共有しましょう。",
     "stashTitle": "スタッシュトラッカー - ARC Raiders",
-    "stashDescription": "ARC Raidersのスタッシュ、ロードアウト、通貨を自動的に同期・管理します。ゲームアカウントを連携して、リアルタイム更新をご利用ください。"
+    "stashDescription": "ARC Raidersのスタッシュ、ロードアウト、通貨を自動的に同期・管理します。ゲームアカウントを連携して、リアルタイム更新をご利用ください。",
+    "projectNotFoundTitle": "プロジェクトが見つかりません - ARC Raiders",
+    "projectNotFoundDescription": "リクエストされたプロジェクトは見つかりませんでした。"
   },
   "OverlayPage": {
     "pageTitle": "オーバーレイ・コンパニオンアプリ",
@@ -782,7 +784,7 @@
   },
   "Footer": {
     "copyright": "ゲームコンテンツおよび素材はEmbark Studiosおよびそのライセンサーの商標および著作権です。All rights reserved.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "利用規約",
     "privacyPolicy": "プライバシーポリシー"
   },
@@ -987,7 +989,9 @@
     "createYourOwn": "自分のリストを作成",
     "listNotFound": "リストが見つかりません",
     "listNotFoundDescription": "このリストは存在しないか、公開されていません。",
-    "backToHome": "ホームに戻る"
+    "backToHome": "ホームに戻る",
+    "cancel": "キャンセル",
+    "save": "保存"
   },
   "Maps": {
     "showAll": "すべて表示",
@@ -1609,7 +1613,9 @@
       "totalValueExtracted": "総回収価値",
       "valueBroughtIn": "持ち込み価値",
       "valueExtracted": "回収価値",
-      "weaponsByKillsTitle": "キル数別武器"
+      "weaponsByKillsTitle": "キル数別武器",
+      "containersLooted": "漁ったコンテナ",
+      "containersPerRaid": "コンテナ / レイド"
     },
     "extractedSuffix": " 回収済み",
     "extractionRate": "脱出率",
@@ -1677,7 +1683,8 @@
     "undoSyncFailedLocally": "ローカルでの同期取り消しに失敗しました",
     "unknownMap": "不明なマップ",
     "valueSuffix": " 相当",
-    "timeInRaid": "レイド時間"
+    "timeInRaid": "レイド時間",
+    "statDamageByTarget": "ターゲット別ダメージ"
   },
   "RaidSync": {
     "title": "進行状況に適用",
@@ -1773,7 +1780,16 @@
       "saving": "保存中...",
       "selectAll": "すべて選択",
       "unselectAll": "すべて選択解除",
-      "noChanges": "保存する変更はありません"
+      "noChanges": "保存する変更はありません",
+      "cancel": "キャンセル"
+    },
+    "inferred": {
+      "completedViaLabel": "完了ソース",
+      "completedViaValue": "ARC Raiders 遠征の進捗",
+      "description": "このシーズンの完了は、ARC Raidersの遠征同期から検出されました。",
+      "detailsLabel": "詳細な統計",
+      "detailsValue": "このシーズンでは利用できません。",
+      "title": "シーズン{number} 完了"
     }
   },
   "season": {
@@ -1835,7 +1851,9 @@
         "quests": "完了したクエスト",
         "hideout": "ハイドアウトモジュール",
         "done": "完了"
-      }
+      },
+      "nonExpeditionProjects": "遠征以外のプロジェクト",
+      "expeditionProjects": "遠征プロジェクト"
     }
   },
   "SquadsPage": {
@@ -1985,7 +2003,17 @@
       "screenshotAlt": "共有されたレイド履歴を表示しているスクワッドページ",
       "screenshotDescription": "レイド履歴の統合表示、プライベートマップピンの共有、そしてスクワッドとの連携が可能。",
       "seeItInAction": "実際の動作を見る"
-    }
+    },
+    "filterMap": "マップ",
+    "filterStatus": "ステータス",
+    "filterSeason": "シーズン",
+    "filterMember": "メンバー",
+    "allMaps": "すべてのマップ",
+    "allStatuses": "すべてのステータス",
+    "allSeasons": "すべてのシーズン",
+    "allMembers": "すべてのメンバー",
+    "clearFilters": "フィルターをクリア",
+    "noRaidsFiltered": "現在のフィルター条件に一致するレイドはありません。"
   },
   "MapSubcategories": {
     "abundantLoot": "豊富な戦利品",
@@ -2203,7 +2231,9 @@
       "suggestItem": "アイテムを提案",
       "mappingLocked": "このアイテムのマッピングはロックされています",
       "sortUnsorted": "未整理",
-      "searchPlaceholder": "アイテムを検索..."
+      "searchPlaceholder": "アイテムを検索...",
+      "sortRarity": "レアリティ順",
+      "sortName": "名前順"
     },
     "currencies": {
       "cred": "クレド",
@@ -2526,5 +2556,78 @@
       "player": "プレイヤー",
       "squadmate": "スクワッドメイト"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "あなたのリスト"
+  },
+  "SeasonsPage": {
+    "title": "シーズン",
+    "currentSeason": "現在 {name} をプレイ中です",
+    "seasonStarted": "{date} 開始",
+    "seasonEnds": "{date} 終了",
+    "departure": {
+      "title": "{season} から旅立つ",
+      "description": "出発の準備はよろしいですか？進行状況のスナップショットを保存し、次のシーズンに向けてリセットします。スキルツリーの割り当ておよび遠征以外のプロジェクトの進行状況は引き継がれます。",
+      "willReset": "リセットされる項目",
+      "bonusInfo": "ボーナススキルポイント",
+      "bonusDescription": "{creditsPerPoint} スタッシュクレジットにつき、ボーナススキルポイントを 1 ポイント獲得（最大 {maxPoints} ポイント）",
+      "startButton": "旅立ちを開始",
+      "notYetAvailable": "旅立ちの期間はまだ始まっていません。シーズンの終了時に再度確認してください。",
+      "alreadyDeparted": "旅立ち完了",
+      "alreadyDepartedDescription": "このシーズンからはすでに旅立ちました。以下の履歴でシーズンの統計を確認できます。",
+      "confirmTitle": "旅立ちの確認",
+      "confirmWarning": "この操作は取り消せません。クエストの進行状況、ハイドアウト、設計図はリセットされます。",
+      "confirmButton": "確認して旅立つ",
+      "bonusEarned": "獲得したボーナス",
+      "successTitle": "旅立ちが完了しました！",
+      "successDescription": "{season} の進行状況が保存されました。次のシーズンでの健闘を祈ります！",
+      "loadingTitle": "出発状況を読み込み中",
+      "opensIn": "出発開始まで {countdown}",
+      "opensAt": "{date}に開始"
+    },
+    "autoResetDetected": "シーズン{season}からの離脱を検知しました！",
+    "autoResetDescription": "Embark同期により、離脱を検知しました。進行状況は自動的に保存されました。以下のシーズン履歴で、スタッシュのクレジットやプレイヤーレベルを更新できます。",
+    "expedition": {
+      "title": "遠征",
+      "description": "連携されたARC Raidersアカウントのシーズン出撃は自動的に行われます。",
+      "currentState": "現在の遠征状況",
+      "completedExpeditions": "完了した遠征",
+      "activeSeason": "開催中のシーズン",
+      "syncButton": "遠征を同期",
+      "syncingButton": "同期中...",
+      "syncError": "遠征ステータスの同期に失敗しました。",
+      "states": {
+        "notStarted": "未開始",
+        "inProgress": "進行中",
+        "completed": "完了",
+        "unknown": "不明",
+        "ready": "準備完了",
+        "committed": "確定済み"
+      }
+    },
+    "questionnaire": {
+      "description": "ARCTrackerは初めてですか？適切なシーズンを設定するために、遠征プロジェクトのフェーズ1に表示されているアイテムを選択してください。",
+      "requiredQuantity": "必要数: {count}",
+      "retakeButton": "シーズン診断をやり直す",
+      "success": "アクティブなシーズンを {season} に設定しました。",
+      "title": "遠征シーズンを見つける"
+    },
+    "metaDescription": "ARCTrackerでARC Raidersの遠征シーズンを追跡し、出撃の管理やシーズン履歴を確認しましょう。"
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "必要なアイテム一覧 (合計)",
+    "backToProjects": "プロジェクトに戻る",
+    "itemRequirements": "必要アイテム",
+    "metaDescription": "ARC Raidersにおける{projectName}の全必要アイテム。このプロジェクトを完了するために必要な全フェーズ、必要アイテム、数量を確認できます。",
+    "metaTitleSuffix": "必要要件 - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "報酬",
+    "projectNotFound": "プロジェクトが見つかりません",
+    "projectNotFoundMessage": "リクエストされたプロジェクトは見つかりませんでした。",
+    "receive": "入手",
+    "totalItemsNeeded": "必要アイテム総数",
+    "totalPhases": "フェーズ",
+    "turnIn": "納品",
+    "uniqueItems": "ユニークアイテム",
+    "valueRequirement": "必要価値"
   }
 }

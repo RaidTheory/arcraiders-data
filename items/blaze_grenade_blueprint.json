@@ -45,9 +45,11 @@
     "zh-TW": "撞擊時引爆的手榴彈，會在區域內產生持續造成傷害的火焰。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/blaze_grenade.png",
-  "updatedAt": "11/13/2025"
+  "updatedAt": "11/13/2025",
+  "addedIn": "base"
 }

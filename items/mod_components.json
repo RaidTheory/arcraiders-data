@@ -50,7 +50,7 @@
   "value": 1750,
   "weightKg": 1,
   "stackSize": 5,
-  "craftBench": "refiner",
+  "craftBench": ["in_raid", "refiner"],
   "stationLevelRequired": 2,
   "recipe": {
     "mechanical_components": 2,
@@ -64,5 +64,6 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/mod_components.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

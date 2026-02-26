@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 800,
   "weightKg": 5,
+  "stackSize": 1,
   "isWeapon": true,
   "effects": {
     "Ammo Type": {
@@ -166,7 +167,7 @@
       "zh-TW": "彈匣容量"
     }
   },
-  "craftBench": ["workbench", "weapon_bench"],
+  "craftBench": ["weapon_bench", "workbench"],
   "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 8,
@@ -179,6 +180,61 @@
   "salvagesInto": {
     "metal_parts": 3
   },
+  "upgradeCost": {
+    "metal_parts": 8,
+    "rubber_parts": 12
+  },
   "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "grip": [
+      "angled_grip_i",
+      "angled_grip_ii",
+      "angled_grip_iii",
+      "horizontal_grip",
+      "vertical_grip_i",
+      "vertical_grip_ii",
+      "vertical_grip_iii"
+    ],
+    "magazine": [
+      "extended_light_mag_i",
+      "extended_light_mag_ii",
+      "extended_light_mag_iii"
+    ],
+    "muzzle": [
+      "compensator_i",
+      "compensator_ii",
+      "compensator_iii",
+      "extended_barrel",
+      "muzzle_brake_i",
+      "muzzle_brake_ii",
+      "muzzle_brake_iii",
+      "silencer_i",
+      "silencer_ii",
+      "silencer_iii"
+    ],
+    "stock": [
+      "kinetic_converter",
+      "lightweight_stock",
+      "padded_stock",
+      "stable_stock_i",
+      "stable_stock_ii",
+      "stable_stock_iii"
+    ]
+  },
+  "repairCost": {
+    "metal_parts": 3,
+    "rubber_parts": 2
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "stitcher_ii",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 2400
+      },
+      "trader": "Tian Wen"
+    }
+  ]
 }

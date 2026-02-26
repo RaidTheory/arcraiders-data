@@ -74,7 +74,8 @@
     "settings": "Settings",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
-    "stash": "Stash"
+    "stash": "Stash",
+    "seasons": "Seasons"
   },
   "MapEvents": {
     "startsIn": "Starts in",
@@ -109,6 +110,7 @@
       "launchTowerLoot": "Launch Tower Loot",
       "hiddenBunker": "Hidden Bunker",
       "birdCity": "Bird City",
+      "hurricane": "Hurricane",
       "none": "None"
     }
   },
@@ -192,16 +194,12 @@
     "requirementsUnknown": "Requirements not yet known",
     "noRequirements": "No requirements",
     "coins": "coins",
-    "combatItems": "Combat Items",
-    "survivalItems": "Survival Items",
-    "provisions": "Provisions",
-    "materials": "Materials",
-    "value": "Value",
     "phases": "phases",
     "required": "Required",
     "submitItemsValue": "Submit items worth the required value to complete this phase.",
     "season1": "Season 1",
     "season2": "Season 2",
+    "season3": "Season 3",
     "stashModeActive": "Counts from synced stash",
     "lastSynced": "Synced",
     "syncStash": "Sync stash"
@@ -533,6 +531,8 @@
     "durability": "Durability:",
     "maxMods": "Max Mods:",
     "upgradeCost": "Upgrade Cost",
+    "upgradePath": "Upgrade Path",
+    "currentTier": "Current",
     "recyclesInto": "Recycles Into",
     "recycleValue": "When recycling, you will receive",
     "recycleMore": "more",
@@ -585,6 +585,9 @@
         "highDesc": "200+ raids tracked"
       }
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "On Your Lists"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Search items...",
@@ -658,7 +661,9 @@
     "squadsTitle": "Squads - ARC Raiders",
     "squadsDescription": "Create and manage squads to share raid history and progress with friends in ARC Raiders.",
     "stashTitle": "Stash Tracker - ARC Raiders",
-    "stashDescription": "Automatically sync and track your ARC Raiders stash inventory, loadout, and currencies. Link your game account for real-time updates."
+    "stashDescription": "Automatically sync and track your ARC Raiders stash inventory, loadout, and currencies. Link your game account for real-time updates.",
+    "projectNotFoundTitle": "Project Not Found - ARC Raiders",
+    "projectNotFoundDescription": "The requested project could not be found."
   },
   "OverlayPage": {
     "pageTitle": "Overlay Companion App",
@@ -778,7 +783,7 @@
   },
   "Footer": {
     "copyright": "Game content and materials are trademarks and copyrights of Embark Studios and its licensors. All rights reserved.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Terms of Service",
     "privacyPolicy": "Privacy Policy"
   },
@@ -1093,7 +1098,9 @@
     "createYourOwn": "Create Your Own List",
     "listNotFound": "List Not Found",
     "listNotFoundDescription": "This list doesn't exist or is not publicly shared.",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "cancel": "Cancel",
+    "save": "Save"
   },
   "Maps": {
     "showAll": "Show All",
@@ -1647,6 +1654,7 @@
     "statDown": "down",
     "statDowns": "downs",
     "statDmg": "dmg",
+    "statDamageByTarget": "Damage by Target",
     "statXP": "XP",
     "statValue": "Value",
     "statBroughtIn": "Brought in:",
@@ -1683,6 +1691,8 @@
       "netProfitLoss": "Net Profit / Loss",
       "avgProfitPerExtraction": "Avg Profit per Extraction",
       "playerKills": "Player Kills",
+      "containersLooted": "Containers Looted",
+      "containersPerRaid": "Containers / Raid",
       "extractedLabel": "extracted",
       "diedLabel": "died",
       "arcEnemiesByTypeTitle": "ARC Enemies Destroyed by Type",
@@ -1873,13 +1883,73 @@
       "count": "{count} blueprints learned",
       "noBlueprints": "No blueprints learned"
     },
+    "inferred": {
+      "title": "Season {number} completed",
+      "description": "This season completion was detected from your ARC Raiders expedition sync.",
+      "completedViaLabel": "Completion source",
+      "completedViaValue": "ARC Raiders expedition progress",
+      "detailsLabel": "Detailed stats",
+      "detailsValue": "Not available for this season."
+    },
     "edit": {
       "button": "Edit",
+      "cancel": "Cancel",
       "save": "Save Changes",
       "saving": "Saving...",
       "selectAll": "Select All",
       "unselectAll": "Unselect All",
       "noChanges": "No changes to save"
+    }
+  },
+  "SeasonsPage": {
+    "title": "Seasons",
+    "metaDescription": "Track your ARC Raiders expedition season, manage departures, and review season history in ARCTracker.",
+    "currentSeason": "You are currently on {name}",
+    "seasonStarted": "Started {date}",
+    "seasonEnds": "Ends {date}",
+    "questionnaire": {
+      "title": "Find your expedition season",
+      "description": "New to ARCTracker? Pick the item you see in Phase 1 of your expedition project so we can set the right season.",
+      "requiredQuantity": "Required: {count}",
+      "success": "Set active season to {season}.",
+      "retakeButton": "Retake season questionnaire"
+    },
+    "departure": {
+      "title": "Depart {season}",
+      "loadingTitle": "Loading departure status",
+      "description": "Ready to depart? Save your progress snapshot and reset for the next season. Your skill tree allocations and non-expedition project progress will be preserved.",
+      "willReset": "Will reset",
+      "bonusInfo": "Bonus Skill Points",
+      "bonusDescription": "Earn 1 bonus skill point per {creditsPerPoint} stash credits (max {maxPoints} points)",
+      "startButton": "Start Departure",
+      "notYetAvailable": "The departure window is not yet open. Check back when the season ends.",
+      "opensIn": "Departure opens in {countdown}",
+      "opensAt": "Opens at {date}",
+      "alreadyDeparted": "Departure Complete",
+      "alreadyDepartedDescription": "You have already departed this season. View your season stats in the history below.",
+      "confirmTitle": "Confirm Departure",
+      "confirmWarning": "This action cannot be undone. Your quest progress, hideout, and blueprints will be reset.",
+      "confirmButton": "Confirm & Depart",
+      "bonusEarned": "Bonus earned",
+      "successTitle": "Departure Complete!",
+      "successDescription": "Your {season} progress has been saved. Good luck in the next season!"
+    },
+    "autoResetDetected": "Season {season} departure detected!",
+    "autoResetDescription": "We detected your departure via Embark sync. Your progress has been automatically saved. You can update your stash credits and player level in the season history below.",
+    "expedition": {
+      "title": "Expedition",
+      "description": "Season departures for linked ARC Raiders accounts are automatic.",
+      "currentState": "Current expedition state",
+      "completedExpeditions": "Completed expeditions",
+      "activeSeason": "Active season",
+      "syncButton": "Sync Expedition",
+      "syncingButton": "Syncing...",
+      "syncError": "Failed to sync expedition status.",
+      "states": {
+        "ready": "Ready",
+        "committed": "Committed",
+        "unknown": "Unknown"
+      }
     }
   },
   "season": {
@@ -1899,8 +1969,10 @@
       "quests": "Quest Progress",
       "hideout": "Hideout",
       "projects": "Projects",
+      "expeditionProjects": "Expedition projects",
       "skillTree": "Skill Tree",
       "flickeringFlames": "Flickering Flames",
+      "nonExpeditionProjects": "Non-expedition projects",
       "blueprints": "Blueprints",
       "itemProgress": "Item Progress",
       "step1": {
@@ -1997,11 +2069,11 @@
       "never": "Never"
     },
     "uses": {
-      "unlimited": "No limit",
       "1": "1 use",
       "5": "5 uses",
       "10": "10 uses",
-      "25": "25 uses"
+      "25": "25 uses",
+      "unlimited": "No limit"
     },
     "leftSquad": "You left the squad",
     "leaveError": "Failed to leave squad",
@@ -2038,6 +2110,16 @@
     "noNeededItemsDescription": "No squad members are sharing needed items, or there are no items needed.",
     "noRaidHistory": "No Raid History",
     "noRaidHistoryDescription": "No squad members are sharing their raid history yet.",
+    "noRaidsFiltered": "No raids match your current filters.",
+    "filterMap": "Map",
+    "filterStatus": "Status",
+    "filterSeason": "Season",
+    "filterMember": "Member",
+    "allMaps": "All Maps",
+    "allStatuses": "All Statuses",
+    "allSeasons": "All Seasons",
+    "allMembers": "All Members",
+    "clearFilters": "Clear Filters",
     "showingRaids": "Showing {from}-{to} of {total} raids",
     "status": {
       "survived": "Survived",
@@ -2208,6 +2290,8 @@
       "lastSynced": "Last synced",
       "value": "value",
       "sortUnsorted": "Unsorted",
+      "sortRarity": "Sort by Rarity",
+      "sortName": "Sort by Name",
       "unmappedWarning": "{count, plural, one {# item needs identification} other {# items need identification}}. Sort your in-game stash by \"Unsorted\" to find these items, then right-click on unknown items here to suggest what they are.",
       "suggestMapping": "Suggest Item Mapping",
       "suggestMappingDescription": "Help identify this unknown item by selecting the matching ArcTracker item.",
@@ -2510,6 +2594,22 @@
     "responseFormatDescription": "All authenticated endpoints return a consistent JSON envelope.",
     "successResponse": "Success Response",
     "errorResponse": "Error Response"
+  },
+  "ProjectDetailPage": {
+    "metaTitleSuffix": "Requirements - ARC Raiders | ARCTracker.io",
+    "metaDescription": "All item requirements for {projectName} in ARC Raiders. View every phase, required items, and quantities needed to complete this project.",
+    "projectNotFound": "Project Not Found",
+    "projectNotFoundMessage": "The requested project could not be found.",
+    "backToProjects": "Back to Projects",
+    "totalPhases": "Phases",
+    "uniqueItems": "Unique Items",
+    "totalItemsNeeded": "Total Items Needed",
+    "allRequiredItems": "All Required Items (Total)",
+    "phaseRewards": "Rewards",
+    "turnIn": "Turn in",
+    "receive": "Receive",
+    "valueRequirement": "Value Requirement",
+    "itemRequirements": "Required Items"
   },
   "EmbarkStats": {
     "weapons": {

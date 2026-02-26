@@ -74,7 +74,8 @@
     "apps": "Apps",
     "discordBot": "Discord-bot",
     "squads": "Hold",
-    "stash": "Lager"
+    "stash": "Lager",
+    "seasons": "Sæsoner"
   },
   "MapEvents": {
     "startsIn": "Starter om",
@@ -109,7 +110,8 @@
       "launchTowerLoot": "Affyringstårn Loot",
       "hiddenBunker": "Skjult Bunker",
       "none": "Ingen",
-      "birdCity": "Fugleby"
+      "birdCity": "Fugleby",
+      "hurricane": "Orkan"
     }
   },
   "Common": {
@@ -185,11 +187,6 @@
     "requirementsUnknown": "Krav endnu ikke kendt",
     "noRequirements": "Ingen krav",
     "coins": "mønter",
-    "combatItems": "Kampgenstande",
-    "survivalItems": "Overlevelsesgenstande",
-    "provisions": "Proviant",
-    "materials": "Materialer",
-    "value": "Værdi",
     "phases": "faser",
     "required": "Påkrævet",
     "submitItemsValue": "Indsend genstande til den påkrævede værdi for at fuldføre denne fase.",
@@ -197,7 +194,8 @@
     "season2": "Sæson 2",
     "stashModeActive": "Antal fra synkroniseret lager",
     "lastSynced": "Synkroniseret",
-    "syncStash": "Synkroniser lager"
+    "syncStash": "Synkroniser lager",
+    "season3": "Sæson 3"
   },
   "HideoutPage": {
     "level": "Niveau",
@@ -577,7 +575,9 @@
     },
     "dropRates": "Drop-rater",
     "inRaidCrafting": "Fremstilling under raid",
-    "attachments": "Tilbehør"
+    "attachments": "Tilbehør",
+    "upgradePath": "Opgraderingsvej",
+    "currentTier": "Nuværende"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Søg genstande...",
@@ -651,7 +651,9 @@
     "squadsTitle": "Hold - ARC Raiders",
     "squadsDescription": "Opret og administrer hold for at dele raid-historik og fremskridt med venner i ARC Raiders.",
     "stashTitle": "Lager-tracker - ARC Raiders",
-    "stashDescription": "Synkroniser og spor automatisk dit ARC Raiders-lager, udrustning og valutaer. Tilknyt din spilkonto for opdateringer i realtid."
+    "stashDescription": "Synkroniser og spor automatisk dit ARC Raiders-lager, udrustning og valutaer. Tilknyt din spilkonto for opdateringer i realtid.",
+    "projectNotFoundTitle": "Projekt ikke fundet - ARC Raiders",
+    "projectNotFoundDescription": "Det anmodede projekt kunne ikke findes."
   },
   "OverlayPage": {
     "pageTitle": "Overlay Companion App",
@@ -703,7 +705,7 @@
   },
   "Footer": {
     "copyright": "Spilindhold og materialer er varemærker og ophavsrettigheder tilhørende Embark Studios og deres licensgivere. Alle rettigheder forbeholdes.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Vilkår for Brug",
     "privacyPolicy": "Privatlivspolitik"
   },
@@ -895,7 +897,9 @@
     "createYourOwn": "Opret Din Egen Liste",
     "listNotFound": "Liste Ikke Fundet",
     "listNotFoundDescription": "Denne liste eksisterer ikke eller er ikke offentligt delt.",
-    "backToHome": "Tilbage til Hjem"
+    "backToHome": "Tilbage til Hjem",
+    "cancel": "Annuller",
+    "save": "Gem"
   },
   "Maps": {
     "showAll": "Vis Alle",
@@ -1452,7 +1456,9 @@
       "totalValueExtracted": "Samlet eksfiltreret værdi",
       "valueBroughtIn": "Værdi medbragt",
       "valueExtracted": "Værdi eksfiltreret",
-      "weaponsByKillsTitle": "Våben efter drab"
+      "weaponsByKillsTitle": "Våben efter drab",
+      "containersLooted": "Plyndrede containere",
+      "containersPerRaid": "Containere / Raid"
     },
     "extractedSuffix": " eksfiltreret",
     "extractionRate": "Eksfiltreringsrate",
@@ -1520,7 +1526,8 @@
     "undoSyncFailedLocally": "Kunne ikke fortryde synkronisering lokalt",
     "unknownMap": "Ukendt kort",
     "valueSuffix": " værdi",
-    "timeInRaid": "Tid i raid"
+    "timeInRaid": "Tid i raid",
+    "statDamageByTarget": "Skade efter mål"
   },
   "RaidSync": {
     "title": "Anvend på Fremskridt",
@@ -1632,7 +1639,9 @@
         "hideout": "Skjulestedsmoduler",
         "done": "Færdig"
       },
-      "flickeringFlames": "Flakkende Flammer"
+      "flickeringFlames": "Flakkende Flammer",
+      "nonExpeditionProjects": "Ikke-ekspeditionsprojekter",
+      "expeditionProjects": "Ekspeditionsprojekter"
     }
   },
   "DeviceAuth": {
@@ -1764,7 +1773,16 @@
       "saving": "Gemmer...",
       "selectAll": "Vælg alle",
       "unselectAll": "Fravælg alle",
-      "noChanges": "Ingen ændringer at gemme"
+      "noChanges": "Ingen ændringer at gemme",
+      "cancel": "Annuller"
+    },
+    "inferred": {
+      "completedViaLabel": "Kilde til fuldførelse",
+      "completedViaValue": "ARC Raiders ekspeditionsfremskridt",
+      "description": "Fuldførelsen af denne sæson blev registreret fra din ARC Raiders-ekspeditionssynkronisering.",
+      "detailsLabel": "Detaljeret statistik",
+      "detailsValue": "Ikke tilgængelig for denne sæson.",
+      "title": "Sæson {number} fuldført"
     }
   },
   "DiscordBotPage": {
@@ -1999,7 +2017,17 @@
       "screenshotAlt": "Squad-side der viser delt raid-historik",
       "screenshotDescription": "Se samlet raid-historik, del private kortmarkører og koordiner med din squad.",
       "seeItInAction": "Se det i aktion"
-    }
+    },
+    "filterMap": "Kort",
+    "filterStatus": "Status",
+    "filterSeason": "Sæson",
+    "filterMember": "Medlem",
+    "allMaps": "Alle kort",
+    "allStatuses": "Alle statusser",
+    "allSeasons": "Alle sæsoner",
+    "allMembers": "Alle medlemmer",
+    "clearFilters": "Ryd filtre",
+    "noRaidsFiltered": "Ingen raids matcher dine nuværende filtre."
   },
   "MapSubcategories": {
     "abundantLoot": "Stort bytte",
@@ -2217,7 +2245,9 @@
       "suggestItem": "Foreslå genstand",
       "mappingLocked": "Denne genstandstilknytning er låst",
       "sortUnsorted": "Usorteret",
-      "searchPlaceholder": "Søg efter genstande..."
+      "searchPlaceholder": "Søg efter genstande...",
+      "sortRarity": "Sorter efter sjældenhed",
+      "sortName": "Sorter efter navn"
     },
     "currencies": {
       "cred": "Cred",
@@ -2540,5 +2570,78 @@
       "player": "Spiller",
       "squadmate": "Holdkammerat"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "På dine lister"
+  },
+  "SeasonsPage": {
+    "title": "Sæsoner",
+    "currentSeason": "Du er i øjeblikket på {name}",
+    "seasonStarted": "Startede {date}",
+    "seasonEnds": "Slutter {date}",
+    "departure": {
+      "title": "Forlad {season}",
+      "description": "Klar til afgang? Gem et øjebliksbillede af dine fremskridt, og nulstil til næste sæson. Dine tildelinger i færdighedstræet og fremskridt i ikke-ekspeditionsprojekter vil blive bevaret.",
+      "willReset": "Nulstilles",
+      "bonusInfo": "Bonusfærdighedspoint",
+      "bonusDescription": "Optjen 1 bonusfærdighedspoint pr. {creditsPerPoint} depotkreditter (maks. {maxPoints} point)",
+      "startButton": "Start afrejse",
+      "notYetAvailable": "Afrejsevinduet er endnu ikke åbent. Kom tilbage, når sæsonen slutter.",
+      "alreadyDeparted": "Afrejse fuldført",
+      "alreadyDepartedDescription": "Du har allerede forladt denne sæson. Se dine sæsonstatistikker i historikken herunder.",
+      "confirmTitle": "Bekræft afrejse",
+      "confirmWarning": "Denne handling kan ikke fortrydes. Dine fremskridt i missioner, skjulested og tegninger vil blive nulstillet.",
+      "confirmButton": "Bekræft og forlad",
+      "bonusEarned": "Bonus optjent",
+      "successTitle": "Afrejse fuldført!",
+      "successDescription": "Dine fremskridt i {season} er blevet gemt. Held og lykke i næste sæson!",
+      "loadingTitle": "Indlæser afgangsstatus",
+      "opensIn": "Afgang åbner om {countdown}",
+      "opensAt": "Åbner {date}"
+    },
+    "autoResetDetected": "Sæson {season}-afgang registreret!",
+    "autoResetDescription": "Vi har registreret din afgang via Embark-synkronisering. Dine fremskridt er automatisk blevet gemt. Du kan opdatere dine lagerkreditter og spillerniveau i sæsonhistorikken nedenfor.",
+    "expedition": {
+      "title": "Ekspedition",
+      "description": "Sæsonafgange for tilknyttede ARC Raiders-konti er automatiske.",
+      "currentState": "Nuværende ekspeditionsstatus",
+      "completedExpeditions": "Fuldførte ekspeditioner",
+      "activeSeason": "Aktiv sæson",
+      "syncButton": "Synkroniser ekspedition",
+      "syncingButton": "Synkroniserer...",
+      "syncError": "Kunne ikke synkronisere ekspeditionsstatus.",
+      "states": {
+        "notStarted": "ikke startet",
+        "inProgress": "i gang",
+        "completed": "fuldført",
+        "unknown": "Ukendt",
+        "ready": "Klar",
+        "committed": "Bekræftet"
+      }
+    },
+    "questionnaire": {
+      "description": "Ny hos ARCTracker? Vælg den genstand, du ser i Fase 1 af dit ekspeditionsprojekt, så vi kan indstille den rigtige sæson.",
+      "requiredQuantity": "Påkrævet: {count}",
+      "retakeButton": "Tag sæsonspørgeskemaet om",
+      "success": "Aktiv sæson sat til {season}.",
+      "title": "Find din ekspeditionssæson"
+    },
+    "metaDescription": "Spor din ARC Raiders-ekspeditionssæson, administrer afgange og gennemgå sæsonhistorik i ARCTracker."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "Alle påkrævede genstande (I alt)",
+    "backToProjects": "Tilbage til projekter",
+    "itemRequirements": "Påkrævede genstande",
+    "metaDescription": "Alle krav til genstande for {projectName} i ARC Raiders. Se hver fase, påkrævede genstande og mængder, der er nødvendige for at fuldføre dette projekt.",
+    "metaTitleSuffix": "Krav - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "Belønninger",
+    "projectNotFound": "Projekt ikke fundet",
+    "projectNotFoundMessage": "Det anmodede projekt kunne ikke findes.",
+    "receive": "Modtag",
+    "totalItemsNeeded": "Samlet antal nødvendige genstande",
+    "totalPhases": "Faser",
+    "turnIn": "Aflever",
+    "uniqueItems": "Unikke genstande",
+    "valueRequirement": "Værdikrav"
   }
 }

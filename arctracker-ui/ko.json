@@ -74,7 +74,8 @@
     "apps": "앱",
     "discordBot": "Discord 봇",
     "squads": "스쿼드",
-    "stash": "보관함"
+    "stash": "보관함",
+    "seasons": "시즌"
   },
   "MapEvents": {
     "startsIn": "시작까지",
@@ -109,7 +110,8 @@
       "launchTowerLoot": "발사대 전리품",
       "hiddenBunker": "숨겨진 벙커",
       "none": "없음",
-      "birdCity": "버드 시티"
+      "birdCity": "버드 시티",
+      "hurricane": "허리케인"
     }
   },
   "Common": {
@@ -185,11 +187,6 @@
     "requirementsUnknown": "요구 사항이 아직 알려지지 않음",
     "noRequirements": "요구 사항 없음",
     "coins": "코인",
-    "combatItems": "전투 아이템",
-    "survivalItems": "생존 아이템",
-    "provisions": "보급품",
-    "materials": "재료",
-    "value": "가치",
     "phases": "단계",
     "required": "필수",
     "submitItemsValue": "이 단계를 완료하려면 필요한 가치만큼 아이템을 제출하세요.",
@@ -197,7 +194,8 @@
     "season2": "시즌 2",
     "stashModeActive": "동기화된 보관함 수량",
     "lastSynced": "동기화됨",
-    "syncStash": "보관함 동기화"
+    "syncStash": "보관함 동기화",
+    "season3": "시즌 3"
   },
   "HideoutPage": {
     "level": "레벨",
@@ -577,7 +575,9 @@
     },
     "dropRates": "드롭 확률",
     "inRaidCrafting": "레이드 내 제작",
-    "attachments": "부착물"
+    "attachments": "부착물",
+    "upgradePath": "업그레이드 경로",
+    "currentTier": "현재"
   },
   "ItemsListPage": {
     "searchPlaceholder": "아이템 검색...",
@@ -651,7 +651,9 @@
     "squadsTitle": "스쿼드 - ARC Raiders",
     "squadsDescription": "ARC Raiders에서 친구들과 레이드 기록 및 진행 상황을 공유할 수 있도록 스쿼드를 생성하고 관리하세요.",
     "stashTitle": "보관함 트래커 - ARC Raiders",
-    "stashDescription": "ARC Raiders 보관함 인벤토리, 로드아웃, 재화를 자동으로 동기화하고 추적하세요. 실시간 업데이트를 위해 게임 계정을 연동하세요."
+    "stashDescription": "ARC Raiders 보관함 인벤토리, 로드아웃, 재화를 자동으로 동기화하고 추적하세요. 실시간 업데이트를 위해 게임 계정을 연동하세요.",
+    "projectNotFoundTitle": "프로젝트를 찾을 수 없음 - ARC Raiders",
+    "projectNotFoundDescription": "요청하신 프로젝트를 찾을 수 없습니다."
   },
   "OverlayPage": {
     "pageTitle": "오버레이 도우미 앱",
@@ -703,7 +705,7 @@
   },
   "Footer": {
     "copyright": "게임 콘텐츠 및 자료는 Embark Studios 및 해당 라이선스 제공자의 상표 및 저작권입니다. 모든 권리 보유.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "서비스 이용약관",
     "privacyPolicy": "개인정보 처리방침"
   },
@@ -895,7 +897,9 @@
     "createYourOwn": "나만의 목록 만들기",
     "listNotFound": "목록을 찾을 수 없음",
     "listNotFoundDescription": "이 목록은 존재하지 않거나 공개적으로 공유되지 않았습니다.",
-    "backToHome": "홈으로 돌아가기"
+    "backToHome": "홈으로 돌아가기",
+    "cancel": "취소",
+    "save": "저장"
   },
   "Maps": {
     "showAll": "모두 표시",
@@ -1452,7 +1456,9 @@
       "totalValueExtracted": "총 회수 가치",
       "valueBroughtIn": "반입 가치",
       "valueExtracted": "회수 가치",
-      "weaponsByKillsTitle": "무기별 처치 수"
+      "weaponsByKillsTitle": "무기별 처치 수",
+      "containersLooted": "약탈한 컨테이너",
+      "containersPerRaid": "컨테이너 / 레이드"
     },
     "extractedSuffix": " 회수됨",
     "extractionRate": "탈출률",
@@ -1520,7 +1526,8 @@
     "undoSyncFailedLocally": "로컬 동기화 실행 취소 실패",
     "unknownMap": "알 수 없는 맵",
     "valueSuffix": " 가치",
-    "timeInRaid": "레이드 시간"
+    "timeInRaid": "레이드 시간",
+    "statDamageByTarget": "대상별 피해량"
   },
   "RaidSync": {
     "title": "진행 상황에 적용",
@@ -1632,7 +1639,9 @@
         "hideout": "은신처 모듈",
         "done": "완료"
       },
-      "flickeringFlames": "일렁이는 불꽃"
+      "flickeringFlames": "일렁이는 불꽃",
+      "nonExpeditionProjects": "비원정 프로젝트",
+      "expeditionProjects": "원정 프로젝트"
     }
   },
   "DeviceAuth": {
@@ -1764,7 +1773,16 @@
       "saving": "저장 중...",
       "selectAll": "모두 선택",
       "unselectAll": "모두 선택 해제",
-      "noChanges": "저장할 변경 사항이 없습니다"
+      "noChanges": "저장할 변경 사항이 없습니다",
+      "cancel": "취소"
+    },
+    "inferred": {
+      "completedViaLabel": "완료 출처",
+      "completedViaValue": "ARC Raiders 원정 진행도",
+      "description": "이 시즌 완료는 ARC Raiders 원정 동기화를 통해 감지되었습니다.",
+      "detailsLabel": "상세 통계",
+      "detailsValue": "이 시즌에는 제공되지 않습니다.",
+      "title": "시즌 {number} 완료"
     }
   },
   "DiscordBotPage": {
@@ -1999,7 +2017,17 @@
       "screenshotAlt": "공유된 레이드 기록을 보여주는 스쿼드 페이지",
       "screenshotDescription": "합산된 레이드 기록을 확인하고, 비공개 지도 핀을 공유하며, 스쿼드와 협력하세요.",
       "seeItInAction": "작동 모습 보기"
-    }
+    },
+    "filterMap": "맵",
+    "filterStatus": "상태",
+    "filterSeason": "시즌",
+    "filterMember": "멤버",
+    "allMaps": "모든 맵",
+    "allStatuses": "모든 상태",
+    "allSeasons": "모든 시즌",
+    "allMembers": "모든 멤버",
+    "clearFilters": "필터 초기화",
+    "noRaidsFiltered": "현재 필터와 일치하는 레이드가 없습니다."
   },
   "MapSubcategories": {
     "abundantLoot": "풍부한 전리품",
@@ -2217,7 +2245,9 @@
       "suggestItem": "아이템 제안",
       "mappingLocked": "이 아이템 매핑은 잠겨 있습니다",
       "sortUnsorted": "미분류",
-      "searchPlaceholder": "아이템 검색..."
+      "searchPlaceholder": "아이템 검색...",
+      "sortRarity": "희귀도순 정렬",
+      "sortName": "이름순 정렬"
     },
     "currencies": {
       "cred": "크레드",
@@ -2540,5 +2570,78 @@
       "player": "플레이어",
       "squadmate": "분대원"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "내 목록에 포함됨"
+  },
+  "SeasonsPage": {
+    "title": "시즌",
+    "currentSeason": "현재 {name} 진행 중",
+    "seasonStarted": "{date}에 시작됨",
+    "seasonEnds": "{date}에 종료됨",
+    "departure": {
+      "title": "{season} 떠나기",
+      "description": "떠날 준비가 되셨나요? 진행 상황 스냅샷을 저장하고 다음 시즌을 위해 초기화하세요. 스킬 트리 배분과 비원정 프로젝트 진행 상황은 보존됩니다.",
+      "willReset": "초기화 항목",
+      "bonusInfo": "보너스 스킬 포인트",
+      "bonusDescription": "창고 크레딧 {creditsPerPoint}점당 보너스 스킬 포인트 1개를 획득합니다 (최대 {maxPoints} 포인트)",
+      "startButton": "출발하기",
+      "notYetAvailable": "아직 출발 기간이 아닙니다. 시즌이 종료되면 다시 확인해 주세요.",
+      "alreadyDeparted": "출발 완료",
+      "alreadyDepartedDescription": "이미 이번 시즌을 떠났습니다. 아래 기록에서 시즌 통계를 확인하세요.",
+      "confirmTitle": "출발 확인",
+      "confirmWarning": "이 작업은 취소할 수 없습니다. 퀘스트 진행 상황, 은신처, 설계도가 초기화됩니다.",
+      "confirmButton": "확인 및 출발",
+      "bonusEarned": "획득한 보너스",
+      "successTitle": "출발 완료!",
+      "successDescription": "{season} 진행 상황이 저장되었습니다. 다음 시즌에서 행운을 빕니다!",
+      "loadingTitle": "출발 상태 불러오는 중",
+      "opensIn": "{countdown} 후 출발 오픈",
+      "opensAt": "{date}에 오픈"
+    },
+    "autoResetDetected": "시즌 {season} 종료 감지!",
+    "autoResetDescription": "Embark 동기화를 통해 시즌 종료가 감지되었습니다. 진행 상황이 자동으로 저장되었습니다. 아래 시즌 기록에서 보관함 크레딧과 플레이어 레벨을 업데이트할 수 있습니다.",
+    "expedition": {
+      "title": "원정",
+      "description": "연동된 ARC Raiders 계정의 시즌 출발은 자동으로 이루어집니다.",
+      "currentState": "현재 원정 상태",
+      "completedExpeditions": "완료된 원정",
+      "activeSeason": "현재 시즌",
+      "syncButton": "원정 동기화",
+      "syncingButton": "동기화 중...",
+      "syncError": "원정 상태 동기화에 실패했습니다.",
+      "states": {
+        "notStarted": "시작되지 않음",
+        "inProgress": "진행 중",
+        "completed": "완료됨",
+        "unknown": "알 수 없음",
+        "ready": "준비 완료",
+        "committed": "확정됨"
+      }
+    },
+    "questionnaire": {
+      "description": "ARCTracker가 처음이신가요? 올바른 시즌 설정을 위해 원정 프로젝트 1단계에 있는 아이템을 선택해 주세요.",
+      "requiredQuantity": "필요 수량: {count}",
+      "retakeButton": "시즌 설문 다시 하기",
+      "success": "활성 시즌이 {season}으로 설정되었습니다.",
+      "title": "원정 시즌 찾기"
+    },
+    "metaDescription": "ARCTracker에서 ARC Raiders 원정 시즌을 추적하고, 출발을 관리하며, 시즌 기록을 확인하세요."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "모든 필요 아이템 (총계)",
+    "backToProjects": "프로젝트로 돌아가기",
+    "itemRequirements": "필요 아이템",
+    "metaDescription": "ARC Raiders의 {projectName}에 대한 모든 아이템 요구 사항입니다. 이 프로젝트를 완료하는 데 필요한 모든 단계, 필요 아이템 및 수량을 확인하세요.",
+    "metaTitleSuffix": "요구 사항 - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "보상",
+    "projectNotFound": "프로젝트를 찾을 수 없음",
+    "projectNotFoundMessage": "요청하신 프로젝트를 찾을 수 없습니다.",
+    "receive": "수령",
+    "totalItemsNeeded": "총 필요 아이템",
+    "totalPhases": "단계",
+    "turnIn": "납품",
+    "uniqueItems": "고유 아이템",
+    "valueRequirement": "가치 요구 사항"
   }
 }

@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 3000,
   "weightKg": 6,
+  "stackSize": 1,
   "isWeapon": true,
   "effects": {
     "Ammo Type": {
@@ -174,15 +175,53 @@
     "metal_parts": 8
   },
   "upgradeCost": {
-    "metal_parts": 10,
-    "rubber_parts": 10
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
   "updatedAt": "02/24/2026",
+  "addedIn": "base",
   "agility": 54.8,
   "damage": 9,
   "fireRate": 33.3,
+  "modSlots": {
+    "grip": [
+      "angled_grip_i",
+      "angled_grip_ii",
+      "angled_grip_iii",
+      "horizontal_grip",
+      "vertical_grip_i",
+      "vertical_grip_ii",
+      "vertical_grip_iii"
+    ],
+    "muzzle": [
+      "compensator_i",
+      "compensator_ii",
+      "compensator_iii",
+      "extended_barrel",
+      "muzzle_brake_i",
+      "muzzle_brake_ii",
+      "muzzle_brake_iii",
+      "silencer_i",
+      "silencer_ii",
+      "silencer_iii"
+    ],
+    "stock": [
+      "kinetic_converter",
+      "lightweight_stock",
+      "padded_stock",
+      "stable_stock_i",
+      "stable_stock_ii",
+      "stable_stock_iii"
+    ]
+  },
   "range": 56.2,
+  "repairCost": {
+    "mechanical_components": 2,
+    "rubber_parts": 1
+  },
+  "repairDurability": 0.5,
   "stability": 72.2,
-  "stealth": 14
+  "stealth": 14,
+  "upgradesTo": "rattler_iii"
 }

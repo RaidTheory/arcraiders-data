@@ -50,6 +50,10 @@
   "value": 250,
   "weightKg": 0.25,
   "stackSize": 15,
+  "craftBench": "in_raid",
+  "recipe": {
+    "jolt_mine": 1
+  },
   "recyclesInto": {
     "metal_parts": 2
   },
@@ -57,5 +61,16 @@
     "metal_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/battery.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 5
+      },
+      "limit": 10,
+      "refreshSeconds": 86400,
+      "trader": "Celeste"
+    }
+  ]
 }

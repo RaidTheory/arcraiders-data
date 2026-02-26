@@ -50,6 +50,11 @@
   "value": 100,
   "weightKg": 0.05,
   "stackSize": 100,
+  "craftBench": "in_raid",
+  "recipe": {
+    "agave": 1
+  },
   "imageFilename": "https://cdn.arctracker.io/items/assorted_seeds.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

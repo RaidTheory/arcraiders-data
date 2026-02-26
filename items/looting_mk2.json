@@ -134,5 +134,20 @@
     "electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk2.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "repairCost": {
+    "electrical_components": 1,
+    "magnet": 1
+  },
+  "repairDurability": 0.5,
+  "vendors": [
+    {
+      "cost": {
+        "coins": 6000
+      },
+      "limit": 1,
+      "refreshSeconds": 86400,
+      "trader": "Lance"
+    }
+  ]
 }

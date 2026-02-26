@@ -48,6 +48,7 @@
   "rarity": "Legendary",
   "value": 27500,
   "weightKg": 9,
+  "stackSize": 1,
   "isWeapon": true,
   "blueprintLocked": true,
   "effects": {
@@ -183,6 +184,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/jupiter.png",
   "updatedAt": "11/12/2025",
+  "addedIn": "base",
   "agility": 39.2,
   "damage": 60,
   "fireRate": 7.67,
@@ -191,6 +193,7 @@
     "complex_gun_parts": 1,
     "magnetic_accelerator": 2
   },
+  "repairDurability": 0.5,
   "stability": 73.5,
   "stealth": 5
 }

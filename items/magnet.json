@@ -50,6 +50,10 @@
   "value": 300,
   "weightKg": 0.25,
   "stackSize": 15,
+  "craftBench": "in_raid",
+  "recipe": {
+    "industrial_magnet": 1
+  },
   "recyclesInto": {
     "metal_parts": 2
   },
@@ -57,5 +61,16 @@
     "metal_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/magnet.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/09/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 6
+      },
+      "limit": 10,
+      "refreshSeconds": 86400,
+      "trader": "Celeste"
+    }
+  ]
 }

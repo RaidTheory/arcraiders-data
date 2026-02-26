@@ -157,8 +157,24 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/medium_shield.png",
   "updatedAt": "02/24/2026",
+  "addedIn": "base",
   "damageMitigation": 42.5,
   "durability": 100,
   "movementSpeedModifier": -5,
-  "shieldCharge": 70
+  "repairCost": {
+    "arc_circuitry": 1,
+    "battery": 1
+  },
+  "repairDurability": 0.5,
+  "shieldCharge": 70,
+  "vendors": [
+    {
+      "cost": {
+        "coins": 6000
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "trader": "Lance"
+    }
+  ]
 }

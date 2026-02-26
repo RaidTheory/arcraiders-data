@@ -48,6 +48,23 @@
   "rarity": "Epic",
   "value": 5000,
   "weightKg": 0.5,
+  "stackSize": 1,
+  "compatibleWith": [
+    "Aphelion",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Ferro",
+    "Hullcracker",
+    "Il Toro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Renegade",
+    "Stitcher",
+    "Torrente",
+    "Vulcano"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Increased Equip Time": {
@@ -203,5 +220,16 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/padded_stock.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 15000
+      },
+      "limit": 1,
+      "refreshSeconds": 86400,
+      "trader": "Tian Wen"
+    }
+  ]
 }

@@ -136,5 +136,11 @@
     "antiseptic": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "repairCost": {
+    "antiseptic": 2,
+    "canister": 1
+  },
+  "repairDurability": 0.5
 }

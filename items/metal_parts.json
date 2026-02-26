@@ -50,6 +50,19 @@
   "value": 75,
   "weightKg": 0.1,
   "stackSize": 50,
+  "craftBench": "in_raid",
+  "recipe": {
+    "damaged_tick_pod": 1
+  },
   "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 1
+      },
+      "trader": "Celeste"
+    }
+  ]
 }

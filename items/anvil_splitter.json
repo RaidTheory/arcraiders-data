@@ -48,6 +48,8 @@
   "rarity": "Legendary",
   "value": 7000,
   "weightKg": 0.5,
+  "stackSize": 1,
+  "compatibleWith": ["Anvil"],
   "effects": {
     "Projectiles Per Shot": {
       "value": "+3",
@@ -104,5 +106,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/anvil_splitter.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/09/2026",
+  "addedIn": "base"
 }
