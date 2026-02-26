@@ -45,9 +45,11 @@
     "zh-TW": "一種近距離觸發的地雷，會彈出並釋放快速消耗耐力的毒氣雲。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "1.2"
 }

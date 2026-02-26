@@ -45,10 +45,11 @@
     "zh-TW": "當敵人接近時引爆的近距離觸發爆炸裝置。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/explosive_mine.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "12/07/2025",
+  "addedIn": "base"
 }

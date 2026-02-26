@@ -48,6 +48,15 @@
   "rarity": "Common",
   "value": 640,
   "weightKg": 0.25,
+  "stackSize": 1,
+  "compatibleWith": [
+    "Arpeggio",
+    "Osprey",
+    "Renegade",
+    "Tempest",
+    "Torrente",
+    "Venator"
+  ],
   "effects": {
     "Magazine Size": {
       "value": "+4",
@@ -86,5 +95,16 @@
     "plastic_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_i.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 1920
+      },
+      "limit": 5,
+      "refreshSeconds": 86400,
+      "trader": "Tian Wen"
+    }
+  ]
 }

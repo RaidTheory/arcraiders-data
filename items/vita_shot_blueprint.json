@@ -45,9 +45,11 @@
     "zh-TW": "可恢復大量生命值的醫療物品。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/vita_shot.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

@@ -135,5 +135,11 @@
     "electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_survivor.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "repairCost": {
+    "advanced_electrical_components": 1,
+    "processor": 2
+  },
+  "repairDurability": 0.5
 }

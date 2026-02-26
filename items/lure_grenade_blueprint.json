@@ -45,9 +45,11 @@
     "zh-TW": "可黏附在表面的噪音裝置，能分散附近ARC機器的注意力並吸引它們的火力。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

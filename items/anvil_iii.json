@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 10000,
   "weightKg": 5,
+  "stackSize": 1,
   "isWeapon": true,
   "effects": {
     "Ammo Type": {
@@ -225,5 +226,27 @@
     "mechanical_components": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/anvil.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "muzzle": [
+      "compensator_i",
+      "compensator_ii",
+      "compensator_iii",
+      "extended_barrel",
+      "muzzle_brake_i",
+      "muzzle_brake_ii",
+      "muzzle_brake_iii",
+      "silencer_i",
+      "silencer_ii",
+      "silencer_iii"
+    ],
+    "special": ["anvil_splitter"]
+  },
+  "repairCost": {
+    "mechanical_components": 4,
+    "simple_gun_parts": 4
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "anvil_iv"
 }

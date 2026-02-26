@@ -48,6 +48,23 @@
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.75,
+  "stackSize": 1,
+  "compatibleWith": [
+    "Aphelion",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Ferro",
+    "Hullcracker",
+    "Il Toro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Stitcher",
+    "Tempest",
+    "Venator",
+    "Vulcano"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Reduced ADS Speed": {
@@ -111,5 +128,16 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/angled_grip_iii.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/09/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 15000
+      },
+      "limit": 1,
+      "refreshSeconds": 86400,
+      "trader": "Tian Wen"
+    }
+  ]
 }

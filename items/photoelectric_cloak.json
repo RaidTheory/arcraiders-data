@@ -88,5 +88,11 @@
     "advanced_electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/photoelectric_cloak.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "repairCost": {
+    "advanced_electrical_components": 1,
+    "speaker_component": 2
+  },
+  "repairDurability": 0.5
 }

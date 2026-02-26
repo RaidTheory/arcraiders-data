@@ -48,6 +48,22 @@
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.5,
+  "stackSize": 1,
+  "compatibleWith": [
+    "Anvil",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Burletta",
+    "Ferro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Renegade",
+    "Stitcher",
+    "Tempest",
+    "Torrente"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Reduced Noise": {
@@ -88,5 +104,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/silencer_ii.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

@@ -45,9 +45,11 @@
     "zh-TW": "大幅改善擴散度和後座力恢復時間。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/stable_stock_iii.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "12/07/2025",
+  "addedIn": "base"
 }

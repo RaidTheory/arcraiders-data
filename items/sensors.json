@@ -50,6 +50,10 @@
   "value": 500,
   "weightKg": 0.3,
   "stackSize": 5,
+  "craftBench": "in_raid",
+  "recipe": {
+    "broken_handheld_radio": 1
+  },
   "recyclesInto": {
     "metal_parts": 1,
     "wires": 1
@@ -58,5 +62,16 @@
     "wires": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/sensors.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 10
+      },
+      "limit": 5,
+      "refreshSeconds": 86400,
+      "trader": "Celeste"
+    }
+  ]
 }

@@ -88,5 +88,11 @@
     "plastic_parts": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/binoculars.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "repairCost": {
+    "plastic_parts": 4,
+    "rubber_parts": 2
+  },
+  "repairDurability": 0.5
 }

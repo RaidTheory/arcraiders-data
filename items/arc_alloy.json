@@ -50,6 +50,10 @@
   "value": 200,
   "weightKg": 0.25,
   "stackSize": 15,
+  "craftBench": "in_raid",
+  "recipe": {
+    "wasp_driver": 1
+  },
   "recyclesInto": {
     "metal_parts": 2
   },
@@ -57,5 +61,6 @@
     "metal_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/arc_alloy.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

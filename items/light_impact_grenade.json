@@ -97,7 +97,7 @@
       "zh-TW": "半徑"
     }
   },
-  "craftBench": ["workbench", "explosives_bench", "in_raid"],
+  "craftBench": ["explosives_bench", "in_raid", "workbench"],
   "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 3,
@@ -111,5 +111,14 @@
     "chemicals": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/light_impact_grenade.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 810
+      },
+      "trader": "Apollo"
+    }
+  ]
 }

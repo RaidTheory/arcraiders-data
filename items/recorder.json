@@ -82,5 +82,20 @@
     "plastic_parts": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/recorder.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "repairCost": {
+    "plastic_parts": 4
+  },
+  "repairDurability": 0.5,
+  "vendors": [
+    {
+      "cost": {
+        "coins": 3000
+      },
+      "limit": 6,
+      "refreshSeconds": 86400,
+      "trader": "Apollo"
+    }
+  ]
 }

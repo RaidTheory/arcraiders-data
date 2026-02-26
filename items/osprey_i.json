@@ -48,6 +48,7 @@
   "rarity": "Rare",
   "value": 7000,
   "weightKg": 7,
+  "stackSize": 1,
   "isWeapon": true,
   "blueprintLocked": true,
   "effects": {
@@ -204,6 +205,53 @@
   "salvagesInto": {
     "medium_gun_parts": 2
   },
+  "upgradeCost": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 2
+  },
   "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "grip": [
+      "angled_grip_i",
+      "angled_grip_ii",
+      "angled_grip_iii",
+      "horizontal_grip",
+      "vertical_grip_i",
+      "vertical_grip_ii",
+      "vertical_grip_iii"
+    ],
+    "magazine": [
+      "extended_medium_mag_i",
+      "extended_medium_mag_ii",
+      "extended_medium_mag_iii"
+    ],
+    "muzzle": [
+      "compensator_i",
+      "compensator_ii",
+      "compensator_iii",
+      "extended_barrel",
+      "muzzle_brake_i",
+      "muzzle_brake_ii",
+      "muzzle_brake_iii",
+      "silencer_i",
+      "silencer_ii",
+      "silencer_iii"
+    ],
+    "stock": [
+      "kinetic_converter",
+      "lightweight_stock",
+      "padded_stock",
+      "stable_stock_i",
+      "stable_stock_ii",
+      "stable_stock_iii"
+    ]
+  },
+  "repairCost": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 1
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "osprey_ii"
 }

@@ -45,9 +45,11 @@
     "zh-TW": "專注於治療的增強裝備，為治療物品增加額外欄位。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing_blueprint.png",
-  "updatedAt": "11/11/2025"
+  "updatedAt": "11/11/2025",
+  "addedIn": "base"
 }

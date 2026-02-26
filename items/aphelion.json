@@ -48,6 +48,7 @@
   "rarity": "Legendary",
   "value": 27500,
   "weightKg": 14,
+  "stackSize": 1,
   "isWeapon": true,
   "blueprintLocked": true,
   "effects": {
@@ -159,5 +160,30 @@
     "magnetic_accelerator": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/aphelion.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "1.2",
+  "modSlots": {
+    "grip": [
+      "angled_grip_i",
+      "angled_grip_ii",
+      "angled_grip_iii",
+      "horizontal_grip",
+      "vertical_grip_i",
+      "vertical_grip_ii",
+      "vertical_grip_iii"
+    ],
+    "stock": [
+      "kinetic_converter",
+      "lightweight_stock",
+      "padded_stock",
+      "stable_stock_i",
+      "stable_stock_ii",
+      "stable_stock_iii"
+    ]
+  },
+  "repairCost": {
+    "complex_gun_parts": 1,
+    "magnetic_accelerator": 2
+  },
+  "repairDurability": 0.5
 }

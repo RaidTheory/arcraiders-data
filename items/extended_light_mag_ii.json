@@ -48,6 +48,8 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
+  "stackSize": 1,
+  "compatibleWith": ["Bobcat", "Burletta", "Hairpin", "Kettle", "Stitcher"],
   "blueprintLocked": true,
   "effects": {
     "Magazine Size": {
@@ -88,5 +90,16 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_ii.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/09/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 6000
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "trader": "Tian Wen"
+    }
+  ]
 }

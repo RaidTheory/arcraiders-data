@@ -50,6 +50,10 @@
   "value": 300,
   "weightKg": 0.25,
   "stackSize": 15,
+  "craftBench": "in_raid",
+  "recipe": {
+    "bicycle_pump": 1
+  },
   "recyclesInto": {
     "plastic_parts": 3
   },
@@ -57,5 +61,16 @@
     "plastic_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/canister.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 6
+      },
+      "limit": 10,
+      "refreshSeconds": 86400,
+      "trader": "Celeste"
+    }
+  ]
 }

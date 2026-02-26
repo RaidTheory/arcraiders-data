@@ -50,6 +50,8 @@
   "value": 1000,
   "weightKg": 0.2,
   "stackSize": 5,
+  "craftBench": "in_raid",
   "imageFilename": "https://cdn.arctracker.io/items/empty_wine_bottle.png",
-  "updatedAt": "11/04/2025"
+  "updatedAt": "11/04/2025",
+  "addedIn": "base"
 }

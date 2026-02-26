@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 5000,
   "weightKg": 5,
+  "stackSize": 1,
   "isWeapon": true,
   "blueprintLocked": true,
   "effects": {
@@ -180,6 +181,42 @@
   "salvagesInto": {
     "simple_gun_parts": 2
   },
+  "upgradeCost": {
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  },
   "imageFilename": "https://cdn.arctracker.io/items/anvil.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "muzzle": [
+      "compensator_i",
+      "compensator_ii",
+      "compensator_iii",
+      "extended_barrel",
+      "muzzle_brake_i",
+      "muzzle_brake_ii",
+      "muzzle_brake_iii",
+      "silencer_i",
+      "silencer_ii",
+      "silencer_iii"
+    ],
+    "special": ["anvil_splitter"]
+  },
+  "repairCost": {
+    "mechanical_components": 2,
+    "simple_gun_parts": 2
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "anvil_ii",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 15000
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "trader": "Tian Wen"
+    }
+  ]
 }

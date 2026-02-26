@@ -88,5 +88,16 @@
     "chemicals": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/pulse_mine.png",
-  "updatedAt": "12/31/2025"
+  "updatedAt": "12/31/2025",
+  "addedIn": "1.2",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 1410
+      },
+      "limit": 6,
+      "refreshSeconds": 86400,
+      "trader": "Apollo"
+    }
+  ]
 }

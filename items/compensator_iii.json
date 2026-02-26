@@ -48,21 +48,21 @@
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.75,
+  "stackSize": 1,
   "compatibleWith": [
-    "Ferro",
-    "Kettle",
-    "Rattler",
-    "Stitcher",
     "Anvil",
     "Arpeggio",
-    "Burletta",
-    "Osprey",
-    "Renegade",
-    "Torrente",
-    "Venator",
     "Bettina",
     "Bobcat",
-    "Tempest"
+    "Burletta",
+    "Ferro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Renegade",
+    "Stitcher",
+    "Tempest",
+    "Torrente"
   ],
   "blueprintLocked": true,
   "effects": {
@@ -150,5 +150,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/compensator_ii.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

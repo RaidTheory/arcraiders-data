@@ -48,17 +48,21 @@
   "rarity": "Epic",
   "value": 7000,
   "weightKg": 0.5,
+  "stackSize": 1,
   "compatibleWith": [
-    "Ferro",
-    "Kettle",
-    "Rattler",
-    "Stitcher",
+    "Aphelion",
     "Arpeggio",
-    "Il Toro",
-    "Venator",
     "Bettina",
     "Bobcat",
+    "Ferro",
+    "Hullcracker",
+    "Il Toro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Stitcher",
     "Tempest",
+    "Venator",
     "Vulcano"
   ],
   "effects": {
@@ -140,5 +144,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/horizontal_grip.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

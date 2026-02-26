@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 450,
   "weightKg": 3,
+  "stackSize": 1,
   "isWeapon": true,
   "effects": {
     "Ammo Type": {
@@ -189,7 +190,7 @@
       "zh-TW": "特殊特性"
     }
   },
-  "craftBench": ["workbench", "weapon_bench"],
+  "craftBench": ["weapon_bench", "workbench"],
   "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 2,
@@ -202,6 +203,31 @@
   "salvagesInto": {
     "metal_parts": 2
   },
+  "upgradeCost": {
+    "metal_parts": 8
+  },
   "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "magazine": [
+      "extended_light_mag_i",
+      "extended_light_mag_ii",
+      "extended_light_mag_iii"
+    ]
+  },
+  "repairCost": {
+    "metal_parts": 2,
+    "rubber_parts": 1
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "hairpin_ii",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 1350
+      },
+      "trader": "Tian Wen"
+    }
+  ]
 }

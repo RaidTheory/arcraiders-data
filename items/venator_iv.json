@@ -48,6 +48,7 @@
   "rarity": "Rare",
   "value": 17000,
   "weightKg": 5,
+  "stackSize": 1,
   "isWeapon": true,
   "effects": {
     "Ammo Type": {
@@ -248,5 +249,27 @@
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "grip": [
+      "angled_grip_i",
+      "angled_grip_ii",
+      "angled_grip_iii",
+      "horizontal_grip",
+      "vertical_grip_i",
+      "vertical_grip_ii",
+      "vertical_grip_iii"
+    ],
+    "magazine": [
+      "extended_medium_mag_i",
+      "extended_medium_mag_ii",
+      "extended_medium_mag_iii"
+    ]
+  },
+  "repairCost": {
+    "advanced_mechanical_components": 3,
+    "medium_gun_parts": 3
+  },
+  "repairDurability": 0.5
 }

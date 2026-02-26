@@ -120,7 +120,7 @@
       "zh-TW": "使用時間"
     }
   },
-  "craftBench": ["med_station", "in_raid"],
+  "craftBench": ["in_raid", "med_station"],
   "stationLevelRequired": 1,
   "recipe": {
     "durable_cloth": 1,
@@ -134,5 +134,16 @@
     "fabric": 8
   },
   "imageFilename": "https://cdn.arctracker.io/items/herbal_bandage.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 2700
+      },
+      "limit": 10,
+      "refreshSeconds": 86400,
+      "trader": "Lance"
+    }
+  ]
 }

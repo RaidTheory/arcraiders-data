@@ -113,5 +113,11 @@
     "advanced_electrical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/snap_hook.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "repairCost": {
+    "exodus_modules": 1,
+    "power_rod": 1
+  },
+  "repairDurability": 0.5
 }
