@@ -74,7 +74,8 @@
     "apps": "Приложения",
     "discordBot": "Discord-бот",
     "squads": "Отряды",
-    "stash": "Схрон"
+    "stash": "Схрон",
+    "seasons": "Сезоны"
   },
   "MapEvents": {
     "startsIn": "Начнется через",
@@ -109,7 +110,8 @@
       "launchTowerLoot": "Лут стартовой вышки",
       "hiddenBunker": "Скрытый бункер",
       "none": "Нет",
-      "birdCity": "Птичий город"
+      "birdCity": "Птичий город",
+      "hurricane": "Ураган"
     }
   },
   "Common": {
@@ -185,11 +187,6 @@
     "requirementsUnknown": "Требования пока неизвестны",
     "noRequirements": "Нет требований",
     "coins": "монет",
-    "combatItems": "Боевое снаряжение",
-    "survivalItems": "Предметы выживания",
-    "provisions": "Припасы",
-    "materials": "Материалы",
-    "value": "Ценность",
     "phases": "фаз",
     "required": "Требуется",
     "submitItemsValue": "Сдайте предметы на требуемую сумму, чтобы завершить эту фазу.",
@@ -197,7 +194,8 @@
     "season2": "Сезон 2",
     "stashModeActive": "Количество из синхронизированного схрона",
     "lastSynced": "Синхронизировано",
-    "syncStash": "Синхронизировать схрон"
+    "syncStash": "Синхронизировать схрон",
+    "season3": "Сезон 3"
   },
   "HideoutPage": {
     "level": "Уровень",
@@ -577,7 +575,9 @@
     },
     "dropRates": "Шанс выпадения",
     "inRaidCrafting": "Создание в рейде",
-    "attachments": "Модули"
+    "attachments": "Модули",
+    "upgradePath": "Путь улучшения",
+    "currentTier": "Текущий"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Поиск предметов...",
@@ -651,7 +651,9 @@
     "squadsTitle": "Отряды - ARC Raiders",
     "squadsDescription": "Создавайте отряды и управляйте ими, чтобы делиться историей рейдов и прогрессом с друзьями в ARC Raiders.",
     "stashTitle": "Трекер схрона - ARC Raiders",
-    "stashDescription": "Автоматически синхронизируйте и отслеживайте содержимое вашего схрона, снаряжение и валюту в ARC Raiders. Привяжите свой игровой аккаунт для обновлений в реальном времени."
+    "stashDescription": "Автоматически синхронизируйте и отслеживайте содержимое вашего схрона, снаряжение и валюту в ARC Raiders. Привяжите свой игровой аккаунт для обновлений в реальном времени.",
+    "projectNotFoundTitle": "Проект не найден - ARC Raiders",
+    "projectNotFoundDescription": "Запрошенный проект не найден."
   },
   "OverlayPage": {
     "pageTitle": "Приложение-компаньон Оверлей",
@@ -703,7 +705,7 @@
   },
   "Footer": {
     "copyright": "Игровой контент и материалы являются товарными знаками и авторскими правами Embark Studios и их лицензиаров. Все права защищены.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Условия использования",
     "privacyPolicy": "Политика конфиденциальности"
   },
@@ -895,7 +897,9 @@
     "createYourOwn": "Создать свой список",
     "listNotFound": "Список не найден",
     "listNotFoundDescription": "Этот список не существует или не является публичным.",
-    "backToHome": "На главную"
+    "backToHome": "На главную",
+    "cancel": "Отмена",
+    "save": "Сохранить"
   },
   "Maps": {
     "showAll": "Показать все",
@@ -1452,7 +1456,9 @@
       "totalValueExtracted": "Общая стоимость вынесенного",
       "valueBroughtIn": "Стоимость внесенного",
       "valueExtracted": "Стоимость вынесенного",
-      "weaponsByKillsTitle": "Оружие по убийствам"
+      "weaponsByKillsTitle": "Оружие по убийствам",
+      "containersLooted": "Обыскано контейнеров",
+      "containersPerRaid": "Контейнеров / рейд"
     },
     "extractedSuffix": " эвакуировано",
     "extractionRate": "Коэф. эвакуации",
@@ -1520,7 +1526,8 @@
     "undoSyncFailedLocally": "Не удалось отменить синхронизацию локально",
     "unknownMap": "Неизвестная карта",
     "valueSuffix": " стоим.",
-    "timeInRaid": "Время в рейде"
+    "timeInRaid": "Время в рейде",
+    "statDamageByTarget": "Урон по целям"
   },
   "RaidSync": {
     "title": "Применить к прогрессу",
@@ -1632,7 +1639,9 @@
         "hideout": "Модули убежища",
         "done": "Готово"
       },
-      "flickeringFlames": "Мерцающее пламя"
+      "flickeringFlames": "Мерцающее пламя",
+      "nonExpeditionProjects": "Проекты вне экспедиций",
+      "expeditionProjects": "Экспедиционные проекты"
     }
   },
   "DeviceAuth": {
@@ -1764,7 +1773,16 @@
       "saving": "Сохранение...",
       "selectAll": "Выбрать все",
       "unselectAll": "Снять выделение",
-      "noChanges": "Нет изменений для сохранения"
+      "noChanges": "Нет изменений для сохранения",
+      "cancel": "Отмена"
+    },
+    "inferred": {
+      "completedViaLabel": "Источник выполнения",
+      "completedViaValue": "Прогресс экспедиций в ARC Raiders",
+      "description": "Завершение этого сезона было определено по синхронизации ваших экспедиций в ARC Raiders.",
+      "detailsLabel": "Подробная статистика",
+      "detailsValue": "Недоступно для этого сезона.",
+      "title": "Сезон {number} завершен"
     }
   },
   "DiscordBotPage": {
@@ -1999,7 +2017,17 @@
       "screenshotAlt": "Страница отряда, отображающая общую историю рейдов",
       "screenshotDescription": "Просматривайте общую историю рейдов, делитесь личными метками на карте и координируйте действия с отрядом.",
       "seeItInAction": "Посмотреть в действии"
-    }
+    },
+    "filterMap": "Карта",
+    "filterStatus": "Статус",
+    "filterSeason": "Сезон",
+    "filterMember": "Участник",
+    "allMaps": "Все карты",
+    "allStatuses": "Все статусы",
+    "allSeasons": "Все сезоны",
+    "allMembers": "Все участники",
+    "clearFilters": "Сбросить фильтры",
+    "noRaidsFiltered": "Нет рейдов, соответствующих текущим фильтрам."
   },
   "MapSubcategories": {
     "abundantLoot": "Богатая добыча",
@@ -2217,7 +2245,9 @@
       "suggestItem": "Предложить предмет",
       "mappingLocked": "Привязка этого предмета заблокирована",
       "sortUnsorted": "Без сортировки",
-      "searchPlaceholder": "Поиск предметов..."
+      "searchPlaceholder": "Поиск предметов...",
+      "sortRarity": "Сортировать по редкости",
+      "sortName": "Сортировать по названию"
     },
     "currencies": {
       "cred": "Кред",
@@ -2540,5 +2570,78 @@
       "player": "Игрок",
       "squadmate": "Напарник"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "В ваших списках"
+  },
+  "SeasonsPage": {
+    "title": "Сезоны",
+    "currentSeason": "Вы находитесь в сезоне {name}",
+    "seasonStarted": "Начался {date}",
+    "seasonEnds": "Закончится {date}",
+    "departure": {
+      "title": "Покинуть {season}",
+      "description": "Готовы к отправке? Сохраните слепок прогресса и выполните сброс для следующего сезона. Ваше распределение в дереве навыков и прогресс проектов вне экспедиций будут сохранены.",
+      "willReset": "Будет сброшено",
+      "bonusInfo": "Бонусные очки навыков",
+      "bonusDescription": "Получите 1 бонусное очко навыков за каждые {creditsPerPoint} кредитов схрона (макс. {maxPoints} очков)",
+      "startButton": "Начать отбытие",
+      "notYetAvailable": "Окно отбытия еще не открыто. Возвращайтесь после окончания сезона.",
+      "alreadyDeparted": "Отбытие завершено",
+      "alreadyDepartedDescription": "Вы уже покинули этот сезон. Посмотрите свою статистику сезона в истории ниже.",
+      "confirmTitle": "Подтверждение отбытия",
+      "confirmWarning": "Это действие нельзя отменить. Ваш прогресс заданий, убежище и чертежи будут сброшены.",
+      "confirmButton": "Подтвердить и отбыть",
+      "bonusEarned": "Получено бонусов",
+      "successTitle": "Отбытие завершено!",
+      "successDescription": "Ваш прогресс за {season} сохранен. Удачи в следующем сезоне!",
+      "loadingTitle": "Загрузка статуса отправления",
+      "opensIn": "Отправление откроется через {countdown}",
+      "opensAt": "Откроется {date}"
+    },
+    "autoResetDetected": "Обнаружено отправление: Сезон {season}!",
+    "autoResetDescription": "Мы обнаружили ваше отправление через синхронизацию Embark. Ваш прогресс был автоматически сохранен. Вы можете обновить кредиты схрона и уровень игрока в истории сезонов ниже.",
+    "expedition": {
+      "title": "Экспедиция",
+      "description": "Отправка в сезон для связанных учетных записей ARC Raiders происходит автоматически.",
+      "currentState": "Текущий статус экспедиции",
+      "completedExpeditions": "Завершенные экспедиции",
+      "activeSeason": "Активный сезон",
+      "syncButton": "Синхронизировать экспедицию",
+      "syncingButton": "Синхронизация...",
+      "syncError": "Не удалось синхронизировать статус экспедиции.",
+      "states": {
+        "notStarted": "не начато",
+        "inProgress": "в процессе",
+        "completed": "завершено",
+        "unknown": "Неизвестно",
+        "ready": "Готово",
+        "committed": "Подтверждено"
+      }
+    },
+    "questionnaire": {
+      "description": "Впервые в ARCTracker? Выберите предмет из Фазы 1 вашего проекта экспедиции, чтобы мы могли определить правильный сезон.",
+      "requiredQuantity": "Требуется: {count}",
+      "retakeButton": "Пройти опрос о сезоне заново",
+      "success": "Установлен активный сезон: {season}.",
+      "title": "Определите свой сезон экспедиции"
+    },
+    "metaDescription": "Отслеживайте сезон экспедиций в ARC Raiders, управляйте вылазками и просматривайте историю сезона в ARCTracker."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "Все требуемые предметы (Итого)",
+    "backToProjects": "Назад к проектам",
+    "itemRequirements": "Требуемые предметы",
+    "metaDescription": "Все требования к предметам для {projectName} в ARC Raiders. Просмотрите каждый этап, требуемые предметы и количество, необходимое для завершения этого проекта.",
+    "metaTitleSuffix": "Требования - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "Награды",
+    "projectNotFound": "Проект не найден",
+    "projectNotFoundMessage": "Запрошенный проект не найден.",
+    "receive": "Получить",
+    "totalItemsNeeded": "Всего требуется предметов",
+    "totalPhases": "Этапы",
+    "turnIn": "Сдать",
+    "uniqueItems": "Уникальные предметы",
+    "valueRequirement": "Требование по стоимости"
   }
 }

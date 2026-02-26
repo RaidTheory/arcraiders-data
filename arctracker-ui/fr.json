@@ -74,7 +74,8 @@
     "apps": "Applications",
     "discordBot": "Bot Discord",
     "squads": "Escouades",
-    "stash": "Réserve"
+    "stash": "Réserve",
+    "seasons": "Saisons"
   },
   "MapEvents": {
     "startsIn": "Commence dans",
@@ -109,7 +110,8 @@
       "launchTowerLoot": "Butin de la tour de lancement",
       "hiddenBunker": "Bunker caché",
       "none": "Aucun",
-      "birdCity": "Cité des Oiseaux"
+      "birdCity": "Cité des Oiseaux",
+      "hurricane": "Ouragan"
     }
   },
   "Common": {
@@ -185,11 +187,6 @@
     "requirementsUnknown": "Prérequis encore inconnus",
     "noRequirements": "Aucun prérequis",
     "coins": "pièces",
-    "combatItems": "Objets de combat",
-    "survivalItems": "Objets de survie",
-    "provisions": "Provisions",
-    "materials": "Matériaux",
-    "value": "Valeur",
     "phases": "phases",
     "required": "Requis",
     "submitItemsValue": "Soumettez des objets d'une valeur équivalente au montant requis pour terminer cette phase.",
@@ -197,7 +194,8 @@
     "season2": "Saison 2",
     "stashModeActive": "Quantités de la réserve synchronisée",
     "lastSynced": "Synchronisé",
-    "syncStash": "Synchroniser la réserve"
+    "syncStash": "Synchroniser la réserve",
+    "season3": "Saison 3"
   },
   "HideoutPage": {
     "level": "Niveau",
@@ -577,7 +575,9 @@
     },
     "dropRates": "Taux d'obtention",
     "inRaidCrafting": "Fabrication en raid",
-    "attachments": "Accessoires"
+    "attachments": "Accessoires",
+    "upgradePath": "Chemin d'amélioration",
+    "currentTier": "Actuel"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Rechercher des objets...",
@@ -651,7 +651,9 @@
     "squadsTitle": "Escouades - ARC Raiders",
     "squadsDescription": "Créez et gérez des escouades pour partager l'historique des raids et la progression avec vos amis dans ARC Raiders.",
     "stashTitle": "Suivi de réserve - ARC Raiders",
-    "stashDescription": "Synchronisez et suivez automatiquement l'inventaire de votre réserve, votre équipement et vos devises ARC Raiders. Liez votre compte de jeu pour des mises à jour en temps réel."
+    "stashDescription": "Synchronisez et suivez automatiquement l'inventaire de votre réserve, votre équipement et vos devises ARC Raiders. Liez votre compte de jeu pour des mises à jour en temps réel.",
+    "projectNotFoundTitle": "Projet introuvable - ARC Raiders",
+    "projectNotFoundDescription": "Le projet demandé est introuvable."
   },
   "OverlayPage": {
     "pageTitle": "Application Compagnon Overlay",
@@ -703,7 +705,7 @@
   },
   "Footer": {
     "copyright": "Le contenu du jeu et les matériaux sont des marques déposées et des droits d'auteur d'Embark Studios et de ses concédants. Tous droits réservés.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Conditions d'utilisation",
     "privacyPolicy": "Politique de confidentialité"
   },
@@ -895,7 +897,9 @@
     "createYourOwn": "Créez votre propre liste",
     "listNotFound": "Liste introuvable",
     "listNotFoundDescription": "Cette liste n'existe pas ou n'est pas partagée publiquement.",
-    "backToHome": "Retour à l'accueil"
+    "backToHome": "Retour à l'accueil",
+    "cancel": "Annuler",
+    "save": "Enregistrer"
   },
   "Maps": {
     "showAll": "Tout afficher",
@@ -1452,7 +1456,9 @@
       "totalValueExtracted": "Valeur totale extraite",
       "valueBroughtIn": "Valeur apportée",
       "valueExtracted": "Valeur extraite",
-      "weaponsByKillsTitle": "Armes par éliminations"
+      "weaponsByKillsTitle": "Armes par éliminations",
+      "containersLooted": "Conteneurs pillés",
+      "containersPerRaid": "Conteneurs / Raid"
     },
     "extractedSuffix": " extraits",
     "extractionRate": "Taux d'extraction",
@@ -1520,7 +1526,8 @@
     "undoSyncFailedLocally": "Échec de l'annulation locale",
     "unknownMap": "Carte inconnue",
     "valueSuffix": " valeur",
-    "timeInRaid": "Temps en raid"
+    "timeInRaid": "Temps en raid",
+    "statDamageByTarget": "Dégâts par cible"
   },
   "RaidSync": {
     "title": "Appliquer à la progression",
@@ -1632,7 +1639,9 @@
         "hideout": "Modules d'atelier",
         "done": "Terminé"
       },
-      "flickeringFlames": "Flammes Vacillantes"
+      "flickeringFlames": "Flammes Vacillantes",
+      "nonExpeditionProjects": "Projets hors expédition",
+      "expeditionProjects": "Projets d'expédition"
     }
   },
   "DeviceAuth": {
@@ -1764,7 +1773,16 @@
       "saving": "Enregistrement...",
       "selectAll": "Tout sélectionner",
       "unselectAll": "Tout désélectionner",
-      "noChanges": "Aucune modification à enregistrer"
+      "noChanges": "Aucune modification à enregistrer",
+      "cancel": "Annuler"
+    },
+    "inferred": {
+      "completedViaLabel": "Source de l'achèvement",
+      "completedViaValue": "Progression des expéditions ARC Raiders",
+      "description": "L'achèvement de cette saison a été détecté via la synchronisation de vos expéditions ARC Raiders.",
+      "detailsLabel": "Statistiques détaillées",
+      "detailsValue": "Non disponible pour cette saison.",
+      "title": "Saison {number} terminée"
     }
   },
   "DiscordBotPage": {
@@ -1999,7 +2017,17 @@
       "screenshotAlt": "Page d'escouade affichant l'historique de raid partagé",
       "screenshotDescription": "Consultez l'historique combiné des raids, partagez des repères de carte privés et coordonnez-vous avec votre escouade.",
       "seeItInAction": "Voir en action"
-    }
+    },
+    "filterMap": "Carte",
+    "filterStatus": "Statut",
+    "filterSeason": "Saison",
+    "filterMember": "Membre",
+    "allMaps": "Toutes les cartes",
+    "allStatuses": "Tous les statuts",
+    "allSeasons": "Toutes les saisons",
+    "allMembers": "Tous les membres",
+    "clearFilters": "Effacer les filtres",
+    "noRaidsFiltered": "Aucun raid ne correspond à vos filtres actuels."
   },
   "MapSubcategories": {
     "abundantLoot": "Butin abondant",
@@ -2217,7 +2245,9 @@
       "suggestItem": "Suggérer l'objet",
       "mappingLocked": "L'association de cet objet est verrouillée",
       "sortUnsorted": "Non trié",
-      "searchPlaceholder": "Rechercher des objets..."
+      "searchPlaceholder": "Rechercher des objets...",
+      "sortRarity": "Trier par rareté",
+      "sortName": "Trier par nom"
     },
     "currencies": {
       "cred": "Créd",
@@ -2540,5 +2570,78 @@
       "player": "Joueur",
       "squadmate": "Coéquipier"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "Dans vos listes"
+  },
+  "SeasonsPage": {
+    "title": "Saisons",
+    "currentSeason": "Vous êtes actuellement sur {name}",
+    "seasonStarted": "Début le {date}",
+    "seasonEnds": "Fin le {date}",
+    "departure": {
+      "title": "Départ de {season}",
+      "description": "Prêt au départ ? Sauvegardez un instantané de votre progression et réinitialisez pour la prochaine saison. La répartition de votre arbre de compétences et la progression des projets hors expédition seront conservées.",
+      "willReset": "Seront réinitialisés",
+      "bonusInfo": "Points de compétence bonus",
+      "bonusDescription": "Gagnez 1 point de compétence bonus tous les {creditsPerPoint} crédits de réserve (max {maxPoints} points)",
+      "startButton": "Lancer le départ",
+      "notYetAvailable": "La fenêtre de départ n'est pas encore ouverte. Revenez à la fin de la saison.",
+      "alreadyDeparted": "Départ terminé",
+      "alreadyDepartedDescription": "Vous avez déjà quitté cette saison. Consultez vos statistiques de saison dans l'historique ci-dessous.",
+      "confirmTitle": "Confirmer le départ",
+      "confirmWarning": "Cette action est irréversible. Votre progression de quêtes, votre planque et vos plans seront réinitialisés.",
+      "confirmButton": "Confirmer et partir",
+      "bonusEarned": "Bonus gagné",
+      "successTitle": "Départ terminé !",
+      "successDescription": "Votre progression de {season} a été sauvegardée. Bonne chance pour la saison suivante !",
+      "loadingTitle": "Chargement du statut de départ",
+      "opensIn": "Le départ ouvre dans {countdown}",
+      "opensAt": "Ouvre à {date}"
+    },
+    "autoResetDetected": "Départ de la Saison {season} détecté !",
+    "autoResetDescription": "Nous avons détecté votre départ via la synchronisation Embark. Votre progression a été sauvegardée automatiquement. Vous pouvez mettre à jour vos crédits de réserve et votre niveau de joueur dans l'historique de saison ci-dessous.",
+    "expedition": {
+      "title": "Expédition",
+      "description": "Les départs de saison pour les comptes ARC Raiders liés sont automatiques.",
+      "currentState": "État actuel de l'expédition",
+      "completedExpeditions": "Expéditions terminées",
+      "activeSeason": "Saison active",
+      "syncButton": "Synchroniser l'expédition",
+      "syncingButton": "Synchronisation...",
+      "syncError": "Échec de la synchronisation du statut de l'expédition.",
+      "states": {
+        "notStarted": "non commencée",
+        "inProgress": "en cours",
+        "completed": "terminée",
+        "unknown": "Inconnu",
+        "ready": "Prêt",
+        "committed": "Engagé"
+      }
+    },
+    "questionnaire": {
+      "description": "Nouveau sur ARCTracker ? Sélectionnez l'objet que vous voyez dans la Phase 1 de votre projet d'expédition afin que nous puissions définir la bonne saison.",
+      "requiredQuantity": "Requis : {count}",
+      "retakeButton": "Refaire le questionnaire de saison",
+      "success": "Saison active définie sur {season}.",
+      "title": "Trouvez votre saison d'expédition"
+    },
+    "metaDescription": "Suivez votre saison d'expédition ARC Raiders, gérez vos départs et consultez l'historique de la saison sur ARCTracker."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "Tous les objets requis (Total)",
+    "backToProjects": "Retour aux projets",
+    "itemRequirements": "Objets requis",
+    "metaDescription": "Toutes les exigences d'objets pour {projectName} dans ARC Raiders. Consultez chaque phase, les objets requis et les quantités nécessaires pour terminer ce projet.",
+    "metaTitleSuffix": "Exigences - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "Récompenses",
+    "projectNotFound": "Projet introuvable",
+    "projectNotFoundMessage": "Le projet demandé est introuvable.",
+    "receive": "Recevoir",
+    "totalItemsNeeded": "Total des objets nécessaires",
+    "totalPhases": "Phases",
+    "turnIn": "Livrer",
+    "uniqueItems": "Objets uniques",
+    "valueRequirement": "Valeur requise"
   }
 }

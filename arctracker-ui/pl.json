@@ -74,7 +74,8 @@
     "apps": "Aplikacje",
     "discordBot": "Bot Discord",
     "squads": "Oddziały",
-    "stash": "Skrytka"
+    "stash": "Skrytka",
+    "seasons": "Sezony"
   },
   "MapEvents": {
     "startsIn": "Zaczyna się za",
@@ -109,7 +110,8 @@
       "launchTowerLoot": "Łup z Wieży Startowej",
       "hiddenBunker": "Ukryty Bunkier",
       "none": "Brak",
-      "birdCity": "Ptasie Miasto"
+      "birdCity": "Ptasie Miasto",
+      "hurricane": "Huragan"
     }
   },
   "Common": {
@@ -185,11 +187,6 @@
     "requirementsUnknown": "Wymagania jeszcze nieznane",
     "noRequirements": "Brak wymagań",
     "coins": "monet",
-    "combatItems": "Przedmioty Bojowe",
-    "survivalItems": "Przedmioty Przetrwania",
-    "provisions": "Zapasy",
-    "materials": "Materiały",
-    "value": "Wartość",
     "phases": "fazy",
     "required": "Wymagane",
     "submitItemsValue": "Dostarcz przedmioty o wymaganej wartości, aby ukończyć tę fazę.",
@@ -197,7 +194,8 @@
     "season2": "Sezon 2",
     "stashModeActive": "Ilości ze zsynchronizowanej skrytki",
     "lastSynced": "Zsynchronizowano",
-    "syncStash": "Synchronizuj skrytkę"
+    "syncStash": "Synchronizuj skrytkę",
+    "season3": "Sezon 3"
   },
   "HideoutPage": {
     "level": "Poziom",
@@ -577,7 +575,9 @@
     },
     "dropRates": "Częstotliwość wypadania",
     "inRaidCrafting": "Wytwarzanie podczas rajdu",
-    "attachments": "Dodatki"
+    "attachments": "Dodatki",
+    "upgradePath": "Ścieżka ulepszeń",
+    "currentTier": "Obecny"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Szukaj przedmiotów...",
@@ -651,7 +651,9 @@
     "squadsTitle": "Oddziały - ARC Raiders",
     "squadsDescription": "Twórz oddziały i zarządzaj nimi, aby dzielić się historią rajdów i postępami ze znajomymi w ARC Raiders.",
     "stashTitle": "Śledzenie Schowka - ARC Raiders",
-    "stashDescription": "Automatycznie synchronizuj i śledź zawartość schowka, wyposażenie i waluty w ARC Raiders. Połącz swoje konto gry, aby otrzymywać aktualizacje w czasie rzeczywistym."
+    "stashDescription": "Automatycznie synchronizuj i śledź zawartość schowka, wyposażenie i waluty w ARC Raiders. Połącz swoje konto gry, aby otrzymywać aktualizacje w czasie rzeczywistym.",
+    "projectNotFoundTitle": "Nie znaleziono projektu - ARC Raiders",
+    "projectNotFoundDescription": "Nie udało się znaleźć żądanego projektu."
   },
   "OverlayPage": {
     "pageTitle": "Aplikacja Nakładki",
@@ -703,7 +705,7 @@
   },
   "Footer": {
     "copyright": "Zawartość gry i materiały są znakami towarowymi i prawami autorskimi Embark Studios i ich licencjodawców. Wszelkie prawa zastrzeżone.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Warunki Usługi",
     "privacyPolicy": "Polityka Prywatności"
   },
@@ -895,7 +897,9 @@
     "createYourOwn": "Utwórz Własną Listę",
     "listNotFound": "Nie Znaleziono Listy",
     "listNotFoundDescription": "Ta lista nie istnieje lub nie jest udostępniona publicznie.",
-    "backToHome": "Powrót do Strony Głównej"
+    "backToHome": "Powrót do Strony Głównej",
+    "cancel": "Anuluj",
+    "save": "Zapisz"
   },
   "Maps": {
     "showAll": "Pokaż Wszystkie",
@@ -1452,7 +1456,9 @@
       "totalValueExtracted": "Łączna wartość ewakuowana",
       "valueBroughtIn": "Wartość wniesiona",
       "valueExtracted": "Wartość ewakuowana",
-      "weaponsByKillsTitle": "Broń według zabójstw"
+      "weaponsByKillsTitle": "Broń według zabójstw",
+      "containersLooted": "Przeszukane pojemniki",
+      "containersPerRaid": "Pojemniki / Rajd"
     },
     "extractedSuffix": " ewakuowano",
     "extractionRate": "Wskaźnik ewakuacji",
@@ -1520,7 +1526,8 @@
     "undoSyncFailedLocally": "Nie udało się cofnąć synchronizacji lokalnie",
     "unknownMap": "Nieznana mapa",
     "valueSuffix": " wartość",
-    "timeInRaid": "Czas w rajdzie"
+    "timeInRaid": "Czas w rajdzie",
+    "statDamageByTarget": "Obrażenia według celu"
   },
   "RaidSync": {
     "title": "Zastosuj do Postępów",
@@ -1632,7 +1639,9 @@
         "hideout": "Moduły Kryjówki",
         "done": "Gotowe"
       },
-      "flickeringFlames": "Migoczące Płomienie"
+      "flickeringFlames": "Migoczące Płomienie",
+      "nonExpeditionProjects": "Projekty nieekspedycyjne",
+      "expeditionProjects": "Projekty ekspedycji"
     }
   },
   "DeviceAuth": {
@@ -1764,7 +1773,16 @@
       "saving": "Zapisywanie...",
       "selectAll": "Zaznacz wszystko",
       "unselectAll": "Odznacz wszystko",
-      "noChanges": "Brak zmian do zapisania"
+      "noChanges": "Brak zmian do zapisania",
+      "cancel": "Anuluj"
+    },
+    "inferred": {
+      "completedViaLabel": "Źródło ukończenia",
+      "completedViaValue": "Postęp ekspedycji w ARC Raiders",
+      "description": "Ukończenie tego sezonu zostało wykryte na podstawie synchronizacji ekspedycji w ARC Raiders.",
+      "detailsLabel": "Szczegółowe statystyki",
+      "detailsValue": "Niedostępne dla tego sezonu.",
+      "title": "Sezon {number} ukończony"
     }
   },
   "DiscordBotPage": {
@@ -1999,7 +2017,17 @@
       "screenshotAlt": "Strona oddziału pokazująca udostępnioną historię wypraw",
       "screenshotDescription": "Przeglądaj wspólną historię wypraw, udostępniaj prywatne znaczniki na mapie i koordynuj działania ze swoim oddziałem.",
       "seeItInAction": "Zobacz to w akcji"
-    }
+    },
+    "filterMap": "Mapa",
+    "filterStatus": "Status",
+    "filterSeason": "Sezon",
+    "filterMember": "Członek",
+    "allMaps": "Wszystkie mapy",
+    "allStatuses": "Wszystkie statusy",
+    "allSeasons": "Wszystkie sezony",
+    "allMembers": "Wszyscy członkowie",
+    "clearFilters": "Wyczyść filtry",
+    "noRaidsFiltered": "Brak rajdów pasujących do obecnych filtrów."
   },
   "MapSubcategories": {
     "abundantLoot": "Obfite łupy",
@@ -2217,7 +2245,9 @@
       "suggestItem": "Zasugeruj przedmiot",
       "mappingLocked": "Mapowanie tego przedmiotu jest zablokowane",
       "sortUnsorted": "Niesortowane",
-      "searchPlaceholder": "Szukaj przedmiotów..."
+      "searchPlaceholder": "Szukaj przedmiotów...",
+      "sortRarity": "Sortuj według rzadkości",
+      "sortName": "Sortuj według nazwy"
     },
     "currencies": {
       "cred": "Kredyt",
@@ -2540,5 +2570,78 @@
       "player": "Gracz",
       "squadmate": "Członek oddziału"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "Na twoich listach"
+  },
+  "SeasonsPage": {
+    "title": "Sezony",
+    "currentSeason": "Jesteś obecnie w {name}",
+    "seasonStarted": "Rozpoczęto {date}",
+    "seasonEnds": "Koniec {date}",
+    "departure": {
+      "title": "Opuść {season}",
+      "description": "Gotowy do wyruszenia? Zapisz migawkę postępów i zresetuj je na kolejny sezon. Twoje rozdane punkty umiejętności oraz postępy w projektach nieekspedycyjnych zostaną zachowane.",
+      "willReset": "Zostanie zresetowane",
+      "bonusInfo": "Dodatkowe punkty umiejętności",
+      "bonusDescription": "Zdobądź 1 dodatkowy punkt umiejętności za każde {creditsPerPoint} kredytów w skrytce (maks. {maxPoints} pkt)",
+      "startButton": "Rozpocznij opuszczanie",
+      "notYetAvailable": "Okno opuszczenia sezonu nie jest jeszcze otwarte. Sprawdź ponownie po zakończeniu sezonu.",
+      "alreadyDeparted": "Opuszczanie zakończone",
+      "alreadyDepartedDescription": "Opuściłeś już ten sezon. Zobacz swoje statystyki sezonowe w historii poniżej.",
+      "confirmTitle": "Potwierdź opuszczenie",
+      "confirmWarning": "Tej czynności nie można cofnąć. Twoje postępy w zadaniach, kryjówka oraz schematy zostaną zresetowane.",
+      "confirmButton": "Potwierdź i opuść",
+      "bonusEarned": "Zdobyty bonus",
+      "successTitle": "Opuszczanie zakończone!",
+      "successDescription": "Twoje postępy w {season} zostały zapisane. Powodzenia w kolejnym sezonie!",
+      "loadingTitle": "Wczytywanie statusu odlotu",
+      "opensIn": "Odlot otwiera się za {countdown}",
+      "opensAt": "Otwiera się o {date}"
+    },
+    "autoResetDetected": "Wykryto zakończenie Sezonu {season}!",
+    "autoResetDescription": "Wykryliśmy zakończenie sezonu poprzez synchronizację Embark. Twój postęp został automatycznie zapisany. Możesz zaktualizować swoje kredyty w schowku i poziom gracza w historii sezonu poniżej.",
+    "expedition": {
+      "title": "Ekspedycja",
+      "description": "Sezonowe ekspedycje dla połączonych kont ARC Raiders są automatyczne.",
+      "currentState": "Status obecnej ekspedycji",
+      "completedExpeditions": "Ukończone ekspedycje",
+      "activeSeason": "Aktywny sezon",
+      "syncButton": "Synchronizuj ekspedycję",
+      "syncingButton": "Synchronizacja...",
+      "syncError": "Nie udało się zsynchronizować statusu ekspedycji.",
+      "states": {
+        "notStarted": "nierozpoczęta",
+        "inProgress": "w toku",
+        "completed": "ukończona",
+        "unknown": "Nieznany",
+        "ready": "Gotowy",
+        "committed": "Zatwierdzony"
+      }
+    },
+    "questionnaire": {
+      "description": "Jesteś nowy w ARCTracker? Wybierz przedmiot widoczny w Fazie 1 swojego projektu ekspedycji, abyśmy mogli ustawić odpowiedni sezon.",
+      "requiredQuantity": "Wymagane: {count}",
+      "retakeButton": "Wypełnij ponownie ankietę sezonową",
+      "success": "Ustawiono aktywny sezon na {season}.",
+      "title": "Znajdź swój sezon ekspedycji"
+    },
+    "metaDescription": "Śledź swój sezon ekspedycji w ARC Raiders, zarządzaj wypadami i przeglądaj historię sezonu w ARCTracker."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "Wszystkie wymagane przedmioty (Łącznie)",
+    "backToProjects": "Powrót do projektów",
+    "itemRequirements": "Wymagane przedmioty",
+    "metaDescription": "Wszystkie wymagania dla {projectName} w ARC Raiders. Zobacz każdą fazę, wymagane przedmioty i ilości potrzebne do ukończenia tego projektu.",
+    "metaTitleSuffix": "Wymagania - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "Nagrody",
+    "projectNotFound": "Nie znaleziono projektu",
+    "projectNotFoundMessage": "Nie udało się znaleźć żądanego projektu.",
+    "receive": "Otrzymasz",
+    "totalItemsNeeded": "Suma wymaganych przedmiotów",
+    "totalPhases": "Fazy",
+    "turnIn": "Oddaj",
+    "uniqueItems": "Unikalne przedmioty",
+    "valueRequirement": "Wymagana wartość"
   }
 }

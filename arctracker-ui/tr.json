@@ -74,7 +74,8 @@
     "apps": "Uygulamalar",
     "discordBot": "Discord Botu",
     "squads": "Ekipler",
-    "stash": "Depo"
+    "stash": "Depo",
+    "seasons": "Sezonlar"
   },
   "MapEvents": {
     "startsIn": "Başlangıç",
@@ -109,7 +110,8 @@
       "launchTowerLoot": "Fırlatma Kulesi Ganimeti",
       "hiddenBunker": "Gizli Sığınak",
       "none": "Hiçbiri",
-      "birdCity": "Kuş Şehri"
+      "birdCity": "Kuş Şehri",
+      "hurricane": "Kasırga"
     }
   },
   "Common": {
@@ -185,11 +187,6 @@
     "requirementsUnknown": "Gereksinimler henüz bilinmiyor",
     "noRequirements": "Gereksinim yok",
     "coins": "para",
-    "combatItems": "Savaş Eşyaları",
-    "survivalItems": "Hayatta Kalma Eşyaları",
-    "provisions": "Erzak",
-    "materials": "Malzemeler",
-    "value": "Değer",
     "phases": "aşama",
     "required": "Gerekli",
     "submitItemsValue": "Bu aşamayı tamamlamak için gereken değerde eşya teslim edin.",
@@ -197,7 +194,8 @@
     "season2": "Sezon 2",
     "stashModeActive": "Eşitlenen depo sayıları",
     "lastSynced": "Eşitlendi",
-    "syncStash": "Depoyu eşitle"
+    "syncStash": "Depoyu eşitle",
+    "season3": "Sezon 3"
   },
   "HideoutPage": {
     "level": "Seviye",
@@ -577,7 +575,9 @@
     },
     "dropRates": "Düşme Oranları",
     "inRaidCrafting": "Baskın İçi Üretim",
-    "attachments": "Eklentiler"
+    "attachments": "Eklentiler",
+    "upgradePath": "Yükseltme Yolu",
+    "currentTier": "Mevcut"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Eşyaları ara...",
@@ -651,7 +651,9 @@
     "squadsTitle": "Ekipler - ARC Raiders",
     "squadsDescription": "ARC Raiders'da arkadaşlarınızla akın geçmişini ve ilerlemeyi paylaşmak için ekipler oluşturun ve yönetin.",
     "stashTitle": "Depo Takipçisi - ARC Raiders",
-    "stashDescription": "ARC Raiders depo envanterini, teçhizatını ve para birimlerini otomatik olarak eşitle ve takip et. Gerçek zamanlı güncellemeler için oyun hesabını bağla."
+    "stashDescription": "ARC Raiders depo envanterini, teçhizatını ve para birimlerini otomatik olarak eşitle ve takip et. Gerçek zamanlı güncellemeler için oyun hesabını bağla.",
+    "projectNotFoundTitle": "Proje Bulunamadı - ARC Raiders",
+    "projectNotFoundDescription": "İstenen proje bulunamadı."
   },
   "OverlayPage": {
     "pageTitle": "Arayüz Yardımcı Uygulaması",
@@ -703,7 +705,7 @@
   },
   "Footer": {
     "copyright": "Oyun içeriği ve materyalleri Embark Studios ve lisans verenlerinin ticari markaları ve telif haklarıdır. Tüm hakları saklıdır.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Hizmet Koşulları",
     "privacyPolicy": "Gizlilik Politikası"
   },
@@ -895,7 +897,9 @@
     "createYourOwn": "Kendi Listeni Oluştur",
     "listNotFound": "Liste Bulunamadı",
     "listNotFoundDescription": "Bu liste mevcut değil veya herkese açık olarak paylaşılmamış.",
-    "backToHome": "Ana Sayfaya Dön"
+    "backToHome": "Ana Sayfaya Dön",
+    "cancel": "İptal",
+    "save": "Kaydet"
   },
   "Maps": {
     "showAll": "Tümünü Göster",
@@ -1452,7 +1456,9 @@
       "totalValueExtracted": "Toplam Tahliye Edilen Değer",
       "valueBroughtIn": "Getirilen Değer",
       "valueExtracted": "Tahliye Edilen Değer",
-      "weaponsByKillsTitle": "Öldürme Sayısına Göre Silahlar"
+      "weaponsByKillsTitle": "Öldürme Sayısına Göre Silahlar",
+      "containersLooted": "Yağmalanan Konteynerler",
+      "containersPerRaid": "Konteyner / Baskın"
     },
     "extractedSuffix": " tahliye edildi",
     "extractionRate": "Tahliye Oranı",
@@ -1520,7 +1526,8 @@
     "undoSyncFailedLocally": "Eşitleme yerel olarak geri alınamadı",
     "unknownMap": "Bilinmeyen Harita",
     "valueSuffix": " değer",
-    "timeInRaid": "Baskında geçen süre"
+    "timeInRaid": "Baskında geçen süre",
+    "statDamageByTarget": "Hedefe Göre Hasar"
   },
   "RaidSync": {
     "title": "İlerlemeye Uygula",
@@ -1632,7 +1639,9 @@
         "hideout": "Sığınak Modülleri",
         "done": "Bitti"
       },
-      "flickeringFlames": "Titrek Alevler"
+      "flickeringFlames": "Titrek Alevler",
+      "nonExpeditionProjects": "Sefer dışı projeler",
+      "expeditionProjects": "Sefer projeleri"
     }
   },
   "DeviceAuth": {
@@ -1764,7 +1773,16 @@
       "saving": "Kaydediliyor...",
       "selectAll": "Tümünü Seç",
       "unselectAll": "Tümünün Seçimini Kaldır",
-      "noChanges": "Kaydedilecek değişiklik yok"
+      "noChanges": "Kaydedilecek değişiklik yok",
+      "cancel": "İptal"
+    },
+    "inferred": {
+      "completedViaLabel": "Tamamlanma kaynağı",
+      "completedViaValue": "ARC Raiders sefer ilerlemesi",
+      "description": "Bu sezonun tamamlanması, ARC Raiders sefer eşitlemenizden tespit edildi.",
+      "detailsLabel": "Detaylı istatistikler",
+      "detailsValue": "Bu sezon için mevcut değil.",
+      "title": "Sezon {number} tamamlandı"
     }
   },
   "DiscordBotPage": {
@@ -1999,7 +2017,17 @@
       "screenshotAlt": "Paylaşılan baskın geçmişini gösteren takım sayfası",
       "screenshotDescription": "Birleşik baskın geçmişini görüntüle, özel harita işaretlerini paylaş ve takımınla koordine ol.",
       "seeItInAction": "İş Başında Gör"
-    }
+    },
+    "filterMap": "Harita",
+    "filterStatus": "Durum",
+    "filterSeason": "Sezon",
+    "filterMember": "Üye",
+    "allMaps": "Tüm Haritalar",
+    "allStatuses": "Tüm Durumlar",
+    "allSeasons": "Tüm Sezonlar",
+    "allMembers": "Tüm Üyeler",
+    "clearFilters": "Filtreleri Temizle",
+    "noRaidsFiltered": "Mevcut filtrelerinizle eşleşen baskın yok."
   },
   "MapSubcategories": {
     "abundantLoot": "Bol Ganimet",
@@ -2217,7 +2245,9 @@
       "suggestItem": "Eşya Öner",
       "mappingLocked": "Bu eşya eşleştirmesi kilitli",
       "sortUnsorted": "Sıralanmamış",
-      "searchPlaceholder": "Eşya ara..."
+      "searchPlaceholder": "Eşya ara...",
+      "sortRarity": "Nadirliğe göre sırala",
+      "sortName": "İsme göre sırala"
     },
     "currencies": {
       "cred": "Kredi",
@@ -2540,5 +2570,78 @@
       "player": "Oyuncu",
       "squadmate": "Takım Arkadaşı"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "Listelerinizde"
+  },
+  "SeasonsPage": {
+    "title": "Sezonlar",
+    "currentSeason": "Şu anda {name} sezonundasın",
+    "seasonStarted": "{date} tarihinde başladı",
+    "seasonEnds": "{date} tarihinde bitiyor",
+    "departure": {
+      "title": "{season} Sezonundan Ayrıl",
+      "description": "Ayrılmaya hazır mısın? İlerleme anlık görüntünü kaydet ve bir sonraki sezon için sıfırla. Yetenek ağacı dağılımların ve sefer dışı proje ilerlemen korunacak.",
+      "willReset": "Sıfırlanacak",
+      "bonusInfo": "Bonus Yetenek Puanları",
+      "bonusDescription": "Her {creditsPerPoint} zula kredisi için 1 bonus yetenek puanı kazan (maks. {maxPoints} puan)",
+      "startButton": "Ayrılışı Başlat",
+      "notYetAvailable": "Ayrılış penceresi henüz açık değil. Sezon sona erdiğinde tekrar kontrol et.",
+      "alreadyDeparted": "Ayrılış Tamamlandı",
+      "alreadyDepartedDescription": "Bu sezondan zaten ayrıldın. Sezon istatistiklerini aşağıdaki geçmiş bölümünden görüntüleyebilirsin.",
+      "confirmTitle": "Ayrılışı Onayla",
+      "confirmWarning": "Bu işlem geri alınamaz. Görev ilerlemen, sığınağın ve şemaların sıfırlanacak.",
+      "confirmButton": "Onayla ve Ayrıl",
+      "bonusEarned": "Kazanılan bonus",
+      "successTitle": "Ayrılış Tamamlandı!",
+      "successDescription": "{season} ilerlemen kaydedildi. Gelecek sezonda bol şans!",
+      "loadingTitle": "Ayrılış durumu yükleniyor",
+      "opensIn": "Kalkış {countdown} içinde açılıyor",
+      "opensAt": "{date} tarihinde açılıyor"
+    },
+    "autoResetDetected": "Sezon {season} ayrılışı tespit edildi!",
+    "autoResetDescription": "Embark senkronizasyonu ile ayrılışınızı tespit ettik. İlerlemeniz otomatik olarak kaydedildi. Depo kredilerinizi ve oyuncu seviyenizi aşağıdaki sezon geçmişinden güncelleyebilirsiniz.",
+    "expedition": {
+      "title": "Sefer",
+      "description": "Bağlı ARC Raiders hesapları için sezonluk çıkışlar otomatiktir.",
+      "currentState": "Mevcut sefer durumu",
+      "completedExpeditions": "Tamamlanan seferler",
+      "activeSeason": "Aktif sezon",
+      "syncButton": "Seferi eşitle",
+      "syncingButton": "Eşitleniyor...",
+      "syncError": "Sefer durumu eşitlenemedi.",
+      "states": {
+        "notStarted": "başlamadı",
+        "inProgress": "devam ediyor",
+        "completed": "tamamlandı",
+        "unknown": "Bilinmiyor",
+        "ready": "Hazır",
+        "committed": "Kesinleşti"
+      }
+    },
+    "questionnaire": {
+      "description": "ARCTracker'da yeni misin? Doğru sezonu ayarlayabilmemiz için keşif projenin 1. Aşamasında gördüğün öğeyi seç.",
+      "requiredQuantity": "Gerekli: {count}",
+      "retakeButton": "Sezon anketini tekrar yap",
+      "success": "Aktif sezon {season} olarak ayarlandı.",
+      "title": "Keşif sezonunu bul"
+    },
+    "metaDescription": "ARC Raiders sefer sezonunu takip et, kalkışları yönet ve sezon geçmişini ARCTracker'da incele."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "Tüm Gerekli Eşyalar (Toplam)",
+    "backToProjects": "Projelere Dön",
+    "itemRequirements": "Gerekli Eşyalar",
+    "metaDescription": "ARC Raiders'taki {projectName} için tüm eşya gereksinimleri. Bu projeyi tamamlamak için her aşamayı, gerekli eşyaları ve gereken miktarları görüntüleyin.",
+    "metaTitleSuffix": "Gereksinimler - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "Ödüller",
+    "projectNotFound": "Proje Bulunamadı",
+    "projectNotFoundMessage": "İstenen proje bulunamadı.",
+    "receive": "Al",
+    "totalItemsNeeded": "Toplam Gereken Eşyalar",
+    "totalPhases": "Aşamalar",
+    "turnIn": "Teslim Et",
+    "uniqueItems": "Benzersiz Eşyalar",
+    "valueRequirement": "Değer Gereksinimi"
   }
 }

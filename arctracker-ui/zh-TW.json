@@ -74,7 +74,8 @@
     "settings": "設置",
     "privacy": "隱私政策",
     "terms": "服務條款",
-    "stash": "倉庫"
+    "stash": "倉庫",
+    "seasons": "賽季"
   },
   "MapEvents": {
     "startsIn": "開始於",
@@ -109,7 +110,8 @@
       "launchTowerLoot": "發射塔上的戰利品",
       "hiddenBunker": "隱藏地堡",
       "birdCity": "鳥城",
-      "none": "無"
+      "none": "無",
+      "hurricane": "颶風"
     }
   },
   "Common": {
@@ -192,11 +194,6 @@
     "requirementsUnknown": "需求暫未明確",
     "noRequirements": "無需求",
     "coins": "幣",
-    "combatItems": "戰鬥物品",
-    "survivalItems": "生存物品",
-    "provisions": "給養",
-    "materials": "材料",
-    "value": "價值",
     "phases": "階段",
     "required": "需要",
     "submitItemsValue": "提交所需價值的物品以完成此階段。",
@@ -204,7 +201,8 @@
     "season2": "第 2 賽季",
     "stashModeActive": "已啟用同步倉庫模式",
     "lastSynced": "已同步",
-    "syncStash": "同步倉庫"
+    "syncStash": "同步倉庫",
+    "season3": "第 3 賽季"
   },
   "HideoutPage": {
     "level": "等級",
@@ -584,7 +582,9 @@
         "high": "可靠性極佳",
         "highDesc": "200+ 次追蹤對局"
       }
-    }
+    },
+    "upgradePath": "升級路徑",
+    "currentTier": "當前"
   },
   "ItemsListPage": {
     "searchPlaceholder": "搜索物品...",
@@ -658,7 +658,9 @@
     "squadsTitle": "小隊 - ARC Raiders",
     "squadsDescription": "在 ARC Raiders 中創建並管理小隊，與好友分享對局記錄和進度。",
     "stashTitle": "倉庫追蹤器 - ARC Raiders",
-    "stashDescription": "自動同步並追蹤您的 ARC Raiders 倉庫、裝備配置及貨幣。關聯您的遊戲賬號以獲取實時更新。"
+    "stashDescription": "自動同步並追蹤您的 ARC Raiders 倉庫、裝備配置及貨幣。關聯您的遊戲賬號以獲取實時更新。",
+    "projectNotFoundTitle": "找不到專案 - ARC Raiders",
+    "projectNotFoundDescription": "找不到請求的專案。"
   },
   "OverlayPage": {
     "pageTitle": "懸浮窗助手應用",
@@ -778,7 +780,7 @@
   },
   "Footer": {
     "copyright": "遊戲內容和材料是 Embark Studios 及其許可方的商標和版權。保留所有權利。",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "服務條款",
     "privacyPolicy": "隱私政策"
   },
@@ -1093,7 +1095,9 @@
     "createYourOwn": "創建您自己的收藏列表",
     "listNotFound": "收藏列表未找到",
     "listNotFoundDescription": "此收藏列表不存在或未公開分享。",
-    "backToHome": "返回首頁"
+    "backToHome": "返回首頁",
+    "cancel": "取消",
+    "save": "儲存"
   },
   "Maps": {
     "showAll": "顯示全部",
@@ -1715,7 +1719,9 @@
       "totalValueExtracted": "總撤離價值",
       "valueBroughtIn": "帶入價值",
       "valueExtracted": "撤離價值",
-      "weaponsByKillsTitle": "按擊殺數分類的武器"
+      "weaponsByKillsTitle": "按擊殺數分類的武器",
+      "containersLooted": "已搜刮容器",
+      "containersPerRaid": "容器 / 突襲"
     },
     "extractedSuffix": " 已撤離",
     "extractionRate": "撤離率",
@@ -1783,7 +1789,8 @@
     "undoSyncFailedLocally": "本機復原同步失敗",
     "unknownMap": "未知地圖",
     "valueSuffix": " 價值",
-    "timeInRaid": "突襲時間"
+    "timeInRaid": "突襲時間",
+    "statDamageByTarget": "按目標分類的傷害"
   },
   "RaidSync": {
     "title": "應用到進度",
@@ -1879,7 +1886,16 @@
       "saving": "保存中...",
       "selectAll": "全選",
       "unselectAll": "取消全選",
-      "noChanges": "沒有要保存的更改"
+      "noChanges": "沒有要保存的更改",
+      "cancel": "取消"
+    },
+    "inferred": {
+      "completedViaLabel": "完成來源",
+      "completedViaValue": "ARC Raiders 遠征進度",
+      "description": "此賽季完成狀態是透過您的 ARC Raiders 遠征同步偵測到的。",
+      "detailsLabel": "詳細統計數據",
+      "detailsValue": "本賽季無法提供。",
+      "title": "第 {number} 賽季已完成"
     }
   },
   "season": {
@@ -1941,7 +1957,9 @@
         "quests": "已完成任務",
         "hideout": "藏身處模塊",
         "done": "完成"
-      }
+      },
+      "nonExpeditionProjects": "非遠征專案",
+      "expeditionProjects": "遠征計畫"
     }
   },
   "SquadsPage": {
@@ -2091,7 +2109,17 @@
       "highlightToggleSharing": "逐項功能切換分享開關",
       "highlightSecureInvites": "通過安全鏈接邀請成員",
       "ctaText": "立即開始小隊協作！"
-    }
+    },
+    "filterMap": "地圖",
+    "filterStatus": "狀態",
+    "filterSeason": "賽季",
+    "filterMember": "成員",
+    "allMaps": "所有地圖",
+    "allStatuses": "所有狀態",
+    "allSeasons": "所有賽季",
+    "allMembers": "所有成員",
+    "clearFilters": "清除篩選",
+    "noRaidsFiltered": "沒有符合目前篩選條件的突襲。"
   },
   "StashPage": {
     "title": "倉庫",
@@ -2219,7 +2247,9 @@
       "submitSuggestion": "提交建議",
       "suggestionError": "提交建議失敗。請重試。",
       "syncError": "庫存同步失敗。請重試。",
-      "searchPlaceholder": "搜索物品..."
+      "searchPlaceholder": "搜索物品...",
+      "sortRarity": "依稀有度排序",
+      "sortName": "依名稱排序"
     },
     "loadout": {
       "title": "配裝",
@@ -2519,5 +2549,78 @@
       "player": "玩家",
       "squadmate": "隊友"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "在您的清單中"
+  },
+  "SeasonsPage": {
+    "title": "賽季",
+    "currentSeason": "您目前處於 {name}",
+    "seasonStarted": "開始於 {date}",
+    "seasonEnds": "結束於 {date}",
+    "departure": {
+      "title": "離開 {season}",
+      "description": "準備好啟程了嗎？儲存您的進度快照並重置以迎接下個賽季。您的技能樹配置與非遠征專案進度將會保留。",
+      "willReset": "將被重置",
+      "bonusInfo": "額外技能點數",
+      "bonusDescription": "每擁有 {creditsPerPoint} 倉庫信用點數可獲得 1 點額外技能點數（上限 {maxPoints} 點）",
+      "startButton": "開始離開程序",
+      "notYetAvailable": "離開窗口尚未開啟。請在賽季結束後再來查看。",
+      "alreadyDeparted": "離開已完成",
+      "alreadyDepartedDescription": "您已離開本賽季。請在下方歷史記錄中查看您的賽季統計數據。",
+      "confirmTitle": "確認離開",
+      "confirmWarning": "此操作無法復原。您的任務進度、藏身處和藍圖將被重置。",
+      "confirmButton": "確認並離開",
+      "bonusEarned": "已獲得獎勵",
+      "successTitle": "離開已完成！",
+      "successDescription": "您的 {season} 進度已儲存。祝您在下一個賽季好運！",
+      "loadingTitle": "正在載入出發狀態",
+      "opensIn": "出發將於 {countdown} 後開放",
+      "opensAt": "於 {date} 開放"
+    },
+    "autoResetDetected": "偵測到第 {season} 賽季撤離！",
+    "autoResetDescription": "我們已透過 Embark 同步偵測到您的撤離。您的進度已自動儲存。您可以在下方的賽季紀錄中更新您的倉庫點數和玩家等級。",
+    "expedition": {
+      "title": "遠征",
+      "description": "已連結 ARC Raiders 帳號的賽季啟程將自動執行。",
+      "currentState": "當前遠征狀態",
+      "completedExpeditions": "已完成的遠征",
+      "activeSeason": "當前賽季",
+      "syncButton": "同步遠征",
+      "syncingButton": "同步中...",
+      "syncError": "無法同步遠征狀態。",
+      "states": {
+        "notStarted": "未開始",
+        "inProgress": "進行中",
+        "completed": "已完成",
+        "unknown": "未知",
+        "ready": "準備就緒",
+        "committed": "已確認"
+      }
+    },
+    "questionnaire": {
+      "description": "初次使用 ARCTracker 嗎？請選擇您在遠征計畫第一階段中看到的物品，以便我們設定正確的賽季。",
+      "requiredQuantity": "需求：{count}",
+      "retakeButton": "重新進行賽季問卷",
+      "success": "已將目前的賽季設定為 {season}。",
+      "title": "尋找您的遠征賽季"
+    },
+    "metaDescription": "在 ARCTracker 追蹤您的 ARC Raiders 遠征賽季，管理出擊，並檢視賽季紀錄。"
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "所有需求物品（總計）",
+    "backToProjects": "返回專案",
+    "itemRequirements": "需求物品",
+    "metaDescription": "ARC Raiders 中 {projectName} 的所有物品需求。查看完成此專案所需的每個階段、需求物品和數量。",
+    "metaTitleSuffix": "需求 - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "獎勵",
+    "projectNotFound": "找不到專案",
+    "projectNotFoundMessage": "找不到請求的專案。",
+    "receive": "獲得",
+    "totalItemsNeeded": "需求物品總數",
+    "totalPhases": "階段",
+    "turnIn": "上繳",
+    "uniqueItems": "不重複物品",
+    "valueRequirement": "價值需求"
   }
 }
