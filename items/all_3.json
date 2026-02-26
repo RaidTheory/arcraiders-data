@@ -1,5 +1,67 @@
 [
   {
+    "id": "frying_pan",
+    "name": {
+      "da": "Stegepande",
+      "de": "Bratpfanne",
+      "en": "Frying Pan",
+      "es": "Sartén",
+      "fr": "Poêle à Frire",
+      "he": "מחבת",
+      "hr": "Tava",
+      "it": "Padella",
+      "ja": "フライパン",
+      "ko-KR": "프라이팬",
+      "no": "Stekepanne",
+      "pl": "Patelnia",
+      "pt": "Frigideira",
+      "pt-BR": "Frigideira",
+      "ru": "Сковорода",
+      "sr": "Tiganj",
+      "tr": "Kızartma Tavası",
+      "uk": "Сковорода",
+      "zh-CN": "平底锅",
+      "zh-TW": "平底鍋"
+    },
+    "description": {
+      "da": "Kan genbruges til håndværksmaterialer.",
+      "de": "Kann zu Herstellungsmaterialien recycelt werden.",
+      "en": "Can be recycled into crafting materials.",
+      "es": "Se puede reciclar en materiales de fabricación.",
+      "fr": "Peut être recyclé en matériaux d'artisanat.",
+      "he": "ניתן למיחזור לחומרי יצירה.",
+      "hr": "Može se reciklirati u materijale za izradu.",
+      "it": "Si può riciclare in materiali da costruzione.",
+      "ja": "クラフト素材にリサイクルできる。",
+      "ko-KR": "제작 재료로 재활용할 수 있다.",
+      "no": "Kan resirkuleres til håndverksmateriell.",
+      "pl": "Można przetworzyć na materiały rzemieślnicze.",
+      "pt": "Pode ser reciclado em materiais de fabricação.",
+      "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+      "ru": "Можно переработать в материалы для крафта.",
+      "sr": "Može se reciklirati u materijale za izradu.",
+      "tr": "İşleme malzemelerine geri dönüştürülebilir.",
+      "uk": "Можна переробити на матеріали для крафту.",
+      "zh-CN": "可以回收成制作材料。",
+      "zh-TW": "可以回收成製作材料。"
+    },
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "foundIn": "Residential",
+    "value": 640,
+    "weightKg": 2,
+    "stackSize": 3,
+    "recyclesInto": {
+      "metal_parts": 8
+    },
+    "salvagesInto": {
+      "metal_parts": 4
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/frying_pan.png",
+    "updatedAt": "11/04/2025",
+    "addedIn": "base"
+  },
+  {
     "id": "garlic_press",
     "name": {
       "da": "Hvidløgspresser",
@@ -58,7 +120,8 @@
       "metal_parts": 7
     },
     "imageFilename": "https://cdn.arctracker.io/items/garlic_press.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/04/2025",
+    "addedIn": "base"
   },
   {
     "id": "gas_grenade_trap",
@@ -111,6 +174,7 @@
     "value": 300,
     "weightKg": 0.25,
     "stackSize": 3,
+    "blueprintLocked": true,
     "effects": {
       "Duration": {
         "value": "20s",
@@ -183,8 +247,8 @@
       }
     },
     "craftBench": [
-      "workbench",
-      "in_raid"
+      "in_raid",
+      "workbench"
     ],
     "stationLevelRequired": 1,
     "recipe": {
@@ -192,7 +256,8 @@
       "wires": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/gas_grenade_trap.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "gas_grenade",
@@ -330,7 +395,18 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/gas_grenade.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 810
+        },
+        "limit": 6,
+        "refreshSeconds": 86400,
+        "trader": "Apollo"
+      }
+    ]
   },
   {
     "id": "gas_mine_blueprint",
@@ -379,11 +455,13 @@
       "zh-TW": "一種近距離觸發的地雷，會彈出並釋放快速消耗耐力的毒氣雲。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "gas_mine",
@@ -522,7 +600,16 @@
       "chemicals": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "1.2",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 810
+        },
+        "trader": "Apollo"
+      }
+    ]
   },
   {
     "id": "geiger_counter",
@@ -584,7 +671,8 @@
       "battery": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/geiger_counter.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "gentle_duck",
@@ -639,7 +727,8 @@
     "stackSize": 15,
     "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/gentle_duck.png",
-    "updatedAt": "02/01/2026"
+    "updatedAt": "02/01/2026",
+    "addedIn": "1.13"
   },
   {
     "id": "great_mullein",
@@ -700,7 +789,18 @@
       "assorted_seeds": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/great_mullein.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 5
+        },
+        "limit": 10,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "green_light_stick_blueprint",
@@ -749,12 +849,13 @@
       "zh-TW": "可投擲的化學光源，能照亮周圍區域。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/green_light_stick.png",
-    "updatedAt": "11/12/2025"
+    "updatedAt": "11/12/2025",
+    "addedIn": "base"
   },
   {
     "id": "green_light_stick",
@@ -868,7 +969,16 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/green_light_stick.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 450
+        },
+        "trader": "Apollo"
+      }
+    ]
   },
   {
     "id": "hairpin_i",
@@ -920,6 +1030,7 @@
     "rarity": "Common",
     "value": 450,
     "weightKg": 3,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -1062,8 +1173,8 @@
       }
     },
     "craftBench": [
-      "workbench",
-      "weapon_bench"
+      "weapon_bench",
+      "workbench"
     ],
     "stationLevelRequired": 1,
     "recipe": {
@@ -1077,8 +1188,33 @@
     "salvagesInto": {
       "metal_parts": 2
     },
+    "upgradeCost": {
+      "metal_parts": 8
+    },
     "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ]
+    },
+    "repairCost": {
+      "metal_parts": 2,
+      "rubber_parts": 1
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "hairpin_ii",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 1350
+        },
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "hairpin_ii",
@@ -1130,6 +1266,7 @@
     "rarity": "Common",
     "value": 1000,
     "weightKg": 3,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -1326,10 +1463,25 @@
       "metal_parts": 4
     },
     "upgradeCost": {
-      "metal_parts": 8
+      "metal_parts": 9,
+      "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ]
+    },
+    "repairCost": {
+      "metal_parts": 4,
+      "rubber_parts": 3
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "hairpin_iii"
   },
   {
     "id": "hairpin_iii",
@@ -1381,6 +1533,7 @@
     "rarity": "Common",
     "value": 2000,
     "weightKg": 3,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -1577,11 +1730,25 @@
       "simple_gun_parts": 1
     },
     "upgradeCost": {
-      "metal_parts": 9,
+      "mechanical_components": 1,
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ]
+    },
+    "repairCost": {
+      "metal_parts": 6,
+      "simple_gun_parts": 1
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "hairpin_iv"
   },
   {
     "id": "hairpin_iv",
@@ -1633,6 +1800,7 @@
     "rarity": "Common",
     "value": 2900,
     "weightKg": 3,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -1833,7 +2001,20 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ]
+    },
+    "repairCost": {
+      "mechanical_components": 1,
+      "simple_gun_parts": 2
+    },
+    "repairDurability": 0.5
   },
   {
     "id": "headphones",
@@ -1895,7 +2076,8 @@
       "speaker_component": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/headphones.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base"
   },
   {
     "id": "heavy_ammo",
@@ -1961,7 +2143,16 @@
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_ammo.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 900
+        },
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "heavy_fuze_grenade",
@@ -2076,7 +2267,8 @@
       "crude_explosives": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_fuze_grenade.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "heavy_gun_parts_blueprint",
@@ -2125,12 +2317,13 @@
       "zh-TW": "用於製作武器。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts.png",
-    "updatedAt": "11/12/2025"
+    "updatedAt": "11/12/2025",
+    "addedIn": "base"
   },
   {
     "id": "heavy_gun_parts",
@@ -2185,7 +2378,10 @@
     "weightKg": 0.5,
     "stackSize": 5,
     "blueprintLocked": true,
-    "craftBench": "refiner",
+    "craftBench": [
+      "in_raid",
+      "refiner"
+    ],
     "stationLevelRequired": 2,
     "recipe": {
       "simple_gun_parts": 4
@@ -2197,7 +2393,18 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 15
+        },
+        "limit": 3,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "heavy_shield",
@@ -2359,10 +2566,26 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_shield.png",
     "updatedAt": "02/24/2026",
+    "addedIn": "base",
     "damageMitigation": 65,
     "durability": 140,
     "movementSpeedModifier": -15,
-    "shieldCharge": 120
+    "repairCost": {
+      "arc_circuitry": 2,
+      "voltage_converter": 1
+    },
+    "repairDurability": 0.5,
+    "shieldCharge": 120,
+    "vendors": [
+      {
+        "cost": {
+          "coins": 16500
+        },
+        "limit": 1,
+        "refreshSeconds": 86400,
+        "trader": "Lance"
+      }
+    ]
   },
   {
     "id": "herbal_bandage",
@@ -2487,8 +2710,8 @@
       }
     },
     "craftBench": [
-      "med_station",
-      "in_raid"
+      "in_raid",
+      "med_station"
     ],
     "stationLevelRequired": 1,
     "recipe": {
@@ -2503,7 +2726,18 @@
       "fabric": 8
     },
     "imageFilename": "https://cdn.arctracker.io/items/herbal_bandage.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 2700
+        },
+        "limit": 10,
+        "refreshSeconds": 86400,
+        "trader": "Lance"
+      }
+    ]
   },
   {
     "id": "horizontal_grip_blueprint",
@@ -2608,17 +2842,21 @@
     "rarity": "Epic",
     "value": 7000,
     "weightKg": 0.5,
+    "stackSize": 1,
     "compatibleWith": [
-      "Ferro",
-      "Kettle",
-      "Rattler",
-      "Stitcher",
+      "Aphelion",
       "Arpeggio",
-      "Il Toro",
-      "Venator",
       "Bettina",
       "Bobcat",
+      "Ferro",
+      "Hullcracker",
+      "Il Toro",
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Stitcher",
       "Tempest",
+      "Venator",
       "Vulcano"
     ],
     "effects": {
@@ -2700,7 +2938,8 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/horizontal_grip.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "hornet_driver",
@@ -2834,6 +3073,7 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/hornet_driver.png",
     "updatedAt": "01/13/2026",
+    "addedIn": "base",
     "tip": "The Hornet Driver is a rare item is dropped by Hornets that can be recycled into crafting materials."
   },
   {
@@ -2895,7 +3135,8 @@
       "chemicals": 5
     },
     "imageFilename": "https://cdn.arctracker.io/items/household_cleaner.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base"
   },
   {
     "id": "hullcracker_blueprint",
@@ -2944,11 +3185,13 @@
       "zh-TW": "主要由碎艦者使用的反 ARC 彈頭。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-    "updatedAt": "11/16/2025"
+    "updatedAt": "11/16/2025",
+    "addedIn": "base"
   },
   {
     "id": "hullcracker_i",
@@ -3134,8 +3377,48 @@
     "salvagesInto": {
       "heavy_gun_parts": 2
     },
+    "upgradeCost": {
+      "advanced_mechanical_components": 1,
+      "heavy_gun_parts": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 2,
+      "heavy_gun_parts": 1
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "hullcracker_ii",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 30000
+        },
+        "limit": 1,
+        "refreshSeconds": 86400,
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "hullcracker_ii",
@@ -3187,6 +3470,7 @@
     "rarity": "Epic",
     "value": 13000,
     "weightKg": 7,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -3337,17 +3621,43 @@
       "heavy_gun_parts": 3
     },
     "upgradeCost": {
-      "advanced_mechanical_components": 1,
-      "heavy_gun_parts": 2
+      "advanced_mechanical_components": 2,
+      "heavy_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
     "updatedAt": "02/24/2026",
+    "addedIn": "base",
     "agility": 67.9,
     "damage": 100,
     "fireRate": 20.3,
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
     "range": 38.9,
+    "repairCost": {
+      "advanced_mechanical_components": 2,
+      "heavy_gun_parts": 2
+    },
+    "repairDurability": 0.5,
     "stability": 97.2,
-    "stealth": 1
+    "stealth": 1,
+    "upgradesTo": "hullcracker_iii"
   },
   {
     "id": "hullcracker_iii",
@@ -3399,6 +3709,7 @@
     "rarity": "Epic",
     "value": 17000,
     "weightKg": 7,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -3550,16 +3861,42 @@
     },
     "upgradeCost": {
       "advanced_mechanical_components": 2,
-      "heavy_gun_parts": 1
+      "heavy_gun_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
     "updatedAt": "02/24/2026",
+    "addedIn": "base",
     "agility": 67.9,
     "damage": 100,
     "fireRate": 20.3,
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
     "range": 38.9,
+    "repairCost": {
+      "advanced_mechanical_components": 3,
+      "heavy_gun_parts": 3
+    },
+    "repairDurability": 0.5,
     "stability": 97.2,
-    "stealth": 1
+    "stealth": 1,
+    "upgradesTo": "hullcracker_iv"
   },
   {
     "id": "hullcracker_iv",
@@ -3611,6 +3948,7 @@
     "rarity": "Epic",
     "value": 22000,
     "weightKg": 7,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -3766,10 +4104,35 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
     "updatedAt": "02/24/2026",
+    "addedIn": "base",
     "agility": 67.9,
     "damage": 100,
     "fireRate": 20.3,
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
     "range": 38.9,
+    "repairCost": {
+      "advanced_mechanical_components": 4,
+      "heavy_gun_parts": 4
+    },
+    "repairDurability": 0.5,
     "stability": 97.2,
     "stealth": 1
   },
@@ -3833,7 +4196,8 @@
       "canister": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/humidifier.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base"
   },
   {
     "id": "ice_cream_scooper",
@@ -3894,7 +4258,8 @@
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/ice_cream_scooper.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/04/2025",
+    "addedIn": "base"
   },
   {
     "id": "il_toro_blueprint",
@@ -3943,12 +4308,13 @@
       "zh-TW": "具有大範圍彈道擴散、急劇衰減和高傷害輸出。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "il_toro_i",
@@ -4000,6 +4366,7 @@
     "rarity": "Uncommon",
     "value": 5000,
     "weightKg": 8,
+    "stackSize": 1,
     "isWeapon": true,
     "blueprintLocked": true,
     "effects": {
@@ -4132,8 +4499,59 @@
     "salvagesInto": {
       "simple_gun_parts": 2
     },
+    "upgradeCost": {
+      "mechanical_components": 3,
+      "simple_gun_parts": 1
+    },
     "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_shotgun_mag_i",
+        "extended_shotgun_mag_ii",
+        "extended_shotgun_mag_iii"
+      ],
+      "muzzle": [
+        "shotgun_choke_i",
+        "shotgun_choke_ii",
+        "shotgun_choke_iii",
+        "shotgun_silencer"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "mechanical_components": 2,
+      "simple_gun_parts": 2
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "il_toro_ii",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 15000
+        },
+        "limit": 3,
+        "refreshSeconds": 86400,
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "il_toro_ii",
@@ -4185,6 +4603,7 @@
     "rarity": "Uncommon",
     "value": 7000,
     "weightKg": 8,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -4335,11 +4754,48 @@
       "simple_gun_parts": 3
     },
     "upgradeCost": {
-      "mechanical_components": 3,
-      "simple_gun_parts": 1
+      "heavy_gun_parts": 1,
+      "mechanical_components": 4
     },
     "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_shotgun_mag_i",
+        "extended_shotgun_mag_ii",
+        "extended_shotgun_mag_iii"
+      ],
+      "muzzle": [
+        "shotgun_choke_i",
+        "shotgun_choke_ii",
+        "shotgun_choke_iii",
+        "shotgun_silencer"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "mechanical_components": 3,
+      "simple_gun_parts": 3
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "il_toro_iii"
   },
   {
     "id": "il_toro_iii",
@@ -4391,6 +4847,7 @@
     "rarity": "Uncommon",
     "value": 10000,
     "weightKg": 8,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -4546,12 +5003,49 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
     "updatedAt": "02/24/2026",
+    "addedIn": "base",
     "agility": 61.1,
     "damage": 67.5,
     "fireRate": 14.3,
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_shotgun_mag_i",
+        "extended_shotgun_mag_ii",
+        "extended_shotgun_mag_iii"
+      ],
+      "muzzle": [
+        "shotgun_choke_i",
+        "shotgun_choke_ii",
+        "shotgun_choke_iii",
+        "shotgun_silencer"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
     "range": 20,
+    "repairCost": {
+      "mechanical_components": 4,
+      "simple_gun_parts": 4
+    },
+    "repairDurability": 0.5,
     "stability": 80.6,
-    "stealth": 18
+    "stealth": 18,
+    "upgradesTo": "il_toro_iv"
   },
   {
     "id": "il_toro_iv",
@@ -4603,6 +5097,7 @@
     "rarity": "Uncommon",
     "value": 13000,
     "weightKg": 8,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -4758,10 +5253,46 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
     "updatedAt": "02/24/2026",
+    "addedIn": "base",
     "agility": 61.1,
     "damage": 67.5,
     "fireRate": 14.3,
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_shotgun_mag_i",
+        "extended_shotgun_mag_ii",
+        "extended_shotgun_mag_iii"
+      ],
+      "muzzle": [
+        "shotgun_choke_i",
+        "shotgun_choke_ii",
+        "shotgun_choke_iii",
+        "shotgun_silencer"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
     "range": 20,
+    "repairCost": {
+      "mechanical_components": 5,
+      "simple_gun_parts": 5
+    },
+    "repairDurability": 0.5,
     "stability": 80.6,
     "stealth": 18
   },
@@ -4824,7 +5355,8 @@
       "chemicals": 5
     },
     "imageFilename": "https://cdn.arctracker.io/items/impure_arc_coolant.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "industrial_battery",
@@ -4886,7 +5418,8 @@
       "battery": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/industrial_battery.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "addedIn": "base"
   },
   {
     "id": "industrial_charger",
@@ -4948,7 +5481,8 @@
       "voltage_converter": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/industrial_charger.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "10/30/2025",
+    "addedIn": "base"
   },
   {
     "id": "industrial_magnet",
@@ -5010,7 +5544,8 @@
       "magnet": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/industrial_magnet.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "10/30/2025",
+    "addedIn": "base"
   },
   {
     "id": "ion_sputter",
@@ -5072,7 +5607,8 @@
       "exodus_modules": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/ion_sputter.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "jolt_mine_blueprint",
@@ -5121,12 +5657,13 @@
       "zh-TW": "一種接近觸發的地雷，會彈起並擊暈範圍內的任何目標。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "jolt_mine",
@@ -5265,7 +5802,18 @@
       "battery": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 2550
+        },
+        "limit": 3,
+        "refreshSeconds": 86400,
+        "trader": "Apollo"
+      }
+    ]
   },
   {
     "id": "jupiter_blueprint",
@@ -5314,11 +5862,13 @@
       "zh-TW": "一把栓動式狙擊步槍，擁有卓越的傷害輸出和精準度，但操作緩慢。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/jupiter.png",
-    "updatedAt": "11/12/2025"
+    "updatedAt": "11/12/2025",
+    "addedIn": "base"
   },
   {
     "id": "jupiter",
@@ -5370,6 +5920,7 @@
     "rarity": "Legendary",
     "value": 27500,
     "weightKg": 9,
+    "stackSize": 1,
     "isWeapon": true,
     "blueprintLocked": true,
     "effects": {
@@ -5505,6 +6056,7 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/jupiter.png",
     "updatedAt": "11/12/2025",
+    "addedIn": "base",
     "agility": 39.2,
     "damage": 60,
     "fireRate": 7.67,
@@ -5513,6 +6065,7 @@
       "complex_gun_parts": 1,
       "magnetic_accelerator": 2
     },
+    "repairDurability": 0.5,
     "stability": 73.5,
     "stealth": 5
   },
@@ -5566,6 +6119,7 @@
     "rarity": "Common",
     "value": 840,
     "weightKg": 7,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -5685,8 +6239,8 @@
       }
     },
     "craftBench": [
-      "workbench",
-      "weapon_bench"
+      "weapon_bench",
+      "workbench"
     ],
     "stationLevelRequired": 1,
     "recipe": {
@@ -5700,8 +6254,63 @@
     "salvagesInto": {
       "metal_parts": 3
     },
+    "upgradeCost": {
+      "metal_parts": 8,
+      "plastic_parts": 10
+    },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "metal_parts": 3,
+      "rubber_parts": 2
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "kettle_ii",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 2520
+        },
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "kettle_ii",
@@ -5753,6 +6362,7 @@
     "rarity": "Common",
     "value": 2000,
     "weightKg": 7,
+    "stackSize": 1,
     "isWeapon": true,
     "craftBench": "weapon_bench",
     "recyclesInto": {
@@ -5763,11 +6373,54 @@
       "metal_parts": 6
     },
     "upgradeCost": {
-      "metal_parts": 8,
-      "plastic_parts": 10
+      "metal_parts": 10,
+      "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "metal_parts": 6,
+      "rubber_parts": 6
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "kettle_iii"
   },
   {
     "id": "kettle_iii",
@@ -5819,6 +6472,7 @@
     "rarity": "Common",
     "value": 3000,
     "weightKg": 7,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -5972,11 +6626,54 @@
       "simple_gun_parts": 1
     },
     "upgradeCost": {
-      "metal_parts": 10,
+      "mechanical_components": 3,
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "metal_parts": 12,
+      "simple_gun_parts": 1
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "kettle_iv"
   },
   {
     "id": "kettle_iv",
@@ -6028,6 +6725,7 @@
     "rarity": "Common",
     "value": 5000,
     "weightKg": 7,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -6159,7 +6857,49 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "mechanical_components": 2,
+      "simple_gun_parts": 2
+    },
+    "repairDurability": 0.5
   },
   {
     "id": "kinetic_converter_blueprint",
@@ -6264,6 +7004,23 @@
     "rarity": "Legendary",
     "value": 7000,
     "weightKg": 0.75,
+    "stackSize": 1,
+    "compatibleWith": [
+      "Aphelion",
+      "Arpeggio",
+      "Bettina",
+      "Bobcat",
+      "Ferro",
+      "Hullcracker",
+      "Il Toro",
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Renegade",
+      "Stitcher",
+      "Torrente",
+      "Vulcano"
+    ],
     "effects": {
       "Increased Fire Rate": {
         "value": "15%",
@@ -6343,7 +7100,8 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/kinetic_converter.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "laboratory_reagents",
@@ -6405,7 +7163,8 @@
       "crude_explosives": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "lances_mixtape_5th_edition",
@@ -6460,7 +7219,8 @@
     "weightKg": 0.2,
     "stackSize": 3,
     "imageFilename": "https://cdn.arctracker.io/items/lances_mixtape_5th_edition.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/04/2025",
+    "addedIn": "base"
   },
   {
     "id": "launcher_ammo",
@@ -6524,7 +7284,16 @@
       "crude_explosives": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/launcher_ammo.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 4500
+        },
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "leaper_pulse_unit",
@@ -6634,7 +7403,8 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "lemon",
@@ -6743,7 +7513,8 @@
       "assorted_seeds": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/lemon.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base"
   },
   {
     "id": "library_book",
@@ -6828,7 +7599,8 @@
     "weightKg": 0.25,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/lidar_scanner.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "light_ammo",
@@ -6896,7 +7668,16 @@
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/light_ammo.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 900
+        },
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "light_bulb",
@@ -6951,7 +7732,8 @@
     "weightKg": 0.2,
     "stackSize": 3,
     "imageFilename": "https://cdn.arctracker.io/items/light_bulb.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/01/2025",
+    "addedIn": "base"
   },
   {
     "id": "light_gun_parts_blueprint",
@@ -7000,12 +7782,13 @@
       "zh-TW": "用於手槍和衝鋒槍的各種備用零件。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts_blueprint.png",
-    "updatedAt": "11/12/2025"
+    "updatedAt": "11/12/2025",
+    "addedIn": "base"
   },
   {
     "id": "light_gun_parts",
@@ -7060,7 +7843,10 @@
     "weightKg": 0.3,
     "stackSize": 5,
     "blueprintLocked": true,
-    "craftBench": "refiner",
+    "craftBench": [
+      "in_raid",
+      "refiner"
+    ],
     "stationLevelRequired": 2,
     "recipe": {
       "simple_gun_parts": 4
@@ -7072,7 +7858,18 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 15
+        },
+        "limit": 3,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "light_impact_grenade",
@@ -7174,9 +7971,9 @@
       }
     },
     "craftBench": [
-      "workbench",
       "explosives_bench",
-      "in_raid"
+      "in_raid",
+      "workbench"
     ],
     "stationLevelRequired": 1,
     "recipe": {
@@ -7191,7 +7988,16 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/light_impact_grenade.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 810
+        },
+        "trader": "Apollo"
+      }
+    ]
   },
   {
     "id": "light_shield",
@@ -7316,8 +8122,8 @@
       }
     },
     "craftBench": [
-      "workbench",
-      "equipment_bench"
+      "equipment_bench",
+      "workbench"
     ],
     "stationLevelRequired": 1,
     "recipe": {
@@ -7332,10 +8138,23 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/light_shield.png",
     "updatedAt": "02/24/2026",
+    "addedIn": "base",
     "damageMitigation": 40,
     "durability": 100,
     "movementSpeedModifier": 0,
-    "shieldCharge": 40
+    "repairCost": {
+      "plastic_parts": 4
+    },
+    "repairDurability": 0.5,
+    "shieldCharge": 40,
+    "vendors": [
+      {
+        "cost": {
+          "coins": 1920
+        },
+        "trader": "Lance"
+      }
+    ]
   },
   {
     "id": "lightweight_stock_blueprint",
@@ -7384,11 +8203,13 @@
       "zh-TW": "適度提升瞄準與拔槍速度。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/lightweight_stock_blueprint.png",
-    "updatedAt": "11/12/2025"
+    "updatedAt": "11/12/2025",
+    "addedIn": "base"
   },
   {
     "id": "lightweight_stock",
@@ -7440,6 +8261,23 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 0.25,
+    "stackSize": 1,
+    "compatibleWith": [
+      "Aphelion",
+      "Arpeggio",
+      "Bettina",
+      "Bobcat",
+      "Ferro",
+      "Hullcracker",
+      "Il Toro",
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Renegade",
+      "Stitcher",
+      "Torrente",
+      "Vulcano"
+    ],
     "blueprintLocked": true,
     "effects": {
       "Increased ADS Speed": {
@@ -7572,7 +8410,8 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/lightweight_stock.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "lil_smoke_grenade",
@@ -7674,8 +8513,8 @@
       }
     },
     "craftBench": [
-      "utility_bench",
-      "in_raid"
+      "in_raid",
+      "utility_bench"
     ],
     "stationLevelRequired": 1,
     "recipe": {
@@ -7690,7 +8529,8 @@
       "chemicals": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/lil_smoke_grenade.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "looting_mk1",
@@ -7831,7 +8671,26 @@
       "plastic_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk1.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "repairCost": {
+      "plastic_parts": 3,
+      "rubber_parts": 3
+    },
+    "repairDurability": 0.5,
+    "vendors": [
+      {
+        "cost": {
+          "free_loadout_augment": 1
+        },
+        "trader": "Lance"
+      },
+      {
+        "cost": {
+          "coins": 1920
+        },
+        "trader": "Lance"
+      }
+    ]
   },
   {
     "id": "looting_mk2",
@@ -7969,7 +8828,22 @@
       "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk2.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "repairCost": {
+      "electrical_components": 1,
+      "magnet": 1
+    },
+    "repairDurability": 0.5,
+    "vendors": [
+      {
+        "cost": {
+          "coins": 6000
+        },
+        "limit": 1,
+        "refreshSeconds": 86400,
+        "trader": "Lance"
+      }
+    ]
   },
   {
     "id": "looting_mk3_cautious",
@@ -8107,7 +8981,12 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_cautious.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "repairCost": {
+      "advanced_electrical_components": 1,
+      "processor": 2
+    },
+    "repairDurability": 0.5
   },
   {
     "id": "looting_mk3_safekeeper_blueprint",
@@ -8156,11 +9035,13 @@
       "zh-TW": "一種犧牲負重與實用性，以換取更高搜刮潛力的搜刮強化裝置。具備一個可存放任何物品的保險袋。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_safekeeper.png",
-    "updatedAt": "02/02/2026"
+    "updatedAt": "02/02/2026",
+    "addedIn": "1.13"
   },
   {
     "id": "looting_mk3_safekeeper",
@@ -8491,7 +9372,13 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_survivor.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "repairCost": {
+      "advanced_electrical_components": 1,
+      "processor": 2
+    },
+    "repairDurability": 0.5
   },
   {
     "id": "lure_grenade_blueprint",
@@ -8540,11 +9427,13 @@
       "zh-TW": "可黏附在表面的噪音裝置，能分散附近ARC機器的注意力並吸引它們的火力。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "lure_grenade_trap",
@@ -8597,6 +9486,7 @@
     "value": 1000,
     "weightKg": 0.25,
     "stackSize": 3,
+    "blueprintLocked": true,
     "effects": {
       "Duration": {
         "value": "15s",
@@ -8646,8 +9536,8 @@
       }
     },
     "craftBench": [
-      "workbench",
-      "in_raid"
+      "in_raid",
+      "workbench"
     ],
     "stationLevelRequired": 1,
     "recipe": {
@@ -8655,7 +9545,8 @@
       "wires": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_trap.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "lure_grenade",
@@ -8722,7 +9613,8 @@
       "speaker_component": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "magnet",
@@ -8776,6 +9668,10 @@
     "value": 300,
     "weightKg": 0.25,
     "stackSize": 15,
+    "craftBench": "in_raid",
+    "recipe": {
+      "industrial_magnet": 1
+    },
     "recyclesInto": {
       "metal_parts": 2
     },
@@ -8783,7 +9679,18 @@
       "metal_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/magnet.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 6
+        },
+        "limit": 10,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "magnetic_accelerator",
@@ -8837,7 +9744,10 @@
     "value": 5500,
     "weightKg": 1,
     "stackSize": 3,
-    "craftBench": "refiner",
+    "craftBench": [
+      "in_raid",
+      "refiner"
+    ],
     "stationLevelRequired": 3,
     "recipe": {
       "advanced_mechanical_components": 2,
@@ -8851,7 +9761,8 @@
       "advanced_mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/magnetic_accelerator.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "magnetron",
@@ -8913,7 +9824,8 @@
       "advanced_mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/magnetron.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "major_aivas_mementos",
@@ -9024,7 +9936,8 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/major_aivas_patch.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "matriarch_reactor",
@@ -9085,7 +9998,8 @@
       "magnetic_accelerator": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/matriarch_reactor.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "mechanical_components",
@@ -9139,7 +10053,10 @@
     "value": 640,
     "weightKg": 0.5,
     "stackSize": 10,
-    "craftBench": "refiner",
+    "craftBench": [
+      "in_raid",
+      "refiner"
+    ],
     "stationLevelRequired": 1,
     "recipe": {
       "metal_parts": 7,
@@ -9153,7 +10070,8 @@
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/mechanical_components.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "medium_ammo",
@@ -9221,7 +10139,16 @@
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/medium_ammo.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 900
+        },
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "medium_gun_parts_blueprint",
@@ -9270,11 +10197,13 @@
       "zh-TW": "用於步槍的各種備用零件。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts_blueprint.png",
-    "updatedAt": "11/12/2025"
+    "updatedAt": "11/12/2025",
+    "addedIn": "base"
   },
   {
     "id": "medium_gun_parts",
@@ -9329,7 +10258,10 @@
     "weightKg": 0.4,
     "stackSize": 5,
     "blueprintLocked": true,
-    "craftBench": "refiner",
+    "craftBench": [
+      "in_raid",
+      "refiner"
+    ],
     "stationLevelRequired": 2,
     "recipe": {
       "simple_gun_parts": 4
@@ -9341,7 +10273,18 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 15
+        },
+        "limit": 3,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "medium_shield",
@@ -9502,10 +10445,26 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/medium_shield.png",
     "updatedAt": "02/24/2026",
+    "addedIn": "base",
     "damageMitigation": 42.5,
     "durability": 100,
     "movementSpeedModifier": -5,
-    "shieldCharge": 70
+    "repairCost": {
+      "arc_circuitry": 1,
+      "battery": 1
+    },
+    "repairDurability": 0.5,
+    "shieldCharge": 70,
+    "vendors": [
+      {
+        "cost": {
+          "coins": 6000
+        },
+        "limit": 3,
+        "refreshSeconds": 86400,
+        "trader": "Lance"
+      }
+    ]
   },
   {
     "id": "metal_brackets",
@@ -9566,7 +10525,8 @@
       "metal_parts": 4
     },
     "imageFilename": "https://cdn.arctracker.io/items/metal_brackets.png",
-    "updatedAt": "11/10/2025"
+    "updatedAt": "11/10/2025",
+    "addedIn": "base"
   },
   {
     "id": "metal_parts",
@@ -9620,8 +10580,21 @@
     "value": 75,
     "weightKg": 0.1,
     "stackSize": 50,
+    "craftBench": "in_raid",
+    "recipe": {
+      "damaged_tick_pod": 1
+    },
     "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 1
+        },
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "microscope",
@@ -9683,7 +10656,8 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/microscope.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "mini_centrifuge",
@@ -9745,7 +10719,8 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/mini_centrifuge.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "mod_components",
@@ -9799,7 +10774,10 @@
     "value": 1750,
     "weightKg": 1,
     "stackSize": 5,
-    "craftBench": "refiner",
+    "craftBench": [
+      "in_raid",
+      "refiner"
+    ],
     "stationLevelRequired": 2,
     "recipe": {
       "mechanical_components": 2,
@@ -9813,7 +10791,8 @@
       "mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/mod_components.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "moisture_meter",
@@ -9867,7 +10846,8 @@
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/moisture_meter.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "1.7"
   },
   {
     "id": "moss",
@@ -9999,7 +10979,18 @@
       "assorted_seeds": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/moss.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/04/2025",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 10
+        },
+        "limit": 5,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "motor",
@@ -10061,7 +11052,8 @@
       "oil": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/motor.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "mushroom",
@@ -10164,7 +11156,8 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/mushroom.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "music_album",
@@ -10219,61 +11212,7 @@
     "weightKg": 0.3,
     "stackSize": 3,
     "imageFilename": "https://cdn.arctracker.io/items/music_album.png",
-    "updatedAt": "02/24/2026"
-  },
-  {
-    "id": "music_box",
-    "name": {
-      "da": "Spilledåse",
-      "de": "Spieluhr",
-      "en": "Music Box",
-      "es": "Caja de música",
-      "fr": "Boîte à Musique",
-      "he": "תיבת נגינה",
-      "hr": "Glazbena Kutija",
-      "it": "Carillon",
-      "ja": "オルゴール",
-      "ko-KR": "뮤직박스",
-      "no": "Musikkboks",
-      "pl": "Pozytywka",
-      "pt": "Caixa de música",
-      "pt-BR": "Caixa de Música",
-      "ru": "Музыкальная шкатулка",
-      "sr": "Muzička Kutija",
-      "tr": "Müzik Kutusu",
-      "uk": "Музична скринька",
-      "zh-CN": "音乐盒",
-      "zh-TW": "音樂盒"
-    },
-    "description": {
-      "da": "Værd en lille formue.",
-      "de": "Ein kleines Vermögen wert.",
-      "en": "Worth a small fortune.",
-      "es": "Vale una pequeña fortuna.",
-      "fr": "Vaut une petite fortune.",
-      "he": "שווה הון קטן.",
-      "hr": "Vrijedi malo bogatstvo.",
-      "it": "Vale una piccola fortuna.",
-      "ja": "ちょっとした財産の価値がある。",
-      "ko-KR": "작은 재산의 가치가 있다.",
-      "no": "Verdt en liten formue.",
-      "pl": "Warte małą fortunę.",
-      "pt": "Vale uma pequena fortuna.",
-      "pt-BR": "Vale uma pequena fortuna.",
-      "ru": "Стоит небольшое состояние.",
-      "sr": "Vredi malo bogatstvo.",
-      "tr": "Küçük bir servet değerinde.",
-      "uk": "Коштує невеликий статок.",
-      "zh-CN": "价值不菲。",
-      "zh-TW": "價值不菲。"
-    },
-    "type": "Trinket",
-    "rarity": "Rare",
-    "foundIn": "Old World, Residential, Commercial",
-    "value": 5000,
-    "weightKg": 0.4,
-    "stackSize": 3,
-    "imageFilename": "https://cdn.arctracker.io/items/music_box.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   }
 ]

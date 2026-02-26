@@ -1,5 +1,151 @@
 [
   {
+    "id": "vita_spray",
+    "name": {
+      "da": "Vita-spray",
+      "de": "Vita-Spray",
+      "en": "Vita Spray",
+      "es": "Aerosol Vita",
+      "fr": "Spray de Vita",
+      "he": "Vita Spray",
+      "hr": "Vita Sprej",
+      "it": "Spray Vita",
+      "ja": "ヴィータ・スプレー",
+      "ko-KR": "회복 스프레이",
+      "no": "Vita-spray",
+      "pl": "Spray Vita",
+      "pt": "Spray Vita",
+      "pt-BR": "Spray Vita",
+      "ru": "Вита-спрей",
+      "sr": "Vita Sprej",
+      "tr": "Sağlık Spreyi",
+      "uk": "Віта-спрей",
+      "zh-CN": "生命喷雾",
+      "zh-TW": "活力噴霧"
+    },
+    "description": {
+      "da": "En medicinsk genstand, der løbende gendanner helbred under brug. Kan bruges på dig selv eller dine allierede.",
+      "de": "Ein medizinischer Gegenstand, der während der Verwendung kontinuierlich Gesundheit wiederherstellt. Kann für dich selbst oder Verbündete benutzt werden.",
+      "en": "A medical item that continuously restores health during use. Can be used on yourself or your allies.",
+      "es": "Un objeto médico que restaura salud continuamente durante el uso. Puede usarse en ti mismo o en tus aliados.",
+      "fr": "Un objet médical qui restaure de la santé en continu pendant l'utilisation. Il peut aussi bien vous servir à vous qu'à vos alliés.",
+      "he": "פריט רפואי שמחזיר בריאות באופן רציף בזמן השימוש. ניתן לשימוש על עצמך או על בני בריתך.",
+      "hr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tijekom korištenja. Može se koristiti na sebi ili saveznicima.",
+      "it": "Un oggetto medico che ripristina continuamente la salute durante l'uso. Può essere usato su te stesso o sui tuoi alleati.",
+      "ja": "使用中に継続的に体力を回復する医療アイテム。自分または味方に使用できる。",
+      "ko-KR": "사용 중 지속적으로 체력을 회복하는 의료 아이템. 자신이나 아군에게 사용할 수 있습니다.",
+      "no": "En medisinsk gjenstand som kontinuerlig gjenoppretter helse under bruk. Kan brukes på deg selv eller dine allierte.",
+      "pl": "Przedmiot medyczny, który stale przywraca zdrowie podczas użycia. Może być użyty na sobie lub sojusznikach.",
+      "pt": "Um item médico que restaura saúde continuamente durante o uso. Pode ser usado em você mesmo ou em seus aliados.",
+      "pt-BR": "Item medicinal que recupera vida de forma contínua durante o uso. Pode ser usado em você ou nos aliados.",
+      "ru": "Медицинский предмет, непрерывно восстанавливающий здоровье во время использования. Можно использовать на себе или союзниках.",
+      "sr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tokom korišćenja. Može se koristiti na sebi ili saveznicima.",
+      "tr": "Kullanıldığı süre boyunca canı devamlı olarak yenileyen bir tıbbi eşya. Kendin veya müttefiklerin için kullanabilirsin.",
+      "uk": "Медичний предмет, що безперервно відновлює здоров'я під час використання. Можна використовувати на собі або союзниках.",
+      "zh-CN": "使用期间持续恢复生命值的医疗物品。可用于自己或队友。",
+      "zh-TW": "使用期間持續恢復生命值的醫療物品。可用於自己或隊友。"
+    },
+    "type": "Quick Use",
+    "rarity": "Epic",
+    "value": 3400,
+    "weightKg": 1,
+    "stackSize": 1,
+    "blueprintLocked": true,
+    "effects": {
+      "Durability": {
+        "value": "100/100",
+        "da": "Holdbarhed",
+        "de": "Haltbarkeit",
+        "en": "Durability",
+        "es": "Durabilidad",
+        "fr": "Durabilité",
+        "he": "עמידות",
+        "hr": "Izdržljivost",
+        "it": "Tenuta",
+        "ja": "耐久度",
+        "ko-KR": "내구도",
+        "no": "Holdbarhet",
+        "pl": "Wytrzymałość",
+        "pt": "Durabilidade",
+        "pt-BR": "Durabilidade",
+        "ru": "Прочность",
+        "sr": "Izdržljivost",
+        "tr": "Dayanıklılık",
+        "uk": "Міцність",
+        "zh-CN": "耐久度",
+        "zh-TW": "耐久度"
+      },
+      "Heal Capacity": {
+        "value": 150,
+        "da": "Helbredelseskapacitet",
+        "de": "Heilungskapazität",
+        "en": "Heal Capacity",
+        "es": "Capacidad de curación",
+        "fr": "Capacité de soins",
+        "he": "קיבולת ריפוי",
+        "hr": "Kapacitet Liječenja",
+        "it": "Capacità di guarigione",
+        "ja": "回復容量",
+        "ko-KR": "회복 용량",
+        "no": "Helbredelseskapasitet",
+        "pl": "Pojemność leczenia",
+        "pt": "Capacidade de cura",
+        "pt-BR": "Capacidade de Cura",
+        "ru": "Ёмкость исцеления",
+        "sr": "Kapacitet Lečenja",
+        "tr": "İyileştirme Kapasitesi",
+        "uk": "Ємність зцілення",
+        "zh-CN": "治疗容量",
+        "zh-TW": "治療容量"
+      },
+      "Healing": {
+        "value": "10/s",
+        "da": "Helbredelse",
+        "de": "Heilen",
+        "en": "Healing",
+        "es": "Curación",
+        "fr": "Soins",
+        "he": "ריפוי",
+        "hr": "Liječenje",
+        "it": "Guarigione",
+        "ja": "回復量",
+        "ko-KR": "회복량",
+        "no": "Helbredelse",
+        "pl": "Leczenie",
+        "pt": "Cura",
+        "pt-BR": "Cura",
+        "ru": "Исцеление",
+        "sr": "Lečenje",
+        "tr": "İyileştirme",
+        "uk": "Зцілення",
+        "zh-CN": "治疗量",
+        "zh-TW": "治療量"
+      }
+    },
+    "craftBench": "med_station",
+    "stationLevelRequired": 3,
+    "recipe": {
+      "antiseptic": 3,
+      "canister": 1,
+      "tick_pod": 1
+    },
+    "recyclesInto": {
+      "antiseptic": 1,
+      "canister": 1
+    },
+    "salvagesInto": {
+      "antiseptic": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "repairCost": {
+      "antiseptic": 2,
+      "canister": 1
+    },
+    "repairDurability": 0.5
+  },
+  {
     "id": "volcanic_rock",
     "name": {
       "da": "Vulkansk sten",
@@ -78,7 +224,8 @@
     },
     "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/volcanic_rock.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "10/30/2025",
+    "addedIn": "base"
   },
   {
     "id": "voltage_converter",
@@ -132,6 +279,10 @@
     "value": 500,
     "weightKg": 0.3,
     "stackSize": 5,
+    "craftBench": "in_raid",
+    "recipe": {
+      "signal_amplifier": 1
+    },
     "recyclesInto": {
       "rubber_parts": 1,
       "wires": 1
@@ -140,7 +291,18 @@
       "rubber_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/voltage_converter.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 10
+        },
+        "limit": 5,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "vulcano_blueprint",
@@ -189,11 +351,13 @@
       "zh-TW": "半自動霰彈槍，擁有良好的彈丸擴散但急劇的傷害衰減。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "12/07/2025",
+    "addedIn": "base"
   },
   {
     "id": "vulcano_i",
@@ -245,6 +409,7 @@
     "rarity": "Epic",
     "value": 10000,
     "weightKg": 8,
+    "stackSize": 1,
     "isWeapon": true,
     "blueprintLocked": true,
     "effects": {
@@ -378,17 +543,58 @@
     "salvagesInto": {
       "heavy_gun_parts": 2
     },
+    "upgradeCost": {
+      "advanced_mechanical_components": 1,
+      "heavy_gun_parts": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
     "updatedAt": "02/24/2026",
+    "addedIn": "base",
     "agility": 70.7,
     "damage": 58.5,
     "fireRate": 8.3,
     "increasedFireRate": 10,
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_shotgun_mag_i",
+        "extended_shotgun_mag_ii",
+        "extended_shotgun_mag_iii"
+      ],
+      "muzzle": [
+        "shotgun_choke_i",
+        "shotgun_choke_ii",
+        "shotgun_choke_iii",
+        "shotgun_silencer"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
     "range": 22.1,
     "reducedDurabilityBurnRate": 23,
     "reducedReloadTime": 13,
+    "repairCost": {
+      "advanced_mechanical_components": 2,
+      "heavy_gun_parts": 1
+    },
+    "repairDurability": 0.5,
     "stability": 70.3,
-    "stealth": 15
+    "stealth": 15,
+    "upgradesTo": "vulcano_ii"
   },
   {
     "id": "vulcano_ii",
@@ -614,20 +820,57 @@
       "heavy_gun_parts": 3
     },
     "upgradeCost": {
-      "advanced_mechanical_components": 1,
-      "heavy_gun_parts": 2
+      "advanced_mechanical_components": 2,
+      "heavy_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
     "updatedAt": "02/24/2026",
+    "addedIn": "base",
     "agility": 70.7,
     "damage": 58.5,
     "fireRate": 14.3,
     "increasedFireRate": 20,
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_shotgun_mag_i",
+        "extended_shotgun_mag_ii",
+        "extended_shotgun_mag_iii"
+      ],
+      "muzzle": [
+        "shotgun_choke_i",
+        "shotgun_choke_ii",
+        "shotgun_choke_iii",
+        "shotgun_silencer"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
     "range": 22.1,
     "reducedDurabilityBurnRate": 46,
     "reducedReloadTime": 26,
+    "repairCost": {
+      "advanced_mechanical_components": 2,
+      "heavy_gun_parts": 2
+    },
+    "repairDurability": 0.5,
     "stability": 70.3,
-    "stealth": 15
+    "stealth": 15,
+    "upgradesTo": "vulcano_iii"
   },
   {
     "id": "vulcano_iii",
@@ -679,6 +922,7 @@
     "rarity": "Epic",
     "value": 17000,
     "weightKg": 8,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "20% Increased Fire Rate": {
@@ -899,10 +1143,47 @@
     },
     "upgradeCost": {
       "advanced_mechanical_components": 2,
-      "heavy_gun_parts": 1
+      "heavy_gun_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_shotgun_mag_i",
+        "extended_shotgun_mag_ii",
+        "extended_shotgun_mag_iii"
+      ],
+      "muzzle": [
+        "shotgun_choke_i",
+        "shotgun_choke_ii",
+        "shotgun_choke_iii",
+        "shotgun_silencer"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 3,
+      "heavy_gun_parts": 3
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "vulcano_iv"
   },
   {
     "id": "vulcano_iv",
@@ -954,6 +1235,7 @@
     "rarity": "Epic",
     "value": 22000,
     "weightKg": 8,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -1132,10 +1414,46 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
     "updatedAt": "02/24/2026",
+    "addedIn": "base",
     "agility": 70.3,
     "damage": 49.5,
     "fireRate": 26.3,
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_shotgun_mag_i",
+        "extended_shotgun_mag_ii",
+        "extended_shotgun_mag_iii"
+      ],
+      "muzzle": [
+        "shotgun_choke_i",
+        "shotgun_choke_ii",
+        "shotgun_choke_iii",
+        "shotgun_silencer"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
     "range": 26,
+    "repairCost": {
+      "advanced_mechanical_components": 4,
+      "heavy_gun_parts": 4
+    },
+    "repairDurability": 0.5,
     "stability": 68.6,
     "stealth": 15
   },
@@ -1248,6 +1566,7 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png",
     "updatedAt": "01/13/2026",
+    "addedIn": "base",
     "tip": "The Wasp Driver is a rare item is dropped by Wasps that can be recycled into crafting materials."
   },
   {
@@ -1310,7 +1629,8 @@
       "canister": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/water_filter.png",
-    "updatedAt": "11/1/2025"
+    "updatedAt": "11/1/2025",
+    "addedIn": "base"
   },
   {
     "id": "water_pump",
@@ -1372,7 +1692,8 @@
       "oil": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/water_pump.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "addedIn": "base"
   },
   {
     "id": "wires",
@@ -1426,6 +1747,10 @@
     "value": 200,
     "weightKg": 0.25,
     "stackSize": 15,
+    "craftBench": "in_raid",
+    "recipe": {
+      "power_cable": 1
+    },
     "recyclesInto": {
       "rubber_parts": 2
     },
@@ -1434,7 +1759,18 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/wires.png",
     "updatedAt": "01/20/2026",
-    "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials."
+    "addedIn": "base",
+    "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials.",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 4
+        },
+        "limit": 10,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "wolfpack_blueprint",
@@ -1483,11 +1819,13 @@
       "zh-TW": "可黏附在表面和ARC上的遙控引爆手榴彈，觸發時造成爆炸傷害。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/wolfpack_blueprint.png",
-    "updatedAt": "11/12/2025"
+    "updatedAt": "11/12/2025",
+    "addedIn": "base"
   },
   {
     "id": "wolfpack",
@@ -1604,7 +1942,8 @@
       "explosive_compound": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/wolfpack.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "yellow_light_stick_blueprint",
@@ -1653,12 +1992,13 @@
       "zh-TW": "可投擲的化學光源，照亮周圍區域。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/yellow_light_stick.png",
-    "updatedAt": "11/13/2025"
+    "updatedAt": "11/13/2025",
+    "addedIn": "base"
   },
   {
     "id": "yellow_light_stick",
@@ -1772,7 +2112,16 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/yellow_light_stick.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 450
+        },
+        "trader": "Apollo"
+      }
+    ]
   },
   {
     "id": "zipline",
@@ -1839,6 +2188,17 @@
       "rope": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/zipline.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 3000
+        },
+        "limit": 3,
+        "refreshSeconds": 86400,
+        "trader": "Apollo"
+      }
+    ]
   }
 ]

@@ -1,5 +1,146 @@
 [
   {
+    "id": "showstopper",
+    "name": {
+      "da": "Showstopper",
+      "de": "Showstopper",
+      "en": "Showstopper",
+      "es": "Aguafiestas",
+      "fr": "Soufflante",
+      "he": "שואו-סטופר",
+      "hr": "Showstopper",
+      "it": "Showstopper",
+      "ja": "ショーストッパー",
+      "ko-KR": "쇼스토퍼",
+      "no": "Showstopper",
+      "pl": "Showstopper",
+      "pt": "Showstopper",
+      "pt-BR": "Para-Tudo",
+      "ru": "Коронный номер",
+      "sr": "Showstopper",
+      "tr": "Efsane",
+      "uk": "Шоустопер",
+      "zh-CN": "耀眼明星",
+      "zh-TW": "表演終結者"
+    },
+    "description": {
+      "da": "En granat, der detonerer efter en forsinkelse og bedøver fjender inden for dens radius.",
+      "de": "Eine Granate, die nach einer Verzögerung explodiert und Gegner in ihrem Radius betäubt.",
+      "en": "A grenade that detonates after a delay, stunning enemies within its radius.",
+      "es": "Una granada que detona tras un retraso, aturdiendo a los enemigos dentro de su radio.",
+      "fr": "Une grenade qui détone après un délai, étourdissant les ennemis dans son rayon.",
+      "he": "רימון שמתפוצץ לאחר השהיה, ומהמם אויבים ברדיוס הפיצוץ.",
+      "hr": "Granata koja detonira nakon odgode, omamljujući neprijatelje u svom radijusu.",
+      "it": "Una granata che detona dopo un ritardo, stordendo i nemici nel suo raggio.",
+      "ja": "遅延起爆する手榴弾。範囲内の敵をスタンさせる。",
+      "ko-KR": "지연 후 폭발하여 범위 내 적을 기절시키는 수류탄입니다.",
+      "no": "En granat som detonerer etter en forsinkelse og bedøver fiender innenfor dens radius.",
+      "pl": "Granat, który detonuje po opóźnieniu, ogłuszając wrogów w swoim promieniu.",
+      "pt": "Uma granada que detona após um atraso, atordoando inimigos dentro de seu raio.",
+      "pt-BR": "Granada que detona após um intervalo, atordoando inimigos em seu raio de ação.",
+      "ru": "Граната с задержкой взрыва, оглушающая врагов в радиусе действия.",
+      "sr": "Granata koja detonira nakon odlaganja, omamljujući neprijatelje u svom radijusu.",
+      "tr": "Bir gecikmeden sonra patlayan ve yarıçapındaki düşmanları sersemletеn bir bomba.",
+      "uk": "Граната із затримкою вибуху, що оглушуєворогів у радіусі дії.",
+      "zh-CN": "延迟引爆的手榴弹，可击晕范围内的敌人。",
+      "zh-TW": "延遲引爆的手榴彈，可擊暈範圍內的敵人。"
+    },
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "value": 2100,
+    "weightKg": 0.4,
+    "stackSize": 5,
+    "blueprintLocked": true,
+    "effects": {
+      "ARC Stun Duration": {
+        "value": "7s",
+        "da": "ARC bedøvelsesvarighed",
+        "de": "ARC-Betäubungsdauer",
+        "en": "ARC Stun Duration",
+        "es": "Duración de aturdimiento ARC",
+        "fr": "Durée d'étourdissement ARC",
+        "he": "משך הלם ל-ARC",
+        "hr": "Trajanje ARC Omamljivanja",
+        "it": "Durata stordimento ARC",
+        "ja": "ARCスタン時間",
+        "ko-KR": "아크 기절 지속시간",
+        "no": "ARC bedøvelsesvarighet",
+        "pl": "Czas trwania ogłuszenia ARC",
+        "pt": "Duração de atordoamento ARC",
+        "pt-BR": "Duração de atordoamento de ARC",
+        "ru": "Длительность оглушения ARC",
+        "sr": "Trajanje ARC Omamljivanja",
+        "tr": "ARC Sersemletme Süresi",
+        "uk": "Тривалість оглушення ARC",
+        "zh-CN": "ARC晕眩持续时间",
+        "zh-TW": "ARC暈眩持續時間"
+      },
+      "Radius": {
+        "value": "6m",
+        "da": "Radius",
+        "de": "Radius",
+        "en": "Radius",
+        "es": "Radio",
+        "fr": "Rayon",
+        "he": "רדיוס",
+        "hr": "Radijus",
+        "it": "Raggio",
+        "ja": "範囲",
+        "ko-KR": "범위",
+        "no": "Radius",
+        "pl": "Promień",
+        "pt": "Raio",
+        "pt-BR": "Raio",
+        "ru": "Радиус",
+        "sr": "Radijus",
+        "tr": "Yarıçap",
+        "uk": "Радіус",
+        "zh-CN": "范围",
+        "zh-TW": "範圍"
+      },
+      "Raider Stun Duration": {
+        "value": "2s",
+        "da": "Raider bedøvelsesvarighed",
+        "de": "Raider-Betäubungsdauer",
+        "en": "Raider Stun Duration",
+        "es": "Duración de aturdimiento de saqueador",
+        "fr": "Durée d'étourdissement des Raiders",
+        "he": "משך הלם לריידר",
+        "hr": "Trajanje Raider Omamljivanja",
+        "it": "Durata stordimento Raider",
+        "ja": "レイダースタン時間",
+        "ko-KR": "레이더 기절 지속시간",
+        "no": "Raider bedøvelsesvarighet",
+        "pl": "Czas trwania ogłuszenia najeźdźcy",
+        "pt": "Duração de atordoamento de saqueador",
+        "pt-BR": "Duração de Atordoamento de Combatente",
+        "ru": "Длительность оглушения рейдера",
+        "sr": "Trajanje Rejder Omamljivanja",
+        "tr": "Akıncı Sersemletme Süresi",
+        "uk": "Тривалість оглушення рейдера",
+        "zh-CN": "掠夺者晕眩持续时间",
+        "zh-TW": "掠奪者暈眩持續時間"
+      }
+    },
+    "craftBench": "explosives_bench",
+    "stationLevelRequired": 3,
+    "recipe": {
+      "electrical_components": 1,
+      "hornet_driver": 1,
+      "voltage_converter": 1
+    },
+    "recyclesInto": {
+      "electrical_components": 1,
+      "voltage_converter": 1
+    },
+    "salvagesInto": {
+      "electrical_components": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/showstopper.png",
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
+  },
+  {
     "id": "shrapnel_grenade",
     "name": {
       "da": "Splintgranat",
@@ -112,7 +253,8 @@
       "crude_explosives": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/shrapnel_grenade.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "shredder_gyro",
@@ -174,7 +316,8 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/shredder_gyro.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "signal_amplifier",
@@ -236,7 +379,8 @@
       "voltage_converter": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/signal_amplifier.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "silencer_i_blueprint",
@@ -285,11 +429,13 @@
       "zh-TW": "用於製作消音器 I 的藍圖。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "silencer_i",
@@ -341,6 +487,22 @@
     "rarity": "Uncommon",
     "value": 2000,
     "weightKg": 0.25,
+    "stackSize": 1,
+    "compatibleWith": [
+      "Anvil",
+      "Arpeggio",
+      "Bettina",
+      "Bobcat",
+      "Burletta",
+      "Ferro",
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Renegade",
+      "Stitcher",
+      "Tempest",
+      "Torrente"
+    ],
     "blueprintLocked": true,
     "effects": {
       "Noise Reduction": {
@@ -381,7 +543,18 @@
       "mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 6000
+        },
+        "limit": 1,
+        "refreshSeconds": 86400,
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "silencer_ii_blueprint",
@@ -430,11 +603,13 @@
       "zh-TW": "用於製作消音器 II 的藍圖。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/silencer_ii.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "silencer_ii",
@@ -486,6 +661,22 @@
     "rarity": "Rare",
     "value": 5000,
     "weightKg": 0.5,
+    "stackSize": 1,
+    "compatibleWith": [
+      "Anvil",
+      "Arpeggio",
+      "Bettina",
+      "Bobcat",
+      "Burletta",
+      "Ferro",
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Renegade",
+      "Stitcher",
+      "Tempest",
+      "Torrente"
+    ],
     "blueprintLocked": true,
     "effects": {
       "Reduced Noise": {
@@ -526,7 +717,8 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/silencer_ii.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "silencer_iii_blueprint",
@@ -631,11 +823,20 @@
     "rarity": "Epic",
     "value": 7000,
     "weightKg": 0.75,
+    "stackSize": 1,
     "compatibleWith": [
-      "Arpeggio",
-      "Rattler",
-      "Ferro",
       "Anvil",
+      "Arpeggio",
+      "Bettina",
+      "Bobcat",
+      "Burletta",
+      "Ferro",
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Renegade",
+      "Stitcher",
+      "Tempest",
       "Torrente"
     ],
     "effects": {
@@ -694,7 +895,8 @@
       "mod_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/silencer_iii.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "silver_teaspoon_set",
@@ -750,7 +952,8 @@
     "stackSize": 3,
     "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/silver_teaspoon_set.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "12/07/2025",
+    "addedIn": "base"
   },
   {
     "id": "simple_gun_parts",
@@ -804,6 +1007,10 @@
     "value": 330,
     "weightKg": 0.3,
     "stackSize": 10,
+    "craftBench": "in_raid",
+    "recipe": {
+      "il_toro_ii": 1
+    },
     "recyclesInto": {
       "metal_parts": 2
     },
@@ -811,7 +1018,18 @@
       "metal_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/simple_gun_parts.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 7
+        },
+        "limit": 5,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "smoke_grenade_blueprint",
@@ -860,11 +1078,13 @@
       "zh-TW": "撞擊時產生持續煙霧雲，阻擋 ARC 和其他掠奪者的視線。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/smoke_grenade.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "smoke_grenade_trap",
@@ -917,6 +1137,7 @@
     "value": 640,
     "weightKg": 0.3,
     "stackSize": 3,
+    "blueprintLocked": true,
     "effects": {
       "Duration": {
         "value": "20s",
@@ -966,8 +1187,8 @@
       }
     },
     "craftBench": [
-      "workbench",
-      "in_raid"
+      "in_raid",
+      "workbench"
     ],
     "stationLevelRequired": 1,
     "recipe": {
@@ -975,7 +1196,8 @@
       "wires": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/smoke_grenade_trap.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "smoke_grenade",
@@ -1091,7 +1313,18 @@
       "chemicals": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/smoke_grenade.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 3000
+        },
+        "limit": 6,
+        "refreshSeconds": 86400,
+        "trader": "Apollo"
+      }
+    ]
   },
   {
     "id": "snap_blast_grenade",
@@ -1206,7 +1439,18 @@
       "chemicals": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/snap_blast_grenade.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 2400
+        },
+        "limit": 3,
+        "refreshSeconds": 86400,
+        "trader": "Apollo"
+      }
+    ]
   },
   {
     "id": "snap_hook_blueprint",
@@ -1255,11 +1499,13 @@
       "zh-TW": "一種讓使用者能夠攀爬建築物和跨越長距離的裝置。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/snap_hook.png",
-    "updatedAt": "11/14/2025"
+    "updatedAt": "11/14/2025",
+    "addedIn": "base"
   },
   {
     "id": "snap_hook",
@@ -1376,7 +1622,13 @@
       "advanced_electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/snap_hook.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "repairCost": {
+      "exodus_modules": 1,
+      "power_rod": 1
+    },
+    "repairDurability": 0.5
   },
   {
     "id": "snitch_scanner",
@@ -1438,7 +1690,8 @@
       "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/snitch_scanner.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "snowball",
@@ -1493,7 +1746,8 @@
     "weightKg": 0.4,
     "stackSize": 5,
     "imageFilename": "https://cdn.arctracker.io/items/snowball.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "1.7"
   },
   {
     "id": "spaceport_container_storage_key",
@@ -1548,7 +1802,8 @@
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/spaceport_control_tower_key.png",
     "updatedAt": "11/08/2025",
-    "_note": "not_in_serverslam"
+    "_note": "not_in_serverslam",
+    "addedIn": "base"
   },
   {
     "id": "spaceport_control_tower_key",
@@ -1602,7 +1857,8 @@
     "weightKg": 0.25,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/spaceport_control_tower_key.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "spaceport_trench_tower_key",
@@ -1656,7 +1912,8 @@
     "weightKg": 0.25,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/spaceport_trench_tower_key.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "spaceport_warehouse_key",
@@ -1710,7 +1967,8 @@
     "weightKg": 0.25,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/spaceport_trench_tower_key.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "speaker_component",
@@ -1764,6 +2022,10 @@
     "value": 500,
     "weightKg": 0.3,
     "stackSize": 5,
+    "craftBench": "in_raid",
+    "recipe": {
+      "noisemaker": 1
+    },
     "recyclesInto": {
       "plastic_parts": 2,
       "rubber_parts": 3
@@ -1772,7 +2034,18 @@
       "plastic_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/speaker_component.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 10
+        },
+        "limit": 5,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "spectrometer",
@@ -1834,7 +2107,8 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/spectrometer.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "spectrum_analyzer",
@@ -1896,7 +2170,8 @@
       "processor": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/spectrum_analyzer.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "spotter_relay",
@@ -1958,7 +2233,8 @@
       "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/spotter_relay.png",
-    "updatedAt": "10/31/2025"
+    "updatedAt": "10/31/2025",
+    "addedIn": "base"
   },
   {
     "id": "spring_cushion",
@@ -2020,7 +2296,8 @@
       "steel_spring": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/spring_cushion.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/04/2025",
+    "addedIn": "base"
   },
   {
     "id": "stable_stock_i",
@@ -2072,12 +2349,22 @@
     "rarity": "Common",
     "value": 640,
     "weightKg": 0.25,
+    "stackSize": 1,
     "compatibleWith": [
-      "Rattler",
-      "Ferro",
-      "Stitcher",
+      "Aphelion",
       "Arpeggio",
-      "Bettina"
+      "Bettina",
+      "Bobcat",
+      "Ferro",
+      "Hullcracker",
+      "Il Toro",
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Renegade",
+      "Stitcher",
+      "Torrente",
+      "Vulcano"
     ],
     "effects": {
       "Reduced Dispersion Recovery Time": {
@@ -2140,7 +2427,8 @@
       "rubber_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/stable_stock_i.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "stable_stock_ii_blueprint",
@@ -2189,11 +2477,13 @@
       "zh-TW": "適度改善散布與後座力恢復時間。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/stable_stock_ii.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "12/07/2025",
+    "addedIn": "base"
   },
   {
     "id": "stable_stock_ii",
@@ -2245,12 +2535,22 @@
     "rarity": "Uncommon",
     "value": 2000,
     "weightKg": 0.5,
+    "stackSize": 1,
     "compatibleWith": [
+      "Aphelion",
       "Arpeggio",
-      "Rattler",
-      "Kettle",
+      "Bettina",
+      "Bobcat",
+      "Ferro",
+      "Hullcracker",
       "Il Toro",
-      "Stitcher"
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Renegade",
+      "Stitcher",
+      "Torrente",
+      "Vulcano"
     ],
     "blueprintLocked": true,
     "effects": {
@@ -2338,7 +2638,18 @@
       "mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/stable_stock_ii.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 6000
+        },
+        "limit": 2,
+        "refreshSeconds": 86400,
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "stable_stock_iii_blueprint",
@@ -2387,11 +2698,13 @@
       "zh-TW": "大幅改善擴散度和後座力恢復時間。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/stable_stock_iii.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "12/07/2025",
+    "addedIn": "base"
   },
   {
     "id": "stable_stock_iii",
@@ -2443,6 +2756,23 @@
     "rarity": "Rare",
     "value": 5000,
     "weightKg": 0.75,
+    "stackSize": 1,
+    "compatibleWith": [
+      "Aphelion",
+      "Arpeggio",
+      "Bettina",
+      "Bobcat",
+      "Ferro",
+      "Hullcracker",
+      "Il Toro",
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Renegade",
+      "Stitcher",
+      "Torrente",
+      "Vulcano"
+    ],
     "blueprintLocked": true,
     "effects": {
       "20% Increased Equip Time": {
@@ -2552,7 +2882,8 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/stable_stock_iii.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base"
   },
   {
     "id": "stack_of_movie_tapes",
@@ -2585,7 +2916,8 @@
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/stack_of_movie_tapes.png",
-    "updatedAt": "02/23/2026"
+    "updatedAt": "02/23/2026",
+    "addedIn": "1.13"
   },
   {
     "id": "statuette",
@@ -2641,7 +2973,8 @@
     "stackSize": 3,
     "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/statuette.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "11/01/2025",
+    "addedIn": "base"
   },
   {
     "id": "steel_spring",
@@ -2695,6 +3028,10 @@
     "value": 300,
     "weightKg": 0.25,
     "stackSize": 15,
+    "craftBench": "in_raid",
+    "recipe": {
+      "cooling_coil": 1
+    },
     "recyclesInto": {
       "metal_parts": 2
     },
@@ -2702,7 +3039,18 @@
       "metal_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/steel_spring.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 6
+        },
+        "limit": 10,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "stella_montis_archives_key",
@@ -2781,7 +3129,8 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/stella_montis_archives_key.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "12/07/2025",
+    "addedIn": "1.1"
   },
   {
     "id": "stella_montis_assembly_admin_key",
@@ -2833,8 +3182,10 @@
     "rarity": "Uncommon",
     "value": 100,
     "weightKg": 0.25,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/stella_montis_assembly_admin_key.png",
-    "updatedAt": "11/13/2025"
+    "updatedAt": "11/13/2025",
+    "addedIn": "1.1"
   },
   {
     "id": "stella_montis_medical_storage_key",
@@ -2913,7 +3264,8 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/stella_montis_medical_storage_key.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "12/07/2025",
+    "addedIn": "1.1"
   },
   {
     "id": "stella_montis_security_checkpoint_key",
@@ -2965,8 +3317,10 @@
     "rarity": "Rare",
     "value": 100,
     "weightKg": 0.25,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/stella_montis_security_checkpoint_key.png",
-    "updatedAt": "11/13/2025"
+    "updatedAt": "11/13/2025",
+    "addedIn": "1.1"
   },
   {
     "id": "sterilized_bandage",
@@ -3104,7 +3458,18 @@
       "durable_cloth": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/sterilized_bandage.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 6000
+        },
+        "limit": 3,
+        "refreshSeconds": 86400,
+        "trader": "Lance"
+      }
+    ]
   },
   {
     "id": "stitcher_i",
@@ -3156,6 +3521,7 @@
     "rarity": "Common",
     "value": 800,
     "weightKg": 5,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -3275,8 +3641,8 @@
       }
     },
     "craftBench": [
-      "workbench",
-      "weapon_bench"
+      "weapon_bench",
+      "workbench"
     ],
     "stationLevelRequired": 1,
     "recipe": {
@@ -3290,8 +3656,63 @@
     "salvagesInto": {
       "metal_parts": 3
     },
+    "upgradeCost": {
+      "metal_parts": 8,
+      "rubber_parts": 12
+    },
     "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "metal_parts": 3,
+      "rubber_parts": 2
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "stitcher_ii",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 2400
+        },
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "stitcher_ii",
@@ -3343,6 +3764,7 @@
     "rarity": "Common",
     "value": 2000,
     "weightKg": 5,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -3516,11 +3938,54 @@
       "metal_parts": 6
     },
     "upgradeCost": {
-      "metal_parts": 8,
-      "rubber_parts": 12
+      "metal_parts": 10,
+      "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "metal_parts": 6,
+      "rubber_parts": 6
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "stitcher_iii"
   },
   {
     "id": "stitcher_iii",
@@ -3572,6 +4037,7 @@
     "rarity": "Common",
     "value": 3000,
     "weightKg": 5,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -3745,11 +4211,54 @@
       "simple_gun_parts": 1
     },
     "upgradeCost": {
-      "metal_parts": 10,
+      "mechanical_components": 3,
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "metal_parts": 12,
+      "simple_gun_parts": 1
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "stitcher_iv"
   },
   {
     "id": "stitcher_iv",
@@ -3801,6 +4310,7 @@
     "rarity": "Common",
     "value": 5000,
     "weightKg": 5,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -3978,7 +4488,49 @@
       "simple_gun_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_light_mag_i",
+        "extended_light_mag_ii",
+        "extended_light_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "mechanical_components": 2,
+      "simple_gun_parts": 2
+    },
+    "repairDurability": 0.5
   },
   {
     "id": "surge_shield_recharger",
@@ -4092,7 +4644,18 @@
       "plastic_parts": 5
     },
     "imageFilename": "https://cdn.arctracker.io/items/surge_shield_recharger.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 3600
+        },
+        "limit": 5,
+        "refreshSeconds": 86400,
+        "trader": "Lance"
+      }
+    ]
   },
   {
     "id": "surveyor_vault",
@@ -4154,7 +4717,8 @@
       "mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/surveyor_vault.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "synthesized_fuel",
@@ -4208,6 +4772,10 @@
     "value": 700,
     "weightKg": 0.5,
     "stackSize": 5,
+    "craftBench": "in_raid",
+    "recipe": {
+      "rocket_thruster": 1
+    },
     "recyclesInto": {
       "chemicals": 1,
       "oil": 1
@@ -4216,7 +4784,18 @@
       "oil": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 14
+        },
+        "limit": 5,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "syringe",
@@ -4270,6 +4849,10 @@
     "value": 500,
     "weightKg": 0.3,
     "stackSize": 5,
+    "craftBench": "in_raid",
+    "recipe": {
+      "rusted_shut_medical_kit": 1
+    },
     "recyclesInto": {
       "chemicals": 2,
       "plastic_parts": 3
@@ -4278,7 +4861,18 @@
       "plastic_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/syringe.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "assorted_seeds": 10
+        },
+        "limit": 5,
+        "refreshSeconds": 86400,
+        "trader": "Celeste"
+      }
+    ]
   },
   {
     "id": "tactical_mk1",
@@ -4416,7 +5010,26 @@
       "plastic_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "repairCost": {
+      "plastic_parts": 3,
+      "rubber_parts": 3
+    },
+    "repairDurability": 0.5,
+    "vendors": [
+      {
+        "cost": {
+          "coins": 1920
+        },
+        "trader": "Lance"
+      },
+      {
+        "cost": {
+          "free_loadout_augment": 1
+        },
+        "trader": "Lance"
+      }
+    ]
   },
   {
     "id": "tactical_mk2",
@@ -4554,7 +5167,22 @@
       "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "repairCost": {
+      "electrical_components": 1,
+      "magnet": 1
+    },
+    "repairDurability": 0.5,
+    "vendors": [
+      {
+        "cost": {
+          "coins": 6000
+        },
+        "limit": 1,
+        "refreshSeconds": 86400,
+        "trader": "Lance"
+      }
+    ]
   },
   {
     "id": "tactical_mk3_defensive_blueprint",
@@ -4603,11 +5231,13 @@
       "zh-TW": "專注於防禦的強化裝備，可保持護盾處於滿值狀態。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_defensive.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "12/07/2025",
+    "addedIn": "base"
   },
   {
     "id": "tactical_mk3_defensive",
@@ -4746,7 +5376,12 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_defensive.png",
-    "updatedAt": "01/20/2026"
+    "updatedAt": "01/20/2026",
+    "repairCost": {
+      "advanced_electrical_components": 1,
+      "processor": 2
+    },
+    "repairDurability": 0.5
   },
   {
     "id": "tactical_mk3_healing_blueprint",
@@ -4795,11 +5430,13 @@
       "zh-TW": "專注於治療的增強裝備，為治療物品增加額外欄位。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing_blueprint.png",
-    "updatedAt": "11/11/2025"
+    "updatedAt": "11/11/2025",
+    "addedIn": "base"
   },
   {
     "id": "tactical_mk3_healing",
@@ -4938,7 +5575,12 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing.png",
-    "updatedAt": "01/20/2026"
+    "updatedAt": "01/20/2026",
+    "repairCost": {
+      "advanced_electrical_components": 1,
+      "processor": 2
+    },
+    "repairDurability": 0.5
   },
   {
     "id": "tactical_mk3_revival_blueprint",
@@ -4987,11 +5629,13 @@
       "zh-TW": "一種專為團隊支援設計的復甦強化裝置。每 5 秒恢復 1 點生命值。受到傷害時，此效果將暫停 30 秒。包含內建除顫器，擁有無限使用次數和 240 秒冷卻時間。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_revival.png",
-    "updatedAt": "02/02/2026"
+    "updatedAt": "02/02/2026",
+    "addedIn": "1.13"
   },
   {
     "id": "tactical_mk3_revival",
@@ -5179,11 +5823,13 @@
       "zh-TW": "延遲引爆的手榴彈，能標記區域內的掠奪者和ARC敵人。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/tagging_grenade.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "12/07/2025",
+    "addedIn": "base"
   },
   {
     "id": "tagging_grenade",
@@ -5299,7 +5945,8 @@
       "sensors": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/tagging_grenade.png",
-    "updatedAt": "11/10/2025"
+    "updatedAt": "11/10/2025",
+    "addedIn": "base"
   },
   {
     "id": "tattered_arc_lining",
@@ -5360,7 +6007,8 @@
       "fabric": 5
     },
     "imageFilename": "https://cdn.arctracker.io/items/tattered_arc_lining.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base"
   },
   {
     "id": "tattered_clothes",
@@ -5420,7 +6068,8 @@
       "fabric": 5
     },
     "imageFilename": "https://cdn.arctracker.io/items/tattered_clothes.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "telemetry_transceiver",
@@ -5482,7 +6131,8 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/telemetry_transceiver.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "tempest_blueprint",
@@ -5531,11 +6181,13 @@
       "zh-TW": "一把利用磁力加速技術的高功率武器。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "tempest_i",
@@ -5587,6 +6239,7 @@
     "rarity": "Epic",
     "value": 13000,
     "weightKg": 11,
+    "stackSize": 1,
     "isWeapon": true,
     "blueprintLocked": true,
     "effects": {
@@ -5720,8 +6373,47 @@
     "salvagesInto": {
       "medium_gun_parts": 2
     },
+    "upgradeCost": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 1
+    },
     "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 2
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "tempest_ii"
   },
   {
     "id": "tempest_ii",
@@ -5773,6 +6465,7 @@
     "rarity": "Epic",
     "value": 17000,
     "weightKg": 11,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -5947,10 +6640,45 @@
     },
     "upgradeCost": {
       "advanced_mechanical_components": 2,
-      "medium_gun_parts": 1
+      "medium_gun_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 3,
+      "medium_gun_parts": 3
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "tempest_iii"
   },
   {
     "id": "tempest_iii",
@@ -6002,6 +6730,7 @@
     "rarity": "Epic",
     "value": 22000,
     "weightKg": 11,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -6179,7 +6908,42 @@
       "medium_gun_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 4,
+      "medium_gun_parts": 4
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "tempest_iv"
   },
   {
     "id": "tempest_iv",
@@ -6231,6 +6995,7 @@
     "rarity": "Epic",
     "value": 27000,
     "weightKg": 11,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -6408,7 +7173,41 @@
       "medium_gun_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 5,
+      "medium_gun_parts": 4
+    },
+    "repairDurability": 0.5
   },
   {
     "id": "thermostat",
@@ -6470,7 +7269,8 @@
       "sensors": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/thermostat.png",
-    "updatedAt": "12/07/2025"
+    "updatedAt": "12/07/2025",
+    "addedIn": "base"
   },
   {
     "id": "tick_pod",
@@ -6532,7 +7332,8 @@
       "arc_alloy": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/tick_pod.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "toaster",
@@ -6594,7 +7395,8 @@
       "wires": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/toaster.png",
-    "updatedAt": "11/03/2025"
+    "updatedAt": "11/03/2025",
+    "addedIn": "base"
   },
   {
     "id": "torn_blanket",
@@ -6655,7 +7457,8 @@
       "fabric": 5
     },
     "imageFilename": "https://cdn.arctracker.io/items/torn_blanket.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base"
   },
   {
     "id": "torn_book",
@@ -6711,7 +7514,8 @@
     "stackSize": 5,
     "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/torn_book.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/04/2025",
+    "addedIn": "base"
   },
   {
     "id": "torrente_blueprint",
@@ -6760,11 +7564,13 @@
       "zh-TW": "彈藥容量大，但只有蹲下時才準確。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/torrente.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "torrente_i",
@@ -6816,6 +7622,7 @@
     "rarity": "Rare",
     "value": 7000,
     "weightKg": 12,
+    "stackSize": 1,
     "isWeapon": true,
     "blueprintLocked": true,
     "effects": {
@@ -6949,8 +7756,46 @@
     "salvagesInto": {
       "medium_gun_parts": 2
     },
+    "upgradeCost": {
+      "advanced_mechanical_components": 1,
+      "medium_gun_parts": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/torrente.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 1,
+      "medium_gun_parts": 1
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "torrente_ii"
   },
   {
     "id": "torrente_ii",
@@ -7002,6 +7847,7 @@
     "rarity": "Rare",
     "value": 10000,
     "weightKg": 12,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -7156,7 +8002,41 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/torrente.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 1
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "torrente_iii"
   },
   {
     "id": "torrente_iii",
@@ -7208,6 +8088,7 @@
     "rarity": "Rare",
     "value": 13000,
     "weightKg": 12,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -7358,11 +8239,45 @@
       "medium_gun_parts": 3
     },
     "upgradeCost": {
-      "advanced_mechanical_components": 1,
+      "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/torrente.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 3
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "torrente_iv"
   },
   {
     "id": "torrente_iv",
@@ -7414,6 +8329,7 @@
     "rarity": "Rare",
     "value": 17000,
     "weightKg": 12,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -7568,7 +8484,40 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/torrente.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ],
+      "muzzle": [
+        "compensator_i",
+        "compensator_ii",
+        "compensator_iii",
+        "extended_barrel",
+        "muzzle_brake_i",
+        "muzzle_brake_ii",
+        "muzzle_brake_iii",
+        "silencer_i",
+        "silencer_ii",
+        "silencer_iii"
+      ],
+      "stock": [
+        "kinetic_converter",
+        "lightweight_stock",
+        "padded_stock",
+        "stable_stock_i",
+        "stable_stock_ii",
+        "stable_stock_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 3,
+      "medium_gun_parts": 3
+    },
+    "repairDurability": 0.5
   },
   {
     "id": "trailblazer_blueprint",
@@ -7617,11 +8566,13 @@
       "zh-TW": "解鎖開拓者的製作藍圖。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/trailblazer.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "1.2"
   },
   {
     "id": "trailblazer",
@@ -7737,7 +8688,18 @@
       "crude_explosives": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/trailblazer.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "1.2",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 6600
+        },
+        "limit": 3,
+        "refreshSeconds": 86400,
+        "trader": "Apollo"
+      }
+    ]
   },
   {
     "id": "trigger_nade_blueprint",
@@ -7786,12 +8748,13 @@
       "zh-TW": "可黏附在表面和ARC上的遙控引爆手榴彈，觸發時造成爆炸傷害。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/trigger_nade_blueprint.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "trigger_nade",
@@ -7907,7 +8870,8 @@
       "processor": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/trigger_nade.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "tropical_duck",
@@ -7962,7 +8926,8 @@
     "stackSize": 15,
     "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/tropical_duck.png",
-    "updatedAt": "02/01/2026"
+    "updatedAt": "02/01/2026",
+    "addedIn": "1.13"
   },
   {
     "id": "turbo_pump",
@@ -8024,7 +8989,8 @@
       "steel_spring": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/turbo_pump.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base"
   },
   {
     "id": "unusable_weapon",
@@ -8086,7 +9052,8 @@
       "simple_gun_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/unusable_weapon.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "vase",
@@ -8142,7 +9109,8 @@
     "stackSize": 3,
     "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/vase.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "11/04/2025",
+    "addedIn": "base"
   },
   {
     "id": "venator_blueprint",
@@ -8191,10 +9159,12 @@
       "zh-TW": "一次發射兩發子彈。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "venator_i",
@@ -8246,6 +9216,7 @@
     "rarity": "Rare",
     "value": 7000,
     "weightKg": 5,
+    "stackSize": 1,
     "isWeapon": true,
     "blueprintLocked": true,
     "effects": {
@@ -8402,8 +9373,35 @@
     "salvagesInto": {
       "medium_gun_parts": 2
     },
+    "upgradeCost": {
+      "advanced_mechanical_components": 1,
+      "medium_gun_parts": 2
+    },
     "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 1,
+      "medium_gun_parts": 1
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "venator_ii"
   },
   {
     "id": "venator_ii",
@@ -8455,6 +9453,7 @@
     "rarity": "Rare",
     "value": 10000,
     "weightKg": 5,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -8655,7 +9654,30 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/09/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 1
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "venator_iii"
   },
   {
     "id": "venator_iii",
@@ -8707,6 +9729,7 @@
     "rarity": "Rare",
     "value": 13000,
     "weightKg": 5,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -8903,11 +9926,34 @@
       "medium_gun_parts": 3
     },
     "upgradeCost": {
-      "advanced_mechanical_components": 1,
+      "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 3
+    },
+    "repairDurability": 0.5,
+    "upgradesTo": "venator_iv"
   },
   {
     "id": "venator_iv",
@@ -8959,6 +10005,7 @@
     "rarity": "Rare",
     "value": 17000,
     "weightKg": 5,
+    "stackSize": 1,
     "isWeapon": true,
     "effects": {
       "Ammo Type": {
@@ -9159,7 +10206,29 @@
       "medium_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "modSlots": {
+      "grip": [
+        "angled_grip_i",
+        "angled_grip_ii",
+        "angled_grip_iii",
+        "horizontal_grip",
+        "vertical_grip_i",
+        "vertical_grip_ii",
+        "vertical_grip_iii"
+      ],
+      "magazine": [
+        "extended_medium_mag_i",
+        "extended_medium_mag_ii",
+        "extended_medium_mag_iii"
+      ]
+    },
+    "repairCost": {
+      "advanced_mechanical_components": 3,
+      "medium_gun_parts": 3
+    },
+    "repairDurability": 0.5
   },
   {
     "id": "vertical_grip_i",
@@ -9211,6 +10280,23 @@
     "rarity": "Common",
     "value": 640,
     "weightKg": 0.25,
+    "stackSize": 1,
+    "compatibleWith": [
+      "Aphelion",
+      "Arpeggio",
+      "Bettina",
+      "Bobcat",
+      "Ferro",
+      "Hullcracker",
+      "Il Toro",
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Stitcher",
+      "Tempest",
+      "Venator",
+      "Vulcano"
+    ],
     "effects": {
       "Reduced Vertical Recoil": {
         "value": "20%",
@@ -9249,7 +10335,18 @@
       "plastic_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_i.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base",
+    "vendors": [
+      {
+        "cost": {
+          "coins": 1920
+        },
+        "limit": 5,
+        "refreshSeconds": 86400,
+        "trader": "Tian Wen"
+      }
+    ]
   },
   {
     "id": "vertical_grip_ii_blueprint",
@@ -9298,12 +10395,13 @@
       "zh-TW": "適度降低垂直後座力。相容武器：Arpeggio、Ferro、Venator、Il Toro、Stitcher"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "vertical_grip_ii",
@@ -9355,12 +10453,22 @@
     "rarity": "Uncommon",
     "value": 2000,
     "weightKg": 0.5,
+    "stackSize": 1,
     "compatibleWith": [
+      "Aphelion",
       "Arpeggio",
-      "Rattler",
-      "Kettle",
+      "Bettina",
+      "Bobcat",
+      "Ferro",
+      "Hullcracker",
       "Il Toro",
-      "Stitcher"
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Stitcher",
+      "Tempest",
+      "Venator",
+      "Vulcano"
     ],
     "blueprintLocked": true,
     "effects": {
@@ -9402,7 +10510,8 @@
       "mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "vertical_grip_iii_blueprint",
@@ -9451,12 +10560,13 @@
       "zh-TW": "顯著降低垂直後座力。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_iii_blueprint.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "vertical_grip_iii",
@@ -9508,6 +10618,23 @@
     "rarity": "Rare",
     "value": 5000,
     "weightKg": 0.75,
+    "stackSize": 1,
+    "compatibleWith": [
+      "Aphelion",
+      "Arpeggio",
+      "Bettina",
+      "Bobcat",
+      "Ferro",
+      "Hullcracker",
+      "Il Toro",
+      "Kettle",
+      "Osprey",
+      "Rattler",
+      "Stitcher",
+      "Tempest",
+      "Venator",
+      "Vulcano"
+    ],
     "blueprintLocked": true,
     "effects": {
       "Reduced ADS Speed": {
@@ -9571,7 +10698,8 @@
       "mechanical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_iii.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "very_comfortable_pillow",
@@ -9626,7 +10754,8 @@
     "weightKg": 0.3,
     "stackSize": 3,
     "imageFilename": "https://cdn.arctracker.io/items/very_comfortable_pillow.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "vita_shot_blueprint",
@@ -9675,11 +10804,13 @@
       "zh-TW": "可恢復大量生命值的醫療物品。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/vita_shot.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/13/2026",
+    "addedIn": "base"
   },
   {
     "id": "vita_shot",
@@ -9795,7 +10926,8 @@
       "syringe": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/vita_shot.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "02/24/2026",
+    "addedIn": "base"
   },
   {
     "id": "vita_spray_blueprint",
@@ -9844,149 +10976,11 @@
       "zh-TW": "使用時持續恢復生命值的醫療物品。可以對自己或隊友使用。"
     },
     "type": "Blueprint",
-    "rarity": "Legendary",
+    "rarity": "Common",
     "value": 5000,
-    "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",
-    "updatedAt": "11/12/2025"
-  },
-  {
-    "id": "vita_spray",
-    "name": {
-      "da": "Vita-spray",
-      "de": "Vita-Spray",
-      "en": "Vita Spray",
-      "es": "Aerosol Vita",
-      "fr": "Spray de Vita",
-      "he": "Vita Spray",
-      "hr": "Vita Sprej",
-      "it": "Spray Vita",
-      "ja": "ヴィータ・スプレー",
-      "ko-KR": "회복 스프레이",
-      "no": "Vita-spray",
-      "pl": "Spray Vita",
-      "pt": "Spray Vita",
-      "pt-BR": "Spray Vita",
-      "ru": "Вита-спрей",
-      "sr": "Vita Sprej",
-      "tr": "Sağlık Spreyi",
-      "uk": "Віта-спрей",
-      "zh-CN": "生命喷雾",
-      "zh-TW": "活力噴霧"
-    },
-    "description": {
-      "da": "En medicinsk genstand, der løbende gendanner helbred under brug. Kan bruges på dig selv eller dine allierede.",
-      "de": "Ein medizinischer Gegenstand, der während der Verwendung kontinuierlich Gesundheit wiederherstellt. Kann für dich selbst oder Verbündete benutzt werden.",
-      "en": "A medical item that continuously restores health during use. Can be used on yourself or your allies.",
-      "es": "Un objeto médico que restaura salud continuamente durante el uso. Puede usarse en ti mismo o en tus aliados.",
-      "fr": "Un objet médical qui restaure de la santé en continu pendant l'utilisation. Il peut aussi bien vous servir à vous qu'à vos alliés.",
-      "he": "פריט רפואי שמחזיר בריאות באופן רציף בזמן השימוש. ניתן לשימוש על עצמך או על בני בריתך.",
-      "hr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tijekom korištenja. Može se koristiti na sebi ili saveznicima.",
-      "it": "Un oggetto medico che ripristina continuamente la salute durante l'uso. Può essere usato su te stesso o sui tuoi alleati.",
-      "ja": "使用中に継続的に体力を回復する医療アイテム。自分または味方に使用できる。",
-      "ko-KR": "사용 중 지속적으로 체력을 회복하는 의료 아이템. 자신이나 아군에게 사용할 수 있습니다.",
-      "no": "En medisinsk gjenstand som kontinuerlig gjenoppretter helse under bruk. Kan brukes på deg selv eller dine allierte.",
-      "pl": "Przedmiot medyczny, który stale przywraca zdrowie podczas użycia. Może być użyty na sobie lub sojusznikach.",
-      "pt": "Um item médico que restaura saúde continuamente durante o uso. Pode ser usado em você mesmo ou em seus aliados.",
-      "pt-BR": "Item medicinal que recupera vida de forma contínua durante o uso. Pode ser usado em você ou nos aliados.",
-      "ru": "Медицинский предмет, непрерывно восстанавливающий здоровье во время использования. Можно использовать на себе или союзниках.",
-      "sr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tokom korišćenja. Može se koristiti na sebi ili saveznicima.",
-      "tr": "Kullanıldığı süre boyunca canı devamlı olarak yenileyen bir tıbbi eşya. Kendin veya müttefiklerin için kullanabilirsin.",
-      "uk": "Медичний предмет, що безперервно відновлює здоров'я під час використання. Можна використовувати на собі або союзниках.",
-      "zh-CN": "使用期间持续恢复生命值的医疗物品。可用于自己或队友。",
-      "zh-TW": "使用期間持續恢復生命值的醫療物品。可用於自己或隊友。"
-    },
-    "type": "Quick Use",
-    "rarity": "Epic",
-    "value": 3400,
-    "weightKg": 1,
     "stackSize": 1,
-    "blueprintLocked": true,
-    "effects": {
-      "Durability": {
-        "value": "100/100",
-        "da": "Holdbarhed",
-        "de": "Haltbarkeit",
-        "en": "Durability",
-        "es": "Durabilidad",
-        "fr": "Durabilité",
-        "he": "עמידות",
-        "hr": "Izdržljivost",
-        "it": "Tenuta",
-        "ja": "耐久度",
-        "ko-KR": "내구도",
-        "no": "Holdbarhet",
-        "pl": "Wytrzymałość",
-        "pt": "Durabilidade",
-        "pt-BR": "Durabilidade",
-        "ru": "Прочность",
-        "sr": "Izdržljivost",
-        "tr": "Dayanıklılık",
-        "uk": "Міцність",
-        "zh-CN": "耐久度",
-        "zh-TW": "耐久度"
-      },
-      "Heal Capacity": {
-        "value": 150,
-        "da": "Helbredelseskapacitet",
-        "de": "Heilungskapazität",
-        "en": "Heal Capacity",
-        "es": "Capacidad de curación",
-        "fr": "Capacité de soins",
-        "he": "קיבולת ריפוי",
-        "hr": "Kapacitet Liječenja",
-        "it": "Capacità di guarigione",
-        "ja": "回復容量",
-        "ko-KR": "회복 용량",
-        "no": "Helbredelseskapasitet",
-        "pl": "Pojemność leczenia",
-        "pt": "Capacidade de cura",
-        "pt-BR": "Capacidade de Cura",
-        "ru": "Ёмкость исцеления",
-        "sr": "Kapacitet Lečenja",
-        "tr": "İyileştirme Kapasitesi",
-        "uk": "Ємність зцілення",
-        "zh-CN": "治疗容量",
-        "zh-TW": "治療容量"
-      },
-      "Healing": {
-        "value": "10/s",
-        "da": "Helbredelse",
-        "de": "Heilen",
-        "en": "Healing",
-        "es": "Curación",
-        "fr": "Soins",
-        "he": "ריפוי",
-        "hr": "Liječenje",
-        "it": "Guarigione",
-        "ja": "回復量",
-        "ko-KR": "회복량",
-        "no": "Helbredelse",
-        "pl": "Leczenie",
-        "pt": "Cura",
-        "pt-BR": "Cura",
-        "ru": "Исцеление",
-        "sr": "Lečenje",
-        "tr": "İyileştirme",
-        "uk": "Зцілення",
-        "zh-CN": "治疗量",
-        "zh-TW": "治療量"
-      }
-    },
-    "craftBench": "med_station",
-    "stationLevelRequired": 3,
-    "recipe": {
-      "antiseptic": 3,
-      "canister": 1,
-      "tick_pod": 1
-    },
-    "recyclesInto": {
-      "antiseptic": 1,
-      "canister": 1
-    },
-    "salvagesInto": {
-      "antiseptic": 1
-    },
     "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",
-    "updatedAt": "02/24/2026"
+    "updatedAt": "11/12/2025",
+    "addedIn": "base"
   }
 ]
