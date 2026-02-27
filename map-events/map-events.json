@@ -33,6 +33,35 @@
         "he": "פשיטת לילה"
       }
     },
+    "hurricane": {
+      "displayName": "Hurricane",
+      "icon": "https://cdn.arctracker.io/map-events/hurricane.png",
+      "translationKey": "hurricane",
+      "category": "major",
+      "disabled": false,
+      "localizations": {
+        "en": "Hurricane",
+        "de": "Hurrikan",
+        "fr": "Ouragan",
+        "es": "Huracán",
+        "pt": "Furacão",
+        "pt-BR": "Furacão",
+        "pl": "Huragan",
+        "no": "Orkan",
+        "da": "Orkan",
+        "it": "Uragano",
+        "ja": "ハリケーン",
+        "ko-KR": "허리케인",
+        "zh-CN": "飓风",
+        "zh-TW": "颶風",
+        "ru": "Ураган",
+        "tr": "Kasırga",
+        "uk": "Ураган",
+        "hr": "Uragan",
+        "sr": "Uragan",
+        "he": "הוריקן"
+      }
+    },
     "electromagnetic-storm": {
       "displayName": "Electromagnetic Storm",
       "icon": "https://cdn.arctracker.io/map-events/electromagnetic_storm.png",
