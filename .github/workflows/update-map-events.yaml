@@ -1,6 +1,8 @@
 name: Update map events
 
 on:
+    schedule:
+        - cron: "0 5 * * *"
     workflow_dispatch:
         inputs:
             head-branch:
@@ -10,7 +12,7 @@ on:
             base-branch:
                 description: "Target branch for the pull request"
                 type: string
-                default: "main"
+                default: "mainv2"
 
 jobs:
     update-map-events:
