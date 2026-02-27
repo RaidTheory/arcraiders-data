@@ -49,6 +49,26 @@
     "image": "https://cdn.arctracker.io/bots/arc_bombardier.png"
   },
   {
+    "id": "arc_comet",
+    "name": "COMET",
+    "type": "Area Denial",
+    "threat": "High",
+    "description": "The Comet roams around, until it spots a Raider. When a target is spotted, it will begin to roll towards the Raider at high speeds. When the Raider is in proximity, it creates a seismic explosion, destroying itself in the process.",
+    "weakness": "Splits open and exposes the Igniter,",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city",
+      "stella_montis_lower",
+      "stella_montis_upper"
+    ],
+    "destroyXp": 100,
+    "lootXp": 200,
+    "drops": ["arc_alloy","arc_coolant", "advanced_arc_powercell", "crude_explosives", "comet_igniter"],
+    "image": "https://cdn.arctracker.io/bots/arc_comet.png"
+  },
+  {
     "id": "arc_fireball",
     "name": "FIREBALL",
     "type": "Area Denial",
@@ -67,6 +87,26 @@
     "lootXp": 100,
     "drops": ["arc_alloy", "arc_powercell", "fireball_burner"],
     "image": "https://cdn.arctracker.io/bots/arc_fireball.png"
+  },
+  {
+    "id": "arc_firefly",
+    "name": "FIREFLY",
+    "type": "Area Denial",
+    "threat": "High",
+    "description": "The Firefly, like the Hornet, is very aggressive and is hard to get off your tail. It usually patrols with Wasps or Hornets but sometimes alone.",
+    "weakness": "Flamethrower fuel tank and Thrusters.",
+    "maps": [
+      "dam_battlegrounds",
+      "the_spaceport",
+      "the_blue_gate",
+      "buried_city",
+      "stella_montis_lower",
+      "stella_montis_upper"
+    ],
+    "destroyXp": 150,
+    "lootXp": 250,
+    "drops": ["arc_alloy", "arc_powercell", "arc_coolant", "arc_thermo_lining", "firefly_burner", "simple_gun_parts"],
+    "image": "https://cdn.arctracker.io/bots/arc_firefly.png"
   },
   {
     "id": "arc_hornet",
