@@ -75,7 +75,8 @@
     "privacy": "隐私政策",
     "terms": "服务条款",
     "stash": "仓库",
-    "seasons": "赛季"
+    "seasons": "赛季",
+    "traders": "商人"
   },
   "MapEvents": {
     "startsIn": "开始于",
@@ -584,7 +585,13 @@
       }
     },
     "upgradePath": "升级路线",
-    "currentTier": "当前"
+    "currentTier": "当前",
+    "soldByTraders": "由商人出售",
+    "vendorCost": "花费",
+    "vendorLimit": "限购：{count}",
+    "vendorRefreshDaily": "每日补货",
+    "vendorRefreshHourly": "每小时补货",
+    "vendorRefreshHours": "每 {hours} 小时补货"
   },
   "ItemsListPage": {
     "searchPlaceholder": "搜索物品...",
@@ -660,7 +667,9 @@
     "stashTitle": "仓库追踪器 - ARC Raiders",
     "stashDescription": "自动同步并追踪您的 ARC Raiders 仓库、装备配置及货币。关联您的游戏账号以获取实时更新。",
     "projectNotFoundTitle": "未找到项目 - ARC Raiders",
-    "projectNotFoundDescription": "无法找到请求的项目。"
+    "projectNotFoundDescription": "无法找到请求的项目。",
+    "tradersTitle": "商人 - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "浏览 ARC Raiders 中的所有商人。查看每位商人的商店库存及相关任务。"
   },
   "OverlayPage": {
     "pageTitle": "悬浮窗助手应用",
@@ -1022,10 +1031,17 @@
     "premiumActivatedDesc": "感谢您支持 ARCTracker！您的高级版订阅现已激活。",
     "premiumBenefitsTitle": "您的高级版福利",
     "manageSubscriptionTitle": "管理您的订阅",
-    "manageSubscriptionDesc": "您可以通过“设置”页面或 Tebex 支付门户查看您的订阅详情并管理您的账单。",
+    "manageSubscriptionDesc": "您可以通过设置页面或支付门户查看您的订阅详情并管理您的账单。",
     "goToSettings": "前往设置",
     "tebexPaymentPortal": "Tebex 支付门户",
-    "backToHome": "返回首页"
+    "backToHome": "返回首页",
+    "managedByPolar": "订阅由 Polar 管理",
+    "polarPaymentPortal": "Polar 支付门户",
+    "upgradeToYearly": "升级为年付",
+    "upgradeToYearlyDesc": "切换至按年计费可节省 44%。您剩余的月度订阅时长将自动折算抵扣。",
+    "upgradeSuccess": "已成功升级为年付！",
+    "upgradeError": "升级失败，请重试。",
+    "upgradeSaving": "节省 {percent}%"
   },
   "Favorites": {
     "addToList": "添加到收藏",
@@ -2551,7 +2567,8 @@
     }
   },
   "ItemTooltip": {
-    "onYourLists": "在您的列表中"
+    "onYourLists": "在您的列表中",
+    "tapToView": "再次点击查看详情"
   },
   "SeasonsPage": {
     "title": "赛季",
@@ -2622,5 +2639,196 @@
     "turnIn": "提交",
     "uniqueItems": "唯一物品",
     "valueRequirement": "价值需求"
+  },
+  "Cipher": {
+    "alphaBadge": "实验性",
+    "clearChat": "清空聊天",
+    "closeCipher": "关闭",
+    "emptyStateDescription": "系统在线。你可以询问关于仓库、突袭表现、掉落率，或关于战场的任何问题。回复内容可能并不总是准确的——请核实重要信息。",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "询问 Cipher...",
+    "openCipher": "打开 Cipher",
+    "panelTitle": "Cipher",
+    "sendMessage": "发送消息",
+    "tools": {
+      "checkStashForItem": {
+        "active": "正在扫描仓库...",
+        "done": "仓库扫描完毕"
+      },
+      "createChart": {
+        "active": "正在生成图表...",
+        "done": "图表生成完毕"
+      },
+      "fallbackActive": "正在使用 {toolName}...",
+      "fallbackDone": "已使用 {toolName}",
+      "findBestFarmingMaps": {
+        "active": "正在优化刷图路线...",
+        "done": "刷图路线优化完毕"
+      },
+      "getHideoutModules": {
+        "active": "正在检查藏身处模块...",
+        "done": "藏身处模块检查完毕"
+      },
+      "getItem": {
+        "active": "正在拉取物品数据...",
+        "done": "物品数据拉取完毕"
+      },
+      "getItemDropLocations": {
+        "active": "正在分析掉落地点...",
+        "done": "掉落地点分析完毕"
+      },
+      "getItemDropStats": {
+        "active": "正在分析掉落率...",
+        "done": "掉落率分析完毕"
+      },
+      "getPlayerStats": {
+        "active": "正在拉取玩家指标...",
+        "done": "玩家指标拉取完毕"
+      },
+      "getQuest": {
+        "active": "正在拉取任务数据...",
+        "done": "任务数据拉取完毕"
+      },
+      "getRaidHistory": {
+        "active": "正在拉取突袭日志...",
+        "done": "突袭日志拉取完毕"
+      },
+      "getRaidStats": {
+        "active": "正在处理突袭数据...",
+        "done": "突袭数据处理完毕"
+      },
+      "getUserHideoutProgress": {
+        "active": "正在检查藏身处进度...",
+        "done": "藏身处进度检查完毕"
+      },
+      "getUserLoadout": {
+        "active": "正在拉取配装配置...",
+        "done": "配装数据拉取完毕"
+      },
+      "getUserNeededItems": {
+        "active": "正在计算所需物品...",
+        "done": "所需物品计算完毕"
+      },
+      "getUserQuestProgress": {
+        "active": "正在检查任务进度...",
+        "done": "任务进度检查完毕"
+      },
+      "getUserStash": {
+        "active": "正在访问仓库记录...",
+        "done": "仓库记录访问完毕"
+      },
+      "getWeaponDamage": {
+        "active": "正在分析武器伤害...",
+        "done": "武器伤害分析完毕"
+      },
+      "getWeaponKills": {
+        "active": "正在拉取武器数据...",
+        "done": "武器数据拉取完毕"
+      },
+      "searchItems": {
+        "active": "正在扫描物品数据库...",
+        "done": "物品数据库扫描完毕"
+      },
+      "searchQuests": {
+        "active": "正在扫描任务记录...",
+        "done": "任务记录扫描完毕"
+      },
+      "getMapEvents": {
+        "active": "正在检查地图事件...",
+        "done": "已检查地图事件"
+      },
+      "searchCraftableItems": {
+        "active": "正在搜索配方...",
+        "done": "已搜索配方"
+      },
+      "searchSkillNodes": {
+        "active": "正在搜索技能树...",
+        "done": "已搜索技能树"
+      },
+      "getSkillNode": {
+        "active": "正在加载技能详情...",
+        "done": "已加载技能详情"
+      },
+      "getProjects": {
+        "active": "正在加载项目...",
+        "done": "已加载项目"
+      },
+      "getUserLists": {
+        "active": "正在加载您的列表...",
+        "done": "已加载您的列表"
+      },
+      "getListItems": {
+        "active": "正在加载列表物品...",
+        "done": "已加载列表物品"
+      },
+      "addItemToList": {
+        "active": "正在添加到列表...",
+        "denied": "已取消",
+        "done": "已添加到列表"
+      },
+      "removeItemFromList": {
+        "active": "正在从列表中移除...",
+        "denied": "已取消",
+        "done": "已从列表中移除"
+      },
+      "createList": {
+        "active": "正在创建列表...",
+        "denied": "已取消",
+        "done": "已创建列表"
+      },
+      "deleteList": {
+        "active": "正在删除列表...",
+        "denied": "已取消",
+        "done": "已删除列表"
+      },
+      "fallbackDenied": "已取消 {toolName}",
+      "getItemFarmingContext": {
+        "active": "正在分析刷取情境...",
+        "done": "已分析刷取情境"
+      }
+    },
+    "approval": {
+      "addItemToList": "将 \"{itemName}\" 添加到 \"{listName}\"",
+      "approve": "批准",
+      "createList": "创建列表 \"{name}\"",
+      "deleteList": "删除列表 \"{listName}\"",
+      "deleteWarning": "这将删除该列表及其中的所有 {count, plural, one {# 个物品} other {# 个物品}}。",
+      "deny": "拒绝",
+      "removeItemFromList": "从 \"{listName}\" 中移除 \"{itemName}\""
+    },
+    "feedback": {
+      "helpful": "有帮助的回答",
+      "notHelpful": "无帮助的回答"
+    },
+    "confirmation": {
+      "denied": "操作已取消",
+      "error": "发生错误",
+      "executing": "执行中...",
+      "success": {
+        "addItemToList": "已添加到列表",
+        "createList": "列表已创建",
+        "deleteList": "列表已删除",
+        "generic": "完成",
+        "removeItemFromList": "已从列表中移除"
+      }
+    },
+    "privateBetaNotice": "内部测试 — 仅限贡献者。请在贡献者频道进行讨论。"
+  },
+  "TradersPage": {
+    "itemsForSale": "出售物品",
+    "quests": "任务",
+    "title": "商人"
+  },
+  "TraderPage": {
+    "backToTraders": "返回商人列表",
+    "coins": "硬币",
+    "limit": "限购",
+    "noQuests": "暂无任务",
+    "noShopItems": "暂无出售物品",
+    "quests": "任务",
+    "refresh": "刷新",
+    "shop": "商店",
+    "traderNotFound": "未找到商人",
+    "traderNotFoundDesc": "您寻找的商人不存在。"
   }
 }

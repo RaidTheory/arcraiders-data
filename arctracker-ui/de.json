@@ -75,7 +75,8 @@
     "discordBot": "Discord-Bot",
     "squads": "Squads",
     "stash": "Lager",
-    "seasons": "Saisons"
+    "seasons": "Saisons",
+    "traders": "Händler"
   },
   "MapEvents": {
     "startsIn": "Startet in",
@@ -577,7 +578,13 @@
     "inRaidCrafting": "Herstellung im Raid",
     "attachments": "Aufsätze",
     "upgradePath": "Upgrade-Pfad",
-    "currentTier": "Aktuell"
+    "currentTier": "Aktuell",
+    "soldByTraders": "Verkauft von Händlern",
+    "vendorCost": "Kosten",
+    "vendorLimit": "Limit: {count}",
+    "vendorRefreshDaily": "Wird täglich aufgefüllt",
+    "vendorRefreshHourly": "Wird stündlich aufgefüllt",
+    "vendorRefreshHours": "Wird alle {hours}h aufgefüllt"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Gegenstände suchen...",
@@ -653,7 +660,9 @@
     "stashTitle": "Lager-Tracker - ARC Raiders",
     "stashDescription": "Synchronisiere und verfolge automatisch dein ARC Raiders-Lagerinventar, deine Ausrüstung und Währungen. Verknüpfe deinen Spiel-Account für Echtzeit-Updates.",
     "projectNotFoundTitle": "Projekt nicht gefunden - ARC Raiders",
-    "projectNotFoundDescription": "Das angeforderte Projekt konnte nicht gefunden werden."
+    "projectNotFoundDescription": "Das angeforderte Projekt konnte nicht gefunden werden.",
+    "tradersTitle": "Händler - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Durchstöbere alle Händler in ARC Raiders. Sieh dir das Shop-Inventar und die zugehörigen Quests für jeden Händler an."
   },
   "OverlayPage": {
     "pageTitle": "Overlay Begleit-App",
@@ -820,14 +829,21 @@
     "premiumActivatedDesc": "Danke, dass du ARCTracker unterstützt! Dein Premium-Abonnement ist jetzt aktiv.",
     "premiumBenefitsTitle": "Deine Premium-Vorteile",
     "manageSubscriptionTitle": "Verwalte dein Abonnement",
-    "manageSubscriptionDesc": "Du kannst deine Abonnementdetails einsehen und deine Abrechnung über die Einstellungsseite oder das Tebex-Zahlungsportal verwalten.",
+    "manageSubscriptionDesc": "Du kannst deine Abonnementdetails einsehen und deine Abrechnung über die Einstellungsseite oder das Zahlungsportal verwalten.",
     "goToSettings": "Zu den Einstellungen",
     "tebexPaymentPortal": "Tebex Zahlungsportal",
     "backToHome": "Zurück zur Startseite",
     "benefitUnlimitedPins": "Unbegrenzte private Pins & Loot-Runs",
     "benefitUnlimitedPinsDesc": "Erstelle unbegrenzt private Karten-Pins und Loot-Run-Routen auf jeder Karte",
     "benefitAutoSync": "Automatische Lagersynchronisierung",
-    "benefitAutoSyncDesc": "Synchronisiert automatisch dein Lager, deine Ausrüstung und deinen Fortschritt aus dem Spiel alle 30 Minuten"
+    "benefitAutoSyncDesc": "Synchronisiert automatisch dein Lager, deine Ausrüstung und deinen Fortschritt aus dem Spiel alle 30 Minuten",
+    "managedByPolar": "Abonnement verwaltet von Polar",
+    "polarPaymentPortal": "Polar-Zahlungsportal",
+    "upgradeToYearly": "Auf Jahresabo upgraden",
+    "upgradeToYearlyDesc": "Wechsle zur jährlichen Abrechnung und spare 44 %. Deine verbleibende monatliche Laufzeit wird dir gutgeschrieben.",
+    "upgradeSuccess": "Erfolgreich auf Jahresabo upgegradet!",
+    "upgradeError": "Upgrade fehlgeschlagen. Bitte versuche es erneut.",
+    "upgradeSaving": "Spare {percent} %"
   },
   "Favorites": {
     "addToList": "Zur Liste hinzufügen",
@@ -2572,7 +2588,8 @@
     }
   },
   "ItemTooltip": {
-    "onYourLists": "Auf deinen Listen"
+    "onYourLists": "Auf deinen Listen",
+    "tapToView": "Erneut tippen, um Details anzuzeigen"
   },
   "SeasonsPage": {
     "title": "Saisons",
@@ -2643,5 +2660,196 @@
     "turnIn": "Abgeben",
     "uniqueItems": "Einzigartige Gegenstände",
     "valueRequirement": "Wertanforderung"
+  },
+  "Cipher": {
+    "alphaBadge": "Experimentell",
+    "clearChat": "Chat leeren",
+    "closeCipher": "Schließen",
+    "emptyStateDescription": "Systeme online. Frag mich nach deinem Lager, deiner Raid-Leistung, Dropraten oder allem über das Einsatzgebiet. Antworten sind möglicherweise nicht immer korrekt – bitte überprüfe wichtige Informationen.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Frag Cipher...",
+    "openCipher": "Cipher öffnen",
+    "panelTitle": "Cipher",
+    "sendMessage": "Nachricht senden",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Scanne Lager...",
+        "done": "Lager gescannt"
+      },
+      "createChart": {
+        "active": "Generiere Grafik...",
+        "done": "Grafik generiert"
+      },
+      "fallbackActive": "Verwende {toolName}...",
+      "fallbackDone": "{toolName} verwendet",
+      "findBestFarmingMaps": {
+        "active": "Optimiere Farming-Routen...",
+        "done": "Farming-Routen optimiert"
+      },
+      "getHideoutModules": {
+        "active": "Prüfe Unterschlupf-Module...",
+        "done": "Unterschlupf-Module geprüft"
+      },
+      "getItem": {
+        "active": "Rufe Item-Daten ab...",
+        "done": "Item-Daten abgerufen"
+      },
+      "getItemDropLocations": {
+        "active": "Analysiere Fundorte...",
+        "done": "Fundorte analysiert"
+      },
+      "getItemDropStats": {
+        "active": "Analysiere Dropraten...",
+        "done": "Dropraten analysiert"
+      },
+      "getPlayerStats": {
+        "active": "Rufe Spielerwerte ab...",
+        "done": "Spielerwerte abgerufen"
+      },
+      "getQuest": {
+        "active": "Rufe Quest-Daten ab...",
+        "done": "Quest-Daten abgerufen"
+      },
+      "getRaidHistory": {
+        "active": "Rufe Raid-Protokolle ab...",
+        "done": "Raid-Protokolle abgerufen"
+      },
+      "getRaidStats": {
+        "active": "Verarbeite Raid-Daten...",
+        "done": "Raid-Daten verarbeitet"
+      },
+      "getUserHideoutProgress": {
+        "active": "Prüfe Unterschlupf-Fortschritt...",
+        "done": "Unterschlupf-Fortschritt geprüft"
+      },
+      "getUserLoadout": {
+        "active": "Rufe Loadout-Konfiguration ab...",
+        "done": "Loadout abgerufen"
+      },
+      "getUserNeededItems": {
+        "active": "Berechne benötigte Items...",
+        "done": "Benötigte Items berechnet"
+      },
+      "getUserQuestProgress": {
+        "active": "Prüfe Quest-Fortschritt...",
+        "done": "Quest-Fortschritt geprüft"
+      },
+      "getUserStash": {
+        "active": "Greife auf Lagerdaten zu...",
+        "done": "Auf Lager zugegriffen"
+      },
+      "getWeaponDamage": {
+        "active": "Analysiere Waffenschaden...",
+        "done": "Waffenschaden analysiert"
+      },
+      "getWeaponKills": {
+        "active": "Rufe Waffendaten ab...",
+        "done": "Waffendaten abgerufen"
+      },
+      "searchItems": {
+        "active": "Scanne Item-Datenbank...",
+        "done": "Item-Datenbank gescannt"
+      },
+      "searchQuests": {
+        "active": "Scanne Quest-Einträge...",
+        "done": "Quest-Einträge gescannt"
+      },
+      "getMapEvents": {
+        "active": "Prüfe Kartenereignisse...",
+        "done": "Kartenereignisse geprüft"
+      },
+      "searchCraftableItems": {
+        "active": "Suche nach Rezepten...",
+        "done": "Rezepte durchsucht"
+      },
+      "searchSkillNodes": {
+        "active": "Durchsuche Fertigkeitsbaum...",
+        "done": "Fertigkeitsbaum durchsucht"
+      },
+      "getSkillNode": {
+        "active": "Lade Fertigkeitsdetails...",
+        "done": "Fertigkeitsdetails geladen"
+      },
+      "getProjects": {
+        "active": "Lade Projekte...",
+        "done": "Projekte geladen"
+      },
+      "getUserLists": {
+        "active": "Lade deine Listen...",
+        "done": "Deine Listen geladen"
+      },
+      "getListItems": {
+        "active": "Lade Listeneinträge...",
+        "done": "Listeneinträge geladen"
+      },
+      "addItemToList": {
+        "active": "Wird zur Liste hinzugefügt...",
+        "denied": "Abgebrochen",
+        "done": "Zur Liste hinzugefügt"
+      },
+      "removeItemFromList": {
+        "active": "Wird aus der Liste entfernt...",
+        "denied": "Abgebrochen",
+        "done": "Aus der Liste entfernt"
+      },
+      "createList": {
+        "active": "Liste wird erstellt...",
+        "denied": "Abgebrochen",
+        "done": "Liste erstellt"
+      },
+      "deleteList": {
+        "active": "Liste wird gelöscht...",
+        "denied": "Abgebrochen",
+        "done": "Liste gelöscht"
+      },
+      "fallbackDenied": "{toolName} abgebrochen",
+      "getItemFarmingContext": {
+        "active": "Farming-Kontext wird analysiert...",
+        "done": "Farming-Kontext analysiert"
+      }
+    },
+    "approval": {
+      "addItemToList": "\"{itemName}\" zu \"{listName}\" hinzufügen",
+      "approve": "Genehmigen",
+      "createList": "Liste \"{name}\" erstellen",
+      "deleteList": "Liste \"{listName}\" löschen",
+      "deleteWarning": "Dies wird die Liste und {count, plural, one {# Gegenstand} other {alle # Gegenstände}} darin entfernen.",
+      "deny": "Ablehnen",
+      "removeItemFromList": "\"{itemName}\" aus \"{listName}\" entfernen"
+    },
+    "feedback": {
+      "helpful": "Hilfreiche Antwort",
+      "notHelpful": "Nicht hilfreiche Antwort"
+    },
+    "confirmation": {
+      "denied": "Aktion abgebrochen",
+      "error": "Etwas ist schiefgelaufen",
+      "executing": "Wird ausgeführt...",
+      "success": {
+        "addItemToList": "Zur Liste hinzugefügt",
+        "createList": "Liste erstellt",
+        "deleteList": "Liste gelöscht",
+        "generic": "Fertig",
+        "removeItemFromList": "Von der Liste entfernt"
+      }
+    },
+    "privateBetaNotice": "Private Beta — nur für Mitwirkende. Bitte beschränkt Diskussionen auf den Kanal für Mitwirkende."
+  },
+  "TradersPage": {
+    "itemsForSale": "Gegenstände zum Verkauf",
+    "quests": "Quests",
+    "title": "Händler"
+  },
+  "TraderPage": {
+    "backToTraders": "Zurück zu den Händlern",
+    "coins": "Münzen",
+    "limit": "Limit",
+    "noQuests": "Keine Quests",
+    "noShopItems": "Keine Gegenstände zum Verkauf",
+    "quests": "Quests",
+    "refresh": "Aktualisierung",
+    "shop": "Shop",
+    "traderNotFound": "Händler nicht gefunden",
+    "traderNotFoundDesc": "Der gesuchte Händler existiert nicht."
   }
 }

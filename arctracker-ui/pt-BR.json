@@ -75,7 +75,8 @@
     "discordBot": "Bot do Discord",
     "squads": "Esquadrões",
     "stash": "Estoque",
-    "seasons": "Temporadas"
+    "seasons": "Temporadas",
+    "traders": "Comerciantes"
   },
   "MapEvents": {
     "startsIn": "Começa em",
@@ -577,7 +578,13 @@
     "inRaidCrafting": "Fabricação em incursão",
     "attachments": "Acessórios",
     "upgradePath": "Caminho de Aprimoramento",
-    "currentTier": "Atual"
+    "currentTier": "Atual",
+    "soldByTraders": "Vendido por Comerciantes",
+    "vendorCost": "Custo",
+    "vendorLimit": "Limite: {count}",
+    "vendorRefreshDaily": "Reabastece diariamente",
+    "vendorRefreshHourly": "Reabastece a cada hora",
+    "vendorRefreshHours": "Reabastece a cada {hours}h"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Buscar itens...",
@@ -653,7 +660,9 @@
     "stashTitle": "Rastreador de Estoque - ARC Raiders",
     "stashDescription": "Sincronize e rastreie automaticamente o inventário do seu estoque, equipamento e moedas de ARC Raiders. Vincule sua conta do jogo para atualizações em tempo real.",
     "projectNotFoundTitle": "Projeto Não Encontrado - ARC Raiders",
-    "projectNotFoundDescription": "O projeto solicitado não pôde ser encontrado."
+    "projectNotFoundDescription": "O projeto solicitado não pôde ser encontrado.",
+    "tradersTitle": "Comerciantes - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Navegue por todos os comerciantes em ARC Raiders. Veja o estoque da loja e as missões associadas a cada comerciante."
   },
   "OverlayPage": {
     "pageTitle": "App companheiro de overlay",
@@ -820,14 +829,21 @@
     "premiumActivatedDesc": "Obrigado por apoiar o ARCTracker! Sua assinatura premium agora está ativa.",
     "premiumBenefitsTitle": "Seus benefícios premium",
     "manageSubscriptionTitle": "Gerencie sua assinatura",
-    "manageSubscriptionDesc": "Você pode ver os detalhes da sua assinatura e gerenciar seu faturamento através da página de configurações ou do portal de pagamento Tebex.",
+    "manageSubscriptionDesc": "Você pode visualizar os detalhes da sua assinatura e gerenciar o faturamento através da página de Configurações ou do portal de pagamento.",
     "goToSettings": "Ir para configurações",
     "tebexPaymentPortal": "Portal de pagamento Tebex",
     "backToHome": "Voltar ao início",
     "benefitUnlimitedPins": "marcações privadas e rotas de saque ilimitadas",
     "benefitUnlimitedPinsDesc": "Crie marcações de mapa privadas e rotas de saque ilimitadas em qualquer mapa",
     "benefitAutoSync": "Sincronização Automática do Estoque",
-    "benefitAutoSyncDesc": "Sincroniza automaticamente seu estoque, equipamento e progresso do jogo a cada 30 minutos"
+    "benefitAutoSyncDesc": "Sincroniza automaticamente seu estoque, equipamento e progresso do jogo a cada 30 minutos",
+    "managedByPolar": "Assinatura gerenciada pelo Polar",
+    "polarPaymentPortal": "Portal de Pagamento Polar",
+    "upgradeToYearly": "Atualizar para o plano anual",
+    "upgradeToYearlyDesc": "Mude para o faturamento anual e economize 44%. Você receberá crédito pelo tempo restante do seu plano mensal.",
+    "upgradeSuccess": "Atualizado para o plano anual com sucesso!",
+    "upgradeError": "Falha na atualização. Por favor, tente novamente.",
+    "upgradeSaving": "Economize {percent}%"
   },
   "Favorites": {
     "addToList": "Adicionar à lista",
@@ -2572,7 +2588,8 @@
     }
   },
   "ItemTooltip": {
-    "onYourLists": "Nas suas listas"
+    "onYourLists": "Nas suas listas",
+    "tapToView": "Toque novamente para ver detalhes"
   },
   "SeasonsPage": {
     "title": "Temporadas",
@@ -2643,5 +2660,196 @@
     "turnIn": "Entregar",
     "uniqueItems": "Itens Únicos",
     "valueRequirement": "Requisito de Valor"
+  },
+  "Cipher": {
+    "alphaBadge": "Experimental",
+    "clearChat": "Limpar chat",
+    "closeCipher": "Fechar",
+    "emptyStateDescription": "Sistemas online. Pergunte-me sobre seu estoque, desempenho nas raides, taxas de drop ou qualquer coisa sobre o campo. As respostas podem não ser sempre precisas — por favor, verifique as informações importantes.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Pergunte ao Cipher...",
+    "openCipher": "Abrir Cipher",
+    "panelTitle": "Cipher",
+    "sendMessage": "Enviar mensagem",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Escaneando estoque...",
+        "done": "Estoque escaneado"
+      },
+      "createChart": {
+        "active": "Gerando visualização...",
+        "done": "Visualização gerada"
+      },
+      "fallbackActive": "Usando {toolName}...",
+      "fallbackDone": "{toolName} usado",
+      "findBestFarmingMaps": {
+        "active": "Otimizando rotas de farm...",
+        "done": "Rotas de farm otimizadas"
+      },
+      "getHideoutModules": {
+        "active": "Verificando módulos do esconderijo...",
+        "done": "Módulos do esconderijo verificados"
+      },
+      "getItem": {
+        "active": "Obtendo dados do item...",
+        "done": "Dados do item obtidos"
+      },
+      "getItemDropLocations": {
+        "active": "Analisando locais de drop...",
+        "done": "Locais de drop analisados"
+      },
+      "getItemDropStats": {
+        "active": "Analisando taxas de drop...",
+        "done": "Taxas de drop analisadas"
+      },
+      "getPlayerStats": {
+        "active": "Obtendo métricas de jogador...",
+        "done": "Métricas de jogador obtidas"
+      },
+      "getQuest": {
+        "active": "Obtendo dados da missão...",
+        "done": "Dados da missão obtidos"
+      },
+      "getRaidHistory": {
+        "active": "Obtendo registros de incursão...",
+        "done": "Registros de incursão obtidos"
+      },
+      "getRaidStats": {
+        "active": "Processando dados de incursão...",
+        "done": "Dados de incursão processados"
+      },
+      "getUserHideoutProgress": {
+        "active": "Verificando progresso do esconderijo...",
+        "done": "Progresso do esconderijo verificado"
+      },
+      "getUserLoadout": {
+        "active": "Obtendo configuração de equipamento...",
+        "done": "Equipamento obtido"
+      },
+      "getUserNeededItems": {
+        "active": "Calculando itens necessários...",
+        "done": "Itens necessários calculados"
+      },
+      "getUserQuestProgress": {
+        "active": "Verificando progresso da missão...",
+        "done": "Progresso da missão verificado"
+      },
+      "getUserStash": {
+        "active": "Acessando registros do estoque...",
+        "done": "Estoque acessado"
+      },
+      "getWeaponDamage": {
+        "active": "Analisando dano da arma...",
+        "done": "Dano da arma analisado"
+      },
+      "getWeaponKills": {
+        "active": "Obtendo dados da arma...",
+        "done": "Dados da arma obtidos"
+      },
+      "searchItems": {
+        "active": "Escaneando banco de dados de itens...",
+        "done": "Banco de dados de itens escaneado"
+      },
+      "searchQuests": {
+        "active": "Escaneando registros de missões...",
+        "done": "Registros de missões escaneados"
+      },
+      "getMapEvents": {
+        "active": "Verificando eventos do mapa...",
+        "done": "Eventos do mapa verificados"
+      },
+      "searchCraftableItems": {
+        "active": "Pesquisando receitas...",
+        "done": "Receitas pesquisadas"
+      },
+      "searchSkillNodes": {
+        "active": "Pesquisando árvore de habilidades...",
+        "done": "Árvore de habilidades pesquisada"
+      },
+      "getSkillNode": {
+        "active": "Carregando detalhes da habilidade...",
+        "done": "Detalhes da habilidade carregados"
+      },
+      "getProjects": {
+        "active": "Carregando projetos...",
+        "done": "Projetos carregados"
+      },
+      "getUserLists": {
+        "active": "Carregando suas listas...",
+        "done": "Suas listas carregadas"
+      },
+      "getListItems": {
+        "active": "Carregando itens da lista...",
+        "done": "Itens da lista carregados"
+      },
+      "addItemToList": {
+        "active": "Adicionando à lista...",
+        "denied": "Cancelado",
+        "done": "Adicionado à lista"
+      },
+      "removeItemFromList": {
+        "active": "Removendo da lista...",
+        "denied": "Cancelado",
+        "done": "Removido da lista"
+      },
+      "createList": {
+        "active": "Criando lista...",
+        "denied": "Cancelado",
+        "done": "Lista criada"
+      },
+      "deleteList": {
+        "active": "Excluindo lista...",
+        "denied": "Cancelado",
+        "done": "Lista excluída"
+      },
+      "fallbackDenied": "{toolName} cancelado",
+      "getItemFarmingContext": {
+        "active": "Analisando contexto de farm...",
+        "done": "Contexto de farm analisado"
+      }
+    },
+    "approval": {
+      "addItemToList": "Adicionar \"{itemName}\" a \"{listName}\"",
+      "approve": "Aprovar",
+      "createList": "Criar lista \"{name}\"",
+      "deleteList": "Excluir lista \"{listName}\"",
+      "deleteWarning": "Isso removerá a lista e {count, plural, one {# item} other {todos os # itens}} nela.",
+      "deny": "Recusar",
+      "removeItemFromList": "Remover \"{itemName}\" de \"{listName}\""
+    },
+    "feedback": {
+      "helpful": "Resposta útil",
+      "notHelpful": "Resposta não útil"
+    },
+    "confirmation": {
+      "denied": "Ação cancelada",
+      "error": "Algo deu errado",
+      "executing": "Executando...",
+      "success": {
+        "addItemToList": "Adicionado à lista",
+        "createList": "Lista criada",
+        "deleteList": "Lista excluída",
+        "generic": "Concluído",
+        "removeItemFromList": "Removido da lista"
+      }
+    },
+    "privateBetaNotice": "Beta privada — apenas para colaboradores. Por favor, mantenha a discussão no canal de colaboradores."
+  },
+  "TradersPage": {
+    "itemsForSale": "itens à venda",
+    "quests": "missões",
+    "title": "Comerciantes"
+  },
+  "TraderPage": {
+    "backToTraders": "Voltar para Comerciantes",
+    "coins": "Moedas",
+    "limit": "Limite",
+    "noQuests": "Nenhuma missão",
+    "noShopItems": "Nenhum item à venda",
+    "quests": "Missões",
+    "refresh": "atualização",
+    "shop": "Loja",
+    "traderNotFound": "Comerciante não encontrado",
+    "traderNotFoundDesc": "O comerciante que você procura não existe."
   }
 }

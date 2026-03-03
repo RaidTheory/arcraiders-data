@@ -75,7 +75,8 @@
     "discordBot": "Discord bot",
     "squads": "Odredi",
     "stash": "Skladište",
-    "seasons": "Sezone"
+    "seasons": "Sezone",
+    "traders": "Trgovci"
   },
   "MapEvents": {
     "startsIn": "Počinje za",
@@ -577,7 +578,13 @@
     "inRaidCrafting": "Izrada u raciji",
     "attachments": "Dodaci",
     "upgradePath": "Put nadogradnje",
-    "currentTier": "Trenutni"
+    "currentTier": "Trenutni",
+    "soldByTraders": "Prodaju trgovci",
+    "vendorCost": "Cena",
+    "vendorLimit": "Limit: {count}",
+    "vendorRefreshDaily": "Obnavlja se dnevno",
+    "vendorRefreshHourly": "Obnavlja se svakog sata",
+    "vendorRefreshHours": "Obnavlja se svakih {hours}h"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Pretraži predmete...",
@@ -653,7 +660,9 @@
     "stashTitle": "Praćenje Skladišta - ARC Raiders",
     "stashDescription": "Automatski sinhronizujte i pratite svoj inventar skladišta, opremu i valute za ARC Raiders. Povežite svoj nalog igre za ažuriranja u realnom vremenu.",
     "projectNotFoundTitle": "Projekat nije pronađen - ARC Raiders",
-    "projectNotFoundDescription": "Traženi projekat nije pronađen."
+    "projectNotFoundDescription": "Traženi projekat nije pronađen.",
+    "tradersTitle": "Trgovci - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Pregledajte sve trgovce u ARC Raiders. Pogledajte inventar prodavnice i povezane zadatke za svakog trgovca."
   },
   "OverlayPage": {
     "pageTitle": "Overlay Prateća Aplikacija",
@@ -820,14 +829,21 @@
     "premiumActivatedDesc": "Hvala što podržavate ARCTracker! Vaša premium pretplata je sada aktivna.",
     "premiumBenefitsTitle": "Vaše premium pogodnosti",
     "manageSubscriptionTitle": "Upravljajte vašom pretplatom",
-    "manageSubscriptionDesc": "Možete videti detalje vaše pretplate i upravljati naplatom putem stranice Podešavanja ili Tebex portala za plaćanje.",
+    "manageSubscriptionDesc": "Možete pregledati detalje svoje pretplate i upravljati naplatom putem stranice Podešavanja ili portala za plaćanje.",
     "goToSettings": "Idi na Podešavanja",
     "tebexPaymentPortal": "Tebex Portal za Plaćanje",
     "backToHome": "Nazad na početnu",
     "benefitUnlimitedPins": "Neograničene privatne oznake i rute za plen",
     "benefitUnlimitedPinsDesc": "Kreiraj neograničene privatne oznake i rute za plen na bilo kojoj mapi",
     "benefitAutoSync": "Automatska sinhronizacija skladišta",
-    "benefitAutoSyncDesc": "Automatski sinhronizuje vaše skladište, opremu i napredak iz igre svakih 30 minuta"
+    "benefitAutoSyncDesc": "Automatski sinhronizuje vaše skladište, opremu i napredak iz igre svakih 30 minuta",
+    "managedByPolar": "Pretplatom upravlja Polar",
+    "polarPaymentPortal": "Polar portal za plaćanje",
+    "upgradeToYearly": "Nadogradi na godišnji plan",
+    "upgradeToYearlyDesc": "Pređite na godišnju naplatu i uštedite 44%. Preostalo vreme mesečne pretplate biće vam uračunato.",
+    "upgradeSuccess": "Uspešna nadogradnja na godišnji plan!",
+    "upgradeError": "Nadogradnja nije uspela. Molimo pokušajte ponovo.",
+    "upgradeSaving": "Uštedite {percent}%"
   },
   "Favorites": {
     "addToList": "Dodaj u listu",
@@ -2572,7 +2588,8 @@
     }
   },
   "ItemTooltip": {
-    "onYourLists": "Na tvojim listama"
+    "onYourLists": "Na tvojim listama",
+    "tapToView": "Dodirni ponovo za prikaz detalja"
   },
   "SeasonsPage": {
     "title": "Sezone",
@@ -2643,5 +2660,196 @@
     "turnIn": "Predaj",
     "uniqueItems": "Jedinstveni predmeti",
     "valueRequirement": "Potrebna vrednost"
+  },
+  "Cipher": {
+    "alphaBadge": "Eksperimentalno",
+    "clearChat": "Očisti chat",
+    "closeCipher": "Zatvori",
+    "emptyStateDescription": "Sistemi na mreži. Pitaj me o svom skladištu, učinku u ekspedicijama, stopama plena ili bilo čemu na terenu. Odgovori možda neće uvek biti tačni — molim te proveri važne informacije.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Pitaj Cipher-a...",
+    "openCipher": "Otvori Cipher",
+    "panelTitle": "Cipher",
+    "sendMessage": "Pošalji poruku",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Skeniranje skladišta...",
+        "done": "Skladište skenirano"
+      },
+      "createChart": {
+        "active": "Generisanje prikaza...",
+        "done": "Prikaz generisan"
+      },
+      "fallbackActive": "Korišćenje {toolName}...",
+      "fallbackDone": "{toolName} iskorišćen",
+      "findBestFarmingMaps": {
+        "active": "Optimizacija ruta za farmovanje...",
+        "done": "Rute za farmovanje optimizovane"
+      },
+      "getHideoutModules": {
+        "active": "Provera modula skrovišta...",
+        "done": "Moduli skrovišta provereni"
+      },
+      "getItem": {
+        "active": "Preuzimanje podataka o predmetu...",
+        "done": "Podaci o predmetu preuzeti"
+      },
+      "getItemDropLocations": {
+        "active": "Analiza lokacija plena...",
+        "done": "Lokacije plena analizirane"
+      },
+      "getItemDropStats": {
+        "active": "Analiza stopa plena...",
+        "done": "Stope plena analizirane"
+      },
+      "getPlayerStats": {
+        "active": "Preuzimanje metrike igrača...",
+        "done": "Metrika igrača preuzeta"
+      },
+      "getQuest": {
+        "active": "Preuzimanje podataka o zadatku...",
+        "done": "Podaci o zadatku preuzeti"
+      },
+      "getRaidHistory": {
+        "active": "Preuzimanje dnevnika rejdova...",
+        "done": "Dnevnici rejdova preuzeti"
+      },
+      "getRaidStats": {
+        "active": "Obrada podataka rejda...",
+        "done": "Podaci rejda obrađeni"
+      },
+      "getUserHideoutProgress": {
+        "active": "Provera napretka skrovišta...",
+        "done": "Napredak skrovišta proveren"
+      },
+      "getUserLoadout": {
+        "active": "Preuzimanje konfiguracije opreme...",
+        "done": "Oprema preuzeta"
+      },
+      "getUserNeededItems": {
+        "active": "Računanje potrebnih predmeta...",
+        "done": "Potrebni predmeti izračunati"
+      },
+      "getUserQuestProgress": {
+        "active": "Provera napretka zadatka...",
+        "done": "Napredak zadatka proveren"
+      },
+      "getUserStash": {
+        "active": "Pristup zapisima skladišta...",
+        "done": "Pristupljeno skladištu"
+      },
+      "getWeaponDamage": {
+        "active": "Analiza štete oružja...",
+        "done": "Šteta oružja analizirana"
+      },
+      "getWeaponKills": {
+        "active": "Preuzimanje podataka o oružju...",
+        "done": "Podaci o oružju preuzeti"
+      },
+      "searchItems": {
+        "active": "Skeniranje baze predmeta...",
+        "done": "Baza predmeta skenirana"
+      },
+      "searchQuests": {
+        "active": "Skeniranje zapisa zadataka...",
+        "done": "Zapisi zadataka skenirani"
+      },
+      "getMapEvents": {
+        "active": "Provera događaja na mapi...",
+        "done": "Događaji na mapi provereni"
+      },
+      "searchCraftableItems": {
+        "active": "Pretraga recepata...",
+        "done": "Recepti pretraženi"
+      },
+      "searchSkillNodes": {
+        "active": "Pretraga stabla veština...",
+        "done": "Stablo veština pretraženo"
+      },
+      "getSkillNode": {
+        "active": "Učitavanje detalja veštine...",
+        "done": "Detalji veštine učitani"
+      },
+      "getProjects": {
+        "active": "Učitavanje projekata...",
+        "done": "Projekti učitani"
+      },
+      "getUserLists": {
+        "active": "Učitavanje vaših lista...",
+        "done": "Vaše liste učitane"
+      },
+      "getListItems": {
+        "active": "Učitavanje stavki liste...",
+        "done": "Stavke liste učitane"
+      },
+      "addItemToList": {
+        "active": "Dodavanje u listu...",
+        "denied": "Otkazano",
+        "done": "Dodato u listu"
+      },
+      "removeItemFromList": {
+        "active": "Uklanjanje iz liste...",
+        "denied": "Otkazano",
+        "done": "Uklonjeno iz liste"
+      },
+      "createList": {
+        "active": "Kreiranje liste...",
+        "denied": "Otkazano",
+        "done": "Lista kreirana"
+      },
+      "deleteList": {
+        "active": "Brisanje liste...",
+        "denied": "Otkazano",
+        "done": "Lista obrisana"
+      },
+      "fallbackDenied": "Otkazano {toolName}",
+      "getItemFarmingContext": {
+        "active": "Analiziranje konteksta farmanja...",
+        "done": "Analiziran kontekst farmanja"
+      }
+    },
+    "approval": {
+      "addItemToList": "Dodaj \"{itemName}\" u \"{listName}\"",
+      "approve": "Odobri",
+      "createList": "Kreiraj listu \"{name}\"",
+      "deleteList": "Obriši listu \"{listName}\"",
+      "deleteWarning": "Ovo će ukloniti listu i {count, plural, one {# stavku} other {# stavki}} u njoj.",
+      "deny": "Odbij",
+      "removeItemFromList": "Ukloni \"{itemName}\" iz \"{listName}\""
+    },
+    "feedback": {
+      "helpful": "Koristan odgovor",
+      "notHelpful": "Nekoristan odgovor"
+    },
+    "confirmation": {
+      "denied": "Radnja otkazana",
+      "error": "Nešto je pošlo po zlu",
+      "executing": "Izvršavanje...",
+      "success": {
+        "addItemToList": "Dodato na listu",
+        "createList": "Lista kreirana",
+        "deleteList": "Lista obrisana",
+        "generic": "Gotovo",
+        "removeItemFromList": "Uklonjeno sa liste"
+      }
+    },
+    "privateBetaNotice": "Privatna beta — samo za saradnike. Molimo vas da diskusiju vodite u kanalu za saradnike."
+  },
+  "TradersPage": {
+    "itemsForSale": "predmeti na prodaju",
+    "quests": "zadaci",
+    "title": "Trgovci"
+  },
+  "TraderPage": {
+    "backToTraders": "Nazad na Trgovce",
+    "coins": "Novčići",
+    "limit": "Limit",
+    "noQuests": "Nema zadataka",
+    "noShopItems": "Nema predmeta na prodaju",
+    "quests": "Zadaci",
+    "refresh": "osvežavanje",
+    "shop": "Prodavnica",
+    "traderNotFound": "Trgovac nije pronađen",
+    "traderNotFoundDesc": "Trgovac kojeg tražite ne postoji."
   }
 }

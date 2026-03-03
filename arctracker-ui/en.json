@@ -3,10 +3,10 @@
     "welcomeTitle": "Welcome to ARCTracker!",
     "wipeCountdown": {
       "title": "Expedition Project Ends:",
-      "description": "Season 1 is coming to a close. Confirm your Expedition Project progress to save your Season 1 stats and prepare your ARCTracker account for Season 2.",
+      "description": "Expedition 1 is coming to a close. Confirm your Expedition Project progress to save your Expedition 1 stats and prepare your ARCTracker account for Expedition 2.",
       "openWizard": "Confirm Expedition Project",
       "availableSoon": "Available when the countdown ends",
-      "viewSeasonHistory": "View Season History",
+      "viewSeasonHistory": "View Expedition History",
       "days": "days",
       "hours": "hours",
       "minutes": "min",
@@ -75,7 +75,8 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "stash": "Stash",
-    "seasons": "Seasons"
+    "seasons": "Expeditions",
+    "traders": "Traders"
   },
   "MapEvents": {
     "startsIn": "Starts in",
@@ -197,9 +198,9 @@
     "phases": "phases",
     "required": "Required",
     "submitItemsValue": "Submit items worth the required value to complete this phase.",
-    "season1": "Season 1",
-    "season2": "Season 2",
-    "season3": "Season 3",
+    "season1": "Expedition 1",
+    "season2": "Expedition 2",
+    "season3": "Expedition 3",
     "stashModeActive": "Counts from synced stash",
     "lastSynced": "Synced",
     "syncStash": "Sync stash"
@@ -557,6 +558,12 @@
     "dropRates": "Drop Rates",
     "attachments": "Attachments",
     "usedInCrafting": "Used in Crafting",
+    "soldByTraders": "Sold by Traders",
+    "vendorCost": "Cost",
+    "vendorLimit": "Limit: {count}",
+    "vendorRefreshDaily": "Restocks daily",
+    "vendorRefreshHourly": "Restocks hourly",
+    "vendorRefreshHours": "Restocks every {hours}h",
     "dropStats": {
       "title": "Drop Statistics",
       "dataSourceDesc": "Shows the % chance of extracting with this item from each map/event, based on raids logged by players using the Raid History tool.",
@@ -587,7 +594,8 @@
     }
   },
   "ItemTooltip": {
-    "onYourLists": "On Your Lists"
+    "onYourLists": "On Your Lists",
+    "tapToView": "Tap again to view details"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Search items...",
@@ -607,6 +615,23 @@
     "hideoutSection": "Hideout Updates",
     "noContent": "No new content in this category",
     "backToHome": "Back to Home"
+  },
+  "TradersPage": {
+    "title": "Traders",
+    "itemsForSale": "items for sale",
+    "quests": "quests"
+  },
+  "TraderPage": {
+    "backToTraders": "Back to Traders",
+    "shop": "Shop",
+    "quests": "Quests",
+    "noShopItems": "No items for sale",
+    "noQuests": "No quests",
+    "coins": "Coins",
+    "limit": "Limit",
+    "refresh": "refresh",
+    "traderNotFound": "Trader Not Found",
+    "traderNotFoundDesc": "The trader you're looking for doesn't exist."
   },
   "Metadata": {
     "homeTitle": "ARC Raiders Progress Tracker",
@@ -663,7 +688,9 @@
     "stashTitle": "Stash Tracker - ARC Raiders",
     "stashDescription": "Automatically sync and track your ARC Raiders stash inventory, loadout, and currencies. Link your game account for real-time updates.",
     "projectNotFoundTitle": "Project Not Found - ARC Raiders",
-    "projectNotFoundDescription": "The requested project could not be found."
+    "projectNotFoundDescription": "The requested project could not be found.",
+    "tradersTitle": "Traders - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Browse all traders in ARC Raiders. View shop inventory and associated quests for each trader."
   },
   "OverlayPage": {
     "pageTitle": "Overlay Companion App",
@@ -970,6 +997,7 @@
     "cancelConfirmDescription": "You will continue to have premium access until your current billing period ends.",
     "cancelSuccess": "Your subscription has been marked for cancellation.",
     "managedByTebex": "Subscription managed by Tebex",
+    "managedByPolar": "Subscription managed by Polar",
     "manageSubscription": "Manage Subscription",
     "subscribePageTitle": "Go Premium",
     "subscribePageSubtitle": "Support ARCTracker development and enjoy an ad-free experience",
@@ -1025,10 +1053,16 @@
     "premiumActivatedDesc": "Thank you for supporting ARCTracker! Your premium subscription is now active.",
     "premiumBenefitsTitle": "Your Premium Benefits",
     "manageSubscriptionTitle": "Manage Your Subscription",
-    "manageSubscriptionDesc": "You can view your subscription details and manage your billing through the Settings page or Tebex payment portal.",
+    "manageSubscriptionDesc": "You can view your subscription details and manage your billing through the Settings page or payment portal.",
     "goToSettings": "Go to Settings",
     "tebexPaymentPortal": "Tebex Payment Portal",
-    "backToHome": "Back to Home"
+    "polarPaymentPortal": "Polar Payment Portal",
+    "backToHome": "Back to Home",
+    "upgradeToYearly": "Upgrade to Yearly",
+    "upgradeToYearlyDesc": "Switch to yearly billing and save 44%. You'll be credited for your remaining monthly time.",
+    "upgradeSuccess": "Successfully upgraded to yearly!",
+    "upgradeError": "Failed to upgrade. Please try again.",
+    "upgradeSaving": "Save {percent}%"
   },
   "Favorites": {
     "addToList": "Add to List",
@@ -1468,8 +1502,8 @@
     "filterStatus": "Status",
     "allMaps": "All Maps",
     "allStatuses": "All Statuses",
-    "filterSeason": "Season",
-    "allSeasons": "All Seasons",
+    "filterSeason": "Expedition",
+    "allSeasons": "All Expeditions",
     "dateFrom": "From",
     "dateTo": "To",
     "sort": "Sort",
@@ -1792,7 +1826,7 @@
       "getStarted": "Get Started",
       "featuresTitle": "Everything You Need",
       "screenshotDashboardTitle": "See It In Action",
-      "screenshotDashboardDesc": "View comprehensive stats, filter by map/season, and analyze your raid performance over time."
+      "screenshotDashboardDesc": "View comprehensive stats, filter by map/expedition, and analyze your raid performance over time."
     }
   },
   "RaidSync": {
@@ -1847,21 +1881,21 @@
     }
   },
   "SeasonHistoryPage": {
-    "title": "Season History",
-    "selectSeason": "Select Season",
-    "season": "Season {number}",
-    "seasonComplete": "Season {number} Complete!",
+    "title": "Expedition History",
+    "selectSeason": "Select Expedition",
+    "season": "Expedition {number}",
+    "seasonComplete": "Expedition {number} Complete!",
     "completedOn": "Completed on {date}",
-    "noHistory": "No Season History",
-    "noHistoryDescription": "You haven't completed any season wipes yet. Complete the End of Season wizard to save your progress.",
-    "noDataForSeason": "No data for this season",
+    "noHistory": "No Expedition History",
+    "noHistoryDescription": "You haven't completed any expedition departures yet. Complete the departure wizard to save your progress.",
+    "noDataForSeason": "No data for this expedition",
     "stashCredits": "Stash Credits",
     "bonusPoints": "Bonus Skill Points",
     "playerLevel": "Player Level",
     "questsCompleted": "Quests",
     "hideoutModules": "Hideout",
     "blueprintsLearned": "Blueprints",
-    "earnedForNextSeason": "Skill Points earned for next season",
+    "earnedForNextSeason": "Skill Points earned for next expedition",
     "tabs": {
       "quests": "Quests",
       "hideout": "Hideout",
@@ -1884,12 +1918,12 @@
       "noBlueprints": "No blueprints learned"
     },
     "inferred": {
-      "title": "Season {number} completed",
-      "description": "This season completion was detected from your ARC Raiders expedition sync.",
+      "title": "Expedition {number} completed",
+      "description": "This expedition completion was detected from your ARC Raiders expedition sync.",
       "completedViaLabel": "Completion source",
       "completedViaValue": "ARC Raiders expedition progress",
       "detailsLabel": "Detailed stats",
-      "detailsValue": "Not available for this season."
+      "detailsValue": "Not available for this expedition."
     },
     "edit": {
       "button": "Edit",
@@ -1902,46 +1936,46 @@
     }
   },
   "SeasonsPage": {
-    "title": "Seasons",
-    "metaDescription": "Track your ARC Raiders expedition season, manage departures, and review season history in ARCTracker.",
+    "title": "Expeditions",
+    "metaDescription": "Track your ARC Raiders expedition progress, manage departures, and review expedition history in ARCTracker.",
     "currentSeason": "You are currently on {name}",
     "seasonStarted": "Started {date}",
     "seasonEnds": "Ends {date}",
     "questionnaire": {
-      "title": "Find your expedition season",
-      "description": "New to ARCTracker? Pick the item you see in Phase 1 of your expedition project so we can set the right season.",
+      "title": "Find your expedition",
+      "description": "New to ARCTracker? Pick the item you see in Phase 1 of your expedition project so we can set the right expedition.",
       "requiredQuantity": "Required: {count}",
-      "success": "Set active season to {season}.",
-      "retakeButton": "Retake season questionnaire"
+      "success": "Set active expedition to {season}.",
+      "retakeButton": "Retake expedition questionnaire"
     },
     "departure": {
       "title": "Depart {season}",
       "loadingTitle": "Loading departure status",
-      "description": "Ready to depart? Save your progress snapshot and reset for the next season. Your skill tree allocations and non-expedition project progress will be preserved.",
+      "description": "Ready to depart? Save your progress snapshot and reset for the next expedition. Your skill tree allocations and non-expedition project progress will be preserved.",
       "willReset": "Will reset",
       "bonusInfo": "Bonus Skill Points",
       "bonusDescription": "Earn 1 bonus skill point per {creditsPerPoint} stash credits (max {maxPoints} points)",
       "startButton": "Start Departure",
-      "notYetAvailable": "The departure window is not yet open. Check back when the season ends.",
+      "notYetAvailable": "The departure window is not yet open. Check back when the expedition ends.",
       "opensIn": "Departure opens in {countdown}",
       "opensAt": "Opens at {date}",
       "alreadyDeparted": "Departure Complete",
-      "alreadyDepartedDescription": "You have already departed this season. View your season stats in the history below.",
+      "alreadyDepartedDescription": "You have already departed this expedition. View your expedition stats in the history below.",
       "confirmTitle": "Confirm Departure",
       "confirmWarning": "This action cannot be undone. Your quest progress, hideout, and blueprints will be reset.",
       "confirmButton": "Confirm & Depart",
       "bonusEarned": "Bonus earned",
       "successTitle": "Departure Complete!",
-      "successDescription": "Your {season} progress has been saved. Good luck in the next season!"
+      "successDescription": "Your {season} progress has been saved. Good luck in the next expedition!"
     },
-    "autoResetDetected": "Season {season} departure detected!",
-    "autoResetDescription": "We detected your departure via Embark sync. Your progress has been automatically saved. You can update your stash credits and player level in the season history below.",
+    "autoResetDetected": "{season} departure detected!",
+    "autoResetDescription": "We detected your departure via Embark sync. Your progress has been automatically saved. You can update your stash credits and player level in the expedition history below.",
     "expedition": {
       "title": "Expedition",
-      "description": "Season departures for linked ARC Raiders accounts are automatic.",
+      "description": "Departures for linked ARC Raiders accounts are automatic.",
       "currentState": "Current expedition state",
       "completedExpeditions": "Completed expeditions",
-      "activeSeason": "Active season",
+      "activeSeason": "Active expedition",
       "syncButton": "Sync Expedition",
       "syncingButton": "Syncing...",
       "syncError": "Failed to sync expedition status.",
@@ -1976,14 +2010,14 @@
       "blueprints": "Blueprints",
       "itemProgress": "Item Progress",
       "step1": {
-        "title": "End of Season 1",
-        "description": "Season 1 is ending! Complete this wizard to save your progress snapshot and prepare for Season 2.",
+        "title": "End of Expedition 1",
+        "description": "Expedition 1 is ending! Complete this wizard to save your progress snapshot and prepare for Expedition 2.",
         "bonusPoints": "Earn bonus skill points based on your stash credits (1 point per 1M credits, up to 5)",
-        "snapshot": "Your current progress will be saved to your season history",
-        "reset": "Your quest, hideout, and skill progress will be reset for Season 2"
+        "snapshot": "Your current progress will be saved to your expedition history",
+        "reset": "Your quest, hideout, and skill progress will be reset for Expedition 2"
       },
       "step2": {
-        "title": "Enter Your Season Progress",
+        "title": "Enter Your Expedition Progress",
         "description": "Enter your current stash credit value and player level from ARC Raiders.",
         "creditsLabel": "Stash Credits",
         "creditsHelp": "You can find this value in your ARC Raiders Expedition screen.",
@@ -1993,21 +2027,21 @@
         "bonusPointsInfo": "You earn 1 bonus skill point for every {perMillion} credits (max 5 points)"
       },
       "step3": {
-        "title": "Confirm Season Reset",
+        "title": "Confirm Expedition Reset",
         "description": "This action cannot be undone. Please review the summary below before confirming.",
         "stashCredits": "Stash Credits",
         "playerLevel": "Player Level",
         "bonusPoints": "Bonus Skill Points",
         "willBeReset": "The following will be reset",
-        "confirmButton": "Complete Season & Reset Progress"
+        "confirmButton": "Complete Expedition & Reset Progress"
       },
       "step4": {
-        "title": "Season 1 Complete!",
-        "titleAlreadyDone": "Season 1 Already Completed",
-        "description": "Your progress has been saved and your tracker has been reset for Season 2.",
-        "descriptionAlreadyDone": "You've already completed the Season 1 wipe. Here's your saved progress.",
-        "forSeason2": "Earned for Season 2",
-        "seasonStats": "Your Season 1 Stats",
+        "title": "Expedition 1 Complete!",
+        "titleAlreadyDone": "Expedition 1 Already Completed",
+        "description": "Your progress has been saved and your tracker has been reset for Expedition 2.",
+        "descriptionAlreadyDone": "You've already completed the Expedition 1 wipe. Here's your saved progress.",
+        "forSeason2": "Earned for Expedition 2",
+        "seasonStats": "Your Expedition 1 Stats",
         "credits": "Stash Credits",
         "level": "Player Level",
         "quests": "Quests Completed",
@@ -2113,11 +2147,11 @@
     "noRaidsFiltered": "No raids match your current filters.",
     "filterMap": "Map",
     "filterStatus": "Status",
-    "filterSeason": "Season",
+    "filterSeason": "Expedition",
     "filterMember": "Member",
     "allMaps": "All Maps",
     "allStatuses": "All Statuses",
-    "allSeasons": "All Seasons",
+    "allSeasons": "All Expeditions",
     "allMembers": "All Members",
     "clearFilters": "Clear Filters",
     "showingRaids": "Showing {from}-{to} of {total} raids",
@@ -2547,9 +2581,9 @@
     "endpointItems": "All items with multilingual names, descriptions, and effects. Static response, no parameters.",
     "endpointQuests": "All quests with multilingual details, objectives, and rewards. Static response, no parameters.",
     "endpointHideout": "All hideout modules with multilingual names, levels, and requirements. Static response, no parameters.",
-    "endpointProjects": "All projects with multilingual names and phases. Supports season filtering.",
+    "endpointProjects": "All projects with multilingual names and phases. Supports expedition filtering.",
     "paramLocale": "Language code (e.g., en, de, fr). Defaults to en.",
-    "paramSeason": "Filter by season: 1, 2, or comma-separated (e.g., 1,2).",
+    "paramSeason": "Filter by expedition: 1, 2, or comma-separated (e.g., 1,2).",
     "authentication": "Authentication",
     "authenticationDescription": "User data endpoints use a dual-key system. Your app sends both an app key and a user key with each request. This ensures users explicitly consent to sharing their data.",
     "authStep1Title": "Register your app",
@@ -2574,7 +2608,7 @@
     "paramPerPage": "Items per page, max 500 (default: 50).",
     "paramSort": "Sort by: slot (default), name, quantity.",
     "paramFilter": "Filter: completed, incomplete.",
-    "paramSeasonFilter": "Filter by season: 1, 2.",
+    "paramSeasonFilter": "Filter by expedition: 1, 2.",
     "rateLimits": "Rate Limits",
     "rateLimitsDescription": "Each app gets 500 requests per hour by default. Rate limit info is included in response headers. You can request a higher limit from the Developer Dashboard.",
     "rateLimitHeader": "Maximum requests allowed per window.",
@@ -2618,6 +2652,80 @@
     "killTargets": {
       "player": "Player",
       "squadmate": "Squadmate"
+    }
+  },
+  "Cipher": {
+    "panelTitle": "Cipher",
+    "alphaBadge": "Experimental",
+    "emptyStateTitle": "Cipher",
+    "emptyStateDescription": "Systems online. Ask me about your stash, raid performance, drop rates, or anything about the field. Responses may not always be accurate — please verify important information.",
+    "privateBetaNotice": "Private beta — contributors only. Please keep discussion to the contributor channel.",
+    "inputPlaceholder": "Ask Cipher...",
+    "clearChat": "Clear chat",
+    "openCipher": "Open Cipher",
+    "closeCipher": "Close",
+    "sendMessage": "Send message",
+    "tools": {
+      "searchItems": { "active": "Scanning item database...", "done": "Scanned item database" },
+      "getItem": { "active": "Pulling item data...", "done": "Pulled item data" },
+      "getItemDropLocations": { "active": "Analyzing drop locations...", "done": "Analyzed drop locations" },
+      "searchQuests": { "active": "Scanning quest records...", "done": "Scanned quest records" },
+      "getQuest": { "active": "Pulling quest data...", "done": "Pulled quest data" },
+      "getHideoutModules": { "active": "Checking hideout modules...", "done": "Checked hideout modules" },
+      "getUserQuestProgress": { "active": "Checking quest progress...", "done": "Checked quest progress" },
+      "getUserHideoutProgress": { "active": "Checking hideout progress...", "done": "Checked hideout progress" },
+      "getUserNeededItems": { "active": "Calculating needed items...", "done": "Calculated needed items" },
+      "getUserStash": { "active": "Accessing stash records...", "done": "Accessed stash" },
+      "getUserLoadout": { "active": "Pulling loadout config...", "done": "Pulled loadout" },
+      "checkStashForItem": { "active": "Scanning stash...", "done": "Scanned stash" },
+      "getRaidHistory": { "active": "Pulling raid logs...", "done": "Pulled raid logs" },
+      "getRaidStats": { "active": "Crunching raid data...", "done": "Crunched raid data" },
+      "getPlayerStats": { "active": "Pulling player metrics...", "done": "Pulled player metrics" },
+      "getWeaponKills": { "active": "Pulling weapon data...", "done": "Pulled weapon data" },
+      "getWeaponDamage": { "active": "Analyzing weapon damage...", "done": "Analyzed weapon damage" },
+      "getItemDropStats": { "active": "Analyzing drop rates...", "done": "Analyzed drop rates" },
+      "getItemFarmingContext": { "active": "Analyzing farming context...", "done": "Analyzed farming context" },
+      "findBestFarmingMaps": { "active": "Optimizing farming routes...", "done": "Optimized farming routes" },
+      "getMapEvents": { "active": "Checking map events...", "done": "Checked map events" },
+      "createChart": { "active": "Generating visual...", "done": "Generated visual" },
+      "searchCraftableItems": { "active": "Searching recipes...", "done": "Searched recipes" },
+      "searchSkillNodes": { "active": "Searching skill tree...", "done": "Searched skill tree" },
+      "getSkillNode": { "active": "Loading skill details...", "done": "Loaded skill details" },
+      "getProjects": { "active": "Loading projects...", "done": "Loaded projects" },
+      "getUserLists": { "active": "Loading your lists...", "done": "Loaded your lists" },
+      "getListItems": { "active": "Loading list items...", "done": "Loaded list items" },
+      "addItemToList": { "active": "Adding to list...", "done": "Added to list", "denied": "Cancelled" },
+      "removeItemFromList": { "active": "Removing from list...", "done": "Removed from list", "denied": "Cancelled" },
+      "createList": { "active": "Creating list...", "done": "Created list", "denied": "Cancelled" },
+      "deleteList": { "active": "Deleting list...", "done": "Deleted list", "denied": "Cancelled" },
+      "fallbackActive": "Using {toolName}...",
+      "fallbackDone": "Used {toolName}",
+      "fallbackDenied": "Cancelled {toolName}"
+    },
+    "approval": {
+      "approve": "Approve",
+      "deny": "Deny",
+      "addItemToList": "Add \"{itemName}\" to \"{listName}\"",
+      "removeItemFromList": "Remove \"{itemName}\" from \"{listName}\"",
+      "createList": "Create list \"{name}\"",
+      "deleteList": "Delete list \"{listName}\"",
+      "deleteWarning": "This will remove the list and all {count, plural, one {# item} other {# items}} in it."
+    },
+    "confirmation": {
+      "executing": "Executing...",
+      "denied": "Action cancelled",
+      "error": "Something went wrong",
+      "success": {
+        "addItemToList": "Added to list",
+        "removeItemFromList": "Removed from list",
+        "createList": "List created",
+        "deleteList": "List deleted",
+        "generic": "Done"
+      }
+    },
+    "feedback": {
+      "helpful": "Helpful response",
+      "notHelpful": "Unhelpful response"
     }
   }
 }

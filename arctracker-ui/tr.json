@@ -75,7 +75,8 @@
     "discordBot": "Discord Botu",
     "squads": "Ekipler",
     "stash": "Depo",
-    "seasons": "Sezonlar"
+    "seasons": "Sezonlar",
+    "traders": "Tüccarlar"
   },
   "MapEvents": {
     "startsIn": "Başlangıç",
@@ -577,7 +578,13 @@
     "inRaidCrafting": "Baskın İçi Üretim",
     "attachments": "Eklentiler",
     "upgradePath": "Yükseltme Yolu",
-    "currentTier": "Mevcut"
+    "currentTier": "Mevcut",
+    "soldByTraders": "Tüccarlar Tarafından Satılır",
+    "vendorCost": "Maliyet",
+    "vendorLimit": "Limit: {count}",
+    "vendorRefreshDaily": "Günlük yenilenir",
+    "vendorRefreshHourly": "Saatlik yenilenir",
+    "vendorRefreshHours": "Her {hours} saatte bir yenilenir"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Eşyaları ara...",
@@ -653,7 +660,9 @@
     "stashTitle": "Depo Takipçisi - ARC Raiders",
     "stashDescription": "ARC Raiders depo envanterini, teçhizatını ve para birimlerini otomatik olarak eşitle ve takip et. Gerçek zamanlı güncellemeler için oyun hesabını bağla.",
     "projectNotFoundTitle": "Proje Bulunamadı - ARC Raiders",
-    "projectNotFoundDescription": "İstenen proje bulunamadı."
+    "projectNotFoundDescription": "İstenen proje bulunamadı.",
+    "tradersTitle": "Tüccarlar - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "ARC Raiders'daki tüm tüccarlara göz atın. Her tüccar için mağaza envanterini ve ilgili görevleri görüntüleyin."
   },
   "OverlayPage": {
     "pageTitle": "Arayüz Yardımcı Uygulaması",
@@ -820,14 +829,21 @@
     "premiumActivatedDesc": "ARCTracker'ı desteklediğiniz için teşekkürler! Premium aboneliğiniz artık aktif.",
     "premiumBenefitsTitle": "Premium Avantajlarınız",
     "manageSubscriptionTitle": "Aboneliğinizi Yönetin",
-    "manageSubscriptionDesc": "Ayarlar sayfasından veya Tebex ödeme portalından abonelik detaylarınızı görüntüleyebilir ve faturalandırmanızı yönetebilirsiniz.",
+    "manageSubscriptionDesc": "Abonelik detaylarınızı görüntüleyebilir ve fatura işlemlerinizi Ayarlar sayfası veya ödeme portalı üzerinden yönetebilirsiniz.",
     "goToSettings": "Ayarlara Git",
     "tebexPaymentPortal": "Tebex Ödeme Portalı",
     "backToHome": "Ana Sayfaya Dön",
     "benefitUnlimitedPins": "Sınırsız Özel İğne ve Ganimet Turları",
     "benefitUnlimitedPinsDesc": "Herhangi bir haritada sınırsız özel harita iğnesi ve ganimet turu rotası oluşturun",
     "benefitAutoSync": "Otomatik Depo Eşitleme",
-    "benefitAutoSyncDesc": "Oyundaki deponu, teçhizatını ve ilerlemeni her 30 dakikada bir otomatik olarak eşitler"
+    "benefitAutoSyncDesc": "Oyundaki deponu, teçhizatını ve ilerlemeni her 30 dakikada bir otomatik olarak eşitler",
+    "managedByPolar": "Abonelik Polar tarafından yönetilmektedir",
+    "polarPaymentPortal": "Polar Ödeme Portalı",
+    "upgradeToYearly": "Yıllık Plana Yükselt",
+    "upgradeToYearlyDesc": "Yıllık ödemeye geç ve %44 tasarruf et. Kalan aylık süreniz hesabınıza kredi olarak yansıtılacaktır.",
+    "upgradeSuccess": "Başarıyla yıllık plana yükseltildi!",
+    "upgradeError": "Yükseltme başarısız. Lütfen tekrar deneyin.",
+    "upgradeSaving": "%{percent} Tasarruf Et"
   },
   "Favorites": {
     "addToList": "Listeye Ekle",
@@ -2572,7 +2588,8 @@
     }
   },
   "ItemTooltip": {
-    "onYourLists": "Listelerinizde"
+    "onYourLists": "Listelerinizde",
+    "tapToView": "Ayrıntıları görüntülemek için tekrar dokunun"
   },
   "SeasonsPage": {
     "title": "Sezonlar",
@@ -2643,5 +2660,196 @@
     "turnIn": "Teslim Et",
     "uniqueItems": "Benzersiz Eşyalar",
     "valueRequirement": "Değer Gereksinimi"
+  },
+  "Cipher": {
+    "alphaBadge": "Deneysel",
+    "clearChat": "Sohbeti temizle",
+    "closeCipher": "Kapat",
+    "emptyStateDescription": "Sistemler çevrimiçi. Bana zulan, baskın performansın, düşme oranları veya sahayla ilgili herhangi bir şey sorabilirsin. Yanıtlar her zaman doğru olmayabilir — lütfen önemli bilgileri doğrula.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Cipher'a sor...",
+    "openCipher": "Cipher'ı Aç",
+    "panelTitle": "Cipher",
+    "sendMessage": "Mesaj gönder",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Depo taranıyor...",
+        "done": "Depo tarandı"
+      },
+      "createChart": {
+        "active": "Görsel oluşturuluyor...",
+        "done": "Görsel oluşturuldu"
+      },
+      "fallbackActive": "{toolName} kullanılıyor...",
+      "fallbackDone": "{toolName} kullanıldı",
+      "findBestFarmingMaps": {
+        "active": "Farm rotaları optimize ediliyor...",
+        "done": "Farm rotaları optimize edildi"
+      },
+      "getHideoutModules": {
+        "active": "Sığınak modülleri kontrol ediliyor...",
+        "done": "Sığınak modülleri kontrol edildi"
+      },
+      "getItem": {
+        "active": "Eşya verileri çekiliyor...",
+        "done": "Eşya verileri çekildi"
+      },
+      "getItemDropLocations": {
+        "active": "Düşme konumları analiz ediliyor...",
+        "done": "Düşme konumları analiz edildi"
+      },
+      "getItemDropStats": {
+        "active": "Düşme oranları analiz ediliyor...",
+        "done": "Düşme oranları analiz edildi"
+      },
+      "getPlayerStats": {
+        "active": "Oyuncu verileri çekiliyor...",
+        "done": "Oyuncu verileri çekildi"
+      },
+      "getQuest": {
+        "active": "Görev verileri çekiliyor...",
+        "done": "Görev verileri çekildi"
+      },
+      "getRaidHistory": {
+        "active": "Baskın kayıtları çekiliyor...",
+        "done": "Baskın kayıtları çekildi"
+      },
+      "getRaidStats": {
+        "active": "Baskın verileri işleniyor...",
+        "done": "Baskın verileri işlendi"
+      },
+      "getUserHideoutProgress": {
+        "active": "Sığınak ilerlemesi kontrol ediliyor...",
+        "done": "Sığınak ilerlemesi kontrol edildi"
+      },
+      "getUserLoadout": {
+        "active": "Teçhizat yapılandırması çekiliyor...",
+        "done": "Teçhizat çekildi"
+      },
+      "getUserNeededItems": {
+        "active": "Gerekli eşyalar hesaplanıyor...",
+        "done": "Gerekli eşyalar hesaplandı"
+      },
+      "getUserQuestProgress": {
+        "active": "Görev ilerlemesi kontrol ediliyor...",
+        "done": "Görev ilerlemesi kontrol edildi"
+      },
+      "getUserStash": {
+        "active": "Depo kayıtlarına erişiliyor...",
+        "done": "Depoya erişildi"
+      },
+      "getWeaponDamage": {
+        "active": "Silah hasarı analiz ediliyor...",
+        "done": "Silah hasarı analiz edildi"
+      },
+      "getWeaponKills": {
+        "active": "Silah verileri çekiliyor...",
+        "done": "Silah verileri çekildi"
+      },
+      "searchItems": {
+        "active": "Eşya veritabanı taranıyor...",
+        "done": "Eşya veritabanı tarandı"
+      },
+      "searchQuests": {
+        "active": "Görev kayıtları taranıyor...",
+        "done": "Görev kayıtları tarandı"
+      },
+      "getMapEvents": {
+        "active": "Harita etkinlikleri kontrol ediliyor...",
+        "done": "Harita etkinlikleri kontrol edildi"
+      },
+      "searchCraftableItems": {
+        "active": "Tarifler aranıyor...",
+        "done": "Tarifler arandı"
+      },
+      "searchSkillNodes": {
+        "active": "Yetenek ağacı aranıyor...",
+        "done": "Yetenek ağacı arandı"
+      },
+      "getSkillNode": {
+        "active": "Yetenek detayları yükleniyor...",
+        "done": "Yetenek detayları yüklendi"
+      },
+      "getProjects": {
+        "active": "Projeler yükleniyor...",
+        "done": "Projeler yüklendi"
+      },
+      "getUserLists": {
+        "active": "Listeleriniz yükleniyor...",
+        "done": "Listeleriniz yüklendi"
+      },
+      "getListItems": {
+        "active": "Liste öğeleri yükleniyor...",
+        "done": "Liste öğeleri yüklendi"
+      },
+      "addItemToList": {
+        "active": "Listeye ekleniyor...",
+        "denied": "İptal edildi",
+        "done": "Listeye eklendi"
+      },
+      "removeItemFromList": {
+        "active": "Listeden çıkarılıyor...",
+        "denied": "İptal edildi",
+        "done": "Listeden çıkarıldı"
+      },
+      "createList": {
+        "active": "Liste oluşturuluyor...",
+        "denied": "İptal edildi",
+        "done": "Liste oluşturuldu"
+      },
+      "deleteList": {
+        "active": "Liste siliniyor...",
+        "denied": "İptal edildi",
+        "done": "Liste silindi"
+      },
+      "fallbackDenied": "{toolName} iptal edildi",
+      "getItemFarmingContext": {
+        "active": "Farming bağlamı analiz ediliyor...",
+        "done": "Farming bağlamı analiz edildi"
+      }
+    },
+    "approval": {
+      "addItemToList": "\"{itemName}\" ögesini \"{listName}\" listesine ekle",
+      "approve": "Onayla",
+      "createList": "\"{name}\" listesini oluştur",
+      "deleteList": "\"{listName}\" listesini sil",
+      "deleteWarning": "Bu işlem listeyi ve içindeki {count, plural, one {# öğeyi} other {# öğeyi}} silecek.",
+      "deny": "Reddet",
+      "removeItemFromList": "\"{itemName}\" ögesini \"{listName}\" listesinden çıkar"
+    },
+    "feedback": {
+      "helpful": "Yararlı yanıt",
+      "notHelpful": "Yararsız yanıt"
+    },
+    "confirmation": {
+      "denied": "İşlem iptal edildi",
+      "error": "Bir şeyler ters gitti",
+      "executing": "Yürütülüyor...",
+      "success": {
+        "addItemToList": "Listeye eklendi",
+        "createList": "Liste oluşturuldu",
+        "deleteList": "Liste silindi",
+        "generic": "Tamamlandı",
+        "removeItemFromList": "Listeden kaldırıldı"
+      }
+    },
+    "privateBetaNotice": "Özel beta — yalnızca katkıda bulunanlar içindir. Lütfen tartışmaları katkıda bulunanlar kanalında yapın."
+  },
+  "TradersPage": {
+    "itemsForSale": "satılık eşyalar",
+    "quests": "görevler",
+    "title": "Tüccarlar"
+  },
+  "TraderPage": {
+    "backToTraders": "Tüccarlara Dön",
+    "coins": "Jetonlar",
+    "limit": "Limit",
+    "noQuests": "Görev yok",
+    "noShopItems": "Satılık eşya yok",
+    "quests": "Görevler",
+    "refresh": "yenileme",
+    "shop": "Mağaza",
+    "traderNotFound": "Tüccar Bulunamadı",
+    "traderNotFoundDesc": "Aradığınız tüccar mevcut değil."
   }
 }
