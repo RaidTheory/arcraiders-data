@@ -75,7 +75,8 @@
     "terms": "利用規約",
     "squads": "スクワッド",
     "stash": "スタッシュ",
-    "seasons": "シーズン"
+    "seasons": "シーズン",
+    "traders": "トレーダー"
   },
   "MapEvents": {
     "startsIn": "開始まで",
@@ -102,16 +103,16 @@
       "coldSnap": "寒波",
       "lockedGate": "鍵のかかった門",
       "matriarch": "マトリアーク",
-      "harvester": "収穫機",
+      "harvester": "ハーベスター",
       "lushBlooms": "収穫の季節",
-      "prospectingProbes": "探査機",
+      "prospectingProbes": "調査中のプローブ",
       "huskGraveyard": "残骸の墓場",
-      "uncoveredCaches": "さらされた宝箱",
+      "uncoveredCaches": "さらされた隠匿物",
       "launchTowerLoot": "発射塔の戦利品",
       "hiddenBunker": "隠された貯蔵庫",
       "none": "なし",
       "birdCity": "鳥の街",
-      "hurricane": "ハリケーン"
+      "hurricane": "台風"
     }
   },
   "Common": {
@@ -450,7 +451,7 @@
     "Augment": "オーグメント",
     "Backpack Attachment": "リュック・アタッチメント",
     "Backpack Charm": "リュックチャーム",
-    "Basic Material": "基本資材",
+    "Basic Material": "基本素材",
     "Battle Rifle": "バトルライフル",
     "Blueprint": "設計図",
     "Cosmetic": "コスメティック",
@@ -460,13 +461,13 @@
     "LMG": "LMG",
     "Material": "資材",
     "Misc": "その他",
-    "Modification": "改造パーツ",
+    "Modification": "改造",
     "Nature": "自然",
     "Outfit": "服",
     "Pistol": "ピストル",
     "Quick Use": "クイック使用",
     "Recyclable": "リサイクル可能",
-    "Refined Material": "精製資材",
+    "Refined Material": "精製素材",
     "Shield": "シールド",
     "Shotgun": "ショットガン",
     "SMG": "SMG",
@@ -584,7 +585,13 @@
     },
     "attachments": "アタッチメント",
     "upgradePath": "アップグレードパス",
-    "currentTier": "現在"
+    "currentTier": "現在",
+    "soldByTraders": "販売トレーダー",
+    "vendorCost": "価格",
+    "vendorLimit": "購入制限: {count}",
+    "vendorRefreshDaily": "毎日入荷",
+    "vendorRefreshHourly": "1時間ごとに入荷",
+    "vendorRefreshHours": "{hours}時間ごとに入荷"
   },
   "ItemsListPage": {
     "searchPlaceholder": "アイテムを検索...",
@@ -660,7 +667,9 @@
     "stashTitle": "スタッシュトラッカー - ARC Raiders",
     "stashDescription": "ARC Raidersのスタッシュ、ロードアウト、通貨を自動的に同期・管理します。ゲームアカウントを連携して、リアルタイム更新をご利用ください。",
     "projectNotFoundTitle": "プロジェクトが見つかりません - ARC Raiders",
-    "projectNotFoundDescription": "リクエストされたプロジェクトは見つかりませんでした。"
+    "projectNotFoundDescription": "リクエストされたプロジェクトは見つかりませんでした。",
+    "tradersTitle": "トレーダー - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "ARC Raidersの全トレーダーを閲覧できます。各トレーダーのショップ在庫や関連クエストを確認しましょう。"
   },
   "OverlayPage": {
     "pageTitle": "オーバーレイ・コンパニオンアプリ",
@@ -912,14 +921,21 @@
     "premiumActivatedDesc": "ARCTrackerをご支援いただきありがとうございます！プレミアムサブスクリプションが有効になりました。",
     "premiumBenefitsTitle": "プレミアム特典",
     "manageSubscriptionTitle": "サブスクリプションの管理",
-    "manageSubscriptionDesc": "設定ページまたはTebex支払いポータルで、サブスクリプションの詳細確認や請求管理が可能です。",
+    "manageSubscriptionDesc": "設定ページまたは決済ポータルから、サブスクリプションの詳細を確認したり、請求を管理したりできます。",
     "goToSettings": "設定へ移動",
     "tebexPaymentPortal": "Tebex支払いポータル",
     "backToHome": "ホームに戻る",
     "benefitUnlimitedPins": "無制限のプライベートピン＆ルートラン",
     "benefitUnlimitedPinsDesc": "あらゆるマップで、プライベートマップピンとルートランのルートを無制限に作成できます",
     "benefitAutoSync": "スタッシュの自動同期",
-    "benefitAutoSyncDesc": "ゲーム内のスタッシュ、ロードアウト、進行状況を30分ごとに自動的に同期します"
+    "benefitAutoSyncDesc": "ゲーム内のスタッシュ、ロードアウト、進行状況を30分ごとに自動的に同期します",
+    "managedByPolar": "Polarが管理するサブスクリプション",
+    "polarPaymentPortal": "Polar決済ポータル",
+    "upgradeToYearly": "年払いプランへアップグレード",
+    "upgradeToYearlyDesc": "年払いに切り替えると44%お得になります。月払いプランの残りの期間分はクレジットとして充当されます。",
+    "upgradeSuccess": "年払いプランへのアップグレードが完了しました！",
+    "upgradeError": "アップグレードに失敗しました。もう一度お試しください。",
+    "upgradeSaving": "{percent}% お得"
   },
   "Favorites": {
     "addToList": "リストに追加",
@@ -2558,7 +2574,8 @@
     }
   },
   "ItemTooltip": {
-    "onYourLists": "あなたのリスト"
+    "onYourLists": "あなたのリスト",
+    "tapToView": "もう一度タップして詳細を表示"
   },
   "SeasonsPage": {
     "title": "シーズン",
@@ -2629,5 +2646,196 @@
     "turnIn": "納品",
     "uniqueItems": "ユニークアイテム",
     "valueRequirement": "必要価値"
+  },
+  "Cipher": {
+    "alphaBadge": "実験的",
+    "clearChat": "チャットをクリア",
+    "closeCipher": "閉じる",
+    "emptyStateDescription": "システム・オンライン。スタッシュ、レイドの戦績、ドロップ率、その他フィールドに関することなら何でも聞いてください。回答は常に正確とは限らないため、重要な情報はご自身で確認してください。",
+    "emptyStateTitle": "サイファー",
+    "inputPlaceholder": "サイファーに質問...",
+    "openCipher": "サイファーを開く",
+    "panelTitle": "サイファー",
+    "sendMessage": "送信",
+    "tools": {
+      "checkStashForItem": {
+        "active": "スタッシュをスキャン中...",
+        "done": "スタッシュのスキャン完了"
+      },
+      "createChart": {
+        "active": "ビジュアルを生成中...",
+        "done": "ビジュアルの生成完了"
+      },
+      "fallbackActive": "{toolName}を使用中...",
+      "fallbackDone": "{toolName}を使用しました",
+      "findBestFarmingMaps": {
+        "active": "ファーミングルートを最適化中...",
+        "done": "ファーミングルートの最適化完了"
+      },
+      "getHideoutModules": {
+        "active": "ハイドアウトのモジュールを確認中...",
+        "done": "ハイドアウトのモジュール確認完了"
+      },
+      "getItem": {
+        "active": "アイテムデータを取得中...",
+        "done": "アイテムデータの取得完了"
+      },
+      "getItemDropLocations": {
+        "active": "ドロップ場所を分析中...",
+        "done": "ドロップ場所の分析完了"
+      },
+      "getItemDropStats": {
+        "active": "ドロップ率を分析中...",
+        "done": "ドロップ率の分析完了"
+      },
+      "getPlayerStats": {
+        "active": "プレイヤーデータを取得中...",
+        "done": "プレイヤーデータの取得完了"
+      },
+      "getQuest": {
+        "active": "クエストデータを取得中...",
+        "done": "クエストデータの取得完了"
+      },
+      "getRaidHistory": {
+        "active": "レイドログを取得中...",
+        "done": "レイドログの取得完了"
+      },
+      "getRaidStats": {
+        "active": "レイドデータを解析中...",
+        "done": "レイドデータの解析完了"
+      },
+      "getUserHideoutProgress": {
+        "active": "ハイドアウトの進捗を確認中...",
+        "done": "ハイドアウトの進捗確認完了"
+      },
+      "getUserLoadout": {
+        "active": "ロードアウト構成を取得中...",
+        "done": "ロードアウトの取得完了"
+      },
+      "getUserNeededItems": {
+        "active": "必要アイテムを計算中...",
+        "done": "必要アイテムの計算完了"
+      },
+      "getUserQuestProgress": {
+        "active": "クエストの進捗を確認中...",
+        "done": "クエストの進捗確認完了"
+      },
+      "getUserStash": {
+        "active": "スタッシュ記録にアクセス中...",
+        "done": "スタッシュへのアクセス完了"
+      },
+      "getWeaponDamage": {
+        "active": "武器ダメージを分析中...",
+        "done": "武器ダメージの分析完了"
+      },
+      "getWeaponKills": {
+        "active": "武器データを取得中...",
+        "done": "武器データの取得完了"
+      },
+      "searchItems": {
+        "active": "アイテムデータベースをスキャン中...",
+        "done": "アイテムデータベースのスキャン完了"
+      },
+      "searchQuests": {
+        "active": "クエスト記録をスキャン中...",
+        "done": "クエスト記録のスキャン完了"
+      },
+      "getMapEvents": {
+        "active": "マップイベントを確認中...",
+        "done": "マップイベントを確認しました"
+      },
+      "searchCraftableItems": {
+        "active": "レシピを検索中...",
+        "done": "レシピを検索しました"
+      },
+      "searchSkillNodes": {
+        "active": "スキルツリーを検索中...",
+        "done": "スキルツリーを検索しました"
+      },
+      "getSkillNode": {
+        "active": "スキルの詳細を読み込み中...",
+        "done": "スキルの詳細を読み込みました"
+      },
+      "getProjects": {
+        "active": "プロジェクトを読み込み中...",
+        "done": "プロジェクトを読み込みました"
+      },
+      "getUserLists": {
+        "active": "リストを読み込み中...",
+        "done": "リストを読み込みました"
+      },
+      "getListItems": {
+        "active": "リストのアイテムを読み込み中...",
+        "done": "リストのアイテムを読み込みました"
+      },
+      "addItemToList": {
+        "active": "リストに追加中...",
+        "denied": "キャンセルされました",
+        "done": "リストに追加しました"
+      },
+      "removeItemFromList": {
+        "active": "リストから削除中...",
+        "denied": "キャンセルされました",
+        "done": "リストから削除しました"
+      },
+      "createList": {
+        "active": "リストを作成中...",
+        "denied": "キャンセルされました",
+        "done": "リストを作成しました"
+      },
+      "deleteList": {
+        "active": "リストを削除中...",
+        "denied": "キャンセルされました",
+        "done": "リストを削除しました"
+      },
+      "fallbackDenied": "{toolName}をキャンセルしました",
+      "getItemFarmingContext": {
+        "active": "ファーミング情報を分析中...",
+        "done": "ファーミング情報の分析完了"
+      }
+    },
+    "approval": {
+      "addItemToList": "\"{listName}\"に\"{itemName}\"を追加",
+      "approve": "承認",
+      "createList": "リスト\"{name}\"を作成",
+      "deleteList": "リスト\"{listName}\"を削除",
+      "deleteWarning": "これにより、リストとその中の{count, plural, one {# 個のアイテム} other {# 個のアイテム}}がすべて削除されます。",
+      "deny": "拒否",
+      "removeItemFromList": "\"{listName}\"から\"{itemName}\"を削除"
+    },
+    "feedback": {
+      "helpful": "役に立つ回答",
+      "notHelpful": "役に立たない回答"
+    },
+    "confirmation": {
+      "denied": "操作がキャンセルされました",
+      "error": "エラーが発生しました",
+      "executing": "実行中...",
+      "success": {
+        "addItemToList": "リストに追加しました",
+        "createList": "リストを作成しました",
+        "deleteList": "リストを削除しました",
+        "generic": "完了しました",
+        "removeItemFromList": "リストから削除しました"
+      }
+    },
+    "privateBetaNotice": "プライベートベータ — コントリビューター限定。議論はコントリビューターチャンネルにてお願いします。"
+  },
+  "TradersPage": {
+    "itemsForSale": "販売アイテム",
+    "quests": "クエスト",
+    "title": "トレーダー"
+  },
+  "TraderPage": {
+    "backToTraders": "トレーダー一覧に戻る",
+    "coins": "コイン",
+    "limit": "購入上限",
+    "noQuests": "クエストなし",
+    "noShopItems": "販売アイテムなし",
+    "quests": "クエスト",
+    "refresh": "更新",
+    "shop": "ショップ",
+    "traderNotFound": "トレーダーが見つかりません",
+    "traderNotFoundDesc": "お探しのトレーダーは存在しません。"
   }
 }

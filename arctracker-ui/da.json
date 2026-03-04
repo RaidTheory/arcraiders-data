@@ -75,7 +75,8 @@
     "discordBot": "Discord-bot",
     "squads": "Hold",
     "stash": "Lager",
-    "seasons": "Sæsoner"
+    "seasons": "Sæsoner",
+    "traders": "Handlende"
   },
   "MapEvents": {
     "startsIn": "Starter om",
@@ -577,7 +578,13 @@
     "inRaidCrafting": "Fremstilling under raid",
     "attachments": "Tilbehør",
     "upgradePath": "Opgraderingsvej",
-    "currentTier": "Nuværende"
+    "currentTier": "Nuværende",
+    "soldByTraders": "Sælges af handlende",
+    "vendorCost": "Pris",
+    "vendorLimit": "Grænse: {count}",
+    "vendorRefreshDaily": "Genopfyldes dagligt",
+    "vendorRefreshHourly": "Genopfyldes hver time",
+    "vendorRefreshHours": "Genopfyldes hver {hours}. time"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Søg genstande...",
@@ -653,7 +660,9 @@
     "stashTitle": "Lager-tracker - ARC Raiders",
     "stashDescription": "Synkroniser og spor automatisk dit ARC Raiders-lager, udrustning og valutaer. Tilknyt din spilkonto for opdateringer i realtid.",
     "projectNotFoundTitle": "Projekt ikke fundet - ARC Raiders",
-    "projectNotFoundDescription": "Det anmodede projekt kunne ikke findes."
+    "projectNotFoundDescription": "Det anmodede projekt kunne ikke findes.",
+    "tradersTitle": "Handlende - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Gennemse alle handlende i ARC Raiders. Se butiksinventar og tilknyttede opgaver for hver handlende."
   },
   "OverlayPage": {
     "pageTitle": "Overlay Companion App",
@@ -820,14 +829,21 @@
     "premiumActivatedDesc": "Tak fordi du støtter ARCTracker! Dit premium abonnement er nu aktivt.",
     "premiumBenefitsTitle": "Dine Premium Fordele",
     "manageSubscriptionTitle": "Administrer Dit Abonnement",
-    "manageSubscriptionDesc": "Du kan se dine abonnementsdetaljer og administrere din fakturering via indstillingssiden eller Tebex betalingsportal.",
+    "manageSubscriptionDesc": "Du kan se dine abonnementsdetaljer og administrere din fakturering via siden Indstillinger eller betalingsportalen.",
     "goToSettings": "Gå til Indstillinger",
     "tebexPaymentPortal": "Tebex Betalingsportal",
     "backToHome": "Tilbage til Hjem",
     "benefitUnlimitedPins": "Ubegrænsede private markører & Loot-runs",
     "benefitUnlimitedPinsDesc": "Opret ubegrænsede private kortmarkører og loot-ruter på ethvert kort",
     "benefitAutoSync": "Automatisk lagersynkronisering",
-    "benefitAutoSyncDesc": "Synkroniserer automatisk dit lager, din udrustning og dit fremskridt fra spillet hvert 30. minut"
+    "benefitAutoSyncDesc": "Synkroniserer automatisk dit lager, din udrustning og dit fremskridt fra spillet hvert 30. minut",
+    "managedByPolar": "Abonnement administreres af Polar",
+    "polarPaymentPortal": "Polar Betalingsportal",
+    "upgradeToYearly": "Opgrader til årligt",
+    "upgradeToYearlyDesc": "Skift til årlig betaling og spar 44%. Du bliver godskrevet for din resterende månedlige tid.",
+    "upgradeSuccess": "Opgradering til årligt lykkedes!",
+    "upgradeError": "Opgradering mislykkedes. Prøv venligst igen.",
+    "upgradeSaving": "Spar {percent}%"
   },
   "Favorites": {
     "addToList": "Tilføj til Liste",
@@ -2572,7 +2588,8 @@
     }
   },
   "ItemTooltip": {
-    "onYourLists": "På dine lister"
+    "onYourLists": "På dine lister",
+    "tapToView": "Tryk igen for at se detaljer"
   },
   "SeasonsPage": {
     "title": "Sæsoner",
@@ -2643,5 +2660,196 @@
     "turnIn": "Aflever",
     "uniqueItems": "Unikke genstande",
     "valueRequirement": "Værdikrav"
+  },
+  "Cipher": {
+    "alphaBadge": "Eksperimentel",
+    "clearChat": "Ryd chat",
+    "closeCipher": "Luk",
+    "emptyStateDescription": "Systemer online. Spørg mig om dit lager, raid-præstationer, drop-rater eller alt om felten. Svarene er måske ikke altid præcise — verificer venligst vigtige oplysninger.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Spørg Cipher...",
+    "openCipher": "Åbn Cipher",
+    "panelTitle": "Cipher",
+    "sendMessage": "Send besked",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Scanner lager...",
+        "done": "Scannede lageret"
+      },
+      "createChart": {
+        "active": "Genererer grafik...",
+        "done": "Genererede grafik"
+      },
+      "fallbackActive": "Bruger {toolName}...",
+      "fallbackDone": "Brugte {toolName}",
+      "findBestFarmingMaps": {
+        "active": "Optimerer farming-ruter...",
+        "done": "Optimerede farming-ruter"
+      },
+      "getHideoutModules": {
+        "active": "Tjekker moduler i skjulested...",
+        "done": "Tjekkede moduler i skjulested"
+      },
+      "getItem": {
+        "active": "Henter genstandsdata...",
+        "done": "Hentede genstandsdata"
+      },
+      "getItemDropLocations": {
+        "active": "Analyserer drop-lokationer...",
+        "done": "Analyserede drop-lokationer"
+      },
+      "getItemDropStats": {
+        "active": "Analyserer drop-rater...",
+        "done": "Analyserede drop-rater"
+      },
+      "getPlayerStats": {
+        "active": "Henter spillermetrikker...",
+        "done": "Hentede spillermetrikker"
+      },
+      "getQuest": {
+        "active": "Henter quest-data...",
+        "done": "Hentede quest-data"
+      },
+      "getRaidHistory": {
+        "active": "Henter raid-logs...",
+        "done": "Hentede raid-logs"
+      },
+      "getRaidStats": {
+        "active": "Behandler raid-data...",
+        "done": "Behandlede raid-data"
+      },
+      "getUserHideoutProgress": {
+        "active": "Tjekker fremskridt i skjulested...",
+        "done": "Tjekkede fremskridt i skjulested"
+      },
+      "getUserLoadout": {
+        "active": "Henter loadout-konfiguration...",
+        "done": "Hentede loadout"
+      },
+      "getUserNeededItems": {
+        "active": "Beregner nødvendige genstande...",
+        "done": "Beregnede nødvendige genstande"
+      },
+      "getUserQuestProgress": {
+        "active": "Tjekker quest-fremskridt...",
+        "done": "Tjekkede quest-fremskridt"
+      },
+      "getUserStash": {
+        "active": "Tilgår lager-optegnelser...",
+        "done": "Tilgik lageret"
+      },
+      "getWeaponDamage": {
+        "active": "Analyserer våbenskade...",
+        "done": "Analyserede våbenskade"
+      },
+      "getWeaponKills": {
+        "active": "Henter våbendata...",
+        "done": "Hentede våbendata"
+      },
+      "searchItems": {
+        "active": "Scanner genstandsdatabase...",
+        "done": "Scannede genstandsdatabase"
+      },
+      "searchQuests": {
+        "active": "Scanner quest-arkiv...",
+        "done": "Scannede quest-arkiv"
+      },
+      "getMapEvents": {
+        "active": "Kontrollerer kortbegivenheder...",
+        "done": "Kortbegivenheder kontrolleret"
+      },
+      "searchCraftableItems": {
+        "active": "Søger efter opskrifter...",
+        "done": "Søgte efter opskrifter"
+      },
+      "searchSkillNodes": {
+        "active": "Søger i færdighedstræet...",
+        "done": "Søgte i færdighedstræet"
+      },
+      "getSkillNode": {
+        "active": "Indlæser færdighedsdetaljer...",
+        "done": "Indlæste færdighedsdetaljer"
+      },
+      "getProjects": {
+        "active": "Indlæser projekter...",
+        "done": "Indlæste projekter"
+      },
+      "getUserLists": {
+        "active": "Indlæser dine lister...",
+        "done": "Indlæste dine lister"
+      },
+      "getListItems": {
+        "active": "Indlæser listeelementer...",
+        "done": "Indlæste listeelementer"
+      },
+      "addItemToList": {
+        "active": "Tilføjer til liste...",
+        "denied": "Annulleret",
+        "done": "Tilføjet til liste"
+      },
+      "removeItemFromList": {
+        "active": "Fjerner fra liste...",
+        "denied": "Annulleret",
+        "done": "Fjernet fra liste"
+      },
+      "createList": {
+        "active": "Opretter liste...",
+        "denied": "Annulleret",
+        "done": "Oprettet liste"
+      },
+      "deleteList": {
+        "active": "Sletter liste...",
+        "denied": "Annulleret",
+        "done": "Slettet liste"
+      },
+      "fallbackDenied": "Annulleret {toolName}",
+      "getItemFarmingContext": {
+        "active": "Analyserer farming-kontekst...",
+        "done": "Farming-kontekst analyseret"
+      }
+    },
+    "approval": {
+      "addItemToList": "Tilføj \"{itemName}\" til \"{listName}\"",
+      "approve": "Godkend",
+      "createList": "Opret liste \"{name}\"",
+      "deleteList": "Slet liste \"{listName}\"",
+      "deleteWarning": "Dette vil fjerne listen og {count, plural, one {# genstand} other {alle # genstande}} i den.",
+      "deny": "Afvis",
+      "removeItemFromList": "Fjern \"{itemName}\" fra \"{listName}\""
+    },
+    "feedback": {
+      "helpful": "Nyttigt svar",
+      "notHelpful": "Unyttigt svar"
+    },
+    "confirmation": {
+      "denied": "Handling annulleret",
+      "error": "Noget gik galt",
+      "executing": "Udfører...",
+      "success": {
+        "addItemToList": "Tilføjet til liste",
+        "createList": "Liste oprettet",
+        "deleteList": "Liste slettet",
+        "generic": "Udført",
+        "removeItemFromList": "Fjernet fra liste"
+      }
+    },
+    "privateBetaNotice": "Privat beta — kun for bidragydere. Hold venligst diskussionen til bidragyderkanalen."
+  },
+  "TradersPage": {
+    "itemsForSale": "varer til salg",
+    "quests": "opgaver",
+    "title": "Handlende"
+  },
+  "TraderPage": {
+    "backToTraders": "Tilbage til Handlende",
+    "coins": "Mønter",
+    "limit": "Grænse",
+    "noQuests": "Ingen opgaver",
+    "noShopItems": "Ingen varer til salg",
+    "quests": "Opgaver",
+    "refresh": "opdater",
+    "shop": "Butik",
+    "traderNotFound": "Handlende ikke fundet",
+    "traderNotFoundDesc": "Den handlende, du leder efter, findes ikke."
   }
 }

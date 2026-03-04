@@ -75,7 +75,8 @@
     "discordBot": "Bot Discord",
     "squads": "Oddziały",
     "stash": "Skrytka",
-    "seasons": "Sezony"
+    "seasons": "Sezony",
+    "traders": "Handlarze"
   },
   "MapEvents": {
     "startsIn": "Zaczyna się za",
@@ -577,7 +578,13 @@
     "inRaidCrafting": "Wytwarzanie podczas rajdu",
     "attachments": "Dodatki",
     "upgradePath": "Ścieżka ulepszeń",
-    "currentTier": "Obecny"
+    "currentTier": "Obecny",
+    "soldByTraders": "Sprzedawane przez handlarzy",
+    "vendorCost": "Koszt",
+    "vendorLimit": "Limit: {count}",
+    "vendorRefreshDaily": "Uzupełniane codziennie",
+    "vendorRefreshHourly": "Uzupełniane co godzinę",
+    "vendorRefreshHours": "Uzupełniane co {hours}h"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Szukaj przedmiotów...",
@@ -653,7 +660,9 @@
     "stashTitle": "Śledzenie Schowka - ARC Raiders",
     "stashDescription": "Automatycznie synchronizuj i śledź zawartość schowka, wyposażenie i waluty w ARC Raiders. Połącz swoje konto gry, aby otrzymywać aktualizacje w czasie rzeczywistym.",
     "projectNotFoundTitle": "Nie znaleziono projektu - ARC Raiders",
-    "projectNotFoundDescription": "Nie udało się znaleźć żądanego projektu."
+    "projectNotFoundDescription": "Nie udało się znaleźć żądanego projektu.",
+    "tradersTitle": "Handlarze - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Przeglądaj wszystkich handlarzy w ARC Raiders. Zobacz asortyment sklepu i powiązane zadania dla każdego handlarza."
   },
   "OverlayPage": {
     "pageTitle": "Aplikacja Nakładki",
@@ -820,14 +829,21 @@
     "premiumActivatedDesc": "Dziękujemy za wspieranie ARCTracker! Twoja subskrypcja premium jest teraz aktywna.",
     "premiumBenefitsTitle": "Twoje Korzyści Premium",
     "manageSubscriptionTitle": "Zarządzaj Swoją Subskrypcją",
-    "manageSubscriptionDesc": "Możesz przeglądać szczegóły subskrypcji i zarządzać płatnościami na stronie Ustawień lub w portalu płatności Tebex.",
+    "manageSubscriptionDesc": "Możesz sprawdzić szczegóły subskrypcji i zarządzać płatnościami na stronie Ustawień lub w portalu płatniczym.",
     "goToSettings": "Przejdź do Ustawień",
     "tebexPaymentPortal": "Portal Płatności Tebex",
     "backToHome": "Powrót do Strony Głównej",
     "benefitUnlimitedPins": "Nielimitowane prywatne pinezki i trasy łupów",
     "benefitUnlimitedPinsDesc": "Twórz nielimitowane prywatne pinezki na mapie i trasy łupów na dowolnej mapie",
     "benefitAutoSync": "Automatyczna synchronizacja skrytki",
-    "benefitAutoSyncDesc": "Automatycznie synchronizuje twoją skrytkę, wyposażenie i postępy z gry co 30 minut"
+    "benefitAutoSyncDesc": "Automatycznie synchronizuje twoją skrytkę, wyposażenie i postępy z gry co 30 minut",
+    "managedByPolar": "Subskrypcja zarządzana przez Polar",
+    "polarPaymentPortal": "Portal płatności Polar",
+    "upgradeToYearly": "Przejdź na plan roczny",
+    "upgradeToYearlyDesc": "Przejdź na rozliczenie roczne i zaoszczędź 44%. Otrzymasz zwrot środków za pozostały czas subskrypcji miesięcznej.",
+    "upgradeSuccess": "Pomyślnie zmieniono na plan roczny!",
+    "upgradeError": "Nie udało się zmienić planu. Spróbuj ponownie.",
+    "upgradeSaving": "Zaoszczędź {percent}%"
   },
   "Favorites": {
     "addToList": "Dodaj do Listy",
@@ -2572,7 +2588,8 @@
     }
   },
   "ItemTooltip": {
-    "onYourLists": "Na twoich listach"
+    "onYourLists": "Na twoich listach",
+    "tapToView": "Stuknij ponownie, aby wyświetlić szczegóły"
   },
   "SeasonsPage": {
     "title": "Sezony",
@@ -2643,5 +2660,196 @@
     "turnIn": "Oddaj",
     "uniqueItems": "Unikalne przedmioty",
     "valueRequirement": "Wymagana wartość"
+  },
+  "Cipher": {
+    "alphaBadge": "Eksperymentalne",
+    "clearChat": "Wyczyść czat",
+    "closeCipher": "Zamknij",
+    "emptyStateDescription": "Systemy online. Zapytaj mnie o swój magazyn, wyniki rajdów, szanse na łup lub cokolwiek związanego z terenem działań. Odpowiedzi mogą nie zawsze być dokładne — prosimy o weryfikację ważnych informacji.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Zapytaj Ciphera...",
+    "openCipher": "Otwórz Ciphera",
+    "panelTitle": "Cipher",
+    "sendMessage": "Wyślij wiadomość",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Skanowanie magazynu...",
+        "done": "Zeskanowano magazyn"
+      },
+      "createChart": {
+        "active": "Generowanie wizualizacji...",
+        "done": "Wygenerowano wizualizację"
+      },
+      "fallbackActive": "Używanie {toolName}...",
+      "fallbackDone": "Użyto {toolName}",
+      "findBestFarmingMaps": {
+        "active": "Optymalizacja tras farmingu...",
+        "done": "Zoptymalizowano trasy farmingu"
+      },
+      "getHideoutModules": {
+        "active": "Sprawdzanie modułów kryjówki...",
+        "done": "Sprawdzono moduły kryjówki"
+      },
+      "getItem": {
+        "active": "Pobieranie danych o przedmiocie...",
+        "done": "Pobrano dane o przedmiocie"
+      },
+      "getItemDropLocations": {
+        "active": "Analiza miejsc występowania...",
+        "done": "Przeanalizowano miejsca występowania"
+      },
+      "getItemDropStats": {
+        "active": "Analiza szans na łup...",
+        "done": "Przeanalizowano szanse na łup"
+      },
+      "getPlayerStats": {
+        "active": "Pobieranie statystyk gracza...",
+        "done": "Pobrano statystyki gracza"
+      },
+      "getQuest": {
+        "active": "Pobieranie danych zadania...",
+        "done": "Pobrano dane zadania"
+      },
+      "getRaidHistory": {
+        "active": "Pobieranie dzienników raidu...",
+        "done": "Pobrano dzienniki raidu"
+      },
+      "getRaidStats": {
+        "active": "Przetwarzanie danych raidu...",
+        "done": "Przetworzono dane raidu"
+      },
+      "getUserHideoutProgress": {
+        "active": "Sprawdzanie postępów kryjówki...",
+        "done": "Sprawdzono postępy kryjówki"
+      },
+      "getUserLoadout": {
+        "active": "Pobieranie konfiguracji wyposażenia...",
+        "done": "Pobrano wyposażenie"
+      },
+      "getUserNeededItems": {
+        "active": "Obliczanie potrzebnych przedmiotów...",
+        "done": "Obliczono potrzebne przedmioty"
+      },
+      "getUserQuestProgress": {
+        "active": "Sprawdzanie postępów zadań...",
+        "done": "Sprawdzono postępy zadań"
+      },
+      "getUserStash": {
+        "active": "Uzyskiwanie dostępu do rejestru magazynu...",
+        "done": "Uzyskano dostęp do magazynu"
+      },
+      "getWeaponDamage": {
+        "active": "Analiza obrażeń broni...",
+        "done": "Przeanalizowano obrażenia broni"
+      },
+      "getWeaponKills": {
+        "active": "Pobieranie danych o broni...",
+        "done": "Pobrano dane o broni"
+      },
+      "searchItems": {
+        "active": "Skanowanie bazy przedmiotów...",
+        "done": "Zeskanowano bazę przedmiotów"
+      },
+      "searchQuests": {
+        "active": "Skanowanie rejestru zadań...",
+        "done": "Zeskanowano rejestr zadań"
+      },
+      "getMapEvents": {
+        "active": "Sprawdzanie wydarzeń na mapie...",
+        "done": "Sprawdzono wydarzenia na mapie"
+      },
+      "searchCraftableItems": {
+        "active": "Wyszukiwanie przepisów...",
+        "done": "Wyszukano przepisy"
+      },
+      "searchSkillNodes": {
+        "active": "Przeszukiwanie drzewka umiejętności...",
+        "done": "Przeszukano drzewko umiejętności"
+      },
+      "getSkillNode": {
+        "active": "Wczytywanie szczegółów umiejętności...",
+        "done": "Wczytano szczegóły umiejętności"
+      },
+      "getProjects": {
+        "active": "Wczytywanie projektów...",
+        "done": "Wczytano projekty"
+      },
+      "getUserLists": {
+        "active": "Wczytywanie twoich list...",
+        "done": "Wczytano twoje listy"
+      },
+      "getListItems": {
+        "active": "Wczytywanie przedmiotów z listy...",
+        "done": "Wczytano przedmioty z listy"
+      },
+      "addItemToList": {
+        "active": "Dodawanie do listy...",
+        "denied": "Anulowano",
+        "done": "Dodano do listy"
+      },
+      "removeItemFromList": {
+        "active": "Usuwanie z listy...",
+        "denied": "Anulowano",
+        "done": "Usunięto z listy"
+      },
+      "createList": {
+        "active": "Tworzenie listy...",
+        "denied": "Anulowano",
+        "done": "Utworzono listę"
+      },
+      "deleteList": {
+        "active": "Usuwanie listy...",
+        "denied": "Anulowano",
+        "done": "Usunięto listę"
+      },
+      "fallbackDenied": "Anulowano {toolName}",
+      "getItemFarmingContext": {
+        "active": "Analizowanie kontekstu farmienia...",
+        "done": "Przeanalizowano kontekst farmienia"
+      }
+    },
+    "approval": {
+      "addItemToList": "Dodaj \"{itemName}\" do \"{listName}\"",
+      "approve": "Zatwierdź",
+      "createList": "Utwórz listę \"{name}\"",
+      "deleteList": "Usuń listę \"{listName}\"",
+      "deleteWarning": "Spowoduje to usunięcie listy i wszystkich znajdujących się na niej {count, plural, one {# przedmiotu} other {# przedmiotów}}.",
+      "deny": "Odrzuć",
+      "removeItemFromList": "Usuń \"{itemName}\" z \"{listName}\""
+    },
+    "feedback": {
+      "helpful": "Pomocna odpowiedź",
+      "notHelpful": "Niepomocna odpowiedź"
+    },
+    "confirmation": {
+      "denied": "Akcja anulowana",
+      "error": "Coś poszło nie tak",
+      "executing": "Wykonywanie...",
+      "success": {
+        "addItemToList": "Dodano do listy",
+        "createList": "Utworzono listę",
+        "deleteList": "Usunięto listę",
+        "generic": "Gotowe",
+        "removeItemFromList": "Usunięto z listy"
+      }
+    },
+    "privateBetaNotice": "Prywatna beta — tylko dla współtwórców. Prosimy o prowadzenie dyskusji wyłącznie na kanale dla współtwórców."
+  },
+  "TradersPage": {
+    "itemsForSale": "przedmioty na sprzedaż",
+    "quests": "zadania",
+    "title": "Handlarze"
+  },
+  "TraderPage": {
+    "backToTraders": "Powrót do Handlarzy",
+    "coins": "Monety",
+    "limit": "Limit",
+    "noQuests": "Brak zadań",
+    "noShopItems": "Brak przedmiotów na sprzedaż",
+    "quests": "Zadania",
+    "refresh": "odświeżenie",
+    "shop": "Sklep",
+    "traderNotFound": "Nie znaleziono handlarza",
+    "traderNotFoundDesc": "Szukany handlarz nie istnieje."
   }
 }

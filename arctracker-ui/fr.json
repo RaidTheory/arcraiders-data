@@ -75,7 +75,8 @@
     "discordBot": "Bot Discord",
     "squads": "Escouades",
     "stash": "Réserve",
-    "seasons": "Saisons"
+    "seasons": "Saisons",
+    "traders": "Marchands"
   },
   "MapEvents": {
     "startsIn": "Commence dans",
@@ -577,7 +578,13 @@
     "inRaidCrafting": "Fabrication en raid",
     "attachments": "Accessoires",
     "upgradePath": "Chemin d'amélioration",
-    "currentTier": "Actuel"
+    "currentTier": "Actuel",
+    "soldByTraders": "Vendu par les marchands",
+    "vendorCost": "Coût",
+    "vendorLimit": "Limite : {count}",
+    "vendorRefreshDaily": "Réapprovisionnement quotidien",
+    "vendorRefreshHourly": "Réapprovisionnement horaire",
+    "vendorRefreshHours": "Réapprovisionnement toutes les {hours} h"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Rechercher des objets...",
@@ -653,7 +660,9 @@
     "stashTitle": "Suivi de réserve - ARC Raiders",
     "stashDescription": "Synchronisez et suivez automatiquement l'inventaire de votre réserve, votre équipement et vos devises ARC Raiders. Liez votre compte de jeu pour des mises à jour en temps réel.",
     "projectNotFoundTitle": "Projet introuvable - ARC Raiders",
-    "projectNotFoundDescription": "Le projet demandé est introuvable."
+    "projectNotFoundDescription": "Le projet demandé est introuvable.",
+    "tradersTitle": "Marchands - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Parcourez tous les marchands d'ARC Raiders. Consultez l'inventaire de la boutique et les quêtes associées pour chaque marchand."
   },
   "OverlayPage": {
     "pageTitle": "Application Compagnon Overlay",
@@ -820,14 +829,21 @@
     "premiumActivatedDesc": "Merci de soutenir ARCTracker ! Votre abonnement premium est maintenant actif.",
     "premiumBenefitsTitle": "Vos avantages Premium",
     "manageSubscriptionTitle": "Gérer votre abonnement",
-    "manageSubscriptionDesc": "Vous pouvez consulter les détails de votre abonnement et gérer votre facturation via la page Paramètres ou le portail de paiement Tebex.",
+    "manageSubscriptionDesc": "Vous pouvez consulter les détails de votre abonnement et gérer votre facturation via la page Paramètres ou le portail de paiement.",
     "goToSettings": "Aller aux paramètres",
     "tebexPaymentPortal": "Portail de paiement Tebex",
     "backToHome": "Retour à l'accueil",
     "benefitUnlimitedPins": "Marqueurs privés et itinéraires de butin illimités",
     "benefitUnlimitedPinsDesc": "Créez des marqueurs de carte privés et des itinéraires de butin illimités sur n'importe quelle carte",
     "benefitAutoSync": "Synchronisation automatique de la réserve",
-    "benefitAutoSyncDesc": "Synchronise automatiquement votre réserve, votre équipement et votre progression depuis le jeu toutes les 30 minutes"
+    "benefitAutoSyncDesc": "Synchronise automatiquement votre réserve, votre équipement et votre progression depuis le jeu toutes les 30 minutes",
+    "managedByPolar": "Abonnement géré par Polar",
+    "polarPaymentPortal": "Portail de paiement Polar",
+    "upgradeToYearly": "Passer à l'abonnement annuel",
+    "upgradeToYearlyDesc": "Passez à la facturation annuelle et économisez 44 %. Le temps mensuel restant vous sera crédité.",
+    "upgradeSuccess": "Passage à l'abonnement annuel réussi !",
+    "upgradeError": "Échec de la mise à niveau. Veuillez réessayer.",
+    "upgradeSaving": "Économisez {percent} %"
   },
   "Favorites": {
     "addToList": "Ajouter à la liste",
@@ -2572,7 +2588,8 @@
     }
   },
   "ItemTooltip": {
-    "onYourLists": "Dans vos listes"
+    "onYourLists": "Dans vos listes",
+    "tapToView": "Appuyez à nouveau pour voir les détails"
   },
   "SeasonsPage": {
     "title": "Saisons",
@@ -2643,5 +2660,196 @@
     "turnIn": "Livrer",
     "uniqueItems": "Objets uniques",
     "valueRequirement": "Valeur requise"
+  },
+  "Cipher": {
+    "alphaBadge": "Expérimental",
+    "clearChat": "Effacer le chat",
+    "closeCipher": "Fermer",
+    "emptyStateDescription": "Systèmes en ligne. Posez-moi des questions sur votre réserve, vos performances en raid, les taux d'obtention ou tout ce qui concerne le terrain. Les réponses peuvent ne pas toujours être exactes — veuillez vérifier les informations importantes.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Demander à Cipher...",
+    "openCipher": "Ouvrir Cipher",
+    "panelTitle": "Cipher",
+    "sendMessage": "Envoyer le message",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Analyse de la réserve...",
+        "done": "Réserve analysée"
+      },
+      "createChart": {
+        "active": "Génération du visuel...",
+        "done": "Visuel généré"
+      },
+      "fallbackActive": "Utilisation de {toolName}...",
+      "fallbackDone": "{toolName} utilisé",
+      "findBestFarmingMaps": {
+        "active": "Optimisation des routes de farming...",
+        "done": "Routes de farming optimisées"
+      },
+      "getHideoutModules": {
+        "active": "Vérification des modules du repaire...",
+        "done": "Modules du repaire vérifiés"
+      },
+      "getItem": {
+        "active": "Récupération des données d'objet...",
+        "done": "Données d'objet récupérées"
+      },
+      "getItemDropLocations": {
+        "active": "Analyse des lieux de drop...",
+        "done": "Lieux de drop analysés"
+      },
+      "getItemDropStats": {
+        "active": "Analyse des taux de drop...",
+        "done": "Taux de drop analysés"
+      },
+      "getPlayerStats": {
+        "active": "Récupération des métriques joueur...",
+        "done": "Métriques joueur récupérées"
+      },
+      "getQuest": {
+        "active": "Récupération des données de quête...",
+        "done": "Données de quête récupérées"
+      },
+      "getRaidHistory": {
+        "active": "Récupération des journaux de raid...",
+        "done": "Journaux de raid récupérés"
+      },
+      "getRaidStats": {
+        "active": "Traitement des données de raid...",
+        "done": "Données de raid traitées"
+      },
+      "getUserHideoutProgress": {
+        "active": "Vérification de la progression du repaire...",
+        "done": "Progression du repaire vérifiée"
+      },
+      "getUserLoadout": {
+        "active": "Récupération de la config d'équipement...",
+        "done": "Équipement récupéré"
+      },
+      "getUserNeededItems": {
+        "active": "Calcul des objets nécessaires...",
+        "done": "Objets nécessaires calculés"
+      },
+      "getUserQuestProgress": {
+        "active": "Vérification de la progression de quête...",
+        "done": "Progression de quête vérifiée"
+      },
+      "getUserStash": {
+        "active": "Accès aux archives de la réserve...",
+        "done": "Accès à la réserve effectué"
+      },
+      "getWeaponDamage": {
+        "active": "Analyse des dégâts d'arme...",
+        "done": "Dégâts d'arme analysés"
+      },
+      "getWeaponKills": {
+        "active": "Récupération des données d'arme...",
+        "done": "Données d'arme récupérées"
+      },
+      "searchItems": {
+        "active": "Scan de la base d'objets...",
+        "done": "Base d'objets scannée"
+      },
+      "searchQuests": {
+        "active": "Scan des archives de quêtes...",
+        "done": "Archives de quêtes scannées"
+      },
+      "getMapEvents": {
+        "active": "Vérification des événements de la carte...",
+        "done": "Événements de la carte vérifiés"
+      },
+      "searchCraftableItems": {
+        "active": "Recherche de recettes...",
+        "done": "Recettes recherchées"
+      },
+      "searchSkillNodes": {
+        "active": "Recherche dans l'arbre de compétences...",
+        "done": "Arbre de compétences recherché"
+      },
+      "getSkillNode": {
+        "active": "Chargement des détails de la compétence...",
+        "done": "Détails de la compétence chargés"
+      },
+      "getProjects": {
+        "active": "Chargement des projets...",
+        "done": "Projets chargés"
+      },
+      "getUserLists": {
+        "active": "Chargement de vos listes...",
+        "done": "Vos listes chargées"
+      },
+      "getListItems": {
+        "active": "Chargement des objets de la liste...",
+        "done": "Objets de la liste chargés"
+      },
+      "addItemToList": {
+        "active": "Ajout à la liste...",
+        "denied": "Annulé",
+        "done": "Ajouté à la liste"
+      },
+      "removeItemFromList": {
+        "active": "Retrait de la liste...",
+        "denied": "Annulé",
+        "done": "Retiré de la liste"
+      },
+      "createList": {
+        "active": "Création de la liste...",
+        "denied": "Annulé",
+        "done": "Liste créée"
+      },
+      "deleteList": {
+        "active": "Suppression de la liste...",
+        "denied": "Annulé",
+        "done": "Liste supprimée"
+      },
+      "fallbackDenied": "{toolName} annulé",
+      "getItemFarmingContext": {
+        "active": "Analyse du contexte de farming...",
+        "done": "Contexte de farming analysé"
+      }
+    },
+    "approval": {
+      "addItemToList": "Ajouter \"{itemName}\" à \"{listName}\"",
+      "approve": "Approuver",
+      "createList": "Créer la liste \"{name}\"",
+      "deleteList": "Supprimer la liste \"{listName}\"",
+      "deleteWarning": "Cela supprimera la liste et {count, plural, one {# objet} other {les # objets}} qu'elle contient.",
+      "deny": "Refuser",
+      "removeItemFromList": "Retirer \"{itemName}\" de \"{listName}\""
+    },
+    "feedback": {
+      "helpful": "Réponse utile",
+      "notHelpful": "Réponse inutile"
+    },
+    "confirmation": {
+      "denied": "Action annulée",
+      "error": "Une erreur est survenue",
+      "executing": "Exécution...",
+      "success": {
+        "addItemToList": "Ajouté à la liste",
+        "createList": "Liste créée",
+        "deleteList": "Liste supprimée",
+        "generic": "Terminé",
+        "removeItemFromList": "Retiré de la liste"
+      }
+    },
+    "privateBetaNotice": "Bêta privée — contributeurs uniquement. Veuillez limiter les discussions au canal des contributeurs."
+  },
+  "TradersPage": {
+    "itemsForSale": "objets à vendre",
+    "quests": "quêtes",
+    "title": "Marchands"
+  },
+  "TraderPage": {
+    "backToTraders": "Retour aux marchands",
+    "coins": "Pièces",
+    "limit": "Limite",
+    "noQuests": "Aucune quête",
+    "noShopItems": "Aucun objet à vendre",
+    "quests": "Quêtes",
+    "refresh": "actualisation",
+    "shop": "Boutique",
+    "traderNotFound": "Marchand introuvable",
+    "traderNotFoundDesc": "Le marchand que vous recherchez n'existe pas."
   }
 }

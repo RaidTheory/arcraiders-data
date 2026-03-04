@@ -75,7 +75,8 @@
     "discordBot": "Discord-бот",
     "squads": "Отряды",
     "stash": "Схрон",
-    "seasons": "Сезоны"
+    "seasons": "Сезоны",
+    "traders": "Торговцы"
   },
   "MapEvents": {
     "startsIn": "Начнется через",
@@ -577,7 +578,13 @@
     "inRaidCrafting": "Создание в рейде",
     "attachments": "Модули",
     "upgradePath": "Путь улучшения",
-    "currentTier": "Текущий"
+    "currentTier": "Текущий",
+    "soldByTraders": "Продается у торговцев",
+    "vendorCost": "Стоимость",
+    "vendorLimit": "Лимит: {count}",
+    "vendorRefreshDaily": "Обновляется ежедневно",
+    "vendorRefreshHourly": "Обновляется каждый час",
+    "vendorRefreshHours": "Обновляется каждые {hours} ч."
   },
   "ItemsListPage": {
     "searchPlaceholder": "Поиск предметов...",
@@ -653,7 +660,9 @@
     "stashTitle": "Трекер схрона - ARC Raiders",
     "stashDescription": "Автоматически синхронизируйте и отслеживайте содержимое вашего схрона, снаряжение и валюту в ARC Raiders. Привяжите свой игровой аккаунт для обновлений в реальном времени.",
     "projectNotFoundTitle": "Проект не найден - ARC Raiders",
-    "projectNotFoundDescription": "Запрошенный проект не найден."
+    "projectNotFoundDescription": "Запрошенный проект не найден.",
+    "tradersTitle": "Торговцы - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Просматривайте всех торговцев в ARC Raiders. Изучайте ассортимент магазинов и связанные задания для каждого торговца."
   },
   "OverlayPage": {
     "pageTitle": "Приложение-компаньон Оверлей",
@@ -820,14 +829,21 @@
     "premiumActivatedDesc": "Спасибо за поддержку ARCTracker! Ваша премиум-подписка теперь активна.",
     "premiumBenefitsTitle": "Ваши преимущества Premium",
     "manageSubscriptionTitle": "Управление подпиской",
-    "manageSubscriptionDesc": "Вы можете просмотреть детали подписки и управлять оплатой через страницу Настроек или портал оплаты Tebex.",
+    "manageSubscriptionDesc": "Вы можете просмотреть информацию о подписке и управлять платежами на странице настроек или через платежный портал.",
     "goToSettings": "Перейти в настройки",
     "tebexPaymentPortal": "Портал оплаты Tebex",
     "backToHome": "На главную",
     "benefitUnlimitedPins": "Безлимитные личные метки и маршруты сбора",
     "benefitUnlimitedPinsDesc": "Создавайте неограниченное количество личных меток и маршрутов сбора на любой карте",
     "benefitAutoSync": "Автоматическая синхронизация схрона",
-    "benefitAutoSyncDesc": "Автоматически синхронизирует ваш схрон, снаряжение и прогресс из игры каждые 30 минут"
+    "benefitAutoSyncDesc": "Автоматически синхронизирует ваш схрон, снаряжение и прогресс из игры каждые 30 минут",
+    "managedByPolar": "Подписка управляется Polar",
+    "polarPaymentPortal": "Платежный портал Polar",
+    "upgradeToYearly": "Перейти на годовую подписку",
+    "upgradeToYearlyDesc": "Перейдите на годовую оплату и сэкономьте 44%. Оставшееся время текущего месяца будет зачтено.",
+    "upgradeSuccess": "Вы успешно перешли на годовую подписку!",
+    "upgradeError": "Не удалось обновить подписку. Пожалуйста, попробуйте снова.",
+    "upgradeSaving": "Сэкономьте {percent}%"
   },
   "Favorites": {
     "addToList": "Добавить в список",
@@ -2572,7 +2588,8 @@
     }
   },
   "ItemTooltip": {
-    "onYourLists": "В ваших списках"
+    "onYourLists": "В ваших списках",
+    "tapToView": "Нажмите ещё раз для просмотра подробностей"
   },
   "SeasonsPage": {
     "title": "Сезоны",
@@ -2643,5 +2660,196 @@
     "turnIn": "Сдать",
     "uniqueItems": "Уникальные предметы",
     "valueRequirement": "Требование по стоимости"
+  },
+  "Cipher": {
+    "alphaBadge": "Экспериментально",
+    "clearChat": "Очистить чат",
+    "closeCipher": "Закрыть",
+    "emptyStateDescription": "Системы в сети. Спрашивайте о вашем схроне, результатах рейдов, шансах выпадения предметов или любой другой полевой информации. Ответы могут быть неточными — пожалуйста, проверяйте важную информацию.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Спросить Cipher...",
+    "openCipher": "Открыть Cipher",
+    "panelTitle": "Cipher",
+    "sendMessage": "Отправить сообщение",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Сканирование схрона...",
+        "done": "Схрон просканирован"
+      },
+      "createChart": {
+        "active": "Генерация визуализации...",
+        "done": "Визуализация создана"
+      },
+      "fallbackActive": "Использование {toolName}...",
+      "fallbackDone": "Использован {toolName}",
+      "findBestFarmingMaps": {
+        "active": "Оптимизация маршрутов фарма...",
+        "done": "Маршруты фарма оптимизированы"
+      },
+      "getHideoutModules": {
+        "active": "Проверка модулей убежища...",
+        "done": "Модули убежища проверены"
+      },
+      "getItem": {
+        "active": "Получение данных о предмете...",
+        "done": "Данные о предмете получены"
+      },
+      "getItemDropLocations": {
+        "active": "Анализ мест выпадения...",
+        "done": "Места выпадения проанализированы"
+      },
+      "getItemDropStats": {
+        "active": "Анализ шансов выпадения...",
+        "done": "Шансы выпадения проанализированы"
+      },
+      "getPlayerStats": {
+        "active": "Сбор показателей игрока...",
+        "done": "Показатели игрока получены"
+      },
+      "getQuest": {
+        "active": "Получение данных о квесте...",
+        "done": "Данные о квесте получены"
+      },
+      "getRaidHistory": {
+        "active": "Получение журналов рейдов...",
+        "done": "Журналы рейдов получены"
+      },
+      "getRaidStats": {
+        "active": "Обработка данных рейда...",
+        "done": "Данные рейда обработаны"
+      },
+      "getUserHideoutProgress": {
+        "active": "Проверка прогресса убежища...",
+        "done": "Прогресс убежища проверен"
+      },
+      "getUserLoadout": {
+        "active": "Получение конфигурации снаряжения...",
+        "done": "Снаряжение получено"
+      },
+      "getUserNeededItems": {
+        "active": "Расчет необходимых предметов...",
+        "done": "Необходимые предметы рассчитаны"
+      },
+      "getUserQuestProgress": {
+        "active": "Проверка прогресса квестов...",
+        "done": "Прогресс квестов проверен"
+      },
+      "getUserStash": {
+        "active": "Доступ к записям схрона...",
+        "done": "Доступ к схрону получен"
+      },
+      "getWeaponDamage": {
+        "active": "Анализ урона оружия...",
+        "done": "Урон оружия проанализирован"
+      },
+      "getWeaponKills": {
+        "active": "Получение данных об оружии...",
+        "done": "Данные об оружии получены"
+      },
+      "searchItems": {
+        "active": "Сканирование базы предметов...",
+        "done": "База предметов просканирована"
+      },
+      "searchQuests": {
+        "active": "Сканирование записей квестов...",
+        "done": "Записи квестов просканированы"
+      },
+      "getMapEvents": {
+        "active": "Проверка событий на карте...",
+        "done": "События на карте проверены"
+      },
+      "searchCraftableItems": {
+        "active": "Поиск рецептов...",
+        "done": "Поиск рецептов завершен"
+      },
+      "searchSkillNodes": {
+        "active": "Поиск по древу навыков...",
+        "done": "Поиск по древу навыков завершен"
+      },
+      "getSkillNode": {
+        "active": "Загрузка информации о навыке...",
+        "done": "Информация о навыке загружена"
+      },
+      "getProjects": {
+        "active": "Загрузка проектов...",
+        "done": "Проекты загружены"
+      },
+      "getUserLists": {
+        "active": "Загрузка ваших списков...",
+        "done": "Ваши списки загружены"
+      },
+      "getListItems": {
+        "active": "Загрузка предметов списка...",
+        "done": "Предметы списка загружены"
+      },
+      "addItemToList": {
+        "active": "Добавление в список...",
+        "denied": "Отменено",
+        "done": "Добавлено в список"
+      },
+      "removeItemFromList": {
+        "active": "Удаление из списка...",
+        "denied": "Отменено",
+        "done": "Удалено из списка"
+      },
+      "createList": {
+        "active": "Создание списка...",
+        "denied": "Отменено",
+        "done": "Список создан"
+      },
+      "deleteList": {
+        "active": "Удаление списка...",
+        "denied": "Отменено",
+        "done": "Список удален"
+      },
+      "fallbackDenied": "Отменено {toolName}",
+      "getItemFarmingContext": {
+        "active": "Анализ контекста фарма...",
+        "done": "Контекст фарма проанализирован"
+      }
+    },
+    "approval": {
+      "addItemToList": "Добавить \"{itemName}\" в \"{listName}\"",
+      "approve": "Одобрить",
+      "createList": "Создать список \"{name}\"",
+      "deleteList": "Удалить список \"{listName}\"",
+      "deleteWarning": "Это удалит список и {count, plural, one {# предмет} few {# предмета} many {# предметов} other {# предмета}} в нем.",
+      "deny": "Отклонить",
+      "removeItemFromList": "Удалить \"{itemName}\" из \"{listName}\""
+    },
+    "feedback": {
+      "helpful": "Полезный ответ",
+      "notHelpful": "Бесполезный ответ"
+    },
+    "confirmation": {
+      "denied": "Действие отменено",
+      "error": "Что-то пошло не так",
+      "executing": "Выполнение...",
+      "success": {
+        "addItemToList": "Добавлено в список",
+        "createList": "Список создан",
+        "deleteList": "Список удален",
+        "generic": "Готово",
+        "removeItemFromList": "Удалено из списка"
+      }
+    },
+    "privateBetaNotice": "Закрытая бета — только для участников. Пожалуйста, ведите обсуждение в канале для участников."
+  },
+  "TradersPage": {
+    "itemsForSale": "предметы на продажу",
+    "quests": "задания",
+    "title": "Торговцы"
+  },
+  "TraderPage": {
+    "backToTraders": "Назад к торговцам",
+    "coins": "Монеты",
+    "limit": "Лимит",
+    "noQuests": "Нет заданий",
+    "noShopItems": "Нет товаров на продажу",
+    "quests": "Задания",
+    "refresh": "обновление",
+    "shop": "Магазин",
+    "traderNotFound": "Торговец не найден",
+    "traderNotFoundDesc": "Торговец, которого вы ищете, не существует."
   }
 }
