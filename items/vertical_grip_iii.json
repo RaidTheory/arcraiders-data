@@ -48,6 +48,23 @@
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.75,
+  "stackSize": 1,
+  "compatibleWith": [
+    "Aphelion",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Ferro",
+    "Hullcracker",
+    "Il Toro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Stitcher",
+    "Tempest",
+    "Venator",
+    "Vulcano"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Reduced ADS Speed": {
@@ -111,5 +128,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_iii.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

@@ -74,7 +74,9 @@
     "apps": "Додатки",
     "discordBot": "Discord-бот",
     "squads": "Загони",
-    "stash": "Схованка"
+    "stash": "Схованка",
+    "seasons": "Сезони",
+    "traders": "Торговці"
   },
   "MapEvents": {
     "startsIn": "Початок через",
@@ -109,7 +111,8 @@
       "launchTowerLoot": "Здобич пускової вежі",
       "hiddenBunker": "Прихований бункер",
       "none": "Немає",
-      "birdCity": "Пташине місто"
+      "birdCity": "Пташине місто",
+      "hurricane": "Ураган"
     }
   },
   "Common": {
@@ -185,11 +188,6 @@
     "requirementsUnknown": "Вимоги ще невідомі",
     "noRequirements": "Немає вимог",
     "coins": "монет",
-    "combatItems": "Бойові предмети",
-    "survivalItems": "Предмети виживання",
-    "provisions": "Провізія",
-    "materials": "Матеріали",
-    "value": "Вартість",
     "phases": "етапів",
     "required": "Потрібно",
     "submitItemsValue": "Здайте предмети на необхідну суму, щоб завершити цей етап.",
@@ -197,7 +195,8 @@
     "season2": "Сезон 2",
     "stashModeActive": "Кількість із синхронізованого сховища",
     "lastSynced": "Синхронізовано",
-    "syncStash": "Синхронізувати сховище"
+    "syncStash": "Синхронізувати сховище",
+    "season3": "Сезон 3"
   },
   "HideoutPage": {
     "level": "Рівень",
@@ -577,7 +576,15 @@
     },
     "dropRates": "Шанси випадіння",
     "inRaidCrafting": "Виготовлення в рейді",
-    "attachments": "Модулі"
+    "attachments": "Модулі",
+    "upgradePath": "Шлях покращення",
+    "currentTier": "Поточний",
+    "soldByTraders": "Продається торговцями",
+    "vendorCost": "Вартість",
+    "vendorLimit": "Ліміт: {count}",
+    "vendorRefreshDaily": "Оновлюється щодня",
+    "vendorRefreshHourly": "Оновлюється щогодини",
+    "vendorRefreshHours": "Оновлюється кожні {hours} год"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Пошук предметів...",
@@ -651,7 +658,11 @@
     "squadsTitle": "Загони - ARC Raiders",
     "squadsDescription": "Створюйте загони та керуйте ними, щоб ділитися історією рейдів та прогресом із друзями в ARC Raiders.",
     "stashTitle": "Трекер схрону - ARC Raiders",
-    "stashDescription": "Автоматично синхронізуйте та відстежуйте інвентар схрону, спорядження та валюти в ARC Raiders. Прив'яжіть свій ігровий обліковий запис для оновлень у реальному часі."
+    "stashDescription": "Автоматично синхронізуйте та відстежуйте інвентар схрону, спорядження та валюти в ARC Raiders. Прив'яжіть свій ігровий обліковий запис для оновлень у реальному часі.",
+    "projectNotFoundTitle": "Проєкт не знайдено - ARC Raiders",
+    "projectNotFoundDescription": "Запитаний проєкт не вдалося знайти.",
+    "tradersTitle": "Торговці - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Переглядайте всіх торговців у ARC Raiders. Дивіться асортимент магазину та пов'язані квести для кожного торговця."
   },
   "OverlayPage": {
     "pageTitle": "Додаток-помічник (Оверлей)",
@@ -703,7 +714,7 @@
   },
   "Footer": {
     "copyright": "Ігровий контент та матеріали є торговими марками та авторськими правами Embark Studios та їх ліцензіарів. Усі права захищено.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Умови використання",
     "privacyPolicy": "Політика конфіденційності"
   },
@@ -818,14 +829,21 @@
     "premiumActivatedDesc": "Дякуємо за підтримку ARCTracker! Ваша преміум-підписка тепер активна.",
     "premiumBenefitsTitle": "Ваші переваги Premium",
     "manageSubscriptionTitle": "Керування підпискою",
-    "manageSubscriptionDesc": "Ви можете переглянути деталі підписки та керувати платежами на сторінці Налаштувань або через платіжний портал Tebex.",
+    "manageSubscriptionDesc": "Ви можете переглянути деталі своєї підписки та керувати оплатою через сторінку налаштувань або платіжний портал.",
     "goToSettings": "До налаштувань",
     "tebexPaymentPortal": "Платіжний портал Tebex",
     "backToHome": "На головну",
     "benefitUnlimitedPins": "Безлімітні приватні мітки та лут-маршрути",
     "benefitUnlimitedPinsDesc": "Створюйте безліч приватних міток та лут-маршрутів на будь-якій мапі",
     "benefitAutoSync": "Автоматична синхронізація схованки",
-    "benefitAutoSyncDesc": "Автоматично синхронізує вашу схованку, спорядження та прогрес із гри кожні 30 хвилин"
+    "benefitAutoSyncDesc": "Автоматично синхронізує вашу схованку, спорядження та прогрес із гри кожні 30 хвилин",
+    "managedByPolar": "Передплата керується через Polar",
+    "polarPaymentPortal": "Платіжний портал Polar",
+    "upgradeToYearly": "Перейти на річний план",
+    "upgradeToYearlyDesc": "Перейдіть на річну оплату та зекономте 44%. Вам буде зараховано залишок часу вашої місячної підписки.",
+    "upgradeSuccess": "Успішно перейшли на річний план!",
+    "upgradeError": "Не вдалося оновити план. Будь ласка, спробуйте ще раз.",
+    "upgradeSaving": "Зекономте {percent}%"
   },
   "Favorites": {
     "addToList": "Додати до списку",
@@ -895,7 +913,9 @@
     "createYourOwn": "Створити власний список",
     "listNotFound": "Список не знайдено",
     "listNotFoundDescription": "Цей список не існує або не є публічним.",
-    "backToHome": "На головну"
+    "backToHome": "На головну",
+    "cancel": "Скасувати",
+    "save": "Зберегти"
   },
   "Maps": {
     "showAll": "Показати все",
@@ -1452,7 +1472,9 @@
       "totalValueExtracted": "Загальна вартість винесеного",
       "valueBroughtIn": "Вартість внесеного",
       "valueExtracted": "Вартість винесеного",
-      "weaponsByKillsTitle": "Зброя за кількістю вбивств"
+      "weaponsByKillsTitle": "Зброя за кількістю вбивств",
+      "containersLooted": "Обшукано контейнерів",
+      "containersPerRaid": "Контейнерів / Рейд"
     },
     "extractedSuffix": " винесено",
     "extractionRate": "Коефіцієнт евакуації",
@@ -1520,7 +1542,8 @@
     "undoSyncFailedLocally": "Не вдалося скасувати синхронізацію локально",
     "unknownMap": "Невідома карта",
     "valueSuffix": " вартість",
-    "timeInRaid": "Час у рейді"
+    "timeInRaid": "Час у рейді",
+    "statDamageByTarget": "Шкода за цілями"
   },
   "RaidSync": {
     "title": "Застосувати до прогресу",
@@ -1632,7 +1655,9 @@
         "hideout": "Модулі схованки",
         "done": "Готово"
       },
-      "flickeringFlames": "Мерехтливе полум'я"
+      "flickeringFlames": "Мерехтливе полум'я",
+      "nonExpeditionProjects": "Проекти, не пов'язані з експедиціями",
+      "expeditionProjects": "Експедиційні проєкти"
     }
   },
   "DeviceAuth": {
@@ -1757,7 +1782,16 @@
       "saving": "Збереження...",
       "selectAll": "Вибрати все",
       "unselectAll": "Зняти вибір",
-      "noChanges": "Немає змін для збереження"
+      "noChanges": "Немає змін для збереження",
+      "cancel": "Скасувати"
+    },
+    "inferred": {
+      "completedViaLabel": "Джерело завершення",
+      "completedViaValue": "Прогрес експедиції ARC Raiders",
+      "description": "Завершення цього сезону виявлено завдяки синхронізації експедицій ARC Raiders.",
+      "detailsLabel": "Детальна статистика",
+      "detailsValue": "Недоступно для цього сезону.",
+      "title": "Сезон {number} завершено"
     }
   },
   "GuestBackupBanner": {
@@ -1999,7 +2033,17 @@
       "screenshotAlt": "Сторінка загону з відображенням спільної історії рейдів",
       "screenshotDescription": "Переглядайте спільну історію рейдів, діліться приватними мітками на мапі та координуйте дії із загоном.",
       "seeItInAction": "Подивитися в дії"
-    }
+    },
+    "filterMap": "Карта",
+    "filterStatus": "Статус",
+    "filterSeason": "Сезон",
+    "filterMember": "Учасник",
+    "allMaps": "Усі карти",
+    "allStatuses": "Усі статуси",
+    "allSeasons": "Усі сезони",
+    "allMembers": "Усі учасники",
+    "clearFilters": "Очистити фільтри",
+    "noRaidsFiltered": "Вашим поточним фільтрам не відповідає жоден рейд."
   },
   "MapSubcategories": {
     "abundantLoot": "Багатий лут",
@@ -2217,7 +2261,9 @@
       "suggestItem": "Запропонувати предмет",
       "mappingLocked": "Зіставлення цього предмета заблоковано",
       "sortUnsorted": "Несортоване",
-      "searchPlaceholder": "Пошук предметів..."
+      "searchPlaceholder": "Пошук предметів...",
+      "sortRarity": "Сортувати за рідкісністю",
+      "sortName": "Сортувати за назвою"
     },
     "currencies": {
       "cred": "Кред",
@@ -2540,5 +2586,270 @@
       "player": "Гравець",
       "squadmate": "Напарник"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "У ваших списках",
+    "tapToView": "Торкніться ще раз, щоб переглянути деталі"
+  },
+  "SeasonsPage": {
+    "title": "Сезони",
+    "currentSeason": "Ви зараз у {name}",
+    "seasonStarted": "Розпочався {date}",
+    "seasonEnds": "Закінчується {date}",
+    "departure": {
+      "title": "Покинути {season}",
+      "description": "Готові до відправлення? Збережіть знімок свого прогресу та зробіть скидання для наступного сезону. Ваш розподіл у дереві навичок і прогрес проектів, не пов'язаних з експедиціями, будуть збережені.",
+      "willReset": "Буде скинуто",
+      "bonusInfo": "Бонусні очки навичок",
+      "bonusDescription": "Отримайте 1 бонусне очко навичок за кожні {creditsPerPoint} кредитів сховища (макс. {maxPoints} очок)",
+      "startButton": "Розпочати відбуття",
+      "notYetAvailable": "Вікно відбуття ще не відкрите. Перевірте знову після закінчення сезону.",
+      "alreadyDeparted": "Відбуття завершено",
+      "alreadyDepartedDescription": "Ви вже покинули цей сезон. Перегляньте свою статистику сезону в історії нижче.",
+      "confirmTitle": "Підтвердити відбуття",
+      "confirmWarning": "Цю дію неможливо скасувати. Ваш прогрес квестів, сховок та креслення будуть скинуті.",
+      "confirmButton": "Підтвердити та відбути",
+      "bonusEarned": "Зароблений бонус",
+      "successTitle": "Відбуття завершено!",
+      "successDescription": "Ваш прогрес у {season} збережено. Хай щастить у наступному сезоні!",
+      "loadingTitle": "Завантаження статусу відправлення",
+      "opensIn": "Відправлення відкриється через {countdown}",
+      "opensAt": "Відкриється {date}"
+    },
+    "autoResetDetected": "Виявлено відправлення сезону {season}!",
+    "autoResetDescription": "Ми виявили ваше відправлення через синхронізацію Embark. Ваш прогрес було автоматично збережено. Ви можете оновити кредити сховища та рівень гравця в історії сезонів нижче.",
+    "expedition": {
+      "title": "Експедиція",
+      "description": "Сезонні вильоти для пов'язаних облікових записів ARC Raiders відбуваються автоматично.",
+      "currentState": "Поточний стан експедиції",
+      "completedExpeditions": "Завершені експедиції",
+      "activeSeason": "Активний сезон",
+      "syncButton": "Синхронізувати експедицію",
+      "syncingButton": "Синхронізація...",
+      "syncError": "Не вдалося синхронізувати стан експедиції.",
+      "states": {
+        "notStarted": "не розпочато",
+        "inProgress": "в процесі",
+        "completed": "завершено",
+        "unknown": "Невідомо",
+        "ready": "Готово",
+        "committed": "Підтверджено"
+      }
+    },
+    "questionnaire": {
+      "description": "Вперше на ARCTracker? Виберіть предмет, який ви бачите на етапі 1 вашого експедиційного проєкту, щоб ми могли встановити правильний сезон.",
+      "requiredQuantity": "Необхідно: {count}",
+      "retakeButton": "Пройти повторно опитування щодо сезону",
+      "success": "Встановлено активний сезон {season}.",
+      "title": "Визначте свій сезон експедиції"
+    },
+    "metaDescription": "Відстежуйте свій сезон експедицій ARC Raiders, керуйте відправленнями та переглядайте історію сезону в ARCTracker."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "Всі необхідні предмети (загалом)",
+    "backToProjects": "Назад до проєктів",
+    "itemRequirements": "Необхідні предмети",
+    "metaDescription": "Всі вимоги до предметів для {projectName} у ARC Raiders. Перегляньте кожен етап, необхідні предмети та кількість, потрібну для завершення цього проєкту.",
+    "metaTitleSuffix": "Вимоги - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "Нагороди",
+    "projectNotFound": "Проєкт не знайдено",
+    "projectNotFoundMessage": "Запитаний проєкт не вдалося знайти.",
+    "receive": "Отримати",
+    "totalItemsNeeded": "Всього потрібно предметів",
+    "totalPhases": "Етапи",
+    "turnIn": "Здати",
+    "uniqueItems": "Унікальні предмети",
+    "valueRequirement": "Необхідна вартість"
+  },
+  "Cipher": {
+    "alphaBadge": "Експериментально",
+    "clearChat": "Очистити чат",
+    "closeCipher": "Закрити",
+    "emptyStateDescription": "Системи в мережі. Запитуйте про сховище, ефективність у рейдах, шанси випадіння або будь-що стосовно вилазок. Відповіді не завжди можуть бути точними — будь ласка, перевіряйте важливу інформацію.",
+    "emptyStateTitle": "Сайфер",
+    "inputPlaceholder": "Запитати Сайфера...",
+    "openCipher": "Відкрити Сайфер",
+    "panelTitle": "Сайфер",
+    "sendMessage": "Надіслати повідомлення",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Сканування сховку...",
+        "done": "Сховок проскановано"
+      },
+      "createChart": {
+        "active": "Генерація візуалізації...",
+        "done": "Візуалізацію згенеровано"
+      },
+      "fallbackActive": "Використання {toolName}...",
+      "fallbackDone": "{toolName} використано",
+      "findBestFarmingMaps": {
+        "active": "Оптимізація маршрутів для фарму...",
+        "done": "Маршрути для фарму оптимізовано"
+      },
+      "getHideoutModules": {
+        "active": "Перевірка модулів прихистку...",
+        "done": "Модулі прихистку перевірено"
+      },
+      "getItem": {
+        "active": "Отримання даних про предмет...",
+        "done": "Дані про предмет отримано"
+      },
+      "getItemDropLocations": {
+        "active": "Аналіз місць випадіння...",
+        "done": "Місця випадіння проаналізовано"
+      },
+      "getItemDropStats": {
+        "active": "Аналіз шансів випадіння...",
+        "done": "Шанси випадіння проаналізовано"
+      },
+      "getPlayerStats": {
+        "active": "Отримання показників гравця...",
+        "done": "Показники гравця отримано"
+      },
+      "getQuest": {
+        "active": "Отримання даних квесту...",
+        "done": "Дані квесту отримано"
+      },
+      "getRaidHistory": {
+        "active": "Отримання журналів рейдів...",
+        "done": "Журнали рейдів отримано"
+      },
+      "getRaidStats": {
+        "active": "Обробка даних рейдів...",
+        "done": "Дані рейдів оброблено"
+      },
+      "getUserHideoutProgress": {
+        "active": "Перевірка прогресу прихистку...",
+        "done": "Прогрес прихистку перевірено"
+      },
+      "getUserLoadout": {
+        "active": "Отримання конфігурації спорядження...",
+        "done": "Спорядження отримано"
+      },
+      "getUserNeededItems": {
+        "active": "Розрахунок необхідних предметів...",
+        "done": "Необхідні предмети розраховано"
+      },
+      "getUserQuestProgress": {
+        "active": "Перевірка прогресу квестів...",
+        "done": "Прогрес квестів перевірено"
+      },
+      "getUserStash": {
+        "active": "Доступ до записів сховку...",
+        "done": "Отримано доступ до сховку"
+      },
+      "getWeaponDamage": {
+        "active": "Аналіз шкоди від зброї...",
+        "done": "Шкоду від зброї проаналізовано"
+      },
+      "getWeaponKills": {
+        "active": "Отримання даних про зброю...",
+        "done": "Дані про зброю отримано"
+      },
+      "searchItems": {
+        "active": "Сканування бази предметів...",
+        "done": "Базу предметів проскановано"
+      },
+      "searchQuests": {
+        "active": "Сканування записів квестів...",
+        "done": "Записи квестів проскановано"
+      },
+      "getMapEvents": {
+        "active": "Перевірка подій на мапі...",
+        "done": "Події на мапі перевірено"
+      },
+      "searchCraftableItems": {
+        "active": "Пошук рецептів...",
+        "done": "Пошук рецептів завершено"
+      },
+      "searchSkillNodes": {
+        "active": "Пошук у дереві навичок...",
+        "done": "Пошук у дереві навичок завершено"
+      },
+      "getSkillNode": {
+        "active": "Завантаження деталей навички...",
+        "done": "Деталі навички завантажено"
+      },
+      "getProjects": {
+        "active": "Завантаження проєктів...",
+        "done": "Проєкти завантажено"
+      },
+      "getUserLists": {
+        "active": "Завантаження ваших списків...",
+        "done": "Ваші списки завантажено"
+      },
+      "getListItems": {
+        "active": "Завантаження предметів зі списку...",
+        "done": "Предмети зі списку завантажено"
+      },
+      "addItemToList": {
+        "active": "Додавання до списку...",
+        "denied": "Скасовано",
+        "done": "Додано до списку"
+      },
+      "removeItemFromList": {
+        "active": "Вилучення зі списку...",
+        "denied": "Скасовано",
+        "done": "Вилучено зі списку"
+      },
+      "createList": {
+        "active": "Створення списку...",
+        "denied": "Скасовано",
+        "done": "Список створено"
+      },
+      "deleteList": {
+        "active": "Видалення списку...",
+        "denied": "Скасовано",
+        "done": "Список видалено"
+      },
+      "fallbackDenied": "Скасовано {toolName}",
+      "getItemFarmingContext": {
+        "active": "Аналіз контексту фарму...",
+        "done": "Аналіз контексту фарму завершено"
+      }
+    },
+    "approval": {
+      "addItemToList": "Додати \"{itemName}\" до \"{listName}\"",
+      "approve": "Схвалити",
+      "createList": "Створити список \"{name}\"",
+      "deleteList": "Видалити список \"{listName}\"",
+      "deleteWarning": "Це видалить список та {count, plural, one {# елемент} other {# елементів}} у ньому.",
+      "deny": "Відхилити",
+      "removeItemFromList": "Вилучити \"{itemName}\" з \"{listName}\""
+    },
+    "feedback": {
+      "helpful": "Корисна відповідь",
+      "notHelpful": "Некорисна відповідь"
+    },
+    "confirmation": {
+      "denied": "Дію скасовано",
+      "error": "Щось пішло не так",
+      "executing": "Виконується...",
+      "success": {
+        "addItemToList": "Додано до списку",
+        "createList": "Список створено",
+        "deleteList": "Список видалено",
+        "generic": "Готово",
+        "removeItemFromList": "Вилучено зі списку"
+      }
+    },
+    "privateBetaNotice": "Закрита бета — лише для учасників. Будь ласка, ведіть обговорення у каналі для учасників."
+  },
+  "TradersPage": {
+    "itemsForSale": "предмети у продажу",
+    "quests": "квести",
+    "title": "Торговці"
+  },
+  "TraderPage": {
+    "backToTraders": "Назад до торговців",
+    "coins": "Монети",
+    "limit": "Ліміт",
+    "noQuests": "Немає квестів",
+    "noShopItems": "Немає предметів у продажу",
+    "quests": "Квести",
+    "refresh": "оновлення",
+    "shop": "Магазин",
+    "traderNotFound": "Торговця не знайдено",
+    "traderNotFoundDesc": "Торговця, якого ви шукаєте, не існує."
   }
 }

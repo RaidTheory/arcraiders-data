@@ -1,5 +1,5 @@
 {
-  "id": "ss10x5",
+  "id": "into_the_fray",
   "name": {
     "da": "Ind i kampen",
     "de": "Mitten rein ins Getümmel",
@@ -7,16 +7,16 @@
     "es": "A la refriega",
     "fr": "Dans la mêlée",
     "he": "אל תוך הקרב",
-    "hr": "U okršaj",
+    "hr": "U bitku",
     "it": "Nella mischia",
     "ja": "戦いの渦中へ",
     "ko-KR": "격전 속으로",
-    "no": "Inn i kampens hete",
+    "no": "Inn i striden",
     "pl": "Do boju",
-    "pt": "Rumo ao confronto",
+    "pt": "Ao Combate",
     "pt-BR": "Rumo ao confronto",
     "ru": "В самое пекло",
-    "sr": "U okršaj",
+    "sr": "U žaru borbe",
     "tr": "Kavgaya Karışmak",
     "uk": "У бій",
     "zh-CN": "投入战斗",
@@ -31,30 +31,30 @@
     }
   ],
   "description": {
-    "da": "Det plejede at være deres verden, deroppe. Ingen til at udfordre deres herredømme. \n\nMen her er vi. Flere forposter. Flere efterretninger. Mere ildkraft. Hvis jeg ikke vidste bedre, ville jeg sige, at vi stadig har en hel del kamp i os.",
+    "da": "Det plejede at være deres verden deroppe. Ingen til at udfordre deres krav. \n\nMen her er vi. Flere forposter. Mere efterretning. Mere ildkraft. Hvis jeg ikke vidste bedre, ville jeg sige, at vi stadig har en hel del kampgejst tilbage i os.",
     "de": "Das da oben war früher ihre Welt. Sie mussten nicht verteidigen, was ihnen gehörte.\r\n\r\nUnd doch sind wir jetzt hier. Mehr Außenposten. Mehr Informationsbeschaffung. Mehr Feuerkraft. Wenn ich es nicht besser wüsste, würde ich sagen, wir haben noch ordentlich Kampfgeist in uns.",
     "en": "It used to be their world, up there. Nobody to challenge their claim. \n\nYet here we are. More outposts. More intel. More firepower. If I didn’t know better, I’d say we’ve got quite a bit of fight left in us.",
     "es": "Eran los dueños de la superficie. Nadie podía plantarles cara, pero aquí seguimos, con más puestos, más información y más potencia de fuego. Aún no está todo perdido.",
     "fr": "Avant, c'était leur monde, là-haut. Personne ne venait contester leur territoire. Et pourtant nous voilà, avec plus d'avant-postes, un meilleur réseau d'informations et une plus grande puissance de feu. Je suis tentée de dire qu'on a encore une chance.",
-    "he": "פעם זה היה העולם שלהם, שם למעלה. אף אחד לא ערער על הבעלות שלהם. \n\nובכל זאת, הנה אנחנו כאן. יותר מוצבים. יותר מודיעין. יותר כוח אש. אם לא הייתי יודע אחרת, הייתי אומר שנשאר בנו עוד לא מעט כוח להילחם.",
-    "hr": "Nekad je to bio njihov svijet, gore. Nitko nije osporavao njihovo pravo. \n\nIpak, tu smo. Više predstraža. Više informacija. Više vatrene moći. Da ne znam bolje, rekao bih da u nama ima još dosta borbenog duha.",
+    "he": "זה היה העולם שלהם, שם למעלה. אף אחד לא ערער על הבעלות שלהם. \n\nובכל זאת אנחנו כאן. עוד מוצבים. עוד מודיעין. עוד כוח אש. אם לא הייתי יודע אחרת, הייתי אומר שנשאר בנו לא מעט כוח להילחם.",
+    "hr": "Nekoć je to bio njihov svijet, gore. Nitko nije osporavao njihovo pravo. \n\nPa ipak, tu smo. Više predstraža. Više informacija. Više vatrene moći. Da ne znam bolje, rekao bih da u nama ima još dosta borbenog duha.",
     "it": "Una volta era il loro mondo, lassù. Nessuno contestava le loro pretese. Eppure eccoci qui. Altri avamposti. Più informazioni. Più potenza di fuoco. Se non sapessi come stanno le cose, direi che abbiamo ancora un bel po' di voglia di combattere.",
     "ja": "そこは誰も手を出せない、奴らの世界だった。でも私たちがいる。基地を建てて、情報も集めた。火力も十分。戦いの終わりまで、あと少しだ。",
     "ko-KR": "저 위는 한때 녀석들의 세상이었어요. 놈들의 지배에 맞서는 사람도 없었죠. 그런데 우리를 보세요. 전초 기지도, 정보도 더 많고 화력도 더 강해요. 모르긴 해도, 투지가 아직 남아 있었나 봐요.",
-    "no": "Det pleide å være deres verden, der oppe. Ingen til å utfordre kravet deres. \n\nMen her er vi. Flere utposter. Mer etterretning. Mer ildkraft. Hvis jeg ikke visste bedre, ville jeg sagt at vi fortsatt har mye kampvilje igjen.",
+    "no": "Det pleide å være deres verden, der oppe. Ingen som utfordret herredømmet deres. \n\nMen her er vi. Flere utposter. Mer etterretning. Mer ildkraft. Om jeg ikke visste bedre, ville jeg sagt at vi fortsatt har mye kampvilje i oss.",
     "pl": "Kiedyś miały tu swój świat. Nikt nie wchodził im w drogę. Aż pojawiliśmy się my. Więcej posterunków. Więcej danych wywiadowczych. Więcej broni. Gdybym nie wiedziała, że tak nie jest, powiedziałabym, że duch walki jeszcze w nas nie umarł.",
-    "pt": "Lá em cima já foi o mundo deles. Isso não era contestado por ninguém. E aqui estamos nós, com mais postos avançados, mais informações, mais poder de fogo... Ouso dizer que ainda temos muita luta pela frente.",
+    "pt": "Costumava ser o mundo deles, lá em cima. Ninguém para contestar sua reivindicação. \n\nNo entanto, aqui estamos nós. Mais postos avançados. Mais inteligência. Mais poder de fogo. Se eu não soubesse, diria que ainda temos muita luta dentro de nós.",
     "pt-BR": "Lá em cima já foi o mundo deles. Isso não era contestado por ninguém. E aqui estamos nós, com mais postos avançados, mais informações, mais poder de fogo... Ouso dizer que ainda temos muita luta pela frente.",
     "ru": "Раньше это был их мир, и некому было бросить им вызов. А потом появились мы. У нас всё больше аванпостов, информации, оружия. Похоже, нам еще есть что показать.",
-    "sr": "Nekada je to bio njihov svet, tamo gore. Niko im se nije suprotstavljao. \n\nIpak, evo nas. Više ispostava. Više informacija. Više vatrene moći. Da ne znam bolje, rekao bih da u nama ima još dosta borbenog duha.",
+    "sr": "Nekada je to bio njihov svet, tamo gore. Niko da im ospori pravo. \n\nIpak, evo nas. Više ispostava. Više informacija. Više vatrene moći. Da ne znam bolje, rekao bih da u nama ima još dosta borbenog duha.",
     "tr": "Yukarısı önceden onların dünyasıydı. Orada hak iddia etmişlerdi ve buna karşı çıkabilecek kimse yoktu. Ama biz varız. Daha fazla karakolumuz, bilgimiz ve silahımız var. Bilmesem hâlâ meydan okuyacak gücümüz var bile diyeceğim.",
-    "uk": "Раніше це був їхній світ, там, нагорі. Ніхто не оскаржував їхні права. \n\nАле ось ми тут. Більше аванпостів. Більше розвідданих. Більше вогневої моці. Якби я не знав краще, я б сказав, що ми ще здатні добряче поборотися.",
+    "uk": "Колись це був їхній світ, там нагорі. Ніхто не оскаржував їхні права. \n\nАле ось ми тут. Більше аванпостів. Більше розвідданих. Більше вогневої міці. Якби я не знав напевне, я б сказав, що в нас ще є достатньо запалу для боротьби.",
     "zh-CN": "上面曾经是它们的地盘，无人能撼动其霸权。可如今呢？哨站越建越多，情报网越铺越广，火力装备越来越强。要是不知情，我甚至会说——我们这帮人，骨子里的血性可半点没少。",
     "zh-TW": "以前上面都是它們的世界。沒人敢挑戰它們的霸權。但如今我們走到了這一步。越來越多哨站、越來越多情報、越來越強大的火力。要是我天真一點的話，可能還會說我們人類還是有反抗的機會的。"
   },
   "objectives": [
     {
-      "da": "Ødelæg en Leaper",
+      "da": "Destruér en Leaper",
       "de": "Zerstöre einen Springer.",
       "en": "Destroy a Leaper",
       "es": "Destruye un saltador.",
@@ -76,13 +76,13 @@
       "zh-TW": "摧毀1台跳躍者"
     },
     {
-      "da": "Skaf en Leaper-impulsenhed",
+      "da": "Skaf en Leaper-pulsenhed",
       "de": "Beschaffe eine Springer-Impulseinheit.",
       "en": "Obtain a Leaper Pulse Unit",
       "es": "Consigue una unidad de impulso de saltador.",
       "fr": "Obtenir une unité à impulsion de Bondisseur",
       "he": "השג יחידת Leaper Pulse",
-      "hr": "Nabavi pulsnu jedinicu Skakača",
+      "hr": "Pribavi Pulsnu jedinicu Skakača",
       "it": "Ottieni un'unità a impulso Leaper",
       "ja": "リーパー・パルスユニットを手に入れた",
       "ko-KR": "리퍼 펄스 유닛 획득하기",
@@ -91,9 +91,9 @@
       "pt": "Obtenha uma Unidade de Pulso de Saltador",
       "pt-BR": "Obtenha uma Unidade de Pulso de Saltador",
       "ru": "Добудьте импульсный блок «Прыгуна».",
-      "sr": "Nabavi Pulsnu jedinicu Skakača",
+      "sr": "Nabavi pulsnu jedinicu Skakača",
       "tr": "Bir Sıçrayıcı Vurucu Birimi elde et",
-      "uk": "Отримайте імпульсний блок Стрибуна",
+      "uk": "Здобудьте імпульсний блок Стрибуна",
       "zh-CN": "获得一个“跳跃者”脉冲单元",
       "zh-TW": "獲得跳躍者脈衝單元"
     }
@@ -109,7 +109,7 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10x4", "ss11b2"],
+  "previousQuestIds": ["water_troubles", "communication_hideout"],
   "nextQuestIds": ["combat_recon", "paving_the_way"],
-  "updatedAt": "02/20/2026"
+  "updatedAt": "02/25/2026"
 }

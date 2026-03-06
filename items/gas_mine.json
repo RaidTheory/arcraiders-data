@@ -135,5 +135,14 @@
     "chemicals": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "1.2",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 810
+      },
+      "trader": "Apollo"
+    }
+  ]
 }

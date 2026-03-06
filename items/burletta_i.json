@@ -48,6 +48,7 @@
   "rarity": "Uncommon",
   "value": 2900,
   "weightKg": 4,
+  "stackSize": 1,
   "isWeapon": true,
   "blueprintLocked": true,
   "effects": {
@@ -180,7 +181,47 @@
   "salvagesInto": {
     "simple_gun_parts": 2
   },
+  "upgradeCost": {
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  },
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
   "updatedAt": "02/24/2026",
-  "durability": 100
+  "addedIn": "base",
+  "durability": 100,
+  "modSlots": {
+    "magazine": [
+      "extended_light_mag_i",
+      "extended_light_mag_ii",
+      "extended_light_mag_iii"
+    ],
+    "muzzle": [
+      "compensator_i",
+      "compensator_ii",
+      "compensator_iii",
+      "extended_barrel",
+      "muzzle_brake_i",
+      "muzzle_brake_ii",
+      "muzzle_brake_iii",
+      "silencer_i",
+      "silencer_ii",
+      "silencer_iii"
+    ]
+  },
+  "repairCost": {
+    "mechanical_components": 1,
+    "simple_gun_parts": 2
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "burletta_ii",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 8700
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "trader": "Tian Wen"
+    }
+  ]
 }

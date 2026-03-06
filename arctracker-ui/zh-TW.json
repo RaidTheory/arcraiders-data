@@ -74,7 +74,9 @@
     "settings": "設置",
     "privacy": "隱私政策",
     "terms": "服務條款",
-    "stash": "倉庫"
+    "stash": "倉庫",
+    "seasons": "賽季",
+    "traders": "商人"
   },
   "MapEvents": {
     "startsIn": "開始於",
@@ -109,7 +111,8 @@
       "launchTowerLoot": "發射塔上的戰利品",
       "hiddenBunker": "隱藏地堡",
       "birdCity": "鳥城",
-      "none": "無"
+      "none": "無",
+      "hurricane": "颶風"
     }
   },
   "Common": {
@@ -192,11 +195,6 @@
     "requirementsUnknown": "需求暫未明確",
     "noRequirements": "無需求",
     "coins": "幣",
-    "combatItems": "戰鬥物品",
-    "survivalItems": "生存物品",
-    "provisions": "給養",
-    "materials": "材料",
-    "value": "價值",
     "phases": "階段",
     "required": "需要",
     "submitItemsValue": "提交所需價值的物品以完成此階段。",
@@ -204,7 +202,8 @@
     "season2": "第 2 賽季",
     "stashModeActive": "已啟用同步倉庫模式",
     "lastSynced": "已同步",
-    "syncStash": "同步倉庫"
+    "syncStash": "同步倉庫",
+    "season3": "第 3 賽季"
   },
   "HideoutPage": {
     "level": "等級",
@@ -584,7 +583,15 @@
         "high": "可靠性極佳",
         "highDesc": "200+ 次追蹤對局"
       }
-    }
+    },
+    "upgradePath": "升級路徑",
+    "currentTier": "當前",
+    "soldByTraders": "由商人販售",
+    "vendorCost": "費用",
+    "vendorLimit": "限購：{count}",
+    "vendorRefreshDaily": "每日刷新",
+    "vendorRefreshHourly": "每小時刷新",
+    "vendorRefreshHours": "每 {hours} 小時刷新"
   },
   "ItemsListPage": {
     "searchPlaceholder": "搜索物品...",
@@ -658,7 +665,11 @@
     "squadsTitle": "小隊 - ARC Raiders",
     "squadsDescription": "在 ARC Raiders 中創建並管理小隊，與好友分享對局記錄和進度。",
     "stashTitle": "倉庫追蹤器 - ARC Raiders",
-    "stashDescription": "自動同步並追蹤您的 ARC Raiders 倉庫、裝備配置及貨幣。關聯您的遊戲賬號以獲取實時更新。"
+    "stashDescription": "自動同步並追蹤您的 ARC Raiders 倉庫、裝備配置及貨幣。關聯您的遊戲賬號以獲取實時更新。",
+    "projectNotFoundTitle": "找不到專案 - ARC Raiders",
+    "projectNotFoundDescription": "找不到請求的專案。",
+    "tradersTitle": "商人 - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "瀏覽 ARC Raiders 中的所有商人。查看每位商人的商店庫存及相關任務。"
   },
   "OverlayPage": {
     "pageTitle": "懸浮窗助手應用",
@@ -778,7 +789,7 @@
   },
   "Footer": {
     "copyright": "遊戲內容和材料是 Embark Studios 及其許可方的商標和版權。保留所有權利。",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "服務條款",
     "privacyPolicy": "隱私政策"
   },
@@ -1020,10 +1031,17 @@
     "premiumActivatedDesc": "感謝您支持 ARCTracker！您的高級版訂閱現已激活。",
     "premiumBenefitsTitle": "您的高級版福利",
     "manageSubscriptionTitle": "管理您的訂閱",
-    "manageSubscriptionDesc": "您可以通過「設置」頁面或 Tebex 支付門戶查看您的訂閱詳情並管理您的賬單。",
+    "manageSubscriptionDesc": "您可以透過設定頁面或付款入口網站查看您的訂閱詳情並管理帳單。",
     "goToSettings": "前往設置",
     "tebexPaymentPortal": "Tebex 支付門戶",
-    "backToHome": "返回首頁"
+    "backToHome": "返回首頁",
+    "managedByPolar": "訂閱由 Polar 管理",
+    "polarPaymentPortal": "Polar 支付門戶",
+    "upgradeToYearly": "升級至年度方案",
+    "upgradeToYearlyDesc": "切換至年繳計費可節省 44%。您剩餘的月費時數將會被折抵。",
+    "upgradeSuccess": "已成功升級至年度方案！",
+    "upgradeError": "升級失敗，請稍後再試。",
+    "upgradeSaving": "節省 {percent}%"
   },
   "Favorites": {
     "addToList": "添加到收藏",
@@ -1093,7 +1111,9 @@
     "createYourOwn": "創建您自己的收藏列表",
     "listNotFound": "收藏列表未找到",
     "listNotFoundDescription": "此收藏列表不存在或未公開分享。",
-    "backToHome": "返回首頁"
+    "backToHome": "返回首頁",
+    "cancel": "取消",
+    "save": "儲存"
   },
   "Maps": {
     "showAll": "顯示全部",
@@ -1715,7 +1735,9 @@
       "totalValueExtracted": "總撤離價值",
       "valueBroughtIn": "帶入價值",
       "valueExtracted": "撤離價值",
-      "weaponsByKillsTitle": "按擊殺數分類的武器"
+      "weaponsByKillsTitle": "按擊殺數分類的武器",
+      "containersLooted": "已搜刮容器",
+      "containersPerRaid": "容器 / 突襲"
     },
     "extractedSuffix": " 已撤離",
     "extractionRate": "撤離率",
@@ -1783,7 +1805,8 @@
     "undoSyncFailedLocally": "本機復原同步失敗",
     "unknownMap": "未知地圖",
     "valueSuffix": " 價值",
-    "timeInRaid": "突襲時間"
+    "timeInRaid": "突襲時間",
+    "statDamageByTarget": "按目標分類的傷害"
   },
   "RaidSync": {
     "title": "應用到進度",
@@ -1879,7 +1902,16 @@
       "saving": "保存中...",
       "selectAll": "全選",
       "unselectAll": "取消全選",
-      "noChanges": "沒有要保存的更改"
+      "noChanges": "沒有要保存的更改",
+      "cancel": "取消"
+    },
+    "inferred": {
+      "completedViaLabel": "完成來源",
+      "completedViaValue": "ARC Raiders 遠征進度",
+      "description": "此賽季完成狀態是透過您的 ARC Raiders 遠征同步偵測到的。",
+      "detailsLabel": "詳細統計數據",
+      "detailsValue": "本賽季無法提供。",
+      "title": "第 {number} 賽季已完成"
     }
   },
   "season": {
@@ -1941,7 +1973,9 @@
         "quests": "已完成任務",
         "hideout": "藏身處模塊",
         "done": "完成"
-      }
+      },
+      "nonExpeditionProjects": "非遠征專案",
+      "expeditionProjects": "遠征計畫"
     }
   },
   "SquadsPage": {
@@ -2091,7 +2125,17 @@
       "highlightToggleSharing": "逐項功能切換分享開關",
       "highlightSecureInvites": "通過安全鏈接邀請成員",
       "ctaText": "立即開始小隊協作！"
-    }
+    },
+    "filterMap": "地圖",
+    "filterStatus": "狀態",
+    "filterSeason": "賽季",
+    "filterMember": "成員",
+    "allMaps": "所有地圖",
+    "allStatuses": "所有狀態",
+    "allSeasons": "所有賽季",
+    "allMembers": "所有成員",
+    "clearFilters": "清除篩選",
+    "noRaidsFiltered": "沒有符合目前篩選條件的突襲。"
   },
   "StashPage": {
     "title": "倉庫",
@@ -2219,7 +2263,9 @@
       "submitSuggestion": "提交建議",
       "suggestionError": "提交建議失敗。請重試。",
       "syncError": "庫存同步失敗。請重試。",
-      "searchPlaceholder": "搜索物品..."
+      "searchPlaceholder": "搜索物品...",
+      "sortRarity": "依稀有度排序",
+      "sortName": "依名稱排序"
     },
     "loadout": {
       "title": "配裝",
@@ -2519,5 +2565,270 @@
       "player": "玩家",
       "squadmate": "隊友"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "在您的清單中",
+    "tapToView": "再次輕觸以查看詳情"
+  },
+  "SeasonsPage": {
+    "title": "賽季",
+    "currentSeason": "您目前處於 {name}",
+    "seasonStarted": "開始於 {date}",
+    "seasonEnds": "結束於 {date}",
+    "departure": {
+      "title": "離開 {season}",
+      "description": "準備好啟程了嗎？儲存您的進度快照並重置以迎接下個賽季。您的技能樹配置與非遠征專案進度將會保留。",
+      "willReset": "將被重置",
+      "bonusInfo": "額外技能點數",
+      "bonusDescription": "每擁有 {creditsPerPoint} 倉庫信用點數可獲得 1 點額外技能點數（上限 {maxPoints} 點）",
+      "startButton": "開始離開程序",
+      "notYetAvailable": "離開窗口尚未開啟。請在賽季結束後再來查看。",
+      "alreadyDeparted": "離開已完成",
+      "alreadyDepartedDescription": "您已離開本賽季。請在下方歷史記錄中查看您的賽季統計數據。",
+      "confirmTitle": "確認離開",
+      "confirmWarning": "此操作無法復原。您的任務進度、藏身處和藍圖將被重置。",
+      "confirmButton": "確認並離開",
+      "bonusEarned": "已獲得獎勵",
+      "successTitle": "離開已完成！",
+      "successDescription": "您的 {season} 進度已儲存。祝您在下一個賽季好運！",
+      "loadingTitle": "正在載入出發狀態",
+      "opensIn": "出發將於 {countdown} 後開放",
+      "opensAt": "於 {date} 開放"
+    },
+    "autoResetDetected": "偵測到第 {season} 賽季撤離！",
+    "autoResetDescription": "我們已透過 Embark 同步偵測到您的撤離。您的進度已自動儲存。您可以在下方的賽季紀錄中更新您的倉庫點數和玩家等級。",
+    "expedition": {
+      "title": "遠征",
+      "description": "已連結 ARC Raiders 帳號的賽季啟程將自動執行。",
+      "currentState": "當前遠征狀態",
+      "completedExpeditions": "已完成的遠征",
+      "activeSeason": "當前賽季",
+      "syncButton": "同步遠征",
+      "syncingButton": "同步中...",
+      "syncError": "無法同步遠征狀態。",
+      "states": {
+        "notStarted": "未開始",
+        "inProgress": "進行中",
+        "completed": "已完成",
+        "unknown": "未知",
+        "ready": "準備就緒",
+        "committed": "已確認"
+      }
+    },
+    "questionnaire": {
+      "description": "初次使用 ARCTracker 嗎？請選擇您在遠征計畫第一階段中看到的物品，以便我們設定正確的賽季。",
+      "requiredQuantity": "需求：{count}",
+      "retakeButton": "重新進行賽季問卷",
+      "success": "已將目前的賽季設定為 {season}。",
+      "title": "尋找您的遠征賽季"
+    },
+    "metaDescription": "在 ARCTracker 追蹤您的 ARC Raiders 遠征賽季，管理出擊，並檢視賽季紀錄。"
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "所有需求物品（總計）",
+    "backToProjects": "返回專案",
+    "itemRequirements": "需求物品",
+    "metaDescription": "ARC Raiders 中 {projectName} 的所有物品需求。查看完成此專案所需的每個階段、需求物品和數量。",
+    "metaTitleSuffix": "需求 - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "獎勵",
+    "projectNotFound": "找不到專案",
+    "projectNotFoundMessage": "找不到請求的專案。",
+    "receive": "獲得",
+    "totalItemsNeeded": "需求物品總數",
+    "totalPhases": "階段",
+    "turnIn": "上繳",
+    "uniqueItems": "不重複物品",
+    "valueRequirement": "價值需求"
+  },
+  "Cipher": {
+    "alphaBadge": "實驗性",
+    "clearChat": "清除對話",
+    "closeCipher": "關閉",
+    "emptyStateDescription": "系統已上線。歡迎詢問關於您的倉庫、突襲表現、掉落率，或是關於戰場的任何問題。回答可能不一定準確 — 請核實重要資訊。",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "詢問 Cipher...",
+    "openCipher": "開啟 Cipher",
+    "panelTitle": "Cipher",
+    "sendMessage": "發送訊息",
+    "tools": {
+      "checkStashForItem": {
+        "active": "正在掃描倉庫...",
+        "done": "倉庫掃描完成"
+      },
+      "createChart": {
+        "active": "正在產生圖表...",
+        "done": "圖表產生完成"
+      },
+      "fallbackActive": "正在使用 {toolName}...",
+      "fallbackDone": "已使用 {toolName}",
+      "findBestFarmingMaps": {
+        "active": "正在最佳化刷寶路線...",
+        "done": "刷寶路線最佳化完成"
+      },
+      "getHideoutModules": {
+        "active": "正在檢查藏身處模組...",
+        "done": "藏身處模組檢查完成"
+      },
+      "getItem": {
+        "active": "正在讀取物品資料...",
+        "done": "物品資料讀取完成"
+      },
+      "getItemDropLocations": {
+        "active": "正在分析掉落位置...",
+        "done": "掉落位置分析完成"
+      },
+      "getItemDropStats": {
+        "active": "正在分析掉落率...",
+        "done": "掉落率分析完成"
+      },
+      "getPlayerStats": {
+        "active": "正在讀取玩家數據...",
+        "done": "玩家數據讀取完成"
+      },
+      "getQuest": {
+        "active": "正在讀取任務資料...",
+        "done": "任務資料讀取完成"
+      },
+      "getRaidHistory": {
+        "active": "正在讀取突襲日誌...",
+        "done": "突襲日誌讀取完成"
+      },
+      "getRaidStats": {
+        "active": "正在運算突襲數據...",
+        "done": "突襲數據運算完成"
+      },
+      "getUserHideoutProgress": {
+        "active": "正在檢查藏身處進度...",
+        "done": "藏身處進度檢查完成"
+      },
+      "getUserLoadout": {
+        "active": "正在讀取裝備配置...",
+        "done": "裝備配置讀取完成"
+      },
+      "getUserNeededItems": {
+        "active": "正在計算所需物品...",
+        "done": "所需物品計算完成"
+      },
+      "getUserQuestProgress": {
+        "active": "正在檢查任務進度...",
+        "done": "任務進度檢查完成"
+      },
+      "getUserStash": {
+        "active": "正在存取倉庫紀錄...",
+        "done": "倉庫存取完成"
+      },
+      "getWeaponDamage": {
+        "active": "正在分析武器傷害...",
+        "done": "武器傷害分析完成"
+      },
+      "getWeaponKills": {
+        "active": "正在讀取武器資料...",
+        "done": "武器資料讀取完成"
+      },
+      "searchItems": {
+        "active": "正在掃描物品資料庫...",
+        "done": "物品資料庫掃描完成"
+      },
+      "searchQuests": {
+        "active": "正在掃描任務紀錄...",
+        "done": "任務紀錄掃描完成"
+      },
+      "getMapEvents": {
+        "active": "正在檢查地圖事件...",
+        "done": "已檢查地圖事件"
+      },
+      "searchCraftableItems": {
+        "active": "正在搜尋配方...",
+        "done": "已搜尋配方"
+      },
+      "searchSkillNodes": {
+        "active": "正在搜尋技能樹...",
+        "done": "已搜尋技能樹"
+      },
+      "getSkillNode": {
+        "active": "正在載入技能詳細資訊...",
+        "done": "已載入技能詳細資訊"
+      },
+      "getProjects": {
+        "active": "正在載入專案...",
+        "done": "已載入專案"
+      },
+      "getUserLists": {
+        "active": "正在載入您的清單...",
+        "done": "已載入您的清單"
+      },
+      "getListItems": {
+        "active": "正在載入清單項目...",
+        "done": "已載入清單項目"
+      },
+      "addItemToList": {
+        "active": "正在新增至清單...",
+        "denied": "已取消",
+        "done": "已新增至清單"
+      },
+      "removeItemFromList": {
+        "active": "正在從清單移除...",
+        "denied": "已取消",
+        "done": "已從清單移除"
+      },
+      "createList": {
+        "active": "正在建立清單...",
+        "denied": "已取消",
+        "done": "已建立清單"
+      },
+      "deleteList": {
+        "active": "正在刪除清單...",
+        "denied": "已取消",
+        "done": "已刪除清單"
+      },
+      "fallbackDenied": "已取消 {toolName}",
+      "getItemFarmingContext": {
+        "active": "正在分析刷取情境...",
+        "done": "已分析刷取情境"
+      }
+    },
+    "approval": {
+      "addItemToList": "將 \"{itemName}\" 新增至 \"{listName}\"",
+      "approve": "批准",
+      "createList": "建立清單 \"{name}\"",
+      "deleteList": "刪除清單 \"{listName}\"",
+      "deleteWarning": "這將移除該清單及其包含的所有 {count, plural, one {# 個項目} other {# 個項目}}。",
+      "deny": "拒絕",
+      "removeItemFromList": "從 \"{listName}\" 移除 \"{itemName}\""
+    },
+    "feedback": {
+      "helpful": "有幫助的回覆",
+      "notHelpful": "沒幫助的回覆"
+    },
+    "confirmation": {
+      "denied": "動作已取消",
+      "error": "發生錯誤",
+      "executing": "執行中...",
+      "success": {
+        "addItemToList": "已加入清單",
+        "createList": "已建立清單",
+        "deleteList": "已刪除清單",
+        "generic": "完成",
+        "removeItemFromList": "已從清單移除"
+      }
+    },
+    "privateBetaNotice": "私人 Beta 測試 —— 僅限貢獻者。請僅在貢獻者頻道進行討論。"
+  },
+  "TradersPage": {
+    "itemsForSale": "出售物品",
+    "quests": "任務",
+    "title": "商人"
+  },
+  "TraderPage": {
+    "backToTraders": "返回商人列表",
+    "coins": "代幣",
+    "limit": "限購",
+    "noQuests": "無任務",
+    "noShopItems": "無出售物品",
+    "quests": "任務",
+    "refresh": "刷新",
+    "shop": "商店",
+    "traderNotFound": "未找到商人",
+    "traderNotFoundDesc": "您所尋找的商人不存在。"
   }
 }

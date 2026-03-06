@@ -50,6 +50,10 @@
   "value": 200,
   "weightKg": 0.25,
   "stackSize": 15,
+  "craftBench": "in_raid",
+  "recipe": {
+    "power_cable": 1
+  },
   "recyclesInto": {
     "rubber_parts": 2
   },
@@ -58,5 +62,16 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/wires.png",
   "updatedAt": "01/20/2026",
-  "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials."
+  "addedIn": "base",
+  "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials.",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 4
+      },
+      "limit": 10,
+      "refreshSeconds": 86400,
+      "trader": "Celeste"
+    }
+  ]
 }

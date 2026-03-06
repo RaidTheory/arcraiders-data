@@ -74,7 +74,9 @@
     "apps": "Aplikacije",
     "discordBot": "Discord bot",
     "squads": "Odredi",
-    "stash": "Skladište"
+    "stash": "Skladište",
+    "seasons": "Sezone",
+    "traders": "Trgovci"
   },
   "MapEvents": {
     "startsIn": "Počinje za",
@@ -109,7 +111,8 @@
       "launchTowerLoot": "Plien lansirnog tornja",
       "hiddenBunker": "Skriveni bunker",
       "none": "Nema",
-      "birdCity": "Grad ptica"
+      "birdCity": "Grad ptica",
+      "hurricane": "Uragan"
     }
   },
   "Common": {
@@ -185,11 +188,6 @@
     "requirementsUnknown": "Zahtevi još nisu poznati",
     "noRequirements": "Nema zahteva",
     "coins": "novčića",
-    "combatItems": "Borbeni predmeti",
-    "survivalItems": "Predmeti za preživljavanje",
-    "provisions": "Zalihe",
-    "materials": "Materijali",
-    "value": "Vrednost",
     "phases": "faze",
     "required": "Potrebno",
     "submitItemsValue": "Predajte predmete u vrednosti potrebnoj za završetak ove faze.",
@@ -197,7 +195,8 @@
     "season2": "Sezona 2",
     "stashModeActive": "Količine iz sinhronizovanog skladišta",
     "lastSynced": "Sinhronizovano",
-    "syncStash": "Sinhronizuj skladište"
+    "syncStash": "Sinhronizuj skladište",
+    "season3": "Sezona 3"
   },
   "HideoutPage": {
     "level": "Nivo",
@@ -577,7 +576,15 @@
     },
     "dropRates": "Stope ispadanja",
     "inRaidCrafting": "Izrada u raciji",
-    "attachments": "Dodaci"
+    "attachments": "Dodaci",
+    "upgradePath": "Put nadogradnje",
+    "currentTier": "Trenutni",
+    "soldByTraders": "Prodaju trgovci",
+    "vendorCost": "Cena",
+    "vendorLimit": "Limit: {count}",
+    "vendorRefreshDaily": "Obnavlja se dnevno",
+    "vendorRefreshHourly": "Obnavlja se svakog sata",
+    "vendorRefreshHours": "Obnavlja se svakih {hours}h"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Pretraži predmete...",
@@ -651,7 +658,11 @@
     "squadsTitle": "Odredi - ARC Raiders",
     "squadsDescription": "Kreirajte i upravljajte odredima da biste delili istoriju rejda i napredak sa prijateljima u ARC Raiders.",
     "stashTitle": "Praćenje Skladišta - ARC Raiders",
-    "stashDescription": "Automatski sinhronizujte i pratite svoj inventar skladišta, opremu i valute za ARC Raiders. Povežite svoj nalog igre za ažuriranja u realnom vremenu."
+    "stashDescription": "Automatski sinhronizujte i pratite svoj inventar skladišta, opremu i valute za ARC Raiders. Povežite svoj nalog igre za ažuriranja u realnom vremenu.",
+    "projectNotFoundTitle": "Projekat nije pronađen - ARC Raiders",
+    "projectNotFoundDescription": "Traženi projekat nije pronađen.",
+    "tradersTitle": "Trgovci - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Pregledajte sve trgovce u ARC Raiders. Pogledajte inventar prodavnice i povezane zadatke za svakog trgovca."
   },
   "OverlayPage": {
     "pageTitle": "Overlay Prateća Aplikacija",
@@ -703,7 +714,7 @@
   },
   "Footer": {
     "copyright": "Sadržaj igre i materijali su zaštitni znaci i autorska prava Embark Studios i njihovih davalaca licenci. Sva prava zadržana.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Uslovi korišćenja",
     "privacyPolicy": "Politika privatnosti"
   },
@@ -818,14 +829,21 @@
     "premiumActivatedDesc": "Hvala što podržavate ARCTracker! Vaša premium pretplata je sada aktivna.",
     "premiumBenefitsTitle": "Vaše premium pogodnosti",
     "manageSubscriptionTitle": "Upravljajte vašom pretplatom",
-    "manageSubscriptionDesc": "Možete videti detalje vaše pretplate i upravljati naplatom putem stranice Podešavanja ili Tebex portala za plaćanje.",
+    "manageSubscriptionDesc": "Možete pregledati detalje svoje pretplate i upravljati naplatom putem stranice Podešavanja ili portala za plaćanje.",
     "goToSettings": "Idi na Podešavanja",
     "tebexPaymentPortal": "Tebex Portal za Plaćanje",
     "backToHome": "Nazad na početnu",
     "benefitUnlimitedPins": "Neograničene privatne oznake i rute za plen",
     "benefitUnlimitedPinsDesc": "Kreiraj neograničene privatne oznake i rute za plen na bilo kojoj mapi",
     "benefitAutoSync": "Automatska sinhronizacija skladišta",
-    "benefitAutoSyncDesc": "Automatski sinhronizuje vaše skladište, opremu i napredak iz igre svakih 30 minuta"
+    "benefitAutoSyncDesc": "Automatski sinhronizuje vaše skladište, opremu i napredak iz igre svakih 30 minuta",
+    "managedByPolar": "Pretplatom upravlja Polar",
+    "polarPaymentPortal": "Polar portal za plaćanje",
+    "upgradeToYearly": "Nadogradi na godišnji plan",
+    "upgradeToYearlyDesc": "Pređite na godišnju naplatu i uštedite 44%. Preostalo vreme mesečne pretplate biće vam uračunato.",
+    "upgradeSuccess": "Uspešna nadogradnja na godišnji plan!",
+    "upgradeError": "Nadogradnja nije uspela. Molimo pokušajte ponovo.",
+    "upgradeSaving": "Uštedite {percent}%"
   },
   "Favorites": {
     "addToList": "Dodaj u listu",
@@ -895,7 +913,9 @@
     "createYourOwn": "Kreiraj svoju listu",
     "listNotFound": "Lista nije pronađena",
     "listNotFoundDescription": "Ova lista ne postoji ili nije javno deljena.",
-    "backToHome": "Nazad na početnu"
+    "backToHome": "Nazad na početnu",
+    "cancel": "Otkaži",
+    "save": "Sačuvaj"
   },
   "Maps": {
     "showAll": "Prikaži sve",
@@ -1452,7 +1472,9 @@
       "totalValueExtracted": "Ukupna izvučena vrednost",
       "valueBroughtIn": "Uneta vrednost",
       "valueExtracted": "Izvučena vrednost",
-      "weaponsByKillsTitle": "Oružja po ubistvima"
+      "weaponsByKillsTitle": "Oružja po ubistvima",
+      "containersLooted": "Opljačkani kontejneri",
+      "containersPerRaid": "Kontejneri / Racija"
     },
     "extractedSuffix": " izvučeno",
     "extractionRate": "Stopa ekstrakcije",
@@ -1520,7 +1542,8 @@
     "undoSyncFailedLocally": "Lokalno opozivanje sinhronizacije nije uspelo",
     "unknownMap": "Nepoznata mapa",
     "valueSuffix": " vrednost",
-    "timeInRaid": "Vreme u raciji"
+    "timeInRaid": "Vreme u raciji",
+    "statDamageByTarget": "Šteta po meti"
   },
   "RaidSync": {
     "title": "Primeni na napredak",
@@ -1632,7 +1655,9 @@
         "hideout": "Moduli skrovišta",
         "done": "Gotovo"
       },
-      "flickeringFlames": "Trepereći plamenovi"
+      "flickeringFlames": "Trepereći plamenovi",
+      "nonExpeditionProjects": "Projekti van ekspedicija",
+      "expeditionProjects": "Ekspedicioni projekti"
     }
   },
   "DeviceAuth": {
@@ -1764,7 +1789,16 @@
       "saving": "Čuvanje...",
       "selectAll": "Izaberi sve",
       "unselectAll": "Poništi izbor",
-      "noChanges": "Nema promena za čuvanje"
+      "noChanges": "Nema promena za čuvanje",
+      "cancel": "Otkaži"
+    },
+    "inferred": {
+      "completedViaLabel": "Izvor završetka",
+      "completedViaValue": "Napredak ARC Raiders ekspedicije",
+      "description": "Završetak ove sezone je detektovan putem sinhronizacije tvoje ARC Raiders ekspedicije.",
+      "detailsLabel": "Detaljna statistika",
+      "detailsValue": "Nije dostupno za ovu sezonu.",
+      "title": "Sezona {number} završena"
     }
   },
   "DiscordBotPage": {
@@ -1999,7 +2033,17 @@
       "screenshotAlt": "Stranica odreda koja prikazuje deljenu istoriju pohoda",
       "screenshotDescription": "Pregledajte kombinovanu istoriju pohoda, delite privatne oznake na mapi i koordinirajte sa svojim odredom.",
       "seeItInAction": "Pogledajte u akciji"
-    }
+    },
+    "filterMap": "Mapa",
+    "filterStatus": "Status",
+    "filterSeason": "Sezona",
+    "filterMember": "Član",
+    "allMaps": "Sve mape",
+    "allStatuses": "Svi statusi",
+    "allSeasons": "Sve sezone",
+    "allMembers": "Svi članovi",
+    "clearFilters": "Očisti filtere",
+    "noRaidsFiltered": "Nijedan raid ne odgovara tvojim trenutnim filterima."
   },
   "MapSubcategories": {
     "abundantLoot": "Obilan plen",
@@ -2217,7 +2261,9 @@
       "suggestItem": "Predloži predmet",
       "mappingLocked": "Mapiranje ovog predmeta je zaključano",
       "sortUnsorted": "Nesortirano",
-      "searchPlaceholder": "Pretraži predmete..."
+      "searchPlaceholder": "Pretraži predmete...",
+      "sortRarity": "Sortiraj po retkosti",
+      "sortName": "Sortiraj po nazivu"
     },
     "currencies": {
       "cred": "Kred",
@@ -2540,5 +2586,270 @@
       "player": "Igrač",
       "squadmate": "Član odreda"
     }
+  },
+  "ItemTooltip": {
+    "onYourLists": "Na tvojim listama",
+    "tapToView": "Dodirni ponovo za prikaz detalja"
+  },
+  "SeasonsPage": {
+    "title": "Sezone",
+    "currentSeason": "Trenutno ste u {name}",
+    "seasonStarted": "Počela {date}",
+    "seasonEnds": "Završava se {date}",
+    "departure": {
+      "title": "Napusti {season}",
+      "description": "Spremni za polazak? Sačuvajte snimak svog napretka i resetujte se za sledeću sezonu. Vaš raspored u stablu veština i napredak u projektima van ekspedicija biće sačuvani.",
+      "willReset": "Biće resetovano",
+      "bonusInfo": "Bonus poeni veština",
+      "bonusDescription": "Zaradite 1 bonus poen veštine na svakih {creditsPerPoint} kredita u skladištu (maks. {maxPoints} poena)",
+      "startButton": "Započni odlazak",
+      "notYetAvailable": "Period za odlazak još nije otvoren. Proverite ponovo kada se sezona završi.",
+      "alreadyDeparted": "Odlazak završen",
+      "alreadyDepartedDescription": "Već ste napustili ovu sezonu. Pogledajte statistiku sezone u istoriji ispod.",
+      "confirmTitle": "Potvrdi odlazak",
+      "confirmWarning": "Ova radnja se ne može opozvati. Vaš napredak u zadacima, skrovište i nacrti biće resetovani.",
+      "confirmButton": "Potvrdi i napusti",
+      "bonusEarned": "Bonus zarađen",
+      "successTitle": "Odlazak uspešan!",
+      "successDescription": "Vaš napredak u {season} je sačuvan. Srećno u sledećoj sezoni!",
+      "loadingTitle": "Učitavanje statusa polaska",
+      "opensIn": "Polazak se otvara za {countdown}",
+      "opensAt": "Otvara se u {date}"
+    },
+    "autoResetDetected": "Detektovan odlazak u Sezoni {season}!",
+    "autoResetDescription": "Detektovali smo vaš odlazak putem Embark sinhronizacije. Vaš napredak je automatski sačuvan. Možete ažurirati kredite u skladištu i nivo igrača u istoriji sezone ispod.",
+    "expedition": {
+      "title": "Ekspedicija",
+      "description": "Sezonski polasci za povezane ARC Raiders naloge su automatski.",
+      "currentState": "Trenutni status ekspedicije",
+      "completedExpeditions": "Završene ekspedicije",
+      "activeSeason": "Aktivna sezona",
+      "syncButton": "Sinhronizuj ekspediciju",
+      "syncingButton": "Sinhronizovanje...",
+      "syncError": "Sinhronizacija statusa ekspedicije nije uspela.",
+      "states": {
+        "notStarted": "nije započeto",
+        "inProgress": "u toku",
+        "completed": "završeno",
+        "unknown": "Nepoznato",
+        "ready": "Spreman",
+        "committed": "Potvrđen"
+      }
+    },
+    "questionnaire": {
+      "description": "Novi ste na ARCTracker-u? Izaberite predmet koji vidite u Fazi 1 svog ekspedicionog projekta kako bismo postavili pravu sezonu.",
+      "requiredQuantity": "Potrebno: {count}",
+      "retakeButton": "Ponovi upitnik za sezonu",
+      "success": "Aktivna sezona postavljena na {season}.",
+      "title": "Pronađite svoju sezonu ekspedicije"
+    },
+    "metaDescription": "Pratite svoju ARC Raiders sezonu ekspedicija, upravljajte odlascima i pregledajte istoriju sezone u ARCTracker-u."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "Svi potrebni predmeti (Ukupno)",
+    "backToProjects": "Nazad na projekte",
+    "itemRequirements": "Potrebni predmeti",
+    "metaDescription": "Svi potrebni predmeti za {projectName} u ARC Raiders. Pogledajte svaku fazu, potrebne predmete i količine neophodne za završetak ovog projekta.",
+    "metaTitleSuffix": "Zahtevi - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "Nagrade",
+    "projectNotFound": "Projekat nije pronađen",
+    "projectNotFoundMessage": "Traženi projekat nije pronađen.",
+    "receive": "Dobijate",
+    "totalItemsNeeded": "Ukupno potrebnih predmeta",
+    "totalPhases": "Faze",
+    "turnIn": "Predaj",
+    "uniqueItems": "Jedinstveni predmeti",
+    "valueRequirement": "Potrebna vrednost"
+  },
+  "Cipher": {
+    "alphaBadge": "Eksperimentalno",
+    "clearChat": "Očisti chat",
+    "closeCipher": "Zatvori",
+    "emptyStateDescription": "Sistemi na mreži. Pitaj me o svom skladištu, učinku u ekspedicijama, stopama plena ili bilo čemu na terenu. Odgovori možda neće uvek biti tačni — molim te proveri važne informacije.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Pitaj Cipher-a...",
+    "openCipher": "Otvori Cipher",
+    "panelTitle": "Cipher",
+    "sendMessage": "Pošalji poruku",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Skeniranje skladišta...",
+        "done": "Skladište skenirano"
+      },
+      "createChart": {
+        "active": "Generisanje prikaza...",
+        "done": "Prikaz generisan"
+      },
+      "fallbackActive": "Korišćenje {toolName}...",
+      "fallbackDone": "{toolName} iskorišćen",
+      "findBestFarmingMaps": {
+        "active": "Optimizacija ruta za farmovanje...",
+        "done": "Rute za farmovanje optimizovane"
+      },
+      "getHideoutModules": {
+        "active": "Provera modula skrovišta...",
+        "done": "Moduli skrovišta provereni"
+      },
+      "getItem": {
+        "active": "Preuzimanje podataka o predmetu...",
+        "done": "Podaci o predmetu preuzeti"
+      },
+      "getItemDropLocations": {
+        "active": "Analiza lokacija plena...",
+        "done": "Lokacije plena analizirane"
+      },
+      "getItemDropStats": {
+        "active": "Analiza stopa plena...",
+        "done": "Stope plena analizirane"
+      },
+      "getPlayerStats": {
+        "active": "Preuzimanje metrike igrača...",
+        "done": "Metrika igrača preuzeta"
+      },
+      "getQuest": {
+        "active": "Preuzimanje podataka o zadatku...",
+        "done": "Podaci o zadatku preuzeti"
+      },
+      "getRaidHistory": {
+        "active": "Preuzimanje dnevnika rejdova...",
+        "done": "Dnevnici rejdova preuzeti"
+      },
+      "getRaidStats": {
+        "active": "Obrada podataka rejda...",
+        "done": "Podaci rejda obrađeni"
+      },
+      "getUserHideoutProgress": {
+        "active": "Provera napretka skrovišta...",
+        "done": "Napredak skrovišta proveren"
+      },
+      "getUserLoadout": {
+        "active": "Preuzimanje konfiguracije opreme...",
+        "done": "Oprema preuzeta"
+      },
+      "getUserNeededItems": {
+        "active": "Računanje potrebnih predmeta...",
+        "done": "Potrebni predmeti izračunati"
+      },
+      "getUserQuestProgress": {
+        "active": "Provera napretka zadatka...",
+        "done": "Napredak zadatka proveren"
+      },
+      "getUserStash": {
+        "active": "Pristup zapisima skladišta...",
+        "done": "Pristupljeno skladištu"
+      },
+      "getWeaponDamage": {
+        "active": "Analiza štete oružja...",
+        "done": "Šteta oružja analizirana"
+      },
+      "getWeaponKills": {
+        "active": "Preuzimanje podataka o oružju...",
+        "done": "Podaci o oružju preuzeti"
+      },
+      "searchItems": {
+        "active": "Skeniranje baze predmeta...",
+        "done": "Baza predmeta skenirana"
+      },
+      "searchQuests": {
+        "active": "Skeniranje zapisa zadataka...",
+        "done": "Zapisi zadataka skenirani"
+      },
+      "getMapEvents": {
+        "active": "Provera događaja na mapi...",
+        "done": "Događaji na mapi provereni"
+      },
+      "searchCraftableItems": {
+        "active": "Pretraga recepata...",
+        "done": "Recepti pretraženi"
+      },
+      "searchSkillNodes": {
+        "active": "Pretraga stabla veština...",
+        "done": "Stablo veština pretraženo"
+      },
+      "getSkillNode": {
+        "active": "Učitavanje detalja veštine...",
+        "done": "Detalji veštine učitani"
+      },
+      "getProjects": {
+        "active": "Učitavanje projekata...",
+        "done": "Projekti učitani"
+      },
+      "getUserLists": {
+        "active": "Učitavanje vaših lista...",
+        "done": "Vaše liste učitane"
+      },
+      "getListItems": {
+        "active": "Učitavanje stavki liste...",
+        "done": "Stavke liste učitane"
+      },
+      "addItemToList": {
+        "active": "Dodavanje u listu...",
+        "denied": "Otkazano",
+        "done": "Dodato u listu"
+      },
+      "removeItemFromList": {
+        "active": "Uklanjanje iz liste...",
+        "denied": "Otkazano",
+        "done": "Uklonjeno iz liste"
+      },
+      "createList": {
+        "active": "Kreiranje liste...",
+        "denied": "Otkazano",
+        "done": "Lista kreirana"
+      },
+      "deleteList": {
+        "active": "Brisanje liste...",
+        "denied": "Otkazano",
+        "done": "Lista obrisana"
+      },
+      "fallbackDenied": "Otkazano {toolName}",
+      "getItemFarmingContext": {
+        "active": "Analiziranje konteksta farmanja...",
+        "done": "Analiziran kontekst farmanja"
+      }
+    },
+    "approval": {
+      "addItemToList": "Dodaj \"{itemName}\" u \"{listName}\"",
+      "approve": "Odobri",
+      "createList": "Kreiraj listu \"{name}\"",
+      "deleteList": "Obriši listu \"{listName}\"",
+      "deleteWarning": "Ovo će ukloniti listu i {count, plural, one {# stavku} other {# stavki}} u njoj.",
+      "deny": "Odbij",
+      "removeItemFromList": "Ukloni \"{itemName}\" iz \"{listName}\""
+    },
+    "feedback": {
+      "helpful": "Koristan odgovor",
+      "notHelpful": "Nekoristan odgovor"
+    },
+    "confirmation": {
+      "denied": "Radnja otkazana",
+      "error": "Nešto je pošlo po zlu",
+      "executing": "Izvršavanje...",
+      "success": {
+        "addItemToList": "Dodato na listu",
+        "createList": "Lista kreirana",
+        "deleteList": "Lista obrisana",
+        "generic": "Gotovo",
+        "removeItemFromList": "Uklonjeno sa liste"
+      }
+    },
+    "privateBetaNotice": "Privatna beta — samo za saradnike. Molimo vas da diskusiju vodite u kanalu za saradnike."
+  },
+  "TradersPage": {
+    "itemsForSale": "predmeti na prodaju",
+    "quests": "zadaci",
+    "title": "Trgovci"
+  },
+  "TraderPage": {
+    "backToTraders": "Nazad na Trgovce",
+    "coins": "Novčići",
+    "limit": "Limit",
+    "noQuests": "Nema zadataka",
+    "noShopItems": "Nema predmeta na prodaju",
+    "quests": "Zadaci",
+    "refresh": "osvežavanje",
+    "shop": "Prodavnica",
+    "traderNotFound": "Trgovac nije pronađen",
+    "traderNotFoundDesc": "Trgovac kojeg tražite ne postoji."
   }
 }

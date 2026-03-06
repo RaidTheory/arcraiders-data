@@ -50,6 +50,10 @@
   "value": 700,
   "weightKg": 0.5,
   "stackSize": 5,
+  "craftBench": "in_raid",
+  "recipe": {
+    "rocket_thruster": 1
+  },
   "recyclesInto": {
     "chemicals": 1,
     "oil": 1
@@ -58,5 +62,16 @@
     "oil": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 14
+      },
+      "limit": 5,
+      "refreshSeconds": 86400,
+      "trader": "Celeste"
+    }
+  ]
 }

@@ -9,7 +9,7 @@
     "he": "שרטוט מאחז זוויתי II",
     "hr": "Kutni rukohvat II Nacrt",
     "it": "Progetto Impugnatura angolata II",
-    "ja": "アングルグリップ II 設計図",
+    "ja": "アングル・グリップ II 設計図",
     "ko-KR": "앵글 그립 II 설계도",
     "no": "Vinklet grep II-tegning",
     "pl": "Projekt Chwyt katowy II",
@@ -45,9 +45,11 @@
     "zh-TW": "中度降低水平後座力。與以下物品相容:水壺,碎甲者,獵人,公牛,暴風雨"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/angled_grip_ii.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "12/07/2025",
+  "addedIn": "base"
 }

@@ -120,7 +120,7 @@
       "zh-TW": "使用時間"
     }
   },
-  "craftBench": ["workbench", "med_station", "in_raid"],
+  "craftBench": ["in_raid", "med_station", "workbench"],
   "stationLevelRequired": 1,
   "recipe": {
     "arc_powercell": 1,
@@ -133,5 +133,14 @@
     "rubber_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/shield_recharger.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 1560
+      },
+      "trader": "Lance"
+    }
+  ]
 }

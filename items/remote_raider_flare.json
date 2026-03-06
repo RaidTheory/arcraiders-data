@@ -64,5 +64,14 @@
     "chemicals": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/remote_raider_flare.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 810
+      },
+      "trader": "Apollo"
+    }
+  ]
 }

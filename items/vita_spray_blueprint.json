@@ -45,8 +45,10 @@
     "zh-TW": "使用時持續恢復生命值的醫療物品。可以對自己或隊友使用。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "addedIn": "base"
 }

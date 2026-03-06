@@ -45,9 +45,11 @@
     "zh-TW": "一種讓使用者能夠攀爬建築物和跨越長距離的裝置。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/snap_hook.png",
-  "updatedAt": "11/14/2025"
+  "updatedAt": "11/14/2025",
+  "addedIn": "base"
 }

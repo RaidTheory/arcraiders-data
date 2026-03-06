@@ -98,7 +98,7 @@
       "zh-TW": "範圍"
     }
   },
-  "craftBench": "refiner",
+  "craftBench": ["in_raid", "refiner"],
   "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 6
@@ -110,5 +110,6 @@
     "chemicals": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/crude_explosives.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

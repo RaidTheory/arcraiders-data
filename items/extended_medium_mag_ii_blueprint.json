@@ -45,9 +45,11 @@
     "zh-TW": "適度延長使用中型彈藥的相容武器的彈藥容量。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_ii_blueprint.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "addedIn": "base"
 }

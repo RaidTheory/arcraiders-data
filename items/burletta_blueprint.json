@@ -45,8 +45,10 @@
     "zh-TW": "製作布雷塔武器的藍圖。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

@@ -9,7 +9,7 @@
     "he": "ברווז מוכר",
     "hr": "Poznata Patka",
     "it": "Papera Familiare",
-    "ja": "なじみのアヒル",
+    "ja": "ふつうのアヒル",
     "ko-KR": "익숙한 오리",
     "no": "Kjent And",
     "pl": "Znajoma Kaczka",
@@ -51,5 +51,6 @@
   "stackSize": 15,
   "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/familiar_duck.png",
-  "updatedAt": "02/01/2026"
+  "updatedAt": "02/01/2026",
+  "addedIn": "1.13"
 }

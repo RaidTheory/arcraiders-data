@@ -62,5 +62,16 @@
     "metal_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/door_blocker.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 810
+      },
+      "limit": 6,
+      "refreshSeconds": 86400,
+      "trader": "Apollo"
+    }
+  ]
 }

@@ -48,7 +48,22 @@
   "rarity": "Epic",
   "value": 7000,
   "weightKg": 0.75,
-  "compatibleWith": ["Arpeggio", "Rattler", "Ferro", "Anvil", "Torrente"],
+  "stackSize": 1,
+  "compatibleWith": [
+    "Anvil",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Burletta",
+    "Ferro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Renegade",
+    "Stitcher",
+    "Tempest",
+    "Torrente"
+  ],
   "effects": {
     "Increased Durability Burn Rate": {
       "value": "20%",
@@ -105,5 +120,6 @@
     "mod_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/silencer_iii.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

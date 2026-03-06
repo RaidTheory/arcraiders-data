@@ -134,5 +134,24 @@
     "plastic_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "repairCost": {
+    "plastic_parts": 3,
+    "rubber_parts": 3
+  },
+  "repairDurability": 0.5,
+  "vendors": [
+    {
+      "cost": {
+        "coins": 1920
+      },
+      "trader": "Lance"
+    },
+    {
+      "cost": {
+        "free_loadout_augment": 1
+      },
+      "trader": "Lance"
+    }
+  ]
 }

@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 1000,
   "weightKg": 3,
+  "stackSize": 1,
   "isWeapon": true,
   "effects": {
     "Ammo Type": {
@@ -244,8 +245,23 @@
     "metal_parts": 4
   },
   "upgradeCost": {
-    "metal_parts": 8
+    "metal_parts": 9,
+    "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/hairpin_i.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "magazine": [
+      "extended_light_mag_i",
+      "extended_light_mag_ii",
+      "extended_light_mag_iii"
+    ]
+  },
+  "repairCost": {
+    "metal_parts": 4,
+    "rubber_parts": 3
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "hairpin_iii"
 }

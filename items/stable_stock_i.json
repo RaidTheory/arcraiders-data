@@ -48,7 +48,23 @@
   "rarity": "Common",
   "value": 640,
   "weightKg": 0.25,
-  "compatibleWith": ["Rattler", "Ferro", "Stitcher", "Arpeggio", "Bettina"],
+  "stackSize": 1,
+  "compatibleWith": [
+    "Aphelion",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Ferro",
+    "Hullcracker",
+    "Il Toro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Renegade",
+    "Stitcher",
+    "Torrente",
+    "Vulcano"
+  ],
   "effects": {
     "Reduced Dispersion Recovery Time": {
       "value": "20%",
@@ -110,5 +126,6 @@
     "rubber_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/stable_stock_i.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

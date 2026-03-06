@@ -9,7 +9,7 @@
     "he": "רימון גז",
     "hr": "Plinska granata",
     "it": "Granata a gas",
-    "ja": "ガスグレネード",
+    "ja": "ガス・グレネード",
     "ko-KR": "가스 수류탄",
     "no": "Gassgranat",
     "pl": "Granat gazowy",
@@ -134,5 +134,16 @@
     "chemicals": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/gas_grenade.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 810
+      },
+      "limit": 6,
+      "refreshSeconds": 86400,
+      "trader": "Apollo"
+    }
+  ]
 }

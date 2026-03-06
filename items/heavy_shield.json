@@ -158,8 +158,24 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/heavy_shield.png",
   "updatedAt": "02/24/2026",
+  "addedIn": "base",
   "damageMitigation": 65,
   "durability": 140,
   "movementSpeedModifier": -15,
-  "shieldCharge": 120
+  "repairCost": {
+    "arc_circuitry": 2,
+    "voltage_converter": 1
+  },
+  "repairDurability": 0.5,
+  "shieldCharge": 120,
+  "vendors": [
+    {
+      "cost": {
+        "coins": 16500
+      },
+      "limit": 1,
+      "refreshSeconds": 86400,
+      "trader": "Lance"
+    }
+  ]
 }

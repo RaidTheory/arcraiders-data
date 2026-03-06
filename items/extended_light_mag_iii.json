@@ -48,6 +48,8 @@
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.75,
+  "stackSize": 1,
+  "compatibleWith": ["Bobcat", "Burletta", "Hairpin", "Kettle", "Stitcher"],
   "blueprintLocked": true,
   "effects": {
     "Magazine Size": {
@@ -88,5 +90,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_iii.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/09/2026",
+  "addedIn": "base"
 }

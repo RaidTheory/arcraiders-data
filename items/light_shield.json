@@ -120,7 +120,7 @@
       "zh-TW": "耐久度"
     }
   },
-  "craftBench": ["workbench", "equipment_bench"],
+  "craftBench": ["equipment_bench", "workbench"],
   "stationLevelRequired": 1,
   "recipe": {
     "arc_alloy": 2,
@@ -134,8 +134,21 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/light_shield.png",
   "updatedAt": "02/24/2026",
+  "addedIn": "base",
   "damageMitigation": 40,
   "durability": 100,
   "movementSpeedModifier": 0,
-  "shieldCharge": 40
+  "repairCost": {
+    "plastic_parts": 4
+  },
+  "repairDurability": 0.5,
+  "shieldCharge": 40,
+  "vendors": [
+    {
+      "cost": {
+        "coins": 1920
+      },
+      "trader": "Lance"
+    }
+  ]
 }
