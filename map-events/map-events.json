@@ -275,7 +275,7 @@
       "icon": "https://cdn.arctracker.io/map-events/husk_graveyard.png",
       "translationKey": "huskGraveyard",
       "category": "minor",
-      "disabled": true,
+      "disabled": false,
       "localizations": {
         "en": "Husk Graveyard",
         "de": "Husk-Friedhof",
