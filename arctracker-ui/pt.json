@@ -201,9 +201,9 @@
     "season1": "Expedição 1",
     "season2": "Expedição 2",
     "season3": "Expedição 3",
-    "stashModeActive": "Contagens do baú sincronizado",
+    "stashModeActive": "Contagens do inventário sincronizado",
     "lastSynced": "Sincronizado",
-    "syncStash": "Sincronizar baú"
+    "syncStash": "Sincronizar inventário"
   },
   "HideoutPage": {
     "level": "Nível",
@@ -216,9 +216,9 @@
     "otherRequirements": "Outros Requisitos:",
     "prerequisites": "Pré-requisitos:",
     "detailsUnavailable": "Detalhes para o próximo nível indisponíveis.",
-    "stashModeActive": "Contagens do baú sincronizado",
+    "stashModeActive": "Contagens do inventário sincronizado",
     "lastSynced": "Sincronizado",
-    "syncStash": "Sincronizar baú"
+    "syncStash": "Sincronizar inventário"
   },
   "WorkbenchPage": {
     "craftableItems": "Itens Fabricáveis",
@@ -258,9 +258,9 @@
     "zoomOut": "Afastar",
     "fitView": "Ajustar à Vista",
     "resetZoom": "Repor Zoom",
-    "stashModeActive": "Contagens do baú sincronizado",
+    "stashModeActive": "Contagens do inventário sincronizado",
     "lastSynced": "Sincronizado",
-    "syncStash": "Sincronizar baú"
+    "syncStash": "Sincronizar inventário"
   },
   "Sidebar": {
     "level": "Nível {level}",
@@ -341,7 +341,7 @@
     "discordSyncFailed": "Falha ao sincronizar o cargo do Discord",
     "cancel": "Cancelar",
     "embarkGameAccount": "Conta ARC Raiders",
-    "embarkGameAccountDescription": "Associe a sua conta ARC Raiders para sincronizar o seu inventário e baú no jogo.",
+    "embarkGameAccountDescription": "Associe a sua conta ARC Raiders para sincronizar o seu inventário com o do jogo.",
     "loadingEmbarkStatus": "A carregar estado da conta de jogo...",
     "embarkLinkedAccount": "Conta Associada",
     "embarkConnectedVia": "Associado via",
@@ -354,7 +354,7 @@
     "embarkInstallExtension": "Instalar Extensão",
     "embarkInstallExtensionFirst": "Instale a extensão acima para associar a sua conta de jogo.",
     "embarkUnlinkDialogTitle": "Desassociar Conta de Jogo?",
-    "embarkUnlinkDialogDescription": "Os dados do seu baú deixarão de ser sincronizados. Pode sempre associá-la novamente mais tarde.",
+    "embarkUnlinkDialogDescription": "Os dados do seu inventário deixarão de ser sincronizados. Pode sempre associá-la novamente mais tarde.",
     "embarkUnlinking": "A desassociar...",
     "embarkUnlinkConfirm": "Sim, Desassociar",
     "embarkLinkSuccess": "Conta de jogo associada com sucesso!",
@@ -369,7 +369,7 @@
     "embarkErrorCallbackError": "Ocorreu um erro durante a associação. Por favor, tente novamente.",
     "embarkErrorGeneric": "Ocorreu um erro. Por favor, tente novamente.",
     "embarkNotLinked": "A sua conta ARC Raiders ainda não está associada.",
-    "embarkGoToStash": "Vá para o Stash para associar a sua conta",
+    "embarkGoToStash": "Vá para o Inventário para associar a sua conta",
     "sectionDeveloperAccess": "Acesso de Desenvolvedor",
     "apiKeysTitle": "Chaves de API",
     "apiKeysDescription": "Crie chaves de API para permitir que aplicações de terceiros acedam aos seus dados.",
@@ -411,9 +411,9 @@
     "safeToRecycle": "Seguro para Reciclar",
     "safeToRecycleDescription": "Itens não necessários para as suas missões restantes, melhorias de esconderijo ou projetos de expedição com base no seu progresso acompanhado. À medida que conclui o conteúdo, mais itens se tornam seguros para reciclar.",
     "noItemsToRecycle": "Nenhum item para exibir",
-    "stashModeActive": "Contagens do baú sincronizado",
+    "stashModeActive": "Contagens do inventário sincronizado",
     "lastSynced": "Sincronizado",
-    "syncStash": "Sincronizar baú"
+    "syncStash": "Sincronizar inventário"
   },
   "BlueprintsTab": {
     "progressTitle": "Progresso das Plantas",
