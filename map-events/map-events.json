@@ -12,7 +12,8 @@
       "category": "major",
       "localizations": {
         "en": "Hurricane"
-      }
+      },
+      "disabled": false
     },
     "night-raid": {
       "displayName": "Night Raid",
@@ -40,7 +41,8 @@
         "hr": "Noćni prepad",
         "sr": "Noćna racija",
         "he": "פשיטת לילה"
-      }
+      },
+      "disabled": false
     },
     "electromagnetic-storm": {
       "displayName": "Electromagnetic Storm",
@@ -68,7 +70,8 @@
         "hr": "Elektromagnetska oluja",
         "sr": "Elektromagnetna oluja",
         "he": "סופה אלקטרומגנטית"
-      }
+      },
+      "disabled": true
     },
     "cold-snap": {
       "displayName": "Cold Snap",
@@ -125,14 +128,15 @@
         "hr": "Zaključana vrata",
         "sr": "Zaključana kapija",
         "he": "שער נעול"
-      }
+      },
+      "disabled": false
     },
     "hidden-bunker": {
       "displayName": "Hidden Bunker",
       "icon": "https://cdn.arctracker.io/map-events/hidden_bunker.png",
       "translationKey": "hiddenBunker",
       "category": "major",
-      "disabled": false,
+      "disabled": true,
       "localizations": {
         "en": "Hidden Bunker",
         "de": "Versteckter Bunker",
@@ -182,7 +186,8 @@
         "hr": "Matrijarh",
         "sr": "Matrijarh",
         "he": "Matriarch"
-      }
+      },
+      "disabled": false
     },
     "harvester": {
       "displayName": "Harvester",
@@ -210,7 +215,8 @@
         "hr": "Žetelac",
         "sr": "Žetelac",
         "he": "Harvester"
-      }
+      },
+      "disabled": false
     },
     "lush-blooms": {
       "displayName": "Lush Blooms",
@@ -246,7 +252,7 @@
       "icon": "https://cdn.arctracker.io/map-events/prospecting_probes.png",
       "translationKey": "prospectingProbes",
       "category": "minor",
-      "disabled": false,
+      "disabled": true,
       "localizations": {
         "en": "Prospecting Probes",
         "de": "Schürfsonden",
@@ -304,7 +310,7 @@
       "icon": "https://cdn.arctracker.io/map-events/uncovered_caches.png",
       "translationKey": "uncoveredCaches",
       "category": "minor",
-      "disabled": true,
+      "disabled": false,
       "localizations": {
         "en": "Uncovered Caches",
         "de": "Freigelegte Verstecke",
@@ -354,7 +360,8 @@
         "hr": "Plijen lansirnog tornja",
         "sr": "Plien lansirnog tornja",
         "he": "שלל מגדל השיגור"
-      }
+      },
+      "disabled": false
     },
     "bird-city": {
       "displayName": "Bird City",
@@ -382,7 +389,8 @@
         "hr": "Grad ptica",
         "sr": "Grad ptica",
         "he": "עיר הציפורים"
-      }
+      },
+      "disabled": false
     },
     "none": {
       "displayName": "None",
