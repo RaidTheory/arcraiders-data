@@ -71,7 +71,7 @@
         "sr": "Elektromagnetna oluja",
         "he": "סופה אלקטרומגנטית"
       },
-      "disabled": true
+      "disabled": false
     },
     "cold-snap": {
       "displayName": "Cold Snap",
@@ -129,14 +129,14 @@
         "sr": "Zaključana kapija",
         "he": "שער נעול"
       },
-      "disabled": false
+      "disabled": true
     },
     "hidden-bunker": {
       "displayName": "Hidden Bunker",
       "icon": "https://cdn.arctracker.io/map-events/hidden_bunker.png",
       "translationKey": "hiddenBunker",
       "category": "major",
-      "disabled": true,
+      "disabled": false,
       "localizations": {
         "en": "Hidden Bunker",
         "de": "Versteckter Bunker",
@@ -223,7 +223,7 @@
       "icon": "https://cdn.arctracker.io/map-events/lush_blooms.png",
       "translationKey": "lushBlooms",
       "category": "minor",
-      "disabled": false,
+      "disabled": true,
       "localizations": {
         "en": "Lush Blooms",
         "de": "Üppige Blüten",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.arctracker.io/map-events/husk_graveyard.png",
       "translationKey": "huskGraveyard",
       "category": "minor",
-      "disabled": true,
+      "disabled": false,
       "localizations": {
         "en": "Husk Graveyard",
         "de": "Husk-Friedhof",
@@ -310,7 +310,7 @@
       "icon": "https://cdn.arctracker.io/map-events/uncovered_caches.png",
       "translationKey": "uncoveredCaches",
       "category": "minor",
-      "disabled": false,
+      "disabled": true,
       "localizations": {
         "en": "Uncovered Caches",
         "de": "Freigelegte Verstecke",
@@ -441,32 +441,22 @@
   "schedule": {
     "dam-battleground": {
       "major": {
-        "0": "hurricane",
-        "2": "cold-snap",
-        "4": "hurricane",
-        "6": "night-raid",
-        "8": "hurricane",
-        "10": "cold-snap",
-        "12": "hurricane",
-        "14": "night-raid",
-        "16": "hurricane",
-        "18": "cold-snap",
-        "20": "hurricane",
-        "22": "night-raid"
+        "2": "electromagnetic-storm",
+        "6": "electromagnetic-storm",
+        "10": "electromagnetic-storm",
+        "14": "electromagnetic-storm",
+        "18": "electromagnetic-storm",
+        "22": "electromagnetic-storm"
       },
       "minor": {
-        "1": "harvester",
-        "3": "lush-blooms",
-        "4": "matriarch",
-        "7": "harvester",
-        "9": "uncovered-caches",
-        "10": "matriarch",
-        "13": "harvester",
-        "15": "lush-blooms",
-        "16": "matriarch",
-        "19": "harvester",
-        "21": "uncovered-caches",
-        "22": "matriarch"
+        "3": "husk-graveyard",
+        "6": "harvester",
+        "9": "matriarch",
+        "12": "harvester",
+        "15": "husk-graveyard",
+        "17": "harvester",
+        "20": "matriarch",
+        "23": "harvester"
       }
     },
     "buried-city": {
@@ -485,84 +475,74 @@
         "23": "night-raid"
       },
       "minor": {
-        "0": "lush-blooms",
-        "2": "bird-city",
-        "4": "uncovered-caches",
-        "6": "bird-city",
-        "8": "lush-blooms",
-        "10": "bird-city",
-        "12": "uncovered-caches",
-        "14": "bird-city",
-        "16": "lush-blooms",
-        "18": "bird-city",
-        "20": "uncovered-caches",
-        "22": "bird-city"
+        "3": "bird-city",
+        "6": "husk-graveyard",
+        "9": "bird-city",
+        "12": "husk-graveyard",
+        "15": "bird-city",
+        "17": "husk-graveyard",
+        "20": "bird-city",
+        "23": "husk-graveyard"
       }
     },
     "the-spaceport": {
       "major": {
-        "0": "night-raid",
+        "0": "electromagnetic-storm",
         "1": "hurricane",
-        "4": "cold-snap",
+        "4": "hidden-bunker",
         "5": "hurricane",
-        "8": "night-raid",
+        "8": "electromagnetic-storm",
         "9": "hurricane",
         "12": "cold-snap",
         "13": "hurricane",
-        "16": "night-raid",
+        "16": "electromagnetic-storm",
         "17": "hurricane",
-        "20": "cold-snap",
+        "20": "hidden-bunker",
         "21": "hurricane"
       },
       "minor": {
-        "0": "harvester",
-        "1": "launch-tower-loot",
-        "3": "matriarch",
-        "6": "harvester",
-        "9": "matriarch",
-        "12": "harvester",
-        "13": "launch-tower-loot",
-        "15": "matriarch",
-        "18": "harvester",
-        "21": "matriarch"
+        "2": "launch-tower-loot",
+        "5": "harvester",
+        "8": "launch-tower-loot",
+        "11": "husk-graveyard",
+        "14": "harvester",
+        "16": "husk-graveyard",
+        "19": "matriarch",
+        "22": "harvester"
       }
     },
     "blue-gate": {
       "major": {
-        "1": "locked-gate",
+        "1": "electromagnetic-storm",
         "3": "hurricane",
-        "5": "locked-gate",
+        "5": "electromagnetic-storm",
         "7": "hurricane",
-        "9": "locked-gate",
+        "9": "cold-snap",
         "11": "hurricane",
-        "13": "locked-gate",
+        "13": "electromagnetic-storm",
         "15": "hurricane",
-        "17": "locked-gate",
+        "17": "electromagnetic-storm",
         "19": "hurricane",
-        "21": "locked-gate",
+        "21": "cold-snap",
         "23": "hurricane"
       },
       "minor": {
-        "2": "matriarch",
-        "5": "harvester",
-        "7": "lush-blooms",
-        "8": "matriarch",
-        "11": "harvester",
-        "14": "matriarch",
-        "17": "harvester",
-        "19": "uncovered-caches",
-        "20": "matriarch",
-        "23": "harvester"
+        "0": "harvester",
+        "4": "husk-graveyard",
+        "7": "harvester",
+        "10": "husk-graveyard",
+        "13": "harvester",
+        "18": "husk-graveyard",
+        "21": "matriarch"
       }
     },
     "stella-montis": {
       "major": {
-        "2": "night-raid",
-        "6": "night-raid",
-        "10": "night-raid",
-        "14": "night-raid",
-        "18": "night-raid",
-        "22": "night-raid"
+        "4": "night-raid",
+        "8": "night-raid",
+        "12": "night-raid",
+        "19": "night-raid",
+        "23": "night-raid"
       },
       "minor": {}
     }
