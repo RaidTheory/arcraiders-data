@@ -11,7 +11,8 @@
       "translationKey": "hurricane",
       "category": "major",
       "localizations": {
-        "en": "Hurricane"
+        "en": "Hurricane",
+        "JP"; "台風"
       },
       "disabled": false
     },
@@ -205,7 +206,7 @@
         "no": "Innhøster",
         "da": "Harvester",
         "it": "Raccoglitore",
-        "ja": "収穫機",
+        "ja": "ハーベスター",
         "ko": "하베스터",
         "zh-CN": "收割者",
         "zh-TW": "收割者",
@@ -322,7 +323,7 @@
         "no": "Avdekkede lagre",
         "da": "Afslørede Depoter",
         "it": "Scorte Scoperte",
-        "ja": "さらされた宝箱",
+        "ja": "さらされた隠匿物",
         "ko": "발견된 캐시",
         "zh-CN": "暴露的奇袭者箱",
         "zh-TW": "暴露的奇襲者箱",
