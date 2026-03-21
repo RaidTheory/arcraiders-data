@@ -50,10 +50,6 @@
   "value": 300,
   "weightKg": 0.25,
   "stackSize": 15,
-  "craftBench": "in_raid",
-  "recipe": {
-    "motor": 1
-  },
   "recyclesInto": {
     "chemicals": 3
   },
@@ -61,7 +57,7 @@
     "chemicals": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/oil.png",
-  "updatedAt": "01/13/2026",
+  "updatedAt": "03/17/2026",
   "addedIn": "base",
   "vendors": [
     {
