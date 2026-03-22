@@ -581,6 +581,26 @@
   },
   {
     "trader": "Tian Wen",
+    "itemId": "ferro_iv",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 8700
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "padded_stock",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 15000
+    },
+    "dailyLimit": 1
+  },
+  {
+    "trader": "Tian Wen",
     "itemId": "angled_grip_iii",
     "quantity": 1,
     "cost": {
@@ -608,6 +628,16 @@
       "quantity": 6000
     },
     "dailyLimit": 3
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "silencer_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 6000
+    },
+    "dailyLimit": 1
   },
   {
     "trader": "Tian Wen",
