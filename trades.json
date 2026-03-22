@@ -58,6 +58,7 @@
       "quantity": 60
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 20
   },
   {
@@ -69,6 +70,7 @@
       "quantity": 55
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 20
   },
   {
@@ -80,6 +82,7 @@
       "quantity": 15
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -91,6 +94,7 @@
       "quantity": 15
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -102,6 +106,7 @@
       "quantity": 15
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -113,6 +118,7 @@
       "quantity": 10
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -124,6 +130,7 @@
       "quantity": 10
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -135,6 +142,7 @@
       "quantity": 10
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -146,6 +154,7 @@
       "quantity": 10
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -157,6 +166,7 @@
       "quantity": 10
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -168,6 +178,7 @@
       "quantity": 14
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -179,6 +190,7 @@
       "quantity": 10
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -190,6 +202,7 @@
       "quantity": 10
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -201,6 +214,7 @@
       "quantity": 5
     },
     "dailyLimit": 10,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -212,6 +226,7 @@
       "quantity": 6
     },
     "dailyLimit": 10,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -223,6 +238,7 @@
       "quantity": 6
     },
     "dailyLimit": 10,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -234,6 +250,7 @@
       "quantity": 5
     },
     "dailyLimit": 10,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -245,6 +262,7 @@
       "quantity": 6
     },
     "dailyLimit": 10,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -256,6 +274,7 @@
       "quantity": 6
     },
     "dailyLimit": 10,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -267,6 +286,7 @@
       "quantity": 7
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -278,6 +298,7 @@
       "quantity": 6
     },
     "dailyLimit": 10,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -289,6 +310,7 @@
       "quantity": 4
     },
     "dailyLimit": 10,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -360,6 +382,7 @@
       "quantity": 100
     },
     "dailyLimit": 2,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -371,6 +394,7 @@
       "quantity": 100
     },
     "dailyLimit": 2,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -382,6 +406,7 @@
       "quantity": 100
     },
     "dailyLimit": 2,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -392,7 +417,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -402,7 +428,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -412,7 +439,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -422,7 +450,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -432,7 +461,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -442,7 +472,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -452,7 +483,8 @@
       "itemId": "creds",
       "quantity": 50
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -462,7 +494,8 @@
       "itemId": "creds",
       "quantity": 40
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -472,7 +505,8 @@
       "itemId": "creds",
       "quantity": 40
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -483,6 +517,7 @@
       "quantity": 100
     },
     "dailyLimit": 2,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -493,7 +528,8 @@
       "itemId": "creds",
       "quantity": 60
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -504,6 +540,7 @@
       "quantity": 70
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -514,7 +551,8 @@
       "itemId": "creds",
       "quantity": 40
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Tian Wen",
@@ -587,6 +625,7 @@
       "quantity": 30000
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 20
   },
   {
@@ -598,6 +637,7 @@
       "quantity": 21000
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -609,6 +649,7 @@
       "quantity": 15000
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -620,6 +661,7 @@
       "quantity": 8700
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -631,6 +673,7 @@
       "quantity": 15000
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -642,6 +685,7 @@
       "quantity": 15000
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -653,6 +697,7 @@
       "quantity": 6000
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -664,6 +709,7 @@
       "quantity": 6000
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -675,6 +721,7 @@
       "quantity": 1920
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -686,6 +733,7 @@
       "quantity": 1920
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -697,6 +745,7 @@
       "quantity": 1920
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -708,6 +757,7 @@
       "quantity": 1920
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -719,6 +769,7 @@
       "quantity": 1920
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -730,6 +781,7 @@
       "quantity": 1920
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -741,6 +793,7 @@
       "quantity": 1920
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -752,6 +805,7 @@
       "quantity": 1920
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -803,6 +857,7 @@
       "quantity": 6000
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -813,7 +868,8 @@
       "itemId": "coins",
       "quantity": 8700
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Tian Wen",
@@ -824,6 +880,7 @@
       "quantity": 6000
     },
     "dailyLimit": 2,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -835,6 +892,7 @@
       "quantity": 15000
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 20
   },
   {
@@ -916,7 +974,8 @@
       "itemId": "coins",
       "quantity": 3000
     },
-    "dailyLimit": 6
+    "dailyLimit": 6,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Apollo",
@@ -926,7 +985,8 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 6
+    "dailyLimit": 6,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Apollo",
@@ -937,6 +997,7 @@
       "quantity": 3000
     },
     "dailyLimit": 6,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -948,6 +1009,7 @@
       "quantity": 1920
     },
     "dailyLimit": 6,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -959,6 +1021,7 @@
       "quantity": 2400
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -970,6 +1033,7 @@
       "quantity": 810
     },
     "dailyLimit": 6,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -981,6 +1045,7 @@
       "quantity": 18000
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 20
   },
   {
@@ -992,6 +1057,7 @@
       "quantity": 2550
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -1003,6 +1069,7 @@
       "quantity": 1410
     },
     "dailyLimit": 6,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -1014,6 +1081,7 @@
       "quantity": 3000
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -1025,6 +1093,7 @@
       "quantity": 1920
     },
     "dailyLimit": 6,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -1036,6 +1105,7 @@
       "quantity": 810
     },
     "dailyLimit": 6,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -1047,6 +1117,7 @@
       "quantity": 6600
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -1139,6 +1210,7 @@
       "quantity": 6000
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -1150,6 +1222,7 @@
       "quantity": 6000
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -1161,6 +1234,7 @@
       "quantity": 6000
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -1172,6 +1246,7 @@
       "quantity": 16500
     },
     "dailyLimit": 1,
+    "refreshSeconds": 86400,
     "requiredLevel": 20
   },
   {
@@ -1183,6 +1258,7 @@
       "quantity": 6000
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -1194,6 +1270,7 @@
       "quantity": 6000
     },
     "dailyLimit": 3,
+    "refreshSeconds": 86400,
     "requiredLevel": 12
   },
   {
@@ -1205,6 +1282,7 @@
       "quantity": 3600
     },
     "dailyLimit": 5,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
@@ -1216,6 +1294,7 @@
       "quantity": 2700
     },
     "dailyLimit": 10,
+    "refreshSeconds": 86400,
     "requiredLevel": 7
   },
   {
