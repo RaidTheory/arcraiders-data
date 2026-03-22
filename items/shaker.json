@@ -62,10 +62,20 @@
     "plastic_parts": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/shaker.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "03/22/2026",
   "addedIn": "1.7",
   "repairCost": {
     "plastic_parts": 4
   },
-  "repairDurability": 0.5
+  "repairDurability": 0.5,
+  "vendors": [
+    {
+      "cost": {
+        "creds": 40
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "trader": "Shani"
+    }
+  ]
 }

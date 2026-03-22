@@ -136,7 +136,7 @@
     "explosive_compound": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/deadline.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "03/22/2026",
   "addedIn": "1.2",
   "vendors": [
     {
@@ -145,6 +145,7 @@
       },
       "limit": 1,
       "refreshSeconds": 86400,
+      "requiredLevel": 20,
       "trader": "Apollo"
     }
   ]

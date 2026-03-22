@@ -182,7 +182,7 @@
     "simple_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-  "updatedAt": "03/17/2026",
+  "updatedAt": "03/22/2026",
   "addedIn": "base",
   "durability": 100,
   "modSlots": {
@@ -217,6 +217,7 @@
       },
       "limit": 3,
       "refreshSeconds": 86400,
+      "requiredLevel": 7,
       "trader": "Tian Wen"
     }
   ]
