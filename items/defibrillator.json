@@ -112,13 +112,14 @@
     "chemicals": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/defibrillator.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "03/22/2026",
   "addedIn": "base",
   "vendors": [
     {
       "cost": {
         "coins": 3000
       },
+      "requiredLevel": 7,
       "trader": "Lance"
     }
   ]

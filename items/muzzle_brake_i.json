@@ -125,7 +125,7 @@
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_i.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "03/22/2026",
   "addedIn": "base",
   "vendors": [
     {
@@ -134,6 +134,7 @@
       },
       "limit": 5,
       "refreshSeconds": 86400,
+      "requiredLevel": 7,
       "trader": "Tian Wen"
     }
   ]

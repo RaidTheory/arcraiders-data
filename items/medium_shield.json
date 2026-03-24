@@ -156,7 +156,7 @@
     "arc_alloy": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/medium_shield.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "03/22/2026",
   "addedIn": "base",
   "damageMitigation": 42.5,
   "durability": 100,
@@ -174,6 +174,7 @@
       },
       "limit": 3,
       "refreshSeconds": 86400,
+      "requiredLevel": 12,
       "trader": "Lance"
     }
   ]
