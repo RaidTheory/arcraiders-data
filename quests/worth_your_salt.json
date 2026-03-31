@@ -46,6 +46,7 @@
     "zh-CN": "我发现有记录提到，太空港的一些电气工程师曾经一直在研究更先进的盐基电池。如果能弄到一个，也许下次天花板塌下来时就能避免大规模停电了。",
     "zh-TW": "我發現一些筆記提到，太空港有些電子工程師當時在製作先進的鹽式電池。要是我們能拿到一顆，或許它可以在下次天塌下來時防止全面停電。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Gå til Raketmontagen",
@@ -167,5 +168,5 @@
   "xp": 0,
   "previousQuestIds": ["groundbreaking"],
   "nextQuestIds": ["on_deaf_ears"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

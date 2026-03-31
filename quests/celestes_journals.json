@@ -39,7 +39,7 @@
     "he": "אוקיי, אז זה מביך... איבדתי שניים מהיומנים שלי במהלך בדיקת מוצבים בפעם האחרונה שיצאתי אל פני השטח. תוכל לצאת לשם ולנסות למצוא אותם לפני שמישהו אחר ייתקל בהם?",
     "hr": "Okej, ovo je neugodno... Izgubila sam dva dnevnika tijekom inspekcije predstraža zadnji put kad sam bila na površini. Možeš li otići tamo i pokušati ih pronaći prije nego što netko drugi naleti na njih?",
     "it": "Ok, questa è una situazione imbarazzante... Ho perso due dei miei diari durante alcune ispezioni agli avamposti l'ultima volta che sono andata in Superficie. Potresti andare là fuori e cercare di trovarli, prima che lo faccia qualcun altro?",
-    "ja": "ひどいことになった… 上層で基地の点検に行った際、日誌を2冊もなくしてしまった。誰かに読まれる前に探してきてくれないか？",
+    "ja": "ひどいことになった… 上層で前哨基地の点検に行った際、日誌を2冊もなくしてしまった。誰かに読まれる前に探してきてくれないか？",
     "ko-KR": "이거 약간 민망한데... 지난번에 전초 기지 점검하러 지상에 나갔다가 일지 두 권을 잃어버렸어요. 다른 사람이 발견하기 전에 먼저 가서 찾아봐 줄 수 있나요?",
     "no": "Ok, dette er litt pinlig... Jeg mistet to av journalene mine under noen utpostinspeksjoner sist jeg var på overflaten. Kan du dra ut og prøve å finne dem igjen før noen andre kommer over dem?",
     "pl": "Dobra, czuję się niezręcznie… Przy okazji inspekcji posterunków podczas ostatniej wyprawy na powierzchnię zgubiłam dwa dzienniki. Możesz tam pójść i spróbować je znaleźć, zanim wpadną w ręce komuś innemu?",
@@ -52,6 +52,7 @@
     "zh-CN": "说起来有点尴尬……上次我去上层进行哨站检查时丢了两本日记。你能去帮忙找回来吗？我不想日记落到别人手里。",
     "zh-TW": "好吧，這件事說來有點尷尬…我上次去頂層的時候，在檢查哨站時弄丟了兩本日誌。你能趁其他人還沒找到之前，幫我把它們找回來嗎？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Hent Celestes journaler fra South Swamp Outpost",
@@ -99,25 +100,25 @@
     },
     {
       "da": "Aflever {0} journaler til Celeste",
-      "de": "Bring {0} Tagebücher zu Celeste.",
-      "en": "Deliver {0} Journals to Celeste",
-      "es": "Entrégale {0} diarios a Celeste.",
-      "fr": "Livrer {0} journaux à Celeste",
+      "de": "Bring 2 Tagebücher zu Celeste.",
+      "en": "Deliver 2 Journals to Celeste",
+      "es": "Entrégale 2 diarios a Celeste.",
+      "fr": "Livrer 2 journaux à Celeste",
       "he": "להעביר {0} יומנים ל-Celeste",
       "hr": "Dostavi {0} dnevnika Celesti",
-      "it": "Consegna {0} diari a Celeste",
-      "ja": "セレステに日誌{0}冊を届けた",
-      "ko-KR": "셀레스테에게 일지 {0}권 전달하기",
+      "it": "Consegna 2 diari a Celeste",
+      "ja": "セレステに日誌2冊を届けた",
+      "ko-KR": "셀레스테에게 일지 2권 전달하기",
       "no": "Lever {0} journaler til Celeste",
-      "pl": "Dostarcz dzienniki ({0}) Celeste",
+      "pl": "Dostarcz dzienniki (2) Celeste",
       "pt": "Entregue {0} Diários a Celeste",
-      "pt-BR": "Entregue {0} diários para Celeste",
-      "ru": "Доставьте Селесте дневники ({0}).",
+      "pt-BR": "Entregue 2 diários para Celeste",
+      "ru": "Доставьте Селесте дневники (2).",
       "sr": "Dostavi {0} dnevnika Celesti",
-      "tr": "Celeste'e {0} Günlük temsil et",
+      "tr": "Celeste'e 2 Günlük temsil et",
       "uk": "Доставити {0} щоденників Celeste",
-      "zh-CN": "将{0}本日记交给塞莱斯特",
-      "zh-TW": "將{0}份日誌運送給莎莉絲特"
+      "zh-CN": "将2本日记交给塞莱斯特",
+      "zh-TW": "將2份日誌運送給莎莉絲特"
     }
   ],
   "rewardItemIds": [
@@ -137,5 +138,5 @@
   "xp": 0,
   "previousQuestIds": ["a_symbol_of_unification"],
   "nextQuestIds": ["back_on_top"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

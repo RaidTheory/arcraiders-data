@@ -33,7 +33,7 @@
     "he": "הסערה שככה ברובה, אך התשתיות שלנו ספגו מכה קשה. אם בכוונתך להישאר איתנו, אצטרך שתיתן כתף ותתרום את חלקך במאמצי השיקום.",
     "hr": "Oluja se uglavnom smirila, ali dobar dio naše infrastrukture pretrpio je teške udarce. Ako se nadaš ostati s nama, morat ćeš dati svoj doprinos u popravcima.",
     "it": "La tempesta si è in gran parte placata, ma molte delle nostre infrastrutture hanno subito gravi danni. Se vuoi restare con noi, dovrai dare una mano con le riparazioni.",
-    "ja": "嵐は落ち着いたけど、多くの設備に損害が出ている。ここに滞在したいなら、修理にも協力してもらわないと。",
+    "ja": "嵐は落ち着いたけど、多くのインフラに損害が出ている。ここに滞在したいなら、修理にも協力してもらわないと。",
     "ko-KR": "폭풍은 대부분 가라앉았지만, 인프라 피해가 꽤 커요. 계속 우리와 함께 지내고 싶다면 복구 작업에 힘 좀 써줘야 할 것 같군요.",
     "no": "Stormen har stort sett lagt seg, men mye av infrastrukturen vår har fått hard medfart. Hvis du vil bli værende hos oss, må du dra din del av lasset i reparasjonsarbeidet.",
     "pl": "Burza już się uspokoiła, ale większość naszej infrastruktury mocno oberwała. Jeśli chcesz z nami zostać, musisz się przyłożyć do napraw.",
@@ -71,25 +71,25 @@
     },
     {
       "da": "Plyndr {0} beholdere",
-      "de": "{0} Container plündern",
-      "en": "Loot {0} containers",
-      "es": "Saquea {0} contenedores.",
-      "fr": "Fouiller {0} conteneurs",
+      "de": "3 Container plündern",
+      "en": "Loot 3 containers",
+      "es": "Saquea 3 contenedores.",
+      "fr": "Fouiller 3 conteneurs",
       "he": "בזוז {0} מכלים",
       "hr": "Opljačkaj {0} spremnika",
-      "it": "Saccheggia {0} contenitori",
-      "ja": "容器を{0}個調査した",
-      "ko-KR": "컨테이너 {0}개 노획하기",
+      "it": "Saccheggia 3 contenitori",
+      "ja": "容器を3個調査した",
+      "ko-KR": "컨테이너 3개 노획하기",
       "no": "Plyndre {0} beholdere",
-      "pl": "Splądruj pojemniki ({0})",
+      "pl": "Splądruj pojemniki (3)",
       "pt": "Saqueie {0} recipientes",
-      "pt-BR": "Saqueie {0} contentores",
-      "ru": "Возьмите добычу из контейнеров ({0})",
+      "pt-BR": "Saqueie 3 contentores",
+      "ru": "Возьмите добычу из контейнеров (3)",
       "sr": "Pretraži {0} kontejnera",
-      "tr": "{0} ganimet kaynağı ara",
+      "tr": "3 ganimet kaynağı ara",
       "uk": "Обіщи {0} контейнерів",
-      "zh-CN": "搜刮{0}个容器",
-      "zh-TW": "搜刮{0}個容器"
+      "zh-CN": "搜刮3个容器",
+      "zh-TW": "搜刮3個容器"
     }
   ],
   "rewardItemIds": [
@@ -105,5 +105,5 @@
   "xp": 0,
   "previousQuestIds": [],
   "nextQuestIds": ["clearer_skies", "trash_into_treasure"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

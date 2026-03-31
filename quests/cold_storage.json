@@ -52,6 +52,7 @@
     "zh-CN": "最近不断收到有关于星辰山的报告，那里跟我们之前见过的任何地方都不一样。里面可能存有过去的记录或遗物，如果有的话，我要。",
     "zh-TW": "我們不斷收到有關星辰山的報告，和我們之前所收到的情報相當不同。那裡可能有過去的紀錄或遺物，如果屬實，那我一定要拿到手。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Gennemsøg enhver J Kozma Ventures-container",
@@ -111,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["in_my_image"],
   "nextQuestIds": ["snap_and_salvage"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

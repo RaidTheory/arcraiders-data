@@ -52,6 +52,7 @@
     "zh-CN": "一直以来有奇袭者报告说，出故障的ARC探测器会空投外表奇特的箱子。如果能撬开这种箱子，或许能摸清它们的目的。",
     "zh-TW": "掠手很早以前就報告過，故障的ARC探測機會掉下外觀很奇怪的貨箱。如果我們能找到打開它們的方法，或許就能更清楚它們在追求什麼。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Besøg et feltdepot",
@@ -133,5 +134,5 @@
   "xp": 0,
   "previousQuestIds": ["hatch_repairs"],
   "nextQuestIds": ["the_trifecta"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

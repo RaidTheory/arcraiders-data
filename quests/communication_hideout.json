@@ -46,6 +46,7 @@
     "zh-CN": "我们在掩埋废城的某些区域一直丢失信号。可能是我们的设备出问题了。你很擅长修理，对吧？能去检查一下吗？",
     "zh-TW": "我們失去了埋藏都市某些區域的訊號，我猜是我們的設備故障了。你對維修很在行，對吧？可以去檢查一下嗎？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til Det Røde Tårn i Old Town",
@@ -171,5 +172,5 @@
   "xp": 0,
   "previousQuestIds": ["lost_in_transmission"],
   "nextQuestIds": ["into_the_fray"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

@@ -52,6 +52,7 @@
     "zh-CN": "你昨晚感觉到有震动吗？我也没有。但显然地面在某个时间点被移动了，在这个过程中，一个被废墟阻塞的旧“第一波”哨站暴露了出来。我想让你尽快进去探查一下，以防被别人捷足先登。",
     "zh-TW": "你昨晚有感覺到任何震動嗎？我也沒有。但顯然地面搖晃了一下，導致原本被廢墟掩蓋住的第一波舊哨站露了出來。我希望你趕在其他人之前先進到裡面去。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til Victory Ridge",
@@ -85,7 +86,7 @@
       "hr": "Dohvati borbene planove iz skrovišta ispod srušene autoceste",
       "it": "Recupera i piani di battaglia dal nascondiglio sotto l'autostrada accidentata",
       "ja": "崩壊した高速道路の下にある隠れ家から作戦計画を回収した",
-      "ko-KR": "무너진 고속도로 아래 은신처에서 전투 계획서 회수하기",
+      "ko-KR": "붕괴된 고속도로 아래 은신처에서 전투 계획서 회수하기",
       "no": "Hent stridsplanene fra skjulestedet under den ødelagte motorveien",
       "pl": "Odzyskaj plany bitewne z kryjówki pod zawaloną autostradą",
       "pt": "Recupere os planos de batalha do esconderijo sob a rodovia destruída",
@@ -137,5 +138,5 @@
   "xp": 0,
   "previousQuestIds": ["keeping_the_memory"],
   "nextQuestIds": ["unexpected_initiative"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

@@ -26,7 +26,7 @@
   "trader": "Apollo",
   "requiredItemIds": [
     {
-      "itemId": "torn_book",
+      "itemId": "library_book",
       "quantity": 3
     }
   ],
@@ -52,6 +52,7 @@
     "zh-CN": "我们的图书室藏书已经相当陈旧了。拜托你去掩埋废城找找，带点新书回来。记得多带点不同种类的。",
     "zh-TW": "我們圖書館的藏書越來越陳舊過時了。你能去埋藏都市多找幾本書給我們閱讀嗎？請務必適合不同人閱讀的書來。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find biblioteket i City Center",
@@ -143,25 +144,25 @@
     },
     {
       "da": "Aflever {0} bøger til Apollo",
-      "de": "Bring {0} Bücher zu Apollo.",
-      "en": "Deliver {0} books to Apollo",
-      "es": "Entrégale {0} libros a Apollo.",
-      "fr": "Livrer {0} livres à Apollo",
+      "de": "Bring 3 Bücher zu Apollo.",
+      "en": "Deliver 3 books to Apollo",
+      "es": "Entrégale 3 libros a Apollo.",
+      "fr": "Livrer 3 livres à Apollo",
       "he": "להעביר {0} ספרים ל-Apollo",
       "hr": "Dostavi {0} knjiga Apollu",
-      "it": "Consegna {0} libri ad Apollo",
-      "ja": "アポロに本を{0}冊届けた",
-      "ko-KR": "아폴로에게 책 {0}권 전달하기",
+      "it": "Consegna 3 libri ad Apollo",
+      "ja": "アポロに本を3冊届けた",
+      "ko-KR": "아폴로에게 책 3권 전달하기",
       "no": "Lever {0} bøker til Apollo",
-      "pl": "Dostarcz książki ({0}) Apollowi",
+      "pl": "Dostarcz książki (3) Apollowi",
       "pt": "Entregue {0} livros a Apollo",
-      "pt-BR": "Entregue {0} livros para Apollo",
-      "ru": "Доставьте Аполлону книги ({0}).",
+      "pt-BR": "Entregue 3 livros para Apollo",
+      "ru": "Доставьте Аполлону книги (3).",
       "sr": "Dostavi {0} knjiga Apollu",
-      "tr": "Apollo'ya {0} kitap teslim et",
+      "tr": "Apollo'ya 3 kitap teslim et",
       "uk": "Доставити {0} книг Apollo",
-      "zh-CN": "将{0}本书交给阿波罗",
-      "zh-TW": "將{0}本書運送給阿波羅"
+      "zh-CN": "将3本书交给阿波罗",
+      "zh-TW": "將3本書運送給阿波羅"
     }
   ],
   "rewardItemIds": [
@@ -181,5 +182,5 @@
   "xp": 0,
   "previousQuestIds": ["digging_up_dirt"],
   "nextQuestIds": ["a_new_type_of_plant"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

@@ -24,6 +24,7 @@
   },
   "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"],
   "trader": "Tian Wen",
+  "otherRequirements": ["18x Raids"],
   "description": {
     "da": "Gæt engang? Shani bad mig hjælpe med noget, og for en gangs skyld er jeg faktisk glad for det. Vi er ved at oprette nye forposter oppe på overfladen! Eller, vi planlægger det i det mindste. Er det til at tro?",
     "de": "Weißt du was? Shani hat mich mal wieder um Hilfe gebeten, aber dieses Mal finde ich es richtig gut. Wir bauen oben neue Außenposten auf! Das ist zumindest der Plan. Ist das nicht mega?",
@@ -157,5 +158,5 @@
     "celestes_journals"
   ],
   "nextQuestIds": ["our_presence_up_there"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

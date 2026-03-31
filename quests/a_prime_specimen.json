@@ -58,28 +58,29 @@
     "zh-CN": "蓝门旁边的那个“伐木手”造成了不少的破坏，但那样完好的残骸也是我们研究中的无价样本。",
     "zh-TW": "藍色大門旁的那台森林砍伐機雖然造成了相當大的破壞，不過狀態如此完好的機殼，對我們的研究來說也是個很珍貴的樣本。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Skaf {0} ARC-strømceller",
-      "de": "Beschaffe {0} ARC-Energiezellen.",
-      "en": "Obtain {0} ARC Powercells",
-      "es": "Consigue {0} células de energía ARC.",
-      "fr": "Obtenir {0} cellules d'énergie ARC",
+      "de": "Beschaffe 2 ARC-Energiezellen.",
+      "en": "Obtain 2 ARC Powercells",
+      "es": "Consigue 2 células de energía ARC.",
+      "fr": "Obtenir 2 cellules d'énergie ARC",
       "he": "השיגו {0} תאי כוח של ARC",
       "hr": "Nabavi {0} ARC energetskih ćelija",
-      "it": "Ottieni {0} cellule ARC",
-      "ja": "ARC電池を{0}個入手した",
-      "ko-KR": "아크 파워셀 {0}개 획득하기",
+      "it": "Ottieni 2 cellule ARC",
+      "ja": "ARC電池を2個入手した",
+      "ko-KR": "아크 파워셀 2개 획득하기",
       "no": "Skaff {0} ARC-kraftceller",
-      "pl": "Zdobądź określoną liczbę ogniw zasilania ARC ({0})",
+      "pl": "Zdobądź określoną liczbę ogniw zasilania ARC (2)",
       "pt": "Obtenha {0} Células de Energia ARC",
-      "pt-BR": "Obtenha {0} Baterias ARC",
-      "ru": "Добудьте энергоячейки ARC: {0}.",
+      "pt-BR": "Obtenha 2 Baterias ARC",
+      "ru": "Добудьте энергоячейки ARC: 2.",
       "sr": "Nabavi {0} ARC energetskih ćelija",
-      "tr": "{0} ARC Güç Pili elde et",
+      "tr": "2 ARC Güç Pili elde et",
       "uk": "Отримайте {0} енергокомірок ARC",
-      "zh-CN": "获得{0}个ARC能量电池",
-      "zh-TW": "取得{0}顆ARC動力電池"
+      "zh-CN": "获得2个ARC能量电池",
+      "zh-TW": "取得2顆ARC動力電池"
     },
     {
       "da": "Interager med en hvilken som helst ARC Deforester",
@@ -139,5 +140,5 @@
   "xp": 0,
   "previousQuestIds": ["the_clean_dream"],
   "nextQuestIds": [],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

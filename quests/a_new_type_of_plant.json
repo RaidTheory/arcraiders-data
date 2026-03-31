@@ -24,6 +24,12 @@
   },
   "map": ["dam_battlegrounds"],
   "trader": "Lance",
+  "requiredItemIds": [
+    {
+      "itemId": "possibly_toxic_plant",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Nogle spejdere har rapporteret om disse mærkelige planter, der spreder sig i området. Det får din gamle ven Lance til at tro, at de kan have nogle interessante anvendelsesmuligheder.",
     "de": "Ein paar Späher haben von merkwürdigen Pflanzen berichtet, die sich in der Gegend ausbreiten. Dein alter Kumpel Lance ist der Meinung, dass man die für interessante Dinge benutzen könnte.",
@@ -46,6 +52,7 @@
     "zh-CN": "一些侦察者带回报告，说有些奇怪的植物正蔓延到本区域。你的老伙计兰斯听完就觉得，这种植物可能有些有趣的用途。",
     "zh-TW": "有些偵察兵回報，說有一種奇怪的植物正在這一帶擴散。你的老友蘭斯覺得它可能有些有趣的用途。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Led efter den nye plante nær Baron Husk i Old Battleground",
@@ -105,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["building_a_library"],
   "nextQuestIds": ["armored_transports"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

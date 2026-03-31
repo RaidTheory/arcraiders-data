@@ -24,6 +24,7 @@
   },
   "map": ["stella_montis"],
   "trader": "Lance",
+  "otherRequirements": ["24x Raids"],
   "grantedItemIds": [
     {
       "itemId": "defibrillator",
@@ -77,25 +78,25 @@
     },
     {
       "da": "Find og gennemsøg {0} androider",
-      "de": "Finde und durchsuche {0} Androiden.",
-      "en": "Find and search {0} Androids",
-      "es": "Busca y registra {0} androides.",
-      "fr": "Trouver et fouiller {0} androïdes",
+      "de": "Finde und durchsuche 3 Androiden.",
+      "en": "Find and search 3 Androids",
+      "es": "Busca y registra 3 androides.",
+      "fr": "Trouver et fouiller 3 androïdes",
       "he": "אתר ובצע חיפוש על {0} אנדרואידים",
       "hr": "Pronađi i pretraži {0} Androida",
-      "it": "Trova e fruga {0} androidi",
-      "ja": "{0}体のアンドロイドを探して調べた",
-      "ko-KR": "안드로이드 {0}대를 찾아 수색하기",
+      "it": "Trova e fruga 3 androidi",
+      "ja": "3体のアンドロイドを探して調べた",
+      "ko-KR": "안드로이드 3대를 찾아 수색하기",
       "no": "Finn og gjennomsøk {0} androider",
-      "pl": "Znajdź i przeszukaj androidy ({0})",
+      "pl": "Znajdź i przeszukaj androidy (3)",
       "pt": "Encontre e vasculhe {0} Androides",
-      "pt-BR": "Encontre e vasculhe {0} Androides",
-      "ru": "Найдите и осмотрите андроидов ({0}).",
+      "pt-BR": "Encontre e vasculhe 3 Androides",
+      "ru": "Найдите и осмотрите андроидов (3).",
       "sr": "Pronađi i pretraži {0} Androida",
-      "tr": "{0} Androidlerı bul ve ara",
+      "tr": "3 Androidlerı bul ve ara",
       "uk": "Знайдіть та обшукайте {0} андроїдів",
-      "zh-CN": "找到并搜索{0}个人形机器人",
-      "zh-TW": "找到並搜索{0}個機器人"
+      "zh-CN": "找到并搜索3个人形机器人",
+      "zh-TW": "找到並搜索3個機器人"
     }
   ],
   "rewardItemIds": [
@@ -111,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["a_bad_feeling"],
   "nextQuestIds": ["cold_storage"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

@@ -52,6 +52,7 @@
     "zh-CN": "早些时候，一个奇袭者来到我店里，想用她在掩埋废城找到的一台机器换一些手雷。她说那台机器能做咖啡，但好像缺了一些零件。想接这个任务吗？",
     "zh-TW": "稍早有個掠手來到我的店裡，想用她在埋藏都市找到的機器換一些手榴彈。她說那台機器能煮咖啡，但好像少了幾個零件。有興趣接份工作嗎？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find en espressomaskine for at bjærge reservedele",
@@ -111,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["bees"],
   "nextQuestIds": ["life_of_a_pharmacist"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

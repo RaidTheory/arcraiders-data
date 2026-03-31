@@ -118,28 +118,6 @@
       "uk": "На Buried City відвідайте забарикадовану зону на 6-му поверсі будівлі Space Travel",
       "zh-CN": "在掩埋废城，前往航天大楼6层的封锁区域",
       "zh-TW": "在埋藏都市，前往太空旅行局大樓6樓的封鎖區域"
-    },
-    {
-      "da": "Find en ekstra nøgle til dæmningsovervågningen",
-      "de": "Finde einen zusätzlichen Damm-Überwachungsraumschlüssel.",
-      "en": "Find a spare Dam Surveillance Key",
-      "es": "Encuentra una llave de repuesto de la sala de vigilancia de la Presa.",
-      "fr": "Trouver une clé de surveillance du Barrage",
-      "he": "מצא מפתח מעקב סכר רזרבי",
-      "hr": "Pronađi rezervni Ključ za nadzor brane",
-      "it": "Trova una chiave di sorveglianza di riserva per la Diga",
-      "ja": "ダムの監視室のスペアキーを見つけた",
-      "ko-KR": "여분의 댐 감시실 열쇠 찾기",
-      "no": "Finn en ekstra nøkkel til damovervåkning",
-      "pl": "Znajdź zapasowy klucz do biura nadzoru na Zaporze",
-      "pt": "Encontre uma Chave de Vigilância da Represa extra",
-      "pt-BR": "Encontre uma Chave da Vigilância da Represa sobressalente",
-      "ru": "Найдите запасной ключ от комнаты наблюдения дамбы.",
-      "sr": "Pronađi rezervni ključ za nadzor brane",
-      "tr": "Bir yedek Baraj Gözetleme Anahtarı bul",
-      "uk": "Знайдіть запасний ключ від системи нагляду за дамбою",
-      "zh-CN": "找到备用的大坝监控室钥匙",
-      "zh-TW": "找到備用的大壩監視室鑰匙"
     }
   ],
   "rewardItemIds": [
@@ -159,5 +137,5 @@
   "xp": 0,
   "previousQuestIds": ["a_better_use"],
   "nextQuestIds": ["dormant_barons", "doctors_orders"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }
