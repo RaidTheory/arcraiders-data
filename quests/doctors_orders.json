@@ -88,25 +88,25 @@
     },
     {
       "da": "Skaf {0} antiseptisk middel",
-      "de": "Beschaffe {0} Desinfektionsmittel.",
-      "en": "Obtain {0} Antiseptic",
-      "es": "Consigue {0} antisépticos.",
-      "fr": "Obtenir {0} antiseptique",
+      "de": "Beschaffe 2 Desinfektionsmittel.",
+      "en": "Obtain 2 Antiseptic",
+      "es": "Consigue 2 antisépticos.",
+      "fr": "Obtenir 2 antiseptique",
       "he": "השיגו {0} חומר חיטוי",
       "hr": "Nabavi {0} Antiseptik",
-      "it": "Ottieni {0} antisettici",
-      "ja": "消毒液を{0}個手に入れた",
-      "ko-KR": "소독약 {0}개 획득하기",
+      "it": "Ottieni 2 antisettici",
+      "ja": "消毒液を2個手に入れた",
+      "ko-KR": "소독약 2개 획득하기",
       "no": "Skaff {0} antiseptisk middel",
-      "pl": "Zdobądź środki antyseptyczne ({0})",
+      "pl": "Zdobądź środki antyseptyczne (2)",
       "pt": "Obtenha {0} Antisséptico",
-      "pt-BR": "Obtenha {0} Antisséptico",
-      "ru": "Добудьте антисептик ({0}).",
+      "pt-BR": "Obtenha 2 Antisséptico",
+      "ru": "Добудьте антисептик (2).",
       "sr": "Nabavi {0} Antiseptik",
-      "tr": "{0} Antiseptik elde et",
+      "tr": "2 Antiseptik elde et",
       "uk": "Здобудьте {0} антисептик",
-      "zh-CN": "获得{0}份防腐剂",
-      "zh-TW": "獲得{0}個防腐劑"
+      "zh-CN": "获得2份防腐剂",
+      "zh-TW": "獲得2個防腐劑"
     },
     {
       "da": "Skaf 1 slidstærkt stof",
@@ -170,5 +170,5 @@
   "xp": 0,
   "previousQuestIds": ["greasing_her_palms"],
   "nextQuestIds": ["medical_merchandise"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

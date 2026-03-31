@@ -46,6 +46,7 @@
     "zh-CN": "我们的食物生产终于足以满足我们的基本需求了，但现在真正需要的是多样化。我有一些关于“第一波”之前的农业研究的线索。有兴趣吗？",
     "zh-TW": "我們的糧食產量終於足以滿足我們的基本需求了，但我們現在真正需要的是多樣化。我掌握到一條線索，能了解第一波發生前的農業研究。你要加入嗎？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Gå til Research & Administration-bygningen",
@@ -131,5 +132,5 @@
   "xp": 0,
   "previousQuestIds": ["eyes_in_the_sky"],
   "nextQuestIds": ["untended_garden"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

@@ -64,25 +64,25 @@
   "objectives": [
     {
       "da": "Skaf {0} ledninger",
-      "de": "{0} Kabel besorgen",
-      "en": "Obtain {0} Wires",
-      "es": "Consigue {0} cables.",
-      "fr": "Obtenir {0} câbles",
+      "de": "6 Kabel besorgen",
+      "en": "Obtain 6 Wires",
+      "es": "Consigue 6 cables.",
+      "fr": "Obtenir 6 câbles",
       "he": "השג {0} כבלים",
       "hr": "Nabavi {0} žica",
-      "it": "Ottieni {0} fili",
-      "ja": "ワイヤーを{0}個手に入れた",
-      "ko-KR": "전선 {0}개 획득하기",
+      "it": "Ottieni 6 fili",
+      "ja": "ワイヤーを6個手に入れた",
+      "ko-KR": "전선 6개 획득하기",
       "no": "Skaff {0} ledninger",
-      "pl": "Zdobądź kable ({0})",
+      "pl": "Zdobądź kable (6)",
       "pt": "Obtenha {0} Fios",
-      "pt-BR": "Obtenha {0} fios",
-      "ru": "Добудьте провода ({0})",
+      "pt-BR": "Obtenha 6 fios",
+      "ru": "Добудьте провода (6)",
       "sr": "Nabavi {0} Žica",
-      "tr": "{0} kablo elde et",
+      "tr": "6 kablo elde et",
       "uk": "Здобудьте {0} Дротів",
-      "zh-CN": "获得{0}根电线",
-      "zh-TW": "獲得{0}條電線"
+      "zh-CN": "获得6根电线",
+      "zh-TW": "獲得6條電線"
     },
     {
       "da": "Skaf 1 batteri",
@@ -120,5 +120,5 @@
   "xp": 0,
   "previousQuestIds": ["picking_up_the_pieces"],
   "nextQuestIds": ["off_the_radar"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

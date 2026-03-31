@@ -76,7 +76,11 @@
     "Max Loadout Weight": null,
     "Shield Compatibility": null
   },
+  "recyclesInto": {
+    "plastic_parts": 6,
+    "rubber_parts": 6
+  },
   "imageFilename": "https://cdn.arctracker.io/items/free_loadout_augment.png",
-  "updatedAt": "03/17/2026",
+  "updatedAt": "03/31/2026",
   "addedIn": "base"
 }

@@ -60,6 +60,7 @@
     "zh-CN": "我还有个特殊地点要你帮我找，是“第一波”时期的老战场。虽然这种地方具有重要意义，但如今的奇袭者通常会将之扫荡一空。人们遗忘得太快，快得有些不应该。",
     "zh-TW": "我還有一個特別的地點需要你幫忙搜索一下，那是第一波的古老戰場。現在的掠手通常會把那種地方掠劫一空，儘管它們曾有重要的意義。人們總是遺忘得很快。太快了。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til den hellige grund ved Skrotpladsen",
@@ -233,5 +234,5 @@
   "xp": 0,
   "previousQuestIds": ["what_we_left_behind"],
   "nextQuestIds": ["marked_for_death", "straight_record"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

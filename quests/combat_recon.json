@@ -127,25 +127,25 @@
     },
     {
       "da": "Ødelæg {0} Spotters",
-      "de": "Zerstöre {0} Aufklärer.",
-      "en": "Destroy {0} Spotters",
-      "es": "Destruye {0} vigías.",
-      "fr": "Détruire {0} Observateurs",
+      "de": "Zerstöre 2 Aufklärer.",
+      "en": "Destroy 2 Spotters",
+      "es": "Destruye 2 vigías.",
+      "fr": "Détruire 2 Observateurs",
       "he": "השמד {0} תצפיתנים",
       "hr": "Uništi {0} Spottera",
-      "it": "Distruggi {0} Spotter",
-      "ja": "スポッターを{0}体倒した",
-      "ko-KR": "스포터 {0}개 파괴하기",
+      "it": "Distruggi 2 Spotter",
+      "ja": "スポッターを2体倒した",
+      "ko-KR": "스포터 2개 파괴하기",
       "no": "Ødelegg {0} Spottere",
-      "pl": "Zniszcz określoną liczbę czuwaczy ({0})",
+      "pl": "Zniszcz określoną liczbę czuwaczy (2)",
       "pt": "Destrua {0} Observadores",
-      "pt-BR": "Destrua {0} Olheiros",
-      "ru": "Уничтожьте «Наводчиков»: {0}.",
+      "pt-BR": "Destrua 2 Olheiros",
+      "ru": "Уничтожьте «Наводчиков»: 2.",
       "sr": "Uništi {0} Osmatrača",
-      "tr": "{0} Gözleyici yok et",
+      "tr": "2 Gözleyici yok et",
       "uk": "Знищіть {0} Спостерігачів",
-      "zh-CN": "摧毁{0}个“侦察员”",
-      "zh-TW": "摧毀{0}台探子"
+      "zh-CN": "摧毁2个“侦察员”",
+      "zh-TW": "摧毀2台探子"
     },
     {
       "da": "Aflever et Spotter-relæ til Shani",
@@ -167,7 +167,7 @@
       "tr": "Shani'ye bir Gözleyici Rölesi teslim et",
       "uk": "Доставте реле Спостерігача до Shani",
       "zh-CN": "将一个“侦察员”中继器交给萨尼",
-      "zh-TW": "將探子繼電器送去給珊妮"
+      "zh-TW": "將探子中繼器送去給珊妮"
     }
   ],
   "rewardItemIds": [
@@ -183,5 +183,5 @@
   "xp": 0,
   "previousQuestIds": ["into_the_fray", "out_of_the_shadows"],
   "nextQuestIds": ["bombing_run"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

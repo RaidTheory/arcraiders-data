@@ -1,0 +1,69 @@
+{
+  "id": "dolabra",
+  "name": {
+    "da": "Dolabra",
+    "de": "Dolabra",
+    "en": "Dolabra",
+    "es": "Dolabra",
+    "fr": "Dolabra",
+    "he": "Dolabra",
+    "hr": "Dolabra",
+    "it": "Dolabra",
+    "ja": "Dolabra",
+    "ko-KR": "Dolabra",
+    "no": "Dolabra",
+    "pl": "Dolabra",
+    "pt": "Dolabra",
+    "pt-BR": "Dolabra",
+    "ru": "Dolabra",
+    "sr": "Dolabra",
+    "tr": "Dolabra",
+    "uk": "Dolabra",
+    "zh-CN": "Dolabra",
+    "zh-TW": "Dolabra"
+  },
+  "description": {
+    "da": "Et eksperimentelt våben, der enten kan affyre en bred eksplosion på kort afstand eller fokuseres til at affyre en præcis varmestråle på mellemlang afstand.",
+    "de": "Eine experimentelle Waffe, die entweder einen breiten Schuss mit kurzer Reichweite abgeben kann oder so fokussiert wird, dass sie einen konzentrierten Hitzestrahl mit mittlerer Reichweite verschießt.",
+    "en": "An experimental weapon that can either fire a wide short range blast, or be focused to fire a tight medium range beam of heat.",
+    "es": "Un arma experimental que puede disparar una ráfaga amplia a corta distancia o concentrarse para disparar un haz de calor preciso a media distancia.",
+    "fr": "Une arme expérimentale qui peut soit tirer une large décharge à courte portée, soit être concentrée pour tirer un faisceau de chaleur étroit à moyenne portée.",
+    "he": "נשק ניסיוני שיכול לירות פרץ רחב לטווח קצר, או להיות ממוקד לירי קרן חום הדוקה לטווח בינוני.",
+    "hr": "Eksperimentalno oružje koje može ispaliti široki prasak kratkog dometa ili se može fokusirati za ispaljivanje uskog toplinskog snopa srednjeg dometa.",
+    "it": "Un'arma sperimentale che può sparare un'ampia scarica a corto raggio o essere focalizzata per sparare un raggio di calore concentrato a medio raggio.",
+    "ja": "近距離に広範囲の爆風を発射するか、収束させて中距離に強力な熱線を照射することができる実験的な武器。",
+    "ko-KR": "근거리에서 넓은 폭발을 일으키거나, 초점을 맞춰 중거리에서 정밀한 열선을 발사할 수 있는 실험용 무기입니다.",
+    "no": "Et eksperimentelt våpen som enten kan avfyre en bred salve på kort hold, eller fokuseres for å avfyre en konsentrert varmestråle på mellomlangt hold.",
+    "pl": "Eksperymentalna broń, która może wystrzelić szeroki podmuch na krótki dystans lub zostać skupiona, aby wystrzelić wąską wiązkę ciepła o średnim zasięgu.",
+    "pt": "Uma arma experimental que pode disparar uma rajada ampla de curto alcance ou ser focada para disparar um feixe de calor estreito de médio alcance.",
+    "pt-BR": "Uma arma experimental que pode disparar uma rajada ampla de curto alcance ou ser focada para disparar um feixe de calor concentrado de médio alcance.",
+    "ru": "Экспериментальное оружие, которое может либо производить широкий залп на короткой дистанции, либо фокусироваться для стрельбы узким тепловым лучом на средней дистанции.",
+    "sr": "Eksperimentalno oružje koje može ispaliti široki prasak kratkog dometa ili se može fokusirati za ispaljivanje uskog toplotnog snopa srednjeg dometa.",
+    "tr": "İster kısa menzilli geniş bir patlama ateşleyebilen ister orta menzilli dar bir ısı ışını ateşlemek için odaklanabilen deneysel bir silah.",
+    "uk": "Експериментальна зброя, яка може або стріляти широким залпом на короткій дистанції, або фокусуватися для стрільби вузьким тепловим променем на середній дистанції.",
+    "zh-CN": "一种实验性武器，既可以发射宽范围的短程冲击，也可以聚焦发射窄范围的中程热能光束。",
+    "zh-TW": "一種實驗性武器，既可以發射寬範圍的短程衝擊，也可以聚焦發射窄範圍的中程熱能光束。"
+  },
+  "type": "Shotgun",
+  "rarity": "Legendary",
+  "value": 27500,
+  "weightKg": 8,
+  "stackSize": 1,
+  "isWeapon": true,
+  "blueprintLocked": true,
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
+  "recipe": {
+    "magnetic_accelerator": 3,
+    "shredder_gyro": 3,
+    "vaporizer_regulator": 2
+  },
+  "recyclesInto": {
+    "magnetic_accelerator": 2
+  },
+  "salvagesInto": {
+    "magnetic_accelerator": 1
+  },
+  "updatedAt": "03/31/2026",
+  "addedIn": "1.22"
+}
