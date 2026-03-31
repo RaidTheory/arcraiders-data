@@ -1,0 +1,110 @@
+{
+  "id": "settled_in_full",
+  "name": {
+    "da": "Betalt fuldt ud",
+    "de": "Vollständig beglichen",
+    "en": "Settled in Full",
+    "es": "Cuentas saldadas",
+    "fr": "Solde complet",
+    "he": "סולק במלואו",
+    "hr": "U potpunosti namireno",
+    "it": "Saldato completamente",
+    "ja": "代理納品",
+    "ko-KR": "청산 완료",
+    "no": "Betalt i sin helhet",
+    "pl": "Spłacony dług",
+    "pt": "Pagamento Total",
+    "pt-BR": "Pagamento Total",
+    "ru": "В расчете",
+    "sr": "U potpunosti namireno",
+    "tr": "Tamamen Yerleşti",
+    "uk": "Повний розрахунок",
+    "zh-CN": "债务结清",
+    "zh-TW": "全數清算"
+  },
+  "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "bastion_cell",
+      "quantity": 1
+    }
+  ],
+  "description": {
+    "da": "Heldigt for dig kan Dodgers gæld stadig betales. Bring mig en Bastion-celle. En rigtig en, trukket ud af en rigtig Bastion. Betragt det, Dodger skyldte mig, som overført til kredit for dig. Okay?",
+    "de": "Zum Glück für dich kann Dodgers Schuld noch beglichen werden. Bring mir eine Bastionzelle. Eine echte, aus einer echten Bastion. Betrachte Dodgers Schuld mir gegenüber als Gutschrift für dich. Okay?",
+    "en": "Lucky for you, Dodger's debt can still be settled. Bring me a Bastion Cell. A real one, pulled from a real Bastion. Consider what Dodger owed me transferred to credit for you. Okay?",
+    "es": "Por suerte para ti, aún se puede saldar la deuda de Dodger. Tráeme una célula de bastión. Una de verdad que le arranques a un bastión de verdad. Lo que Dodger me debía lo transferiré a créditos para ti. ¿Te parece bien?",
+    "fr": "Heureusement pour vous, la dette de Dodger peut encore être réglée. Rapportez-moi une cellule de Bastion, une vraie, extraite d'un véritable Bastion. On a qu'à considérer ce que Dodger me devait comme un crédit à votre compte. Ça marche ?",
+    "he": "מזל שלך, עדיין אפשר לסלק את החוב של דודג'ר. הבא לי תא בסטיון. אחד אמיתי, שהוצא מבסטיון אמיתי. נחשיב את מה שדודג'ר היה חייב לי כזיכוי עבורך. אוקיי?",
+    "hr": "Srećom po tebe, Dodgerov dug se još uvijek može podmiriti. Donesi mi Bastion ćeliju. Pravu, izvađenu iz pravog Bastiona. Smatraj ono što mi je Dodger dugovao prebačenim u tvoj kredit. Može?",
+    "it": "Per tua fortuna, il debito di Dodger può ancora essere saldato. Portami una cella di un Bastione. Una vera, presa da un vero Bastione. Considera il debito di Dodger trasferito come credito per te. OK?",
+    "ja": "ラッキーだね。ドジャーの負債が、あんたの稼ぎの種になる。バスティオン・セルを持ってきな。本物のバスティオンから、本物のセルを引っこ抜いてくるんだ。いいね？",
+    "ko-KR": "운이 좋네요. 닷저의 빚은 아직 청산할 수 있습니다. 바스티온 전지를 가져오세요. 진짜 바스티온에서 뽑아낸 진짜 전지로요. 닷저가 제게 진 빚은 당신에게 크레딧으로 넘긴 걸로 칩시다. 알겠죠?",
+    "no": "Heldigvis for deg kan Dodgers gjeld fortsatt gjøres opp. Bring meg en Bastion-celle. En ekte en, hentet fra en ekte Bastion. Betrakt det Dodger skyldte meg som overført til kreditt for deg. Greit?",
+    "pl": "Na twoje szczęście dług Dodgera wciąż można uregulować. Przynieś mi ogniwo bastionu. Prawdziwe, z prawdziwego bastionu. Kwotę, którą był mi winien Dodger, otrzymasz w kredytach. Stoi?",
+    "pt": "Pra sua sorte, ainda dá pra acertar a dívida do Dodger. Traz uma Célula de Baluarte. Uma de verdade, tirada de um Baluarte. O valor que o Dodger me devia vai ser transferido pra você. Beleza?",
+    "pt-BR": "Pra sua sorte, ainda dá pra acertar a dívida do Dodger. Traz uma Célula de Baluarte. Uma de verdade, tirada de um Baluarte. O valor que o Dodger me devia vai ser transferido pra você. Beleza?",
+    "ru": "Тебе повезло: долг Плута еще можно погасить. Принеси мне ячейку «Бастиона». Настоящую! Вынутую прямиком из «Бастиона». Будем считать, что этого хватит, чтобы оплатить долг Плута. Идет?",
+    "sr": "Srećom po tebe, Dodžerov dug se još uvek može namiriti. Donesi mi Bastion ćeliju. Pravu, izvađenu iz pravog Bastiona. Smatraj ono što mi je Dodžer dugovao prebačenim u tvoj kredit. Može?",
+    "tr": "Neyse ki Dodger'ın borcu hâlâ ödenebilir durumda. Bana bir Burç Hücresi getir. Gerçek bir Burç'tan çıkarılmış gerçek bir hücre. Dodger'ın bana olan borcunu senin hesabına aktardığımı düşün. Olur mu?",
+    "uk": "На твоє щастя, борг Доджера ще можна повернути. Принеси мені комірку «Бастіону». Справжню, витягнуту зі справжнього «Бастіону». Вважай, що борг Доджера перед мною переходить на твій рахунок. Згода?",
+    "zh-CN": "算你走运，道奇的债还能结清。给我弄一个“堡垒”电池，必须是从真正的“堡垒”上拆下来的。道奇欠我的债，就抵作你的报酬，怎么样？",
+    "zh-TW": "算你走運，道奇的債務還有機會還清。帶一個堡壘電池來給我。必須是從真正的堡壘上拆下來的真品。道奇欠我的錢可以就此一筆勾銷。好嗎？"
+  },
+  "objectives": [
+    {
+      "da": "Ødelæg en Bastion",
+      "de": "Zerstöre eine Bastion.",
+      "en": "Destroy a Bastion",
+      "es": "Destruye un bastión.",
+      "fr": "Détruire un Bastion",
+      "he": "השמד בסטיון",
+      "hr": "Uništi Bastion",
+      "it": "Distruggi un Bastione",
+      "ja": "バスティオンを破壊した",
+      "ko-KR": "바스티온 파괴하기",
+      "no": "Ødelegg en Bastion",
+      "pl": "Zniszcz bastion",
+      "pt": "Destrua um Baluarte",
+      "pt-BR": "Destrua um Baluarte",
+      "ru": "Уничтожьте «Бастион».",
+      "sr": "Uništi Bastion",
+      "tr": "Bir Burç yok et",
+      "uk": "Знищ «Бастіон»",
+      "zh-CN": "摧毁一个“堡垒”",
+      "zh-TW": "摧毀1台堡壘"
+    },
+    {
+      "da": "Aflever en Bastion-celle til Tian Wen",
+      "de": "Liefere eine Bastionzelle an Tian Wen.",
+      "en": "Deliver a Bastion Cell to Tian Wen",
+      "es": "Entrégale una célula de bastión a Tian Wen.",
+      "fr": "Livrer une cellule de Bastion à Tian Wen",
+      "he": "מסור תא בסטיון לטיאן וון",
+      "hr": "Dostavi Bastion ćeliju Tian Wenu",
+      "it": "Consegna una cella di Bastione a Tian Wen",
+      "ja": "ティアン・ウェンにバスティオン・セルを届けた",
+      "ko-KR": "티안 웬에게 바스티온 전지 전달하기",
+      "no": "Lever en Bastion-celle til Tian Wen",
+      "pl": "Dostarcz ogniwo bastionu Tian Wen",
+      "pt": "Entregue uma Célula de Baluarte para Tian Wen",
+      "pt-BR": "Entregue uma Célula de Baluarte para Tian Wen",
+      "ru": "Доставьте Тянь Вэнь ячейку «Бастиона».",
+      "sr": "Dostavi Bastion ćeliju Tian Ven-u",
+      "tr": "Tian Wen'e bir Burç Hücresi teslim et",
+      "uk": "Віддай комірку «Бастіону» Тянь Веню",
+      "zh-CN": "将“堡垒”电池交给天玟",
+      "zh-TW": "將堡壘電池送去給田文"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "raider_tokens",
+      "quantity": 30
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": ["outstanding_balance"],
+  "nextQuestIds": [],
+  "updatedAt": "03/31/2026"
+}
