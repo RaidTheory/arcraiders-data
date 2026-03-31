@@ -180,6 +180,10 @@
   ],
   "xp": 0,
   "previousQuestIds": ["with_a_trace"],
-  "nextQuestIds": ["keeping_an_eye_out", "outstanding_balance", "a_prime_specimen"],
+  "nextQuestIds": [
+    "keeping_an_eye_out",
+    "outstanding_balance",
+    "a_prime_specimen"
+  ],
   "updatedAt": "03/31/2026"
 }
