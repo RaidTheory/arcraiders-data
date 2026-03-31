@@ -58,13 +58,14 @@
     "battery": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/energy_clip.png",
-  "updatedAt": "03/20/2026",
+  "updatedAt": "03/22/2026",
   "addedIn": "base",
   "vendors": [
     {
       "cost": {
         "coins": 3000
       },
+      "requiredLevel": 12,
       "trader": "Tian Wen"
     }
   ]
