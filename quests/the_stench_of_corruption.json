@@ -26,7 +26,7 @@
   "trader": "Shani",
   "description": {
     "da": "Den nøgle, du fandt i lastbilen med tønder... Jeg vil ikke komme med anklager endnu, men det her stinker virkelig af et inside job. Kan du undersøge en mistanke, jeg har?",
-    "de": "Der Schlüssel, den du im Fasswagen gefunden hast ... Ich will jetzt nicht gleich mit Anschuldigungen um mich werfen, aber das riecht echt nach einem Insider-Job. Könntest du mal meiner Vermutung nachgehen?",
+    "de": "Der Schlüssel, den du im Fasstransporter gefunden hast ... Ich will jetzt nicht gleich mit Anschuldigungen um mich werfen, aber das riecht echt nach einem Insider-Job. Könntest du mal meiner Vermutung nachgehen?",
     "en": "That key you found in the barrel truck… I won’t jump to accusations just yet, but this certainly reeks of an inside job. Could you investigate a hunch I have?",
     "es": "Esa llave que encontraste en el barril... No pretendo señalar a nadie, pero esto me huele a topo a leguas. ¿Podrías investigar una corazonada que tengo?",
     "fr": "Cette clé que vous avez trouvée dans le camion-citerne... Je ne vais pas tirer de conclusions hâtives, mais ça sent le coup monté de l'intérieur. Pourriez‑vous vérifier si mon intuition est bonne ?",
@@ -46,6 +46,7 @@
     "zh-CN": "你在油桶卡车里找到的钥匙……我暂时不妄下结论，但这明显是内部人员所为。能否帮忙验证一下我的直觉？",
     "zh-TW": "關於你在那輛載運桶子的卡車上找到的鑰匙…我還不想做出任何指控，但確實感覺很像是某個內鬼幹的。你能不能幫忙調查一下這個預感是否為真？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå den sydvestlige lobby i Afgangsbygningen",
@@ -145,7 +146,7 @@
       "hr": "Upotrijebi ključ na bilo kojem Terminalu za ispiranje kako bi poništio protokol zaobilaženja",
       "it": "Trova un Terminale di scarico e usa la chiave per sostituire il protocollo di bypass",
       "ja": "任意の送水用端末で鍵を使用し、バイパスプロトコルを上書きした",
-      "ko-KR": "아무 수세 터미널에서 열쇠를 사용해 우회 프로토콜 중단시키기",
+      "ko-KR": "아무 플러싱 터미널에서 열쇠를 사용해 우회 프로토콜 중단시키기",
       "no": "Bruk nøkkelen på en Flushing Terminal for å overstyre omgåelsesprotokollen",
       "pl": "Użyj klucza w dowolnym terminalu płuczącym, aby ominąć protokół obejścia",
       "pt": "Use a chave em qualquer Terminal de Descarga para sobrepor o protocolo de desvio",
@@ -155,7 +156,7 @@
       "tr": "Baypas protokolünü geçersiz kılmak için anahtarı herhangi bir Boşaltma Terminalinde kullan",
       "uk": "Використайте ключ на будь-якому Терміналі очищення для перевизначення протоколу обходу",
       "zh-CN": "在任意冲洗终端上使用钥匙覆盖旁路协议",
-      "zh-TW": "在任意排清終端上使用鑰匙來覆寫旁路程序"
+      "zh-TW": "在任意沖洗終端上使用鑰匙來覆寫旁路程序"
     }
   ],
   "rewardItemIds": [
@@ -175,5 +176,5 @@
   "xp": 0,
   "previousQuestIds": ["a_toxic_trail"],
   "nextQuestIds": [],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

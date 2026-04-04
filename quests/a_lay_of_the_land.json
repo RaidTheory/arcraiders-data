@@ -52,6 +52,7 @@
     "zh-CN": "轰隆声越来越近了。搞到激光雷达扫描仪就能监测地震，我知道它们在哪。你总不想睡着睡着天塌了吧？",
     "zh-TW": "原本遙遠的轟隆聲響，一天一天越來越近了。我查出有一些感光掃描儀或許能幫助我們監控震動。你還想要頭頂上有屋頂，對吧？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til Jiangsu Warehouse",
@@ -121,25 +122,25 @@
     },
     {
       "da": "Aflever {0} LiDAR-scannere til Shani",
-      "de": "Bring {0} Lidar-Scanner zu Shani.",
-      "en": "Deliver {0} LiDAR Scanners to Shani",
-      "es": "Entrégale {0} escáneres lídar a Shani.",
-      "fr": "Livrer {0} scanners LiDAR à Shani",
+      "de": "Bring 1 Lidar-Scanner zu Shani.",
+      "en": "Deliver 1 LiDAR Scanners to Shani",
+      "es": "Entrégale 1 escáneres lídar a Shani.",
+      "fr": "Livrer 1 scanners LiDAR à Shani",
       "he": "מסרו {0} סורקי LiDAR לשני",
       "hr": "Dostavi {0} LiDAR skenera Shani",
-      "it": "Consegna {0} scanner LiDAR a Shani",
-      "ja": "シャニにLiDARスキャナを{0}個届けた",
-      "ko-KR": "샤니에게 LiDAR 스캐너 {0}개 전달하기",
+      "it": "Consegna 1 scanner LiDAR a Shani",
+      "ja": "シャニにLiDARスキャナを1個届けた",
+      "ko-KR": "샤니에게 LiDAR 스캐너 1개 전달하기",
       "no": "Lever {0} LiDAR-skannere til Shani",
-      "pl": "Dostarcz skanery laserowe ({0}) Shani",
+      "pl": "Dostarcz skanery laserowe (1) Shani",
       "pt": "Entregue {0} Scanners LiDAR para Shani",
-      "pt-BR": "Entregue {0} Scanners DLeA para Shani",
-      "ru": "Доставьте Шани лазерные локаторы ({0}).",
+      "pt-BR": "Entregue 1 Scanners DLeA para Shani",
+      "ru": "Доставьте Шани лазерные локаторы (1).",
       "sr": "Dostavi {0} LiDAR skenera Shani",
-      "tr": "Shani'ye {0} Işıklı Radar Tarayıcısı teslim et",
+      "tr": "Shani'ye 1 Işıklı Radar Tarayıcısı teslim et",
       "uk": "Доставте {0} LiDAR-сканерів Шані",
-      "zh-CN": "把{0}台激光雷达扫描仪交给萨尼",
-      "zh-TW": "將{0}個感光掃描儀運送給珊妮"
+      "zh-CN": "把1台激光雷达扫描仪交给萨尼",
+      "zh-TW": "將1個感光掃描儀運送給珊妮"
     }
   ],
   "rewardItemIds": [
@@ -159,5 +160,5 @@
   "xp": 0,
   "previousQuestIds": ["a_reveal_in_ruins"],
   "nextQuestIds": ["eyes_in_the_sky"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

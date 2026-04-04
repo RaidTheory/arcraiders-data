@@ -1,0 +1,61 @@
+{
+  "id": "assessor_matrix",
+  "name": {
+    "da": "Assessor Matrix",
+    "de": "Assessor Matrix",
+    "en": "Assessor Matrix",
+    "es": "Assessor Matrix",
+    "fr": "Assessor Matrix",
+    "he": "Assessor Matrix",
+    "hr": "Assessor Matrix",
+    "it": "Assessor Matrix",
+    "ja": "Assessor Matrix",
+    "ko-KR": "Assessor Matrix",
+    "no": "Assessor Matrix",
+    "pl": "Assessor Matrix",
+    "pt": "Assessor Matrix",
+    "pt-BR": "Assessor Matrix",
+    "ru": "Assessor Matrix",
+    "sr": "Assessor Matrix",
+    "tr": "Assessor Matrix",
+    "uk": "Assessor Matrix",
+    "zh-CN": "Assessor Matrix",
+    "zh-TW": "Assessor Matrix"
+  },
+  "description": {
+    "da": "",
+    "de": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "he": "",
+    "hr": "",
+    "it": "",
+    "ja": "",
+    "ko-KR": "",
+    "no": "",
+    "pl": "",
+    "pt": "",
+    "pt-BR": "",
+    "ru": "",
+    "sr": "",
+    "tr": "",
+    "uk": "",
+    "zh-CN": "",
+    "zh-TW": ""
+  },
+  "type": "Recyclable",
+  "rarity": "Epic",
+  "value": 5000,
+  "weightKg": 0.5,
+  "stackSize": 1,
+  "recyclesInto": {
+    "advanced_arc_powercell": 3,
+    "advanced_mechanical_components": 1
+  },
+  "salvagesInto": {
+    "advanced_arc_powercell": 2
+  },
+  "updatedAt": "03/31/2026",
+  "addedIn": "1.22"
+}

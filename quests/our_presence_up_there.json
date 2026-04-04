@@ -46,6 +46,7 @@
     "zh-CN": "ARC一直在改变，现在我们终于也可以与时俱进了。我们来把那些哨站建完，之后就能彻底改变追踪、包抄以及有效摧毁它们的方式。",
     "zh-TW": "ARC可能正在改變，但我們終於也跟著開始改變了。我們來完成那些哨站，並改變我們追蹤、襲擊和把它們打成碎片的方式吧。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Besøg Mønsterhuset i The Dam",
@@ -131,5 +132,5 @@
   "xp": 0,
   "previousQuestIds": ["back_on_top"],
   "nextQuestIds": ["lost_in_transmission"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

@@ -1,0 +1,69 @@
+{
+  "id": "canto_i",
+  "name": {
+    "da": "Canto I",
+    "de": "Canto I",
+    "en": "Canto I",
+    "es": "Canto I",
+    "fr": "Canto I",
+    "he": "Canto I",
+    "hr": "Canto I",
+    "it": "Canto I",
+    "ja": "Canto I",
+    "ko-KR": "Canto I",
+    "no": "Canto I",
+    "pl": "Canto I",
+    "pt": "Canto I",
+    "pt-BR": "Canto I",
+    "ru": "Canto I",
+    "sr": "Canto I",
+    "tr": "Canto I",
+    "uk": "Canto I",
+    "zh-CN": "Canto I",
+    "zh-TW": "Canto I"
+  },
+  "description": {
+    "da": "Fuldautomatisk maskinpistol med en større kaliber.",
+    "de": "Vollautomatische Maschinenpistole mit größerem Kaliber.",
+    "en": "Fully automatic submachine gun with a larger caliber.",
+    "es": "Subfusil totalmente automático con un calibre mayor.",
+    "fr": "Pistolet mitrailleur entièrement automatique d'un plus gros calibre.",
+    "he": "תת-מקלע אוטומטי מלא עם קליבר גדול יותר.",
+    "hr": "Potpuno automatska strojnica većeg kalibra.",
+    "it": "Pistola mitragliatrice completamente automatica con un calibro maggiore.",
+    "ja": "大口径のフルオートマチックサブマシンガン。",
+    "ko-KR": "더 큰 구경의 완전 자동 기관단총입니다.",
+    "no": "Helautomatisk maskinpistol med et større kaliber.",
+    "pl": "W pełni automatyczny pistolet maszynowy o większym kalibrze.",
+    "pt": "Submetralhadora totalmente automática com um calibre maior.",
+    "pt-BR": "Submetralhadora totalmente automática com calibre maior.",
+    "ru": "Полностью автоматический пистолет-пулемет большего калибра.",
+    "sr": "Potpuno automatski automat većeg kalibra.",
+    "tr": "Daha büyük kalibreli, tam otomatik makineli tabanca.",
+    "uk": "Повністю автоматичний пістолет-кулемет більшого калібру.",
+    "zh-CN": "全自动大口径冲锋枪。",
+    "zh-TW": "全自動大口徑衝鋒槍。"
+  },
+  "type": "SMG",
+  "rarity": "Legendary",
+  "value": 7000,
+  "weightKg": 6.5,
+  "stackSize": 1,
+  "blueprintLocked": true,
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
+  "recipe": {
+    "advanced_mechanical_components": 2,
+    "magnet": 5,
+    "medium_gun_parts": 3
+  },
+  "recyclesInto": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 2
+  },
+  "salvagesInto": {
+    "medium_gun_parts": 2
+  },
+  "updatedAt": "03/31/2026",
+  "addedIn": "1.22"
+}

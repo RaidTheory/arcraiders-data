@@ -57,7 +57,7 @@
       "hr": "Dođi do Zgrade za pročišćavanje vode na Brani",
       "it": "Raggiungi l'edificio di Trattamento delle acque nella Diga",
       "ja": "ダムの水質管理棟に辿り着いた",
-      "ko-KR": "댐의 정수 처리 건물에 도달하기",
+      "ko-KR": "댐의 정수 처리장에 도달하기",
       "no": "Nå vannrenseanlegget i Dammen",
       "pl": "Dotrzyj do budynku stacji uzdatniania wody na terenie Zapory.",
       "pt": "Chegue ao Prédio de Tratamento de Água na Represa",
@@ -131,5 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["water_troubles"],
   "nextQuestIds": ["switching_the_supply"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

@@ -99,14 +99,14 @@
     },
     {
       "da": "Tag hen til kaktusbedet i hullet i muren, og send din position",
-      "de": "Gehe zum Kaktusfeld bei der Mauerlücke und übermittle deinen Standort.",
+      "de": "Gehe zum Kaktusfleckchen in der Mauerlücke und übermittle deinen Standort.",
       "en": "Head to the cactus patch in the wall breach, and transmit your location",
       "es": "Ve al campo de cactus que hay en la brecha del muro y transmite tu posición.",
       "fr": "Aller vers le tas de cactus de la brèche du mur et transmettre votre position",
       "he": "צא לחלקת הקקטוסים בפרצה בקיר, ושדר את המיקום שלך",
       "hr": "Idi do kaktusa u pukotini zida i pošalji svoju lokaciju",
-      "it": "Raggiungi la macchia di cactus nella breccia nel muro e trasmetti la tua posizione",
-      "ja": "壁の穴の中にあるサボテン地帯に向かい、位置情報を送信した",
+      "it": "Raggiungi l'area di cactus nella breccia nel muro e trasmetti la tua posizione",
+      "ja": "壁の裂け目の向こうにあるサボテン地帯に向かい、位置情報を送信した",
       "ko-KR": "벽 붕괴 지점의 선인장 군락으로 향한 뒤 위치 전송하기",
       "no": "Dra til kaktusklyngen i muråpningen, og overfør posisjonen din",
       "pl": "Idź w kierunku pola kaktusów w wyłomie w murze i prześlij swoją pozycję",
@@ -181,5 +181,5 @@
   "xp": 0,
   "previousQuestIds": ["on_deaf_ears"],
   "nextQuestIds": [],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

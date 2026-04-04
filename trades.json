@@ -57,7 +57,9 @@
       "itemId": "assorted_seeds",
       "quantity": 60
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 20
   },
   {
     "trader": "Celeste",
@@ -67,7 +69,9 @@
       "itemId": "assorted_seeds",
       "quantity": 55
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 20
   },
   {
     "trader": "Celeste",
@@ -77,7 +81,9 @@
       "itemId": "assorted_seeds",
       "quantity": 15
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Celeste",
@@ -87,7 +93,9 @@
       "itemId": "assorted_seeds",
       "quantity": 15
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Celeste",
@@ -97,7 +105,9 @@
       "itemId": "assorted_seeds",
       "quantity": 15
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Celeste",
@@ -107,7 +117,9 @@
       "itemId": "assorted_seeds",
       "quantity": 10
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Celeste",
@@ -117,7 +129,9 @@
       "itemId": "assorted_seeds",
       "quantity": 10
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Celeste",
@@ -127,7 +141,9 @@
       "itemId": "assorted_seeds",
       "quantity": 10
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Celeste",
@@ -137,7 +153,9 @@
       "itemId": "assorted_seeds",
       "quantity": 10
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Celeste",
@@ -147,7 +165,9 @@
       "itemId": "assorted_seeds",
       "quantity": 10
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Celeste",
@@ -157,7 +177,9 @@
       "itemId": "assorted_seeds",
       "quantity": 14
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Celeste",
@@ -167,7 +189,9 @@
       "itemId": "assorted_seeds",
       "quantity": 10
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Celeste",
@@ -177,7 +201,9 @@
       "itemId": "assorted_seeds",
       "quantity": 10
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Celeste",
@@ -187,7 +213,9 @@
       "itemId": "assorted_seeds",
       "quantity": 5
     },
-    "dailyLimit": 10
+    "dailyLimit": 10,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Celeste",
@@ -197,7 +225,9 @@
       "itemId": "assorted_seeds",
       "quantity": 6
     },
-    "dailyLimit": 10
+    "dailyLimit": 10,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Celeste",
@@ -207,7 +237,9 @@
       "itemId": "assorted_seeds",
       "quantity": 6
     },
-    "dailyLimit": 10
+    "dailyLimit": 10,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Celeste",
@@ -217,7 +249,9 @@
       "itemId": "assorted_seeds",
       "quantity": 5
     },
-    "dailyLimit": 10
+    "dailyLimit": 10,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Celeste",
@@ -227,7 +261,9 @@
       "itemId": "assorted_seeds",
       "quantity": 6
     },
-    "dailyLimit": 10
+    "dailyLimit": 10,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Celeste",
@@ -237,7 +273,9 @@
       "itemId": "assorted_seeds",
       "quantity": 6
     },
-    "dailyLimit": 10
+    "dailyLimit": 10,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Celeste",
@@ -247,7 +285,9 @@
       "itemId": "assorted_seeds",
       "quantity": 7
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Celeste",
@@ -257,7 +297,9 @@
       "itemId": "assorted_seeds",
       "quantity": 6
     },
-    "dailyLimit": 10
+    "dailyLimit": 10,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Celeste",
@@ -267,7 +309,9 @@
       "itemId": "assorted_seeds",
       "quantity": 4
     },
-    "dailyLimit": 10
+    "dailyLimit": 10,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Shani",
@@ -337,7 +381,9 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Shani",
@@ -347,7 +393,9 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Shani",
@@ -357,7 +405,9 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Shani",
@@ -367,7 +417,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -377,7 +428,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -387,7 +439,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -397,7 +450,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -407,7 +461,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -417,7 +472,8 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -427,7 +483,8 @@
       "itemId": "creds",
       "quantity": 50
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -437,7 +494,8 @@
       "itemId": "creds",
       "quantity": 40
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -447,7 +505,8 @@
       "itemId": "creds",
       "quantity": 40
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Shani",
@@ -457,7 +516,9 @@
       "itemId": "creds",
       "quantity": 100
     },
-    "dailyLimit": 2
+    "dailyLimit": 2,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Shani",
@@ -467,7 +528,31 @@
       "itemId": "creds",
       "quantity": 60
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400
+  },
+  {
+    "trader": "Shani",
+    "itemId": "acoustic_guitar",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 70
+    },
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
+  },
+  {
+    "trader": "Shani",
+    "itemId": "shaker",
+    "quantity": 1,
+    "cost": {
+      "itemId": "creds",
+      "quantity": 40
+    },
+    "dailyLimit": 3,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Tian Wen",
@@ -517,7 +602,8 @@
       "itemId": "coins",
       "quantity": 3000
     },
-    "dailyLimit": null
+    "dailyLimit": null,
+    "requiredLevel": 12
   },
   {
     "trader": "Tian Wen",
@@ -527,7 +613,8 @@
       "itemId": "coins",
       "quantity": 4500
     },
-    "dailyLimit": null
+    "dailyLimit": null,
+    "requiredLevel": 12
   },
   {
     "trader": "Tian Wen",
@@ -537,7 +624,9 @@
       "itemId": "coins",
       "quantity": 30000
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 20
   },
   {
     "trader": "Tian Wen",
@@ -547,7 +636,9 @@
       "itemId": "coins",
       "quantity": 21000
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Tian Wen",
@@ -557,7 +648,9 @@
       "itemId": "coins",
       "quantity": 15000
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -567,7 +660,9 @@
       "itemId": "coins",
       "quantity": 8700
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -577,7 +672,9 @@
       "itemId": "coins",
       "quantity": 15000
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -587,7 +684,9 @@
       "itemId": "coins",
       "quantity": 15000
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -597,7 +696,9 @@
       "itemId": "coins",
       "quantity": 6000
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -607,7 +708,9 @@
       "itemId": "coins",
       "quantity": 6000
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -617,7 +720,9 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -627,7 +732,9 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -637,7 +744,9 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -647,7 +756,9 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -657,7 +768,9 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -667,7 +780,9 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -677,17 +792,9 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 5
-  },
-  {
-    "trader": "Tian Wen",
-    "itemId": "stable_stock_i",
-    "quantity": 1,
-    "cost": {
-      "itemId": "coins",
-      "quantity": 1920
-    },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -697,7 +804,9 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Tian Wen",
@@ -738,6 +847,53 @@
       "quantity": 900
     },
     "dailyLimit": null
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "silencer_i",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 6000
+    },
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "ferro_iv",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 8700
+    },
+    "dailyLimit": 1,
+    "refreshSeconds": 86400
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "stable_stock_ii",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 6000
+    },
+    "dailyLimit": 2,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
+  },
+  {
+    "trader": "Tian Wen",
+    "itemId": "padded_stock",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 15000
+    },
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 20
   },
   {
     "trader": "Apollo",
@@ -807,7 +963,8 @@
       "itemId": "coins",
       "quantity": 810
     },
-    "dailyLimit": null
+    "dailyLimit": null,
+    "requiredLevel": 7
   },
   {
     "trader": "Apollo",
@@ -817,7 +974,8 @@
       "itemId": "coins",
       "quantity": 3000
     },
-    "dailyLimit": 6
+    "dailyLimit": 6,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Apollo",
@@ -827,17 +985,8 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 6
-  },
-  {
-    "trader": "Apollo",
-    "itemId": "heavy_fuze_grenade",
-    "quantity": 1,
-    "cost": {
-      "itemId": "coins",
-      "quantity": 4800
-    },
-    "dailyLimit": 3
+    "dailyLimit": 6,
+    "refreshSeconds": 86400
   },
   {
     "trader": "Apollo",
@@ -847,7 +996,9 @@
       "itemId": "coins",
       "quantity": 3000
     },
-    "dailyLimit": 6
+    "dailyLimit": 6,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Apollo",
@@ -857,7 +1008,9 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 6
+    "dailyLimit": 6,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Apollo",
@@ -867,7 +1020,9 @@
       "itemId": "coins",
       "quantity": 2400
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Apollo",
@@ -877,7 +1032,9 @@
       "itemId": "coins",
       "quantity": 810
     },
-    "dailyLimit": 6
+    "dailyLimit": 6,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Apollo",
@@ -885,9 +1042,11 @@
     "quantity": 1,
     "cost": {
       "itemId": "coins",
-      "quantity": 15000
+      "quantity": 18000
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 20
   },
   {
     "trader": "Apollo",
@@ -897,7 +1056,9 @@
       "itemId": "coins",
       "quantity": 2550
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Apollo",
@@ -907,7 +1068,9 @@
       "itemId": "coins",
       "quantity": 1410
     },
-    "dailyLimit": 6
+    "dailyLimit": 6,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Apollo",
@@ -917,7 +1080,9 @@
       "itemId": "coins",
       "quantity": 3000
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Apollo",
@@ -927,7 +1092,9 @@
       "itemId": "coins",
       "quantity": 1920
     },
-    "dailyLimit": 6
+    "dailyLimit": 6,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Apollo",
@@ -937,15 +1104,29 @@
       "itemId": "coins",
       "quantity": 810
     },
-    "dailyLimit": 6
+    "dailyLimit": 6,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
+  },
+  {
+    "trader": "Apollo",
+    "itemId": "trailblazer",
+    "quantity": 1,
+    "cost": {
+      "itemId": "coins",
+      "quantity": 6600
+    },
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Lance",
     "itemId": "looting_mk1",
     "quantity": 1,
     "cost": {
-      "itemId": "coins",
-      "quantity": 1920
+      "itemId": "free_loadout_augment",
+      "quantity": 1
     },
     "dailyLimit": null
   },
@@ -987,7 +1168,8 @@
       "itemId": "coins",
       "quantity": 3000
     },
-    "dailyLimit": null
+    "dailyLimit": null,
+    "requiredLevel": 7
   },
   {
     "trader": "Lance",
@@ -1027,7 +1209,9 @@
       "itemId": "coins",
       "quantity": 6000
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Lance",
@@ -1037,7 +1221,9 @@
       "itemId": "coins",
       "quantity": 6000
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Lance",
@@ -1047,7 +1233,9 @@
       "itemId": "coins",
       "quantity": 6000
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Lance",
@@ -1057,7 +1245,9 @@
       "itemId": "coins",
       "quantity": 16500
     },
-    "dailyLimit": 1
+    "dailyLimit": 1,
+    "refreshSeconds": 86400,
+    "requiredLevel": 20
   },
   {
     "trader": "Lance",
@@ -1067,7 +1257,9 @@
       "itemId": "coins",
       "quantity": 6000
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Lance",
@@ -1077,7 +1269,9 @@
       "itemId": "coins",
       "quantity": 6000
     },
-    "dailyLimit": 3
+    "dailyLimit": 3,
+    "refreshSeconds": 86400,
+    "requiredLevel": 12
   },
   {
     "trader": "Lance",
@@ -1087,7 +1281,9 @@
       "itemId": "coins",
       "quantity": 3600
     },
-    "dailyLimit": 5
+    "dailyLimit": 5,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Lance",
@@ -1097,15 +1293,17 @@
       "itemId": "coins",
       "quantity": 2700
     },
-    "dailyLimit": 10
+    "dailyLimit": 10,
+    "refreshSeconds": 86400,
+    "requiredLevel": 7
   },
   {
     "trader": "Lance",
     "itemId": "looting_mk1",
     "quantity": 1,
     "cost": {
-      "itemId": "free_loadout_augment",
-      "quantity": 1
+      "itemId": "coins",
+      "quantity": 1920
     },
     "dailyLimit": null
   },

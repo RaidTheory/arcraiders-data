@@ -55,25 +55,25 @@
   "objectives": [
     {
       "da": "På Spaceport, gennemsøg {0} containere i de underjordiske tunneller",
-      "de": "Durchsuche {0} Container in den unterirdischen Tunneln beim Raumhafen.",
-      "en": "On Spaceport, search {0} containers in the underground tunnels",
-      "es": "En el Puerto espacial, registra {0} contenedores en los túneles subterráneos.",
-      "fr": "Au Port spatial, fouiller {0} conteneurs dans les tunnels souterrains",
+      "de": "Durchsuche 4 Container in den unterirdischen Tunneln beim Raumhafen.",
+      "en": "On Spaceport, search 4 containers in the underground tunnels",
+      "es": "En el Puerto espacial, registra 4 contenedores en los túneles subterráneos.",
+      "fr": "Au Port spatial, fouiller 4 conteneurs dans les tunnels souterrains",
       "he": "בנמל החלל, חפש ב-{0} מכולות במנהרות התת-קרקעיות",
       "hr": "Na Spaceportu pretraži {0} kontejnera u podzemnim tunelima",
-      "it": "Allo Spazioporto, ispeziona {0} contenitori nei tunnel sotterranei",
-      "ja": "宇宙港の地下トンネルでコンテナを{0}個調べた",
-      "ko-KR": "우주 기지의 지하 터널에서 컨테이너 {0}개 수색하기",
+      "it": "Allo Spazioporto, ispeziona 4 contenitori nei tunnel sotterranei",
+      "ja": "宇宙港の地下トンネルでコンテナを4個調べた",
+      "ko-KR": "우주 기지의 지하 터널에서 컨테이너 4개 수색하기",
       "no": "På Spaceport, gjennomsøk {0} beholdere i de underjordiske tunnelene",
-      "pl": "Będąc w porcie kosmicznym, przeszukaj pojemniki ({0}) w podziemnych tunelach",
+      "pl": "Będąc w porcie kosmicznym, przeszukaj pojemniki (4) w podziemnych tunelach",
       "pt": "No Spaceport, vasculhe {0} contêineres nos túneis subterrâneos",
-      "pt-BR": "No Espaçoporto, procure {0} contentores nos túneis subterrâneos",
-      "ru": "Обыщите контейнеры ({0}) в подземных туннелях космопорта.",
+      "pt-BR": "No Espaçoporto, procure 4 contentores nos túneis subterrâneos",
+      "ru": "Обыщите контейнеры (4) в подземных туннелях космопорта.",
       "sr": "Na mapi Svemirska luka, pretraži {0} kontejnera u podzemnim tunelima",
-      "tr": "Uzaylimanı'nda yer altı tünellerinde {0} ganimet kaynaklarını ara",
+      "tr": "Uzaylimanı'nda yer altı tünellerinde 4 ganimet kaynaklarını ara",
       "uk": "На локації Космодром обшукайте {0} контейнерів у підземних тунелях",
-      "zh-CN": "在太空港下方的隧道中搜索{0}个容器",
-      "zh-TW": "在太空港，搜索地下隧道中的{0}個容器"
+      "zh-CN": "在太空港下方的隧道中搜索4个容器",
+      "zh-TW": "在太空港，搜索地下隧道中的4個容器"
     },
     {
       "da": "Find og overvåg et filtreringssystem i tunnellerne",
@@ -180,6 +180,10 @@
   ],
   "xp": 0,
   "previousQuestIds": ["with_a_trace"],
-  "nextQuestIds": ["keeping_an_eye_out", "a_prime_specimen"],
-  "updatedAt": "02/25/2026"
+  "nextQuestIds": [
+    "keeping_an_eye_out",
+    "outstanding_balance",
+    "a_prime_specimen"
+  ],
+  "updatedAt": "03/31/2026"
 }

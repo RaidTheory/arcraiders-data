@@ -24,6 +24,7 @@
   },
   "map": ["the_blue_gate"],
   "trader": "Apollo",
+  "otherRequirements": ["18x Raids"],
   "grantedItemIds": [
     {
       "itemId": "noisemaker",
@@ -157,7 +158,7 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": [],
+  "previousQuestIds": ["off_the_radar"],
   "nextQuestIds": ["reduced_to_rubble"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

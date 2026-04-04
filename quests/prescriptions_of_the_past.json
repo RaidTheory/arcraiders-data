@@ -46,6 +46,7 @@
     "zh-CN": "我一直对太空港的医疗区域很好奇。直觉告诉我，这里有能让我成为这座城区绝对王者的契机。",
     "zh-TW": "我對太空港裡面那個醫療區感到好奇已經好一陣子了。總覺得那裡有東西可以讓我成為這一帶最受歡迎的人。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Besøg Afgangsbygningen i Spaceport",
@@ -131,5 +132,5 @@
   "xp": 0,
   "previousQuestIds": ["a_warm_place_to_rest"],
   "nextQuestIds": ["power_out"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

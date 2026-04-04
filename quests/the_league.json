@@ -154,50 +154,6 @@
       "uk": "У Похованому місті сфотографуйте футбольні журнали в будь-якому кіоску",
       "zh-CN": "在掩埋废城拍摄任意报刊亭里的足球杂志",
       "zh-TW": "在埋藏都市，拍攝任何小攤販上的足球雜誌"
-    },
-    {
-      "da": "Led efter en flad fodbold",
-      "de": "Suche nach einem platten Fußball.",
-      "en": "Search for a Deflated Football",
-      "es": "Busca un balón de fútbol desinflado.",
-      "fr": "Chercher un ballon de football dégonflé",
-      "he": "חפש כדורגל ללא אוויר",
-      "hr": "Potraži ispuhanu nogometnu loptu",
-      "it": "Cerca un pallone sgonfio",
-      "ja": "空気の抜けたサッカーボールを探した",
-      "ko-KR": "바람 빠진 축구공 찾기",
-      "no": "Let etter en punktert fotball",
-      "pl": "Poszukaj sflaczałej piłki",
-      "pt": "Procure por uma Bola de Futebol Murcha",
-      "pt-BR": "Procure uma Bola Murcha",
-      "ru": "Найдите сдутый футбольный мяч.",
-      "sr": "Potraži izduvanu fudbalsku loptu",
-      "tr": "Bir Sönmüş Top ara",
-      "uk": "Знайдіть здутий футбольний м'яч",
-      "zh-CN": "寻找一个瘪掉的足球",
-      "zh-TW": "搜尋洩氣的足球"
-    },
-    {
-      "da": "Led efter en cykelpumpe",
-      "de": "Suche nach einer Fahrradpumpe.",
-      "en": "Search for a Bicycle Pump",
-      "es": "Busca una bomba de bicicleta.",
-      "fr": "Chercher une pompe à vélo",
-      "he": "חפש משאבת אופניים",
-      "hr": "Potraži pumpu za bicikl",
-      "it": "Cerca una pompa per bici",
-      "ja": "自転車の空気入れを探した",
-      "ko-KR": "자전거펌프 찾기",
-      "no": "Let etter en sykkelpumpe",
-      "pl": "Poszukaj pompki rowerowej",
-      "pt": "Procure por uma Bomba de Bicicleta",
-      "pt-BR": "Procure uma Bomba de Bicicleta",
-      "ru": "Найдите велосипедный насос.",
-      "sr": "Potraži pumpu za bicikl",
-      "tr": "Bir Bisiklet Pompası ara",
-      "uk": "Знайдіть велосипедний насос",
-      "zh-CN": "寻找自行车气筒",
-      "zh-TW": "搜尋自行車打氣筒"
     }
   ],
   "rewardItemIds": [
@@ -212,6 +168,6 @@
   ],
   "xp": 0,
   "previousQuestIds": ["sparks_fly"],
-  "nextQuestIds": [],
-  "updatedAt": "02/25/2026"
+  "nextQuestIds": ["test_case"],
+  "updatedAt": "03/31/2026"
 }

@@ -1,0 +1,65 @@
+{
+  "id": "canto_iii",
+  "name": {
+    "da": "Canto III",
+    "de": "Canto III",
+    "en": "Canto III",
+    "es": "Canto III",
+    "fr": "Canto III",
+    "he": "Canto III",
+    "hr": "Canto III",
+    "it": "Canto III",
+    "ja": "Canto III",
+    "ko-KR": "Canto III",
+    "no": "Canto III",
+    "pl": "Canto III",
+    "pt": "Canto III",
+    "pt-BR": "Canto III",
+    "ru": "Canto III",
+    "sr": "Canto III",
+    "tr": "Canto III",
+    "uk": "Canto III",
+    "zh-CN": "Canto III",
+    "zh-TW": "Canto III"
+  },
+  "description": {
+    "da": "Fuldautomatisk maskinpistol med en større kaliber.",
+    "de": "Vollautomatische Maschinenpistole mit größerem Kaliber.",
+    "en": "Fully automatic submachine gun with a larger caliber.",
+    "es": "Subfusil totalmente automático con un calibre mayor.",
+    "fr": "Pistolet mitrailleur entièrement automatique d'un plus gros calibre.",
+    "he": "תת-מקלע אווטומטי מלא עם קליבר גדול יותר.",
+    "hr": "Potpuno automatska strojnica većeg kalibra.",
+    "it": "Pistola mitragliatrice completamente automatica con un calibro maggiore.",
+    "ja": "大口径のフルオートマチックサブマシンガン。",
+    "ko-KR": "더 큰 구경의 완전 자동 기관단총입니다.",
+    "no": "Helautomatisk maskinpistol med et større kaliber.",
+    "pl": "W pełni automatyczny pistolet maszynowy o większym kalibrze.",
+    "pt": "Submetralhadora totalmente automática com um calibre maior.",
+    "pt-BR": "Submetralhadora totalmente automática com calibre maior.",
+    "ru": "Полностью автоматический пистолет-пулемет большего калибра.",
+    "sr": "Potpuno automatski automat većeg kalibra.",
+    "tr": "Daha büyük kalibreli, tam otomatik makineli tabanca.",
+    "uk": "Повністю автоматичний пістолет-кулемет більшого калібру.",
+    "zh-CN": "全自动大口径冲锋枪。",
+    "zh-TW": "全自動大口徑衝鋒槍。"
+  },
+  "type": "SMG",
+  "rarity": "Legendary",
+  "value": 13000,
+  "weightKg": 6.5,
+  "stackSize": 1,
+  "recyclesInto": {
+    "advanced_mechanical_components": 2,
+    "medium_gun_parts": 3
+  },
+  "salvagesInto": {
+    "medium_gun_parts": 3
+  },
+  "upgradeCost": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 2
+  },
+  "updatedAt": "03/31/2026",
+  "addedIn": "1.22"
+}

@@ -46,6 +46,7 @@
     "zh-CN": "根据你在实验室中找到的文件，在沼泽中建立水栽培穹顶的正是那些种植研究员。下一个调查地点明盘了，你说是吧？",
     "zh-TW": "根據你在實驗室找到的檔案，原來就是栽培研究員在沼澤設置水耕圓頂的。聽起來那裡顯然就是下一個該搜的地方，對不對？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Gå til det hydroponiske kuppelkompleks",
@@ -131,5 +132,5 @@
   "xp": 0,
   "previousQuestIds": ["a_balanced_harvest"],
   "nextQuestIds": ["the_root_of_the_matter"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

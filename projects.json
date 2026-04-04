@@ -2499,7 +2499,7 @@
   },
   {
     "id": "weather_monitor_system_project",
-    "disabled": false,
+    "disabled": true,
     "name": {
       "da": "Vejrovervågningssystem",
       "de": "Wetterüberwachungssystem",
@@ -2873,5 +2873,252 @@
     ],
     "endDate": 1774915200,
     "startDate": 1769126400
+  },
+  {
+    "id": "high_gain_antenna_project",
+    "disabled": false,
+    "name": {
+      "da": "Højforstærkningsantenne",
+      "de": "Hochleistungsantenne",
+      "en": "High-Gain Antenna",
+      "es": "Antena de alta ganancia",
+      "fr": "Antenne haute capacité",
+      "he": "אנטנה בעלת הגבר גבוה",
+      "hr": "Antena visokog pojačanja",
+      "it": "Antenna ad alto guadagno",
+      "ja": "高ゲインアンテナ",
+      "ko-KR": "고성능 안테나",
+      "no": "Høyforsterkningsantenne",
+      "pl": "Antena o dużej mocy",
+      "pt": "Antena de Alto Ganho",
+      "pt-BR": "Antena de Alto Ganho",
+      "ru": "Антенна с высоким коэффициентом усиления",
+      "sr": "Antena visokog pojačanja",
+      "tr": "Yüksek Kazançlı Anten",
+      "uk": "Антена з високим підсиленням",
+      "zh-CN": "高增益天线",
+      "zh-TW": "高增益天線"
+    },
+    "description": {
+      "da": "Når de placeres i åbne områder, kan disse parabolskåle opfange fjerne signaler inden for en smal strålebredde, hvilket kan hjælpe med at triangulere oprindelsen af de bekymrende ARC-signaler, der for nylig blev rapporteret.",
+      "de": "Wenn man diese Parabolantennen in offenen Gebieten aufstellt, können sie Signale aus der Ferne mit einer schmalen Strahlbreite empfangen, was dabei helfen könnte, die Herkunft der kürzlich gemeldeten störenden ARC-Signale auszumachen.",
+      "en": "When placed in open areas, these parabolic dishes can pick up on distant signals within a narrow beamwidth, which may help triangulate the origins of the troubling ARC signals that were recently reported.",
+      "es": "Cuando se colocan en espacios abiertos, estas antenas parabólicas son capaces de captar señales lejanas dentro de un ancho de haz estrecho, lo que podría ayudar a triangular el origen de las preocupantes señales de las ARC que se detectaron hace poco.",
+      "fr": "Lorsqu'elles sont placées dans des zones dégagées, ces antennes paraboliques peuvent capter des signaux lointains dans un faisceau limité, ce qui peut aider a trianguler l'origine des signaux ARC perturbateurs récemment signalés.",
+      "he": "כאשר מציבים אותן באזורים פתוחים, צלחות פרבוליות אלו מסוגלות לקלוט אותות מרוחקים בתוך רוחב אלומה צר, מה שעשוי לסייע בטריאנגולציה של מקורות אותות ה‑ARC המטרידים שדווחו לאחרונה.",
+      "hr": "Postavljene na otvorenim područjima, ove parabolične antene mogu hvatati udaljene signale unutar uske širine snopa, što može pomoći u triangulaciji izvora zabrinjavajućih ARC signala prijavljenih nedavno.",
+      "it": "Se collocate in aree aperte, queste antenne paraboliche possono captare segnali distanti entro una stretta larghezza di fascio, il che potrebbe aiutare a triangolare le origini dei preoccupanti segnali ARC rilevati di recente.",
+      "ja": "このパラボラアンテナは、広い場所に設置すると、遠方から届く狭いビーム幅のシグナルをキャッチできる。これを使えば、最近報告されている不穏なARCシグナルの出どころを特定できるかもしれない。",
+      "ko-KR": "이 접시형 안테나는 개활지에 설치하면 좁은 빔폭으로 먼 곳의 신호를 포착할 수 있으며, 최근 보고되어 불안을 야기한 아크 신호의 근원을 삼각측량하는 데 도움이 될 수 있습니다.",
+      "no": "Plassert i åpne områder kan disse parabolske skålene fange opp fjerne signaler innenfor en smal strålebredde, noe som kan hjelpe med å triangulere opprinnelsen til de bekymringsfulle ARC‑signalene som nylig er raportert.",
+      "pl": "Umieszczone na otwartych przestrzeniach anteny paraboliczne mogą odbierać dobiegające z daleka sygnały w wąskim zakresie pasma, co może pomóc w namierzeniu źródeł zarejestrowanych niedawno niepokojących sygnałów ARC.",
+      "pt": "Quando instaladas em áreas abertas, essas antenas parabólicas conseguem captar sinais distantes dentro de um feixe estreito, podendo ajudar a triangular a origem dos sinais preocupantes da ARC relatados recentemente.",
+      "pt-BR": "Quando instaladas em áreas abertas, essas antenas parabólicas conseguem captar sinais distantes dentro de um feixe estreito, podendo ajudar a triangular a origem dos sinais preocupantes da ARC relatados recentemente.",
+      "ru": "Эти параболические антенны устанавливаются на открытой местности. Они способны принимать отдаленные узконаправленные сигналы, возможно, с их помощью получится вычислить координаты источника зловещих сигналов ARC, о которых в последнее время много говорят.",
+      "sr": "Kada se postave na otvorenom, ove parabolične antene mogu hvatati udaljene signale u uskoj širini snopa, što može pomoći u triangulaciji izvora zabrinjavajućih ARC signala koji su nedavno prijavljeni.",
+      "tr": "Bu parabolik antenler, açık alanlara yerleştirildiğinde dar bir ışın genişliği içinde uzaktaki sinyalleri alabilir. Bunlar, yakın zamanda bildirilen rahatsız edici ARC sinyallerinin kaynağını saptamaya yardımcı olabilir.",
+      "uk": "Встановлені на відкритій місцевості, ці параболічні антени здатні вловлювати віддалені сигнали в межах вузької ширини променя, що може допомогти тріангуляцією визначити джерела тривожних сигналів ARC, про які нещодавно повідомляли.",
+      "zh-CN": "放置在开阔区域时，这些抛物面天线可在窄波束频段内接收远距离信号，助力三角定位近期报告的异常ARC信号源头。",
+      "zh-TW": "放置在開闊區域時，這些拋物面天線能在窄波束寬度內接收遠距離訊號，這或許能幫助我們對近期回報的異常ARC訊號來源進行三角定位。"
+    },
+    "phases": [
+      {
+        "name": {
+          "da": "Robust sokkel",
+          "de": "Robuster Sockel",
+          "en": "Sturdy Base",
+          "es": "Base robusta",
+          "fr": "Base solide",
+          "he": "בסיס יציב",
+          "hr": "Robusno postolje",
+          "it": "Base solida",
+          "ja": "頑丈な基部",
+          "ko-KR": "튼튼한 받침대",
+          "no": "Solid sokkel",
+          "pl": "Wytrzymała podstawa",
+          "pt": "Base Resistente",
+          "pt-BR": "Base Resistente",
+          "ru": "Крепкое основание",
+          "sr": "Čvrsto postolje",
+          "tr": "Sağlam Taban",
+          "uk": "Міцна основа",
+          "zh-CN": "坚固底座",
+          "zh-TW": "穩固基地"
+        },
+        "description": {
+          "da": "Ekstra robust sokkel, der kan modstå alt fra bidende vinde til pludselige skybrud. ",
+          "de": "Ein extra stabiler Sockel, der echt allem standhält, von eisigen Winden bis hin zu plötzlichen Wolkenbrüchen. ",
+          "en": "An extra-sturdy base that can withstand anything from bitter winds to sudden cloudbursts. ",
+          "es": "Una base más robusta capaz de resistir cualquier cosa, desde fuertes vientos hasta trombas de agua. ",
+          "fr": "Une base renforcée, prête à encaisser vents violents et pluies soudaines. ",
+          "he": "בסיס מחוזק במיוחד שיכול לעמוד ברוחות נשבות ובממטרים פתאומיים. ",
+          "hr": "Iznimno robusno postolje koje podnosi sve – od ledenih vjetrova do iznenadnih pljuskova. ",
+          "it": "Una base estremamente robusta in grado di resistere a tutto, dai venti gelidi ai nubifragi improvvisi. ",
+          "ja": "激しい風や豪雨にも耐えうる、非常に頑丈な基部。 ",
+          "ko-KR": "매서운 바람부터 갑작스러운 폭우까지, 어떤 환경도 견뎌 내는 초강력 받침대입니다. ",
+          "no": "Ekstra solid sokkel som tåler alt fra bitende vind til plutselige skybrudd. ",
+          "pl": "Wyjątkowo wytrzymała podstawa, która zniesie każde warunki – od silnego wiatru po oberwania chmury. ",
+          "pt": "Base super-resistente que aguenta desde as piores ventanias até os temporais mais súbitos. ",
+          "pt-BR": "Base super-resistente que aguenta desde as piores ventanias até os temporais mais súbitos. ",
+          "ru": "Очень крепкое основание, которому не страшны ни пронзительные ветра, ни внезапные ливни с грозой. ",
+          "sr": "Izuzetno čvrsto postolje koje podnosi sve – od oštrih vetrova до изненадних пљускова. ",
+          "tr": "Sert rüzgârlardan ani sağanak yağışlara kadar her şeye dayanabilecek ekstra sağlam bir taban. ",
+          "uk": "Надзвичайно міцна основа, що витримує все — від пронизливих вітрів до раптових злив. ",
+          "zh-CN": "超坚固底座，可抵御狂风骤雨等一切侵袭。 ",
+          "zh-TW": "超穩固的基地，無論面對刺骨寒風或驟降暴雨皆能從容應對。 "
+        },
+        "phase": 1,
+        "requirementItemIds": [
+          {
+            "itemId": "arc_alloy",
+            "quantity": 50
+          },
+          {
+            "itemId": "arc_flex_rubber",
+            "quantity": 10
+          },
+          {
+            "itemId": "arc_performance_steel",
+            "quantity": 10
+          },
+          {
+            "itemId": "advanced_arc_powercell",
+            "quantity": 15
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Datalogger",
+          "de": "Datenlogger",
+          "en": "Data Logger",
+          "es": "Registrador de datos",
+          "fr": "Enregistreur de données",
+          "he": "רשם נתונים",
+          "hr": "Zapisnik podataka",
+          "it": "Registratore dati",
+          "ja": "データロガー",
+          "ko-KR": "데이터 기록기",
+          "no": "Datalogger",
+          "pl": "Rejestr danych",
+          "pt": "Registrador de Dados",
+          "pt-BR": "Registrador de Dados",
+          "ru": "Регистратор данных",
+          "sr": "Zapisivač podataka",
+          "tr": "Veri Kaydedici",
+          "uk": "Реєстратор даних",
+          "zh-CN": "数据记录仪",
+          "zh-TW": "資料記錄器"
+        },
+        "description": {
+          "da": "Lukket kredsløbsgrænseflade til at overvåge og analysere distribuerede datapunkter over tid. ",
+          "de": "Eine Schnittstelle mit geschlossenem Regelkreis, um verteilte Datenpunkte über einen längeren Zeitraum zu überwachen und zu analysieren. ",
+          "en": "A closed-circuit interface to monitor and analyze distributed data points over time. ",
+          "es": "Una interfaz de circuito cerrado que sirve para monitorizar y analizar puntos de datos distribuidos a lo largo del tiempo. ",
+          "fr": "Interface en circuit fermé permettant de suivre et d'analyser des points de données distribués au fil du temps. ",
+          "he": "ממשק במעגל סגור לניטור וניתוח של נקודות נתונים מבוזרות לאורך זמן. ",
+          "hr": "Sučelje zatvorenog kruga za nadzor i analizu distribuiranih podatkovnih točaka kroz vrijeme. ",
+          "it": "Un'interfaccia a circuito chiuso per monitorare e analizzare punti di dati distribuiti nel tempo. ",
+          "ja": "長期間、データポイントを監視・分析するための閉回路インターフェース。 ",
+          "ko-KR": "분산된 데이터 지점을 지속적으로 모니터링하고 분석하기 위한 폐쇄 회로형 인터페이스입니다. ",
+          "no": "Grensesnitt i lukket krets for å overvåke og analysere distribuerte datapunkter over tid. ",
+          "pl": "Zamknięty interfejs do monitorowania i analizowania rozproszonych punktów danych w czasie. ",
+          "pt": "Interface de circuito fechado para monitorar e analisar pontos de dados distribuídos ao longo do tempo. ",
+          "pt-BR": "Interface de circuito fechado para monitorar e analisar pontos de dados distribuídos ao longo do tempo. ",
+          "ru": "Замкнутая система для отслеживания и анализа передаваемых данных. ",
+          "sr": "Interfejs zatvorenog kola za nadzor i analizu distribuiranih tačaka podataka tokom vremena. ",
+          "tr": "Zaman içinde dağıtılmış veri noktalarını izlemek ve analiz etmek için kullanılan kapalı devre arayüzü. ",
+          "uk": "Інтерфейс замкненого контуру для моніторингу та аналізу розподілених точок даних з плином часу. ",
+          "zh-CN": "用于长期监测和分析分布式数据点的闭路接口。 ",
+          "zh-TW": "用於監控及分析分散資料點隨時間變化情形的閉路介面。 "
+        },
+        "phase": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "arc_coolant",
+            "quantity": 15
+          },
+          {
+            "itemId": "arc_thermo_lining",
+            "quantity": 15
+          },
+          {
+            "itemId": "vaporizer_regulator",
+            "quantity": 4
+          },
+          {
+            "itemId": "assessor_matrix",
+            "quantity": 6
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Parabolantenne",
+          "de": "Parabolantenne",
+          "en": "Parabolic Dish",
+          "es": "Antena parabólica",
+          "fr": "Antenne parabolique",
+          "he": "צלחת פרבולית",
+          "hr": "Parabolična antena",
+          "it": "Antenna parabolica",
+          "ja": "パラボラアンテナ",
+          "ko-KR": "접시형 안테나",
+          "no": "Parabolantenne",
+          "pl": "Antena paraboliczna",
+          "pt": "Antena Parabólica",
+          "pt-BR": "Antena Parabólica",
+          "ru": "Параболическая антенна",
+          "sr": "Parabolična antena",
+          "tr": "Parabolik Anten",
+          "uk": "Параболічна антена",
+          "zh-CN": "抛物面天线",
+          "zh-TW": "拋物面天線"
+        },
+        "description": {
+          "da": "Specialbygget parabolantenne designet til at opfange fjerne signaler selv under de mest stormfulde forhold.",
+          "de": "Eine speziell angefertigte Parabolantenne, die auch bei stürmischem Wetter Signale aus großer Entfernung empfangen kann.",
+          "en": "A custom-built parabolic dish designed to capture distant signals in even the most stormy of conditions.",
+          "es": "Una antena parabólica hecha a medida para captar señales lejanas, incluso en condiciones de tormenta.",
+          "fr": "Une antenne parabolique construite sur mesure, conçue pour capter des signaux lointains même dans les conditions les plus orageuses.",
+          "he": "צלחת פרבולית ייעודית, שתוכננה לקלוט אותות מרוחקים גם בתנאים סוערים במיוחד.",
+          "hr": "Prilagođena parabolična antena osmišljena за hvatanje udaljenih signala čak i u najolujnijim uvjetima.",
+          "it": "Un'antenna parabolica personalizzata progettata per catturare segnali distanti anche nelle condizioni meteorologiche più avverse.",
+          "ja": "カスタムのパラボラアンテナ。どんな悪天候下でも、遠方のシグナルをキャッチできる。",
+          "ko-KR": "폭풍 속에서도 원거리 신호를 포착할 수 있도록 특별 제작된 접시형 안테나입니다.",
+          "no": "Egendesignet parabolantenne laget for å fange opp fjerne signaler selv i de mest stormfulle forholdene.",
+          "pl": "Niestandardowa antena paraboliczna, która ma na celu przechwytywanie odległych sygnałów w najgorszych warunkach atmosferycznych.",
+          "pt": "Antena parabólica feita sob medida para captar sinais distantes mesmo em condições tempestuosas.",
+          "pt-BR": "Antena parabólica feita sob medida para captar sinais distantes mesmo em condições tempestuosas.",
+          "ru": "Параболическая антенна, разработанная специально для захвата отдаленных сигналов даже в самых тяжелых погодных условиях.",
+          "sr": "Prilagođena parabolična antena namenjena za hvatanje udaljenih signala čak i u najolujnijim uslovima.",
+          "tr": "En fırtınalı hava koşullarında bile uzaktaki sinyalleri yakalamak için özel olarak tasarlanmış parabolik anten.",
+          "uk": "Спеціально виготовлена параболічна антена, створена для приймання віддалених сигналів навіть за найбільш буревійних умов.",
+          "zh-CN": "特制抛物面天线，即便在暴雨天气也能捕捉远距离信号。",
+          "zh-TW": "特製的拋物面天線，即使面對最惡劣的天氣也能接收遠距離訊號。"
+        },
+        "phase": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "surveyor_vault",
+            "quantity": 10
+          },
+          {
+            "itemId": "arc_synthetic_resin",
+            "quantity": 20
+          },
+          {
+            "itemId": "vaporizer_regulator",
+            "quantity": 15
+          },
+          {
+            "itemId": "assessor_matrix",
+            "quantity": 18
+          }
+        ]
+      }
+    ],
+    "endDate": 1777248000,
+    "startDate": 1770940800
   }
 ]

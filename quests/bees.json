@@ -52,6 +52,7 @@
     "zh-CN": "蜜蜂！蜜蜂居然没有灭绝！虽然我不是专家，但我们的温室团队非常想要。",
     "zh-TW": "蜜蜂！附近還是有蜜蜂！雖然我不是專家，但是我們的溫室員工肯定會超想要的。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til Olivenlunden i Blue Gate",
@@ -111,5 +112,5 @@
   "xp": 0,
   "previousQuestIds": ["flickering_threat"],
   "nextQuestIds": ["espresso"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

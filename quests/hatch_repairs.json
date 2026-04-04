@@ -67,28 +67,6 @@
       "uk": "Відремонтуйте гідравлічні труби, що протікають, біля люка рейдерів",
       "zh-CN": "修理奇袭者暗门附近泄漏的液压管",
       "zh-TW": "修理掠手出入口附近的洩漏液壓管線"
-    },
-    {
-      "da": "Led efter en lugenøgle nær Raider-lugen",
-      "de": "Suche nach einem Lukenschlüssel in der Nähe der Raider-Luke.",
-      "en": "Search for a Hatch Key near the Raider Hatch",
-      "es": "Busca una llave de trampilla cerca de la trampilla de Raider.",
-      "fr": "Chercher une clé de trappe près de la trappe de Raider",
-      "he": "חפש מפתח צוהר ליד צוהר ה-Raider",
-      "hr": "Potraži Ključ otvora u blizini Raider otvora",
-      "it": "Cerca una chiave della botola vicino alla botola del Raider",
-      "ja": "レイダーハッチの近くでハッチの鍵を探した",
-      "ko-KR": "레이더 해치 근처에서 해치 열쇠 찾기",
-      "no": "Let etter en lukenøkkel nær Raider-luken",
-      "pl": "Poszukaj klucza do włazu w pobliżu włazu łupieżcy",
-      "pt": "Procure por uma Chave da Escotilha perto da Escotilha de Raider",
-      "pt-BR": "Procure uma Chave de Escotilha perto da Escotilha de Raider",
-      "ru": "Найдите ключ рядом с рейдерским люком.",
-      "sr": "Potraži ključ otvora u blizini Raider otvora",
-      "tr": "Raider Geçidi yakınında geçit anahtarı ara",
-      "uk": "Знайдіть ключ від люка біля люка рейдерів",
-      "zh-CN": "在奇袭者暗门附近寻找暗门钥匙",
-      "zh-TW": "在掠手出入口附近搜尋出入口鑰匙"
     }
   ],
   "rewardItemIds": [
@@ -104,5 +82,5 @@
   "xp": 0,
   "previousQuestIds": ["a_bad_feeling"],
   "nextQuestIds": ["down_to_earth"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }
