@@ -10,14 +10,14 @@
     "hr": "Pljačkaški Mk. 3 (Preživjeli) Nacrt",
     "it": "Progetto Saccheggio Mk. 3 (Sopravvissuto)",
     "ja": "略奪MK3 (サバイバー) 設計図",
-    "kr": "노획 마크 3 (생존자) 설계도",
+    "ko-KR": "노획 마크 3 (생존자) 설계도",
     "no": "Plyndring Mk. 3 (Survivor) Blåkopi",
     "pl": "Projekt Grabież Mk. 3 (Ocalały)",
     "pt": "Projeto Saque Mk. 3 (Sobrevivente)",
     "pt-BR": "Projeto Saque Mk. 3 (Sobrevivente)",
     "ru": "Чертеж грабительского Mk. 3 (выживший)",
     "sr": "Pljačkaški Mk. 3 (Preživeli) Nacrt",
-    "tr": "Yağmalama Mk. 3 (Hayatta Kalan) Planı",
+    "tr": "Yağmalama Mod.3 (Hayatta Kalan) Taslağı",
     "uk": "Креслення мародерського Mk. 3 (вижилий)",
     "zh-CN": "掠夺 Mk. 3（幸存者）蓝图",
     "zh-TW": "掠奪 Mk. 3（倖存者）藍圖"
@@ -32,7 +32,7 @@
     "hr": "Pojačana augmentacija tovarne životinje. Veliki kapacitet težine i veliki prostor za ruksak.",
     "it": "Un potenziamento da mulo da soma resistente. Grande capacità di peso e grande spazio zaino.",
     "ja": "頑丈な荷役用強化装備。大きな重量容量と大きなバックパックスペース。",
-    "kr": "튼튼한 짐꾼 증강. 큰 무게 용량과 큰 배낭 공간.",
+    "ko-KR": "튼튼한 짐꾼 증강. 큰 무게 용량과 큰 배낭 공간.",
     "no": "En robust pakkmuldyr-forsterkning. Stor vektkapasitet og stort sekkeromsplass.",
     "pl": "Wytrzymała augmentacjaьючного zwierzęcia. Duża pojemność wagowa i duża przestrzeń plecaka.",
     "pt": "Um aumento de mula de carga resistente. Grande capacidade de peso e grande espaço de mochila.",
@@ -45,9 +45,10 @@
     "zh-TW": "重型馱獸增強裝備。大載重容量和大背包空間。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_survivor_blueprint.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "03/17/2026",
+  "addedIn": "base"
 }

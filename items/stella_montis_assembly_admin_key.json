@@ -10,7 +10,7 @@
     "hr": "Administratorski Ključ Montaže Stella Montis",
     "it": "Chiave Amministratore Montaggio di Stella Montis",
     "ja": "ステラ・モンティスの組み立て場管理室の鍵",
-    "kr": "스텔라 몬티스 조립 관리자 열쇠",
+    "ko-KR": "스텔라 몬티스 조립 관리자 열쇠",
     "no": "Stella Montis Monteringsadministratornøkkel",
     "pl": "Klucz Administratora Montażu Stella Montis",
     "pt": "Chave de Administrador da Montagem de Stella Montis",
@@ -19,7 +19,7 @@
     "sr": "Административни Кључ Монтаже Стела Монтис",
     "tr": "Stella Montis Montaj Yönetici Anahtarı",
     "uk": "Адміністративний Ключ Складального Цеху Стелла Монтіс",
-    "zh-CN": "星山组装区管理员钥匙",
+    "zh-CN": "星辰山组装厂管理区钥匙",
     "zh-TW": "星山組裝區管理員鑰匙"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Otključava vrata u Montaži u Stella Montis",
     "it": "Sblocca una porta nel montaggio a Stella Montis",
     "ja": "ステラ・モンティスの組立エリアのドアを開錠する",
-    "kr": "스텔라 몬티스의 조립 구역 문을 엽니다",
+    "ko-KR": "스텔라 몬티스의 조립 구역 문을 엽니다",
     "no": "Låser opp en dør i Monteringen i Stella Montis",
     "pl": "Otwiera drzwi w Montażu w Stella Montis",
     "pt": "Desbloqueia uma porta na Montagem em Stella Montis",
@@ -48,6 +48,8 @@
   "rarity": "Uncommon",
   "value": 100,
   "weightKg": 0.25,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/stella_montis_assembly_admin_key.png",
-  "updatedAt": "11/13/2025"
+  "updatedAt": "11/13/2025",
+  "addedIn": "1.1"
 }

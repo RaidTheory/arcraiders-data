@@ -10,7 +10,7 @@
     "hr": "Ključ Gradske Vijećnice Zakopanog Grada",
     "it": "Chiave del municipio della città sepolta",
     "ja": "埋もれた街の町役場の鍵",
-    "kr": "파묻힌 도시 시청 열쇠",
+    "ko-KR": "파묻힌 도시 시청 열쇠",
     "no": "Begravd by rådhus-nøkkel",
     "pl": "Klucz do ratusza zagrzebanego miasta",
     "pt": "Chave da prefeitura da cidade enterrada",
@@ -19,7 +19,7 @@
     "sr": "Ključ Gradske Većnice Zakopanog Grada",
     "tr": "Gömülü Şehir Belediye Binası Anahtarı",
     "uk": "Ключ від ратуші Похованого міста",
-    "zh-CN": "埋没之城市政厅钥匙",
+    "zh-CN": "掩埋废城市政厅钥匙",
     "zh-TW": "埋沒之城市政廳鑰匙"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Otključava vrata Gradske Vijećnice u Zakopanom Gradu",
     "it": "Sblocca la porta del municipio nella città sepolta",
     "ja": "埋もれた街の市庁舎の扉を開ける",
-    "kr": "파묻힌 도시의 시청 문을 엽니다",
+    "ko-KR": "파묻힌 도시의 시청 문을 엽니다",
     "no": "Låser opp døren til rådhuset i den begravde byen",
     "pl": "Otwiera drzwi do ratusza w zagrzebanym mieście",
     "pt": "Desbloqueia a porta da prefeitura na cidade enterrada",
@@ -49,7 +49,7 @@
   "value": 100,
   "weightKg": 0.25,
   "stackSize": 1,
-  "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/buried_city_town_hall_key.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

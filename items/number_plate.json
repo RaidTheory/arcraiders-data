@@ -10,14 +10,14 @@
     "hr": "Registarska Pločica",
     "it": "Targa",
     "ja": "ナンバープレート",
-    "kr": "번호판",
+    "ko-KR": "번호판",
     "no": "Nummerskilt",
     "pl": "Tablica Rejestracyjna",
     "pt": "Placa de Matrícula",
     "pt-BR": "Placa de Veículo",
     "ru": "Номерной знак",
     "sr": "Registarska Pločica",
-    "tr": "Plaka",
+    "tr": "Araç Plakası",
     "uk": "Номерний знак",
     "zh-CN": "车牌",
     "zh-TW": "車牌"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u metalne dijelove.",
     "it": "Si può riciclare in parti metalliche.",
     "ja": "金属部品にリサイクルできる。",
-    "kr": "금속 부품으로 재활용할 수 있습니다.",
+    "ko-KR": "금속 부품으로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til metalldeler.",
     "pl": "Można przetworzyć na części metalowe.",
     "pt": "Pode ser reciclado em peças de metal.",
@@ -57,5 +57,6 @@
     "metal_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/number_plate.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/09/2026",
+  "addedIn": "base"
 }

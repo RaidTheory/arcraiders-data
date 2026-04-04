@@ -10,14 +10,14 @@
     "hr": "Regulator Protoka",
     "it": "Regolatore di Flusso",
     "ja": "フローコントローラー",
-    "kr": "유량 조절기",
+    "ko-KR": "유량 조절기",
     "no": "Strømningskontroller",
     "pl": "Regulator Przepływu",
     "pt": "Controlador de Fluxo",
     "pt-BR": "Controlador de Fluxo",
     "ru": "Регулятор Потока",
     "sr": "Kontroler Protoka",
-    "tr": "Akış Kontrolcüsü",
+    "tr": "Akıntı Kontrolcüsü",
     "uk": "Регулятор Потоку",
     "zh-CN": "流量控制器",
     "zh-TW": "流量控制器"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "クラフト素材にリサイクルできます。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -58,5 +58,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/flow_controller.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/09/2026",
+  "addedIn": "1.2"
 }

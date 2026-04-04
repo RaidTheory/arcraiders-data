@@ -10,7 +10,7 @@
     "hr": "Burletta II",
     "it": "Burletta II",
     "ja": "バーレッタ II",
-    "kr": "부를레타 II",
+    "ko-KR": "부를레타 II",
     "no": "Burletta II",
     "pl": "Burletta II",
     "pt": "Burletta II",
@@ -32,7 +32,7 @@
     "hr": "Poluautomatski pištolj s pristojnom štetom i preciznošću. Može se ispaljivati onoliko brzo koliko možete povlačiti okidač.",
     "it": "Ha una potenza di danno e una precisione discrete.",
     "ja": "適度なダメージと精度を持つセミオートピストル。引き金を引く速さで発射できる。",
-    "kr": "적절한 피해량과 정확도를 가진 반자동 권총. 방아쇠를 당기는 속도만큼 빠르게 발사할 수 있습니다.",
+    "ko-KR": "적절한 피해량과 정확도를 가진 반자동 권총. 방아쇠를 당기는 속도만큼 빠르게 발사할 수 있습니다.",
     "no": "Halvautomatisk pistol med anstendig skade og nøyaktighet. Kan avfyres så raskt som du kan trekke av avtrekkeren.",
     "pl": "Półautomatyczny pistolet z przyzwoitymi obrażeniami i celnością. Można strzelać tak szybko, jak można pociągnąć za spust.",
     "pt": "Pistola semiautomática com dano e precisão decentes. Pode ser disparada tão rápido quanto você conseguir puxar o gatilho.",
@@ -48,7 +48,9 @@
   "rarity": "Uncommon",
   "value": 5000,
   "weightKg": 4,
+  "stackSize": 1,
   "isWeapon": true,
+  "craftBench": "weapon_bench",
   "recyclesInto": {
     "mechanical_components": 2,
     "simple_gun_parts": 2
@@ -61,5 +63,31 @@
     "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "magazine": [
+      "extended_light_mag_i",
+      "extended_light_mag_ii",
+      "extended_light_mag_iii"
+    ],
+    "muzzle": [
+      "compensator_i",
+      "compensator_ii",
+      "compensator_iii",
+      "extended_barrel",
+      "muzzle_brake_i",
+      "muzzle_brake_ii",
+      "muzzle_brake_iii",
+      "silencer_i",
+      "silencer_ii",
+      "silencer_iii"
+    ]
+  },
+  "repairCost": {
+    "mechanical_components": 2,
+    "simple_gun_parts": 2
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "burletta_iii"
 }

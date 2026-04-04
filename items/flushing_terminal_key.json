@@ -10,14 +10,14 @@
     "hr": "Ključ Flushing Terminala",
     "it": "Chiave del Terminale Flushing",
     "ja": "フラッシング端末の鍵",
-    "kr": "수세 터미널 열쇠",
+    "ko-KR": "수세 터미널 열쇠",
     "no": "Nøkkel til Flushing-terminalen",
     "pl": "Klucz do Terminala Flushing",
     "pt": "Chave do Terminal de Flushing",
     "pt-BR": "Chave do Terminal de Fluxo",
     "ru": "Ключ от терминала Flushing",
     "sr": "Ključ Flushing Terminala",
-    "tr": "Flushing Terminali Anahtarı",
+    "tr": "Boşaltma Terminali Anahtarı",
     "uk": "Ключ від термінала Flushing",
     "zh-CN": "冲洗终端钥匙",
     "zh-TW": "沖洗終端機鑰匙"
@@ -32,7 +32,7 @@
     "hr": "Ovaj se ključ koristi u zadatku \"The Stench of Corruption\" za aktiviranje Flushing Terminala",
     "it": "Questa chiave viene usata nella missione \"The Stench of Corruption\" per attivare il Terminale Flushing",
     "ja": "この鍵はクエスト\"The Stench of Corruption\"でフラッシング端末を起動するために使用される",
-    "kr": "이 열쇠는 퀘스트 \"부패의 악취\"에서 수세 터미널을 활성화하는 데 사용됩니다",
+    "ko-KR": "이 열쇠는 퀘스트 \"부패의 악취\"에서 수세 터미널을 활성화하는 데 사용됩니다",
     "no": "Denne nøkkelen brukes i oppdraget \"The Stench of Corruption\" for å aktivere Flushing-terminalen",
     "pl": "Ten klucz jest używany w zadaniu \"The Stench of Corruption\", aby aktywować Terminal Flushing",
     "pt": "Esta chave é usada na missão \"The Stench of Corruption\" para ativar o Terminal de Flushing",
@@ -50,5 +50,6 @@
   "weightKg": 0.25,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/flushing_terminal_key.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "1.1"
 }

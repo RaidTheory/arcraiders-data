@@ -9,15 +9,15 @@
     "he": "מאחז זוויתי II",
     "hr": "Kutni rukohvat II",
     "it": "Impugnatura angolata II",
-    "ja": "アングルグリップ II",
-    "kr": "앵글 그립 II",
+    "ja": "アングル・グリップ II",
+    "ko-KR": "앵글 그립 II",
     "no": "Vinklet grep II",
     "pl": "Chwyt kątowy II",
     "pt": "Punho angular II",
     "pt-BR": "Empunhadura Angulada II",
     "ru": "Угловая рукоятка II",
     "sr": "Kutni rukohvat II",
-    "tr": "Açılı Kabza II",
+    "tr": "Açılı Tutamaç II",
     "uk": "Кутова рукоятка II",
     "zh-CN": "直角握把 II",
     "zh-TW": "斜角握把 II"
@@ -32,7 +32,7 @@
     "hr": "Umjereno smanjuje horizontalni trzaj. Kompatibilno s: Arpeggio, Ferro, Il Toro, Stitcher",
     "it": "Riduce moderatamente il rinculo orizzontale. Compatibile con: Arpeggio, Ferro, Il Toro, Stitcher",
     "ja": "水平反動を適度に減少させる。対応武器：Arpeggio、Ferro、Il Toro、Stitcher",
-    "kr": "수평 반동을 적당히 감소시킵니다. 호환 무기: 아르페지오, 페로, 일 토로, 스티처",
+    "ko-KR": "수평 반동을 적당히 감소시킵니다. 호환 무기: 아르페지오, 페로, 일 토로, 스티처",
     "no": "Reduserer horisontalt rekyl moderat. Kompatibel med: Arpeggio, Ferro, Il Toro, Stitcher",
     "pl": "Umiarkowanie redukuje odrzut poziomy. Kompatybilny z: Arpeggio, Ferro, Il Toro, Stitcher",
     "pt": "Reduz moderadamente o recuo horizontal. Compatível com: Arpeggio, Ferro, Il Toro, Stitcher",
@@ -48,7 +48,23 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
-  "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Il Toro", "Stitcher"],
+  "stackSize": 1,
+  "compatibleWith": [
+    "Aphelion",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Ferro",
+    "Hullcracker",
+    "Il Toro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Stitcher",
+    "Tempest",
+    "Venator",
+    "Vulcano"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Reduced Horizontal Recoil": {
@@ -62,7 +78,7 @@
       "hr": "Smanjen horizontalni trzaj",
       "it": "Rinculo orizzontale ridotto",
       "ja": "水平反動減少",
-      "kr": "수평 반동 감소",
+      "ko-KR": "수평 반동 감소",
       "no": "Redusert horisontalt rekyl",
       "pl": "Zredukowany odrzut poziomy",
       "pt": "Recuo horizontal reduzido",
@@ -89,5 +105,16 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/angled_grip_ii.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "creds": 100
+      },
+      "limit": 2,
+      "refreshSeconds": 86400,
+      "trader": "Shani"
+    }
+  ]
 }

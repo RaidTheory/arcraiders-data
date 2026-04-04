@@ -10,14 +10,14 @@
     "hr": "Okomiti rukohvat III",
     "it": "Impugnatura Verticale III",
     "ja": "縦グリップIII",
-    "kr": "수직 그립 III",
+    "ko-KR": "수직 그립 III",
     "no": "Vertikalt Grep III",
     "pl": "Chwyt Pionowy III",
     "pt": "Empunhadura Vertical III",
     "pt-BR": "Empunhadura Vertical III",
     "ru": "Вертикальная рукоятка III",
     "sr": "Vertikalni rukohvat III",
-    "tr": "Dikey Kabza III",
+    "tr": "Dikey Tutamaç III",
     "uk": "Вертикальна рукоятка III",
     "zh-CN": "垂直握把III",
     "zh-TW": "垂直握把III"
@@ -32,14 +32,14 @@
     "hr": "Značajno smanjuje okomiti trzaj. Kompatibilno s: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "it": "Riduce significativamente il rinculo verticale. Compatibile con: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "ja": "垂直反動を大幅に軽減します。対応武器：Tempest、Kettle、Hullcracker、Venator、Il Toro",
-    "kr": "수직 반동을 크게 감소시킵니다. 호환 무기: 템페스트, 케틀, 헐크래커, 베나토르, 일 토로",
+    "ko-KR": "수직 반동을 크게 감소시킵니다. 호환 무기: 템페스트, 케틀, 헐크래커, 베나토르, 일 토로",
     "no": "Reduserer vertikal rekyl betydelig. Kompatibel med: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "pl": "Znacznie zmniejsza pionowy odrzut. Kompatybilny z: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "pt": "Reduz significativamente o recuo vertical. Compatível com: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "pt-BR": "Reduz significativamente o recuo vertical. Compatível com: Temporal, Chaleira, Quebra-Casco, Venator, Il Toro",
     "ru": "Значительно снижает вертикальную отдачу. Совместимо с: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "sr": "Značajno smanjuje vertikalni trzaj. Kompatibilno sa: Tempest, Kettle, Hullcracker, Venator, Il Toro",
-    "tr": "Dikey geri tepmesini önemli ölçüde azaltır. Uyumlu silahlar: Tempest, Kettle, Hullcracker, Venator, Il Toro",
+    "tr": "Dikey geri tepmesini önemli ölçüde azaltır. Uyumlu silahlar: Bora, Isıtıcı, Kabukkıran, Avcı, Il Toro",
     "uk": "Значно зменшує вертикальну віддачу. Сумісно з: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "zh-CN": "显著降低垂直后坐力。兼容武器：Tempest、Kettle、Hullcracker、Venator、Il Toro",
     "zh-TW": "顯著降低垂直後座力。相容武器：Tempest、Kettle、Hullcracker、Venator、Il Toro"
@@ -48,6 +48,24 @@
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.75,
+  "stackSize": 1,
+  "compatibleWith": [
+    "Aphelion",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Ferro",
+    "Hullcracker",
+    "Il Toro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Stitcher",
+    "Tempest",
+    "Venator",
+    "Vulcano"
+  ],
+  "blueprintLocked": true,
   "effects": {
     "Reduced ADS Speed": {
       "value": "30%",
@@ -60,7 +78,7 @@
       "hr": "Smanjena brzina nišanjenja",
       "it": "Velocità di mira ridotta",
       "ja": "ADS速度低下",
-      "kr": "조준 속도 감소",
+      "ko-KR": "조준 속도 감소",
       "no": "Redusert siktehastighet",
       "pl": "Zmniejszona szybkość celowania",
       "pt": "Velocidade de mira reduzida",
@@ -83,7 +101,7 @@
       "hr": "Smanjen okomiti trzaj",
       "it": "Rinculo verticale ridotto",
       "ja": "垂直反動軽減",
-      "kr": "수직 반동 감소",
+      "ko-KR": "수직 반동 감소",
       "no": "Redusert vertikal rekyl",
       "pl": "Zmniejszony pionowy odrzut",
       "pt": "Recuo vertical reduzido",
@@ -97,6 +115,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "duct_tape": 5,
     "mod_components": 2
@@ -109,5 +128,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_iii.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

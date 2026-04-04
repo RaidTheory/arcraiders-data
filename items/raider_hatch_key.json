@@ -10,14 +10,14 @@
     "hr": "Ključ Raiderskog Otvora",
     "it": "Chiave della botola del Raider",
     "ja": "レイダーハッチの鍵",
-    "kr": "레이더 해치 키",
+    "ko-KR": "레이더 해치 키",
     "no": "Raider lukenøkkel",
     "pl": "Klucz do włazu najeźdźcy",
     "pt": "Chave De Escotilha De Combatente",
     "pt-BR": "Chave da Escotilha de Combatente",
     "ru": "Ключ от рейдерского люка",
     "sr": "Ključ Rejderskog Otvora",
-    "tr": "Akıncı Ambar Kapağı Anahtarı",
+    "tr": "Raider Geçidi Anahtarı",
     "uk": "Ключ від люка рейдера",
     "zh-CN": "掠夺者舱门钥匙",
     "zh-TW": "掠奪者艙門鑰匙"
@@ -32,7 +32,7 @@
     "hr": "Otključava Raiderski Otvor.",
     "it": "Sblocca un portello del predone.",
     "ja": "レイダーハッチを開錠する。",
-    "kr": "레이더 해치를 엽니다.",
+    "ko-KR": "레이더 해치를 엽니다.",
     "no": "Låser opp en Raider-luke.",
     "pl": "Otwiera właz najeźdźcy.",
     "pt": "Desbloqueia uma escotilha de saqueador.",
@@ -49,12 +49,24 @@
   "value": 2000,
   "weightKg": 0.01,
   "stackSize": 1,
-  "craftBench": "utility_bench",
+  "craftBench": ["in_raid", "utility_bench"],
+  "stationLevelRequired": 2,
   "recipe": {
     "advanced_electrical_components": 1,
     "sensors": 3
   },
-  "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "creds": 100
+      },
+      "limit": 2,
+      "refreshSeconds": 86400,
+      "requiredLevel": 7,
+      "trader": "Shani"
+    }
+  ]
 }

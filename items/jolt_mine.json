@@ -10,7 +10,7 @@
     "hr": "Omamljujuća Mina",
     "it": "Mina Jolt",
     "ja": "ジョルト地雷",
-    "kr": "충격 지뢰",
+    "ko-KR": "충격 지뢰",
     "no": "Jolt-mine",
     "pl": "Mina Jolt",
     "pt": "Mina Jolt",
@@ -32,7 +32,7 @@
     "hr": "Mina aktivirana blizinom koja iskoči i omami sve unutar svog radijusa.",
     "it": "Una mina attivata dalla prossimità che salta fuori e stordisce tutto nel suo raggio.",
     "ja": "近接起動する地雷で、飛び出して範囲内のすべてをスタンさせる。",
-    "kr": "근접 작동 지뢰로, 튀어 올라 범위 내의 모든 것을 기절시킵니다.",
+    "ko-KR": "근접 작동 지뢰로, 튀어 올라 범위 내의 모든 것을 기절시킵니다.",
     "no": "En nærhetsaktivert mine som spretter opp og bedøver alt innenfor dens radius.",
     "pl": "Mina aktywowana zbliżeniem, która wyskakuje i ogłusza wszystko w swoim promieniu.",
     "pt": "Uma mina ativada por proximidade que salta e atordoa tudo dentro de seu raio.",
@@ -49,6 +49,7 @@
   "value": 850,
   "weightKg": 0.2,
   "stackSize": 3,
+  "blueprintLocked": true,
   "effects": {
     "ARC Stun Duration": {
       "value": "10s",
@@ -61,7 +62,7 @@
       "hr": "Trajanje ARC Omamljivanja",
       "it": "Durata stordimento ARC",
       "ja": "ARCスタン時間",
-      "kr": "아크 기절 지속시간",
+      "ko-KR": "아크 기절 지속시간",
       "no": "ARC-bedøvelsesvarighet",
       "pl": "Czas ogłuszenia ARC",
       "pt": "Duração de atordoamento ARC",
@@ -84,7 +85,7 @@
       "hr": "Radijus",
       "it": "Raggio",
       "ja": "範囲",
-      "kr": "범위",
+      "ko-KR": "범위",
       "no": "Radius",
       "pl": "Promień",
       "pt": "Raio",
@@ -107,7 +108,7 @@
       "hr": "Trajanje Omamljivanja Pljačkaša",
       "it": "Durata stordimento Raider",
       "ja": "レイダースタン時間",
-      "kr": "레이더 기절 지속시간",
+      "ko-KR": "레이더 기절 지속시간",
       "no": "Raider-bedøvelsesvarighet",
       "pl": "Czas ogłuszenia najeźdźcy",
       "pt": "Duração de atordoamento de saqueador",
@@ -121,6 +122,7 @@
     }
   },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "battery": 1,
     "electrical_components": 1
@@ -133,5 +135,17 @@
     "battery": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 2550
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "requiredLevel": 7,
+      "trader": "Apollo"
+    }
+  ]
 }

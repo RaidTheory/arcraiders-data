@@ -10,14 +10,14 @@
     "hr": "Stitcher I",
     "it": "Suturante I",
     "ja": "スティッチャー I",
-    "kr": "스티처 I",
+    "ko-KR": "스티처 I",
     "no": "Stitcher I",
     "pl": "Stitcher I",
     "pt": "Stitcher I",
     "pt-BR": "Costurador I",
     "ru": "Сшиватель I",
     "sr": "Stitcher I",
-    "tr": "Stitcher I",
+    "tr": "Zımba I",
     "uk": "Зшивач I",
     "zh-CN": "钉机 I",
     "zh-TW": "縫合者 I"
@@ -32,7 +32,7 @@
     "hr": "Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolirati.",
     "it": "Infligge danni elevati, ma ha una cadenza di fuoco piuttosto ridotta e può essere difficile da controllare.",
     "ja": "優れたダメージを与えるが、発射速度がかなり低く、制御が難しい。",
-    "kr": "좋은 피해를 입히지만 연사력이 상당히 낮고 제어하기 어렵습니다.",
+    "ko-KR": "좋은 피해를 입히지만 연사력이 상당히 낮고 제어하기 어렵습니다.",
     "no": "Gjør god skade, men har ganske lav skuddfrekvens og kan være vanskelig å kontrollere.",
     "pl": "Zadaje dobre obrażenia, ale ma dość niską szybkostrzelność i może być trudny w kontroli.",
     "pt": "Causa bom dano, mas tem uma taxa de disparo bastante baixa e pode ser difícil de controlar.",
@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 800,
   "weightKg": 5,
+  "stackSize": 1,
   "isWeapon": true,
   "effects": {
     "Ammo Type": {
@@ -61,7 +62,7 @@
       "hr": "Vrsta streljiva",
       "it": "Tipo di munizioni",
       "ja": "弾薬タイプ",
-      "kr": "탄약 유형",
+      "ko-KR": "탄약 유형",
       "no": "Ammunisjonstype",
       "pl": "Typ amunicji",
       "pt": "Tipo de munição",
@@ -84,7 +85,7 @@
       "hr": "ARC probijanje oklopa",
       "it": "Penetrazione armature ARC",
       "ja": "ARC装甲貫通",
-      "kr": "아크 장갑판 관통력",
+      "ko-KR": "아크 장갑판 관통력",
       "no": "ARC-rustningspenetrasjon",
       "pl": "Przebicie pancerza ARC",
       "pt": "Penetração de armadura ARC",
@@ -107,7 +108,7 @@
       "hr": "Izdržljivost",
       "it": "Tenuta",
       "ja": "耐久性",
-      "kr": "내구도",
+      "ko-KR": "내구도",
       "no": "Holdbarhet",
       "pl": "Wytrzymałość",
       "pt": "Durabilidade",
@@ -130,7 +131,7 @@
       "hr": "Način pucanja",
       "it": "Modalità di fuoco",
       "ja": "射撃モード",
-      "kr": "발사 모드",
+      "ko-KR": "발사 모드",
       "no": "Skyttemodus",
       "pl": "Tryb ognia",
       "pt": "Modo de disparo",
@@ -153,7 +154,7 @@
       "hr": "Veličina spremnika",
       "it": "Capacità caricatore",
       "ja": "マガジンサイズ",
-      "kr": "탄창 크기",
+      "ko-KR": "탄창 크기",
       "no": "Magasinstørrelse",
       "pl": "Pojemność magazynka",
       "pt": "Tamanho do carregador",
@@ -166,7 +167,8 @@
       "zh-TW": "彈匣容量"
     }
   },
-  "craftBench": ["workbench", "weapon_bench"],
+  "craftBench": ["weapon_bench", "workbench"],
+  "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 8,
     "rubber_parts": 4
@@ -179,5 +181,56 @@
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
-  "updatedAt": "11/20/2025"
+  "updatedAt": "03/17/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "grip": [
+      "angled_grip_i",
+      "angled_grip_ii",
+      "angled_grip_iii",
+      "horizontal_grip",
+      "vertical_grip_i",
+      "vertical_grip_ii",
+      "vertical_grip_iii"
+    ],
+    "magazine": [
+      "extended_light_mag_i",
+      "extended_light_mag_ii",
+      "extended_light_mag_iii"
+    ],
+    "muzzle": [
+      "compensator_i",
+      "compensator_ii",
+      "compensator_iii",
+      "extended_barrel",
+      "muzzle_brake_i",
+      "muzzle_brake_ii",
+      "muzzle_brake_iii",
+      "silencer_i",
+      "silencer_ii",
+      "silencer_iii"
+    ],
+    "stock": [
+      "kinetic_converter",
+      "lightweight_stock",
+      "padded_stock",
+      "stable_stock_i",
+      "stable_stock_ii",
+      "stable_stock_iii"
+    ]
+  },
+  "repairCost": {
+    "metal_parts": 3,
+    "rubber_parts": 2
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "stitcher_ii",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 2400
+      },
+      "trader": "Tian Wen"
+    }
+  ]
 }

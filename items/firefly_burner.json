@@ -1,0 +1,63 @@
+{
+  "id": "firefly_burner",
+  "name": {
+    "da": "Ildfluebrænder",
+    "de": "Glühwürmchenbrenner",
+    "en": "Firefly Burner",
+    "es": "Quemador de luciérnaga",
+    "fr": "Brûleur Luciole",
+    "he": "מבער גחלילית",
+    "hr": "Plamenik krijesnice",
+    "it": "Bruciatore Lucciola",
+    "ja": "ファイアフライ・バーナー",
+    "kr": "파이어플라이 버너",
+    "no": "Ildfluebrenner",
+    "pl": "Palnik Świetlika",
+    "pt": "Queimador Vaga-lume",
+    "pt-BR": "Queimador Vagalume",
+    "ru": "Горелка «Светлячок»",
+    "sr": "Gorionik Svica",
+    "tr": "Ateş Böceği Yakıcısı",
+    "uk": "Пальник «Світляк»",
+    "zh-CN": "萤火虫燃烧器",
+    "zh-TW": "螢火蟲燃燒器"
+  },
+  "description": {
+    "da": "Kan genbruges til fremstillingsmaterialer.",
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
+    "en": "Can be recycled into crafting materials.",
+    "es": "Se puede reciclar para obtener materiales de fabricación.",
+    "fr": "Peut être recyclé en matériaux de fabrication.",
+    "he": "ניתן למיחזור לחומרי יצירה.",
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "it": "Può essere riciclato in materiali per la creazione.",
+    "ja": "リサイクルしてクラフト素材にできる。",
+    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "no": "Kan gjenvinnes til materialer.",
+    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "pt": "Pode ser reciclado em materiais de fabricação.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "ru": "Можно переработать в материалы для крафта.",
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "uk": "Можна переробити на матеріали для виготовлення.",
+    "zh-CN": "可回收为制作材料。",
+    "zh-TW": "可回收為製作材料。"
+  },
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "foundIn": "ARC",
+  "value": 1000,
+  "weightKg": 0.75,
+  "stackSize": 3,
+  "recyclesInto": {
+    "arc_alloy": 2,
+    "crude_explosives": 2
+  },
+  "salvagesInto": {
+    "crude_explosives": 2
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/firefly_burner.png",
+  "updatedAt": "02/24/2026",
+  "addedIn": "1.17"
+}

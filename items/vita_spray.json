@@ -10,16 +10,16 @@
     "hr": "Vita Sprej",
     "it": "Spray Vita",
     "ja": "ヴィータ・スプレー",
-    "kr": "회복 스프레이",
+    "ko-KR": "회복 스프레이",
     "no": "Vita-spray",
     "pl": "Spray Vita",
     "pt": "Spray Vita",
     "pt-BR": "Spray Vita",
     "ru": "Вита-спрей",
     "sr": "Vita Sprej",
-    "tr": "Vita Spreyi",
+    "tr": "Sağlık Spreyi",
     "uk": "Віта-спрей",
-    "zh-CN": "活力喷雾",
+    "zh-CN": "生命喷雾",
     "zh-TW": "活力噴霧"
   },
   "description": {
@@ -32,23 +32,24 @@
     "hr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tijekom korištenja. Može se koristiti na sebi ili saveznicima.",
     "it": "Un oggetto medico che ripristina continuamente la salute durante l'uso. Può essere usato su te stesso o sui tuoi alleati.",
     "ja": "使用中に継続的に体力を回復する医療アイテム。自分または味方に使用できる。",
-    "kr": "사용 중 지속적으로 체력을 회복하는 의료 아이템. 자신이나 아군에게 사용할 수 있습니다.",
+    "ko-KR": "사용 중 지속적으로 체력을 회복하는 의료 아이템. 자신이나 아군에게 사용할 수 있습니다.",
     "no": "En medisinsk gjenstand som kontinuerlig gjenoppretter helse under bruk. Kan brukes på deg selv eller dine allierte.",
     "pl": "Przedmiot medyczny, który stale przywraca zdrowie podczas użycia. Może być użyty na sobie lub sojusznikach.",
     "pt": "Um item médico que restaura saúde continuamente durante o uso. Pode ser usado em você mesmo ou em seus aliados.",
     "pt-BR": "Item medicinal que recupera vida de forma contínua durante o uso. Pode ser usado em você ou nos aliados.",
     "ru": "Медицинский предмет, непрерывно восстанавливающий здоровье во время использования. Можно использовать на себе или союзниках.",
     "sr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tokom korišćenja. Može se koristiti na sebi ili saveznicima.",
-    "tr": "Kullanım sırasında sürekli olarak sağlık yenileyen tıbbi bir eşya. Kendinize veya müttefiklerinize kullanılabilir.",
+    "tr": "Kullanıldığı süre boyunca canı devamlı olarak yenileyen bir tıbbi eşya. Kendin veya müttefiklerin için kullanabilirsin.",
     "uk": "Медичний предмет, що безперервно відновлює здоров'я під час використання. Можна використовувати на собі або союзниках.",
     "zh-CN": "使用期间持续恢复生命值的医疗物品。可用于自己或队友。",
     "zh-TW": "使用期間持續恢復生命值的醫療物品。可用於自己或隊友。"
   },
   "type": "Quick Use",
   "rarity": "Epic",
-  "value": 3000,
+  "value": 3400,
   "weightKg": 1,
   "stackSize": 1,
+  "blueprintLocked": true,
   "effects": {
     "Durability": {
       "value": "100/100",
@@ -61,7 +62,7 @@
       "hr": "Izdržljivost",
       "it": "Tenuta",
       "ja": "耐久度",
-      "kr": "내구도",
+      "ko-KR": "내구도",
       "no": "Holdbarhet",
       "pl": "Wytrzymałość",
       "pt": "Durabilidade",
@@ -84,7 +85,7 @@
       "hr": "Kapacitet Liječenja",
       "it": "Capacità di guarigione",
       "ja": "回復容量",
-      "kr": "회복 용량",
+      "ko-KR": "회복 용량",
       "no": "Helbredelseskapasitet",
       "pl": "Pojemność leczenia",
       "pt": "Capacidade de cura",
@@ -107,7 +108,7 @@
       "hr": "Liječenje",
       "it": "Guarigione",
       "ja": "回復量",
-      "kr": "회복량",
+      "ko-KR": "회복량",
       "no": "Helbredelse",
       "pl": "Leczenie",
       "pt": "Cura",
@@ -121,17 +122,25 @@
     }
   },
   "craftBench": "med_station",
+  "stationLevelRequired": 3,
   "recipe": {
     "antiseptic": 3,
-    "canister": 1
+    "canister": 1,
+    "tick_pod": 1
   },
   "recyclesInto": {
     "antiseptic": 1,
-    "canister": 2
+    "canister": 1
   },
   "salvagesInto": {
     "antiseptic": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "repairCost": {
+    "antiseptic": 2,
+    "canister": 1
+  },
+  "repairDurability": 0.5
 }

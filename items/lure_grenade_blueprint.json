@@ -10,14 +10,14 @@
     "hr": "Nacrt Mamac Granate",
     "it": "Progetto granata esca",
     "ja": "ルアー・グレネード設計図",
-    "kr": "유인 수류탄 설계도",
+    "ko-KR": "유인 수류탄 설계도",
     "no": "Lokkegranattegning",
     "pl": "Projekt granatu wabika",
     "pt": "Projeto de granada isca",
     "pt-BR": "Diagrama: Granada de Chamariz",
     "ru": "Чертеж — Граната-приманка",
     "sr": "Nacrt Mamac Granate",
-    "tr": "Yem Bombası Planı",
+    "tr": "Yem Bombası Taslağı",
     "uk": "Креслення гранати-принади",
     "zh-CN": "诱饵手榴弹蓝图",
     "zh-TW": "誘餌手榴彈藍圖"
@@ -32,7 +32,7 @@
     "hr": "Bučna naprava koja se lijepi na površine, odvlačeći pažnju obližnjih ARC strojeva i privlačeći njihovu vatru.",
     "it": "Un dispositivo rumoroso che si attacca alle superfici, distraendo le macchine ARC vicine e attirando il loro fuoco.",
     "ja": "表面に貼り付く騒音装置。近くのARCマシンの注意を引き、攻撃を誘導する。",
-    "kr": "표면에 부착되는 소음 장치. 근처 아크의 주의를 분산시키고 공격을 유도합니다.",
+    "ko-KR": "표면에 부착되는 소음 장치. 근처 아크의 주의를 분산시키고 공격을 유도합니다.",
     "no": "En støyende enhet som fester seg til overflater, distraherer nærliggende ARC-maskiner og tiltrekker deres ild.",
     "pl": "Głośne urządzenie, które przykleja się do powierzchni, rozpraszając pobliskie maszyny ARC i przyciągając ich ogień.",
     "pt": "Um dispositivo barulhento que gruda em superfícies, distraindo máquinas ARC próximas e atraindo seu fogo.",
@@ -45,9 +45,11 @@
     "zh-TW": "可黏附在表面的噪音裝置，能分散附近ARC機器的注意力並吸引它們的火力。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

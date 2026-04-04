@@ -10,14 +10,14 @@
     "hr": "Osprey I",
     "it": "Falco Pescatore I",
     "ja": "オスプレー I",
-    "kr": "오스프레이 I",
+    "ko-KR": "오스프레이 I",
     "no": "Osprey I",
     "pl": "Osprey I",
     "pt": "Osprey I",
     "pt-BR": "Águia-Pescadora I",
     "ru": "Ястреб I",
     "sr": "Osprey I",
-    "tr": "Osprey I",
+    "tr": "Kartal I",
     "uk": "Оспрей I",
     "zh-CN": "鱼鹰 I",
     "zh-TW": "魚鷹 I"
@@ -32,7 +32,7 @@
     "hr": "Ima pouzdanu štetu i preciznost.",
     "it": "Potenza di danno e precisione affidabili.",
     "ja": "信頼できるダメージと精度を持つ。",
-    "kr": "안정적인 피해량과 정확도를 가지고 있습니다.",
+    "ko-KR": "안정적인 피해량과 정확도를 가지고 있습니다.",
     "no": "Har pålitelig skadeeffekt og nøyaktighet.",
     "pl": "Ma niezawodne obrażenia i celność.",
     "pt": "Tem dano e precisão confiáveis.",
@@ -48,7 +48,9 @@
   "rarity": "Rare",
   "value": 7000,
   "weightKg": 7,
+  "stackSize": 1,
   "isWeapon": true,
+  "blueprintLocked": true,
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
@@ -61,7 +63,7 @@
       "hr": "Vrsta Streljiva",
       "it": "Tipo di munizioni",
       "ja": "弾薬タイプ",
-      "kr": "탄약 유형",
+      "ko-KR": "탄약 유형",
       "no": "Ammunisjonstype",
       "pl": "Typ amunicji",
       "pt": "Tipo de munição",
@@ -84,7 +86,7 @@
       "hr": "Probijanje ARC Oklopa",
       "it": "Penetrazione armature ARC",
       "ja": "ARC装甲貫通",
-      "kr": "아크 장갑판 관통력",
+      "ko-KR": "아크 장갑판 관통력",
       "no": "ARC-rustningspenetrering",
       "pl": "Przebicie pancerza ARC",
       "pt": "Penetração de armadura ARC",
@@ -107,7 +109,7 @@
       "hr": "Izdržljivost",
       "it": "Tenuta",
       "ja": "耐久性",
-      "kr": "내구도",
+      "ko-KR": "내구도",
       "no": "Holdbarhet",
       "pl": "Wytrzymałość",
       "pt": "Durabilidade",
@@ -130,7 +132,7 @@
       "hr": "Način Pucanja",
       "it": "Modalità di fuoco",
       "ja": "射撃モード",
-      "kr": "발사 모드",
+      "ko-KR": "발사 모드",
       "no": "Skyttemodus",
       "pl": "Tryb ognia",
       "pt": "Modo de disparo",
@@ -153,7 +155,7 @@
       "hr": "Veličina Spremnika",
       "it": "Dimensioni caricatore",
       "ja": "マガジンサイズ",
-      "kr": "탄창 크기",
+      "ko-KR": "탄창 크기",
       "no": "Magasinstørrelse",
       "pl": "Pojemność magazynka",
       "pt": "Tamanho do carregador",
@@ -176,7 +178,7 @@
       "hr": "Posebna Osobina",
       "it": "Caratteristica speciale",
       "ja": "特殊特性",
-      "kr": "특수 특성",
+      "ko-KR": "특수 특성",
       "no": "Spesiell egenskap",
       "pl": "Cecha specjalna",
       "pt": "Característica especial",
@@ -204,5 +206,48 @@
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "03/17/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "grip": [
+      "angled_grip_i",
+      "angled_grip_ii",
+      "angled_grip_iii",
+      "horizontal_grip",
+      "vertical_grip_i",
+      "vertical_grip_ii",
+      "vertical_grip_iii"
+    ],
+    "magazine": [
+      "extended_medium_mag_i",
+      "extended_medium_mag_ii",
+      "extended_medium_mag_iii"
+    ],
+    "muzzle": [
+      "compensator_i",
+      "compensator_ii",
+      "compensator_iii",
+      "extended_barrel",
+      "muzzle_brake_i",
+      "muzzle_brake_ii",
+      "muzzle_brake_iii",
+      "silencer_i",
+      "silencer_ii",
+      "silencer_iii"
+    ],
+    "stock": [
+      "kinetic_converter",
+      "lightweight_stock",
+      "padded_stock",
+      "stable_stock_i",
+      "stable_stock_ii",
+      "stable_stock_iii"
+    ]
+  },
+  "repairCost": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 1
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "osprey_ii"
 }

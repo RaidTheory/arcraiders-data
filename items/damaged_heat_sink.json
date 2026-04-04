@@ -10,14 +10,14 @@
     "hr": "Oštećeni Hladnjak",
     "it": "Dissipatore di calore danneggiato",
     "ja": "傷んだ放熱板",
-    "kr": "손상된 방열판",
+    "ko-KR": "손상된 방열판",
     "no": "Skadet kjøleribbe",
     "pl": "Uszkodzony radiator",
     "pt": "Dissipador de calor danificado",
     "pt-BR": "Dissipador de Calor Danificado",
     "ru": "Поврежденный теплопоглотитель",
     "sr": "Oštećeni Hladnjak",
-    "tr": "Hasarlı Soğutucu",
+    "tr": "Hasarlı Isı Emici",
     "uk": "Пошкоджений радіатор",
     "zh-CN": "损坏的散热器",
     "zh-TW": "損壞的散熱器"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "クラフト素材にリサイクルできる。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -58,5 +58,6 @@
     "wires": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/damaged_heat_sink.png",
-  "updatedAt": "11/06/2025"
+  "updatedAt": "11/06/2025",
+  "addedIn": "base"
 }

@@ -10,14 +10,14 @@
     "hr": "Produženi laki spremnik III",
     "it": "Caricatore leggero esteso III",
     "ja": "拡張小型弾倉 III",
-    "kr": "확장형 경량 탄창 III",
+    "ko-KR": "확장형 경량 탄창 III",
     "no": "Utvidet lett magasin III",
     "pl": "Rozszerzony lekki magazynek III",
     "pt": "Carregador leve estendido III",
     "pt-BR": "Carregador Estendido Leve III",
     "ru": "Увеличенный магазин для легкого оружия III",
     "sr": "Produženi laki spremnik III",
-    "tr": "Genişletilmiş Hafif Şarjör III",
+    "tr": "Uzatılmış Hafif Şarjör III",
     "uk": "Розширений легкий магазин III",
     "zh-CN": "延长轻型弹匣 III",
     "zh-TW": "延長輕型彈匣 III"
@@ -32,7 +32,7 @@
     "hr": "Značajno povećava kapacitet streljiva kompatibilnog oružja koje koristi lako streljivo.",
     "it": "Estende significativamente la capacità di munizioni delle armi compatibili che usano munizioni leggere.",
     "ja": "ライト弾薬を使用する対応武器の弾薬容量を大幅に拡張する。",
-    "kr": "경량 탄약을 사용하는 호환 무기의 탄약 용량을 크게 확장합니다.",
+    "ko-KR": "경량 탄약을 사용하는 호환 무기의 탄약 용량을 크게 확장합니다.",
     "no": "Utvider ammunisjonskapasiteten betydelig for kompatible våpen som bruker lett ammunisjon.",
     "pl": "Znacznie rozszerza pojemność amunicji kompatybilnych broni używających lekkiej amunicji.",
     "pt": "Estende significativamente a capacidade de munição de armas compatíveis que usam munição leve.",
@@ -48,6 +48,8 @@
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.75,
+  "stackSize": 1,
+  "compatibleWith": ["Bobcat", "Burletta", "Hairpin", "Kettle", "Stitcher"],
   "blueprintLocked": true,
   "effects": {
     "Magazine Size": {
@@ -61,7 +63,7 @@
       "hr": "Veličina spremnika",
       "it": "Dimensioni caricatore",
       "ja": "マガジンサイズ",
-      "kr": "탄창 크기",
+      "ko-KR": "탄창 크기",
       "no": "Magasinstørrelse",
       "pl": "Rozmiar magazynka",
       "pt": "Tamanho do carregador",
@@ -88,5 +90,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_iii.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/09/2026",
+  "addedIn": "base"
 }

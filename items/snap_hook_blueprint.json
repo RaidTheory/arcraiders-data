@@ -10,16 +10,16 @@
     "hr": "Nacrt Snap Hook",
     "it": "Progetto Gancio a scatto",
     "ja": "スナップ・フック設計図",
-    "kr": "스냅 훅 설계도",
+    "ko-KR": "스냅 훅 설계도",
     "no": "Snap Hook-tegning",
     "pl": "Projekt Snap Hook",
     "pt": "Projeto de Snap Hook",
     "pt-BR": "Diagrama do Gancho de Engate",
     "ru": "Чертёж Snap Hook",
     "sr": "Nacrt Snap Hook",
-    "tr": "Snap Hook Planı",
+    "tr": "Kanca Taslağı",
     "uk": "Креслення Snap Hook",
-    "zh-CN": "Snap Hook 蓝图",
+    "zh-CN": "安全钩蓝图",
     "zh-TW": "Snap Hook 藍圖"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Naprava koja korisniku omogućuje penjanje po strukturama i prelaženje velikih udaljenosti.",
     "it": "Un gadget che permette a chi lo usa di scalare strutture e coprire grandi distanze.",
     "ja": "構造物を登ったり、長距離を移動したりできるガジェット。",
-    "kr": "사용자가 구조물을 오르고 먼 거리를 이동할 수 있게 해주는 장치.",
+    "ko-KR": "사용자가 구조물을 오르고 먼 거리를 이동할 수 있게 해주는 장치.",
     "no": "En gjenstand som lar brukeren klatre på strukturer og dekke store avstander.",
     "pl": "Gadżet pozwalający użytkownikowi wspinać się na konstrukcje i pokonywać duże odległości.",
     "pt": "Um dispositivo que permite ao usuário escalar estruturas e cobrir grandes distâncias.",
@@ -45,9 +45,11 @@
     "zh-TW": "一種讓使用者能夠攀爬建築物和跨越長距離的裝置。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/snap_hook.png",
-  "updatedAt": "11/14/2025"
+  "updatedAt": "11/14/2025",
+  "addedIn": "base"
 }

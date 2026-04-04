@@ -10,14 +10,14 @@
     "hr": "Nacrt za srednje dijelove oružja",
     "it": "Progetto parti arma medie",
     "ja": "中型銃の部品設計図",
-    "kr": "준중형 총기 부품 설계도",
+    "ko-KR": "준중형 총기 부품 설계도",
     "no": "Middels våpendeler tegning",
     "pl": "Projekt średnich części broni",
     "pt": "Projeto de peças de arma médias",
     "pt-BR": "Esquema de Peças de Arma Média",
     "ru": "Чертёж средних деталей оружия",
     "sr": "Nacrt za srednje delove oružja",
-    "tr": "Orta Boy Silah Parçaları Planı",
+    "tr": "Orta Silah Parçaları Taslağı",
     "uk": "Креслення середніх деталей зброї",
     "zh-CN": "中型枪械零件蓝图",
     "zh-TW": "中型槍械零件藍圖"
@@ -32,7 +32,7 @@
     "hr": "Razni rezervni dijelovi koji se koriste za puške.",
     "it": "Parti di ricambio assortite usate per i fucili.",
     "ja": "ライフル用の各種予備パーツ。",
-    "kr": "소총에 사용되는 다양한 예비 부품.",
+    "ko-KR": "소총에 사용되는 다양한 예비 부품.",
     "no": "Assorterte reservedeler brukt til rifler.",
     "pl": "Różne części zamienne używane do karabinów.",
     "pt": "Peças sobressalentes variadas usadas para rifles.",
@@ -45,9 +45,11 @@
     "zh-TW": "用於步槍的各種備用零件。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts_blueprint.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "addedIn": "base"
 }

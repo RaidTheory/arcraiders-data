@@ -10,14 +10,14 @@
     "hr": "Uže",
     "it": "Corda",
     "ja": "縄",
-    "kr": "로프",
+    "ko-KR": "로프",
     "no": "Tau",
     "pl": "Lina",
     "pt": "Corda",
     "pt-BR": "Corda",
     "ru": "Веревка",
     "sr": "Uže",
-    "tr": "Halat",
+    "tr": "İp",
     "uk": "Мотузка",
     "zh-CN": "绳索",
     "zh-TW": "繩索"
@@ -32,7 +32,7 @@
     "hr": "Koristi se u izradi. Koristi se za izradu: Zipline, Snap Hook",
     "it": "Utile per le creazioni. Si usa per creare: Zipline, Gancio a scatto",
     "ja": "製作に使用。製作可能: Zipline、Snap Hook",
-    "kr": "제작에 사용됩니다. 제작 가능: 집라인, 스냅 훅",
+    "ko-KR": "제작에 사용됩니다. 제작 가능: 집라인, 스냅 훅",
     "no": "Brukes i håndverk. Brukes til å lage: Zipline, Karabinkrok",
     "pl": "Używane w rzemiośle. Używane do wytworzenia: Tyrolka, Karabińczyk",
     "pt": "Usado na fabricação. Usado para fabricar: Tirolesa, Gancho de Segurança",
@@ -57,5 +57,17 @@
     "fabric": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/rope.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 10
+      },
+      "limit": 5,
+      "refreshSeconds": 86400,
+      "requiredLevel": 12,
+      "trader": "Celeste"
+    }
+  ]
 }

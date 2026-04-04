@@ -10,14 +10,14 @@
     "hr": "Produzeni laki spremnik III Nacrt",
     "it": "Progetto Caricatore leggero esteso III",
     "ja": "拡張小型弾倉 III 設計図",
-    "kr": "확장형 경량 탄창 III 설계도",
+    "ko-KR": "확장형 경량 탄창 III 설계도",
     "no": "Utvidet lett magasin III-tegning",
     "pl": "Projekt Rozszerzony lekki magazynek III",
     "pt": "Projeto de Carregador leve estendido III",
     "pt-BR": "Esquema de Carregador Leve Estendido III",
     "ru": "Чертеж — Увеличенный магазин для легкого оружия III",
     "sr": "Produzeni laki spremnik III Nacrt",
-    "tr": "Genisletilmis Hafif Sarjor III Plani",
+    "tr": "Uzatılmış Hafif Şarjör III Taslağı",
     "uk": "Креслення Розширений легкий магазин III",
     "zh-CN": "延长轻型弹匣 III 蓝图",
     "zh-TW": "延長輕型彈匣 III 藍圖"
@@ -32,7 +32,7 @@
     "hr": "Znacajno povecava kapacitet streljiva kompatibilnog oruzja koje koristi lako streljivo.",
     "it": "Estende significativamente la capacita di munizioni delle armi compatibili che usano munizioni leggere.",
     "ja": "ライト弾薬を使用する対応武器の弾薬容量を大幅に拡張する。",
-    "kr": "경량 탄약을 사용하는 호환 무기의 탄약 용량을 크게 확장합니다.",
+    "ko-KR": "경량 탄약을 사용하는 호환 무기의 탄약 용량을 크게 확장합니다.",
     "no": "Utvider ammunisjonskapasiteten betydelig for kompatible vapen som bruker lett ammunisjon.",
     "pl": "Znacznie rozszerza pojemnosc amunicji kompatybilnych broni uzywajacych lekkiej amunicji.",
     "pt": "Estende significativamente a capacidade de municao de armas compativeis que usam municao leve.",
@@ -45,9 +45,11 @@
     "zh-TW": "大幅延長使用輕型彈藥的相容武器的彈藥容量。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_iii.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "12/07/2025",
+  "addedIn": "base"
 }

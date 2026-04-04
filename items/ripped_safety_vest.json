@@ -10,14 +10,14 @@
     "hr": "Isparani sigurnosni prsluk",
     "it": "Gilet di sicurezza strappato",
     "ja": "破れた安全ベスト",
-    "kr": "찢어진 안전 조끼",
+    "ko-KR": "찢어진 안전 조끼",
     "no": "Rivd sikkerhetsvest",
     "pl": "Podarty kamizelka odblaskowa",
     "pt": "Colete de segurança rasgado",
     "pt-BR": "Colete de Segurança Rasgado",
     "ru": "Рваный сигнальный жилет",
     "sr": "Iscepan sigurnosni prsluk",
-    "tr": "Yırtık güvenlik yeleği",
+    "tr": "Yırtık Güvenlik Yeleği",
     "uk": "Розірваний сигнальний жилет",
     "zh-CN": "破损的安全背心",
     "zh-TW": "破損的安全背心"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Può essere riciclato in materiali da crafting.",
     "ja": "クラフト素材にリサイクルできます。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -57,5 +57,6 @@
     "fabric": 8
   },
   "imageFilename": "https://cdn.arctracker.io/items/ripped_safety_vest.png",
-  "updatedAt": "11/29/2025"
+  "updatedAt": "11/29/2025",
+  "addedIn": "base"
 }

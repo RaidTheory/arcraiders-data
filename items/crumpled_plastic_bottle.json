@@ -10,14 +10,14 @@
     "hr": "Zgužvana plastična boca",
     "it": "Bottiglia di plastica accartocciata",
     "ja": "クシャクシャのペットボトル",
-    "kr": "구겨진 플라스틱 병",
+    "ko-KR": "구겨진 플라스틱 병",
     "no": "Krøllet plastflaske",
     "pl": "Zgnieciona plastikowa butelka",
     "pt": "Garrafa plástica amassada",
     "pt-BR": "Garrafa de Plástico Amassada",
     "ru": "Смятая пластиковая бутылка",
     "sr": "Zgužvana plastična flaša",
-    "tr": "Ezilmiş Plastik Şişe",
+    "tr": "Buruşuk Plastik Şişe",
     "uk": "М'ята пластикова пляшка",
     "zh-CN": "压扁的塑料瓶",
     "zh-TW": "壓扁的塑膠瓶"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali di fabbricazione.",
     "ja": "クラフト素材にリサイクルできる。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -57,5 +57,6 @@
     "plastic_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/crumpled_plastic_bottle.png",
-  "updatedAt": "11/04/2025"
+  "updatedAt": "11/04/2025",
+  "addedIn": "base"
 }

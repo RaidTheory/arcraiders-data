@@ -10,14 +10,14 @@
     "hr": "Granata za Oznacavanje Nacrt",
     "it": "Progetto Granata marcatrice",
     "ja": "タグ・グレネード 設計図",
-    "kr": "표식 수류탄 설계도",
+    "ko-KR": "표식 수류탄 설계도",
     "no": "Merkegranат-tegning",
     "pl": "Projekt Granat znacznikowy",
     "pt": "Projeto de Granada marcadora",
     "pt-BR": "Esquema de Granada de Marcação",
     "ru": "Чертеж — Маркирующая граната",
     "sr": "Granata za Oznacavanje Nacrt",
-    "tr": "Isaretleme Bombasi Plani",
+    "tr": "İşaretleme Bombası Taslağı",
     "uk": "Креслення Маркувальна граната",
     "zh-CN": "标记手榴弹 蓝图",
     "zh-TW": "標記手榴彈 藍圖"
@@ -32,7 +32,7 @@
     "hr": "Granata koja detonira nakon odgode, oznacavajuci Razbojnike i ARC neprijatelje u podrucju.",
     "it": "Una granata che detona dopo un ritardo, marcando i predoni e i nemici ARC in un'area.",
     "ja": "遅延後に爆発し、エリア内のレイダーとARC敵をタグ付けして、一時的に位置を追跡できるようにする手榴弾。",
-    "kr": "지연 후 폭발하여 지역 내의 레이더와 아크을 태그하는 수류탄입니다.",
+    "ko-KR": "지연 후 폭발하여 지역 내의 레이더와 아크을 태그하는 수류탄입니다.",
     "no": "En granат som detonerer etter en forsinkelse, merker Raiders og ARC-fiender i et omrade.",
     "pl": "Granat, ktory detonuje po opoznieniu, oznaczajac najezdzcow i wrogow ARC w obszarze.",
     "pt": "Uma granada que detona apos um atraso, marcando saqueadores e inimigos ARC em uma area.",
@@ -45,9 +45,11 @@
     "zh-TW": "延遲引爆的手榴彈，能標記區域內的掠奪者和ARC敵人。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/tagging_grenade.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "12/07/2025",
+  "addedIn": "base"
 }

@@ -10,14 +10,14 @@
     "hr": "Jupiter nacrt",
     "it": "Progetto Giove",
     "ja": "ジュピター設計図",
-    "kr": "주피터 설계도",
+    "ko-KR": "주피터 설계도",
     "no": "Jupiter-tegning",
     "pl": "Projekt Jupitera",
     "pt": "Projeto do Júpiter",
     "pt-BR": "Esquema de Júpiter",
     "ru": "Чертеж Юпитера",
     "sr": "Jupiter nacrt",
-    "tr": "Jüpiter Planı",
+    "tr": "Erendiz Taslağı",
     "uk": "Креслення Юпітера",
     "zh-CN": "木星蓝图",
     "zh-TW": "木星藍圖"
@@ -32,7 +32,7 @@
     "hr": "Repetirna snajperska puška s iznimnom snagom i preciznošću, ali sporim rukovanjem.",
     "it": "Lancia proiettili a incredibile velocità, in grado di danneggiare diversi bersagli con un colpo solo.",
     "ja": "優れたダメージ出力と精度を持つボルトアクション式スナイパーライフルですが、取り回しが遅いです。",
-    "kr": "뛰어난 피해량과 정확도를 가진 볼트액션 저격소총이지만, 조작이 느립니다.",
+    "ko-KR": "뛰어난 피해량과 정확도를 가진 볼트액션 저격소총이지만, 조작이 느립니다.",
     "no": "En repeterrifle med eksepsjonell skadeeffekt og nøyaktighet, men treg håndtering.",
     "pl": "Karabin snajperski z zamkiem ryglowym o wyjątkowych obrażeniach i celności, ale powolnej obsłudze.",
     "pt": "Um rifle sniper de ferrolho com dano e precisão excepcionais, mas manuseio lento.",
@@ -45,9 +45,11 @@
     "zh-TW": "一把栓動式狙擊步槍，擁有卓越的傷害輸出和精準度，但操作緩慢。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/jupiter.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "addedIn": "base"
 }

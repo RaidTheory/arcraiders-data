@@ -10,14 +10,14 @@
     "hr": "Užad",
     "it": "Zipline",
     "ja": "ジップライン",
-    "kr": "집라인",
+    "ko-KR": "집라인",
     "no": "Zipline",
     "pl": "Tyrolka",
     "pt": "Tirolesa",
     "pt-BR": "Tirolesa",
     "ru": "Зиплайн",
     "sr": "Užad",
-    "tr": "Zipline",
+    "tr": "Halat Makarası",
     "uk": "Тросова дорога",
     "zh-CN": "滑索",
     "zh-TW": "滑索"
@@ -32,14 +32,14 @@
     "hr": "Postavljiva užad koja vam omogućuje brzo kretanje između dvije lokacije.",
     "it": "Una zipline dispiegabile che ti consente di muoverti rapidamente tra due posizioni.",
     "ja": "設置可能なジップライン。2地点間を素早く移動できる。",
-    "kr": "두 지점 사이를 빠르게 이동할 수 있는 설치형 집라인입니다.",
+    "ko-KR": "두 지점 사이를 빠르게 이동할 수 있는 설치형 집라인입니다.",
     "no": "En utplasserbar zipline som lar deg raskt bevege deg mellom to steder.",
     "pl": "Rozkładana tyrolka, która pozwala szybko przemieszczać się między dwoma lokalizacjami.",
     "pt": "Uma tirolesa implantável que permite mover-se rapidamente entre dois locais.",
     "pt-BR": "Tirolesa portátil que permite deslocar-se rapidamente entre dois locais.",
     "ru": "Развертываемая тросовая дорога, позволяющая быстро перемещаться между двумя точками.",
     "sr": "Postavljiva užad koja vam omogućava brzo kretanje između dve lokacije.",
-    "tr": "İki konum arasında hızlıca hareket etmenizi sağlayan konuşlandırılabilir bir zipline.",
+    "tr": "İki konum arasında hızlıca hareket etmeni sağlayan kurulabilir bir halat makarası.",
     "uk": "Тросова дорога, що дозволяє швидко переміщатися між двома точками.",
     "zh-CN": "可部署的滑索，让你能快速在两个地点间移动。",
     "zh-TW": "可部署的滑索，讓你能快速在兩個地點間移動。"
@@ -48,7 +48,9 @@
   "rarity": "Rare",
   "value": 1000,
   "weightKg": 0.4,
+  "stackSize": 3,
   "craftBench": "utility_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "mechanical_components": 1,
     "rope": 1
@@ -61,5 +63,17 @@
     "rope": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/zipline.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 3000
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "requiredLevel": 12,
+      "trader": "Apollo"
+    }
+  ]
 }

@@ -10,14 +10,14 @@
     "hr": "Industrijski punjač",
     "it": "Caricatore Industriale",
     "ja": "産業用充電器",
-    "kr": "산업용 충전기",
+    "ko-KR": "산업용 충전기",
     "no": "Industriell Lader",
     "pl": "Ładowarka Przemysłowa",
     "pt": "Carregador Industrial",
     "pt-BR": "Carregador Industrial",
     "ru": "Промышленное зарядное устройство",
     "sr": "Industrijski punjač",
-    "tr": "Endüstriyel Şarj Cihazı",
+    "tr": "Endüstriyel Şarj Aleti",
     "uk": "Промислове зарядний пристрій",
     "zh-CN": "工业充电器",
     "zh-TW": "工業充電器"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "製作素材にリサイクルできる。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -58,5 +58,6 @@
     "voltage_converter": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/industrial_charger.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "10/30/2025",
+  "addedIn": "base"
 }

@@ -10,14 +10,14 @@
     "hr": "Stabilna Kundak I",
     "it": "Calcio stabile I",
     "ja": "ステイブル・ストック I",
-    "kr": "안정형 개머리판 I",
+    "ko-KR": "안정형 개머리판 I",
     "no": "Stabil kolbe I",
     "pl": "Stabilna kolba I",
     "pt": "Coronha estável I",
     "pt-BR": "Coronha Estável I",
     "ru": "Надежный приклад I",
     "sr": "Stabilna Kundak I",
-    "tr": "Sabit Dipçik I",
+    "tr": "Dengeli Dipçik I",
     "uk": "Стабільний приклад I",
     "zh-CN": "稳定枪托 I",
     "zh-TW": "穩定槍托 I"
@@ -32,7 +32,7 @@
     "hr": "Blago poboljšava raspršenje i vrijeme oporavka trzaja.",
     "it": "Migliora leggermente la dispersione e il tempo di recupero del rinculo.",
     "ja": "拡散と反動の回復時間をわずかに改善する。",
-    "kr": "분산도 및 반동 회복 시간을 약간 개선합니다.",
+    "ko-KR": "분산도 및 반동 회복 시간을 약간 개선합니다.",
     "no": "Forbedrer litt spredning og rekylgjenopprettingstid.",
     "pl": "Nieznacznie poprawia rozrzut i czas powrotu z odrzutu.",
     "pt": "Melhora ligeiramente a dispersão e o tempo de recuperação do recuo.",
@@ -48,7 +48,23 @@
   "rarity": "Common",
   "value": 640,
   "weightKg": 0.25,
-  "compatibleWith": ["Rattler", "Ferro", "Stitcher", "Arpeggio", "Bettina"],
+  "stackSize": 1,
+  "compatibleWith": [
+    "Aphelion",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Ferro",
+    "Hullcracker",
+    "Il Toro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Renegade",
+    "Stitcher",
+    "Torrente",
+    "Vulcano"
+  ],
   "effects": {
     "Reduced Dispersion Recovery Time": {
       "value": "20%",
@@ -61,7 +77,7 @@
       "hr": "Smanjeno Vrijeme Oporavka Raspršenja",
       "it": "Tempo di recupero della dispersione ridotto",
       "ja": "拡散回復時間短縮",
-      "kr": "분산도 회복 시간 감소",
+      "ko-KR": "분산도 회복 시간 감소",
       "no": "Redusert spredningsgjenopprettingstid",
       "pl": "Zmniejszony czas powrotu rozrzutu",
       "pt": "Tempo de recuperação da dispersão reduzido",
@@ -84,7 +100,7 @@
       "hr": "Smanjeno Vrijeme Oporavka Trzaja",
       "it": "Tempo di recupero del rinculo ridotto",
       "ja": "反動回復時間短縮",
-      "kr": "반동 회복 시간 감소",
+      "ko-KR": "반동 회복 시간 감소",
       "no": "Redusert rekylgjenopprettingstid",
       "pl": "Zmniejszony czas powrotu z odrzutu",
       "pt": "Tempo de recuperação do recuo reduzido",
@@ -98,9 +114,10 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "duct_tape": 1,
-    "rubber_parts": 6
+    "rubber_parts": 7
   },
   "recyclesInto": {
     "rubber_parts": 6
@@ -109,5 +126,6 @@
     "rubber_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/stable_stock_i.png",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

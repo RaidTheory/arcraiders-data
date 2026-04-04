@@ -10,14 +10,14 @@
     "hr": "Nacrt za laganu kundak",
     "it": "Progetto calcio leggero",
     "ja": "ライトウェイト・ストック設計図",
-    "kr": "경량 개머리판 설계도",
+    "ko-KR": "경량 개머리판 설계도",
     "no": "Lettvektskolbe-tegning",
     "pl": "Projekt lekkiej kolby",
     "pt": "Projeto de coronha leve",
     "pt-BR": "Esquema de Coronha Leve",
     "ru": "Чертёж облегчённого приклада",
     "sr": "Nacrt za lagani kundak",
-    "tr": "Hafif Dipçik Planı",
+    "tr": "Hafif Dipçik Taslağı",
     "uk": "Креслення полегшеного приклада",
     "zh-CN": "轻量枪托蓝图",
     "zh-TW": "輕量槍托藍圖"
@@ -32,7 +32,7 @@
     "hr": "Umjereno poboljšava brzinu nišanjenja i izvlačenja.",
     "it": "Migliora moderatamente la velocità di mira e estrazione.",
     "ja": "ADSと抜刀速度を適度に向上させる。",
-    "kr": "조준 및 무기 꺼내기 속도를 적당히 향상시킵니다.",
+    "ko-KR": "조준 및 무기 꺼내기 속도를 적당히 향상시킵니다.",
     "no": "Forbedrer ADS- og trekkehastighet moderat.",
     "pl": "Umiarkowanie poprawia prędkość celowania i dobywania.",
     "pt": "Melhora moderadamente a velocidade de mira e saque.",
@@ -45,9 +45,11 @@
     "zh-TW": "適度提升瞄準與拔槍速度。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/lightweight_stock_blueprint.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "addedIn": "base"
 }

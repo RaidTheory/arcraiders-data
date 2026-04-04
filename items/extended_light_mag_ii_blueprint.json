@@ -10,14 +10,14 @@
     "hr": "Produzeni laki spremnik II Nacrt",
     "it": "Progetto Caricatore leggero esteso II",
     "ja": "拡張小型弾倉 II 設計図",
-    "kr": "확장형 경량 탄창 II 설계도",
+    "ko-KR": "확장형 경량 탄창 II 설계도",
     "no": "Utvidet lett magasin II-tegning",
     "pl": "Projekt Rozszerzony lekki magazynek II",
     "pt": "Projeto de Carregador leve estendido II",
     "pt-BR": "Esquema de Carregador Leve Estendido II",
     "ru": "Чертеж — Увеличенный магазин для легкого оружия II",
     "sr": "Produzeni laki okvir II Nacrt",
-    "tr": "Genisletilmis Hafif Sarjor II Plani",
+    "tr": "Uzatılmış Hafif Şarjör II Taslağı",
     "uk": "Креслення Розширений легкий магазин II",
     "zh-CN": "延长轻型弹匣 II 蓝图",
     "zh-TW": "延長輕型彈匣 II 藍圖"
@@ -32,7 +32,7 @@
     "hr": "Umjereno povecava kapacitet streljiva kompatibilnog oruzja koje koristi lako streljivo.",
     "it": "Estende moderatamente la capacita di munizioni delle armi compatibili che usano munizioni leggere.",
     "ja": "軽弾薬を使用する対応武器の弾薬容量を適度に拡張します。",
-    "kr": "경량 탄약을 사용하는 호환 무기의 탄약 용량을 적당히 확장합니다.",
+    "ko-KR": "경량 탄약을 사용하는 호환 무기의 탄약 용량을 적당히 확장합니다.",
     "no": "Utvider moderat ammunisjonskapasiteten til kompatible vapen som bruker lett ammunisjon.",
     "pl": "Umiarkowanie zwieksza pojemnosc amunicji kompatybilnej broni uzywajacej lekkiej amunicji.",
     "pt": "Estende moderadamente a capacidade de municao de armas compativeis que usam municao leve.",
@@ -45,9 +45,11 @@
     "zh-TW": "適度延長使用輕型彈藥的相容武器的彈藥容量。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_ii.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "12/07/2025",
+  "addedIn": "base"
 }

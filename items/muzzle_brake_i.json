@@ -10,14 +10,14 @@
     "hr": "Kočnica Cijevi I",
     "it": "Freno di volata I",
     "ja": "マズルブレーキ I",
-    "kr": "총구 제동기 I",
+    "ko-KR": "총구 제동기 I",
     "no": "Munnbrems I",
     "pl": "Hamulec wylotowy I",
     "pt": "Freio de boca I",
     "pt-BR": "Freio de Boca I",
     "ru": "Дульный тормоз I",
     "sr": "Kočnica Cijevi I",
-    "tr": "Namlu Freni I",
+    "tr": "Namlu Ağzı Freni I",
     "uk": "Дульний гальмо I",
     "zh-CN": "枪口制退器 I",
     "zh-TW": "槍口制退器 I"
@@ -32,7 +32,7 @@
     "hr": "Blago smanjuje vertikalni i horizontalni trzaj. Kompatibilno s: Rattler, Ferro, Burletta, Stitcher, Tempest",
     "it": "Riduce leggermente sia il rinculo verticale che quello orizzontale. Compatibile con: Rattler, Ferro, Burletta, Stitcher, Tempest",
     "ja": "垂直反動と水平反動の両方をわずかに軽減。対応武器: Rattler、Ferro、Burletta、Stitcher、Tempest",
-    "kr": "수직 반동과 수평 반동을 약간 감소시킵니다. 호환 무기: 래틀러, 페로, 부를레타, 스티처, 템페스트",
+    "ko-KR": "수직 반동과 수평 반동을 약간 감소시킵니다. 호환 무기: 래틀러, 페로, 부를레타, 스티처, 템페스트",
     "no": "Reduserer både vertikal og horisontal rekyl litt. Kompatibel med: Rattler, Ferro, Burletta, Stitcher, Tempest",
     "pl": "Nieznacznie redukuje zarówno odrzut pionowy, jak i poziomy. Kompatybilny z: Rattler, Ferro, Burletta, Stitcher, Tempest",
     "pt": "Reduz ligeiramente tanto o recuo vertical quanto o horizontal. Compatível com: Rattler, Ferro, Burletta, Stitcher, Tempest",
@@ -48,6 +48,22 @@
   "rarity": "Common",
   "value": 640,
   "weightKg": 0.25,
+  "stackSize": 1,
+  "compatibleWith": [
+    "Anvil",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Burletta",
+    "Ferro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Renegade",
+    "Stitcher",
+    "Tempest",
+    "Torrente"
+  ],
   "effects": {
     "Reduced Horizontal Recoil": {
       "value": "15%",
@@ -60,7 +76,7 @@
       "hr": "Smanjen Horizontalni Trzaj",
       "it": "Rinculo orizzontale ridotto",
       "ja": "水平反動軽減",
-      "kr": "수평 반동 감소",
+      "ko-KR": "수평 반동 감소",
       "no": "Redusert horisontal rekyl",
       "pl": "Zredukowany odrzut poziomy",
       "pt": "Recuo horizontal reduzido",
@@ -83,7 +99,7 @@
       "hr": "Smanjen Vertikalni Trzaj",
       "it": "Rinculo verticale ridotto",
       "ja": "垂直反動軽減",
-      "kr": "수직 반동 감소",
+      "ko-KR": "수직 반동 감소",
       "no": "Redusert vertikal rekyl",
       "pl": "Zredukowany odrzut pionowy",
       "pt": "Recuo vertical reduzido",
@@ -97,6 +113,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 6,
     "wires": 1
@@ -108,5 +125,17 @@
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_i.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 1920
+      },
+      "limit": 5,
+      "refreshSeconds": 86400,
+      "requiredLevel": 7,
+      "trader": "Tian Wen"
+    }
+  ]
 }

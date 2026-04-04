@@ -9,15 +9,15 @@
     "he": "מאחז זוויתי III",
     "hr": "Kutni Rukohvat III",
     "it": "Impugnatura angolata III",
-    "ja": "アングルグリップ III",
-    "kr": "앵글 그립 III",
+    "ja": "アングル・グリップ III",
+    "ko-KR": "앵글 그립 III",
     "no": "Vinklet grep III",
     "pl": "Chwyt kątowy III",
     "pt": "Punho angular III",
     "pt-BR": "Empunhadura Angulada III",
     "ru": "Угловая рукоятка III",
     "sr": "Kutni Rukohvat III",
-    "tr": "Açılı Kabza III",
+    "tr": "Açılı Tutamaç III",
     "uk": "Кутова рукоятка III",
     "zh-CN": "直角握把 III",
     "zh-TW": "斜角握把 III"
@@ -32,7 +32,7 @@
     "hr": "Značajno smanjuje horizontalni trzaj. Kompatibilno s: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "it": "Riduce significativamente il rinculo orizzontale. Compatibile con: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "ja": "水平反動を大幅に軽減します。対応武器：アルペジオ、フェロ、ヴェナトール、イル・トロ、ステッチャー",
-    "kr": "수평 반동을 크게 감소시킵니다. 호환 무기: 아르페지오, 페로, 베나토르, 일 토로, 스티처",
+    "ko-KR": "수평 반동을 크게 감소시킵니다. 호환 무기: 아르페지오, 페로, 베나토르, 일 토로, 스티처",
     "no": "Reduserer betydelig horisontal rekyl. Kompatibel med: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "pl": "Znacząco zmniejsza odrzut poziomy. Kompatybilny z: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "pt": "Reduz significativamente o recuo horizontal. Compatível com: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
@@ -48,6 +48,23 @@
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.75,
+  "stackSize": 1,
+  "compatibleWith": [
+    "Aphelion",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Ferro",
+    "Hullcracker",
+    "Il Toro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Stitcher",
+    "Tempest",
+    "Venator",
+    "Vulcano"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Reduced ADS Speed": {
@@ -61,7 +78,7 @@
       "hr": "Smanjena Brzina Nišanjenja",
       "it": "Velocità di mira ridotta",
       "ja": "ADS速度減少",
-      "kr": "조준 속도 감소",
+      "ko-KR": "조준 속도 감소",
       "no": "Redusert siktehastighet",
       "pl": "Zmniejszona szybkość celowania",
       "pt": "Velocidade de mira reduzida",
@@ -84,7 +101,7 @@
       "hr": "Smanjen Horizontalni Trzaj",
       "it": "Rinculo orizzontale ridotto",
       "ja": "水平反動減少",
-      "kr": "수평 반동 감소",
+      "ko-KR": "수평 반동 감소",
       "no": "Redusert horisontal rekyl",
       "pl": "Zmniejszony odrzut poziomy",
       "pt": "Recuo horizontal reduzido",
@@ -111,5 +128,17 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/angled_grip_iii.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 15000
+      },
+      "limit": 1,
+      "refreshSeconds": 86400,
+      "requiredLevel": 7,
+      "trader": "Tian Wen"
+    }
+  ]
 }

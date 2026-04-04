@@ -10,14 +10,14 @@
     "hr": "Punjiva Baterija",
     "it": "Power Bank",
     "ja": "モバイルバッテリー",
-    "kr": "보조 배터리",
+    "ko-KR": "보조 배터리",
     "no": "Powerbank",
     "pl": "Power Bank",
     "pt": "Bateria Portátil",
     "pt-BR": "Carregador Portátil",
     "ru": "Портативный аккумулятор",
     "sr": "Punjiva Baterija",
-    "tr": "Taşınabilir Şarj Cihazı",
+    "tr": "Taşınabilir Şarj Aleti",
     "uk": "Зовнішній акумулятор",
     "zh-CN": "充电宝",
     "zh-TW": "行動電源"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "製作材料にリサイクルできる。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -58,5 +58,6 @@
     "battery": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/power_bank.png",
-  "updatedAt": "11/02/2025"
+  "updatedAt": "11/02/2025",
+  "addedIn": "base"
 }

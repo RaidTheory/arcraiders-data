@@ -10,14 +10,14 @@
     "hr": "Nacrt za Taktički Mk. 3 (Oživljavanje)",
     "it": "Progetto Tattico Mk. 3 (Rianimazione)",
     "ja": "タクティカル Mk. 3 (リバイバル) の設計図",
-    "kr": "전술 Mk. 3 (소생) 설계도",
+    "ko-KR": "전술 Mk. 3 (소생) 설계도",
     "no": "Taktisk Mk. 3 (Gjenopplivning)-arbeidstegning",
     "pl": "Schemat: Taktyczne Mk. 3 (Reanimacja)",
     "pt": "Diagrama Tático Mk. 3 (Reanimação)",
     "pt-BR": "Projeto Tático Mk. 3 (Reanimação)",
     "ru": "Чертеж: Тактика Мк. 3 (Реанимация)",
     "sr": "Taktički nacrt Mk. 3 (Oživljavanje)",
-    "tr": "Taktiksel Mk. 3 (Canlandırma) Şeması",
+    "tr": "Taktiksel Mod. 3 (Diriltici) Taslağı",
     "uk": "Креслення: Тактика Мк. 3 (Реанімація)",
     "zh-CN": "战术 Mk. 3 (救援) 蓝图",
     "zh-TW": "戰術 Mk. 3 (復甦) 藍圖"
@@ -32,7 +32,7 @@
     "hr": "Dodatak usmjeren na oživljavanje dizajniran za timsku podršku. Obnavlja 1 zdravlje svakih 5 sekundi. Prilikom primanja štete, učinak se pauzira na 30 sekundi. Uključuje ugrađeni Defibrilator s neograničenim brojem korištenja i hlađenjem od 240 sekundi.",
     "it": "Un potenziamento incentrato sulla rianimazione progettato per il supporto di squadra. Ripristina 1 punto salute ogni 5 secondi. Quando si subiscono danni, l'effetto viene sospeso per 30 secondi. Include un Defibrillatore integrato con usi infiniti e un tempo di ricarica di 240 secondi.",
     "ja": "チームサポート用に設計された蘇生特化型オーグメント。5秒ごとにHPを1回復する。ダメージを受けると、効果は30秒間中断される。使用回数無制限、クールダウン240秒のデフィブリレーターが内蔵されている。",
-    "kr": "팀 지원을 위해 설계된 소생 특화 증강체입니다. 5초마다 체력을 1 회복합니다. 피해를 입으면 효과가 30초 동안 중단됩니다. 사용 횟수 무제한, 재사용 대기시간 240초인 제세동기가 내장되어 있습니다.",
+    "ko-KR": "팀 지원을 위해 설계된 소생 특화 증강체입니다. 5초마다 체력을 1 회복합니다. 피해를 입으면 효과가 30초 동안 중단됩니다. 사용 횟수 무제한, 재사용 대기시간 240초인 제세동기가 내장되어 있습니다.",
     "no": "En gjenopplivningsfokusert modul designet for lagstøtte. Gjenoppretter 1 helse hvert 5. sekund. Når man tar skade, settes effekten på pause i 30 sekunder. Inkluderer en integrert hjertestarter med ubegrenset bruk og 240 sekunders nedkjøling.",
     "pl": "Ulepszenie skupione na reanimacji, zaprojektowane do wsparcia drużyny. Przywraca 1 pkt zdrowia co 5 sekund. Po otrzymaniu obrażeń efekt zostaje wstrzymany na 30 sekund. Zawiera zintegrowany defibrylator z nieskończoną liczbą użyć i 240-sekundowym czasem odnowienia.",
     "pt": "Um aprimoramento focado em reanimação, projetado para suporte à equipe. Restaura 1 de vida a cada 5 segundos. Ao receber dano, o efeito é pausado por 30 segundos. Inclui um Desfibrilador integrado com usos infinitos e tempo de recarga de 240 segundos.",
@@ -45,9 +45,11 @@
     "zh-TW": "一種專為團隊支援設計的復甦強化裝置。每 5 秒恢復 1 點生命值。受到傷害時，此效果將暫停 30 秒。包含內建除顫器，擁有無限使用次數和 240 秒冷卻時間。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_revival.png",
-  "updatedAt": "02/02/2026"
+  "updatedAt": "02/02/2026",
+  "addedIn": "1.13"
 }

@@ -10,14 +10,14 @@
     "hr": "Industrijska Baterija",
     "it": "Batteria industriale",
     "ja": "産業用バッテリー",
-    "kr": "산업용 배터리",
+    "ko-KR": "산업용 배터리",
     "no": "Industribatteri",
     "pl": "Bateria przemysłowa",
     "pt": "Bateria industrial",
     "pt-BR": "Bateria Industrial",
     "ru": "Промышленная батарея",
     "sr": "Industrijska Baterija",
-    "tr": "Endüstriyel Batarya",
+    "tr": "Endüstriyel Pil",
     "uk": "Промислова батарея",
     "zh-CN": "工业电池",
     "zh-TW": "工業電池"
@@ -32,7 +32,7 @@
     "hr": "Velika baterija visokog kapaciteta za industrijsku opremu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "産業機器用の大型高容量バッテリー。",
-    "kr": "산업 장비용 대형 고용량 배터리.",
+    "ko-KR": "산업 장비용 대형 고용량 배터리.",
     "no": "Et stort høykapasitetsbatteri for industrielt utstyr.",
     "pl": "Duża bateria o wysokiej pojemności do sprzętu przemysłowego.",
     "pt": "Uma bateria grande de alta capacidade para equipamento industrial.",
@@ -58,5 +58,6 @@
     "battery": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/industrial_battery.png",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "11/03/2025",
+  "addedIn": "base"
 }

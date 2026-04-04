@@ -10,14 +10,14 @@
     "hr": "Nacrt za Kompenzator II",
     "it": "Progetto compensatore II",
     "ja": "コンペンセイターII設計図",
-    "kr": "보정기 II 설계도",
+    "ko-KR": "보정기 II 설계도",
     "no": "Kompensator II-tegning",
     "pl": "Projekt kompensatora II",
     "pt": "Projeto do compensador II",
     "pt-BR": "Diagrama de Compensador II",
     "ru": "Чертёж компенсатора II",
     "sr": "Nacrt za Kompenzator II",
-    "tr": "Kompansatör II Planı",
+    "tr": "Namlu Ağzı Baskısı II Taslağı",
     "uk": "Креслення компенсатора II",
     "zh-CN": "补偿器II蓝图",
     "zh-TW": "補償器II藍圖"
@@ -32,7 +32,7 @@
     "hr": "Umjereno smanjuje rasipanje po hicu.",
     "it": "Riduce moderatamente la dispersione per colpo.",
     "ja": "射撃ごとの拡散を適度に軽減する。",
-    "kr": "발사당 분산을 적당히 감소시킵니다.",
+    "ko-KR": "발사당 분산을 적당히 감소시킵니다.",
     "no": "Reduserer spredning per skudd moderat.",
     "pl": "Umiarkowanie redukuje rozrzut na strzał.",
     "pt": "Reduz moderadamente a dispersão por tiro.",
@@ -45,9 +45,11 @@
     "zh-TW": "適度減少每發射擊的擴散。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/compensator_ii_blueprint.png",
-  "updatedAt": "11/01/2025"
+  "updatedAt": "11/01/2025",
+  "addedIn": "base"
 }

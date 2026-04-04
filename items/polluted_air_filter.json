@@ -10,14 +10,14 @@
     "hr": "Filter za Zagađeni Zrak",
     "it": "Filtro dell'aria inquinato",
     "ja": "汚染されたエアフィルター",
-    "kr": "오염된 공기 필터",
+    "ko-KR": "오염된 공기 필터",
     "no": "Forurenset luftfilter",
     "pl": "Zanieczyszczony filtr powietrza",
     "pt": "Filtro de ar poluído",
     "pt-BR": "Filtro de Ar Poluído",
     "ru": "Загрязненный воздушный фильтр",
     "sr": "Filter za Zagađeni Vazduh",
-    "tr": "Kirli Hava Filtresi",
+    "tr": "Kirlenmiş Hava Filtresi",
     "uk": "Фільтр забрудненого повітря",
     "zh-CN": "污染空气过滤器",
     "zh-TW": "污染空氣過濾器"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u komponente za izradu.",
     "it": "Si può riciclare in componenti da crafting.",
     "ja": "製作部品にリサイクルできる。",
-    "kr": "제작 부품으로 재활용할 수 있습니다.",
+    "ko-KR": "제작 부품으로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverkskomponenter.",
     "pl": "Można przetworzyć na komponenty rzemieślnicze.",
     "pt": "Pode ser reciclado em componentes de fabricação.",
@@ -58,5 +58,6 @@
     "oil": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/polluted_air_filter.png",
-  "updatedAt": "11/10/2025"
+  "updatedAt": "11/10/2025",
+  "addedIn": "base"
 }

@@ -10,14 +10,14 @@
     "hr": "Krpeljeva Mahuna",
     "it": "Capsula di pulce",
     "ja": "チックポッド",
-    "kr": "틱 포드",
+    "ko-KR": "틱 포드",
     "no": "Flåttkapsel",
     "pl": "Kapsuła kleszcza",
     "pt": "Cápsula de carrapato",
     "pt-BR": "Cápsula de Carrapato",
     "ru": "Оболочка Блохи",
     "sr": "Krpeljeva Mahuna",
-    "tr": "Kene Kapsülü",
+    "tr": "Kene Kozası",
     "uk": "Капсула кліща",
     "zh-CN": "蜱虫荚",
     "zh-TW": "蜱蟲莢"
@@ -32,14 +32,14 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "製作材料にリサイクルできる。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "pl": "Może być przetworzony na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
     "pt-BR": "Pode ser reciclado em materiais de fabricação.",
     "ru": "Можно переработать в материалы для крафта.",
     "sr": "Može se reciklirati u materijale za izradu.",
-    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "tr": "Arc alaşımına geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "zh-CN": "可回收为制作材料。",
     "zh-TW": "可回收為製作材料。"
@@ -58,5 +58,6 @@
     "arc_alloy": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/tick_pod.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

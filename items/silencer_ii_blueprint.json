@@ -10,14 +10,14 @@
     "hr": "Nacrt za Prigušivač II",
     "it": "Progetto Silenziatore II",
     "ja": "サイレンサー II 設計図",
-    "kr": "소음기 II 설계도",
+    "ko-KR": "소음기 II 설계도",
     "no": "Lyddemper II Tegning",
     "pl": "Projekt Tłumika II",
     "pt": "Projeto de Silenciador II",
     "pt-BR": "Esquema de Silenciador II",
     "ru": "Чертёж глушителя II",
     "sr": "Nacrt za Prigušivač II",
-    "tr": "Susturucu II Planı",
+    "tr": "Susturucu II Taslağı",
     "uk": "Креслення глушника II",
     "zh-CN": "消音器 II 蓝图",
     "zh-TW": "消音器 II 藍圖"
@@ -32,7 +32,7 @@
     "hr": "Nacrt za izradu Prigušivača II.",
     "it": "Un progetto per creare il Silenziatore II.",
     "ja": "サイレンサー II を製作するための設計図。",
-    "kr": "소음기 II을 제작하기 위한 설계도.",
+    "ko-KR": "소음기 II을 제작하기 위한 설계도.",
     "no": "En tegning for å lage Lyddemper II.",
     "pl": "Projekt do wytworzenia Tłumika II.",
     "pt": "Um projeto para fabricar o Silenciador II.",
@@ -45,9 +45,11 @@
     "zh-TW": "用於製作消音器 II 的藍圖。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/silencer_ii.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

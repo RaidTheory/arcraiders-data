@@ -10,14 +10,14 @@
     "hr": "Nacrt za složene dijelove oružja",
     "it": "Progetto parti di armi complesse",
     "ja": "複雑な銃の部品設計図",
-    "kr": "정교한 총기 부품 설계도",
+    "ko-KR": "정교한 총기 부품 설계도",
     "no": "Komplekse våpendeler-tegning",
     "pl": "Projekt złożonych części broni",
     "pt": "Projeto de peças de armas complexas",
     "pt-BR": "Diagrama de Peças de Arma Complexas",
     "ru": "Чертёж сложных деталей оружия",
     "sr": "Nacrt za složene delove oružja",
-    "tr": "Karmaşık Silah Parçaları Planı",
+    "tr": "Karmaşık Silah Parçaları Taslağı",
     "uk": "Креслення складних деталей зброї",
     "zh-CN": "复杂枪械零件蓝图",
     "zh-TW": "複雜槍械零件藍圖"
@@ -32,7 +32,7 @@
     "hr": "Koristi se za izradu naprednog oružja.",
     "it": "Si usa per creare armi avanzate.",
     "ja": "高度な武器の製作に使用される。",
-    "kr": "고급 무기 제작에 사용됩니다.",
+    "ko-KR": "고급 무기 제작에 사용됩니다.",
     "no": "Brukes til å lage avanserte våpen.",
     "pl": "Używany do tworzenia zaawansowanej broni.",
     "pt": "Usado para fabricar armas avançadas.",
@@ -45,9 +45,11 @@
     "zh-TW": "用於製作高級武器。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/complex_gun_parts_blueprint.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "11/12/2025",
+  "addedIn": "base"
 }

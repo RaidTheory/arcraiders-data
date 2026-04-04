@@ -10,7 +10,7 @@
     "hr": "Stanica za eksploziv",
     "it": "Stazione Esplosivi",
     "ja": "爆発物ステーション",
-    "kr": "폭발물 스테이션",
+    "ko-KR": "폭발물 스테이션",
     "no": "Eksplosivstasjon",
     "pl": "Stacja materiałów wybuchowych",
     "pt": "Estação de explosivos",
@@ -28,7 +28,7 @@
       "level": 1,
       "requirementItemIds": [
         {
-          "itemId": "rubber_parts",
+          "itemId": "chemicals",
           "quantity": 50
         },
         {

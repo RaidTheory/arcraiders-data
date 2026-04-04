@@ -10,14 +10,14 @@
     "hr": "Rashladna tekućina",
     "it": "Refrigerante",
     "ja": "冷却材",
-    "kr": "냉각수",
+    "ko-KR": "냉각수",
     "no": "Kjølevæske",
     "pl": "Chłodziwo",
     "pt": "Refrigerante",
     "pt-BR": "Refrigerante",
     "ru": "Охлаждающая жидкость",
     "sr": "Rashladna tečnost",
-    "tr": "Soğutucu",
+    "tr": "Soğutma Sıvısı",
     "uk": "Охолоджувальна рідина",
     "zh-CN": "冷却剂",
     "zh-TW": "冷卻劑"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "クラフト素材にリサイクルできます。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
     "pl": "Można przetworzyć na materiały do wytwarzania.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -58,5 +58,6 @@
     "oil": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/coolant.png",
-  "updatedAt": "11/07/2025"
+  "updatedAt": "11/07/2025",
+  "addedIn": "base"
 }

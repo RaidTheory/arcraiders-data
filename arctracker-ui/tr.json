@@ -50,7 +50,10 @@
       "description": "Deponu, atölyelerini, görevlerini ve projelerini otomatik olarak eşitlemek için ARC Raiders oyun hesabını bağla. Manuel takibe son.",
       "title": "ARC Raiders Hesabını Eşitle",
       "newBadge": "YENİ"
-    }
+    },
+    "discordCommunityTitle": "ArcTracker Discord'una Katılın",
+    "discordCommunityDescription": "Bir öneriniz mi var? Bir hata mı buldunuz? Sizden haber almak istiyoruz! Fikirlerinizi paylaşmak, geri bildirimde bulunmak ve ArcTracker'ın geleceğini şekillendirmeye yardımcı olmak için Discord'daki binlerce ARC Raiders oyuncusuna katılın.",
+    "joinDiscordCommunity": "Discord'a Katıl"
   },
   "Navigation": {
     "home": "Ana Sayfa",
@@ -71,7 +74,9 @@
     "apps": "Uygulamalar",
     "discordBot": "Discord Botu",
     "squads": "Ekipler",
-    "stash": "Depo"
+    "stash": "Depo",
+    "seasons": "Sezonlar",
+    "traders": "Tüccarlar"
   },
   "MapEvents": {
     "startsIn": "Başlangıç",
@@ -106,7 +111,8 @@
       "launchTowerLoot": "Fırlatma Kulesi Ganimeti",
       "hiddenBunker": "Gizli Sığınak",
       "none": "Hiçbiri",
-      "birdCity": "Kuş Şehri"
+      "birdCity": "Kuş Şehri",
+      "hurricane": "Kasırga"
     }
   },
   "Common": {
@@ -182,11 +188,6 @@
     "requirementsUnknown": "Gereksinimler henüz bilinmiyor",
     "noRequirements": "Gereksinim yok",
     "coins": "para",
-    "combatItems": "Savaş Eşyaları",
-    "survivalItems": "Hayatta Kalma Eşyaları",
-    "provisions": "Erzak",
-    "materials": "Malzemeler",
-    "value": "Değer",
     "phases": "aşama",
     "required": "Gerekli",
     "submitItemsValue": "Bu aşamayı tamamlamak için gereken değerde eşya teslim edin.",
@@ -194,7 +195,8 @@
     "season2": "Sezon 2",
     "stashModeActive": "Eşitlenen depo sayıları",
     "lastSynced": "Eşitlendi",
-    "syncStash": "Depoyu eşitle"
+    "syncStash": "Depoyu eşitle",
+    "season3": "Sezon 3"
   },
   "HideoutPage": {
     "level": "Seviye",
@@ -368,7 +370,19 @@
     "revokeKeyTitle": "API Anahtarı İptal Edilsin mi?",
     "revokeKeyDescription": "Bu işlem anahtarı kalıcı olarak iptal edecektir. Bu anahtarı kullanan uygulamalar erişimini kaybedecektir.",
     "revokeKey": "Anahtarı İptal Et",
-    "buildAnApp": "Bir uygulama geliştirmek mi istiyorsunuz?"
+    "buildAnApp": "Bir uygulama geliştirmek mi istiyorsunuz?",
+    "sectionPrivacy": "Gizlilik",
+    "adPersonalizationTitle": "Kişiselleştirilmiş Reklamlar",
+    "adPersonalizationDescription": "Daha alakalı reklamlar göstermek için reklam sağlayıcımızla anonim bir tanımlayıcının paylaşılmasına izin verin. Hiçbir kişisel veri asla gönderilmez.",
+    "adPersonalizationToggleLabel": "Kişiselleştirilmiş reklamları etkinleştir",
+    "displayName": "Görünen Ad",
+    "displayNameEdit": "Düzenle",
+    "displayNameSave": "Kaydet",
+    "displayNameCancel": "İptal",
+    "displayNameSaved": "Görünen ad güncellendi.",
+    "displayNameError": "Görünen ad güncellenemedi. Lütfen tekrar deneyin.",
+    "displayNameTooLong": "Görünen ad en fazla 32 karakter olmalıdır.",
+    "displayNameRequired": "Görünen ad boş olamaz."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Eşyaları ara...",
@@ -562,7 +576,15 @@
     },
     "dropRates": "Düşme Oranları",
     "inRaidCrafting": "Baskın İçi Üretim",
-    "attachments": "Eklentiler"
+    "attachments": "Eklentiler",
+    "upgradePath": "Yükseltme Yolu",
+    "currentTier": "Mevcut",
+    "soldByTraders": "Tüccarlar Tarafından Satılır",
+    "vendorCost": "Maliyet",
+    "vendorLimit": "Limit: {count}",
+    "vendorRefreshDaily": "Günlük yenilenir",
+    "vendorRefreshHourly": "Saatlik yenilenir",
+    "vendorRefreshHours": "Her {hours} saatte bir yenilenir"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Eşyaları ara...",
@@ -636,7 +658,11 @@
     "squadsTitle": "Ekipler - ARC Raiders",
     "squadsDescription": "ARC Raiders'da arkadaşlarınızla akın geçmişini ve ilerlemeyi paylaşmak için ekipler oluşturun ve yönetin.",
     "stashTitle": "Depo Takipçisi - ARC Raiders",
-    "stashDescription": "ARC Raiders depo envanterini, teçhizatını ve para birimlerini otomatik olarak eşitle ve takip et. Gerçek zamanlı güncellemeler için oyun hesabını bağla."
+    "stashDescription": "ARC Raiders depo envanterini, teçhizatını ve para birimlerini otomatik olarak eşitle ve takip et. Gerçek zamanlı güncellemeler için oyun hesabını bağla.",
+    "projectNotFoundTitle": "Proje Bulunamadı - ARC Raiders",
+    "projectNotFoundDescription": "İstenen proje bulunamadı.",
+    "tradersTitle": "Tüccarlar - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "ARC Raiders'daki tüm tüccarlara göz atın. Her tüccar için mağaza envanterini ve ilgili görevleri görüntüleyin."
   },
   "OverlayPage": {
     "pageTitle": "Arayüz Yardımcı Uygulaması",
@@ -688,7 +714,7 @@
   },
   "Footer": {
     "copyright": "Oyun içeriği ve materyalleri Embark Studios ve lisans verenlerinin ticari markaları ve telif haklarıdır. Tüm hakları saklıdır.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Hizmet Koşulları",
     "privacyPolicy": "Gizlilik Politikası"
   },
@@ -803,14 +829,21 @@
     "premiumActivatedDesc": "ARCTracker'ı desteklediğiniz için teşekkürler! Premium aboneliğiniz artık aktif.",
     "premiumBenefitsTitle": "Premium Avantajlarınız",
     "manageSubscriptionTitle": "Aboneliğinizi Yönetin",
-    "manageSubscriptionDesc": "Ayarlar sayfasından veya Tebex ödeme portalından abonelik detaylarınızı görüntüleyebilir ve faturalandırmanızı yönetebilirsiniz.",
+    "manageSubscriptionDesc": "Abonelik detaylarınızı görüntüleyebilir ve fatura işlemlerinizi Ayarlar sayfası veya ödeme portalı üzerinden yönetebilirsiniz.",
     "goToSettings": "Ayarlara Git",
     "tebexPaymentPortal": "Tebex Ödeme Portalı",
     "backToHome": "Ana Sayfaya Dön",
     "benefitUnlimitedPins": "Sınırsız Özel İğne ve Ganimet Turları",
     "benefitUnlimitedPinsDesc": "Herhangi bir haritada sınırsız özel harita iğnesi ve ganimet turu rotası oluşturun",
     "benefitAutoSync": "Otomatik Depo Eşitleme",
-    "benefitAutoSyncDesc": "Oyundaki deponu, teçhizatını ve ilerlemeni her 30 dakikada bir otomatik olarak eşitler"
+    "benefitAutoSyncDesc": "Oyundaki deponu, teçhizatını ve ilerlemeni her 30 dakikada bir otomatik olarak eşitler",
+    "managedByPolar": "Abonelik Polar tarafından yönetilmektedir",
+    "polarPaymentPortal": "Polar Ödeme Portalı",
+    "upgradeToYearly": "Yıllık Plana Yükselt",
+    "upgradeToYearlyDesc": "Yıllık ödemeye geç ve %44 tasarruf et. Kalan aylık süreniz hesabınıza kredi olarak yansıtılacaktır.",
+    "upgradeSuccess": "Başarıyla yıllık plana yükseltildi!",
+    "upgradeError": "Yükseltme başarısız. Lütfen tekrar deneyin.",
+    "upgradeSaving": "%{percent} Tasarruf Et"
   },
   "Favorites": {
     "addToList": "Listeye Ekle",
@@ -880,7 +913,9 @@
     "createYourOwn": "Kendi Listeni Oluştur",
     "listNotFound": "Liste Bulunamadı",
     "listNotFoundDescription": "Bu liste mevcut değil veya herkese açık olarak paylaşılmamış.",
-    "backToHome": "Ana Sayfaya Dön"
+    "backToHome": "Ana Sayfaya Dön",
+    "cancel": "İptal",
+    "save": "Kaydet"
   },
   "Maps": {
     "showAll": "Tümünü Göster",
@@ -1175,7 +1210,7 @@
   },
   "RaidHistoryPage": {
     "subscriberPreview": "Abone Önizlemesi (Beta)",
-    "searchPlaceholder": "Eşya ismine göre baskın ara...",
+    "searchPlaceholder": "Eşya adına göre baskın ara...",
     "filterMap": "Harita",
     "filterStatus": "Durum",
     "allMaps": "Tüm Haritalar",
@@ -1185,14 +1220,14 @@
     "dateFrom": "Başlangıç",
     "dateTo": "Bitiş",
     "sort": "Sırala",
-    "sortDateDesc": "En Yeni",
-    "sortDateAsc": "En Eski",
+    "sortDateDesc": "Önce En Yeni",
+    "sortDateAsc": "Önce En Eski",
     "sortValueDesc": "En Yüksek Değer",
     "sortValueAsc": "En Düşük Değer",
     "filters": "Filtreler",
     "status": {
       "survived": "Hayatta Kaldı",
-      "kia": "Baskında Öldü",
+      "kia": "KIA",
       "trade": "Takas"
     },
     "itemCount": "{unique} eşya (toplam {total})",
@@ -1202,44 +1237,44 @@
     "showItems": "Eşyaları Göster ({count})",
     "addRaid": "Baskın Ekle",
     "editRaid": "Baskını Düzenle",
-    "addRaidDescription": "Çıkarılan eşyalar ve sonuçla birlikte yeni bir baskın kaydedin.",
-    "editRaidDescription": "Bu baskının detaylarını güncelleyin.",
+    "addRaidDescription": "Tahliye edilen eşyalar ve sonuçla birlikte yeni bir baskın kaydet.",
+    "editRaidDescription": "Bu baskının ayrıntılarını güncelle.",
     "raidStatus": "Baskın Sonucu",
     "raidMap": "Harita",
-    "selectMap": "Bir harita seçin",
+    "selectMap": "Bir harita seç",
     "raidDate": "Tarih",
-    "selectDate": "Bir tarih seçin",
-    "raidItems": "Çıkarılan Eşyalar",
+    "selectDate": "Bir tarih seç",
+    "raidItems": "Tahliye Edilen Eşyalar",
     "addItem": "Eşya Ekle",
-    "searchItems": "Eşyaları ara...",
+    "searchItems": "Eşya ara...",
     "noItemsFound": "Eşya bulunamadı",
-    "perItem": "eşya başına",
+    "perItem": "adet başı",
     "firStatusOn": "Baskında Bulundu (değiştirmek için tıkla)",
     "firStatusOff": "Baskında Bulunmadı (değiştirmek için tıkla)",
     "totalValue": "Toplam Değer",
-    "calculatedValue": "Baskında Bulunan Değer",
+    "calculatedValue": "Baskında Bulunan Değeri",
     "useManualValue": "Geçersiz Kıl",
     "manualValueLabel": "Manuel Değer",
-    "enterManualValue": "Değer girin...",
+    "enterManualValue": "Değer gir...",
     "raidNotes": "Notlar",
     "notesPlaceholder": "Bu baskın hakkında isteğe bağlı notlar...",
     "createRaid": "Baskını Kaydet",
     "saveError": "Baskın kaydedilemedi",
     "fetchError": "Baskınlar yüklenemedi",
-    "signInRequired": "Giriş Gerekli",
-    "signInDescription": "Baskın geçmişinizi takip etmek ve istatistikleri görüntülemek için giriş yapın.",
+    "signInRequired": "Giriş Yapılması Gerekli",
+    "signInDescription": "Baskın geçmişini takip etmek ve istatistikleri görüntülemek için giriş yap.",
     "noRaids": "Henüz Baskın Yok",
-    "noRaidsWithFilters": "Mevcut filtrelerinizle eşleşen baskın yok.",
-    "noRaidsYet": "Baskınlarınızı burada görmek için takip etmeye başlayın.",
+    "noRaidsWithFilters": "Mevcut filtrelerinle eşleşen baskın yok.",
+    "noRaidsYet": "Onları burada görmek için baskınlarını takip etmeye başla.",
     "addFirstRaid": "İlk Baskınını Kaydet",
     "showing": "{total} kayıttan {from}-{to} arası gösteriliyor",
     "pageOf": "Sayfa {current} / {total}",
     "shareRaid": "Baskını Paylaş",
-    "shareRaidDescription": "Başkalarıyla paylaşmak için bu baskını herkese açık hale getirin.",
+    "shareRaidDescription": "Başkalarıyla paylaşmak için bu baskını herkese açık yap.",
     "publicRaid": "Herkese Açık",
     "privateRaid": "Özel",
-    "publicRaidDesc": "Bağlantıya sahip herkes bu baskını görüntüleyebilir.",
-    "privateRaidDesc": "Bu baskını sadece siz görüntüleyebilirsiniz.",
+    "publicRaidDesc": "Bağlantıya sahip olan herkes bu baskını görebilir.",
+    "privateRaidDesc": "Bu baskını sadece sen görebilirsin.",
     "shareLink": "Bağlantıyı Paylaş",
     "linkCopied": "Bağlantı panoya kopyalandı!",
     "copyError": "Bağlantı kopyalanamadı",
@@ -1251,51 +1286,51 @@
     "backToHistory": "Baskın Geçmişine Dön",
     "raidNotFound": "Baskın Bulunamadı",
     "raidNotFoundDescription": "Bu baskın mevcut değil veya artık herkese açık değil.",
-    "extractedItems": "Çıkarılan Eşyalar",
-    "noItemsRecorded": "Bu baskın için hiçbir eşya kaydedilmedi.",
+    "extractedItems": "Tahliye Edilen Eşyalar",
+    "noItemsRecorded": "Bu baskın için hiç eşya kaydedilmedi.",
     "raidScreenshot": "Baskın Ekran Görüntüsü",
     "screenshotLabel": "Ekran Görüntüsü",
     "optional": "isteğe bağlı",
     "mapEvents": "Harita Etkinlikleri",
     "majorEvent": "Büyük Etkinlik",
     "minorEvent": "Küçük Etkinlik",
-    "noEvent": "Hiçbiri",
-    "extractingItems": "Eşyalar ekran görüntüsünden çıkarılıyor...",
+    "noEvent": "Yok",
+    "extractingItems": "Ekran görüntüsünden eşyalar çıkarılıyor...",
     "estimatedTime": "Tahmini süre: ~{seconds} saniye",
-    "canSaveAndReturn": "Beklemek istemiyorsanız şimdi kaydedip daha sonra geri dönebilirsiniz.",
+    "canSaveAndReturn": "Şimdi kaydedebilir ve beklemek istemiyorsanız daha sonra geri dönebilirsiniz.",
     "screenshotUploadLabel": "Bir ekran görüntüsü yükle",
-    "screenshotUploadHint": "Sürükle & bırak, yapıştır (Ctrl+V) veya yüklemek için tıkla",
-    "screenshotHint": "Eşyaları otomatik tespit etmek için baskın sonu ekranınızı yükleyin",
-    "aiPowered": "YZ Destekli",
-    "itemsEmptyHint": "Eşyaları manuel ekleyin veya otomatik tespit için yukarıya bir ekran görüntüsü yükleyin",
-    "screenshotDropHere": "Görüntüyü buraya bırakın",
+    "screenshotUploadHint": "Sürükle bırak, yapıştır (Ctrl+V) veya yüklemek için tıkla",
+    "screenshotHint": "Eşyaları otomatik algılamak için baskın sonu ekranını yükle",
+    "aiPowered": "Yapay Zeka Destekli",
+    "itemsEmptyHint": "Eşyaları manuel olarak ekle veya otomatik algılama için yukarıdan bir ekran görüntüsü yükle",
+    "screenshotDropHere": "Görseli buraya bırak",
     "screenshotPreview": "Ekran görüntüsü önizlemesi",
     "screenshotProcessing": "İşleniyor...",
-    "screenshotInvalidType": "Lütfen bir JPEG, PNG veya WebP görüntüsü yükleyin",
-    "screenshotTooLarge": "Görüntü çok büyük. Maksimum boyut 5MB",
-    "screenshotReadError": "Görüntü dosyası okunamadı",
+    "screenshotInvalidType": "Lütfen bir JPEG, PNG veya WebP görseli yükle",
+    "screenshotTooLarge": "Görsel çok büyük. Maksimum boyut 5MB",
+    "screenshotReadError": "Görsel dosyası okunamadı",
     "visionProcessing": "Taranıyor...",
     "visionCompleted": "Tarandı",
     "visionFailed": "Tarama Başarısız",
     "needsReview": "İncelenecek {count} {count, plural, one {eşya} other {eşya}} var",
     "verify": "Doğrula",
-    "verifyItems": "Uygulamadan önce eşyaları doğrulayın",
-    "verifyFirst": "Önce eşyaları doğrulayın",
-    "mergeItemsTitle": "Tespit Edilen Eşyalar",
-    "mergeItemsDescription": "Ekran görüntünüz analiz edildi. Tespit edilen eşyaları nasıl ele almak istersiniz?",
-    "existingItems": "Mevcut Eşyalarınız",
-    "detectedItems": "Ekran Görüntüsünden Tespit Edilenler",
+    "verifyItems": "Uygulamadan önce eşyaları doğrula",
+    "verifyFirst": "Önce eşyaları doğrula",
+    "mergeItemsTitle": "Algılanan Eşyalar",
+    "mergeItemsDescription": "Ekran görüntün analiz edildi. Algılanan eşyaları nasıl işlemek istersin?",
+    "existingItems": "Mevcut Eşyaların",
+    "detectedItems": "Ekran Görüntüsünden Algılananlar",
     "itemsSummary": "{unique} benzersiz eşya (toplam {total})",
     "mergeItems": "Eşyaları Birleştir",
     "mergeItemsHint": "Miktarları birleştir ({unique} benzersiz, {total} toplam)",
     "replaceItems": "Eşyaları Değiştir",
-    "replaceItemsHint": "Sadece tespit edilen eşyaları tut ({unique} benzersiz, {total} toplam)",
-    "visionDetected": "{count, plural, one {# eşya} other {# eşya}} tespit edildi",
+    "replaceItemsHint": "Sadece algılanan eşyaları tut ({unique} benzersiz, {total} toplam)",
+    "visionDetected": "{count, plural, one {# eşya} other {# eşya}} algılandı",
     "visionUnknown": "{count, plural, one {# bilinmeyen} other {# bilinmeyen}}",
-    "verifyItemInstruction": "Lütfen bu eşyanın ekran görüntüsüyle eşleştiğini doğrulayın. Doğru eşyayı seçin veya farklı bir tane arayın.",
+    "verifyItemInstruction": "Lütfen bu eşyanın ekran görüntüsüyle eşleştiğini doğrula. Doğru eşyayı seç veya farklı bir eşya ara.",
     "currentDetection": "Mevcut:",
     "quickSelect": "Hızlı seçim:",
-    "searchDifferentItem": "Farklı eşya ara...",
+    "searchDifferentItem": "Farklı bir eşya ara...",
     "confirmCorrect": "Doğruluğu Onayla",
     "applyChange": "Değişikliği Uygula",
     "cancelChange": "Değişikliği İptal Et",
@@ -1311,9 +1346,9 @@
       "bestRaid": "En İyi Baskın"
     },
     "profileVisibility": "Baskın Profilini Paylaş",
-    "profilePublicDesc": "Profil bağlantınıza sahip herkes, herkese açık baskınlarınızı görüntüleyebilir.",
-    "profilePrivateDesc": "Baskın geçmişiniz gizlidir. Herkese açık bir profil bağlantısı almak için paylaşımı etkinleştirin.",
-    "profileLink": "Profil Bağlantınız",
+    "profilePublicDesc": "Profil bağlantına sahip olan herkes açık baskınlarını görebilir.",
+    "profilePrivateDesc": "Baskın geçmişin gizli. Herkese açık bir profil bağlantısı almak için paylaşımı etkinleştir.",
+    "profileLink": "Profil Bağlantın",
     "profileLinkCopied": "Bağlantı panoya kopyalandı!",
     "profileUpdateError": "Profil görünürlüğü güncellenemedi",
     "profileCopyError": "Bağlantı kopyalanamadı",
@@ -1322,27 +1357,27 @@
     "publicProfile": "Herkese Açık Profil",
     "publicRaidsCount": "{count} herkese açık baskın",
     "survived": "Hayatta Kaldı",
-    "kia": "Baskında Öldü",
+    "kia": "KIA",
     "survivalRate": "Hayatta Kalma Oranı",
     "noPublicRaids": "Herkese Açık Baskın Yok",
     "noPublicRaidsDescription": "Bu kullanıcı henüz herkese açık bir baskın paylaşmadı.",
     "profileNotFound": "Profil Bulunamadı",
     "tutorial": {
       "step1Title": "Baskınlarını Takip Et",
-      "step1Description": "Bir baskın kaydetmek için buraya tıklayın! \"Speranza'ya Dönülüyor\" ekranından bir ekran görüntüsü yükleyin ve yapay zekamız ganimet eşyalarınızı otomatik olarak çıkarsın.",
-      "step2Title": "Haritanızı Seçin",
-      "step2Description": "Hangi haritada oynadığınızı seçin ve isteğe bağlı olarak baskınınız sırasındaki aktif etkinlikleri seçin.",
+      "step1Description": "Bir baskını kaydetmek için buraya tıkla! \"Speranza'ya Dönüş\" ekranından bir ekran görüntüsü yükle ve yapay zekamız ganimet eşyalarını otomatik olarak çıkarsın.",
+      "step2Title": "Haritanı Seç",
+      "step2Description": "Hangi haritada oynadığını seç ve istersen baskın sırasındaki aktif etkinlikleri belirle.",
       "step3Title": "Ekran Görüntüsü Yükle",
-      "step3Description": "Baskın sonu ekran görüntüsünü buraya yükleyin. Yapay zekamız geri getirdiğiniz tüm eşyaları tespit edip çıkaracaktır. Gerekirse eşyaları manuel olarak da ekleyebilirsiniz.",
-      "gotIt": "Anladım!",
-      "next": "Sonraki",
+      "step3Description": "Baskın sonu ekran görüntünü buraya yükle. Yapay zekamız geri getirdiğin tüm eşyaları algılayıp çıkaracaktır. Gerekirse eşyaları manuel olarak da ekleyebilirsin.",
+      "gotIt": "Anlaşıldı!",
+      "next": "İleri",
       "skipTutorial": "Eğitimi Atla",
       "showTutorial": "Eğitimi Göster"
     },
     "beta": "(Beta)",
-    "betaTooltip": "Bu özellik beta aşamasındadır ve zamanla değişebilir. Eşya tanımlama ile ilgili herhangi bir sorun yaşanırsa lütfen anlayış gösterin.",
-    "tutorialVideo": "Öğretici Video",
-    "screenshotNoCrop": "Tam ekran görüntüsü olmalı. Kırpmayın.",
+    "betaTooltip": "Bu özellik beta aşamasındadır ve zamanla değişebilir. Eşya tanımlamada herhangi bir sorun yaşanırsa lütfen anlayış gösterin.",
+    "tutorialVideo": "Eğitim Videosu",
+    "screenshotNoCrop": "Tam ekran görüntüsü olmalı. Kırpma yapmayın.",
     "stackInfo": "Izgara konumu: Satır {row}, Sütun {col} • Miktar: {quantity}",
     "loadingItems": "Eşyalar yükleniyor...",
     "table": {
@@ -1354,40 +1389,161 @@
       "itemCategories": {
         "equipment": "Ekipman",
         "weapons": "Silahlar",
-        "loot": "Çıkarılan Ganimet"
+        "loot": "Tahliye Edilen Ganimet"
       },
       "actions": {
         "edit": "Düzenle",
         "delete": "Sil",
         "share": "Paylaş",
-        "viewScreenshot": "Ekran Görüntüsünü Görüntüle",
+        "viewScreenshot": "Ekran Görüntüsünü İncele",
         "applyToProgress": "İlerlemeye Uygula",
-        "undoSync": "Senkronizasyonu Geri Al"
+        "undoSync": "Eşitlemeyi Geri Al"
       }
     },
     "marketing": {
-      "ctaText": "Baskınlarını bugün takip etmeye başla. Tamamen ücretsiz!",
-      "feature1Desc": "Baskın sonu ekran görüntünü yükle, özel yapay zekamız çıkarılan tüm eşyaları anında tespit etsin.",
-      "feature1Title": "Yapay Zeka Ekran Görüntüsü Analizi",
-      "feature2Desc": "Baskın ganimetlerini görev ve sığınak gereksinimlerine otomatik olarak işle. Artık manuel takibe son.",
+      "ctaText": "Baskınlarını bugün takip etmeye başla. Ücretsiz!",
+      "feature1Desc": "Baskın sonu ekran görüntüsünü yükle ve özel yapay zekamız tahliye edilen tüm eşyaları anında algılasın.",
+      "feature1Title": "YZ Ekran Görüntüsü Analizi",
+      "feature2Desc": "Baskın ganimetlerini görev ve sığınak gereksinimlerine otomatik olarak uygula. Artık manuel takibe gerek yok.",
       "feature2Title": "Tek Tıkla İlerleme Eşitleme",
-      "feature3Desc": "Gelirini, hayatta kalma oranını ve zaman içindeki baskın performansını görsel panellerle takip et.",
-      "feature3Title": "Detaylı İstatistikler",
-      "feature4Desc": "En iyi (veya en kötü) baskınlarını toplulukla paylaşmak için herkese açık bağlantılar oluştur. Hesabını Discord Botumuzla bağlayarak baskınlarının sunucunda otomatik olarak paylaşılmasını sağla.",
+      "feature3Desc": "Görsel panolarla gelirini, hayatta kalma oranını ve zaman içindeki baskın performansını takip et.",
+      "feature3Title": "Ayrıntılı İstatistikler",
+      "feature4Desc": "En iyi (veya en kötü) baskınlarını toplulukla paylaşmak için herkese açık bağlantılar oluştur. Baskınlarının sunucunda otomatik paylaşılması için hesabını Discord Botumuzla bağla.",
       "feature4Title": "Baskınlarını Paylaş",
       "featuresTitle": "İhtiyacın Olan Her Şey",
       "getStarted": "Başla",
-      "heroSubtitle": "Her baskını otomatik olarak takip et, kazançlarını analiz et ve özel yapay zeka destekli ekran görüntüsü analizimizle bulduğun eşyaları görevlere ve sığınak yükseltmelerine eşitle.",
+      "heroSubtitle": "Her baskını otomatik olarak takip et, kazançlarını analiz et ve özel YZ destekli ekran görüntüsü analizimizle bulunan eşyaları görevlere ve sığınak yükseltmelerine eşitle.",
       "heroTitle": "Baskın İstatistiklerini Takip Et",
       "highlight1": "Tüm haritaları ve sezonluk etkinlikleri destekler",
-      "highlight2": "Eşya başına Baskında Bulundu durumunu takip et",
+      "highlight2": "Eşya başına 'Baskında Bulundu' durumunu takip et",
       "highlight3": "Hata yaparsan eşitlemeyi geri al",
-      "highlight4": "ARCTracker arayüz katmanı ile çalışır",
+      "highlight4": "ARCTracker arayüzü ile çalışır",
       "screenshotDashboardDesc": "Kapsamlı istatistikleri görüntüle, harita/sezona göre filtrele ve zaman içindeki baskın performansını analiz et.",
       "screenshotDashboardTitle": "İş Başında Gör"
     },
     "previous": "Önceki",
-    "next": "Sonraki"
+    "next": "İleri",
+    "embarkSyncTutorial": {
+      "step1Title": "Baskınlarını Eşitle",
+      "step1Description": "En son baskınlarını istediğin zaman Embark'tan çekmek için Eşitle düğmesine tıkla. Her 30 dakikada bir otomatik eşitleme almak için abone ol.",
+      "step2Title": "Hemen Eşitle",
+      "step2Description": "En son verileri hemen mi istiyorsun? En son baskınlarını hemen çekmek için sağ üstteki Eşitle düğmesine tıkla.",
+      "step3Title": "Ganimet Eşyaları Dahil Değil",
+      "step3Description": "Eşitlenen baskınlar yağmaladığın eşyaları içermez. Ganimetini takip etmek için herhangi bir baskında 'Ekran Görüntüsü Ekle'ye tıklayarak baskın sonu ekranını yükle.",
+      "step4Title": "Eşitlenen Baskınlar ve Eski Kayıtlar",
+      "step4Description": "Eşitlenen Baskınlar, ARC Raiders'dan çekilen her şeyi gösterir — tarihlerin oynadığın zamanı değil, baskınların eşitlendiği zamanı gösterdiğini unutma, çünkü ARC Raiders bu veriyi sağlamaz. Eski (Legacy), ekran görüntüsü ile takip ettiğin baskınları gösterir. Bir eski baskını eşleşen senkronize baskına bağlamak için Bağla düğmesini kullan.",
+      "skipTutorial": "Eğitimi atla",
+      "gotIt": "Anlaşıldı!",
+      "next": "İleri"
+    },
+    "loadError": "Veri yüklenemedi. Lütfen tekrar dene.",
+    "addScreenshot": "Ekran görüntüsü ekle",
+    "allOutcomes": "Tüm Sonuçlar",
+    "alreadyUpToDate": "Zaten güncel",
+    "avgPerExtraction": "Tahliye Başına Ort.",
+    "cancelButton": "İptal",
+    "clearButton": "Temizle",
+    "deleteRaid": "Baskını sil",
+    "detachScreenshot": "Ekran görüntüsünü ayır",
+    "editItems": "Eşyaları düzenle",
+    "embarkStats": {
+      "arcEnemiesByTypeTitle": "Türe Göre Yok Edilen ARC Düşmanları",
+      "arcEnemiesDestroyed": "Yok Edilen ARC Düşmanları",
+      "avgProfitPerExtraction": "Tahliye Başına Ort. Kâr",
+      "avgTimeHeader": "Ort. Süre",
+      "connectButton": "Hesabı Bağla",
+      "connectDesc": "İstatistiklerin kilidini açmak için Embark hesabını bağla — hayatta kalma oranı, öldürmeler, hasar, tahliye edilen değer ve daha fazlası.",
+      "connectTitle": "ARC Raiders Hesabını Bağla",
+      "diedLabel": "öldü",
+      "emptyState": "Henüz baskın verisi yok. İstatistiklerini burada görmek için biraz ARC Raiders oyna.",
+      "extractedLabel": "tahliye edildi",
+      "lastN": "Son {count}",
+      "mapHeader": "Harita",
+      "netIncomeHeader": "Net Gelir",
+      "netProfitLoss": "Net Kâr / Zarar",
+      "netValue": "Net Değer",
+      "perMapPerformance": "Harita Başına Performans",
+      "playerKills": "Oyuncu Öldürme",
+      "raidAxisLabel": "Baskın #",
+      "raidValueHistoryTitle": "Baskın Değeri Geçmişi",
+      "raidsHeader": "Baskınlar",
+      "survivalHeader": "Hayatta Kalma",
+      "timeTopside": "Yüzey Süresi",
+      "totalValueExtracted": "Toplam Tahliye Edilen Değer",
+      "valueBroughtIn": "Getirilen Değer",
+      "valueExtracted": "Tahliye Edilen Değer",
+      "weaponsByKillsTitle": "Öldürme Sayısına Göre Silahlar",
+      "containersLooted": "Yağmalanan Konteynerler",
+      "containersPerRaid": "Konteyner / Baskın"
+    },
+    "extractedSuffix": " tahliye edildi",
+    "extractionRate": "Tahliye Oranı",
+    "firLabel": "FIR",
+    "linkButton": "Bağla",
+    "linkRoundEmpty": "Bağlanmamış tur mevcut değil.",
+    "linkRoundTitle": "Bir tura bağla",
+    "linkScreenshotEmpty": "Bağlanmamış ekran görüntüsü baskını mevcut değil.",
+    "linkScreenshotTitle": "Bu tura bir ekran görüntüsü bağla",
+    "linkToRound": "Tura bağla",
+    "linkedStatus": "Bağlandı",
+    "linkedToRaid": "Baskına bağlandı",
+    "lootLabel": "Ganimet",
+    "matchMatchingValue": "Eşleşen değer",
+    "matchSameMap": "Aynı harita",
+    "matchSameOutcome": "Aynı sonuç",
+    "matchSimilarValue": "Benzer değer",
+    "noDate": "Tarih yok",
+    "noScreenshotRaids": "Henüz ekran görüntüsü baskını yok. Yukarıdaki düğmeden ekran görüntüleri ekle.",
+    "noSyncedRaids": "Henüz eşitlenen ARC Raiders baskını yok. Birkaç baskın oyna ve Eşitle'ye tıkla.",
+    "nonFirLabel": "Non-FIR",
+    "outcomeDied": "Öldü",
+    "outcomeExtracted": "Tahliye Oldu",
+    "outcomeUnknown": "Bilinmiyor",
+    "raidDashboardAlt": "Baskın Geçmişi Panosu",
+    "relativeTime": {
+      "daysAgo": "{count}g önce",
+      "hoursAgo": "{count} sa önce",
+      "justNow": "Az önce",
+      "minutesAgo": "{count} dk önce"
+    },
+    "roundStats": "Tur İstatistikleri",
+    "screenshotDetachFailed": "Ekran görüntüsü ayrılamadı",
+    "screenshotDetached": "Ekran görüntüsü turdan ayrıldı",
+    "screenshotInventory": "Envanter Ekran Görüntüsü",
+    "screenshotLinkFailed": "Ekran görüntüsü bağlanamadı",
+    "screenshotLinked": "Ekran görüntüsü tura bağlandı",
+    "screenshotRaidsInfo": "Ekran görüntüsü baskınları manuel olarak gönderildi. Eşyaları içe aktarmak için onları eşitlenmiş bir baskına bağla.",
+    "statARC": "ARC",
+    "statBroughtIn": "Getirilen:",
+    "statDmg": "hsr",
+    "statDown": "yere serme",
+    "statDowns": "yere serme",
+    "statExtracted": "Tahliye:",
+    "statKills": "öldürme",
+    "statNet": "Net:",
+    "statPlayer": "oyuncu",
+    "statValue": "Değer",
+    "statXP": "XP",
+    "syncFailed": "Eşitleme başarısız",
+    "syncNow": "Şimdi Eşitle",
+    "syncSuccess": "{count, plural, one {# yeni tur} other {# yeni tur}} eşitlendi",
+    "syncing": "Eşitleniyor...",
+    "tabs": {
+      "history": "Geçmiş",
+      "legacy": "Eski Kayıtlar",
+      "stats": "İstatistikler",
+      "synced": "Eşitlenenler",
+      "syncedRaids": "Eşitlenen Baskınlar"
+    },
+    "toggleMenu": "Menüyü Aç/Kapa",
+    "totalTime": "Toplam Süre",
+    "tutorialTooltip": "Eğitimi yapmak için tıkla",
+    "undoSyncFailed": "Eşitleme geri alınamadı",
+    "undoSyncFailedLocally": "Eşitleme yerel olarak geri alınamadı",
+    "unknownMap": "Bilinmeyen Harita",
+    "valueSuffix": " değer",
+    "timeInRaid": "Baskında geçen süre",
+    "statDamageByTarget": "Hedefe Göre Hasar"
   },
   "RaidSync": {
     "title": "İlerlemeye Uygula",
@@ -1499,7 +1655,9 @@
         "hideout": "Sığınak Modülleri",
         "done": "Bitti"
       },
-      "flickeringFlames": "Titrek Alevler"
+      "flickeringFlames": "Titrek Alevler",
+      "nonExpeditionProjects": "Sefer dışı projeler",
+      "expeditionProjects": "Sefer projeleri"
     }
   },
   "DeviceAuth": {
@@ -1631,7 +1789,16 @@
       "saving": "Kaydediliyor...",
       "selectAll": "Tümünü Seç",
       "unselectAll": "Tümünün Seçimini Kaldır",
-      "noChanges": "Kaydedilecek değişiklik yok"
+      "noChanges": "Kaydedilecek değişiklik yok",
+      "cancel": "İptal"
+    },
+    "inferred": {
+      "completedViaLabel": "Tamamlanma kaynağı",
+      "completedViaValue": "ARC Raiders sefer ilerlemesi",
+      "description": "Bu sezonun tamamlanması, ARC Raiders sefer eşitlemenizden tespit edildi.",
+      "detailsLabel": "Detaylı istatistikler",
+      "detailsValue": "Bu sezon için mevcut değil.",
+      "title": "Sezon {number} tamamlandı"
     }
   },
   "DiscordBotPage": {
@@ -1866,7 +2033,17 @@
       "screenshotAlt": "Paylaşılan baskın geçmişini gösteren takım sayfası",
       "screenshotDescription": "Birleşik baskın geçmişini görüntüle, özel harita işaretlerini paylaş ve takımınla koordine ol.",
       "seeItInAction": "İş Başında Gör"
-    }
+    },
+    "filterMap": "Harita",
+    "filterStatus": "Durum",
+    "filterSeason": "Sezon",
+    "filterMember": "Üye",
+    "allMaps": "Tüm Haritalar",
+    "allStatuses": "Tüm Durumlar",
+    "allSeasons": "Tüm Sezonlar",
+    "allMembers": "Tüm Üyeler",
+    "clearFilters": "Filtreleri Temizle",
+    "noRaidsFiltered": "Mevcut filtrelerinizle eşleşen baskın yok."
   },
   "MapSubcategories": {
     "abundantLoot": "Bol Ganimet",
@@ -2084,7 +2261,9 @@
       "suggestItem": "Eşya Öner",
       "mappingLocked": "Bu eşya eşleştirmesi kilitli",
       "sortUnsorted": "Sıralanmamış",
-      "searchPlaceholder": "Eşya ara..."
+      "searchPlaceholder": "Eşya ara...",
+      "sortRarity": "Nadirliğe göre sırala",
+      "sortName": "İsme göre sırala"
     },
     "currencies": {
       "cred": "Kredi",
@@ -2185,7 +2364,8 @@
       "title": "Otomatik Eşitleme",
       "toggleError": "Otomatik Eşitleme ayarları güncellenemedi",
       "tokenExpiredError": "Bağlantı süresi doldu. Önce bağlantınızı yenileyin.",
-      "syncing": "Eşitleniyor..."
+      "syncing": "Eşitleniyor...",
+      "subscriberBadge": "Premium"
     },
     "workshopUpgrades": {
       "description": "Yükseltme yapmak için yeterli kaynağın var:",
@@ -2194,7 +2374,10 @@
     "overwolfLinkInBrowser": "Hesabınızı bağlamak için Chrome veya Firefox üzerinden arctracker.io adresini ziyaret edin.",
     "overwolfUpdateLinkInBrowser": "Hesap bağlantınızı güncellemek için Chrome veya Firefox üzerinden arctracker.io adresini ziyaret edin.",
     "blueprintSync": "Şema Eşitleme",
-    "blueprintSyncDescription": "Oyun hesabınızdaki öğrenilen şemaları eşitleyin"
+    "blueprintSyncDescription": "Oyun hesabınızdaki öğrenilen şemaları eşitleyin",
+    "tokenExpiredExtensionMissing": "Bağlantı Süresi Doldu — Eklenti Gerekli",
+    "tokenExpiredExtensionMissingDescription": "Oturumunuzun süresi doldu ve tarayıcı eklentisi yüklü değil. Önce eklentiyi yükleyin, ardından bağlantınızı yenileyin.",
+    "embarkErrorAlreadyLinkedDescription": "Bu oyun hesabı zaten farklı bir ARCTracker hesabına bağlı. Önce diğer hesaptan bağlantıyı kaldırmalı veya farklı bir oyun hesabı kullanmalısınız."
   },
   "HideoutSync": {
     "title": "Sığınak İlerlemesini Eşitle",
@@ -2255,7 +2438,8 @@
     "retry": "Yeniden Dene",
     "showUnchanged": "Değişmeyenleri göster",
     "syncSuccess": "Proje senkronizasyonu tamamlandı!",
-    "title": "Proje İlerlemesini Senkronize Et"
+    "title": "Proje İlerlemesini Senkronize Et",
+    "categoryGoalsToUpdate": "güncellenecek kategoriler"
   },
   "DevelopersPage": {
     "appDescription": "Açıklama",
@@ -2360,7 +2544,7 @@
     "paramFilter": "Filtre: completed (tamamlandı), incomplete (tamamlanmadı).",
     "paramLocale": "Dil kodu (örn. en, de, fr). Varsayılan: en.",
     "paramPage": "Sayfalandırma için sayfa numarası (varsayılan: 1).",
-    "paramPerPage": "Sayfa başına öğe sayısı, maks 100 (varsayılan: 50).",
+    "paramPerPage": "Sayfa başına öğe sayısı, maks 500 (varsayılan: 50).",
     "paramSeason": "Sezona göre filtrele: 1, 2 veya virgülle ayrılmış (örn. 1,2).",
     "paramSeasonFilter": "Sezona göre filtrele: 1, 2.",
     "paramSort": "Sıralama ölçütü: slot (varsayılan), name (isim), quantity (miktar).",
@@ -2393,5 +2577,279 @@
     "showUnchanged": "Değişmeyenleri göster",
     "syncSuccess": "Şema eşitlemesi tamamlandı!",
     "title": "Şemaları Eşitle"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Yağmacı Aleti"
+    },
+    "killTargets": {
+      "player": "Oyuncu",
+      "squadmate": "Takım Arkadaşı"
+    }
+  },
+  "ItemTooltip": {
+    "onYourLists": "Listelerinizde",
+    "tapToView": "Ayrıntıları görüntülemek için tekrar dokunun"
+  },
+  "SeasonsPage": {
+    "title": "Sezonlar",
+    "currentSeason": "Şu anda {name} sezonundasın",
+    "seasonStarted": "{date} tarihinde başladı",
+    "seasonEnds": "{date} tarihinde bitiyor",
+    "departure": {
+      "title": "{season} Sezonundan Ayrıl",
+      "description": "Ayrılmaya hazır mısın? İlerleme anlık görüntünü kaydet ve bir sonraki sezon için sıfırla. Yetenek ağacı dağılımların ve sefer dışı proje ilerlemen korunacak.",
+      "willReset": "Sıfırlanacak",
+      "bonusInfo": "Bonus Yetenek Puanları",
+      "bonusDescription": "Her {creditsPerPoint} zula kredisi için 1 bonus yetenek puanı kazan (maks. {maxPoints} puan)",
+      "startButton": "Ayrılışı Başlat",
+      "notYetAvailable": "Ayrılış penceresi henüz açık değil. Sezon sona erdiğinde tekrar kontrol et.",
+      "alreadyDeparted": "Ayrılış Tamamlandı",
+      "alreadyDepartedDescription": "Bu sezondan zaten ayrıldın. Sezon istatistiklerini aşağıdaki geçmiş bölümünden görüntüleyebilirsin.",
+      "confirmTitle": "Ayrılışı Onayla",
+      "confirmWarning": "Bu işlem geri alınamaz. Görev ilerlemen, sığınağın ve şemaların sıfırlanacak.",
+      "confirmButton": "Onayla ve Ayrıl",
+      "bonusEarned": "Kazanılan bonus",
+      "successTitle": "Ayrılış Tamamlandı!",
+      "successDescription": "{season} ilerlemen kaydedildi. Gelecek sezonda bol şans!",
+      "loadingTitle": "Ayrılış durumu yükleniyor",
+      "opensIn": "Kalkış {countdown} içinde açılıyor",
+      "opensAt": "{date} tarihinde açılıyor"
+    },
+    "autoResetDetected": "Sezon {season} ayrılışı tespit edildi!",
+    "autoResetDescription": "Embark senkronizasyonu ile ayrılışınızı tespit ettik. İlerlemeniz otomatik olarak kaydedildi. Depo kredilerinizi ve oyuncu seviyenizi aşağıdaki sezon geçmişinden güncelleyebilirsiniz.",
+    "expedition": {
+      "title": "Sefer",
+      "description": "Bağlı ARC Raiders hesapları için sezonluk çıkışlar otomatiktir.",
+      "currentState": "Mevcut sefer durumu",
+      "completedExpeditions": "Tamamlanan seferler",
+      "activeSeason": "Aktif sezon",
+      "syncButton": "Seferi eşitle",
+      "syncingButton": "Eşitleniyor...",
+      "syncError": "Sefer durumu eşitlenemedi.",
+      "states": {
+        "notStarted": "başlamadı",
+        "inProgress": "devam ediyor",
+        "completed": "tamamlandı",
+        "unknown": "Bilinmiyor",
+        "ready": "Hazır",
+        "committed": "Kesinleşti"
+      }
+    },
+    "questionnaire": {
+      "description": "ARCTracker'da yeni misin? Doğru sezonu ayarlayabilmemiz için keşif projenin 1. Aşamasında gördüğün öğeyi seç.",
+      "requiredQuantity": "Gerekli: {count}",
+      "retakeButton": "Sezon anketini tekrar yap",
+      "success": "Aktif sezon {season} olarak ayarlandı.",
+      "title": "Keşif sezonunu bul"
+    },
+    "metaDescription": "ARC Raiders sefer sezonunu takip et, kalkışları yönet ve sezon geçmişini ARCTracker'da incele."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "Tüm Gerekli Eşyalar (Toplam)",
+    "backToProjects": "Projelere Dön",
+    "itemRequirements": "Gerekli Eşyalar",
+    "metaDescription": "ARC Raiders'taki {projectName} için tüm eşya gereksinimleri. Bu projeyi tamamlamak için her aşamayı, gerekli eşyaları ve gereken miktarları görüntüleyin.",
+    "metaTitleSuffix": "Gereksinimler - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "Ödüller",
+    "projectNotFound": "Proje Bulunamadı",
+    "projectNotFoundMessage": "İstenen proje bulunamadı.",
+    "receive": "Al",
+    "totalItemsNeeded": "Toplam Gereken Eşyalar",
+    "totalPhases": "Aşamalar",
+    "turnIn": "Teslim Et",
+    "uniqueItems": "Benzersiz Eşyalar",
+    "valueRequirement": "Değer Gereksinimi"
+  },
+  "Cipher": {
+    "alphaBadge": "Deneysel",
+    "clearChat": "Sohbeti temizle",
+    "closeCipher": "Kapat",
+    "emptyStateDescription": "Sistemler çevrimiçi. Bana zulan, baskın performansın, düşme oranları veya sahayla ilgili herhangi bir şey sorabilirsin. Yanıtlar her zaman doğru olmayabilir — lütfen önemli bilgileri doğrula.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Cipher'a sor...",
+    "openCipher": "Cipher'ı Aç",
+    "panelTitle": "Cipher",
+    "sendMessage": "Mesaj gönder",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Depo taranıyor...",
+        "done": "Depo tarandı"
+      },
+      "createChart": {
+        "active": "Görsel oluşturuluyor...",
+        "done": "Görsel oluşturuldu"
+      },
+      "fallbackActive": "{toolName} kullanılıyor...",
+      "fallbackDone": "{toolName} kullanıldı",
+      "findBestFarmingMaps": {
+        "active": "Farm rotaları optimize ediliyor...",
+        "done": "Farm rotaları optimize edildi"
+      },
+      "getHideoutModules": {
+        "active": "Sığınak modülleri kontrol ediliyor...",
+        "done": "Sığınak modülleri kontrol edildi"
+      },
+      "getItem": {
+        "active": "Eşya verileri çekiliyor...",
+        "done": "Eşya verileri çekildi"
+      },
+      "getItemDropLocations": {
+        "active": "Düşme konumları analiz ediliyor...",
+        "done": "Düşme konumları analiz edildi"
+      },
+      "getItemDropStats": {
+        "active": "Düşme oranları analiz ediliyor...",
+        "done": "Düşme oranları analiz edildi"
+      },
+      "getPlayerStats": {
+        "active": "Oyuncu verileri çekiliyor...",
+        "done": "Oyuncu verileri çekildi"
+      },
+      "getQuest": {
+        "active": "Görev verileri çekiliyor...",
+        "done": "Görev verileri çekildi"
+      },
+      "getRaidHistory": {
+        "active": "Baskın kayıtları çekiliyor...",
+        "done": "Baskın kayıtları çekildi"
+      },
+      "getRaidStats": {
+        "active": "Baskın verileri işleniyor...",
+        "done": "Baskın verileri işlendi"
+      },
+      "getUserHideoutProgress": {
+        "active": "Sığınak ilerlemesi kontrol ediliyor...",
+        "done": "Sığınak ilerlemesi kontrol edildi"
+      },
+      "getUserLoadout": {
+        "active": "Teçhizat yapılandırması çekiliyor...",
+        "done": "Teçhizat çekildi"
+      },
+      "getUserNeededItems": {
+        "active": "Gerekli eşyalar hesaplanıyor...",
+        "done": "Gerekli eşyalar hesaplandı"
+      },
+      "getUserQuestProgress": {
+        "active": "Görev ilerlemesi kontrol ediliyor...",
+        "done": "Görev ilerlemesi kontrol edildi"
+      },
+      "getUserStash": {
+        "active": "Depo kayıtlarına erişiliyor...",
+        "done": "Depoya erişildi"
+      },
+      "getWeaponDamage": {
+        "active": "Silah hasarı analiz ediliyor...",
+        "done": "Silah hasarı analiz edildi"
+      },
+      "getWeaponKills": {
+        "active": "Silah verileri çekiliyor...",
+        "done": "Silah verileri çekildi"
+      },
+      "searchItems": {
+        "active": "Eşya veritabanı taranıyor...",
+        "done": "Eşya veritabanı tarandı"
+      },
+      "searchQuests": {
+        "active": "Görev kayıtları taranıyor...",
+        "done": "Görev kayıtları tarandı"
+      },
+      "getMapEvents": {
+        "active": "Harita etkinlikleri kontrol ediliyor...",
+        "done": "Harita etkinlikleri kontrol edildi"
+      },
+      "searchCraftableItems": {
+        "active": "Tarifler aranıyor...",
+        "done": "Tarifler arandı"
+      },
+      "searchSkillNodes": {
+        "active": "Yetenek ağacı aranıyor...",
+        "done": "Yetenek ağacı arandı"
+      },
+      "getSkillNode": {
+        "active": "Yetenek detayları yükleniyor...",
+        "done": "Yetenek detayları yüklendi"
+      },
+      "getProjects": {
+        "active": "Projeler yükleniyor...",
+        "done": "Projeler yüklendi"
+      },
+      "getUserLists": {
+        "active": "Listeleriniz yükleniyor...",
+        "done": "Listeleriniz yüklendi"
+      },
+      "getListItems": {
+        "active": "Liste öğeleri yükleniyor...",
+        "done": "Liste öğeleri yüklendi"
+      },
+      "addItemToList": {
+        "active": "Listeye ekleniyor...",
+        "denied": "İptal edildi",
+        "done": "Listeye eklendi"
+      },
+      "removeItemFromList": {
+        "active": "Listeden çıkarılıyor...",
+        "denied": "İptal edildi",
+        "done": "Listeden çıkarıldı"
+      },
+      "createList": {
+        "active": "Liste oluşturuluyor...",
+        "denied": "İptal edildi",
+        "done": "Liste oluşturuldu"
+      },
+      "deleteList": {
+        "active": "Liste siliniyor...",
+        "denied": "İptal edildi",
+        "done": "Liste silindi"
+      },
+      "fallbackDenied": "{toolName} iptal edildi",
+      "getItemFarmingContext": {
+        "active": "Farming bağlamı analiz ediliyor...",
+        "done": "Farming bağlamı analiz edildi"
+      }
+    },
+    "approval": {
+      "addItemToList": "\"{itemName}\" ögesini \"{listName}\" listesine ekle",
+      "approve": "Onayla",
+      "createList": "\"{name}\" listesini oluştur",
+      "deleteList": "\"{listName}\" listesini sil",
+      "deleteWarning": "Bu işlem listeyi ve içindeki {count, plural, one {# öğeyi} other {# öğeyi}} silecek.",
+      "deny": "Reddet",
+      "removeItemFromList": "\"{itemName}\" ögesini \"{listName}\" listesinden çıkar"
+    },
+    "feedback": {
+      "helpful": "Yararlı yanıt",
+      "notHelpful": "Yararsız yanıt"
+    },
+    "confirmation": {
+      "denied": "İşlem iptal edildi",
+      "error": "Bir şeyler ters gitti",
+      "executing": "Yürütülüyor...",
+      "success": {
+        "addItemToList": "Listeye eklendi",
+        "createList": "Liste oluşturuldu",
+        "deleteList": "Liste silindi",
+        "generic": "Tamamlandı",
+        "removeItemFromList": "Listeden kaldırıldı"
+      }
+    },
+    "privateBetaNotice": "Özel beta — yalnızca katkıda bulunanlar içindir. Lütfen tartışmaları katkıda bulunanlar kanalında yapın."
+  },
+  "TradersPage": {
+    "itemsForSale": "satılık eşyalar",
+    "quests": "görevler",
+    "title": "Tüccarlar"
+  },
+  "TraderPage": {
+    "backToTraders": "Tüccarlara Dön",
+    "coins": "Jetonlar",
+    "limit": "Limit",
+    "noQuests": "Görev yok",
+    "noShopItems": "Satılık eşya yok",
+    "quests": "Görevler",
+    "refresh": "yenileme",
+    "shop": "Mağaza",
+    "traderNotFound": "Tüccar Bulunamadı",
+    "traderNotFoundDesc": "Aradığınız tüccar mevcut değil."
   }
 }

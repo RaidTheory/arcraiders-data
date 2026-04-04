@@ -10,14 +10,14 @@
     "hr": "Uništena Palica",
     "it": "Manganello rovinato",
     "ja": "壊れたバトン",
-    "kr": "망가진 경찰봉",
+    "ko-KR": "망가진 경찰봉",
     "no": "Ødelagt batong",
     "pl": "Zrujnowana pałka",
     "pt": "Bastão arruinado",
     "pt-BR": "Bastão Arruinado",
     "ru": "Сломанная дубинка",
     "sr": "Uništena Palica",
-    "tr": "Harap Cop",
+    "tr": "Mahvolmuş Cop",
     "uk": "Зіпсована дубинка",
     "zh-CN": "损坏的警棍",
     "zh-TW": "損壞的警棍"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu",
     "it": "Si può riciclare in materiali da creazione",
     "ja": "クラフト素材にリサイクルできる",
-    "kr": "제작 재료로 재활용 가능",
+    "ko-KR": "제작 재료로 재활용 가능",
     "no": "Kan resirkuleres til håndverksmateriell",
     "pl": "Można przetworzyć na materiały rzemieślnicze",
     "pt": "Pode ser reciclado em materiais de fabricação",
@@ -58,5 +58,6 @@
     "metal_parts": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/ruined_baton.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

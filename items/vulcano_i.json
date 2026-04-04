@@ -10,14 +10,14 @@
     "hr": "Vulcano I",
     "it": "Vulcano I",
     "ja": "ヴルカノ I",
-    "kr": "불카노 I",
+    "ko-KR": "불카노 I",
     "no": "Vulcano I",
     "pl": "Vulcano I",
     "pt": "Vulcano I",
     "pt-BR": "Vulcão I",
     "ru": "Вулкан I",
     "sr": "Vulcano I",
-    "tr": "Vulcano I",
+    "tr": "Yanardağ I",
     "uk": "Vulcano I",
     "zh-CN": "火山 I",
     "zh-TW": "火山 I"
@@ -32,14 +32,14 @@
     "hr": "Poluautomatska sačmarica s dobrim rasipanjem metaka ali oštrim padom.",
     "it": "Fucile a pompa semiautomatico con buona dispersione ma calo netto.",
     "ja": "セミオートマチックショットガン。良好な弾の拡散だが急激な減衰。",
-    "kr": "반자동 산탄총. 좋은 탄환 확산이지만 급격한 감쇠가 있습니다.",
+    "ko-KR": "반자동 산탄총. 좋은 탄환 확산이지만 급격한 감쇠가 있습니다.",
     "no": "Halvautomatisk hagle med god spredning men brå falloff.",
     "pl": "Półautomatyczna strzelba z dobrym rozrzutem, ale ostrym spadkiem.",
     "pt": "Espingarda semiautomática com boa dispersão mas queda acentuada.",
     "pt-BR": "Escopeta semiautomática com boa dispersão de projéteis, mas queda de dano acentuada",
     "ru": "Полуавтоматическое ружье с хорошим разбросом дроби, но резким спадом урона.",
     "sr": "Poluautomatska sačmara sa dobrim rasipanjem metaka ali oštrim padom.",
-    "tr": "Yarı otomatik av tüfeği. İyi mermi yayılımı ancak keskin düşüş.",
+    "tr": "Fişekleri iyi saçılır ancak kısa sürede yere düşer.",
     "uk": "Напівавтоматична рушниця з хорошим розкидом дробу, але різким спадом урону.",
     "zh-CN": "半自动霰弹枪，拥有良好的弹丸扩散但急剧的伤害衰减。",
     "zh-TW": "半自動霰彈槍，擁有良好的彈丸擴散但急劇的傷害衰減。"
@@ -48,6 +48,7 @@
   "rarity": "Epic",
   "value": 10000,
   "weightKg": 8,
+  "stackSize": 1,
   "isWeapon": true,
   "blueprintLocked": true,
   "effects": {
@@ -62,7 +63,7 @@
       "hr": "Tip streljiva",
       "it": "Tipo di munizioni",
       "ja": "弾薬タイプ",
-      "kr": "탄약 유형",
+      "ko-KR": "탄약 유형",
       "no": "Ammunisjonstype",
       "pl": "Typ amunicji",
       "pt": "Tipo de munição",
@@ -85,7 +86,7 @@
       "hr": "ARC probijanje oklopa",
       "it": "Penetrazione armature ARC",
       "ja": "ARCアーマー貫通",
-      "kr": "아크 장갑판 관통력",
+      "ko-KR": "아크 장갑판 관통력",
       "no": "ARC rustningspenetrasjon",
       "pl": "Przebicie pancerza ARC",
       "pt": "Penetração de armadura ARC",
@@ -108,7 +109,7 @@
       "hr": "Izdržljivost",
       "it": "Tenuta",
       "ja": "耐久性",
-      "kr": "내구도",
+      "ko-KR": "내구도",
       "no": "Holdbarhet",
       "pl": "Wytrzymałość",
       "pt": "Durabilidade",
@@ -131,7 +132,7 @@
       "hr": "Način paljbe",
       "it": "Modalità di fuoco",
       "ja": "射撃モード",
-      "kr": "발사 모드",
+      "ko-KR": "발사 모드",
       "no": "Skyttemodus",
       "pl": "Tryb ognia",
       "pt": "Modo de disparo",
@@ -154,7 +155,7 @@
       "hr": "Veličina spremnika",
       "it": "Capacità caricatore",
       "ja": "マガジンサイズ",
-      "kr": "탄창 크기",
+      "ko-KR": "탄창 크기",
       "no": "Magasinstørrelse",
       "pl": "Pojemność magazynka",
       "pt": "Tamanho do carregador",
@@ -182,14 +183,51 @@
     "heavy_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
-  "updatedAt": "01/09/2026",
+  "updatedAt": "03/17/2026",
+  "addedIn": "base",
   "agility": 70.7,
   "damage": 58.5,
   "fireRate": 8.3,
   "increasedFireRate": 10,
+  "modSlots": {
+    "grip": [
+      "angled_grip_i",
+      "angled_grip_ii",
+      "angled_grip_iii",
+      "horizontal_grip",
+      "vertical_grip_i",
+      "vertical_grip_ii",
+      "vertical_grip_iii"
+    ],
+    "magazine": [
+      "extended_shotgun_mag_i",
+      "extended_shotgun_mag_ii",
+      "extended_shotgun_mag_iii"
+    ],
+    "muzzle": [
+      "shotgun_choke_i",
+      "shotgun_choke_ii",
+      "shotgun_choke_iii",
+      "shotgun_silencer"
+    ],
+    "stock": [
+      "kinetic_converter",
+      "lightweight_stock",
+      "padded_stock",
+      "stable_stock_i",
+      "stable_stock_ii",
+      "stable_stock_iii"
+    ]
+  },
   "range": 22.1,
   "reducedDurabilityBurnRate": 23,
   "reducedReloadTime": 13,
+  "repairCost": {
+    "advanced_mechanical_components": 2,
+    "heavy_gun_parts": 1
+  },
+  "repairDurability": 0.5,
   "stability": 70.3,
-  "stealth": 15
+  "stealth": 15,
+  "upgradesTo": "vulcano_ii"
 }

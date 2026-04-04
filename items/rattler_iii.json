@@ -10,14 +10,14 @@
     "hr": "Rattler III",
     "it": "Rattler III",
     "ja": "ラトラー III",
-    "kr": "래틀러 III",
+    "ko-KR": "래틀러 III",
     "no": "Rattler III",
     "pl": "Rattler III",
     "pt": "Rattler III",
     "pt-BR": "Matraca III",
     "ru": "Трещетка III",
     "sr": "Rattler III",
-    "tr": "Rattler III",
+    "tr": "Çıngırak III",
     "uk": "Rattler III",
     "zh-CN": "响尾蛇 III",
     "zh-TW": "響尾蛇 III"
@@ -32,7 +32,7 @@
     "hr": "Jeftina ofenzivna opcija, ali se mora puniti po 2 metka odjednom.",
     "it": "Un'opzione offensiva economica, ma deve essere ricaricata con 2 proiettili alla volta.",
     "ja": "安価な攻撃手段だが、一度に2発ずつリロードする必要がある。",
-    "kr": "저렴한 공격 옵션이지만, 한 번에 2발씩 재장전해야 합니다.",
+    "ko-KR": "저렴한 공격 옵션이지만, 한 번에 2발씩 재장전해야 합니다.",
     "no": "Et billig offensivt alternativ, men må lades med 2 kuler om gangen.",
     "pl": "Tania opcja ofensywna, ale musi być przeładowywana po 2 pociski na raz.",
     "pt": "Uma opção ofensiva barata, mas precisa ser recarregada com 2 balas por vez.",
@@ -48,6 +48,7 @@
   "rarity": "Common",
   "value": 5000,
   "weightKg": 6,
+  "stackSize": 1,
   "isWeapon": true,
   "effects": {
     "Ammo Type": {
@@ -61,7 +62,7 @@
       "hr": "Vrsta Streljiva",
       "it": "Tipo di munizioni",
       "ja": "弾薬タイプ",
-      "kr": "탄약 유형",
+      "ko-KR": "탄약 유형",
       "no": "Ammunisjonstype",
       "pl": "Typ amunicji",
       "pt": "Tipo de munição",
@@ -84,7 +85,7 @@
       "hr": "ARC Probijanje Oklopa",
       "it": "Penetrazione armature ARC",
       "ja": "ARC装甲貫通",
-      "kr": "아크 장갑 관통",
+      "ko-KR": "아크 장갑 관통",
       "no": "ARC-rustningspenetrering",
       "pl": "Przebicie pancerza ARC",
       "pt": "Penetração de armadura ARC",
@@ -107,7 +108,7 @@
       "hr": "Izdržljivost",
       "it": "Tenuta",
       "ja": "耐久性",
-      "kr": "내구도",
+      "ko-KR": "내구도",
       "no": "Holdbarhet",
       "pl": "Wytrzymałość",
       "pt": "Durabilidade",
@@ -130,7 +131,7 @@
       "hr": "Način Pucanja",
       "it": "Modalità di fuoco",
       "ja": "射撃モード",
-      "kr": "발사 모드",
+      "ko-KR": "발사 모드",
       "no": "Skyttemodus",
       "pl": "Tryb ognia",
       "pt": "Modo de disparo",
@@ -153,7 +154,7 @@
       "hr": "Veličina Spremnika",
       "it": "Capacità caricatore",
       "ja": "マガジンサイズ",
-      "kr": "탄창 크기",
+      "ko-KR": "탄창 크기",
       "no": "Magasinstørrelse",
       "pl": "Pojemność magazynka",
       "pt": "Tamanho do carregador",
@@ -176,7 +177,7 @@
       "hr": "Modifikatori Nadogradnje",
       "it": "Modificatori di potenziamento",
       "ja": "アップグレード修正",
-      "kr": "업그레이드 수정치",
+      "ko-KR": "업그레이드 수정치",
       "no": "Oppgraderingsmodifikatorer",
       "pl": "Modyfikatory ulepszenia",
       "pt": "Modificadores de melhoria",
@@ -190,7 +191,6 @@
     }
   },
   "craftBench": "weapon_bench",
-  "stationLevelRequired": 1,
   "recyclesInto": {
     "mechanical_components": 3,
     "simple_gun_parts": 1
@@ -199,9 +199,47 @@
     "metal_parts": 12
   },
   "upgradeCost": {
-    "mechanical_components": 2,
+    "mechanical_components": 3,
     "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "grip": [
+      "angled_grip_i",
+      "angled_grip_ii",
+      "angled_grip_iii",
+      "horizontal_grip",
+      "vertical_grip_i",
+      "vertical_grip_ii",
+      "vertical_grip_iii"
+    ],
+    "muzzle": [
+      "compensator_i",
+      "compensator_ii",
+      "compensator_iii",
+      "extended_barrel",
+      "muzzle_brake_i",
+      "muzzle_brake_ii",
+      "muzzle_brake_iii",
+      "silencer_i",
+      "silencer_ii",
+      "silencer_iii"
+    ],
+    "stock": [
+      "kinetic_converter",
+      "lightweight_stock",
+      "padded_stock",
+      "stable_stock_i",
+      "stable_stock_ii",
+      "stable_stock_iii"
+    ]
+  },
+  "repairCost": {
+    "mechanical_components": 2,
+    "simple_gun_parts": 1
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "rattler_iv"
 }

@@ -9,15 +9,15 @@
     "he": "שייקר",
     "hr": "Shaker",
     "it": "Shaker",
-    "ja": "シェイカー",
-    "kr": "셰이커",
+    "ja": "マラカス",
+    "ko-KR": "셰이커",
     "no": "Shaker",
     "pl": "Shaker",
     "pt": "Shaker",
     "pt-BR": "Chocalho",
     "ru": "Шейкер",
     "sr": "Shaker",
-    "tr": "Shaker",
+    "tr": "Marakas",
     "uk": "Шейкер",
     "zh-CN": "沙铃",
     "zh-TW": "沙鈴"
@@ -32,7 +32,7 @@
     "hr": "Ritmički instrument koji se koristi za privlačenje pažnje ARC-a i impresioniranje drugih Raidera.",
     "it": "Uno strumento ritmico usato per attirare l'attenzione di ARC e impressionare altri Raiders.",
     "ja": "ARCの注意を引き、他のレイダーを感心させるためのリズム楽器。",
-    "kr": "ARC의 주의를 끌고 다른 레이더들에게 깊은 인상을 주기 위해 사용되는 리듬 악기.",
+    "ko-KR": "ARC의 주의를 끌고 다른 레이더들에게 깊은 인상을 주기 위해 사용되는 리듬 악기.",
     "no": "Et rytmisk instrument brukt for å tiltrekke ARCs oppmerksomhet og imponere andre Raiders.",
     "pl": "Rytmiczny instrument używany do przyciągnięcia uwagi ARC i zaimponowania innym Raidersom.",
     "pt": "Um instrumento rítmico usado para atrair a atenção de ARC e impressionar outros Raiders.",
@@ -50,6 +50,11 @@
   "value": 1000,
   "weightKg": 0.2,
   "stackSize": 1,
+  "craftBench": "in_raid",
+  "recipe": {
+    "assorted_seeds": 7,
+    "canister": 1
+  },
   "recyclesInto": {
     "plastic_parts": 10
   },
@@ -57,5 +62,20 @@
     "plastic_parts": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/shaker.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "1.7",
+  "repairCost": {
+    "plastic_parts": 4
+  },
+  "repairDurability": 0.5,
+  "vendors": [
+    {
+      "cost": {
+        "creds": 40
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "trader": "Shani"
+    }
+  ]
 }

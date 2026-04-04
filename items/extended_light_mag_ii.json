@@ -10,14 +10,14 @@
     "hr": "Produženi laki spremnik II",
     "it": "Caricatore leggero esteso II",
     "ja": "拡張小型弾倉 II",
-    "kr": "확장형 경량 탄창 II",
+    "ko-KR": "확장형 경량 탄창 II",
     "no": "Utvidet lett magasin II",
     "pl": "Rozszerzony lekki magazynek II",
     "pt": "Carregador leve estendido II",
     "pt-BR": "Carregador Estendido Leve II",
     "ru": "Увеличенный магазин для легкого оружия II",
     "sr": "Produženi laki okvir II",
-    "tr": "Genişletilmiş Hafif Şarjör II",
+    "tr": "Uzatılmış Hafif Şarjör II",
     "uk": "Розширений легкий магазин II",
     "zh-CN": "延长轻型弹匣 II",
     "zh-TW": "延長輕型彈匣 II"
@@ -32,7 +32,7 @@
     "hr": "Umjereno povećava kapacitet streljiva kompatibilnog oružja koje koristi lako streljivo. Kompatibilno s: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
     "it": "Estende moderatamente la capacità di munizioni delle armi compatibili che usano munizioni leggere. Compatibile con: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
     "ja": "軽弾薬を使用する対応武器の弾薬容量を適度に拡張します。対応武器：Stitcher、Kettle、Burletta、Hairpin、Bobcat",
-    "kr": "경량 탄약을 사용하는 호환 무기의 탄약 용량을 적당히 확장합니다. 호환 무기: 스티처, 케틀, 부를레타, 헤어핀, 밥캣",
+    "ko-KR": "경량 탄약을 사용하는 호환 무기의 탄약 용량을 적당히 확장합니다. 호환 무기: 스티처, 케틀, 부를레타, 헤어핀, 밥캣",
     "no": "Utvider moderat ammunisjonskapasiteten til kompatible våpen som bruker lett ammunisjon. Kompatibel med: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
     "pl": "Umiarkowanie zwiększa pojemność amunicji kompatybilnej broni używającej lekkiej amunicji. Kompatybilny z: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
     "pt": "Estende moderadamente a capacidade de munição de armas compatíveis que usam munição leve. Compatível com: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
@@ -48,6 +48,8 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
+  "stackSize": 1,
+  "compatibleWith": ["Bobcat", "Burletta", "Hairpin", "Kettle", "Stitcher"],
   "blueprintLocked": true,
   "effects": {
     "Magazine Size": {
@@ -61,7 +63,7 @@
       "hr": "Veličina spremnika",
       "it": "Dimensioni caricatore",
       "ja": "マガジンサイズ",
-      "kr": "탄창 크기",
+      "ko-KR": "탄창 크기",
       "no": "Magasinstørrelse",
       "pl": "Rozmiar magazynka",
       "pt": "Tamanho do carregador",
@@ -88,5 +90,25 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_ii.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "creds": 100
+      },
+      "limit": 2,
+      "refreshSeconds": 86400,
+      "trader": "Shani"
+    },
+    {
+      "cost": {
+        "coins": 6000
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "requiredLevel": 7,
+      "trader": "Tian Wen"
+    }
+  ]
 }

@@ -10,14 +10,14 @@
     "hr": "Poderana Deka",
     "it": "Coperta strappata",
     "ja": "破れた毛布",
-    "kr": "찢어진 담요",
+    "ko-KR": "찢어진 담요",
     "no": "Revet teppe",
     "pl": "Podarta kołdra",
     "pt": "Cobertor rasgado",
     "pt-BR": "Cobertor Rasgado",
     "ru": "Рваное одеяло",
     "sr": "Poderana Ćebe",
-    "tr": "Yırtık Battaniye",
+    "tr": "Parçalanmış Battaniye",
     "uk": "Порване ковдру",
     "zh-CN": "破损的毯子",
     "zh-TW": "破損的毯子"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u tkaninu.",
     "it": "Si può riciclare in stoffa.",
     "ja": "布にリサイクルできる。",
-    "kr": "천으로 재활용할 수 있습니다.",
+    "ko-KR": "천으로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til stoff.",
     "pl": "Może być przetworzony na materiał.",
     "pt": "Pode ser reciclado em tecido.",
@@ -57,5 +57,6 @@
     "fabric": 5
   },
   "imageFilename": "https://cdn.arctracker.io/items/torn_blanket.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/09/2026",
+  "addedIn": "base"
 }

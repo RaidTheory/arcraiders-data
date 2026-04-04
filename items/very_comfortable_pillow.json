@@ -10,7 +10,7 @@
     "hr": "Vrlo udoban jastuk",
     "it": "Cuscino molto comodo",
     "ja": "とても寝心地の良い枕",
-    "kr": "매우 편안한 베개",
+    "ko-KR": "매우 편안한 베개",
     "no": "Veldig komfortabel pute",
     "pl": "Bardzo wygodna poduszka",
     "pt": "Travesseiro muito confortável",
@@ -32,14 +32,14 @@
     "hr": "Zavist svakog pljačkaša. Kao spavanje na posebno ergonomskom oblaku.",
     "it": "L'invidia di ogni Razziatore. Come dormire su una nuvola particolarmente ergonomica.",
     "ja": "すべてのレイダーの羨望の的。特に人間工学的な雲の上で眠るような感じ。",
-    "kr": "모든 레이더의 부러움. 특히 인체공학적인 구름 위에서 자는 것 같습니다.",
+    "ko-KR": "모든 레이더의 부러움. 특히 인체공학적인 구름 위에서 자는 것 같습니다.",
     "no": "Misunnelsen til hver Raider. Som å sove på en spesielt ergonomisk sky.",
     "pl": "Zazdrość każdego Najeźdźcy. Jak spanie na szczególnie ergonomicznej chmurze.",
     "pt": "A inveja de todos os saqueadores. Como dormir em uma nuvem especialmente ergonômica.",
     "pt-BR": "A inveja de todos os saqueadores. Como dormir em uma nuvem especialmente ergonômica.",
     "ru": "Зависть каждого Рейдера. Как спать на особенно эргономичном облаке.",
     "sr": "Zavist svakog pljačkaša. Kao spavanje na posebno ergonomskom oblaku.",
-    "tr": "Her Akıncının imrendiği şey. Özellikle ergonomik bir bulut üzerinde uyumak gibi.",
+    "tr": "Her Raider'in hayali. Ergonomik bir bulutta uyuyormuş hissi verir.",
     "uk": "Заздрість кожного Рейдера. Наче спати на особливо ergonomічній хмарі.",
     "zh-CN": "每个掠夺者的羡慕对象。就像睡在特别符合人体工学的云上。",
     "zh-TW": "每個掠奪者的羨慕對象。就像睡在特別符合人體工學的雲上。"
@@ -51,5 +51,6 @@
   "weightKg": 0.3,
   "stackSize": 3,
   "imageFilename": "https://cdn.arctracker.io/items/very_comfortable_pillow.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

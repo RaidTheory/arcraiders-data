@@ -10,14 +10,14 @@
     "hr": "Borbeni Mk. 3 (Agresivni) Nacrt",
     "it": "Progetto Combattimento Mk. 3 (Aggressivo)",
     "ja": "戦闘MK3（アグレッシブ）設計図",
-    "kr": "전투 마크 3 (공격) 설계도",
+    "ko-KR": "전투 마크 3 (공격) 설계도",
     "no": "Kamp Mk. 3 (Aggressiv) Tegning",
     "pl": "Bojowy Mk. 3 (Agresywny) Projekt",
     "pt": "Projeto de Combate Mk. 3 (Agressivo)",
     "pt-BR": "Diagrama de Combate Mk. 3 (Agressivo)",
     "ru": "Чертёж Боевой Mk. 3 (Агрессивный)",
     "sr": "Borbeni Mk. 3 (Agresivni) Nacrt",
-    "tr": "Savaş Mk. 3 (Agresif) Planı",
+    "tr": "Çatışma Mod. 3 (Saldırgan) Taslağı",
     "uk": "Креслення Бойовий Mk. 3 (Агресивний)",
     "zh-CN": "战斗 Mk. 3（进攻型）蓝图",
     "zh-TW": "戰鬥 Mk. 3（進攻型）藍圖"
@@ -32,7 +32,7 @@
     "hr": "Poboljšana verzija Combat II augmentacije. Podržava više vrsta štitova i dolazi s dodatnim prostorom pentru granate.",
     "it": "Una versione migliorata dell'aumento Combattimento II. Supporta più tipi di scudi e include spazio extra per le granate.",
     "ja": "コンバット II オーグメントの改良版。より多くのシールドタイプに対応し、グレネード用の追加スペースを備えています。",
-    "kr": "전투 II 증강의 개선된 버전입니다. 더 많은 실드 유형을 지원하며 수류탄을 위한 추가 공간이 있습니다.",
+    "ko-KR": "전투 II 증강의 개선된 버전입니다. 더 많은 실드 유형을 지원하며 수류탄을 위한 추가 공간이 있습니다.",
     "no": "En forbedret versjon av Kamp II-forsterkningen. Støtter flere skjoldtyper og kommer med ekstra plass til granater.",
     "pl": "Ulepszona wersja augmentacji Bojowy II. Obsługuje więcej typów tarcz i zapewnia dodatkowe miejsce na granaty.",
     "pt": "Uma versão melhorada do aumento Combate II. Suporta mais tipos de escudos e vem com espaço extra para granadas.",
@@ -45,9 +45,11 @@
     "zh-TW": "戰鬥 II 增強裝置的改良版本。支援更多護盾類型，並提供額外的手榴彈空間。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/combat_mk3_aggressive.png",
-  "updatedAt": "11/13/2025"
+  "updatedAt": "11/13/2025",
+  "addedIn": "base"
 }

@@ -10,7 +10,7 @@
     "hr": "Plamen Sprej",
     "it": "Lanciafiamme",
     "ja": "フレイムスプレー",
-    "kr": "화염 분사기",
+    "ko-KR": "화염 분사기",
     "no": "Flammekaster",
     "pl": "Miotacz ognia",
     "pt": "Lança-chamas",
@@ -32,7 +32,7 @@
     "hr": "Klasično improvizovano oružje, sigurno će ostaviti tragove opeklina.",
     "it": "Un'arma improvvisata classica che lascerà sicuramente segni di bruciatura.",
     "ja": "古典的な即席武器で、焦げ跡を残すこと間違いなし。",
-    "kr": "그을린 자국을 남길 것이 확실한 고전적인 즉석 무기.",
+    "ko-KR": "그을린 자국을 남길 것이 확실한 고전적인 즉석 무기.",
     "no": "Et klassisk provisorisk våpen som garantert etterlater svimerker.",
     "pl": "Klasyczna prowizoryczna broń, która z pewnością pozostawi ślady spalenizny.",
     "pt": "Uma arma improvisada clássica que certamente deixará marcas de queimadura.",
@@ -46,8 +46,9 @@
   },
   "type": "Quick Use",
   "rarity": "Uncommon",
-  "value": 640,
+  "value": 2000,
   "weightKg": 1,
+  "stackSize": 1,
   "effects": {
     "Damage": {
       "value": "10/s",
@@ -60,7 +61,7 @@
       "hr": "Šteta",
       "it": "Danni",
       "ja": "ダメージ",
-      "kr": "피해량",
+      "ko-KR": "피해량",
       "no": "Skade",
       "pl": "Obrażenia",
       "pt": "Dano",
@@ -83,7 +84,7 @@
       "hr": "Izdržljivost",
       "it": "Tenuta",
       "ja": "耐久性",
-      "kr": "내구도",
+      "ko-KR": "내구도",
       "no": "Holdbarhet",
       "pl": "Wytrzymałość",
       "pt": "Durabilidade",
@@ -109,5 +110,11 @@
     "fireball_burner": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/flame_spray.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base",
+  "repairCost": {
+    "canister": 1,
+    "fireball_burner": 1
+  },
+  "repairDurability": 0.5
 }

@@ -10,14 +10,14 @@
     "hr": "Skakačeva pulsna jedinica",
     "it": "Unità a impulso Leaper",
     "ja": "リーパー・パルスユニット",
-    "kr": "리퍼 펄스 유닛",
+    "ko-KR": "리퍼 펄스 유닛",
     "no": "Hopper-pulsenhet",
     "pl": "Jednostka pulsacyjna skoczka",
     "pt": "Unidade de pulso de saltador",
     "pt-BR": "Unidade de Pulso de Saltador",
     "ru": "Импульсный блок Прыгуна",
     "sr": "Skakačeva pulsna jedinica",
-    "tr": "Sıçrayıcı Nabız Ünitesi",
+    "tr": "Sıçrayıcı Vurucu Birimi",
     "uk": "Імпульсний блок стрибуна",
     "zh-CN": "跳跃者脉冲装置",
     "zh-TW": "跳躍者脈衝裝置"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu. Može se baciti kako bi se stvorila nasilna singularnost.",
     "it": "Si può riciclare in materiali da creazione. Si può lanciare per creare una singolarità violenta",
     "ja": "クラフト素材にリサイクルできます。投げると強力な特異点を生成します。",
-    "kr": "제작 재료로 재활용할 수 있습니다. 던져서 강력한 특이점을 생성할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다. 던져서 강력한 특이점을 생성할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmaterialer. Kan kastes for å skape en voldsom singularitet.",
     "pl": "Można go poddać recyklingowi na materiały rzemieślnicze. Można nim rzucić, aby stworzyć gwałtowną osobliwość.",
     "pt": "Pode ser reciclado em materiais de fabricação. Pode ser arremessado para criar uma singularidade violenta.",
@@ -47,7 +47,7 @@
   "type": "Recyclable",
   "rarity": "Epic",
   "foundIn": "ARC",
-  "value": 5000,
+  "value": 3000,
   "weightKg": 1,
   "stackSize": 3,
   "effects": {
@@ -62,7 +62,7 @@
       "hr": "Šteta",
       "it": "Danni",
       "ja": "ダメージ",
-      "kr": "피해",
+      "ko-KR": "피해",
       "no": "Skade",
       "pl": "Obrażenia",
       "pt": "Dano",
@@ -85,7 +85,7 @@
       "hr": "Radijus",
       "it": "Raggio",
       "ja": "範囲",
-      "kr": "반경",
+      "ko-KR": "반경",
       "no": "Radius",
       "pl": "Promień",
       "pt": "Raio",
@@ -99,12 +99,13 @@
     }
   },
   "recyclesInto": {
-    "advanced_mechanical_components": 2,
+    "advanced_mechanical_components": 1,
     "arc_alloy": 3
   },
   "salvagesInto": {
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/leaper_pulse_unit.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

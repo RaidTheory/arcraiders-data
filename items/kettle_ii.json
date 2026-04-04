@@ -10,14 +10,14 @@
     "hr": "Kettle II",
     "it": "Stormo II",
     "ja": "ケトル II",
-    "kr": "케틀 II",
+    "ko-KR": "케틀 II",
     "no": "Kettle II",
     "pl": "Kettle II",
     "pt": "Kettle II",
     "pt-BR": "Chaleira II",
     "ru": "Чайник II",
     "sr": "Kettle II",
-    "tr": "Kettle II",
+    "tr": "Isıtıcı II",
     "uk": "Чайник II",
     "zh-CN": "水壶 II",
     "zh-TW": "水壺 II"
@@ -32,7 +32,7 @@
     "hr": "Poluautomatska jurišna puška. Brza i precizna, ali ima nisku brzinu metka i dugo traje punjenje.",
     "it": "È rapido e preciso, ma ha una velocità dei proiettili ridotta e richiede molto tempo per essere ricaricato.",
     "ja": "セミオートマチックアサルトライフル。素早く正確だが、弾速が遅く、リロードに時間がかかる。",
-    "kr": "반자동 돌격소총. 빠르고 정확하지만 탄속이 느리고 재장전 시간이 깁니다.",
+    "ko-KR": "반자동 돌격소총. 빠르고 정확하지만 탄속이 느리고 재장전 시간이 깁니다.",
     "no": "Halvautomatisk angrepsrifle. Rask og nøyaktig, men har lav kulehastighet og tar lang tid å lade.",
     "pl": "Półautomatyczny karabin szturmowy. Szybki i celny, ale ma niską prędkość pocisku i długi czas przeładowania.",
     "pt": "Rifle de assalto semiautomático. Rápido e preciso, mas tem baixa velocidade de bala e demora muito para recarregar.",
@@ -48,7 +48,9 @@
   "rarity": "Common",
   "value": 2000,
   "weightKg": 7,
+  "stackSize": 1,
   "isWeapon": true,
+  "craftBench": "weapon_bench",
   "recyclesInto": {
     "metal_parts": 6,
     "rubber_parts": 6
@@ -56,6 +58,53 @@
   "salvagesInto": {
     "metal_parts": 6
   },
+  "upgradeCost": {
+    "metal_parts": 8,
+    "plastic_parts": 10
+  },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "01/26/2026"
+  "updatedAt": "03/17/2026",
+  "addedIn": "base",
+  "modSlots": {
+    "grip": [
+      "angled_grip_i",
+      "angled_grip_ii",
+      "angled_grip_iii",
+      "horizontal_grip",
+      "vertical_grip_i",
+      "vertical_grip_ii",
+      "vertical_grip_iii"
+    ],
+    "magazine": [
+      "extended_light_mag_i",
+      "extended_light_mag_ii",
+      "extended_light_mag_iii"
+    ],
+    "muzzle": [
+      "compensator_i",
+      "compensator_ii",
+      "compensator_iii",
+      "extended_barrel",
+      "muzzle_brake_i",
+      "muzzle_brake_ii",
+      "muzzle_brake_iii",
+      "silencer_i",
+      "silencer_ii",
+      "silencer_iii"
+    ],
+    "stock": [
+      "kinetic_converter",
+      "lightweight_stock",
+      "padded_stock",
+      "stable_stock_i",
+      "stable_stock_ii",
+      "stable_stock_iii"
+    ]
+  },
+  "repairCost": {
+    "metal_parts": 6,
+    "rubber_parts": 6
+  },
+  "repairDurability": 0.5,
+  "upgradesTo": "kettle_iii"
 }

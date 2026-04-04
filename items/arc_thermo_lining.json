@@ -10,16 +10,16 @@
     "hr": "ARC termo obloga",
     "it": "Rivestimento termico ARC",
     "ja": "ARC耐熱裏地",
-    "kr": "아크 발열 안감",
+    "ko-KR": "아크 발열 안감",
     "no": "ARC-termofôr",
     "pl": "Wyściółka termiczna ARC",
     "pt": "Revestimento térmico ARC",
     "pt-BR": "Revestimento Térmico ARC",
     "ru": "Термоподкладка ARC",
     "sr": "ARC termo obloga",
-    "tr": "ARC Termo Astar",
+    "tr": "ARC Metal Kaplaması",
     "uk": "Термопідкладка ARC",
-    "zh-CN": "ARC热能衬里",
+    "zh-CN": "ARC隔热衬里",
     "zh-TW": "ARC熱能襯裡"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "クラフト素材にリサイクルできます。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
     "pl": "Można przetworzyć na materiały do wytwarzania.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -57,5 +57,6 @@
     "fabric": 9
   },
   "imageFilename": "https://cdn.arctracker.io/items/arc_thermo_lining.png",
-  "updatedAt": "11/03/2025"
+  "updatedAt": "11/03/2025",
+  "addedIn": "base"
 }

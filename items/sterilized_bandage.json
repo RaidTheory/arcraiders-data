@@ -10,14 +10,14 @@
     "hr": "Sterilizirani zavoj",
     "it": "Bende sterilizzate",
     "ja": "消毒された包帯",
-    "kr": "멸균 붕대",
+    "ko-KR": "멸균 붕대",
     "no": "Sterilisert bandasje",
     "pl": "Sterylny bandaż",
     "pt": "Bandagem esterilizada",
     "pt-BR": "Atadura Esterilizada",
     "ru": "Стерильный бинт",
     "sr": "Sterilizovani zavoj",
-    "tr": "Sterilize Bandaj",
+    "tr": "Steril Bandaj",
     "uk": "Стерильний бинт",
     "zh-CN": "消毒绷带",
     "zh-TW": "消毒繃帶"
@@ -32,7 +32,7 @@
     "hr": "Medicinski predmet koji postupno obnavlja veliku količinu zdravlja tijekom vremena.",
     "it": "Un oggetto medico che ripristina gradualmente una grande quantità di salute nel tempo.",
     "ja": "時間をかけて大量の体力を徐々に回復する医療アイテム。",
-    "kr": "시간이 지남에 따라 많은 양의 체력을 점진적으로 회복하는 의료 아이템입니다.",
+    "ko-KR": "시간이 지남에 따라 많은 양의 체력을 점진적으로 회복하는 의료 아이템입니다.",
     "no": "En medisinsk gjenstand som gradvis gjenoppretter en stor mengde helse over tid.",
     "pl": "Przedmiot medyczny, który stopniowo przywraca dużą ilość zdrowia w czasie.",
     "pt": "Um item médico que restaura gradualmente uma grande quantidade de saúde ao longo do tempo.",
@@ -61,7 +61,7 @@
       "hr": "Trajanje",
       "it": "Durata",
       "ja": "持続時間",
-      "kr": "지속 시간",
+      "ko-KR": "지속 시간",
       "no": "Varighet",
       "pl": "Czas trwania",
       "pt": "Duração",
@@ -84,7 +84,7 @@
       "hr": "Liječenje",
       "it": "Guarigione",
       "ja": "回復",
-      "kr": "치유",
+      "ko-KR": "치유",
       "no": "Helbredelse",
       "pl": "Leczenie",
       "pt": "Cura",
@@ -107,7 +107,7 @@
       "hr": "Vrijeme korištenja",
       "it": "Tempo di utilizzo",
       "ja": "使用時間",
-      "kr": "사용 시간",
+      "ko-KR": "사용 시간",
       "no": "Brukstid",
       "pl": "Czas użycia",
       "pt": "Tempo de uso",
@@ -121,6 +121,7 @@
     }
   },
   "craftBench": "med_station",
+  "stationLevelRequired": 2,
   "recipe": {
     "antiseptic": 1,
     "durable_cloth": 2
@@ -133,5 +134,25 @@
     "durable_cloth": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/sterilized_bandage.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "creds": 40
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "trader": "Shani"
+    },
+    {
+      "cost": {
+        "coins": 6000
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "requiredLevel": 12,
+      "trader": "Lance"
+    }
+  ]
 }

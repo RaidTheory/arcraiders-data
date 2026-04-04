@@ -2,16 +2,12 @@ We currently are missing several in-game item images. If you want to contribute 
 
 - angled_grip_iii_blueprint
 - aphelion
-- backpack_black_hiker_color
-- banana
 - blue_gate_cellar_key
 - blue_gate_village_key
-- blue_radio_renegade_color
 - bobcat_i
 - bobcat_ii
 - bobcat_iii
 - bobcat_iv
-- burgerboy
 - buried_city_hospital_key
 - buried_city_jkv_employee_access_card
 - buried_city_residential_master_key
@@ -19,7 +15,6 @@ We currently are missing several in-game item images. If you want to contribute 
 - burned_arc_circuitry
 - burnt_out_candles
 - candleberries
-- cans_backpack_attachment
 - celeste_journal
 - cheer
 - combat_mk1
@@ -28,6 +23,7 @@ We currently are missing several in-game item images. If you want to contribute 
 - damaged_snitch_scanner
 - damaged_wasp_drive
 - degraded_arc_rubber
+- espresso_machine_parts
 - experimental_seed_sample
 - extended_light_mag_iii
 - first_wave_compass
@@ -41,18 +37,19 @@ We currently are missing several in-game item images. If you want to contribute 
 - il_toro_i
 - il_toro_iii
 - il_toro_iv
-- junior_outfit
 - kettle_ii
 - kinetic_converter_blueprint
 - lances_mixtape_5th_edition
 - launcher_ammo_blueprint
 - lidar_scanner
+- library_book
+- major_aivas_mementos
 - major_aivas_patch
 - muzzle_brake_iii_blueprint
 - osprey_i
 - osprey_ii
 - patrol_car_key
-- radio_renegade
+- possibly_toxic_plant
 - rattler_ii
 - rattler_iii
 - rattler_iv
@@ -63,6 +60,7 @@ We currently are missing several in-game item images. If you want to contribute 
 - seeker_grenade_blueprint
 - silencer_iii_blueprint
 - snowball
+- stack_of_movie_tapes
 - stitcher_i
 - stitcher_ii
 - stitcher_iii

@@ -10,14 +10,14 @@
     "hr": "Burletta Nacrt",
     "it": "Progetto Burletta",
     "ja": "バーレッタ設計図",
-    "kr": "부를레타 설계도",
+    "ko-KR": "부를레타 설계도",
     "no": "Burletta-tegning",
     "pl": "Projekt Burletta",
     "pt": "Projeto de Burletta",
     "pt-BR": "Diagrama da Burletta",
     "ru": "Чертеж Бурлетты",
     "sr": "Burletta Nacrt",
-    "tr": "Burletta Planı",
+    "tr": "Burletta Taslağı",
     "uk": "Креслення Бурлетти",
     "zh-CN": "布尔莱塔蓝图",
     "zh-TW": "布雷塔藍圖"
@@ -32,7 +32,7 @@
     "hr": "Nacrt za izradu Burletta oružja.",
     "it": "Un progetto per creare l'arma Burletta.",
     "ja": "バーレッタ武器を製作するための設計図。",
-    "kr": "부를레타 무기를 제작하기 위한 설계도입니다.",
+    "ko-KR": "부를레타 무기를 제작하기 위한 설계도입니다.",
     "no": "En tegning for å lage Burletta-våpenet.",
     "pl": "Projekt do wytworzenia broni Burletta.",
     "pt": "Um projeto para fabricar a arma Burletta.",
@@ -45,7 +45,10 @@
     "zh-TW": "製作布雷塔武器的藍圖。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
+  "value": 5000,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-  "updatedAt": "11/12/2025"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }

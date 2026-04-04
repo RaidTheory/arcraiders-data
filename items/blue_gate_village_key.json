@@ -10,14 +10,14 @@
     "hr": "Ključ sela plavog portala",
     "it": "Chiave del villaggio del cancello blu",
     "ja": "ブルーゲートの村の鍵",
-    "kr": "파란 문 마을 열쇠",
+    "ko-KR": "파란 문 마을 열쇠",
     "no": "Blå port landsbysnøkkel",
     "pl": "Klucz do wioski Niebieskiej Bramy",
     "pt": "Chave da vila do portão azul",
     "pt-BR": "Chave da Vila do Portão Azul",
     "ru": "Ключ от деревни Синих Врат",
     "sr": "Ključ sela plavog portala",
-    "tr": "Mavi Kapı Köyü Anahtarı",
+    "tr": "Mavi Kapı Köy Anahtarı",
     "uk": "Ключ від села Синіх Воріт",
     "zh-CN": "蓝门村庄钥匙",
     "zh-TW": "藍門村落鑰匙"
@@ -32,7 +32,7 @@
     "hr": "Ključ za područja unutar sela plavog portala.",
     "it": "Una chiave per le aree all'interno del villaggio del cancello blu.",
     "ja": "青い門の村内のエリアへの鍵。",
-    "kr": "파란 문 마을 내부 구역의 열쇠.",
+    "ko-KR": "파란 문 마을 내부 구역의 열쇠.",
     "no": "En nøkkel til områder innenfor Blå port landsby.",
     "pl": "Klucz do obszarów w wiosce Niebieskiej Bramy.",
     "pt": "Uma chave para áreas dentro da vila do portão azul.",
@@ -50,5 +50,6 @@
   "weightKg": 0.25,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/blue_gate_village_key.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "12/07/2025",
+  "addedIn": "base"
 }

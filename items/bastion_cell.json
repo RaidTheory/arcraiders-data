@@ -10,14 +10,14 @@
     "hr": "Bastion ćelija",
     "it": "Cella del bastione",
     "ja": "バスティオン・セル",
-    "kr": "바스티온 셀",
+    "ko-KR": "바스티온 셀",
     "no": "Bastioncelle",
     "pl": "Ogniwo bastionu",
     "pt": "Célula de bastião",
     "pt-BR": "Células de Baluarte",
     "ru": "Ячейка Бастиона",
     "sr": "Bastion ćelija",
-    "tr": "Bastion Hücresi",
+    "tr": "Burç Hücresi",
     "uk": "Комірка бастіону",
     "zh-CN": "堡垒电池",
     "zh-TW": "堡壘電池"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali di fabbricazione.",
     "ja": "クラフト素材にリサイクル可能。",
-    "kr": "제작 재료로 재활용 가능.",
+    "ko-KR": "제작 재료로 재활용 가능.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -47,16 +47,17 @@
   "type": "Recyclable",
   "rarity": "Epic",
   "foundIn": "ARC",
-  "value": 5000,
+  "value": 3000,
   "weightKg": 1,
   "stackSize": 3,
   "recyclesInto": {
-    "advanced_mechanical_components": 2,
-    "arc_alloy": 2
+    "advanced_mechanical_components": 1,
+    "arc_alloy": 3
   },
   "salvagesInto": {
-    "advanced_mechanical_components": 2
+    "advanced_mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/bastion_cell.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

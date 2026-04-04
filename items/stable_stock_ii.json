@@ -10,7 +10,7 @@
     "hr": "Stabilno Kundak II",
     "it": "Calcio stabile II",
     "ja": "ステイブル・ストック II",
-    "kr": "안정형 개머리판 II",
+    "ko-KR": "안정형 개머리판 II",
     "no": "Stabil kolbe II",
     "pl": "Stabilna kolba II",
     "pt": "Coronha estável II",
@@ -32,7 +32,7 @@
     "hr": "Umjereno poboljšava raspršenje i vrijeme oporavka od trzaja.",
     "it": "Migliora moderatamente la dispersione e il tempo di recupero del rinculo.",
     "ja": "拡散と反動回復時間を適度に改善。",
-    "kr": "분산도와 반동 회복 시간을 적당히 개선합니다.",
+    "ko-KR": "분산도와 반동 회복 시간을 적당히 개선합니다.",
     "no": "Forbedrer moderat spredning og rekyltilhentingstid.",
     "pl": "Umiarkowanie poprawia rozrzut i czas regeneracji odrzutu.",
     "pt": "Melhora moderadamente a dispersão e o tempo de recuperação do recuo.",
@@ -48,7 +48,23 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
-  "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Il Toro", "Stitcher"],
+  "stackSize": 1,
+  "compatibleWith": [
+    "Aphelion",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Ferro",
+    "Hullcracker",
+    "Il Toro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Renegade",
+    "Stitcher",
+    "Torrente",
+    "Vulcano"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Compatible with": {
@@ -62,7 +78,7 @@
       "hr": "Kompatibilno s",
       "it": "Compatibile con",
       "ja": "対応",
-      "kr": "호환 대상",
+      "ko-KR": "호환 대상",
       "no": "Kompatibel med",
       "pl": "Kompatybilny z",
       "pt": "Compatível com",
@@ -85,7 +101,7 @@
       "hr": "Smanjeno Vrijeme Oporavka Raspršenja",
       "it": "Tempo di recupero della dispersione ridotto",
       "ja": "拡散回復時間短縮",
-      "kr": "분산도 회복 시간 감소",
+      "ko-KR": "분산도 회복 시간 감소",
       "no": "Redusert spredningstilhentingstid",
       "pl": "Zredukowany czas regeneracji rozrzutu",
       "pt": "Tempo de recuperação da dispersão reduzido",
@@ -108,7 +124,7 @@
       "hr": "Smanjeno Vrijeme Oporavka od Trzaja",
       "it": "Tempo di recupero del rinculo ridotto",
       "ja": "反動回復時間短縮",
-      "kr": "반동 회복 시간 감소",
+      "ko-KR": "반동 회복 시간 감소",
       "no": "Redusert rekyltilhentingstid",
       "pl": "Zredukowany czas regeneracji odrzutu",
       "pt": "Tempo de recuperação do recuo reduzido",
@@ -135,5 +151,25 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/stable_stock_ii.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "creds": 100
+      },
+      "limit": 2,
+      "refreshSeconds": 86400,
+      "trader": "Shani"
+    },
+    {
+      "cost": {
+        "coins": 6000
+      },
+      "limit": 2,
+      "refreshSeconds": 86400,
+      "requiredLevel": 7,
+      "trader": "Tian Wen"
+    }
+  ]
 }

@@ -10,14 +10,14 @@
     "hr": "Stabilno Kundak II Nacrt",
     "it": "Progetto Calcio stabile II",
     "ja": "ステイブル・ストック II 設計図",
-    "kr": "안정형 개머리판 II 설계도",
+    "ko-KR": "안정형 개머리판 II 설계도",
     "no": "Stabil kolbe II-tegning",
     "pl": "Projekt Stabilna kolba II",
     "pt": "Projeto de Coronha estavel II",
     "pt-BR": "Esquema de Coronha Estável II",
     "ru": "Чертеж — Надежный приклад II",
     "sr": "Stabilno Kundak II Nacrt",
-    "tr": "Dengeli Dipcik II Plani",
+    "tr": "Dengeli Dipçik II Taslağı",
     "uk": "Креслення Стабільний приклад II",
     "zh-CN": "稳定枪托 II 蓝图",
     "zh-TW": "穩定槍托 II 藍圖"
@@ -32,7 +32,7 @@
     "hr": "Umjereno poboljsava rasprसenje i vrijeme oporavka od trzaja.",
     "it": "Migliora moderatamente la dispersione e il tempo di recupero del rinculo.",
     "ja": "拡散と反動回復時間を適度に改善。",
-    "kr": "분산도와 반동 회복 시간을 적당히 개선합니다.",
+    "ko-KR": "분산도와 반동 회복 시간을 적당히 개선합니다.",
     "no": "Forbedrer moderat spredning og rekyltilhentingstid.",
     "pl": "Umiarkowanie poprawia rozrzut i czas regeneracji odrzutu.",
     "pt": "Melhora moderadamente a dispersao e o tempo de recuperacao do recuo.",
@@ -45,9 +45,11 @@
     "zh-TW": "適度改善散布與後座力恢復時間。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/stable_stock_ii.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "12/07/2025",
+  "addedIn": "base"
 }

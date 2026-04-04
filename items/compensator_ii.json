@@ -10,14 +10,14 @@
     "hr": "Kompenzator II",
     "it": "Compensatore II",
     "ja": "コンペンセイター II",
-    "kr": "보정기 II",
+    "ko-KR": "보정기 II",
     "no": "Kompensator II",
     "pl": "Kompensator II",
     "pt": "Compensador II",
     "pt-BR": "Compensador II",
     "ru": "Компенсатор II",
     "sr": "Kompenzator II",
-    "tr": "Kompansatör II",
+    "tr": "Namlu Ağzı Baskısı II",
     "uk": "Компенсатор II",
     "zh-CN": "补偿器 II",
     "zh-TW": "補償器 II"
@@ -32,7 +32,7 @@
     "hr": "Umjereno smanjuje raspršenje po pucnju. Kompatibilno s: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "it": "Riduce moderatamente la dispersione per colpo. Compatibile con: Arpeggio, Rattler, Stormo, Renegade, Incudine",
     "ja": "射撃ごとの拡散を適度に軽減します。対応武器：アルペジオ、フェロ、レネゲード、アンビル、ステッチャー",
-    "kr": "발사당 분산도를 적당히 감소시킵니다. 호환 무기: 아르페지오, 페로, 레니게이드, 앤빌, 스티처",
+    "ko-KR": "발사당 분산도를 적당히 감소시킵니다. 호환 무기: 아르페지오, 페로, 레니게이드, 앤빌, 스티처",
     "no": "Reduserer moderat spredning per skudd. Kompatibel med: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "pl": "Umiarkowanie zmniejsza rozrzut na strzał. Kompatybilny z: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "pt": "Reduz moderadamente a dispersão por disparo. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -48,7 +48,23 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
-  "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Burletta", "Stitcher"],
+  "stackSize": 1,
+  "compatibleWith": [
+    "Anvil",
+    "Arpeggio",
+    "Bettina",
+    "Bobcat",
+    "Burletta",
+    "Ferro",
+    "Kettle",
+    "Osprey",
+    "Rattler",
+    "Renegade",
+    "Stitcher",
+    "Tempest",
+    "Torrente"
+  ],
+  "blueprintLocked": true,
   "effects": {
     "Reduced Max Shot Dispersion": {
       "value": "20%",
@@ -61,7 +77,7 @@
       "hr": "Smanjeno Maksimalno Raspršenje Pucnja",
       "it": "Dispersione massima del colpo ridotta",
       "ja": "最大射撃拡散減少",
-      "kr": "최대 발사 분산도 감소",
+      "ko-KR": "최대 발사 분산도 감소",
       "no": "Redusert maksimal skuddspredning",
       "pl": "Zmniejszony maksymalny rozrzut strzału",
       "pt": "Dispersão máxima de disparo reduzida",
@@ -84,7 +100,7 @@
       "hr": "Smanjeno Raspršenje po Pucnju",
       "it": "Dispersione per colpo ridotta",
       "ja": "射撃ごとの拡散減少",
-      "kr": "발사당 분산도 감소",
+      "ko-KR": "발사당 분산도 감소",
       "no": "Redusert spredning per skudd",
       "pl": "Zmniejszony rozrzut na strzał",
       "pt": "Dispersão por disparo reduzida",
@@ -98,6 +114,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "mechanical_components": 2,
     "wires": 4
@@ -110,5 +127,16 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/compensator_ii.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "creds": 100
+      },
+      "limit": 2,
+      "refreshSeconds": 86400,
+      "trader": "Shani"
+    }
+  ]
 }

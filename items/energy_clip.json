@@ -10,14 +10,14 @@
     "hr": "Energetska kopča",
     "it": "Clip energetica",
     "ja": "エネルギークリップ",
-    "kr": "에너지 탄창",
+    "ko-KR": "에너지 탄창",
     "no": "Energiklips",
     "pl": "Klip energetyczny",
     "pt": "Clipe de energia",
     "pt-BR": "Clipe de Energia",
     "ru": "Энергетический зажим",
     "sr": "Енергетска копча",
-    "tr": "Enerji Klipsi",
+    "tr": "Enerji Şarjörü",
     "uk": "Енергетичний затискач",
     "zh-CN": "能量夹",
     "zh-TW": "能量夾"
@@ -32,7 +32,7 @@
     "hr": "Kompatibilno s: Equalizer, Jupiter",
     "it": "Compatibile con: Equalizer, Jupiter",
     "ja": "対応武器: Equalizer、Jupiter",
-    "kr": "호환 무기: 이퀄라이저, 주피터",
+    "ko-KR": "호환 무기: 이퀄라이저, 주피터",
     "no": "Kompatibel med: Equalizer, Jupiter",
     "pl": "Kompatybilna z: Equalizer, Jupiter",
     "pt": "Compatível com: Equalizer, Jupiter",
@@ -46,16 +46,27 @@
   },
   "type": "Ammunition",
   "rarity": "Rare",
-  "value": 1000,
+  "value": 200,
   "weightKg": 0.3,
   "stackSize": 5,
   "craftQuantity": 5,
   "compatibleWith": ["Equalizer", "Jupiter"],
   "craftBench": "workbench",
+  "stationLevelRequired": 1,
   "recipe": {
     "advanced_arc_powercell": 1,
     "battery": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/energy_clip.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 3000
+      },
+      "requiredLevel": 12,
+      "trader": "Tian Wen"
+    }
+  ]
 }

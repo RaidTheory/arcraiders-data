@@ -10,14 +10,14 @@
     "hr": "Sintetizirano Gorivo",
     "it": "Carburante sintetico",
     "ja": "合成燃料",
-    "kr": "합성 연료",
+    "ko-KR": "합성 연료",
     "no": "Syntetisert drivstoff",
     "pl": "Syntetyczne paliwo",
     "pt": "Combustível sintetizado",
     "pt-BR": "Combustível Sintetizado",
     "ru": "Синтезированное топливо",
     "sr": "Sintetizovano Gorivo",
-    "tr": "Sentezlenmiş Yakıt",
+    "tr": "Sentetik Yakıt",
     "uk": "Синтезоване паливо",
     "zh-CN": "合成燃料",
     "zh-TW": "合成燃料"
@@ -32,7 +32,7 @@
     "hr": "Kanister sintetičke mješavine goriva.",
     "it": "Si usa per creare oggetti funzionali ed esplosivi. Si può riciclare in sostanze chimiche.",
     "ja": "合成燃料ブレンドの容器。",
-    "kr": "합성 연료 혼합물 용기.",
+    "ko-KR": "합성 연료 혼합물 용기.",
     "no": "En beholder med syntetisk drivstoffblanding.",
     "pl": "Kanister syntetycznej mieszanki paliwowej.",
     "pt": "Um recipiente de mistura de combustível sintético.",
@@ -51,12 +51,24 @@
   "weightKg": 0.5,
   "stackSize": 5,
   "recyclesInto": {
-    "oil": 1,
-    "plastic_parts": 1
+    "chemicals": 1,
+    "oil": 1
   },
   "salvagesInto": {
     "oil": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 14
+      },
+      "limit": 5,
+      "refreshSeconds": 86400,
+      "requiredLevel": 12,
+      "trader": "Celeste"
+    }
+  ]
 }

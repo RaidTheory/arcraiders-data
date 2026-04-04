@@ -10,14 +10,14 @@
     "hr": "Pop Okidač",
     "it": "Grilletto pop",
     "ja": "ポップトリガー",
-    "kr": "팝 트리거",
+    "ko-KR": "팝 트리거",
     "no": "Pop-utløser",
     "pl": "Spust pop",
     "pt": "Gatilho de Estalinho",
     "pt-BR": "Gatilho de Estalinho",
     "ru": "Поп-триггер",
     "sr": "Pop Okidač",
-    "tr": "Pop Tetik",
+    "tr": "Ani Tetik",
     "uk": "Поп-тригер",
     "zh-CN": "弹出扳机",
     "zh-TW": "彈出扳機"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da costruzione.",
     "ja": "クラフト素材にリサイクルできる。",
-    "kr": "제작 재료로 재활용할 수 있다.",
+    "ko-KR": "제작 재료로 재활용할 수 있다.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -58,5 +58,6 @@
     "crude_explosives": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/pop_trigger.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

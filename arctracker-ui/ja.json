@@ -50,7 +50,10 @@
       "description": "ARC Raidersのゲームアカウントを連携して、スタッシュ、ワークショップ、クエスト、プロジェクトを自動的に同期しましょう。手動での管理はもう不要です。",
       "title": "ARC Raidersアカウントを同期",
       "newBadge": "新着"
-    }
+    },
+    "discordCommunityTitle": "ArcTracker Discordに参加",
+    "discordCommunityDescription": "ご意見やバグ報告はありませんか？ぜひお聞かせください！数千人のARC Raidersプレイヤーが集まるDiscordに参加して、アイデアを共有し、ArcTrackerの未来を一緒に作り上げましょう。",
+    "joinDiscordCommunity": "Discordに参加"
   },
   "Navigation": {
     "home": "ホーム",
@@ -71,7 +74,9 @@
     "privacy": "プライバシーポリシー",
     "terms": "利用規約",
     "squads": "スクワッド",
-    "stash": "スタッシュ"
+    "stash": "スタッシュ",
+    "seasons": "シーズン",
+    "traders": "トレーダー"
   },
   "MapEvents": {
     "startsIn": "開始まで",
@@ -93,20 +98,21 @@
     "activeEventTooltip": "開催中: {eventType}",
     "nextEventTooltip": "次回: {eventType}",
     "events": {
-      "nightRaid": "ナイトレイド",
+      "nightRaid": "夜襲",
       "electromagneticStorm": "電磁嵐",
       "coldSnap": "寒波",
-      "lockedGate": "封鎖ゲート",
-      "matriarch": "メイトリアーク",
+      "lockedGate": "鍵のかかった門",
+      "matriarch": "マトリアーク",
       "harvester": "ハーベスター",
-      "lushBlooms": "ラッシュブルーム",
-      "prospectingProbes": "探査プローブ",
-      "huskGraveyard": "ハスクの墓場",
-      "uncoveredCaches": "露出したキャッシュ",
-      "launchTowerLoot": "発射塔のルート",
-      "hiddenBunker": "隠しバンカー",
+      "lushBlooms": "収穫の季節",
+      "prospectingProbes": "調査中のプローブ",
+      "huskGraveyard": "残骸の墓場",
+      "uncoveredCaches": "さらされた隠匿物",
+      "launchTowerLoot": "発射塔の戦利品",
+      "hiddenBunker": "隠された貯蔵庫",
       "none": "なし",
-      "birdCity": "バード・シティ"
+      "birdCity": "鳥の街",
+      "hurricane": "台風"
     }
   },
   "Common": {
@@ -189,11 +195,6 @@
     "requirementsUnknown": "要件はまだ判明していません",
     "noRequirements": "要件なし",
     "coins": "コイン",
-    "combatItems": "戦闘アイテム",
-    "survivalItems": "サバイバルアイテム",
-    "provisions": "物資",
-    "materials": "資材",
-    "value": "価値",
     "phases": "フェーズ",
     "required": "必要数",
     "submitItemsValue": "このフェーズを完了するには、必要な価値分のアイテムを提出してください。",
@@ -201,7 +202,8 @@
     "season2": "シーズン2",
     "stashModeActive": "同期済みスタッシュの数量",
     "lastSynced": "同期済み",
-    "syncStash": "スタッシュを同期"
+    "syncStash": "スタッシュを同期",
+    "season3": "シーズン3"
   },
   "HideoutPage": {
     "level": "レベル",
@@ -375,7 +377,19 @@
     "revokeKeyTitle": "APIキーを無効化しますか？",
     "revokeKeyDescription": "このキーを完全に無効化します。これを使用しているアプリはアクセスできなくなります。",
     "revokeKey": "キーを無効化",
-    "buildAnApp": "アプリを開発してみませんか？"
+    "buildAnApp": "アプリを開発してみませんか？",
+    "sectionPrivacy": "プライバシー",
+    "adPersonalizationTitle": "パーソナライズド広告",
+    "adPersonalizationDescription": "より関連性の高い広告を表示するために、広告プロバイダーと匿名の識別子を共有することを許可します。個人情報が送信されることはありません。",
+    "adPersonalizationToggleLabel": "パーソナライズド広告を有効にする",
+    "displayName": "表示名",
+    "displayNameEdit": "編集",
+    "displayNameSave": "保存",
+    "displayNameCancel": "キャンセル",
+    "displayNameSaved": "表示名を更新しました。",
+    "displayNameError": "表示名の更新に失敗しました。もう一度お試しください。",
+    "displayNameTooLong": "表示名は32文字以内で入力してください。",
+    "displayNameRequired": "表示名は空にできません。"
   },
   "NeededItemsPage": {
     "searchPlaceholder": "アイテムを検索...",
@@ -435,47 +449,47 @@
     "Ammunition": "弾薬",
     "Assault Rifle": "アサルトライフル",
     "Augment": "オーグメント",
-    "Backpack Attachment": "バックパックアタッチメント",
-    "Backpack Charm": "バックパックチャーム",
-    "Basic Material": "基本資材",
+    "Backpack Attachment": "リュック・アタッチメント",
+    "Backpack Charm": "リュックチャーム",
+    "Basic Material": "基本素材",
     "Battle Rifle": "バトルライフル",
     "Blueprint": "設計図",
     "Cosmetic": "コスメティック",
     "Hand Cannon": "ハンドキャノン",
-    "Key": "鍵",
+    "Key": "キー",
     "Key Material": "鍵素材",
     "LMG": "LMG",
     "Material": "資材",
     "Misc": "その他",
-    "Modification": "改造パーツ",
-    "Nature": "自然物",
-    "Outfit": "衣装",
+    "Modification": "改造",
+    "Nature": "自然",
+    "Outfit": "服",
     "Pistol": "ピストル",
     "Quick Use": "クイック使用",
-    "Recyclable": "リサイクル品",
-    "Refined Material": "精製資材",
+    "Recyclable": "リサイクル可能",
+    "Refined Material": "精製素材",
     "Shield": "シールド",
     "Shotgun": "ショットガン",
     "SMG": "SMG",
     "Sniper Rifle": "スナイパーライフル",
-    "Special": "特殊",
-    "Topside Material": "地上資材",
-    "Trinket": "トリンケット",
+    "Special": "スペシャル",
+    "Topside Material": "上層素材",
+    "Trinket": "ガラクタ",
     "Valuable": "貴重品",
     "Weapon": "武器"
   },
   "Locations": {
     "Raider": "レイダー",
-    "Security": "セキュリティ",
-    "Residential": "居住区",
-    "Commercial": "商業エリア",
+    "Security": "セキュリティー",
+    "Residential": "住宅",
+    "Commercial": "商業",
     "ARC": "ARC",
     "Medical": "医療",
     "Mechanical": "機械",
-    "Exodus": "エクソダス",
-    "Industrial": "工業エリア",
+    "Exodus": "脱出",
+    "Industrial": "工業",
     "Electrical": "電気",
-    "Technological": "技術",
+    "Technological": "テクノロジー",
     "Nature": "自然",
     "Old World": "旧世界"
   },
@@ -569,7 +583,15 @@
       "tooltipThisWeek": "今週",
       "tooltipWeeksAgo": "{count}週間前"
     },
-    "attachments": "アタッチメント"
+    "attachments": "アタッチメント",
+    "upgradePath": "アップグレードパス",
+    "currentTier": "現在",
+    "soldByTraders": "販売トレーダー",
+    "vendorCost": "価格",
+    "vendorLimit": "購入制限: {count}",
+    "vendorRefreshDaily": "毎日入荷",
+    "vendorRefreshHourly": "1時間ごとに入荷",
+    "vendorRefreshHours": "{hours}時間ごとに入荷"
   },
   "ItemsListPage": {
     "searchPlaceholder": "アイテムを検索...",
@@ -643,7 +665,11 @@
     "squadsTitle": "スクワッド - ARC Raiders",
     "squadsDescription": "ARC Raidersでスクワッドを作成・管理し、フレンドとレイド履歴や進捗を共有しましょう。",
     "stashTitle": "スタッシュトラッカー - ARC Raiders",
-    "stashDescription": "ARC Raidersのスタッシュ、ロードアウト、通貨を自動的に同期・管理します。ゲームアカウントを連携して、リアルタイム更新をご利用ください。"
+    "stashDescription": "ARC Raidersのスタッシュ、ロードアウト、通貨を自動的に同期・管理します。ゲームアカウントを連携して、リアルタイム更新をご利用ください。",
+    "projectNotFoundTitle": "プロジェクトが見つかりません - ARC Raiders",
+    "projectNotFoundDescription": "リクエストされたプロジェクトは見つかりませんでした。",
+    "tradersTitle": "トレーダー - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "ARC Raidersの全トレーダーを閲覧できます。各トレーダーのショップ在庫や関連クエストを確認しましょう。"
   },
   "OverlayPage": {
     "pageTitle": "オーバーレイ・コンパニオンアプリ",
@@ -767,14 +793,14 @@
   },
   "Footer": {
     "copyright": "ゲームコンテンツおよび素材はEmbark Studiosおよびそのライセンサーの商標および著作権です。All rights reserved.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "利用規約",
     "privacyPolicy": "プライバシーポリシー"
   },
   "MapNames": {
-    "damBattleground": "ダム・バトルグラウンド",
-    "theSpaceport": "スペースポート",
-    "buriedCity": "埋もれた都市",
+    "damBattleground": "ダム戦場",
+    "theSpaceport": "宇宙港",
+    "buriedCity": "埋もれた街",
     "theBlueGate": "ブルーゲート",
     "stellaMontis": "ステラ・モンティス"
   },
@@ -895,14 +921,21 @@
     "premiumActivatedDesc": "ARCTrackerをご支援いただきありがとうございます！プレミアムサブスクリプションが有効になりました。",
     "premiumBenefitsTitle": "プレミアム特典",
     "manageSubscriptionTitle": "サブスクリプションの管理",
-    "manageSubscriptionDesc": "設定ページまたはTebex支払いポータルで、サブスクリプションの詳細確認や請求管理が可能です。",
+    "manageSubscriptionDesc": "設定ページまたは決済ポータルから、サブスクリプションの詳細を確認したり、請求を管理したりできます。",
     "goToSettings": "設定へ移動",
     "tebexPaymentPortal": "Tebex支払いポータル",
     "backToHome": "ホームに戻る",
     "benefitUnlimitedPins": "無制限のプライベートピン＆ルートラン",
     "benefitUnlimitedPinsDesc": "あらゆるマップで、プライベートマップピンとルートランのルートを無制限に作成できます",
     "benefitAutoSync": "スタッシュの自動同期",
-    "benefitAutoSyncDesc": "ゲーム内のスタッシュ、ロードアウト、進行状況を30分ごとに自動的に同期します"
+    "benefitAutoSyncDesc": "ゲーム内のスタッシュ、ロードアウト、進行状況を30分ごとに自動的に同期します",
+    "managedByPolar": "Polarが管理するサブスクリプション",
+    "polarPaymentPortal": "Polar決済ポータル",
+    "upgradeToYearly": "年払いプランへアップグレード",
+    "upgradeToYearlyDesc": "年払いに切り替えると44%お得になります。月払いプランの残りの期間分はクレジットとして充当されます。",
+    "upgradeSuccess": "年払いプランへのアップグレードが完了しました！",
+    "upgradeError": "アップグレードに失敗しました。もう一度お試しください。",
+    "upgradeSaving": "{percent}% お得"
   },
   "Favorites": {
     "addToList": "リストに追加",
@@ -972,7 +1005,9 @@
     "createYourOwn": "自分のリストを作成",
     "listNotFound": "リストが見つかりません",
     "listNotFoundDescription": "このリストは存在しないか、公開されていません。",
-    "backToHome": "ホームに戻る"
+    "backToHome": "ホームに戻る",
+    "cancel": "キャンセル",
+    "save": "保存"
   },
   "Maps": {
     "showAll": "すべて表示",
@@ -1332,8 +1367,8 @@
     "joinTradingDiscord": "取引Discordに参加"
   },
   "RaidHistoryPage": {
-    "beta": "(ベータ版)",
-    "betaTooltip": "この機能はベータ版であり、時間の経過とともに変更される可能性があります。アイテム識別に問題がある場合はご容赦ください。",
+    "beta": "(ベータ)",
+    "betaTooltip": "この機能はベータ版であり、今後変更される可能性があります。アイテムの識別に問題がある場合はご容赦ください。",
     "tutorialVideo": "チュートリアル動画",
     "searchPlaceholder": "アイテム名でレイドを検索...",
     "filterMap": "マップ",
@@ -1341,7 +1376,7 @@
     "allMaps": "すべてのマップ",
     "allStatuses": "すべてのステータス",
     "filterSeason": "シーズン",
-    "allSeasons": "全シーズン",
+    "allSeasons": "すべてのシーズン",
     "dateFrom": "開始日",
     "dateTo": "終了日",
     "sort": "並べ替え",
@@ -1353,129 +1388,129 @@
     "status": {
       "survived": "生還",
       "kia": "KIA",
-      "trade": "取引"
+      "trade": "トレード"
     },
-    "itemCount": "{unique} アイテム (合計 {total})",
+    "itemCount": "{unique} 種類 ({total} 個)",
     "manualValue": "手動",
     "public": "公開",
-    "hideItems": "アイテムを非表示",
+    "hideItems": "アイテムを隠す",
     "showItems": "アイテムを表示 ({count})",
     "addRaid": "レイドを追加",
     "editRaid": "レイドを編集",
-    "addRaidDescription": "持ち帰ったアイテムと結果を含む新しいレイドを記録します。",
+    "addRaidDescription": "回収アイテムと結果を含む新しいレイドを記録します。",
     "editRaidDescription": "このレイドの詳細を更新します。",
     "raidStatus": "レイド結果",
     "raidMap": "マップ",
     "selectMap": "マップを選択",
     "raidDate": "日付",
     "selectDate": "日付を選択",
-    "raidItems": "持ち帰ったアイテム",
+    "raidItems": "回収アイテム",
     "addItem": "アイテムを追加",
     "searchItems": "アイテムを検索...",
     "noItemsFound": "アイテムが見つかりません",
-    "perItem": "/個",
-    "firStatusOn": "レイドで発見 (クリックして切替)",
-    "firStatusOff": "レイド産ではない (クリックして切替)",
+    "perItem": "個あたり",
+    "firStatusOn": "レイド発見品 (クリックで切り替え)",
+    "firStatusOff": "レイド発見品ではない (クリックで切り替え)",
     "totalValue": "合計価値",
     "calculatedValue": "レイド発見品の価値",
     "useManualValue": "上書き",
-    "manualValueLabel": "手動設定価値",
+    "manualValueLabel": "手動設定値",
     "enterManualValue": "価値を入力...",
     "raidNotes": "メモ",
-    "notesPlaceholder": "このレイドに関するメモ（任意）...",
+    "notesPlaceholder": "このレイドに関するメモ (任意)...",
     "createRaid": "レイドを記録",
     "saveError": "レイドの保存に失敗しました",
     "fetchError": "レイドの読み込みに失敗しました",
     "signInRequired": "サインインが必要です",
-    "signInDescription": "レイド履歴を追跡し、統計を表示するにはサインインしてください。",
-    "noRaids": "レイド履歴がありません",
+    "signInDescription": "レイド履歴の追跡と統計を表示するにはサインインしてください。",
+    "noRaids": "レイドはまだありません",
     "noRaidsWithFilters": "現在のフィルターに一致するレイドはありません。",
-    "noRaidsYet": "レイドの追跡を開始するとここに表示されます。",
+    "noRaidsYet": "レイドの追跡を開始して、ここに表示しましょう。",
     "addFirstRaid": "最初のレイドを記録",
-    "showing": "{total} 件中 {from}-{to} を表示中",
-    "pageOf": "ページ {current} / {total}",
+    "showing": "{from}-{to} 件を表示 (全 {total} 件)",
+    "pageOf": "{current} / {total} ページ",
     "shareRaid": "レイドを共有",
-    "shareRaidDescription": "このレイドを公開して他の人と共有します。",
+    "shareRaidDescription": "このレイドを公開して他のユーザーと共有します。",
     "publicRaid": "公開",
     "privateRaid": "非公開",
-    "publicRaidDesc": "リンクを知っている全員がこのレイドを閲覧できます。",
-    "privateRaidDesc": "あなただけがこのレイドを閲覧できます。",
+    "publicRaidDesc": "リンクを知っている人は誰でもこのレイドを閲覧できます。",
+    "privateRaidDesc": "このレイドを表示できるのはあなただけです。",
     "shareLink": "リンクを共有",
     "linkCopied": "リンクをクリップボードにコピーしました！",
     "copyError": "リンクのコピーに失敗しました",
     "shareError": "共有設定の更新に失敗しました",
     "deleteRaidTitle": "レイドを削除しますか？",
-    "deleteRaidDescription": "この操作は取り消せません。レイドとそのすべてのデータは永久に削除されます。",
+    "deleteRaidDescription": "この操作は取り消せません。レイドとそのすべてのデータが完全に削除されます。",
     "deleteError": "レイドの削除に失敗しました",
     "sharedRaid": "共有されたレイド",
     "backToHistory": "レイド履歴に戻る",
     "raidNotFound": "レイドが見つかりません",
     "raidNotFoundDescription": "このレイドは存在しないか、公開されていません。",
-    "extractedItems": "持ち帰ったアイテム",
-    "noItemsRecorded": "このレイドのアイテム記録はありません。",
-    "raidScreenshot": "レイドのスクリーンショット",
+    "extractedItems": "回収アイテム",
+    "noItemsRecorded": "このレイドにはアイテムが記録されていません。",
+    "raidScreenshot": "レイドスクリーンショット",
     "screenshotLabel": "スクリーンショット",
     "optional": "任意",
     "mapEvents": "マップイベント",
-    "majorEvent": "主要イベント",
-    "minorEvent": "小規模イベント",
+    "majorEvent": "メジャーイベント",
+    "minorEvent": "マイナーイベント",
     "noEvent": "なし",
     "extractingItems": "スクリーンショットからアイテムを抽出中...",
     "loadingItems": "アイテムを読み込み中...",
-    "estimatedTime": "推定時間: ~{seconds} 秒",
-    "canSaveAndReturn": "待ちたくない場合は、今保存して後で戻ってくることができます。",
+    "estimatedTime": "推定時間: 約{seconds}秒",
+    "canSaveAndReturn": "今保存して、後で再開することも可能です。",
     "screenshotUploadLabel": "スクリーンショットをアップロード",
     "screenshotUploadHint": "ドラッグ＆ドロップ、貼り付け (Ctrl+V)、またはクリックしてアップロード",
     "screenshotHint": "レイド終了画面をアップロードしてアイテムを自動検出",
-    "screenshotNoCrop": "トリミングせず、全画面のスクリーンショットを使用してください。",
+    "screenshotNoCrop": "フルスクリーンショットである必要があります。トリミングしないでください。",
     "aiPowered": "AI搭載",
-    "itemsEmptyHint": "手動でアイテムを追加するか、上のスクリーンショットをアップロードして自動検出してください",
+    "itemsEmptyHint": "アイテムを手動で追加するか、スクリーンショットをアップロードして自動検出してください",
     "screenshotDropHere": "画像をここにドロップ",
-    "screenshotPreview": "スクリーンショットのプレビュー",
+    "screenshotPreview": "スクリーンショットプレビュー",
     "screenshotProcessing": "処理中...",
     "screenshotInvalidType": "JPEG、PNG、またはWebP画像をアップロードしてください",
     "screenshotTooLarge": "画像が大きすぎます。最大サイズは5MBです",
-    "screenshotReadError": "画像ファイルの読み込みに失敗しました",
+    "screenshotReadError": "画像ファイルの読み取りに失敗しました",
     "visionProcessing": "スキャン中...",
     "visionCompleted": "スキャン完了",
     "visionFailed": "スキャン失敗",
-    "needsReview": "{count} {count, plural, one {個のアイテム} other {個のアイテム}}の確認が必要",
+    "needsReview": "{count} {count, plural, one {個の確認待ち} other {個の確認待ち}}",
     "verify": "確認",
-    "verifyItems": "適用前にアイテムを確認してください",
+    "verifyItems": "適用する前にアイテムを確認してください",
     "verifyFirst": "先にアイテムを確認してください",
     "mergeItemsTitle": "検出されたアイテム",
-    "mergeItemsDescription": "スクリーンショットが解析されました。検出されたアイテムをどのように処理しますか？",
+    "mergeItemsDescription": "スクリーンショットの分析が完了しました。検出されたアイテムをどのように処理しますか？",
     "existingItems": "現在のアイテム",
-    "detectedItems": "スクリーンショットからの検出",
-    "itemsSummary": "{unique} 種類のアイテム (合計 {total})",
-    "mergeItems": "アイテムをマージ",
-    "mergeItemsHint": "数量を合算 ({unique} 種類, 合計 {total})",
-    "replaceItems": "アイテムを置換",
-    "replaceItemsHint": "検出されたアイテムのみ保持 ({unique} 種類, 合計 {total})",
-    "visionDetected": "{count, plural, one {# 個のアイテム} other {# 個のアイテム}}を検出",
-    "visionUnknown": "{count, plural, one {# 個の不明} other {# 個の不明}}",
+    "detectedItems": "スクリーンショットから検出",
+    "itemsSummary": "{unique} 種類のユニークアイテム ({total} 個)",
+    "mergeItems": "アイテムを統合",
+    "mergeItemsHint": "数量を合算 ({unique} 種類、計 {total} 個)",
+    "replaceItems": "アイテムを置き換え",
+    "replaceItemsHint": "検出されたアイテムのみを保持 ({unique} 種類、計 {total} 個)",
+    "visionDetected": "{count, plural, one {# 個のアイテムを検出} other {# 個のアイテムを検出}}",
+    "visionUnknown": "{count, plural, one {# 個が不明} other {# 個が不明}}",
     "verifyItemInstruction": "このアイテムがスクリーンショットと一致しているか確認してください。正しいアイテムを選択するか、別のアイテムを検索してください。",
     "currentDetection": "現在:",
     "quickSelect": "クイック選択:",
     "searchDifferentItem": "別のアイテムを検索...",
-    "confirmCorrect": "正解として確認",
+    "confirmCorrect": "正しいことを確認",
     "applyChange": "変更を適用",
     "cancelChange": "変更をキャンセル",
     "deleteItem": "削除",
     "cancelAction": "キャンセル",
-    "clickToVerify": "確認が必要",
-    "itemsNeedReview": "{count} {count, plural, one {個のアイテムの確認が必要} other {個のアイテムの確認が必要}}です",
+    "clickToVerify": "確認が必要です",
+    "itemsNeedReview": "{count} {count, plural, one {個のアイテムの確認が必要です} other {個のアイテムの確認が必要です}}",
     "stackInfo": "グリッド位置: 行 {row}, 列 {col} • 数量: {quantity}",
     "stats": {
       "incomeLast7Days": "過去7日間",
-      "survivalRate": "生還率",
+      "survivalRate": "生存率",
       "totalRaids": "総レイド数",
       "averageValue": "平均価値",
       "bestRaid": "ベストレイド"
     },
     "profileVisibility": "レイドプロフィールの共有",
-    "profilePublicDesc": "プロフィールリンクを知っている全員があなたの公開レイドを閲覧できます。",
-    "profilePrivateDesc": "あなたのレイド履歴は非公開です。共有を有効にすると公開プロフィールリンクを取得できます。",
+    "profilePublicDesc": "プロフィールリンクを知っている人は誰でもあなたの公開レイドを閲覧できます。",
+    "profilePrivateDesc": "あなたのレイド履歴は非公開です。共有を有効にすると、公開プロフィールリンクを取得できます。",
     "profileLink": "あなたのプロフィールリンク",
     "profileLinkCopied": "リンクをクリップボードにコピーしました！",
     "profileUpdateError": "プロフィールの公開設定の更新に失敗しました",
@@ -1486,7 +1521,7 @@
     "publicRaidsCount": "{count} 件の公開レイド",
     "survived": "生還",
     "kia": "KIA",
-    "survivalRate": "生還率",
+    "survivalRate": "生存率",
     "noPublicRaids": "公開レイドなし",
     "noPublicRaidsDescription": "このユーザーはまだレイドを公開していません。",
     "profileNotFound": "プロフィールが見つかりません",
@@ -1494,29 +1529,29 @@
       "items": "アイテム",
       "columns": "列",
       "notes": "メモ",
-      "firItems": "レイド発見アイテム",
-      "nonFirItems": "非レイド発見アイテム",
+      "firItems": "レイド発見 (FIR) アイテム",
+      "nonFirItems": "非レイド発見 (Non-FIR) アイテム",
       "itemCategories": {
         "equipment": "装備",
         "weapons": "武器",
-        "loot": "持ち帰った戦利品"
+        "loot": "回収した戦利品"
       },
       "actions": {
         "edit": "編集",
         "delete": "削除",
         "share": "共有",
         "viewScreenshot": "スクリーンショットを表示",
-        "applyToProgress": "進行状況に適用",
-        "undoSync": "同期を取り消す"
+        "applyToProgress": "進捗に適用",
+        "undoSync": "同期を取り消し"
       }
     },
     "tutorial": {
       "step1Title": "レイドを追跡",
-      "step1Description": "ここをクリックしてレイドを記録！「Returning to Speranza」画面のスクリーンショットをアップロードすると、AIが自動的に戦利品を抽出します。",
+      "step1Description": "ここをクリックしてレイドを記録しましょう！「スペランツァへの帰還 (Returning to Speranza)」画面のスクリーンショットをアップロードすると、AIが戦利品を自動的に抽出します。",
       "step2Title": "マップを選択",
-      "step2Description": "プレイしたマップを選択し、レイド中にアクティブだったイベントがあれば選択してください。",
+      "step2Description": "プレイしたマップを選択し、レイド中に発生したイベントがあればオプションで選択してください。",
       "step3Title": "スクリーンショットをアップロード",
-      "step3Description": "レイド終了時のスクリーンショットをここにアップロードします。AIが持ち帰ったすべてのアイテムを検出して抽出します。必要に応じてアイテムを手動で追加することもできます。",
+      "step3Description": "レイド終了画面のスクリーンショットをここにアップロードしてください。AIが持ち帰ったすべてのアイテムを検出して抽出します。必要に応じて手動でアイテムを追加することもできます。",
       "gotIt": "OK！",
       "next": "次へ",
       "skipTutorial": "チュートリアルをスキップ",
@@ -1524,27 +1559,148 @@
     },
     "marketing": {
       "heroTitle": "レイド統計を追跡",
-      "heroSubtitle": "すべてのレイドを自動的に追跡し、収益を分析し、カスタムAI搭載のスクリーンショット解析で発見したアイテムをクエストやハイドアウトのアップグレードに同期します。",
-      "feature1Title": "AIスクリーンショット解析",
-      "feature1Desc": "レイド終了時のスクリーンショットをアップロードすると、カスタムAIが持ち帰った全アイテムを即座に検出します。",
-      "feature2Title": "ワンクリック進行同期",
+      "heroSubtitle": "すべてのレイドを自動追跡し、収益を分析。カスタムAIによるスクリーンショット分析で、発見アイテムをクエストやハイドアウトのアップグレードと同期します。",
+      "feature1Title": "AIスクリーンショット分析",
+      "feature1Desc": "レイド終了画面のスクリーンショットをアップロードすると、カスタムAIが回収アイテムを即座に検出します。",
+      "feature2Title": "ワンクリックで進捗同期",
       "feature2Desc": "レイドの戦利品をクエストやハイドアウトの要件に自動的に適用します。手動での追跡はもう不要です。",
       "feature3Title": "詳細な統計",
-      "feature3Desc": "視覚的なダッシュボードで、収益、生還率、レイドのパフォーマンスを長期的に追跡します。",
+      "feature3Desc": "収益、生存率、レイドのパフォーマンスを視覚的なダッシュボードで長期的に追跡できます。",
       "feature4Title": "レイドを共有",
-      "feature4Desc": "公開リンクを生成して、最高の（または最悪の）レイドをコミュニティと共有できます。アカウントをDiscordボットと連携すれば、サーバーにレイドを自動共有できます。",
-      "highlight1": "すべてのマップとシーズンイベントに対応",
-      "highlight2": "アイテムごとの「レイド発見」ステータスを追跡",
-      "highlight3": "間違えた場合は同期の取り消しが可能",
+      "feature4Desc": "公開リンクを生成して、最高の（あるいは最悪の）レイドをコミュニティと共有しましょう。アカウントをDiscordボットとリンクさせれば、サーバー内でレイドを自動共有できます。",
+      "highlight1": "すべてのマップと季節イベントに対応",
+      "highlight2": "アイテムごとの「レイド発見 (FIR)」ステータスを追跡",
+      "highlight3": "間違いがあった場合は同期を取り消し可能",
       "highlight4": "ARCTrackerオーバーレイに対応",
-      "ctaText": "今日からレイドの追跡を始めましょう。無料です！",
+      "ctaText": "今すぐレイドの追跡を始めましょう。無料です！",
       "getStarted": "始める",
-      "featuresTitle": "必要なものすべて",
+      "featuresTitle": "必要なすべてがここに",
       "screenshotDashboardTitle": "実際の動作を見る",
-      "screenshotDashboardDesc": "包括的な統計を表示し、マップ/シーズンでフィルタリングし、レイドパフォーマンスを長期的に分析します。"
+      "screenshotDashboardDesc": "包括的な統計を表示し、マップやシーズンでフィルタリングして、レイドのパフォーマンスを長期的に分析できます。"
     },
     "previous": "前へ",
-    "next": "次へ"
+    "next": "次へ",
+    "embarkSyncTutorial": {
+      "step1Title": "レイドを同期",
+      "step1Description": "「同期」ボタンをクリックすると、いつでもEmbarkから最新のレイドを取得できます。サブスクライブすると、30分ごとの自動同期が利用可能になります。",
+      "step2Title": "今すぐ同期",
+      "step2Description": "すぐに最新データが必要ですか？右上の「同期」ボタンをクリックすると、最新のレイドを今すぐ取得できます。",
+      "step3Title": "戦利品アイテムは未定です",
+      "step3Description": "同期されたレイドには、回収したアイテムは含まれていません。戦利品を追跡するには、任意のレイドで「スクリーンショットを追加」をクリックし、レイド終了画面をアップロードしてください。",
+      "step4Title": "同期済みレイドとレガシー",
+      "step4Description": "「同期されたレイド」にはARC Raidersから取得したすべてのデータが表示されますが、日付はプレイ日時ではなく同期日時となります（ARC Raidersがプレイ日時を提供していないため）。「レガシー」にはスクリーンショットで追跡したレイドが表示されます。レガシーレイドの「リンク」ボタンを使用して、対応する同期されたレイドに接続してください。",
+      "skipTutorial": "チュートリアルをスキップ",
+      "gotIt": "OK！",
+      "next": "次へ"
+    },
+    "loadError": "データの読み込みに失敗しました。再試行してください。",
+    "addScreenshot": "スクリーンショットを追加",
+    "allOutcomes": "すべての結果",
+    "alreadyUpToDate": "すでに最新です",
+    "avgPerExtraction": "脱出あたりの平均",
+    "cancelButton": "キャンセル",
+    "clearButton": "クリア",
+    "deleteRaid": "レイドを削除",
+    "detachScreenshot": "スクリーンショットを切り離す",
+    "editItems": "アイテムを編集",
+    "embarkStats": {
+      "arcEnemiesByTypeTitle": "種類別ARC撃破数",
+      "arcEnemiesDestroyed": "ARC撃破数",
+      "avgProfitPerExtraction": "脱出あたりの平均利益",
+      "avgTimeHeader": "平均時間",
+      "connectButton": "アカウントを接続",
+      "connectDesc": "Embarkアカウントをリンクして、生存率、キル数、ダメージ、回収価値などの統計を解除しましょう。",
+      "connectTitle": "ARC Raidersアカウントを接続",
+      "diedLabel": "死亡",
+      "emptyState": "レイドデータはまだありません。ARC Raidersをプレイして、ここに統計を表示しましょう。",
+      "extractedLabel": "脱出",
+      "lastN": "直近 {count} 回",
+      "mapHeader": "マップ",
+      "netIncomeHeader": "純利益",
+      "netProfitLoss": "純損益",
+      "netValue": "純価値",
+      "perMapPerformance": "マップ別パフォーマンス",
+      "playerKills": "プレイヤーキル数",
+      "raidAxisLabel": "レイド番号",
+      "raidValueHistoryTitle": "レイド価値履歴",
+      "raidsHeader": "レイド",
+      "survivalHeader": "生存",
+      "timeTopside": "地上滞在時間",
+      "totalValueExtracted": "総回収価値",
+      "valueBroughtIn": "持ち込み価値",
+      "valueExtracted": "回収価値",
+      "weaponsByKillsTitle": "キル数別武器",
+      "containersLooted": "漁ったコンテナ",
+      "containersPerRaid": "コンテナ / レイド"
+    },
+    "extractedSuffix": " 回収済み",
+    "extractionRate": "脱出率",
+    "firLabel": "FIR",
+    "linkButton": "リンク",
+    "linkRoundEmpty": "リンクされていないラウンドはありません。",
+    "linkRoundTitle": "ラウンドにリンク",
+    "linkScreenshotEmpty": "リンクされていないスクリーンショットレイドはありません。",
+    "linkScreenshotTitle": "スクリーンショットをこのラウンドにリンク",
+    "linkToRound": "ラウンドにリンク",
+    "linkedStatus": "リンク済み",
+    "linkedToRaid": "レイドにリンク済み",
+    "lootLabel": "戦利品",
+    "matchMatchingValue": "一致する価値",
+    "matchSameMap": "同じマップ",
+    "matchSameOutcome": "同じ結果",
+    "matchSimilarValue": "近似する価値",
+    "noDate": "日付なし",
+    "noScreenshotRaids": "スクリーンショットレイドはまだありません。上のボタンからスクリーンショットを追加してください。",
+    "noSyncedRaids": "ARC Raidersのレイドはまだ同期されていません。レイドをプレイして「同期」をクリックしてください。",
+    "nonFirLabel": "非FIR",
+    "outcomeDied": "死亡",
+    "outcomeExtracted": "脱出",
+    "outcomeUnknown": "不明",
+    "raidDashboardAlt": "レイド履歴ダッシュボード",
+    "relativeTime": {
+      "daysAgo": "{count}日前",
+      "hoursAgo": "{count}時間前",
+      "justNow": "たった今",
+      "minutesAgo": "{count}分前"
+    },
+    "roundStats": "ラウンド統計",
+    "screenshotDetachFailed": "スクリーンショットの切り離しに失敗しました",
+    "screenshotDetached": "スクリーンショットをラウンドから切り離しました",
+    "screenshotInventory": "スクリーンショットインベントリ",
+    "screenshotLinkFailed": "スクリーンショットのリンクに失敗しました",
+    "screenshotLinked": "スクリーンショットをラウンドにリンクしました",
+    "screenshotRaidsInfo": "手動で送信されたスクリーンショットレイドです。同期されたレイドにリンクしてアイテムをインポートしてください。",
+    "statARC": "ARC",
+    "statBroughtIn": "持ち込み:",
+    "statDmg": "ダメ",
+    "statDown": "ダウン",
+    "statDowns": "ダウン",
+    "statExtracted": "回収:",
+    "statKills": "キル",
+    "statNet": "純益:",
+    "statPlayer": "プレイヤー",
+    "statValue": "価値",
+    "statXP": "XP",
+    "syncFailed": "同期に失敗しました",
+    "syncNow": "今すぐ同期",
+    "syncSuccess": "{count, plural, one {# 件の新しいラウンドを同期しました} other {# 件の新しいラウンドを同期しました}}",
+    "syncing": "同期中...",
+    "tabs": {
+      "history": "履歴",
+      "legacy": "レガシー",
+      "stats": "統計",
+      "synced": "同期済み",
+      "syncedRaids": "同期されたレイド"
+    },
+    "toggleMenu": "メニューを切り替え",
+    "totalTime": "合計時間",
+    "tutorialTooltip": "クリックしてチュートリアルを開始",
+    "undoSyncFailed": "同期の取り消しに失敗しました",
+    "undoSyncFailedLocally": "ローカルでの同期取り消しに失敗しました",
+    "unknownMap": "不明なマップ",
+    "valueSuffix": " 相当",
+    "timeInRaid": "レイド時間",
+    "statDamageByTarget": "ターゲット別ダメージ"
   },
   "RaidSync": {
     "title": "進行状況に適用",
@@ -1640,7 +1796,16 @@
       "saving": "保存中...",
       "selectAll": "すべて選択",
       "unselectAll": "すべて選択解除",
-      "noChanges": "保存する変更はありません"
+      "noChanges": "保存する変更はありません",
+      "cancel": "キャンセル"
+    },
+    "inferred": {
+      "completedViaLabel": "完了ソース",
+      "completedViaValue": "ARC Raiders 遠征の進捗",
+      "description": "このシーズンの完了は、ARC Raidersの遠征同期から検出されました。",
+      "detailsLabel": "詳細な統計",
+      "detailsValue": "このシーズンでは利用できません。",
+      "title": "シーズン{number} 完了"
     }
   },
   "season": {
@@ -1702,7 +1867,9 @@
         "quests": "完了したクエスト",
         "hideout": "ハイドアウトモジュール",
         "done": "完了"
-      }
+      },
+      "nonExpeditionProjects": "遠征以外のプロジェクト",
+      "expeditionProjects": "遠征プロジェクト"
     }
   },
   "SquadsPage": {
@@ -1852,7 +2019,17 @@
       "screenshotAlt": "共有されたレイド履歴を表示しているスクワッドページ",
       "screenshotDescription": "レイド履歴の統合表示、プライベートマップピンの共有、そしてスクワッドとの連携が可能。",
       "seeItInAction": "実際の動作を見る"
-    }
+    },
+    "filterMap": "マップ",
+    "filterStatus": "ステータス",
+    "filterSeason": "シーズン",
+    "filterMember": "メンバー",
+    "allMaps": "すべてのマップ",
+    "allStatuses": "すべてのステータス",
+    "allSeasons": "すべてのシーズン",
+    "allMembers": "すべてのメンバー",
+    "clearFilters": "フィルターをクリア",
+    "noRaidsFiltered": "現在のフィルター条件に一致するレイドはありません。"
   },
   "MapSubcategories": {
     "abundantLoot": "豊富な戦利品",
@@ -2070,7 +2247,9 @@
       "suggestItem": "アイテムを提案",
       "mappingLocked": "このアイテムのマッピングはロックされています",
       "sortUnsorted": "未整理",
-      "searchPlaceholder": "アイテムを検索..."
+      "searchPlaceholder": "アイテムを検索...",
+      "sortRarity": "レアリティ順",
+      "sortName": "名前順"
     },
     "currencies": {
       "cred": "クレド",
@@ -2171,7 +2350,8 @@
       "title": "自動同期",
       "toggleError": "自動同期設定の更新に失敗しました",
       "tokenExpiredError": "接続の有効期限が切れました。先に接続を更新してください。",
-      "syncing": "同期中..."
+      "syncing": "同期中...",
+      "subscriberBadge": "プレミアム"
     },
     "workshopUpgrades": {
       "description": "アップグレードに必要な資材が揃っています：",
@@ -2180,7 +2360,10 @@
     "overwolfLinkInBrowser": "アカウントを連携するには、ChromeまたはFirefoxでarctracker.ioにアクセスしてください。",
     "overwolfUpdateLinkInBrowser": "アカウント連携を更新するには、ChromeまたはFirefoxでarctracker.ioにアクセスしてください。",
     "blueprintSync": "設計図同期",
-    "blueprintSyncDescription": "ゲームアカウントから習得済みの設計図を同期します"
+    "blueprintSyncDescription": "ゲームアカウントから習得済みの設計図を同期します",
+    "tokenExpiredExtensionMissing": "接続の有効期限切れ — 拡張機能が必要です",
+    "tokenExpiredExtensionMissingDescription": "セッションの有効期限が切れ、ブラウザ拡張機能がインストールされていません。まず拡張機能をインストールしてから、接続を更新してください。",
+    "embarkErrorAlreadyLinkedDescription": "このゲームアカウントは、すでに別のARCTrackerアカウントにリンクされています。先にそのアカウントとのリンクを解除するか、別のゲームアカウントを使用してください。"
   },
   "HideoutSync": {
     "title": "ハイドアウトの進行状況を同期",
@@ -2241,7 +2424,8 @@
     "retry": "再試行",
     "showUnchanged": "変更なしを表示",
     "syncSuccess": "プロジェクトの同期が完了しました！",
-    "title": "プロジェクト進行状況の同期"
+    "title": "プロジェクト進行状況の同期",
+    "categoryGoalsToUpdate": "更新するカテゴリー"
   },
   "DevelopersPage": {
     "appDescription": "説明",
@@ -2346,7 +2530,7 @@
     "paramFilter": "フィルター: completed（完了）、incomplete（未完了）。",
     "paramLocale": "言語コード（例: en, de, fr）。デフォルトは en。",
     "paramPage": "ページネーションのページ番号（デフォルト: 1）。",
-    "paramPerPage": "1ページあたりのアイテム数、最大100（デフォルト: 50）。",
+    "paramPerPage": "1ページあたりのアイテム数、最大500（デフォルト: 50）。",
     "paramSeason": "シーズンでフィルタリング: 1、2、またはカンマ区切り（例: 1,2）。",
     "paramSeasonFilter": "シーズンでフィルタリング: 1, 2。",
     "paramSort": "ソート順: slot（デフォルト）、name、quantity。",
@@ -2379,5 +2563,279 @@
     "showUnchanged": "変更なしを表示",
     "syncSuccess": "設計図の同期が完了しました！",
     "title": "設計図の同期"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "レイダーツール"
+    },
+    "killTargets": {
+      "player": "プレイヤー",
+      "squadmate": "スクワッドメイト"
+    }
+  },
+  "ItemTooltip": {
+    "onYourLists": "あなたのリスト",
+    "tapToView": "もう一度タップして詳細を表示"
+  },
+  "SeasonsPage": {
+    "title": "シーズン",
+    "currentSeason": "現在 {name} をプレイ中です",
+    "seasonStarted": "{date} 開始",
+    "seasonEnds": "{date} 終了",
+    "departure": {
+      "title": "{season} から旅立つ",
+      "description": "出発の準備はよろしいですか？進行状況のスナップショットを保存し、次のシーズンに向けてリセットします。スキルツリーの割り当ておよび遠征以外のプロジェクトの進行状況は引き継がれます。",
+      "willReset": "リセットされる項目",
+      "bonusInfo": "ボーナススキルポイント",
+      "bonusDescription": "{creditsPerPoint} スタッシュクレジットにつき、ボーナススキルポイントを 1 ポイント獲得（最大 {maxPoints} ポイント）",
+      "startButton": "旅立ちを開始",
+      "notYetAvailable": "旅立ちの期間はまだ始まっていません。シーズンの終了時に再度確認してください。",
+      "alreadyDeparted": "旅立ち完了",
+      "alreadyDepartedDescription": "このシーズンからはすでに旅立ちました。以下の履歴でシーズンの統計を確認できます。",
+      "confirmTitle": "旅立ちの確認",
+      "confirmWarning": "この操作は取り消せません。クエストの進行状況、ハイドアウト、設計図はリセットされます。",
+      "confirmButton": "確認して旅立つ",
+      "bonusEarned": "獲得したボーナス",
+      "successTitle": "旅立ちが完了しました！",
+      "successDescription": "{season} の進行状況が保存されました。次のシーズンでの健闘を祈ります！",
+      "loadingTitle": "出発状況を読み込み中",
+      "opensIn": "出発開始まで {countdown}",
+      "opensAt": "{date}に開始"
+    },
+    "autoResetDetected": "シーズン{season}からの離脱を検知しました！",
+    "autoResetDescription": "Embark同期により、離脱を検知しました。進行状況は自動的に保存されました。以下のシーズン履歴で、スタッシュのクレジットやプレイヤーレベルを更新できます。",
+    "expedition": {
+      "title": "遠征",
+      "description": "連携されたARC Raidersアカウントのシーズン出撃は自動的に行われます。",
+      "currentState": "現在の遠征状況",
+      "completedExpeditions": "完了した遠征",
+      "activeSeason": "開催中のシーズン",
+      "syncButton": "遠征を同期",
+      "syncingButton": "同期中...",
+      "syncError": "遠征ステータスの同期に失敗しました。",
+      "states": {
+        "notStarted": "未開始",
+        "inProgress": "進行中",
+        "completed": "完了",
+        "unknown": "不明",
+        "ready": "準備完了",
+        "committed": "確定済み"
+      }
+    },
+    "questionnaire": {
+      "description": "ARCTrackerは初めてですか？適切なシーズンを設定するために、遠征プロジェクトのフェーズ1に表示されているアイテムを選択してください。",
+      "requiredQuantity": "必要数: {count}",
+      "retakeButton": "シーズン診断をやり直す",
+      "success": "アクティブなシーズンを {season} に設定しました。",
+      "title": "遠征シーズンを見つける"
+    },
+    "metaDescription": "ARCTrackerでARC Raidersの遠征シーズンを追跡し、出撃の管理やシーズン履歴を確認しましょう。"
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "必要なアイテム一覧 (合計)",
+    "backToProjects": "プロジェクトに戻る",
+    "itemRequirements": "必要アイテム",
+    "metaDescription": "ARC Raidersにおける{projectName}の全必要アイテム。このプロジェクトを完了するために必要な全フェーズ、必要アイテム、数量を確認できます。",
+    "metaTitleSuffix": "必要要件 - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "報酬",
+    "projectNotFound": "プロジェクトが見つかりません",
+    "projectNotFoundMessage": "リクエストされたプロジェクトは見つかりませんでした。",
+    "receive": "入手",
+    "totalItemsNeeded": "必要アイテム総数",
+    "totalPhases": "フェーズ",
+    "turnIn": "納品",
+    "uniqueItems": "ユニークアイテム",
+    "valueRequirement": "必要価値"
+  },
+  "Cipher": {
+    "alphaBadge": "実験的",
+    "clearChat": "チャットをクリア",
+    "closeCipher": "閉じる",
+    "emptyStateDescription": "システム・オンライン。スタッシュ、レイドの戦績、ドロップ率、その他フィールドに関することなら何でも聞いてください。回答は常に正確とは限らないため、重要な情報はご自身で確認してください。",
+    "emptyStateTitle": "サイファー",
+    "inputPlaceholder": "サイファーに質問...",
+    "openCipher": "サイファーを開く",
+    "panelTitle": "サイファー",
+    "sendMessage": "送信",
+    "tools": {
+      "checkStashForItem": {
+        "active": "スタッシュをスキャン中...",
+        "done": "スタッシュのスキャン完了"
+      },
+      "createChart": {
+        "active": "ビジュアルを生成中...",
+        "done": "ビジュアルの生成完了"
+      },
+      "fallbackActive": "{toolName}を使用中...",
+      "fallbackDone": "{toolName}を使用しました",
+      "findBestFarmingMaps": {
+        "active": "ファーミングルートを最適化中...",
+        "done": "ファーミングルートの最適化完了"
+      },
+      "getHideoutModules": {
+        "active": "ハイドアウトのモジュールを確認中...",
+        "done": "ハイドアウトのモジュール確認完了"
+      },
+      "getItem": {
+        "active": "アイテムデータを取得中...",
+        "done": "アイテムデータの取得完了"
+      },
+      "getItemDropLocations": {
+        "active": "ドロップ場所を分析中...",
+        "done": "ドロップ場所の分析完了"
+      },
+      "getItemDropStats": {
+        "active": "ドロップ率を分析中...",
+        "done": "ドロップ率の分析完了"
+      },
+      "getPlayerStats": {
+        "active": "プレイヤーデータを取得中...",
+        "done": "プレイヤーデータの取得完了"
+      },
+      "getQuest": {
+        "active": "クエストデータを取得中...",
+        "done": "クエストデータの取得完了"
+      },
+      "getRaidHistory": {
+        "active": "レイドログを取得中...",
+        "done": "レイドログの取得完了"
+      },
+      "getRaidStats": {
+        "active": "レイドデータを解析中...",
+        "done": "レイドデータの解析完了"
+      },
+      "getUserHideoutProgress": {
+        "active": "ハイドアウトの進捗を確認中...",
+        "done": "ハイドアウトの進捗確認完了"
+      },
+      "getUserLoadout": {
+        "active": "ロードアウト構成を取得中...",
+        "done": "ロードアウトの取得完了"
+      },
+      "getUserNeededItems": {
+        "active": "必要アイテムを計算中...",
+        "done": "必要アイテムの計算完了"
+      },
+      "getUserQuestProgress": {
+        "active": "クエストの進捗を確認中...",
+        "done": "クエストの進捗確認完了"
+      },
+      "getUserStash": {
+        "active": "スタッシュ記録にアクセス中...",
+        "done": "スタッシュへのアクセス完了"
+      },
+      "getWeaponDamage": {
+        "active": "武器ダメージを分析中...",
+        "done": "武器ダメージの分析完了"
+      },
+      "getWeaponKills": {
+        "active": "武器データを取得中...",
+        "done": "武器データの取得完了"
+      },
+      "searchItems": {
+        "active": "アイテムデータベースをスキャン中...",
+        "done": "アイテムデータベースのスキャン完了"
+      },
+      "searchQuests": {
+        "active": "クエスト記録をスキャン中...",
+        "done": "クエスト記録のスキャン完了"
+      },
+      "getMapEvents": {
+        "active": "マップイベントを確認中...",
+        "done": "マップイベントを確認しました"
+      },
+      "searchCraftableItems": {
+        "active": "レシピを検索中...",
+        "done": "レシピを検索しました"
+      },
+      "searchSkillNodes": {
+        "active": "スキルツリーを検索中...",
+        "done": "スキルツリーを検索しました"
+      },
+      "getSkillNode": {
+        "active": "スキルの詳細を読み込み中...",
+        "done": "スキルの詳細を読み込みました"
+      },
+      "getProjects": {
+        "active": "プロジェクトを読み込み中...",
+        "done": "プロジェクトを読み込みました"
+      },
+      "getUserLists": {
+        "active": "リストを読み込み中...",
+        "done": "リストを読み込みました"
+      },
+      "getListItems": {
+        "active": "リストのアイテムを読み込み中...",
+        "done": "リストのアイテムを読み込みました"
+      },
+      "addItemToList": {
+        "active": "リストに追加中...",
+        "denied": "キャンセルされました",
+        "done": "リストに追加しました"
+      },
+      "removeItemFromList": {
+        "active": "リストから削除中...",
+        "denied": "キャンセルされました",
+        "done": "リストから削除しました"
+      },
+      "createList": {
+        "active": "リストを作成中...",
+        "denied": "キャンセルされました",
+        "done": "リストを作成しました"
+      },
+      "deleteList": {
+        "active": "リストを削除中...",
+        "denied": "キャンセルされました",
+        "done": "リストを削除しました"
+      },
+      "fallbackDenied": "{toolName}をキャンセルしました",
+      "getItemFarmingContext": {
+        "active": "ファーミング情報を分析中...",
+        "done": "ファーミング情報の分析完了"
+      }
+    },
+    "approval": {
+      "addItemToList": "\"{listName}\"に\"{itemName}\"を追加",
+      "approve": "承認",
+      "createList": "リスト\"{name}\"を作成",
+      "deleteList": "リスト\"{listName}\"を削除",
+      "deleteWarning": "これにより、リストとその中の{count, plural, one {# 個のアイテム} other {# 個のアイテム}}がすべて削除されます。",
+      "deny": "拒否",
+      "removeItemFromList": "\"{listName}\"から\"{itemName}\"を削除"
+    },
+    "feedback": {
+      "helpful": "役に立つ回答",
+      "notHelpful": "役に立たない回答"
+    },
+    "confirmation": {
+      "denied": "操作がキャンセルされました",
+      "error": "エラーが発生しました",
+      "executing": "実行中...",
+      "success": {
+        "addItemToList": "リストに追加しました",
+        "createList": "リストを作成しました",
+        "deleteList": "リストを削除しました",
+        "generic": "完了しました",
+        "removeItemFromList": "リストから削除しました"
+      }
+    },
+    "privateBetaNotice": "プライベートベータ — コントリビューター限定。議論はコントリビューターチャンネルにてお願いします。"
+  },
+  "TradersPage": {
+    "itemsForSale": "販売アイテム",
+    "quests": "クエスト",
+    "title": "トレーダー"
+  },
+  "TraderPage": {
+    "backToTraders": "トレーダー一覧に戻る",
+    "coins": "コイン",
+    "limit": "購入上限",
+    "noQuests": "クエストなし",
+    "noShopItems": "販売アイテムなし",
+    "quests": "クエスト",
+    "refresh": "更新",
+    "shop": "ショップ",
+    "traderNotFound": "トレーダーが見つかりません",
+    "traderNotFoundDesc": "お探しのトレーダーは存在しません。"
   }
 }

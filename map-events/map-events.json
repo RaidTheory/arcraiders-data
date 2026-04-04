@@ -5,6 +5,16 @@
     "example": "To add Night Raid at 5 PM UTC on Dam: schedule.dam-battleground.major['17'] = 'night-raid'"
   },
   "eventTypes": {
+    "hurricane": {
+      "displayName": "Hurricane",
+      "icon": "https://cdn.arctracker.io/map-events/hurricane.png",
+      "translationKey": "hurricane",
+      "category": "major",
+      "localizations": {
+        "en": "Hurricane"
+      },
+      "disabled": false
+    },
     "night-raid": {
       "displayName": "Night Raid",
       "icon": "https://cdn.arctracker.io/map-events/night_raid.png",
@@ -21,7 +31,7 @@
         "no": "Nattraid",
         "da": "Nat-raid",
         "it": "Raid Notturno",
-        "ja": "ナイトレイド",
+        "ja": "夜襲",
         "ko": "야간 레이드",
         "zh-CN": "夜间奇袭",
         "zh-TW": "夜間奇襲",
@@ -31,7 +41,8 @@
         "hr": "Noćni prepad",
         "sr": "Noćna racija",
         "he": "פשיטת לילה"
-      }
+      },
+      "disabled": false
     },
     "electromagnetic-storm": {
       "displayName": "Electromagnetic Storm",
@@ -59,14 +70,15 @@
         "hr": "Elektromagnetska oluja",
         "sr": "Elektromagnetna oluja",
         "he": "סופה אלקטרומגנטית"
-      }
+      },
+      "disabled": false
     },
     "cold-snap": {
       "displayName": "Cold Snap",
       "icon": "https://cdn.arctracker.io/map-events/cold_snap.png",
       "translationKey": "coldSnap",
       "category": "major",
-      "disabled": true,
+      "disabled": false,
       "localizations": {
         "en": "Cold Snap",
         "de": "Kälteeinbruch",
@@ -106,7 +118,7 @@
         "no": "Låst port",
         "da": "Låst Port",
         "it": "Cancello Bloccato",
-        "ja": "封鎖ゲート",
+        "ja": "鍵のかかった門",
         "ko": "잠긴 문",
         "zh-CN": "上锁的大门",
         "zh-TW": "上鎖的大門",
@@ -116,7 +128,8 @@
         "hr": "Zaključana vrata",
         "sr": "Zaključana kapija",
         "he": "שער נעול"
-      }
+      },
+      "disabled": true
     },
     "hidden-bunker": {
       "displayName": "Hidden Bunker",
@@ -135,7 +148,7 @@
         "no": "Skjult bunker",
         "da": "Skjult Bunker",
         "it": "Bunker Nascosto",
-        "ja": "隠しバンカー",
+        "ja": "隠された貯蔵庫",
         "ko": "숨겨진 벙커",
         "zh-CN": "隐藏地堡",
         "zh-TW": "隱藏地堡",
@@ -163,7 +176,7 @@
         "no": "Matriark",
         "da": "Matriarch",
         "it": "Matriarca",
-        "ja": "メイトリアーク",
+        "ja": "マトリアーク",
         "ko": "매트리어크",
         "zh-CN": "族母",
         "zh-TW": "族母",
@@ -173,7 +186,8 @@
         "hr": "Matrijarh",
         "sr": "Matrijarh",
         "he": "Matriarch"
-      }
+      },
+      "disabled": false
     },
     "harvester": {
       "displayName": "Harvester",
@@ -191,7 +205,7 @@
         "no": "Innhøster",
         "da": "Harvester",
         "it": "Raccoglitore",
-        "ja": "ハーベスター",
+        "ja": "収穫機",
         "ko": "하베스터",
         "zh-CN": "收割者",
         "zh-TW": "收割者",
@@ -201,14 +215,15 @@
         "hr": "Žetelac",
         "sr": "Žetelac",
         "he": "Harvester"
-      }
+      },
+      "disabled": false
     },
     "lush-blooms": {
       "displayName": "Lush Blooms",
       "icon": "https://cdn.arctracker.io/map-events/lush_blooms.png",
       "translationKey": "lushBlooms",
       "category": "minor",
-      "disabled": false,
+      "disabled": true,
       "localizations": {
         "en": "Lush Blooms",
         "de": "Üppige Blüten",
@@ -220,7 +235,7 @@
         "no": "Frodige blomster",
         "da": "Frodige Blomster",
         "it": "Fioritura Lussureggiante",
-        "ja": "ラッシュブルーム",
+        "ja": "収穫の季節",
         "ko": "무성한 개화",
         "zh-CN": "繁茂花丛",
         "zh-TW": "繁茂花叢",
@@ -237,7 +252,7 @@
       "icon": "https://cdn.arctracker.io/map-events/prospecting_probes.png",
       "translationKey": "prospectingProbes",
       "category": "minor",
-      "disabled": false,
+      "disabled": true,
       "localizations": {
         "en": "Prospecting Probes",
         "de": "Schürfsonden",
@@ -249,7 +264,7 @@
         "no": "Prospekteringsprober",
         "da": "Prospekteringssonder",
         "it": "Sonde di Prospezione",
-        "ja": "探査プローブ",
+        "ja": "探査機",
         "ko": "탐사 프로브",
         "zh-CN": "四处窥探的探测器",
         "zh-TW": "四處窺探的探測器",
@@ -266,7 +281,7 @@
       "icon": "https://cdn.arctracker.io/map-events/husk_graveyard.png",
       "translationKey": "huskGraveyard",
       "category": "minor",
-      "disabled": true,
+      "disabled": false,
       "localizations": {
         "en": "Husk Graveyard",
         "de": "Husk-Friedhof",
@@ -278,7 +293,7 @@
         "no": "Husk-kirkegård",
         "da": "Husk Kirkegård",
         "it": "Cimitero di Carcasse",
-        "ja": "ハスクの墓場",
+        "ja": "残骸の墓場",
         "ko": "허스크 무덤",
         "zh-CN": "机壳墓地",
         "zh-TW": "機殼墓地",
@@ -295,6 +310,7 @@
       "icon": "https://cdn.arctracker.io/map-events/uncovered_caches.png",
       "translationKey": "uncoveredCaches",
       "category": "minor",
+      "disabled": true,
       "localizations": {
         "en": "Uncovered Caches",
         "de": "Freigelegte Verstecke",
@@ -306,7 +322,7 @@
         "no": "Avdekkede lagre",
         "da": "Afslørede Depoter",
         "it": "Scorte Scoperte",
-        "ja": "露出したキャッシュ",
+        "ja": "さらされた宝箱",
         "ko": "발견된 캐시",
         "zh-CN": "暴露的奇袭者箱",
         "zh-TW": "暴露的奇襲者箱",
@@ -334,7 +350,7 @@
         "no": "Bytte fra oppskytningstårn",
         "da": "Affyringstårn Loot",
         "it": "Bottino Torre di Lancio",
-        "ja": "発射塔のルート",
+        "ja": "発射塔の戦利品",
         "ko": "발사대 전리품",
         "zh-CN": "发射塔上的战利品",
         "zh-TW": "發射塔上的戰利品",
@@ -344,7 +360,8 @@
         "hr": "Plijen lansirnog tornja",
         "sr": "Plien lansirnog tornja",
         "he": "שלל מגדל השיגור"
-      }
+      },
+      "disabled": false
     },
     "bird-city": {
       "displayName": "Bird City",
@@ -362,7 +379,7 @@
         "no": "Fuglebyen",
         "da": "Fugleby",
         "it": "Città degli Uccelli",
-        "ja": "バード・シティ",
+        "ja": "鳥の街",
         "ko": "버드 시티",
         "zh-CN": "鸟城",
         "zh-TW": "鳥城",
@@ -372,7 +389,8 @@
         "hr": "Grad ptica",
         "sr": "Grad ptica",
         "he": "עיר הציפורים"
-      }
+      },
+      "disabled": false
     },
     "none": {
       "displayName": "None",
@@ -423,107 +441,108 @@
   "schedule": {
     "dam-battleground": {
       "major": {
-        "2": "cold-snap",
+        "2": "electromagnetic-storm",
         "6": "electromagnetic-storm",
-        "10": "night-raid",
-        "14": "cold-snap",
-        "18": "night-raid",
+        "10": "electromagnetic-storm",
+        "14": "electromagnetic-storm",
+        "18": "electromagnetic-storm",
         "22": "electromagnetic-storm"
       },
       "minor": {
-        "1": "harvester",
-        "3": "prospecting-probes",
-        "4": "matriarch",
-        "7": "harvester",
-        "9": "husk-graveyard",
-        "10": "matriarch",
-        "13": "harvester",
-        "15": "prospecting-probes",
-        "16": "matriarch",
-        "19": "harvester",
-        "21": "husk-graveyard",
-        "22": "matriarch"
+        "3": "harvester",
+        "6": "husk-graveyard",
+        "9": "harvester",
+        "12": "husk-graveyard",
+        "15": "harvester",
+        "18": "husk-graveyard",
+        "23": "matriarch"
       }
     },
     "buried-city": {
       "major": {
+        "2": "hurricane",
         "3": "cold-snap",
+        "6": "hurricane",
         "7": "night-raid",
+        "10": "hurricane",
         "11": "cold-snap",
+        "14": "hurricane",
         "15": "night-raid",
+        "18": "hurricane",
         "19": "cold-snap",
+        "22": "hurricane",
         "23": "night-raid"
       },
       "minor": {
-        "0": "bird-city",
-        "2": "bird-city",
-        "4": "husk-graveyard",
-        "6": "bird-city",
-        "8": "bird-city",
-        "10": "bird-city",
-        "12": "prospecting-probes",
-        "14": "bird-city",
-        "16": "bird-city",
-        "18": "bird-city",
-        "20": "husk-graveyard",
-        "22": "bird-city"
+        "3": "bird-city",
+        "6": "husk-graveyard",
+        "9": "bird-city",
+        "12": "husk-graveyard",
+        "15": "bird-city",
+        "18": "husk-graveyard",
+        "23": "husk-graveyard"
       }
     },
     "the-spaceport": {
       "major": {
-        "0": "night-raid",
+        "0": "electromagnetic-storm",
+        "1": "hurricane",
         "4": "hidden-bunker",
-        "5": "cold-snap",
+        "5": "hurricane",
         "8": "electromagnetic-storm",
-        "12": "hidden-bunker",
-        "13": "cold-snap",
-        "16": "night-raid",
+        "9": "hurricane",
+        "12": "cold-snap",
+        "13": "hurricane",
+        "16": "electromagnetic-storm",
+        "17": "hurricane",
         "20": "hidden-bunker",
-        "21": "cold-snap"
+        "21": "hurricane"
       },
       "minor": {
-        "0": "harvester",
-        "1": "launch-tower-loot",
-        "3": "matriarch",
-        "6": "harvester",
-        "9": "matriarch",
-        "12": "harvester",
-        "13": "launch-tower-loot",
-        "15": "matriarch",
-        "18": "harvester",
-        "21": "matriarch"
+        "2": "husk-graveyard",
+        "5": "matriarch",
+        "8": "harvester",
+        "11": "launch-tower-loot",
+        "14": "matriarch",
+        "17": "harvester",
+        "20": "matriarch",
+        "22": "harvester"
       }
     },
     "blue-gate": {
       "major": {
-        "1": "night-raid",
-        "5": "locked-gate",
-        "9": "electromagnetic-storm",
-        "13": "locked-gate",
-        "17": "night-raid",
-        "21": "locked-gate"
+        "1": "electromagnetic-storm",
+        "3": "hurricane",
+        "5": "electromagnetic-storm",
+        "7": "hurricane",
+        "9": "cold-snap",
+        "11": "hurricane",
+        "13": "electromagnetic-storm",
+        "15": "hurricane",
+        "17": "electromagnetic-storm",
+        "19": "hurricane",
+        "21": "cold-snap",
+        "23": "hurricane"
       },
       "minor": {
-        "2": "matriarch",
-        "5": "harvester",
-        "7": "husk-graveyard",
-        "8": "matriarch",
-        "11": "harvester",
-        "14": "matriarch",
-        "17": "harvester",
-        "19": "prospecting-probes",
-        "20": "matriarch",
-        "23": "harvester"
+        "0": "matriarch",
+        "4": "husk-graveyard",
+        "7": "harvester",
+        "10": "matriarch",
+        "13": "harvester",
+        "16": "husk-graveyard",
+        "19": "matriarch",
+        "21": "husk-graveyard"
       }
     },
     "stella-montis": {
       "major": {
-        "2": "night-raid",
-        "6": "night-raid",
-        "10": "night-raid",
-        "14": "night-raid",
-        "18": "night-raid",
-        "22": "night-raid"
+        "4": "night-raid",
+        "8": "night-raid",
+        "12": "night-raid",
+        "16": "night-raid",
+        "20": "night-raid",
+        "23": "night-raid"
       },
       "minor": {}
     }

@@ -10,16 +10,16 @@
     "hr": "Takticki Mk. 3 (Obrambeni) Nacrt",
     "it": "Progetto Tattico Mk. 3 (Difensivo)",
     "ja": "戦術MK3（防御）設計図",
-    "kr": "전술 마크 3 (방어) 설계도",
+    "ko-KR": "전술 마크 3 (방어) 설계도",
     "no": "Taktisk Mk. 3 (Defensiv) Tegning",
     "pl": "Projekt Taktyczny Mk. 3 (Obronny)",
     "pt": "Projeto Tatico Mk. 3 (Defensivo)",
     "pt-BR": "Projeto Tático Mk. 3 (Defensivo)",
     "ru": "Чертеж — Тактический Mk. 3 (Оборонительный)",
     "sr": "Takticki Mk. 3 (Odbrambeni) Nacrt",
-    "tr": "Taktik Mk. 3 (Savunma) Plani",
+    "tr": "Taktiksel Mod. 3 (Savunma) Taslağı",
     "uk": "Креслення Тактичний Mk. 3 (Оборонний)",
-    "zh-CN": "战术型 Mk. 3（防御）蓝图",
+    "zh-CN": "战术型 Mk. 3（防御型）蓝图",
     "zh-TW": "戰術型 Mk. 3（防禦）藍圖"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Obrambeno usmjerena nadogradnja koja pomaze odrzavati stitove punima.",
     "it": "Un potenziamento incentrato sulla difesa per mantenere gli scudi al massimo.",
     "ja": "防御に特化した強化装備で、シールドを常に最大に保つ。",
-    "kr": "방어에 초점을 맞춘 증강 장비로, 방어막을 항상 유지합니다.",
+    "ko-KR": "방어에 초점을 맞춘 증강 장비로, 방어막을 항상 유지합니다.",
     "no": "En forsvarsrettet forsterkning som hjelper til med a holde skjoldene fulle.",
     "pl": "Ulepszenie skoncentrowane na obronie, pomagajace utrzymac tarcze w pelnej kondycji.",
     "pt": "Um aumento focado em defesa para manter os escudos sempre carregados.",
@@ -45,9 +45,11 @@
     "zh-TW": "專注於防禦的強化裝備，可保持護盾處於滿值狀態。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_defensive.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "12/07/2025",
+  "addedIn": "base"
 }

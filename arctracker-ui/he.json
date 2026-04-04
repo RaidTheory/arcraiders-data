@@ -50,7 +50,10 @@
       "description": "קשר את חשבון ARC Raiders שלך כדי לסנכרן אוטומטית את המחסן, הסדנאות, המשימות והפרויקטים שלך. אין צורך יותר במעקב ידני.",
       "title": "סנכרן את חשבון ARC Raiders שלך",
       "newBadge": "חדש"
-    }
+    },
+    "discordCommunityTitle": "הצטרפו לדיסקורד של ArcTracker",
+    "discordCommunityDescription": "יש לכם הצעה? מצאתם באג? אנחנו רוצים לשמוע מכם! הצטרפו לאלפי שחקני ARC Raiders בדיסקורד שלנו כדי לשתף רעיונות, לתת משוב ולעזור לעצב את העתיד של ArcTracker.",
+    "joinDiscordCommunity": "הצטרפו לדיסקורד"
   },
   "Navigation": {
     "home": "בית",
@@ -71,7 +74,9 @@
     "apps": "אפליקציות",
     "discordBot": "בוט Discord",
     "squads": "צוותים",
-    "stash": "מצבור"
+    "stash": "מצבור",
+    "seasons": "עונות",
+    "traders": "סוחרים"
   },
   "MapEvents": {
     "startsIn": "מתחיל בעוד",
@@ -106,7 +111,8 @@
       "launchTowerLoot": "שלל מגדל השיגור",
       "hiddenBunker": "בונקר נסתר",
       "none": "ללא",
-      "birdCity": "עיר הציפורים"
+      "birdCity": "עיר הציפורים",
+      "hurricane": "הוריקן"
     }
   },
   "Common": {
@@ -182,11 +188,6 @@
     "requirementsUnknown": "הדרישות עדיין לא ידועות",
     "noRequirements": "אין דרישות",
     "coins": "מטבעות",
-    "combatItems": "פריטי לחימה",
-    "survivalItems": "פריטי הישרדות",
-    "provisions": "אספקה",
-    "materials": "חומרים",
-    "value": "ערך",
     "phases": "שלבים",
     "required": "נדרש",
     "submitItemsValue": "הגש פריטים בשווי הנדרש כדי להשלים שלב זה.",
@@ -194,7 +195,8 @@
     "season2": "עונה 2",
     "stashModeActive": "כמויות ממחסן מסונכרן",
     "lastSynced": "סונכרן",
-    "syncStash": "סנכרן מחסן"
+    "syncStash": "סנכרן מחסן",
+    "season3": "עונה 3"
   },
   "HideoutPage": {
     "level": "רמה",
@@ -368,7 +370,19 @@
     "revokeKeyTitle": "לבטל מפתח API?",
     "revokeKeyDescription": "פעולה זו תבטל את המפתח לצמיתות. כל האפליקציות שמשתמשות בו יאבדו את הגישה.",
     "revokeKey": "בטל מפתח",
-    "buildAnApp": "רוצה לבנות אפליקציה?"
+    "buildAnApp": "רוצה לבנות אפליקציה?",
+    "sectionPrivacy": "פרטיות",
+    "adPersonalizationTitle": "מודעות מותאמות אישית",
+    "adPersonalizationDescription": "אפשר שיתוף של מזהה אנונימי עם ספק המודעות שלנו כדי להציג מודעות רלוונטיות יותר. מידע אישי אינו נשלח לעולם.",
+    "adPersonalizationToggleLabel": "הפעל מודעות מותאמות אישית",
+    "displayName": "שם תצוגה",
+    "displayNameEdit": "עריכה",
+    "displayNameSave": "שמירה",
+    "displayNameCancel": "ביטול",
+    "displayNameSaved": "שם התצוגה עודכן.",
+    "displayNameError": "עדכון שם התצוגה נכשל. נא לנסות שוב.",
+    "displayNameTooLong": "שם התצוגה חייב להכיל עד 32 תווים.",
+    "displayNameRequired": "שם התצוגה לא יכול להיות ריק."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "חפש פריטים...",
@@ -562,7 +576,15 @@
       "tooltipThisWeek": "השבוע",
       "tooltipWeeksAgo": "לפני {count} שבועות"
     },
-    "attachments": "אביזרים"
+    "attachments": "אביזרים",
+    "upgradePath": "מסלול שדרוג",
+    "currentTier": "נוכחי",
+    "soldByTraders": "נמכר על ידי סוחרים",
+    "vendorCost": "עלות",
+    "vendorLimit": "הגבלה: {count}",
+    "vendorRefreshDaily": "מתחדש מדי יום",
+    "vendorRefreshHourly": "מתחדש מדי שעה",
+    "vendorRefreshHours": "מתחדש כל {hours} שעות"
   },
   "ItemsListPage": {
     "searchPlaceholder": "חפש פריטים...",
@@ -636,7 +658,11 @@
     "squadsTitle": "חוליות - ARC Raiders",
     "squadsDescription": "צרו ונהלו חוליות כדי לשתף היסטוריית פשיטות והתקדמות עם חברים ב-ARC Raiders.",
     "stashTitle": "מעקב מחסן - ARC Raiders",
-    "stashDescription": "סנכרון ומעקב אוטומטי אחר מלאי המחסן, הציוד והמטבעות שלך ב-ARC Raiders. חבר את חשבון המשחק שלך לקבלת עדכונים בזמן אמת."
+    "stashDescription": "סנכרון ומעקב אוטומטי אחר מלאי המחסן, הציוד והמטבעות שלך ב-ARC Raiders. חבר את חשבון המשחק שלך לקבלת עדכונים בזמן אמת.",
+    "projectNotFoundTitle": "הפרויקט לא נמצא - ARC Raiders",
+    "projectNotFoundDescription": "הפרויקט המבוקש לא נמצא.",
+    "tradersTitle": "סוחרים - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "עיין בכל הסוחרים ב-ARC Raiders. צפה במלאי החנות ובמשימות המשויכות לכל סוחר."
   },
   "OverlayPage": {
     "pageTitle": "אפליקציית Overlay מלווה",
@@ -688,7 +714,7 @@
   },
   "Footer": {
     "copyright": "תוכן המשחק והחומרים הם סימנים מסחריים וזכויות יוצרים של Embark Studios ומעניקי הרישיונות שלה. כל הזכויות שמורות.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "תנאי שימוש",
     "privacyPolicy": "מדיניות פרטיות"
   },
@@ -803,14 +829,21 @@
     "premiumActivatedDesc": "תודה על תמיכתך ב-ARCTracker! מנוי הפרימיום שלך פעיל כעת.",
     "premiumBenefitsTitle": "הטבות הפרימיום שלך",
     "manageSubscriptionTitle": "ניהול המנוי שלך",
-    "manageSubscriptionDesc": "תוכל לצפות בפרטי המנוי שלך ולנהל את החיוב דרך דף ההגדרות או פורטל התשלומים של Tebex.",
+    "manageSubscriptionDesc": "ניתן לצפות בפרטי המנוי ולנהל את החיובים דרך דף ההגדרות או פורטל התשלומים.",
     "goToSettings": "עבור להגדרות",
     "tebexPaymentPortal": "פורטל תשלומים Tebex",
     "backToHome": "חזרה לדף הבית",
     "benefitUnlimitedPins": "נעיצות פרטיות ומסלולי שלל ללא הגבלה",
     "benefitUnlimitedPinsDesc": "צרו נעיצות פרטיות ומסלולי שלל ללא הגבלה בכל מפה",
     "benefitAutoSync": "סנכרון מחסן אוטומטי",
-    "benefitAutoSyncDesc": "מסנכרן אוטומטית את המחסן, הציוד וההתקדמות שלך מהמשחק כל 30 דקות"
+    "benefitAutoSyncDesc": "מסנכרן אוטומטית את המחסן, הציוד וההתקדמות שלך מהמשחק כל 30 דקות",
+    "managedByPolar": "המינוי מנוהל על ידי Polar",
+    "polarPaymentPortal": "פורטל התשלומים של Polar",
+    "upgradeToYearly": "שדרוג למנוי שנתי",
+    "upgradeToYearlyDesc": "עבור לחיוב שנתי וחסוך 44%. תקבל זיכוי עבור יתרת הזמן במנוי החודשי שלך.",
+    "upgradeSuccess": "השדרוג למנוי שנתי בוצע בהצלחה!",
+    "upgradeError": "השדרוג נכשל. אנא נסה שוב.",
+    "upgradeSaving": "חסוך {percent}%"
   },
   "Favorites": {
     "addToList": "הוסף לרשימה",
@@ -880,7 +913,9 @@
     "createYourOwn": "צור רשימה משלך",
     "listNotFound": "רשימה לא נמצאה",
     "listNotFoundDescription": "רשימה זו אינה קיימת או שאינה משותפת באופן ציבורי.",
-    "backToHome": "חזרה לדף הבית"
+    "backToHome": "חזרה לדף הבית",
+    "cancel": "ביטול",
+    "save": "שמור"
   },
   "Maps": {
     "showAll": "הצג הכל",
@@ -1185,14 +1220,14 @@
     "dateFrom": "מ-",
     "dateTo": "עד",
     "sort": "מיון",
-    "sortDateDesc": "החדש ביותר",
-    "sortDateAsc": "הישן ביותר",
-    "sortValueDesc": "הערך הגבוה ביותר",
-    "sortValueAsc": "הערך הנמוך ביותר",
+    "sortDateDesc": "החדש ביותר תחילה",
+    "sortDateAsc": "הישן ביותר תחילה",
+    "sortValueDesc": "השווי הגבוה ביותר",
+    "sortValueAsc": "השווי הנמוך ביותר",
     "filters": "מסננים",
     "status": {
       "survived": "שרד",
-      "kia": "נפל בקרב",
+      "kia": "נהרג",
       "trade": "סחר"
     },
     "itemCount": "{unique} פריטים ({total} סה\"כ)",
@@ -1202,9 +1237,9 @@
     "showItems": "הצג פריטים ({count})",
     "addRaid": "הוסף פשיטה",
     "editRaid": "ערוך פשיטה",
-    "addRaidDescription": "תעד פשיטה חדשה עם פריטים שחולצו ותוצאה.",
-    "editRaidDescription": "עדכן את פרטי הפשיטה הזו.",
-    "raidStatus": "תוצאת פשיטה",
+    "addRaidDescription": "תעד פשיטה חדשה עם הפריטים שחולצו והתוצאה.",
+    "editRaidDescription": "עדכן את פרטי הפשיטה.",
+    "raidStatus": "תוצאת הפשיטה",
     "raidMap": "מפה",
     "selectMap": "בחר מפה",
     "raidDate": "תאריך",
@@ -1214,65 +1249,65 @@
     "searchItems": "חפש פריטים...",
     "noItemsFound": "לא נמצאו פריטים",
     "perItem": "לפריט",
-    "firStatusOn": "נמצא בפשיטה (לחץ לשינוי)",
-    "firStatusOff": "לא נמצא בפשיטה (לחץ לשינוי)",
-    "totalValue": "ערך כולל",
+    "firStatusOn": "נמצא בפשיטה (לחץ להחלפה)",
+    "firStatusOff": "לא נמצא בפשיטה (לחץ להחלפה)",
+    "totalValue": "שווי כולל",
     "calculatedValue": "שווי שנמצא בפשיטה",
-    "useManualValue": "עקוף",
-    "manualValueLabel": "ערך ידני",
+    "useManualValue": "דריסה ידנית",
+    "manualValueLabel": "שווי ידני",
     "enterManualValue": "הזן ערך...",
     "raidNotes": "הערות",
     "notesPlaceholder": "הערות אופציונליות על פשיטה זו...",
-    "createRaid": "רשום פשיטה",
+    "createRaid": "תעד פשיטה",
     "saveError": "שמירת הפשיטה נכשלה",
     "fetchError": "טעינת הפשיטות נכשלה",
-    "signInRequired": "נדרשת כניסה",
-    "signInDescription": "היכנס כדי לעקוב אחר היסטוריית הפשיטות שלך ולצפות בסטטיסטיקות.",
+    "signInRequired": "נדרשת התחברות",
+    "signInDescription": "התחבר כדי לעקוב אחר היסטוריית הפשיטות שלך ולצפות בסטטיסטיקות.",
     "noRaids": "אין פשיטות עדיין",
-    "noRaidsWithFilters": "אין פשיטות התואמות את הסינון הנוכחי.",
-    "noRaidsYet": "התחל לעקוב אחר הפשיטות שלך כדי לראות אותן כאן.",
-    "addFirstRaid": "רשום את הפשיטה הראשונה שלך",
+    "noRaidsWithFilters": "אין פשיטות התואמות למסננים הנוכחיים.",
+    "noRaidsYet": "התחל לתעד את הפשיטות שלך כדי לראות אותן כאן.",
+    "addFirstRaid": "תעד את הפשיטה הראשונה שלך",
     "showing": "מציג {from}-{to} מתוך {total}",
-    "pageOf": "דף {current} מתוך {total}",
+    "pageOf": "עמוד {current} מתוך {total}",
     "shareRaid": "שתף פשיטה",
-    "shareRaidDescription": "הפוך פשיטה זו לציבורית כדי לשתף עם אחרים.",
+    "shareRaidDescription": "הפוך פשיטה זו לציבורית כדי לשתף אותה עם אחרים.",
     "publicRaid": "ציבורי",
     "privateRaid": "פרטי",
-    "publicRaidDesc": "כל מי שיש לו את הקישור יכול לצפות בפשיטה זו.",
+    "publicRaidDesc": "כל מי שמחזיק בקישור יכול לצפות בפשיטה זו.",
     "privateRaidDesc": "רק אתה יכול לצפות בפשיטה זו.",
     "shareLink": "שתף קישור",
     "linkCopied": "הקישור הועתק ללוח!",
     "copyError": "העתקת הקישור נכשלה",
     "shareError": "עדכון הגדרות השיתוף נכשל",
     "deleteRaidTitle": "למחוק פשיטה?",
-    "deleteRaidDescription": "לא ניתן לבטל פעולה זו. הפשיטה וכל הנתונים שלה יימחקו לצמיתות.",
+    "deleteRaidDescription": "פעולה זו אינה הפיכה. הפשיטה וכל הנתונים שלה יימחקו לצמיתות.",
     "deleteError": "מחיקת הפשיטה נכשלה",
     "sharedRaid": "פשיטה משותפת",
-    "backToHistory": "חזרה להיסטוריית פשיטות",
-    "raidNotFound": "פשיטה לא נמצאה",
+    "backToHistory": "חזרה להיסטוריית הפשיטות",
+    "raidNotFound": "הפשיטה לא נמצאה",
     "raidNotFoundDescription": "פשיטה זו אינה קיימת או שאינה ציבורית יותר.",
     "extractedItems": "פריטים שחולצו",
-    "noItemsRecorded": "לא נרשמו פריטים לפשיטה זו.",
-    "raidScreenshot": "צילום מסך של פשיטה",
+    "noItemsRecorded": "לא תועדו פריטים עבור פשיטה זו.",
+    "raidScreenshot": "צילום מסך של הפשיטה",
     "screenshotLabel": "צילום מסך",
     "optional": "אופציונלי",
     "mapEvents": "אירועי מפה",
-    "majorEvent": "אירוע מרכזי",
+    "majorEvent": "אירוע ראשי",
     "minorEvent": "אירוע משני",
     "noEvent": "ללא",
     "extractingItems": "מחלץ פריטים מצילום המסך...",
     "estimatedTime": "זמן משוער: ~{seconds} שניות",
-    "canSaveAndReturn": "אתה יכול לשמור כעת ולחזור מאוחר יותר אם אינך רוצה להמתין.",
+    "canSaveAndReturn": "ניתן לשמור כעת ולחזור מאוחר יותר אם אינך רוצה להמתין.",
     "screenshotUploadLabel": "העלה צילום מסך",
     "screenshotUploadHint": "גרור ושחרר, הדבק (Ctrl+V), או לחץ להעלאה",
     "screenshotHint": "העלה את מסך סיום הפשיטה לזיהוי אוטומטי של פריטים",
-    "aiPowered": "מופעל ע\"י AI",
+    "aiPowered": "מבוסס AI",
     "itemsEmptyHint": "הוסף פריטים ידנית או העלה צילום מסך למעלה לזיהוי אוטומטי",
-    "screenshotDropHere": "שחרר תמונה כאן",
-    "screenshotPreview": "תצוגה מקדימה של צילום מסך",
+    "screenshotDropHere": "גרור תמונה לכאן",
+    "screenshotPreview": "תצוגה מקדימה של צילום המסך",
     "screenshotProcessing": "מעבד...",
     "screenshotInvalidType": "אנא העלה תמונה מסוג JPEG, PNG, או WebP",
-    "screenshotTooLarge": "התמונה גדולה מדי. הגודל המקסימלי הוא 5MB",
+    "screenshotTooLarge": "התמונה גדולה מדי. הגודל המרבי הוא 5MB",
     "screenshotReadError": "קריאת קובץ התמונה נכשלה",
     "visionProcessing": "סורק...",
     "visionCompleted": "נסרק",
@@ -1281,16 +1316,16 @@
     "verify": "אמת",
     "verifyItems": "אמת פריטים לפני החלה",
     "verifyFirst": "אמת פריטים תחילה",
-    "mergeItemsTitle": "זוהו פריטים",
+    "mergeItemsTitle": "פריטים שזוהו",
     "mergeItemsDescription": "צילום המסך שלך נותח. כיצד תרצה לטפל בפריטים שזוהו?",
     "existingItems": "הפריטים הנוכחיים שלך",
-    "detectedItems": "זוהו מצילום המסך",
+    "detectedItems": "זוהה מתוך צילום מסך",
     "itemsSummary": "{unique} פריטים ייחודיים ({total} סה\"כ)",
-    "mergeItems": "מזג פריטים",
+    "mergeItems": "מיזוג פריטים",
     "mergeItemsHint": "שלב כמויות ({unique} ייחודיים, {total} סה\"כ)",
     "replaceItems": "החלף פריטים",
-    "replaceItemsHint": "שמור רק פריטים שזוהו ({unique} ייחודיים, {total} סה\"כ)",
-    "visionDetected": "זוהה {count, plural, one {# פריט} other {# פריטים}}",
+    "replaceItemsHint": "שמור רק את הפריטים שזוהו ({unique} ייחודיים, {total} סה\"כ)",
+    "visionDetected": "{count, plural, one {זוהה פריט #} other {זוהו # פריטים}}",
     "visionUnknown": "{count, plural, one {# לא ידוע} other {# לא ידועים}}",
     "verifyItemInstruction": "אנא ודא שפריט זה תואם לצילום המסך. בחר את הפריט הנכון או חפש פריט אחר.",
     "currentDetection": "נוכחי:",
@@ -1307,13 +1342,13 @@
       "incomeLast7Days": "7 ימים אחרונים",
       "survivalRate": "שיעור הישרדות",
       "totalRaids": "סה\"כ פשיטות",
-      "averageValue": "ערך ממוצע",
+      "averageValue": "שווי ממוצע",
       "bestRaid": "הפשיטה הטובה ביותר"
     },
     "profileVisibility": "שתף את פרופיל הפשיטות שלך",
-    "profilePublicDesc": "כל מי שיש לו את קישור הפרופיל שלך יכול לצפות בפשיטות הציבוריות שלך.",
+    "profilePublicDesc": "כל מי שמחזיק בקישור לפרופיל שלך יכול לצפות בפשיטות הציבוריות שלך.",
     "profilePrivateDesc": "היסטוריית הפשיטות שלך פרטית. אפשר שיתוף כדי לקבל קישור פרופיל ציבורי.",
-    "profileLink": "קישור הפרופיל שלך",
+    "profileLink": "קישור לפרופיל שלך",
     "profileLinkCopied": "הקישור הועתק ללוח!",
     "profileUpdateError": "עדכון נראות הפרופיל נכשל",
     "profileCopyError": "העתקת הקישור נכשלה",
@@ -1322,29 +1357,29 @@
     "publicProfile": "פרופיל ציבורי",
     "publicRaidsCount": "{count} פשיטות ציבוריות",
     "survived": "שרד",
-    "kia": "נפל בקרב",
+    "kia": "נהרג",
     "survivalRate": "שיעור הישרדות",
     "noPublicRaids": "אין פשיטות ציבוריות",
     "noPublicRaidsDescription": "משתמש זה טרם שיתף פשיטות באופן ציבורי.",
-    "profileNotFound": "פרופיל לא נמצא",
+    "profileNotFound": "הפרופיל לא נמצא",
     "tutorial": {
       "step1Title": "עקוב אחר הפשיטות שלך",
-      "step1Description": "לחץ כאן כדי לרשום פשיטה! העלה צילום מסך ממסך \"Returning to Speranza\" וה-AI שלנו יחלץ אוטומטית את פריטי השלל שלך.",
+      "step1Description": "לחץ כאן כדי לתעד פשיטה! העלה צילום מסך ממסך \"החזרה לספרנזה\" וה-AI שלנו יחלץ אוטומטית את פריטי השלל שלך.",
       "step2Title": "בחר את המפה שלך",
-      "step2Description": "בחר באיזו מפה שיחקת, ואופציונלית בחר אירועים פעילים כלשהם במהלך הפשיטה.",
+      "step2Description": "בחר באיזו מפה שיחקת, ואופציונלית בחר אירועים פעילים כלשהם במהלך הפשיטה שלך.",
       "step3Title": "העלה צילום מסך",
-      "step3Description": "העלה את צילום המסך של סוף הפשיטה כאן. ה-AI שלנו יזהה ויחלץ את כל הפריטים שהבאת בחזרה. תוכל גם להוסיף פריטים ידנית אם צריך.",
+      "step3Description": "העלה את צילום מסך סיום הפשיטה שלך כאן. ה-AI שלנו יזהה ויחלץ את כל הפריטים שהבאת איתך. ניתן גם להוסיף פריטים ידנית במידת הצורך.",
       "gotIt": "הבנתי!",
       "next": "הבא",
-      "skipTutorial": "דלג על מדריך",
+      "skipTutorial": "דלג על המדריך",
       "showTutorial": "הצג מדריך"
     },
     "beta": "(בטא)",
-    "betaTooltip": "תכונה זו נמצאת בגרסת בטא ועשויה להשתנות עם הזמן. אנו מבקשים את סבלנותכם במידה ויהיו בעיות בזיהוי פריטים.",
+    "betaTooltip": "תכונה זו נמצאת בבטא ועשויה להשתנות עם הזמן. אנא היו סבלניים אם יתגלו בעיות בזיהוי פריטים.",
     "tutorialVideo": "סרטון הדרכה",
     "screenshotNoCrop": "חייב להיות צילום מסך מלא. אין לחתוך.",
     "loadingItems": "טוען פריטים...",
-    "stackInfo": "מיקום ברשת: שורה {row}, עמודה {col} • כמות: {quantity}",
+    "stackInfo": "מיקום רשת: שורה {row}, עמודה {col} • כמות: {quantity}",
     "table": {
       "items": "פריטים",
       "columns": "עמודות",
@@ -1367,27 +1402,148 @@
     },
     "marketing": {
       "heroTitle": "עקוב אחר סטטיסטיקות הפשיטה שלך",
-      "heroSubtitle": "עקוב אוטומטית אחר כל פשיטה, נתח את הרווחים שלך, וסנכרן את הפריטים שמצאת למשימות ושדרוגי המסתור עם ניתוח צילומי המסך המבוסס AI שלנו.",
-      "feature1Title": "ניתוח צילומי מסך מבוסס AI",
-      "feature1Desc": "העלה את צילום המסך של סוף הפשיטה שלך וה-AI המותאם שלנו יזהה מיד את כל הפריטים שחולצו.",
+      "heroSubtitle": "עקוב אוטומטית אחר כל פשיטה, נתח את הרווחים שלך, וסנכרן את הפריטים שמצאת למשימות ושדרוגי המסתור עם ניתוח צילומי המסך המותאם שלנו מבוסס AI.",
+      "feature1Title": "ניתוח צילום מסך ב-AI",
+      "feature1Desc": "העלה את צילום מסך סיום הפשיטה שלך וה-AI המותאם שלנו יזהה מיד את כל הפריטים שחולצו.",
       "feature2Title": "סנכרון התקדמות בקליק אחד",
-      "feature2Desc": "החל אוטומטית את שלל הפשיטה על דרישות המשימות והמסתור שלך. אין צורך במעקב ידני יותר.",
+      "feature2Desc": "החל אוטומטית שלל פשיטה על דרישות המשימות והמסתור שלך. אין צורך במעקב ידני נוסף.",
       "feature3Title": "סטטיסטיקות מפורטות",
-      "feature3Desc": "עקוב אחר ההכנסות, שיעור ההישרדות וביצועי הפשיטה שלך לאורך זמן בעזרת לוחות בקרה חזותיים.",
+      "feature3Desc": "עקוב אחר ההכנסות, שיעור ההישרדות וביצועי הפשיטות שלך לאורך זמן עם לוחות מחוונים ויזואליים.",
       "feature4Title": "שתף את הפשיטות שלך",
-      "feature4Desc": "צור קישורים ציבוריים לשיתוף הפשיטות הטובות (או הגרועות) ביותר שלך עם הקהילה. קשר את חשבונך עם בוט ה-Discord שלנו כדי לשתף את הפשיטות שלך אוטומטית בשרת שלך.",
+      "feature4Desc": "צור קישורים ציבוריים לשיתוף הפשיטות הטובות (או הגרועות) ביותר שלך עם הקהילה. קשר את חשבונך לבוט ה-Discord שלנו לשיתוף אוטומטי של הפשיטות בשרת שלך.",
       "highlight1": "תומך בכל המפות והאירועים העונתיים",
       "highlight2": "מעקב אחר סטטוס 'נמצא בפשיטה' לכל פריט",
-      "highlight3": "בטל סנכרון אם טעית",
-      "highlight4": "עובד עם ARCTracker Overlay",
-      "ctaText": "התחל לעקוב אחר הפשיטות שלך היום. זה בחינם!",
+      "highlight3": "בטל סנכרון במקרה של טעות",
+      "highlight4": "עובד עם שכבת המידע של ARCTracker",
+      "ctaText": "התחל לעקוב אחר הפשיטות שלך עוד היום. זה בחינם!",
       "getStarted": "התחל עכשיו",
       "featuresTitle": "כל מה שאתה צריך",
       "screenshotDashboardTitle": "ראה זאת בפעולה",
-      "screenshotDashboardDesc": "צפה בסטטיסטיקות מקיפות, סנן לפי מפה/עונה, ונתח את ביצועי הפשיטה שלך לאורך זמן."
+      "screenshotDashboardDesc": "צפה בסטטיסטיקות מקיפות, סנן לפי מפה/עונה, ונתח את ביצועי הפשיטות שלך לאורך זמן."
     },
     "previous": "הקודם",
-    "next": "הבא"
+    "next": "הבא",
+    "embarkSyncTutorial": {
+      "step1Title": "סנכרן את הפשיטות שלך",
+      "step1Description": "לחץ על כפתור הסנכרון כדי למשוך את הפשיטות האחרונות שלך מ-Embark בכל עת. הירשם כמנוי כדי לקבל סנכרון אוטומטי כל 30 דקות.",
+      "step2Title": "סנכרן עכשיו",
+      "step2Description": "רוצה את הנתונים העדכניים ביותר מיד? לחץ על כפתור הסנכרון בפינה הימנית העליונה כדי למשוך את הפשיטות האחרונות שלך עכשיו.",
+      "step3Title": "פריטי שלל אינם כלולים",
+      "step3Description": "פשיטות מסונכרנות אינן כוללות את הפריטים שאספת. כדי לעקוב אחר השלל שלך, לחץ על 'הוסף צילום מסך' בכל פשיטה כדי להעלות את מסך סיום הפשיטה שלך.",
+      "step4Title": "פשיטות מסונכרנות ולגאסי",
+      "step4Description": "פשיטות מסונכרנות מציגות את כל מה שנמשך מ-ARC Raiders — שים לב שהתאריכים הם לפי זמן הסנכרון, לא זמן המשחק, מכיוון ש-ARC Raiders אינו מספק מידע זה. 'לגאסי' מציג פשיטות שתיעדת באמצעות צילום מסך. השתמש בכפתור הקישור בפשיטת לגאסי כדי לחבר אותה לפשיטה המסונכרנת התואמת.",
+      "skipTutorial": "דלג על המדריך",
+      "gotIt": "הבנתי!",
+      "next": "הבא"
+    },
+    "loadError": "טעינת הנתונים נכשלה. אנא נסה שנית.",
+    "addScreenshot": "הוסף צילום מסך",
+    "allOutcomes": "כל התוצאות",
+    "alreadyUpToDate": "כבר מעודכן",
+    "avgPerExtraction": "ממוצע לחילוץ",
+    "cancelButton": "ביטול",
+    "clearButton": "נקה",
+    "deleteRaid": "מחק פשיטה",
+    "detachScreenshot": "נתק צילום מסך",
+    "editItems": "ערוך פריטים",
+    "embarkStats": {
+      "arcEnemiesByTypeTitle": "אויבי ARC שהושמדו לפי סוג",
+      "arcEnemiesDestroyed": "אויבי ARC שהושמדו",
+      "avgProfitPerExtraction": "רווח ממוצע לחילוץ",
+      "avgTimeHeader": "זמן ממוצע",
+      "connectButton": "חבר חשבון",
+      "connectDesc": "קשר את חשבון Embark שלך כדי לפתוח סטטיסטיקות — שיעור הישרדות, הריגות, נזק, שווי שחולץ ועוד.",
+      "connectTitle": "חבר את חשבון ARC Raiders שלך",
+      "diedLabel": "מוות",
+      "emptyState": "אין עדיין נתוני פשיטות. שחק ב-ARC Raiders כדי לראות את הנתונים שלך כאן.",
+      "extractedLabel": "חילוץ",
+      "lastN": "{count} אחרונים",
+      "mapHeader": "מפה",
+      "netIncomeHeader": "הכנסה נטו",
+      "netProfitLoss": "רווח / הפסד נטו",
+      "netValue": "שווי נטו",
+      "perMapPerformance": "ביצועים לפי מפה",
+      "playerKills": "הריגות שחקנים",
+      "raidAxisLabel": "פשיטה מס'",
+      "raidValueHistoryTitle": "היסטוריית שווי פשיטות",
+      "raidsHeader": "פשיטות",
+      "survivalHeader": "הישרדות",
+      "timeTopside": "זמן על פני השטח",
+      "totalValueExtracted": "סך השווי שחולץ",
+      "valueBroughtIn": "שווי שהובא",
+      "valueExtracted": "שווי שחולץ",
+      "weaponsByKillsTitle": "נשקים לפי הריגות",
+      "containersLooted": "מכולות שנבזזו",
+      "containersPerRaid": "מכולות / פשיטה"
+    },
+    "extractedSuffix": " חולצו",
+    "extractionRate": "שיעור חילוץ",
+    "firLabel": "FIR",
+    "linkButton": "קשר",
+    "linkRoundEmpty": "אין סיבובים לא מקושרים זמינים.",
+    "linkRoundTitle": "קשר לסיבוב",
+    "linkScreenshotEmpty": "אין פשיטות צילום מסך לא מקושרות זמינות.",
+    "linkScreenshotTitle": "קשר צילום מסך לסיבוב זה",
+    "linkToRound": "קשר לסיבוב",
+    "linkedStatus": "מקושר",
+    "linkedToRaid": "מקושר לפשיטה",
+    "lootLabel": "שלל",
+    "matchMatchingValue": "ערך תואם",
+    "matchSameMap": "אותה מפה",
+    "matchSameOutcome": "אותה תוצאה",
+    "matchSimilarValue": "ערך דומה",
+    "noDate": "אין תאריך",
+    "noScreenshotRaids": "אין עדיין פשיטות צילום מסך. הוסף צילומי מסך מהכפתור למעלה.",
+    "noSyncedRaids": "אין עדיין פשיטות ARC Raiders מסונכרנות. שחק מספר פשיטות ולחץ על 'סנכרן'.",
+    "nonFirLabel": "Non-FIR",
+    "outcomeDied": "נהרג",
+    "outcomeExtracted": "חולץ",
+    "outcomeUnknown": "לא ידוע",
+    "raidDashboardAlt": "לוח מחוונים להיסטוריית פשיטות",
+    "relativeTime": {
+      "daysAgo": "לפני {count} ימים",
+      "hoursAgo": "לפני {count} שע'",
+      "justNow": "זה עתה",
+      "minutesAgo": "לפני {count} דק'"
+    },
+    "roundStats": "סטטיסטיקות סיבוב",
+    "screenshotDetachFailed": "ניתוק צילום המסך נכשל",
+    "screenshotDetached": "צילום המסך נותק מהסיבוב",
+    "screenshotInventory": "מלאי בצילום מסך",
+    "screenshotLinkFailed": "קישור צילום המסך נכשל",
+    "screenshotLinked": "צילום המסך קושר לסיבוב",
+    "screenshotRaidsInfo": "פשיטות צילום מסך שהוגשו ידנית. קשר אותן לפשיטה מסונכרנת כדי לייבא פריטים.",
+    "statARC": "ARC",
+    "statBroughtIn": "הובא:",
+    "statDmg": "נזק",
+    "statDown": "נוטרל",
+    "statDowns": "נטרולים",
+    "statExtracted": "חולץ:",
+    "statKills": "הריגות",
+    "statNet": "נטו:",
+    "statPlayer": "שחקן",
+    "statValue": "שווי",
+    "statXP": "XP",
+    "syncFailed": "הסנכרון נכשל",
+    "syncNow": "סנכרן עכשיו",
+    "syncSuccess": "סונכרנו {count, plural, one {סיבוב חדש #} other {# סיבובים חדשים}}",
+    "syncing": "מסנכרן...",
+    "tabs": {
+      "history": "היסטוריה",
+      "legacy": "לגאסי",
+      "stats": "סטטיסטיקות",
+      "synced": "מסונכרן",
+      "syncedRaids": "פשיטות מסונכרנות"
+    },
+    "toggleMenu": "פתח/סגור תפריט",
+    "totalTime": "זמן כולל",
+    "tutorialTooltip": "לחץ כדי לעבור את המדריך",
+    "undoSyncFailed": "ביטול הסנכרון נכשל",
+    "undoSyncFailedLocally": "ביטול הסנכרון נכשל מקומית",
+    "unknownMap": "מפה לא ידועה",
+    "valueSuffix": " שווי",
+    "timeInRaid": "זמן בפשיטה",
+    "statDamageByTarget": "נזק לפי מטרה"
   },
   "RaidSync": {
     "title": "החל על התקדמות",
@@ -1499,7 +1655,9 @@
         "hideout": "מודולי סדנאות",
         "done": "סיום"
       },
-      "flickeringFlames": "להבות מרצדות"
+      "flickeringFlames": "להבות מרצדות",
+      "nonExpeditionProjects": "פרויקטים שאינם משלחות",
+      "expeditionProjects": "פרויקטי משלחת"
     }
   },
   "DeviceAuth": {
@@ -1703,7 +1861,16 @@
       "saving": "שומר...",
       "selectAll": "בחר הכל",
       "unselectAll": "בטל בחירה להכל",
-      "noChanges": "אין שינויים לשמירה"
+      "noChanges": "אין שינויים לשמירה",
+      "cancel": "ביטול"
+    },
+    "inferred": {
+      "completedViaLabel": "מקור ההשלמה",
+      "completedViaValue": "התקדמות משלחות ב-ARC Raiders",
+      "description": "השלמת עונה זו זוהתה מסנכרון המשלחות שלך ב-ARC Raiders.",
+      "detailsLabel": "סטטיסטיקה מפורטת",
+      "detailsValue": "לא זמין עבור עונה זו.",
+      "title": "עונה {number} הושלמה"
     }
   },
   "SquadsPage": {
@@ -1853,7 +2020,17 @@
       "screenshotAlt": "עמוד צוות המציג היסטוריית פשיטות משותפת",
       "screenshotDescription": "צפו בהיסטוריית פשיטות משולבת, שתפו נעצי מפה פרטיים, ותאמו מהלכים עם הצוות שלכם.",
       "seeItInAction": "ראו זאת בפעולה"
-    }
+    },
+    "filterMap": "מפה",
+    "filterStatus": "סטטוס",
+    "filterSeason": "עונה",
+    "filterMember": "חבר",
+    "allMaps": "כל המפות",
+    "allStatuses": "כל הסטטוסים",
+    "allSeasons": "כל העונות",
+    "allMembers": "כל החברים",
+    "clearFilters": "נקה מסננים",
+    "noRaidsFiltered": "לא נמצאו פשיטות התואמות למסננים הנוכחיים שלך."
   },
   "MapSubcategories": {
     "abundantLoot": "שלל רב",
@@ -2071,7 +2248,9 @@
       "suggestItem": "הצע פריט",
       "mappingLocked": "מיפוי פריט זה נעול",
       "sortUnsorted": "לא ממוין",
-      "searchPlaceholder": "חיפוש פריטים..."
+      "searchPlaceholder": "חיפוש פריטים...",
+      "sortRarity": "מיון לפי נדירות",
+      "sortName": "מיון לפי שם"
     },
     "currencies": {
       "cred": "קרדיט",
@@ -2172,7 +2351,8 @@
       "title": "סנכרון אוטומטי",
       "toggleError": "עדכון הגדרות סנכרון אוטומטי נכשל",
       "tokenExpiredError": "תוקף החיבור פג. יש לרענן את החיבור תחילה.",
-      "syncing": "מסנכרן..."
+      "syncing": "מסנכרן...",
+      "subscriberBadge": "פרימיום"
     },
     "workshopUpgrades": {
       "description": "יש לך מספיק משאבים לשדרוג:",
@@ -2181,7 +2361,10 @@
     "overwolfLinkInBrowser": "כדי לקשר את החשבון, יש לבקר ב-arctracker.io ב-Chrome או ב-Firefox.",
     "overwolfUpdateLinkInBrowser": "כדי לעדכן את קישור החשבון, יש לבקר ב-arctracker.io ב-Chrome או ב-Firefox.",
     "blueprintSync": "סנכרון שרטוטים",
-    "blueprintSyncDescription": "סנכרן שרטוטים שנלמדו מחשבון המשחק שלך"
+    "blueprintSyncDescription": "סנכרן שרטוטים שנלמדו מחשבון המשחק שלך",
+    "tokenExpiredExtensionMissing": "תוקף החיבור פג — נדרש תוסף",
+    "tokenExpiredExtensionMissingDescription": "תוקף החיבור שלך פג ותוסף הדפדפן אינו מותקן. התקן את התוסף תחילה, ולאחר מכן רענן את החיבור.",
+    "embarkErrorAlreadyLinkedDescription": "חשבון משחק זה כבר מקושר לחשבון ARCTracker אחר. עליך לבטל את הקישור מהחשבון האחר תחילה, או להשתמש בחשבון משחק שונה."
   },
   "HideoutSync": {
     "title": "סנכרן התקדמות מסתור",
@@ -2242,7 +2425,8 @@
     "retry": "נסה שנית",
     "showUnchanged": "הצג ללא שינוי",
     "syncSuccess": "סנכרון הפרויקט הושלם!",
-    "title": "סנכרון התקדמות פרויקט"
+    "title": "סנכרון התקדמות פרויקט",
+    "categoryGoalsToUpdate": "קטגוריות לעדכון"
   },
   "DevelopersPage": {
     "appDescription": "תיאור",
@@ -2347,7 +2531,7 @@
     "paramFilter": "סינון: completed (הושלם), incomplete (לא הושלם).",
     "paramLocale": "קוד שפה (לדוגמה: en, de, fr). ברירת מחדל: en.",
     "paramPage": "מספר עמוד לדפדוף (ברירת מחדל: 1).",
-    "paramPerPage": "פריטים לעמוד, מקסימום 100 (ברירת מחדל: 50).",
+    "paramPerPage": "פריטים לעמוד, מקסימום 500 (ברירת מחדל: 50).",
     "paramSeason": "סינון לפי עונה: 1, 2, או רשימה מופרדת בפסיקים (לדוגמה: 1,2).",
     "paramSeasonFilter": "סינון לפי עונה: 1, 2.",
     "paramSort": "מיון לפי: slot (חריץ - ברירת מחדל), name (שם), quantity (כמות).",
@@ -2380,5 +2564,279 @@
     "showUnchanged": "הצג ללא שינוי",
     "syncSuccess": "סנכרון שרטוטים הושלם!",
     "title": "סנכרון שרטוטים"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "כלי ריידר"
+    },
+    "killTargets": {
+      "player": "שחקן",
+      "squadmate": "חבר צוות"
+    }
+  },
+  "ItemTooltip": {
+    "onYourLists": "ברשימות שלך",
+    "tapToView": "הקש שוב לצפייה בפרטים"
+  },
+  "SeasonsPage": {
+    "title": "עונות",
+    "currentSeason": "כרגע אתה ב-{name}",
+    "seasonStarted": "התחילה ב-{date}",
+    "seasonEnds": "מסתיימת ב-{date}",
+    "departure": {
+      "title": "יציאה מ-{season}",
+      "description": "מוכנים ליציאה? שמרו תמונת מצב של ההתקדמות שלכם ובצעו איפוס לקראת העונה הבאה. הקצאות עץ המיומנויות וההתקדמות בפרויקטים שאינם משלחות יישמרו.",
+      "willReset": "יתאפס",
+      "bonusInfo": "נקודות מיומנות בונוס",
+      "bonusDescription": "הרווח נקודת מיומנות בונוס 1 על כל {creditsPerPoint} קרדיטים במאגר (מקסימום {maxPoints} נקודות)",
+      "startButton": "התחל יציאה",
+      "notYetAvailable": "חלון היציאה עדיין לא נפתח. בדוק שוב כשהעונה תסתיים.",
+      "alreadyDeparted": "היציאה הושלמה",
+      "alreadyDepartedDescription": "כבר ביצעת יציאה מהעונה הזו. צפה בנתוני העונה שלך בהיסטוריה למטה.",
+      "confirmTitle": "אשר יציאה",
+      "confirmWarning": "פעולה זו בלתי הפיכה. התקדמות המשימות, המסתור והשרטוטים שלך יאופסו.",
+      "confirmButton": "אשר וצא",
+      "bonusEarned": "בונוס שהושג",
+      "successTitle": "היציאה הושלמה!",
+      "successDescription": "ההתקדמות שלך ב-{season} נשמרה. בהצלחה בעונה הבאה!",
+      "loadingTitle": "טוען סטטוס יציאה",
+      "opensIn": "היציאה נפתחת בעוד {countdown}",
+      "opensAt": "נפתחת ב-{date}"
+    },
+    "autoResetDetected": "זוהתה יציאה מעונה {season}!",
+    "autoResetDescription": "זיהינו את היציאה שלך דרך סנכרון Embark. ההתקדמות שלך נשמרה אוטומטית. ניתן לעדכן את הקרדיטים במחסן ואת רמת השחקן בהיסטוריית העונה למטה.",
+    "expedition": {
+      "title": "משלחת",
+      "description": "יציאות לעונה עבור חשבונות ARC Raiders מקושרים מתבצעות באופן אוטומטי.",
+      "currentState": "מצב המשלחת הנוכחי",
+      "completedExpeditions": "משלחות שהושלמו",
+      "activeSeason": "עונה פעילה",
+      "syncButton": "סנכרן משלחת",
+      "syncingButton": "מסנכרן...",
+      "syncError": "נכשל סנכרון סטטוס המשלחת.",
+      "states": {
+        "notStarted": "טרם החלה",
+        "inProgress": "בתהליך",
+        "completed": "הושלמה",
+        "unknown": "לא ידוע",
+        "ready": "מוכן",
+        "committed": "מחוייב"
+      }
+    },
+    "questionnaire": {
+      "description": "חדש ב-ARCTracker? בחר את הפריט שמופיע בשלב 1 של פרויקט המשלחת שלך כדי שנוכל להגדיר את העונה הנכונה.",
+      "requiredQuantity": "נדרש: {count}",
+      "retakeButton": "מלא מחדש את שאלון העונה",
+      "success": "העונה הפעילה הוגדרה ל-{season}.",
+      "title": "מצא את עונת המשלחת שלך"
+    },
+    "metaDescription": "עקבו אחר עונת המשלחות שלכם ב-ARC Raiders, נהלו יציאות, וסקרו את היסטוריית העונה ב-ARCTracker."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "כל הפריטים הנדרשים (סה״כ)",
+    "backToProjects": "חזרה לפרויקטים",
+    "itemRequirements": "פריטים נדרשים",
+    "metaDescription": "כל דרישות הפריטים עבור {projectName} ב-ARC Raiders. צפו בכל שלב, בפריטים הנדרשים ובכמויות הנחוצות להשלמת פרויקט זה.",
+    "metaTitleSuffix": "דרישות - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "תגמולים",
+    "projectNotFound": "הפרויקט לא נמצא",
+    "projectNotFoundMessage": "הפרויקט המבוקש לא נמצא.",
+    "receive": "קבלה",
+    "totalItemsNeeded": "סה״כ פריטים נדרשים",
+    "totalPhases": "שלבים",
+    "turnIn": "מסירה",
+    "uniqueItems": "פריטים ייחודיים",
+    "valueRequirement": "דרישת ערך"
+  },
+  "Cipher": {
+    "alphaBadge": "נסיוני",
+    "clearChat": "נקה צ'אט",
+    "closeCipher": "סגור",
+    "emptyStateDescription": "המערכות פעילות. שאל אותי על המאגר שלך, ביצועים בפשיטות, סיכויי נפילה, או כל דבר אחר בנוגע לשטח. ייתכן שהתשובות לא תמיד יהיו מדויקות — נא לאמת מידע חשוב.",
+    "emptyStateTitle": "סייפר",
+    "inputPlaceholder": "שאל את סייפר...",
+    "openCipher": "פתח את סייפר",
+    "panelTitle": "סייפר",
+    "sendMessage": "שלח הודעה",
+    "tools": {
+      "checkStashForItem": {
+        "active": "סורק את המחסן...",
+        "done": "המחסן נסרק"
+      },
+      "createChart": {
+        "active": "מפיק ויזואליזציה...",
+        "done": "הויזואליזציה הופקה"
+      },
+      "fallbackActive": "משתמש ב-{toolName}...",
+      "fallbackDone": "נעשה שימוש ב-{toolName}",
+      "findBestFarmingMaps": {
+        "active": "מייעל נתיבי איסוף...",
+        "done": "נתיבי האיסוף עברו אופטימיזציה"
+      },
+      "getHideoutModules": {
+        "active": "בודק מודולים במסתור...",
+        "done": "המודולים במסתור נבדקו"
+      },
+      "getItem": {
+        "active": "שולף נתוני פריט...",
+        "done": "נתוני הפריט נשלפו"
+      },
+      "getItemDropLocations": {
+        "active": "מנתח מיקומי נפילה...",
+        "done": "מיקומי הנפילה נותחו"
+      },
+      "getItemDropStats": {
+        "active": "מנתח אחוזי נפילה...",
+        "done": "אחוזי הנפילה נותחו"
+      },
+      "getPlayerStats": {
+        "active": "שולף מדדי שחקן...",
+        "done": "מדדי השחקן נשלפו"
+      },
+      "getQuest": {
+        "active": "שולף נתוני משימה...",
+        "done": "נתוני המשימה נשלפו"
+      },
+      "getRaidHistory": {
+        "active": "שולף יומני פשיטה...",
+        "done": "יומני הפשיטה נשלפו"
+      },
+      "getRaidStats": {
+        "active": "מעבד נתוני פשיטה...",
+        "done": "נתוני הפשיטה עובדו"
+      },
+      "getUserHideoutProgress": {
+        "active": "בודק התקדמות במסתור...",
+        "done": "ההתקדמות במסתור נבדקה"
+      },
+      "getUserLoadout": {
+        "active": "שולף תצורת ציוד...",
+        "done": "הציוד נשלף"
+      },
+      "getUserNeededItems": {
+        "active": "מחשב פריטים נדרשים...",
+        "done": "הפריטים הנדרשים חושבו"
+      },
+      "getUserQuestProgress": {
+        "active": "בודק התקדמות משימה...",
+        "done": "התקדמות המשימה נבדקה"
+      },
+      "getUserStash": {
+        "active": "ניגש לרשומות המחסן...",
+        "done": "בוצעה גישה למחסן"
+      },
+      "getWeaponDamage": {
+        "active": "מנתח נזק נשק...",
+        "done": "נזק הנשק נותח"
+      },
+      "getWeaponKills": {
+        "active": "שולף נתוני נשק...",
+        "done": "נתוני הנשק נשלפו"
+      },
+      "searchItems": {
+        "active": "סורק את מאגר הפריטים...",
+        "done": "מאגר הפריטים נסרק"
+      },
+      "searchQuests": {
+        "active": "סורק רשומות משימות...",
+        "done": "רשומות המשימות נסרקו"
+      },
+      "getMapEvents": {
+        "active": "בודק אירועי מפה...",
+        "done": "אירועי מפה נבדקו"
+      },
+      "searchCraftableItems": {
+        "active": "מחפש מתכונים...",
+        "done": "חיפש מתכונים"
+      },
+      "searchSkillNodes": {
+        "active": "מחפש בעץ המיומנויות...",
+        "done": "חיפש בעץ המיומנויות"
+      },
+      "getSkillNode": {
+        "active": "טוען פרטי מיומנות...",
+        "done": "טען פרטי מיומנות"
+      },
+      "getProjects": {
+        "active": "טוען פרויקטים...",
+        "done": "טען פרויקטים"
+      },
+      "getUserLists": {
+        "active": "טוען את הרשימות שלך...",
+        "done": "טען את הרשימות שלך"
+      },
+      "getListItems": {
+        "active": "טוען פריטי רשימה...",
+        "done": "טען פריטי רשימה"
+      },
+      "addItemToList": {
+        "active": "מוסיף לרשימה...",
+        "denied": "בוטל",
+        "done": "נוסף לרשימה"
+      },
+      "removeItemFromList": {
+        "active": "מסיר מהרשימה...",
+        "denied": "בוטל",
+        "done": "הוסר מהרשימה"
+      },
+      "createList": {
+        "active": "יוצר רשימה...",
+        "denied": "בוטל",
+        "done": "רשימה נוצרה"
+      },
+      "deleteList": {
+        "active": "מוחק רשימה...",
+        "denied": "בוטל",
+        "done": "רשימה נמחקה"
+      },
+      "fallbackDenied": "{toolName} בוטל",
+      "getItemFarmingContext": {
+        "active": "מנתח הקשר השגת פריטים...",
+        "done": "ניתוח הקשר השגת פריטים הושלם"
+      }
+    },
+    "approval": {
+      "addItemToList": "הוסף את \"{itemName}\" ל-\"{listName}\"",
+      "approve": "אישור",
+      "createList": "צור רשימה \"{name}\"",
+      "deleteList": "מחק את הרשימה \"{listName}\"",
+      "deleteWarning": "פעולה זו תסיר את הרשימה ואת {count, plural, one {# הפריט} other {כל # הפריטים}} שבה.",
+      "deny": "דחייה",
+      "removeItemFromList": "הסר את \"{itemName}\" מ-\"{listName}\""
+    },
+    "feedback": {
+      "helpful": "תגובה מועילה",
+      "notHelpful": "תגובה לא מועילה"
+    },
+    "confirmation": {
+      "denied": "הפעולה בוטלה",
+      "error": "משהו השתבש",
+      "executing": "מבצע...",
+      "success": {
+        "addItemToList": "נוסף לרשימה",
+        "createList": "הרשימה נוצרה",
+        "deleteList": "הרשימה נמחקה",
+        "generic": "בוצע",
+        "removeItemFromList": "הוסר מהרשימה"
+      }
+    },
+    "privateBetaNotice": "בטא פרטית — לתורמים בלבד. נא לקיים את הדיון בערוץ התורמים."
+  },
+  "TradersPage": {
+    "itemsForSale": "פריטים למכירה",
+    "quests": "משימות",
+    "title": "סוחרים"
+  },
+  "TraderPage": {
+    "backToTraders": "חזרה לסוחרים",
+    "coins": "מטבעות",
+    "limit": "הגבלה",
+    "noQuests": "אין משימות",
+    "noShopItems": "אין פריטים למכירה",
+    "quests": "משימות",
+    "refresh": "רענון",
+    "shop": "חנות",
+    "traderNotFound": "הסוחר לא נמצא",
+    "traderNotFoundDesc": "הסוחר שאתה מחפש אינו קיים."
   }
 }

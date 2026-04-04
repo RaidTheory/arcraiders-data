@@ -10,14 +10,14 @@
     "hr": "Energetska Šipka",
     "it": "Asta di trasmissione",
     "ja": "電気ロッド",
-    "kr": "파워 로드",
+    "ko-KR": "파워 로드",
     "no": "Kraftstang",
     "pl": "Pręt zasilający",
     "pt": "Haste de energia",
     "pt-BR": "Barra de Força",
     "ru": "Энергетический стержень",
     "sr": "Energetska Šipka",
-    "tr": "Güç Çubuğu",
+    "tr": "Güç Bağlantısı",
     "uk": "Енергетичний стрижень",
     "zh-CN": "能量棒",
     "zh-TW": "能量棒"
@@ -32,7 +32,7 @@
     "hr": "Koristi se u izradi. Koristi se za izradu: Teški Štit, Brza Kuka",
     "it": "Utile per le creazioni. Si usa per creare: Scudo pesante, Gancio a scatto",
     "ja": "製作に使用。製作に使用: ヘビーシールド、スナップフック",
-    "kr": "제작에 사용. 제작 용도: 준중량 실드, 스냅 훅",
+    "ko-KR": "제작에 사용. 제작 용도: 준중량 실드, 스냅 훅",
     "no": "Brukes til håndverk. Brukes til å lage: Tungt skjold, Karabinkrok",
     "pl": "Używane do wytwarzania. Używane do wytworzenia: Ciężka tarcza, Karabińczyk",
     "pt": "Usado na fabricação. Usado para fabricar: Escudo pesado, Gancho rápido",
@@ -51,6 +51,7 @@
   "weightKg": 2,
   "stackSize": 3,
   "craftBench": "refiner",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_electrical_components": 2,
     "arc_circuitry": 2
@@ -63,5 +64,6 @@
     "advanced_electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/power_rod.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/17/2026",
+  "addedIn": "base"
 }

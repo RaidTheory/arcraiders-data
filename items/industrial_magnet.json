@@ -9,8 +9,8 @@
     "he": "מגנט תעשייתי",
     "hr": "Industrijski magnet",
     "it": "Magnete Industriale",
-    "ja": "産業用マグネット",
-    "kr": "산업용 자석",
+    "ja": "産業用磁石",
+    "ko-KR": "산업용 자석",
     "no": "Industriell Magnet",
     "pl": "Magnes Przemysłowy",
     "pt": "Ímã Industrial",
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "製作素材にリサイクルできる。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -58,5 +58,6 @@
     "magnet": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/industrial_magnet.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "10/30/2025",
+  "addedIn": "base"
 }

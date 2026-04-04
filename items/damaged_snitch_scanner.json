@@ -10,14 +10,14 @@
     "hr": "Oštećeni Snitch Skener",
     "it": "Scanner Snitch danneggiato",
     "ja": "傷んだスニッチスキャナー",
-    "kr": "손상된 스니치 스캐너",
+    "ko-KR": "손상된 스니치 스캐너",
     "no": "Skadet Snitch-skanner",
     "pl": "Uszkodzony skaner Snitch",
     "pt": "Scanner Snitch danificado",
     "pt-BR": "Detector de Dedo-Duro Danificado",
     "ru": "Поврежденный сканер Snitch",
     "sr": "Oštećeni Snitch Skener",
-    "tr": "Hasarlı Snitch Tarayıcı",
+    "tr": "Hasarlı Muhbir Aracı",
     "uk": "Пошкоджений сканер Snitch",
     "zh-CN": "损坏的告密者扫描仪",
     "zh-TW": "損壞的告密者掃描儀"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "クラフト素材にリサイクルできます。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -51,5 +51,6 @@
   "weightKg": 0.25,
   "stackSize": 3,
   "imageFilename": "https://cdn.arctracker.io/items/damaged_snitch_scanner.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

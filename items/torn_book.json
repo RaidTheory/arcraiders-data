@@ -10,14 +10,14 @@
     "hr": "Poderana Knjiga",
     "it": "Libro strappato",
     "ja": "破れた本",
-    "kr": "찢어진 책",
+    "ko-KR": "찢어진 책",
     "no": "Revet bok",
     "pl": "Rozdarta książka",
     "pt": "Livro rasgado",
     "pt-BR": "Livro Rasgado",
     "ru": "Порванная книга",
     "sr": "Poderana Knjiga",
-    "tr": "Yırtık Kitap",
+    "tr": "Parçalanmış Kitap",
     "uk": "Порвана книга",
     "zh-CN": "破损的书",
     "zh-TW": "破損的書"
@@ -32,14 +32,14 @@
     "hr": "Preostale stranice govore o herojima, vampirima i mnogo pogleda.",
     "it": "Le pagine rimaste parlano di eroi, vampiri e molti sguardi.",
     "ja": "残されたページには英雄、吸血鬼、そして多くの視線について書かれている。",
-    "kr": "남은 페이지에는 영웅, 뱀파이어, 그리고 수많은 시선에 대한 이야기가 담겨 있습니다.",
+    "ko-KR": "남은 페이지에는 영웅, 뱀파이어, 그리고 수많은 시선에 대한 이야기가 담겨 있습니다.",
     "no": "Sidene som gjenstår snakker om helter, vampyrer og mange blikk.",
     "pl": "Pozostałe strony mówią o bohaterach, wampirach i wielu spojrzeniach.",
     "pt": "As páginas que restam falam de heróis, vampiros e muitos olhares.",
     "pt-BR": "As páginas que restam falam de heróis, vampiros e muitos olhares.",
     "ru": "Оставшиеся страницы повествуют о героях, вампирах и множестве взглядов.",
     "sr": "Preostale stranice govore o herojima, vampirima i mnogo pogleda.",
-    "tr": "Kalan sayfalar kahramanlardan, vampirlerden ve birçok bakıştan bahsediyor.",
+    "tr": "Geriye kalan sayfalarda seçilmiş kahramanlardan, vampirlerden ve özlem dolu bakışlardan bahsediliyor.",
     "uk": "Сторінки, що залишилися, розповідають про героїв, вампірів та безліч поглядів.",
     "zh-CN": "残存的书页讲述着英雄、吸血鬼和许多目光的故事。",
     "zh-TW": "殘存的書頁講述著英雄、吸血鬼和許多目光的故事。"
@@ -50,7 +50,7 @@
   "value": 1000,
   "weightKg": 0.3,
   "stackSize": 5,
-  "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/torn_book.png",
-  "updatedAt": "11/04/2025"
+  "updatedAt": "03/17/2026",
+  "addedIn": "base"
 }

@@ -10,14 +10,14 @@
     "hr": "Tragač",
     "it": "Apripista",
     "ja": "トレイルブレイザー",
-    "kr": "트레일블레이저",
+    "ko-KR": "트레일블레이저",
     "no": "Banebryter",
     "pl": "Pionier",
     "pt": "Desbravador",
     "pt-BR": "Desbravador",
     "ru": "Первопроходец",
     "sr": "Tragač",
-    "tr": "Öncü",
+    "tr": "Yol Açan",
     "uk": "Першопрохідець",
     "zh-CN": "开拓者",
     "zh-TW": "開拓者"
@@ -32,23 +32,24 @@
     "hr": "Granata koja emitira trag zapaljivog plina duž svoje putanje, uzrokujući eksplozivnu lančanu reakciju kada se zapali.",
     "it": "Una granata che emette una scia di gas infiammabile lungo il suo percorso, causando una reazione esplosiva a catena quando si accende.",
     "ja": "軌道に沿って可燃性ガスの軌跡を放出し、着火時に爆発的な連鎖反応を引き起こす手榴弾。",
-    "kr": "경로를 따라 가연성 가스 흔적을 방출하여 점화 시 폭발적인 연쇄 반응을 일으키는 수류탄.",
+    "ko-KR": "경로를 따라 가연성 가스 흔적을 방출하여 점화 시 폭발적인 연쇄 반응을 일으키는 수류탄.",
     "no": "En granat som avgir et spor av brennbar gass langs banen sin, og forårsaker en eksplosiv kjedereaksjon når den antennes.",
     "pl": "Granat emitujący ślad łatwopalnego gazu wzdłuż swojej ścieżki, powodujący wybuchową reakcję łańcuchową po zapłonie.",
     "pt": "Uma granada que emite um rastro de gás inflamável ao longo de seu caminho, causando uma reação em cadeia explosiva quando se inflama.",
     "pt-BR": "Granada que emite um rastro de gás inflamável ao longo do caminho, causando uma reação em cadeia explosiva ao ser incendiado.",
     "ru": "Граната, выделяющая след горючего газа по своей траектории, вызывающая взрывную цепную реакцию при воспламенении.",
     "sr": "Granata koja emituje trag zapaljivog gasa duž svoje putanje, izazivajući eksplozivnu lančanu reakciju kada se zapali.",
-    "tr": "Yolu boyunca yanıcı gaz izi bırakan ve ateşlendiğinde patlayıcı bir zincirleme reaksiyona neden olan bir el bombası.",
+    "tr": "Yol Açan Yol boyunca yanıcı bir gaz izi bırakan ve ateşlendiğinde patlayıcı zincirleme reaksiyona yol açan bir bomba.",
     "uk": "Граната, що виділяє слід горючого газу вздовж своєї траєкторії, викликаючи вибухову ланцюгову реакцію при займанні.",
     "zh-CN": "一种沿路径释放易燃气体轨迹的手榴弹，点燃时会引发爆炸性连锁反应。",
     "zh-TW": "一種沿路徑釋放易燃氣體軌跡的手榴彈，點燃時會引發爆炸性連鎖反應。"
   },
   "type": "Quick Use",
   "rarity": "Rare",
-  "value": 1600,
+  "value": 2200,
   "weightKg": 1,
   "stackSize": 3,
+  "blueprintLocked": true,
   "effects": {
     "Damage": {
       "value": 20,
@@ -61,7 +62,7 @@
       "hr": "Šteta",
       "it": "Danni",
       "ja": "ダメージ",
-      "kr": "피해",
+      "ko-KR": "피해",
       "no": "Skade",
       "pl": "Obrażenia",
       "pt": "Dano",
@@ -84,7 +85,7 @@
       "hr": "Radijus",
       "it": "Raggio",
       "ja": "半径",
-      "kr": "반경",
+      "ko-KR": "반경",
       "no": "Radius",
       "pl": "Promień",
       "pt": "Raio",
@@ -100,15 +101,28 @@
   "craftBench": "explosives_bench",
   "stationLevelRequired": 3,
   "recipe": {
-    "explosive_compound": 1,
+    "crude_explosives": 2,
+    "firefly_burner": 1,
     "synthesized_fuel": 1
   },
   "recyclesInto": {
     "crude_explosives": 2
   },
   "salvagesInto": {
-    "crude_explosives": 1
+    "crude_explosives": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/trailblazer.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "1.2",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 6600
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "requiredLevel": 7,
+      "trader": "Apollo"
+    }
+  ]
 }

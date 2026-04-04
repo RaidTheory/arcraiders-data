@@ -10,14 +10,14 @@
     "hr": "Nacrt Kutije Vatrometa",
     "it": "Progetto scatola di fuochi d'artificio",
     "ja": "花火の箱の設計図",
-    "kr": "폭죽 상자 설계도",
+    "ko-KR": "폭죽 상자 설계도",
     "no": "Fyrverkeribokstegning",
     "pl": "Projekt pudełka fajerwerków",
     "pt": "Projeto de caixa de fogos de artifício",
     "pt-BR": "Esquema de Caixa de Fogos de Artifício",
     "ru": "Чертеж — Коробка фейерверков",
     "sr": "Nacrt Kutije Vatrometa",
-    "tr": "Havai Fişek Kutusu Planı",
+    "tr": "Havai Fişek Kutusu Taslağı",
     "uk": "Креслення коробки феєрверків",
     "zh-CN": "烟花箱蓝图",
     "zh-TW": "煙火箱藍圖"
@@ -32,7 +32,7 @@
     "hr": "Otključava nacrt izrade za Kutiju vatrometa.",
     "it": "Sblocca il progetto di creazione per la Scatola di fuochi d'artificio.",
     "ja": "花火箱のクラフト設計図をアンロックする。",
-    "kr": "폭죽 상자 제작 설계도를 해금합니다.",
+    "ko-KR": "폭죽 상자 제작 설계도를 해금합니다.",
     "no": "Låser opp oppskriften for Fyrverkeriboksen.",
     "pl": "Odblokowuje projekt wytwarzania Pudełka fajerwerków.",
     "pt": "Desbloqueia o projeto de fabricação da caixa de fogos de artifício.",
@@ -45,9 +45,11 @@
     "zh-TW": "解鎖煙火箱的製作藍圖。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/fireworks_box.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "1.7"
 }

@@ -50,7 +50,10 @@
       "description": "Forbind din ARC Raiders-spilkonto for automatisk at synkronisere dit lager, dine værksteder, opgaver og projekter. Slut med manuel sporing.",
       "title": "Synkroniser din ARC Raiders-konto",
       "newBadge": "NY"
-    }
+    },
+    "discordCommunityTitle": "Deltag i ArcTracker Discorden",
+    "discordCommunityDescription": "Har du et forslag? Har du fundet en fejl? Vi vil gerne høre fra dig! Slut dig til tusindvis af ARC Raiders-spillere på vores Discord for at dele ideer, give feedback og være med til at forme ArcTrackers fremtid.",
+    "joinDiscordCommunity": "Deltag i Discord"
   },
   "Navigation": {
     "home": "Hjem",
@@ -71,7 +74,9 @@
     "apps": "Apps",
     "discordBot": "Discord-bot",
     "squads": "Hold",
-    "stash": "Lager"
+    "stash": "Lager",
+    "seasons": "Sæsoner",
+    "traders": "Handlende"
   },
   "MapEvents": {
     "startsIn": "Starter om",
@@ -106,7 +111,8 @@
       "launchTowerLoot": "Affyringstårn Loot",
       "hiddenBunker": "Skjult Bunker",
       "none": "Ingen",
-      "birdCity": "Fugleby"
+      "birdCity": "Fugleby",
+      "hurricane": "Orkan"
     }
   },
   "Common": {
@@ -182,11 +188,6 @@
     "requirementsUnknown": "Krav endnu ikke kendt",
     "noRequirements": "Ingen krav",
     "coins": "mønter",
-    "combatItems": "Kampgenstande",
-    "survivalItems": "Overlevelsesgenstande",
-    "provisions": "Proviant",
-    "materials": "Materialer",
-    "value": "Værdi",
     "phases": "faser",
     "required": "Påkrævet",
     "submitItemsValue": "Indsend genstande til den påkrævede værdi for at fuldføre denne fase.",
@@ -194,7 +195,8 @@
     "season2": "Sæson 2",
     "stashModeActive": "Antal fra synkroniseret lager",
     "lastSynced": "Synkroniseret",
-    "syncStash": "Synkroniser lager"
+    "syncStash": "Synkroniser lager",
+    "season3": "Sæson 3"
   },
   "HideoutPage": {
     "level": "Niveau",
@@ -368,7 +370,19 @@
     "revokeKeyTitle": "Tilbagekald API-nøgle?",
     "revokeKeyDescription": "Dette vil tilbagekalde denne nøgle permanent. Alle apps, der bruger den, vil miste adgang.",
     "revokeKey": "Tilbagekald nøgle",
-    "buildAnApp": "Vil du bygge en app?"
+    "buildAnApp": "Vil du bygge en app?",
+    "sectionPrivacy": "Privatliv",
+    "adPersonalizationTitle": "Personlige annoncer",
+    "adPersonalizationDescription": "Tillad, at en anonym identifikator deles med vores annonceudbyder for at vise mere relevante annoncer. Der sendes aldrig personlige data.",
+    "adPersonalizationToggleLabel": "Aktivér personlige annoncer",
+    "displayName": "Visningsnavn",
+    "displayNameEdit": "Rediger",
+    "displayNameSave": "Gem",
+    "displayNameCancel": "Annuller",
+    "displayNameSaved": "Visningsnavn opdateret.",
+    "displayNameError": "Kunne ikke opdatere visningsnavn. Prøv venligst igen.",
+    "displayNameTooLong": "Visningsnavn må højst være på 32 tegn.",
+    "displayNameRequired": "Visningsnavn må ikke være tomt."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Søg genstande...",
@@ -562,7 +576,15 @@
     },
     "dropRates": "Drop-rater",
     "inRaidCrafting": "Fremstilling under raid",
-    "attachments": "Tilbehør"
+    "attachments": "Tilbehør",
+    "upgradePath": "Opgraderingsvej",
+    "currentTier": "Nuværende",
+    "soldByTraders": "Sælges af handlende",
+    "vendorCost": "Pris",
+    "vendorLimit": "Grænse: {count}",
+    "vendorRefreshDaily": "Genopfyldes dagligt",
+    "vendorRefreshHourly": "Genopfyldes hver time",
+    "vendorRefreshHours": "Genopfyldes hver {hours}. time"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Søg genstande...",
@@ -636,7 +658,11 @@
     "squadsTitle": "Hold - ARC Raiders",
     "squadsDescription": "Opret og administrer hold for at dele raid-historik og fremskridt med venner i ARC Raiders.",
     "stashTitle": "Lager-tracker - ARC Raiders",
-    "stashDescription": "Synkroniser og spor automatisk dit ARC Raiders-lager, udrustning og valutaer. Tilknyt din spilkonto for opdateringer i realtid."
+    "stashDescription": "Synkroniser og spor automatisk dit ARC Raiders-lager, udrustning og valutaer. Tilknyt din spilkonto for opdateringer i realtid.",
+    "projectNotFoundTitle": "Projekt ikke fundet - ARC Raiders",
+    "projectNotFoundDescription": "Det anmodede projekt kunne ikke findes.",
+    "tradersTitle": "Handlende - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Gennemse alle handlende i ARC Raiders. Se butiksinventar og tilknyttede opgaver for hver handlende."
   },
   "OverlayPage": {
     "pageTitle": "Overlay Companion App",
@@ -688,7 +714,7 @@
   },
   "Footer": {
     "copyright": "Spilindhold og materialer er varemærker og ophavsrettigheder tilhørende Embark Studios og deres licensgivere. Alle rettigheder forbeholdes.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Vilkår for Brug",
     "privacyPolicy": "Privatlivspolitik"
   },
@@ -803,14 +829,21 @@
     "premiumActivatedDesc": "Tak fordi du støtter ARCTracker! Dit premium abonnement er nu aktivt.",
     "premiumBenefitsTitle": "Dine Premium Fordele",
     "manageSubscriptionTitle": "Administrer Dit Abonnement",
-    "manageSubscriptionDesc": "Du kan se dine abonnementsdetaljer og administrere din fakturering via indstillingssiden eller Tebex betalingsportal.",
+    "manageSubscriptionDesc": "Du kan se dine abonnementsdetaljer og administrere din fakturering via siden Indstillinger eller betalingsportalen.",
     "goToSettings": "Gå til Indstillinger",
     "tebexPaymentPortal": "Tebex Betalingsportal",
     "backToHome": "Tilbage til Hjem",
     "benefitUnlimitedPins": "Ubegrænsede private markører & Loot-runs",
     "benefitUnlimitedPinsDesc": "Opret ubegrænsede private kortmarkører og loot-ruter på ethvert kort",
     "benefitAutoSync": "Automatisk lagersynkronisering",
-    "benefitAutoSyncDesc": "Synkroniserer automatisk dit lager, din udrustning og dit fremskridt fra spillet hvert 30. minut"
+    "benefitAutoSyncDesc": "Synkroniserer automatisk dit lager, din udrustning og dit fremskridt fra spillet hvert 30. minut",
+    "managedByPolar": "Abonnement administreres af Polar",
+    "polarPaymentPortal": "Polar Betalingsportal",
+    "upgradeToYearly": "Opgrader til årligt",
+    "upgradeToYearlyDesc": "Skift til årlig betaling og spar 44%. Du bliver godskrevet for din resterende månedlige tid.",
+    "upgradeSuccess": "Opgradering til årligt lykkedes!",
+    "upgradeError": "Opgradering mislykkedes. Prøv venligst igen.",
+    "upgradeSaving": "Spar {percent}%"
   },
   "Favorites": {
     "addToList": "Tilføj til Liste",
@@ -880,7 +913,9 @@
     "createYourOwn": "Opret Din Egen Liste",
     "listNotFound": "Liste Ikke Fundet",
     "listNotFoundDescription": "Denne liste eksisterer ikke eller er ikke offentligt delt.",
-    "backToHome": "Tilbage til Hjem"
+    "backToHome": "Tilbage til Hjem",
+    "cancel": "Annuller",
+    "save": "Gem"
   },
   "Maps": {
     "showAll": "Vis Alle",
@@ -1175,175 +1210,175 @@
   },
   "RaidHistoryPage": {
     "subscriberPreview": "Abonnent Forhåndsvisning (Beta)",
-    "searchPlaceholder": "Søg raids ved genstandsnavn...",
+    "searchPlaceholder": "Søg i raids efter genstandsnavn...",
     "filterMap": "Kort",
     "filterStatus": "Status",
-    "allMaps": "Alle Kort",
-    "allStatuses": "Alle Statusser",
+    "allMaps": "Alle kort",
+    "allStatuses": "Alle statusser",
     "filterSeason": "Sæson",
-    "allSeasons": "Alle Sæsoner",
+    "allSeasons": "Alle sæsoner",
     "dateFrom": "Fra",
     "dateTo": "Til",
     "sort": "Sorter",
-    "sortDateDesc": "Nyeste Først",
-    "sortDateAsc": "Ældste Først",
-    "sortValueDesc": "Højeste Værdi",
-    "sortValueAsc": "Laveste Værdi",
+    "sortDateDesc": "Nyeste først",
+    "sortDateAsc": "Ældste først",
+    "sortValueDesc": "Højeste værdi",
+    "sortValueAsc": "Laveste værdi",
     "filters": "Filtre",
     "status": {
       "survived": "Overlevede",
       "kia": "KIA",
-      "trade": "Handel"
+      "trade": "Trade"
     },
-    "itemCount": "{unique} genstande ({total} total)",
+    "itemCount": "{unique} genstande ({total} totalt)",
     "manualValue": "Manuel",
     "public": "Offentlig",
-    "hideItems": "Skjul Genstande",
-    "showItems": "Vis Genstande ({count})",
-    "addRaid": "Tilføj Raid",
-    "editRaid": "Rediger Raid",
-    "addRaidDescription": "Log et nyt raid med ekstraherede genstande og resultat.",
+    "hideItems": "Skjul genstande",
+    "showItems": "Vis genstande ({count})",
+    "addRaid": "Tilføj raid",
+    "editRaid": "Rediger raid",
+    "addRaidDescription": "Logfør et nyt raid med eksfiltrerede genstande og resultat.",
     "editRaidDescription": "Opdater detaljerne for dette raid.",
-    "raidStatus": "Raid Resultat",
+    "raidStatus": "Raid-resultat",
     "raidMap": "Kort",
     "selectMap": "Vælg et kort",
     "raidDate": "Dato",
     "selectDate": "Vælg en dato",
-    "raidItems": "Ekstraherede Genstande",
-    "addItem": "Tilføj Genstand",
+    "raidItems": "Genstande eksfiltreret",
+    "addItem": "Tilføj genstand",
     "searchItems": "Søg genstande...",
     "noItemsFound": "Ingen genstande fundet",
     "perItem": "pr. genstand",
-    "firStatusOn": "Fundet i Raid (klik for at skifte)",
-    "firStatusOff": "Ikke Fundet i Raid (klik for at skifte)",
-    "totalValue": "Total Værdi",
+    "firStatusOn": "Fundet i raid (klik for at skifte)",
+    "firStatusOff": "Ikke fundet i raid (klik for at skifte)",
+    "totalValue": "Total værdi",
     "calculatedValue": "Værdi fundet i raid",
-    "useManualValue": "Overskriv",
-    "manualValueLabel": "Manuel Værdi",
+    "useManualValue": "Tilsidesæt",
+    "manualValueLabel": "Manuel værdi",
     "enterManualValue": "Indtast værdi...",
     "raidNotes": "Noter",
-    "notesPlaceholder": "Valgfri noter om dette raid...",
-    "createRaid": "Log Raid",
+    "notesPlaceholder": "Valgfrie noter om dette raid...",
+    "createRaid": "Logfør raid",
     "saveError": "Kunne ikke gemme raid",
     "fetchError": "Kunne ikke indlæse raids",
-    "signInRequired": "Log Ind Påkrævet",
+    "signInRequired": "Login påkrævet",
     "signInDescription": "Log ind for at spore din raid-historik og se statistikker.",
-    "noRaids": "Ingen Raids Endnu",
+    "noRaids": "Ingen raids endnu",
     "noRaidsWithFilters": "Ingen raids matcher dine nuværende filtre.",
-    "noRaidsYet": "Start med at spore dine raids for at se dem her.",
-    "addFirstRaid": "Log Dit Første Raid",
+    "noRaidsYet": "Begynd at spore dine raids for at se dem her.",
+    "addFirstRaid": "Logfør dit første raid",
     "showing": "Viser {from}-{to} af {total}",
     "pageOf": "Side {current} af {total}",
-    "shareRaid": "Del Raid",
+    "shareRaid": "Del raid",
     "shareRaidDescription": "Gør dette raid offentligt for at dele med andre.",
     "publicRaid": "Offentlig",
     "privateRaid": "Privat",
     "publicRaidDesc": "Alle med linket kan se dette raid.",
     "privateRaidDesc": "Kun du kan se dette raid.",
-    "shareLink": "Del Link",
+    "shareLink": "Del link",
     "linkCopied": "Link kopieret til udklipsholder!",
     "copyError": "Kunne ikke kopiere link",
     "shareError": "Kunne ikke opdatere delingsindstillinger",
-    "deleteRaidTitle": "Slet Raid?",
+    "deleteRaidTitle": "Slet raid?",
     "deleteRaidDescription": "Denne handling kan ikke fortrydes. Raidet og alle dets data vil blive slettet permanent.",
     "deleteError": "Kunne ikke slette raid",
-    "sharedRaid": "Delt Raid",
-    "backToHistory": "Tilbage til Raid-historik",
-    "raidNotFound": "Raid Ikke Fundet",
+    "sharedRaid": "Delt raid",
+    "backToHistory": "Tilbage til raid-historik",
+    "raidNotFound": "Raid ikke fundet",
     "raidNotFoundDescription": "Dette raid eksisterer ikke eller er ikke længere offentligt.",
-    "extractedItems": "Ekstraherede Genstande",
+    "extractedItems": "Eksfiltrerede genstande",
     "noItemsRecorded": "Ingen genstande blev registreret for dette raid.",
-    "raidScreenshot": "Raid Skærmbillede",
+    "raidScreenshot": "Raid-skærmbillede",
     "screenshotLabel": "Skærmbillede",
     "optional": "valgfri",
     "mapEvents": "Kortbegivenheder",
-    "majorEvent": "Stor Begivenhed",
-    "minorEvent": "Mindre Begivenhed",
+    "majorEvent": "Stor begivenhed",
+    "minorEvent": "Mindre begivenhed",
     "noEvent": "Ingen",
     "extractingItems": "Udtrækker genstande fra skærmbillede...",
     "estimatedTime": "Estimeret tid: ~{seconds} sekunder",
-    "canSaveAndReturn": "Du kan gemme nu og komme tilbage senere, hvis du ikke vil vente.",
+    "canSaveAndReturn": "Du kan gemme nu og vende tilbage senere, hvis du ikke vil vente.",
     "screenshotUploadLabel": "Upload et skærmbillede",
-    "screenshotUploadHint": "Træk & slip, indsæt (Ctrl+V), eller klik for at uploade",
-    "screenshotHint": "Upload din slut-på-raid skærm for automatisk at detektere genstande",
-    "aiPowered": "AI Drevet",
-    "itemsEmptyHint": "Tilføj genstande manuelt eller upload et skærmbillede ovenfor for automatisk detektion",
+    "screenshotUploadHint": "Træk og slip, indsæt (Ctrl+V) eller klik for at uploade",
+    "screenshotHint": "Upload dit skærmbillede fra raidets afslutning for at registrere genstande automatisk",
+    "aiPowered": "AI-drevet",
+    "itemsEmptyHint": "Tilføj genstande manuelt eller upload et skærmbillede ovenfor for at registrere automatisk",
     "screenshotDropHere": "Slip billede her",
-    "screenshotPreview": "Skærmbillede forhåndsvisning",
+    "screenshotPreview": "Skærmbillede-forhåndsvisning",
     "screenshotProcessing": "Behandler...",
     "screenshotInvalidType": "Upload venligst et JPEG, PNG eller WebP billede",
-    "screenshotTooLarge": "Billede er for stort. Maksimal størrelse er 5MB",
+    "screenshotTooLarge": "Billedet er for stort. Maksimal størrelse er 5MB",
     "screenshotReadError": "Kunne ikke læse billedfil",
     "visionProcessing": "Scanner...",
     "visionCompleted": "Scannet",
-    "visionFailed": "Scanning Fejlede",
-    "needsReview": "{count} {count, plural, one {genstand} other {genstande}} til gennemgang",
+    "visionFailed": "Scanning mislykkedes",
+    "needsReview": "{count} {count, plural, one {genstand} other {genstande}} at gennemgå",
     "verify": "Verificer",
     "verifyItems": "Verificer genstande før anvendelse",
     "verifyFirst": "Verificer genstande først",
-    "mergeItemsTitle": "Genstande Detekteret",
-    "mergeItemsDescription": "Dit skærmbillede er blevet analyseret. Hvordan vil du håndtere de detekterede genstande?",
-    "existingItems": "Dine Nuværende Genstande",
-    "detectedItems": "Detekteret fra Skærmbillede",
-    "itemsSummary": "{unique} unikke genstande ({total} total)",
-    "mergeItems": "Flet Genstande",
-    "mergeItemsHint": "Kombiner mængder ({unique} unikke, {total} total)",
-    "replaceItems": "Erstat Genstande",
-    "replaceItemsHint": "Behold kun detekterede genstande ({unique} unikke, {total} total)",
-    "visionDetected": "Detekterede {count, plural, one {# genstand} other {# genstande}}",
+    "mergeItemsTitle": "Genstande registreret",
+    "mergeItemsDescription": "Dit skærmbillede er blevet analyseret. Hvordan vil du håndtere de registrerede genstande?",
+    "existingItems": "Dine nuværende genstande",
+    "detectedItems": "Registreret fra skærmbillede",
+    "itemsSummary": "{unique} unikke genstande ({total} totalt)",
+    "mergeItems": "Flet genstande",
+    "mergeItemsHint": "Kombiner antal ({unique} unikke, {total} totalt)",
+    "replaceItems": "Erstat genstande",
+    "replaceItemsHint": "Behold kun registrerede genstande ({unique} unikke, {total} totalt)",
+    "visionDetected": "Registrerede {count, plural, one {# genstand} other {# genstande}}",
     "visionUnknown": "{count, plural, one {# ukendt} other {# ukendte}}",
-    "verifyItemInstruction": "Verificer venligst at denne genstand matcher skærmbilledet. Vælg den korrekte genstand eller søg efter en anden.",
+    "verifyItemInstruction": "Verificer venligst, at denne genstand matcher skærmbilledet. Vælg den korrekte genstand eller søg efter en anden.",
     "currentDetection": "Nuværende:",
     "quickSelect": "Hurtigvalg:",
-    "searchDifferentItem": "Søg anden genstand...",
-    "confirmCorrect": "Bekræft Korrekt",
-    "applyChange": "Anvend Ændring",
-    "cancelChange": "Annuller Ændring",
+    "searchDifferentItem": "Søg efter anden genstand...",
+    "confirmCorrect": "Bekræft korrekt",
+    "applyChange": "Anvend ændring",
+    "cancelChange": "Annuller ændring",
     "deleteItem": "Slet",
     "cancelAction": "Annuller",
-    "clickToVerify": "Verifikation Påkrævet",
+    "clickToVerify": "Verifikation påkrævet",
     "itemsNeedReview": "{count} {count, plural, one {genstand kræver} other {genstande kræver}} gennemgang",
     "stats": {
-      "incomeLast7Days": "Sidste 7 Dage",
+      "incomeLast7Days": "Seneste 7 dage",
       "survivalRate": "Overlevelsesrate",
-      "totalRaids": "Total Raids",
-      "averageValue": "Gns. Værdi",
-      "bestRaid": "Bedste Raid"
+      "totalRaids": "Totale raids",
+      "averageValue": "Gns. værdi",
+      "bestRaid": "Bedste raid"
     },
-    "profileVisibility": "Del Din Raid Profil",
+    "profileVisibility": "Del din raid-profil",
     "profilePublicDesc": "Alle med dit profillink kan se dine offentlige raids.",
     "profilePrivateDesc": "Din raid-historik er privat. Aktiver deling for at få et offentligt profillink.",
-    "profileLink": "Dit Profillink",
+    "profileLink": "Dit profillink",
     "profileLinkCopied": "Link kopieret til udklipsholder!",
     "profileUpdateError": "Kunne ikke opdatere profilsynlighed",
     "profileCopyError": "Kunne ikke kopiere link",
-    "copyLink": "Kopier Link",
-    "openInNewTab": "Åbn i Ny Fane",
-    "publicProfile": "Offentlig Profil",
+    "copyLink": "Kopier link",
+    "openInNewTab": "Åbn i ny fane",
+    "publicProfile": "Offentlig profil",
     "publicRaidsCount": "{count} offentlige raids",
     "survived": "Overlevede",
     "kia": "KIA",
     "survivalRate": "Overlevelsesrate",
-    "noPublicRaids": "Ingen Offentlige Raids",
+    "noPublicRaids": "Ingen offentlige raids",
     "noPublicRaidsDescription": "Denne bruger har ikke delt nogen raids offentligt endnu.",
-    "profileNotFound": "Profil Ikke Fundet",
+    "profileNotFound": "Profil ikke fundet",
     "tutorial": {
-      "step1Title": "Spor Dine Raids",
-      "step1Description": "Klik her for at logge et raid! Upload et skærmbillede fra \"Returning to Speranza\" skærmen, og vores AI vil automatisk udtrække dine loot-genstande.",
-      "step2Title": "Vælg Dit Kort",
+      "step1Title": "Spor dine raids",
+      "step1Description": "Klik her for at logføre et raid! Upload et skærmbillede fra \"Returning to Speranza\"-skærmen, og vores AI vil automatisk udtrække dine loot-genstande.",
+      "step2Title": "Vælg dit kort",
       "step2Description": "Vælg hvilket kort du spillede på, og vælg valgfrit eventuelle aktive begivenheder under dit raid.",
-      "step3Title": "Upload Skærmbillede",
-      "step3Description": "Upload dit slut-på-raid skærmbillede her. Vores AI vil detektere og udtrække alle de genstande, du bragte tilbage. Du kan også tilføje genstande manuelt hvis nødvendigt.",
+      "step3Title": "Upload skærmbillede",
+      "step3Description": "Upload dit skærmbillede fra raidets afslutning her. Vores AI vil registrere og udtrække alle de genstande, du bragte tilbage. Du kan også tilføje genstande manuelt, hvis det er nødvendigt.",
       "gotIt": "Forstået!",
       "next": "Næste",
-      "skipTutorial": "Spring Tutorial Over",
-      "showTutorial": "Vis Tutorial"
+      "skipTutorial": "Spring vejledning over",
+      "showTutorial": "Vis vejledning"
     },
     "beta": "(Beta)",
-    "betaTooltip": "Denne funktion er i beta og kan ændre sig over tid. Bær venligst over med os, hvis der opstår problemer med at identificere genstande.",
-    "tutorialVideo": "Tutorialvideo",
-    "screenshotNoCrop": "Skal være et fuldt skærmbillede. Må ikke beskæres.",
-    "stackInfo": "Gitterposition: Række {row}, Kol. {col} • Antal: {quantity}",
+    "betaTooltip": "Denne funktion er i beta og kan ændre sig over tid. Bær over med os, hvis der er problemer med identifikation af genstande.",
+    "tutorialVideo": "Vejledningsvideo",
+    "screenshotNoCrop": "Skal være et fuldt skærmbillede. Beskær ikke.",
+    "stackInfo": "Gitterposition: Række {row}, Kol {col} • Antal: {quantity}",
     "loadingItems": "Indlæser genstande...",
     "table": {
       "items": "Genstande",
@@ -1354,40 +1389,161 @@
       "itemCategories": {
         "equipment": "Udstyr",
         "weapons": "Våben",
-        "loot": "Ekstraheret bytte"
+        "loot": "Eksfiltreret bytte"
       },
       "actions": {
         "edit": "Rediger",
         "delete": "Slet",
         "share": "Del",
-        "viewScreenshot": "Vis skærmbillede",
+        "viewScreenshot": "Se skærmbillede",
         "applyToProgress": "Anvend på fremskridt",
         "undoSync": "Fortryd synkronisering"
       }
     },
     "marketing": {
-      "ctaText": "Begynd at tracke dine raids i dag. Det er gratis!",
-      "feature1Desc": "Upload dit screenshot fra slutningen af raidet, og vores specialbyggede AI registrerer øjeblikkeligt alle items, du har extracted.",
-      "feature1Title": "AI Screenshot-analyse",
-      "feature2Desc": "Tilføj automatisk raid-loot til dine quest- og hideout-krav. Slut med manuel tracking.",
-      "feature2Title": "Synkroniser fremskridt med ét klik",
-      "feature3Desc": "Track din indtjening, overlevelsesrate og raid-præstation over tid med visuelle dashboards.",
+      "ctaText": "Begynd at spore dine raids i dag. Det er gratis!",
+      "feature1Desc": "Upload dit skærmbillede fra raidets afslutning, og vores tilpassede AI registrerer øjeblikkeligt alle eksfiltrerede genstande.",
+      "feature1Title": "AI-skærmbilledeanalyse",
+      "feature2Desc": "Anvend automatisk raid-loot til dine quest- og skjulestedskrav. Slut med manuel sporing.",
+      "feature2Title": "Fremskridtssynkronisering med ét klik",
+      "feature3Desc": "Spor din indkomst, overlevelsesrate og raid-præstation over tid med visuelle dashboards.",
       "feature3Title": "Detaljeret statistik",
-      "feature4Desc": "Generer offentlige links for at dele dine bedste (eller værste) raids med communityet. Forbind din konto med vores Discord Bot for at få dine raids delt automatisk på din server.",
-      "feature4Title": "Del dine Raids",
-      "featuresTitle": "Alt hvad du har brug for",
+      "feature4Desc": "Generer offentlige links for at dele dine bedste (eller værste) raids med fællesskabet. Link din konto med vores Discord Bot for automatisk at dele dine raids på din server.",
+      "feature4Title": "Del dine raids",
+      "featuresTitle": "Alt hvad du behøver",
       "getStarted": "Kom i gang",
-      "heroSubtitle": "Track automatisk hvert raid, analyser din indtjening, og synkroniser dine fundne items med quests og hideout-opgraderinger via vores specialudviklede AI-screenshot-analyse.",
-      "heroTitle": "Track dine Raid Stats",
-      "highlight1": "Understøtter alle maps og sæson-events",
-      "highlight2": "Track Found-in-Raid status pr. item",
+      "heroSubtitle": "Spor automatisk hvert raid, analyser din indtjening og synkroniser dine fundne genstande med quests og opgraderinger af skjulestedet med vores tilpassede AI-drevne skærmbilledeanalyse.",
+      "heroTitle": "Spor dine raid-stats",
+      "highlight1": "Understøtter alle kort og sæsonbegivenheder",
+      "highlight2": "Spor Fundet i Raid-status pr. genstand",
       "highlight3": "Fortryd synkronisering, hvis du laver en fejl",
       "highlight4": "Fungerer med ARCTracker-overlayet",
-      "screenshotDashboardDesc": "Se omfattende stats, filtrer efter map/sæson, og analyser din raid-præstation over tid.",
+      "screenshotDashboardDesc": "Se omfattende statistikker, filtrer efter kort/sæson og analyser din raid-præstation over tid.",
       "screenshotDashboardTitle": "Se det i aktion"
     },
     "previous": "Forrige",
-    "next": "Næste"
+    "next": "Næste",
+    "embarkSyncTutorial": {
+      "step1Title": "Synkroniser dine raids",
+      "step1Description": "Klik på Synkroniser-knappen for at hente dine seneste raids fra Embark til enhver tid. Abonner for at få automatisk synkronisering hvert 30. minut.",
+      "step2Title": "Synkroniser nu",
+      "step2Description": "Vil du have de nyeste data med det samme? Klik på Synkroniser-knappen øverst til højre for at hente dine seneste raids nu.",
+      "step3Title": "Loot-genstande ikke inkluderet",
+      "step3Description": "Synkroniserede raids inkluderer ikke de genstande, du plyndrede. For at spore dit bytte skal du klikke på 'Tilføj skærmbillede' på et raid for at uploade dit skærmbillede fra raidets afslutning.",
+      "step4Title": "Synkroniserede Raids & Legacy",
+      "step4Description": "Synkroniserede raids viser alt hentet fra ARC Raiders — bemærk, at datoer er, hvornår dine raids blev synkroniseret, ikke hvornår du spillede dem, da ARC Raiders ikke oplyser dette. Legacy viser raids, du sporede via skærmbillede. Brug Link-knappen på et legacy-raid for at forbinde det til dets matchende synkroniserede raid.",
+      "skipTutorial": "Spring vejledning over",
+      "gotIt": "Forstået!",
+      "next": "Næste"
+    },
+    "loadError": "Kunne ikke indlæse data. Prøv venligst igen.",
+    "addScreenshot": "Tilføj skærmbillede",
+    "allOutcomes": "Alle resultater",
+    "alreadyUpToDate": "Allerede opdateret",
+    "avgPerExtraction": "Gns. pr. eksfiltrering",
+    "cancelButton": "Annuller",
+    "clearButton": "Ryd",
+    "deleteRaid": "Slet raid",
+    "detachScreenshot": "Fjern skærmbillede",
+    "editItems": "Rediger genstande",
+    "embarkStats": {
+      "arcEnemiesByTypeTitle": "ARC-fjender tilintetgjort efter type",
+      "arcEnemiesDestroyed": "ARC-fjender tilintetgjort",
+      "avgProfitPerExtraction": "Gns. profit pr. eksfiltrering",
+      "avgTimeHeader": "Gns. tid",
+      "connectButton": "Forbind konto",
+      "connectDesc": "Link din Embark-konto for at låse op for statistik — overlevelsesrate, drab, skade, eksfiltreret værdi og mere.",
+      "connectTitle": "Forbind din ARC Raiders-konto",
+      "diedLabel": "døde",
+      "emptyState": "Ingen raid-data endnu. Spil noget ARC Raiders for at se dine statistikker her.",
+      "extractedLabel": "eksfiltrerede",
+      "lastN": "Seneste {count}",
+      "mapHeader": "Kort",
+      "netIncomeHeader": "Nettoindkomst",
+      "netProfitLoss": "Netto profit / tab",
+      "netValue": "Nettoværdi",
+      "perMapPerformance": "Præstation pr. kort",
+      "playerKills": "Spillerdrab",
+      "raidAxisLabel": "Raid #",
+      "raidValueHistoryTitle": "Historik over raid-værdi",
+      "raidsHeader": "Raids",
+      "survivalHeader": "Overlevelse",
+      "timeTopside": "Tid på overfladen",
+      "totalValueExtracted": "Samlet eksfiltreret værdi",
+      "valueBroughtIn": "Værdi medbragt",
+      "valueExtracted": "Værdi eksfiltreret",
+      "weaponsByKillsTitle": "Våben efter drab",
+      "containersLooted": "Plyndrede containere",
+      "containersPerRaid": "Containere / Raid"
+    },
+    "extractedSuffix": " eksfiltreret",
+    "extractionRate": "Eksfiltreringsrate",
+    "firLabel": "FIR",
+    "linkButton": "Link",
+    "linkRoundEmpty": "Ingen ikke-linkede runder tilgængelige.",
+    "linkRoundTitle": "Link til en runde",
+    "linkScreenshotEmpty": "Ingen ikke-linkede skærmbillede-raids tilgængelige.",
+    "linkScreenshotTitle": "Link et skærmbillede til denne runde",
+    "linkToRound": "Link til runde",
+    "linkedStatus": "Linket",
+    "linkedToRaid": "Linket til raid",
+    "lootLabel": "Loot",
+    "matchMatchingValue": "Matchende værdi",
+    "matchSameMap": "Samme kort",
+    "matchSameOutcome": "Samme resultat",
+    "matchSimilarValue": "Lignende værdi",
+    "noDate": "Ingen dato",
+    "noScreenshotRaids": "Ingen skærmbillede-raids endnu. Tilføj skærmbilleder fra knappen ovenfor.",
+    "noSyncedRaids": "Ingen ARC Raiders-raids synkroniseret endnu. Spil nogle raids og klik på Synkroniser.",
+    "nonFirLabel": "Ikke-FIR",
+    "outcomeDied": "Døde",
+    "outcomeExtracted": "Eksfiltrerede",
+    "outcomeUnknown": "Ukendt",
+    "raidDashboardAlt": "Raid-historik dashboard",
+    "relativeTime": {
+      "daysAgo": "{count}d siden",
+      "hoursAgo": "{count} t siden",
+      "justNow": "Lige nu",
+      "minutesAgo": "{count} min siden"
+    },
+    "roundStats": "Rundestatistik",
+    "screenshotDetachFailed": "Kunne ikke fjerne skærmbillede",
+    "screenshotDetached": "Skærmbillede fjernet fra runde",
+    "screenshotInventory": "Skærmbillede-inventar",
+    "screenshotLinkFailed": "Kunne ikke linke skærmbillede",
+    "screenshotLinked": "Skærmbillede linket til runde",
+    "screenshotRaidsInfo": "Skærmbillede-raids indsendt manuelt. Link dem til et synkroniseret raid for at importere genstande.",
+    "statARC": "ARC",
+    "statBroughtIn": "Medbragt:",
+    "statDmg": "skade",
+    "statDown": "nede",
+    "statDowns": "nede",
+    "statExtracted": "Eksfiltreret:",
+    "statKills": "drab",
+    "statNet": "Netto:",
+    "statPlayer": "spiller",
+    "statValue": "Værdi",
+    "statXP": "XP",
+    "syncFailed": "Synkronisering mislykkedes",
+    "syncNow": "Synkroniser nu",
+    "syncSuccess": "Synkroniserede {count, plural, one {# ny runde} other {# nye runder}}",
+    "syncing": "Synkroniserer...",
+    "tabs": {
+      "history": "Historik",
+      "legacy": "Legacy",
+      "stats": "Stats",
+      "synced": "Synkroniseret",
+      "syncedRaids": "Synkroniserede raids"
+    },
+    "toggleMenu": "Skift menu",
+    "totalTime": "Total tid",
+    "tutorialTooltip": "Klik for at tage vejledningen",
+    "undoSyncFailed": "Kunne ikke fortryde synkronisering",
+    "undoSyncFailedLocally": "Kunne ikke fortryde synkronisering lokalt",
+    "unknownMap": "Ukendt kort",
+    "valueSuffix": " værdi",
+    "timeInRaid": "Tid i raid",
+    "statDamageByTarget": "Skade efter mål"
   },
   "RaidSync": {
     "title": "Anvend på Fremskridt",
@@ -1499,7 +1655,9 @@
         "hideout": "Skjulestedsmoduler",
         "done": "Færdig"
       },
-      "flickeringFlames": "Flakkende Flammer"
+      "flickeringFlames": "Flakkende Flammer",
+      "nonExpeditionProjects": "Ikke-ekspeditionsprojekter",
+      "expeditionProjects": "Ekspeditionsprojekter"
     }
   },
   "DeviceAuth": {
@@ -1631,7 +1789,16 @@
       "saving": "Gemmer...",
       "selectAll": "Vælg alle",
       "unselectAll": "Fravælg alle",
-      "noChanges": "Ingen ændringer at gemme"
+      "noChanges": "Ingen ændringer at gemme",
+      "cancel": "Annuller"
+    },
+    "inferred": {
+      "completedViaLabel": "Kilde til fuldførelse",
+      "completedViaValue": "ARC Raiders ekspeditionsfremskridt",
+      "description": "Fuldførelsen af denne sæson blev registreret fra din ARC Raiders-ekspeditionssynkronisering.",
+      "detailsLabel": "Detaljeret statistik",
+      "detailsValue": "Ikke tilgængelig for denne sæson.",
+      "title": "Sæson {number} fuldført"
     }
   },
   "DiscordBotPage": {
@@ -1866,7 +2033,17 @@
       "screenshotAlt": "Squad-side der viser delt raid-historik",
       "screenshotDescription": "Se samlet raid-historik, del private kortmarkører og koordiner med din squad.",
       "seeItInAction": "Se det i aktion"
-    }
+    },
+    "filterMap": "Kort",
+    "filterStatus": "Status",
+    "filterSeason": "Sæson",
+    "filterMember": "Medlem",
+    "allMaps": "Alle kort",
+    "allStatuses": "Alle statusser",
+    "allSeasons": "Alle sæsoner",
+    "allMembers": "Alle medlemmer",
+    "clearFilters": "Ryd filtre",
+    "noRaidsFiltered": "Ingen raids matcher dine nuværende filtre."
   },
   "MapSubcategories": {
     "abundantLoot": "Stort bytte",
@@ -2084,7 +2261,9 @@
       "suggestItem": "Foreslå genstand",
       "mappingLocked": "Denne genstandstilknytning er låst",
       "sortUnsorted": "Usorteret",
-      "searchPlaceholder": "Søg efter genstande..."
+      "searchPlaceholder": "Søg efter genstande...",
+      "sortRarity": "Sorter efter sjældenhed",
+      "sortName": "Sorter efter navn"
     },
     "currencies": {
       "cred": "Cred",
@@ -2185,7 +2364,8 @@
       "title": "Auto-synk",
       "toggleError": "Kunne ikke opdatere indstillinger for Auto-synk",
       "tokenExpiredError": "Forbindelsen er udløbet. Opdater din forbindelse først.",
-      "syncing": "Synkroniserer..."
+      "syncing": "Synkroniserer...",
+      "subscriberBadge": "Premium"
     },
     "workshopUpgrades": {
       "description": "Du har nok ressourcer til at opgradere:",
@@ -2194,7 +2374,10 @@
     "overwolfLinkInBrowser": "Besøg arctracker.io i Chrome eller Firefox for at forbinde din konto.",
     "overwolfUpdateLinkInBrowser": "Besøg arctracker.io i Chrome eller Firefox for at opdatere din kontoforbindelse.",
     "blueprintSync": "Tegningssynkronisering",
-    "blueprintSyncDescription": "Synkroniser lærte tegninger fra din spilkonto"
+    "blueprintSyncDescription": "Synkroniser lærte tegninger fra din spilkonto",
+    "tokenExpiredExtensionMissing": "Forbindelsen udløb — Udvidelse påkrævet",
+    "tokenExpiredExtensionMissingDescription": "Din session er udløbet, og browserudvidelsen er ikke installeret. Installer udvidelsen først, og opdater derefter din forbindelse.",
+    "embarkErrorAlreadyLinkedDescription": "Denne spilkonto er allerede knyttet til en anden ARCTracker-konto. Du skal fjerne linket fra den anden konto først, eller bruge en anden spilkonto."
   },
   "HideoutSync": {
     "title": "Synkronisér fremskridt for skjulested",
@@ -2255,7 +2438,8 @@
     "retry": "Prøv igen",
     "showUnchanged": "Vis uændrede",
     "syncSuccess": "Projektsynkronisering fuldført!",
-    "title": "Synkroniser projektfremgang"
+    "title": "Synkroniser projektfremgang",
+    "categoryGoalsToUpdate": "kategorier, der skal opdateres"
   },
   "DevelopersPage": {
     "appDescription": "Beskrivelse",
@@ -2360,7 +2544,7 @@
     "paramFilter": "Filter: completed, incomplete.",
     "paramLocale": "Sprogkode (f.eks. en, de, fr). Standard er en.",
     "paramPage": "Sidenummer til paginering (standard: 1).",
-    "paramPerPage": "Elementer pr. side, maks 100 (standard: 50).",
+    "paramPerPage": "Elementer pr. side, maks 500 (standard: 50).",
     "paramSeason": "Filtrer efter sæson: 1, 2 eller kommasepareret (f.eks. 1,2).",
     "paramSeasonFilter": "Filtrer efter sæson: 1, 2.",
     "paramSort": "Sortér efter: slot (standard), name, quantity.",
@@ -2393,5 +2577,279 @@
     "showUnchanged": "Vis uændrede",
     "syncSuccess": "Synkronisering af tegninger fuldført!",
     "title": "Synkroniser tegninger"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Raider-værktøj"
+    },
+    "killTargets": {
+      "player": "Spiller",
+      "squadmate": "Holdkammerat"
+    }
+  },
+  "ItemTooltip": {
+    "onYourLists": "På dine lister",
+    "tapToView": "Tryk igen for at se detaljer"
+  },
+  "SeasonsPage": {
+    "title": "Sæsoner",
+    "currentSeason": "Du er i øjeblikket på {name}",
+    "seasonStarted": "Startede {date}",
+    "seasonEnds": "Slutter {date}",
+    "departure": {
+      "title": "Forlad {season}",
+      "description": "Klar til afgang? Gem et øjebliksbillede af dine fremskridt, og nulstil til næste sæson. Dine tildelinger i færdighedstræet og fremskridt i ikke-ekspeditionsprojekter vil blive bevaret.",
+      "willReset": "Nulstilles",
+      "bonusInfo": "Bonusfærdighedspoint",
+      "bonusDescription": "Optjen 1 bonusfærdighedspoint pr. {creditsPerPoint} depotkreditter (maks. {maxPoints} point)",
+      "startButton": "Start afrejse",
+      "notYetAvailable": "Afrejsevinduet er endnu ikke åbent. Kom tilbage, når sæsonen slutter.",
+      "alreadyDeparted": "Afrejse fuldført",
+      "alreadyDepartedDescription": "Du har allerede forladt denne sæson. Se dine sæsonstatistikker i historikken herunder.",
+      "confirmTitle": "Bekræft afrejse",
+      "confirmWarning": "Denne handling kan ikke fortrydes. Dine fremskridt i missioner, skjulested og tegninger vil blive nulstillet.",
+      "confirmButton": "Bekræft og forlad",
+      "bonusEarned": "Bonus optjent",
+      "successTitle": "Afrejse fuldført!",
+      "successDescription": "Dine fremskridt i {season} er blevet gemt. Held og lykke i næste sæson!",
+      "loadingTitle": "Indlæser afgangsstatus",
+      "opensIn": "Afgang åbner om {countdown}",
+      "opensAt": "Åbner {date}"
+    },
+    "autoResetDetected": "Sæson {season}-afgang registreret!",
+    "autoResetDescription": "Vi har registreret din afgang via Embark-synkronisering. Dine fremskridt er automatisk blevet gemt. Du kan opdatere dine lagerkreditter og spillerniveau i sæsonhistorikken nedenfor.",
+    "expedition": {
+      "title": "Ekspedition",
+      "description": "Sæsonafgange for tilknyttede ARC Raiders-konti er automatiske.",
+      "currentState": "Nuværende ekspeditionsstatus",
+      "completedExpeditions": "Fuldførte ekspeditioner",
+      "activeSeason": "Aktiv sæson",
+      "syncButton": "Synkroniser ekspedition",
+      "syncingButton": "Synkroniserer...",
+      "syncError": "Kunne ikke synkronisere ekspeditionsstatus.",
+      "states": {
+        "notStarted": "ikke startet",
+        "inProgress": "i gang",
+        "completed": "fuldført",
+        "unknown": "Ukendt",
+        "ready": "Klar",
+        "committed": "Bekræftet"
+      }
+    },
+    "questionnaire": {
+      "description": "Ny hos ARCTracker? Vælg den genstand, du ser i Fase 1 af dit ekspeditionsprojekt, så vi kan indstille den rigtige sæson.",
+      "requiredQuantity": "Påkrævet: {count}",
+      "retakeButton": "Tag sæsonspørgeskemaet om",
+      "success": "Aktiv sæson sat til {season}.",
+      "title": "Find din ekspeditionssæson"
+    },
+    "metaDescription": "Spor din ARC Raiders-ekspeditionssæson, administrer afgange og gennemgå sæsonhistorik i ARCTracker."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "Alle påkrævede genstande (I alt)",
+    "backToProjects": "Tilbage til projekter",
+    "itemRequirements": "Påkrævede genstande",
+    "metaDescription": "Alle krav til genstande for {projectName} i ARC Raiders. Se hver fase, påkrævede genstande og mængder, der er nødvendige for at fuldføre dette projekt.",
+    "metaTitleSuffix": "Krav - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "Belønninger",
+    "projectNotFound": "Projekt ikke fundet",
+    "projectNotFoundMessage": "Det anmodede projekt kunne ikke findes.",
+    "receive": "Modtag",
+    "totalItemsNeeded": "Samlet antal nødvendige genstande",
+    "totalPhases": "Faser",
+    "turnIn": "Aflever",
+    "uniqueItems": "Unikke genstande",
+    "valueRequirement": "Værdikrav"
+  },
+  "Cipher": {
+    "alphaBadge": "Eksperimentel",
+    "clearChat": "Ryd chat",
+    "closeCipher": "Luk",
+    "emptyStateDescription": "Systemer online. Spørg mig om dit lager, raid-præstationer, drop-rater eller alt om felten. Svarene er måske ikke altid præcise — verificer venligst vigtige oplysninger.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Spørg Cipher...",
+    "openCipher": "Åbn Cipher",
+    "panelTitle": "Cipher",
+    "sendMessage": "Send besked",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Scanner lager...",
+        "done": "Scannede lageret"
+      },
+      "createChart": {
+        "active": "Genererer grafik...",
+        "done": "Genererede grafik"
+      },
+      "fallbackActive": "Bruger {toolName}...",
+      "fallbackDone": "Brugte {toolName}",
+      "findBestFarmingMaps": {
+        "active": "Optimerer farming-ruter...",
+        "done": "Optimerede farming-ruter"
+      },
+      "getHideoutModules": {
+        "active": "Tjekker moduler i skjulested...",
+        "done": "Tjekkede moduler i skjulested"
+      },
+      "getItem": {
+        "active": "Henter genstandsdata...",
+        "done": "Hentede genstandsdata"
+      },
+      "getItemDropLocations": {
+        "active": "Analyserer drop-lokationer...",
+        "done": "Analyserede drop-lokationer"
+      },
+      "getItemDropStats": {
+        "active": "Analyserer drop-rater...",
+        "done": "Analyserede drop-rater"
+      },
+      "getPlayerStats": {
+        "active": "Henter spillermetrikker...",
+        "done": "Hentede spillermetrikker"
+      },
+      "getQuest": {
+        "active": "Henter quest-data...",
+        "done": "Hentede quest-data"
+      },
+      "getRaidHistory": {
+        "active": "Henter raid-logs...",
+        "done": "Hentede raid-logs"
+      },
+      "getRaidStats": {
+        "active": "Behandler raid-data...",
+        "done": "Behandlede raid-data"
+      },
+      "getUserHideoutProgress": {
+        "active": "Tjekker fremskridt i skjulested...",
+        "done": "Tjekkede fremskridt i skjulested"
+      },
+      "getUserLoadout": {
+        "active": "Henter loadout-konfiguration...",
+        "done": "Hentede loadout"
+      },
+      "getUserNeededItems": {
+        "active": "Beregner nødvendige genstande...",
+        "done": "Beregnede nødvendige genstande"
+      },
+      "getUserQuestProgress": {
+        "active": "Tjekker quest-fremskridt...",
+        "done": "Tjekkede quest-fremskridt"
+      },
+      "getUserStash": {
+        "active": "Tilgår lager-optegnelser...",
+        "done": "Tilgik lageret"
+      },
+      "getWeaponDamage": {
+        "active": "Analyserer våbenskade...",
+        "done": "Analyserede våbenskade"
+      },
+      "getWeaponKills": {
+        "active": "Henter våbendata...",
+        "done": "Hentede våbendata"
+      },
+      "searchItems": {
+        "active": "Scanner genstandsdatabase...",
+        "done": "Scannede genstandsdatabase"
+      },
+      "searchQuests": {
+        "active": "Scanner quest-arkiv...",
+        "done": "Scannede quest-arkiv"
+      },
+      "getMapEvents": {
+        "active": "Kontrollerer kortbegivenheder...",
+        "done": "Kortbegivenheder kontrolleret"
+      },
+      "searchCraftableItems": {
+        "active": "Søger efter opskrifter...",
+        "done": "Søgte efter opskrifter"
+      },
+      "searchSkillNodes": {
+        "active": "Søger i færdighedstræet...",
+        "done": "Søgte i færdighedstræet"
+      },
+      "getSkillNode": {
+        "active": "Indlæser færdighedsdetaljer...",
+        "done": "Indlæste færdighedsdetaljer"
+      },
+      "getProjects": {
+        "active": "Indlæser projekter...",
+        "done": "Indlæste projekter"
+      },
+      "getUserLists": {
+        "active": "Indlæser dine lister...",
+        "done": "Indlæste dine lister"
+      },
+      "getListItems": {
+        "active": "Indlæser listeelementer...",
+        "done": "Indlæste listeelementer"
+      },
+      "addItemToList": {
+        "active": "Tilføjer til liste...",
+        "denied": "Annulleret",
+        "done": "Tilføjet til liste"
+      },
+      "removeItemFromList": {
+        "active": "Fjerner fra liste...",
+        "denied": "Annulleret",
+        "done": "Fjernet fra liste"
+      },
+      "createList": {
+        "active": "Opretter liste...",
+        "denied": "Annulleret",
+        "done": "Oprettet liste"
+      },
+      "deleteList": {
+        "active": "Sletter liste...",
+        "denied": "Annulleret",
+        "done": "Slettet liste"
+      },
+      "fallbackDenied": "Annulleret {toolName}",
+      "getItemFarmingContext": {
+        "active": "Analyserer farming-kontekst...",
+        "done": "Farming-kontekst analyseret"
+      }
+    },
+    "approval": {
+      "addItemToList": "Tilføj \"{itemName}\" til \"{listName}\"",
+      "approve": "Godkend",
+      "createList": "Opret liste \"{name}\"",
+      "deleteList": "Slet liste \"{listName}\"",
+      "deleteWarning": "Dette vil fjerne listen og {count, plural, one {# genstand} other {alle # genstande}} i den.",
+      "deny": "Afvis",
+      "removeItemFromList": "Fjern \"{itemName}\" fra \"{listName}\""
+    },
+    "feedback": {
+      "helpful": "Nyttigt svar",
+      "notHelpful": "Unyttigt svar"
+    },
+    "confirmation": {
+      "denied": "Handling annulleret",
+      "error": "Noget gik galt",
+      "executing": "Udfører...",
+      "success": {
+        "addItemToList": "Tilføjet til liste",
+        "createList": "Liste oprettet",
+        "deleteList": "Liste slettet",
+        "generic": "Udført",
+        "removeItemFromList": "Fjernet fra liste"
+      }
+    },
+    "privateBetaNotice": "Privat beta — kun for bidragydere. Hold venligst diskussionen til bidragyderkanalen."
+  },
+  "TradersPage": {
+    "itemsForSale": "varer til salg",
+    "quests": "opgaver",
+    "title": "Handlende"
+  },
+  "TraderPage": {
+    "backToTraders": "Tilbage til Handlende",
+    "coins": "Mønter",
+    "limit": "Grænse",
+    "noQuests": "Ingen opgaver",
+    "noShopItems": "Ingen varer til salg",
+    "quests": "Opgaver",
+    "refresh": "opdater",
+    "shop": "Butik",
+    "traderNotFound": "Handlende ikke fundet",
+    "traderNotFoundDesc": "Den handlende, du leder efter, findes ikke."
   }
 }

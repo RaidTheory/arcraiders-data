@@ -50,7 +50,10 @@
       "description": "Verknüpfe deinen ARC Raiders-Account, um dein Lager, deine Werkstätten, Quests und Projekte automatisch zu synchronisieren. Nie wieder manuelles Nachverfolgen.",
       "title": "Synchronisiere deinen ARC Raiders-Account",
       "newBadge": "NEU"
-    }
+    },
+    "discordCommunityTitle": "Tritt dem ArcTracker Discord bei",
+    "discordCommunityDescription": "Hast du einen Vorschlag? Einen Bug gefunden? Wir wollen von dir hören! Schließe dich tausenden ARC Raiders-Spielern auf unserem Discord an, um Ideen auszutauschen, Feedback zu geben und die Zukunft von ArcTracker mitzugestalten.",
+    "joinDiscordCommunity": "Discord beitreten"
   },
   "Navigation": {
     "home": "Startseite",
@@ -71,7 +74,9 @@
     "apps": "Apps",
     "discordBot": "Discord-Bot",
     "squads": "Squads",
-    "stash": "Lager"
+    "stash": "Lager",
+    "seasons": "Saisons",
+    "traders": "Händler"
   },
   "MapEvents": {
     "startsIn": "Startet in",
@@ -106,7 +111,8 @@
       "launchTowerLoot": "Startturm-Beute",
       "hiddenBunker": "Versteckter Bunker",
       "none": "Keine",
-      "birdCity": "Vogelstadt"
+      "birdCity": "Vogelstadt",
+      "hurricane": "Hurrikan"
     }
   },
   "Common": {
@@ -182,11 +188,6 @@
     "requirementsUnknown": "Anforderungen noch nicht bekannt",
     "noRequirements": "Keine Anforderungen",
     "coins": "Münzen",
-    "combatItems": "Kampfausrüstung",
-    "survivalItems": "Überlebensausrüstung",
-    "provisions": "Proviant",
-    "materials": "Materialien",
-    "value": "Wert",
     "phases": "Phasen",
     "required": "Erforderlich",
     "submitItemsValue": "Reiche Gegenstände im Wert der erforderlichen Menge ein, um diese Phase abzuschließen.",
@@ -194,7 +195,8 @@
     "season2": "Saison 2",
     "stashModeActive": "Anzahl aus synchronisiertem Lager",
     "lastSynced": "Synchronisiert",
-    "syncStash": "Lager synchronisieren"
+    "syncStash": "Lager synchronisieren",
+    "season3": "Saison 3"
   },
   "HideoutPage": {
     "level": "Level",
@@ -368,7 +370,19 @@
     "revokeKeyTitle": "API-Schlüssel widerrufen?",
     "revokeKeyDescription": "Dadurch wird dieser Schlüssel dauerhaft widerrufen. Alle Apps, die ihn verwenden, verlieren den Zugriff.",
     "revokeKey": "Schlüssel widerrufen",
-    "buildAnApp": "Möchtest du eine App entwickeln?"
+    "buildAnApp": "Möchtest du eine App entwickeln?",
+    "sectionPrivacy": "Datenschutz",
+    "adPersonalizationTitle": "Personalisierte Werbung",
+    "adPersonalizationDescription": "Erlauben Sie die Weitergabe einer anonymen Kennung an unseren Werbeanbieter, um relevantere Werbung anzuzeigen. Es werden keine personenbezogenen Daten gesendet.",
+    "adPersonalizationToggleLabel": "Personalisierte Werbung aktivieren",
+    "displayName": "Anzeigename",
+    "displayNameEdit": "Bearbeiten",
+    "displayNameSave": "Speichern",
+    "displayNameCancel": "Abbrechen",
+    "displayNameSaved": "Anzeigename aktualisiert.",
+    "displayNameError": "Anzeigename konnte nicht aktualisiert werden. Bitte versuche es erneut.",
+    "displayNameTooLong": "Der Anzeigename darf maximal 32 Zeichen lang sein.",
+    "displayNameRequired": "Der Anzeigename darf nicht leer sein."
   },
   "NeededItemsPage": {
     "searchPlaceholder": "Gegenstände suchen...",
@@ -562,7 +576,15 @@
     },
     "dropRates": "Dropraten",
     "inRaidCrafting": "Herstellung im Raid",
-    "attachments": "Aufsätze"
+    "attachments": "Aufsätze",
+    "upgradePath": "Upgrade-Pfad",
+    "currentTier": "Aktuell",
+    "soldByTraders": "Verkauft von Händlern",
+    "vendorCost": "Kosten",
+    "vendorLimit": "Limit: {count}",
+    "vendorRefreshDaily": "Wird täglich aufgefüllt",
+    "vendorRefreshHourly": "Wird stündlich aufgefüllt",
+    "vendorRefreshHours": "Wird alle {hours}h aufgefüllt"
   },
   "ItemsListPage": {
     "searchPlaceholder": "Gegenstände suchen...",
@@ -636,7 +658,11 @@
     "squadsTitle": "Trupps - ARC Raiders",
     "squadsDescription": "Erstelle und verwalte Trupps, um Raid-Historie und Fortschritt mit Freunden in ARC Raiders zu teilen.",
     "stashTitle": "Lager-Tracker - ARC Raiders",
-    "stashDescription": "Synchronisiere und verfolge automatisch dein ARC Raiders-Lagerinventar, deine Ausrüstung und Währungen. Verknüpfe deinen Spiel-Account für Echtzeit-Updates."
+    "stashDescription": "Synchronisiere und verfolge automatisch dein ARC Raiders-Lagerinventar, deine Ausrüstung und Währungen. Verknüpfe deinen Spiel-Account für Echtzeit-Updates.",
+    "projectNotFoundTitle": "Projekt nicht gefunden - ARC Raiders",
+    "projectNotFoundDescription": "Das angeforderte Projekt konnte nicht gefunden werden.",
+    "tradersTitle": "Händler - ARC Raiders | ARCTracker.io",
+    "tradersDescription": "Durchstöbere alle Händler in ARC Raiders. Sieh dir das Shop-Inventar und die zugehörigen Quests für jeden Händler an."
   },
   "OverlayPage": {
     "pageTitle": "Overlay Begleit-App",
@@ -688,7 +714,7 @@
   },
   "Footer": {
     "copyright": "Spielinhalte und Materialien sind Marken und Urheberrechte von Embark Studios und seinen Lizenzgebern. Alle Rechte vorbehalten.",
-    "siteCopyright": "ArcTracker.io 2025",
+    "siteCopyright": "ArcTracker.io 2025-2026",
     "termsOfService": "Nutzungsbedingungen",
     "privacyPolicy": "Datenschutzerklärung"
   },
@@ -803,14 +829,21 @@
     "premiumActivatedDesc": "Danke, dass du ARCTracker unterstützt! Dein Premium-Abonnement ist jetzt aktiv.",
     "premiumBenefitsTitle": "Deine Premium-Vorteile",
     "manageSubscriptionTitle": "Verwalte dein Abonnement",
-    "manageSubscriptionDesc": "Du kannst deine Abonnementdetails einsehen und deine Abrechnung über die Einstellungsseite oder das Tebex-Zahlungsportal verwalten.",
+    "manageSubscriptionDesc": "Du kannst deine Abonnementdetails einsehen und deine Abrechnung über die Einstellungsseite oder das Zahlungsportal verwalten.",
     "goToSettings": "Zu den Einstellungen",
     "tebexPaymentPortal": "Tebex Zahlungsportal",
     "backToHome": "Zurück zur Startseite",
     "benefitUnlimitedPins": "Unbegrenzte private Pins & Loot-Runs",
     "benefitUnlimitedPinsDesc": "Erstelle unbegrenzt private Karten-Pins und Loot-Run-Routen auf jeder Karte",
     "benefitAutoSync": "Automatische Lagersynchronisierung",
-    "benefitAutoSyncDesc": "Synchronisiert automatisch dein Lager, deine Ausrüstung und deinen Fortschritt aus dem Spiel alle 30 Minuten"
+    "benefitAutoSyncDesc": "Synchronisiert automatisch dein Lager, deine Ausrüstung und deinen Fortschritt aus dem Spiel alle 30 Minuten",
+    "managedByPolar": "Abonnement verwaltet von Polar",
+    "polarPaymentPortal": "Polar-Zahlungsportal",
+    "upgradeToYearly": "Auf Jahresabo upgraden",
+    "upgradeToYearlyDesc": "Wechsle zur jährlichen Abrechnung und spare 44 %. Deine verbleibende monatliche Laufzeit wird dir gutgeschrieben.",
+    "upgradeSuccess": "Erfolgreich auf Jahresabo upgegradet!",
+    "upgradeError": "Upgrade fehlgeschlagen. Bitte versuche es erneut.",
+    "upgradeSaving": "Spare {percent} %"
   },
   "Favorites": {
     "addToList": "Zur Liste hinzufügen",
@@ -880,7 +913,9 @@
     "createYourOwn": "Erstelle deine eigene Liste",
     "listNotFound": "Liste nicht gefunden",
     "listNotFoundDescription": "Diese Liste existiert nicht oder ist nicht öffentlich geteilt.",
-    "backToHome": "Zurück zur Startseite"
+    "backToHome": "Zurück zur Startseite",
+    "cancel": "Abbrechen",
+    "save": "Speichern"
   },
   "Maps": {
     "showAll": "Alle anzeigen",
@@ -1181,7 +1216,7 @@
     "allMaps": "Alle Karten",
     "allStatuses": "Alle Status",
     "filterSeason": "Saison",
-    "allSeasons": "Alle Saisonen",
+    "allSeasons": "Alle Saisons",
     "dateFrom": "Von",
     "dateTo": "Bis",
     "sort": "Sortieren",
@@ -1193,22 +1228,22 @@
     "status": {
       "survived": "Überlebt",
       "kia": "Gefallen",
-      "trade": "Handel"
+      "trade": "Trade"
     },
     "itemCount": "{unique} Gegenstände ({total} gesamt)",
     "manualValue": "Manuell",
     "public": "Öffentlich",
     "hideItems": "Gegenstände ausblenden",
-    "showItems": "Gegenstände anzeigen ({count})",
+    "showItems": "Gegenstände zeigen ({count})",
     "addRaid": "Raid hinzufügen",
     "editRaid": "Raid bearbeiten",
-    "addRaidDescription": "Protokolliere einen neuen Raid mit extrahierten Gegenständen und Ergebnis.",
+    "addRaidDescription": "Erfasse einen neuen Raid mit extrahierter Beute und Ergebnis.",
     "editRaidDescription": "Aktualisiere die Details dieses Raids.",
     "raidStatus": "Raid-Ergebnis",
     "raidMap": "Karte",
-    "selectMap": "Wähle eine Karte",
+    "selectMap": "Karte wählen",
     "raidDate": "Datum",
-    "selectDate": "Wähle ein Datum",
+    "selectDate": "Datum wählen",
     "raidItems": "Extrahierte Gegenstände",
     "addItem": "Gegenstand hinzufügen",
     "searchItems": "Gegenstände suchen...",
@@ -1217,21 +1252,21 @@
     "firStatusOn": "Im Raid gefunden (klicken zum Umschalten)",
     "firStatusOff": "Nicht im Raid gefunden (klicken zum Umschalten)",
     "totalValue": "Gesamtwert",
-    "calculatedValue": "Wert (im Raid gefunden)",
+    "calculatedValue": "Im Raid gefundener Wert",
     "useManualValue": "Überschreiben",
     "manualValueLabel": "Manueller Wert",
     "enterManualValue": "Wert eingeben...",
     "raidNotes": "Notizen",
     "notesPlaceholder": "Optionale Notizen zu diesem Raid...",
-    "createRaid": "Raid protokollieren",
-    "saveError": "Fehler beim Speichern des Raids",
-    "fetchError": "Fehler beim Laden der Raids",
+    "createRaid": "Raid erfassen",
+    "saveError": "Raid konnte nicht gespeichert werden",
+    "fetchError": "Raids konnten nicht geladen werden",
     "signInRequired": "Anmeldung erforderlich",
-    "signInDescription": "Melde dich an, um deinen Raid-Verlauf zu verfolgen und Statistiken zu sehen.",
+    "signInDescription": "Melde dich an, um deinen Raid-Verlauf zu verfolgen und Statistiken anzusehen.",
     "noRaids": "Noch keine Raids",
     "noRaidsWithFilters": "Keine Raids entsprechen deinen aktuellen Filtern.",
-    "noRaidsYet": "Beginne deine Raids zu verfolgen, um sie hier zu sehen.",
-    "addFirstRaid": "Protokolliere deinen ersten Raid",
+    "noRaidsYet": "Beginne mit dem Tracking deiner Raids, um sie hier zu sehen.",
+    "addFirstRaid": "Erfasse deinen ersten Raid",
     "showing": "Zeige {from}-{to} von {total}",
     "pageOf": "Seite {current} von {total}",
     "shareRaid": "Raid teilen",
@@ -1242,11 +1277,11 @@
     "privateRaidDesc": "Nur du kannst diesen Raid sehen.",
     "shareLink": "Link teilen",
     "linkCopied": "Link in die Zwischenablage kopiert!",
-    "copyError": "Fehler beim Kopieren des Links",
-    "shareError": "Fehler beim Aktualisieren der Freigabeeinstellungen",
+    "copyError": "Link konnte nicht kopiert werden",
+    "shareError": "Freigabeeinstellungen konnten nicht aktualisiert werden",
     "deleteRaidTitle": "Raid löschen?",
-    "deleteRaidDescription": "Diese Aktion kann nicht rückgängig gemacht werden. Der Raid und alle seine Daten werden dauerhaft gelöscht.",
-    "deleteError": "Fehler beim Löschen des Raids",
+    "deleteRaidDescription": "Diese Aktion kann nicht rückgängig gemacht werden. Der Raid und alle zugehörigen Daten werden dauerhaft gelöscht.",
+    "deleteError": "Raid konnte nicht gelöscht werden",
     "sharedRaid": "Geteilter Raid",
     "backToHistory": "Zurück zum Raid-Verlauf",
     "raidNotFound": "Raid nicht gefunden",
@@ -1256,67 +1291,67 @@
     "raidScreenshot": "Raid-Screenshot",
     "screenshotLabel": "Screenshot",
     "optional": "optional",
-    "mapEvents": "Karten-Events",
-    "majorEvent": "Großes Event",
-    "minorEvent": "Kleines Event",
+    "mapEvents": "Kartenereignisse",
+    "majorEvent": "Hauptereignis",
+    "minorEvent": "Nebenereignis",
     "noEvent": "Keines",
     "extractingItems": "Extrahiere Gegenstände aus Screenshot...",
     "estimatedTime": "Geschätzte Zeit: ~{seconds} Sekunden",
     "canSaveAndReturn": "Du kannst jetzt speichern und später wiederkommen, wenn du nicht warten möchtest.",
-    "screenshotUploadLabel": "Einen Screenshot hochladen",
-    "screenshotUploadHint": "Drag & Drop, Einfügen (Strg+V) oder klicken zum Hochladen",
-    "screenshotHint": "Lade deinen End-of-Raid Bildschirm hoch, um Gegenstände automatisch zu erkennen",
+    "screenshotUploadLabel": "Screenshot hochladen",
+    "screenshotUploadHint": "Ziehen & Ablegen, Einfügen (Strg+V) oder klicken zum Hochladen",
+    "screenshotHint": "Lade deinen End-of-Raid-Bildschirm hoch, um Gegenstände automatisch zu erkennen",
     "aiPowered": "KI-gestützt",
-    "itemsEmptyHint": "Füge Gegenstände manuell hinzu oder lade oben einen Screenshot hoch zur automatischen Erkennung",
+    "itemsEmptyHint": "Füge Gegenstände manuell hinzu oder lade einen Screenshot hoch, um sie automatisch zu erkennen",
     "screenshotDropHere": "Bild hier ablegen",
-    "screenshotPreview": "Screenshot Vorschau",
+    "screenshotPreview": "Screenshot-Vorschau",
     "screenshotProcessing": "Verarbeite...",
     "screenshotInvalidType": "Bitte lade ein JPEG, PNG oder WebP Bild hoch",
     "screenshotTooLarge": "Bild ist zu groß. Maximale Größe ist 5MB",
-    "screenshotReadError": "Fehler beim Lesen der Bilddatei",
+    "screenshotReadError": "Bilddatei konnte nicht gelesen werden",
     "visionProcessing": "Scanne...",
     "visionCompleted": "Gescannt",
     "visionFailed": "Scan fehlgeschlagen",
     "needsReview": "{count} {count, plural, one {Gegenstand} other {Gegenstände}} zu überprüfen",
     "verify": "Überprüfen",
     "verifyItems": "Gegenstände vor dem Anwenden überprüfen",
-    "verifyFirst": "Zuerst Gegenstände überprüfen",
+    "verifyFirst": "Gegenstände erst überprüfen",
     "mergeItemsTitle": "Gegenstände erkannt",
     "mergeItemsDescription": "Dein Screenshot wurde analysiert. Wie möchtest du mit den erkannten Gegenständen verfahren?",
     "existingItems": "Deine aktuellen Gegenstände",
-    "detectedItems": "Erkannt aus Screenshot",
+    "detectedItems": "Vom Screenshot erkannt",
     "itemsSummary": "{unique} einzigartige Gegenstände ({total} gesamt)",
     "mergeItems": "Gegenstände zusammenführen",
     "mergeItemsHint": "Mengen kombinieren ({unique} einzigartig, {total} gesamt)",
     "replaceItems": "Gegenstände ersetzen",
     "replaceItemsHint": "Nur erkannte Gegenstände behalten ({unique} einzigartig, {total} gesamt)",
     "visionDetected": "{count, plural, one {# Gegenstand} other {# Gegenstände}} erkannt",
-    "visionUnknown": "{count, plural, one {# Unbekannt} other {# Unbekannte}}",
-    "verifyItemInstruction": "Bitte überprüfe, ob dieser Gegenstand mit dem Screenshot übereinstimmt. Wähle den richtigen Gegenstand oder suche nach einem anderen.",
+    "visionUnknown": "{count, plural, one {# Unbekannter} other {# Unbekannte}}",
+    "verifyItemInstruction": "Bitte bestätige, dass dieser Gegenstand mit dem Screenshot übereinstimmt. Wähle den korrekten Gegenstand oder suche nach einem anderen.",
     "currentDetection": "Aktuell:",
     "quickSelect": "Schnellauswahl:",
     "searchDifferentItem": "Anderen Gegenstand suchen...",
-    "confirmCorrect": "Als korrekt bestätigen",
+    "confirmCorrect": "Bestätigen",
     "applyChange": "Änderung anwenden",
-    "cancelChange": "Änderung abbrechen",
+    "cancelChange": "Änderung verwerfen",
     "deleteItem": "Löschen",
     "cancelAction": "Abbrechen",
     "clickToVerify": "Überprüfung erforderlich",
-    "itemsNeedReview": "{count} {count, plural, one {Gegenstand benötigt} other {Gegenstände benötigen}} Überprüfung",
+    "itemsNeedReview": "{count} {count, plural, one {Gegenstand muss} other {Gegenstände müssen}} überprüft werden",
     "stats": {
       "incomeLast7Days": "Letzte 7 Tage",
       "survivalRate": "Überlebensrate",
-      "totalRaids": "Raids Gesamt",
-      "averageValue": "Durchschn. Wert",
+      "totalRaids": "Raids gesamt",
+      "averageValue": "Ø Wert",
       "bestRaid": "Bester Raid"
     },
-    "profileVisibility": "Dein Raid-Profil teilen",
+    "profileVisibility": "Teile dein Raid-Profil",
     "profilePublicDesc": "Jeder mit deinem Profil-Link kann deine öffentlichen Raids sehen.",
     "profilePrivateDesc": "Dein Raid-Verlauf ist privat. Aktiviere das Teilen, um einen öffentlichen Profil-Link zu erhalten.",
     "profileLink": "Dein Profil-Link",
     "profileLinkCopied": "Link in die Zwischenablage kopiert!",
-    "profileUpdateError": "Fehler beim Aktualisieren der Profilsichtbarkeit",
-    "profileCopyError": "Fehler beim Kopieren des Links",
+    "profileUpdateError": "Profilsichtbarkeit konnte nicht aktualisiert werden",
+    "profileCopyError": "Link konnte nicht kopiert werden",
     "copyLink": "Link kopieren",
     "openInNewTab": "In neuem Tab öffnen",
     "publicProfile": "Öffentliches Profil",
@@ -1329,21 +1364,21 @@
     "profileNotFound": "Profil nicht gefunden",
     "tutorial": {
       "step1Title": "Verfolge deine Raids",
-      "step1Description": "Klicke hier, um einen Raid zu protokollieren! Lade einen Screenshot vom \"Rückkehr nach Speranza\"-Bildschirm hoch und unsere KI extrahiert automatisch deine Beutegegenstände.",
+      "step1Description": "Klicke hier, um einen Raid zu erfassen! Lade einen Screenshot vom \"Returning to Speranza\" Bildschirm hoch und unsere KI extrahiert automatisch deine Beute.",
       "step2Title": "Wähle deine Karte",
-      "step2Description": "Wähle, auf welcher Karte du gespielt hast, und wähle optional aktive Events während deines Raids aus.",
+      "step2Description": "Wähle, auf welcher Karte du gespielt hast, und optional alle aktiven Ereignisse während deines Raids.",
       "step3Title": "Screenshot hochladen",
-      "step3Description": "Lade hier deinen End-of-Raid Screenshot hoch. Unsere KI erkennt und extrahiert alle Gegenstände, die du mitgebracht hast. Du kannst Gegenstände bei Bedarf auch manuell hinzufügen.",
+      "step3Description": "Lade hier deinen End-of-Raid-Screenshot hoch. Unsere KI erkennt und extrahiert alle Gegenstände, die du mitgebracht hast. Du kannst bei Bedarf auch Gegenstände manuell hinzufügen.",
       "gotIt": "Verstanden!",
       "next": "Weiter",
       "skipTutorial": "Tutorial überspringen",
       "showTutorial": "Tutorial anzeigen"
     },
     "beta": "(Beta)",
-    "betaTooltip": "Diese Funktion befindet sich in der Beta-Phase und kann sich im Laufe der Zeit ändern. Wir bitten um Verständnis, falls es Probleme bei der Identifizierung von Gegenständen gibt.",
+    "betaTooltip": "Diese Funktion befindet sich in der Beta-Phase und kann sich noch ändern. Bitte hab Geduld, falls es Probleme bei der Gegenstandserkennung gibt.",
     "tutorialVideo": "Tutorial-Video",
-    "screenshotNoCrop": "Es muss ein vollständiger Screenshot sein. Nicht zuschneiden.",
-    "stackInfo": "Rasterposition: Zeile {row}, Spalte {col} • Menge: {quantity}",
+    "screenshotNoCrop": "Muss ein vollständiger Screenshot sein. Nicht zuschneiden.",
+    "stackInfo": "Gitterposition: Zeile {row}, Spalte {col} • Menge: {quantity}",
     "loadingItems": "Lade Gegenstände...",
     "table": {
       "items": "Gegenstände",
@@ -1367,27 +1402,148 @@
     },
     "marketing": {
       "ctaText": "Beginne noch heute mit dem Tracking deiner Raids. Es ist kostenlos!",
-      "feature1Desc": "Lade deinen Screenshot vom Raid-Ende hoch und unsere KI erkennt sofort alle extrahierten Gegenstände.",
+      "feature1Desc": "Lade deinen End-of-Raid-Screenshot hoch und unsere KI erkennt sofort alle extrahierten Gegenstände.",
       "feature1Title": "KI-Screenshot-Analyse",
-      "feature2Desc": "Rechne deine Raid-Beute automatisch auf deine Quest- und Unterschlupf-Anforderungen an. Kein manuelles Tracking mehr.",
-      "feature2Title": "Fortschritts-Synchronisation per Klick",
-      "feature3Desc": "Verfolge deine Einnahmen, Überlebensrate und Raid-Performance im Zeitverlauf mit visuellen Dashboards.",
+      "feature2Desc": "Wende Raid-Beute automatisch auf deine Quest- und Versteck-Anforderungen an. Kein manuelles Tracking mehr.",
+      "feature2Title": "Fortschritts-Sync per Klick",
+      "feature3Desc": "Verfolge dein Einkommen, deine Überlebensrate und deine Raid-Leistung im Zeitverlauf mit visuellen Dashboards.",
       "feature3Title": "Detaillierte Statistiken",
-      "feature4Desc": "Erstelle öffentliche Links, um deine besten (oder schlechtesten) Raids mit der Community zu teilen. Verknüpfe deinen Account mit unserem Discord-Bot, um deine Raids automatisch auf deinem Server zu teilen.",
+      "feature4Desc": "Erstelle öffentliche Links, um deine besten (oder schlechtesten) Raids mit der Community zu teilen. Verknüpfe dein Konto mit unserem Discord-Bot, um deine Raids automatisch auf deinem Server zu teilen.",
       "feature4Title": "Teile deine Raids",
       "featuresTitle": "Alles, was du brauchst",
       "getStarted": "Loslegen",
-      "heroSubtitle": "Tracke automatisch jeden Raid, analysiere deine Einnahmen und synchronisiere deine gefundenen Gegenstände mit Quests und Unterschlupf-Upgrades – dank unserer KI-gestützten Screenshot-Analyse.",
-      "heroTitle": "Tracke deine Raid-Statistiken",
-      "highlight1": "Unterstützt alle Karten und saisonalen Events",
-      "highlight2": "Verfolge den Found-in-Raid-Status pro Gegenstand",
-      "highlight3": "Mache die Synchronisation rückgängig, falls du einen Fehler gemacht hast",
+      "heroSubtitle": "Verfolge automatisch jeden Raid, analysiere deine Einnahmen und synchronisiere gefundene Gegenstände mit Quests und Versteck-Upgrades mit unserer KI-gestützten Screenshot-Analyse.",
+      "heroTitle": "Verfolge deine Raid-Statistiken",
+      "highlight1": "Unterstützt alle Karten und saisonalen Ereignisse",
+      "highlight2": "Verfolge den 'Im Raid gefunden'-Status pro Gegenstand",
+      "highlight3": "Synchronisation rückgängig machen bei Fehlern",
       "highlight4": "Funktioniert mit dem ARCTracker-Overlay",
-      "screenshotDashboardDesc": "Sieh dir umfassende Statistiken an, filtere nach Karte/Saison und analysiere deine Raid-Performance im Zeitverlauf.",
-      "screenshotDashboardTitle": "Erlebe es in Aktion"
+      "screenshotDashboardDesc": "Sieh dir umfassende Statistiken an, filtere nach Karte/Saison und analysiere deine Raid-Leistung im Zeitverlauf.",
+      "screenshotDashboardTitle": "Sieh es in Aktion"
     },
-    "previous": "Vorherige",
-    "next": "Nächste"
+    "previous": "Zurück",
+    "next": "Weiter",
+    "embarkSyncTutorial": {
+      "step1Title": "Synchronisiere deine Raids",
+      "step1Description": "Klicke auf den Synchronisieren-Button, um deine neuesten Raids jederzeit von Embark abzurufen. Abonniere, um automatische Synchronisierung alle 30 Minuten zu erhalten.",
+      "step2Title": "Jetzt synchronisieren",
+      "step2Description": "Willst du die neuesten Daten sofort? Klicke oben rechts auf den Synchronisieren-Button, um deine aktuellsten Raids jetzt abzurufen.",
+      "step3Title": "Beute nicht enthalten",
+      "step3Description": "Synchronisierte Raids enthalten nicht die geplünderte Beute. Um deine Beute zu verfolgen, klicke bei einem Raid auf 'Screenshot hinzufügen', um deinen End-of-Raid-Bildschirm hochzuladen.",
+      "step4Title": "Synchronisierte Raids & Legacy",
+      "step4Description": "Synchronisierte Raids zeigen alles, was von ARC Raiders abgerufen wurde – beachte, dass die Daten den Zeitpunkt der Synchronisierung zeigen, nicht wann du gespielt hast, da ARC Raiders dies nicht bereitstellt. Legacy zeigt Raids, die du per Screenshot verfolgt hast. Nutze den Verknüpfen-Button bei einem Legacy-Raid, um ihn mit dem passenden synchronisierten Raid zu verbinden.",
+      "skipTutorial": "Tutorial überspringen",
+      "gotIt": "Verstanden!",
+      "next": "Weiter"
+    },
+    "loadError": "Daten konnten nicht geladen werden. Bitte versuche es erneut.",
+    "addScreenshot": "Screenshot hinzufügen",
+    "allOutcomes": "Alle Ergebnisse",
+    "alreadyUpToDate": "Bereits aktuell",
+    "avgPerExtraction": "Ø pro Extraktion",
+    "cancelButton": "Abbrechen",
+    "clearButton": "Leeren",
+    "deleteRaid": "Raid löschen",
+    "detachScreenshot": "Screenshot entfernen",
+    "editItems": "Gegenstände bearbeiten",
+    "embarkStats": {
+      "arcEnemiesByTypeTitle": "Zerstörte ARC-Gegner nach Typ",
+      "arcEnemiesDestroyed": "Zerstörte ARC-Gegner",
+      "avgProfitPerExtraction": "Ø Gewinn pro Extraktion",
+      "avgTimeHeader": "Ø Zeit",
+      "connectButton": "Konto verknüpfen",
+      "connectDesc": "Verknüpfe dein Embark-Konto, um Statistiken freizuschalten – Überlebensrate, Kills, Schaden, extrahierter Wert und mehr.",
+      "connectTitle": "Verbinde dein ARC Raiders-Konto",
+      "diedLabel": "gestorben",
+      "emptyState": "Noch keine Raid-Daten. Spiele ARC Raiders, um deine Statistiken hier zu sehen.",
+      "extractedLabel": "extrahiert",
+      "lastN": "Letzte {count}",
+      "mapHeader": "Karte",
+      "netIncomeHeader": "Nettoeinkommen",
+      "netProfitLoss": "Nettogewinn / -verlust",
+      "netValue": "Nettowert",
+      "perMapPerformance": "Leistung pro Karte",
+      "playerKills": "Spieler-Kills",
+      "raidAxisLabel": "Raid Nr.",
+      "raidValueHistoryTitle": "Raid-Werteverlauf",
+      "raidsHeader": "Raids",
+      "survivalHeader": "Überleben",
+      "timeTopside": "Zeit an der Oberfläche",
+      "totalValueExtracted": "Gesamtwert extrahiert",
+      "valueBroughtIn": "Eingebrachter Wert",
+      "valueExtracted": "Extrahierter Wert",
+      "weaponsByKillsTitle": "Waffen nach Kills",
+      "containersLooted": "Geplünderte Container",
+      "containersPerRaid": "Container / Raid"
+    },
+    "extractedSuffix": " extrahiert",
+    "extractionRate": "Extraktionsrate",
+    "firLabel": "FIR",
+    "linkButton": "Verknüpfen",
+    "linkRoundEmpty": "Keine unverknüpften Runden verfügbar.",
+    "linkRoundTitle": "Mit einer Runde verknüpfen",
+    "linkScreenshotEmpty": "Keine unverknüpften Screenshot-Raids verfügbar.",
+    "linkScreenshotTitle": "Screenshot mit dieser Runde verknüpfen",
+    "linkToRound": "Mit Runde verknüpfen",
+    "linkedStatus": "Verknüpft",
+    "linkedToRaid": "Mit Raid verknüpft",
+    "lootLabel": "Beute",
+    "matchMatchingValue": "Übereinstimmender Wert",
+    "matchSameMap": "Gleiche Karte",
+    "matchSameOutcome": "Gleiches Ergebnis",
+    "matchSimilarValue": "Ähnlicher Wert",
+    "noDate": "Kein Datum",
+    "noScreenshotRaids": "Noch keine Screenshot-Raids. Füge Screenshots über den Button oben hinzu.",
+    "noSyncedRaids": "Noch keine ARC Raiders Raids synchronisiert. Spiele einige Raids und klicke auf Synchronisieren.",
+    "nonFirLabel": "Nicht-FIR",
+    "outcomeDied": "Gestorben",
+    "outcomeExtracted": "Extrahiert",
+    "outcomeUnknown": "Unbekannt",
+    "raidDashboardAlt": "Raid-Verlauf Dashboard",
+    "relativeTime": {
+      "daysAgo": "vor {count} T",
+      "hoursAgo": "vor {count} Std.",
+      "justNow": "Gerade eben",
+      "minutesAgo": "vor {count} Min."
+    },
+    "roundStats": "Rundenstatistiken",
+    "screenshotDetachFailed": "Screenshot konnte nicht entfernt werden",
+    "screenshotDetached": "Screenshot von Runde entfernt",
+    "screenshotInventory": "Screenshot-Inventar",
+    "screenshotLinkFailed": "Screenshot konnte nicht verknüpft werden",
+    "screenshotLinked": "Screenshot mit Runde verknüpft",
+    "screenshotRaidsInfo": "Screenshot-Raids wurden manuell eingereicht. Verknüpfe sie mit einem synchronisierten Raid, um Gegenstände zu importieren.",
+    "statARC": "ARC",
+    "statBroughtIn": "Eingebracht:",
+    "statDmg": "Schaden",
+    "statDown": "Down",
+    "statDowns": "Downs",
+    "statExtracted": "Extrahiert:",
+    "statKills": "Kills",
+    "statNet": "Netto:",
+    "statPlayer": "Spieler",
+    "statValue": "Wert",
+    "statXP": "EP",
+    "syncFailed": "Sync fehlgeschlagen",
+    "syncNow": "Jetzt synchronisieren",
+    "syncSuccess": "{count, plural, one {# neue Runde} other {# neue Runden}} synchronisiert",
+    "syncing": "Synchronisiere...",
+    "tabs": {
+      "history": "Verlauf",
+      "legacy": "Legacy",
+      "stats": "Statistiken",
+      "synced": "Synchronisiert",
+      "syncedRaids": "Synchronisierte Raids"
+    },
+    "toggleMenu": "Menü umschalten",
+    "totalTime": "Gesamtzeit",
+    "tutorialTooltip": "Klicken für Tutorial",
+    "undoSyncFailed": "Sync konnte nicht rückgängig gemacht werden",
+    "undoSyncFailedLocally": "Lokaler Sync-Widerruf fehlgeschlagen",
+    "unknownMap": "Unbekannte Karte",
+    "valueSuffix": " Wert",
+    "timeInRaid": "Zeit im Raid",
+    "statDamageByTarget": "Schaden nach Ziel"
   },
   "RaidSync": {
     "title": "Auf Fortschritt anwenden",
@@ -1499,7 +1655,9 @@
         "hideout": "Unterschlupf-Module",
         "done": "Fertig"
       },
-      "flickeringFlames": "Flackernde Flammen"
+      "flickeringFlames": "Flackernde Flammen",
+      "nonExpeditionProjects": "Nicht-Expeditions-Projekte",
+      "expeditionProjects": "Expeditionsprojekte"
     }
   },
   "DeviceAuth": {
@@ -1631,7 +1789,16 @@
       "saving": "Wird gespeichert...",
       "selectAll": "Alle auswählen",
       "unselectAll": "Alle abwählen",
-      "noChanges": "Keine Änderungen zum Speichern"
+      "noChanges": "Keine Änderungen zum Speichern",
+      "cancel": "Abbrechen"
+    },
+    "inferred": {
+      "completedViaLabel": "Abschlussquelle",
+      "completedViaValue": "ARC Raiders Expeditionsfortschritt",
+      "description": "Dieser Saisonabschluss wurde anhand deiner ARC Raiders Expeditions-Synchronisierung erkannt.",
+      "detailsLabel": "Detaillierte Statistiken",
+      "detailsValue": "Für diese Saison nicht verfügbar.",
+      "title": "Saison {number} abgeschlossen"
     }
   },
   "DiscordBotPage": {
@@ -1866,7 +2033,17 @@
       "screenshotAlt": "Squad-Seite mit geteiltem Raid-Verlauf",
       "screenshotDescription": "Sieh dir den kombinierten Raid-Verlauf an, teile private Kartenmarkierungen und koordiniere dich mit deinem Squad.",
       "seeItInAction": "Sieh es in Aktion"
-    }
+    },
+    "filterMap": "Karte",
+    "filterStatus": "Status",
+    "filterSeason": "Saison",
+    "filterMember": "Mitglied",
+    "allMaps": "Alle Karten",
+    "allStatuses": "Alle Status",
+    "allSeasons": "Alle Saisons",
+    "allMembers": "Alle Mitglieder",
+    "clearFilters": "Filter zurücksetzen",
+    "noRaidsFiltered": "Keine Raids entsprechen deinen aktuellen Filtern."
   },
   "MapSubcategories": {
     "abundantLoot": "Reichhaltige Beute",
@@ -2084,7 +2261,9 @@
       "suggestItem": "Gegenstand vorschlagen",
       "mappingLocked": "Diese Gegenstandszuordnung ist gesperrt",
       "sortUnsorted": "Unsortiert",
-      "searchPlaceholder": "Gegenstände suchen..."
+      "searchPlaceholder": "Gegenstände suchen...",
+      "sortRarity": "Nach Seltenheit sortieren",
+      "sortName": "Nach Namen sortieren"
     },
     "currencies": {
       "cred": "Cred",
@@ -2185,7 +2364,8 @@
       "title": "Auto-Sync",
       "toggleError": "Auto-Sync-Einstellungen konnten nicht aktualisiert werden",
       "tokenExpiredError": "Verbindung abgelaufen. Bitte aktualisiere zuerst deine Verbindung.",
-      "syncing": "Synchronisieren..."
+      "syncing": "Synchronisieren...",
+      "subscriberBadge": "Premium"
     },
     "workshopUpgrades": {
       "description": "Du hast genügend Ressourcen für Upgrades:",
@@ -2194,7 +2374,10 @@
     "overwolfLinkInBrowser": "Um deinen Account zu verknüpfen, besuche arctracker.io in Chrome oder Firefox.",
     "overwolfUpdateLinkInBrowser": "Um deine Account-Verknüpfung zu aktualisieren, besuche arctracker.io in Chrome oder Firefox.",
     "blueprintSync": "Bauplan-Synchronisation",
-    "blueprintSyncDescription": "Synchronisiere erlernte Baupläne von deinem Spielkonto"
+    "blueprintSyncDescription": "Synchronisiere erlernte Baupläne von deinem Spielkonto",
+    "tokenExpiredExtensionMissing": "Verbindung abgelaufen — Erweiterung erforderlich",
+    "tokenExpiredExtensionMissingDescription": "Deine Sitzung ist abgelaufen und die Browser-Erweiterung ist nicht installiert. Installiere zuerst die Erweiterung und aktualisiere dann deine Verbindung.",
+    "embarkErrorAlreadyLinkedDescription": "Dieser Spiel-Account ist bereits mit einem anderen ARCTracker-Konto verknüpft. Du musst die Verknüpfung mit dem anderen Konto zuerst aufheben oder einen anderen Spiel-Account verwenden."
   },
   "HideoutSync": {
     "title": "Unterschlupf-Fortschritt synchronisieren",
@@ -2255,7 +2438,8 @@
     "retry": "Wiederholen",
     "showUnchanged": "Unveränderte anzeigen",
     "syncSuccess": "Projektsynchronisierung abgeschlossen!",
-    "title": "Projektfortschritt synchronisieren"
+    "title": "Projektfortschritt synchronisieren",
+    "categoryGoalsToUpdate": "zu aktualisierende Kategorien"
   },
   "DevelopersPage": {
     "appDescription": "Beschreibung",
@@ -2360,7 +2544,7 @@
     "paramFilter": "Filter: completed, incomplete.",
     "paramLocale": "Sprachcode (z. B. en, de, fr). Standard ist en.",
     "paramPage": "Seitennummer für Paginierung (Standard: 1).",
-    "paramPerPage": "Einträge pro Seite, max. 100 (Standard: 50).",
+    "paramPerPage": "Einträge pro Seite, max. 500 (Standard: 50).",
     "paramSeason": "Nach Saison filtern: 1, 2 oder kommagetrennt (z. B. 1,2).",
     "paramSeasonFilter": "Nach Saison filtern: 1, 2.",
     "paramSort": "Sortieren nach: slot (Standard), name, quantity.",
@@ -2393,5 +2577,279 @@
     "showUnchanged": "Unveränderte anzeigen",
     "syncSuccess": "Bauplan-Synchronisation abgeschlossen!",
     "title": "Baupläne synchronisieren"
+  },
+  "EmbarkStats": {
+    "weapons": {
+      "raiderTool": "Raider-Werkzeug"
+    },
+    "killTargets": {
+      "player": "Spieler",
+      "squadmate": "Truppmitglied"
+    }
+  },
+  "ItemTooltip": {
+    "onYourLists": "Auf deinen Listen",
+    "tapToView": "Erneut tippen, um Details anzuzeigen"
+  },
+  "SeasonsPage": {
+    "title": "Saisons",
+    "currentSeason": "Du befindest dich aktuell in {name}",
+    "seasonStarted": "Gestartet am {date}",
+    "seasonEnds": "Endet am {date}",
+    "departure": {
+      "title": "{season} verlassen",
+      "description": "Bereit zum Aufbruch? Speichere eine Momentaufnahme deines Fortschritts und setze ihn für die nächste Saison zurück. Deine Skillbaum-Verteilungen und der Fortschritt bei Nicht-Expeditions-Projekten bleiben erhalten.",
+      "willReset": "Wird zurückgesetzt",
+      "bonusInfo": "Bonus-Skillpunkte",
+      "bonusDescription": "Verdiene 1 Bonus-Skillpunkt pro {creditsPerPoint} Lager-Credits (max. {maxPoints} Punkte)",
+      "startButton": "Abreise starten",
+      "notYetAvailable": "Das Zeitfenster für die Abreise ist noch nicht geöffnet. Schau wieder vorbei, wenn die Saison endet.",
+      "alreadyDeparted": "Abreise abgeschlossen",
+      "alreadyDepartedDescription": "Du bist in dieser Saison bereits abgereist. Sieh dir deine Saison-Statistiken unten im Verlauf an.",
+      "confirmTitle": "Abreise bestätigen",
+      "confirmWarning": "Diese Aktion kann nicht rückgängig gemacht werden. Dein Questfortschritt, Versteck und deine Baupläne werden zurückgesetzt.",
+      "confirmButton": "Bestätigen & Abreisen",
+      "bonusEarned": "Bonus verdient",
+      "successTitle": "Abreise abgeschlossen!",
+      "successDescription": "Dein {season}-Fortschritt wurde gespeichert. Viel Glück in der nächsten Saison!",
+      "loadingTitle": "Abflugstatus wird geladen",
+      "opensIn": "Aufbruch beginnt in {countdown}",
+      "opensAt": "Beginnt am {date}"
+    },
+    "autoResetDetected": "Saison {season}-Abreise erkannt!",
+    "autoResetDescription": "Wir haben deine Abreise über Embark-Sync erkannt. Dein Fortschritt wurde automatisch gespeichert. Du kannst deine Lager-Credits und dein Spielerlevel unten im Saisonverlauf aktualisieren.",
+    "expedition": {
+      "title": "Expedition",
+      "description": "Saison-Starts für verknüpfte ARC Raiders-Konten erfolgen automatisch.",
+      "currentState": "Aktueller Expeditionsstatus",
+      "completedExpeditions": "Abgeschlossene Expeditionen",
+      "activeSeason": "Aktive Saison",
+      "syncButton": "Expedition synchronisieren",
+      "syncingButton": "Synchronisiere...",
+      "syncError": "Expeditionsstatus konnte nicht synchronisiert werden.",
+      "states": {
+        "notStarted": "nicht gestartet",
+        "inProgress": "im Gange",
+        "completed": "abgeschlossen",
+        "unknown": "Unbekannt",
+        "ready": "Bereit",
+        "committed": "Bestätigt"
+      }
+    },
+    "questionnaire": {
+      "description": "Neu bei ARCTracker? Wähle den Gegenstand, den du in Phase 1 deines Expeditionsprojekts siehst, damit wir die richtige Saison einstellen können.",
+      "requiredQuantity": "Benötigt: {count}",
+      "retakeButton": "Saison-Fragebogen wiederholen",
+      "success": "Aktive Saison auf {season} gesetzt.",
+      "title": "Finde deine Expeditionssaison"
+    },
+    "metaDescription": "Verfolge deine ARC Raiders Expeditions-Saison, verwalte Aufbrüche und überprüfe die Saison-Historie in ARCTracker."
+  },
+  "ProjectDetailPage": {
+    "allRequiredItems": "Alle benötigten Gegenstände (Gesamt)",
+    "backToProjects": "Zurück zu den Projekten",
+    "itemRequirements": "Benötigte Gegenstände",
+    "metaDescription": "Alle Gegenstandsanforderungen für {projectName} in ARC Raiders. Sieh dir jede Phase, die benötigten Gegenstände und die Mengen an, die für den Abschluss dieses Projekts erforderlich sind.",
+    "metaTitleSuffix": "Anforderungen - ARC Raiders | ARCTracker.io",
+    "phaseRewards": "Belohnungen",
+    "projectNotFound": "Projekt nicht gefunden",
+    "projectNotFoundMessage": "Das angeforderte Projekt konnte nicht gefunden werden.",
+    "receive": "Erhalten",
+    "totalItemsNeeded": "Insgesamt benötigte Gegenstände",
+    "totalPhases": "Phasen",
+    "turnIn": "Abgeben",
+    "uniqueItems": "Einzigartige Gegenstände",
+    "valueRequirement": "Wertanforderung"
+  },
+  "Cipher": {
+    "alphaBadge": "Experimentell",
+    "clearChat": "Chat leeren",
+    "closeCipher": "Schließen",
+    "emptyStateDescription": "Systeme online. Frag mich nach deinem Lager, deiner Raid-Leistung, Dropraten oder allem über das Einsatzgebiet. Antworten sind möglicherweise nicht immer korrekt – bitte überprüfe wichtige Informationen.",
+    "emptyStateTitle": "Cipher",
+    "inputPlaceholder": "Frag Cipher...",
+    "openCipher": "Cipher öffnen",
+    "panelTitle": "Cipher",
+    "sendMessage": "Nachricht senden",
+    "tools": {
+      "checkStashForItem": {
+        "active": "Scanne Lager...",
+        "done": "Lager gescannt"
+      },
+      "createChart": {
+        "active": "Generiere Grafik...",
+        "done": "Grafik generiert"
+      },
+      "fallbackActive": "Verwende {toolName}...",
+      "fallbackDone": "{toolName} verwendet",
+      "findBestFarmingMaps": {
+        "active": "Optimiere Farming-Routen...",
+        "done": "Farming-Routen optimiert"
+      },
+      "getHideoutModules": {
+        "active": "Prüfe Unterschlupf-Module...",
+        "done": "Unterschlupf-Module geprüft"
+      },
+      "getItem": {
+        "active": "Rufe Item-Daten ab...",
+        "done": "Item-Daten abgerufen"
+      },
+      "getItemDropLocations": {
+        "active": "Analysiere Fundorte...",
+        "done": "Fundorte analysiert"
+      },
+      "getItemDropStats": {
+        "active": "Analysiere Dropraten...",
+        "done": "Dropraten analysiert"
+      },
+      "getPlayerStats": {
+        "active": "Rufe Spielerwerte ab...",
+        "done": "Spielerwerte abgerufen"
+      },
+      "getQuest": {
+        "active": "Rufe Quest-Daten ab...",
+        "done": "Quest-Daten abgerufen"
+      },
+      "getRaidHistory": {
+        "active": "Rufe Raid-Protokolle ab...",
+        "done": "Raid-Protokolle abgerufen"
+      },
+      "getRaidStats": {
+        "active": "Verarbeite Raid-Daten...",
+        "done": "Raid-Daten verarbeitet"
+      },
+      "getUserHideoutProgress": {
+        "active": "Prüfe Unterschlupf-Fortschritt...",
+        "done": "Unterschlupf-Fortschritt geprüft"
+      },
+      "getUserLoadout": {
+        "active": "Rufe Loadout-Konfiguration ab...",
+        "done": "Loadout abgerufen"
+      },
+      "getUserNeededItems": {
+        "active": "Berechne benötigte Items...",
+        "done": "Benötigte Items berechnet"
+      },
+      "getUserQuestProgress": {
+        "active": "Prüfe Quest-Fortschritt...",
+        "done": "Quest-Fortschritt geprüft"
+      },
+      "getUserStash": {
+        "active": "Greife auf Lagerdaten zu...",
+        "done": "Auf Lager zugegriffen"
+      },
+      "getWeaponDamage": {
+        "active": "Analysiere Waffenschaden...",
+        "done": "Waffenschaden analysiert"
+      },
+      "getWeaponKills": {
+        "active": "Rufe Waffendaten ab...",
+        "done": "Waffendaten abgerufen"
+      },
+      "searchItems": {
+        "active": "Scanne Item-Datenbank...",
+        "done": "Item-Datenbank gescannt"
+      },
+      "searchQuests": {
+        "active": "Scanne Quest-Einträge...",
+        "done": "Quest-Einträge gescannt"
+      },
+      "getMapEvents": {
+        "active": "Prüfe Kartenereignisse...",
+        "done": "Kartenereignisse geprüft"
+      },
+      "searchCraftableItems": {
+        "active": "Suche nach Rezepten...",
+        "done": "Rezepte durchsucht"
+      },
+      "searchSkillNodes": {
+        "active": "Durchsuche Fertigkeitsbaum...",
+        "done": "Fertigkeitsbaum durchsucht"
+      },
+      "getSkillNode": {
+        "active": "Lade Fertigkeitsdetails...",
+        "done": "Fertigkeitsdetails geladen"
+      },
+      "getProjects": {
+        "active": "Lade Projekte...",
+        "done": "Projekte geladen"
+      },
+      "getUserLists": {
+        "active": "Lade deine Listen...",
+        "done": "Deine Listen geladen"
+      },
+      "getListItems": {
+        "active": "Lade Listeneinträge...",
+        "done": "Listeneinträge geladen"
+      },
+      "addItemToList": {
+        "active": "Wird zur Liste hinzugefügt...",
+        "denied": "Abgebrochen",
+        "done": "Zur Liste hinzugefügt"
+      },
+      "removeItemFromList": {
+        "active": "Wird aus der Liste entfernt...",
+        "denied": "Abgebrochen",
+        "done": "Aus der Liste entfernt"
+      },
+      "createList": {
+        "active": "Liste wird erstellt...",
+        "denied": "Abgebrochen",
+        "done": "Liste erstellt"
+      },
+      "deleteList": {
+        "active": "Liste wird gelöscht...",
+        "denied": "Abgebrochen",
+        "done": "Liste gelöscht"
+      },
+      "fallbackDenied": "{toolName} abgebrochen",
+      "getItemFarmingContext": {
+        "active": "Farming-Kontext wird analysiert...",
+        "done": "Farming-Kontext analysiert"
+      }
+    },
+    "approval": {
+      "addItemToList": "\"{itemName}\" zu \"{listName}\" hinzufügen",
+      "approve": "Genehmigen",
+      "createList": "Liste \"{name}\" erstellen",
+      "deleteList": "Liste \"{listName}\" löschen",
+      "deleteWarning": "Dies wird die Liste und {count, plural, one {# Gegenstand} other {alle # Gegenstände}} darin entfernen.",
+      "deny": "Ablehnen",
+      "removeItemFromList": "\"{itemName}\" aus \"{listName}\" entfernen"
+    },
+    "feedback": {
+      "helpful": "Hilfreiche Antwort",
+      "notHelpful": "Nicht hilfreiche Antwort"
+    },
+    "confirmation": {
+      "denied": "Aktion abgebrochen",
+      "error": "Etwas ist schiefgelaufen",
+      "executing": "Wird ausgeführt...",
+      "success": {
+        "addItemToList": "Zur Liste hinzugefügt",
+        "createList": "Liste erstellt",
+        "deleteList": "Liste gelöscht",
+        "generic": "Fertig",
+        "removeItemFromList": "Von der Liste entfernt"
+      }
+    },
+    "privateBetaNotice": "Private Beta — nur für Mitwirkende. Bitte beschränkt Diskussionen auf den Kanal für Mitwirkende."
+  },
+  "TradersPage": {
+    "itemsForSale": "Gegenstände zum Verkauf",
+    "quests": "Quests",
+    "title": "Händler"
+  },
+  "TraderPage": {
+    "backToTraders": "Zurück zu den Händlern",
+    "coins": "Münzen",
+    "limit": "Limit",
+    "noQuests": "Keine Quests",
+    "noShopItems": "Keine Gegenstände zum Verkauf",
+    "quests": "Quests",
+    "refresh": "Aktualisierung",
+    "shop": "Shop",
+    "traderNotFound": "Händler nicht gefunden",
+    "traderNotFoundDesc": "Der gesuchte Händler existiert nicht."
   }
 }

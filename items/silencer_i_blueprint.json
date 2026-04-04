@@ -10,14 +10,14 @@
     "hr": "Nacrt za Prigušivač I",
     "it": "Progetto Silenziatore I",
     "ja": "サイレンサー I 設計図",
-    "kr": "소음기 I 설계도",
+    "ko-KR": "소음기 I 설계도",
     "no": "Lyddemper I Tegning",
     "pl": "Projekt Tłumika I",
     "pt": "Projeto de Silenciador I",
     "pt-BR": "Esquema de Silenciador I",
     "ru": "Чертёж глушителя I",
     "sr": "Nacrt za Prigušivač I",
-    "tr": "Susturucu I Planı",
+    "tr": "Susturucu I Taslağı",
     "uk": "Креслення глушника I",
     "zh-CN": "消音器 I 蓝图",
     "zh-TW": "消音器 I 藍圖"
@@ -32,7 +32,7 @@
     "hr": "Nacrt za izradu Prigušivača I.",
     "it": "Un progetto per creare il Silenziatore I.",
     "ja": "サイレンサー I を製作するための設計図。",
-    "kr": "소음기 I을 제작하기 위한 설계도.",
+    "ko-KR": "소음기 I을 제작하기 위한 설계도.",
     "no": "En tegning for å lage Lyddemper I.",
     "pl": "Projekt do wytworzenia Tłumika I.",
     "pt": "Um projeto para fabricar o Silenciador I.",
@@ -45,9 +45,11 @@
     "zh-TW": "用於製作消音器 I 的藍圖。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

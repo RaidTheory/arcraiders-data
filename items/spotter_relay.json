@@ -10,14 +10,14 @@
     "hr": "Izviđački relej",
     "it": "Relè di Avvistamento",
     "ja": "スポッター中継機",
-    "kr": "스포터 릴레이",
+    "ko-KR": "스포터 릴레이",
     "no": "Spotter-relé",
     "pl": "Przekaźnik Obserwacyjny",
     "pt": "Relé de Observação",
     "pt-BR": "Relé de Observador",
     "ru": "Передатчик Наводчика",
     "sr": "Izviđački relej",
-    "tr": "Gözcü Rölesi",
+    "tr": "Gözleyici Rölesi",
     "uk": "Реле спостерігача",
     "zh-CN": "侦察中继器",
     "zh-TW": "偵察中繼器"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "クラフト素材にリサイクルできます。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmateriell.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -47,13 +47,17 @@
   "type": "Recyclable",
   "rarity": "Uncommon",
   "foundIn": "ARC",
-  "value": 2000,
+  "value": 1000,
   "weightKg": 1,
   "stackSize": 3,
   "recyclesInto": {
     "arc_alloy": 1,
-    "electrical_components": 2
+    "electrical_components": 1
+  },
+  "salvagesInto": {
+    "electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/spotter_relay.png",
-  "updatedAt": "10/31/2025"
+  "updatedAt": "10/31/2025",
+  "addedIn": "base"
 }

@@ -10,16 +10,16 @@
     "hr": "Nacrt Izjednačivača",
     "it": "Progetto Equalizzatore",
     "ja": "イコライザー設計図",
-    "kr": "이퀄라이저 설계도",
+    "ko-KR": "이퀄라이저 설계도",
     "no": "Equalizer-tegning",
     "pl": "Projekt Equalizera",
     "pt": "Projeto do Equalizador",
     "pt-BR": "Esquema de Equalizador",
     "ru": "Чертёж Уравнителя",
     "sr": "Nacrt Izjednačivača",
-    "tr": "Eşitleyici Planı",
+    "tr": "Dengeleyici Taslağı",
     "uk": "Креслення Еквалайзера",
-    "zh-CN": "均衡者蓝图",
+    "zh-CN": "制裁者蓝图",
     "zh-TW": "均衡者藍圖"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Eksperimentalna zrakasta puška velikog kapaciteta.",
     "it": "Un fucile a raggi sperimentale ad alta capacità.",
     "ja": "高容量の実験的ビームライフル。",
-    "kr": "고용량 실험용 빔 라이플.",
+    "ko-KR": "고용량 실험용 빔 라이플.",
     "no": "En eksperimentell strålerifle med høy kapasitet.",
     "pl": "Eksperymentalna strzelba wiązkowa o dużej pojemności.",
     "pt": "Um rifle de raios experimental de alta capacidade.",
@@ -45,9 +45,11 @@
     "zh-TW": "一把高容量的實驗性光束步槍。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/equalizer.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

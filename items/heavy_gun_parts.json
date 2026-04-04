@@ -9,8 +9,8 @@
     "he": "חלקי נשק כבדים",
     "hr": "Dijelovi teškog oružja",
     "it": "Parti di arma pesante",
-    "ja": "大型銃の部品",
-    "kr": "중량 총기 부품",
+    "ja": "大型銃のパーツ",
+    "ko-KR": "중량 총기 부품",
     "no": "Tunge våpendeler",
     "pl": "Części ciężkiej broni",
     "pt": "Peças de arma pesada",
@@ -32,7 +32,7 @@
     "hr": "Koristi se za izradu oružja. Koristi se za izradu: Vulcano, Hullcracker, Bettina, Složeni dijelovi oružja",
     "it": "Usate per creare armi. Usate per creare: Vulcano, Hullcracker, Bettina, Parti di arma complesse",
     "ja": "武器の製作に使用。製作可能: Vulcano、Hullcracker、Bettina、複雑な銃パーツ",
-    "kr": "무기 제작에 사용됩니다. 제작 가능: Vulcano, Hullcracker, Bettina, 복합 총기 부품",
+    "ko-KR": "무기 제작에 사용됩니다. 제작 가능: Vulcano, Hullcracker, Bettina, 복합 총기 부품",
     "no": "Brukes til å lage våpen. Brukes til å lage: Vulcano, Hullcracker, Bettina, Komplekse våpendeler",
     "pl": "Używane do wytwarzania broni. Używane do wytworzenia: Vulcano, Hullcracker, Bettina, Złożone części broni",
     "pt": "Usadas para fabricar armas. Usadas para fabricar: Vulcano, Hullcracker, Bettina, Peças de arma complexas",
@@ -46,11 +46,13 @@
   },
   "type": "Topside Material",
   "rarity": "Rare",
-  "foundIn": "Security, Raider",
+  "foundIn": "Security",
   "value": 700,
   "weightKg": 0.5,
   "stackSize": 5,
+  "blueprintLocked": true,
   "craftBench": "refiner",
+  "stationLevelRequired": 2,
   "recipe": {
     "simple_gun_parts": 4
   },
@@ -61,5 +63,17 @@
     "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/heavy_gun_parts.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 15
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "requiredLevel": 12,
+      "trader": "Celeste"
+    }
+  ]
 }

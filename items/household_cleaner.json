@@ -10,14 +10,14 @@
     "hr": "Sredstvo za čišćenje",
     "it": "Detergente per la Casa",
     "ja": "家庭用クリーナー",
-    "kr": "가정용 세제",
+    "ko-KR": "가정용 세제",
     "no": "Husholdningsrengjøring",
     "pl": "Środek Czyszczący",
     "pt": "Limpador Doméstico",
     "pt-BR": "Produto de Limpeza",
     "ru": "Чистящее средство",
     "sr": "Sredstvo za čišćenje",
-    "tr": "Ev Temizleyici",
+    "tr": "Ev Temizlik Ürünü",
     "uk": "Побутовий засіб для чищення",
     "zh-CN": "家用清洁剂",
     "zh-TW": "家用清潔劑"
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u kemikalije.",
     "it": "Si può riciclare in sostanze chimiche.",
     "ja": "化学薬品にリサイクルできる。",
-    "kr": "화학 물질로 재활용할 수 있습니다.",
+    "ko-KR": "화학 물질로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til kjemikalier.",
     "pl": "Można przetworzyć na chemikalia.",
     "pt": "Pode ser reciclado em produtos químicos.",
@@ -57,5 +57,6 @@
     "chemicals": 5
   },
   "imageFilename": "https://cdn.arctracker.io/items/household_cleaner.png",
-  "updatedAt": "01/09/2026"
+  "updatedAt": "01/09/2026",
+  "addedIn": "base"
 }

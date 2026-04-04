@@ -9,15 +9,15 @@
     "he": "שרטוט בטינה",
     "hr": "Nacrt Bettina",
     "it": "Progetto Bettina",
-    "ja": "ベッティーナ設計図",
-    "kr": "베티나 설계도",
+    "ja": "ベティーナ設計図",
+    "ko-KR": "베티나 설계도",
     "no": "Bettina-tegning",
     "pl": "Projekt Bettina",
     "pt": "Projeto Bettina",
     "pt-BR": "Esquema de Bettina",
     "ru": "Чертеж — Беттина",
     "sr": "Nacrt Bettina",
-    "tr": "Bettina Planı",
+    "tr": "Bettina Taslağı",
     "uk": "Креслення Беттіни",
     "zh-CN": "贝蒂娜蓝图",
     "zh-TW": "貝蒂娜藍圖"
@@ -32,7 +32,7 @@
     "hr": "Ima sporu brzinu paljbe i visoku štetu.",
     "it": "Ha una cadenza di fuoco lenta e un'alta produzione di danni.",
     "ja": "低い発射速度と高いダメージ出力を持つ。",
-    "kr": "느린 발사 속도와 높은 피해량을 가지고 있습니다.",
+    "ko-KR": "느린 발사 속도와 높은 피해량을 가지고 있습니다.",
     "no": "Har lav skuddfrekvens og høy skadeproduksjon.",
     "pl": "Ma wolną szybkostrzelność i wysokie obrażenia.",
     "pt": "Tem uma taxa de disparo lenta e alta produção de dano.",
@@ -45,9 +45,11 @@
     "zh-TW": "射速慢但傷害輸出高。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/bettina_blueprint.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "12/07/2025",
+  "addedIn": "base"
 }

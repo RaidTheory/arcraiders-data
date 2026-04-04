@@ -9,15 +9,15 @@
     "he": "חלקי נשק בינוניים",
     "hr": "Srednji Dijelovi Oružja",
     "it": "Parti di armi medie",
-    "ja": "中型銃の部品",
-    "kr": "준중형 총기 부품",
+    "ja": "中型銃のパーツ",
+    "ko-KR": "준중형 총기 부품",
     "no": "Medium våpendeler",
     "pl": "Średnie części broni",
     "pt": "Peças de armas médias",
     "pt-BR": "Peças de Arma Média",
     "ru": "Детали для оружия среднего калибра",
     "sr": "Srednji Delovi Oružja",
-    "tr": "Orta Boy Silah Parçaları",
+    "tr": "Orta Silah Parçaları",
     "uk": "Середні зброярські деталі",
     "zh-CN": "中型枪械零件",
     "zh-TW": "中型槍械零件"
@@ -32,7 +32,7 @@
     "hr": "Razni rezervni dijelovi za puške. Koristi se za izradu: Torrente, Venator, Osprey, Renegade, Tempest",
     "it": "Parti di ricambio assortite usate per i fucili. Si usa per creare: Torrente, Venator, Osprey, Renegade, Tempest",
     "ja": "ライフル用の各種予備パーツ。製作に使用: Torrente、Venator、Osprey、Renegade、Tempest",
-    "kr": "소총용 각종 예비 부품. 제작 용도: 토렌테, 베나토르, 오스프레이, 레니게이드, 템페스트",
+    "ko-KR": "소총용 각종 예비 부품. 제작 용도: 토렌테, 베나토르, 오스프레이, 레니게이드, 템페스트",
     "no": "Assorterte reservedeler brukt til rifler. Brukes til å lage: Torrente, Venator, Osprey, Renegade, Tempest",
     "pl": "Różne części zamienne używane do karabinów. Używany do wytworzenia: Torrente, Venator, Osprey, Renegade, Tempest",
     "pt": "Peças de reposição variadas usadas para rifles. Usado para fabricar: Torrente, Venator, Osprey, Renegade, Tempest",
@@ -46,11 +46,13 @@
   },
   "type": "Topside Material",
   "rarity": "Rare",
-  "foundIn": "Raider, Security",
+  "foundIn": "Security",
   "value": 700,
   "weightKg": 0.4,
   "stackSize": 5,
+  "blueprintLocked": true,
   "craftBench": "refiner",
+  "stationLevelRequired": 2,
   "recipe": {
     "simple_gun_parts": 4
   },
@@ -61,5 +63,17 @@
     "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 15
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "requiredLevel": 12,
+      "trader": "Celeste"
+    }
+  ]
 }

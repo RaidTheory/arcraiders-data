@@ -10,16 +10,16 @@
     "hr": "Nacrt za Jolt minu",
     "it": "Progetto mina stordente",
     "ja": "ジョルト地雷設計図",
-    "kr": "충격 지뢰 설계도",
+    "ko-KR": "충격 지뢰 설계도",
     "no": "Sjokk-mine tegning",
     "pl": "Projekt miny paraliżującej",
     "pt": "Projeto de mina atordoante",
     "pt-BR": "Esquema de Mina Elétrica",
     "ru": "Чертеж — Электрическая мина",
     "sr": "Nacrt za Jolt minu",
-    "tr": "Sarsıcı Mayın Planı",
+    "tr": "Şok Mayını Taslağı",
     "uk": "Креслення міни-оглушувача",
-    "zh-CN": "震荡地雷蓝图",
+    "zh-CN": "电击地雷蓝图",
     "zh-TW": "震盪地雷藍圖"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Mina aktivirana blizinom koja iskoči i omamljuje sve u svom radijusu.",
     "it": "Una mina attivata dalla prossimità che salta su e stordisce qualsiasi cosa nel suo raggio.",
     "ja": "近接起動する地雷で、飛び出して範囲内のあらゆる対象をスタンさせる。",
-    "kr": "근접 시 작동하여 튀어 오르고 반경 내의 모든 것을 기절시키는 지뢰.",
+    "ko-KR": "근접 시 작동하여 튀어 오르고 반경 내의 모든 것을 기절시키는 지뢰.",
     "no": "En nærhetsaktivert mine som spretter opp og bedøver alt innenfor sin radius.",
     "pl": "Mina aktywowana zbliżeniem, która wyskakuje i ogłusza wszystko w swoim promieniu.",
     "pt": "Uma mina ativada por proximidade que salta e atordoa qualquer coisa dentro de seu raio.",
@@ -45,10 +45,11 @@
     "zh-TW": "一種接近觸發的地雷，會彈起並擊暈範圍內的任何目標。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

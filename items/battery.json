@@ -10,14 +10,14 @@
     "hr": "Baterija",
     "it": "Batteria",
     "ja": "バッテリー",
-    "kr": "배터리",
+    "ko-KR": "배터리",
     "no": "Batteri",
     "pl": "Bateria",
     "pt": "Bateria",
     "pt-BR": "Bateria",
     "ru": "Батарея",
     "sr": "Baterija",
-    "tr": "Batarya",
+    "tr": "Pil",
     "uk": "Батарея",
     "zh-CN": "电池",
     "zh-TW": "電池"
@@ -32,7 +32,7 @@
     "hr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u otpadni metal. Koristi se za izradu: Energetski Okvir, Srednji Štit, Električna Mina",
     "it": "Si usa per creare una vasta gamma di oggetti. Si può riciclare in componenti metallici. Si usa per creare: Clip energetica, Scudo medio, Mina a scossa",
     "ja": "幅広いアイテムの製作に使用。スクラップメタルにリサイクル可能。製作に使用: エナジークリップ、ミディアムシールド、ジョルトマイン",
-    "kr": "다양한 아이템 제작에 사용. 고철로 재활용 가능. 제작 용도: 에너지 탄창, 준중량 실드, 충격 지뢰",
+    "ko-KR": "다양한 아이템 제작에 사용. 고철로 재활용 가능. 제작 용도: 에너지 탄창, 준중량 실드, 충격 지뢰",
     "no": "Brukes til å lage et bredt spekter av gjenstander. Kan resirkuleres til skrapmetall. Brukes til å lage: Energiklipp, Middels skjold, Støtmine",
     "pl": "Używane do wytwarzania szerokiej gamy przedmiotów. Można przetworzyć na złom. Używane do wytworzenia: Magazynek energetyczny, Średnia tarcza, Mina elektryczna",
     "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em sucata. Usado para fabricar: Carregador de energia, Escudo médio, Mina de choque",
@@ -57,5 +57,17 @@
     "metal_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/battery.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 5
+      },
+      "limit": 10,
+      "refreshSeconds": 86400,
+      "requiredLevel": 7,
+      "trader": "Celeste"
+    }
+  ]
 }

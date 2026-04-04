@@ -10,14 +10,14 @@
     "hr": "Ključ podruma plavog portala",
     "it": "Chiave della cantina del cancello blu",
     "ja": "ブルーゲートの地下の鍵",
-    "kr": "파란 문 지하실 열쇠",
+    "ko-KR": "파란 문 지하실 열쇠",
     "no": "Blå port kjellernøkkel",
     "pl": "Klucz do piwnicy Niebieskiej Bramy",
     "pt": "Chave da adega do portão azul",
     "pt-BR": "Chave do Porão do Portão Azul",
     "ru": "Ключ от подвала Синих Врат",
     "sr": "Ključ podruma plavog portala",
-    "tr": "Mavi Kapı Mahzen Anahtarı",
+    "tr": "Mavi Kapı Bodrum Anahtarı",
     "uk": "Ключ від підвалу Синіх Воріт",
     "zh-CN": "蓝门地窖钥匙",
     "zh-TW": "藍門地窖鑰匙"
@@ -32,7 +32,7 @@
     "hr": "Ključ za podrum u plavom portalu.",
     "it": "Una chiave per la cantina nel cancello blu.",
     "ja": "青い門の地下室への鍵。",
-    "kr": "파란 문의 지하실 열쇠.",
+    "ko-KR": "파란 문의 지하실 열쇠.",
     "no": "En nøkkel til kjelleren i Blå port.",
     "pl": "Klucz do piwnicy w Niebieskiej Bramie.",
     "pt": "Uma chave para a adega no portão azul.",
@@ -50,5 +50,6 @@
   "weightKg": 0.25,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/blue_gate_cellar_key.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "12/07/2025",
+  "addedIn": "base"
 }

@@ -10,7 +10,7 @@
     "hr": "Motor",
     "it": "Motore",
     "ja": "モーター",
-    "kr": "모터",
+    "ko-KR": "모터",
     "no": "Motor",
     "pl": "Silnik",
     "pt": "Motor",
@@ -32,7 +32,7 @@
     "hr": "Mali električni motor, koristan za razne uređaje.",
     "it": "Un piccolo motore elettrico, utile per vari dispositivi.",
     "ja": "小型電動モーター、様々な装置に有用。",
-    "kr": "다양한 장치에 유용한 소형 전기 모터입니다.",
+    "ko-KR": "다양한 장치에 유용한 소형 전기 모터입니다.",
     "no": "En liten elektrisk motor, nyttig for forskjellige enheter.",
     "pl": "Mały silnik elektryczny, przydatny do różnych urządzeń.",
     "pt": "Um pequeno motor elétrico, útil para vários dispositivos.",
@@ -49,6 +49,7 @@
   "foundIn": "Mechanical",
   "value": 2000,
   "weightKg": 3,
+  "stackSize": 3,
   "recyclesInto": {
     "mechanical_components": 2,
     "oil": 2
@@ -57,5 +58,6 @@
     "oil": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/motor.png",
-  "updatedAt": "12/07/2025"
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }
