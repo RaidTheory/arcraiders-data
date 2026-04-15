@@ -165,12 +165,10 @@
   "agility": 44.6,
   "damage": 8,
   "fireRate": 33.33,
-  "range": null,
   "repairCost": {
     "complex_gun_parts": 1,
     "magnetic_accelerator": 2
   },
   "repairDurability": 0.5,
-  "stability": 84.6,
-  "stealth": null
+  "stability": 84.6
 }
