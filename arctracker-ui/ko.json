@@ -110,6 +110,7 @@
       "uncoveredCaches": "발견된 캐시",
       "launchTowerLoot": "발사대 전리품",
       "hiddenBunker": "숨겨진 벙커",
+      "closeScrutiny": "정밀 조사",
       "none": "없음",
       "birdCity": "버드 시티",
       "hurricane": "허리케인"
@@ -2263,7 +2264,9 @@
       "sortUnsorted": "미분류",
       "searchPlaceholder": "아이템 검색...",
       "sortRarity": "희귀도순 정렬",
-      "sortName": "이름순 정렬"
+      "sortName": "이름순 정렬",
+      "tokenInvalidError": "ARC Raiders와의 연결이 더 이상 유효하지 않습니다. 계정을 다시 연결해 주세요.",
+      "reconnectAccount": "계정 재연결"
     },
     "currencies": {
       "cred": "크레드",
@@ -2377,7 +2380,9 @@
     "blueprintSyncDescription": "게임 계정에서 습득한 설계도 동기화",
     "tokenExpiredExtensionMissing": "연결 만료 — 확장 프로그램 필요",
     "tokenExpiredExtensionMissingDescription": "세션이 만료되었으며 브라우저 확장 프로그램이 설치되어 있지 않습니다. 먼저 확장 프로그램을 설치한 후, 연결을 새로 고치세요.",
-    "embarkErrorAlreadyLinkedDescription": "이 게임 계정은 이미 다른 ARCTracker 계정에 연결되어 있습니다. 먼저 다른 계정에서 연결을 해제하거나, 다른 게임 계정을 사용해야 합니다."
+    "embarkErrorAlreadyLinkedDescription": "이 게임 계정은 이미 다른 ARCTracker 계정에 연결되어 있습니다. 먼저 다른 계정에서 연결을 해제하거나, 다른 게임 계정을 사용해야 합니다.",
+    "consentSessionExpiry": "연결은 24시간 동안 유효합니다. 동기화를 계속하려면 그 이후에 다시 연결해야 합니다.",
+    "tokenExpiresIn": "{time} 후 만료"
   },
   "HideoutSync": {
     "title": "은신처 진행 상황 동기화",
@@ -2558,7 +2563,18 @@
     "responseFormat": "응답 형식",
     "responseFormatDescription": "모든 인증된 엔드포인트는 일관된 JSON 래퍼(envelope)를 반환합니다.",
     "successResponse": "성공 응답",
-    "title": "API 문서"
+    "title": "API 문서",
+    "endpointRounds": "통계(처치, 피해량, 결과, 전리품)가 포함된 사용자의 Embark 연동 라운드 기록입니다. 스크린샷이 첨부된 경우 획득한 아이템이 포함됩니다.",
+    "paramRoundsLimit": "반환할 최대 라운드 수 (기본값: 50, 최대: 200).",
+    "paramRoundsOffset": "페이지네이션 오프셋 (기본값: 0).",
+    "paramRoundsOutcome": "필터: extracted(탈출), died(사망), unknown(알 수 없음).",
+    "paramRoundsMap": "맵 슬러그로 필터링: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsSeason": "시즌 번호로 필터링 (예: 1, 2).",
+    "paramRoundsDateFrom": "시작 날짜 (포함, ISO 형식, 예: 2025-01-01).",
+    "paramRoundsDateTo": "종료 날짜 (포함, ISO 형식, 예: 2025-12-31).",
+    "paramRoundsSort": "정렬 순서: newest(최신순, 기본값), oldest(오래된순), value_desc(값 내림차순), value_asc(값 오름차순).",
+    "endpointBlueprints": "카테고리별 내역이 포함된 사용자의 설계도 학습 상태입니다.",
+    "paramBlueprintsFilter": "필터: learned(학습됨), missing(미보유)."
   },
   "BlueprintSync": {
     "applySync": "동기화 적용",
@@ -2665,7 +2681,7 @@
     "alphaBadge": "실험적",
     "clearChat": "채팅 지우기",
     "closeCipher": "닫기",
-    "emptyStateDescription": "시스템 가동 중. 보관함, 레이드 성과, 드롭률, 또는 필드에 관한 무엇이든 물어보세요. 응답이 항상 정확하지 않을 수 있으니 중요한 정보는 확인해 주시기 바랍니다.",
+    "emptyStateDescription": "시스템 온라인. 보관함, 레이드 성과, 드롭률, 또는 지상에 관한 무엇이든 물어보세요. 답변이 항상 정확하지 않을 수 있습니다 — 중요한 정보는 확인해 주시기 바랍니다.",
     "emptyStateTitle": "사이퍼",
     "inputPlaceholder": "사이퍼에게 질문하기...",
     "openCipher": "사이퍼 열기",

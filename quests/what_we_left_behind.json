@@ -49,25 +49,25 @@
   "objectives": [
     {
       "da": "På Buried City skal du gennemsøge {0} beholdere i Raider-lejren under parkeringshuset",
-      "de": "Durchsuche {0} Container im Raider-Lager unter dem Parkhaus in der Begrabenen Stadt.",
-      "en": "On Buried City, search {0} containers in the Raider Camp beneath the Parking Garage",
-      "es": "En Ciudad enterrada, registra {0} contenedores en el campamento de Raiders bajo el aparcamiento.",
-      "fr": "Dans la Ville enfouie, fouiller {0} conteneurs du Camp de Raiders sous le Parc de stationnement",
+      "de": "Durchsuche 2 Container im Raider-Lager unter dem Parkhaus in der Begrabenen Stadt.",
+      "en": "On Buried City, search 2 containers in the Raider Camp beneath the Parking Garage",
+      "es": "En Ciudad enterrada, registra 2 contenedores en el campamento de Raiders bajo el aparcamiento.",
+      "fr": "Dans la Ville enfouie, fouiller 2 conteneurs du Camp de Raiders sous le Parc de stationnement",
       "he": "ב-Buried City, חפש ב-{0} מכולות במחנה הריידרים שמתחת לחניון",
       "hr": "Na mapi Buried City, pretraži {0} kontejnera u kampu Raidera ispod garaže",
-      "it": "Nella Città sepolta, ispeziona {0} contenitori nell'accampamento Raider sotto il parcheggio",
-      "ja": "埋もれた街で駐車ガレージの下にあるレイダーの野営地のコンテナを{0}個調べる",
-      "ko-KR": "파묻힌 도시의 주차 차고 아래 레이더 캠프에서 컨테이너 {0}개 수색하기",
+      "it": "Nella Città sepolta, ispeziona 2 contenitori nell'accampamento Raider sotto il parcheggio",
+      "ja": "埋もれた街で駐車ガレージの下にあるレイダーの野営地のコンテナを2個調べる",
+      "ko-KR": "파묻힌 도시의 주차 차고 아래 레이더 캠프에서 컨테이너 2개 수색하기",
       "no": "På Buried City, gjennomsøk {0} beholdere i Raider-leiren under parkeringshuset",
-      "pl": "Będąc w Pogrzebanym Mieście, przeszukaj pojemniki ({0}) w obozie łupieżców pod parkingiem podziemnym",
+      "pl": "Będąc w Pogrzebanym Mieście, przeszukaj pojemniki (2) w obozie łupieżców pod parkingiem podziemnym",
       "pt": "Em Buried City, vasculhe {0} contêineres no Acampamento de Saqueadores sob o Estacionamento",
-      "pt-BR": "Na Cidade Soterrada, procure {0} contentores no Acampamento de Raiders sob o Estacionamento",
-      "ru": "Обыщите контейнеры ({0}) в рейдерском лагере под гаражом на парковке в Погребенном городе.",
+      "pt-BR": "Na Cidade Soterrada, procure 2 contentores no Acampamento de Raiders sob o Estacionamento",
+      "ru": "Обыщите контейнеры (2) в рейдерском лагере под гаражом на парковке в Погребенном городе.",
       "sr": "Na mapi Buried City, pretraži {0} kontejnera u Raider kampu ispod garaže",
-      "tr": "Gömülü Şehir'de, Otopark'ın altındaki Raider Kampı'nda {0} ganimet kaynağı ara",
+      "tr": "Gömülü Şehir'de, Otopark'ın altındaki Raider Kampı'nda 2 ganimet kaynağı ara",
       "uk": "На мапі Buried City обшукайте {0} контейнерів у Таборі рейдерів під Гаражем",
-      "zh-CN": "前往掩埋废城，在停车场下方的奇袭者营地搜索{0}个容器",
-      "zh-TW": "在埋藏都市室內停車場下方的掠手營地，搜索{0}個容器"
+      "zh-CN": "前往掩埋废城，在停车场下方的奇袭者营地搜索2个容器",
+      "zh-TW": "在埋藏都市室內停車場下方的掠手營地，搜索2個容器"
     },
     {
       "da": "På Dam Battlegrounds skal du søge efter noget betydningsfuldt i den sydlige sumpforpost ",
@@ -131,5 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["dormant_barons"],
   "nextQuestIds": ["broken_monument"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

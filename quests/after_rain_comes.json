@@ -24,6 +24,16 @@
   },
   "map": ["buried_city"],
   "trader": "Celeste",
+  "requiredItemIds": [
+    {
+      "itemId": "wires",
+      "quantity": 5
+    },
+    {
+      "itemId": "battery",
+      "quantity": 2
+    }
+  ],
   "grantedItemIds": [
     {
       "itemId": "zipline",
@@ -115,5 +125,5 @@
   "xp": 0,
   "previousQuestIds": ["eyes_in_the_sky"],
   "nextQuestIds": ["water_troubles"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

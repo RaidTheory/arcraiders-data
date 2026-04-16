@@ -52,6 +52,7 @@
     "zh-CN": "我……我不明白。前一天他们还在努力阻止“大崩溃”，然后，突然就……什么都没了。\r\n\r\n那个抗震住宅工程被一个叫螫蝎的组织叫停了。你能去查查更多线索吗？",
     "zh-TW": "我…我搞不懂。他們本來還想阻止大崩潰的，然後一夕之間…就沒了。\r\n\r\n有個叫「蠍獅」的團體中止了那個防震公營住宅建案。你覺得你能查出更多情報嗎？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find MANTIKORs underjordiske faciliteter",
@@ -172,6 +173,6 @@
   ],
   "xp": 0,
   "previousQuestIds": ["groundbreaking"],
-  "nextQuestIds": ["a_rising_tide"],
-  "updatedAt": "02/25/2026"
+  "nextQuestIds": ["a_rising_tide", "fragmented_logs"],
+  "updatedAt": "03/31/2026"
 }

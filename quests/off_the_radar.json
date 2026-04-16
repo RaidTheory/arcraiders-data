@@ -52,6 +52,7 @@
     "zh-CN": "下面虽然也一片狼藉，但我们的上层基础设施的情况更不乐观，好几座天线在风暴后就瘫痪了。",
     "zh-TW": "這裡的損傷相當嚴重，但我們頂層的基礎建設受損更嚴重。風暴過後，我這邊還有一些天線是故障的。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Besøg et feltdepot",
@@ -106,6 +107,6 @@
   ],
   "xp": 0,
   "previousQuestIds": ["clearer_skies", "trash_into_treasure"],
-  "nextQuestIds": ["a_bad_feeling"],
-  "updatedAt": "02/25/2026"
+  "nextQuestIds": ["a_first_foothold", "a_bad_feeling"],
+  "updatedAt": "03/31/2026"
 }

@@ -45,9 +45,10 @@
     "zh-TW": "重型馱獸增強裝備。大載重容量和大背包空間。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_survivor_blueprint.png",
-  "updatedAt": "01/13/2026"
+  "updatedAt": "03/17/2026",
+  "addedIn": "base"
 }

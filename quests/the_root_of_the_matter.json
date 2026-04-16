@@ -52,6 +52,7 @@
     "zh-CN": "你的手气不错，上次找到的笔记是由首席研究员撰写的。当项目失败时，她似乎带走了一些种子样本并把它们密封在了一个安全的地方。",
     "zh-TW": "我們很幸運。你上次找到的筆記是首席研究員撰寫的。計畫失敗後，她似乎拿走了一些種子樣本，並將其封存在一個安全的地方。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Tag til forskningsbygningen",
@@ -84,7 +85,7 @@
       "he": "חפש את כספת הזרעים ב\"חדר עם הנוף הנהדר\"",
       "hr": "Potraži trezor sa sjemenjem u \"sobi s odličnim pogledom\"",
       "it": "Cerca la cassaforte dei semi nella \"stanza con una splendida vista\"",
-      "ja": "「景色が綺麗な部屋」の中にある種子保管室を探した",
+      "ja": "「景色が綺麗な部屋」の中にある種子保管庫を探した",
       "ko-KR": "'전망이 아주 좋은 방'에서 씨앗 금고 찾기",
       "no": "Let etter frøhvelvet i «rommet med flott utsikt»",
       "pl": "Poszukaj banku nasion w „pokoju ze świetnym widokiem”.",
@@ -129,5 +130,5 @@
   "xp": 0,
   "previousQuestIds": ["untended_garden"],
   "nextQuestIds": ["water_troubles"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

@@ -1,0 +1,170 @@
+{
+  "id": "test_case",
+  "name": {
+    "da": "Testcase",
+    "de": "Testtasche",
+    "en": "Test Case",
+    "es": "Caso de prueba",
+    "fr": "Expérimentation",
+    "he": "מקרה בוחן",
+    "hr": "Testni slučaj",
+    "it": "Caso di prova",
+    "ja": "テストケース",
+    "ko-KR": "테스트 케이스",
+    "no": "Testcase",
+    "pl": "Sprawa testowa",
+    "pt": "Caso de Teste",
+    "pt-BR": "Caso de Teste",
+    "ru": "Прецедент",
+    "sr": "Testni slučaj",
+    "tr": "Test Durumu",
+    "uk": "Тестовий випадок",
+    "zh-CN": "测试案例",
+    "zh-TW": "測試案例"
+  },
+  "trader": "Apollo",
+  "requiredItemIds": [
+    {
+      "itemId": "hornet_driver",
+      "quantity": 1
+    },
+    {
+      "itemId": "fireball_burner",
+      "quantity": 1
+    },
+    {
+      "itemId": "firefly_burner",
+      "quantity": 1
+    }
+  ],
+  "description": {
+    "da": "Hej, et spørgsmål til dig. Hvad får man, hvis man krydser en Hornet og en Fireball? Hvis dit svar er 'en Firefly', så er vi på bølgelængde.",
+    "de": "Hey, ich hab mal 'ne Frage an dich. Was kriegst du, wenn du 'ne Hornisse und 'nen Feuerball kreuzt? Wenn du sagst „ein Glühwürmchen“, dann sind wir auf derselben Wellenlänge.",
+    "en": "Hey, question for you. What do you get if you cross a Hornet and Fireball? If your answer is ‘a Firefly’, then we’re on the same page.",
+    "es": "Una preguntilla: ¿qué sale de la fusión de un avispón y un esferígneo? Si tu respuesta es una luciérnaga, estamos en la misma onda.",
+    "fr": "Hé, petite question. Que se passe-t-il si on mélange un Frelon et un Bolide ? Si vous répondez \"une Luciole\", c'est qu'on est d'accord.",
+    "he": "היי, שאלה אליך. מה מקבלים אם מצליבים Hornet ו-Fireball? אם התשובה שלך היא 'Firefly', אז אנחנו משדרים על אותו גל.",
+    "hr": "Hej, imam pitanje za tebe. Što dobiješ ako prekrižiš Horneta i Fireballa? Ako je tvoj odgovor 'Firefly', onda smo na istoj valnoj duljini.",
+    "it": "Ehi, una domanda per te. Cosa si ottiene incrociando un Calabrone e una Sfera infuocata? Se la tua risposta è \"una Lucciola\", allora siamo sulla stessa lunghezza d'onda.",
+    "ja": "ここでクイズだ。ホーネットにファイアボールをかけ合わせると、何になる？ 「ファイフライ」って答えたなら、俺と同じ認識だな。",
+    "ko-KR": "질문이 있어요. 호넷과 파이어볼을 섞으면 뭐가 나올까요? '파이어플라이'라고요? 저랑 같은 생각이네요.",
+    "no": "Hei, et spørsmål til deg. Hva får du hvis du krysser en Hornet og en Fireball? Hvis svaret ditt er «en Firefly», da er vi på samme bølgelengde.",
+    "pl": "Pytanko. Co wyjdzie z połączenia szerszenia z ogniomiotem? Jeśli uważasz, że świetlik, to się dogadamy.",
+    "pt": "Oi, tenho uma pergunta. Qual é o resultado do cruzamento entre um Marimbondo e uma Bola de Fogo? Se sua resposta for \"um Vagalume\", então pensamos igual.",
+    "pt-BR": "Oi, tenho uma pergunta. Qual é o resultado do cruzamento entre um Marimbondo e uma Bola de Fogo? Se sua resposta for \"um Vagalume\", então pensamos igual.",
+    "ru": "Слушай, такой вопрос. Что получится, если скрестить «Шершня» с «Огнешаром»? Если тебе на ум приходит «Светлячок», значит, мы на одной волне.",
+    "sr": "Hej, imam pitanje za tebe. Šta dobiješ ako ukrstiš Hornet-a i Fireball-a? Ako je tvoj odgovor 'Firefly', onda smo na istoj talasnoj dužini.",
+    "tr": "Baksana, sana bir sorum var. Yaban Arısı ve Ateş Topu'nu birleştirirsen ne elde edersin? Cevabın \"Ateş Böceği\" ise aynı kafadayız demek.",
+    "uk": "Гей, маю питання. Що буде, якщо схрестити «Шершня» та «Вогняну кулю»? Якщо твоя відповідь — «Світляк», тоді ми порозуміємося.",
+    "zh-CN": "问你个问题，“马蜂”和“火球”结合会是什么？如果你的答案是“萤火虫”，那我们想到一块儿去了。",
+    "zh-TW": "嘿，問你個問題。如果把虎頭蜂和火球結合，會生出什麼？如果你的答案是「螢火蟲」，那我們就算心有靈犀了。"
+  },
+  "objectives": [
+    {
+      "da": "Aflever en Hornet-driver til Apollo",
+      "de": "Liefere einen Hornissentreiber an Apollo.",
+      "en": "Deliver a Hornet Driver to Apollo",
+      "es": "Entrégale un controlador de avispón a Apollo.",
+      "fr": "Livrer un pilote de Frelon à Apollo",
+      "he": "מסור כונן Hornet לאפולו",
+      "hr": "Dostavi Hornet Driver Apollu",
+      "it": "Consegna un driver di Calabrone ad Apollo",
+      "ja": "アポロにホーネットドライバーを届けた",
+      "ko-KR": "아폴로에게 호넷 드라이버 전달하기",
+      "no": "Lever en Hornet-driver til Apollo",
+      "pl": "Dostarcz Apollowi sterownik szerszenia",
+      "pt": "Entregue um Driver de Marimbondo para Apollo",
+      "pt-BR": "Entregue um Driver de Marimbondo para Apollo",
+      "ru": "Доставьте Аполлону драйвер «Шершня».",
+      "sr": "Dostavi Hornet Driver Apolu",
+      "tr": "Apollo'ya Yaban Arısı Sürücüsü gönder",
+      "uk": "Віддай рушій «Шершня» Аполлону",
+      "zh-CN": "将“马蜂”引擎交给阿波罗",
+      "zh-TW": "將虎頭蜂驅動器送去給阿波羅"
+    },
+    {
+      "da": "Aflever en Fireball-brænder til Apollo",
+      "de": "Liefere einen Feuerballbrenner an Apollo.",
+      "en": "Deliver a Fireball Burner to Apollo",
+      "es": "Entrégale un quemador de esferígneo a Apollo.",
+      "fr": "Livrer un brûleur de Bolide à Apollo",
+      "he": "מסור מבער Fireball לאפולו",
+      "hr": "Dostavi Fireball Burner Apollu",
+      "it": "Consegna un Inceneritore Sfera infuocata ad Apollo",
+      "ja": "アポロにファイアボールバーナーを届けた",
+      "ko-KR": "아폴로에게 파이어볼 버너 전달하기",
+      "no": "Lever en Fireball-brenner til Apollo",
+      "pl": "Dostarcz Apollowi palnik ogniomiota",
+      "pt": "Entregue um Maçarico do Bola de Fogo para Apollo",
+      "pt-BR": "Entregue um Maçarico do Bola de Fogo para Apollo",
+      "ru": "Доставьте Аполлону горелку «Огнешара».",
+      "sr": "Dostavi Fireball Burner Apolu",
+      "tr": "Apollo'ya Ateş Topu Yakıcı gönder",
+      "uk": "Віддай пальник «Вогняної кулі» Аполлону",
+      "zh-CN": "把“火球”燃烧炉交给阿波罗",
+      "zh-TW": "將火球燃燒器送去給阿波羅"
+    },
+    {
+      "da": "Ødelæg en Firefly",
+      "de": "Ein Glühwürmchen zerstören",
+      "en": "Destroy a Firefly",
+      "es": "Destruye una luciérnaga.",
+      "fr": "Détruire une Luciole",
+      "he": "השמד Firefly",
+      "hr": "Uništi Firefly",
+      "it": "Distruggi una Libellula",
+      "ja": "ファイアフライを破壊した",
+      "ko-KR": "파이어플라이 파괴하기",
+      "no": "Ødelegg en Firefly",
+      "pl": "Zniszcz świetlika",
+      "pt": "Destrua um Vagalume",
+      "pt-BR": "Destrua um Vagalume",
+      "ru": "Уничтожьте «Светлячка».",
+      "sr": "Uništi Firefly",
+      "tr": "Ateş Böceği yok et",
+      "uk": "Знищ «Світляка»",
+      "zh-CN": "摧毁一个“萤火虫”",
+      "zh-TW": "摧毀1台螢火蟲"
+    },
+    {
+      "da": "Aflever en Firefly-brænder til Apollo",
+      "de": "Liefere einen Glühwürmchenbrenner an Apollo.",
+      "en": "Deliver a Firefly Burner to Apollo",
+      "es": "Entrégale un quemador de luciérnaga a Apollo.",
+      "fr": "Livrer un brûleur de Luciole à Apollo",
+      "he": "מסור מבער Firefly לאפולו",
+      "hr": "Dostavi Firefly Burner Apollu",
+      "it": "Consegna un Inceneritore Lucciola ad Apollo",
+      "ja": "アポロにファイアフライ・バーナーを届けた",
+      "ko-KR": "아폴로에게 파이어플라이 버너 전달하기",
+      "no": "Lever en Firefly-brenner til Apollo",
+      "pl": "Dostarcz Apollowi palnik świetlika",
+      "pt": "Entregue um Maçarico de Vagalume para Apollo",
+      "pt-BR": "Entregue um Maçarico de Vagalume para Apollo",
+      "ru": "Доставьте Аполлону горелку «Светлячка».",
+      "sr": "Dostavi Firefly Burner Apolu",
+      "tr": "Apollo'ya Ateş Böceği Yakıcı gönder",
+      "uk": "Віддай пальник «Світляка» Аполлону",
+      "zh-CN": "把“萤火虫”燃烧炉交给阿波罗",
+      "zh-TW": "將螢火蟲燃燒器送去給阿波羅"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "fireworks_box_blueprint",
+      "quantity": 1
+    },
+    {
+      "itemId": "seeker_grenade",
+      "quantity": 3
+    },
+    {
+      "itemId": "blaze_grenade",
+      "quantity": 3
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": ["the_league"],
+  "nextQuestIds": [],
+  "updatedAt": "03/31/2026"
+}

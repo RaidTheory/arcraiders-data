@@ -46,6 +46,7 @@
     "zh-CN": "太空港下面有一个水库。如果能把那里的水引到这里来，就能为我们争取一些时间来解决污染问题。",
     "zh-TW": "太空港下方有座水庫；如果我們能把那裡的水轉送到這裡，就能爭取時間處理污染。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find tunnellerne under Spaceport",
@@ -105,5 +106,5 @@
   "xp": 0,
   "previousQuestIds": ["source_of_the_contamination"],
   "nextQuestIds": ["a_warm_place_to_rest"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

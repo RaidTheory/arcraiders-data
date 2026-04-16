@@ -24,6 +24,12 @@
   },
   "map": ["buried_city"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "wires",
+      "quantity": 3
+    }
+  ],
   "description": {
     "da": "Alt har været roligt omkring mine afleveringssteder, siden du hjalp til, men det betyder ikke, at det bliver ved med at være sådan. Jeg har sat overvågning op på et af mine mest brugte steder i Buried City for at forhindre fremtidig sabotage. Problemet er bare, at det mangler strøm for at blive aktivt.",
     "de": "Seit du mir geholfen hast, ist es ruhig geblieben, was meine Lager angeht. Aber das kann sich ändern. Deswegen hab ich an einem meiner wichtigsten Plätze in der Begrabenen Stadt für Überwachung gesorgt. Einziges Problem: Ich brauch Strom da oben.",
@@ -105,5 +111,5 @@
   "xp": 0,
   "previousQuestIds": ["market_correction"],
   "nextQuestIds": ["industrial_espionage"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

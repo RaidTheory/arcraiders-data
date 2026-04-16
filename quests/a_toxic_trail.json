@@ -57,7 +57,7 @@
       "hr": "Vrati se do vodozahvata ispod zgrade za kontrolu obrade vode",
       "it": "Torna alla presa d'acqua sotto l'edificio di Controllo del trattamento delle acque",
       "ja": "水質管理センターの下にある取水口に戻った",
-      "ko-KR": "정수 처리장 통제실 건물 아래에 있는 취수구로 돌아가기",
+      "ko-KR": "정수 처리장 통제소 건물 아래에 있는 취수구로 돌아가기",
       "no": "Returner til vanninntaket under Water Treatment Control-bygningen",
       "pl": "Wróć do ujęcia wody pod budynkiem sterowni stacji uzdatniania wody",
       "pt": "Retorne à entrada de água abaixo do prédio de Controle de Tratamento de Água",
@@ -93,7 +93,7 @@
     },
     {
       "da": "Tag et billede af lastbilen med tønderne",
-      "de": "Mache ein Foto von dem Fasswagen.",
+      "de": "Mache ein Foto von dem Fasstransporter.",
       "en": "Take a photo of the barrel truck",
       "es": "Saca una foto del barril.",
       "fr": "Prendre une photo du camion-citerne",
@@ -157,5 +157,5 @@
   "xp": 0,
   "previousQuestIds": ["life_of_a_pharmacist"],
   "nextQuestIds": ["the_stench_of_corruption"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

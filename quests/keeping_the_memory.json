@@ -46,6 +46,7 @@
     "zh-CN": "当初派你去处理那个陷阱时，我有点失控了。我一般不轻易发火，但“第一波”……我们那时经历了很多苦难，失去了很多人。我至今还没有走出来，但我想让你理解它的意义。",
     "zh-TW": "我派你去處理那個陷阱時有點失控了。我通常不會發脾氣的，但是第一波…當時我們經歷了許多悲慘的事情，失去了很多人。對我來說，那個傷口依然難以癒合，但我希望你能理解。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til vraget i Formicai Hills",
@@ -131,5 +132,5 @@
   "xp": 0,
   "previousQuestIds": ["straight_record"],
   "nextQuestIds": ["echoes_of_victory_ridge"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

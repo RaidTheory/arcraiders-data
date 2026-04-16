@@ -56,6 +56,7 @@
     "zh-CN": "我正在搭建一个温室，以帮助提高食物产量。我这是在帮塞莱斯特一个忙，仅此而已。不过不说这个了。我已经规划好了所有细节，但需要物资，而且单凭我一个人可搞不来。",
     "zh-TW": "我正在設立溫室，以幫助提升食物產量。我只是在幫莎莉絲特的忙，好嗎？僅此而已。但別再說這個了。我搞定了所有細節，但是需要一些物資，而且我才不要一個人去搬回來。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Nå frem til Grandioso Apartments i Buried City",
@@ -88,7 +89,7 @@
       "he": "חפש מד לחות על הגג של ה-Grandioso Apartments",
       "hr": "Potraži mjerač vlage na krovu apartmana Grandioso",
       "it": "Cerca un misuratore di umidità sul tetto degli appartamenti Grandioso",
-      "ja": "グランディオーソ・アパートの屋上で水分メーターを探した",
+      "ja": "グランディオーソ・アパートの屋上で水分計を探した",
       "ko-KR": "그란디오소 아파트 옥상에서 수분 측정기 찾기",
       "no": "Let etter en fuktighetsmåler på taket av Grandioso Apartments",
       "pl": "Poszukaj wilgotnościomierza na dachu apartamentów Grandioso",
@@ -176,7 +177,7 @@
       "he": "מסור מד לחות ל-Tian Wen",
       "hr": "Dostavi mjerač vlage Tian Wenu",
       "it": "Consegna un misuratore di umidità a Tian Wen",
-      "ja": "ティアン・ウェンに水分メーターを届けた",
+      "ja": "ティアン・ウェンに水分計を届けた",
       "ko-KR": "티안 웬에게 수분 측정기 전달하기",
       "no": "Lever en fuktighetsmåler til Tian Wen",
       "pl": "Dostarcz wilgotnościomierz Tian Wen",
@@ -207,5 +208,5 @@
   "xp": 0,
   "previousQuestIds": ["industrial_espionage", "echoes_of_victory_ridge"],
   "nextQuestIds": ["a_symbol_of_unification"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

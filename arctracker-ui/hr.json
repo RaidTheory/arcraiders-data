@@ -110,6 +110,7 @@
       "uncoveredCaches": "Otkrivena spremišta",
       "launchTowerLoot": "Plijen lansirnog tornja",
       "hiddenBunker": "Skriveni bunker",
+      "closeScrutiny": "Detaljni pregled",
       "none": "Nema",
       "birdCity": "Grad ptica",
       "hurricane": "Uragan"
@@ -2263,7 +2264,9 @@
       "sortUnsorted": "Nesortirano",
       "searchPlaceholder": "Pretraži predmete...",
       "sortRarity": "Sortiraj po rijetkosti",
-      "sortName": "Sortiraj po nazivu"
+      "sortName": "Sortiraj po nazivu",
+      "tokenInvalidError": "Vaša veza s igrom ARC Raiders više nije važeća. Molimo ponovno povežite svoj račun.",
+      "reconnectAccount": "Ponovno poveži račun"
     },
     "currencies": {
       "cred": "Cred",
@@ -2377,7 +2380,9 @@
     "blueprintSyncDescription": "Sinkroniziraj naučene nacrte sa svog računa igre",
     "tokenExpiredExtensionMissing": "Veza je istekla — Potrebno proširenje",
     "tokenExpiredExtensionMissingDescription": "Vaša sesija je istekla, a proširenje preglednika nije instalirano. Prvo instalirajte proširenje, a zatim osvježite vezu.",
-    "embarkErrorAlreadyLinkedDescription": "Ovaj račun igre već je povezan s drugim ARCTracker računom. Prvo ga morate odspojiti od drugog računa ili koristiti drugi račun igre."
+    "embarkErrorAlreadyLinkedDescription": "Ovaj račun igre već je povezan s drugim ARCTracker računom. Prvo ga morate odspojiti od drugog računa ili koristiti drugi račun igre.",
+    "consentSessionExpiry": "Vaša veza vrijedi 24 sata. Nakon toga morat ćete se ponovno povezati kako biste nastavili sa sinkronizacijom.",
+    "tokenExpiresIn": "Ističe za {time}"
   },
   "HideoutSync": {
     "title": "Sinkroniziraj napredak Skrovišta",
@@ -2558,7 +2563,18 @@
     "responseFormat": "Format odgovora",
     "responseFormatDescription": "Sve autentificirane krajnje točke vraćaju dosljednu JSON omotnicu.",
     "successResponse": "Uspješan odgovor",
-    "title": "API dokumentacija"
+    "title": "API dokumentacija",
+    "endpointRounds": "Povijest rundi korisnika sinkronizirana s Embarkom sa statistikama (ubojstva, šteta, ishod, plijen). Uključuje prikupljene predmete kada je priložena snimka zaslona.",
+    "paramRoundsLimit": "Maksimalan broj rundi za vraćanje (zadano: 50, maks: 200).",
+    "paramRoundsOffset": "Pomak straničenja (zadano: 0).",
+    "paramRoundsOutcome": "Filtar: izvučen, poginuo, nepoznato.",
+    "paramRoundsMap": "Filtriraj po oznaci karte: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsSeason": "Filtriraj po broju sezone (npr. 1, 2).",
+    "paramRoundsDateFrom": "Početni datum (uključivo, ISO format, npr. 2025-01-01).",
+    "paramRoundsDateTo": "Završni datum (uključivo, ISO format, npr. 2025-12-31).",
+    "paramRoundsSort": "Redoslijed sortiranja: najnovije (zadano), najstarije, value_desc, value_asc.",
+    "endpointBlueprints": "Status naučenih nacrta korisnika s pregledom po kategorijama.",
+    "paramBlueprintsFilter": "Filtar: naučeno, nedostaje."
   },
   "BlueprintSync": {
     "applySync": "Primijeni sinkronizaciju",
@@ -2665,7 +2681,7 @@
     "alphaBadge": "Eksperimentalno",
     "clearChat": "Očisti razgovor",
     "closeCipher": "Zatvori",
-    "emptyStateDescription": "Sustavi su na mreži. Pitaj me o svom spremištu, učinku u raidovima, stopama plijena ili bilo čemu vezanom uz teren. Odgovori možda nisu uvijek točni — molimo provjeri važne informacije.",
+    "emptyStateDescription": "Sustavi su na mreži. Pitaj me o svom skladištu, uspjehu u prepadima, stopama plijena ili bilo čemu o površini. Odgovori možda neće uvijek biti točni — molimo provjerite važne informacije.",
     "emptyStateTitle": "Cipher",
     "inputPlaceholder": "Pitaj Cipher...",
     "openCipher": "Otvori Cipher",

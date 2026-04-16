@@ -105,6 +105,16 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/angled_grip_ii.png",
-  "updatedAt": "01/09/2026",
-  "addedIn": "base"
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "creds": 100
+      },
+      "limit": 2,
+      "refreshSeconds": 86400,
+      "trader": "Shani"
+    }
+  ]
 }

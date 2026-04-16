@@ -46,6 +46,7 @@
     "zh-CN": "之前那次失窃事件，现在看来不像是巧合。我们来自托雷多的竞争对手正在不属于他们的地方建立据点。我想破坏他们的储物箱——最好在他们站稳脚跟之前。",
     "zh-TW": "之前的那個小偷？現在看起來不再是巧合了。托雷多的一些競爭對手正在他們不該去的地方做生意。我要你去破壞他們的藏貨處，趁他們還沒得寸進尺之前。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find depotet nær Marano Station",
@@ -109,5 +110,5 @@
   "xp": 0,
   "previousQuestIds": ["marked_for_death"],
   "nextQuestIds": ["eyes_on_the_prize"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

@@ -1,0 +1,61 @@
+{
+  "id": "vaporizer_regulator",
+  "name": {
+    "da": "Vaporizer Regulator",
+    "de": "Vaporizer Regulator",
+    "en": "Vaporizer Regulator",
+    "es": "Vaporizer Regulator",
+    "fr": "Vaporizer Regulator",
+    "he": "Vaporizer Regulator",
+    "hr": "Vaporizer Regulator",
+    "it": "Vaporizer Regulator",
+    "ja": "Vaporizer Regulator",
+    "ko-KR": "Vaporizer Regulator",
+    "no": "Vaporizer Regulator",
+    "pl": "Vaporizer Regulator",
+    "pt": "Vaporizer Regulator",
+    "pt-BR": "Vaporizer Regulator",
+    "ru": "Vaporizer Regulator",
+    "sr": "Vaporizer Regulator",
+    "tr": "Vaporizer Regulator",
+    "uk": "Vaporizer Regulator",
+    "zh-CN": "Vaporizer Regulator",
+    "zh-TW": "Vaporizer Regulator"
+  },
+  "description": {
+    "da": "",
+    "de": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "he": "",
+    "hr": "",
+    "it": "",
+    "ja": "",
+    "ko-KR": "",
+    "no": "",
+    "pl": "",
+    "pt": "",
+    "pt-BR": "",
+    "ru": "",
+    "sr": "",
+    "tr": "",
+    "uk": "",
+    "zh-CN": "",
+    "zh-TW": ""
+  },
+  "type": "Recyclable",
+  "rarity": "Epic",
+  "value": 6000,
+  "weightKg": 0.5,
+  "stackSize": 1,
+  "recyclesInto": {
+    "advanced_electrical_components": 1,
+    "arc_circuitry": 2
+  },
+  "salvagesInto": {
+    "arc_circuitry": 2
+  },
+  "updatedAt": "03/31/2026",
+  "addedIn": "1.22"
+}

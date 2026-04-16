@@ -63,6 +63,16 @@
     "explosive_compound": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/fireworks_box.png",
-  "updatedAt": "01/13/2026",
-  "addedIn": "1.7"
+  "updatedAt": "03/22/2026",
+  "addedIn": "1.7",
+  "vendors": [
+    {
+      "cost": {
+        "creds": 60
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "trader": "Shani"
+    }
+  ]
 }

@@ -50,10 +50,6 @@
   "value": 500,
   "weightKg": 0.2,
   "stackSize": 5,
-  "craftBench": "in_raid",
-  "recipe": {
-    "projector": 1
-  },
   "recyclesInto": {
     "plastic_parts": 1,
     "wires": 1
@@ -62,7 +58,7 @@
     "plastic_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/processor.png",
-  "updatedAt": "01/09/2026",
+  "updatedAt": "03/22/2026",
   "addedIn": "base",
   "vendors": [
     {
@@ -71,6 +67,7 @@
       },
       "limit": 5,
       "refreshSeconds": 86400,
+      "requiredLevel": 12,
       "trader": "Celeste"
     }
   ]

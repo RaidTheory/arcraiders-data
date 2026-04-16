@@ -110,6 +110,7 @@
       "uncoveredCaches": "Avdekkede lagre",
       "launchTowerLoot": "Bytte fra oppskytningstårn",
       "hiddenBunker": "Skjult bunker",
+      "closeScrutiny": "Nøye gransking",
       "none": "Ingen",
       "birdCity": "Fuglebyen",
       "hurricane": "Orkan"
@@ -2263,7 +2264,9 @@
       "sortUnsorted": "Usortert",
       "searchPlaceholder": "Søk etter gjenstander...",
       "sortRarity": "Sorter etter sjeldenhet",
-      "sortName": "Sorter etter navn"
+      "sortName": "Sorter etter navn",
+      "tokenInvalidError": "Tilkoblingen din til ARC Raiders er ikke lenger gyldig. Vennligst koble til kontoen din på nytt.",
+      "reconnectAccount": "Koble til konto på nytt"
     },
     "currencies": {
       "cred": "Cred",
@@ -2377,7 +2380,9 @@
     "blueprintSyncDescription": "Synkroniser lærte tegninger fra spillkontoen din",
     "tokenExpiredExtensionMissing": "Tilkobling utløpt — Utvidelse påkrevd",
     "tokenExpiredExtensionMissingDescription": "Økten din har utløpt, og nettleserutvidelsen er ikke installert. Installer utvidelsen først, og oppdater deretter tilkoblingen.",
-    "embarkErrorAlreadyLinkedDescription": "Denne spillkontoen er allerede koblet til en annen ARCTracker-konto. Du må koble den fra den andre kontoen først, eller bruke en annen spillkonto."
+    "embarkErrorAlreadyLinkedDescription": "Denne spillkontoen er allerede koblet til en annen ARCTracker-konto. Du må koble den fra den andre kontoen først, eller bruke en annen spillkonto.",
+    "consentSessionExpiry": "Tilkoblingen din er gyldig i 24 timer. Du må koble til på nytt etter dette for å fortsette synkroniseringen.",
+    "tokenExpiresIn": "Utløper om {time}"
   },
   "HideoutSync": {
     "title": "Synkroniser fremgang i skjulested",
@@ -2558,7 +2563,18 @@
     "responseFormat": "Responsformat",
     "responseFormatDescription": "Alle autentiserte endepunkter returnerer en konsistent JSON-konvolutt.",
     "successResponse": "Suksessrespons",
-    "title": "API-dokumentasjon"
+    "title": "API-dokumentasjon",
+    "endpointRounds": "Brukerens Embark-synkroniserte rundehistorikk med statistikk (drap, skade, utfall, loot). Inkluderer plyndrede gjenstander når et skjermbilde er lagt ved.",
+    "paramRoundsLimit": "Maks antall runder å returnere (standard: 50, maks: 200).",
+    "paramRoundsOffset": "Offset for paginering (standard: 0).",
+    "paramRoundsOutcome": "Filter: extracted, died, unknown.",
+    "paramRoundsMap": "Filtrer etter kart-slug: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsSeason": "Filtrer etter sesongnummer (f.eks. 1, 2).",
+    "paramRoundsDateFrom": "Inkludert startdato (ISO-format, f.eks. 2025-01-01).",
+    "paramRoundsDateTo": "Inkludert sluttdato (ISO-format, f.eks. 2025-12-31).",
+    "paramRoundsSort": "Sorteringsrekkefølge: newest (standard), oldest, value_desc, value_asc.",
+    "endpointBlueprints": "Brukerens læringsstatus for blueprints med kategorioversikt.",
+    "paramBlueprintsFilter": "Filter: learned, missing."
   },
   "BlueprintSync": {
     "applySync": "Utfør synkronisering",
@@ -2665,7 +2681,7 @@
     "alphaBadge": "Eksperimentell",
     "clearChat": "Tøm chat",
     "closeCipher": "Lukk",
-    "emptyStateDescription": "Systemer på nett. Spør meg om lageret ditt, raid-prestasjoner, dropprater eller hva som helst om feltet. Svarene er kanskje ikke alltid nøyaktige — vennligst verifiser viktig informasjon.",
+    "emptyStateDescription": "Systemer online. Spør meg om lageret ditt, raid-resultater, dropprater eller hva som helst om overflaten. Svarene er kanskje ikke alltid nøyaktige – vennligst verifiser viktig informasjon.",
     "emptyStateTitle": "Cipher",
     "inputPlaceholder": "Spør Cipher...",
     "openCipher": "Åpne Cipher",

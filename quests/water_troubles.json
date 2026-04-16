@@ -46,6 +46,7 @@
     "zh-CN": "如果你是来投诉水质问题的，排队去吧。我这一整天都在处理投诉。肯定是什么地方出了问题，我想找人去排查一下。",
     "zh-TW": "如果你是來抱怨水質的，你不是第一個了。我已經處理投訴了一整天。一定出什麼問題了，我需要人來幫忙解決。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find oversvømmelsestunnelen under Red Lake Balcony",
@@ -131,5 +132,5 @@
   "xp": 0,
   "previousQuestIds": ["after_rain_comes", "the_root_of_the_matter"],
   "nextQuestIds": ["into_the_fray", "source_of_the_contamination"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

@@ -110,6 +110,7 @@
       "uncoveredCaches": "Esconderijos Descobertos",
       "launchTowerLoot": "Saque da Torre de Lançamento",
       "hiddenBunker": "Bunker Oculto",
+      "closeScrutiny": "Escrutínio minucioso",
       "none": "Nenhum",
       "birdCity": "Cidade dos Pássaros",
       "hurricane": "Furacão"
@@ -2249,7 +2250,9 @@
       "sortUnsorted": "Não ordenado",
       "searchPlaceholder": "Pesquisar itens...",
       "sortRarity": "Ordenar por Raridade",
-      "sortName": "Ordenar por Nome"
+      "sortName": "Ordenar por Nome",
+      "tokenInvalidError": "Sua conexão com ARC Raiders não é mais válida. Por favor, reconecte sua conta.",
+      "reconnectAccount": "Reconectar Conta"
     },
     "currencies": {
       "cred": "Cred",
@@ -2363,7 +2366,9 @@
     "blueprintSyncDescription": "Sincronize diagramas aprendidos da sua conta do jogo",
     "tokenExpiredExtensionMissing": "Conexão Expirada — Extensão Necessária",
     "tokenExpiredExtensionMissingDescription": "Sua sessão expirou e a extensão do navegador não está instalada. Instale a extensão primeiro, depois atualize sua conexão.",
-    "embarkErrorAlreadyLinkedDescription": "Esta conta de jogo já está vinculada a uma conta ARCTracker diferente. Você deve desvinculá-la da outra conta primeiro, ou usar uma conta de jogo diferente."
+    "embarkErrorAlreadyLinkedDescription": "Esta conta de jogo já está vinculada a uma conta ARCTracker diferente. Você deve desvinculá-la da outra conta primeiro, ou usar uma conta de jogo diferente.",
+    "consentSessionExpiry": "Sua conexão é válida por 24 horas. Você precisará se reconectar após esse período para continuar a sincronização.",
+    "tokenExpiresIn": "Expira em {time}"
   },
   "HideoutSync": {
     "title": "Sincronizar Progresso do Esconderijo",
@@ -2544,7 +2549,18 @@
     "responseFormat": "Formato da Resposta",
     "responseFormatDescription": "Todos os endpoints autenticados retornam um envelope JSON consistente.",
     "successResponse": "Resposta de Sucesso",
-    "title": "Documentação da API"
+    "title": "Documentação da API",
+    "endpointRounds": "Histórico de partidas do usuário sincronizado com a Embark, com estatísticas (abates, dano, resultado, saque). Inclui itens saqueados quando uma captura de tela está anexada.",
+    "paramRoundsLimit": "Máximo de partidas para retornar (padrão: 50, máx: 200).",
+    "paramRoundsOffset": "Deslocamento da paginação (padrão: 0).",
+    "paramRoundsOutcome": "Filtro: extracted (extraído), died (morto), unknown (desconhecido).",
+    "paramRoundsMap": "Filtrar por slug do mapa: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsSeason": "Filtrar por número da temporada (ex: 1, 2).",
+    "paramRoundsDateFrom": "Data de início inclusiva (formato ISO, ex: 2025-01-01).",
+    "paramRoundsDateTo": "Data de término inclusiva (formato ISO, ex: 2025-12-31).",
+    "paramRoundsSort": "Ordem de classificação: newest (mais recente, padrão), oldest (mais antigo), value_desc, value_asc.",
+    "endpointBlueprints": "Status de aprendizado de projetos do usuário com detalhamento por categoria.",
+    "paramBlueprintsFilter": "Filtro: learned (aprendido), missing (faltando)."
   },
   "BlueprintSync": {
     "applySync": "Aplicar Sincronização",
@@ -2651,7 +2667,7 @@
     "alphaBadge": "Experimental",
     "clearChat": "Limpar chat",
     "closeCipher": "Fechar",
-    "emptyStateDescription": "Sistemas online. Pergunte-me sobre seu estoque, desempenho nas raides, taxas de drop ou qualquer coisa sobre o campo. As respostas podem nem sempre ser precisas — verifique informações importantes.",
+    "emptyStateDescription": "Sistemas online. Pergunte-me sobre o seu depósito, desempenho nas incursões, taxas de drop ou qualquer coisa sobre a superfície. As respostas podem nem sempre ser precisas — por favor, verifique informações importantes.",
     "emptyStateTitle": "Cipher",
     "inputPlaceholder": "Perguntar ao Cipher...",
     "openCipher": "Abrir Cipher",

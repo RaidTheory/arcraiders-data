@@ -111,6 +111,7 @@
       "launchTowerLoot": "發射塔上的戰利品",
       "hiddenBunker": "隱藏地堡",
       "birdCity": "鳥城",
+      "closeScrutiny": "嚴密審查",
       "none": "無",
       "hurricane": "颶風"
     }
@@ -2265,7 +2266,9 @@
       "syncError": "庫存同步失敗。請重試。",
       "searchPlaceholder": "搜索物品...",
       "sortRarity": "依稀有度排序",
-      "sortName": "依名稱排序"
+      "sortName": "依名稱排序",
+      "tokenInvalidError": "您與 ARC Raiders 的連線已失效。請重新連線您的帳號。",
+      "reconnectAccount": "重新連線帳號"
     },
     "loadout": {
       "title": "配裝",
@@ -2358,7 +2361,9 @@
     },
     "tokenExpiredExtensionMissing": "連線已過期 — 需要擴充功能",
     "tokenExpiredExtensionMissingDescription": "您的工作階段已過期，且未安裝瀏覽器擴充功能。請先安裝擴充功能，然後重新整理您的連線。",
-    "embarkErrorAlreadyLinkedDescription": "此遊戲帳號已連結至另一個 ARCTracker 帳號。您必須先從另一個帳號解除連結，或使用不同的遊戲帳號。"
+    "embarkErrorAlreadyLinkedDescription": "此遊戲帳號已連結至另一個 ARCTracker 帳號。您必須先從另一個帳號解除連結，或使用不同的遊戲帳號。",
+    "consentSessionExpiry": "您的連線有效期限為 24 小時。之後您必須重新連線才能繼續同步。",
+    "tokenExpiresIn": "{time} 後過期"
   },
   "HideoutSync": {
     "title": "同步藏身處進度",
@@ -2555,7 +2560,18 @@
     "responseFormat": "響應格式",
     "responseFormatDescription": "所有需認證的端點都返回一致的 JSON 封裝結構。",
     "successResponse": "成功響應",
-    "errorResponse": "錯誤響應"
+    "errorResponse": "錯誤響應",
+    "endpointRounds": "使用者與 Embark 同步的場次紀錄，包含統計數據（擊殺數、傷害、結果、戰利品）。若附有截圖，將包含搜刮的物品。",
+    "paramRoundsLimit": "傳回的最大場次數量（預設值：50，最大值：200）。",
+    "paramRoundsOffset": "分頁偏移量（預設值：0）。",
+    "paramRoundsOutcome": "篩選條件：extracted（已撤離）、died（死亡）、unknown（未知）。",
+    "paramRoundsMap": "依地圖識別碼（slug）篩選：dam-battleground、the-spaceport、blue-gate、stella-montis、buried-city。",
+    "paramRoundsSeason": "依賽季編號篩選（例如：1、2）。",
+    "paramRoundsDateFrom": "起始日期（包含該日，ISO 格式，例如：2025-01-01）。",
+    "paramRoundsDateTo": "結束日期（包含該日，ISO 格式，例如：2025-12-31）。",
+    "paramRoundsSort": "排序方式：newest（最新，預設值）、oldest（最舊）、value_desc（價值由高至低）、value_asc（價值由低至高）。",
+    "endpointBlueprints": "使用者的藍圖學習狀態與分類細項。",
+    "paramBlueprintsFilter": "篩選條件：learned（已學習）、missing（未獲得）。"
   },
   "EmbarkStats": {
     "weapons": {
@@ -2644,7 +2660,7 @@
     "alphaBadge": "實驗性",
     "clearChat": "清除對話",
     "closeCipher": "關閉",
-    "emptyStateDescription": "系統已上線。歡迎詢問關於您的倉庫、突襲表現、掉落率，或是關於戰場的任何問題。回答可能不一定準確 — 請核實重要資訊。",
+    "emptyStateDescription": "系統已上線。你可以詢問有關你的倉庫、突襲表現、掉落率，或任何關於地表的事情。回覆未必完全準確 —— 請自行核實重要資訊。",
     "emptyStateTitle": "Cipher",
     "inputPlaceholder": "詢問 Cipher...",
     "openCipher": "開啟 Cipher",

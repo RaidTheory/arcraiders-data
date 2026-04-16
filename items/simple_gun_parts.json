@@ -50,10 +50,6 @@
   "value": 330,
   "weightKg": 0.3,
   "stackSize": 10,
-  "craftBench": "in_raid",
-  "recipe": {
-    "il_toro_ii": 1
-  },
   "recyclesInto": {
     "metal_parts": 2
   },
@@ -61,7 +57,7 @@
     "metal_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/simple_gun_parts.png",
-  "updatedAt": "01/13/2026",
+  "updatedAt": "03/22/2026",
   "addedIn": "base",
   "vendors": [
     {
@@ -70,6 +66,7 @@
       },
       "limit": 5,
       "refreshSeconds": 86400,
+      "requiredLevel": 7,
       "trader": "Celeste"
     }
   ]

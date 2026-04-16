@@ -46,7 +46,7 @@
   },
   "type": "Ammunition",
   "rarity": "Rare",
-  "value": 1000,
+  "value": 200,
   "weightKg": 0.3,
   "stackSize": 5,
   "craftQuantity": 5,
@@ -58,13 +58,14 @@
     "battery": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/energy_clip.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "03/22/2026",
   "addedIn": "base",
   "vendors": [
     {
       "cost": {
         "coins": 3000
       },
+      "requiredLevel": 12,
       "trader": "Tian Wen"
     }
   ]

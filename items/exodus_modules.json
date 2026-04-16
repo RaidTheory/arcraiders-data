@@ -50,10 +50,6 @@
   "value": 2750,
   "weightKg": 1,
   "stackSize": 3,
-  "craftBench": "in_raid",
-  "recipe": {
-    "ion_sputter": 1
-  },
   "recyclesInto": {
     "magnet": 2,
     "processor": 2
@@ -62,7 +58,7 @@
     "processor": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/exodus_modules.png",
-  "updatedAt": "01/13/2026",
+  "updatedAt": "03/22/2026",
   "addedIn": "base",
   "vendors": [
     {
@@ -71,6 +67,7 @@
       },
       "limit": 1,
       "refreshSeconds": 86400,
+      "requiredLevel": 20,
       "trader": "Celeste"
     }
   ]

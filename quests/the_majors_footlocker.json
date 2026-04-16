@@ -24,6 +24,12 @@
   },
   "map": ["dam_battlegrounds"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "major_aivas_mementos",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Jeg har en anden opgave. Det handler.. om min mor.\n\nDe First Wave-steder, jeg sendte dig til tidligere? Jeg håbede faktisk, at du ville finde noget af min mors. Hun kæmpede i Raider-modstandsbevægelsen. Det var en lille chance; men nu har jeg et konkret spor.",
     "de": "Ich hab noch einen Job für dich, aber diesmal geht es um meine Mutter.\r\n\r\nDiese Stätten der Ersten Welle, zu denen ich dich geschickt hab? Ich hatte gehofft, du würdest dort etwas finden, das einst meiner Mutter gehörte. Sie hat im Raider-Widerstand gekämpft. Es war ein Schuss ins Blaue, aber jetzt habe ich tatsächlich eine Spur.",
@@ -46,6 +52,7 @@
     "zh-CN": "我还有个任务，是关于……我母亲的。\r\n\r\n之前我派你去那些“第一波”遗址，其实是希望你能找到我母亲的某样东西，她曾作为奇袭者反抗军战斗过。我知道希望很渺茫，但这次我找到了可靠的线索。",
     "zh-TW": "我有另一個工作。是關於…我媽媽。\r\n\r\n記得我之前派你去的那些第一波據點嗎？我其實是希望你能找到我母親的一些東西。她參與了掠手的反抗行動。原本希望渺茫，但我掌握到了一個確切的線索。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Led efter Major Aivas minder i lejlighederne nordvest for Dæmningen",
@@ -101,5 +108,5 @@
   "xp": 0,
   "previousQuestIds": ["a_symbol_of_unification"],
   "nextQuestIds": ["back_on_top"],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }

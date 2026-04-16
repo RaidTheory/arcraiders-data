@@ -134,7 +134,8 @@
     "electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk2.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
   "repairCost": {
     "electrical_components": 1,
     "magnet": 1
@@ -147,7 +148,17 @@
       },
       "limit": 1,
       "refreshSeconds": 86400,
+      "requiredLevel": 7,
       "trader": "Lance"
+    },
+    {
+      "cost": {
+        "creds": 100
+      },
+      "limit": 2,
+      "refreshSeconds": 86400,
+      "requiredLevel": 7,
+      "trader": "Shani"
     }
   ]
 }

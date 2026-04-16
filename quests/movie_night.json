@@ -65,6 +65,7 @@
     "zh-CN": "自从那个ARC信号的传言传开，大伙儿都一直坐立不安。我一直想搞个电影之夜活动，让大家放松一下神经。但我的投影机缺了一些关键物资。你能帮我找一下吗？",
     "zh-TW": "自從關於那個ARC訊號的傳言傳開後，每個人都很緊繃。我想說舉辦電影之夜是轉移注意力不錯的方法，但我缺少一些重要資源。你會幫我對吧？"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Levér et Bærbart TV til Apollo",
@@ -90,7 +91,7 @@
     },
     {
       "da": "På Stella Montis, gennemsøg Kulturarkivet for gamle filmbånd",
-      "de": "Durchsuche das Kulturarchiv in Stella Montis nach alten Filmkassetten.",
+      "de": "Durchsuche das Kulturarchiv in Stella Montis nach alten VHS-Kassetten.",
       "en": "On Stella Montis, search the Cultural Archives for old movie tapes",
       "es": "En Stella Montis, busca cintas de películas antiguas en los archivos culturales.",
       "fr": "Sur Stella Montis, chercher de vieilles cassettes de films dans les Archives culturelles",
@@ -112,7 +113,7 @@
     },
     {
       "da": "Levér Stakken af Filmbånd til Apollo",
-      "de": "Liefere den Stapel Filmkassetten an Apollo.",
+      "de": "Liefere den Stapel VHS-Kassetten an Apollo.",
       "en": "Deliver the Stack of Movie Tapes to Apollo",
       "es": "Entrégale la pila de cintas de película a Apollo.",
       "fr": "Livrer le tas de cassettes de films à Apollo",
@@ -150,5 +151,5 @@
   "xp": 0,
   "previousQuestIds": ["with_a_view"],
   "nextQuestIds": [],
-  "updatedAt": "02/25/2026"
+  "updatedAt": "03/31/2026"
 }
