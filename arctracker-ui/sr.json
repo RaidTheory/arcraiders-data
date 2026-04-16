@@ -110,6 +110,7 @@
       "uncoveredCaches": "Otkrivena skrovišta",
       "launchTowerLoot": "Plien lansirnog tornja",
       "hiddenBunker": "Skriveni bunker",
+      "closeScrutiny": "Детаљна провера",
       "none": "Nema",
       "birdCity": "Grad ptica",
       "hurricane": "Uragan"
@@ -2263,7 +2264,9 @@
       "sortUnsorted": "Nesortirano",
       "searchPlaceholder": "Pretraži predmete...",
       "sortRarity": "Sortiraj po retkosti",
-      "sortName": "Sortiraj po nazivu"
+      "sortName": "Sortiraj po nazivu",
+      "tokenInvalidError": "Vaša konekcija sa ARC Raiders više nije važeća. Molimo vas da ponovo povežete svoj nalog.",
+      "reconnectAccount": "Ponovo poveži nalog"
     },
     "currencies": {
       "cred": "Kred",
@@ -2377,7 +2380,9 @@
     "blueprintSyncDescription": "Sinhronizujte naučene nacrte sa svog naloga u igri",
     "tokenExpiredExtensionMissing": "Veza je istekla — Potrebna je ekstenzija",
     "tokenExpiredExtensionMissingDescription": "Vaša sesija je istekla, a ekstenzija za pregledač nije instalirana. Prvo instalirajte ekstenziju, a zatim osvežite svoju vezu.",
-    "embarkErrorAlreadyLinkedDescription": "Ovaj nalog igre je već povezan sa drugim ARCTracker nalogom. Morate ga prvo odvojiti od drugog naloga ili koristiti drugi nalog igre."
+    "embarkErrorAlreadyLinkedDescription": "Ovaj nalog igre je već povezan sa drugim ARCTracker nalogom. Morate ga prvo odvojiti od drugog naloga ili koristiti drugi nalog igre.",
+    "consentSessionExpiry": "Vaša konekcija važi 24 sata. Nakon toga ćete morati ponovo da se povežete kako biste nastavili sinhronizaciju.",
+    "tokenExpiresIn": "Ističe za {time}"
   },
   "HideoutSync": {
     "title": "Sinhronizuj napredak Skloništa",
@@ -2558,7 +2563,18 @@
     "responseFormat": "Format odgovora",
     "responseFormatDescription": "Sve autentifikovane krajnje tačke vraćaju doslednu JSON kovertu.",
     "successResponse": "Odgovor o uspehu",
-    "title": "API dokumentacija"
+    "title": "API dokumentacija",
+    "endpointRounds": "Istorija rundi korisnika sinhronizovana sa Embark-om sa statistikom (ubistva, šteta, ishod, plen). Uključuje opljačkane predmete kada je priložen snimak ekrana.",
+    "paramRoundsLimit": "Maksimalan broj rundi za vraćanje (podrazumevano: 50, maks: 200).",
+    "paramRoundsOffset": "Pomeraj straničenja (podrazumevano: 0).",
+    "paramRoundsOutcome": "Filter: evakuisan (extracted), poginuo (died), nepoznato (unknown).",
+    "paramRoundsMap": "Filtriranje po slugu mape: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsSeason": "Filtriranje po broju sezone (npr. 1, 2).",
+    "paramRoundsDateFrom": "Početni datum, uključujući njega (ISO format, npr. 2025-01-01).",
+    "paramRoundsDateTo": "Krajnji datum, uključujući njega (ISO format, npr. 2025-12-31).",
+    "paramRoundsSort": "Redosled sortiranja: najnovije (podrazumevano), najstarije, value_desc, value_asc.",
+    "endpointBlueprints": "Status naučenih nacrta korisnika sa podelom po kategorijama.",
+    "paramBlueprintsFilter": "Filter: naučeno (learned), nedostaje (missing)."
   },
   "BlueprintSync": {
     "applySync": "Primeni sinhronizaciju",
@@ -2665,7 +2681,7 @@
     "alphaBadge": "Eksperimentalno",
     "clearChat": "Očisti chat",
     "closeCipher": "Zatvori",
-    "emptyStateDescription": "Sistemi na mreži. Pitaj me o svom skladištu, učinku u ekspedicijama, stopama plena ili bilo čemu na terenu. Odgovori možda neće uvek biti tačni — molim te proveri važne informacije.",
+    "emptyStateDescription": "Sistemi su na mreži. Pitaj me o svom skladištu, učinku u ekspedicijama, stopama ispadanja plena ili bilo čemu u vezi sa površinom. Odgovori možda nisu uvek tačni — proverite važne informacije.",
     "emptyStateTitle": "Cipher",
     "inputPlaceholder": "Pitaj Cipher-a...",
     "openCipher": "Otvori Cipher",

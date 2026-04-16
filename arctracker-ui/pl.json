@@ -110,6 +110,7 @@
       "uncoveredCaches": "Odsłonięte Skrytki",
       "launchTowerLoot": "Łup z Wieży Startowej",
       "hiddenBunker": "Ukryty Bunkier",
+      "closeScrutiny": "Dokładna kontrola",
       "none": "Brak",
       "birdCity": "Ptasie Miasto",
       "hurricane": "Huragan"
@@ -2263,7 +2264,9 @@
       "sortUnsorted": "Niesortowane",
       "searchPlaceholder": "Szukaj przedmiotów...",
       "sortRarity": "Sortuj według rzadkości",
-      "sortName": "Sortuj według nazwy"
+      "sortName": "Sortuj według nazwy",
+      "tokenInvalidError": "Twoje połączenie z ARC Raiders straciło ważność. Połącz swoje konto ponownie.",
+      "reconnectAccount": "Połącz konto ponownie"
     },
     "currencies": {
       "cred": "Kredyt",
@@ -2377,7 +2380,9 @@
     "blueprintSyncDescription": "Synchronizuj poznane schematy ze swojego konta gry",
     "tokenExpiredExtensionMissing": "Połączenie wygasło — wymagane rozszerzenie",
     "tokenExpiredExtensionMissingDescription": "Twoja sesja wygasła, a rozszerzenie przeglądarki nie jest zainstalowane. Najpierw zainstaluj rozszerzenie, a następnie odśwież połączenie.",
-    "embarkErrorAlreadyLinkedDescription": "To konto gry jest już powiązane z innym kontem ARCTracker. Musisz najpierw odłączyć je od tamtego konta lub użyć innego konta gry."
+    "embarkErrorAlreadyLinkedDescription": "To konto gry jest już powiązane z innym kontem ARCTracker. Musisz najpierw odłączyć je od tamtego konta lub użyć innego konta gry.",
+    "consentSessionExpiry": "Twoje połączenie jest ważne przez 24 godziny. Po tym czasie musisz połączyć się ponownie, aby kontynuować synchronizację.",
+    "tokenExpiresIn": "Wygasa za {time}"
   },
   "HideoutSync": {
     "title": "Synchronizuj postępy kryjówki",
@@ -2558,7 +2563,18 @@
     "responseFormat": "Format odpowiedzi",
     "responseFormatDescription": "Wszystkie uwierzytelnione endpointy zwracają spójną strukturę JSON.",
     "successResponse": "Odpowiedź sukcesu",
-    "title": "Dokumentacja API"
+    "title": "Dokumentacja API",
+    "endpointRounds": "Historia rund użytkownika zsynchronizowana z Embark wraz ze statystykami (zabójstwa, obrażenia, wynik, łup). Zawiera zdobyte przedmioty, jeśli dołączono zrzut ekranu.",
+    "paramRoundsLimit": "Maksymalna liczba rund do zwrócenia (domyślnie: 50, maks.: 200).",
+    "paramRoundsOffset": "Przesunięcie stronicowania (domyślnie: 0).",
+    "paramRoundsOutcome": "Filtr: extracted, died, unknown.",
+    "paramRoundsMap": "Filtruj według identyfikatora mapy: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsSeason": "Filtruj według numeru sezonu (np. 1, 2).",
+    "paramRoundsDateFrom": "Data początkowa włącznie (format ISO, np. 2025-01-01).",
+    "paramRoundsDateTo": "Data końcowa włącznie (format ISO, np. 2025-12-31).",
+    "paramRoundsSort": "Kolejność sortowania: newest (domyślnie), oldest, value_desc, value_asc.",
+    "endpointBlueprints": "Status nauki schematów użytkownika z podziałem na kategorie.",
+    "paramBlueprintsFilter": "Filtr: learned, missing."
   },
   "BlueprintSync": {
     "applySync": "Zastosuj synchronizację",
@@ -2665,7 +2681,7 @@
     "alphaBadge": "Eksperymentalne",
     "clearChat": "Wyczyść czat",
     "closeCipher": "Zamknij",
-    "emptyStateDescription": "Systemy online. Zapytaj mnie o swój magazyn, wyniki rajdów, szanse na łup lub cokolwiek związanego z terenem działań. Odpowiedzi mogą nie zawsze być dokładne — prosimy o weryfikację ważnych informacji.",
+    "emptyStateDescription": "Systemy online. Zapytaj mnie o swój magazyn, wyniki rajdów, szanse na łup lub cokolwiek na temat powierzchni. Odpowiedzi mogą nie zawsze być dokładne — prosimy o weryfikację ważnych informacji.",
     "emptyStateTitle": "Cipher",
     "inputPlaceholder": "Zapytaj Ciphera...",
     "openCipher": "Otwórz Ciphera",

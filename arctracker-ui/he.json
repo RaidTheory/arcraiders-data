@@ -110,6 +110,7 @@
       "uncoveredCaches": "מצבורים שנחשפו",
       "launchTowerLoot": "שלל מגדל השיגור",
       "hiddenBunker": "בונקר נסתר",
+      "closeScrutiny": "בדיקה מדוקדקת",
       "none": "ללא",
       "birdCity": "עיר הציפורים",
       "hurricane": "הוריקן"
@@ -2250,7 +2251,9 @@
       "sortUnsorted": "לא ממוין",
       "searchPlaceholder": "חיפוש פריטים...",
       "sortRarity": "מיון לפי נדירות",
-      "sortName": "מיון לפי שם"
+      "sortName": "מיון לפי שם",
+      "tokenInvalidError": "החיבור שלך ל-ARC Raiders כבר אינו תקף. אנא חבר מחדש את החשבון שלך.",
+      "reconnectAccount": "חיבור מחדש לחשבון"
     },
     "currencies": {
       "cred": "קרדיט",
@@ -2364,7 +2367,9 @@
     "blueprintSyncDescription": "סנכרן שרטוטים שנלמדו מחשבון המשחק שלך",
     "tokenExpiredExtensionMissing": "תוקף החיבור פג — נדרש תוסף",
     "tokenExpiredExtensionMissingDescription": "תוקף החיבור שלך פג ותוסף הדפדפן אינו מותקן. התקן את התוסף תחילה, ולאחר מכן רענן את החיבור.",
-    "embarkErrorAlreadyLinkedDescription": "חשבון משחק זה כבר מקושר לחשבון ARCTracker אחר. עליך לבטל את הקישור מהחשבון האחר תחילה, או להשתמש בחשבון משחק שונה."
+    "embarkErrorAlreadyLinkedDescription": "חשבון משחק זה כבר מקושר לחשבון ARCTracker אחר. עליך לבטל את הקישור מהחשבון האחר תחילה, או להשתמש בחשבון משחק שונה.",
+    "consentSessionExpiry": "החיבור שלך תקף ל-24 שעות. יהיה עליך להתחבר מחדש לאחר מכן כדי להמשיך לסנכרן.",
+    "tokenExpiresIn": "פג בעוד {time}"
   },
   "HideoutSync": {
     "title": "סנכרן התקדמות מסתור",
@@ -2545,7 +2550,18 @@
     "responseFormat": "פורמט תגובה",
     "responseFormatDescription": "כל נקודות הקצה המאומתות מחזירות מעטפת JSON אחידה.",
     "successResponse": "תגובת הצלחה",
-    "title": "תיעוד API"
+    "title": "תיעוד API",
+    "endpointRounds": "היסטוריית הסבבים של המשתמש המסונכרנת עם Embark, כולל סטטיסטיקות (הריגות, נזק, תוצאה, שלל). כולל פריטי שלל כאשר מצורף צילום מסך.",
+    "paramRoundsLimit": "מספר סבבים מקסימלי להחזרה (ברירת מחדל: 50, מקסימום: 200).",
+    "paramRoundsOffset": "היסט דפדוף (Offset) (ברירת מחדל: 0).",
+    "paramRoundsOutcome": "סינון: extracted (חולץ), died (מת), unknown (לא ידוע).",
+    "paramRoundsMap": "סינון לפי מזהה מפה (slug): dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsSeason": "סינון לפי מספר עונה (לדוגמה: 1, 2).",
+    "paramRoundsDateFrom": "תאריך התחלה כולל (פורמט ISO, לדוגמה: 2025-01-01).",
+    "paramRoundsDateTo": "תאריך סיום כולל (פורמט ISO, לדוגמה: 2025-12-31).",
+    "paramRoundsSort": "סדר מיון: newest (החדש ביותר - ברירת מחדל), oldest (הישן ביותר), value_desc (ערך יורד), value_asc (ערך עולה).",
+    "endpointBlueprints": "סטטוס למידת השרטוטים (Blueprints) של המשתמש עם חלוקה לקטגוריות.",
+    "paramBlueprintsFilter": "סינון: learned (נלמד), missing (חסר)."
   },
   "BlueprintSync": {
     "applySync": "החל סנכרון",
@@ -2652,7 +2668,7 @@
     "alphaBadge": "נסיוני",
     "clearChat": "נקה צ'אט",
     "closeCipher": "סגור",
-    "emptyStateDescription": "המערכות פעילות. שאל אותי על המאגר שלך, ביצועים בפשיטות, סיכויי נפילה, או כל דבר אחר בנוגע לשטח. ייתכן שהתשובות לא תמיד יהיו מדויקות — נא לאמת מידע חשוב.",
+    "emptyStateDescription": "המערכות מקוונות. שאל אותי על המחסן שלך, ביצועי הפשיטות, סיכויי הנפילה, או כל דבר הקשור לפני השטח. ייתכן שהתשובות לא יהיו מדויקות תמיד — נא לאמת מידע חשוב.",
     "emptyStateTitle": "סייפר",
     "inputPlaceholder": "שאל את סייפר...",
     "openCipher": "פתח את סייפר",

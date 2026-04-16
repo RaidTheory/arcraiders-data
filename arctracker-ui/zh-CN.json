@@ -111,6 +111,7 @@
       "launchTowerLoot": "发射塔上的战利品",
       "hiddenBunker": "隐藏地堡",
       "birdCity": "鸟城",
+      "closeScrutiny": "严密审查",
       "none": "无",
       "hurricane": "飓风"
     }
@@ -2265,7 +2266,9 @@
       "syncError": "库存同步失败。请重试。",
       "searchPlaceholder": "搜索物品...",
       "sortRarity": "按稀有度排序",
-      "sortName": "按名称排序"
+      "sortName": "按名称排序",
+      "tokenInvalidError": "您与 ARC Raiders 的连接已失效。请重新连接您的账户。",
+      "reconnectAccount": "重新连接账户"
     },
     "loadout": {
       "title": "配装",
@@ -2358,7 +2361,9 @@
     },
     "tokenExpiredExtensionMissing": "连接已过期 —— 需要扩展程序",
     "tokenExpiredExtensionMissingDescription": "您的会话已过期，且未安装浏览器扩展程序。请先安装扩展程序，然后刷新您的连接。",
-    "embarkErrorAlreadyLinkedDescription": "此游戏账号已关联至另一个 ARCTracker 账号。您必须先从那个账号解绑，或使用其他游戏账号。"
+    "embarkErrorAlreadyLinkedDescription": "此游戏账号已关联至另一个 ARCTracker 账号。您必须先从那个账号解绑，或使用其他游戏账号。",
+    "consentSessionExpiry": "您的连接有效期为24小时。之后您需要重新连接才能继续同步。",
+    "tokenExpiresIn": "{time}后过期"
   },
   "HideoutSync": {
     "title": "同步藏身处进度",
@@ -2555,7 +2560,18 @@
     "responseFormat": "响应格式",
     "responseFormatDescription": "所有需认证的端点都返回一致的 JSON 封装结构。",
     "successResponse": "成功响应",
-    "errorResponse": "错误响应"
+    "errorResponse": "错误响应",
+    "endpointRounds": "用户的 Embark 同步对局历史及统计数据（击杀数、伤害量、结果、战利品）。当附带截图时，也包含搜刮到的物品。",
+    "paramRoundsLimit": "最大返回对局数量（默认：50，最大：200）。",
+    "paramRoundsOffset": "分页偏移量（默认：0）。",
+    "paramRoundsOutcome": "筛选条件：extracted（已撤离）、died（已阵亡）、unknown（未知）。",
+    "paramRoundsMap": "按地图标识符（slug）筛选：dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city。",
+    "paramRoundsSeason": "按赛季编号筛选（例如：1, 2）。",
+    "paramRoundsDateFrom": "起始日期（包含该日，ISO 格式，例如：2025-01-01）。",
+    "paramRoundsDateTo": "结束日期（包含该日，ISO 格式，例如：2025-12-31）。",
+    "paramRoundsSort": "排序方式：newest（最新，默认）、oldest（最旧）、value_desc（数值降序）、value_asc（数值升序）。",
+    "endpointBlueprints": "用户的蓝图学习状态及分类统计。",
+    "paramBlueprintsFilter": "筛选条件：learned（已学习）、missing（未学习）。"
   },
   "EmbarkStats": {
     "weapons": {
@@ -2644,7 +2660,7 @@
     "alphaBadge": "实验性",
     "clearChat": "清空聊天",
     "closeCipher": "关闭",
-    "emptyStateDescription": "系统在线。你可以询问关于仓库、突袭表现、掉落率，或关于战场的任何问题。回复内容可能并不总是准确的——请核实重要信息。",
+    "emptyStateDescription": "系统已上线。您可以向我询问有关您的仓库、突袭表现、掉落率，或关于地表的任何事。回答可能不总是准确——请核实重要信息。",
     "emptyStateTitle": "Cipher",
     "inputPlaceholder": "询问 Cipher...",
     "openCipher": "打开 Cipher",

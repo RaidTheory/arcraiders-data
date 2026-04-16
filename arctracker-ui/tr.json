@@ -110,6 +110,7 @@
       "uncoveredCaches": "Açığa Çıkmış Zulalar",
       "launchTowerLoot": "Fırlatma Kulesi Ganimeti",
       "hiddenBunker": "Gizli Sığınak",
+      "closeScrutiny": "Yakın İnceleme",
       "none": "Hiçbiri",
       "birdCity": "Kuş Şehri",
       "hurricane": "Kasırga"
@@ -2263,7 +2264,9 @@
       "sortUnsorted": "Sıralanmamış",
       "searchPlaceholder": "Eşya ara...",
       "sortRarity": "Nadirliğe göre sırala",
-      "sortName": "İsme göre sırala"
+      "sortName": "İsme göre sırala",
+      "tokenInvalidError": "ARC Raiders ile olan bağlantınız artık geçerli değil. Lütfen hesabınızı yeniden bağlayın.",
+      "reconnectAccount": "Hesabı Yeniden Bağla"
     },
     "currencies": {
       "cred": "Kredi",
@@ -2377,7 +2380,9 @@
     "blueprintSyncDescription": "Oyun hesabınızdaki öğrenilen şemaları eşitleyin",
     "tokenExpiredExtensionMissing": "Bağlantı Süresi Doldu — Eklenti Gerekli",
     "tokenExpiredExtensionMissingDescription": "Oturumunuzun süresi doldu ve tarayıcı eklentisi yüklü değil. Önce eklentiyi yükleyin, ardından bağlantınızı yenileyin.",
-    "embarkErrorAlreadyLinkedDescription": "Bu oyun hesabı zaten farklı bir ARCTracker hesabına bağlı. Önce diğer hesaptan bağlantıyı kaldırmalı veya farklı bir oyun hesabı kullanmalısınız."
+    "embarkErrorAlreadyLinkedDescription": "Bu oyun hesabı zaten farklı bir ARCTracker hesabına bağlı. Önce diğer hesaptan bağlantıyı kaldırmalı veya farklı bir oyun hesabı kullanmalısınız.",
+    "consentSessionExpiry": "Bağlantınız 24 saat boyunca geçerlidir. Senkronizasyona devam etmek için bu süreden sonra yeniden bağlanmanız gerekecektir.",
+    "tokenExpiresIn": "{time} içinde süresi doluyor"
   },
   "HideoutSync": {
     "title": "Sığınak İlerlemesini Eşitle",
@@ -2558,7 +2563,18 @@
     "responseFormat": "Yanıt Formatı",
     "responseFormatDescription": "Tüm kimlik doğrulamalı uç noktalar tutarlı bir JSON zarfı döndürür.",
     "successResponse": "Başarılı Yanıt",
-    "title": "API Dokümantasyonu"
+    "title": "API Dokümantasyonu",
+    "endpointRounds": "Kullanıcının istatistiklerle (öldürmeler, hasar, sonuç, ganimet) birlikte Embark ile senkronize edilmiş tur geçmişi. Bir ekran görüntüsü eklendiğinde yağmalanan eşyaları da içerir.",
+    "paramRoundsLimit": "Döndürülecek maksimum tur sayısı (varsayılan: 50, maks: 200).",
+    "paramRoundsOffset": "Sayfalandırma ofseti (varsayılan: 0).",
+    "paramRoundsOutcome": "Filtre: extracted (tahliye), died (öldü), unknown (bilinmiyor).",
+    "paramRoundsMap": "Harita kısa adına (slug) göre filtrele: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsSeason": "Sezon numarasına göre filtrele (örn. 1, 2).",
+    "paramRoundsDateFrom": "Başlangıç tarihi - dahil (ISO formatı, örn. 2025-01-01).",
+    "paramRoundsDateTo": "Bitiş tarihi - dahil (ISO formatı, örn. 2025-12-31).",
+    "paramRoundsSort": "Sıralama düzeni: newest (en yeni - varsayılan), oldest (en eski), value_desc, value_asc.",
+    "endpointBlueprints": "Kategori dökümü ile kullanıcının şema öğrenme durumu.",
+    "paramBlueprintsFilter": "Filtre: learned (öğrenildi), missing (eksik)."
   },
   "BlueprintSync": {
     "applySync": "Eşitlemeyi Uygula",
@@ -2665,7 +2681,7 @@
     "alphaBadge": "Deneysel",
     "clearChat": "Sohbeti temizle",
     "closeCipher": "Kapat",
-    "emptyStateDescription": "Sistemler çevrimiçi. Bana zulan, baskın performansın, düşme oranları veya sahayla ilgili herhangi bir şey sorabilirsin. Yanıtlar her zaman doğru olmayabilir — lütfen önemli bilgileri doğrula.",
+    "emptyStateDescription": "Sistemler devrede. Bana depon, baskın performansın, düşme oranları veya yeryüzü hakkında herhangi bir şey sorabilirsin. Yanıtlar her zaman doğru olmayabilir — lütfen önemli bilgileri doğrula.",
     "emptyStateTitle": "Cipher",
     "inputPlaceholder": "Cipher'a sor...",
     "openCipher": "Cipher'ı Aç",

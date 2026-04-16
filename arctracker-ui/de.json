@@ -110,6 +110,7 @@
       "uncoveredCaches": "Freigelegte Verstecke",
       "launchTowerLoot": "Startturm-Beute",
       "hiddenBunker": "Versteckter Bunker",
+      "closeScrutiny": "Genaue Prüfung",
       "none": "Keine",
       "birdCity": "Vogelstadt",
       "hurricane": "Hurrikan"
@@ -2263,7 +2264,9 @@
       "sortUnsorted": "Unsortiert",
       "searchPlaceholder": "Gegenstände suchen...",
       "sortRarity": "Nach Seltenheit sortieren",
-      "sortName": "Nach Namen sortieren"
+      "sortName": "Nach Namen sortieren",
+      "tokenInvalidError": "Deine Verbindung zu ARC Raiders ist nicht mehr gültig. Bitte verbinde dein Konto erneut.",
+      "reconnectAccount": "Konto erneut verbinden"
     },
     "currencies": {
       "cred": "Cred",
@@ -2377,7 +2380,9 @@
     "blueprintSyncDescription": "Synchronisiere erlernte Baupläne von deinem Spielkonto",
     "tokenExpiredExtensionMissing": "Verbindung abgelaufen — Erweiterung erforderlich",
     "tokenExpiredExtensionMissingDescription": "Deine Sitzung ist abgelaufen und die Browser-Erweiterung ist nicht installiert. Installiere zuerst die Erweiterung und aktualisiere dann deine Verbindung.",
-    "embarkErrorAlreadyLinkedDescription": "Dieser Spiel-Account ist bereits mit einem anderen ARCTracker-Konto verknüpft. Du musst die Verknüpfung mit dem anderen Konto zuerst aufheben oder einen anderen Spiel-Account verwenden."
+    "embarkErrorAlreadyLinkedDescription": "Dieser Spiel-Account ist bereits mit einem anderen ARCTracker-Konto verknüpft. Du musst die Verknüpfung mit dem anderen Konto zuerst aufheben oder einen anderen Spiel-Account verwenden.",
+    "consentSessionExpiry": "Deine Verbindung ist für 24 Stunden gültig. Danach musst du dich erneut verbinden, um die Synchronisierung fortzusetzen.",
+    "tokenExpiresIn": "Läuft ab in {time}"
   },
   "HideoutSync": {
     "title": "Unterschlupf-Fortschritt synchronisieren",
@@ -2558,7 +2563,18 @@
     "responseFormat": "Antwortformat",
     "responseFormatDescription": "Alle authentifizierten Endpunkte geben einen einheitlichen JSON-Umschlag zurück.",
     "successResponse": "Erfolgsantwort",
-    "title": "API-Dokumentation"
+    "title": "API-Dokumentation",
+    "endpointRounds": "Die über Embark synchronisierte Rundenhistorie des Benutzers mit Statistiken (Kills, Schaden, Ergebnis, Beute). Beinhaltet erbeutete Gegenstände, wenn ein Screenshot angehängt ist.",
+    "paramRoundsLimit": "Maximale Anzahl der zurückzugebenden Runden (Standard: 50, Max: 200).",
+    "paramRoundsOffset": "Paginierungs-Offset (Standard: 0).",
+    "paramRoundsOutcome": "Filter: extracted, died, unknown.",
+    "paramRoundsMap": "Filtern nach Karten-Slug: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsSeason": "Filtern nach Saisonnummer (z. B. 1, 2).",
+    "paramRoundsDateFrom": "Startdatum einschließlich (ISO-Format, z. B. 2025-01-01).",
+    "paramRoundsDateTo": "Enddatum einschließlich (ISO-Format, z. B. 2025-12-31).",
+    "paramRoundsSort": "Sortierreihenfolge: newest (Standard), oldest, value_desc, value_asc.",
+    "endpointBlueprints": "Lernstatus der Blaupausen des Benutzers mit Aufschlüsselung nach Kategorien.",
+    "paramBlueprintsFilter": "Filter: learned, missing."
   },
   "BlueprintSync": {
     "applySync": "Synchronisation anwenden",
@@ -2665,7 +2681,7 @@
     "alphaBadge": "Experimentell",
     "clearChat": "Chat leeren",
     "closeCipher": "Schließen",
-    "emptyStateDescription": "Systeme online. Frag mich nach deinem Lager, deiner Raid-Leistung, Dropraten oder allem über das Einsatzgebiet. Antworten sind möglicherweise nicht immer korrekt – bitte überprüfe wichtige Informationen.",
+    "emptyStateDescription": "Systeme online. Frag mich nach deinem Lager, deiner Raid-Leistung, Drop-Raten oder allem, was die Oberfläche betrifft. Antworten sind möglicherweise nicht immer korrekt – bitte überprüfe wichtige Informationen.",
     "emptyStateTitle": "Cipher",
     "inputPlaceholder": "Frag Cipher...",
     "openCipher": "Cipher öffnen",

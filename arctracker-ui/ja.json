@@ -103,16 +103,17 @@
       "coldSnap": "寒波",
       "lockedGate": "鍵のかかった門",
       "matriarch": "マトリアーク",
-      "harvester": "ハーベスター",
+      "harvester": "収穫機",
       "lushBlooms": "収穫の季節",
-      "prospectingProbes": "調査中のプローブ",
+      "prospectingProbes": "探査機",
       "huskGraveyard": "残骸の墓場",
-      "uncoveredCaches": "さらされた隠匿物",
+      "uncoveredCaches": "さらされた宝箱",
       "launchTowerLoot": "発射塔の戦利品",
       "hiddenBunker": "隠された貯蔵庫",
+      "closeScrutiny": "精密調査",
       "none": "なし",
       "birdCity": "鳥の街",
-      "hurricane": "台風"
+      "hurricane": "ハリケーン"
     }
   },
   "Common": {
@@ -451,7 +452,7 @@
     "Augment": "オーグメント",
     "Backpack Attachment": "リュック・アタッチメント",
     "Backpack Charm": "リュックチャーム",
-    "Basic Material": "基本素材",
+    "Basic Material": "基本資材",
     "Battle Rifle": "バトルライフル",
     "Blueprint": "設計図",
     "Cosmetic": "コスメティック",
@@ -461,13 +462,13 @@
     "LMG": "LMG",
     "Material": "資材",
     "Misc": "その他",
-    "Modification": "改造",
+    "Modification": "改造パーツ",
     "Nature": "自然",
     "Outfit": "服",
     "Pistol": "ピストル",
     "Quick Use": "クイック使用",
     "Recyclable": "リサイクル可能",
-    "Refined Material": "精製素材",
+    "Refined Material": "精製資材",
     "Shield": "シールド",
     "Shotgun": "ショットガン",
     "SMG": "SMG",
@@ -2249,7 +2250,9 @@
       "sortUnsorted": "未整理",
       "searchPlaceholder": "アイテムを検索...",
       "sortRarity": "レアリティ順",
-      "sortName": "名前順"
+      "sortName": "名前順",
+      "tokenInvalidError": "ARC Raidersへの接続が無効になりました。アカウントを再接続してください。",
+      "reconnectAccount": "アカウントを再接続"
     },
     "currencies": {
       "cred": "クレド",
@@ -2363,7 +2366,9 @@
     "blueprintSyncDescription": "ゲームアカウントから習得済みの設計図を同期します",
     "tokenExpiredExtensionMissing": "接続の有効期限切れ — 拡張機能が必要です",
     "tokenExpiredExtensionMissingDescription": "セッションの有効期限が切れ、ブラウザ拡張機能がインストールされていません。まず拡張機能をインストールしてから、接続を更新してください。",
-    "embarkErrorAlreadyLinkedDescription": "このゲームアカウントは、すでに別のARCTrackerアカウントにリンクされています。先にそのアカウントとのリンクを解除するか、別のゲームアカウントを使用してください。"
+    "embarkErrorAlreadyLinkedDescription": "このゲームアカウントは、すでに別のARCTrackerアカウントにリンクされています。先にそのアカウントとのリンクを解除するか、別のゲームアカウントを使用してください。",
+    "consentSessionExpiry": "接続の有効期限は24時間です。同期を継続するには、24時間経過後に再接続する必要があります。",
+    "tokenExpiresIn": "{time}後に期限切れ"
   },
   "HideoutSync": {
     "title": "ハイドアウトの進行状況を同期",
@@ -2544,7 +2549,18 @@
     "responseFormat": "レスポンス形式",
     "responseFormatDescription": "すべての認証付きエンドポイントは、一貫したJSONエンベロープを返します。",
     "successResponse": "成功レスポンス",
-    "title": "APIドキュメント"
+    "title": "APIドキュメント",
+    "endpointRounds": "Embarkと同期されたユーザーのラウンド履歴と統計情報（キル数、ダメージ、結果、戦利品）。スクリーンショットが添付されている場合は、獲得したアイテムも含まれます。",
+    "paramRoundsLimit": "取得するラウンドの最大数（デフォルト: 50、最大: 200）。",
+    "paramRoundsOffset": "ページネーションのオフセット（デフォルト: 0）。",
+    "paramRoundsOutcome": "フィルター: extracted（脱出）、died（死亡）、unknown（不明）。",
+    "paramRoundsMap": "マップスラッグでフィルター: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city。",
+    "paramRoundsSeason": "シーズン番号でフィルター（例: 1, 2）。",
+    "paramRoundsDateFrom": "開始日（指定日を含む、ISO形式、例: 2025-01-01）。",
+    "paramRoundsDateTo": "終了日（指定日を含む、ISO形式、例: 2025-12-31）。",
+    "paramRoundsSort": "ソート順: newest（デフォルト）、oldest、value_desc、value_asc。",
+    "endpointBlueprints": "カテゴリ別の内訳を含む、ユーザーの設計図習得状況。",
+    "paramBlueprintsFilter": "フィルター: learned（習得済み）、missing（未習得）。"
   },
   "BlueprintSync": {
     "applySync": "同期を適用",
@@ -2651,7 +2667,7 @@
     "alphaBadge": "実験的",
     "clearChat": "チャットをクリア",
     "closeCipher": "閉じる",
-    "emptyStateDescription": "システム・オンライン。スタッシュ、レイドの戦績、ドロップ率、その他フィールドに関することなら何でも聞いてください。回答は常に正確とは限らないため、重要な情報はご自身で確認してください。",
+    "emptyStateDescription": "システム、オンライン。スタッシュ、レイドの戦績、ドロップ率、その他地上に関することなら何でも聞いてください。回答は常に正確とは限りません。重要な情報は確認するようにしてください。",
     "emptyStateTitle": "サイファー",
     "inputPlaceholder": "サイファーに質問...",
     "openCipher": "サイファーを開く",

@@ -110,6 +110,7 @@
       "uncoveredCaches": "Caches de raider",
       "launchTowerLoot": "Butin de la tour de lancement",
       "hiddenBunker": "Bunker caché",
+      "closeScrutiny": "Examen minutieux",
       "none": "Aucun",
       "birdCity": "Cité des Oiseaux",
       "hurricane": "Ouragan"
@@ -2263,7 +2264,9 @@
       "sortUnsorted": "Non trié",
       "searchPlaceholder": "Rechercher des objets...",
       "sortRarity": "Trier par rareté",
-      "sortName": "Trier par nom"
+      "sortName": "Trier par nom",
+      "tokenInvalidError": "Votre connexion à ARC Raiders n'est plus valide. Veuillez reconnecter votre compte.",
+      "reconnectAccount": "Reconnecter le compte"
     },
     "currencies": {
       "cred": "Créd",
@@ -2377,7 +2380,9 @@
     "blueprintSyncDescription": "Synchronisez les plans appris depuis votre compte de jeu",
     "tokenExpiredExtensionMissing": "Connexion expirée — Extension requise",
     "tokenExpiredExtensionMissingDescription": "Votre session a expiré et l'extension de navigateur n'est pas installée. Installez d'abord l'extension, puis actualisez votre connexion.",
-    "embarkErrorAlreadyLinkedDescription": "Ce compte de jeu est déjà lié à un autre compte ARCTracker. Vous devez d'abord le dissocier de l'autre compte, ou utiliser un compte de jeu différent."
+    "embarkErrorAlreadyLinkedDescription": "Ce compte de jeu est déjà lié à un autre compte ARCTracker. Vous devez d'abord le dissocier de l'autre compte, ou utiliser un compte de jeu différent.",
+    "consentSessionExpiry": "Votre connexion est valide pendant 24 heures. Vous devrez vous reconnecter après ce délai pour continuer la synchronisation.",
+    "tokenExpiresIn": "Expire dans {time}"
   },
   "HideoutSync": {
     "title": "Synchroniser la progression de la planque",
@@ -2558,7 +2563,18 @@
     "responseFormat": "Format de réponse",
     "responseFormatDescription": "Tous les points de terminaison authentifiés renvoient une enveloppe JSON cohérente.",
     "successResponse": "Réponse de succès",
-    "title": "Documentation API"
+    "title": "Documentation API",
+    "endpointRounds": "Historique des parties de l'utilisateur synchronisé avec Embark, avec statistiques (éliminations, dégâts, résultat, butin). Inclut les objets pillés lorsqu'une capture d'écran est jointe.",
+    "paramRoundsLimit": "Nombre maximum de parties à renvoyer (par défaut : 50, max : 200).",
+    "paramRoundsOffset": "Décalage de pagination (par défaut : 0).",
+    "paramRoundsOutcome": "Filtre : extracted (exfiltré), died (mort), unknown (inconnu).",
+    "paramRoundsMap": "Filtrer par identifiant de carte (slug) : dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsSeason": "Filtrer par numéro de saison (ex. : 1, 2).",
+    "paramRoundsDateFrom": "Date de début inclusive (format ISO, ex. : 2025-01-01).",
+    "paramRoundsDateTo": "Date de fin inclusive (format ISO, ex. : 2025-12-31).",
+    "paramRoundsSort": "Ordre de tri : newest (par défaut), oldest, value_desc, value_asc.",
+    "endpointBlueprints": "Statut d'apprentissage des schémas de l'utilisateur avec répartition par catégorie.",
+    "paramBlueprintsFilter": "Filtre : learned (appris), missing (manquant)."
   },
   "BlueprintSync": {
     "applySync": "Appliquer la synchronisation",
@@ -2665,7 +2681,7 @@
     "alphaBadge": "Expérimental",
     "clearChat": "Effacer le chat",
     "closeCipher": "Fermer",
-    "emptyStateDescription": "Systèmes en ligne. Posez-moi des questions sur votre réserve, vos performances en raid, les taux d'obtention ou tout ce qui concerne le terrain. Les réponses peuvent ne pas toujours être exactes — veuillez vérifier les informations importantes.",
+    "emptyStateDescription": "Systèmes en ligne. Interrogez-moi sur votre réserve, vos performances en raid, les taux d'obtention ou tout ce qui concerne la surface. Les réponses ne sont pas toujours exactes — veuillez vérifier les informations importantes.",
     "emptyStateTitle": "Cipher",
     "inputPlaceholder": "Demander à Cipher...",
     "openCipher": "Ouvrir Cipher",
