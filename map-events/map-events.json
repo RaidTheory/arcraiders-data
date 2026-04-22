@@ -393,6 +393,12 @@
       },
       "disabled": false
     },
+    "bird-city": {
+      "displayName": "Bird City",
+      "icon": "https://cdn.arctracker.io/map-events/bird_city.png",
+      "translationKey": "birdCity",
+      "category": "minor"
+    },
     "none": {
       "displayName": "None",
       "icon": "",
