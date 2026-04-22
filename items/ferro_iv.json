@@ -205,7 +205,6 @@
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
   "updatedAt": "02/24/2026",
   "addedIn": "base",
-  "durability": 130,
   "modSlots": {
     "grip": [
       "angled_grip_i",
@@ -242,10 +241,6 @@
     "simple_gun_parts": 2
   },
   "repairDurability": 0.5,
-  "repairMaterials": {
-    "durability_increase": 50,
-    "materials": null
-  },
   "vendors": [
     {
       "cost": {
