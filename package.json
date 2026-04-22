@@ -10,5 +10,9 @@
     "prettier-plugin-sort-json": "^4.1.1",
     "safe-stable-stringify": "^2.5.0"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "jsonpath-plus": "^10.4.0",
+    "zod": "^4.3.6"
+  }
 }
