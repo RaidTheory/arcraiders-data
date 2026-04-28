@@ -1008,16 +1008,10 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "valueRequired": 100000,
-            "tiers": [
-              5000,
-              10000,
-              30000,
-              50000,
-              100000
-            ],
             "questGameAssetId": "250322893",
-            "rewardItemId": "expedition_skill_point_token"
+            "rewardItemId": "expedition_skill_point_token",
+            "tiers": [5000, 10000, 30000, 50000, 100000],
+            "valueRequired": 100000
           }
         ],
         "requirementItemIds": []
@@ -1538,16 +1532,10 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "valueRequired": 100000,
-            "tiers": [
-              5000,
-              10000,
-              30000,
-              50000,
-              100000
-            ],
             "questGameAssetId": "674698992",
-            "rewardItemId": "expedition_skill_point_token"
+            "rewardItemId": "expedition_skill_point_token",
+            "tiers": [5000, 10000, 30000, 50000, 100000],
+            "valueRequired": 100000
           }
         ],
         "requirementItemIds": []
@@ -2068,16 +2056,10 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "valueRequired": 100000,
-            "tiers": [
-              5000,
-              10000,
-              30000,
-              50000,
-              100000
-            ],
             "questGameAssetId": "431784727",
-            "rewardItemId": "expedition_skill_point_token"
+            "rewardItemId": "expedition_skill_point_token",
+            "tiers": [5000, 10000, 30000, 50000, 100000],
+            "valueRequired": 100000
           }
         ],
         "requirementItemIds": []
@@ -2090,26 +2072,26 @@
     "id": "avian_alarm_project",
     "disabled": false,
     "name": {
+      "da": "Fuglealarm",
       "de": "Vogelalarm",
       "en": "Avian Alarm",
       "es": "Alarma aviar",
       "fr": "Alarme aviaire",
+      "he": "אזעקת ציפורים",
+      "hr": "Ptičji alarm",
       "it": "Allarme aviario",
       "ja": "鳥類警報",
       "ko-KR": "조류 경보",
+      "no": "Fuglealarm",
       "pl": "Ptasi alarm",
+      "pt": "Alarme Aviário",
       "pt-BR": "Alarme Aviário",
       "ru": "Пернатая тревога",
+      "sr": "Птичји аларм",
       "tr": "Kuş Alarmı",
-      "zh-CN": "禽鸟警报",
-      "zh-TW": "禽類警報",
       "uk": "Пташина сигналізація",
-      "pt": "Alarme Aviário",
-      "hr": "Ptičji alarm",
-      "no": "Fuglealarm",
-      "he": "אזעקת ציפורים",
-      "da": "Fuglealarm",
-      "sr": "Птичји аларм"
+      "zh-CN": "禽鸟警报",
+      "zh-TW": "禽類警報"
     },
     "description": {
       "da": "Speranzanerne har bemærket, at nogle fugle er følsomme over for atmosfæriske ændringer, og er begyndt at designe flertrins-alarmsystemer for at advare om forestående fare. Selvom deres præcision har været diskuteret, er den beroligende effekt af deres selskab ubestridelig.",
@@ -2184,12 +2166,10 @@
           {
             "category": "InteractTask",
             "kind": "checkbox",
-            "valueRequired": 1,
-            "tiers": [
-              1
-            ],
             "questGameAssetId": "382664970",
-            "rewardItemId": "expedition_skill_point_token"
+            "rewardItemId": "expedition_skill_point_token",
+            "tiers": [1],
+            "valueRequired": 1
           }
         ],
         "requirementItemIds": []
@@ -2970,16 +2950,10 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "valueRequired": 100000,
-            "tiers": [
-              5000,
-              10000,
-              30000,
-              50000,
-              100000
-            ],
             "questGameAssetId": "242691618",
-            "rewardItemId": "expedition_skill_point_token"
+            "rewardItemId": "expedition_skill_point_token",
+            "tiers": [5000, 10000, 30000, 50000, 100000],
+            "valueRequired": 100000
           }
         ],
         "requirementItemIds": []
@@ -3742,7 +3716,7 @@
   },
   {
     "id": "high_gain_antenna_project",
-    "disabled": false,
+    "disabled": true,
     "name": {
       "da": "Højforstærkningsantenne",
       "de": "Hochleistungsantenne",
