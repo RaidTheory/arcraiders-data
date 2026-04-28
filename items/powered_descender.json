@@ -1,26 +1,26 @@
 {
   "id": "powered_descender",
   "name": {
-    "da": "Powered Descender",
-    "de": "Powered Descender",
+    "da": "Drevet Nedstiger",
+    "de": "Motorisierter Abseiler",
     "en": "Powered Descender",
-    "es": "Powered Descender",
-    "fr": "Powered Descender",
-    "he": "Powered Descender",
-    "hr": "Powered Descender",
-    "it": "Powered Descender",
-    "ja": "Powered Descender",
-    "ko-KR": "Powered Descender",
-    "no": "Powered Descender",
-    "pl": "Powered Descender",
-    "pt": "Powered Descender",
-    "pt-BR": "Powered Descender",
-    "ru": "Powered Descender",
-    "sr": "Powered Descender",
-    "tr": "Powered Descender",
-    "uk": "Powered Descender",
-    "zh-CN": "Powered Descender",
-    "zh-TW": "Powered Descender"
+    "es": "Descensor motorizado",
+    "fr": "Descendeur motorisé",
+    "he": "מתקן ירידה ממונע",
+    "hr": "Motorizirani spuštač",
+    "it": "Discensore motorizzato",
+    "ja": "電動ディセンダー",
+    "ko-KR": "동력 강하기",
+    "no": "Motorisert nedstiger",
+    "pl": "Zjazdnik z napędem",
+    "pt": "Descensor motorizado",
+    "pt-BR": "Descensor motorizado",
+    "ru": "Моторизованный спусковой механизм",
+    "sr": "Motorizovani spuštač",
+    "tr": "Motorlu İniş Aleti",
+    "uk": "Моторизований спусковий пристрій",
+    "zh-CN": "动力下降器",
+    "zh-TW": "動力下降器"
   },
   "description": {
     "da": "Reducerer faldhastigheden, når den bruges i luften, men kræver opstartstid, før den når fuld kraft. Slukker, når den løber tør for strøm",
@@ -62,6 +62,7 @@
   "salvagesInto": {
     "advanced_electrical_components": 1
   },
+  "imageFilename": "https://cdn.arctracker.io/items/powered_descender.png",
   "updatedAt": "04/28/2026",
   "addedIn": "1.26"
 }
