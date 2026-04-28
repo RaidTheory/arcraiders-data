@@ -107,6 +107,11 @@
   ],
   "xp": 0,
   "previousQuestIds": ["clearer_skies", "trash_into_treasure"],
-  "nextQuestIds": ["a_first_foothold", "a_bad_feeling"],
-  "updatedAt": "03/31/2026"
+  "nextQuestIds": [
+    "a_first_foothold",
+    "shoring_up_defenses",
+    "battening_down",
+    "a_bad_feeling"
+  ],
+  "updatedAt": "04/28/2026"
 }

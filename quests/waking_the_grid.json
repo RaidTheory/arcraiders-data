@@ -93,25 +93,25 @@
     },
     {
       "da": "Søg efter spor af et sikkerhedsbrud i Arrival Building Data Office",
-      "de": "Suche im Ankunftsgebäude nach Spuren einer Sicherheitsverletzung.",
+      "de": "Suche im Ankunftsgebäude des Data Office nach Spuren einer Sicherheitsverletzung.",
       "en": "Search for any traces of a security breach in the Arrival Building Data Office",
-      "es": "Busca rastros de una brecha de seguridad en el edificio de llegadas.",
-      "fr": "Rechercher toute trace de faille de sécurité dans le Bâtiment d'arrivée",
+      "es": "Busca rastros de una brecha de seguridad en la oficina de datos del edificio de llegadas.",
+      "fr": "Rechercher toute trace de faille de sécurité dans le bureau des données du Bâtiment d'arrivée",
       "he": "חפש עקבות לפרצת אבטחה במשרד הנתונים של בניין הנחיתות",
       "hr": "Potraži bilo kakve tragove proboja sigurnosti u uredu za podatke zgrade dolazaka",
-      "it": "Cerca eventuali tracce di violazioni della sicurezza nell'Edificio arrivi",
-      "ja": "到着棟でセキュリティ突破の痕跡を探した",
-      "ko-KR": "도착동의 보안실에서 침입 흔적 찾기",
+      "it": "Cerca eventuali segni di violazioni della sicurezza presso l'Ufficio dati dell'Edificio arrivi",
+      "ja": "到着棟のデータオフィスでセキュリティ突破の痕跡を探す",
+      "ko-KR": "도착동의 데이터 사무실에서 보안 침해 흔적 찾기",
       "no": "Søk etter spor etter et sikkerhetsbrudd i Arrival Building Data Office",
-      "pl": "Poszukaj śladów naruszenia bezpieczeństwa w budynku przylotów",
+      "pl": "Poszukaj śladów naruszenia bezpieczeństwa w biurze danych w budynku przylotów",
       "pt": "Procure indícios de quebra de segurança no Prédio de Desembarque",
-      "pt-BR": "Procure indícios de quebra de segurança no Prédio de Desembarque",
-      "ru": "Поищите свидетельства взлома в зоне прилета.",
+      "pt-BR": "Procure indícios de quebra de segurança no Escritório de Dados do Prédio de Desembarque",
+      "ru": "Поищите свидетельства взлома в станции данных в зоне прилета.",
       "sr": "Potraži bilo kakve tragove proboja bezbednosti u kancelariji za podatke zgrade dolazaka",
-      "tr": "Geliş Binası'nda güvenlik ihlali izleri olup olmadığını araştır.",
+      "tr": "Geliş Binası Veri Ofisi'nde güvenlik ihlali izleri olup olmadığını araştır",
       "uk": "Знайди будь-які сліди порушення безпеки в офісі даних будівлі прибуття",
-      "zh-CN": "在到达楼中寻找安保入侵痕迹",
-      "zh-TW": "在入境大樓內搜尋任何保全漏洞的跡象"
+      "zh-CN": "搜寻到达楼数据办公室的安保入侵痕迹",
+      "zh-TW": "在入境大樓資料辦公室內搜尋保全漏洞的跡象"
     }
   ],
   "rewardItemIds": [
@@ -131,5 +131,5 @@
   "xp": 0,
   "previousQuestIds": ["dust_on_the_wires"],
   "nextQuestIds": [],
-  "updatedAt": "03/31/2026"
+  "updatedAt": "04/28/2026"
 }
