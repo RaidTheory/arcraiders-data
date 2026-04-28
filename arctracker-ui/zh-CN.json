@@ -111,6 +111,7 @@
       "launchTowerLoot": "发射塔上的战利品",
       "hiddenBunker": "隐藏地堡",
       "birdCity": "鸟城",
+      "beachcombing": "Beachcombing",
       "closeScrutiny": "严密排查",
       "none": "无",
       "hurricane": "飓风"
@@ -204,7 +205,12 @@
     "stashModeActive": "已启用同步仓库模式",
     "lastSynced": "已同步",
     "syncStash": "同步仓库",
-    "season3": "第 3 赛季"
+    "season3": "第 3 赛季",
+    "dealDamage": "对ARC机器造成伤害",
+    "completeObjective": "完成目标",
+    "skillPointReward": "技能点",
+    "earnedDuringExpedition": "进度在远征期间会持续累积。每完成一个层级，你的下一位突袭者将获得1个技能点。",
+    "season4": "远征 4"
   },
   "HideoutPage": {
     "level": "等级",
@@ -799,7 +805,8 @@
     "theSpaceport": "太空港",
     "buriedCity": "掩埋废城",
     "theBlueGate": "蓝门",
-    "stellaMontis": "星辰山"
+    "stellaMontis": "星辰山",
+    "rivenTides": "裂潮"
   },
   "MapSubcategories": {
     "extraction": "撤离点",
@@ -2565,7 +2572,7 @@
     "paramRoundsLimit": "最大返回对局数量（默认：50，最大：200）。",
     "paramRoundsOffset": "分页偏移量（默认：0）。",
     "paramRoundsOutcome": "筛选条件：extracted（已撤离）、died（已阵亡）、unknown（未知）。",
-    "paramRoundsMap": "按地图标识符（slug）筛选：dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city。",
+    "paramRoundsMap": "按地图标识符（slug）筛选：dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides。",
     "paramRoundsSeason": "按赛季编号筛选（例如：1, 2）。",
     "paramRoundsDateFrom": "起始日期（包含该日，ISO 格式，例如：2025-01-01）。",
     "paramRoundsDateTo": "结束日期（包含该日，ISO 格式，例如：2025-12-31）。",
@@ -2654,7 +2661,9 @@
     "totalPhases": "阶段",
     "turnIn": "提交",
     "uniqueItems": "唯一物品",
-    "valueRequirement": "价值需求"
+    "valueRequirement": "价值需求",
+    "damageTiers": "伤害层级",
+    "singleObjective": "单一目标"
   },
   "Cipher": {
     "alphaBadge": "实验性",

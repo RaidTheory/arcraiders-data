@@ -113,6 +113,7 @@
       "closeScrutiny": "Detaljni pregled",
       "none": "Nema",
       "birdCity": "Grad ptica",
+      "beachcombing": "Beachcombing",
       "hurricane": "Uragan"
     }
   },
@@ -197,7 +198,12 @@
     "stashModeActive": "Količine iz sinkroniziranog skladišta",
     "lastSynced": "Sinkronizirano",
     "syncStash": "Sinkroniziraj skladište",
-    "season3": "Sezona 3"
+    "season3": "Sezona 3",
+    "dealDamage": "Nanesi štetu ARC strojevima",
+    "completeObjective": "Dovrši cilj",
+    "skillPointReward": "Bod vještine",
+    "earnedDuringExpedition": "Napredak se prikuplja unutar vremena trajanja ekspedicije. Svaka završena razina donosi 1 bod vještine za tvog sljedećeg Raidera.",
+    "season4": "Ekspedicija 4"
   },
   "HideoutPage": {
     "level": "Razina",
@@ -724,7 +730,8 @@
     "theSpaceport": "Svemirska luka",
     "buriedCity": "Zakopani grad",
     "theBlueGate": "Plava vrata",
-    "stellaMontis": "Stella Montis"
+    "stellaMontis": "Stella Montis",
+    "rivenTides": "Rastrgane plime"
   },
   "TermsPage": {
     "title": "Uvjeti pružanja usluge",
@@ -2568,7 +2575,7 @@
     "paramRoundsLimit": "Maksimalan broj rundi za vraćanje (zadano: 50, maks: 200).",
     "paramRoundsOffset": "Pomak straničenja (zadano: 0).",
     "paramRoundsOutcome": "Filtar: izvučen, poginuo, nepoznato.",
-    "paramRoundsMap": "Filtriraj po oznaci karte: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Filtriraj po oznaci karte: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Filtriraj po broju sezone (npr. 1, 2).",
     "paramRoundsDateFrom": "Početni datum (uključivo, ISO format, npr. 2025-01-01).",
     "paramRoundsDateTo": "Završni datum (uključivo, ISO format, npr. 2025-12-31).",
@@ -2675,7 +2682,9 @@
     "totalPhases": "Faze",
     "turnIn": "Predaj",
     "uniqueItems": "Jedinstveni predmeti",
-    "valueRequirement": "Potrebna vrijednost"
+    "valueRequirement": "Potrebna vrijednost",
+    "damageTiers": "Razine štete",
+    "singleObjective": "Pojedinačni cilj"
   },
   "Cipher": {
     "alphaBadge": "Eksperimentalno",

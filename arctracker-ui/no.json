@@ -113,6 +113,7 @@
       "closeScrutiny": "Nøye gransking",
       "none": "Ingen",
       "birdCity": "Fuglebyen",
+      "beachcombing": "Beachcombing",
       "hurricane": "Orkan"
     }
   },
@@ -197,7 +198,12 @@
     "stashModeActive": "Antall fra synkronisert lager",
     "lastSynced": "Synkronisert",
     "syncStash": "Synkroniser lager",
-    "season3": "Sesong 3"
+    "season3": "Sesong 3",
+    "dealDamage": "Gjør skade på ARC-maskiner",
+    "completeObjective": "Fullfør mål",
+    "skillPointReward": "Ferdighetspoeng",
+    "earnedDuringExpedition": "Fremdriften samles opp mens du er i ekspedisjonsvinduet. Hvert fullførte nivå gir 1 ferdighetspoeng til din neste Raider.",
+    "season4": "Ekspedisjon 4"
   },
   "HideoutPage": {
     "level": "Nivå",
@@ -724,7 +730,8 @@
     "theSpaceport": "Romhavnen",
     "buriedCity": "Den begravde byen",
     "theBlueGate": "Den blå porten",
-    "stellaMontis": "Stella Montis"
+    "stellaMontis": "Stella Montis",
+    "rivenTides": "Sønderrevne tidevann"
   },
   "TermsPage": {
     "title": "Brukervilkår",
@@ -2568,7 +2575,7 @@
     "paramRoundsLimit": "Maks antall runder å returnere (standard: 50, maks: 200).",
     "paramRoundsOffset": "Offset for paginering (standard: 0).",
     "paramRoundsOutcome": "Filter: extracted, died, unknown.",
-    "paramRoundsMap": "Filtrer etter kart-slug: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Filtrer etter kart-slug: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Filtrer etter sesongnummer (f.eks. 1, 2).",
     "paramRoundsDateFrom": "Inkludert startdato (ISO-format, f.eks. 2025-01-01).",
     "paramRoundsDateTo": "Inkludert sluttdato (ISO-format, f.eks. 2025-12-31).",
@@ -2675,7 +2682,9 @@
     "totalPhases": "Faser",
     "turnIn": "Lever inn",
     "uniqueItems": "Unike gjenstander",
-    "valueRequirement": "Verdikrav"
+    "valueRequirement": "Verdikrav",
+    "damageTiers": "Skadenivåer",
+    "singleObjective": "Enkeltmål"
   },
   "Cipher": {
     "alphaBadge": "Eksperimentell",

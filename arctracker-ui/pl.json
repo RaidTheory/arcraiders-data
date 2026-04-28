@@ -113,6 +113,7 @@
       "closeScrutiny": "Dokładna kontrola",
       "none": "Brak",
       "birdCity": "Ptasie Miasto",
+      "beachcombing": "Beachcombing",
       "hurricane": "Huragan"
     }
   },
@@ -197,7 +198,12 @@
     "stashModeActive": "Ilości ze zsynchronizowanej skrytki",
     "lastSynced": "Zsynchronizowano",
     "syncStash": "Synchronizuj skrytkę",
-    "season3": "Sezon 3"
+    "season3": "Sezon 3",
+    "dealDamage": "Zadaj obrażenia maszynom ARC",
+    "completeObjective": "Ukończ cel",
+    "skillPointReward": "Punkt umiejętności",
+    "earnedDuringExpedition": "Postępy kumulują się podczas trwania ekspedycji. Każdy ukończony poziom zapewnia 1 punkt umiejętności dla twojego następnego Raidera.",
+    "season4": "Ekspedycja 4"
   },
   "HideoutPage": {
     "level": "Poziom",
@@ -724,7 +730,8 @@
     "theSpaceport": "The Spaceport",
     "buriedCity": "Buried City",
     "theBlueGate": "The Blue Gate",
-    "stellaMontis": "Stella Montis"
+    "stellaMontis": "Stella Montis",
+    "rivenTides": "Rozdarte Pływy"
   },
   "TermsPage": {
     "title": "Warunki Świadczenia Usług",
@@ -2568,7 +2575,7 @@
     "paramRoundsLimit": "Maksymalna liczba rund do zwrócenia (domyślnie: 50, maks.: 200).",
     "paramRoundsOffset": "Przesunięcie stronicowania (domyślnie: 0).",
     "paramRoundsOutcome": "Filtr: extracted, died, unknown.",
-    "paramRoundsMap": "Filtruj według identyfikatora mapy: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Filtruj według identyfikatora mapy: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Filtruj według numeru sezonu (np. 1, 2).",
     "paramRoundsDateFrom": "Data początkowa włącznie (format ISO, np. 2025-01-01).",
     "paramRoundsDateTo": "Data końcowa włącznie (format ISO, np. 2025-12-31).",
@@ -2675,7 +2682,9 @@
     "totalPhases": "Fazy",
     "turnIn": "Oddaj",
     "uniqueItems": "Unikalne przedmioty",
-    "valueRequirement": "Wymagana wartość"
+    "valueRequirement": "Wymagana wartość",
+    "damageTiers": "Progi obrażeń",
+    "singleObjective": "Pojedynczy cel"
   },
   "Cipher": {
     "alphaBadge": "Eksperymentalne",

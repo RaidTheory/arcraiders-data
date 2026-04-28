@@ -111,6 +111,7 @@
       "launchTowerLoot": "發射塔上的戰利品",
       "hiddenBunker": "隱藏地堡",
       "birdCity": "鳥城",
+      "beachcombing": "Beachcombing",
       "closeScrutiny": "嚴密審查",
       "none": "無",
       "hurricane": "颶風"
@@ -204,7 +205,12 @@
     "stashModeActive": "已啟用同步倉庫模式",
     "lastSynced": "已同步",
     "syncStash": "同步倉庫",
-    "season3": "第 3 賽季"
+    "season3": "第 3 賽季",
+    "dealDamage": "對 ARC 機器造成傷害",
+    "completeObjective": "完成目標",
+    "skillPointReward": "技能點數",
+    "earnedDuringExpedition": "進度將在遠征期間持續累積。每完成一個階段，將為您的下一位突襲者獎勵 1 點技能點數。",
+    "season4": "遠征 4"
   },
   "HideoutPage": {
     "level": "等級",
@@ -799,7 +805,8 @@
     "theSpaceport": "太空港",
     "buriedCity": "掩埋廢城",
     "theBlueGate": "藍門",
-    "stellaMontis": "星辰山"
+    "stellaMontis": "星辰山",
+    "rivenTides": "裂潮"
   },
   "MapSubcategories": {
     "extraction": "撤離點",
@@ -2565,7 +2572,7 @@
     "paramRoundsLimit": "傳回的最大場次數量（預設值：50，最大值：200）。",
     "paramRoundsOffset": "分頁偏移量（預設值：0）。",
     "paramRoundsOutcome": "篩選條件：extracted（已撤離）、died（死亡）、unknown（未知）。",
-    "paramRoundsMap": "依地圖識別碼（slug）篩選：dam-battleground、the-spaceport、blue-gate、stella-montis、buried-city。",
+    "paramRoundsMap": "依地圖識別碼（slug）篩選：dam-battleground、the-spaceport、blue-gate、stella-montis、buried-city、riven-tides。",
     "paramRoundsSeason": "依賽季編號篩選（例如：1、2）。",
     "paramRoundsDateFrom": "起始日期（包含該日，ISO 格式，例如：2025-01-01）。",
     "paramRoundsDateTo": "結束日期（包含該日，ISO 格式，例如：2025-12-31）。",
@@ -2654,7 +2661,9 @@
     "totalPhases": "階段",
     "turnIn": "上繳",
     "uniqueItems": "不重複物品",
-    "valueRequirement": "價值需求"
+    "valueRequirement": "價值需求",
+    "damageTiers": "傷害階段",
+    "singleObjective": "單一目標"
   },
   "Cipher": {
     "alphaBadge": "實驗性",

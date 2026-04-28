@@ -111,6 +111,7 @@
       "launchTowerLoot": "Launch Tower Loot",
       "hiddenBunker": "Hidden Bunker",
       "birdCity": "Bird City",
+      "beachcombing": "Beachcombing",
       "hurricane": "Hurricane",
       "closeScrutiny": "Close Scrutiny",
       "none": "None"
@@ -199,9 +200,14 @@
     "phases": "phases",
     "required": "Required",
     "submitItemsValue": "Submit items worth the required value to complete this phase.",
+    "dealDamage": "Deal Damage to ARC Machines",
+    "completeObjective": "Complete Objective",
+    "skillPointReward": "Skill Point",
+    "earnedDuringExpedition": "Progress accumulates while inside the expedition window. Each tier cleared rewards 1 skill point for your next Raider.",
     "season1": "Expedition 1",
     "season2": "Expedition 2",
     "season3": "Expedition 3",
+    "season4": "Expedition 4",
     "stashModeActive": "Counts from synced stash",
     "lastSynced": "Synced",
     "syncStash": "Sync stash"
@@ -820,7 +826,8 @@
     "theSpaceport": "Spaceport",
     "buriedCity": "Buried City",
     "theBlueGate": "The Blue Gate",
-    "stellaMontis": "Stella Montis"
+    "stellaMontis": "Stella Montis",
+    "rivenTides": "Riven Tides"
   },
   "MapSubcategories": {
     "extraction": "Extraction",
@@ -2618,7 +2625,7 @@
     "paramRoundsLimit": "Max rounds to return (default: 50, max: 200).",
     "paramRoundsOffset": "Pagination offset (default: 0).",
     "paramRoundsOutcome": "Filter: extracted, died, unknown.",
-    "paramRoundsMap": "Filter by map slug: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Filter by map slug: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Filter by season number (e.g., 1, 2).",
     "paramRoundsDateFrom": "Inclusive start date (ISO format, e.g., 2025-01-01).",
     "paramRoundsDateTo": "Inclusive end date (ISO format, e.g., 2025-12-31).",
@@ -2659,7 +2666,9 @@
     "turnIn": "Turn in",
     "receive": "Receive",
     "valueRequirement": "Value Requirement",
-    "itemRequirements": "Required Items"
+    "itemRequirements": "Required Items",
+    "damageTiers": "Damage tiers",
+    "singleObjective": "Single objective"
   },
   "EmbarkStats": {
     "weapons": {
@@ -2682,138 +2691,38 @@
     "closeCipher": "Close",
     "sendMessage": "Send message",
     "tools": {
-      "searchItems": {
-        "active": "Scanning item database...",
-        "done": "Scanned item database"
-      },
-      "getItem": {
-        "active": "Pulling item data...",
-        "done": "Pulled item data"
-      },
-      "getItemDropLocations": {
-        "active": "Analyzing drop locations...",
-        "done": "Analyzed drop locations"
-      },
-      "searchQuests": {
-        "active": "Scanning quest records...",
-        "done": "Scanned quest records"
-      },
-      "getQuest": {
-        "active": "Pulling quest data...",
-        "done": "Pulled quest data"
-      },
-      "getHideoutModules": {
-        "active": "Checking hideout modules...",
-        "done": "Checked hideout modules"
-      },
-      "getUserQuestProgress": {
-        "active": "Checking quest progress...",
-        "done": "Checked quest progress"
-      },
-      "getUserHideoutProgress": {
-        "active": "Checking hideout progress...",
-        "done": "Checked hideout progress"
-      },
-      "getUserNeededItems": {
-        "active": "Calculating needed items...",
-        "done": "Calculated needed items"
-      },
-      "getUserStash": {
-        "active": "Accessing stash records...",
-        "done": "Accessed stash"
-      },
-      "getUserLoadout": {
-        "active": "Pulling loadout config...",
-        "done": "Pulled loadout"
-      },
-      "checkStashForItem": {
-        "active": "Scanning stash...",
-        "done": "Scanned stash"
-      },
-      "getRaidHistory": {
-        "active": "Pulling raid logs...",
-        "done": "Pulled raid logs"
-      },
-      "getRaidStats": {
-        "active": "Crunching raid data...",
-        "done": "Crunched raid data"
-      },
-      "getPlayerStats": {
-        "active": "Pulling player metrics...",
-        "done": "Pulled player metrics"
-      },
-      "getWeaponKills": {
-        "active": "Pulling weapon data...",
-        "done": "Pulled weapon data"
-      },
-      "getWeaponDamage": {
-        "active": "Analyzing weapon damage...",
-        "done": "Analyzed weapon damage"
-      },
-      "getItemDropStats": {
-        "active": "Analyzing drop rates...",
-        "done": "Analyzed drop rates"
-      },
-      "getItemFarmingContext": {
-        "active": "Analyzing farming context...",
-        "done": "Analyzed farming context"
-      },
-      "findBestFarmingMaps": {
-        "active": "Optimizing farming routes...",
-        "done": "Optimized farming routes"
-      },
-      "getMapEvents": {
-        "active": "Checking map events...",
-        "done": "Checked map events"
-      },
-      "createChart": {
-        "active": "Generating visual...",
-        "done": "Generated visual"
-      },
-      "searchCraftableItems": {
-        "active": "Searching recipes...",
-        "done": "Searched recipes"
-      },
-      "searchSkillNodes": {
-        "active": "Searching skill tree...",
-        "done": "Searched skill tree"
-      },
-      "getSkillNode": {
-        "active": "Loading skill details...",
-        "done": "Loaded skill details"
-      },
-      "getProjects": {
-        "active": "Loading projects...",
-        "done": "Loaded projects"
-      },
-      "getUserLists": {
-        "active": "Loading your lists...",
-        "done": "Loaded your lists"
-      },
-      "getListItems": {
-        "active": "Loading list items...",
-        "done": "Loaded list items"
-      },
-      "addItemToList": {
-        "active": "Adding to list...",
-        "done": "Added to list",
-        "denied": "Cancelled"
-      },
-      "removeItemFromList": {
-        "active": "Removing from list...",
-        "done": "Removed from list",
-        "denied": "Cancelled"
-      },
-      "createList": {
-        "active": "Creating list...",
-        "done": "Created list",
-        "denied": "Cancelled"
-      },
-      "deleteList": {
-        "active": "Deleting list...",
-        "done": "Deleted list",
-        "denied": "Cancelled"
-      },
+      "searchItems": { "active": "Scanning item database...", "done": "Scanned item database" },
+      "getItem": { "active": "Pulling item data...", "done": "Pulled item data" },
+      "getItemDropLocations": { "active": "Analyzing drop locations...", "done": "Analyzed drop locations" },
+      "searchQuests": { "active": "Scanning quest records...", "done": "Scanned quest records" },
+      "getQuest": { "active": "Pulling quest data...", "done": "Pulled quest data" },
+      "getHideoutModules": { "active": "Checking hideout modules...", "done": "Checked hideout modules" },
+      "getUserQuestProgress": { "active": "Checking quest progress...", "done": "Checked quest progress" },
+      "getUserHideoutProgress": { "active": "Checking hideout progress...", "done": "Checked hideout progress" },
+      "getUserNeededItems": { "active": "Calculating needed items...", "done": "Calculated needed items" },
+      "getUserStash": { "active": "Accessing stash records...", "done": "Accessed stash" },
+      "getUserLoadout": { "active": "Pulling loadout config...", "done": "Pulled loadout" },
+      "checkStashForItem": { "active": "Scanning stash...", "done": "Scanned stash" },
+      "getRaidHistory": { "active": "Pulling raid logs...", "done": "Pulled raid logs" },
+      "getRaidStats": { "active": "Crunching raid data...", "done": "Crunched raid data" },
+      "getPlayerStats": { "active": "Pulling player metrics...", "done": "Pulled player metrics" },
+      "getWeaponKills": { "active": "Pulling weapon data...", "done": "Pulled weapon data" },
+      "getWeaponDamage": { "active": "Analyzing weapon damage...", "done": "Analyzed weapon damage" },
+      "getItemDropStats": { "active": "Analyzing drop rates...", "done": "Analyzed drop rates" },
+      "getItemFarmingContext": { "active": "Analyzing farming context...", "done": "Analyzed farming context" },
+      "findBestFarmingMaps": { "active": "Optimizing farming routes...", "done": "Optimized farming routes" },
+      "getMapEvents": { "active": "Checking map events...", "done": "Checked map events" },
+      "createChart": { "active": "Generating visual...", "done": "Generated visual" },
+      "searchCraftableItems": { "active": "Searching recipes...", "done": "Searched recipes" },
+      "searchSkillNodes": { "active": "Searching skill tree...", "done": "Searched skill tree" },
+      "getSkillNode": { "active": "Loading skill details...", "done": "Loaded skill details" },
+      "getProjects": { "active": "Loading projects...", "done": "Loaded projects" },
+      "getUserLists": { "active": "Loading your lists...", "done": "Loaded your lists" },
+      "getListItems": { "active": "Loading list items...", "done": "Loaded list items" },
+      "addItemToList": { "active": "Adding to list...", "done": "Added to list", "denied": "Cancelled" },
+      "removeItemFromList": { "active": "Removing from list...", "done": "Removed from list", "denied": "Cancelled" },
+      "createList": { "active": "Creating list...", "done": "Created list", "denied": "Cancelled" },
+      "deleteList": { "active": "Deleting list...", "done": "Deleted list", "denied": "Cancelled" },
       "fallbackActive": "Using {toolName}...",
       "fallbackDone": "Used {toolName}",
       "fallbackDenied": "Cancelled {toolName}"

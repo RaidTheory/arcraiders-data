@@ -113,6 +113,7 @@
       "closeScrutiny": "Yakın İnceleme",
       "none": "Hiçbiri",
       "birdCity": "Kuş Şehri",
+      "beachcombing": "Beachcombing",
       "hurricane": "Kasırga"
     }
   },
@@ -197,7 +198,12 @@
     "stashModeActive": "Eşitlenen depo sayıları",
     "lastSynced": "Eşitlendi",
     "syncStash": "Depoyu eşitle",
-    "season3": "Sezon 3"
+    "season3": "Sezon 3",
+    "dealDamage": "ARC Makinelerine Hasar Ver",
+    "completeObjective": "Hedefi Tamamla",
+    "skillPointReward": "Yetenek Puanı",
+    "earnedDuringExpedition": "İlerleme, keşif süresi boyunca birikir. Tamamlanan her kademe, bir sonraki Raider'ınız için 1 yetenek puanı kazandırır.",
+    "season4": "Keşif 4"
   },
   "HideoutPage": {
     "level": "Seviye",
@@ -724,7 +730,8 @@
     "theSpaceport": "Uzay Limanı",
     "buriedCity": "Gömülü Şehir",
     "theBlueGate": "Mavi Kapı",
-    "stellaMontis": "Stella Montis"
+    "stellaMontis": "Stella Montis",
+    "rivenTides": "Yarılmış Gelgitler"
   },
   "TermsPage": {
     "title": "Hizmet Koşulları",
@@ -2568,7 +2575,7 @@
     "paramRoundsLimit": "Döndürülecek maksimum tur sayısı (varsayılan: 50, maks: 200).",
     "paramRoundsOffset": "Sayfalandırma ofseti (varsayılan: 0).",
     "paramRoundsOutcome": "Filtre: extracted (tahliye), died (öldü), unknown (bilinmiyor).",
-    "paramRoundsMap": "Harita kısa adına (slug) göre filtrele: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Harita kısa adına (slug) göre filtrele: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Sezon numarasına göre filtrele (örn. 1, 2).",
     "paramRoundsDateFrom": "Başlangıç tarihi - dahil (ISO formatı, örn. 2025-01-01).",
     "paramRoundsDateTo": "Bitiş tarihi - dahil (ISO formatı, örn. 2025-12-31).",
@@ -2675,7 +2682,9 @@
     "totalPhases": "Aşamalar",
     "turnIn": "Teslim Et",
     "uniqueItems": "Benzersiz Eşyalar",
-    "valueRequirement": "Değer Gereksinimi"
+    "valueRequirement": "Değer Gereksinimi",
+    "damageTiers": "Hasar kademeleri",
+    "singleObjective": "Tek hedef"
   },
   "Cipher": {
     "alphaBadge": "Deneysel",

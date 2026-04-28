@@ -113,6 +113,7 @@
       "closeScrutiny": "Nærmere undersøgelse",
       "none": "Ingen",
       "birdCity": "Fugleby",
+      "beachcombing": "Beachcombing",
       "hurricane": "Orkan"
     }
   },
@@ -197,7 +198,12 @@
     "stashModeActive": "Antal fra synkroniseret lager",
     "lastSynced": "Synkroniseret",
     "syncStash": "Synkroniser lager",
-    "season3": "Sæson 3"
+    "season3": "Sæson 3",
+    "dealDamage": "Gør skade på ARC-maskiner",
+    "completeObjective": "Fuldfør mål",
+    "skillPointReward": "Færdighedspoint",
+    "earnedDuringExpedition": "Fremskridt akkumuleres i ekspeditionsvinduet. Hvert gennemført niveau giver 1 færdighedspoint til din næste Raider.",
+    "season4": "Ekspedition 4"
   },
   "HideoutPage": {
     "level": "Niveau",
@@ -724,7 +730,8 @@
     "theSpaceport": "Rumhavnen",
     "buriedCity": "Den Begravede By",
     "theBlueGate": "Den Blå Port",
-    "stellaMontis": "Stella Montis"
+    "stellaMontis": "Stella Montis",
+    "rivenTides": "Sønderrevne Tidevande"
   },
   "TermsPage": {
     "title": "Vilkår for Brug",
@@ -2568,7 +2575,7 @@
     "paramRoundsLimit": "Maks. runder at returnere (standard: 50, maks.: 200).",
     "paramRoundsOffset": "Offset for sideinddeling (standard: 0).",
     "paramRoundsOutcome": "Filter: extracted, died, unknown.",
-    "paramRoundsMap": "Filtrer efter kort-slug: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Filtrer efter kort-slug: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Filtrer efter sæsonnummer (f.eks. 1, 2).",
     "paramRoundsDateFrom": "Inklusiv startdato (ISO-format, f.eks. 2025-01-01).",
     "paramRoundsDateTo": "Inklusiv slutdato (ISO-format, f.eks. 2025-12-31).",
@@ -2675,7 +2682,9 @@
     "totalPhases": "Faser",
     "turnIn": "Aflever",
     "uniqueItems": "Unikke genstande",
-    "valueRequirement": "Værdikrav"
+    "valueRequirement": "Værdikrav",
+    "damageTiers": "Skadesniveauer",
+    "singleObjective": "Enkelt mål"
   },
   "Cipher": {
     "alphaBadge": "Eksperimentel",
