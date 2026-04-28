@@ -1,0 +1,60 @@
+{
+  "mapId": "riven-tides",
+  "version": "v2/high",
+  "generatedAt": "2026-04-28T10:11:17.845Z",
+  "source": {
+    "path": "C:\\Users\\m\\Documents\\GitHub\\arctracker\\gamedata\\map-raw\\riven-tides.png",
+    "width": 4096,
+    "height": 4096,
+    "bytes": 17716789
+  },
+  "coordinateSpace": {
+    "width": 1000,
+    "height": 1000,
+    "coordinateOrder": "[lat, lng] == [y, x]"
+  },
+  "tiles": {
+    "format": "webp",
+    "extension": "webp",
+    "quality": 80,
+    "tileSize": 512,
+    "minZoom": 2,
+    "maxZoom": 3,
+    "urlTemplate": "{z}/{x}/{y}.webp",
+    "levels": [
+      {
+        "z": 2,
+        "dimension": 4000,
+        "tilesX": 8,
+        "tilesY": 8,
+        "tileCount": 64,
+        "bytes": 984638
+      },
+      {
+        "z": 3,
+        "dimension": 8000,
+        "tilesX": 16,
+        "tilesY": 16,
+        "tileCount": 256,
+        "bytes": 2240742
+      }
+    ],
+    "totalTiles": 320,
+    "totalBytes": 3225380
+  },
+  "leaflet": {
+    "crs": "L.CRS.Simple",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    "minNativeZoom": 2,
+    "maxNativeZoom": 3
+  }
+}
