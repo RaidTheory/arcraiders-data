@@ -1,0 +1,67 @@
+{
+  "id": "powered_descender",
+  "name": {
+    "da": "Powered Descender",
+    "de": "Powered Descender",
+    "en": "Powered Descender",
+    "es": "Powered Descender",
+    "fr": "Powered Descender",
+    "he": "Powered Descender",
+    "hr": "Powered Descender",
+    "it": "Powered Descender",
+    "ja": "Powered Descender",
+    "ko-KR": "Powered Descender",
+    "no": "Powered Descender",
+    "pl": "Powered Descender",
+    "pt": "Powered Descender",
+    "pt-BR": "Powered Descender",
+    "ru": "Powered Descender",
+    "sr": "Powered Descender",
+    "tr": "Powered Descender",
+    "uk": "Powered Descender",
+    "zh-CN": "Powered Descender",
+    "zh-TW": "Powered Descender"
+  },
+  "description": {
+    "da": "",
+    "de": "",
+    "en": "Reduces fall speed when used in the air, but has a wind-up time before reaching full force. Shuts down once out of power",
+    "es": "",
+    "fr": "",
+    "he": "",
+    "hr": "",
+    "it": "",
+    "ja": "",
+    "ko-KR": "",
+    "no": "",
+    "pl": "",
+    "pt": "",
+    "pt-BR": "",
+    "ru": "",
+    "sr": "",
+    "tr": "",
+    "uk": "",
+    "zh-CN": "",
+    "zh-TW": ""
+  },
+  "type": "Quick Use",
+  "rarity": "Epic",
+  "value": 10000,
+  "weightKg": 5,
+  "stackSize": 1,
+  "blueprintLocked": true,
+  "craftBench": "utility_bench",
+  "stationLevelRequired": 3,
+  "recipe": {
+    "power_rod": 1
+  },
+  "recyclesInto": {
+    "advanced_electrical_components": 1,
+    "arc_circuitry": 2
+  },
+  "salvagesInto": {
+    "advanced_electrical_components": 1
+  },
+  "updatedAt": "04/28/2026",
+  "addedIn": "1.26"
+}

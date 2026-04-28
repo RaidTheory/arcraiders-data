@@ -1,0 +1,68 @@
+{
+  "id": "crash_mat",
+  "name": {
+    "da": "Crash Mat",
+    "de": "Crash Mat",
+    "en": "Crash Mat",
+    "es": "Crash Mat",
+    "fr": "Crash Mat",
+    "he": "Crash Mat",
+    "hr": "Crash Mat",
+    "it": "Crash Mat",
+    "ja": "Crash Mat",
+    "ko-KR": "Crash Mat",
+    "no": "Crash Mat",
+    "pl": "Crash Mat",
+    "pt": "Crash Mat",
+    "pt-BR": "Crash Mat",
+    "ru": "Crash Mat",
+    "sr": "Crash Mat",
+    "tr": "Crash Mat",
+    "uk": "Crash Mat",
+    "zh-CN": "Crash Mat",
+    "zh-TW": "Crash Mat"
+  },
+  "description": {
+    "da": "",
+    "de": "",
+    "en": "A throwable emergency landing device, to soften some heavy landing",
+    "es": "",
+    "fr": "",
+    "he": "",
+    "hr": "",
+    "it": "",
+    "ja": "",
+    "ko-KR": "",
+    "no": "",
+    "pl": "",
+    "pt": "",
+    "pt-BR": "",
+    "ru": "",
+    "sr": "",
+    "tr": "",
+    "uk": "",
+    "zh-CN": "",
+    "zh-TW": ""
+  },
+  "type": "Quick Use",
+  "rarity": "Uncommon",
+  "value": 1200,
+  "weightKg": 0.6,
+  "stackSize": 5,
+  "blueprintLocked": true,
+  "craftBench": "utility_bench",
+  "stationLevelRequired": 2,
+  "recipe": {
+    "durable_cloth": 1,
+    "electrical_components": 1
+  },
+  "recyclesInto": {
+    "fabric": 6,
+    "plastic_parts": 3
+  },
+  "salvagesInto": {
+    "fabric": 4
+  },
+  "updatedAt": "04/28/2026",
+  "addedIn": "1.26"
+}

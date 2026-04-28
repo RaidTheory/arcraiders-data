@@ -1,0 +1,68 @@
+{
+  "id": "white_flag",
+  "name": {
+    "da": "White Flag",
+    "de": "White Flag",
+    "en": "White Flag",
+    "es": "White Flag",
+    "fr": "White Flag",
+    "he": "White Flag",
+    "hr": "White Flag",
+    "it": "White Flag",
+    "ja": "White Flag",
+    "ko-KR": "White Flag",
+    "no": "White Flag",
+    "pl": "White Flag",
+    "pt": "White Flag",
+    "pt-BR": "White Flag",
+    "ru": "White Flag",
+    "sr": "White Flag",
+    "tr": "White Flag",
+    "uk": "White Flag",
+    "zh-CN": "White Flag",
+    "zh-TW": "White Flag"
+  },
+  "description": {
+    "da": "",
+    "de": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "he": "",
+    "hr": "",
+    "it": "",
+    "ja": "",
+    "ko-KR": "",
+    "no": "",
+    "pl": "",
+    "pt": "",
+    "pt-BR": "",
+    "ru": "",
+    "sr": "",
+    "tr": "",
+    "uk": "",
+    "zh-CN": "",
+    "zh-TW": ""
+  },
+  "type": "Quick Use",
+  "rarity": "Uncommon",
+  "value": 640,
+  "weightKg": 0.2,
+  "stackSize": 5,
+  "blueprintLocked": true,
+  "craftBench": "medical_lab",
+  "stationLevelRequired": 1,
+  "recipe": {
+    "fabric": 10,
+    "plastic_parts": 3
+  },
+  "recyclesInto": {
+    "fabric": 5,
+    "plastic_parts": 1
+  },
+  "salvagesInto": {
+    "fabric": 3
+  },
+  "updatedAt": "04/28/2026",
+  "addedIn": "1.26"
+}
