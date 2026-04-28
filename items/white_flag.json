@@ -50,7 +50,7 @@
   "weightKg": 0.2,
   "stackSize": 5,
   "blueprintLocked": true,
-  "craftBench": "medical_lab",
+  "craftBench": ["med_station", "in_raid"],
   "stationLevelRequired": 1,
   "recipe": {
     "fabric": 10,

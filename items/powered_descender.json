@@ -53,7 +53,8 @@
   "craftBench": "utility_bench",
   "stationLevelRequired": 3,
   "recipe": {
-    "power_rod": 1
+    "power_rod": 1,
+    "turbine_compressor": 1
   },
   "recyclesInto": {
     "advanced_electrical_components": 1,

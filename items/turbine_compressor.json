@@ -25,7 +25,7 @@
   "description": {
     "da": "",
     "de": "",
-    "en": "",
+    "en": "Can be recycled into crafting materials.",
     "es": "",
     "fr": "",
     "he": "",
@@ -47,7 +47,16 @@
   "type": "Recyclable",
   "rarity": "Epic",
   "foundIn": "ARC",
+  "value": 5000,
+  "weightKg": 0.5,
   "stackSize": 3,
+  "recyclesInto": {
+    "arc_circuitry": 1,
+    "arc_motion_core": 1
+  },
+  "salvagesInto": {
+    "arc_circuitry": 1
+  },
   "updatedAt": "04/28/2026",
   "addedIn": "1.26"
 }
