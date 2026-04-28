@@ -1,0 +1,118 @@
+{
+  "id": "collision_course",
+  "name": {
+    "da": "",
+    "de": "Kollisionskurs",
+    "en": "Collision Course",
+    "es": "Trayectoria de colisión",
+    "fr": "Droit à la collision",
+    "he": "",
+    "hr": "",
+    "it": "Rotta di collisione",
+    "ja": "衝突コース",
+    "ko-KR": "충돌 경로",
+    "no": "",
+    "pl": "Kurs kolizyjny",
+    "pt": "Rota de Colisão",
+    "pt-BR": "Rota de Colisão",
+    "ru": "Траектория столкновения",
+    "sr": "",
+    "tr": "Çarpışma Rotası",
+    "uk": "",
+    "zh-CN": "碰撞航线",
+    "zh-TW": "碰撞航線"
+  },
+  "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "comet_igniter",
+      "quantity": 1
+    }
+  ],
+  "description": {
+    "da": "",
+    "de": "Viele Raider haben gelernt, einem Kometen auszuweichen, aber viel zu wenige wissen, wie man sie zum Absturz bringt und an ihre inneren Teile herankommt.",
+    "en": "Many Raiders have learned how to dodge a Comet, but far too few know how to bring them down and get at their inner parts.",
+    "es": "La mayoría de Raiders ya saben cómo esquivar un cometa, pero muy pocos saben cómo abatirlo y llevarse sus piezas internas.",
+    "fr": "Bon nombre de Raiders ont appris à esquiver une Comète, mais très peu savent les abattre et en extraire les composants.",
+    "he": "",
+    "hr": "",
+    "it": "Molti Raider hanno imparato a schivare una Cometa, ma purtroppo pochi sanno come abbatterla e raggiungere le sue parti interne.",
+    "ja": "コメットの避け方を覚えたレイダーはたくさんいるけど、倒して内部のパーツを手に入れる方法を知る人はあまりにも少ないんだ。",
+    "ko-KR": "레이더가 코멧을 피하는 법을 아는 사람은 많지만, 놈을 격추해 내부 부품을 확보하는 법을 아는 이는 턱없이 적습니다.",
+    "no": "",
+    "pl": "Wielu łupieżców nauczyło się unikać komety, ale zdecydowanie zbyt mała garstka wie, jak je pokonać i wydobyć z nich części.",
+    "pt": "Muitos Raiders já aprenderam a se esquivar de um Cometa, mas poucos sabem como derrubar um e aproveitar o que tem dentro.",
+    "pt-BR": "Muitos Raiders já aprenderam a se esquivar de um Cometa, mas poucos sabem como derrubar um e aproveitar o que tem dentro.",
+    "ru": "Многие рейдеры научились уворачиваться от «Комет», но лишь единицы знают, как их одолеть и разобрать на запчасти.",
+    "sr": "",
+    "tr": "Birçok Raider Kuyruklı Yıldızlardan kaçınmasını öğrendi ancak onları düşürüp iç kısımlarına ulaşmasını çok azı biliyor.",
+    "uk": "",
+    "zh-CN": "不少奇袭者都懂得如何躲避“彗星”，可没几个人知道怎么击落它、拆出内部零件。",
+    "zh-TW": "許多掠手都學會了如何迴避彗星，但太少人知道如何打倒它們、取得它們的內部零件了。"
+  },
+  "objectives": [
+    {
+      "da": "",
+      "de": "Zerstöre einen Kometen.",
+      "en": "Destroy a Comet",
+      "es": "Destruye un cometa.",
+      "fr": "Détruire une Comète",
+      "he": "",
+      "hr": "",
+      "it": "Distruggi una Cometa",
+      "ja": "コメットを破壊する",
+      "ko-KR": "코멧 파괴하기",
+      "no": "",
+      "pl": "Zniszcz kometę",
+      "pt": "Destrua um Cometa",
+      "pt-BR": "Destrua um Cometa",
+      "ru": "Уничтожьте «Комету».",
+      "sr": "",
+      "tr": "Bir Kuyruklu Yıldız Yok Et",
+      "uk": "",
+      "zh-CN": "摧毁一个“彗星”",
+      "zh-TW": "摧毀1台彗星"
+    },
+    {
+      "da": "",
+      "de": "Liefere einen Kometenzünder an Tian Wen.",
+      "en": "Deliver a Comet Igniter to Tian Wen",
+      "es": "Entrégale un encendedor de cometa a Tian Wen.",
+      "fr": "Livrer un allumeur de Comète à Tian Wen",
+      "he": "",
+      "hr": "",
+      "it": "Consegna un Accendicomete a Tian Wen",
+      "ja": "ティアン・ウェンにコメット・イグナイターを届ける",
+      "ko-KR": "티안 웬에게 코멧 점화기 전달하기",
+      "no": "",
+      "pl": "Dostarcz zapalnik komety Tian Wen",
+      "pt": "Entregue um Acendedor de Cometa para Tian Wen",
+      "pt-BR": "Entregue um Acendedor de Cometa para Tian Wen",
+      "ru": "Доставьте Тянь Вэнь запальное устройство «Кометы».",
+      "sr": "",
+      "tr": "Tian Wen'e bir Kuyruklu Yıldız Ateşleyicisi teslim et",
+      "uk": "",
+      "zh-CN": "将“彗星”点火器交给天玟",
+      "zh-TW": "將彗星點火器送去給田文"
+    }
+  ],
+  "rewardItemIds": [
+    {
+      "itemId": "canto_i",
+      "quantity": 1
+    },
+    {
+      "itemId": "extended_medium_mag_iii",
+      "quantity": 1
+    },
+    {
+      "itemId": "muzzle_brake_ii",
+      "quantity": 1
+    }
+  ],
+  "xp": 0,
+  "previousQuestIds": ["safe_passage"],
+  "nextQuestIds": [],
+  "updatedAt": "04/28/2026"
+}
