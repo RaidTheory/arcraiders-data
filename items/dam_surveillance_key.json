@@ -19,7 +19,7 @@
     "sr": "Ključ Nadzora Brane",
     "tr": "Baraj Gözetleme Anahtarı",
     "uk": "Ключ від спостережного пункту дамби",
-    "zh-CN": "大坝监控钥匙",
+    "zh-CN": "大坝监控室钥匙",
     "zh-TW": "水壩監控鑰匙"
   },
   "description": {
@@ -41,8 +41,8 @@
     "sr": "Otključava vrata u zgradi Kontrole Prečišćavanja Vode na Bojnom Polju Brane.",
     "tr": "Baraj Savaş Alanı'ndaki Su Arıtma Kontrol binasında bir kapıyı açar.",
     "uk": "Відкриває двері в будівлі управління водоочисткою на полі бою біля дамби.",
-    "zh-CN": "解锁水坝战场上水处理控制建筑内的一扇门。",
-    "zh-TW": "解鎖水壩戰場上水處理控制建築內的一扇門。"
+    "zh-CN": "可打开大坝战场水处理控制大楼内的一扇门。",
+    "zh-TW": "可打開水壩戰場監控室內的一扇門。"
   },
   "type": "Key",
   "rarity": "Uncommon",
