@@ -22,8 +22,14 @@
     "zh-CN": "安全港湾",
     "zh-TW": "安全海灣"
   },
-  "map": ["-21263888"],
+  "map": ["riven_tide"],
   "trader": "Tian Wen",
+  "requiredItemIds": [
+    {
+      "itemId": "precision_gimbal",
+      "quantity": 1
+    }
+  ],
   "description": {
     "da": "Det lader til, at nyheden om togafsporingen spredte sig hurtigt… Og fik mange arbejdere til at gemme noget meget lækker teknologi væk fra nysgerrige blikke.",
     "de": "Die Nachricht von der Zugentgleisung hat sich wohl schnell verbreitet … Und viele Mitarbeiter dazu veranlasst, einige wirklich schicke technische Spielereien vor neugierigen Blicken zu verstecken.",
@@ -37,7 +43,7 @@
     "ko-KR": "열차 탈선 소식이 빠르게 퍼진 것 같습니다… 그래서 많은 노동자가 감시를 피해 탐나는 장비를 숨겨두게 된 것 같고요.",
     "no": "Ser ut til at nyheten om togavsporingen spredte seg raskt… Og fikk mange arbeidere til å gjemme unna svært fristende teknologi fra nysgjerrige blikk.",
     "pl": "Wieści o wykolejeniu pociągu chyba szybko się rozniosły… I skłoniły wielu pracowników do ukrycia bardzo kuszącej technologii z dala od wścibskich oczu.",
-    "pt": "Parece que as notícias sobre o descarrilamento do trem se espalharam rápido… E fizeram com que muitos trabalhadores escondessem algumas tecnologias muito valiosas longe de olhos curiosos.",
+    "pt": "Parece que a notícia do descarrilamento do trem se espalhou rápido... e fez com que muitos trabalhadores escondessem ótimas tecnologias.",
     "pt-BR": "Parece que a notícia do descarrilamento do trem se espalhou rápido... e fez com que muitos trabalhadores escondessem ótimas tecnologias.",
     "ru": "Кажется, новости о поезде, сошедшем с рельсов, распространились быстро. Многие работники быстро утащили лакомые технологии подальше от любопытных глаз.",
     "sr": "Izgleda da su se vesti o iskliznuću voza brzo proširile… I naterale mnoge radnike da sakriju veoma primamljivu tehnologiju daleko od radoznalih očiju.",
@@ -46,6 +52,7 @@
     "zh-CN": "列车脱轨的消息传得真快……还促使不少工人把值钱的科技装备藏了起来，避开耳目。",
     "zh-TW": "看來火車出軌的消息傳播得很快…許多工人聽到消息，跑去把一些令人垂涎的科技設備偷偷藏了起來。"
   },
+  "objectivesOneRound": true,
   "objectives": [
     {
       "da": "Find sporet, der er efterladt af restaurantens køkkenpersonale",
@@ -60,7 +67,7 @@
       "ko-KR": "레스토랑 주방 직원이 남긴 단서 찾기",
       "no": "Finn ledetråden etterlatt av restaurantens kjøkkenpersonale",
       "pl": "Znajdź wskazówkę pozostawioną przez pracowników restauracyjnej kuchni",
-      "pt": "Encontre a pista deixada pela equipe da cozinha do restaurante",
+      "pt": "Encontre a pista deixada pelos funcionários da cozinha do restaurante",
       "pt-BR": "Encontre a pista deixada pelos funcionários da cozinha do restaurante",
       "ru": "Найдите подсказку, оставленную сотрудником кухни.",
       "sr": "Pronađi trag koji je ostavilo osoblje restoranske kuhinje",
@@ -82,7 +89,7 @@
       "ko-KR": "스케치에 그려진 장소 찾기",
       "no": "Finn området avbildet på skissen",
       "pl": "Znajdź miejsce przedstawione na rysunku",
-      "pt": "Encontre a área retratada no esboço",
+      "pt": "Encontre a área mostrada no esboço",
       "pt-BR": "Encontre a área mostrada no esboço",
       "ru": "Найдите место с рисунка.",
       "sr": "Pronađi oblast prikazanu na skici",
@@ -126,7 +133,7 @@
       "ko-KR": "티안 웬에게 정밀 짐벌 전달하기",
       "no": "Lever Precision Gimbal til Tian Wen",
       "pl": "Dostarcz precyzyjny stabilizator Tian Wen",
-      "pt": "Entregue o Gimbal de Precisão para Tian Wen",
+      "pt": "Entregue o Cardã de Precisão para Tian Wen",
       "pt-BR": "Entregue o Cardã de Precisão para Tian Wen",
       "ru": "Доставьте Тянь Вэнь карданный подвес гироскопа.",
       "sr": "Dostavi precizni stabilizator Tian Wenu",

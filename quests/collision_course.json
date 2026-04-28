@@ -42,7 +42,7 @@
     "ko-KR": "레이더가 코멧을 피하는 법을 아는 사람은 많지만, 놈을 격추해 내부 부품을 확보하는 법을 아는 이는 턱없이 적습니다.",
     "no": "Mange Raiders har lært å unnvike en Comet, men altfor få vet hvordan de skal felle dem og få tak i de indre delene.",
     "pl": "Wielu łupieżców nauczyło się unikać komety, ale zdecydowanie zbyt mała garstka wie, jak je pokonać i wydobyć z nich części.",
-    "pt": "Muitos Raiders aprenderam a desviar de um Comet, mas poucos sabem como derrubá-los e pegar suas peças internas.",
+    "pt": "Muitos Raiders já aprenderam a se esquivar de um Cometa, mas poucos sabem como derrubar um e aproveitar o que tem dentro.",
     "pt-BR": "Muitos Raiders já aprenderam a se esquivar de um Cometa, mas poucos sabem como derrubar um e aproveitar o que tem dentro.",
     "ru": "Многие рейдеры научились уворачиваться от «Комет», но лишь единицы знают, как их одолеть и разобрать на запчасти.",
     "sr": "Mnogi Raideri su naučili kako da izbegnu Comet, ali premalo njih zna kako da ga obori i dođe do njegovih unutrašnjih delova.",
@@ -65,7 +65,7 @@
       "ko-KR": "코멧 파괴하기",
       "no": "Ødelegg en Comet",
       "pl": "Zniszcz kometę",
-      "pt": "Destrua um Comet",
+      "pt": "Destrua um Cometa",
       "pt-BR": "Destrua um Cometa",
       "ru": "Уничтожьте «Комету».",
       "sr": "Uništi Comet",
@@ -87,7 +87,7 @@
       "ko-KR": "티안 웬에게 코멧 점화기 전달하기",
       "no": "Lever en Comet-tenner til Tian Wen",
       "pl": "Dostarcz zapalnik komety Tian Wen",
-      "pt": "Entregue um Ignitor de Comet para Tian Wen",
+      "pt": "Entregue um Acendedor de Cometa para Tian Wen",
       "pt-BR": "Entregue um Acendedor de Cometa para Tian Wen",
       "ru": "Доставьте Тянь Вэнь запальное устройство «Кометы».",
       "sr": "Dostavi Comet Igniter Tian Wenu",
@@ -112,7 +112,7 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss8"],
+  "previousQuestIds": ["safe_passage"],
   "nextQuestIds": [],
   "updatedAt": "04/28/2026"
 }

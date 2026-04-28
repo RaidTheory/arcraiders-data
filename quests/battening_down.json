@@ -13,7 +13,7 @@
     "ko-KR": "철저한 대비",
     "no": "Skalker lukene",
     "pl": "Przygotowując się na najgorsze",
-    "pt": "Preparando para a Tempestade",
+    "pt": "Reforçando Tudo",
     "pt-BR": "Reforçando Tudo",
     "ru": "Меры предосторожности",
     "sr": "Priprema za oluju",
@@ -22,8 +22,9 @@
     "zh-CN": "加固防御",
     "zh-TW": "嚴陣以待"
   },
-  "map": ["-21263888"],
+  "map": ["riven_tide"],
   "trader": "Apollo",
+  "otherRequirements": ["20x Raids"],
   "description": {
     "da": "Vi havde håbet, at bølgebryderne ved Riven Tides kunne tilbyde os lidt beskyttelse mod elementerne, men det lader til, at orkanerne heller ikke var nådige mod dette sted.",
     "de": "Wir hatten gehofft, dass uns die Ufermauern in Riven Tides etwas Schutz vor den Elementen bieten würden, aber anscheinend haben die Hurrikane auch diesen Ort nicht verschont.",
@@ -37,7 +38,7 @@
     "ko-KR": "갈라진 물결의 방파제가 비바람을 막아주기를 바랐지만, 허리케인이 자비 없이 몰아친 모양입니다.",
     "no": "Vi hadde håpet at sjømurene ved Riven Tides ville gi oss litt beskyttelse mot elementene, men det ser ut til at orkanene ikke var nådige med dette stedet heller.",
     "pl": "Mieliśmy nadzieję, że falochrony na Rozdartym Wybrzeżu ochronią nas przed żywiołami, ale, jak widać, huragany nie oszczędziły też tego miejsca.",
-    "pt": "Esperávamos que os quebra-mares em Riven Tides nos oferecessem alguma proteção contra os elementos, mas parece que os furacões também não foram gentis com este lugar.",
+    "pt": "A gente tinha esperança de que os quebra-mares em Marés Partidas dessem alguma proteção contra intempéries, mas parece que os furacões castigaram o lugar.",
     "pt-BR": "A gente tinha esperança de que os quebra-mares em Marés Partidas dessem alguma proteção contra intempéries, mas parece que os furacões castigaram o lugar.",
     "ru": "Мы надеялись, что волнорезы в Бурных потоках защитят нас от стихий, но ураганы это место не пожалели.",
     "sr": "Nadali smo se da će nam obalski bedemi u lokaciji Riven Tides pružiti neku zaštitu od vremenskih neprilika, ali izgleda da uragani ni prema ovom mestu nisu bili blagonakloni.",
@@ -60,7 +61,7 @@
       "ko-KR": "방파제에 생기고 있는 균열 촬영하기",
       "no": "Fotografer sprekkene som danner seg i sjømuren",
       "pl": "Zrób zdjęcie pęknięciom powstającym na falochronie",
-      "pt": "Fotografe as rachaduras se formando no quebra-mar",
+      "pt": "Fotografe as rachaduras que estão se formando no quebra-mar",
       "pt-BR": "Fotografe as rachaduras que estão se formando no quebra-mar",
       "ru": "Сфотографируйте трещины на волнорезе.",
       "sr": "Fotografiši pukotine koje se stvaraju na obalskom bedemu",
@@ -82,7 +83,7 @@
       "ko-KR": "호텔 해변 근처 해안선 샘플 채취하기",
       "no": "Ta prøver av strandlinjen nær hotellstranden",
       "pl": "Pobierz próbki na linii brzegowej w pobliżu hotelowej plaży",
-      "pt": "Colete amostras da costa perto da praia do hotel",
+      "pt": "Colete uma amostra na faixa costeira perto da praia do hotel",
       "pt-BR": "Colete uma amostra na faixa costeira perto da praia do hotel",
       "ru": "Возьмите образцы на побережье отельного пляжа.",
       "sr": "Uzmi uzorak sa obale blizu hotelske plaže",
@@ -104,7 +105,7 @@
       "ko-KR": "북동쪽에 있는 새는 송유관 수리하기",
       "no": "Reparer det lekkende oljerøret i nordøst",
       "pl": "Napraw przeciekającą rurę naftową na północnym wschodzie.",
-      "pt": "Conserte o vazamento do tubo de óleo no nordeste",
+      "pt": "Conserte o cano de óleo com vazamento no nordeste.",
       "pt-BR": "Conserte o cano de óleo com vazamento no nordeste.",
       "ru": "Устраните утечку нефтепровода на северо-востоке.",
       "sr": "Popravi naftovod koji curi na severoistoku",
@@ -116,12 +117,16 @@
   ],
   "rewardItemIds": [
     {
+      "itemId": "riven_tides_hotel_keycard_no_107",
+      "quantity": 1
+    },
+    {
       "itemId": "smoke_grenade_trap",
       "quantity": 3
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss4", "april_quest_unlock"],
+  "previousQuestIds": ["off_the_radar"],
   "nextQuestIds": [],
   "updatedAt": "04/28/2026"
 }

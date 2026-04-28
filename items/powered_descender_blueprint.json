@@ -1,26 +1,26 @@
 {
-  "id": "powered_descender",
+  "id": "powered_descender_blueprint",
   "name": {
-    "da": "Drevet Nedstiger",
-    "de": "Motorisierter Abseiler",
-    "en": "Powered Descender",
-    "es": "Descensor motorizado",
-    "fr": "Descendeur motorisé",
-    "he": "מתקן ירידה ממונע",
-    "hr": "Motorizirani spuštač",
-    "it": "Discensore motorizzato",
-    "ja": "電動ディセンダー",
-    "ko-KR": "동력 강하기",
-    "no": "Motorisert nedstiger",
-    "pl": "Zjazdnik z napędem",
-    "pt": "Descensor motorizado",
-    "pt-BR": "Descensor motorizado",
-    "ru": "Моторизованный спусковой механизм",
-    "sr": "Motorizovani spuštač",
-    "tr": "Motorlu İniş Aleti",
-    "uk": "Моторизований спусковий пристрій",
-    "zh-CN": "动力下降器",
-    "zh-TW": "動力下降器"
+    "da": "Motoriseret nedstigningsenhed blueprint",
+    "de": "Blaupause für motorisierten Abseiler",
+    "en": "Powered Descender Blueprint",
+    "es": "Plano de descensor motorizado",
+    "fr": "Plan de descendeur motorisé",
+    "he": "תוכנית למנמיך ממונע",
+    "hr": "Nacrt motoriziranog spuštala",
+    "it": "Progetto discensore motorizzato",
+    "ja": "動力式降下装置の設計図",
+    "ko-KR": "동력 하강 장치 설계도",
+    "no": "Motorisert nedstigningsenhet blueprint",
+    "pl": "Schemat napędzanego urządzenia zjazdowego",
+    "pt": "Projeto de descensor motorizado",
+    "pt-BR": "Projeto de descensor motorizado",
+    "ru": "Чертеж моторизованного спускового устройства",
+    "sr": "Nacrt motorizovanog spuštala",
+    "tr": "Motorlu İniş Cihazı Planı",
+    "uk": "Креслення моторизованого спускового пристрою",
+    "zh-CN": "动力下降器蓝图",
+    "zh-TW": "動力下降器藍圖"
   },
   "description": {
     "da": "Reducerer faldhastigheden, når den bruges i luften, men kræver opstartstid, før den når fuld kraft. Slukker, når den løber tør for strøm",
@@ -44,25 +44,11 @@
     "zh-CN": "在空中使用时可降低下坠速度，但需要预热时间才能达到全功率。电量耗尽后会关闭",
     "zh-TW": "在空中使用時可降低下墜速度，但需要預熱時間才能達到全功率。電力耗盡後會關閉"
   },
-  "type": "Quick Use",
-  "rarity": "Epic",
-  "value": 10000,
-  "weightKg": 5,
+  "type": "Blueprint",
+  "rarity": "Common",
+  "value": 5000,
+  "weightKg": 0,
   "stackSize": 1,
-  "blueprintLocked": true,
-  "craftBench": "utility_bench",
-  "stationLevelRequired": 3,
-  "recipe": {
-    "power_rod": 1
-  },
-  "recyclesInto": {
-    "advanced_electrical_components": 1,
-    "arc_circuitry": 2
-  },
-  "salvagesInto": {
-    "advanced_electrical_components": 1
-  },
-  "imageFilename": "https://cdn.arctracker.io/items/powered_descender.png",
   "updatedAt": "04/28/2026",
   "addedIn": "1.26"
 }

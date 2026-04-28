@@ -1,0 +1,68 @@
+{
+  "id": "crash_mat",
+  "name": {
+    "da": "Landingsmåtte",
+    "de": "Sturzmatte",
+    "en": "Crash Mat",
+    "es": "Colchoneta de aterrizaje",
+    "fr": "Matelas d'atterrissage",
+    "he": "מזרן נחיתה",
+    "hr": "Podloga za slijetanje",
+    "it": "Materasso d'atterraggio",
+    "ja": "着地マット",
+    "ko-KR": "착지 매트",
+    "no": "Landingsmatte",
+    "pl": "Mata do lądowania",
+    "pt": "Tapete de aterrissagem",
+    "pt-BR": "Tapete de pouso",
+    "ru": "Посадочный мат",
+    "sr": "Podloga za sletanje",
+    "tr": "İniş Minderi",
+    "uk": "Посадковий мат",
+    "zh-CN": "着陆垫",
+    "zh-TW": "降落墊"
+  },
+  "description": {
+    "da": "En kastbar nødlandingsenhed, der kan blødgøre en tung landing",
+    "de": "Ein werfbares Notlandegerät, das schwere Landungen abfedert",
+    "en": "A throwable emergency landing device, to soften some heavy landing",
+    "es": "Un dispositivo de aterrizaje de emergencia arrojadizo que suaviza algunos aterrizajes duros",
+    "fr": "Un dispositif d'atterrissage d'urgence à lancer, pour amortir certaines chutes brutales",
+    "he": "מתקן נחיתת חירום שניתן להשליך, לריכוך נחיתות כבדות",
+    "hr": "Bacivi uređaj za hitno slijetanje koji ublažava teška prizemljenja",
+    "it": "Un dispositivo di atterraggio d'emergenza lanciabile, per attutire gli atterraggi più pesanti",
+    "ja": "投げて使う緊急着陸装置。重い着地の衝撃をいくらか和らげる。",
+    "ko-KR": "무거운 착지를 어느 정도 완화해 주는 투척식 비상 착륙 장치입니다.",
+    "no": "En kastbar nødlandingsenhet som demper tunge landinger",
+    "pl": "Rzucane awaryjne urządzenie do lądowania, które łagodzi ciężkie upadki",
+    "pt": "Um dispositivo de aterrissagem de emergência arremessável, para amortecer algumas quedas pesadas",
+    "pt-BR": "Um dispositivo de pouso de emergência arremessável, para amortecer algumas quedas pesadas",
+    "ru": "Метательное устройство аварийной посадки, смягчающее тяжелые приземления",
+    "sr": "Bacivi uređaj za hitno sletanje koji ublažava teška prizemljenja",
+    "tr": "Bazı sert inişleri yumuşatmak için fırlatılabilen acil iniş cihazı",
+    "uk": "Кидальний пристрій аварійної посадки, що пом'якшує важкі приземлення",
+    "zh-CN": "一种可投掷的紧急着陆装置，用于缓冲部分重着陆冲击",
+    "zh-TW": "一種可投擲的緊急降落裝置，用來緩和部分重著陸衝擊"
+  },
+  "type": "Quick Use",
+  "rarity": "Uncommon",
+  "value": 1200,
+  "weightKg": 0.6,
+  "stackSize": 5,
+  "blueprintLocked": true,
+  "craftBench": "utility_bench",
+  "stationLevelRequired": 2,
+  "recipe": {
+    "durable_cloth": 1,
+    "electrical_components": 1
+  },
+  "recyclesInto": {
+    "fabric": 6,
+    "plastic_parts": 3
+  },
+  "salvagesInto": {
+    "fabric": 4
+  },
+  "updatedAt": "04/28/2026",
+  "addedIn": "1.26"
+}
