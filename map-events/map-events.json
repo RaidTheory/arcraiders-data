@@ -384,6 +384,34 @@
         "he": "עיר הציפורים"
       }
     },
+    "beachcombing": {
+      "displayName": "Beachcombing",
+      "icon": "https://cdn.arctracker.io/map-events/beachcombing.png",
+      "translationKey": "beachcombing",
+      "category": "minor",
+      "localizations": {
+        "en": "Beachcombing",
+        "de": "Strandgut sammeln",
+        "fr": "Collecte sur la plage",
+        "es": "Recolección en la Playa",
+        "pt": "Coleta na Praia",
+        "pt-BR": "Coleta na Praia",
+        "pl": "Przeczesywanie Plaży",
+        "no": "Strandleting",
+        "da": "Strandjagt",
+        "it": "Raccolta sulla Spiaggia",
+        "ja": "ビーチコーミング",
+        "ko-KR": "해변 수색",
+        "zh-CN": "海滩拾荒",
+        "zh-TW": "海灘拾荒",
+        "ru": "Прочёсывание пляжа",
+        "tr": "Sahil Taraması",
+        "uk": "Прочісування пляжу",
+        "hr": "Pretraživanje plaže",
+        "sr": "Pretraživanje plaže",
+        "he": "חיפוש על החוף"
+      }
+    },
     "none": {
       "displayName": "None",
       "icon": "",
@@ -429,16 +457,8 @@
     "stella-montis": {
       "displayName": "Stella Montis"
     },
-    "stella-montis": {
-      "major": {
-        "4": "night-raid",
-        "8": "night-raid",
-        "12": "night-raid",
-        "16": "night-raid",
-        "20": "night-raid",
-        "23": "night-raid"
-      },
-      "minor": {}
+    "riven-tides": {
+      "displayName": "Riven Tides"
     }
   }
 }
