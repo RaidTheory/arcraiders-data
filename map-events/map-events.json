@@ -1,8 +1,7 @@
 {
   "_readme": {
-    "description": "Map events rotation schedule for ARC Raiders",
-    "format": "Times in schedule are UTC hours (0-23). Add 'disabled: true' to eventTypes to temporarily disable an event.",
-    "example": "To add Night Raid at 5 PM UTC on Dam: schedule.dam-battleground.major['17'] = 'night-raid'"
+    "description": "Map events for ARC Raiders",
+    "format": "List of eventTypes available in the game"
   },
   "eventTypes": {
     "hurricane": {
@@ -13,8 +12,7 @@
       "localizations": {
         "en": "Hurricane",
         "JP": "台風"
-      },
-      "disabled": false
+      }
     },
     "night-raid": {
       "displayName": "Night Raid",
@@ -42,8 +40,7 @@
         "hr": "Noćni prepad",
         "sr": "Noćna racija",
         "he": "פשיטת לילה"
-      },
-      "disabled": false
+      }
     },
     "electromagnetic-storm": {
       "displayName": "Electromagnetic Storm",
@@ -71,8 +68,7 @@
         "hr": "Elektromagnetska oluja",
         "sr": "Elektromagnetna oluja",
         "he": "סופה אלקטרומגנטית"
-      },
-      "disabled": false
+      }
     },
     "cold-snap": {
       "displayName": "Cold Snap",
@@ -129,8 +125,7 @@
         "hr": "Zaključana vrata",
         "sr": "Zaključana kapija",
         "he": "שער נעול"
-      },
-      "disabled": true
+      }
     },
     "hidden-bunker": {
       "displayName": "Hidden Bunker",
@@ -187,8 +182,7 @@
         "hr": "Matrijarh",
         "sr": "Matrijarh",
         "he": "Matriarch"
-      },
-      "disabled": false
+      }
     },
     "harvester": {
       "displayName": "Harvester",
@@ -216,8 +210,7 @@
         "hr": "Žetelac",
         "sr": "Žetelac",
         "he": "Harvester"
-      },
-      "disabled": false
+      }
     },
     "lush-blooms": {
       "displayName": "Lush Blooms",
@@ -361,8 +354,7 @@
         "hr": "Plijen lansirnog tornja",
         "sr": "Plien lansirnog tornja",
         "he": "שלל מגדל השיגור"
-      },
-      "disabled": false
+      }
     },
     "bird-city": {
       "displayName": "Bird City",
@@ -390,8 +382,7 @@
         "hr": "Grad ptica",
         "sr": "Grad ptica",
         "he": "עיר הציפורים"
-      },
-      "disabled": false
+      }
     },
     "none": {
       "displayName": "None",
@@ -437,104 +428,6 @@
     },
     "stella-montis": {
       "displayName": "Stella Montis"
-    }
-  },
-  "schedule": {
-    "dam-battleground": {
-      "major": {
-        "2": "electromagnetic-storm",
-        "6": "electromagnetic-storm",
-        "10": "electromagnetic-storm",
-        "14": "electromagnetic-storm",
-        "18": "electromagnetic-storm",
-        "22": "electromagnetic-storm"
-      },
-      "minor": {
-        "3": "harvester",
-        "6": "husk-graveyard",
-        "9": "harvester",
-        "12": "husk-graveyard",
-        "15": "harvester",
-        "18": "husk-graveyard",
-        "23": "matriarch"
-      }
-    },
-    "buried-city": {
-      "major": {
-        "2": "hurricane",
-        "3": "cold-snap",
-        "6": "hurricane",
-        "7": "night-raid",
-        "10": "hurricane",
-        "11": "cold-snap",
-        "14": "hurricane",
-        "15": "night-raid",
-        "18": "hurricane",
-        "19": "cold-snap",
-        "22": "hurricane",
-        "23": "night-raid"
-      },
-      "minor": {
-        "3": "bird-city",
-        "6": "husk-graveyard",
-        "9": "bird-city",
-        "12": "husk-graveyard",
-        "15": "bird-city",
-        "18": "husk-graveyard",
-        "23": "husk-graveyard"
-      }
-    },
-    "the-spaceport": {
-      "major": {
-        "0": "electromagnetic-storm",
-        "1": "hurricane",
-        "4": "hidden-bunker",
-        "5": "hurricane",
-        "8": "electromagnetic-storm",
-        "9": "hurricane",
-        "12": "cold-snap",
-        "13": "hurricane",
-        "16": "electromagnetic-storm",
-        "17": "hurricane",
-        "20": "hidden-bunker",
-        "21": "hurricane"
-      },
-      "minor": {
-        "2": "husk-graveyard",
-        "5": "matriarch",
-        "8": "harvester",
-        "11": "launch-tower-loot",
-        "14": "matriarch",
-        "17": "harvester",
-        "20": "matriarch",
-        "22": "harvester"
-      }
-    },
-    "blue-gate": {
-      "major": {
-        "1": "electromagnetic-storm",
-        "3": "hurricane",
-        "5": "electromagnetic-storm",
-        "7": "hurricane",
-        "9": "cold-snap",
-        "11": "hurricane",
-        "13": "electromagnetic-storm",
-        "15": "hurricane",
-        "17": "electromagnetic-storm",
-        "19": "hurricane",
-        "21": "cold-snap",
-        "23": "hurricane"
-      },
-      "minor": {
-        "0": "matriarch",
-        "4": "husk-graveyard",
-        "7": "harvester",
-        "10": "matriarch",
-        "13": "harvester",
-        "16": "husk-graveyard",
-        "19": "matriarch",
-        "21": "husk-graveyard"
-      }
     },
     "stella-montis": {
       "major": {
