@@ -1,9 +1,9 @@
 {
-  "id": "riven_tides_classifed_records_keycard",
+  "id": "riven_tides_classified_records_keycard",
   "name": {
     "da": "Riven Tides-nøglekort til klassificerede arkiver",
     "de": "Riven Tides-Schlüsselkarte für Geheimakten",
-    "en": "Riven Tides Classifed Records Keycard",
+    "en": "Riven Tides Classified Records Keycard",
     "es": "Tarjeta llave de registros clasificados de Riven Tides",
     "fr": "Carte-clé des archives classifiées de Riven Tides",
     "he": "כרטיס מפתח לרשומות מסווגות ב-Riven Tides",
@@ -49,7 +49,6 @@
   "value": 100,
   "weightKg": 0.25,
   "stackSize": 1,
-  "questItem": true,
   "updatedAt": "05/02/2026",
   "addedIn": "1.26"
 }
