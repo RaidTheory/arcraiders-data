@@ -113,6 +113,7 @@
       "closeScrutiny": "Genaue Prüfung",
       "none": "Keine",
       "birdCity": "Vogelstadt",
+      "beachcombing": "Beachcombing",
       "hurricane": "Hurrikan"
     }
   },
@@ -197,7 +198,12 @@
     "stashModeActive": "Anzahl aus synchronisiertem Lager",
     "lastSynced": "Synchronisiert",
     "syncStash": "Lager synchronisieren",
-    "season3": "Saison 3"
+    "season3": "Saison 3",
+    "dealDamage": "ARC-Maschinen Schaden zufügen",
+    "completeObjective": "Ziel abschließen",
+    "skillPointReward": "Fertigkeitspunkt",
+    "earnedDuringExpedition": "Fortschritt sammelt sich während des Expeditionsfensters an. Jede abgeschlossene Stufe gewährt 1 Fertigkeitspunkt für deinen nächsten Raider.",
+    "season4": "Expedition 4"
   },
   "HideoutPage": {
     "level": "Level",
@@ -724,7 +730,8 @@
     "theSpaceport": "The Spaceport",
     "buriedCity": "Buried City",
     "theBlueGate": "The Blue Gate",
-    "stellaMontis": "Stella Montis"
+    "stellaMontis": "Stella Montis",
+    "rivenTides": "Zerrissene Gezeiten"
   },
   "TermsPage": {
     "title": "Nutzungsbedingungen",
@@ -2568,7 +2575,7 @@
     "paramRoundsLimit": "Maximale Anzahl der zurückzugebenden Runden (Standard: 50, Max: 200).",
     "paramRoundsOffset": "Paginierungs-Offset (Standard: 0).",
     "paramRoundsOutcome": "Filter: extracted, died, unknown.",
-    "paramRoundsMap": "Filtern nach Karten-Slug: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Filtern nach Karten-Slug: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Filtern nach Saisonnummer (z. B. 1, 2).",
     "paramRoundsDateFrom": "Startdatum einschließlich (ISO-Format, z. B. 2025-01-01).",
     "paramRoundsDateTo": "Enddatum einschließlich (ISO-Format, z. B. 2025-12-31).",
@@ -2675,7 +2682,9 @@
     "totalPhases": "Phasen",
     "turnIn": "Abgeben",
     "uniqueItems": "Einzigartige Gegenstände",
-    "valueRequirement": "Wertanforderung"
+    "valueRequirement": "Wertanforderung",
+    "damageTiers": "Schadensstufen",
+    "singleObjective": "Einzelnes Ziel"
   },
   "Cipher": {
     "alphaBadge": "Experimentell",

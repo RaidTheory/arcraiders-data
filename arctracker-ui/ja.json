@@ -113,6 +113,7 @@
       "closeScrutiny": "精密調査",
       "none": "なし",
       "birdCity": "鳥の街",
+      "beachcombing": "Beachcombing",
       "hurricane": "ハリケーン"
     }
   },
@@ -204,7 +205,12 @@
     "stashModeActive": "同期済みスタッシュの数量",
     "lastSynced": "同期済み",
     "syncStash": "スタッシュを同期",
-    "season3": "シーズン3"
+    "season3": "シーズン3",
+    "dealDamage": "ARCマシンにダメージを与える",
+    "completeObjective": "目標を完了する",
+    "skillPointReward": "スキルポイント",
+    "earnedDuringExpedition": "進行状況はエクスペディション期間中に蓄積されます。各ティアをクリアするごとに、次のレイダーにスキルポイントが1付与されます。",
+    "season4": "エクスペディション 4"
   },
   "HideoutPage": {
     "level": "レベル",
@@ -803,7 +809,8 @@
     "theSpaceport": "宇宙港",
     "buriedCity": "埋もれた街",
     "theBlueGate": "ブルーゲート",
-    "stellaMontis": "ステラ・モンティス"
+    "stellaMontis": "ステラ・モンティス",
+    "rivenTides": "引き裂かれた潮汐"
   },
   "AppNames": {
     "overlay": "オーバーレイアプリ",
@@ -2554,7 +2561,7 @@
     "paramRoundsLimit": "取得するラウンドの最大数（デフォルト: 50、最大: 200）。",
     "paramRoundsOffset": "ページネーションのオフセット（デフォルト: 0）。",
     "paramRoundsOutcome": "フィルター: extracted（脱出）、died（死亡）、unknown（不明）。",
-    "paramRoundsMap": "マップスラッグでフィルター: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city。",
+    "paramRoundsMap": "マップスラッグでフィルター: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides。",
     "paramRoundsSeason": "シーズン番号でフィルター（例: 1, 2）。",
     "paramRoundsDateFrom": "開始日（指定日を含む、ISO形式、例: 2025-01-01）。",
     "paramRoundsDateTo": "終了日（指定日を含む、ISO形式、例: 2025-12-31）。",
@@ -2661,7 +2668,9 @@
     "totalPhases": "フェーズ",
     "turnIn": "納品",
     "uniqueItems": "ユニークアイテム",
-    "valueRequirement": "必要価値"
+    "valueRequirement": "必要価値",
+    "damageTiers": "ダメージティア",
+    "singleObjective": "単一の目標"
   },
   "Cipher": {
     "alphaBadge": "実験的",

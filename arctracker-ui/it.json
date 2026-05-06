@@ -113,6 +113,7 @@
       "closeScrutiny": "Esame ravvicinato",
       "none": "Nessuno",
       "birdCity": "Città degli Uccelli",
+      "beachcombing": "Beachcombing",
       "hurricane": "Uragano"
     }
   },
@@ -204,7 +205,12 @@
     "stashModeActive": "Conteggi dalla scorta sincronizzata",
     "lastSynced": "Sincronizzato",
     "syncStash": "Sincronizza scorta",
-    "season3": "Stagione 3"
+    "season3": "Stagione 3",
+    "dealDamage": "Infliggi danni alle Macchine ARC",
+    "completeObjective": "Completa l'obiettivo",
+    "skillPointReward": "Punto Abilità",
+    "earnedDuringExpedition": "I progressi si accumulano mentre ci si trova nella finestra della spedizione. Ogni livello superato fornisce 1 punto abilità per il tuo prossimo Raider.",
+    "season4": "Spedizione 4"
   },
   "HideoutPage": {
     "level": "Livello",
@@ -803,7 +809,8 @@
     "theSpaceport": "Spazioporto",
     "buriedCity": "Città Sepolta",
     "theBlueGate": "Il Varco Blu",
-    "stellaMontis": "Stella Montis"
+    "stellaMontis": "Stella Montis",
+    "rivenTides": "Maree Lacerate"
   },
   "AppNames": {
     "overlay": "App Overlay",
@@ -2554,7 +2561,7 @@
     "paramRoundsLimit": "Numero massimo di round da restituire (predefinito: 50, max: 200).",
     "paramRoundsOffset": "Offset di impaginazione (predefinito: 0).",
     "paramRoundsOutcome": "Filtro: estratto, morto, sconosciuto.",
-    "paramRoundsMap": "Filtra per slug della mappa: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Filtra per slug della mappa: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Filtra per numero della stagione (es. 1, 2).",
     "paramRoundsDateFrom": "Data di inizio inclusiva (formato ISO, es. 2025-01-01).",
     "paramRoundsDateTo": "Data di fine inclusiva (formato ISO, es. 2025-12-31).",
@@ -2661,7 +2668,9 @@
     "totalPhases": "Fasi",
     "turnIn": "Consegna",
     "uniqueItems": "Oggetti unici",
-    "valueRequirement": "Valore richiesto"
+    "valueRequirement": "Valore richiesto",
+    "damageTiers": "Livelli di danno",
+    "singleObjective": "Obiettivo singolo"
   },
   "Cipher": {
     "alphaBadge": "Sperimentale",

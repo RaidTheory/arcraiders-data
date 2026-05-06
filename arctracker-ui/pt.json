@@ -113,6 +113,7 @@
       "closeScrutiny": "Escrutínio minucioso",
       "none": "Nenhum",
       "birdCity": "Cidade dos Pássaros",
+      "beachcombing": "Beachcombing",
       "hurricane": "Furacão"
     }
   },
@@ -204,7 +205,12 @@
     "stashModeActive": "Contagens do estoque sincronizado",
     "lastSynced": "Sincronizado",
     "syncStash": "Sincronizar estoque",
-    "season3": "Temporada 3"
+    "season3": "Temporada 3",
+    "dealDamage": "Causar Dano às Máquinas ARC",
+    "completeObjective": "Completar Objetivo",
+    "skillPointReward": "Ponto de Habilidade",
+    "earnedDuringExpedition": "O progresso se acumula durante a janela de expedição. Cada nível concluído concede 1 ponto de habilidade para o seu próximo Raider.",
+    "season4": "Expedição 4"
   },
   "HideoutPage": {
     "level": "Nível",
@@ -803,7 +809,8 @@
     "theSpaceport": "Spaceport",
     "buriedCity": "Buried City",
     "theBlueGate": "The Blue Gate",
-    "stellaMontis": "Stella Montis"
+    "stellaMontis": "Stella Montis",
+    "rivenTides": "Marés Rasgadas"
   },
   "AppNames": {
     "overlay": "App de Sobreposição",
@@ -2554,7 +2561,7 @@
     "paramRoundsLimit": "Máximo de partidas para retornar (padrão: 50, máx: 200).",
     "paramRoundsOffset": "Deslocamento da paginação (padrão: 0).",
     "paramRoundsOutcome": "Filtro: extracted (extraído), died (morto), unknown (desconhecido).",
-    "paramRoundsMap": "Filtrar por slug do mapa: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Filtrar por slug do mapa: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Filtrar por número da temporada (ex: 1, 2).",
     "paramRoundsDateFrom": "Data de início inclusiva (formato ISO, ex: 2025-01-01).",
     "paramRoundsDateTo": "Data de término inclusiva (formato ISO, ex: 2025-12-31).",
@@ -2661,7 +2668,9 @@
     "totalPhases": "Fases",
     "turnIn": "Entregar",
     "uniqueItems": "Itens Únicos",
-    "valueRequirement": "Requisito de Valor"
+    "valueRequirement": "Requisito de Valor",
+    "damageTiers": "Níveis de dano",
+    "singleObjective": "Objetivo único"
   },
   "Cipher": {
     "alphaBadge": "Experimental",

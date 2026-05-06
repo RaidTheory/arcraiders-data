@@ -113,6 +113,7 @@
       "closeScrutiny": "Ретельна перевірка",
       "none": "Немає",
       "birdCity": "Пташине місто",
+      "beachcombing": "Beachcombing",
       "hurricane": "Ураган"
     }
   },
@@ -197,7 +198,12 @@
     "stashModeActive": "Кількість із синхронізованого сховища",
     "lastSynced": "Синхронізовано",
     "syncStash": "Синхронізувати сховище",
-    "season3": "Сезон 3"
+    "season3": "Сезон 3",
+    "dealDamage": "Завдати шкоди машинам ARC",
+    "completeObjective": "Виконати ціль",
+    "skillPointReward": "Очко навичок",
+    "earnedDuringExpedition": "Прогрес накопичується під час перебування у вікні експедиції. Кожен завершений рівень дає 1 очко навичок для вашого наступного Рейдера.",
+    "season4": "Експедиція 4"
   },
   "HideoutPage": {
     "level": "Рівень",
@@ -724,7 +730,8 @@
     "theSpaceport": "Космопорт",
     "buriedCity": "Поховане місто",
     "theBlueGate": "Блакитна брама",
-    "stellaMontis": "Стелла Монтіс"
+    "stellaMontis": "Стелла Монтіс",
+    "rivenTides": "Розколоті припливи"
   },
   "TermsPage": {
     "title": "Умови використання",
@@ -2568,7 +2575,7 @@
     "paramRoundsLimit": "Максимальна кількість раундів для повернення (за замовчуванням: 50, макс.: 200).",
     "paramRoundsOffset": "Зсув пагінації (за замовчуванням: 0).",
     "paramRoundsOutcome": "Фільтр: extracted (евакуювався), died (загинув), unknown (невідомо).",
-    "paramRoundsMap": "Фільтрувати за ідентифікатором (slug) мапи: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Фільтрувати за ідентифікатором (slug) мапи: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Фільтрувати за номером сезону (наприклад, 1, 2).",
     "paramRoundsDateFrom": "Початкова дата включно (формат ISO, наприклад, 2025-01-01).",
     "paramRoundsDateTo": "Кінцева дата включно (формат ISO, наприклад, 2025-12-31).",
@@ -2675,7 +2682,9 @@
     "totalPhases": "Етапи",
     "turnIn": "Здати",
     "uniqueItems": "Унікальні предмети",
-    "valueRequirement": "Необхідна вартість"
+    "valueRequirement": "Необхідна вартість",
+    "damageTiers": "Рівні шкоди",
+    "singleObjective": "Одна ціль"
   },
   "Cipher": {
     "alphaBadge": "Експериментально",

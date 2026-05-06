@@ -78,25 +78,25 @@
     },
     {
       "da": "Hent Celestes journaler fra den nordlige forpost med udsigt over Red Lakes",
-      "de": "Hol Celestes Tagebücher aus dem nördlichen Außenposten mit Blick auf die Roten Seen.",
-      "en": "Retrieve Celeste’s Journals from the northern outpost overlooking the Red Lakes",
-      "es": "Recupera los diarios de Celeste en el puesto norte con vistas a los lagos rojos.",
-      "fr": "Récupérer les journaux de Celeste à l'avant-poste nord surplombant les Lacs rouges",
+      "de": "Hol Celestes Tagebücher aus dem Raider-Außenposten Ost.",
+      "en": "Retrieve Celeste’s Journals from Raider Outpost East",
+      "es": "Recupera los diarios de Celeste en el puesto de Raider este.",
+      "fr": "Récupérer les journaux de Celeste à l'avant-poste de Raiders est",
       "he": "להחזיר את היומנים של Celeste מהמוצב הצפוני המשקיף על ה-Red Lakes",
       "hr": "Prikupi Celestine dnevnike iz sjeverne predstraže s pogledom na Crvena jezera",
-      "it": "Recupera i diari di Celeste dall'avamposto settentrionale che dà sui Laghi rossi",
-      "ja": "赤い池を見渡せる北の前哨基地からセレステの日誌を回収した",
-      "ko-KR": "붉은 호수가 내려다보이는 북쪽 전초 기지에서 셀레스테의 일지 회수하기",
+      "it": "Recupera i diari di Celeste dall'Avamposto Raider est",
+      "ja": "レイダーの東拠点でセレストの日誌を回収する",
+      "ko-KR": "동쪽 레이더 전초 기지에서 셀레스테의 일지 회수하기",
       "no": "Hent Celestes journaler fra den nordlige utposten med utsikt over Red Lakes",
-      "pl": "Odzyskaj dzienniki Celeste z posterunku północnego nad Jeziorami Czerwonymi",
+      "pl": "Odzyskaj dzienniki Celeste ze wschodniego posterunku łupieżców",
       "pt": "Recupere os Diários da Celeste do posto avançado ao norte com vista para os Red Lakes",
-      "pt-BR": "Recupere os Diários da Celeste no posto avançado ao norte, com vista para os Lagos Vermelhos",
-      "ru": "Найдите дневники Селесты в северном аванпосте с видом на Алые озера.",
+      "pt-BR": "Recupere os Diários da Celeste no Posto Avançado de Raider Leste",
+      "ru": "Найдите дневники Селесты в восточном рейдерском аванпосте.",
       "sr": "Povrati Celestine dnevnike iz severne ispostave koja gleda na Red Lakes",
-      "tr": "Kızıl Göller'e bakan kuzey karakolundan Celeste'in Günlüğü'nü al",
+      "tr": "Doğu Raider Karakolu'ndan Celeste'in Günlüğü'nü al",
       "uk": "Забрати щоденники Celeste з північного аванпосту над Червоними озерами",
-      "zh-CN": "从俯瞰红湖的北部哨站取回塞莱斯特的日记",
-      "zh-TW": "從可眺望紅湖的北方哨站回收莎莉絲特的日誌"
+      "zh-CN": "从奇袭者岗哨东侧取回塞莱斯特的日记",
+      "zh-TW": "從東掠手哨站回收莎莉絲特的日誌"
     },
     {
       "da": "Aflever {0} journaler til Celeste",
@@ -138,5 +138,5 @@
   "xp": 0,
   "previousQuestIds": ["a_symbol_of_unification"],
   "nextQuestIds": ["back_on_top"],
-  "updatedAt": "03/31/2026"
+  "updatedAt": "04/28/2026"
 }

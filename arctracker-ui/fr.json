@@ -113,6 +113,7 @@
       "closeScrutiny": "Examen minutieux",
       "none": "Aucun",
       "birdCity": "Cité des Oiseaux",
+      "beachcombing": "Beachcombing",
       "hurricane": "Ouragan"
     }
   },
@@ -197,7 +198,12 @@
     "stashModeActive": "Quantités de la réserve synchronisée",
     "lastSynced": "Synchronisé",
     "syncStash": "Synchroniser la réserve",
-    "season3": "Saison 3"
+    "season3": "Saison 3",
+    "dealDamage": "Infliger des dégâts aux machines ARC",
+    "completeObjective": "Terminer l'objectif",
+    "skillPointReward": "Point de compétence",
+    "earnedDuringExpedition": "La progression s'accumule pendant la fenêtre d'expédition. Chaque palier franchi rapporte 1 point de compétence pour votre prochain Raider.",
+    "season4": "Expédition 4"
   },
   "HideoutPage": {
     "level": "Niveau",
@@ -724,7 +730,8 @@
     "theSpaceport": "Port Spatial",
     "buriedCity": "Ville enfouie",
     "theBlueGate": "Portail Bleu",
-    "stellaMontis": "Stella Montis"
+    "stellaMontis": "Stella Montis",
+    "rivenTides": "Marées déchirées"
   },
   "TermsPage": {
     "title": "Conditions d'utilisation",
@@ -2568,7 +2575,7 @@
     "paramRoundsLimit": "Nombre maximum de parties à renvoyer (par défaut : 50, max : 200).",
     "paramRoundsOffset": "Décalage de pagination (par défaut : 0).",
     "paramRoundsOutcome": "Filtre : extracted (exfiltré), died (mort), unknown (inconnu).",
-    "paramRoundsMap": "Filtrer par identifiant de carte (slug) : dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Filtrer par identifiant de carte (slug) : dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Filtrer par numéro de saison (ex. : 1, 2).",
     "paramRoundsDateFrom": "Date de début inclusive (format ISO, ex. : 2025-01-01).",
     "paramRoundsDateTo": "Date de fin inclusive (format ISO, ex. : 2025-12-31).",
@@ -2675,7 +2682,9 @@
     "totalPhases": "Phases",
     "turnIn": "Livrer",
     "uniqueItems": "Objets uniques",
-    "valueRequirement": "Valeur requise"
+    "valueRequirement": "Valeur requise",
+    "damageTiers": "Paliers de dégâts",
+    "singleObjective": "Objectif unique"
   },
   "Cipher": {
     "alphaBadge": "Expérimental",

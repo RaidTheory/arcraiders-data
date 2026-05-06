@@ -113,6 +113,7 @@
       "closeScrutiny": "Тщательная проверка",
       "none": "Нет",
       "birdCity": "Птичий город",
+      "beachcombing": "Beachcombing",
       "hurricane": "Ураган"
     }
   },
@@ -197,7 +198,12 @@
     "stashModeActive": "Количество из синхронизированного схрона",
     "lastSynced": "Синхронизировано",
     "syncStash": "Синхронизировать схрон",
-    "season3": "Сезон 3"
+    "season3": "Сезон 3",
+    "dealDamage": "Нанести урон машинам ARC",
+    "completeObjective": "Выполнить задачу",
+    "skillPointReward": "Очко навыков",
+    "earnedDuringExpedition": "Прогресс накапливается во время экспедиции. Каждый пройденный уровень дает 1 очко навыков для вашего следующего Рейдера.",
+    "season4": "Экспедиция 4"
   },
   "HideoutPage": {
     "level": "Уровень",
@@ -724,7 +730,8 @@
     "theSpaceport": "Космопорт",
     "buriedCity": "Погребенный город",
     "theBlueGate": "Синие ворота",
-    "stellaMontis": "Стелла Монтис"
+    "stellaMontis": "Стелла Монтис",
+    "rivenTides": "Расколотые приливы"
   },
   "TermsPage": {
     "title": "Условия использования",
@@ -2568,7 +2575,7 @@
     "paramRoundsLimit": "Максимальное количество возвращаемых раундов (по умолчанию: 50, макс.: 200).",
     "paramRoundsOffset": "Смещение пагинации (по умолчанию: 0).",
     "paramRoundsOutcome": "Фильтр: extracted, died, unknown.",
-    "paramRoundsMap": "Фильтр по идентификатору (slug) карты: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city.",
+    "paramRoundsMap": "Фильтр по идентификатору (slug) карты: dam-battleground, the-spaceport, blue-gate, stella-montis, buried-city, riven-tides.",
     "paramRoundsSeason": "Фильтр по номеру сезона (например, 1, 2).",
     "paramRoundsDateFrom": "Начальная дата включительно (формат ISO, например, 2025-01-01).",
     "paramRoundsDateTo": "Конечная дата включительно (формат ISO, например, 2025-12-31).",
@@ -2675,7 +2682,9 @@
     "totalPhases": "Этапы",
     "turnIn": "Сдать",
     "uniqueItems": "Уникальные предметы",
-    "valueRequirement": "Требование по стоимости"
+    "valueRequirement": "Требование по стоимости",
+    "damageTiers": "Уровни урона",
+    "singleObjective": "Одиночная задача"
   },
   "Cipher": {
     "alphaBadge": "Экспериментально",
