@@ -45,7 +45,7 @@
     "zh-TW": "全自動大口徑衝鋒槍。"
   },
   "type": "SMG",
-  "rarity": "Legendary",
+  "rarity": "Rare",
   "value": 13000,
   "weightKg": 6.5,
   "stackSize": 1,
@@ -60,6 +60,7 @@
     "advanced_mechanical_components": 1,
     "medium_gun_parts": 2
   },
+  "imageFilename": "https://cdn.arctracker.io/items/v2/canto_iii.png",
   "updatedAt": "03/31/2026",
   "addedIn": "1.22"
 }
