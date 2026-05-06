@@ -45,14 +45,8 @@
   "leaflet": {
     "crs": "L.CRS.Simple",
     "bounds": [
-      [
-        0,
-        0
-      ],
-      [
-        1000,
-        1000
-      ]
+      [0, 0],
+      [1000, 1000]
     ],
     "minNativeZoom": 2,
     "maxNativeZoom": 3
