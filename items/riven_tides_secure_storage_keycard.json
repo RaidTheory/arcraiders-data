@@ -49,6 +49,8 @@
   "value": 100,
   "weightKg": 0.25,
   "stackSize": 1,
+  "questItem": true,
+  "imageFilename": "https://cdn.arctracker.io/items/riven_tides_secure_storage_keycard.png",
   "updatedAt": "05/02/2026",
   "addedIn": "1.26"
 }
