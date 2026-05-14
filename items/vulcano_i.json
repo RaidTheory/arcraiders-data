@@ -188,7 +188,6 @@
   "agility": 70.7,
   "damage": 58.5,
   "fireRate": 8.3,
-  "increasedFireRate": 10,
   "modSlots": {
     "grip": [
       "angled_grip_i",
@@ -220,8 +219,6 @@
     ]
   },
   "range": 22.1,
-  "reducedDurabilityBurnRate": 23,
-  "reducedReloadTime": 13,
   "repairCost": {
     "advanced_mechanical_components": 2,
     "heavy_gun_parts": 1
