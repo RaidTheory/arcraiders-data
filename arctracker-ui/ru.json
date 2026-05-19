@@ -967,7 +967,9 @@
       "decentLoot": "Неплохой лут",
       "sparseLoot": "Скудный лут",
       "regions": "Регионы",
-      "landmarks": "Достопримечательности"
+      "landmarks": "Достопримечательности",
+      "hurricaneCache": "Ураганный тайник",
+      "buriedCache": "Зарытый тайник"
     },
     "questDetails": "Детали квеста",
     "viewQuest": "Смотреть квест",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "Станция вызова припасов",
     "trainExtraction": "Эвакуация на поезде",
     "ventExtraction": "Эвакуация через вентиляцию",
-    "weaponCase": "Оружейный кейс"
+    "weaponCase": "Оружейный кейс",
+    "hurricaneCache": "Ураганный тайник",
+    "buriedCache": "Зарытый тайник"
   },
   "PrivatePinIcons": {
     "categories": {

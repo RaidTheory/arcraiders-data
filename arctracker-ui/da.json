@@ -967,7 +967,9 @@
       "decentLoot": "Udmærket Loot",
       "sparseLoot": "Sparsomt Loot",
       "regions": "Regioner",
-      "landmarks": "Landemærker"
+      "landmarks": "Landemærker",
+      "hurricaneCache": "Hurricane-cache",
+      "buriedCache": "Nedgravet cache"
     },
     "questDetails": "Quest Detaljer",
     "viewQuest": "Se Quest",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "Forsyningsstation",
     "trainExtraction": "Togevakuering",
     "ventExtraction": "Ventilationsevakuering",
-    "weaponCase": "Våbenkasse"
+    "weaponCase": "Våbenkasse",
+    "hurricaneCache": "Hurricane-cache",
+    "buriedCache": "Nedgravet cache"
   },
   "PrivatePinIcons": {
     "categories": {

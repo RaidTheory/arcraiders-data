@@ -967,7 +967,9 @@
       "decentLoot": "שלל סביר",
       "sparseLoot": "שלל דליל",
       "regions": "אזורים",
-      "landmarks": "ציוני דרך"
+      "landmarks": "ציוני דרך",
+      "hurricaneCache": "מטמון הוריקן",
+      "buriedCache": "מטמון קבור"
     },
     "questDetails": "פרטי משימה",
     "viewQuest": "צפה במשימה",
@@ -2069,7 +2071,9 @@
     "supplyCallStation": "עמדת קריאה לאספקה",
     "trainExtraction": "חילוץ רכבת",
     "ventExtraction": "חילוץ פיר אוורור",
-    "weaponCase": "מארז נשק"
+    "weaponCase": "מארז נשק",
+    "hurricaneCache": "מטמון הוריקן",
+    "buriedCache": "מטמון קבור"
   },
   "PrivatePinIcons": {
     "categories": {

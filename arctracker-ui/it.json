@@ -1059,7 +1059,9 @@
       "decentLoot": "Bottino Decente",
       "sparseLoot": "Bottino Scarso",
       "regions": "Regioni",
-      "landmarks": "Punti di Riferimento"
+      "landmarks": "Punti di Riferimento",
+      "hurricaneCache": "Scorta Uragano",
+      "buriedCache": "Scorta sepolta"
     },
     "questDetails": "Dettagli Missione",
     "viewQuest": "Vedi Missione",
@@ -2068,7 +2070,9 @@
     "supplyCallStation": "Stazione richiesta rifornimenti",
     "trainExtraction": "Estrazione (Treno)",
     "ventExtraction": "Estrazione (Condotto)",
-    "weaponCase": "Cassa d'armi"
+    "weaponCase": "Cassa d'armi",
+    "hurricaneCache": "Scorta Uragano",
+    "buriedCache": "Scorta sepolta"
   },
   "PrivatePinIcons": {
     "categories": {

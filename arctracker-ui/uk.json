@@ -967,7 +967,9 @@
       "decentLoot": "Нормальна здобич",
       "sparseLoot": "Мало здобичі",
       "regions": "Регіони",
-      "landmarks": "Орієнтири"
+      "landmarks": "Орієнтири",
+      "hurricaneCache": "Ураганна схованка",
+      "buriedCache": "Закопана схованка"
     },
     "questDetails": "Деталі квесту",
     "viewQuest": "Переглянути квест",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "Станція виклику припасів",
     "trainExtraction": "Евакуація поїздом",
     "ventExtraction": "Евакуація через вентиляцію",
-    "weaponCase": "Збройовий кейс"
+    "weaponCase": "Збройовий кейс",
+    "hurricaneCache": "Ураганна схованка",
+    "buriedCache": "Закопана схованка"
   },
   "PrivatePinIcons": {
     "categories": {

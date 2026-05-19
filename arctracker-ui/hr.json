@@ -967,7 +967,9 @@
       "decentLoot": "Pristojan plijen",
       "sparseLoot": "Rijedak plijen",
       "regions": "Regije",
-      "landmarks": "Znamenitosti"
+      "landmarks": "Znamenitosti",
+      "hurricaneCache": "Uraganska zaliha",
+      "buriedCache": "Zakopana zaliha"
     },
     "questDetails": "Detalji zadatka",
     "viewQuest": "Prikaži zadatak",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "Stanica za poziv opskrbe",
     "trainExtraction": "Ekstrakcija vlakom",
     "ventExtraction": "Ekstrakcija ventilacijom",
-    "weaponCase": "Kutija za oružje"
+    "weaponCase": "Kutija za oružje",
+    "hurricaneCache": "Uraganska zaliha",
+    "buriedCache": "Zakopana zaliha"
   },
   "PrivatePinIcons": {
     "categories": {

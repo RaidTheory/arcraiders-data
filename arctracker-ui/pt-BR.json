@@ -967,7 +967,9 @@
       "decentLoot": "Espólio decente",
       "sparseLoot": "Espólio escasso",
       "regions": "Regiões",
-      "landmarks": "Marcos"
+      "landmarks": "Marcos",
+      "hurricaneCache": "Esconderijo Hurricane",
+      "buriedCache": "Esconderijo Enterrado"
     },
     "questDetails": "Detalhes da missão",
     "viewQuest": "Ver missão",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "Estação de Chamada de Suprimentos",
     "trainExtraction": "Extração por Trem",
     "ventExtraction": "Extração por Duto",
-    "weaponCase": "Caixa de Arma"
+    "weaponCase": "Caixa de Arma",
+    "hurricaneCache": "Esconderijo Hurricane",
+    "buriedCache": "Esconderijo Enterrado"
   },
   "PrivatePinIcons": {
     "categories": {

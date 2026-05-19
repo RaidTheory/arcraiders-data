@@ -967,7 +967,9 @@
       "decentLoot": "Botín Decente",
       "sparseLoot": "Botín Escaso",
       "regions": "Regiones",
-      "landmarks": "Puntos de Referencia"
+      "landmarks": "Puntos de Referencia",
+      "hurricaneCache": "Alijo Hurricane",
+      "buriedCache": "Alijo enterrado"
     },
     "questDetails": "Detalles de la Misión",
     "viewQuest": "Ver Misión",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "Estación de llamada de suministros",
     "trainExtraction": "Extracción en tren",
     "ventExtraction": "Extracción por ventilación",
-    "weaponCase": "Caja de armas"
+    "weaponCase": "Caja de armas",
+    "hurricaneCache": "Alijo Hurricane",
+    "buriedCache": "Alijo enterrado"
   },
   "PrivatePinIcons": {
     "categories": {

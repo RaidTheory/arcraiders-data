@@ -967,7 +967,9 @@
       "decentLoot": "Greit bytte",
       "sparseLoot": "Lite bytte",
       "regions": "Regioner",
-      "landmarks": "Landemerker"
+      "landmarks": "Landemerker",
+      "hurricaneCache": "Hurricane-depot",
+      "buriedCache": "Nedgravd depot"
     },
     "questDetails": "Oppdragsdetaljer",
     "viewQuest": "Vis oppdrag",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "Forsyningsstasjon",
     "trainExtraction": "Togevakuering",
     "ventExtraction": "Ventilasjonsevakuering",
-    "weaponCase": "Våpenkoffert"
+    "weaponCase": "Våpenkoffert",
+    "hurricaneCache": "Hurricane-depot",
+    "buriedCache": "Nedgravd depot"
   },
   "PrivatePinIcons": {
     "categories": {

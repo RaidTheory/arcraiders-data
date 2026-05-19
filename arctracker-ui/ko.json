@@ -967,7 +967,9 @@
       "decentLoot": "적당한 전리품",
       "sparseLoot": "부족한 전리품",
       "regions": "지역",
-      "landmarks": "랜드마크"
+      "landmarks": "랜드마크",
+      "hurricaneCache": "허리케인 은닉처",
+      "buriedCache": "파묻힌 은닉처"
     },
     "questDetails": "퀘스트 세부 정보",
     "viewQuest": "퀘스트 보기",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "보급 호출 스테이션",
     "trainExtraction": "열차 탈출구",
     "ventExtraction": "환풍구 탈출구",
-    "weaponCase": "무기 상자"
+    "weaponCase": "무기 상자",
+    "hurricaneCache": "허리케인 은닉처",
+    "buriedCache": "파묻힌 은닉처"
   },
   "PrivatePinIcons": {
     "categories": {
