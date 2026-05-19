@@ -1,0 +1,42 @@
+{
+  "id": "extended_barrel_i",
+  "name": {
+    "da": "Forlænget løb I",
+    "de": "Verlängerter Lauf I",
+    "en": "Extended Barrel I",
+    "es": "Cañón extendido I",
+    "fr": "Canon Allongé I",
+    "he": "קנה מוארךI",
+    "hr": "Produžena cijev I",
+    "it": "Canna estesa I",
+    "ja": "拡張バレル I",
+    "ko-KR": "확장형 총열 I",
+    "no": "Forlenget løp I",
+    "pl": "Wydłużona lufa I",
+    "pt": "Cano estendido I",
+    "pt-BR": "Cano Estendido I",
+    "ru": "Удлиненный ствол I",
+    "sr": "Produžena cev I",
+    "tr": "Uzatılmış Namlu I",
+    "uk": "Подовжений ствол I",
+    "zh-CN": "加长枪管 I",
+    "zh-TW": "加長槍管 I"
+  },
+  "type": "Modification",
+  "rarity": "Common",
+  "value": 1000,
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
+  "recipe": {
+    "metal_parts": 6,
+    "wires": 3
+  },
+  "recyclesInto": {
+    "metal_parts": 5
+  },
+  "salvagesInto": {
+    "metal_parts": 3
+  },
+  "updatedAt": "05/19/2026",
+  "addedIn": "1.29"
+}

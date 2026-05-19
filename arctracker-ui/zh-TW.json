@@ -837,7 +837,9 @@
     "decentLoot": "戰利品價值 中",
     "sparseLoot": "戰利品價值 低",
     "regions": "區域",
-    "landmarks": "地標"
+    "landmarks": "地標",
+    "hurricaneCache": "颶風儲藏箱",
+    "buriedCache": "埋藏儲藏箱"
   },
   "PrivatePinIcons": {
     "categories": {
@@ -1165,7 +1167,9 @@
       "decentLoot": "中級（一般）戰利品區",
       "sparseLoot": "低級（稀少）戰利品區",
       "regions": "地區",
-      "landmarks": "地標"
+      "landmarks": "地標",
+      "hurricaneCache": "颶風儲藏箱",
+      "buriedCache": "埋藏儲藏箱"
     },
     "questDetails": "任務詳情",
     "viewQuest": "查看任務",

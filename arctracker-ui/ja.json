@@ -1059,7 +1059,9 @@
       "decentLoot": "それなりの戦利品",
       "sparseLoot": "少ない戦利品",
       "regions": "地域",
-      "landmarks": "ランドマーク"
+      "landmarks": "ランドマーク",
+      "hurricaneCache": "ハリケーンキャッシュ",
+      "buriedCache": "埋設キャッシュ"
     },
     "questDetails": "クエスト詳細",
     "viewQuest": "クエストを表示",
@@ -2068,7 +2070,9 @@
     "supplyCallStation": "物資要請ステーション",
     "trainExtraction": "列車脱出",
     "ventExtraction": "通気口脱出",
-    "weaponCase": "武器ケース"
+    "weaponCase": "武器ケース",
+    "hurricaneCache": "ハリケーンキャッシュ",
+    "buriedCache": "埋設キャッシュ"
   },
   "PrivatePinIcons": {
     "categories": {

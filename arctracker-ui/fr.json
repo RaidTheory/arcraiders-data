@@ -967,7 +967,9 @@
       "decentLoot": "Butin correct",
       "sparseLoot": "Butin rare",
       "regions": "Régions",
-      "landmarks": "Points de repère"
+      "landmarks": "Points de repère",
+      "hurricaneCache": "Cache Ouragan",
+      "buriedCache": "Cache enfouie"
     },
     "questDetails": "Détails de la quête",
     "viewQuest": "Voir la quête",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "Station d'appel de ravitaillement",
     "trainExtraction": "Extraction par train",
     "ventExtraction": "Extraction par conduit",
-    "weaponCase": "Mallette d'armes"
+    "weaponCase": "Mallette d'armes",
+    "hurricaneCache": "Cache Ouragan",
+    "buriedCache": "Cache enfouie"
   },
   "PrivatePinIcons": {
     "categories": {

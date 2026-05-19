@@ -967,7 +967,9 @@
       "decentLoot": "İyi Ganimet",
       "sparseLoot": "Seyrek Ganimet",
       "regions": "Bölgeler",
-      "landmarks": "Önemli Yerler"
+      "landmarks": "Önemli Yerler",
+      "hurricaneCache": "Kasırga Zulası",
+      "buriedCache": "Gömülü Zula"
     },
     "questDetails": "Görev Detayları",
     "viewQuest": "Görevi Görüntüle",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "İkmal Çağrı İstasyonu",
     "trainExtraction": "Trenle Tahliye",
     "ventExtraction": "Havalandırma Tahliyesi",
-    "weaponCase": "Silah Kutusu"
+    "weaponCase": "Silah Kutusu",
+    "hurricaneCache": "Kasırga Zulası",
+    "buriedCache": "Gömülü Zula"
   },
   "PrivatePinIcons": {
     "categories": {

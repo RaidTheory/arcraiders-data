@@ -967,7 +967,9 @@
       "decentLoot": "Przyzwoity Łup",
       "sparseLoot": "Skromny Łup",
       "regions": "Regiony",
-      "landmarks": "Punkty Orientacyjne"
+      "landmarks": "Punkty Orientacyjne",
+      "hurricaneCache": "Huraganowa skrytka",
+      "buriedCache": "Zakopana skrytka"
     },
     "questDetails": "Szczegóły Zadania",
     "viewQuest": "Zobacz Zadanie",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "Stacja wezwania zaopatrzenia",
     "trainExtraction": "Ekstrakcja pociągiem",
     "ventExtraction": "Ekstrakcja szybem wentylacyjnym",
-    "weaponCase": "Skrzynia z bronią"
+    "weaponCase": "Skrzynia z bronią",
+    "hurricaneCache": "Huraganowa skrytka",
+    "buriedCache": "Zakopana skrytka"
   },
   "PrivatePinIcons": {
     "categories": {

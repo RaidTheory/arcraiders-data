@@ -967,7 +967,9 @@
       "decentLoot": "Anständige Beute",
       "sparseLoot": "Spärliche Beute",
       "regions": "Regionen",
-      "landmarks": "Wahrzeichen"
+      "landmarks": "Wahrzeichen",
+      "hurricaneCache": "Hurricane-Cache",
+      "buriedCache": "Vergrabener Cache"
     },
     "questDetails": "Quest-Details",
     "viewQuest": "Quest ansehen",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "Nachschub-Rufstation",
     "trainExtraction": "Zug-Extraktion",
     "ventExtraction": "Lüftungs-Extraktion",
-    "weaponCase": "Waffenkoffer"
+    "weaponCase": "Waffenkoffer",
+    "hurricaneCache": "Hurricane-Cache",
+    "buriedCache": "Vergrabener Cache"
   },
   "PrivatePinIcons": {
     "categories": {

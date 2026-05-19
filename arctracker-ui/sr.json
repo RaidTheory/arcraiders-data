@@ -967,7 +967,9 @@
       "decentLoot": "Solidan plien",
       "sparseLoot": "Oskudan plien",
       "regions": "Regioni",
-      "landmarks": "Znamenitosti"
+      "landmarks": "Znamenitosti",
+      "hurricaneCache": "Uraganska zaliha",
+      "buriedCache": "Zakopana zaliha"
     },
     "questDetails": "Detalji misije",
     "viewQuest": "Pogledaj misiju",
@@ -2082,7 +2084,9 @@
     "supplyCallStation": "Stanica za poziv zaliha",
     "trainExtraction": "Evakuacija vozom",
     "ventExtraction": "Evakuacija ventilacijom",
-    "weaponCase": "Kofer za oružje"
+    "weaponCase": "Kofer za oružje",
+    "hurricaneCache": "Uraganska zaliha",
+    "buriedCache": "Zakopana zaliha"
   },
   "PrivatePinIcons": {
     "categories": {
