@@ -1,0 +1,44 @@
+{
+  "id": "extended_barrel_ii",
+  "name": {
+    "da": "Forlænget løb II",
+    "de": "Verlängerter Lauf II",
+    "en": "Extended Barrel II",
+    "es": "Cañón extendido II",
+    "fr": "Canon Allongé II",
+    "he": "קנה מוארךII",
+    "hr": "Produžena cijev II",
+    "it": "Canna estesa II",
+    "ja": "拡張バレル II",
+    "ko-KR": "확장형 총열 II",
+    "no": "Forlenget løp II",
+    "pl": "Wydłużona lufa II",
+    "pt": "Cano estendido II",
+    "pt-BR": "Cano Estendido II",
+    "ru": "Удлиненный ствол II",
+    "sr": "Produžena cev II",
+    "tr": "Uzatılmış Namlu II",
+    "uk": "Подовжений ствол II",
+    "zh-CN": "加长枪管 II",
+    "zh-TW": "加長槍管 II"
+  },
+  "type": "Modification",
+  "rarity": "Common",
+  "value": 3000,
+  "blueprintLocked": true,
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
+  "recipe": {
+    "mechanical_components": 3,
+    "wires": 6
+  },
+  "recyclesInto": {
+    "mechanical_components": 1,
+    "wires": 1
+  },
+  "salvagesInto": {
+    "mechanical_components": 1
+  },
+  "updatedAt": "05/19/2026",
+  "addedIn": "1.29"
+}
