@@ -1,0 +1,29 @@
+{
+  "id": "rascal_iii",
+  "name": {
+    "en": "Rascal III"
+  },
+  "description": {
+    "en": "Fires explosive projectiles that only detonate when hitting ARC."
+  },
+  "type": "Special",
+  "rarity": "Rare",
+  "value": 13000,
+  "weightKg": 4,
+  "isWeapon": true,
+  "craftBench": "weapon_bench",
+  "recyclesInto": {
+    "advanced_mechanical_components": 2,
+    "heavy_gun_parts": 3
+  },
+  "salvagesInto": {
+    "heavy_gun_parts": 3
+  },
+  "upgradeCost": {
+    "advanced_mechanical_components": 1,
+    "heavy_gun_parts": 2
+  },
+  "imageFilename": "https://cdn.arctracker.io/items/v2/rascal.png",
+  "updatedAt": "05/19/2026",
+  "addedIn": "1.29"
+}
