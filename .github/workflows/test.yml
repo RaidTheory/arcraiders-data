@@ -1,0 +1,26 @@
+# Reference:
+# https://bun.com/docs/test#how-to-install-bun-in-a-github-actions-workflow
+name: test
+
+on:
+  - push
+  - pull_request
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: build-app
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Install bun
+        uses: oven-sh/setup-bun@v2
+      - name: Install dependencies
+        run: bun install
+      - name: Audit Formatting
+        run: bun run check
+      - name: Run tests
+        run: bun test
