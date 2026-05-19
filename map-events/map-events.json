@@ -11,7 +11,8 @@
       "category": "major",
       "localizations": {
         "en": "Hurricane",
-        "JP": "台風"
+        "JP": "台風",
+        "zh-CN": "飓风"
       }
     },
     "night-raid": {
@@ -402,7 +403,7 @@
         "it": "Raccolta sulla Spiaggia",
         "ja": "ビーチコーミング",
         "ko-KR": "해변 수색",
-        "zh-CN": "海滩拾荒",
+        "zh-CN": "海滩拾荒点",
         "zh-TW": "海灘拾荒",
         "ru": "Прочёсывание пляжа",
         "tr": "Sahil Taraması",
