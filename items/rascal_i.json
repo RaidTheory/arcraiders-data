@@ -1,10 +1,12 @@
 {
   "id": "rascal_i",
   "name": {
-    "en": "Rascal I"
+    "en": "Rascal I",
+    "zh-CN": "无赖 I"
   },
   "description": {
-    "en": "Fires explosive projectiles that only detonate when hitting ARC."
+    "en": "Fires explosive projectiles that only detonate when hitting ARC.",
+    "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。"
   },
   "type": "Special",
   "rarity": "Rare",

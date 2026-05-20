@@ -19,7 +19,7 @@
     "sr": "Ključ Sobe za Zaplenjenu Robu Plavih Vrata",
     "tr": "Mavi Kapı Haciz Odası Anahtarı",
     "uk": "Ключ від кімнати конфіскату Синіх воріт",
-    "zh-CN": "蓝门没收室钥匙",
+    "zh-CN": "蓝门没收库房钥匙",
     "zh-TW": "藍門沒收室鑰匙"
   },
   "description": {
@@ -41,8 +41,8 @@
     "sr": "Otključava vrata prostora za zaplenjenu robu unutar tunela Plavih Vrata",
     "tr": "Mavi Kapı tünellerindeki el konulan eşyalar alanına açılan bir kapıyı açar",
     "uk": "Відкриває двері до зони конфіскованих товарів у тунелях Синіх воріт",
-    "zh-CN": "解锁蓝门隧道内没收物品区域的门",
-    "zh-TW": "解鎖藍門隧道內沒收物品區域的門"
+    "zh-CN": "可打开蓝门隧道内没收货物区的门",
+    "zh-TW": "可打開藍門隧道內沒收物品區域的門"
   },
   "type": "Key",
   "rarity": "Epic",

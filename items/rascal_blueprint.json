@@ -1,10 +1,12 @@
 {
   "id": "rascal_blueprint",
   "name": {
-    "en": "Rascal Blueprint"
+    "en": "Rascal Blueprint",
+    "zh-CN": "无赖蓝图"
   },
   "description": {
-    "en": "Fires explosive projectiles that only detonate when hitting ARC."
+    "en": "Fires explosive projectiles that only detonate when hitting ARC.",
+    "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。"
   },
   "type": "Blueprint",
   "rarity": "Common",

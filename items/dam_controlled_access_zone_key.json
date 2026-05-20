@@ -19,7 +19,7 @@
     "sr": "Ključ Zone kontrolisanog pristupa na brani",
     "tr": "Baraj Kontrollü Erişim Bölgesi Anahtarı",
     "uk": "Ключ від Зони контрольованого доступу на Дамбі",
-    "zh-CN": "大坝管制区钥匙",
+    "zh-CN": "大坝受控访问区钥匙",
     "zh-TW": "水壩管制區鑰匙"
   },
   "description": {
@@ -41,7 +41,7 @@
     "sr": "Otključava vrata Zone kontrolisanog pristupa na mapi Dam Battlegrounds.",
     "tr": "Baraj Savaş Alanı'ndaki Kontrollü Erişim Bölgesi'ne giden bir kapının kilidini açar.",
     "uk": "Відмикає двері до Зони контрольованого доступу на локації Дамба.",
-    "zh-CN": "解锁大坝战场通往管制区域的门。",
+    "zh-CN": "可打开大坝战场受控访问区内的一扇门。",
     "zh-TW": "解鎖水壩戰場通往管制區的門。"
   },
   "type": "Key",

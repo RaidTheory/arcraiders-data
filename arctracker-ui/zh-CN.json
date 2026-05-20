@@ -111,7 +111,7 @@
       "launchTowerLoot": "发射塔上的战利品",
       "hiddenBunker": "隐藏地堡",
       "birdCity": "鸟城",
-      "beachcombing": "Beachcombing",
+      "beachcombing": "海滩拾荒点",
       "closeScrutiny": "严密排查",
       "none": "无",
       "hurricane": "飓风"
@@ -462,7 +462,7 @@
     "Battle Rifle": "战斗步枪",
     "Blueprint": "蓝图",
     "Cosmetic": "外观",
-    "Hand Cannon": "手炮",
+    "Hand Cannon": "大口径手枪",
     "Key": "钥匙",
     "Key Material": "钥匙材料",
     "LMG": "轻机枪",
@@ -806,7 +806,7 @@
     "buriedCity": "掩埋废城",
     "theBlueGate": "蓝门",
     "stellaMontis": "星辰山",
-    "rivenTides": "裂潮"
+    "rivenTides": "裂潮镇"
   },
   "MapSubcategories": {
     "extraction": "撤离点",
@@ -838,8 +838,8 @@
     "sparseLoot": "战利品价值 低",
     "regions": "区域",
     "landmarks": "地标",
-    "hurricaneCache": "飓风储藏箱",
-    "buriedCache": "埋藏的储藏箱"
+    "hurricaneCache": "飓风“第一波”箱子",
+    "buriedCache": "埋藏的奇袭者箱"
   },
   "PrivatePinIcons": {
     "categories": {
@@ -1168,8 +1168,8 @@
       "sparseLoot": "低级（稀少）战利品区",
       "regions": "地区",
       "landmarks": "地标",
-      "hurricaneCache": "飓风储藏箱",
-      "buriedCache": "埋藏的储藏箱"
+      "hurricaneCache": "飓风“第一波”箱子",
+      "buriedCache": "埋藏的奇袭者箱"
     },
     "questDetails": "任务详情",
     "viewQuest": "查看任务",
@@ -1791,10 +1791,10 @@
     "statARC": "ARC",
     "statBroughtIn": "带入：",
     "statDmg": "伤害",
-    "statDown": "倒地",
-    "statDowns": "倒地次数",
+    "statDown": "击倒",
+    "statDowns": "击倒",
     "statExtracted": "带出：",
-    "statKills": "击杀",
+    "statKills": "淘汰",
     "statNet": "净值：",
     "statPlayer": "玩家",
     "statValue": "价值",
