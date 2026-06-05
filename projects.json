@@ -1008,16 +1008,32 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "valueRequired": 100000,
-            "tiers": [
-              5000,
-              10000,
-              30000,
-              50000,
-              100000
-            ],
+            "localizations": {
+              "da": "Arc-skade",
+              "de": "Arc-Schaden",
+              "en": "Arc Damage",
+              "es": "Daño de Arc",
+              "fr": "Dégâts d'Arc",
+              "he": "נזק Arc",
+              "hr": "Arc oštećenje",
+              "it": "Danno Arc",
+              "ja": "アークダメージ",
+              "ko-KR": "아크 피해",
+              "no": "Arc-skade",
+              "pl": "Obrażenia Arc",
+              "pt": "Dano de Arc",
+              "pt-BR": "Dano de Arc",
+              "ru": "Урон Arc",
+              "sr": "Arc oštećenje",
+              "tr": "Arc Hasarı",
+              "uk": "Ушкодження Arc",
+              "zh-CN": "ARC伤害",
+              "zh-TW": "ARC傷害"
+            },
             "questGameAssetId": "250322893",
-            "rewardItemId": "expedition_skill_point_token"
+            "rewardItemId": "expedition_skill_point_token",
+            "tiers": [5000, 10000, 30000, 50000, 100000],
+            "valueRequired": 100000
           }
         ],
         "requirementItemIds": []
@@ -1538,16 +1554,32 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "valueRequired": 100000,
-            "tiers": [
-              5000,
-              10000,
-              30000,
-              50000,
-              100000
-            ],
+            "localizations": {
+              "da": "Arc-skade",
+              "de": "Arc-Schaden",
+              "en": "Arc Damage",
+              "es": "Daño de Arc",
+              "fr": "Dégâts d'Arc",
+              "he": "נזק Arc",
+              "hr": "Arc oštećenje",
+              "it": "Danno Arc",
+              "ja": "アークダメージ",
+              "ko-KR": "아크 피해",
+              "no": "Arc-skade",
+              "pl": "Obrażenia Arc",
+              "pt": "Dano de Arc",
+              "pt-BR": "Dano de Arc",
+              "ru": "Урон Arc",
+              "sr": "Arc oštećenje",
+              "tr": "Arc Hasarı",
+              "uk": "Ушкодження Arc",
+              "zh-CN": "ARC伤害",
+              "zh-TW": "ARC傷害"
+            },
             "questGameAssetId": "674698992",
-            "rewardItemId": "expedition_skill_point_token"
+            "rewardItemId": "expedition_skill_point_token",
+            "tiers": [5000, 10000, 30000, 50000, 100000],
+            "valueRequired": 100000
           }
         ],
         "requirementItemIds": []
@@ -2068,16 +2100,32 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "valueRequired": 100000,
-            "tiers": [
-              5000,
-              10000,
-              30000,
-              50000,
-              100000
-            ],
+            "localizations": {
+              "da": "Arc-skade",
+              "de": "Arc-Schaden",
+              "en": "Arc Damage",
+              "es": "Daño de Arc",
+              "fr": "Dégâts d'Arc",
+              "he": "נזק Arc",
+              "hr": "Arc oštećenje",
+              "it": "Danno Arc",
+              "ja": "アークダメージ",
+              "ko-KR": "아크 피해",
+              "no": "Arc-skade",
+              "pl": "Obrażenia Arc",
+              "pt": "Dano de Arc",
+              "pt-BR": "Dano de Arc",
+              "ru": "Урон Arc",
+              "sr": "Arc oštećenje",
+              "tr": "Arc Hasarı",
+              "uk": "Ушкодження Arc",
+              "zh-CN": "ARC伤害",
+              "zh-TW": "ARC傷害"
+            },
             "questGameAssetId": "431784727",
-            "rewardItemId": "expedition_skill_point_token"
+            "rewardItemId": "expedition_skill_point_token",
+            "tiers": [5000, 10000, 30000, 50000, 100000],
+            "valueRequired": 100000
           }
         ],
         "requirementItemIds": []
@@ -2184,12 +2232,32 @@
           {
             "category": "InteractTask",
             "kind": "checkbox",
-            "valueRequired": 1,
-            "tiers": [
-              1
-            ],
+            "localizations": {
+              "da": "Interager",
+              "de": "Interagieren",
+              "en": "Interact",
+              "es": "Interactuar",
+              "fr": "Interagir",
+              "he": "לחזק",
+              "hr": "Interagiraj",
+              "it": "Interagisci",
+              "ja": "対話",
+              "ko-KR": "상호작용",
+              "no": "Interager",
+              "pl": "Oddziałuj",
+              "pt": "Interagir",
+              "pt-BR": "Interagir",
+              "ru": "Взаимодействуй",
+              "sr": "Interaguj",
+              "tr": "Etkileş",
+              "uk": "Взаємодій",
+              "zh-CN": "交互",
+              "zh-TW": "互動"
+            },
             "questGameAssetId": "382664970",
-            "rewardItemId": "expedition_skill_point_token"
+            "rewardItemId": "expedition_skill_point_token",
+            "tiers": [1],
+            "valueRequired": 1
           }
         ],
         "requirementItemIds": []
@@ -2970,6 +3038,28 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
+            "localizations": {
+              "da": "Arc-skade",
+              "de": "Arc-Schaden",
+              "en": "Arc Damage",
+              "es": "Daño de Arc",
+              "fr": "Dégâts d'Arc",
+              "he": "נזק Arc",
+              "hr": "Arc oštećenje",
+              "it": "Danno Arc",
+              "ja": "アークダメージ",
+              "ko-KR": "아크 피해",
+              "no": "Arc-skade",
+              "pl": "Obrażenia Arc",
+              "pt": "Dano de Arc",
+              "pt-BR": "Dano de Arc",
+              "ru": "Урон Arc",
+              "sr": "Arc oštećenje",
+              "tr": "Arc Hasarı",
+              "uk": "Ушкодження Arc",
+              "zh-CN": "ARC伤害",
+              "zh-TW": "ARC傷害"
+            },
             "questGameAssetId": "242691618",
             "rewardItemId": "expedition_skill_point_token",
             "tiers": [5000, 10000, 30000, 50000, 100000],
