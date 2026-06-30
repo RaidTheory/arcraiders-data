@@ -20,29 +20,29 @@
     "tr": "Torrente I",
     "uk": "Torrente I",
     "zh-CN": "奔流 I",
-    "zh-TW": "奔流 I"
+    "zh-TW": "奔流I"
   },
   "description": {
     "da": "Har stor ammunitionskapacitet, men er kun præcis, når du sidder på hug.",
-    "de": "Hat eine große Munitionskapazität, ist aber nur im Hocken präzise.",
-    "en": "Has a large ammo capacity, but is only accurate while crouched",
-    "es": "Tiene una gran capacidad de munición, pero solo es preciso al estar agachado.",
-    "fr": "Dispose d’une grande capacité de munitions, mais n’est précis qu’en position accroupie.",
+    "de": "Vollautomatisches leichtes Maschinengewehr. Hat eine große Munitionskapazität, zielt aber nur in geduckter Haltung präzise.",
+    "en": "Fully automatic light machine gun. Has a large ammo capacity, but is only accurate while crouched.",
+    "es": "Ametralladora ligera automática. Tiene una gran capacidad de munición, pero solo es precisa al disparar estando a gachas.",
+    "fr": "Fusil-mitrailleur automatique. Dispose d'une grande capacité de munitions, mais n'est précis qu'en position accroupie.",
     "he": "בעל קיבולת תחמושת גדולה, אך מדויק רק במצב כריעה",
     "hr": "Ima veliki kapacitet streljiva, ali je precizno samo dok ste u čučnju.",
-    "it": "Ha un'ampia capacità di munizioni, ma è precisa solo quando si è accucciati.",
-    "ja": "弾薬容量は大きいが、しゃがんでいる時しか正確に当たらない。",
-    "ko-KR": "탄약 용량이 크지만, 웅크렸을 때만 정확합니다.",
+    "it": "Mitragliatrice leggera completamente automatica. Ha un'ottima capienza in termini di munizioni, ma è precisa solo da abbassati.",
+    "ja": "フルオートの軽マシンガン。弾薬容量の面では優秀だが、しゃがまないと正確な射撃ができない。",
+    "ko-KR": "대용량 탄창을 지녔지만, 웅크린 상태에서만 정확하게 발사할 수 있는 전자동 경기관총입니다.",
     "no": "Har stor ammunisjonskapasitet, men er kun nøyaktig når du sitter på huk.",
-    "pl": "Ma duży zapas amunicji, ale jest celna tylko podczas kucania.",
+    "pl": "W pełni automatyczny lekki karabin maszynowy. Ma dużą pojemność amunicji, ale żeby oddać celny strzał, trzeba kucnąć.",
     "pt": "Possui grande capacidade de munição, mas só é preciso quando agachado.",
-    "pt-BR": "Tem grande capacidade de munição, mas só é precisa quando agachado",
-    "ru": "Имеет большой боезапас, но точна только в приседе.",
+    "pt-BR": "Submetralhadora leve automática. Tem grande capacidade de munição, mas é preciso se agachar para aumentar a precisão.",
+    "ru": "Полностью автоматический ручной пулемет. Имеет большой боезапас, но точен лишь при стрельбе в приседе.",
     "sr": "Ima veliki kapacitet municije, ali je precizno samo dok ste čučnuti.",
-    "tr": "Yüksek cephane kapasitesine sahiptir ancak sadece çömelmişken isabetlidir.",
+    "tr": "Tam otomatik hafif makineli tüfek. Büyük mermi kapasitesine sahiptir ancak sadece çömelmişken isabetlidir.",
     "uk": "Має велику місткість боєзапасу, але є точною лише під час присідання.",
-    "zh-CN": "拥有大量弹药容量，但只有在蹲下时才准确。",
-    "zh-TW": "擁有大量彈藥容量，但只有在蹲下時才準確。"
+    "zh-CN": "全自动轻机枪。弹药携带量较大，但只有在蹲伏姿态时精准度才有保证。",
+    "zh-TW": "全自動輕機槍。彈藥容量大，但只有蹲下時才能精準射擊。"
   },
   "type": "LMG",
   "rarity": "Rare",
@@ -183,7 +183,7 @@
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/torrente_i.png",
-  "updatedAt": "03/17/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base",
   "modSlots": {
     "magazine": [

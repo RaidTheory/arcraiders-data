@@ -9,10 +9,10 @@
     "he": "ידית אחיזה אנכית I",
     "hr": "Vertikalni Držač I",
     "it": "Impugnatura verticale I",
-    "ja": "縦グリップ I",
+    "ja": "縦グリップI",
     "ko-KR": "수직 그립 I",
     "no": "Vertikalt grep I",
-    "pl": "Chwyt pionowy I",
+    "pl": "Uchwyt pionowy I",
     "pt": "Punho vertical I",
     "pt-BR": "Empunhadura Vertical I",
     "ru": "Вертикальная рукоятка I",
@@ -20,7 +20,7 @@
     "tr": "Dikey Tutamaç I",
     "uk": "Вертикальна рукоятка I",
     "zh-CN": "垂直握把 I",
-    "zh-TW": "垂直握把 I"
+    "zh-TW": "垂直握把I"
   },
   "description": {
     "da": "Reducerer vertikal rekyl lidt.",
@@ -31,18 +31,18 @@
     "he": "מפחיתה במעט את הרתע האנכי. תואמת ל: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
     "hr": "Blago smanjuje vertikalni trzaj.",
     "it": "Riduce leggermente il rinculo verticale.",
-    "ja": "垂直反動をわずかに軽減する。.",
-    "ko-KR": "수직 반동을 약간 감소시킨다.",
+    "ja": "垂直反動を少し抑える。",
+    "ko-KR": "수직 반동을 약간 줄여줍니다.",
     "no": "Reduserer vertikal rekyl litt.",
-    "pl": "Nieznacznie zmniejsza odrzut pionowy.",
+    "pl": "Nieznacznie zmniejsza odrzut w pionie.",
     "pt": "Reduz ligeiramente o recuo vertical.",
-    "pt-BR": "Reduz levemente o recuo vertical.",
+    "pt-BR": "Reduz de maneira sutil o recuo vertical.",
     "ru": "Немного снижает вертикальную отдачу.",
     "sr": "Blago smanjuje vertikalni trzaj.",
-    "tr": "Dikey geri tepmesini hafifçe azaltır.",
+    "tr": "Dikey geri tepmeyi biraz azaltır.",
     "uk": "Трохи зменшує вертикальну віддачу.",
-    "zh-CN": "略微降低垂直后坐力。",
-    "zh-TW": "略微降低垂直後座力。"
+    "zh-CN": "小幅度降低垂直后坐力。",
+    "zh-TW": "稍微降低垂直後座力。"
   },
   "type": "Modification",
   "rarity": "Common",
@@ -104,7 +104,7 @@
     "plastic_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/vertical_grip_i.png",
-  "updatedAt": "03/22/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base",
   "vendors": [
     {

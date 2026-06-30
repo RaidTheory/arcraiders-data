@@ -8,8 +8,8 @@
     "fr": "Frein de Bouche I",
     "he": "בלם לוע I",
     "hr": "Kočnica Cijevi I",
-    "it": "Freno di volata I",
-    "ja": "マズルブレーキ I",
+    "it": "Freno di bocca I",
+    "ja": "マズルブレーキI",
     "ko-KR": "총구 제동기 I",
     "no": "Munnbrems I",
     "pl": "Hamulec wylotowy I",
@@ -20,29 +20,29 @@
     "tr": "Namlu Ağzı Freni I",
     "uk": "Дульний гальмо I",
     "zh-CN": "枪口制退器 I",
-    "zh-TW": "槍口制退器 I"
+    "zh-TW": "槍口制退器I"
   },
   "description": {
     "da": "Reducerer både lodret og vandret rekyl lidt.",
     "de": "Verringert den vertikalen und horizontalen Rückstoß geringfügig.",
     "en": "Slightly reduces both vertical recoil & horizontal recoil.",
-    "es": "Reduce ligeramente tanto el retroceso vertical como el horizontal.",
+    "es": "Reduce ligeramente el retroceso vertical y horizontal.",
     "fr": "Réduit légèrement le recul vertical et horizontal.",
     "he": "מפחית מעט את הרתע האנכי והאופקי.",
     "hr": "Blago smanjuje vertikalni i horizontalni trzaj.",
     "it": "Riduce leggermente sia il rinculo verticale che quello orizzontale.",
-    "ja": "垂直反動と水平反動の両方をわずかに軽減。.",
-    "ko-KR": "수직 반동과 수평 반동을 약간 감소시킵니다.",
+    "ja": "垂直反動と水平反動を少し抑える。",
+    "ko-KR": "수직 및 수평 반동을 약간 줄여줍니다.",
     "no": "Reduserer både vertikal og horisontal rekyl litt.",
-    "pl": "Nieznacznie redukuje zarówno odrzut pionowy, jak i poziomy.",
+    "pl": "Nieznacznie zmniejsza odrzut w pionie i poziomie.",
     "pt": "Reduz ligeiramente tanto o recuo vertical quanto o horizontal.",
     "pt-BR": "Reduz de maneira sutil o recuo vertical e horizontal.",
-    "ru": "Немного снижает вертикальную и горизонтальную отдачу.",
+    "ru": "Немного снижает вертикальную и горизонтальную отдачу оружия.",
     "sr": "Blago smanjuje vertikalni i horizontalni trzaj.",
-    "tr": "Hem dikey hem de yatay geri tepmesini hafifçe azaltır.",
+    "tr": "Dikey ve yatay geri tepmeyi biraz azaltır.",
     "uk": "Трохи зменшує вертикальну та горизонтальну віддачу.",
-    "zh-CN": "略微降低垂直后坐力和水平后坐力。",
-    "zh-TW": "略微降低垂直後座力和水平後座力。"
+    "zh-CN": "小幅度减少垂直后坐力和水平后坐力。",
+    "zh-TW": "稍微降低垂直後座力和水平後座力。"
   },
   "type": "Modification",
   "rarity": "Common",
@@ -126,7 +126,7 @@
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/muzzle_brake_i.png",
-  "updatedAt": "03/22/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base",
   "vendors": [
     {

@@ -2,30 +2,30 @@
   "id": "extended_barrel_i",
   "name": {
     "da": "Forlænget løb I",
-    "de": "Verlängerter Lauf I",
-    "en": "Extended Barrel I",
-    "es": "Cañón extendido I",
-    "fr": "Canon Allongé I",
+    "de": "Verlängerter Lauf",
+    "en": "Extended Barrel",
+    "es": "Cañón ampliado",
+    "fr": "Canon allongé",
     "he": "קנה מוארךI",
     "hr": "Produžena cijev I",
-    "it": "Canna estesa I",
-    "ja": "拡張バレル I",
-    "ko-KR": "확장형 총열 I",
+    "it": "Canna estesa",
+    "ja": "拡張バレル",
+    "ko-KR": "연장 총열",
     "no": "Forlenget løp I",
-    "pl": "Wydłużona lufa I",
+    "pl": "Wydłużona lufa",
     "pt": "Cano estendido I",
-    "pt-BR": "Cano Estendido I",
-    "ru": "Удлиненный ствол I",
+    "pt-BR": "Cano Estendido",
+    "ru": "Удлиненный ствол",
     "sr": "Produžena cev I",
-    "tr": "Uzatılmış Namlu I",
+    "tr": "Uzatılmış Namlu",
     "uk": "Подовжений ствол I",
-    "zh-CN": "加长枪管 I",
-    "zh-TW": "加長槍管 I"
+    "zh-CN": "加长枪管",
+    "zh-TW": "加長槍管"
   },
   "description": {
-    "en": "Slightly increases bullet velocity and damage falloff range.",
     "da": "Øger kuglehastigheden og afstanden før skadefald en smule.",
     "de": "Erhöht die Geschossgeschwindigkeit und die Reichweite bis zum Schadensabfall leicht.",
+    "en": "Slightly increases bullet velocity and damage falloff range.",
     "es": "Aumenta ligeramente la velocidad de las balas y el alcance antes de la caída de daño.",
     "fr": "Augmente légèrement la vélocité des balles et la portée avant la perte de dégâts.",
     "he": "מגביר מעט את מהירות הקליע ואת הטווח לפני דעיכת הנזק.",
@@ -66,9 +66,9 @@
   "effects": {
     "Increased Bullet Velocity": {
       "value": "10%",
-      "en": "Increased Bullet Velocity",
       "da": "Øget kuglehastighed",
       "de": "Erhöhte Geschossgeschwindigkeit",
+      "en": "Increased Bullet Velocity",
       "es": "Velocidad de bala aumentada",
       "fr": "Vélocité des balles augmentée",
       "he": "מהירות קליע מוגברת",
@@ -89,9 +89,9 @@
     },
     "Increased Distance Until Damage Falloff": {
       "value": "5%",
-      "en": "Increased Distance Until Damage Falloff",
       "da": "Øget afstand før skadefald",
       "de": "Erhöhte Reichweite bis zum Schadensabfall",
+      "en": "Increased Distance Until Damage Falloff",
       "es": "Mayor distancia antes de la caída de daño",
       "fr": "Distance augmentée avant la perte de dégâts",
       "he": "מרחק מוגבר לפני דעיכת הנזק",
@@ -123,6 +123,6 @@
   "salvagesInto": {
     "metal_parts": 3
   },
-  "updatedAt": "05/19/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "1.29"
 }

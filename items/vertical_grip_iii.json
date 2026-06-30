@@ -12,14 +12,14 @@
     "ja": "縦グリップIII",
     "ko-KR": "수직 그립 III",
     "no": "Vertikalt Grep III",
-    "pl": "Chwyt Pionowy III",
+    "pl": "Uchwyt pionowy III",
     "pt": "Empunhadura Vertical III",
     "pt-BR": "Empunhadura Vertical III",
     "ru": "Вертикальная рукоятка III",
     "sr": "Vertikalni rukohvat III",
     "tr": "Dikey Tutamaç III",
     "uk": "Вертикальна рукоятка III",
-    "zh-CN": "垂直握把III",
+    "zh-CN": "垂直握把 III",
     "zh-TW": "垂直握把III"
   },
   "description": {
@@ -31,18 +31,18 @@
     "he": "מפחיתה באופן משמעותי את הרתע האנכי. תואמת ל: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "hr": "Značajno smanjuje okomiti trzaj.",
     "it": "Riduce significativamente il rinculo verticale.",
-    "ja": "垂直反動を大幅に軽減します。.",
-    "ko-KR": "수직 반동을 크게 감소시킵니다.",
+    "ja": "垂直反動を大幅に抑える。",
+    "ko-KR": "수직 반동을 상당히 줄여줍니다.",
     "no": "Reduserer vertikal rekyl betydelig.",
-    "pl": "Znacznie zmniejsza pionowy odrzut.",
+    "pl": "Znacznie zmniejsza odrzut w pionie.",
     "pt": "Reduz significativamente o recuo vertical.",
-    "pt-BR": "Reduz significativamente o recuo vertical.",
+    "pt-BR": "Reduz de forma significativa o recuo vertical.",
     "ru": "Значительно снижает вертикальную отдачу.",
     "sr": "Značajno smanjuje vertikalni trzaj.",
-    "tr": "Dikey geri tepmesini önemli ölçüde azaltır.",
+    "tr": "Dikey geri tepmeyi önemli ölçüde azaltır.",
     "uk": "Значно зменшує вертикальну віддачу.",
-    "zh-CN": "显著降低垂直后坐力。",
-    "zh-TW": "顯著降低垂直後座力。"
+    "zh-CN": "大幅度降低垂直后坐力。",
+    "zh-TW": "大幅降低垂直後座力。"
   },
   "type": "Modification",
   "rarity": "Rare",
@@ -129,6 +129,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/vertical_grip_iii.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

@@ -9,10 +9,10 @@
     "he": "מאחז זוויתי I",
     "hr": "Kutna Ručka I",
     "it": "Impugnatura angolata I",
-    "ja": "アングル・グリップ I",
+    "ja": "アングル・グリップI",
     "ko-KR": "앵글 그립 I",
     "no": "Vinklet grep I",
-    "pl": "Chwyt kątowy I",
+    "pl": "Uchwyt skośny I",
     "pt": "Punho angular I",
     "pt-BR": "Empunhadura Angulada I",
     "ru": "Угловая рукоятка I",
@@ -20,7 +20,7 @@
     "tr": "Açılı Tutamaç I",
     "uk": "Кутова рукоятка I",
     "zh-CN": "直角握把 I",
-    "zh-TW": "斜角握把 I"
+    "zh-TW": "斜角握把I"
   },
   "description": {
     "da": "Reducerer horisontal rekyl lidt.",
@@ -31,18 +31,18 @@
     "he": "מפחית מעט את הרתע האופקי.",
     "hr": "Blago smanjuje horizontalni trzaj.",
     "it": "Riduce leggermente il rinculo orizzontale.",
-    "ja": "水平反動をわずかに軽減する。.",
-    "ko-KR": "수평 반동을 약간 감소시킨다.",
+    "ja": "水平反動を少し抑える。",
+    "ko-KR": "수평 반동을 약간 줄여줍니다.",
     "no": "Reduserer horisontal rekyl litt.",
-    "pl": "Nieznacznie zmniejsza odrzut poziomy.",
+    "pl": "Nieznacznie zmniejsza odrzut w poziomie.",
     "pt": "Reduz ligeiramente o recuo horizontal.",
-    "pt-BR": "Reduz levemente o recuo horizontal.",
+    "pt-BR": "Reduz de maneira sutil o recuo horizontal.",
     "ru": "Немного снижает горизонтальную отдачу.",
     "sr": "Blago smanjuje horizontalni trzaj.",
-    "tr": "Yatay geri tepmesini hafifçe azaltır.",
+    "tr": "Yatay geri tepmeyi biraz azaltır.",
     "uk": "Трохи зменшує горизонтальну віддачу.",
-    "zh-CN": "小幅度降低水平后坐力。适配:风暴，水壶，生铁，复仇者，公牛",
-    "zh-TW": "稍微降低水平後座力。與以下物品相容:水壺,碎甲者,獵人,公牛,暴風雨"
+    "zh-CN": "小幅度降低水平后坐力。",
+    "zh-TW": "稍微降低水平後座力。"
   },
   "type": "Modification",
   "rarity": "Common",
@@ -104,7 +104,7 @@
     "plastic_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/angled_grip_i.png",
-  "updatedAt": "03/22/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base",
   "vendors": [
     {

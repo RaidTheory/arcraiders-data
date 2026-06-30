@@ -2,25 +2,25 @@
   "id": "flushing_terminal_key",
   "name": {
     "da": "Nøgle til Flushing-terminalen",
-    "de": "Schlüssel für das Flushing-Terminal",
+    "de": "Spülterminalschlüssel",
     "en": "Flushing Terminal Key",
-    "es": "Llave del Terminal de Flushing",
-    "fr": "Clé du terminal de purge",
+    "es": "Llave de terminal de descarga",
+    "fr": "Clé de terminal de purge",
     "he": "מפתח מסוף השטיפה",
     "hr": "Ključ Flushing Terminala",
-    "it": "Chiave del Terminale Flushing",
-    "ja": "フラッシング端末の鍵",
-    "ko-KR": "수세 터미널 열쇠",
+    "it": "Chiave del terminale di scarico",
+    "ja": "送水用端末の鍵",
+    "ko-KR": "플러싱 터미널 열쇠",
     "no": "Nøkkel til Flushing-terminalen",
-    "pl": "Klucz do Terminala Flushing",
+    "pl": "Klucz do terminala płuczącego",
     "pt": "Chave do Terminal de Flushing",
-    "pt-BR": "Chave do Terminal de Fluxo",
-    "ru": "Ключ от терминала Flushing",
+    "pt-BR": "Chave do Terminal de Drenagem",
+    "ru": "Ключ от промывочного терминала",
     "sr": "Ključ Flushing Terminala",
     "tr": "Boşaltma Terminali Anahtarı",
     "uk": "Ключ від термінала Flushing",
     "zh-CN": "冲洗终端钥匙",
-    "zh-TW": "沖洗終端機鑰匙"
+    "zh-TW": "沖洗終端鑰匙"
   },
   "description": {
     "da": "Denne nøgle bruges til opgaven \"The Stench of Corruption\" for at aktivere Flushing-terminalen",
@@ -51,6 +51,6 @@
   "stackSize": 1,
   "questItem": true,
   "imageFilename": "https://cdn.arctracker.io/items/v2/flushing_terminal_key.png",
-  "updatedAt": "06/03/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "1.1"
 }

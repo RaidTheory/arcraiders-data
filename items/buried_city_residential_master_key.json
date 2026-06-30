@@ -2,25 +2,25 @@
   "id": "buried_city_residential_master_key",
   "name": {
     "da": "Begravet by boligområde hovednøgle",
-    "de": "Vergrabene Stadt Wohngebiet-Hauptschlüssel",
+    "de": "Wohnungsgeneralschlüssel (Begrabene Stadt)",
     "en": "Buried City Residential Master Key",
-    "es": "Llave maestra residencial de la ciudad enterrada",
-    "fr": "Clé principale résidentielle de la cité enfouie",
+    "es": "Llave maestra residencial de Ciudad enterrada",
+    "fr": "Passe-partout résidentiel de la Ville enfouie",
     "he": "מפתח מאסטר למגורים ב-Buried City",
     "hr": "Glavni Ključ Stambenih Područja Zakopanog Grada",
-    "it": "Chiave principale residenziale della città sepolta",
-    "ja": "埋もれた街の住宅区マスターキー",
-    "ko-KR": "파묻힌 도시 주거 구역 마스터 키",
+    "it": "Chiave principale residenze Città sepolta",
+    "ja": "埋もれた街の居住区マスターキー",
+    "ko-KR": "파묻힌 도시 주거 지역 마스터키",
     "no": "Begravd by boligområde hovednøkkel",
-    "pl": "Klucz główny do dzielnicy mieszkalnej zagrzebanego miasta",
+    "pl": "Klucz uniwersalny do mieszkań w Pogrzebanym Mieście",
     "pt": "Chave mestra residencial da cidade enterrada",
-    "pt-BR": "Chave Mestra Residencial da Cidade Soterrada",
-    "ru": "Главный ключ от жилых районов Погребённого города",
+    "pt-BR": "Chave-mestra Residencial da Cidade Soterrada",
+    "ru": "Мастер-ключ от жилых помещений в Погребенном городе",
     "sr": "Glavni Ključ Stambenih Područja Zakopanog Grada",
     "tr": "Gömülü Şehir Konutu Ana Anahtarı",
     "uk": "Головний ключ від житлових районів Похованого міста",
     "zh-CN": "掩埋废城公寓楼万能钥匙",
-    "zh-TW": "埋沒之城住宅區萬能鑰匙"
+    "zh-TW": "埋藏都市住宅區萬能鑰匙"
   },
   "description": {
     "da": "En hovednøgle til boligområder i den begravede by.",
@@ -50,6 +50,6 @@
   "weightKg": 0.25,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/v2/buried_city_residential_master_key.png",
-  "updatedAt": "01/13/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

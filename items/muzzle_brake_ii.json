@@ -19,30 +19,30 @@
     "sr": "Usporivač cevi II",
     "tr": "Namlu Ağzı Freni II",
     "uk": "Дульний гальмо II",
-    "zh-CN": "枪口制退器II",
+    "zh-CN": "枪口制退器 II",
     "zh-TW": "槍口制退器II"
   },
   "description": {
     "da": "Reducerer moderat både vertikal og horisontal rekyl.",
     "de": "Verringert den vertikalen und horizontalen Rückstoß moderat.",
     "en": "Moderately reduces both vertical recoil & horizontal recoil.",
-    "es": "Reduce moderadamente tanto el retroceso vertical como el horizontal.",
+    "es": "Reduce moderadamente el retroceso vertical y horizontal.",
     "fr": "Réduit modérément le recul vertical et horizontal.",
     "he": "מפחית במידה בינונית את הרתע האנכי והאופקי.",
     "hr": "Umjereno smanjuje i vertikalni i horizontalni trzaj.",
     "it": "Riduce moderatamente sia il rinculo verticale che quello orizzontale.",
-    "ja": "垂直反動と水平反動の両方を適度に軽減。.",
-    "ko-KR": "수직 반동과 수평 반동을 적당히 감소시킵니다.",
+    "ja": "垂直反動と水平反動を中程度抑える。",
+    "ko-KR": "수직 및 수평 반동을 적당히 줄여줍니다.",
     "no": "Reduserer moderat både vertikal og horisontal rekyl.",
-    "pl": "Umiarkowanie redukuje zarówno odrzut pionowy, jak i poziomy.",
+    "pl": "Umiarkowanie zmniejsza odrzut w pionie i poziomie.",
     "pt": "Reduz moderadamente tanto o recuo vertical quanto o horizontal.",
-    "pt-BR": "Reduz moderadamente tanto o recuo vertical quanto o horizontal.",
-    "ru": "Умеренно снижает как вертикальную, так и горизонтальную отдачу.",
+    "pt-BR": "Reduz de forma moderada o recuo vertical e horizontal.",
+    "ru": "Умеренно снижает вертикальную и горизонтальную отдачу оружия.",
     "sr": "Umereno smanjuje i vertikalni i horizontalni trzaj.",
-    "tr": "Hem dikey hem de yatay tepmeyi orta düzeyde azaltır.",
+    "tr": "Dikey ve yatay geri tepmeyi orta düzeyde azaltır.",
     "uk": "Помірно зменшує як вертикальну, так і горизонтальну віддачу.",
-    "zh-CN": "适度降低垂直后坐力和水平后坐力。",
-    "zh-TW": "適度降低垂直後座力和水平後座力。"
+    "zh-CN": "中幅度减少垂直后坐力和水平后坐力。",
+    "zh-TW": "中度降低垂直後座力和水平後座力。"
   },
   "type": "Modification",
   "rarity": "Uncommon",
@@ -128,6 +128,6 @@
     "mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/muzzle_brake_ii.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

@@ -5,14 +5,14 @@
     "de": "Schrotflintenchoke I",
     "en": "Shotgun Choke I",
     "es": "Estrangulador de escopeta I",
-    "fr": "Choke de Fusil à Pompe I",
+    "fr": "Étrangleur de fusil à pompe I",
     "he": "צ'וק לרובה ציד I",
     "hr": "Sačmarski Čok I",
-    "it": "Strozzatore fucile I",
-    "ja": "ショットガン・チョーク I",
+    "it": "Strozzatura fucile I",
+    "ja": "ショットガン・チョークI",
     "ko-KR": "산탄총 초크 I",
     "no": "Haglesperre I",
-    "pl": "Dławik strzelby I",
+    "pl": "Czok do strzelby I",
     "pt": "Afogador de espingarda I",
     "pt-BR": "Choque de Escopeta I",
     "ru": "Чок для дробовика I",
@@ -20,7 +20,7 @@
     "tr": "Av Tüfeği Boğumlu Namlusu I",
     "uk": "Чок для дробовика I",
     "zh-CN": "霰弹枪收束器 I",
-    "zh-TW": "霰彈槍收束器 I"
+    "zh-TW": "霰彈槍收束器I"
   },
   "description": {
     "da": "Reducerer grundspredning lidt.",
@@ -30,19 +30,19 @@
     "fr": "Réduit légèrement la dispersion de base.",
     "he": "מפחית מעט את הפיזור הבסיסי.",
     "hr": "Blago smanjuje osnovnu raspršenost.",
-    "it": "Riduce leggermente la dispersione base.",
-    "ja": "基本拡散をわずかに軽減する。.",
-    "ko-KR": "기본 분산을 약간 감소시킨다.",
+    "it": "Riduce leggermente la dispersione di base.",
+    "ja": "基礎分散を少し抑える。",
+    "ko-KR": "기본 탄 퍼짐 정도를 약간 줄여줍니다.",
     "no": "Reduserer grunnspredning litt.",
-    "pl": "Nieznacznie zmniejsza bazowy rozrzut.",
+    "pl": "Nieznacznie zmniejsza standardowy rozrzut.",
     "pt": "Reduz ligeiramente a dispersão base.",
     "pt-BR": "Reduz de maneira sutil a dispersão básica.",
     "ru": "Немного снижает базовый разброс.",
     "sr": "Blago smanjuje osnovnu raspršenost.",
-    "tr": "Temel dağılımı hafifçe azaltır.",
+    "tr": "Temel sapmayı biraz azaltır.",
     "uk": "Трохи зменшує базове розсіювання.",
-    "zh-CN": "略微降低基础散布。",
-    "zh-TW": "略微降低基礎散布。"
+    "zh-CN": "小幅度降低基础弹道散布。",
+    "zh-TW": "稍微降低基本分散程度。"
   },
   "type": "Modification",
   "rarity": "Common",
@@ -88,7 +88,7 @@
     "metal_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/shotgun_choke_i.png",
-  "updatedAt": "03/22/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base",
   "vendors": [
     {

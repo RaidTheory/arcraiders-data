@@ -2,25 +2,25 @@
   "id": "tactical_mk3_defensive_blueprint",
   "name": {
     "da": "Taktisk Mk. 3 (Defensiv) Tegning",
-    "de": "Bauplan: Taktisch-Marke 3 (Verteidigung)",
+    "de": "Bauplan: Taktisch-Marke 3 (Defensiv)",
     "en": "Tactical Mk. 3 (Defensive) Blueprint",
-    "es": "Plano Tactico Ver. 3 (Defensivo)",
-    "fr": "Schema Tactique 3 (defense)",
+    "es": "Proyecto de Táctico ver. 3 (defensa)",
+    "fr": "Schéma : Tactique 3 (défense)",
     "he": "שרטוט טקטי Mk. 3 (הגנתי)",
     "hr": "Takticki Mk. 3 (Obrambeni) Nacrt",
     "it": "Progetto Tattico Mk. 3 (Difensivo)",
     "ja": "戦術MK3（防御）設計図",
-    "ko-KR": "전술 마크 3 (방어) 설계도",
+    "ko-KR": "전술 마크 3(방어형) 설계도",
     "no": "Taktisk Mk. 3 (Defensiv) Tegning",
-    "pl": "Projekt Taktyczny Mk. 3 (Obronny)",
+    "pl": "Plan: taktyka wer. 3 (defensywna)",
     "pt": "Projeto Tatico Mk. 3 (Defensivo)",
-    "pt-BR": "Projeto Tático Mk. 3 (Defensivo)",
-    "ru": "Чертеж — Тактический Mk. 3 (Оборонительный)",
+    "pt-BR": "Esquema de Tático Mk. 3 (Defensivo)",
+    "ru": "Чертеж для стратегии 3 (оборона)",
     "sr": "Takticki Mk. 3 (Odbrambeni) Nacrt",
     "tr": "Taktiksel Mod. 3 (Savunma) Taslağı",
     "uk": "Креслення Тактичний Mk. 3 (Оборонний)",
-    "zh-CN": "战术型 Mk. 3（防御型）蓝图",
-    "zh-TW": "戰術型 Mk. 3（防禦）藍圖"
+    "zh-CN": "战术Mk. 3（防御型）蓝图",
+    "zh-TW": "戰術第3型（防禦）藍圖"
   },
   "description": {
     "da": "En defensivt fokuseret forstaerkning, der hjaelper med at holde skjoldene fyldte.",
@@ -50,6 +50,6 @@
   "weightKg": 0,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/v2/tactical_mk3_defensive_blueprint.png",
-  "updatedAt": "12/07/2025",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

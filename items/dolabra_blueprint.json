@@ -2,25 +2,25 @@
   "id": "dolabra_blueprint",
   "name": {
     "da": "Dolabra Tegning",
-    "de": "Dolabra Bauplan",
+    "de": "Bauplan: Dolabra",
     "en": "Dolabra Blueprint",
-    "es": "Dolabra Plano",
-    "fr": "Dolabra Plan",
+    "es": "Proyecto de la Dolabra",
+    "fr": "Schéma de Dolabra",
     "he": "Dolabra תרשים",
     "hr": "Dolabra Nacrt",
-    "it": "Dolabra Progetto",
-    "ja": "Dolabra 設計図",
+    "it": "Progetto Dolabra",
+    "ja": "ドラブラの設計図",
     "ko-KR": "돌라브라 설계도",
     "no": "Dolabra Tegning",
-    "pl": "Dolabra Schemat",
+    "pl": "Plan: Dolabra",
     "pt": "Esquema de Dolabra",
     "pt-BR": "Esquema de Dolabra",
-    "ru": "Dolabra Чертеж",
+    "ru": "Чертеж — Долабра",
     "sr": "Dolabra Nacrt",
-    "tr": "Dolabra Taslak",
+    "tr": "Dolabra Taslağı",
     "uk": "Dolabra Креслення",
     "zh-CN": "錾斧蓝图",
-    "zh-TW": "Dolabra 藍圖"
+    "zh-TW": "十字斧鎬藍圖"
   },
   "description": {
     "da": "Et eksperimentelt våben, der enten kan affyre en bred eksplosion på kort afstand eller fokuseres til at affyre en præcis varmestråle på mellemlang afstand.",
@@ -50,6 +50,6 @@
   "weightKg": 0,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/v2/dolabra_blueprint.png",
-  "updatedAt": "03/31/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "1.22"
 }

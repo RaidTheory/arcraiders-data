@@ -12,7 +12,7 @@
     "ja": "種の詰め合わせ",
     "ko-KR": "잡다한 씨앗",
     "no": "Blandede frø",
-    "pl": "Różne nasiona",
+    "pl": "Mieszanka nasion",
     "pt": "Sementes sortidas",
     "pt-BR": "Sementes Sortidas",
     "ru": "Различные семена",
@@ -20,29 +20,29 @@
     "tr": "Çeşitli Tohumlar",
     "uk": "Різні насіння",
     "zh-CN": "混合种子",
-    "zh-TW": "各式種子"
+    "zh-TW": "綜合種子"
   },
   "description": {
     "da": "En håndfuld frø. Celeste leder måske efter disse.",
     "de": "Eine Handvoll Saatgut. Celeste könnte Interesse daran haben.",
     "en": "A handful of seeds. Celeste might be looking for these.",
-    "es": "Un puñado de semillas. Celeste podría estar buscándolas.",
+    "es": "Un puñado de semillas. Puede que le interesen a Celeste.",
     "fr": "Une poignée de graines. Celeste pourrait en avoir besoin.",
     "he": "חופן זרעים. ייתכן ש-Celeste מחפשת אותם.",
     "hr": "Pregršt sjemenja. Celeste bi mogla tražiti ovo.",
     "it": "Una manciata di semi. Celeste potrebbe volerli.",
-    "ja": "一握りの種。セレステが探しているかもしれない。",
-    "ko-KR": "한 줌의 씨앗. 셀레스테가 찾고 있을지도 모른다.",
+    "ja": "種を集めたもの。セレステが探しているかもしれない。",
+    "ko-KR": "한 줌의 씨앗입니다. 셀레스테가 찾고 있을지도요.",
     "no": "En håndfull frø. Celeste kan være på utkikk etter disse.",
     "pl": "Garść nasion. Celeste może ich szukać.",
     "pt": "Um punhado de sementes. Celeste pode estar procurando por elas.",
     "pt-BR": "Punhado de sementes. Talvez sejam de interesse da Celeste.",
-    "ru": "Горсть семян. Возможно, Селеста их ищет.",
+    "ru": "Горсть семян. Селесте они пригодятся.",
     "sr": "Pregršt semenja. Celeste bi mogla tražiti ovo.",
-    "tr": "Bir avuç tohum. Celeste bunları arıyor olabilir.",
+    "tr": "Bir avuç tohum. Celeste bunları istiyor olabilir.",
     "uk": "Жменя насіння. Можливо, Селеста їх шукає.",
     "zh-CN": "一把种子。也许正是塞莱斯特要找的。",
-    "zh-TW": "一把種子。Celeste可能在找這些。"
+    "zh-TW": "一把種子。莎莉絲特可能在找這個。"
   },
   "type": "Nature",
   "rarity": "Common",
@@ -51,6 +51,6 @@
   "weightKg": 0.05,
   "stackSize": 100,
   "imageFilename": "https://cdn.arctracker.io/items/v2/assorted_seeds.png",
-  "updatedAt": "03/17/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

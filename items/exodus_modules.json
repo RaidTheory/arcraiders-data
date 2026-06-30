@@ -12,7 +12,7 @@
     "ja": "エクソダスモジュール",
     "ko-KR": "엑소더스 모듈",
     "no": "Exodus-moduler",
-    "pl": "Moduły Exodus",
+    "pl": "Moduły z Exodusu",
     "pt": "Módulos de Êxodo",
     "pt-BR": "Módulos de Êxodo",
     "ru": "Модули Исхода",
@@ -20,29 +20,29 @@
     "tr": "Exodus Modülleri",
     "uk": "Модулі Виходу",
     "zh-CN": "离巢模块",
-    "zh-TW": "出埃及模組"
+    "zh-TW": "出逃模組"
   },
   "description": {
     "da": "Bruges til at lave en bred vifte af genstande.",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet.",
     "en": "Used to craft a wide range of items.",
-    "es": "Se usa para fabricar una amplia gama de objetos.",
+    "es": "Sirve para fabricar una gran variedad de objetos.",
     "fr": "Permet de fabriquer toute une panoplie d'objets.",
     "he": "משמש ליצירת מגוון רחב של פריטים. משמש ",
     "hr": "Koristi se za izradu širokog spektra predmeta.",
     "it": "Si usa per creare una vasta gamma di oggetti.",
-    "ja": "幅広いアイテムの製作に使用される。",
-    "ko-KR": "다양한 아이템 제작에 사용됨.",
+    "ja": "さまざまなアイテムの製作に使用。",
+    "ko-KR": "다양한 아이템 제작에 사용됩니다.",
     "no": "Brukes til å lage et bredt spekter av gjenstander.",
-    "pl": "Używane do wytwarzania szerokiej gamy przedmiotów.",
+    "pl": "Służy do wytwarzania szerokiej gamy przedmiotów.",
     "pt": "Usado para fabricar uma ampla variedade de itens.",
-    "pt-BR": "Usado para fabricar uma ampla variedade de itens.",
-    "ru": "Используется для создания широкого спектра предметов.",
+    "pt-BR": "Serve para fabricar vários tipos de itens.",
+    "ru": "Используется для создания разных предметов.",
     "sr": "Koristi se za izradu širokog spektra predmeta.",
-    "tr": "Geniş bir yelpazede eşya üretmek için kullanılır.",
+    "tr": "Çeşitli eşyaları üretmede kullanılır.",
     "uk": "Використовується для створення широкого спектру предметів.",
     "zh-CN": "用于制作各种物品。",
-    "zh-TW": "用於製作各種物品。"
+    "zh-TW": "用來製作多種物品。"
   },
   "type": "Topside Material",
   "rarity": "Epic",
@@ -58,7 +58,7 @@
     "processor": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/exodus_modules.png",
-  "updatedAt": "03/22/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base",
   "vendors": [
     {

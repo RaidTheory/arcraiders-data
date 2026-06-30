@@ -9,7 +9,7 @@
     "he": "בלם לוע III",
     "hr": "Kočnica Cijevi III",
     "it": "Freno di bocca III",
-    "ja": "マズルブレーキ III",
+    "ja": "マズルブレーキIII",
     "ko-KR": "총구 제동기 III",
     "no": "Munnbrems III",
     "pl": "Hamulec wylotowy III",
@@ -20,29 +20,29 @@
     "tr": "Namlu Ağzı Freni III",
     "uk": "Дульний гальмо III",
     "zh-CN": "枪口制退器 III",
-    "zh-TW": "槍口制退器 III"
+    "zh-TW": "槍口制退器III"
   },
   "description": {
     "da": "Reducerer betydeligt både vertikal og horisontal rekyl.",
     "de": "Verringert den vertikalen und horizontalen Rückstoß erheblich.",
     "en": "Significantly reduces both vertical recoil & horizontal recoil.",
-    "es": "Reduce significativamente tanto el retroceso vertical como el horizontal.",
+    "es": "Reduce significativamente el retroceso vertical y horizontal.",
     "fr": "Réduit considérablement le recul vertical et horizontal.",
     "he": "מפחית משמעותית הן רתע אנכי והן רתע אופקי.",
     "hr": "Značajno smanjuje i vertikalni i horizontalni trzaj.",
     "it": "Riduce significativamente sia il rinculo verticale che quello orizzontale.",
-    "ja": "垂直反動と水平反動の両方を大幅に軽減します。.",
-    "ko-KR": "수직 반동과 수평 반동을 모두 크게 감소시킵니다.",
+    "ja": "垂直反動と水平反動を大幅に抑える。",
+    "ko-KR": "수직 및 수평 반동을 상당히 줄여줍니다.",
     "no": "Reduserer betydelig både vertikal og horisontal rekyl.",
-    "pl": "Znacząco zmniejsza zarówno odrzut pionowy, jak i poziomy.",
+    "pl": "Znacznie zmniejsza odrzut w pionie i poziomie.",
     "pt": "Reduz significativamente tanto o recuo vertical quanto o horizontal.",
-    "pt-BR": "Reduz significativamente tanto o recuo vertical quanto o horizontal.",
-    "ru": "Значительно уменьшает как вертикальную, так и горизонтальную отдачу.",
+    "pt-BR": "Reduz de forma significativa o recuo vertical e horizontal.",
+    "ru": "Значительно снижает вертикальную и горизонтальную отдачу оружия.",
     "sr": "Značajno smanjuje i vertikalni i horizontalni trzaj.",
-    "tr": "Hem dikey geri tepmeyi hem de yatay geri tepmeyi önemli ölçüde azaltır.",
+    "tr": "Dikey ve yatay geri tepmeyi önemli ölçüde azaltır.",
     "uk": "Значно зменшує як вертикальну, так і горизонтальну віддачу.",
-    "zh-CN": "大幅减少垂直后坐力和水平后坐力。",
-    "zh-TW": "大幅減少垂直後座力和水平後座力。"
+    "zh-CN": "大幅度减少垂直后坐力和水平后坐力。",
+    "zh-TW": "大幅降低垂直後座力和水平後座力。"
   },
   "type": "Modification",
   "rarity": "Rare",
@@ -151,6 +151,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/muzzle_brake_iii.png",
-  "updatedAt": "01/13/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

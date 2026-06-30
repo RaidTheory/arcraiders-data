@@ -9,7 +9,7 @@
     "he": "מסנן אוויר מזוהם",
     "hr": "Filter za Zagađeni Zrak",
     "it": "Filtro dell'aria inquinato",
-    "ja": "汚染されたエアフィルター",
+    "ja": "汚れた空気フィルター",
     "ko-KR": "오염된 공기 필터",
     "no": "Forurenset luftfilter",
     "pl": "Zanieczyszczony filtr powietrza",
@@ -20,7 +20,7 @@
     "tr": "Kirlenmiş Hava Filtresi",
     "uk": "Фільтр забрудненого повітря",
     "zh-CN": "污染的空气滤芯",
-    "zh-TW": "污染空氣過濾器"
+    "zh-TW": "污染的空氣過濾器"
   },
   "description": {
     "da": "Kan genbruges til håndværkskomponenter.",
@@ -58,6 +58,6 @@
     "oil": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/polluted_air_filter.png",
-  "updatedAt": "11/10/2025",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

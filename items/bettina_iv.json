@@ -20,29 +20,29 @@
     "tr": "Bettina IV",
     "uk": "Беттіна IV",
     "zh-CN": "贝蒂娜 IV",
-    "zh-TW": "貝蒂娜 IV"
+    "zh-TW": "貝蒂娜IV"
   },
   "description": {
     "da": "Har lav skudfrekvens og høj skadeeffekt.",
-    "de": "Hat eine langsame Feuerrate und hohen Schadensausstoß.",
-    "en": "Has slow fire rate and high damage output.",
-    "es": "Tiene una cadencia de fuego lenta y alto daño.",
-    "fr": "A une cadence de tir lente et des dégâts élevés.",
+    "de": "Ein vollautomatisches Sturmgewehr mit langsamer Feuerrate und hohem Schaden.",
+    "en": "Fully automatic assault rifle with slow fire rate and high damage output.",
+    "es": "Fusil de asalto totalmente automático con una cadencia de disparo lenta y un daño elevado.",
+    "fr": "Fusil d'assaut automatique à la cadence de tir limitée, mais il inflige de lourds dégâts.",
     "he": "בעל קצב אש איטי ונזק גבוה.",
     "hr": "Ima sporu brzinu pucanja i visoku štetu.",
-    "it": "Ha una cadenza di fuoco lenta e alto Danni.",
-    "ja": "低い連射速度と高いダメージを持つ。",
-    "ko-KR": "낮은 연사력과 높은 피해량을 가지고 있습니다.",
+    "it": "Fucile d'assalto completamente automatico con cadenza di fuoco lenta ed elevata potenza di fuoco.",
+    "ja": "フルオートのアサルトライフル。弾速が遅いが、威力は高い。",
+    "ko-KR": "느린 발사 속도와 높은 피해량을 지닌 전자동 돌격 소총입니다.",
     "no": "Har lav skuddfrekvens og høy skadeeffekt.",
-    "pl": "Ma wolną szybkostrzelność i wysokie obrażenia.",
+    "pl": "W pełni automatyczny karabin szturmowy o małej szybkostrzelności i dużym potencjale obrażeń.",
     "pt": "Tem uma taxa de disparo lenta e alto dano.",
-    "pt-BR": "Possui cadência de tiro baixa e dano elevado.",
-    "ru": "Имеет низкую скорострельность и высокий урон.",
+    "pt-BR": "Fuzil de assalto automático com cadência de tiro lenta e alto poder de dano.",
+    "ru": "Полностью автоматическая штурмовая винтовка с низкой скоростью стрельбы и высоким уроном.",
     "sr": "Ima sporu brzinu pucanja i visoku štetu.",
-    "tr": "Düşük atış hızına ve yüksek hasar çıkışına sahiptir.",
+    "tr": "Düşük atış hızı ve hasara sahip tam otomatik taarruz tüfeği.",
     "uk": "Має низьку швидкострільність та високий урон.",
-    "zh-CN": "射速慢但伤害高。",
-    "zh-TW": "射速慢但傷害高。"
+    "zh-CN": "全自动射击的突击步枪，射速较慢，但伤害输出高。",
+    "zh-TW": "射速緩慢但具高傷害輸出的全自動突擊步槍。"
   },
   "type": "Assault Rifle",
   "rarity": "Epic",
@@ -226,7 +226,7 @@
     "heavy_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/bettina_iv.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base",
   "modSlots": {
     "grip": [

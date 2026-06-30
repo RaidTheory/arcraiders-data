@@ -2,30 +2,30 @@
   "id": "extended_barrel_ii",
   "name": {
     "da": "Forlænget løb II",
-    "de": "Verlängerter Lauf II",
-    "en": "Extended Barrel II",
-    "es": "Cañón extendido II",
-    "fr": "Canon Allongé II",
+    "de": "Verlängerter Lauf",
+    "en": "Extended Barrel",
+    "es": "Cañón ampliado",
+    "fr": "Canon allongé",
     "he": "קנה מוארךII",
     "hr": "Produžena cijev II",
-    "it": "Canna estesa II",
-    "ja": "拡張バレル II",
-    "ko-KR": "확장형 총열 II",
+    "it": "Canna estesa",
+    "ja": "拡張バレル",
+    "ko-KR": "연장 총열",
     "no": "Forlenget løp II",
-    "pl": "Wydłużona lufa II",
+    "pl": "Wydłużona lufa",
     "pt": "Cano estendido II",
-    "pt-BR": "Cano Estendido II",
-    "ru": "Удлиненный ствол II",
+    "pt-BR": "Cano Estendido",
+    "ru": "Удлиненный ствол",
     "sr": "Produžena cev II",
-    "tr": "Uzatılmış Namlu II",
+    "tr": "Uzatılmış Namlu",
     "uk": "Подовжений ствол II",
-    "zh-CN": "加长枪管 II",
-    "zh-TW": "加長槍管 II"
+    "zh-CN": "加长枪管",
+    "zh-TW": "加長槍管"
   },
   "description": {
-    "en": "Moderately increases bullet velocity and damage falloff range.",
     "da": "Øger kuglehastigheden og afstanden før skadefald moderat.",
     "de": "Erhöht die Geschossgeschwindigkeit und die Reichweite bis zum Schadensabfall moderat.",
+    "en": "Moderately increases bullet velocity and damage falloff range.",
     "es": "Aumenta moderadamente la velocidad de las balas y el alcance antes de la caída de daño.",
     "fr": "Augmente modérément la vélocité des balles et la portée avant la perte de dégâts.",
     "he": "מגביר באופן מתון את מהירות הקליע ואת הטווח לפני דעיכת הנזק.",
@@ -67,9 +67,9 @@
   "effects": {
     "Increased Bullet Velocity": {
       "value": "20%",
-      "en": "Increased Bullet Velocity",
       "da": "Øget kuglehastighed",
       "de": "Erhöhte Geschossgeschwindigkeit",
+      "en": "Increased Bullet Velocity",
       "es": "Velocidad de bala aumentada",
       "fr": "Vélocité des balles augmentée",
       "he": "מהירות קליע מוגברת",
@@ -90,9 +90,9 @@
     },
     "Increased Distance Until Damage Falloff": {
       "value": "10%",
-      "en": "Increased Distance Until Damage Falloff",
       "da": "Øget afstand før skadefald",
       "de": "Erhöhte Reichweite bis zum Schadensabfall",
+      "en": "Increased Distance Until Damage Falloff",
       "es": "Mayor distancia antes de la caída de daño",
       "fr": "Distance augmentée avant la perte de dégâts",
       "he": "מרחק מוגבר לפני דעיכת הנזק",
@@ -125,6 +125,6 @@
   "salvagesInto": {
     "mechanical_components": 1
   },
-  "updatedAt": "05/19/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "1.29"
 }

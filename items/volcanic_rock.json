@@ -26,23 +26,23 @@
     "da": "Kan kastes.",
     "de": "Kann geworfen werden.",
     "en": "Can be thrown.",
-    "es": "Se puede lanzar.",
-    "fr": "Peut être lancé.",
+    "es": "Puede lanzarse.",
+    "fr": "Peut se lancer.",
     "he": "ניתן לזריקה.",
     "hr": "Može se baciti.",
-    "it": "Può essere lanciato.",
+    "it": "Si può lanciare.",
     "ja": "投げることができる。",
-    "ko-KR": "던질 수 있습니다.",
+    "ko-KR": "투척할 수 있습니다.",
     "no": "Kan kastes.",
     "pl": "Można rzucić.",
     "pt": "Pode ser arremessado.",
-    "pt-BR": "Pode ser arremessada.",
+    "pt-BR": "Pode usar para arremessar.",
     "ru": "Можно бросить.",
     "sr": "Može se baciti.",
     "tr": "Fırlatılabilir.",
     "uk": "Можна кинути.",
     "zh-CN": "可用于投掷。",
-    "zh-TW": "可以投擲。"
+    "zh-TW": "可投擲。"
   },
   "type": "Misc",
   "rarity": "Common",
@@ -76,6 +76,6 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/volcanic_rock.png",
-  "updatedAt": "03/17/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

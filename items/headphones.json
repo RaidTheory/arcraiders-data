@@ -26,23 +26,23 @@
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",
-    "es": "Puede reciclarse en materiales de fabricación.",
+    "es": "Se puede reciclar para obtener materiales de fabricación.",
     "fr": "Peut être recyclé en matériaux d'artisanat.",
     "he": "ניתן למחזור עבור חומרי יצירה.",
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
-    "ja": "製作素材にリサイクルできる。",
+    "ja": "リサイクルすると製作用素材になる。",
     "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmateriell.",
-    "pl": "Można przetworzyć na materiały rzemieślnicze.",
+    "pl": "Można wykorzystać ponownie do wytworzenia materiałów.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
-    "pt-BR": "Pode ser reciclado em materiais de criação.",
-    "ru": "Можно переработать в материалы для крафта.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "ru": "Можно переработать, чтобы получить материалы.",
     "sr": "Može se reciklirati u materijale za izradu.",
-    "tr": "Üretim malzemelerine geri dönüştürülebilir.",
+    "tr": "Üretim materyallerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "zh-CN": "可回收为制作材料。",
-    "zh-TW": "可以回收成製作材料。"
+    "zh-TW": "可回收成製作材料。"
   },
   "type": "Recyclable",
   "rarity": "Rare",
@@ -58,6 +58,6 @@
     "speaker_component": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/headphones.png",
-  "updatedAt": "01/09/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

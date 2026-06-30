@@ -20,24 +20,24 @@
     "tr": "Voltaj Dönüştürücü",
     "uk": "Перетворювач напруги",
     "zh-CN": "变电器",
-    "zh-TW": "變壓器"
+    "zh-TW": "電壓轉換器"
   },
   "description": {
     "da": "Bruges i håndværk.",
     "de": "Wird bei der Herstellung verwendet.",
     "en": "Used in crafting.",
-    "es": "Se usa en la fabricación.",
-    "fr": "Utilisé dans la fabrication.",
+    "es": "Se usa para fabricar objetos.",
+    "fr": "Sert à la fabrication.",
     "he": "משמש ליצירה. משמש ",
     "hr": "Koristi se za izradu.",
     "it": "Utile per le creazioni.",
-    "ja": "クラフトに使用。",
-    "ko-KR": "제작에 사용됩니다.",
+    "ja": "製作に使用する。",
+    "ko-KR": "제작에 사용될 수도 있습니다.",
     "no": "Brukes i håndverk.",
-    "pl": "Używany do wytwarzania.",
+    "pl": "Rzecz przydatna do wytwarzania.",
     "pt": "Usado na fabricação.",
-    "pt-BR": "Usado na fabricação.",
-    "ru": "Используется в крафте.",
+    "pt-BR": "Serve para fabricações.",
+    "ru": "Используется для создания предметов.",
     "sr": "Koristi se za izradu.",
     "tr": "Üretimde kullanılır.",
     "uk": "Використовується в крафті.",
@@ -58,7 +58,7 @@
     "rubber_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/voltage_converter.png",
-  "updatedAt": "03/22/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base",
   "vendors": [
     {

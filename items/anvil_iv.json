@@ -20,29 +20,29 @@
     "tr": "Örs IV",
     "uk": "Ковадло IV",
     "zh-CN": "铁砧 IV",
-    "zh-TW": "鐵砧 IV"
+    "zh-TW": "鐵砧IV"
   },
   "description": {
     "da": "Enkeltvirkende håndkanon med høj skade og hovedskudsskade, men langsom håndtering.",
-    "de": "Richtet bei Körpertreffern und insbesondere bei Kopfschüssen hohen Schaden an, ist aber in der Benutzung langsam.",
-    "en": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
-    "es": "Cañón de mano de acción simple con alto daño y daño a la cabeza, pero de manejo lento.",
-    "fr": "Canon de poing à simple action infligeant de lourds dégâts, y compris aux tirs à la tête, mais au maniement lent.",
+    "de": "Handkanone mit Direktabzug, die bei Körpertreffern und insbesondere bei Kopfschüssen hohen Schaden anrichtet, aber in der Benutzung langsam ist.",
+    "en": "Single-action hand cannon with high damage output and headshot damage, but slow handling.",
+    "es": "Cañón de mano de acción única con un daño básico y un daño por tiros a la cabeza elevados, pero con un manejo lento.",
+    "fr": "Arme de poing à simple action de gros calibre. Il est puissant et capable d'infliger de lourds dégâts à la tête, mais son maniement est lent.",
     "he": "תותח יד בעל פעולה בודדת עם נזק גבוה ונזק פגיעות ראש, אך עם תפעול איטי.",
     "hr": "Ručni top jednostrukog okidanja s visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem.",
-    "it": "Cannone a mano ad azione singola con danni elevati e colpi alla testa potenti, ma con maneggevolezza lenta.",
-    "ja": "高威力の単発式ハンドキャノン。ヘッドショットダメージも高いが、取り回しは遅い。",
-    "ko-KR": "단발 작동식 핸드 캐논으로 높은 피해와 헤드샷 피해를 주지만 조작이 느립니다.",
+    "it": "Pistola ad azione singola con elevata potenza di danno e danni alla testa, ma con una maneggevolezza ridotta.",
+    "ja": "シングルアクションのハンドキャノン。与ダメージとヘッドショットダメージは高いが、動作は遅い。",
+    "ko-KR": "높은 피해량과 헤드샷 대미지를 지녔지만 조작 속도가 느린 싱글 액션 핸드 캐논입니다.",
     "no": "Håndkanon med enkeltaction som gir høy skade og hodeskuddsskade, men treg håndtering.",
-    "pl": "Jednostrzałowa armata ręczna o wysokich obrażeniach, także przy trafieniach w głowę, lecz z powolną obsługą.",
+    "pl": "Jednostrzałowe działko ręczne o dużym potencjale obrażeń. Zadaje duże obrażenia od strzałów w głowę, ale jest powolne.",
     "pt": "Canhão de mão de ação simples com alto dano e dano de tiro na cabeça, porém com manuseio lento.",
-    "pt-BR": "Tem alto poder de dano e dano em tiros na cabeça, mas manuseio lento.",
-    "ru": "Ручная пушка одинарного действия с высоким уроном и уроном в голову, но с медленной управляемостью.",
+    "pt-BR": "Canhão de mão de ação simples com alto poder de dano e dano em tiros na cabeça, mas manuseio lento.",
+    "ru": "Однозарядная ручница с высоким уроном. Наносит увеличенный урон при попадании в голову. Очень медленное оружие.",
     "sr": "Ručni top jednostrukog okidanja sa visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem.",
-    "tr": "Tek etkili el topu; yüksek hasar ve kafa vuruşu hasarı sunar, ancak kullanım yavaştır.",
+    "tr": "Hasarı ve kafadan vuruş hasarı yüksek olan ancak kullanımı yavaş olan kurma horozlu tabanca.",
     "uk": "Ручна гармата одинарної дії з високою шкодою та підвищеним уроном у голову, але з повільним поводженням.",
-    "zh-CN": "伤害高且爆头伤害尤其高，但操作速度较慢。",
-    "zh-TW": "單動式手砲，具有高傷害與爆頭傷害，但操控較慢。"
+    "zh-CN": "单动式大口径手枪，伤害高且爆头伤害高，但操作速度较慢。",
+    "zh-TW": "單動式手砲，具有高傷害輸出和高爆頭傷害，但操作緩慢。"
   },
   "type": "Hand Cannon",
   "rarity": "Uncommon",
@@ -226,7 +226,7 @@
     "mechanical_components": 4
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/anvil_iv.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base",
   "modSlots": {
     "muzzle": [

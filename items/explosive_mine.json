@@ -9,7 +9,7 @@
     "he": "מוקש נפיץ",
     "hr": "Eksplozivna mina",
     "it": "Mina esplosiva",
-    "ja": "起爆マイン",
+    "ja": "爆発地雷",
     "ko-KR": "폭발 지뢰",
     "no": "Sprengmine",
     "pl": "Mina wybuchowa",
@@ -20,7 +20,7 @@
     "tr": "Patlayıcı Mayın",
     "uk": "Вибухова міна",
     "zh-CN": "爆炸地雷",
-    "zh-TW": "爆炸地雷"
+    "zh-TW": "爆破地雷"
   },
   "description": {
     "da": "En naerhedsudlost sprengstofenhed, der detonerer, nar fjender naermer sig.",
@@ -112,6 +112,6 @@
     "oil": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/explosive_mine.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

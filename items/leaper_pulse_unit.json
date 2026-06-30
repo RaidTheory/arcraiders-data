@@ -4,7 +4,7 @@
     "da": "Springer-pulsenhed",
     "de": "Springer-Impulseinheit",
     "en": "Leaper Pulse Unit",
-    "es": "Unidad de pulso de saltador",
+    "es": "Unidad de impulso de saltador",
     "fr": "Unité à Impulsion de Bondisseur",
     "he": "יחידת פולס של Leaper",
     "hr": "Skakačeva pulsna jedinica",
@@ -12,15 +12,15 @@
     "ja": "リーパー・パルスユニット",
     "ko-KR": "리퍼 펄스 유닛",
     "no": "Hopper-pulsenhet",
-    "pl": "Jednostka pulsacyjna skoczka",
+    "pl": "Moduł impulsowy skoczka",
     "pt": "Unidade de pulso de saltador",
     "pt-BR": "Unidade de Pulso de Saltador",
-    "ru": "Импульсный блок Прыгуна",
+    "ru": "Импульсный блок «Прыгуна»",
     "sr": "Skakačeva pulsna jedinica",
     "tr": "Sıçrayıcı Vurucu Birimi",
     "uk": "Імпульсний блок стрибуна",
     "zh-CN": "“跳跃者”脉冲单元",
-    "zh-TW": "跳躍者脈衝裝置"
+    "zh-TW": "跳躍者脈衝單元"
   },
   "description": {
     "da": "Kan genbruges til håndværksmaterialer. Kan kastes for at skabe en voldsom singularitet.",
@@ -106,6 +106,6 @@
     "mechanical_components": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/leaper_pulse_unit.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

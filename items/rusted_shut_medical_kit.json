@@ -4,23 +4,23 @@
     "da": "Rustet lukket medicinsæt",
     "de": "Verrosteter verschlossener Verbandkasten",
     "en": "Rusted Shut Medical Kit",
-    "es": "Botiquín oxidado cerrado",
+    "es": "Botiquín cerrado y oxidado",
     "fr": "Trousse de Secours Fermée par la Rouille",
     "he": "ערכת רפואה סגורה מחלודה",
     "hr": "Zahrđali Zatvoreni Medicinski Komplet",
-    "it": "Kit medico arrugginito chiuso",
+    "it": "Kit medico chiuso arrugginito",
     "ja": "閉まったまま錆びた医療キット",
-    "ko-KR": "녹슨 의료 용품 상자",
+    "ko-KR": "닫혀 있는 녹슨 의료용품 상자",
     "no": "Rustent lukket medisinsk sett",
-    "pl": "Zardzewiały zestaw medyczny",
+    "pl": "Kompletnie zardzewiała apteczka",
     "pt": "Kit médico enferrujado fechado",
-    "pt-BR": "Kit Médico Enferrujado",
-    "ru": "Аптечка со ржавым замком",
+    "pt-BR": "Kit Médico Travado e Enferrujado",
+    "ru": "Аптечка с ржавым замком",
     "sr": "Zahrđali Zatvoreni Medicinski Komplet",
     "tr": "Paslı Kapalı Tıbbi Kit",
     "uk": "Заіржавіла аптечка",
-    "zh-CN": "锈死的医疗包",
-    "zh-TW": "鏽死的醫療包"
+    "zh-CN": "因生锈而难以打开的医药箱",
+    "zh-TW": "生鏽打不開的醫療包"
   },
   "description": {
     "da": "Et rustet medicinsæt, dets indhold er ukendt.",
@@ -58,6 +58,6 @@
     "syringe": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/rusted_shut_medical_kit.png",
-  "updatedAt": "01/13/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

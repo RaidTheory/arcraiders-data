@@ -2,25 +2,25 @@
   "id": "assessor_matrix",
   "name": {
     "da": "Assessor Matrix",
-    "de": "Assessor Matrix",
+    "de": "Prüfer-Matrix",
     "en": "Assessor Matrix",
-    "es": "Assessor Matrix",
-    "fr": "Assessor Matrix",
+    "es": "Matriz de asesor",
+    "fr": "Matrice d'Évaluateur",
     "he": "Assessor Matrix",
     "hr": "Assessor Matrix",
-    "it": "Assessor Matrix",
-    "ja": "Assessor Matrix",
+    "it": "Matrice Valutatore",
+    "ja": "アッセッサーマトリクス",
     "ko-KR": "어세서 매트릭스",
     "no": "Assessor Matrix",
-    "pl": "Assessor Matrix",
+    "pl": "Macierz asesora",
     "pt": "Assessor Matrix",
-    "pt-BR": "Assessor Matrix",
-    "ru": "Assessor Matrix",
+    "pt-BR": "Matriz do Avaliador",
+    "ru": "Матрица «Оценщика»",
     "sr": "Assessor Matrix",
-    "tr": "Assessor Matrix",
+    "tr": "Değerlendirici Matrisi",
     "uk": "Assessor Matrix",
     "zh-CN": "“评估者”矩阵",
-    "zh-TW": "Assessor Matrix"
+    "zh-TW": "評估員矩陣"
   },
   "description": {
     "da": "",
@@ -57,6 +57,6 @@
     "advanced_arc_powercell": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/assessor_matrix.png",
-  "updatedAt": "04/28/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "1.22"
 }

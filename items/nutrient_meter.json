@@ -5,22 +5,22 @@
     "de": "Nährstoffmessgerät",
     "en": "Nutrient Meter",
     "es": "Medidor de nutrientes",
-    "fr": "Nutriment-mètre",
+    "fr": "Testeur de nutriments",
     "he": "מד חומרי הזנה",
     "hr": "Mjerač hranjivih tvari",
     "it": "Misuratore di nutrienti",
-    "ja": "栄養計",
-    "ko-KR": "영양분 측정기",
+    "ja": "栄養メーター",
+    "ko-KR": "영양소 측정기",
     "no": "Næringsstoffmåler",
-    "pl": "Miernik składników odżywczych",
+    "pl": "Miernik odżywczości",
     "pt": "Medidor de nutrientes",
     "pt-BR": "Medidor de Nutrientes",
     "ru": "Измеритель питательных веществ",
     "sr": "Merač hranljivih materija",
     "tr": "Besin Ölçer",
     "uk": "Вимірювач поживних речовин",
-    "zh-CN": "营养计",
-    "zh-TW": "營養計"
+    "zh-CN": "营养测量仪",
+    "zh-TW": "營養測定儀"
   },
   "description": {
     "da": "En kvæstgenstand, der skal leveres til Tian Wen for at fuldføre kvasten Uventet initiativ.",
@@ -51,6 +51,6 @@
   "stackSize": 1,
   "questItem": true,
   "imageFilename": "https://cdn.arctracker.io/items/v2/nutrient_meter.png",
-  "updatedAt": "04/14/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "1.7"
 }
