@@ -54,6 +54,7 @@ https://github.com/RaidTheory/arcraiders-data and https://arctracker.io
 Join our Discord community to discuss ARC Raiders, tools, and connect with other community developers:
 
 [![Discord](https://img.shields.io/discord/1371502069374255265?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/pAtQ4Aw8em)
+- [ARC Raider Hub](https://arcraiderhub.xyz/) — ARC Raiders weapon tier lists, extraction routes, augment guides, and raid strategies.
 
 ## Contact
 
