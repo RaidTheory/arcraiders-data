@@ -24,25 +24,25 @@
   },
   "description": {
     "da": "Fuldautomatisk maskinpistol med en større kaliber.",
-    "de": "Vollautomatische Maschinenpistole mit größerem Kaliber.",
-    "en": "Fully automatic submachine gun with a larger caliber.",
-    "es": "Subfusil automático de gran calibre.",
-    "fr": "Mitraillette automatique de plus gros calibre.",
+    "de": "Stark und schnell, aber ohne Modifikationen schwer zu steuern.",
+    "en": "Strong & nimble, but hard to control without mods.",
+    "es": "Robusto y ágil, pero difícil de controlar sin modificadores.",
+    "fr": "Puissant et maniable, mais difficile à maîtriser sans mods.",
     "he": "תת-מקלע אווטומטי מלא עם קליבר גדול יותר.",
     "hr": "Potpuno automatska strojnica većeg kalibra.",
-    "it": "Mitragliatrice completamente automatica con calibro maggiore.",
-    "ja": "大口径のフルオート・サブマシンガン。",
-    "ko-KR": "대구경 전자동 기관단총입니다.",
+    "it": "Forte e agile, ma difficile da controllare senza mod.",
+    "ja": "強力で素早いが、モジュールなしではコントロールしにくい。",
+    "ko-KR": "강력하고 날쌔지만, 모드 없이는 제어하기가 까다롭습니다.",
     "no": "Helautomatisk maskinpistol med et større kaliber.",
-    "pl": "Samoczynny pistolet maszynowy większego kalibru.",
+    "pl": "Potężna i zręczna broń, ale trudna do opanowania bez modyfikacji.",
     "pt": "Submetralhadora totalmente automática com um calibre maior.",
-    "pt-BR": "Submetralhadora automática de calibre elevado.",
-    "ru": "Крупнокалиберный полностью автоматический пистолет-пулемет.",
+    "pt-BR": "Potente e ágil, mas difícil de controlar sem modificação.",
+    "ru": "Мощный, быстро стреляет, но без модификаций управлять им тяжело.",
     "sr": "Potpuno automatski automat većeg kalibra.",
-    "tr": "Daha büyük kalibreli tam otomatik makineli tabanca.",
+    "tr": "Güçlü ve çevik olsa da modlar olmadan kontrol etmesi zor.",
     "uk": "Повністю автоматичний пістолет-кулемет більшого калібру.",
-    "zh-CN": "大口径全自动冲锋枪。",
-    "zh-TW": "大口徑全自動衝鋒槍。"
+    "zh-CN": "威力强劲、机动性高，但未经改装难以操控。",
+    "zh-TW": "威力強、機動性高，但未使用模組時較難控制。"
   },
   "type": "SMG",
   "rarity": "Rare",
@@ -50,6 +50,7 @@
   "weightKg": 6.5,
   "stackSize": 1,
   "isWeapon": true,
+  "craftBench": "weapon_bench",
   "recyclesInto": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 3
@@ -62,7 +63,7 @@
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/canto_iii.png",
-  "updatedAt": "06/30/2026",
+  "updatedAt": "07/26/2026",
   "addedIn": "1.22",
   "modSlots": {
     "grip": [
