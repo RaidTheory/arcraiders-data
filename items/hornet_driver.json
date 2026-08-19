@@ -12,15 +12,15 @@
     "ja": "ホーネットドライバー",
     "ko-KR": "호넷 드라이버",
     "no": "Vepsedriver",
-    "pl": "Napęd szerszenia",
+    "pl": "Sterownik szerszenia",
     "pt": "Propulsor de vespa",
-    "pt-BR": "Propulsor de Vespa",
-    "ru": "Драйвер Шершня",
+    "pt-BR": "Driver de Marimbondo",
+    "ru": "Драйвер «Шершня»",
     "sr": "Stršljenov Pogon",
     "tr": "Yaban Arısı Sürücüsü",
     "uk": "Драйвер шершня",
-    "zh-CN": "黄蜂引擎",
-    "zh-TW": "黃蜂驅動器"
+    "zh-CN": "“马蜂”引擎",
+    "zh-TW": "虎頭蜂驅動器"
   },
   "description": {
     "da": "Kan kastes og vil kortvarigt bedøve nærliggende mål",
@@ -129,7 +129,7 @@
     "electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/hornet_driver.png",
-  "updatedAt": "01/13/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base",
   "tip": "The Hornet Driver is a rare item is dropped by Hornets that can be recycled into crafting materials."
 }

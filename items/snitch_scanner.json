@@ -8,19 +8,19 @@
     "fr": "Scanner de Mouchard",
     "he": "סורק Snitch",
     "hr": "Dojavljivač",
-    "it": "Scanner Snitch",
+    "it": "Scanner di spie",
     "ja": "スニッチスキャナ",
     "ko-KR": "스니치 스캐너",
     "no": "Snitch-skanner",
-    "pl": "Skaner Snitch",
+    "pl": "Skaner kapusia",
     "pt": "Scanner Snitch",
-    "pt-BR": "Detector de Dedo-Duro",
-    "ru": "Сканер Стукача",
+    "pt-BR": "Detector Dedo-duro",
+    "ru": "Сканер «Стукача»",
     "sr": "Dojavljivač",
-    "tr": "Muhbir Aracı",
+    "tr": "Muhbir Tarayıcı",
     "uk": "Сканер-стукач",
     "zh-CN": "“告密者”扫描仪",
-    "zh-TW": "告密掃描器"
+    "zh-TW": "告密者掃描儀"
   },
   "description": {
     "da": "Kan genbruges til ARC-legering. Kan kastes for at tilkalde ARC.",
@@ -58,6 +58,6 @@
     "electrical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/snitch_scanner.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

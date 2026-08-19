@@ -20,29 +20,29 @@
     "tr": "Bettina I",
     "uk": "Беттіна I",
     "zh-CN": "贝蒂娜 I",
-    "zh-TW": "貝蒂娜 I"
+    "zh-TW": "貝蒂娜I"
   },
   "description": {
     "da": "Har lav skudhastighed og høj skadeeffekt.",
-    "de": "Hat eine langsame Feuerrate und hohen Schadensausstoß.",
+    "de": "Hat langsame Feuerrate und verursacht hohen Schaden.",
     "en": "Has slow fire rate and high damage output.",
-    "es": "Tiene una cadencia de fuego lenta y alto daño de salida.",
-    "fr": "A une cadence de tir lente et des dégâts élevés.",
+    "es": "Tiene una cadencia de disparo lenta y un daño elevado.",
+    "fr": "Cadence de tir limitée et lourds dégâts.",
     "he": "בעל קצב אש איטי ונזק גבוה.",
     "hr": "Ima sporu brzinu paljbe i visoku izlaznu štetu.",
-    "it": "Ha una cadenza di fuoco lenta e un alto Danni in uscita.",
-    "ja": "発射速度は遅いが、高いダメージを与える。",
-    "ko-KR": "느린 발사 속도와 높은 피해량을 가지고 있습니다.",
+    "it": "Ha una cadenza di fuoco lenta e un'elevata potenza di danno.",
+    "ja": "弾速が遅いが、威力は高い。",
+    "ko-KR": "느린 발사 속도와 높은 피해량을 지녔습니다.",
     "no": "Har lav skuddfrekvens og høy skadeeffekt.",
-    "pl": "Ma wolną szybkostrzelność i wysokie obrażenia.",
+    "pl": "Mała szybkostrzelność i duży potencjał obrażeń.",
     "pt": "Tem taxa de disparo lenta e alto dano de saída.",
-    "pt-BR": "Tem cadência de tiro lenta e causa alto dano.",
-    "ru": "Имеет низкую скорострельность и высокий урон.",
+    "pt-BR": "Tem cadência de tiro lenta e alto poder de dano.",
+    "ru": "Низкая скорость стрельбы и высокий урон.",
     "sr": "Ima sporu brzinu paljbe i visok izlazni štetu.",
-    "tr": "Yavaş ateş hızına ve yüksek hasar çıkışına sahiptir.",
+    "tr": "Düşük atış hızına ve yüksek hasara sahiptir.",
     "uk": "Має повільну швидкість вогню та високий вихідний урон.",
-    "zh-CN": "射速慢但伤害输出高。",
-    "zh-TW": "射速慢但傷害輸出高。"
+    "zh-CN": "射速较慢，但伤害输出高。",
+    "zh-TW": "射速緩慢但具高傷害輸出。"
   },
   "type": "Assault Rifle",
   "rarity": "Epic",
@@ -183,7 +183,7 @@
     "advanced_mechanical_components": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/bettina_i.png",
-  "updatedAt": "03/17/2026",
+  "updatedAt": "07/26/2026",
   "addedIn": "base",
   "modSlots": {
     "grip": [

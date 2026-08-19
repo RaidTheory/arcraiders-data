@@ -4,23 +4,23 @@
     "da": "Rumhavnens containeropbevarings-nøgle",
     "de": "Containerlagerschlüssel (Raumhafen)",
     "en": "Spaceport Container Storage Key",
-    "es": "Llave del almacén de contenedores del espaciopuerto",
-    "fr": "Clé de l'entrepôt de conteneurs du spatioport",
+    "es": "Llave del almacén de contenedores del Puerto espacial",
+    "fr": "Clé de l'Entrepôt de conteneurs du Port spatial",
     "he": "מפתח למחסן מכולות בנמל החלל",
     "hr": "Ključ Skladišta Kontejnera Svemirske Luke",
-    "it": "Chiave del deposito container dello spazioporto",
+    "it": "Chiave Area di stoccaggio Spazioporto",
     "ja": "宇宙港のコンテナ保管庫の鍵",
     "ko-KR": "우주 기지 컨테이너 창고 열쇠",
     "no": "Romhavnens containerlager-nøkkel",
-    "pl": "Klucz do magazynu kontenerów portu kosmicznego",
+    "pl": "Klucz do składu pojemników w porcie kosmicznym",
     "pt": "Chave do armazém de contêineres do espaçoporto",
-    "pt-BR": "Chave do Depósito de Contêineres do Espaçoporto",
+    "pt-BR": "Chave do Depósito de Contentores do Espaçoporto",
     "ru": "Ключ от хранилища контейнеров космопорта",
     "sr": "Ključ Skladišta Kontejnera Svemirske Luke",
     "tr": "Uzaylimanı Konteyner Deposu Anahtarı",
     "uk": "Ключ від контейнерного сховища космопорту",
     "zh-CN": "太空港集装箱仓库钥匙",
-    "zh-TW": "太空港貨櫃倉庫鑰匙"
+    "zh-TW": "太空港貨櫃儲藏庫鑰匙"
   },
   "description": {
     "da": "En nøgle til containeropbevaringen ved rumhavnen.",
@@ -50,7 +50,7 @@
   "weightKg": 0.25,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/v2/spaceport_container_storage_key.png",
-  "updatedAt": "11/08/2025",
+  "updatedAt": "06/30/2026",
   "_note": "not_in_serverslam",
   "addedIn": "base"
 }

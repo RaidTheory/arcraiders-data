@@ -12,14 +12,14 @@
     "ja": "ワスプドライバー",
     "ko-KR": "와스프 드라이버",
     "no": "Vepsdriver",
-    "pl": "Napęd osy",
+    "pl": "Sterownik osy",
     "pt": "Propulsor de vespa",
-    "pt-BR": "Propulsor de Vespa",
-    "ru": "Драйвер Осы",
+    "pt-BR": "Driver de Vespa",
+    "ru": "Драйвер «Осы»",
     "sr": "Osinjak",
     "tr": "Eşek Arısı Sürücüsü",
     "uk": "Осиний драйвер",
-    "zh-CN": "黄蜂引擎",
+    "zh-CN": "“黄蜂”引擎",
     "zh-TW": "黃蜂驅動器"
   },
   "description": {
@@ -105,7 +105,7 @@
     "arc_alloy": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/wasp_driver.png",
-  "updatedAt": "04/28/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base",
   "tip": "The Wasp Driver is a rare item is dropped by Wasps that can be recycled into crafting materials."
 }

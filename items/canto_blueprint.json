@@ -2,25 +2,25 @@
   "id": "canto_blueprint",
   "name": {
     "da": "Canto Tegning",
-    "de": "Canto Bauplan",
+    "de": "Bauplan: Canto",
     "en": "Canto Blueprint",
-    "es": "Canto Plano",
-    "fr": "Canto Plan",
+    "es": "Proyecto del Canto",
+    "fr": "Schéma de Canto",
     "he": "Canto תרשים",
     "hr": "Canto Nacrt",
-    "it": "Canto Progetto",
-    "ja": "Canto 設計図",
+    "it": "Progetto Canto",
+    "ja": "カントの設計図",
     "ko-KR": "칸토 설계도",
     "no": "Canto Tegning",
-    "pl": "Canto Schemat",
+    "pl": "Plan: Canto",
     "pt": "Esquema de Canto",
     "pt-BR": "Esquema de Canto",
-    "ru": "Canto Чертеж",
+    "ru": "Чертеж — Канто",
     "sr": "Canto Nacrt",
-    "tr": "Canto Taslak",
+    "tr": "Canto Taslağı",
     "uk": "Canto Креслення",
     "zh-CN": "颂歌蓝图",
-    "zh-TW": "Canto 藍圖"
+    "zh-TW": "頌歌藍圖"
   },
   "description": {
     "da": "Fuldautomatisk maskinpistol med en større kaliber.",
@@ -50,6 +50,6 @@
   "weightKg": 0,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/v2/canto_blueprint.png",
-  "updatedAt": "03/31/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "1.22"
 }

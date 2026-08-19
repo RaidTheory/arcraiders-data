@@ -10,17 +10,17 @@
     "hr": "Energetski Kabel",
     "it": "Cavo di alimentazione",
     "ja": "電力ケーブル",
-    "ko-KR": "전력 케이블",
+    "ko-KR": "전원 케이블",
     "no": "Strømkabel",
-    "pl": "Kabel zasilający",
+    "pl": "Kabel zasilania",
     "pt": "Cabo de alimentação",
-    "pt-BR": "Cabo de Alimentação",
+    "pt-BR": "Cabo de Força",
     "ru": "Кабель питания",
     "sr": "Energetski Kabl",
     "tr": "Güç Kablosu",
     "uk": "Силовий кабель",
     "zh-CN": "输电线",
-    "zh-TW": "電力電纜"
+    "zh-TW": "電源線"
   },
   "description": {
     "da": "Et kraftigt kabel brugt til at transmittere elektrisk strøm.",
@@ -57,6 +57,6 @@
     "wires": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/power_cable.png",
-  "updatedAt": "01/13/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

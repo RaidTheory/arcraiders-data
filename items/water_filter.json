@@ -8,19 +8,19 @@
     "fr": "Filtre à Eau",
     "he": "מסנן מים",
     "hr": "Filter za Vodu",
-    "it": "Filtro per l'acqua",
+    "it": "Filtro dell'acqua",
     "ja": "浄水器",
     "ko-KR": "물 필터",
     "no": "Vannfilter",
-    "pl": "Filtr do wody",
+    "pl": "Filtr wody",
     "pt": "Filtro de água",
-    "pt-BR": "Filtro de Água",
-    "ru": "Водяной фильтр",
+    "pt-BR": "Filtro d’Água",
+    "ru": "Фильтр для воды",
     "sr": "Filter za Vodu",
     "tr": "Su Filtresi",
     "uk": "Водяний фільтр",
     "zh-CN": "滤水器",
-    "zh-TW": "濾水器"
+    "zh-TW": "淨水器"
   },
   "description": {
     "da": "En bærbar filtreringsenhed til rensning af vand.",
@@ -58,6 +58,6 @@
     "canister": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/water_filter.png",
-  "updatedAt": "11/1/2025",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

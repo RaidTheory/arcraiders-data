@@ -2,25 +2,25 @@
   "id": "official_shutdown_documentation",
   "name": {
     "da": "Officiel dokumentation om nedlukning",
-    "de": "Offizielle Stilllegungsdokumentation",
+    "de": "Offizielle Abschaltungsdokumentation",
     "en": "Official Shutdown Documentation",
-    "es": "Documentación oficial de cierre",
-    "fr": "Documentation officielle de fermeture",
+    "es": "Documentos de cancelación oficiales",
+    "fr": "Documentation officielle d'arrêt",
     "he": "תיעוד השבתה רשמי",
     "hr": "Službena dokumentacija o gašenju",
-    "it": "Documentazione ufficiale di spegnimento",
-    "ja": "公式な閉鎖ドキュメント",
-    "ko-KR": "공식 폐쇄 문서",
+    "it": "Documentazione ufficiale sulla chiusura",
+    "ja": "プロジェクト閉鎖の公式文書",
+    "ko-KR": "공식 중단 문서",
     "no": "Offisiell nedstengingsdokumentasjon",
-    "pl": "Oficjalna dokumentacja zamknięcia",
+    "pl": "Dokumentacja dotycząca zamknięcia projektu",
     "pt": "Documentação oficial de encerramento",
     "pt-BR": "Documentação oficial de encerramento",
-    "ru": "Официальная документация о прекращении работы",
+    "ru": "Официальная документация о закрытии проекта",
     "sr": "Službena dokumentacija o gašenju",
-    "tr": "Resmî Kapatma Belgeleri",
+    "tr": "Resmî Kapanış Belgeleri",
     "uk": "Офіційна документація про припинення роботи",
     "zh-CN": "官方关停文件",
-    "zh-TW": "官方關閉文件"
+    "zh-TW": "有關計畫終止的官方文件"
   },
   "description": {
     "da": "",
@@ -51,6 +51,6 @@
   "stackSize": 1,
   "questItem": true,
   "imageFilename": "https://cdn.arctracker.io/items/v2/official_shutdown_documentation.png",
-  "updatedAt": "04/14/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "1.22"
 }

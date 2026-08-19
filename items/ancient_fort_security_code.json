@@ -2,25 +2,25 @@
   "id": "ancient_fort_security_code",
   "name": {
     "da": "Ancient Fort sikkerhedskode",
-    "de": "Ancient Fort Sicherheitscode",
+    "de": "Sicherheitscode der Antiken Festung",
     "en": "Ancient Fort Security Code",
-    "es": "Código de seguridad de Ancient Fort",
-    "fr": "Code de sécurité de Ancient Fort",
+    "es": "Código de seguridad del fuerte antiguo",
+    "fr": "Code de sécurité du Fort antique",
     "he": "קוד אבטחה של המבצר העתיק",
     "hr": "Sigurnosni kod Ancient Forta",
-    "it": "Codice di sicurezza di Ancient Fort",
-    "ja": "エンシェント・フォート・セキュリティコード",
+    "it": "Codice di sicurezza dell'Antica fortezza",
+    "ja": "セキュリティコード（大昔の砦）",
     "ko-KR": "고대 요새 보안 코드",
     "no": "Ancient Fort sikkerhetskode",
-    "pl": "Kod bezpieczeństwa Ancient Fort",
+    "pl": "Kod bezpieczeństwa do starożytnego fortu",
     "pt": "Código de Segurança de Ancient Fort",
-    "pt-BR": "Código de Segurança de Ancient Fort",
+    "pt-BR": "Código de Segurança do Antigo Forte",
     "ru": "Код безопасности Древнего Форта",
     "sr": "Bezbednosni kod Ancient Forta",
-    "tr": "Antik Kale Güvenlik Kodu",
+    "tr": "Kadim Kale Güvenlik Kodu",
     "uk": "Код безпеки Стародавнього Форту",
-    "zh-CN": "古堡安全密码",
-    "zh-TW": "古堡安全密碼"
+    "zh-CN": "古代要塞安全码",
+    "zh-TW": "古代堡壘安全代碼"
   },
   "description": {
     "da": "En af fire sikkerhedskoder, der er nødvendige for at låse op for den låste port på Blue Gate. Findes ved Ancient Fort.",
@@ -50,6 +50,6 @@
   "weightKg": 0.25,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/v2/ancient_fort_security_code.png",
-  "updatedAt": "02/06/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

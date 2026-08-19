@@ -9,7 +9,7 @@
     "he": "קת יציבה I",
     "hr": "Stabilna Kundak I",
     "it": "Calcio stabile I",
-    "ja": "ステイブル・ストック I",
+    "ja": "ステイブル・ストックI",
     "ko-KR": "안정형 개머리판 I",
     "no": "Stabil kolbe I",
     "pl": "Stabilna kolba I",
@@ -20,29 +20,29 @@
     "tr": "Dengeli Dipçik I",
     "uk": "Стабільний приклад I",
     "zh-CN": "稳定枪托 I",
-    "zh-TW": "穩定槍托 I"
+    "zh-TW": "穩定槍托I"
   },
   "description": {
     "da": "Forbedrer lidt spredning og rekylgendannelsestid.",
     "de": "Verringert die Zeit, in der du dich von Streuung und Rückstoß erholst, geringfügig.",
     "en": "Slightly improves dispersion & recoil recovery time.",
-    "es": "Mejora ligeramente la dispersión y el tiempo de recuperación del retroceso.",
-    "fr": "Améliore légèrement la dispersion et le temps de récupération du recul.",
+    "es": "Aumenta ligeramente la dispersión y el tiempo de recuperación del retroceso.",
+    "fr": "Réduit légèrement la dispersion et le temps de récupération du recul.",
     "he": "משפרת קלות את הפיזור ואת זמן ההתאוששות מהרתע.",
     "hr": "Blago poboljšava raspršenje i vrijeme oporavka trzaja.",
-    "it": "Migliora leggermente la dispersione e il tempo di recupero del rinculo.",
-    "ja": "拡散と反動の回復時間をわずかに改善する。",
-    "ko-KR": "분산도 및 반동 회복 시간을 약간 개선합니다.",
+    "it": "Migliora leggermente il tempo di recupero della dispersione e del rinculo.",
+    "ja": "分散性と反動回復時間が少し改善する。",
+    "ko-KR": "탄 퍼짐 및 반동 회복 시간을 약간 개선합니다.",
     "no": "Forbedrer litt spredning og rekylgjenopprettingstid.",
-    "pl": "Nieznacznie poprawia rozrzut i czas powrotu z odrzutu.",
+    "pl": "Nieznacznie skraca czas stabilizacji broni po wystąpieniu efektów rozrzutu i odrzutu.",
     "pt": "Melhora ligeiramente a dispersão e o tempo de recuperação do recuo.",
-    "pt-BR": "Melhora de maneira sutil a dispersão e o tempo de recuperação do recuo. Compatível com: Arpeggio, Bettina, Ferro, Renegado, Torrente.",
-    "ru": "Немного улучшает время восстановления разброса и отдачи.",
+    "pt-BR": "Melhora de maneira sutil a dispersão e o tempo de recuperação do recuo.",
+    "ru": "Немного улучшает разброс и время восстановления отдачи.",
     "sr": "Blago poboljšava rasipanje i vreme oporavka trzaja.",
-    "tr": "Dağılım ve geri tepme toparlanma süresini hafifçe iyileştirir.",
+    "tr": "Sapmaların ve geri tepmenin normale dönme süresini biraz azaltır.",
     "uk": "Трохи покращує час відновлення розкиду та віддачі.",
-    "zh-CN": "略微改善扩散度和后坐力恢复时间。",
-    "zh-TW": "略微改善擴散度和後座力恢復時間。"
+    "zh-CN": "小幅度缩短弹道散布和后坐力恢复时间。",
+    "zh-TW": "稍微改善分散程度和後座力的恢復時間。"
   },
   "type": "Modification",
   "rarity": "Common",
@@ -127,6 +127,6 @@
     "rubber_parts": 3
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/stable_stock_i.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

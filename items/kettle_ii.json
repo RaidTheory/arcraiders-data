@@ -12,7 +12,7 @@
     "ja": "ケトル II",
     "ko-KR": "케틀 II",
     "no": "Kettle II",
-    "pl": "Kettle II",
+    "pl": "Kociołek II",
     "pt": "Kettle II",
     "pt-BR": "Chaleira II",
     "ru": "Чайник II",
@@ -20,29 +20,29 @@
     "tr": "Isıtıcı II",
     "uk": "Чайник II",
     "zh-CN": "水壶 II",
-    "zh-TW": "水壺 II"
+    "zh-TW": "水壺II"
   },
   "description": {
     "da": "Halvautomatisk angrebsriffel. Hurtig og præcis, men har lav kugelhastighed og tager lang tid at genlade.",
     "de": "Es ist schnell und präzise, doch die Kugeln fliegen recht langsam und das Nachladen dauert lange.",
-    "en": "Semi-automatic assault rifle. Quick and accurate, but has low bullet velocity and takes a long time reload.",
-    "es": "Rifle de asalto semiautomático. Rápido y preciso, pero tiene baja velocidad de bala y tarda mucho en recargar.",
-    "fr": "Fusil d'assaut semi-automatique. Rapide et précis, mais a une faible vélocité des balles et prend beaucoup de temps à recharger.",
+    "en": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
+    "es": "Es rápido y preciso, pero cuenta con una velocidad de las balas baja y se tarda mucho en recargar.",
+    "fr": "Rapide et précis, mais la vitesse des balles est faible et son rechargement est long.",
     "he": "רובה סער חצי-אוטומטי. מהיר ומדויק, אך בעל מהירות קליע נמוכה וזמן טעינה ארוך.",
     "hr": "Poluautomatska jurišna puška. Brza i precizna, ali ima nisku brzinu metka i dugo traje punjenje.",
     "it": "È rapido e preciso, ma ha una velocità dei proiettili ridotta e richiede molto tempo per essere ricaricato.",
-    "ja": "セミオートマチックアサルトライフル。素早く正確だが、弾速が遅く、リロードに時間がかかる。",
-    "ko-KR": "반자동 돌격소총. 빠르고 정확하지만 탄속이 느리고 재장전 시간이 깁니다.",
+    "ja": "素早くて正確だが弾速は遅く、リロードに時間がかかる。",
+    "ko-KR": "빠르고 정확하게 발사하지만 탄속이 느리고 재장전 시간이 오래 걸립니다.",
     "no": "Halvautomatisk angrepsrifle. Rask og nøyaktig, men har lav kulehastighet og tar lang tid å lade.",
-    "pl": "Półautomatyczny karabin szturmowy. Szybki i celny, ale ma niską prędkość pocisku i długi czas przeładowania.",
+    "pl": "Szybka i celna broń, ale wystrzeliwuje pociski z małą prędkością, a przeładowywanie jej zajmuje dużo czasu.",
     "pt": "Rifle de assalto semiautomático. Rápido e preciso, mas tem baixa velocidade de bala e demora muito para recarregar.",
     "pt-BR": "Veloz e preciso, mas tem baixa velocidade de projétil e demora muito tempo para recarregar.",
-    "ru": "Полуавтоматическая штурмовая винтовка. Быстрая и точная, но имеет низкую скорость пули и долго перезаряжается.",
+    "ru": "Быстрая и точная, но отличается низкой скоростью пуль и требует много времени на перезарядку.",
     "sr": "Poluautomatska jurišna puška. Brza i precizna, ali ima nisku brzinu metka i dugo traje punjenje.",
-    "tr": "Yarı otomatik saldırı tüfeği. Hızlı ve isabetli, ancak düşük mermi hızına sahip ve yeniden doldurması uzun sürer.",
+    "tr": "Hızlı ve isabetlidir ancak mermi hızı düşük ve yeniden doldurma süresi uzundur.",
     "uk": "Напівавтоматична штурмова гвинтівка. Швидка і точна, але має низьку швидкість кулі та довго перезаряджається.",
-    "zh-CN": "半自动突击步枪。快速且精准，但子弹速度较慢且装填时间较长。",
-    "zh-TW": "半自動突擊步槍。快速且精準，但子彈速度較慢且裝填時間較長。"
+    "zh-CN": "射速快，精准度高，但子弹初速较低，且装弹时间长。",
+    "zh-TW": "快速而準確，但子彈速度較低且裝填時間較長。"
   },
   "type": "Assault Rifle",
   "rarity": "Common",
@@ -63,7 +63,7 @@
     "plastic_parts": 10
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/kettle_ii.png",
-  "updatedAt": "03/17/2026",
+  "updatedAt": "07/26/2026",
   "addedIn": "base",
   "modSlots": {
     "grip": [

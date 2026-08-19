@@ -20,29 +20,29 @@
     "tr": "Ferro III",
     "uk": "Ferro III",
     "zh-CN": "生铁 III",
-    "zh-TW": "Ferro III"
+    "zh-TW": "鐵桿III"
   },
   "description": {
     "da": "Slår hårdt, men skal genoplades mellem hvert skud.",
     "de": "Gute Durchschlagskraft, muss aber nach jedem Schuss nachgeladen werden.",
     "en": "Packs a punch, but must be reloaded between every shot.",
-    "es": "Golpea fuerte, pero debe recargarse entre cada disparo.",
-    "fr": "Frappe fort, mais doit être rechargé entre chaque tir.",
+    "es": "Es tremendamente potente, pero hay que recargarlo tras cada disparo.",
+    "fr": "Redoutable, mais doit être rechargé entre chaque tir.",
     "he": "עוצמתי במיוחד, אך דורש טעינה מחדש בין כל ירייה.",
     "hr": "Zadaje snažan udarac, ali se mora puniti između svakog hica.",
-    "it": "Colpisce duro, ma deve essere ricaricato tra ogni colpo.",
-    "ja": "強力な一撃を放つが、毎回リロードが必要です。",
-    "ko-KR": "강력한 한 방을 날리지만, 매 발사마다 재장전이 필요합니다.",
+    "it": "È potente, ma deve essere ricaricato tra un colpo e l'altro.",
+    "ja": "威力は高いが、一発ごとに弾を込めなければならない。",
+    "ko-KR": "강력한 위력을 뽐내지만 발사할 때마다 재장전해야 합니다.",
     "no": "Slår hardt, men må lades mellom hvert skudd.",
-    "pl": "Ma mocny cios, ale musi być przeładowywany po każdym strzale.",
+    "pl": "Ma dużego kopa, ale wymaga przeładowania po każdym strzale.",
     "pt": "Dá um soco forte, mas deve ser recarregado entre cada tiro.",
     "pt-BR": "Tem forte impacto, mas precisa ser recarregado após cada disparo.",
-    "ru": "Наносит мощный удар, но требует перезарядки после каждого выстрела.",
+    "ru": "Мощное оружие, но требуется перезаряжать перед каждым выстрелом.",
     "sr": "Zadaje snažan udarac, ali mora da se punjenje između svakog hica.",
-    "tr": "Güçlü bir darbe indirir, ancak her atıştan sonra yeniden doldurulmalıdır.",
+    "tr": "Büyük hasar verir ancak her atış sonrası yeniden doldurulması gerekir.",
     "uk": "Завдає потужного удару, але потребує перезарядки після кожного пострілу.",
-    "zh-CN": "威力强大，但每次射击后都必须重新装填。",
-    "zh-TW": "威力強大，但每次射擊後都必須重新裝填。"
+    "zh-CN": "威力十足，但每射击一次后都需要重新装填。",
+    "zh-TW": "威力強大，但每次射擊後都必須裝填。"
   },
   "type": "Battle Rifle",
   "rarity": "Common",
@@ -203,7 +203,7 @@
     "simple_gun_parts": 1
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/ferro_iii.png",
-  "updatedAt": "03/17/2026",
+  "updatedAt": "07/26/2026",
   "addedIn": "base",
   "modSlots": {
     "grip": [

@@ -2,25 +2,25 @@
   "id": "fossilized_lightning",
   "name": {
     "da": "Fossiliseret lyn",
-    "de": "Versteinerter Blitz",
+    "de": "Fossilisierter Blitz",
     "en": "Fossilized Lightning",
-    "es": "Rayo fosilizado",
+    "es": "Fulgurita",
     "fr": "Foudre Fossilisée",
     "he": "ברק מאובן",
     "hr": "Fosilizirana munja",
     "it": "Fulmine fossilizzato",
-    "ja": "化石化した稲妻",
-    "ko-KR": "화석화된 번개",
+    "ja": "化石照明",
+    "ko-KR": "섬전암",
     "no": "Fossilisert lyn",
-    "pl": "Skamieniały piorun",
+    "pl": "Skamieniała błyskawica",
     "pt": "Relâmpago fossilizado",
     "pt-BR": "Relâmpago Fossilizado",
-    "ru": "Окаменевшая молния",
+    "ru": "Фульгурит",
     "sr": "Fosilizovana munja",
     "tr": "Fosilleşmiş Şimşek",
     "uk": "Скам'яніла блискавка",
     "zh-CN": "闪电管石",
-    "zh-TW": "化石閃電"
+    "zh-TW": "閃電熔岩"
   },
   "description": {
     "da": "En genstand, der har en chance for at dukke op efter lynnedslag.",
@@ -57,6 +57,6 @@
     "explosive_compound": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/fossilized_lightning.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

@@ -20,29 +20,29 @@
     "tr": "Torrente II",
     "uk": "Torrente II",
     "zh-CN": "奔流 II",
-    "zh-TW": "奔流 II"
+    "zh-TW": "奔流II"
   },
   "description": {
     "da": "Har en stor ammunitionskapacitet, men er kun præcis i hugsiddende stilling.",
-    "de": "Hat eine große Munitionskapazität, ist aber nur in der Hocke präzise.",
+    "de": "Hat eine große Munitionskapazität, zielt aber nur in geduckter Haltung präzise.",
     "en": "Has a large ammo capacity, but is only accurate while crouched.",
-    "es": "Tiene una gran capacidad de munición, pero solo es preciso agachado.",
-    "fr": "A une grande capacité de munitions, mais n'est précis qu'en position accroupie.",
+    "es": "Tiene una gran capacidad de munición, pero solo es precisa al disparar estando a gachas.",
+    "fr": "Grande capacité en munitions, mais précis uniquement en position accroupie.",
     "he": "בעל קיבולת תחמושת גדולה, אך מדויק רק במצב כריעה.",
     "hr": "Ima veliki kapacitet streljiva, ali je precizan samo dok ste čučeći.",
-    "it": "Ha una grande capacità di munizioni, ma è preciso solo quando accovacciato.",
-    "ja": "大容量の弾薬を持つが、しゃがんでいる時のみ正確。",
-    "ko-KR": "탄약 용량이 크지만 웅크리고 있을 때만 정확합니다.",
+    "it": "Ha un'ottima capienza in termini di munizioni, ma è precisa solo da abbassati.",
+    "ja": "弾薬容量の面では優秀だが、しゃがまないと正確な射撃ができない。",
+    "ko-KR": "대용량 탄창을 지녔지만, 웅크린 상태에서만 정확하게 발사할 수 있습니다.",
     "no": "Har stor ammunisjonskapasitet, men er bare nøyaktig når du sitter på huk.",
-    "pl": "Ma dużą pojemność amunicji, ale jest celny tylko w kucnięciu.",
+    "pl": "Ma dużą pojemność amunicji, ale żeby oddać celny strzał, trzeba kucnąć.",
     "pt": "Tem uma grande capacidade de munição, mas só é preciso agachado.",
-    "pt-BR": "Possui grande capacidade de munição, mas só é precisa ao agachar.",
-    "ru": "Имеет большую ёмкость магазина, но точен только в положении сидя.",
+    "pt-BR": "Tem grande capacidade de munição, mas é preciso se agachar para aumentar a precisão.",
+    "ru": "Имеет большой боезапас, но точен лишь при стрельбе в приседе.",
     "sr": "Ima veliki kapacitet municije, ali je precizan samo dok ste čučeći.",
     "tr": "Yüksek cephane kapasitesine sahiptir ancak sadece çömelmişken isabetlidir.",
     "uk": "Має великий запас боєприпасів, але точний лише присівши.",
-    "zh-CN": "拥有大容量弹药，但只有在蹲下时才准确。",
-    "zh-TW": "擁有大容量彈藥，但只有在蹲下時才準確。"
+    "zh-CN": "弹药携带量较大，但只有在蹲伏姿态时精准度才有保证。",
+    "zh-TW": "彈藥容量大，但只有蹲下時才能精準射擊。"
   },
   "type": "LMG",
   "rarity": "Rare",
@@ -203,7 +203,7 @@
     "medium_gun_parts": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/torrente_ii.png",
-  "updatedAt": "02/24/2026",
+  "updatedAt": "07/26/2026",
   "addedIn": "base",
   "modSlots": {
     "magazine": [

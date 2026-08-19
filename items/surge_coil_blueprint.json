@@ -2,25 +2,25 @@
   "id": "surge_coil_blueprint",
   "name": {
     "da": "Surge Coil Tegning",
-    "de": "Bauplan: Surge Coil",
+    "de": "Bauplan: Überspannungsspule",
     "en": "Surge Coil Blueprint",
-    "es": "Surge Coil Plano",
-    "fr": "Surge Coil Plan",
+    "es": "Proyecto de la bobina",
+    "fr": "Schéma de bobine de surtension",
     "he": "Surge Coil תרשים",
     "hr": "Surge Coil Nacrt",
-    "it": "Surge Coil Progetto",
-    "ja": "Surge Coil 設計図",
+    "it": "Schema bobina di sovratensione",
+    "ja": "サージコイルの設計図",
     "ko-KR": "서지 코일 설계도",
     "no": "Surge Coil Tegning",
-    "pl": "Surge Coil Schemat",
+    "pl": "Plan: Cewka przepięciowa",
     "pt": "Esquema de Surge Coil",
-    "pt-BR": "Esquema de Surge Coil",
-    "ru": "Surge Coil Чертеж",
+    "pt-BR": "Esquema de Bobina de Surto",
+    "ru": "Чертеж — Токовая катушка",
     "sr": "Surge Coil Nacrt",
-    "tr": "Surge Coil Taslak",
+    "tr": "Patlama Bobini Taslağı",
     "uk": "Surge Coil Креслення",
     "zh-CN": "涌能线圈蓝图",
-    "zh-TW": "Surge Coil 藍圖"
+    "zh-TW": "湧電線圈藍圖"
   },
   "description": {
     "da": "En deployerbar enhed, der periodisk elektrificerer området omkring sig selv og kortvarigt lammer alt, der fanges i det.",
@@ -50,6 +50,6 @@
   "weightKg": 0,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/v2/surge_coil_blueprint.png",
-  "updatedAt": "03/31/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "1.22"
 }

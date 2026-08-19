@@ -20,29 +20,29 @@
     "tr": "Kayısı",
     "uk": "Абрикос",
     "zh-CN": "杏子",
-    "zh-TW": "杏桃"
+    "zh-TW": "杏子"
   },
   "description": {
     "da": "En solmoden abrikos. Kan indtages for en lille mængde udholdenhed.",
     "de": "Eine sonnengereifte Aprikose. Kann zum Gewinn einer kleinen Menge Ausdauer verzehrt werden.",
     "en": "A sun ripe apricot. Can be consumed for a small amount of stamina.",
-    "es": "Un albaricoque maduro al sol. Puede consumirse para obtener una pequeña cantidad de resistencia.",
-    "fr": "Un abricot mûri au soleil. Peut être consommé pour une petite quantité d'endurance.",
+    "es": "Un albaricoque madurado al sol. Puede consumirse para recuperar un poco de aguante.",
+    "fr": "Un abricot mûr. Il peut être consommé pour récupérer une petite quantité d'endurance.",
     "he": "משמש שהבשיל בשמש. ניתן לאכילה עבור כמות קטנה של סיבולת.",
     "hr": "Suncem dozrela marelica. Može se konzumirati za malu količinu izdržljivosti.",
-    "it": "Un'albicocca maturata al sole. Può essere consumata per una piccola quantità di stamina.",
-    "ja": "太陽で熟したアプリコット。消費すると少量のスタミナを回復できる。",
-    "ko-KR": "햇볕에 익은 살구. 섭취하면 소량의 스태미나를 회복할 수 있습니다.",
+    "it": "Albicocca maturata al sole. Può essere consumata per recuperare una piccola quantità di energia.",
+    "ja": "日光を浴びて育ったアプリコット。食べるとスタミナが少し回復する。",
+    "ko-KR": "볕에 탐스럽게 익은 살구입니다. 섭취하면 기력이 약간 회복됩니다.",
     "no": "En solmoden aprikos. Kan konsumeres for en liten mengde utholdenhet.",
-    "pl": "Dojrzała na słońcu morela. Może być skonsumowana, aby odzyskać niewielką ilość wytrzymałości.",
+    "pl": "Dojrzała w słońcu morela. Można zjeść, aby odzyskać trochę wytrzymałości.",
     "pt": "Um damasco maduro ao sol. Pode ser consumido para obter uma pequena quantidade de stamina.",
     "pt-BR": "Um damasco maturado ao sol. Pode ser consumido para recuperar um pouco de vigor.",
-    "ru": "Спелый абрикос. Можно употребить для восстановления небольшого количества выносливости.",
+    "ru": "Спелый абрикос. Восстанавливает немного выносливости.",
     "sr": "Suncem dozrela kajsija. Može se konzumirati za malu količinu izdržljivosti.",
-    "tr": "Güneşte olgunlaşmış bir kayısı. Küçük miktarda dayanıklılık için tüketilebilir.",
+    "tr": "Güneşte olgunlaşmış bir kayısı. Az bir miktarda enerji yenilemek için tüketilebilir.",
     "uk": "Стиглий абрикос. Можна вжити для відновлення невеликої кількості витривалості.",
     "zh-CN": "在阳光下自然成熟的杏子。食用后可恢复少量耐力。",
-    "zh-TW": "陽光成熟的杏桃。可食用以恢復少量耐力。"
+    "zh-TW": "陽光下成熟的杏子。食用後可恢復少量體力。"
   },
   "type": "Nature",
   "rarity": "Uncommon",
@@ -105,6 +105,6 @@
     "assorted_seeds": 2
   },
   "imageFilename": "https://cdn.arctracker.io/items/v2/apricot.png",
-  "updatedAt": "01/13/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

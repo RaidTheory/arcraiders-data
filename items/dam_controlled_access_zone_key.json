@@ -2,25 +2,26 @@
   "id": "dam_controlled_access_zone_key",
   "name": {
     "da": "Nøgle til dæmningens kontrollerede adgangszone",
-    "de": "Schlüssel zur Damm-Sperrzone",
+    "de": "Schlüssel zur kontrollierten Zugangszone des Damms",
     "en": "Dam Controlled Access Zone Key",
-    "es": "Llave de la Zona de Acceso Controlado de la Presa",
-    "fr": "Clé de la zone d'accès contrôlé du Barrage",
+    "es": "Llave de la zona de acceso controlada de la Presa",
+    "fr": "Clé de la Zone à accès restreint du Barrage",
     "he": "מפתח אזור גישה מבוקרת בסכר",
     "hr": "Ključ zone kontroliranog pristupa na Brani",
-    "it": "Chiave zona ad accesso controllato della Diga",
-    "ja": "ダム管理区域の鍵",
+    "it": "Chiave Zona ad accesso riservato Diga",
+    "ja": "ダム戦場の立ち入り制限区域の鍵",
+    "ko-KR": "댐 출입 통제 구역 열쇠",
     "kr": "댐 통제 구역 열쇠",
     "no": "Nøkkel til kontrollert adgangssone på demningen",
-    "pl": "Klucz do strefy kontrolowanego dostępu na Tamie",
+    "pl": "Klucz do strefy kontrolowanego dostępu na terenie Zapory.",
     "pt": "Chave da Zona de Acesso Controlado da Represa",
-    "pt-BR": "Chave da Zona de Acesso Controlado da Represa",
-    "ru": "Ключ от зоны ограниченного доступа на Дамбе",
+    "pt-BR": "Chave de Acesso à Zona Controlada da Represa",
+    "ru": "Ключ от зоны ограниченного доступа у дамбы",
     "sr": "Ključ Zone kontrolisanog pristupa na brani",
     "tr": "Baraj Kontrollü Erişim Bölgesi Anahtarı",
     "uk": "Ключ від Зони контрольованого доступу на Дамбі",
     "zh-CN": "大坝受控访问区钥匙",
-    "zh-TW": "水壩管制區鑰匙"
+    "zh-TW": "大壩控制存取區鑰匙"
   },
   "description": {
     "da": "Låser op for en dør til den kontrollerede adgangszone på Dam Battlegrounds.",
@@ -48,6 +49,8 @@
   "rarity": "Rare",
   "value": 100,
   "weightKg": 0.25,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/v2/dam_controlled_access_zone_key.png",
-  "updatedAt": "02/24/2026"
+  "updatedAt": "07/26/2026",
+  "addedIn": "1.17"
 }

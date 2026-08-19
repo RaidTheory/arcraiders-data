@@ -2,25 +2,25 @@
   "id": "blue_gate_cellar_key",
   "name": {
     "da": "Blå port kælder-nøgle",
-    "de": "Blauer Tor Kellerschlüssel",
+    "de": "Kellerschlüssel (Blaues Tor)",
     "en": "Blue Gate Cellar Key",
-    "es": "Llave del sótano de la puerta azul",
-    "fr": "Clé de la cave de la porte bleue",
+    "es": "Llave del sótano de Puerta azul",
+    "fr": "Clé de la cave du Portail bleu",
     "he": "מפתח מרתף השער הכחול",
     "hr": "Ključ podruma plavog portala",
-    "it": "Chiave della cantina del cancello blu",
+    "it": "Chiave Cantina del Varco blu",
     "ja": "ブルーゲートの地下の鍵",
-    "ko-KR": "파란 문 지하실 열쇠",
+    "ko-KR": "블루 게이트 지하실 열쇠",
     "no": "Blå port kjellernøkkel",
-    "pl": "Klucz do piwnicy Niebieskiej Bramy",
+    "pl": "Klucz do piwnicy Błękitnej Bramy",
     "pt": "Chave da adega do portão azul",
     "pt-BR": "Chave do Porão do Portão Azul",
-    "ru": "Ключ от подвала Синих Врат",
+    "ru": "Ключ от погреба у Синих ворот",
     "sr": "Ključ podruma plavog portala",
     "tr": "Mavi Kapı Bodrum Anahtarı",
     "uk": "Ключ від підвалу Синіх Воріт",
     "zh-CN": "蓝门地窖钥匙",
-    "zh-TW": "藍門地窖鑰匙"
+    "zh-TW": "藍色大門地下室鑰匙"
   },
   "description": {
     "da": "En nøgle til kælderen i Blå port.",
@@ -50,6 +50,6 @@
   "weightKg": 0.25,
   "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/v2/blue_gate_cellar_key.png",
-  "updatedAt": "12/07/2025",
+  "updatedAt": "06/30/2026",
   "addedIn": "base"
 }

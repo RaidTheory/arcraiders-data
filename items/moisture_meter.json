@@ -5,22 +5,22 @@
     "de": "Feuchtigkeitsmesser",
     "en": "Moisture Meter",
     "es": "Medidor de humedad",
-    "fr": "Humidimètre",
+    "fr": "Testeur d'humidité",
     "he": "מד לחות",
     "hr": "Mjerač vlage",
     "it": "Misuratore di umidità",
     "ja": "水分計",
     "ko-KR": "수분 측정기",
     "no": "Fuktighetsmåler",
-    "pl": "Miernik wilgotności",
+    "pl": "Wilgotnościomierz",
     "pt": "Medidor de humidade",
     "pt-BR": "Medidor de Umidade",
     "ru": "Измеритель влажности",
     "sr": "Merač vlage",
     "tr": "Nem Ölçer",
     "uk": "Вимірювач вологості",
-    "zh-CN": "湿度计",
-    "zh-TW": "濕度計"
+    "zh-CN": "水分测量仪",
+    "zh-TW": "濕度測定儀"
   },
   "description": {
     "da": "En kvæstgenstand, der skal leveres til Tian Wen for at fuldføre kvasten Uventet initiativ.",
@@ -51,6 +51,6 @@
   "stackSize": 1,
   "questItem": true,
   "imageFilename": "https://cdn.arctracker.io/items/v2/moisture_meter.png",
-  "updatedAt": "04/14/2026",
+  "updatedAt": "06/30/2026",
   "addedIn": "1.7"
 }
