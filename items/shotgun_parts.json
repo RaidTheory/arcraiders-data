@@ -1,0 +1,36 @@
+{
+  "id": "shotgun_parts",
+  "name": {
+    "de": "Schrotflintenteile",
+    "en": "Shotgun Parts",
+    "es": "Piezas de escopeta",
+    "fr": "Pièces de fusil à pompe",
+    "it": "Parti di fucile",
+    "ja": "ショットガンのパーツ",
+    "ko-KR": "산탄총 부품",
+    "pl": "Elementy strzelby",
+    "pt-BR": "Peças de Escopeta",
+    "ru": "Детали для дробовика",
+    "tr": "Av Tüfeği Parçaları",
+    "zh-CN": "霰弹枪零件",
+    "zh-TW": "霰彈槍零件"
+  },
+  "description": {
+    "de": "Hier ist wohl keine Erklärung nötig.",
+    "en": "This one should be obvious.",
+    "es": "El nombre no deja lugar a duda.",
+    "fr": "Aucune description ne semble nécessaire dans ce cas.",
+    "it": "Questa è ovvia.",
+    "ja": "一目瞭然だ。",
+    "ko-KR": "어디에 쓰이는지는 딱 봐도 너무 명확합니다.",
+    "pl": "Chyba wiesz, co z tym zrobić.",
+    "pt-BR": "Isso daqui é bem óbvio.",
+    "ru": "Тут и так все понятно.",
+    "tr": "Açıklamaya gerek duyulmamalı.",
+    "zh-CN": "这个应该挺明显的吧，就不介绍了。",
+    "zh-TW": "這個的用途應該顯而易見。"
+  },
+  "type": "Topside Material",
+  "rarity": "Rare",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/shotgun_parts.png"
+}

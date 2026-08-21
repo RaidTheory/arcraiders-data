@@ -1,0 +1,36 @@
+{
+  "id": "blown_fuses",
+  "name": {
+    "de": "Durchgebrannte Sicherungen",
+    "en": "Blown Fuses",
+    "es": "Fusibles quemados",
+    "fr": "Fusibles grillés",
+    "it": "Fusibili bruciati",
+    "ja": "飛んだヒューズ",
+    "ko-KR": "끊어진 퓨즈",
+    "pl": "Przepalone bezpieczniki",
+    "pt-BR": "Fusíveis Estourados",
+    "ru": "Перегоревшие предохранители",
+    "tr": "Yanmış Sigortalar",
+    "zh-CN": "烧坏的保险丝",
+    "zh-TW": "熔斷的保險絲"
+  },
+  "description": {
+    "de": "Verkohlt und nutzlos. Das verbrannte Metall riecht schwach nach Apollos Werkstatt.",
+    "en": "Scorched and useless. The burnt metal smells faintly like Apollo's workshop.",
+    "es": "Calcinados e inservibles. El olor a metal quemado recuerda un poco al taller de Apollo.",
+    "fr": "Grillés et inutiles. L'odeur du métal brûlé rappelle l'atelier d'Apollo.",
+    "it": "Bruciati e inutili. Il metallo arso ricorda vagamente l'officina di Apollo.",
+    "ja": "焦げて使い物にならない。焼けた金属から、かすかにアポロの工房のような匂いがする。",
+    "ko-KR": "불에 타 쓸 수 없습니다. 금속의 탄내를 맡으니 희미하게 아폴로의 작업장이 떠오릅니다.",
+    "pl": "Spalone i bezużyteczne. Zapach zwęglonego metalu przywodzi na myśl warsztat Apolla.",
+    "pt-BR": "Chamuscado e inútil. O metal queimado tem um cheiro parecido com a oficina de Apollo.",
+    "ru": "Перегоревшие — толку от них мало. Вонь от жженого металла напоминает запах, царящий в мастерской Аполлона.",
+    "tr": "Kavrulmuş ve işe yaramaz. Yanmış metalin kokusu hafiften Apollo'nun atölyesini andırıyor.",
+    "zh-CN": "看上去乌漆墨黑的，显然已经不能用了。烧焦金属件的气味隐约有点像阿波罗的工作间里的味道。",
+    "zh-TW": "燒得焦黑，無法使用。燒焦的金屬散發的氣味有點像阿波羅的工坊。"
+  },
+  "type": "Trinket",
+  "rarity": "Common",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/blown_fuses.png"
+}

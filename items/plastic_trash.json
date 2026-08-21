@@ -1,0 +1,36 @@
+{
+  "id": "plastic_trash",
+  "name": {
+    "de": "Plastikmüll",
+    "en": "Plastic Trash",
+    "es": "Basura de plástico",
+    "fr": "Déchets plastiques",
+    "it": "Rifiuti plastici",
+    "ja": "プラスチックごみ",
+    "ko-KR": "플라스틱 쓰레기",
+    "pl": "Plastikowe odpady",
+    "pt-BR": "Lixo de Plástico",
+    "ru": "Пластиковые отходы",
+    "tr": "Plastik Çöp",
+    "zh-CN": "塑料垃圾",
+    "zh-TW": "塑膠垃圾"
+  },
+  "description": {
+    "de": "Kann zu Kunststoffteilen recycelt werden.",
+    "en": "Can be recycled into plastic parts.",
+    "es": "Se puede reciclar para obtener piezas de plástico.",
+    "fr": "Peut être recyclé en composants plastiques.",
+    "it": "Si può riciclare in componenti plastici.",
+    "ja": "リサイクルするとプラスチックパーツになる。",
+    "ko-KR": "플라스틱 부품으로 재활용할 수 있습니다.",
+    "pl": "Można wykorzystać ponownie do wytworzenia plastikowych części.",
+    "pt-BR": "Pode ser reciclado em peças de plástico.",
+    "ru": "Можно переработать, чтобы получить пластиковые детали.",
+    "tr": "Plastik parçalara geri dönüştürülebilir.",
+    "zh-CN": "可回收为塑料零件。",
+    "zh-TW": "可回收成塑膠零件。"
+  },
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/plastic_trash.png"
+}
