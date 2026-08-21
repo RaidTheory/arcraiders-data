@@ -1,0 +1,36 @@
+{
+  "id": "bent_clothes_hanger",
+  "name": {
+    "de": "Verbogener Kleiderbügel",
+    "en": "Bent Clothes Hanger",
+    "es": "Percha doblada",
+    "fr": "Cintre tordu",
+    "it": "Appendiabiti piegato",
+    "ja": "折れ曲がったハンガー",
+    "ko-KR": "구부러진 옷걸이",
+    "pl": "Pogięty wieszak na ubrania",
+    "pt-BR": "Cabide Torto",
+    "ru": "Изогнутая вешалка для одежды",
+    "tr": "Bükülmüş Giysi Askısı",
+    "zh-CN": "弯曲的衣架",
+    "zh-TW": "彎曲的衣架"
+  },
+  "description": {
+    "de": "Wenn du ein zusammengehörendes Set findest, hast du echt Glück.",
+    "en": "If you encounter a matching set, consider yourself lucky.",
+    "es": "Pocos son los afortunados que consiguen encontrar un conjunto a juego.",
+    "fr": "Si vous trouvez un ensemble assorti, vous avez de la chance.",
+    "it": "Se ti imbatti in un set coordinato, è il tuo giorno fortunato.",
+    "ja": "揃いのセットが見つかったらラッキーだ。",
+    "ko-KR": "여기에 어울리는 세트를 찾는다면 운이 좋은 겁니다.",
+    "pl": "Jeśli znajdziesz pasujący do siebie zestaw ubrań, to szczęście ci sprzyja.",
+    "pt-BR": "Se você encontrar um conjunto compatível, considere-se com sorte.",
+    "ru": "Может, получится собрать целый набор?",
+    "tr": "Eşleşen bir sete denk gelirsen şanslısın.",
+    "zh-CN": "要是你碰巧能找到和它配套的物件，那可就撞大运了。",
+    "zh-TW": "如果能遇到成套的搭配，那算你幸運。"
+  },
+  "type": "Trinket",
+  "rarity": "Common",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/bent_clothes_hanger.png"
+}

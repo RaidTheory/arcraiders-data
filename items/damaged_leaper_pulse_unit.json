@@ -1,0 +1,36 @@
+{
+  "id": "damaged_leaper_pulse_unit",
+  "name": {
+    "de": "Beschädigte Springer-Impulseinheit",
+    "en": "Damaged Leaper Pulse Unit",
+    "es": "Unidad de impulso de saltador dañada",
+    "fr": "Unité à impulsion de Bondisseur endommagée",
+    "it": "Unità a impulso Leaper danneggiata",
+    "ja": "傷んだリーパー・パルスユニット",
+    "ko-KR": "손상된 리퍼 펄스 유닛",
+    "pl": "Uszkodzony moduł impulsowy skoczka",
+    "pt-BR": "Unidade de Pulso de Saltador Danificada",
+    "ru": "Поврежденный импульсный блок «Прыгуна»",
+    "tr": "Hasarlı Sıçrayıcı Vurucu Birimi",
+    "zh-CN": "受损的“跳跃者”脉冲单元",
+    "zh-TW": "損壞的跳躍者脈衝單元"
+  },
+  "description": {
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
+    "en": "Can be recycled into crafting materials.",
+    "es": "Se puede reciclar para obtener materiales de fabricación.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "it": "Si può riciclare in materiali da creazione.",
+    "ja": "リサイクルすると製作用素材になる。",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
+    "pl": "Można wykorzystać ponownie do wytworzenia materiałów.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "ru": "Можно переработать, чтобы получить материалы.",
+    "tr": "Üretim materyallerine geri dönüştürülebilir.",
+    "zh-CN": "可回收为制作材料。",
+    "zh-TW": "可回收成製作材料。"
+  },
+  "type": "Recyclable",
+  "rarity": "Common",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/damaged_leaper_pulse_unit.png"
+}

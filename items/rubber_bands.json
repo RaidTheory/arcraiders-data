@@ -1,0 +1,36 @@
+{
+  "id": "rubber_bands",
+  "name": {
+    "de": "Gummibänder",
+    "en": "Rubber Bands",
+    "es": "Bandas elásticas",
+    "fr": "Élastiques",
+    "it": "Elastici di gomma",
+    "ja": "輪ゴム",
+    "ko-KR": "고무줄",
+    "pl": "Gumki recepturki",
+    "pt-BR": "Elásticos",
+    "ru": "Резинки",
+    "tr": "Kauçuk Şeritler",
+    "zh-CN": "橡皮筋",
+    "zh-TW": "橡皮圈"
+  },
+  "description": {
+    "de": "Kann zu Herstellungsmaterialien recycelt werden.",
+    "en": "Can be recycled into crafting materials.",
+    "es": "Se puede reciclar para obtener materiales de fabricación.",
+    "fr": "Peut être recyclé en matériaux d'artisanat.",
+    "it": "Si può riciclare in materiali da creazione.",
+    "ja": "リサイクルすると製作用素材になる。",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
+    "pl": "Można wykorzystać ponownie do wytworzenia materiałów.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "ru": "Можно переработать, чтобы получить материалы.",
+    "tr": "Üretim materyallerine geri dönüştürülebilir.",
+    "zh-CN": "可回收为制作材料。",
+    "zh-TW": "可回收成製作材料。"
+  },
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/rubber_bands.png"
+}
